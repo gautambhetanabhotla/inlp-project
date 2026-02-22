@@ -1,0 +1,95 @@
+% !TEX root = ./final.tex
+
+\documentclass[11pt]{article}
+
+% Change "review" to "final" to generate the final (sometimes called camera-ready) version.
+\usepackage[review]{acl}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{inconsolata}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\title{Similar Case Matching in Indian Legal Documents}
+
+\author{
+  Bibek Singh Dhody \\ 2023101054 \And
+  Gautam Bhetanabhotla \\ 2023101032 \And
+  Raghav Grover \\ 2023101102 \And
+  Sanyam Agrawal \\ 2023101038
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+The efficient retrieval of relevant legal precedents, known as Prior Case Retrieval (PCR), is a critical challenge in the Indian judiciary where case backlogs are growing exponentially. Existing methods often struggle with the noise and length of legal documents. In this project, we propose a novel retrieval framework that integrates Rhetorical Role (RR) segmentation with Statute-based graph modeling to enhance similar case matching. By decomposing documents into semantic units and leveraging citation networks, we aim to improve the precision of legal retrieval systems.
+\end{abstract}
+
+\section{Introduction and Motivation}
+
+The Indian legal system faces a massive backlog of cases, making the efficient retrieval of relevant precedents---Prior Case Retrieval (PCR)---a critical necessity. Legal professionals spend significant time searching for cases that share similar facts or legal principles with a query case. Traditional Information Retrieval (IR) methods like BM25 and modern transformer-based models like LegalBERT often fail to capture the nuanced "legal proximity" between cases. They typically treat legal judgments as monolithic blocks of text, which leads to poor performance due to the inherent length and noise (e.g., procedural details) in legal documents.
+
+Our objective is to advance the state-of-the-art in similar case matching by moving beyond simple lexical or semantic matching of full texts. We propose a system that emulates a legal expert's analysis: grounding retrieval in specific factual narratives and statutory authorities. By integrating semantic segmentation with knowledge graphs, we aim to filter out noise and enable targeted similarity matching, such as aligning a query's "Facts" with a candidate's "Facts" or comparing "Ratio" segments to identify shared legal principles.
+
+\section{Related Work}
+
+Current approaches to legal case retrieval roughly fall into lexical, semantic, and graph-based methods.
+
+\paragraph{Lexical and Semantic Models}
+Traditional models like BM25 rely on keyword matching, which is effective for exact matches but fails to capture semantic similarity or legal context. Transformer models like LegalBERT provide better semantic understanding but struggle with the long document length typical of Indian judgments (often exceeding the 512-token limit of BERT models). Recent advancements like U-CREAT \citep{joshi2023ucreat} have introduced event extraction to summarize factual narratives, attempting to condense the relevant information.
+
+\paragraph{Legal Knowledge Graphs}
+Graph-based approaches utilize the citation network structure of legal corpora. \citet{dhani2023similar} demonstrated the use of Legal Knowledge Graphs (LKGs) to recommend similar cases by leveraging direct citations. However, these systems often ignore the internal semantic structure of the document content.
+
+Our proposed work bridges this gap by combining the content-aware benefits of segmentation with the relational power of graph modeling.
+
+\section{Proposed Methodology}
+
+We propose a hybrid retrieval framework that integrates \textbf{Rhetorical Role (RR) segmentation} with \textbf{Statute-based Knowledge Graphs}.
+
+\subsection{Rhetorical Role Segmentation}
+We will decompose legal documents into semantically coherent units using Rhetorical Role labeling. Key segments include:
+\begin{itemize}
+    \item \textbf{Facts}: The events and circumstances leading to the dispute.
+    \item \textbf{Arguments}: Contentions raised by the petitioner and respondent.
+    \item \textbf{Ratio Decidendi}: The legal reasoning or principle applied by the judge.
+    \item \textbf{Statutes}: The specific laws and acts cited.
+\end{itemize}
+This segmentation allows us to perform granular comparisons. For instance, we can align the "Facts" of a query case directly with the "Facts" of candidate cases to assess factual similarity, independent of the legal outcome.
+
+\subsection{Knowledge Graph Construction}
+We will construct a heterogeneous graph where nodes represent \textit{Cases} and \textit{Statutes}. Edges will represent relationships such as:
+\begin{itemize}
+    \item \textit{Cited-By}: Case A cites Case B.
+    \item \textit{Refers-To}: Case A refers to Statute S.
+\end{itemize}
+Treating statutes as critical nodes allows us to bridge cases that may be lexically diverse but rely on the same legal authority.
+
+\subsection{Retrieval Mechanism}
+The final retrieval system will likely employ a dual-encoder architecture or a re-ranking mechanism. We will generate embeddings for the specific segments (Facts, Ratio) and combine these with graph embeddings or structural features derived from the Knowledge Graph to rank candidate cases.
+
+\section{Dataset}
+
+We will utilize the \textbf{Indian Legal Prior Case Retrieval (IL-PCR)} dataset and the \textbf{IL-TUR} dataset \citep{ilturdataset}. These datasets contain a comprehensive corpus of Indian legal judgments, along with relevance judgments for query cases. The IL-TUR dataset specifically provides pairs of cases labeled with relevance, enabling us to train and evaluate our matching algorithms effectively.
+
+\section{Evaluation Options}
+
+We will evaluate our system using standard Information Retrieval metrics to measure the quality of the ranked list of precedents:
+\begin{itemize}
+    \item \textbf{Precision@K}: To measure the proportion of relevant cases in the top $K$ results.
+    \item \textbf{Recall@K}: To measure how many of the total relevant cases were retrieved in the top $K$.
+    \item \textbf{Mean Average Precision (MAP)}: To assess the overall quality of the ranking.
+    \item \textbf{NDCG}: To account for the graded relevance of retrieved cases if applicable.
+\end{itemize}
+We plan to benchmark our method against strong baselines such as BM25, vanilla LegalBERT, and existing graph-based methods to demonstrate the efficacy of our granular, graph-augmented approach.
+
+\bibstyle{acl_natbib}
+\bibliography{custom}
+
+\end{document}

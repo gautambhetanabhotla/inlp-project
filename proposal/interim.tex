@@ -1,0 +1,51 @@
+% !TEX root = ./interim.tex
+
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+% The xurl package breaks long URLs anywhere to prevent 'Overfull \hbox' errors
+\usepackage{xurl}
+\usepackage[colorlinks=true, linkcolor=black, urlcolor=blue]{hyperref}
+
+\title{Similar Case Matching in Indian Legal Documents}
+
+\author{
+\begin{tabular}{cccc}
+Bibek Singh Dhody & Gautam Bhetanabhotla & Raghav Grover & Sanyam Agrawal \\
+2023101054        & 2023101032           & 2023101102    & 2023101038
+\end{tabular}
+}
+
+\begin{document}
+
+\maketitle
+
+\section*{Project Proposal}
+
+The efficient retrieval of relevant legal precedents, known as Prior Case Retrieval (PCR), is a critical challenge in the Indian judiciary where case backlogs are growing exponentially. Traditional methods like BM25 and LegalBERT often struggle with the inherent noise and length of legal judgements, failing to distinguish between crucial legal reasoning and irrelevant procedural details. While recent advancements like U-CREAT \cite{joshi2023ucreat} have introduced event extraction to summarize factual narratives, and Legal Knowledge Graphs (LKGs) \cite{dhani2023similar} have utilized citation networks, current systems typically treat documents as monolithic blocks of text. This isolation limits their ability to capture the specific ``legal proximity'' between cases that share statutory foundations or nuanced reasoning patterns.
+
+This project proposes to advance the state-of-the-art in similar case matching by developing a novel retrieval framework that integrates \textbf{Rhetorical Role (RR)} segmentation with \textbf{Statute-based} graph modeling. By decomposing legal documents into semantically coherent units---such as \textit{Facts}, \textit{Arguments}, \textit{Ratio}, and \textit{Statutes}---we aim to filter out noise and enable targeted similarity matching. This granular approach allows us to align a query case's ``Facts'' directly with candidate ``Facts'' for factual relevance, while comparing ``Ratio'' segments to identify shared legal principles. Furthermore, we will treat statutes not merely as text, but as critical nodes in a heterogeneous citation graph, utilizing the explicit connections between cases and the laws they cite to bridge the gap between lexically diverse but legally similar precedents.
+
+Our methodology will focus on constructing hybrid representations that combine this precise semantic segmentation with the relational power of knowledge graphs. We will utilize extensive corpora, such as the Indian Legal Prior Case Retrieval (IL-PCR) dataset \cite{joshi2023ucreat}, to benchmark our models. By moving beyond simple lexical matching to a system that emulates a legal expert's analysis---grounding retrieval in specific factual narratives and statutory authority---we aim to significantly enhance the precision and relevance of prior case retrieval systems.
+
+\begin{thebibliography}{9}
+
+\bibitem{joshi2023ucreat}
+Joshi, A., Modi, A., Sharma, A., \& Tanikella, S. K. (2023). 
+\textit{U-CREAT: Unsupervised Case Retrieval using Events extrAcTion}. 
+arXiv preprint arXiv:2307.05260. Available at: \url{https://arxiv.org/pdf/2307.05260}
+
+\bibitem{dhani2023similar}
+Dhani, J. S., Bhatt, R., Ganesan, B., Sirohi, P., \& Bhatnagar, V. (2023). 
+\textit{Similar Cases Recommendation using Legal Knowledge Graphs}. 
+In SAIL '23: 3rd Symposium on Artificial Intelligence and Law. arXiv:2107.04771. Available at: \url{https://arxiv.org/pdf/2107.04771v2}
+
+\bibitem{ilturdataset}
+Exploration Lab. (n.d.). \textit{IL-TUR Dataset}. Hugging Face Spaces. Available at: \url{https://huggingface.co/datasets/Exploration-Lab/IL-TUR}
+
+\end{thebibliography}
+
+\end{document}
