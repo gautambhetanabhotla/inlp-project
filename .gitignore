@@ -6,3 +6,12 @@
 *.out
 *.synctex.gz
 *.toc
+
+# Python
+__pycache__/
+
+.vscode/
+
+data/
+models/
+results/
