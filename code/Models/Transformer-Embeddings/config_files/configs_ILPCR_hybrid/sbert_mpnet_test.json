@@ -1,0 +1,10 @@
+{
+    "path_prior_cases"  : "../BM25/data/corpus/ik_test/candidate",
+    "path_current_cases": "../BM25/data/corpus/ik_test/query",
+    "true_labels_json"  : "../BM25/data/corpus/ik_test/test.json",
+    "checkpoint"        : "sentence-transformers/all-mpnet-base-v2",
+    "bm25_top_n"        : 100,
+    "bm25_n_gram"       : 1,
+    "alpha"             : 0.3,
+    "batch_size"        : 16
+}
