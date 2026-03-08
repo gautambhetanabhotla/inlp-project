@@ -1,0 +1,25 @@
+{
+    "sample_murder_dowry": [
+        "Section 302 in The Indian Penal Code",
+        "Section 304B in The Indian Penal Code",
+        "Section 498A in The Indian Penal Code"
+    ],
+    "sample_robbery_hurt": [
+        "Section 392 in The Indian Penal Code",
+        "Section 394 in The Indian Penal Code",
+        "Section 397 in The Indian Penal Code"
+    ],
+    "sample_cheating_forgery": [
+        "Section 415 in The Indian Penal Code",
+        "Section 420 in The Indian Penal Code",
+        "Section 467 in The Indian Penal Code",
+        "Section 468 in The Indian Penal Code",
+        "Section 471 in The Indian Penal Code"
+    ],
+    "sample_kidnapping_assault": [
+        "Section 363 in The Indian Penal Code",
+        "Section 366 in The Indian Penal Code",
+        "Section 366A in The Indian Penal Code",
+        "Section 376 in The Indian Penal Code"
+    ]
+}

@@ -1,0 +1,67 @@
+Using device: cpu
+
+Loading tokenizer from 'law-ai/InLegalBERT' …
+Loading base model from 'law-ai/InLegalBERT' …
+Loading weights from 'pytorch_model.bin' …
+
+Ignored unexpected keys: ['hier_encoder.bert_encoder.embeddings.position_ids']
+────────────────────────────────────────────────────────────
+Document : sample_murder_dowry
+Input    : 13 sentence(s)
+Predicted statutes:
+  [0.508]  Section 302 in The Indian Penal Code
+  [0.926]  Section 304B in The Indian Penal Code
+  [0.824]  Section 498A in The Indian Penal Code
+Top-5 predictions (by confidence):
+  [0.926]  Section 304B in The Indian Penal Code
+  [0.824]  Section 498A in The Indian Penal Code
+  [0.508]  Section 302 in The Indian Penal Code
+  [0.347]  Section 34 in The Indian Penal Code
+  [0.232]  Section 304 in The Indian Penal Code
+
+────────────────────────────────────────────────────────────
+Document : sample_robbery_hurt
+Input    : 13 sentence(s)
+Predicted statutes:
+  [0.806]  Section 392 in The Indian Penal Code
+  [0.988]  Section 394 in The Indian Penal Code
+  [0.943]  Section 397 in The Indian Penal Code
+Top-5 predictions (by confidence):
+  [0.988]  Section 394 in The Indian Penal Code
+  [0.943]  Section 397 in The Indian Penal Code
+  [0.806]  Section 392 in The Indian Penal Code
+  [0.450]  Section 34 in The Indian Penal Code
+  [0.324]  Section 302 in The Indian Penal Code
+
+────────────────────────────────────────────────────────────
+Document : sample_cheating_forgery
+Input    : 13 sentence(s)
+Predicted statutes:
+  [0.622]  Section 415 in The Indian Penal Code
+  [0.890]  Section 420 in The Indian Penal Code
+  [0.810]  Section 467 in The Indian Penal Code
+  [0.853]  Section 468 in The Indian Penal Code
+  [0.805]  Section 471 in The Indian Penal Code
+Top-5 predictions (by confidence):
+  [0.890]  Section 420 in The Indian Penal Code
+  [0.853]  Section 468 in The Indian Penal Code
+  [0.810]  Section 467 in The Indian Penal Code
+  [0.805]  Section 471 in The Indian Penal Code
+  [0.622]  Section 415 in The Indian Penal Code
+
+────────────────────────────────────────────────────────────
+Document : sample_kidnapping_assault
+Input    : 13 sentence(s)
+Predicted statutes:
+  [0.880]  Section 363 in The Indian Penal Code
+  [0.713]  Section 366 in The Indian Penal Code
+  [0.930]  Section 366A in The Indian Penal Code
+  [0.676]  Section 376 in The Indian Penal Code
+Top-5 predictions (by confidence):
+  [0.930]  Section 366A in The Indian Penal Code
+  [0.880]  Section 363 in The Indian Penal Code
+  [0.713]  Section 366 in The Indian Penal Code
+  [0.676]  Section 376 in The Indian Penal Code
+  [0.490]  Section 376(2) in The Indian Penal Code
+
+Predictions saved to 'ilsi-test-pred.json'
