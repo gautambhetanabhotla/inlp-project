@@ -18,7 +18,7 @@
 \usepackage{multirow}
 \usepackage{amsmath}
 
-\title{Prior Case Retrieval via Rhetorical Role Segmentation:\\Mid-Semester Progress Report}
+\title{Prior Case Retrieval via Rhetorical Role Segmentation\\Mid report}
 
 \author{
   Bibek Singh Dhody \\ 2023101054 \And
@@ -31,12 +31,12 @@
 \maketitle
 
 \begin{abstract}
-Prior Case Retrieval (PCR) is a critical task in legal information retrieval, requiring systems to identify relevant past cases given a query case document.
+As part of the IL-TUR (Indian legal test understanding and reasoning) benchmark for legal models, one such task is PCR (Prior Case Retrieval), where the goal is to retrieve relevant past cases given a query case document.
+The state-of-the-art approach for this task is U-CREAT \cite{joshi2023ucreat}, which uses event extraction to condense factual narratives and a citation graph to propagate relevance signals.
 Legal judgments are long and structurally heterogeneous, mixing facts, arguments, statutes, and procedural details.
 Traditional retrieval methods such as BM25 rely on lexical matching and are unable to distinguish legally salient content from noise.
 We propose a multi-stage retrieval pipeline that combines classical IR techniques, semantic embedding retrieval, and transformer-based rhetorical role segmentation to filter documents down to their most relevant sections---specifically \emph{Facts} and \emph{Ratio Decidendi}---before retrieval.
 In this mid-semester report, we present extensive baseline experiments covering BM25, TF-IDF, LSA, concept extraction, graph-ensemble, and graph-diffusion methods on the Indian Legal Prior Case Retrieval (IL-PCR) benchmark.
-We also report results from hybrid BM25+SBERT experiments, where chunked encoding achieves the best F1 of 19.63\% at $K{=}6$, a +7.73 percentage point improvement over the BM25 baseline.
 Additionally, we demonstrate a working rhetorical role prediction system and a legal statute identification model, both of which form components of our proposed pipeline.
 \end{abstract}
 
@@ -283,13 +283,9 @@ This model can be used to extract statute-level features for graph-based retriev
 
     \item \textbf{Raw text is competitive with preprocessed text} for TF-IDF retrieval, suggesting legal vocabulary is distinctive enough that standard NLP preprocessing adds minimal value.
 
-    \item \textbf{Graph-based methods underperform.} Both ensemble and diffusion approaches over regex-extracted legal entities introduce more noise than signal, indicating that sparse entity extraction is insufficient for building reliable citation graphs.
+    \item \textbf{Fine tuning reduces performance.} As per the IL-TUR leaderboard, we see that BERT performs \emph(better) than LegalBERT which in turn performs better than InLegalBERT. 
 
     \item \textbf{Chunking is essential for semantic models.} SBERT with 256-token chunks and 128-token stride achieves a +7.73pp gain over BM25, while full-document and top-512 truncation actually \emph{hurt} performance.
-
-    \item \textbf{InLegalBERT with naive truncation fails.} Legal judgments bury relevant content deep in the document; the first 512 tokens are often preamble, making top-512 encoding inadequate.
-
-    \item \textbf{Rhetorical role prediction works.} The MTL BiLSTM-CRF model produces coherent sentence-level labels, enabling downstream filtering of documents to their most relevant sections.
 \end{enumerate}
 
 %----------------------------------------------------------------------
@@ -310,6 +306,8 @@ The following tasks remain for the second half of the project:
     \item \textbf{Ablation studies}: Evaluate the contribution of each pipeline component (RR filtering, chunked SBERT, statute graph) in isolation and in combination.
 
     \item \textbf{Optional SBERT re-ranking}: Implement a two-stage pipeline where BM25 generates top-100 candidates and chunked SBERT re-ranks them, potentially combined with RR filtering.
+    
+    \item \textbf{Expanding RR labels}: We will evaluate the performance upon extracting more data from the RR predictions, not just facts and ratio decidendi.
 \end{enumerate}
 
 %----------------------------------------------------------------------
@@ -321,7 +319,12 @@ Our results establish that TF-IDF with bigrams is the strongest classical baseli
 We have also demonstrated working rhetorical role prediction and legal statute identification components.
 The remaining work focuses on integrating these components into a unified retrieval pipeline that filters documents by rhetorical role before applying semantic retrieval, which we expect will yield further improvements by eliminating irrelevant content from the matching process.
 
-\bibliographystyle{acl_natbib}
+\section{Links}
+\begin{itemize}
+    \item \textbf{Code repository}: \url{https://github.com/gautambhetanabhotla/inlp-project}
+    \item \textbf{Dataset}: \url{https://drive.google.com/drive/folders/1UoATAoSnTboJMztTN-EPHKorkYHpOV9x?usp=sharing}
+\end{itemize}
+
 \bibliography{custom}
 
 \end{document}
