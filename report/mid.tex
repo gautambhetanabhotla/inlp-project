@@ -1,1 +1,327 @@
-% !TEX root = ./interim.tex
+% !TEX root = ./mid.tex
+
+\documentclass[11pt]{article}
+
+% Change "final" to "review" to add line numbers for reviewing.
+\usepackage[final]{acl}
+
+% Standard package includes
+\usepackage{times}
+\usepackage{latexsym}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{microtype}
+\usepackage{inconsolata}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage{multirow}
+\usepackage{amsmath}
+
+\title{Prior Case Retrieval via Rhetorical Role Segmentation:\\Mid-Semester Progress Report}
+
+\author{
+  Bibek Singh Dhody \\ 2023101054 \And
+  Gautam Bhetanabhotla \\ 2023101032 \And
+  Raghav Grover \\ 2023101102 \And
+  Sanyam Agrawal \\ 2023101038
+}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Prior Case Retrieval (PCR) is a critical task in legal information retrieval, requiring systems to identify relevant past cases given a query case document.
+Legal judgments are long and structurally heterogeneous, mixing facts, arguments, statutes, and procedural details.
+Traditional retrieval methods such as BM25 rely on lexical matching and are unable to distinguish legally salient content from noise.
+We propose a multi-stage retrieval pipeline that combines classical IR techniques, semantic embedding retrieval, and transformer-based rhetorical role segmentation to filter documents down to their most relevant sections---specifically \emph{Facts} and \emph{Ratio Decidendi}---before retrieval.
+In this mid-semester report, we present extensive baseline experiments covering BM25, TF-IDF, LSA, concept extraction, graph-ensemble, and graph-diffusion methods on the Indian Legal Prior Case Retrieval (IL-PCR) benchmark.
+We also report results from hybrid BM25+SBERT experiments, where chunked encoding achieves the best F1 of 19.63\% at $K{=}6$, a +7.73 percentage point improvement over the BM25 baseline.
+Additionally, we demonstrate a working rhetorical role prediction system and a legal statute identification model, both of which form components of our proposed pipeline.
+\end{abstract}
+
+%----------------------------------------------------------------------
+\section{Introduction}
+%----------------------------------------------------------------------
+
+The Indian legal system faces an enormous backlog of pending cases, making the efficient retrieval of relevant precedents a practical necessity for legal professionals.
+Prior Case Retrieval (PCR) is the task of ranking a corpus of candidate legal documents by relevance to a given query case.
+Unlike standard document retrieval, legal PCR is challenging because: (i)~judgments are extremely long (often thousands of words), (ii)~they contain structurally diverse sections with varying degrees of relevance, and (iii)~precedent similarity depends on shared legal reasoning rather than shared vocabulary.
+
+Traditional IR methods such as BM25 treat documents as flat bags of words and struggle to distinguish legally salient content from procedural boilerplate.
+Transformer-based semantic models offer richer representations but are limited by fixed context windows (typically 512 tokens), which is far shorter than a typical Indian court judgment.
+
+To address these challenges, we propose a multi-stage retrieval pipeline that:
+\begin{enumerate}
+    \item Applies \textbf{rhetorical role segmentation} to decompose judgments into semantically coherent units (Facts, Arguments, Ratio, Statutes, Rulings).
+    \item Filters documents to retain only the most relevant sections (\emph{Facts} and \emph{Ratio Decidendi}) for retrieval.
+    \item Combines classical IR baselines (BM25, TF-IDF) with semantic re-ranking using sentence-transformer embeddings.
+\end{enumerate}
+
+Our dataset and benchmark tasks are derived from the IL-PCR (Indian Legal Prior Case Retrieval) dataset \cite{joshi2023ucreat} and the IL-TUR shared task.
+In this mid-semester report, we present the results of all completed baseline experiments, describe the rhetorical role prediction and statute identification components, and outline the remaining work.
+
+%----------------------------------------------------------------------
+\section{Related Work}
+%----------------------------------------------------------------------
+
+\paragraph{Lexical and Semantic Retrieval.}
+BM25 \cite{robertson2009bm25} remains a strong baseline in legal retrieval due to the distinctive vocabulary of legal texts.
+TF-IDF with cosine similarity offers competitive performance, especially when combined with bigram features.
+Latent Semantic Analysis (LSA) captures latent topic structure via truncated SVD, but its gains over direct TF-IDF are modest in legal corpora.
+Transformer-based models such as LegalBERT and InLegalBERT provide domain-specific representations but are constrained by the 512-token limit, requiring chunking strategies for long documents.
+
+\paragraph{Rhetorical Role Labeling.}
+Rhetorical role labeling (RRL) is the task of classifying each sentence in a legal judgment into a functional category such as \emph{Fact}, \emph{Argument}, \emph{Ratio}, \emph{Ruling}, or \emph{Precedent}.
+Prior work has used multi-task BiLSTM-CRF architectures with BERT embeddings to achieve coherent label sequences across documents.
+RRL has been applied in downstream tasks including judgment summarization and argument mining, but its use for PCR remains underexplored.
+
+\paragraph{Graph-Based and Hybrid Methods.}
+Citation graph approaches exploit the network structure of legal corpora, where cases cite prior cases and reference statutes.
+U-CREAT \cite{joshi2023ucreat} introduced event extraction to condense factual narratives for retrieval.
+Our work is inspired by U-CREAT but replaces event extraction with rhetorical role segmentation, which provides a more general and interpretable decomposition of legal documents.
+
+%----------------------------------------------------------------------
+\section{Dataset}
+%----------------------------------------------------------------------
+
+We use the \textbf{IL-PCR} dataset, which consists of Indian Supreme Court judgments organized as follows:
+\begin{itemize}
+    \item \textbf{Candidate cases}: A corpus of legal documents to be indexed and searched.
+    \item \textbf{Query cases} (\texttt{ik\_train}, \texttt{ik\_test}): Query documents with ground-truth relevance judgments indicating which candidate cases are relevant precedents.
+\end{itemize}
+
+Evaluation is performed at cutoffs $K \in \{1, 5, 10, 20\}$ using standard IR metrics: Precision@$K$, Recall@$K$, Micro-F1, Macro-F1, MAP, MRR, and NDCG@$K$.
+
+%----------------------------------------------------------------------
+\section{Baseline Experiments}
+%----------------------------------------------------------------------
+
+We conducted an extensive set of baseline experiments organized into six experimental blocks.
+All experiments were evaluated on the IL-PCR test set.
+Table~\ref{tab:baselines} summarizes the key results.
+
+\subsection{Block 1: Raw Text Retrieval}
+
+Three baselines use unprocessed document text directly:
+\begin{itemize}
+    \item \textbf{BM25} ($k_1{=}1.6$, $b{=}0.75$): Standard probabilistic retrieval.
+    \item \textbf{TF-IDF (unigram)}: Cosine similarity on unigram vectors.
+    \item \textbf{TF-IDF (uni+bi)}: Cosine similarity on unigram + bigram vectors.
+\end{itemize}
+
+TF-IDF consistently outperforms BM25 on this dataset.
+The best raw-text variant is \textbf{TF-IDF (uni+bi)}, achieving Micro-F1 of 0.349 at $K{=}10$ and MAP of 0.421.
+Adding bigrams provides a modest improvement, suggesting that short legal phrases carry meaningful signal.
+
+\subsection{Block 2: Standard Preprocessing}
+
+Documents are preprocessed with lowercasing, non-alphabetic removal, lemmatization, and stopword removal.
+We evaluate BM25 with three parameter settings, TF-IDF (uni+bi), and LSA with 100 and 200 latent dimensions.
+
+Key findings:
+\begin{itemize}
+    \item Preprocessing provides minimal benefit over raw text for TF-IDF, confirming that legal vocabulary is sufficiently distinctive.
+    \item \textbf{LSA-200} (MRR: 0.693, MAP: 0.405) slightly outperforms LSA-100, confirming that more latent dimensions better capture the semantic variety in legal text, but both fall short of direct TF-IDF.
+    \item BM25 with reduced length normalization ($b{=}0.5$) degrades performance significantly.
+\end{itemize}
+
+\subsection{Block 3: Concept Extraction}
+
+Documents are reduced to extracted legal concepts: citation patterns (e.g., ``2004 SCC 12''), statute references (e.g., ``Section 302''), act names, and POS-tagged nouns/verbs.
+TF-IDF on concept-only text achieves MAP of 0.407 and Micro-F1@10 of 0.335, competitive with full-text TF-IDF.
+This suggests that legal entities carry substantial retrieval signal.
+
+\subsection{Block 4: BM25 + Graph Ensemble}
+
+A hybrid ensemble combines BM25 scores with entity-graph scores computed via TF-IDF cosine similarity over regex-extracted legal named entities.
+Three weighting configurations were tested (BM25:Entity = 80:20, 60:40, 40:60).
+All variants underperform pure TF-IDF, with the best (80:20) achieving Micro-F1@10 of only 0.203.
+The sparse regex-based entity extraction introduces more noise than signal.
+
+\subsection{Block 5: Graph Diffusion Re-Ranking}
+
+Initial TF-IDF scores are propagated through a candidate-candidate similarity graph built from legal entity overlap, using the diffusion formula:
+\begin{equation}
+\mathbf{S}_{\text{final}} = (1-\alpha)\,\mathbf{S}_{\text{seed}} + \alpha\,\mathbf{T}\,\mathbf{S}_{\text{seed}}
+\end{equation}
+where $\mathbf{T}$ is the row-normalized transition matrix.
+Three values of $\alpha$ (0.15, 0.35, 0.55) were tested.
+Increasing $\alpha$ consistently degrades performance, indicating that the citation graph amplifies errors rather than propagating relevance.
+
+\begin{table*}[t]
+\centering
+\small
+\begin{tabular}{@{}llcccccc@{}}
+\toprule
+\textbf{Block} & \textbf{Variant} & \textbf{F1@1} & \textbf{F1@5} & \textbf{F1@10} & \textbf{F1@20} & \textbf{MAP@20} & \textbf{MRR@20} \\
+\midrule
+\multirow{3}{*}{Raw Text}
+  & BM25 Standard     & 0.075 & 0.153 & 0.146 & 0.123 & 0.166 & 0.414 \\
+  & TF-IDF Unigram    & 0.135 & 0.319 & 0.336 & 0.277 & 0.406 & 0.682 \\
+  & TF-IDF Uni+Bi     & 0.134 & \textbf{0.330} & \textbf{0.349} & \textbf{0.285} & \textbf{0.421} & \textbf{0.690} \\
+\midrule
+\multirow{4}{*}{Std. Prep.}
+  & BM25 Base          & 0.078 & 0.144 & 0.136 & 0.117 & 0.163 & 0.415 \\
+  & TF-IDF Uni+Bi      & 0.129 & 0.315 & 0.341 & 0.281 & 0.408 & 0.667 \\
+  & LSA-100            & 0.125 & 0.298 & 0.313 & 0.267 & 0.374 & 0.656 \\
+  & LSA-200            & \textbf{0.139} & 0.317 & 0.330 & 0.275 & 0.405 & 0.693 \\
+\midrule
+Concept Extr. & TF-IDF & 0.137 & 0.307 & 0.335 & 0.273 & 0.407 & 0.678 \\
+\midrule
+\multirow{3}{*}{Graph Ens.}
+  & BM80:Ent20       & 0.104 & 0.202 & 0.203 & 0.169 & 0.236 & 0.532 \\
+  & BM60:Ent40       & 0.095 & 0.197 & 0.197 & 0.170 & 0.217 & 0.497 \\
+  & BM40:Ent60       & 0.086 & 0.172 & 0.179 & 0.153 & 0.188 & 0.453 \\
+\midrule
+\multirow{3}{*}{Graph Diff.}
+  & $\alpha{=}0.15$  & 0.121 & 0.281 & 0.296 & 0.248 & 0.346 & 0.624 \\
+  & $\alpha{=}0.35$  & 0.117 & 0.273 & 0.284 & 0.247 & 0.336 & 0.607 \\
+  & $\alpha{=}0.55$  & 0.111 & 0.256 & 0.274 & 0.237 & 0.311 & 0.583 \\
+\bottomrule
+\end{tabular}
+\caption{Baseline experiment results on the IL-PCR test set. Micro-F1 is reported at cutoffs $K \in \{1, 5, 10, 20\}$. MAP and MRR are computed at $K{=}20$. Best values in each column are \textbf{bolded}.}
+\label{tab:baselines}
+\end{table*}
+
+%----------------------------------------------------------------------
+\section{Hybrid BM25 + Semantic Retrieval}
+%----------------------------------------------------------------------
+
+Beyond classical baselines, we evaluated hybrid pipelines combining BM25 candidate generation with transformer-based re-ranking on the IL-PCR training split.
+Table~\ref{tab:hybrid} summarizes the results.
+
+\subsection{BM25 Baseline}
+BM25 with unigram indexing achieves a best F1 of 11.90\% at $K{=}5$ on the training split.
+
+\subsection{BM25 + InLegalBERT}
+We encode documents using \texttt{law-ai/InLegalBERT} with top-512 truncation and fuse scores with BM25 ($\alpha{=}0.3$ BM25, $0.7$ BERT).
+This yields a best F1 of only 4.98\% at $K{=}20$---\emph{far worse than BM25 alone}.
+Top-512 truncation discards critical content because Indian legal judgments bury relevant material deep in the document; the first 512 tokens are mostly preamble.
+
+\subsection{BM25 + SBERT (Full Document)}
+Using \texttt{all-MiniLM-L6-v2} with full-document encoding (internally truncated to 512 tokens) and the same fusion weighting achieves 10.33\% F1 at $K{=}7$---slightly worse than BM25 alone, confirming that naive truncation is ineffective for long legal documents.
+
+\subsection{BM25 + SBERT (Chunked Encoding)}
+We encode documents using 256-token chunks with 128-token stride, max-pooling over chunk embeddings to form document representations.
+This achieves a \textbf{best F1 of 19.63\%} at $K{=}6$, a \textbf{+7.73 percentage point improvement} over BM25.
+This result confirms that chunking is essential for applying semantic models to long legal documents.
+
+\begin{table}[t]
+\centering
+\footnotesize
+\setlength{\tabcolsep}{3pt}
+\begin{tabular}{@{}lccrr@{}}
+\toprule
+\textbf{Method} & \textbf{Enc.} & \textbf{F1} & \textbf{$K$} & \textbf{$\Delta$} \\
+\midrule
+BM25              & ---       & 11.90 & 5  & --- \\
++ InLegalBERT     & Top-512   & 4.98  & 20 & $-$6.92 \\
++ SBERT (full)    & 512 tr.   & 10.33 & 7  & $-$1.57 \\
++ SBERT (chunk)   & 256/128   & \textbf{19.63} & 6  & \textbf{+7.73} \\
+\bottomrule
+\end{tabular}
+\caption{Hybrid results on IL-PCR train split (F1 in \%). $\Delta$: pp improvement over BM25. Fusion: $\alpha{=}0.3$ (BM25), $0.7$ (semantic).}
+\label{tab:hybrid}
+\end{table}
+
+%----------------------------------------------------------------------
+\section{Rhetorical Role Prediction}
+%----------------------------------------------------------------------
+
+A key component of our proposed pipeline is rhetorical role segmentation, which decomposes legal judgments into semantically coherent units.
+We have deployed a pretrained multi-task learning (MTL) classifier for this purpose.
+
+\subsection{Model Architecture}
+
+The model combines BERT embeddings with stacked BiLSTM layers and a CRF decoder:
+
+\begin{enumerate}
+    \item \textbf{Sentence Embedding}: Each sentence is encoded using \texttt{bert-base-uncased}; the \texttt{[CLS]} embedding (768-dim) serves as the sentence representation.
+    \item \textbf{Binary/Shift Module}: A BiLSTM operates on context-enriched embeddings formed by concatenating the previous, current, and next sentence embeddings (2304-dim), learning coarse structural shift signals.
+    \item \textbf{Main Classifier}: A second BiLSTM takes the 768-dim BERT embeddings concatenated with hidden states from the binary module (1536-dim total), enabling cross-module fusion.
+    \item \textbf{CRF Decoding}: Conditional Random Field decoders model label transitions across sentences, producing globally coherent label sequences via Viterbi decoding.
+\end{enumerate}
+
+\subsection{Predicted Labels}
+
+The model assigns each sentence one of the following roles: \textbf{Fact}, \textbf{Precedent}, \textbf{RulingByLowerCourt}, \textbf{Argument}, \textbf{Ratio Decidendi}, and \textbf{Statute}.
+In a test on a 1963 Indian Supreme Court judgment (185 sentences), the model produces coherent predictions: \emph{Fact} labels dominate the early sections, \emph{Precedent} labels appear in the analytical middle, and \emph{Ruling} labels cluster in the preamble and conclusion.
+
+\subsection{Integration with Retrieval}
+
+For the proposed retrieval pipeline, we extract only the \textbf{Facts} and \textbf{Ratio Decidendi} segments from each document.
+These filtered texts are then indexed and used for retrieval, reducing noise from procedural details, arguments, and other sections that do not directly contribute to precedent similarity.
+
+%----------------------------------------------------------------------
+\section{Legal Statute Identification}
+%----------------------------------------------------------------------
+
+As a complementary component, we evaluated a pretrained Legal Statute Identification (LSI) model that predicts applicable Indian Penal Code (IPC) sections from case text.
+
+\subsection{Model Architecture}
+
+The model uses a \textbf{Hierarchical BERT (HierBERT)} architecture:
+\begin{enumerate}
+    \item \textbf{Sentence Encoding}: Each sentence is encoded by \texttt{InLegalBERT}; the \texttt{[CLS]} embedding is extracted.
+    \item \textbf{Document Encoding}: A Bi-LSTM with attention aggregates sentence embeddings into a document-level representation.
+    \item \textbf{Classification}: A linear layer projects to a 100-dimensional label space (IPC sections) with sigmoid activation for multi-label prediction.
+\end{enumerate}
+
+\subsection{Results}
+
+Evaluated on four synthetic case summaries covering dowry death, robbery, cheating/forgery, and kidnapping scenarios, the model correctly identifies the primary applicable statutes with high confidence.
+For example, in the cheating/forgery case, all five expected IPC sections (420, 468, 467, 471, 415) are predicted above the 0.5 threshold.
+This model can be used to extract statute-level features for graph-based retrieval components.
+
+%----------------------------------------------------------------------
+\section{Key Findings So Far}
+%----------------------------------------------------------------------
+
+\begin{enumerate}
+    \item \textbf{TF-IDF outperforms BM25} on long legal documents. BM25's term saturation assumptions appear less suitable for the very long documents in legal corpora.
+
+    \item \textbf{Raw text is competitive with preprocessed text} for TF-IDF retrieval, suggesting legal vocabulary is distinctive enough that standard NLP preprocessing adds minimal value.
+
+    \item \textbf{Graph-based methods underperform.} Both ensemble and diffusion approaches over regex-extracted legal entities introduce more noise than signal, indicating that sparse entity extraction is insufficient for building reliable citation graphs.
+
+    \item \textbf{Chunking is essential for semantic models.} SBERT with 256-token chunks and 128-token stride achieves a +7.73pp gain over BM25, while full-document and top-512 truncation actually \emph{hurt} performance.
+
+    \item \textbf{InLegalBERT with naive truncation fails.} Legal judgments bury relevant content deep in the document; the first 512 tokens are often preamble, making top-512 encoding inadequate.
+
+    \item \textbf{Rhetorical role prediction works.} The MTL BiLSTM-CRF model produces coherent sentence-level labels, enabling downstream filtering of documents to their most relevant sections.
+\end{enumerate}
+
+%----------------------------------------------------------------------
+\section{Remaining Work}
+%----------------------------------------------------------------------
+
+The following tasks remain for the second half of the project:
+
+\begin{enumerate}
+    \item \textbf{Rhetorical role--filtered retrieval}: Apply the RR segmentation model to the full IL-PCR corpus, extract Facts and Ratio segments, and perform BM25 and TF-IDF retrieval on the filtered text. We hypothesize this will reduce noise and improve precision.
+
+    \item \textbf{Segment-aware semantic retrieval}: Apply chunked SBERT encoding specifically to the extracted Facts and Ratio segments, combining rhetorical filtering with the best-performing semantic method.
+
+    \item \textbf{Statute-based graph features}: Use the LSI model to extract statute predictions for each document and construct a case--statute bipartite graph. Cases sharing the same statutes will receive a graph-based similarity boost.
+
+    \item \textbf{Full test-set evaluation}: Run all methods on the IL-PCR test split and report final comparative results.
+
+    \item \textbf{Ablation studies}: Evaluate the contribution of each pipeline component (RR filtering, chunked SBERT, statute graph) in isolation and in combination.
+
+    \item \textbf{Optional SBERT re-ranking}: Implement a two-stage pipeline where BM25 generates top-100 candidates and chunked SBERT re-ranks them, potentially combined with RR filtering.
+\end{enumerate}
+
+%----------------------------------------------------------------------
+\section{Conclusion}
+%----------------------------------------------------------------------
+
+We have completed extensive baseline experiments for the prior case retrieval task on the IL-PCR benchmark.
+Our results establish that TF-IDF with bigrams is the strongest classical baseline, and that hybrid BM25+SBERT with chunked encoding substantially outperforms all classical methods.
+We have also demonstrated working rhetorical role prediction and legal statute identification components.
+The remaining work focuses on integrating these components into a unified retrieval pipeline that filters documents by rhetorical role before applying semantic retrieval, which we expect will yield further improvements by eliminating irrelevant content from the matching process.
+
+\bibliographystyle{acl_natbib}
+\bibliography{custom}
+
+\end{document}
