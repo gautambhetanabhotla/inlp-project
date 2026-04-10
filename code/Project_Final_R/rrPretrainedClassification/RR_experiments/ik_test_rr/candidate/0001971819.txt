@@ -1,7 +1,0 @@
-RatioOfTheDecision	ORDER  1.
-RatioOfTheDecision	Two learned Judges of this <ORG> in <ORG> v. <NAME>, held that Explanation II to <CITATION_162836889> of the <ORG>.
-RatioOfTheDecision	Sales Tax Act, 1948 could not be given retrospective effect.
-RatioOfTheDecision	The attention of the Bench was not drawn to the earlier judgment of a Bench of four learned Judges of this <ORG> in <CITATION_174910953> ., where this provision was held to be retrospective.
-RatioOfTheDecision	For the purposes of these appeals, it is relevant to consider whether or not the said Explanation has retrospective effect.
-RatioOfTheDecision	It is appropriate, in the circumstances, that the appeals should be heard by a Bench of five learned Judges.
-RulingByPresentCourt	The papers shall be placed before the Hon'ble the Chief Justice for appropriate directions.

@@ -16,3 +16,11 @@ __pycache__/
 .vscode/
 
 results/
+
+# Large experiment artifacts/data (keep out of git for lightweight repo zip)
+code/Project_Final_R/Transformer-Embeddings/exp_results/
+code/Project_Final_R/rrPretrainedClassification/RR_experiments/
+code/Project_Final_R/rrPretrainedClassification/ik_test_rr.zip
+code/Experiments_r/Project/my_project/combined/cache/
+code/Experiments_r/Project/Eval/ilpcr-test-pred.json
+code/Project_Final_R/Experiments/Eval/ilpcr-test-pred.json

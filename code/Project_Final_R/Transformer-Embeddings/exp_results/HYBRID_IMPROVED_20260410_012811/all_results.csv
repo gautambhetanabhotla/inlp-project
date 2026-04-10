@@ -1,8 +1,0 @@
-label,group,model_type,model,tfidf_scheme,tfidf_ngram,tfidf_top_n,alpha,agg,chunk_tokens,chunk_stride,micro_f1_pct,micro_k,MAP_pct,MRR_pct,NDCG10_pct,elapsed_s,error
-R_log_n4,R,tfidf_only,,log,4,200,0.8,max_chunk,256,128,44.0908,9,59.0602,79.6009,68.3604,17.6,
-R_log_n7,R,tfidf_only,,log,7,200,0.8,max_chunk,256,128,44.9014,8,59.6096,80.151,68.7874,32.4,
-R_log_n9,R,tfidf_only,,log,9,200,0.8,max_chunk,256,128,44.9569,8,59.7048,80.1392,68.7705,43.8,
-R_aug_n6,R,tfidf_only,,augmented,6,200,0.8,max_chunk,256,128,44.9569,8,59.7702,79.5697,68.6243,27.6,
-R_aug_n7,R,tfidf_only,,augmented,7,200,0.8,max_chunk,256,128,45.0681,8,59.4265,79.3544,68.2355,34.1,
-R_aug_n9,R,tfidf_only,,augmented,9,200,0.8,max_chunk,256,128,45.0125,8,58.9893,78.5109,67.9338,48.1,
-R_bin_n7,R,tfidf_only,,binary,7,200,0.8,max_chunk,256,128,44.9014,8,59.0983,79.2786,68.1064,34.4,
