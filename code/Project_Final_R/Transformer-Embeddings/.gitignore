@@ -8,6 +8,7 @@ model_checkpoints/
 
 # experiment results
 exp_results/*
+exp_results/**/fused_scores.json
 
 data/*
 
