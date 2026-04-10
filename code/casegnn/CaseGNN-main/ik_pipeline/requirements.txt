@@ -1,0 +1,9 @@
+# Requirements for the ik_pipeline CaseGNN adaptation
+torch>=1.13.0
+dgl>=1.0.0
+transformers>=4.20.0
+spacy>=3.4.0
+rank_bm25>=0.2.2
+tqdm
+tensorboard
+torchmetrics

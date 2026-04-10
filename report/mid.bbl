@@ -1,0 +1,44 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Joshi et~al.(2024)Joshi, Paul, Sharma, Goyal, Ghosh, and
+  Modi]{iltur2024}
+Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, and
+  Ashutosh Modi.
+\newblock {IL-TUR}: Benchmark for {I}ndian legal text understanding and
+  reasoning.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, Bangkok, Thailand,
+  2024. Association for Computational Linguistics.
+
+\bibitem[Joshi et~al.(2023)Joshi, Modi, Sharma, and Tanikella]{joshi2023ucreat}
+Aniket Joshi, Ashutosh Modi, Anupam Sharma, and Sai~Kiran Tanikella.
+\newblock U-creat: Unsupervised case retrieval using events extraction.
+\newblock \emph{arXiv preprint arXiv:2307.05260}, 2023.
+
+\bibitem[Malik et~al.(2022)Malik, Sanjay, Nigam, Ghosh, Sahoo, Guha,
+  Bhattacharya, and Modi]{malik2022rr}
+Vijit Malik, Rishabh Sanjay, Shubham~Kumar Nigam, Kripa Ghosh, Shouvik~Kumar
+  Sahoo, Arnab Guha, Arnab Bhattacharya, and Ashutosh Modi.
+\newblock Semantic segmentation of legal documents via rhetorical roles.
+\newblock In \emph{Proceedings of the Natural Legal Language Processing
+  Workshop (NLLP)}, pages 153--171, 2022.
+
+\bibitem[Paul et~al.(2022)Paul, Mandal, Goyal, and Ghosh]{paul2022ilsi}
+Shounak Paul, Arpan Mandal, Pawan Goyal, and Saptarshi Ghosh.
+\newblock Pre-trained language models for the legal domain: A case study on
+  indian law.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~36, pages 12247--12255, 2022.
+
+\bibitem[Robertson and Zaragoza(2009)]{robertson2009bm25}
+Stephen Robertson and Hugo Zaragoza.
+\newblock The probabilistic relevance framework: {BM25} and beyond.
+\newblock \emph{Foundations and Trends in Information Retrieval}, 3\penalty0
+  (4):\penalty0 333--389, 2009.
+
+\end{thebibliography}

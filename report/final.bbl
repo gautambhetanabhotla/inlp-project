@@ -1,0 +1,59 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chalkidis et~al.(2021)Chalkidis, Fergadiotis, Androutsopoulos, Malakasiotis, and Aletras]{chalkidis2021lexglue}
+Ilias Chalkidis, Manos Fergadiotis, Ion Androutsopoulos, Prodromos Malakasiotis, and Nikolaos Aletras.
+\newblock Lexglue: A benchmark dataset for legal language understanding in english.
+\newblock In \emph{Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)}, pages 4315--4330, 2021.
+
+\bibitem[Dhani et~al.(2023)Dhani, Bhatt, Ganesan, Sirohi, and Bhatnagar]{dhani2023similar}
+Jaspreet~Singh Dhani, Ruchit Bhatt, Balaji Ganesan, Parth Sirohi, and Vasudeva Bhatnagar.
+\newblock Similar cases recommendation using legal knowledge graphs.
+\newblock In \emph{Proceedings of the 3rd Symposium on Artificial Intelligence and Law (SAIL)}, 2023.
+
+\bibitem[Joshi et~al.(2024)Joshi, Paul, Sharma, Goyal, Ghosh, and Modi]{iltur2024}
+Abhinav Joshi, Shounak Paul, Akshat Sharma, Pawan Goyal, Saptarshi Ghosh, and Ashutosh Modi.
+\newblock {IL-TUR}: Benchmark for {I}ndian legal text understanding and reasoning.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, Bangkok, Thailand, 2024. Association for Computational Linguistics.
+
+\bibitem[Joshi et~al.(2023)Joshi, Modi, Sharma, and Tanikella]{joshi2023ucreat}
+Aniket Joshi, Ashutosh Modi, Anupam Sharma, and Sai~Kiran Tanikella.
+\newblock U-creat: Unsupervised case retrieval using events extraction.
+\newblock \emph{arXiv preprint arXiv:2307.05260}, 2023.
+
+\bibitem[Lab(2024)]{ilturdataset}
+Exploration Lab.
+\newblock Il-tur dataset.
+\newblock \url{https://huggingface.co/datasets/Exploration-Lab/IL-TUR}, 2024.
+\newblock Accessed: 2024-01-31.
+
+\bibitem[Malik et~al.(2022)Malik, Sanjay, Nigam, Ghosh, Sahoo, Guha, Bhattacharya, and Modi]{malik2022rr}
+Vijit Malik, Rishabh Sanjay, Shubham~Kumar Nigam, Kripa Ghosh, Shouvik~Kumar Sahoo, Arnab Guha, Arnab Bhattacharya, and Ashutosh Modi.
+\newblock Semantic segmentation of legal documents via rhetorical roles.
+\newblock In \emph{Proceedings of the Natural Legal Language Processing Workshop (NLLP)}, pages 153--171, 2022.
+
+\bibitem[Paul et~al.(2022)Paul, Mandal, Goyal, and Ghosh]{paul2022ilsi}
+Shounak Paul, Arpan Mandal, Pawan Goyal, and Saptarshi Ghosh.
+\newblock Pre-trained language models for the legal domain: A case study on indian law.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial Intelligence}, pages 12247--12255, 2022.
+
+\bibitem[Shao et~al.(2020)Shao, Si, Zhong, Wang, and Xiao]{shao2020bert}
+Yixiao Shao, Yueyue Si, Xinyu Zhong, Huaming Wang, and Wei Xiao.
+\newblock Bert-pli: Modeling paragraph-level interactions for legal case retrieval.
+\newblock In \emph{Proceedings of the 29th International Joint Conference on Artificial Intelligence}, pages 3501--3507, 2020.
+
+\bibitem[Zheng et~al.(2021)Zheng, Gu, Wang, Chen, and Xiao]{zheng2021legal}
+Luyao Zheng, Jiaxin Gu, Yong Wang, Song Chen, and Wei Xiao.
+\newblock Legal judgment prediction via topological learning.
+\newblock In \emph{Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing}, pages 8140--8149, 2021.
+
+\bibitem[Zhong et~al.(2022)Zhong, Xiao, Tu, Zhang, Liu, and Sun]{zhong2022casegnn}
+Haoxi Zhong, Chaojun Xiao, Cunchao Tu, Tianyang Zhang, Zhiyuan Liu, and Maosong Sun.
+\newblock Casegnn: Graph neural networks for legal case retrieval with text-attributed graphs.
+\newblock \emph{arXiv preprint arXiv:2203.09135}, 2022.
+
+\end{thebibliography}

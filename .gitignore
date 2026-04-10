@@ -16,3 +16,7 @@ __pycache__/
 .vscode/
 
 results/
+data
+
+code/casegnn/CaseGNN-main/ik_pipeline/output
+code/casegnn/CaseGNN-main/Information_extraction/stanford-openie/**/*

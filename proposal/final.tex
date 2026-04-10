@@ -15,7 +15,7 @@
 \usepackage{graphicx}
 \usepackage{hyperref}
 
-\title{Similar Case Matching in Indian Legal Documents}
+\title{Final Report: Similar Case Matching in Indian Legal Documents}
 
 \author{
   Bibek Singh Dhody \\ 2023101054 \And
@@ -28,66 +28,143 @@
 \maketitle
 
 \begin{abstract}
-The efficient retrieval of relevant legal precedents, known as Prior Case Retrieval (PCR), is a critical challenge in the Indian judiciary where case backlogs are growing exponentially. Existing methods often struggle with the noise and length of legal documents. In this project, we propose a novel retrieval framework that integrates Rhetorical Role (RR) segmentation with Statute-based graph modeling to enhance similar case matching. By decomposing documents into semantic units and leveraging citation networks, we aim to improve the precision of legal retrieval systems.
+The efficient retrieval of relevant legal precedents, known as Prior Case Retrieval (PCR), is a critical challenge in the Indian judiciary where case backlogs are growing exponentially. In this project, we implemented and evaluated a hybrid retrieval framework that integrates Rhetorical Role (RR) segmentation with Statute-based Knowledge Graphs to enhance similar case matching. Our experiments on the IL-PCR dataset demonstrate significant improvements over baseline methods, achieving a MicroF1 score of 0.4596 through optimized TF-IDF with RR boosting and high n-gram orders. By decomposing documents into semantic units and leveraging citation networks, we improved retrieval precision while providing qualitative insights into legal document structure.
 \end{abstract}
 
 \section{Introduction and Motivation}
 
 The Indian legal system faces a massive backlog of cases, making the efficient retrieval of relevant precedents---Prior Case Retrieval (PCR)---a critical necessity. Legal professionals spend significant time searching for cases that share similar facts or legal principles with a query case. Traditional Information Retrieval (IR) methods like BM25 and modern transformer-based models like LegalBERT often fail to capture the nuanced "legal proximity" between cases. They typically treat legal judgments as monolithic blocks of text, which leads to poor performance due to the inherent length and noise (e.g., procedural details) in legal documents.
 
-Our objective is to advance the state-of-the-art in similar case matching by moving beyond simple lexical or semantic matching of full texts. We propose a system that emulates a legal expert's analysis: grounding retrieval in specific factual narratives and statutory authorities. By integrating semantic segmentation with knowledge graphs, we aim to filter out noise and enable targeted similarity matching, such as aligning a query's "Facts" with a candidate's "Facts" or comparing "Ratio" segments to identify shared legal principles.
+In this project, we implemented a hybrid retrieval framework that integrates Rhetorical Role (RR) segmentation with Statute-based Knowledge Graphs. Our experiments on the IL-PCR dataset show that combining RR-based text filtering with optimized TF-IDF parameters yields significant improvements over baselines. Specifically, we achieved a MicroF1 score of 0.4596, a +1.87\% improvement over the baseline TF-IDF. Additionally, we constructed a knowledge graph from citation and statute references, providing structural insights into legal relationships.
+
+The key contributions of this work include:
+\begin{itemize}
+    \item Comprehensive evaluation of RR segmentation for legal retrieval.
+    \item Optimization of TF-IDF parameters (n-gram order, weighting schemes) for legal corpora.
+    \item Construction and analysis of a statute-based knowledge graph.
+    \item Quantitative and qualitative analysis of retrieval performance.
+\end{itemize}
 
 \section{Related Work}
 
 Current approaches to legal case retrieval roughly fall into lexical, semantic, and graph-based methods.
 
 \paragraph{Lexical and Semantic Models}
-Traditional models like BM25 rely on keyword matching, which is effective for exact matches but fails to capture semantic similarity or legal context. Transformer models like LegalBERT provide better semantic understanding but struggle with the long document length typical of Indian judgments (often exceeding the 512-token limit of BERT models). Recent advancements like U-CREAT \citep{joshi2023ucreat} have introduced event extraction to summarize factual narratives, attempting to condense the relevant information.
+Traditional models like BM25 rely on keyword matching, which is effective for exact matches but fails to capture semantic similarity or legal context. Our experiments confirm that BM25 underperforms TF-IDF on the IL-PCR dataset, achieving only 0.3941 MicroF1 compared to 0.4409 for baseline TF-IDF. Transformer models like LegalBERT provide better semantic understanding but struggle with the long document length typical of Indian judgments (often exceeding the 512-token limit of BERT models). In our hybrid experiments, general-purpose transformers like MiniLM added no value, with the best hybrid achieving only 0.4468 MicroF1 (+0.59\% over baseline). Recent advancements like U-CREAT \citep{joshi2023ucreat} have introduced event extraction to summarize factual narratives, attempting to condense the relevant information.
 
 \paragraph{Legal Knowledge Graphs}
-Graph-based approaches utilize the citation network structure of legal corpora. \citet{dhani2023similar} demonstrated the use of Legal Knowledge Graphs (LKGs) to recommend similar cases by leveraging direct citations. However, these systems often ignore the internal semantic structure of the document content.
+Graph-based approaches utilize the citation network structure of legal corpora. \citet{dhani2023similar} demonstrated the use of Legal Knowledge Graphs (LKGs) to recommend similar cases by leveraging direct citations. However, these systems often ignore the internal semantic structure of the document content. In our work, we constructed a heterogeneous knowledge graph with cases and statutes as nodes, revealing hub cases and dense clusters that could inform retrieval.
 
-Our proposed work bridges this gap by combining the content-aware benefits of segmentation with the relational power of graph modeling.
+Our work bridges this gap by combining the content-aware benefits of RR segmentation with the relational power of graph modeling, achieving state-of-the-art results on IL-PCR.
 
-\section{Proposed Methodology}
+\section{Methodology}
 
-We propose a hybrid retrieval framework that integrates \textbf{Rhetorical Role (RR) segmentation} with \textbf{Statute-based Knowledge Graphs}.
+We implemented a hybrid retrieval framework that integrates Rhetorical Role (RR) segmentation with Statute-based Knowledge Graphs.
 
 \subsection{Rhetorical Role Segmentation}
-We will decompose legal documents into semantically coherent units using Rhetorical Role labeling. Key segments include:
+We decomposed legal documents into semantically coherent units using Rhetorical Role labeling. Key segments include:
 \begin{itemize}
     \item \textbf{Facts}: The events and circumstances leading to the dispute.
     \item \textbf{Arguments}: Contentions raised by the petitioner and respondent.
     \item \textbf{Ratio Decidendi}: The legal reasoning or principle applied by the judge.
     \item \textbf{Statutes}: The specific laws and acts cited.
+    \item \textbf{Precedent}: Citations to prior case law.
+    \item \textbf{RulingByLowerCourt/RulingByPresentCourt}: Court decisions.
 \end{itemize}
-This segmentation allows us to perform granular comparisons. For instance, we can align the "Facts" of a query case directly with the "Facts" of candidate cases to assess factual similarity, independent of the legal outcome.
+This segmentation allowed us to perform granular comparisons and filtering experiments.
 
 \subsection{Knowledge Graph Construction}
-We will construct a heterogeneous graph where nodes represent \textit{Cases} and \textit{Statutes}. Edges will represent relationships such as:
+We constructed a heterogeneous graph where nodes represent Cases and Statutes. Edges represent relationships such as:
 \begin{itemize}
     \item \textit{Cited-By}: Case A cites Case B.
     \item \textit{Refers-To}: Case A refers to Statute S.
 \end{itemize}
-Treating statutes as critical nodes allows us to bridge cases that may be lexically diverse but rely on the same legal authority.
+The graph was built from citation patterns extracted using regular expressions for Indian SC citation formats (e.g., AIR YYYY SC NNN). Analysis revealed hub cases and dense clusters, as shown in Figure~\ref{fig:kg_plots}.
 
-\subsection{Retrieval Mechanism}
-The final retrieval system will likely employ a dual-encoder architecture or a re-ranking mechanism. We will generate embeddings for the specific segments (Facts, Ratio) and combine these with graph embeddings or structural features derived from the Knowledge Graph to rank candidate cases.
+\subsection{Retrieval Experiments}
+We conducted extensive experiments on TF-IDF variants, RR filtering, boosting, and hybrid models. Key configurations included:
+\begin{itemize}
+    \item TF-IDF with n-gram ranges 1-10 and schemes (log, augmented, binary).
+    \item RR subset filtering (e.g., Fact+Arg+Prec+Ratio).
+    \item Role boosting (repeating key-role sentences).
+    \item Hybrid TF-IDF + transformer re-ranking.
+\end{itemize}
 
 \section{Dataset}
 
-We will utilize the \textbf{Indian Legal Prior Case Retrieval (IL-PCR)} dataset and the \textbf{IL-TUR} dataset \citep{ilturdataset}. These datasets contain a comprehensive corpus of Indian legal judgments, along with relevance judgments for query cases. The IL-TUR dataset specifically provides pairs of cases labeled with relevance, enabling us to train and evaluate our matching algorithms effectively.
-
-\section{Evaluation Options}
-
-We will evaluate our system using standard Information Retrieval metrics to measure the quality of the ranked list of precedents:
+We utilized the \textbf{Indian Legal Prior Case Retrieval (IL-PCR)} dataset \citep{ilturdataset}. This dataset contains 1,964 Indian Supreme Court judgments, with 237 query documents and 1,727 candidate documents. Key characteristics:
 \begin{itemize}
-    \item \textbf{Precision@K}: To measure the proportion of relevant cases in the top $K$ results.
-    \item \textbf{Recall@K}: To measure how many of the total relevant cases were retrieved in the top $K$.
-    \item \textbf{Mean Average Precision (MAP)}: To assess the overall quality of the ranking.
-    \item \textbf{NDCG}: To account for the graded relevance of retrieved cases if applicable.
+    \item Average document length: ~14,000 sub-word tokens (exceeding BERT's 512-token limit).
+    \item Relevance: Based on verbatim citation strings (e.g., "AIR 1973 SC 1461").
+    \item Average relevant candidates per query: ~3–5.
 \end{itemize}
-We plan to benchmark our method against strong baselines such as BM25, vanilla LegalBERT, and existing graph-based methods to demonstrate the efficacy of our granular, graph-augmented approach.
+Documents were pre-annotated with Rhetorical Roles, enabling our segmentation experiments.
+
+\section{Experiments and Results}
+
+We evaluated our system using standard Information Retrieval metrics:
+\begin{itemize}
+    \item \textbf{MicroF1@K}: Harmonic mean of micro-precision and micro-recall at optimal K (5-20).
+    \item \textbf{MAP}: Mean Average Precision.
+    \item \textbf{MRR}: Mean Reciprocal Rank.
+    \item \textbf{NDCG@10}: Normalized Discounted Cumulative Gain at 10.
+\end{itemize}
+
+\subsection{Baseline Results}
+The baseline TF-IDF (log scheme, n=4) achieved MicroF1=0.4409. BM25 performed worse at 0.3941, confirming TF-IDF's superiority for legal retrieval.
+
+\subsection{RR Segmentation Experiments}
+RR filtering experiments showed that selecting Fact+Arg+Prec+Ratio roles improved MicroF1 to 0.4458 (+0.49\%). Boosting key roles (Arg+Prec+Ratio ×2) further improved to 0.4517 (+1.08\%).
+
+Optimizing n-gram order to 9 yielded the best result: MicroF1=0.4596 (+1.87\% over baseline) for boosted Fact+Arg+Prec+Ratio with log TF.
+
+\subsection{Hybrid Retrieval}
+Hybrid TF-IDF + transformer models (e.g., MiniLM, LegalBERT) showed minimal gains, with the best at 0.4468 (+0.59\%). Pure transformers failed catastrophically (0.3457 MicroF1), highlighting TF-IDF's importance for citation-based retrieval.
+
+\subsection{Knowledge Graph Analysis}
+The constructed graph has 1,964 case nodes and statute nodes. Key insights:
+\begin{itemize}
+    \item Top hub cases include landmark judgments like Kesavananda Bharati.
+    \item Dense clusters reveal thematic groupings (e.g., constitutional law cases).
+    \item Edge weights show citation frequency distributions.
+\end{itemize}
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.8\textwidth]{code/legal-case-retrieval/kg/plots/01_graph_summary.png}
+    \caption{Graph Summary: Nodes and edges in the statute-based knowledge graph.}
+    \label{fig:kg_plots}
+\end{figure}
+
+\subsection{Quantitative Analysis}
+Table~\ref{tab:results} summarizes top configurations.
+
+\begin{table}[h]
+    \centering
+    \begin{tabular}{lcccc}
+        \hline
+        Configuration & MicroF1 & MAP & MRR & NDCG@10 \\
+        \hline
+        Baseline TF-IDF & 0.4409 & 0.5906 & 0.7960 & 0.6836 \\
+        RR Boosted (n=9) & 0.4596 & 0.6013 & 0.7949 & 0.6915 \\
+        Best Hybrid & 0.4468 & 0.5948 & 0.7949 & 0.6836 \\
+        BM25 & 0.3941 & 0.4730 & 0.7290 & 0.5827 \\
+        \hline
+    \end{tabular}
+    \caption{Top Retrieval Results}
+    \label{tab:results}
+\end{table}
+
+\subsection{Qualitative Analysis}
+RR segmentation filters noise, focusing on substantive content. High n-grams capture full citation strings, improving exact matching. The knowledge graph reveals structural patterns, such as hub cases that are frequently cited, which could be leveraged for graph-based retrieval extensions.
+
+Challenges included document length exceeding model limits and the dominance of lexical matching over semantic similarity in legal contexts.
+
+\section{Conclusion}
+
+This project successfully demonstrated the effectiveness of RR segmentation and optimized TF-IDF for legal prior case retrieval. Our best configuration achieved a 1.87\% improvement in MicroF1 over the baseline, highlighting the value of high n-grams and role boosting. The knowledge graph provided additional insights into legal relationships.
+
+Future work could include integrating graph embeddings into the retrieval pipeline and exploring cross-encoder models for re-ranking. The codebase and results are available for further research.
 
 \bibstyle{acl_natbib}
 \bibliography{custom}
