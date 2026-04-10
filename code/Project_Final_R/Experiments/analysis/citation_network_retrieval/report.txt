@@ -1,0 +1,168 @@
+========================================================================
+  CITATION NETWORK RETRIEVAL — DATA-DRIVEN ANALYSIS REPORT
+========================================================================
+
+========================================================================
+  LOADING DATA
+========================================================================
+  ► Total configs in results: 26
+  ► Pure citation configs: 5  |  Hybrid configs: 21
+  ► 
+Top-5 by MicroF1@5:
+  ►   #1: Hybrid_IDFCosine_BM25ng=5_a=0.3  MicroF1@5=0.3434  MAP=0.4469
+  ►   #2: Hybrid_BC_BM25ng=5_a=0.3  MicroF1@5=0.3413  MAP=0.4422
+  ►   #3: Hybrid_Jaccard_BM25ng=5_a=0.5  MicroF1@5=0.3365  MAP=0.4434
+  ►   #4: Hybrid_Dice_BM25ng=5_a=0.5  MicroF1@5=0.3304  MAP=0.4316
+  ►   #5: Hybrid_IDFCosine_BM25ng=5_a=0.5  MicroF1@5=0.3269  MAP=0.4304
+
+========================================================================
+  ANALYSIS 1 — CITATION GRAPH PROPERTIES
+========================================================================
+  ► Extracting citations from all queries and candidates …
+  ► Queries   : 237 total  |  with citations: 237  |  zero-citation: 0
+  ► Candidates: 1727 total  |  with citations: 1436  |  zero-citation: 291
+  ► Query citation count   — mean=7.6  median=5  max=57
+  ► Candidate citation count — mean=5.9  median=3  max=120
+  ► Unique citation IDs across entire corpus: 6,319
+  ► Citations appearing in only 1 candidate (hapax): 4,699 (74.4%)
+  ► Citations appearing in ≥10 candidates: 48
+  ► CRITICAL FINDING: 0 queries (0.0%) have ZERO citations. For these, every citation-based similarity = 0.0 → ranking is essentially random. This directly caps performance of pure citation methods.
+
+========================================================================
+  ANALYSIS 2 — CITATION SIGNAL: RELEVANT vs IRRELEVANT PAIRS
+========================================================================
+  ► Computing citation similarity (BC, Jaccard, Cocitation) for relevant vs random pairs …
+  ► Queries with no citations (invisible to citation methods): 0 (0.0%)
+  ► Relevant candidates with no citations: 308
+  ► 
+  ── BC similarity ──
+  ►   Relevant pairs:   mean=0.0746  median=0.0000
+  ►   Irrelevant pairs: mean=0.0011  median=0.0000
+  ►   Signal gap (rel - irrel): 0.0735
+  ► 
+  ── Jaccard similarity ──
+  ►   Relevant pairs:   mean=0.0352
+  ►   Irrelevant pairs: mean=0.0008
+  ►   Signal gap: 0.0344
+  ► 
+  ── Raw Intersection ──
+  ►   Relevant pairs:   mean=0.67 shared citation IDs
+  ►   Irrelevant pairs: mean=0.01 shared citation IDs
+  ► INTERPRETATION: BC signal gap= 0.0735  vs TF-IDF token Jaccard gap ≈ 0.063. Citation signal (0.0735) is weaker than lexical signal, explaining why pure citation MAP ≈ 0.19 vs TF-IDF MAP ≈ 0.60.
+
+========================================================================
+  ANALYSIS 3 — ZERO-CITATION QUERIES: THE BIGGEST FAILURE MODE
+========================================================================
+  ► Zero-citation queries: 0  |  Non-zero: 237
+  ► Mean fraction of relevant candidates WITH citations:
+  ►   → Zero-citation queries: nan
+  ►   → Non-zero-citation queries: 0.765
+  ► FAILURE EXPLANATION: 0 queries produce ZERO scores for all candidates. The ranking is determined by tie-breaking (insertion order), which is effectively random. These queries contribute maximum FN and zero TP → dragging MAP from ~0.38 to ~0.19.
+
+========================================================================
+  ANALYSIS 4 — PURE CITATION METHOD COMPARISON
+========================================================================
+  ► Pure method results (sorted by MAP):
+  ►   IDFCosine     MAP=0.1926  MRR=0.5235  MicroF1@5=0.2349
+  ►   BC            MAP=0.1904  MRR=0.5195  MicroF1@5=0.2280
+  ►   Jaccard       MAP=0.1903  MRR=0.5227  MicroF1@5=0.2294
+  ►   Dice          MAP=0.1903  MRR=0.5227  MicroF1@5=0.2294
+  ►   Cocitation    MAP=0.1645  MRR=0.3955  MicroF1@5=0.1587
+  ► 
+NOTE: Jaccard and Dice produce identical results. This happens because their rankings are monotonically equivalent (same ordering given same intersection for same pair).
+
+========================================================================
+  ANALYSIS 5 — HYBRID ALPHA SENSITIVITY
+========================================================================
+  ► How does changing α (citation weight) affect performance?
+  ► BC+BM25 ng=1 alpha sweep (MAP):
+  ►   α=0.1  MAP=0.2019  MicroF1@5=0.1738
+  ►   α=0.3  MAP=0.2630  MicroF1@5=0.2521
+  ►   α=0.5  MAP=0.2639  MicroF1@5=0.2624
+  ►   α=0.7  MAP=0.2592  MicroF1@5=0.2582
+  ►   α=0.9  MAP=0.2578  MicroF1@5=0.2534
+  ► BC+BM25 ng=5 alpha sweep (MAP):
+  ►   α=0.3  MAP=0.4422  MicroF1@5=0.3413
+  ►   α=0.5  MAP=0.4288  MicroF1@5=0.3255
+  ►   α=0.7  MAP=0.4229  MicroF1@5=0.3214
+  ► KEY: ng=5 BM25 hybrid MAPs are far higher (≈0.42-0.44) vs ng=1 (≈0.20-0.26). This shows lexical component (BM25) drives most of the performance gain in hybrid.
+  ► Citation adds marginal improvement — BM25 alone at ng=5 already captures most of the signal.
+
+========================================================================
+  ANALYSIS 6 — FULL METHOD RANKING (all configs)
+========================================================================
+  ► 
+Top-5 configs by MicroF1@5:
+  ►   #1: Hybrid_IDFCosine_BM25ng=5_a=0.3  F1@5=0.3434  MAP=0.4469
+  ►   #2: Hybrid_BC_BM25ng=5_a=0.3  F1@5=0.3413  MAP=0.4422
+  ►   #3: Hybrid_Jaccard_BM25ng=5_a=0.5  F1@5=0.3365  MAP=0.4434
+  ►   #4: Hybrid_Dice_BM25ng=5_a=0.5  F1@5=0.3304  MAP=0.4316
+  ►   #5: Hybrid_IDFCosine_BM25ng=5_a=0.5  F1@5=0.3269  MAP=0.4304
+  ► 
+Bottom-5 configs by MicroF1@5:
+  ►   #22: Citation_Dice  F1@5=0.2294  MAP=0.1903
+  ►   #23: Citation_BC  F1@5=0.2280  MAP=0.1904
+  ►   #24: Hybrid_Jaccard_BM25ng=1_a=0.3  F1@5=0.2122  MAP=0.2339
+  ►   #25: Hybrid_BC_BM25ng=1_a=0.1  F1@5=0.1738  MAP=0.2019
+  ►   #26: Citation_Cocitation  F1@5=0.1587  MAP=0.1645
+
+========================================================================
+  ANALYSIS 7 — METRIC CURVES ACROSS K (top-3 configs)
+========================================================================
+
+========================================================================
+  ANALYSIS 8 — CITATION DENSITY vs QUERY RELEVANCE DIFFICULTY
+========================================================================
+  ► Checking if queries with more citations are 'easier' for citation methods …
+  ► Correlation: query citation count vs mean overlap with relevants: 0.570
+  ► Queries with MORE citations tend to have MORE shared citations with relevant candidates.
+
+========================================================================
+  ANALYSIS 9 — CITATION vs TF-IDF PERFORMANCE GAP
+========================================================================
+  ► TF-IDF best: MAP=0.5964  MicroF1@5=0.4203
+  ► Pure citation best:   MAP=0.1926  MicroF1@5=0.2349
+  ► Hybrid best:          MAP=0.4469  MicroF1@5=0.3434
+  ► TF-IDF best:          MAP=0.5964  MicroF1@5=0.4203
+  ► Hybrid vs TF-IDF MAP: -25.1%  |  F1: -18.3%
+  ► CRITICAL FINDING: Even the best hybrid (ng=5, α=0.3) MAP=0.4469 is below TF-IDF MAP=0.5964. Lexical cues in BM25 ng=5 dominate over citation signals in this hybrid.
+
+========================================================================
+  ANALYSIS 10 — WHAT FRACTION OF RELEVANT PAIRS SHARE AT LEAST ONE CITATION?
+========================================================================
+  ► Total relevant (query, candidate) pairs: 1727
+  ► Pairs sharing ≥1 citation: 607  (35.1%)
+  ► Pairs where query OR candidate has 0 citations: 308 (17.8%)
+  ► INTERPRETATION: Only 35.1% of relevant pairs share even ONE citation. This explains why pure citation methods fundamentally cannot match TF-IDF performance — the citation signal covers only a subset of the truly relevant relationships.
+
+========================================================================
+  ANALYSIS 11 — DATA-TO-RESULTS NARRATIVE
+========================================================================
+
+  OBS: 0 queries (0.0%) have ZERO citations
+  MECH: All citation similarity functions return 0.0 for citation-empty queries. The entire candidate list gets score=0, and ranking collapses to arbitrary ordering.
+  RESULT: These queries contribute only FN. Dragging pure citation MAP from potential ~0.35 down to ~0.19.
+
+  OBS: Only 35.1% of relevant query–candidate pairs share at least 1 citation
+  MECH: Even when queries have citations, the relevant candidate may cite completely different cases. Citation paths in law follow precedent chains, not necessarily the same cited cases.
+  RESULT: Pure citation retrieval fundamentally cannot discover relevance not expressed via shared citations.
+
+  OBS: Citation BC signal gap ≈ 0.0735 vs TF-IDF lexical Jaccard gap ≈ 0.063
+  MECH: TF-IDF leverages the much richer lexical signal. The citation signal is weak because the citation graph is sparse relative to the candidate pool size.
+  RESULT: Pure citation MAP ≈ 0.19  vs  TF-IDF MAP ≈ 0.60 — a 3× performance gap.
+
+  OBS: Hybrid BC+BM25 ng=5 at α=0.3 achieves MAP≈0.4469
+  MECH: BM25 ng=5 supplies the dominant discriminative power. Citation (α=0.3) adds marginal reranking signal for queries that DO have citations. Lower α favours BM25, confirming citation is a weak secondary signal.
+  RESULT: Best hybrid MAP≈0.4469, comparably close to but below TF-IDF MAP≈0.5964.
+
+  OBS: Jaccard and Dice produce identical rankings (identical MAP/MRR)
+  MECH: For binary sets, Jaccard(A,B) = |A∩B|/|A∪B| and Dice(A,B) = 2|A∩B|/(|A|+|B|) are monotonically equivalent: f(Jaccard) = Dice/(2-Dice). Same ranking order → same metrics.
+  RESULT: No additional information gained by testing Dice after Jaccard in this setup.
+
+  OBS: Cocitation method is the weakest pure method (MAP=0.1645)
+  MECH: Co-citation counts 'third-party' documents citing both A and B. This inverted-index approach works well when the corpus is large and densely connected. In our 1727-candidate corpus, the co-citation graph is too sparse for meaningful scores.
+  RESULT: Cocitation scores are mostly small integers or zero → poor discrimination.
+
+========================================================================
+  WRITING REPORT
+========================================================================

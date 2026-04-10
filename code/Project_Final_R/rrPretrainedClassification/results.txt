@@ -1,0 +1,207 @@
+=== Rhetorical Role Labeling on Full Judgment ===
+
+Using device: cpu
+✅ Model loaded successfully!
+
+Found 185 sentences in the judgment.
+
+=== PREDICTIONS ===
+
+  1. PETITIONER: <NAME> Vs. RESPONDENT: <NAME> & OTHERS(and connected appeal) DATE OF JUDGMENT: 07/05/1963 <NAME>ENCH: <NAME> → RulingByLowerCourt
+  2. 81 , 82 , 83 , 90 .                                                                                                      → RulingByLowerCourt
+  3. HEADNOTE: The validity of the election of the appellant to <ORG> at the third general elections held in the month of Feb → Fact
+  4. The nomination paper of <NAME>, one of the two electors aforesaid, had been rejected by the returning officer.           → Fact
+  5. The appellant who was one of the respondents to the two election petitions raised preliminary objections to the maintain → Fact
+  6. Held (1) that where all the parties whom it was neces- sary to join under the provisions of s. 82 of the Representation  → Fact
+  7. D. 87 1, relied on.                                                                                                      → Fact
+  8. (3)that a defect in the verification of an election petition as required by s. 83 (1) (c) of the Act did not attract s.  → RulingByLowerCourt
+  9. JUDGMENT: 
+CIVIL APPELLATE JURISDICTION: Civil Appeal Nos.                                                               → RulingByLowerCourt
+ 10. 30 and 31 of 1963.                                                                                                       → RulingByLowerCourt
+ 11. Appeals by special leave from the judgment and order dated August 31, 1962, of <ORG> in D. <NAME> Civil Writ Petitions N → RulingByLowerCourt
+ 12. 376 and 377 of 1962.'                                                                                                    → RulingByLowerCourt
+ 13. <NAME>, <NAME>, <NAME>, <NAME> and <NAME> for the appellant (in C.A.                                                     → RulingByLowerCourt
+ 14. <NAME>, <NAME>, <NAME> and <NAME>, for the appellant (in C.A.                                                            → RulingByLowerCourt
+ 15. <NAME>, <NAME>, <NAME> and <NAME>, for respondent No.                                                                    → RulingByLowerCourt
+ 16. <NAME>, for respondent No.                                                                                               → RulingByLowerCourt
+ 17. <NAME> and <NAME> for the Intervener.                                                                                    → RulingByLowerCourt
+ 18. The judgment of the <ORG> was delivered by S. K. <NAME> J.-These two appeals have been heard together as they raise some → RulingByLowerCourt
+ 19. The appellant before us, <NAME> was elected to <ORG> at the third general elections held in the month of February, 1962. → RulingByLowerCourt
+ 20. He was elected from a constituency known as the jhunjhunu <ORG> in Rajasthan.                                            → RulingByLowerCourt
+ 21. Two election petitions were filed for setting aside the election of the appellant.                                       → RulingByLowerCourt
+ 22. One of these was filed by one <NAME> who stated that he was an <NAME> in the said constituency.                          → RulingByLowerCourt
+ 23. Another application was filed by one <NAME>alji who was also an <NAME> in the said <ORG> and whose nomination paper was  → RulingByLowerCourt
+ 24. We are not concerned in the present appeals with the grounds on which the two election petitions, one by <NAME> and numb → RulingByLowerCourt
+ 25. <ORG> dealt with these preliminary objections by its orders dated August 13, 1962.                                       → RulingByLowerCourt
+ 26. It dismissed the preliminary objections.                                                                                 → RulingByLowerCourt
+ 27. Thereupon the appellant filed two writ petitions in the High <ORG> of Rajasthan by which he prayed that the orders of <O → RulingByLowerCourt
+ 28. These two writ petitions were dismissed by the High <ORG> by its order dated August 31, 1962.                            → RulingByLowerCourt
+ 29. The appellant then applied for special leave to this court and having obtained such leave, has preferred the present app → RulingByLowerCourt
+ 30. We may now state briefly the grounds on which the appellant contends that the two election petitions were not maintainab → RulingByLowerCourt
+ 31. 269 of 1962 the grounds urged before us on behalf of' the appellant are three in number Firstly, it is contended that th → RulingByLowerCourt
+ 32. We shall presently read that section.                                                                                    → RulingByLowerCourt
+ 33. The contention of the appellant is that <NAME><NAME> or <NAME>alji whose nomination paper was rejected and who was not a → Fact
+ 34. 7 to the election petition, though s. 82 requires that in cases where in addition to the relief o declaring the election → Fact
+ 35. <NAME><NAME> or <NAME>alji was not a contesting candidate and was therefore impleaded to the election petition in contra → Fact
+ 36. Secondly, it is urged that there was non-compliance with the provisions of s. 81 (3) of the Act because the copy of the  → Fact
+ 37. Thirdly, it is urged that there was non compliance with the provisions of s. 83 of the Act inasmuch as the affidavit in  → Fact
+ 38. With regard to Petition No.                                                                                              → Fact
+ 39. 295 of 1962 the grounds alleged are these Firstly, it is stated that at the time of its presentation to <ORG>, the petit → Fact
+ 40. Secondly it is urged that the election petition was not duly verified inasmuch as the date and place of verification wer → Fact
+ 41. 2,000/- in favour of <ORG> was not enclosed with the copy of the petition which was served on the appellant, nor was the → Fact
+ 42. We may here refer to some of the provisions of the Act (as they stood 'at the relevant time) which have a bearing on the → Fact
+ 43. S. 80 of the Act states that no election shall be called in question except by an election petition presented in accorda → Fact
+ 44. S. 81 states in effect that an election petition calling in question any election may be presented on one or more of the → Fact
+ 45. 82 states who shall be parties to the petition.                                                                          → Fact
+ 46. It leads : 
+"A petitioner shall join as respondents to his petition - 
+(a)where the petitioner, in addition to clai- min → Fact
+ 47. S.83 lays down what shall be the contents of the petition.                                                               → Fact
+ 48. We are concerned in the present case,% with the provisos to sub-s. (1) of s. 83 .                                        → Fact
+ 49. That proviso says, "Provided that where the petitioner alleges any corrupt practice, the petition shall also be accompan → Fact
+ 50. S. 86 lays down that if the petition is not dismissed under s. 85 , <ORG> shall cause a copy of the petition to be publi → Fact
+ 51. We may skip over ss.                                                                                                     → Fact
+ 52. 87 , 88 and 89 which deal with matters with which we are not directly concerned.                                         → Fact
+ 53. We then come to s. 90 which lays down the procedure to be followed before <ORG>.                                         → Fact
+ 54. Sub-s. (1) of s. 90 says that subject to the provisions of the Act and of any rules made thereunder, every election peti → Fact
+ 55. Sub-s. (3) of s. 90states : 
+''The <ORG> shall dismiss an election peti- tion which does not comply with the provisions  → Fact
+ 56. Explanation-An order of the <ORG> dismissing an election petition under this subsection shall be deemed to be an order m → Fact
+ 57. Sub-s (4) of s. 90 states that any candidate not already a respondent shall, upon application made to the <ORG> within f → Fact
+ 58. Sub-s. (6) states that every election petition shall be tried as expeditiously as possible and endeavour shall be made t → Fact
+ 59. Let us now examine the preliminary objections which have been urged before us on behalf of the appellant, in the light o → Fact
+ 60. We take first the objection based on the joinder of <NAME><NAME> or <NAME>alji to Election petition No.                  → Fact
+ 61. The argument on this part of the case is the following Learned counsel for the appellant has contended that the provisio → Fact
+ 62. He has relied for this purpose on sub-s. (3) of s. 90 .                                                                  → Fact
+ 63. He has further contended that in view of the aforesaid provisions of the Act, namely, the provisions in s. 82 and sub-s. → Fact
+ 64. The foundation of the argument is that there has been a non-compliance with the provisions of s. 82 .                    → Precedent
+ 65. If that foundation is absent, then the whole argument disappears.                                                        → Precedent
+ 66. Now, it is admitted that <NAME><NAME> or <NAME>alji was not a contesting candidate within the meaning of s. 82 because h → Precedent
+ 67. The admitted position further is that all the contesting candidates were joined to the petition as required by s. 82 .   → Precedent
+ 68. Therefore, what happened was this All 'the parties whom it was necessary to join under the provisions of s. 82 were join → Precedent
+ 69. The question before us is, does this amount to non- compliance with, or contravention of, the provisions of s. 82 ?      → Precedent
+ 70. Learned counsel for the appellant wishes us to read s. 82 as though it said that the persons named therein and no others → Precedent
+ 71. He wants us to add the words "and no others" in the section.                                                             → Precedent
+ 72. We find no warrant for such a reading of s. 82 .                                                                         → Precedent
+ 73. We agree with the High <ORG> that if all the necessary parties have been joined to the election petition, the circumstan → Precedent
+ 74. It is open to <ORG> to strike out the name of the party who is not a necessary party within the meaning of s. 82 of the  → Precedent
+ 75. The position will be different if a person who is required to be joined as a necessary party under s. 82 is not impleade → Precedent
+ 76. That however is not the case here and we are of the view that the learned counsel for the appellant has failed to make o → Precedent
+ 77. In the view we have taken it is unnecessary to consider further the legal effect of a contravention of the provisions of → Precedent
+ 78. It is perhaps necessary to add that learned counsel for the respondents relied on the decision of this court in <CITATIO → Precedent
+ 79. S. 82 then provided as follows: 
+"A petitioner shall join as respondents to his petition all the candidates who were dul → Precedent
+ 80. minated at the election other than himself if he was so nominated."                                                      → Precedent
+ 81. Sub-s. (4) of s. 90 then provided that notwithstanding anything contained in s. 85 , the tribunal may (1)  S.C.R.        → Precedent
+ 82. 582 
+dismiss an election petition which does not comply with the provisions of ss.                                       → Precedent
+ 83. There has -been a change of law since that decision.                                                                     → Precedent
+ 84. S. 82 has been re-cast and sub-s. (3 of s. 90 now states that the tribunal shall dismiss an election petition which does → Precedent
+ 85. Therefore we do not think that the decision in <CITATION_1292810> (1), is determinative of the problem before us.        → Precedent
+ 86. We need not however pursue this question any further, because we have held that in the present cases there was no contra → Precedent
+ 87. We now go to the second point.                                                                                           → Precedent
+ 88. <NAME>ut before we do so, it may perhaps be stated that certain defects in the verification of Election Petition No.     → Precedent
+ 89. 269 of 1962 have been brought to our notice, as they were brought to the notice of <ORG>.                                → Precedent
+ 90. One of these defects was that though the verification stated that the averments made in some of the paragraphs of the pe → Precedent
+ 91. <ORG> took the view that this defect in verification was a matter which came within cl.                                  → Precedent
+ 92. (c) of sub-s. (1) of s. 83 and the defect could be removed in accordance With the principles of the Code of Civil Proced → Precedent
+ 93. <ORG> further held that such, a defect did not attract sub-s. (3) of s. 90 inasmuch as that sub-section does not refer t → Precedent
+ 94. We agree with the view expressed by <ORG>.                                                                               → Precedent
+ 95. We have pointed out that sub-s. (4) of (1)  S.C.R.                                                                       → Precedent
+ 96. 892 s. 90 originally referred to three sections, namely, is 81, 83 and 117.                                              → Precedent
+ 97. It said that nothwithstanding anything contained in s. 85 the <ORG> might dismiss an election petition which did not com → Precedent
+ 98. S. 90 .was amended by Act 27 of 1956.                                                                                    → Precedent
+ 99. Sub-s. (3) then said that the <ORG> shall dismiss an election petition which does not comply with the provisions of s. 8 → Precedent
+100. There was a further amendment by Act 40 of 1961 and sub-s. (3) of s. 90 as it now stands has already been quoted by us i → Precedent
+101. It seems clear to us that reading the relevant sections in Part VI of the Act, it is impossible to accept the contention → Precedent
+102. (c) of sub-s. (1) of s. 83 is fatal to the maintainability of the petition.                                              → Precedent
+103. On behalf of the appellant it has been further contended that the copy of the petition which was served on the appellant → Precedent
+104. (3) of s. 81 of the Act.                                                                                                 → Precedent
+105. The argument is that a failure to comply with the provisions of sub-s. (3) of s. 81 attracts sub-s. (3) of s. 90 and it  → Precedent
+106. On the basis of the decision of this court in Sri <NAME>abu Ran v. <NAME> (1), it is contended that the principle in suc → Precedent
+107. 584 
+It is argued that no question of substantial compliance arises in such cases, and the mandatory requirement must be → Precedent
+108. Let us first see what are the defects found in the copy of the petition served on the appellant.                         → Precedent
+109. It is admitted that the first part of sub-s. (3) of s. 81 has been complied with and the election petition was accompani → Precedent
+110. It is also admitted that one more copy for the use of <ORG> was also given with the petition.                            → Precedent
+111. The' last part of the sub-section says that "'every such copy shall be attested by the petitioner under his own signatur → Precedent
+112. The grievance of the appellant is that this part of the sub- section was not complied with inasmuch as (1) the copy whic → Precedent
+113. As to the first of these defects <ORG> pointed out that every page of the copy served on the appellant was attested to b → Precedent
+114. With regard to the second defect <ORG> apparently took the view, though it did not say so in so many words, that the omi → Precedent
+115. paragraph 14-g (ii) in the verification in the copy served on the appellant was a case of mere oversight which did not m → Precedent
+116. The High <ORG> took the view that the defect was not of such a nature as to amount to noncompliance with the provisions  → Precedent
+117. 585 
+We agree with the High <ORG> and <ORG> that the first defect is not a defect at all.                                → Precedent
+118. When every page of the copy served on the appellant was attested to be a true copy under the signature of the petitioner → Precedent
+119. Sub-s. (3) of s. 81 requires that the copy shall be attested by the petitioner under his own signature and this was done → Precedent
+120. As to the second defect the question really turns on the true scope and effect of the word "copy" occurring in sub-s. (3 → Precedent
+121. On behalf of the appellant the argument is that sub-s. (3) of s. 81 being mandatory in nature all the requirements of th → Precedent
+122. On behalf of the respondents the contention is that the word "copy" means that which comes so near to the original as to → Precedent
+123. Alternatively, the argument is that the last part of sub-s. (3) dealing with a copy is merely directive, and for this re → Precedent
+124. We are of the view that the word ""copy" in sub-s. (3) of s. 81 does not mean an absolutely exact copy, but means that t → Precedent
+125. In this view of the matter it is unnecessary to go into the further question whether any part of sub-s. (3) of s. 81 is  → Precedent
+126. Several English decisions were cited at the <NAME>ar The earliest decision cited to us is the decision in <NAME> v. <NAM → Precedent
+127. The reason given was thus expressed : 
+"To ascertain whether or not an unfaithful copy produces any alteration in the me → Precedent
+128. 1111 supposes an exertion of intellect which it may be inconvenient to require at the hands of those who serve the copy. → Precedent
+129. It was to obviate this inconvenience, that the legislature has.given a form, and required that it should be pursued.     → Precedent
+130. Nothing but ordinary care is neccs- sary for taking the copy."                                                           → Precedent
+131. In a later decision <NAME> v. <NAME> and <NAME>urgess the copy of the writ served on the defendant omitted the letter "s → Fact
+132. In <NAME> v. <NAME> (2), there was a motion to set aside the service of the writ of summons for irregularity, on the gro → Fact
+133. It was held that the form in the statute 2 Will 4, c. 39 s. I did not require the addition of the defendant to be insert → Fact
+134. The writ of summons was therefore valid.                                                                                 → Fact
+135. In another case in the same volume <NAME> v. <NAME> (2), it was held that where a writ of capias described the defendant → Fact
+136. 4, c. 39, s. 4 On behalf of the respondents a number of decision under the <NAME>ills of Sale Act, 1878 and the Amend me → Fact
+137. c. 43) were cited The question in those cases was whether the bill was ""in accordance with the form in the schedule to  → Fact
+138. In re <NAME> Ex parte Kahen (4), it was held that a "true copy" of a bill of sale within the <NAME>ills of Sale Act, 187 → RulingByLowerCourt
+139. (4) (1882) 21 CH D 871 would be thereby misled.                                                                          → RulingByLowerCourt
+140. The same view was expressed in several other decisions and it is unnecessary to refer to them all.                       → RulingByLowerCourt
+141. Having regard to the provisions of Part VI of the Act, we are of the view that the word "copy" does not mean an absolute → RulingByLowerCourt
+142. It means a copy so true that nobody can by any possibility misunderstand it.                                             → RulingByLowerCourt
+143. The test whether the copy is a true one is whether any variation from the original is calculated to mislead an ordinary  → RulingByLowerCourt
+144. Applying that test we have come to the conclusion that the defects complained of with regard to Election Petition No.    → RulingByLowerCourt
+145. 269 of 1962 were not such as to mislead the appellant ; therefore there was no failure to comply with the last part of s → RulingByLowerCourt
+146. In that view of the matter sub-s. (3) of s. 90 was not attracted and there was no question of dismissing the election pe → RulingByLowerCourt
+147. This disposes of the second preliminary objection raised before us.                                                      → RulingByLowerCourt
+148. We now turn to the third preliminary objection and this relates to the affidavit which accompanied the petition in respe → RulingByLowerCourt
+149. The argument on this part of the case is that the affidavit was neither in the prescribed form nor was it properly sworn → RulingByLowerCourt
+150. The argument further is that an election petition under s. 81 must comply with the provisions of s. 83 and unless it com → RulingByLowerCourt
+151. We think that this contention hag been sufficiently disposed of by what has been stated by <ORG>.                        → RulingByLowerCourt
+152. <ORG> has rightly pointed out that the affidavit was in the prescribed form but due to inexperience the oaths Commission → RulingByLowerCourt
+153. The <ORG> said : 
+"It appears that due to inexperience of the <ORG> Commissioner instead of "verified before me" words,  → RulingByLowerCourt
+154. The signature of the deponent have been obtained in between the writing with respect to admission on oath of the content → RulingByLowerCourt
+155. According to the prescribed form the verification should be " solemnly affirmed or sworn by "such and such" on "such and → RulingByLowerCourt
+156. The verification of the affidavit of the petitioner is apparently not in the prescribed form but reading as a whole the  → RulingByLowerCourt
+157. The mistake of the <ORG> Commissioner in verifying the affidavit cannot be a sufficient ground for dismissal of the peti → RulingByLowerCourt
+158. This view of <ORG> was affirmed by the High <ORG>.                                                                       → RulingByLowerCourt
+159. We agree with the view expressed by <ORG> and we do not think that the defect in the verification due to inexperience of → RulingByLowerCourt
+160. Turning now to Election Petition No.                                                                                     → RulingByLowerCourt
+161. 295 of 1962, the defect as to the time and place of verification is, as we have said earlier, not a fatal defect.        → RulingByLowerCourt
+162. It is a matter which comes within cl.                                                                                    → RulingByLowerCourt
+163. (1) of s. 83 and the defect can be remedied in accordance with the principles of the Code of Civil Procedure relating to → RulingByLowerCourt
+164. As to the four enclosures which were not re-,produced in the copy served on the appellant, the position was this.        → RulingByLowerCourt
+165. In the original petition there was an endorsement to the following effect "Enclosed : 
+1.                                → RulingByLowerCourt
+166. Two copies of the grounds of election petition.                                                                          → RulingByLowerCourt
+167. Original <ORG> receipt of Rs.                                                                                            → RulingByLowerCourt
+168. 2,000/- as security deposit.                                                                                             → RulingByLowerCourt
+169. Certified copy of the order of the Returning Officer rejecting the nomination dated 22-1-1962.                           → RulingByLowerCourt
+170. <NAME> duly stamped."'                                                                                                   → RulingByLowerCourt
+171. In the copy served on the appellant the original <ORG> receipt of Rs.                                                    → RulingByLowerCourt
+172. 2,000/- deposited byway_ of security was not re-produced.                                                                → RulingByLowerCourt
+173. A certified copy of the order of the returning officer rejecting the nomination of the petitioner was appended to the co → RulingByLowerCourt
+174. As to the security deposit it was mentioned in the body of the petition (paragraph 9) that such a deposit had been made. → RulingByLowerCourt
+175. The certified copy of the rejection of the nomination paper was verified to be a true copy and we fail to see how any fu → Fact
+176. It is obvious to us that a copy of the vakalatnama was not required under sub-s. (3) of s. 81 nor was it necessary to ma → Fact
+177. It is not disputed that copies as required by sub-s.(3) of s. 81 were filed.                                             → Fact
+178. The only' grievance made is that the endorsement "two copies" was not repated in the enclosure portion of the copy serve → Fact
+179. We have already explained what is meant by the word " copy" in sub-s. (3) of s. 81 and we are of the view that the defec → Fact
+180. In conclusion we have to point out that we allowed one Dr. <NAME> to intervene in these appeals on the grounds mentioned → RulingByLowerCourt
+181. The intervener supported the arguments advanced on behalf of the appellant.                                              → RulingByLowerCourt
+182. We have fully dealt with those arguments in this judgment and nothing further need be said about the intervener's petiti → RulingByLowerCourt
+183. For the reasons given above, we see no merit in these two appeals.                                                       → RulingByLowerCourt
+184. The appeals are accordingly dismissed with costs.                                                                        → RulingByLowerCourt
+185. Appeals dismissed.                                                                                                       → RulingByLowerCourt
+
+🎉 Full judgment processed successfully!
