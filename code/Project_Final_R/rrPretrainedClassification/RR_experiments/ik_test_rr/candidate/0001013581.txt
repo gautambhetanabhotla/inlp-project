@@ -1,0 +1,140 @@
+Fact	PETITIONER: <ORG> & OTHERS Vs. RESPONDENT: UNION OF INDIA & OTHERS DATE OF JUDGMENT14/03/1984 BENCH: <NAME>, E.S.
+Fact	(J) BENCH: <NAME>, E.S.
+Fact	(J) MISRA, R.B.
+Fact	(J) CITATION: 1984 AIR 971 1984 SCR (3) 180 1984 SCC (3) 362 1984 SCALE (1)480 CITATOR INFO : R 1990 SC 313 (22) RF 1990 SC 772 (31) RF 1991 SC1676 (72) ACT: Constitution of India 1950, Article 226  Indian Contract Act 1872, Section 72 Limitation Act 1963, Section 17(1)(c) & Article 113.
+Fact	Central Excise & Salt Act 1944, First Schedule, Item 23A(1) and Item 68.
+Fact	Excise duty-Claim for refund of excess duty paid- Jurisdiction of <ORG> to order refund in a petition under Article 226.
+Fact	HEADNOTE: Appellant No.
+Fact	1 was a company engaged in the business of manufacturing different types of glass, viz., figured glass, wired glass, coloured figured glass, rolled glass and coolex wired glass.
+Fact	<ORG> had levied and collected excise duty on the said goods on the basis that they belonged to the category of 's heet glass' and were therefore subject to payment of excise duty under Item 23A(1) of the First Schedule to the Central Excise and Salt Act , 1944.
+Fact	On February 20, 1976, the appellants applied for the refund of excess duty paid by them from October 1, 1963 upto the date of the application on the ground that the items of glass in question could not be described as 'sheet glass' mentioned in Item 23A and that since they did not fall under any of the Items ] to 67 in the First Schedule of the Act they could only be subjected to levy of excise duty under the residuary provision, Item 68.
+Fact	The Assistant Collector of Central Excise rejected the claim for refund and the appellants there-upon filed a Writ petition in <ORG> on September 28, 1976, but the same was withdrawn as a Departmental Appeal filed by the appellants was pending with the Collector.
+RulingByLowerCourt	The said Departmental Appeal was however later dismissed and this order was confirmed in the appellants' revision petition to the Government.
+Fact	The appellants the reupon filed a Writ Petition in <ORG> and assailed the order.
+Fact	<ORG> reversed the decision of the departmental authorities and held that the items of glass manufactured by the appellants did not fall within the scope of tariff Item 23A(I) of the First Schedule but that they came within tariff Item 68 thereof, liable to duty accordingly, and directed refund of excess duty paid after February 20, 1976, on which date the dispute was raised.
+Fact	The claim for refund of excess 'duty paid during the period prior to February 20, 1976 was, however, rejected.
+Fact	In the appeal to this Court on the question: (I) whether the appellants are resettled to claim refund of excess excise duty paid prior to February 20, 181 1976 and whether they are entitled to claim refund of such duty paid between A October 1, 1963 and February 20, 1976 or during any shorter period, and (2) whether the appellants are entitled to claim such refund in respect of all the goods.
+Fact	Allowing the appeal in part.
+Fact	^ HELD: 1.
+Fact	(i) The excess amo unt paid by the appellants would have become refundable by virtue of section 72 of the Indian Contract Act if the appellants had filed a Suit within the period of limitation.
+Fact	Section 1  1(1)(c) of the Limitation Act, 1963 provides that where in the case of any suit or application for which a period of limitation is prescribed under that Act, the suit or application is for relief from the consequences of a mistake, the period of limitation shall not begin to run until the plaintiff or applicant had discovered it or could have with reasonable diligence discovered it.
+Fact	[186F-G] (ii) Under Article 113 of the Limitation Act .
+Fact	1963 a suit for recovery of excess duty had to be filed within three years from the date of payment to the <ORG>.
+RatioOfTheDecision	[187B] (iii) <ORG> have power, for the purpose of enforcement of fundamental rights and statutory rights to make consequential orders for repayment of money realised by <ORG> without the authority of law under Article 226 of the Constitution.
+RatioOfTheDecision	This is an alternat ive remedy provided by the Constitution in addition to, but not in supersession of the ordinary remedy by way of suit in the absence of any provision which would bar such a suit expressly or by necessary implication.
+RatioOfTheDecision	While there are different periods of limitation prescribed for the institution of different kinds of suits by the Limitation Act .
+RatioOfTheDecision	1963, there is no such period prescribed by law in respect of petitions filed under Article 226 of the Constitution.
+RatioOfTheDecision	Whether relief should be granted to a petitioner under Article 226 where the cause of action had arisen in the remote past is a matter of sound judicial discretion governed by the doctrine of laches.
+RatioOfTheDecision	Where a petitioner who could have availed of the alternative remedy by way of suit approaches <ORG> under Article 226 , it is appropriate ordinarily to construe that any unexplained delay in filing of the writ petition after the expiry of the period of limitation prescribed for filing a suit as unreasonable.
+RatioOfTheDecision	This rule.
+RatioOfTheDecision	however, cannot be a rigid fo rmula.
+RatioOfTheDecision	Each case has to be judged on its own facts and circumstances touching the conduct of the parties, the change in situation, the prejudice which is likely to be caused to the opposite party or to the general public.
+RatioOfTheDecision	[187D-H] In the instant case, the appellant had made excess payment on being assessed by the <ORG> and such payment cannot be treated as voluntary payment precluding them from recovering the amounts.
+RatioOfTheDecision	The appellants should in the facts and circumstances of this case be deemed to have discovered the mistake on the date of making each payment of excise duty in excess of the proper duty payable under law.
+Argument	All such excess payments made on or after September 28, 1973 which would fall within the period of three years prior to the date on which the first writ petition was filed should have been ordered to be refunded under Article 226 But <ORG> declined to do so.
+Argument	Though 182 the appellant should not be granted any relief in respect of payment made between October 1, 1963 and September 2 7, 1973 which would fall beyond the three years from the date of the first writ petition, it is not proper and just to negative the claim in respect of excess payments made after September 28, 1973.
+Argument	<ORG> officer, <CITATION_1263190> ,  S.C.R.
+Argument	1350, referred to.
+Argument	2.
+Argument	In respect of wired glass, a dispute has arisen between the <ORG> and the appellants earlier and in that case while the <ORG> claimed that wired glass was subject to payment of duty under tariff Item 23A(4) the appellants pleaded that wired glass was liable to duty under tariff Item 23A(1).
+RatioOfTheDecision	<ORG> ultimately accepted the case of the appellants, .
+RulingByLowerCourt	and duty was paid on that basis till February 20, 1976.
+RulingByLowerCourt	While the earlier order may not be a legal bar to the contention raised by the appellants on February 20, 1976 that wired glass was not taxable under tariff Item 23A(l) but under tariff Item 68 after that date, it is certainly a circumstance which disentitles the appellants to claim refund of excess duty paid by them in a  petition under Article 226.
+RulingByLowerCourt	The claim for refund of excess duty paid on wired glass during the period prior to February 20, 1976 is therefore liable to rejected.
+Fact	[185G-186C] JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	3338 of From the Judgment and order dated 22 and 23-11-78 of - <ORG> in Spl.
+Precedent	Civil Application No.
+Precedent	577 of 1978.
+Precedent	<NAME>, <NAME> and Ms. <NAME> for the appellants.
+Precedent	<NAME>, <NAME> and <NAME> for the respondents.
+Precedent	The Judgment of the Court Was delivered by <NAME> J.
+Fact	This appeal by special leave is filed against the judgment and order dated November 22/23, 1978 of <ORG> in Special Civil Application No.
+Fact	- 577 of 1978 filed under Article 226 of the Constitution.
+Fact	Appellant No.
+Fact	I is a company which is engaged in the business of manufacturing different types of glass viz.
+Fact	figured glass wired glass, coloured figured glass, rolled glass and coolex wired glass at Vallabh Vidyanagar in the State of Gujara t from the year 1963.
+Fact	Appellant No.
+Fact	2 is the Managing Director of appellant No.
+Fact	t. <ORG> had levied and collected excise duty On the said goods on the basis that they belonged to the category of sheet glass and were therefore subject to payment of excise duty under Item 23A (1) of the First Schedule to the Central Excises and Salt Act , 1944 (hereinafter referred to as 'the Act').
+Fact	On February 20, 1976, the appellants applied for the refund of excess duty paid by them from October 1, 1963 upto the date of the application on the ground that the item of glass in question were distinct commercial goods known in the market as figured glass, wired glass, coloured figured glass, rolled glass, coolex figured glass and coolex wired glass and could not be described in common parlance as 'sheet glass' mentioned in Item 23A and that since they did not fall under any of the Items 1 to 67 in the First Schedule to the Act they could only be subjected to levy of excise duty under the residuary provisi on Item 68 in that Schedule after it was inserted in it.
+Fact	Item 23A of the First Schedule to the Act at all material times read as.-  (1) Sheet glass and plate Thirty per cent ad glass valorem (2) Laboratory glassware Ten per cent ad valorem (3) Glass shells, glass Fifteen per cent ad globes and chimneys valorem for lamps and lanterns (4) other glassware inclu- Thirty per cent ad ding tableware valorem."
+Fact	The relevant part of tariff Item 68 which was introduced from March 1, 1975 read as: .
+Fact	"68.
+Fact	All other goods not one per cent ad elsewhere specified, valorem manufactured in a factory but excluding (a) alcohol, all sorts, including alcoholic liquors for human consumption.
+Fact	(b) opium, Indian hemp and other narcotic drugs and narcotics; and (c) dutiable goods as defined in sections 2(c) of the Medici- nal and Toilet Preparations (Excise Duties) Act, 1955."
+Fact	After holding an enquiry and hearing the appellants, the Assistant Collector of Central Excise, Anand rejected the claim for refund by his order dated Septem ber 20, 1976 because he was of the view that the items of goods in respect of which dispute had been raised fell within the purview of tariff Item 23A (1).
+Fact	Against the said order of the Assistant Collector the appellants filed a writ petition in Special Civil Application No.
+Fact	1365 of 1976.
+Fact	On the file of <ORG> on September 28, 1976.
+Fact	The said petition was admitted but when it was taken up for Final hearing it was contended on behalf of the <ORG> that since the appellants had also filed an appeal against the very same order before the Collector of Central Excise they could not pursue the remedy under Article 226 of the Constitution as it stood then.
+Fact	In view of the above contention the writ petition was withdrawn without prejudice to the remedy by way of appeal.
+Fact	The appeal was thereafter disposed of by the Collector on July 27, 1977 affirming the order of.
+Fact	the Assistant Collector.
+Fact	A revision petition filed by the appellants against the order of the Collector was dismissed by <ORG>  by its order dated February 2, 1978.
+Fact	The said order in revision was challenged before <ORG> by the appellants under Article 226 of the Constitution.
+Fact	<ORG> by its judgment under appeal reversed the decision of the departmental authorities which had, been affirmed by <ORG> and held that the items of glass manufactured by the appellants namely, figured glass, wired glass, coloured figured glass, rolled glass and coolex wired glass did not .
+RulingByLowerCourt	fall within the scope of tariff Item 23A(1) of the First Schedule to the Act as it stood at the material time but they came within tariff Item 68 and were liable to bear duty accordingly.
+RulingByLowerCourt	<ORG> was, however, of the view that the appellants were only entitled to refund of excess duty paid by them after February 20, 1976 on which date they raised the dispute.
+RulingByLowerCourt	Accordingly <ORG> issued a writ quashing the decision of the <ORG> in so far as the classification of the goods was concerned and declaring that they were subjec t to payment of duty under tariff Item 68 of the First Schedule to the Act aud not under tariff Item 23A(1) thereof.
+RulingByLowerCourt	The <ORG> was further directed to review the relevant assessments accordingly for the period subsequent to February 20, 1976 and to refund any excess duty that might after such review be found to be refundable to the appellants.
+RulingByLowerCourt	The claim of the appellants for refund of excess duty paid during the period prior to February 20, 1976 was, however, rejected.
+Fact	The appellants have filed this appeal by-special leave only as regards the rejection by <ORG> of their prayer for refund of excess- duty paid by them prior to February 20, 1976.
+Fact	The <ORG> has not filed any appeal against the judgment of <ORG>.
+RulingByLowerCourt	Hence the decision that the goods were taxable under tariff Item 68 and not under tariff Item 23A(1) of the First Schedule to the Act has become final.
+RulingByLowerCourt	Item 23A(1) is also stated to have been since amended suitably so as to bring the items of glass in dispute within its scope .
+RulingByLowerCourt	The question which arise for consideration in this appeal are therefore (I) whether the appellants are entitled to claim refund of - excess excise duty which had-been paid by them prior of February 20, 1976 and if so, whether they are entitled to claim refund of such duty paid between October l, ;963 and February 20,1976 or during any shorter period and (2) whether the appellants are entitled to claim such refund in respect of all the goods in question.
+RulingByLowerCourt	F Since it is convenient to dispose of the second question at this stage, we shall take it up first.
+RulingByLowerCourt	A few more facts which are relevant to this issue have to be stated here.
+RulingByLowerCourt	As mentioned earlier the goods in respect of which dispute had been raised by the appellants in their application dated February 20, 1976 were figured glass, wired glass, coloured figured glass, rolled glass and coolex wired glass.
+RulingByLowerCourt	But it is seen that in respect of wired glass, a dispute had arisen between the <ORG> and the appellants earlier and in that case while the <ORG>  claimed that wired glass was subject to payment of duty under tariff Item 23A(4) the appellants pleaded that wired glass was liable to duty under tariff Item 23A(1).
+RulingByLowerCourt	<ORG> ultimately by its order dated August 24, 1971 (in order No.
+RulingByLowerCourt	261 of 1971 of <ORG> on Central Excise Revision Application accepted the case of the appellants that wired glass was subject to duty wader tariff Item 23A - (1) and the appellants paid duty on that basis till February 20, 1976.
+RulingByLowerCourt	These facts distinguish the case in respect of wired glass from the case in respect of the other goods While the said earlier order may not be a legal bar to the contention raised by the appellants on February 20, 1976 that wired glass was not taxable under tariff Item 23A(1) but under tariff Item 68 after that date, it is certainly a circumstance which disentitles the appellants to claim refund of excess duty paid by them in a petition under Article 226 of the Constitution on a ground contrary to their earlier stand.
+RulingByLowerCourt	The  claim for refund of excess duty paid on wired glass during the period prior to February 20, 1976 is liable to be rejected.
+RulingByLowerCourt	The appeal of the appellants to that extent should, therefore, fall.
+RulingByLowerCourt	In regard to the relief of refund of excess duty paid in respect of the other goods, the case stands on an entirely different footing.
+RulingByLowerCourt	This is a case where the <ORG> had assessed the duty payable by the appellants under a wrong provision.
+RulingByLowerCourt	The appellants were obliged to pay the duty so assessed.
+RulingByLowerCourt	They did not, no doubt, question the assessments by taking a specific stand as they had done earlier in the case of wired glass.
+RulingByLowerCourt	The appellants, however, questioned the validity of the levy only on February 20, 1976 on the ground that tariff Item 23A (1) of the First Schedule to the Act under which the duty has been levied was not applicable to tile goods.
+RulingByLowerCourt	While the <ORG> refused to accept the said plea, <ORG> has upheld it.
+RatioOfTheDecision	In view of the decision of <ORG>, the fact that the appellant had paid duty in  excess of what they were bound in P law to pay should be now taken as having been established.
+RatioOfTheDecision	It is.
+RatioOfTheDecision	not disputed that if the appellants had filed a suit within the period of limitation the excess amount would have become refundable by virtue of section 72 of the Indian Contract Act.
+RatioOfTheDecision	Section 17(1)(c) of - the Limitation Act , 1963 provides that where in the case of any suit or application for which a period of limitation is prescribed under that Act, the suit or application is for relief from the consequence of a mistake, the period of limitation shall not begin to run until the plaintiff or applicant had discovered it or could have with reasonable diligence discovered it.
+RatioOfTheDecision	In the instant case the date on which the mistake was discovered by the appellants or the date on which the appellants could with reasonable diligence have discovered it is not clear from the record before us.
+RatioOfTheDecision	No efforts also was made in the course of the arguments urged on behalf of the appellants to establish it.
+RatioOfTheDecision	We have, therefore, to  assume that on the date each payment of excise duty made by the appellants in excess of the proper duty payable by them, the appellants could have discovered with due diligence that the duty claimed from them was excessive.
+RatioOfTheDecision	Under Article 113 of the Limitation Act , 1963 which is applicable to this case, a suit for recovery of such excess duty had to be filed within three years from the date of payment to the <ORG>.
+Fact	But the appellants instead of filing a suit, first filed a writ petition in Special Civil Application No.
+Fact	1365 of 1976 on September 28, 1976 and that petition had to be withdrawn in view of clause (3) of Article 226 of the Constitution as it stood then because the alternative remedy by way of an appeal was available.
+RatioOfTheDecision	The appellants could, therefore, file the writ petition out of which the appeal arises only after the disposal of the revision petition by <ORG> as mentioned earlier.
+RatioOfTheDecision	lt is not disputed that <ORG> have power, for the purpose of enforcement of fundamenta l rights and statutory rights, to make consequential orders for repayment of money realised by the <ORG> without the authority of law under Article 226 of the Constitution.
+RatioOfTheDecision	This is an alternative remedy provided by the Constitution in additional to but not in supersession of the ordinary remedy by way of suit in the absence of any provision which would bar such a suit either expressly or by necessary implication.
+RatioOfTheDecision	While there are different periods of limitation prescribed for the institution of different kinds of suits by the limitation Act, 1963, there is no such period prescribed by law in respect of petitions filed under Article 226 of the Constitution.
+RatioOfTheDecision	Whether relief should be granted to a .
+RatioOfTheDecision	petitioner under Article 226 of the Constitution where the cause of action had arisen in the remote past is a matter of sound judicial discretion governed by the doctrine of laches.
+RatioOfTheDecision	Where a petitioner who could have availed of the alternative remedy by way of suit approaches <ORG> under Article 226 of the  Constitution, i. is appropriate ordinarily to construe that any unexplained delay in the filing of the writ petition after the expiry of the period of limitation prescribed for filing a suit as unreasonable.
+RatioOfTheDecision	This rule, however, cannot be a rigid formula.
+RatioOfTheDecision	There may be cases where even a delay of a shorter period may be considered to be sufficient to refuse relief in a petition under Article 226 of the Constitution.
+RatioOfTheDecision	There may also be cases where there may be circumstances which may persuade the court to grant relief even though the petition may have been filed beyond the period of limitation prescribed for a suit.
+RatioOfTheDecision	Each case has to judged on its own facts and circumstance touching the conduct of the parties, the change in situation, the prejudice which is likely to be caused to the opposite party or to the general public etc.
+RatioOfTheDecision	In the instant case, the appellants had in fact approached <ORG> on September 28, 1976 itself by filing Special Civil Application No.
+RulingByLowerCourt	1365 of 1976 for directing repayment of the e xcess duty paid by them.
+RulingByLowerCourt	But no relief could be granted in that petition in view of the provisions of Article 226 of the Constitution as it stood then and the petition had to be withdrawn.
+RulingByLowerCourt	Hence even granting that on the date of making each payment of excise duty in excess of the proper duty payable under law, the appellants should be deemed to have discovered the mistake, all such excess payments made on and after September 28, 1973 which would fall within the period of three years prior to the date on which Special Civil Application No.
+RulingByLowerCourt	1365 of 1976 was filed should have been ordered to be refunded under Article 226 of the Constitution.
+RulingByLowerCourt	But <ORG> declined to do so on grounds of estoppel and acquiescence.
+RulingByLowerCourt	While we do agree that the appellants should not be granted any relief in respect of payment made between October 1, 1963 and September 27, 1973 which would fall beyond three years from the date of the first writ petition filed in this case we do not find it proper and just to negative the claim of  the appellants in respect of excess payments made after September 28, 1973.
+RulingByLowerCourt	In the instant case the appellants had made excess payments on being assessed by the <ORG> and such payments cannot be treated as voluntary payments precluding them from recovering them.
+RulingByLowerCourt	(See <ORG> officer, <CITATION_1263190> .
+RulingByLowerCourt	We do not also find that the conduct of the appellants is of such a nature as would disentitle them to claim refund of excess payments made in respect of goods other than wired glass.
+RulingByLowerCourt	We, therefore, modify the judgment and order passed by <ORG> by quashing the assessments of excise duty made in respect of the goods in question other than wired glass viz.
+RulingByLowerCourt	figured glass, coloured figured glass, rolled glass and coolex wired glass for the period between September 28, 1973 and February 20, 1976 also and directing the assessing authority to make a fresh assessment in accordance with law in the light of the decision of <ORG>.
+RulingByLowerCourt	a The respondents are further directed to refund after such fre sh determination any excess duty that may be found to have been paid by the appellants.
+RulingByLowerCourt	The fresh assessments shall be completed within four months from today.
+RulingByLowerCourt	The appeal is, however, dismissed in A so far it relates to the claim for refund of excess duty paid in respect of wired glass during that period.
+RulingByLowerCourt	The appeal is accordingly allowed in part.
+RulingByLowerCourt	No costs.
+Fact	N.V.K.
+RulingByPresentCourt	Appeal partly allowed.

@@ -1,0 +1,123 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal from a judgment of <ORG> at Bombay, dated February 27, 1933, whereby the <ORG> answered adversely to the appellants two questions of law, which had been referred to the <ORG> by the Commissioner of Income-tax, Bombay Presidency, on his own motion, under Section 66 (1) of the Indian Income-tax Act (XI of 1922).
+Fact	2.
+Fact	The appellants are a mutual life insurance company, whose head office is in Melbourne, Australia.
+Fact	They have branches all over the world, and in India they have two branches, one of which is in Bombay and the other in Calcutta.
+Fact	The questions of law arise out of a dispute as to the method of computation of the income, profits or gains of the appellant company in the business of its Indian branch offices for the purpose of its assessment to income-tax for the financial year ending on March 31, 1932.
+Fact	3.
+Fact	The facts are set out in the letter of reference and may be summarised as follows :-The company is limited by guarantee and has no sh are capital, the liability of each member being limited to the nominal sum of £1.
+Fact	Every person who insures his life with the company under a participating policy is deemed to have agreed to become a member of the company.
+Fact	There are no shareholders and all the surplus profit is divided amongst the members, who are the persons who take out participating policies.
+Fact	The company also does business in annuities, loans on the security of policies, etc.
+Fact	4.
+Fact	Under Article 85 of the articles of association a triennial actuarial valuation is made by the actuary of the company for all its business, and the surplus profit for the three years thus ascertained is distributed amongst the participating policy-holders.
+Fact	As originally framed, this article provided for a separate valuation for each branch or class of the company's business, but this has now been altered and only a consolidated valuation report is drawn up including all the company's business.
+Fact	The articles do not provide for a separate valuation of the business of  branch offices, and it is not stated whether in fact such separate valuations have been made.
+Fact	5.
+Fact	From the documents submitted along with the letter of reference it appears that approximately 98 per cent, of the company's total business is done with its members, the participating policy-holders.
+Fact	Before the Board, it was accepted throughout by both parties that the principles laid down in the English case of <ORG> v. <NAME> (1889) 14 App.
+Precedent	Cas.
+Precedent	381 apply in India; this was decided by <ORG> in a case between the parties to this appeal, Commissioner of Income-tax, Bombay Presidency V. The National Mutual Life Association of Australasia, Ltd. (1931) I.L.R.
+Precedent	55 Bom.
+Precedent	637 : s.c. 33 Bom.
+Precedent	L.R.
+Argument	807, and, while not meaning thereby to imply any doubts, their Lordships need not and do not express any opinion on this matter.
+Argument	6.
+Statute	The following are the material provisions of the Indian Income-tax Act , 1922, and the statutory rules made thereunder :-  3.
+Statute	Where any Act of the Indian Legislatur e enacts that income-tax shall be , charged for any year at any rate or rates applicable to the total income of an assessee, tax at the rate or those rates shall be charged for that year in accordance with, and subject to the provisions of, this Act in respect of all income, profits and gains of the previous year of every individual, Hindu undivided family, company, firm and , other association of individuals.
+Statute	4.
+Statute	(2) Save as hereinafter provided, this Act shall apply to all income, profits or gains, as described or comprised in section 6 , from whatever source derived, accruing or arising, or received in British India or deemed under the provisions of this Act to accrue, or arise, or to be received in British India.
+Statute	(2) Profits and gains of a business accruing or arising without British India to a person resident in British India shall, if they are received in or brought into British India, be deemed to have accrued or arisen in British India and to be profits and gains of the year in which they are so rece ived or brought, notwithstanding the fact that they did not so accrue or arise in that year, provided that they are so received or brought in within three years of the end of the year in which they accrued or arose.
+Statute	10.
+Statute	(1) The tax shall be payable by an assessee under the head "Business" in respect of the profits or gains of any business carried on by him.
+Statute	13.
+Statute	Income, profits and gains shall be computed, for the purposes of Sections 10 , 11 and 12 in accordance with the method of accounting regularly employed by the assessee : Provided that, if no method of accounting has been regularly employed, or if the method employed is such that, in the opinion of the Income-tax Officer, the income, profits and gains cannot properly be deduced therefrom, then the computation shall be made upon such basis and in such manner as the Income-tax Officer may determine.
+Statute	22.
+Statute	(1) The principal officer of every company shall prepare, and, on or before the fifteenth day of June in each year, furnish to the Income-tax Officer a  return, in the prescribed form and verified in the prescribed manner, of the total income of the company during the previous year : Provided that the Income-tax Officer may, in his discretion, extend the date for the delivery of the return in the case of any company or class of companies.
+Statute	(4) The Income-tax Officer may serve on the principal officer of any company or on any person upon whom a notice has been served under sub-section (2) a notice requiring him, on a date to be therein specified, to produce, or cause to be produced, such accounts or documents as the Income-tax Officer may require : Provided that the Income-tax Officer shall not require the production of any accounts relating to a period more than three years prior to the previous year.
+Statute	23.
+Statute	(1) If the Income-tax Officer is satisfied that a return made under Section 22 is correct and complete, he shall assess the total income of the assessee, and shall determine the sum payable by him on the basis of such return.
+Statute	(2) If the Income-tax Officer  has reason to believe that a return made under Section 22 is incorrect or incomplete, he shall serve on the person who made the return a notice requiring him, on a date to be therein specified, either to attend at the Income-tax Officer's office or to produce, or to cause to be there produced, any evidence on which such person may rely in support of the return.
+Statute	(3) On the day specified in the notice issued under sub-section (2), or as soon afterwards as may be, the Income-tax Officer, after hearing such evidence as such person may produce and such other evidence as the Income-tax Officer may require, j on specified points, shall, by an order in writing, assess the total income of the assessee, and determine the sum payable by him on the basis of such assessment.
+Statute	(4) If the principal officer of any company or any other person fails to make a return under sub-section (1) or sub-section (2) of Section 22 , as the case may be, or fails to comply with all the terms of a notice issued under sub-section (4) of th e same section or, having made a return, fails to comply with all the terms of a notice issued under sub-section (2) of this section, the Income-tax Officer shall make the 1 assessment to the best of his judgment and, in the case of a registered firm, may cancel its registration.
+Statute	Provided that the registration of a firm shall not be cancelled until fourteen days have elapsed from the issue of a notice by the Income-tax Officer to the firm intimating his intention to cancel its registration.
+Statute	59.
+Statute	(1) <ORG> may, subject to the control of the Governor General in Council, make rules for carrying out the purposes of this Act and for the ascertainment and determination of any class of income.
+Statute	Such rules may be made for the whole of British India or for such part thereof as may be specified.
+Statute	(2) Without-prejudice to the generality of the foregoing power, such rules may- (a) prescribe the manner in which, and the procedure by which, the income, profits and gains shall be arrived at in the cas e of:-  ...  (ii) insurance companies;  (3) In cases coming under Clause (a) of sub-section (2), where the income, profits arid gains liable to tax cannot be definitely ascertained or can be ascertained only with an amount of trouble and expense to the assessee which, in the opinion of <ORG>, is unreasonable, the rules made under that sub-section may-  (a) prescribe methods by which an estimate of such income, profits and gains may be made, and  (b) in cases coming under sub-clause (i) of Clause (a) of sub-section (2), prescribe the proportion of the income which shall be deemed to be income, profits and gains liable to tax, and an assessment based on such estimate or proportion shall be deemed to be duly made in accordance with the provisions of this Act.
+Statute	Rule 25.
+Statute	In the case of <ORG> incorporated in British India whose profits are periodically ascertained by actuarial valuation, the income, profits and gains of <ORG> shall be the average annua l net profits disclosed by the last preceding valuation, provided that any deductions made from the gross income in arriving at the actuarial valuation which are not admissible for the purpose of income-tax assessment, and any Indian income-tax deducted from or paid on income derived from investments before such income is received, shall be added to the net profits disclosed by the valuation.
+Statute	Rule 26.
+Statute	Rule 25 shall apply also to the determination of the income, profits and gains derived from the annuity and capital redemption business of life assurance companies, the profits of which can be ascertained from the results of an actuarial valuation Rule 27.
+Statute	If the Indian income-tax deducted from interest on the investments of a company exceeds the tax on the income, profits and gains thus calculated, a refund may be permitted of the amount by which the deduction from interest on investments exceeds the tax payable on such income, profits and gains.
+Statute	Rule 35.
+Statute	The total income of the Indian branches of <ORG> t insurance companies (<ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, etc.
+Statute	), in the absence of more reliable data, may be deemed to be the proportion of the total income, profits or gains, of the companies, corresponding to the proportion which their Indian premium income bears to their total premium income.
+Fact	On July 22, 1931, the appellant company made a return of its total income, 'E profits or gains from its business in India, based on the year ending September 30, 1930, as the year of account, at a sum of £3,241 14s.
+Fact	8d.
+Fact	Along with the return a revenue account and balance sheet for that year was submitted.
+Fact	In the course of meetings with the Income-tax Officer, certain further information was submitted, which did not satisfy the latter, and, on December 1, 1931, he issued the assessment order which is now in question, " by which he computed the income, profits or gains of the Indian business under Rule 35 at the sum of £38,038, or Rs.
+Fact	5,14,020.
+Fact	The company appealed against this assessment to th e Assistant Commissioner of Income-tax, who confirmed the assessment, and they then requested the Commissioner of Income-tax to refer the matter to <ORG> under Section 66(2) of the Act.
+Fact	The Commissioner took the view that the company's return had not been in the prescribed form, and that, accordingly they had failed to make a return, with the result that the assessment was made by the Income-tax Officer under Sub-section (4) of Section 23 , and the appeal to the Assistant Commissioner was incompetent.
+Fact	Accordingly, as the matter was of importance, he made the reference on his own motion under Section 66 (1).
+Fact	While the point does not directly concern the questions of law referred, their Lordships feel some doubt as to the Commissioner's view that the company had failed to make a return within the meaning of Section 22 (4).
+Fact	7.
+Fact	The two questions of law referred to the Court are as follows :-  (1) Whether the Income-tax Officer, Companies Circle, Bombay, was justified in law in resorting to Rule 35 of th e Income-tax Rules for the purpose of assessing the company to income-tax for the year 1931-32 having regard to the data furnished by it to that Officer.
+Fact	(2) Whether the assessment of the company to income-tax for the year 1931-32 is a legal assessment and binding upon it in view of the opinion expressed by this Honourable Court in Civil Reference No.
+Fact	5 of 1928.
+Fact	The first question involves the appellant company's challenge of the Income-tax Officer's right to have recourse to rule 35, while the second question concerns the validity of his application of the rule.
+Argument	8.
+Argument	The Income-tax Officer is only authorised to have recourse to the method of computation provided by Rule 35 " in the absence of more reliable data ".
+Argument	In the opinion of their Lordships, this requires (a) a scrutiny of the data which in fact had been made available to the Income-tax Officer, irrespective of any question as to the validity or correctness of the return made under Section 22 (1), and (ft) a consideration of the reliability of those  data for the purpose of a proper computation of the income, profits or gains of the company in accordance with Section 13 of the Act.
+Argument	9.
+Argument	The appellant company maintains that the Income-tax Officer had more reliable data available (1) in the return made by the company and the revenue account and balance sheet of the Indian business which accompanied it, or, if that view was unsound, (2) in the said documents, supplemented by the triennial valuation report of the whole business for the triennial period ending on September 30, 1928, and the balance sheet and revenue account of the entire business for the year ended September 30, 1930, in both of which the average rate of interest earned by the invested funds of the company appears.
+Argument	10.
+Argument	The method of computation under these contentions was as follows :- Under (1) the total premium income of the Indian business from non-participating policy-holders amounting to £90 for the year of account, and interest on investments in India and fees received in India to the am ount of £3,151, making a total income of £3,241, no claim in fact being made for deduction of the small proportion of the expenses referable to that part of the business.
+Statute	Under (2) it was proposed to add a sum to represent what might be called the share of the Indian business in the interest earned by the total investments of the company held in Australia, by taking the proportion of that interest arrived at on the ratio borne by the total amount of the transfers from the Indian branches to the head office from their inception, shown in the revenue account and balance sheet of the Indian business as at September 30, 1930, to the total of the company's investments at the same date in the company's balance sheet and revenue account, the interest being calculated at the average rate above mentioned.
+Argument	11.
+Argument	The view taken by the Income-tax Officer, which was concurred in by the Assistant Commissioner, and is maintained in this case, was that in the case of a life insurance company, the only reliable data to arrive  at its profits was by a valuation report, and he asked for a separate valuation report of the Indian business for a triennial period.
+Argument	The company declined to give this, but offered-though stating that they were under no obligation to do so-to send him a separate valuation of their Indian business as at September 30, 1930.
+Argument	A single valuation report as at the end of the year of account would obviously not have been sufficient for the ascertainment of profits; it would be necessary to have a valuation as at the terminus a quo, and this would be afforded either by a valuation as at September 30, 1929, or, in accordance with the practice of the company, a valuation for a triennial period, under which the ascertained profit might be divided equally between the three years.
+Argument	If a valuation report as at September 30, 1930, can be compiled, there can be no obstacle, as counsel for the company admitted, to the compilation of a similar valuation report as at an earlier date.
+Argument	A valuation report over a triennial period is  clearly the more convenient course.
+Argument	12.
+Argument	While <NAME> CJ.
+Argument	expressed himself as inclined to accept the contentions of the appellants as above stated, both the learned Judges decided the case adversely to the appellants on an argument submitted to them for the first time by the Advocate General that income earned in Australia on monies remitted by the Indian branches and invested in Australia was liable to tax under Section 42 of the Act.
+Argument	In their Lordships' opinion, any claim as to liability to tax under Section 42 is a matter outside the letter of reference and is irrelevant to the questions submitted.
+RatioOfTheDecision	It is an altogether different matter that, in making a valuation of the Indian business, it is necessary to consider the reserves held against the liability on the Indian policies, which in fact are held and invested by the head office.
+RatioOfTheDecision	Their Lordships are not concerned in the present case with any possible liability of the company to tax under Section 42 , and they express no opinion on the matter.
+Argument	13.
+Argument	In t he opinion of their Lordships, the Income-tax Officer was entitled to take the view that the income, profits or gains of the Indian business could not properly be deduced from the data supplied by the company with the return.
+Argument	Only a small proportion of the premiums received could be said to represent income, profits or gains, and that would have to be taken on an 1 average basis, as there will be losses on individual policies.
+Argument	As regards the appellants' second contention, their Lordships are of opinion that the Income-tax Officer rightly took the view that the information submitted by the appellants did not afford more reliable data for computation of the income) profits or gains of the Indian business than the method prescribed by Rule 35, which is based on the total income, profits or gains of the company, the proportion attributable to the Indian business being calculated on the ratio of the Indian premium income to their total premium income.
+RatioOfTheDecision	There can be no doubt that the total income, profits or gains o f the company would fall to be computed on the basis of their triennial valuation reports, which, in their Lordships' opinion, is the most reliable method of computation in the case of a life insurance company.
+RatioOfTheDecision	It is the method applied under Rule 25 in the case of companies incorporated in India.
+RatioOfTheDecision	The amount of interest earned on investments, though it is an element in the ascertainment of the income, profits or gains, is not by itself a reliable datum for such ascertainment.
+Argument	14.
+Argument	Their Lordships are therefore of opinion that the Income-tax Officer was justified in resorting to Rule 35.
+Argument	15.
+Fact	Applying Rule 35, the Income-tax Officer assessed the company as follows :-  £ (1) Premiums of the company as a whole for the year ended September 30, 1930 .. 3,244,476 (2) Premiums of the company in British India for the same period .. .. .. 87,942 (3) Net assessable profit of the company as a whole based on a triennial investigations as at September 30, 1928 .. .. 1,405,027 Proportionately profit of British India 38,083  or, at 1s.
+RatioOfTheDecision	5 25|32d.
+RatioOfTheDecision	= Rs.
+RatioOfTheDecision	5,14,020 As regards (1) and (2) if their Lordships assume without deciding that under Rule 35 in its application to the present case " premium income " should include the premiums received in respect of participating policies, it will still remain that as regards (3) the principle of <NAME>'s case (supra) has been altogether ignored.
+RatioOfTheDecision	16.
+RatioOfTheDecision	The " total income, profits or gains, of the companies " referred to in Rule 35, is the income, profits or gains as they would be ascertained for the purposes of the Act.
+RatioOfTheDecision	17.
+RatioOfTheDecision	In the assessment order the following attempt is made to meet this manifest objection-apparently by showing that the figure of £1,405,027 being less than the average receipts (excluding premiums) for a year is not excessive:-  According to the <ORG> decision the surplus profit arising out of contributions from the participating policy-holders is not liable to tax.
+RatioOfTheDecision	From the valuation report of the company as a whole for the triennium ended 30|9|28, it will be seen t hat the income from sources other than participating and non-participating premiums is £4,404,140, i.e., average income for one year is £1,468,047 (about).
+RatioOfTheDecision	The surplus for the year ended September 30, 1930, based on the above said triennial investigations as intimated is £1,405,027 which is less than the average income of £1,468,047.
+RatioOfTheDecision	For the purposes of assessment, it is regarded that the expenditure incurred by the company is first set off against the participating and non-participating premium income and the balance of expenditure against income from other ] sources.
+RatioOfTheDecision	Thus the surplus is regarded as wholly out of income from other sources liable to tax.
+RatioOfTheDecision	18.
+RatioOfTheDecision	This argument cannot be accepted : indeed it is quite inconsistent with the reasons for rejection of the appellants' two contentions on the first question.
+RatioOfTheDecision	<ORG> has entirely ignored the non-participating premiums received, and, on the other hand, has included the whole amount of consideration received in respect of annuities.
+RatioOfTheDecision	Further, h e has deducted nothing in respect of the liabilities of the company, or for the expenses relative to the non-participating business.
+RatioOfTheDecision	It is impossible to regard this figure as a proper ascertainment of the income, profits or gains of the company.
+RatioOfTheDecision	19.
+RatioOfTheDecision	Their Lordships are therefore of opinion that the assessment was not a valid or legal assessment under Rule 35.
+RatioOfTheDecision	20.
+RulingByPresentCourt	Their Lordships, accordingly, are of opinion that the first question in the letter of reference should be answered in the affirmative, and that the second question should be answered in the negative.
+RulingByPresentCourt	They will humbly advise His Majesty that the appeal should be allowed, that the judgment of <ORG> should be set aside and that the questions should be answered as above stated.
+RulingByPresentCourt	The respondent will pay to the appellants their costs of this appeal and in the Court in India.

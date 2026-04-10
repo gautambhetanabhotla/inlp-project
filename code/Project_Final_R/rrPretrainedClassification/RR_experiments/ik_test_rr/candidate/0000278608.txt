@@ -1,0 +1,45 @@
+RulingByLowerCourt	JUDGMENT <NAME> and <NAME>, JJ.
+RulingByLowerCourt	1.
+Fact	We think that this matter is really free from doubt.
+Fact	The question is whether the present appeal, which is an appeal from a decision of the Recorder of Rangoon, was filed within time or out of time; and that depends upon whether it is, or is not, governed by Article 156 in the second schedule of the Limitation Act .
+Fact	That article says that an appeal under the Code of Civil Procedure to <ORG>, except in certain cases mentioned, must be brought within ninety days from the date of the decree of order appealed against.
+Fact	2.
+Fact	What we have to decide is whether an appeal from <ORG> to this Court is an appeal under the Code of Civil Procedure.
+RatioOfTheDecision	3.
+Statute	The Act s relating to the matter are these: First, the Burma <ORG> Act (XVII of 1875).
+Statute	That Act provides for the organisation and the jurisdiction of the various <ORG> therein mentioned.
+Statute	Chapter IV deals with <ORG>, and Section 49 in that chapter says: "There shall be no appeal  from the decree or order of the Recorder passed in any original suit or proceeding where the amount or value of the subject-matter does not exceed three thousand rupees; but where the amount or value of the suit or proceeding in the Recorder's Court exceeds three thousand rupees, and is less than ten thousand rupees, an appeal shall lie to <ORG>."
+Statute	And Section 97 enacts that, "save as otherwise provided by this Act, the Code of Civil Procedure shall be, and shall, on and from the 15th day of April 1872, be deemed to have been in force throughout British Burma."
+Fact	The Code of Civil Procedure in force at that time was Act VIII of 1859.
+Fact	Then we turn to the present Procedure Code , which is in the main identical with the Code of 1877.
+RatioOfTheDecision	It applies in general terms to the whole of British India, and therefore includes British Burma.
+RatioOfTheDecision	Then Section 3 says, that when in any Act reference is made to Act VIII of 1859 (that is, the Procedure Code of 1859), or Act XXIII of 1861, (that is, the amending Act), or the Co de of Civil Procedure, or to Act X of 1877, such reference shall, so far as practicable, be read as applying to this Code, or the corresponding part of it.
+RatioOfTheDecision	The consequence of that section is that in the Burma Courts Act we must now read Section 97 as incorporating the present Civil Procedure Code.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Then Section 4 says: "Save as provided in the second paragraph of Section 3 (the paragraph which I have just read), nothing herein contained shall be deemed to affect the following enactments," amongst which is the Burma Courts Act of 1875.
+RatioOfTheDecision	The meaning of that kind of saving clause has been very often considered.
+RatioOfTheDecision	There is no doubt that the meaning is that, if anything in the Code is found to conflict with anything in the Burma Courts Act, the Code shall not prevail to override the inconsistent provisions in the Burma Courts Act, so far as they are inconsistent.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Then comes Section 540 , which says: "Unless when otherwise expressly provided by this Code or by any other law for the time being in force, an appea l shall lie from the decrees or from any part of the decrees of the <ORG> exercising original jurisdiction to the <ORG> authorised to hear appeals from the decisions of those <ORG>."
+RatioOfTheDecision	That is a general provision not conflicting with any enactment in the Burma <ORG> Act or any other Act by which an appeal was excluded, because that exclusion is expressly saved, and not prescribing for Burma or any other part of British India to what <ORG> any appeal shall lie, but merely laying down the broad rule that where an appeal is not expressly excluded an appeal shall lie to whatever <ORG> under the enactment in force may be the proper <ORG>.
+RatioOfTheDecision	That is the state of the enactments on this matter.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Now, what is meant by an appeal under the Civil Procedure Code?
+RatioOfTheDecision	A particular appeal was given by the Burma <ORG> Act, and the Burma <ORG> Act is still the only Act which prescribes to what <ORG> this appeal shall lie.
+RatioOfTheDecision	If it had not been given by the Burma <ORG> Act, then Section 540 of the Civil Procedure Code would hav e been sufficient to give it, provided that some Court was by some enactment provided as the proper Court to hear the appeal.
+RatioOfTheDecision	The procedure in appeals in every respect is governed by the Code of Civil Procedure.
+RatioOfTheDecision	The Limitation Act , Schedule II, Article 156 , when it speaks of the Civil Procedure Code is, on the face of it, speaking of a Code which relates to procedure, and does not ordinarily deal with substantive rights: and the natural meaning of an appeal under the Civil Procedure Code appears to us to be an appeal governed by the Code of Civil Procedure so far as procedure is concerned.
+RatioOfTheDecision	7.
+RatioOfTheDecision	It appears to us, therefore, that this appeal is clearly out of time, and must be rejected on that ground.
+RatioOfTheDecision	The respondent in entitled to his costs.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Since this case was heard our attention has been called to the case of <CITATION_713888> .
+Precedent	10 Cal.
+Precedent	946.
+RatioOfTheDecision	That case, however, does not seem to us to have any close bearing upon the present.
+RatioOfTheDecision	It was there held that Article 156 , Schedule II of the Limitation Act does not a pply to proceedings under Section 27 or Section 34 of the Burma <ORG>s Act.
+RatioOfTheDecision	Section 27 gives power to the Judicial Commissioner (who is, we presume, in such a case, by reason of Section 2 of the General Clauses Act, a High <ORG> within the meaning of the Limitation Act ) under certain circumstances, if in his discretion he thinks fit to do so, to admit a second appeal.
+RatioOfTheDecision	Section 34 empowers him, in certain cases, to send for the record of a case and deal with it in his discretion.
+RatioOfTheDecision	To apply Article 156 to such cases would be to use it not to restrict any rights given to the parties, but to curtail a discretion given to the <ORG>.
+RatioOfTheDecision	And this was the ground of decision.'
+RatioOfTheDecision	Moreover, the procedure under those sections is quite foreign to the Civil Procedure Code.

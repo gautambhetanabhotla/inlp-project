@@ -1,0 +1,111 @@
+Fact	<NAME>, J.
+Argument	1.
+Argument	This is an appeal from a judgment of <ORG>, dismissing an appeal from the full bench of <ORG> at Lahore, whose decision had been in favour of the respondents.
+Argument	The appellants have thus failed before both Courts in India.
+Argument	2.
+Argument	The question is whether a certain Act of <ORG>, Punjab Act IV of 1938, entitled the Punjab Restitution of Mortgaged Lands Act, is void as being ultra vires of <ORG>.
+Argument	The action was commenced by the appellants as mortgagees claiming a declaration that they were mortgagees in possession of certain lands therein specified and that the defendants were not entitled to redeem without payment of the mortgage debt due under the mortgage deeds, and also an injunction to restrain the defendants as mortgagors from prosecuting their petition for redemption of the lands in <ORG> under the Punjab Act IV of 1988 (hereinafter called the impugned Act) and for restitution of the lands under the provi sions of the Act.
+Argument	3.
+Fact	The object of the impugned Act was the relief of mortgagors by giving them restitution of the mortgaged premises on conditions more favourable than those under the mortgage deed and by providing for a procedure before the Collector, which was more summary than that before the ordinary <ORG>.
+Statute	The relevant sections of the impugned Act are as follows:  3.
+Statute	(1) The expression 'land' means land which is not occupied as the site of any building in a town or village and is occupied or lot for agricultural purposes or for purposes subservient to agriculture or for pasture, and includes  (a) the sites of buildings and other structures on such land;  (b) a share In the profits of an estate or holding;  (c) any dues or any fixed percentage of the land revenue payable by an inferior landowner to a superior landowner.
+Statute	(d) a right to receive rent;  (e) any right to water enjoyed by the owner or occupier of land as such;  (f) any right of occupancy; and  (g) all trees standing on such land.
+Statute	4.
+Statute	A mort gagor to whose land the provisions of this Act apply may at any time present a petition to the Collector praying for restitution of possession of the land mortgaged.
+Fact	The petition shall be duly verified in the manner prescribed for such petitions.
+Fact	7.
+Fact	(1) If the Collector finds that the mortgage is one to which this Act applies, he shall, notwithstanding anything contained in any other enactment for the time being in force, in cases where he finds that the value of the benefits enjoyed by the mortagagee, while in possession, equal or exceed twice the amount of the principal sum originally advanced under the mortgage, order in writing-  (a) that the mortgage be extinguished, and,  (b) where the mortgagee is still in possession, that the mortgagor be put into possession of the mortgaged land as against the mortgagee and that the title deeds, if any, be restored to the mortgagor.
+Fact	(2) If in cases to which this Act applies, the Collector finds that the value of the benefits enjoyed by the mortgagee while in posses sion is less than twice the amount of the principal sum originally advanced and some payment is still due to the mortgagee according to the terms of the mortgage, the Collector shall, by order in writing, and notwithstanding anything contained in any other enactment for the time being in force direct that the land be restored to the mortgagor and he be put into possession subject, however, to the payment of compensation by the mortgagor to the mortgagee at rates not exceeding the following scales:-  (i) thirty times the land revenue assessed on the land at the time when it was mortgaged if the mortgagee has been in possession for a period exceeding thirty years but not exceeding forty years;  (ii) fifteen times the land revenue assessed on the land at the time when it was mortgaged if the mortgagee has been in possession for a period exceeding forty years but not exceeding fifty years;  (iii) five times the land revenue assessed on the land at the time when it was mortgaged if the mortgagee has been in posses sion for a period exceeding fifty years.
+Fact	12.
+Fact	No civil court shall have jurisdiction to entertain any claim to enforce any right under a mortgage declared extinguished under this Act, or to question the validity of any proceedings under this Act.
+Fact	4.
+Fact	The main points of objection to the validity of the impugned Act were based on Sections 100 and 107 of the Government of India Act, 1935 (hereinafter called the Constitution Act ).
+Statute	Section 100 is in the following terms-  100.
+Statute	(1) Notwithstanding anything in the two next succeeding sub-sections, <ORG> has, and <ORG> has not, power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule to this Act (hereinafter called the 'Federal Legislative List.')
+Statute	(2) Notwithstanding anything in the next succeeding sub-section, <ORG>, and, subject to the preceding sub-section, <ORG> also, have power to make laws with respect to any of the matters enumerated in List III  in the said Schedule (hereinafter called the 'Concurrent Legislative List').
+Statute	(3) Subject to the two preceding sub-sections, <ORG> has, and <ORG> has not, power to make laws for a Province or any part thereof with respect to any of the matters enumerated in List II in the said Schedule (hereinafter called the 'Provincial Legislative List').
+Statute	(4) <ORG> has power to make laws with respect to matters enumerated in the Provincial Legislative List except for a Province or any part thereof.
+Argument	5.
+Argument	The item in the Provincial List which is directly relevant is No.
+Argument	21, which is in these terms-  Land, that is to say, rights in or over land, land tenures, including the relation of landlord and tenant, and the collection of rents; transfer, alienation and devolution of agricultural land; land improvement and agricultural loans; colonisation; Courts of Wards; encumbered and attached estates; treasure trove.
+Argument	6.
+RulingByPresentCourt	But item No.
+RulingByPresentCourt	2 of the same List which enables a Provincial  Legislature to legislate on:-  Jurisdiction and powers of all Courts except <ORG>, with respect to any of the matters in this list; procedure in Rent and Revenue Courts.
+RulingByPresentCourt	must also be considered.
+Argument	7.
+Fact	The matters enumerated in List III (Concurrent Legislative List) in respect of which both <ORG> and <ORG> may legislate include:-  Civil Procedure including the law of Limitation, and all matters included in the Code of Civil Procedure... (Entry No.
+Fact	4 in the Concurrent Legislative List);  Wills, intestacy, and succession, save as regards agricultural land.
+Fact	(Entry No.
+Fact	7);  Transfer of property other than agricultural land... (Entry No.
+Precedent	8);  Contracts, including partnership, agency, contracts of carriage, and other special forms of contract, but not including contracts relating to agricultural land.
+Precedent	(Entry No.
+Precedent	10);  8.
+Precedent	The precedence of the Concurrent List is defined by Section 107 of the Constitution Act which provides that If any provision of a Provincial law is re pugnant...to any provision of an existing Indian law with respect to one of the matters enumerated in the Concurrent Legislative List, then, subject to the provisions of this section...the existing Indian law shall prevail and the Provincial law shall, to the extent of the repugnancy, be void.
+Precedent	9.
+Precedent	"Existing Indian Law" is defined by Section 311 of the Constitution Act as meaning any law passed by any legislature in British India before the commencement of Part III of the Act, which came into force on April 1, 1937.
+Precedent	10.
+Precedent	As the main issue in the suit was whether the impugned Act was or was not valid, the Punjab Province applied for and was granted leave to intervene in the proceedings, and was the only respondent which actually appeared before this Board on the hearing of the appeal.
+Precedent	Owing to the death of one of the appellants a change of parties had taken place in the appellants, but that is not material.
+Precedent	11.
+Precedent	Certain grounds of objection which were taken before the Courts in India were not relied upon by the  appellants before their Lordships.
+Precedent	The stress of the argument before the Board was laid on Sections 100 and 107 .
+Precedent	The respondent contended that the provisions of the impugned Act were wholly within item 21, supplemented if need be by item 2 of the Provincial Legislative List, that accordingly the respondent did not need to rely for the validity of the Act on any powers of the Province under the Concurrent Legislative List and therefore Section 107 was irrelevant to the decision of the case.
+Precedent	The appellants on the other hand contended that the impugned Act went beyond the limits of the legislative powers of the Province under List II and could not be supported by invoking concurrent powers of the Province under List III, because the provisions which had to be invoked for this purpose were repugnant to existing Indian laws and were thus invalid under Section 107 .
+Precedent	They instanced the Indian Contract Act , Sections 37 , 69 and 70 , and the Code of Civil Procedure, Section 4(1) and (2) and Section 9 as containing  provisions to which the impugned Act is repugnant and further contended that as none of the Lists specifically mentioned mortgages, any jurisdiction to deal with them is confined to the Governor-General in virtue of his reserved power under Section 104 .
+Precedent	Thus both parties rightly construed Section 107 as having no application in a case where the Province could show that it was acting wholly within its powers under the Provincial List and was not relying on any power conferred on it by the Concurrent List.
+Precedent	In such a case it is also clear that there is no room for the exercise by the Governor-General of his reserved power under Section 104 .
+Precedent	12.
+Precedent	Their Lordships will first deal with the more important of the respondent's arguments, viz.
+Precedent	that the impugned Act is within item 21 of List II; item 2 in that list is of less importance if the respondent's contention under item 21 is good.
+Precedent	13.
+Precedent	It will accordingly be necessary to determine in detail whether the provisions of the impugned Act fall within item 21.
+Precedent	In the ir Lordships' judgment they do completely so fall, for reasons which they will now state.
+Precedent	14.
+Precedent	The first matter to be determined is what are the relevant powers conferred on the Provinces by items 2 and 21 of List II which have already been set out above.
+Precedent	15.
+Precedent	The key to item 21 is to be found in the opening word, "Land."
+Precedent	That word is sufficient in itself to include every form of land, whether agricultural or not.
+Precedent	Land indeed is primarily a matter of provincial concern.
+Precedent	The land in each province may have its special characteristics in view of which it is necessary to legislate, and there are local customs and traditions in regard to land-holding and particular problems of provincial or local concern which require provincial consideration.
+Precedent	It would be strange if the land in a province were to be broken up into separate portions some within and some outside the legislative powers of the Province.
+Precedent	Such a conflict of jurisdiction is not to be expected, item 21 is part of a Constitution and would on ordinary princ iples receive the widest construction, unless for some reason it is cut down either by the terms of item 21 itself or by other parts of the Constitution which has to be read as a whole.
+Precedent	As to item 21, "Land", the governing word, is followed by the rest of the item, which goes on to say, "that is to say", These words introduce the most general concept-"rights in or over land".
+Precedent	"Rights in land" must include general rights like full ownership or leasehold or all such rights.
+Precedent	"Rights over land" would include easements or other collateral rights, whatever form they might take.
+Precedent	Then follow words which are not words of limitation but of explanation or illustration, giving instances which may furnish a clue for particular matters: thus there are the words "relation of landlord and tenant and collection of rents."
+Precedent	These words are appropriate to lands which are not agricultural equally with agricultural lands.
+Precedent	Rent is that which issues from the land.
+Precedent	Then the next two sentences specifically refer to agricultural lands,  and are to be read with items 7, 8 and 10 of List III.
+Precedent	These deal with methods of transfer or alienation or devolution which may be subject to federal legislation but do not concern the land itself, a sphere in which the provincial and federal powers are concurrent, subject to the express exception of the specific head of agricultural land which is expressly reserved to the provinces.
+Precedent	The remainder of item 21 specifics important matters of special consequence in India relating to land.
+Precedent	The particular and limited specification of agricultural land proves that "land" is not used in item 21 with restricted reference to agricultural land but relates to land in general.
+Precedent	Item 2 is sufficient to give express powers to the Provinces to create and determine the powers and jurisdiction of Courts in respect of land, as a matter ancillary to the subject of item 21.
+Precedent	16.
+Precedent	It is next necessary to consider the terms of the impugned Act, which it is said is ultra vires of the Province, and compare them with the terms of the  constitution just quoted.
+Precedent	But before that is done, it may be observed that there is no express provision in the Constitution referring by name to mortgages, though mortgages are of particular importance in India as subject of ordinary business life and of litigation and of legislation.
+Precedent	But a constitution does not generally deal with particular transactions or types of transactions, and mortgages of land would, in their Lordships' judgment, as a matter of construction, properly fall under item 21 in so far as they are mortgages of land, though in certain aspects they include elements of transfer of property and of contract.
+Precedent	But they form, a type of transaction which may properly be regarded as sui generis, incidental to land and included within item 21 except in so far as they fall within items 8 and 10 of List III which again contain an express exception in the case of agricultural land.
+Precedent	Their Lordships cannot accept the view that so important a subject as mortgages was left out of the Constitution and merely  left to the Governor-General's powers under Section 104 of the Constitution Act as a residual subject.
+Precedent	So far as land at least is concerned, item 21 would include mortgages as an incidental and ancillary subject.
+Precedent	17.
+Precedent	The impugned Act, as already explained, has the main purpose of giving relief to mortgagors by enabling them to obtain restitution of the mortgaged lands on terms less onerous than the mortgage deeds require.
+Precedent	It is limited to existing mortgages of land as defined in Section 3 , effected prior to June 8, 1901.
+Precedent	That definition restricts it to land "occupied or let for agricultural purposes or for purposes subservient to agriculture or for pasture."
+Precedent	The addition of the word "pasture" has been relied on as extending the scope of the Act beyond agriculture, but pasture is certainly "land" within item 21 of List II.
+Precedent	It may have been mentioned ex abundanti cautela, but in any case it is sufficiently allied to agriculture generally to be treated as a species of agricultural land or at least as land occ upied or let for purposes subservient to agriculture and as such within the general scope of an Act dealing with agricultural land.
+RatioOfTheDecision	Section 3 of the Act goes on, it is true, to give a number of specific types of land which are included, but they are all governed by the controlling words of Sub-section (1) which limits the whole Act to agricultural land in the sense already stated.
+RatioOfTheDecision	Thus head (b) of Sub-section (1) of Section 3 must be read as referring to an estate or holding in the only class of land with which the Act deals.
+RatioOfTheDecision	The same is true of all the other heads in the sub-section, dues, rent, water rights, occupancy, trees, all come within the category of rights in or over land within item 21, List II, and all are governed by the same controlling reference to agriculture or agricultural purposes.
+RatioOfTheDecision	This reading of the section is supported by the qualification of trees as trees standing on such land, that is, agricultural land.
+RatioOfTheDecision	Sections 7 and 8 of the impugned Act embody its main substantive provisions for t he relief of mortgagors and need not be repeated here.
+RatioOfTheDecision	The rest of the Act deals with ancillary matters like procedure which fall within the powers given by item 2 and also by item 21.
+RatioOfTheDecision	18.
+RatioOfTheDecision	If, as their Lordships think, the impugned Act is limited to agricultural land, items 7, 8 and 10 of List III do not affect the position, since agricultural land is excluded in these entries.
+Precedent	But in any event the Act does not deal with wills or the transfer of property at all; it does certainly deal with mortgages, but as their Lordships have already stated, mortgages, though not expressly mentioned in the Constitution, are properly to be classed not under the head of contracts, but as special transactions ancillary to the entry of "land."
+Precedent	19.
+Precedent	It follows that in their Lordships' judgment there is not sufficient ground for holding that the impugned Act or any part of it was invalid.
+Precedent	As a whole it fell within the powers given to the Province by items 2 and 21 of List II, without any necessity to invoke any powers from the C oncurrent List, List III.
+Precedent	Accordingly questions of repugnancy under Section 107 of the Constitution Act do not arise and need not be considered here.
+Precedent	20.
+RulingByPresentCourt	Their Lordships will accordingly, for the reasons given, humbly advise His Majesty that the appeal should be dismissed.
+RulingByPresentCourt	The appellants will pay the costs of the appeal.

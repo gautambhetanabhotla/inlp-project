@@ -1,0 +1,110 @@
+Fact	JUDGMENT <NAME>, C.J.
+Argument	1.
+Argument	This special civil application has been referred to <ORG> by Mr. Justice <NAME> and Mr. Justice <NAME>.
+RulingByLowerCourt	No question has been formulated by the learned Judges, but it seems that they took the view that the decision of <ORG> of this <ORG> in <CITATION_1733648> ), requires reconsideration inasmuch as a decision of <ORG> in <NAME> v <NAME>, , seems to the learned Judges inconsistent with the view taken of the law in <NAME>'s case (A).
+RulingByLowerCourt	2.
+RulingByLowerCourt	Now, curiously enough, the Advocate General emphatically asserts before us that not only the decision of <ORG> is not inconsistent with <NAME>'s case (A), but that the decision of <ORG> supports and reinforces the view taken by this <ORG> in <NAME>'s case (A), and Mr. <NAME> not so emphatically also agrees that it is difficult to find any inconsistency between the judgment of <ORG> and the judgment in <NAME>'s case (A).
+Fact	But inasmuch as the matter has been referred to <ORG> and th e matter has been argued at great length and the Advocate General tells us that a decision should be given by us because a large number of petitions are pending and the decision of which would be governed by the view we take in this Full Bench, we must proceed to decide the question referred to us.
+Fact	3.
+Fact	Now, to state the facts briefly, the petitioner was employed as a Khalasi in the Loco Shed of <ORG> at Kalyan.
+Fact	He was employed on 3rd October 1947.
+Fact	On 26th October 1949 he was arrested on a charge under Sections 457 and 380 of the Indian Penal Code and placed before the First Class Magistrate at Kalyan, and it appears that he was released on bail on 4th November 1949.
+Fact	On 6th May 1953 he was discharged by the learned Magistrate and the learned Magistrate gave him, as it were, a clean bill and said in his judgment that there would be no objection to his being reinstated by <ORG>.
+Fact	He resumed his work -- and we are using a neutral expression -- on 20th October 1953, and he filed a pe tition before the <ORG> under the Payment of Wages Act claiming wages from the period 25th October 1949 to 19th October 1953.
+Fact	The <ORG> decreed his claim.
+Fact	There was an appeal to <ORG> and the learned District Judge took the view that the <ORG> under the Payment of Wages Act had no jurisdiction to deal with this matter.
+Fact	Thereupon the employee filed a petition under the Constitution before <ORG> consisting of Mr. Justice <NAME> and Mr. Justice <NAME> and it is this Bench that has referred the matter to us.
+Fact	4.
+Fact	Now, we should have thought, but for the fact that we are sitting here as a Full Bench, that the law as to the jurisdiction of the <ORG> under the Payment of Wages Act is fairly well settled.
+Fact	If it is necessary at all, we will reiterate it as briefly as possible.
+RatioOfTheDecision	The leading case on the subject is <CITATION_679996> ), where <ORG> was for the first time called upon to consider the scheme of the Act and the jurisdiction of the <ORG> under the Act, and  in that decision we laid down that the <ORG> had no jurisdiction to decide whether the services of an employee had been rightly or wrongly terminated or whether the dismissal was lawful or unlawful.
+RatioOfTheDecision	We said that such a question would not come within the purview of the special tribunal set up under the Act.
+RatioOfTheDecision	Although that was the question that arose for our determination, we also made it clear as to what was the nature and ambit of the jurisdiction of the <ORG>, and in brief what we said was that the primary function of the <ORG> was to determine what the wages of the employee were and whether there had been a delay in payment of those wages or a deduction from those wages, and in order to determine the wages it may be necessary to determine what the terms, of the contract were under which the employee was employed and under which he was claiming his wages.
+RatioOfTheDecision	It may also be necessary, we pointed out, to decide whether the employee was employed by the employed or not because the question of a contract  can only arise provided there was employment.
+RatioOfTheDecision	Therefore, in order to determine what the contract was, what the terms of the contract were, what were the wages due under the contract, it might become necessary for the <ORG> to determine whether in the first place there was an employment or not.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The next decision which followed upon <NAME>'s case (C), was the case of <NAME> v. <NAME>, (D-E).
+RatioOfTheDecision	That was really a logical extension of the principle laid down in <NAME>'s case(C), because in that case there was a suspension of an employee by <ORG> and the contention put forward was that in view of the suspension no claim could be made by the employee in respect of the period of suspension, and what the Court held was that it was open to the <ORG> under the Payment of Wages Act to consider whether during the period of suspension the relationship of master and servant subsisted between the employer and the employee and if such relationship subsisted, notwithstanding the suspension the employe r was liable to pay to his employee wages for that period.
+RatioOfTheDecision	Here again, therefore, the point that we were emphasising was that It was competent to the <ORG> to determine whether during the relevant period the employee was in fact employed by the employer.
+Argument	6.
+Argument	Then a third judgment to which reference might be made is <CITATION_348559> ).
+Argument	In that case certain employees of <ORG> who had migrated to Pakistan returned and purported to exercise the option given to them to be re-employed by <ORG>, and they claimed the wages of the period antecedent to the time when they exercised the option, and the question that arose first before my brother Mr. Justice <NAME> was whether the <ORG> under the Payment of Wages Act had jurisdiction to decide this question, and the learned Judge at page 864, with respect, correctly enunciates the principles emerging from the authorities that we have considered.
+Argument	"Again, it is well established that it is open to the <ORG> under the Payme nt of Wages Act , in order to decide what sums are payable as wages, to determine whether a person has been employed or not, because the question of contract of employment can only arise if there was at the relevant time a subsisting contract of employment."
+Fact	Therefore, it will be noticed that again in this case the emphasis is on the question as to whether there was an employment by the.
+Fact	employer of the employee or, in other words, whether there was relationship of master and servant between the employer and the employee or, again to use different language, whether there was a subsisting contract of employment between the employer and the employee.
+RulingByLowerCourt	Mr. Justice <NAME> held in favour of the employee.
+RulingByLowerCourt	There was an appeal and <ORG> upheld the view taken by the learned Judge.
+Fact	7.
+Fact	Then we come to (A).
+Fact	In that case there was no dispute as to employment.
+Argument	The dispute was whether the employee was entitled to receive wages under a contract which he had set up or wages under a contract which was set up by th e employer.
+Argument	These two contracts were relied upon by the employee and the employer in respect of the same period for which wages were claimed by the employee and what the Court held was that when there is a dispute as to which is the contract that governs the relationship of the parties and if two rival contracts are in the field, then the <ORG> under the Payment of Wages Act has no jurisdiction to decide which of the contracts should regulate the rights of the parties, and the distinction that was drawn in that case was that whereas the <ORG> could determine what was the contract, it could not determine which was the contract.
+Argument	As the Advocate General has rightly pointed out, in <NAME>'s case (A), also we enunciated the principle that was laid down in <NAME>'s case (C).
+Argument	At page 901 (of Bom LR): (At p. 733 of <ORG>), of the judgment the ratio of <NAME>'s case (C), is thus stated that the jurisdiction of the <ORG> really is to determine the terms of the contract in so far as they relate to the payment of  wages and in so far as he has to decide the liability of the employer to pay wages under the terms of the contract.
+Argument	8.
+Argument	Turning to the decision of <ORG>, which has necessitated <ORG>, in , the question that arose for the consideration of the learned Judges was an entirely different question.
+Argument	The employee there was a carpenter employed on daily wages.
+Argument	<ORG> subsequently introduced a scheme which created a cadre of skilled labourers on the scale of monthly rates of pay and admitted to it only those who passed a test.
+Argument	The employee did not pass the test and continued to serve as an employee on daily wages, and he sued <ORG> before the <ORG> under the Payment of Wages Act to recover the additional amount of wages that would have become payable to him had he been taken up on the cadre of monthly rated employees, complaining that he was wrongly not treated as such by the <ORG>, and <ORG> held that this was not a claim for actua l wages but it was a claim for potential wages and that the <ORG> under the Payment of Wages Act had no right to determine whether the employee was entitled to be put on the cadre which had been created; that was the function of <ORG> and not the <ORG> under the Payment of Wages Act .
+Argument	In this connection <ORG> at page 745 (of Bom LR): (at p. 416 of <ORG>), gives expression to the same principle that has been enunciated both in <NAME>'s case (C) and <NAME>'s case (A), and what Mr. Justice <NAME> says is :  "But it is said on behalf of the respondent that the <ORG> has the jurisdiction not only to make directions contemplated by Sub-section (3) of Section 15 to refund to the employed person any amount unlawfully deducted but also to find out what the terms of the contract were so as to determine what the wages of the employed person were.
+Argument	There is no difficulty in accepting that proposition."
+Argument	Now, that is exactly the proposition to which legal effect was sought to be giv en in both the cases of this <ORG> to which reference has just been made.
+RulingByLowerCourt	Therefore, we agree with the Advocate General that it is impossible to contend that <NAME>'s case (B), has in any way undermined the authority of <NAME>'s case (A).
+RulingByLowerCourt	On the contrary, <NAME>'s case (B), reinforces the decision given by this <ORG>.
+RulingByLowerCourt	This was also the view taken by <ORG> of this <ORG> consisting of Mr. Justice <NAME> and Mr. Justice <NAME> in Special Civil Appln.
+RulingByLowerCourt	No.
+RulingByLowerCourt	2520 of 1956 on 23-11-1956 (G), and Mr. Justice <NAME> delivering the judgment points out that in all cases properly filed before the authority there should be no dispute about the contract itself, and the learned Judge, with respect, rightly explains the decision in <NAME>'s case (A) by pointing out that when the employer and the employee come before the authority and rely on different contracts, it is not within its jurisdiction to decide which of the two contracts is subsisting and under which of them the employer is liable to p ay wages.
+Argument	The learned Judge refers to <NAME>'s case (B) and points out that the limits of the jurisdiction of the authority under the Payment of Wages Act are no longer in doubt.
+Argument	9.
+RatioOfTheDecision	Now, this being the settled law, let us turn to the facts before us and apply that law to those facts.
+RatioOfTheDecision	It is clear that the claim of the employee was made on the basis that he continued to be in the employment of the railway authorities during the relevant period, viz., the 25th October 1949 to the 19th October 1953, because rightly or wrongly his case was that during that period he was under suspension and did not cease to be in the employment of <ORG>.
+RatioOfTheDecision	Let us see what the answer of <ORG> was to this claim.
+Argument	They denied in para.
+Argument	3 of the written statement that the employee was in their employment, and in para.
+Argument	5, which is the most material paragraph and on which great reliance has been placed by the Advocate-General, <ORG> say :  "After a period of three months he was treated  as 'absconding' and a temporary employee engaged in the vacancy.
+Argument	His name was automatically struck off the attendance register as nothing was heard about him.
+Argument	He cannot therefore be regarded as an employee of the opposite party for any length of time."
+Argument	And in para.
+Argument	9 <ORG> case is that the employee was re-employed as a fresh entrant on the 20th October 1953, and they end the written statement by saying:  "As he was neither an employee nor can be said to be 'in service' he is legally not entitled to any 'wages'; neither he can claim them under the Payment of Wages Act ."
+RatioOfTheDecision	In our opinion, on these pleadings the issue directly and substantially arises as to whether the employee was in the employment of <ORG> during the relevant period, and there can be no doubt that that is an issue which <ORG> under the Payment of Wages Act can try and determine.
+Argument	It is not the case of <ORG> that the services of the employee were terminated, nor have the Railway Au thorities contended that he was dismissed.
+Argument	They have relied on the fact that automatically his name was struck off from the attendance register for the purpose of contending that he must be regarded as not being an employee during the relevant period.
+RatioOfTheDecision	We agree with the Advocate-General that if <ORG> case was that the employee's services were terminated or that he was dismissed or discharged, then in view of <NAME>'s decision (C), that was an issue which could not have been tried by the <ORG> under the Payment of Wages Act .
+RatioOfTheDecision	But when the dispute and controversy between the parties is whether the employee was in employment or not, that surely is an issue which is directly within the jurisdiction and competence of the <ORG>.
+RatioOfTheDecision	The Advocate-General has laid great emphasis on the case of the employee that he was reinstated and on the case of <ORG> that he was re-employed, and says the Advocate-General that it is clear on these pleadings that two contracts are in the field,  and that the employee is relying on the original contract under which according to him he was continued and reinstated, and <ORG> are relying on another contract under which he was re-employed at the relevant date.
+RatioOfTheDecision	In our opinion, that argument is based on a misapprehension.
+RatioOfTheDecision	Whether the employee was reinstated or re-employed depends upon the fact as to whether the employee continued to be employed during the relevant period.
+RatioOfTheDecision	If the employee continued to be employed during the relevant period, then he was reinstated as contended by the employee.
+RatioOfTheDecision	If, on the other hand, he did not continue to be employed, then the employment having come to an end there was a case of re-employment as alleged by <ORG>.
+RatioOfTheDecision	It is also erroneous to suggest that there are two conflicting contracts in the field.
+RatioOfTheDecision	There are not.
+RatioOfTheDecision	If the employee was in the employment during the relevant period, then the only contract is the original contract, the terms of which have to be construed in order to determine w hat wages the employee was entitled to.
+RatioOfTheDecision	It is not suggested by <ORG> that if the employee was in the employment during that period any other contract regulated the rights of parties.
+RatioOfTheDecision	The second contract could only come into play provided the employee was not in employment during the relevant period.
+RatioOfTheDecision	But if the employee was not in employment during the relevant period, no further question survives and it would not be necessary to determine what the terms of the subsequent contract were, because if the <ORG> holds that the employee was not in service the claim made by the employee with regard to wages must fail.
+RatioOfTheDecision	Therefore, we cannot accept the contention of the Advocate-General that his case falls within the principle of <NAME>'s case (C) for the reason that no issue as to the termination of the services of the employee can arise on those pleadings.
+RatioOfTheDecision	We might point out that <ORG> have not even indicated when his services were terminated.
+RatioOfTheDecision	Nor does the case fall within the pr inciple of <NAME>'s case (A) because, as just pointed out, we do not have here a case where the Court has to determine which contract regulates the rights of the parties.
+RatioOfTheDecision	10.
+RulingByLowerCourt	Turning to the judgment of the <ORG> under the Payment of Wages Act , the view taken by the <ORG> is that the employee should be deemed to have been suspended and having been deemed to have been suspended, under the rules in the Railway Manual he was entitled to full salary as he was reinstated and as no obloquy attached to his conduct in respect of which he was charged, he indeed having obtained an honourable discharge from the Magistrate, The <ORG> may be right or wrong on the facts, but his decision turned on this that on his construction of the rules and of the attendant circumstances he took the view that the employee was in the service of <ORG> during the relevant period and he also determined the quantum of wages on a construction of the contract as full salary during the period.
+Fact	When the matter went  to the learned District Judge, the view that he took was this -- and to quote from his judgment:  "On these pleadings one of the issues that arise for consideration is: Whether the respondent was discharged from service and re-employed as the appellant contends or was suspended from service and was reinstated.
+Fact	This issue involves the question whether the respondent was really discharged from service and if so whether he was legally discharged.
+Argument	And, in my view, this issue is beyond the competence of the <ORG> under the Payment of Wages Act ."
+Argument	Now, with respect to the learned District Judge he would be quite right if the issue that was involved was the issue set out by him.
+RatioOfTheDecision	But, as we have already pointed out, the question that had to be considered by him and had to be considered by the <ORG> was not whether the employee was discharged from service and if so legally discharged, but what had to be considered was whether the employee was employed by <ORG> during the relevant period.
+RatioOfTheDecision	1 1.
+RatioOfTheDecision	The Advocate-General has drawn our attention to the relevant rules and has pointed out that even suspension from service does not automatically entitle the worker to wages unless he actually works, and he has also drawn our attention to the fact that even if there is a case of reinstatement it is for <ORG> to determine whether he should get his full wages or not.
+RatioOfTheDecision	Now, these are matters affecting the merits of the case.
+RatioOfTheDecision	They go to determine what the quantum of wages is to which the employee would be entitled.
+RatioOfTheDecision	It may be that the learned District Judge to whom we are proposing to send the matter back may take the view that during the relevant period there was no employment and that the relationship of master and servant did not subsist between the employee and <ORG>, and even if he takes the view that the employment continued he may take the view on a consideration of the relevant rules that the employee was not entitled to the wages because he did not do any work or that h e was entitled not to full wages as claimed by him but to much less.
+RatioOfTheDecision	But these are all questions of determining the wages due to the employee on a construction of the terms of the contract.
+RatioOfTheDecision	These are not questions which affect the jurisdiction of the <ORG> under the Payment of Wages Act .
+Argument	12.
+Argument	Therefore, in our view, the learned District Judge was in error in holding that the <ORG> under the Payment of Wages Act had no jurisdiction to entertain the application Sled by the employee.
+Fact	We will, therefore, set aside the order of the learned District Judge send the matter back to him, and direct him to try the following issues:  (1) Whether the employee continued to be in the employment of <ORG> during the relevant period, viz., 25th October 1949 to 19th October 1953?
+Fact	(2) If he continued to be in employment what are the wages, if any, to which the employee is entitled under the terms of the contract subsisting between the employee and <ORG>?
+Fact	13.
+Fact	The petitioner to get th e costs of the petition.
+Fact	No order as to costs of the hearing before us.
+Fact	14.
+Fact	Case sent back.

@@ -1,0 +1,122 @@
+Fact	JUDGMENT  1.
+Fact	For the purposes of the questions we have to consider in this appeal, the material facts are as follows:  In July 1890 the <NAME> of the plaintiffs mortgaged certain lands to certain parties whose interest is now vested in the defendants.
+Fact	In July 1895 the <NAME> executed and registered a sale deed by which he purported to sell the lands in question to the plaintiffs, the lands being in possession of the defendants under the mortgage of July 1890.
+Fact	In Original Suit No.
+Fact	407 of 1895, a suit against the <NAME>, the lands were attached.
+Fact	The plaintiffs preferred a claim to the attached property.
+Fact	This claim was rejected by an order dated the 22nd February 1896 made under Section 283 of the Code of Civil Procedure.
+Fact	In July 1898 the <NAME> purported to sell the lands to the defendants.
+Fact	In October 1893 when the property was put up for sale in execution of the decree in Original Suit No.
+Fact	407 of 1895, the late first defendant paid off the amount due under the decree and the attachment was raised.
+Fact	2.
+Fact	The pres ent suit is a suit by the plaintiffs to redeem the lands in question.
+Argument	3.
+Argument	<ORG> held that the plaintiff's claim was barred by Article 11 of the second schedule to the Limitation Act , the plaintiffs) not having brought a suit to establish their right to the property in dispute within one year from the date of the order made under Section 283 of the Code of Civil Procedure.
+Argument	<ORG> was of opinion that the claim was not barred inasmuch as there had been no "investigation" of the plaintiff's claim within the meaning of that word as used in the Code.
+RatioOfTheDecision	We do not think the judgment of <ORG> can be supported upon the ground that there has been no "investigation" of the plaintiff's claim.
+RatioOfTheDecision	The actual order was The sale seems to be collusive.
+RulingByPresentCourt	Claim rejected.
+Fact	The District Judge observes : "The sale in question was one by a <NAME> to his daughters and the Munsif may have thought from a glance at the sale deed that it was probably collusive."
+RatioOfTheDecision	4.
+RatioOfTheDecision	Assuming this to  have been so, we think it must be taken that there was an "investigation" within the meaning of this word used in the sections.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It is not possible to define the amount of inquiry which constitutes an "investigation."
+RatioOfTheDecision	If the order purports to deal with the claim on the merits, we think it must be taken that there has been an investigation.
+RatioOfTheDecision	6.
+Precedent	In the case of <NAME> v. Ambika Pershad I.L.R.
+Precedent	15 Calc.
+Precedent	521 <ORG> observe : "...The Code does not prescribe the extent to which the investigation should go and though in some cases it may be very proper that there should be as full an investigation as if a suit were instituted for the very purpose of trying the question, in other cases it may also be the most prudent and proper course to deliver un opinion on such facts as are before the Subordinate Judge at the time, leaving the aggrieved party to bring the suit which the law allows to him."
+Precedent	7.
+Precedent	In the case of <CITATION_699381> .
+Precedent	18 Mad.
+Precedent	265 in which the Court held there has been no investigation a nd consequently no order within the meaning of the section, the claim was "practically withdrawn."
+Precedent	In the case of <CITATION_23883> .
+Precedent	18 Mad.
+Precedent	316 the order was "there is nothing to show that the petitioner's land have been attached," and it was held there was no order within the meaning of the section.
+Precedent	In that case the Court held, in effect, that there was no occasion to investigate since there was nothing to show the lands had been attached.
+Precedent	There does not appear to be any case in which un order which purports to be an adjudication on the merits of the case has been hold to be not an order made after investigation within the moaning of the section.
+Precedent	8.
+Argument	It was argued on behalf of the respondents that the decree of <ORG> could be upheld upon the ground that the property not having been sold in execution of the decree, and the decree having been satisfied, the order was not conclusive as between the plaintiffs and the defendants.
+Argument	The argument was that the decree having been eventually satisfi ed there was no reason for the plaintiffs to bring a suit, and the fact that it was not satisfied until after the expiration of a year from the date of the order was immaterial.
+Argument	The contention was that the order was only conclusive against the plaintiffs, if they failed to bring a suit so as to bar them from denying the right of the judgment-creditor to sell the land which <NAME> had attached and the right of a purchaser claiming under a sale in execution proceedings.
+Precedent	The respondents relied on the observation in the judgment in the case of <CITATION_557648> .
+Precedent	8 Calc.
+Precedent	279 observation is as follows:  The finding of the <ORG> in the execution department that the sale was invalid, only meant that the sale was invalid as against the judgment-creditor, and as against any purchaser w<NAME> might purchase at a sale held in execution following that attachment.
+Precedent	"When the judgment creditor was paid off, he had no further claim."
+Precedent	9.
+RatioOfTheDecision	This observation must, of course, be read by the light of the facts of the case with which the l earned Judges were dealing secundum subject am materiam.
+RatioOfTheDecision	The facts in that case are distinguishable from those in the present case first, on the ground that in the Calcutta case the decree amount was paid off by the judgment-debtor in the suit in which the decree was obtained and not, as in the case before us, by a third party to whom the lands were subsequently conveyed.
+RatioOfTheDecision	Further there is nothing to show that in the Calcutta case the payment off was not made within a year from the date of the order dismissing the claim.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Our attention was called to other cases where an order under Section 283 of the Code of Civil Procedure dismissing a claim has been held to be not conclusive against the claimant.
+RatioOfTheDecision	It seems to us that all these cases are distinguishable.
+Precedent	11.
+Precedent	In the case of <CITATION_195752> .
+Precedent	31 Calc.
+Fact	228 certain lands of which the plaintiff was in possession were attached under a decree.
+Fact	He preferred a claim in the execution proceedings under Section 278 and the claim was dismissed by an order under Sect ion 533 of the Code of Civil Procedure, He at once paid off the decree amount and the attachment was raised.
+Argument	It was held that when the attachment was removed after the payment of the decrial amount there was no longer any attachment or proceeding in execution in which the order could operate to the prejudice of the plaintiff, and therefore there was no necessity for him to bring a suit to sot aside the order.
+Argument	In that case the plaintiff by his own act, within a year from the making of the order, got the attachment removed.
+RatioOfTheDecision	This being so, he could not be held to be under any obligation to bring a suit to secure the object which he had already secured by paying off the amount of the decree.
+RatioOfTheDecision	The principle of that decision is not applicable to the present case.
+RatioOfTheDecision	In the case of <CITATION_1333400> .
+Fact	13 Bom.
+RatioOfTheDecision	72 the amount of the decree was paid off by the judgment-debtor.
+Precedent	In the case of <NAME> v. Bai Divali I.L.R.
+Precedent	18 Bom.
+Argument	241 the attachment was removed by the act of the judgment-creditor who was the plainti ff in the suit.
+Argument	Having removed the attachment by his own act, he could not be hoard to say as against the claimant - (the defendant in the suit) - because you did not bring a suit when your claim was dismissed you are concluded from setting up a title as against me.
+Argument	12.
+Argument	In the three cases just referred to, it is clear that the decree amount was paid off within a year from the making of the order under Section 283 of the Code of Civil Procedure.
+Fact	In the first case <CITATION_557648> .
+Fact	8 Calc.
+Fact	279 the report does not state when the decree amount was paid off, though there is nothing to suggest it was paid off more than a year after the making of the order.
+RatioOfTheDecision	In all the cases the decree was paid off by a party to the execution proceedings - not as in the case before us, by a third party.
+RatioOfTheDecision	It is not necessary for us to decide whether the fact of the money having been paid off by a third party, would be a good ground for distinguishing the present case from the cases to which we have referred.
+RatioOfTheDecision	We are of opinion, howev er, that the payment off not having boon made within a year after the date of the order, the order is conclusive as between the claimants (the plaintiffs) and the defendants.
+RatioOfTheDecision	To hold otherwise would lead to uncertainty of title and would be inconsistent with the policy of the legislature in prescribing a short period of limitation for suit by parties against whom an order has been made in claim proceedings.
+RatioOfTheDecision	To hold that the right of an unsuccessful claimant to bring a suit remains in a state of suspended animation for an indefinite period after the expiration of a year from the date of the order against him liable to be revived at any moment by the payment off of the amount of the decree, would lead to great inconvenience.
+RatioOfTheDecision	On the facts of the case we are of opinion that the order under Section 283 was conclusive as between the plaintiffs and the defendants, and the order of the lower <ORG> cannot be supported on the ground that it was not.
+RatioOfTheDecision	13.
+RatioOfTheDecision	There remains the question of res judicata.
+RatioOfTheDecision	If the plai ntiffs' claim in the present suit is res judicata we fire of course precluded from giving effect to the view indicated above and we must dismiss the appeal.
+Fact	The respondents (plaintiffs) say that their claim in the present suit is res judicata by reason of the decree in Original Suit No.
+Precedent	39 of 1899.
+Precedent	As regards this question, the view of the District Judge was that the claim in the present suit was res judicata in the plaintiffs' favour but <NAME> did not discuss the question at any length as it was unnecessary for him to go into it since <NAME> allowed the appeal on other grounds.
+Precedent	The parties to Original Suit No.
+Fact	39 of 1899 were the present plaintiffs and the present first and second defendants.
+Fact	The first defendant is dead.
+Fact	The present third defendant is the adopted son and the present fourth defendant is a party w<NAME> claims as alience from the third defendant.
+RatioOfTheDecision	For the purpose of the question of ret judicata we are of opinion that the parties are the same.
+Fact	In Original Suit No.
+Fact	9 of 1899 the plaintiffs obtained a decree  for redemption of plaint items Nos.
+Fact	1 and 2 in that suit.
+Fact	As regards items Nos.
+Fact	3 to 5 in that suit, the suit was dismissed on the ground that on the construction of the mortgage deed the plaintiffs were not entitle to redeem these lands before the 18th July 1900.
+Fact	Items Nos.
+Fact	3 to 5 in the suit of 1890 are the items which the plaintiffs seek to redeem in the present case.
+Fact	The appellants contend that the decree in Original Suit No.
+Precedent	39 of 1899 does not operate as res judicata since it is an erroneous decision on a point of law, they rely on the judgment of this <ORG> in the case of <NAME> v. Chinna Krishna I.L.R.
+Precedent	5 Mad.
+Precedent	304 at p. 309.
+Precedent	It seems to us that that case may be distinguished on the ground that the parties were not the same in the two suits but, however this may be, the judgment in that case appears to have been proceeded on the ground that the decree relied on as res judicata was based on a misapprehension as to a general rule of law.
+Precedent	14.
+Fact	In giving the plaintiffs a decree in Original Suit No.
+Fact	3 9 of 1899 as regards items Nos.
+RatioOfTheDecision	1 and 2 of the lands in question we do not think it can be said that the District Munsif was under any misapprehension as to any general rule of law applicable to the case.
+Fact	The question he had to determine was a question of mixed law and fact as in the case of <CITATION_30980> .
+Fact	28 Calc.
+Fact	318 The question was, on the facts, whether there had been an "investigation" within the meaning of the word as used in Section 283 of the Code of Civil Procedure.
+Fact	He was of opinion that there had not been and because he was of this opinion he gave a decree for the plaintiffs.
+Fact	The investigation was with reference to the lands amongst others which the plaintiffs seek to redeem in the present suit.
+Fact	We are of opinion that the question of the plaintiffs' right to redeem the lands which they seek to redeem in the present suit is res judicata by reason of the decree in Original Suit No.
+Precedent	39 of 1899.
+Argument	15.
+Argument	The appellants have contended that if the respondents are entitled to redeem the lands in question  they can only do so on payment, in addition to the amount duo under the mortgage, of a sum of Rs.
+Fact	187-15-7.
+Fact	This was a sum paid by the appellants (defendant) in order to raise the attachment in Original Suit No.
+RatioOfTheDecision	407 of 1895.
+RatioOfTheDecision	This payment was made by the defendants after the alleged sale to them and it was made for the purpose of clearing their title under the sale deed to them.
+RatioOfTheDecision	It was a voluntary payment and was not made on behalf of or for the benefit of the plaintiffs.
+RatioOfTheDecision	We are of opinion that the plaintiffs cannot be called upon to pay this amount in their suit to redeem.
+RulingByPresentCourt	We dismiss the appeal but without costs.

@@ -1,0 +1,183 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This appeal arises out of a suit to enforce payment of a sum of Rs.
+Fact	10,000, principal and interest alleged to be due on foot of a mortgage, dated the 16th of July 1690, by sale of the mortgaged property.
+Fact	The mortgage-deed provided that the mortgagors should pay the principal amount secured in ton years by instalments of Rs.
+Fact	625 yearly and that the interest should be paid monthly.
+Fact	There was this, further Clause: "If we fail to pay the interest aforesaid in any month or the principal by the stipulated period, as specified above, or no payment is made in a year, the mortgagee shall, under all these circumstances, be at liberty to realize the entire amount with the interest aforesaid in a lump sum through <ORG> by means of a suit from the mortgaged and other moveable and immoveable property and the person of us, the executants."
+Fact	Later on the deed has a provision which has been translated as follows: "If the mortgagee in order to get interest does not bring a suit in default of any  instalment and we are unable to pay the money, the interest should continue up to the stipulated period of ten years and also after it up to the date, of realization."
+Fact	This last Clause seems to me simply to mean that the mortgaged property should remain and be security for the interest even if no suit was brought to enforce the monthly payment.
+Fact	No payment was ever made upon foot of either principal or interest up to the date of the institution of the present suit on the 12th of June 1912.
+Fact	2.
+Fact	The Court below has dismissed the plaintiff's suit, holding that the claim is barred by limitation.
+Fact	The plaintiffs appeal.
+RatioOfTheDecision	3.
+RatioOfTheDecision	In my opinion the decision of the Court below is correct.
+RatioOfTheDecision	It is admitted that the Article of the Limitation Act which applies is Article 132.
+Precedent	See the decision of their Lordships of the Privy Council in <CITATION_1703849> 30 M. 426 : 17 M.L.J.
+Precedent	444 : 4 A.L.J.
+Precedent	625 : 9 Bom.
+Precedent	L.R.
+Precedent	1104 : 6 C.L.J.
+Precedent	379 : 11 C.W.N.
+Precedent	1005 : 34 I.A.
+Precedent	187 (P.C.)
+Precedent	: 2 M.L.T.
+Precedent	333.
+Precedent	This Article deals with "suits to enforce paymen t of money charged upon immoveable property."
+RatioOfTheDecision	The period of limitation prescribed is 12 years and time begins to run from the date when the money sued for becomes due.
+RatioOfTheDecision	No doubt if the mortgagors had fulfilled their contract, the mortgagees would not have been entitled to sue until the expiration of ten years from the date of the mortgage, and in that case the present suit would have been within time.
+RatioOfTheDecision	The provision, however, in the deed admittedly entitled the mortgagge to bring a suit to recover principal and interest after the first default, and if it can be said that the money then "became due" the suit is barred by limitation.
+RatioOfTheDecision	It is contended on behalf of the appellant that the mortgagees were entitled to sue, or not to sue and that accordingly on the true construction of the mortgage-deed the money did not "become due" until the expiration of ten years from the date of the mortgage.
+RatioOfTheDecision	I cannot agree with this contention.
+RatioOfTheDecision	It seems to me that money is "due" when it can he legally demanded, and it is admitted  in the present case that the money secured by this mortgage could have been legally demanded and recovered after the first default, and had a suit been brought for its recovery by sale of the mortgaged property the defendants could not have pleaded that such a suit was premature.
+RatioOfTheDecision	For this there is the high authority of <ORG> in the case of <NAME> v. <NAME> (1891) 2 Q.B.D.
+Precedent	509 : 65 L.T.
+Precedent	329 : 39 W.R. 629 : 60 L.J.Q.B.
+Precedent	619.
+Fact	In that case the plaintiff lent money to the defendant under a written agreement for a fixed period of five years "subject to the power to call in the same at an earlier period in the events hereinafter mentioned," The defendant agreed to pay interest quarterly and the plaintiff agreed not to call in the money for five years if the defendant should regularly pay interest.
+Fact	It was further provided that if the defendant should make default in payment of any quarterly payment of interest for 21 days, the plaintiff might call in the principal.
+RatioOfTheDecision	No interest was ever paid.
+RatioOfTheDecision	The  plaintiff commenced his action within six years from the end of the period of five years.
+Argument	It was held that time began to run against the plaintiff from the earliest time at which the action could have been brought, that is to say, 21 days after the first instalment of interest became due.
+Precedent	Lindley, L.J., said: "I am of opinion that we cannot differ from the judgment below without altering the law.
+RatioOfTheDecision	The agreement is one reasonably easy to be understood.
+RatioOfTheDecision	It provides for a loan for five years, subject to a provision that if default is made in punctual payment of interest, the principal shall be recoverable at once.
+RatioOfTheDecision	Now, the Statute of Limitations (21 Jac.1, Clause.
+RatioOfTheDecision	16) enacts that such actions as are therein mentioned, including "all actions of debt grounded upon any lending or contract without specialty," shall be brought 'within six years next after the cause of such action or suit, and not after.'
+RatioOfTheDecision	This expression, 'cause of action,' has been repeatedly the subject of decision, and it has been held, particularl y in <NAME> v. <NAME> 4 Q.B.
+RatioOfTheDecision	519 : 12 <NAME>Q.B.
+Fact	134 : 7 Jur.
+Fact	302 : 3 G. & D. 402 : 114 E.R.
+Argument	994 : 62 R.R.
+Argument	422 decided in 1843, that the cause of action arises at the time when the debt could first have been recovered by action.
+Argument	The light to being an action may arise on various events; but it has always been held that the Statute runs from the earliest time at which an action could be brought."
+Argument	4.
+RatioOfTheDecision	<NAME>, <NAME> said: "We have not to determine whether the defence here set up is handsome or conscientious, but whether it is good at law--and I am of opinion that it is.
+RatioOfTheDecision	The agreement contains a stipulation that the lender shall not call in the principal sum for a period of five years, if the borrower should so long live, and should duly and regularly pay the interest.
+RatioOfTheDecision	This implies a contract by the borrower that, the principal debt should be paid at once on the death of the borrower, or on default in payment of interest.
+RatioOfTheDecision	The subsequent provisoes imply a contract by the lender not to enforce payment after the death of th e borrower until the expiration of a six months' notice, and a contract not to enforce payment of the capital for default in payment of interest until 21 days after such default, thus giving the borrower further time.
+RatioOfTheDecision	Subject to these stipulations, the implied contract to pay the principal remained in force.
+RatioOfTheDecision	The principal, therefore, became payable 21 days after the first quarterly instalment of interest became due, and from that time the Statute of Limitations began to run.
+RatioOfTheDecision	if authority is wanted, <NAME> v. <NAME> 4 Q.B.
+RatioOfTheDecision	519 : 12 L.J.Q.B.
+Fact	134 : 7 Jur.
+Fact	302 : 3 G. & D. 402 : 114 E.R.
+Fact	994 : 62 R.R.
+Fact	422 is in point."
+Fact	<NAME>, L.J., said: "The defendant alleges that the cause of action arose more than six years before the action was commenced, and that the action is barred by the Statute of Limitations, Now, when first had the plaintiff a cause of action?
+Fact	When default was made for 21 days in payment of an instalment of interest.
+Fact	<NAME> v. <NAME> 4 Q.B.
+Fact	519 : 12 L.J.Q.B.
+Fact	134 : 7 Jur.
+Fact	302 : 3 G. & D. 402 : 114 E.R.
+Fact	994  : 62 R.R.
+Fact	422 is in point.
+Argument	It is said that this case is not good law, and that it has not been referred to for many years.
+Argument	I think that it has not been referred to because it has been acquiesced in, and it does not appear that it has ever been questioned."
+RatioOfTheDecision	It seems to me that this case is the clearest authority (if authority were needed) that money "becomes due" as soon as it is legally recoverable, quite irrespective of when the suit was instituted.
+RatioOfTheDecision	5.
+Precedent	This view was taken in the case of <CITATION_1766429> 24 C. 281 : 1 C.W.N.
+Precedent	229 and in the case of <CITATION_1219329> 20 M. 245 : 7 M.L.J.
+Precedent	222.
+Precedent	6.
+Precedent	A somewhat contrary view was taken in the case of <CITATION_1789504> 22 M. 20 : 8 M.L.J.
+Precedent	167.
+Argument	In this last case, however, the Clause in the mortgage-deed was as follows: "In default of paying on the above dates, I shall pay the said sum with interest at Rs.
+Argument	15 per cent, per annum, from the date of the bond, irrespective of the above due date, whenever you make the demand."
+RatioOfTheDecision	The <ORG> seems to have thought that the  money did not become due on default unless a demand was made.
+RatioOfTheDecision	It is unnecessary to express any opinion as to whether or not the learned Judges were correct in their construction of the deed in question, because there are no similar words in the deed in the present suit.
+Argument	7.
+Argument	A. number of cases have been cited on behalf of the appellant, including the cases of the <CITATION_399102> 29 A.
+Precedent	431 : A.W.N.
+Precedent	(1907) 139 : 4 A.L.J.
+Precedent	336; <NAME> v. <NAME> 16 A.
+Precedent	371 : A.W.N.
+Precedent	(1894) 115. and Ajudhia v. Kunjlal 30 A.
+Precedent	123 : A.W.N.
+Precedent	(1908) 36 : 5 A.L.J.
+Precedent	72.
+Precedent	All these cases dealt with the construction of Article 75 of the Limitation Act which contains no reference to the money becoming due," and in my opinion these cases have no bearing on the question which we have to consider in the present appeal see also <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	933 : 35 A.
+Precedent	455 : 11 A.L.J.
+Precedent	664 Article 75 is the Article applicable to quite a different suit from the present.
+Precedent	The learned Advocate for the appellants also referred to a  dictum of their Lordships of <ORG> in the case of <CITATION_1143451> 1 C. 163 : 25 W.R. 84 : 3 I.A.
+Precedent	1 : 3 Sar.
+Precedent	P.C.J.
+Precedent	58 : 3 Suth.
+Precedent	P.C.J.
+Precedent	222.
+RatioOfTheDecision	The facts of that case were quite different and their Lordships expressly state that it was unnecessary to decide the question to which the dictum refers.
+RatioOfTheDecision	Their Lordships have, moreover, in the recent case to which I have referred decided that Article 132 is the Article which applies to a suit on a simple mortgage to enforce payment of money charged on immoveable property.
+RatioOfTheDecision	I am clearly of opinion that in the present case the money "became due" within the meaning of that expression in the Article of limitation when the first default was made and that accordingly the suit is barred by limitation, I would dismiss the appeal.
+Precedent	<NAME>, J.
+Precedent	8.
+Fact	The only question in this appeal is whether the plaintiffs' claim, which is one to enforce payment of the amount due on a simple mortgage by sale of the mortgaged property, is barred by limitation.
+Fact	The mortgage bond is dat ed the 16th of July 1899 and the time fixed for re-payment is ten years.
+Fact	Except for another provision in the bond, to which I shall presently refer, the amount secured by it was re-payable on 16th July 1900 and as the present suit was instituted on the 12th of June 1912, it would be within time under Article l32 of Schedule I of the Limitation Act, which has been held by their Lordships of the Privy Council to be applicable to a suit of this kind.
+Fact	The defendants, however, rely on the following provision of the bond and urge that the amount of the mortgage became due when default was made in the payment of the first instalment and as more than 12 years have elapsed since the date of default, the claim is time-barred.
+Fact	The provision is this: "We shall pay Rs.625 yearly and we shall pay the interest on the said amount monthly at the rate of 8 annas per month.
+Fact	If we fail to pay the interest aforesaid in any month or the principal by the end of the stipulated period as specified above, or no payment is made in a ye ar, the mortgagee shall, under all these circumstances, be at liberty to realize the entire amount with the interest aforesaid in a lump sum through <ORG> by means of a suit from the mortgaged and other moveable and immoveable property and the persons of us, the executants."
+RatioOfTheDecision	Had this Clause stood alone, it might perhaps be said, on the authority of the English and other cases cited on behalf of the respondents, that the plaintiffs were bound to sue when default was first made in the payment of the instalment fixed in the bond.
+RatioOfTheDecision	The document, however, goes on to provide that if the mortgagees in order to get interest do not bring a suit in default of payment of any instalment and we be unable to pay the money, the interest should continue up to the stipulated period of ten years and also after it up to date of realization."
+RatioOfTheDecision	This Clause, in my opinion, means that the mortgagee is competent to wait for the full period of ten years stipulated in the bond and it is not obligatory on him to call in the money on the  occurrence of a default in the payment of the instalment.
+RatioOfTheDecision	The bond, in its earlier provisions, made the mortgaged property security both for principal and interest, and this Clause would be wholly unnecessary and redundant if the meaning of it was only to make the property security for interest or to provide for payment of interest.
+RatioOfTheDecision	It says nothing about the security audit in my opinion, clearly intends that the mortgagee might, if he so chose, wait for the full term of ten years and if lie did so, interest would run till date of actual payment.
+RatioOfTheDecision	This provision in the bond gives full power to the mortgagee not to enfoce his right to claim the entire amount of the mortgage on the happening of a default but to wait till the expiry of the stipulated period of ten years.
+RatioOfTheDecision	It is true that under Article 132 time begins to run from the date when the money becomes due, but that date depends upon the terms of each document and a true construction of those terms.
+RatioOfTheDecision	In my judgment, in view of the Clause in the bond in suit  to which I have referred, the money secured by the bond did not become due until the expiration of ten years from the date of the bond.
+RatioOfTheDecision	Where under the terms of the document the creditor is authorize to wait for the full period stipulated for re-payment, the money cannot be held to have become due within the meaning of Article 132 until the expiry of that period.
+RatioOfTheDecision	The first Clause as to payment of the whole amount on the occurrence of a default was clearly inserted in the document for the benefit of the creditor and as he was expressly authorized not to take advantage of the Clause I am unable to hold that he was bound to sue when default was made.
+RatioOfTheDecision	Any other view would, as observed in <CITATION_399102> 29 A.
+Precedent	431 : A.W.N.
+Precedent	(1907) 139 : 4 A.L.J.
+Precedent	336 be "very unfortunate" "It would be to punish a creditor for forbearance shown to his debtor, and compel him to press his demands at the earliest opportunity and insist upon speedy and full satisfaction of his claim."
+Precedent	The question in that case was of the applicability  of Article 75 , which, of course, does not govern this case, but the principle of the ruling applies.
+Precedent	A similar view was held by <NAME>, <NAME>, and <NAME>, J. in <ORG> v. Jalpa Prasad 16 A.
+Precedent	371 : A.W.N.
+Argument	(1894) 115 which was a case of execution of a decree.
+Argument	The decree in that case provided that the amount of it should be paid by eight instalments and that in case of default and non-payment of any instalment, the plaintiff had power to realize in one lamp sum the entire decretal money payable up to that time by executing the decree.
+Precedent	It was held upon a construction of the decree that the "decree-holder on the happening of any default might, if he wished, execute the decree for all the decretal money then unpaid, but that it was not the intention that on the happening of a default the decree-holder should be bound to execute the decree once and for all".
+Precedent	<CITATION_1143451> 1 C. 163 : 25 W.R. 84 : 3 I.A.
+Precedent	1 : 3 Sar.
+Precedent	P.<NAME> their Lordships of <ORG> expressed a similar opinion.
+Precedent	That was a suit to rec over the amount of a hypothecation bond in which the borrower engaged to re-pay the amount with interest on a day named, with a condition that in the event of the hypothecated lands being sold in execution of a decree before the day fixed for re-payment the lender should be at liberty at once to sue for the recovery of the debt.
+Argument	It was contended that the plaintiffs' cause of action arose on the 18th of May 1865, when the lands pledged were sold in execution and that the suit having been brought after six years from that date was time-barred.
+Argument	With reference to this contention their Lordships observed: "Their Lordships must not be supposed, in coming to this decision, to give any countenance to the argument of Mr. <NAME> that this would have been barred if the limitation of six years under Clause 10 had been applicable to it.
+Argument	They think upon the construction of this bond there would be good reason for holding that the cause of action arose within six years of the commencement of the suit."
+Argument	Their Lordships thu s held that limitation would begin to run from the date fixed for payment and that the cause of action arose, that is to say, the money became due on that date and not on the date on which the hypothecated property was sold in execution.
+Precedent	It true that their Lordhsips aid that it was not necessary to decide the point in the view which they took of the period of limitation applicable to the case before them, but an expression of opinion by their Lordships is entitled to the greatest weight and ought to guide the Courts in this country.
+Precedent	Considerable reliance was placed on behalf of the respondents on the cases of <CITATION_1766429> 24 C. 281 : 1 C.W.N.
+Precedent	229 and <CITATION_1219329> 20 M. 245 : 7 M.L.J.
+Precedent	222.
+RatioOfTheDecision	In neither of those cases was there a Clause in the bond similar to the one in this case which expressly empowered the creditor to wait for the full term of the mortgage.
+RatioOfTheDecision	Those cases, therefore, are, in my opinion, no authority on the question before us.
+RatioOfTheDecision	The decision of that question depends upon the true constru ction of the terms of the bond and the intention of the parties as gathered from the bond.
+RatioOfTheDecision	I am of opinion that upon a true construction of the bond in this case the money secured by it became due on the expiration of ten years from the date of the bond and that the claim is not barred by limitation.
+RulingByPresentCourt	I would allow the appeal, set aside the decree of the Court below and remand the case to that Court for trial on the merits.
+Precedent	<NAME>, J.
+Precedent	9.
+Precedent	I concur with the learned Chief Justice that the present suit is barred by limitation.
+RatioOfTheDecision	The matter to my mind is a simple one.
+RatioOfTheDecision	Article 132 clearly applies and under that Article time began to run from the date on which the money became due.
+RatioOfTheDecision	To find out the date on which the money became due one has to examine the conditions laid down in the bond.
+Fact	They are simple and run as follows: "It is covenanted that we shall pay the said amount of principal within ten years, that is, we shall pay Rs.
+Fact	625 annually, and we shall pay the interest on the said amount monthly at the rate of 8  annas per month.
+Fact	If we fail to pay the interest aforesaid in any month or the principal in the stipulated period as specified above, or no payment is made in a year, the mortgagee shall under all these circumstances be at liberty to realise the entire amount with the interest aforesaid in a lump sum through Court by means of a suit from the mortgaged and other moveable and immoveable property, and the persons of us, the executants.
+Fact	We or our heirs or representatives shall have no objection or excuse in any way."
+RatioOfTheDecision	Then comes a Clause on which considerable stress has been laid on behalf of the appellants but which in my opinion is not of the slightest assistance to them.
+RatioOfTheDecision	Correctly translated that Clause runs as follows: "If the mortgagee in his desire for interest does not bring a suit on any default of ours and we are unable to pay the money, the interest shall continue up to the stipulated period of 10 years and also after that up to the date of realization."
+RatioOfTheDecision	It is an admitted fact that the mortgagors failed  to make any payments of interest within the first year after the execution of the deed, and no instalment of principal or interest has ever been paid.
+RatioOfTheDecision	Under the terms of the bond immediately on the first default occurring the mortgagor was clearly liable to pay the whole sum to the mortgagee.
+RatioOfTheDecision	In other words, the money became due from the mortgagor to the mortgagee on the occasion of the first default.
+RatioOfTheDecision	I fail to see how the last Clause, which I have mentioned above, helps the appellants in any way.
+RatioOfTheDecision	It seems to me that this Clause was simply put into the document in order to make it quite clear that the interest should continue to run in spite of no suit being brought not only up to the expiry of the 10 years but also up to the date of realisation.
+RatioOfTheDecision	It was simply put in to make it clear that interest would not cease to run after the expiry of 10 years.
+RatioOfTheDecision	The mortgagee on the occurrence of the first default was fully entitled to demand his money and the mortgagor could not have met him with the plea that his demand  was premature.
+RatioOfTheDecision	There is no question of 'waiver,' for no waiver has been alleged, much less proved.
+RatioOfTheDecision	Paragraph 3 of the plaint is practically a repudiation of any waiver.
+RatioOfTheDecision	In my opinion under the clear terms of this bond the money "became due" in the year 1890 and the present suit was many years beyond time.
+RatioOfTheDecision	I would, therefore, dismiss the appeal.
+RatioOfTheDecision	10.
+RulingByPresentCourt	The order of the <ORG> is that the appeal be dismissed with costs, including in this <ORG> fees on the higher scale.

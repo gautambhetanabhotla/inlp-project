@@ -1,0 +1,66 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal from a judgment of <ORG> at Calcutta in a reference under Section 66(1) of the Indian Income-tax Act, 1922.
+Fact	2.
+Fact	The facts which are material for the purpose of deciding this appeal, may be briefly stated as follows :-  The respondent, Messrs. <ORG> (hereinafter referred to as "the company") is a company incorporated in the United States of America and owns steamships which visit India.
+Fact	The company's Indian profits which are computed on the basis of "day on round voyage" are assessed to tax under the Indian Income-tax Act as a "company" through its agents, <ORG> In the course of the assessment for the years 1941-42, 1942-43 and 1943-44, the company claimed that its unabsorbed depreciation at the end of 1938-39 should be deemed to be a part of the depreciation allowance for 1939-40 and therefore such unabsorbed depreciation should be allowed to be further carried forward under Section 10(2) (vi) of the Income-tax Act .
+Fact	Thi s claim was negatived by the Income-tax Officer, the Appellate Assistant Commissioner of Income-tax and <ORG>.
+Fact	The <ORG> however, at the instance of the company, referred the following question to <ORG> for its opinion :-  "Whether on the facts and in the circumstances of this case the <ORG> was right in holding that the unabsorbed depreciation at the end of the year 1938-39, which was not given effect to in the subsequent years, could not be treated as part of the allowable depreciation for the relevant assessment years which are assessment years 1941-42, 1942-43 and 1943-44."
+Fact	3.
+Fact	<ORG> answered the question in favour of the company, and gave a certificate to the Commissioner of Income-tax under Section 66A(2) of the Act to appeal to this <ORG> and hence this appeal.
+Fact	4.
+Fact	Before stating the precise point which arises for determination in this appeal, it will be convenient to set out Section 10(2) (vi) of the Income-tax Act , both as it originally stood and a s it now stands after being amended in 1939, in parallel columns.
+Statute	SECTION 10(2)(vi) A--BEFORE AMENDMENT B--AFTER AMENDMENT IN 1939 "Such profits or gains shall be computed after making the following allowances namely:  in respect of depreciation of such buildings, machinery, plant or furniture being the property of the assessee, a sum equivalent to such percentage on the original cost thereof to the assessee as may in any case or class of cases be prescribed :  Provided that--  (a) the prescribed particulars have been duly furnished;  (b) where full effect cannot be given to any such allowance in any year owing to there being no profits or gains chargeable for the year, or owing to the profits or gains chargeable being less than the allowance, the allowance or part of the allowance to which effect has not been given, as the case may be, shall be added to the amount of the allowance for depreciation for the following year and deemed to be the allowance for that year, and so on for succeeding years; and  (c) t he aggregate of all such allowances made under this Act or any Act repealed hereby or under the Indian Income-tax Act , 1886, shall, in no case, exceed the original cost to the assessee of the buildings, machinnery, plant or furniture as the case may be."
+Statute	"Such profits or gains ......................................  equivalent, (where the assets are ships other than ships ordinarily plying on inland waters) to such percentage...prescribed (and in any other case, to percentage on the written down value thereof as may in any case or class of cases be prescribed): --  Provided that--  (a) No change.
+Statute	(b) where full.........any year, not being a year which ended prior to the 1st day of April, 1939, owing.................................  for succeeding years;  and  (c) No change.
+Statute	[The underlined (here italicized) words have been added by the Amending Act of 1939] [The underlined words have been added by the Amending Act of 1939.]
+Argument	5.
+Argument	The <ORG> as well as <ORG> have rightly pointed out that the mate rial changes introduced in the amended section are :  (1) that before the amendment of 1939, depreciation was based on the original coast, whereas it is now based on the written down value for all assets except ocean-going steamers for which the old basis of original cost has been retained; and (2) that it is now provided that the unabsorbed depreciation at the end of a year, which ended prior to the 1st day of April, 1939, shall not be carried forward.
+Argument	6.
+Argument	It is to be noticed that the amendment was to take effect from the 1st April, 1940.
+Argument	7.
+Argument	The decision of this appeal largely turns upon the effect of the following words :-  "Where full effect cannot be given to any such allowance in any year, not being a year which ended prior to the 1st day of April, 1939, owing to there being no profits or gins chargeable for that year............. the allowance or part of the allowance to which effect has not been given..... shall be added to the amount of the allowance for depreciation for the following year and deemed  to be part of that allowance..... and so on for succeeding years."
+Argument	8.
+Argument	It may be observed that as a result of this provision, the unabsorbed depreciation for a particular year becomes, by legal fiction, part of the allowance for depreciation for the succeeding year.
+Argument	The material question to be decided in this case is whether the company an be allowed to carry forward the unabsorbed depreciation remaining at the end of 1938-39 and treat it as part of the depreciation for 1939-40.
+Argument	If so, it would necessarily be a part of the depreciation for 1940-41.
+Argument	The Appellate Assistant Commissioner of Income-tax answered the question in the negative and gave two reasons for not giving effect to the contention of the assessee.
+Argument	Firstly, he pointed out that in the course of the assessment for the year 1940-41, the question whether the unabsorbed depreciation remaining at the end of the year 1938-39 could or could not be carried forward and allowed in subsequent years had come up for consideration before <ORG> r but he had decided that it could not be so carried forward.
+Fact	Nevertheless, the company did not appeal against the order and hence the matter could not be reopened in subsequent assessments.
+Fact	Secondly, by reason of the amendment of the section, the respondent-company was not entitled to carry forward the unabsorbed depreciation at the end of 1938-39.
+RatioOfTheDecision	9.
+RatioOfTheDecision	<ORG> did not accept the first ground but based its decision only on the second ground.
+RatioOfTheDecision	In this appeal, we are not concerned with the first ground, because, as has been pointed out by the learned Chief Justice in the order granting leave to appeal, the Income-tax authorities appear to have accepted the view of the <ORG> on the first point since they did not ask the <ORG> to state a case giving rise to the contention which had found favour with the Appellate Assistant Commissioner but had been rejected by the <ORG>.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The only question with which we are thus concerned in whether or not the company was entitled to carry fo rward the unabsorbed depreciation at the end of 1938-39.
+RatioOfTheDecision	In our opinion, this question has been rightly answered by <ORG> in favour of the assessee.
+RatioOfTheDecision	11.
+RatioOfTheDecision	It will be observed that we are concerned with two datum lines : (1) the 1st April, 1940, when the Act came into force, and (2) the 1st of April, 1939, which is the date mentioned in the amended proviso.
+Fact	The first question to be answered is whether these dates are to apply to the accounting year or the year of assessment.
+Fact	They must be held to apply to the assessment year, because in income-tax matters the law to be applied is the law in force in the assessment year unless otherwise stated or implied.
+Fact	The first datum line therefore affected only the assessment year of 1940-41, because the amendment did not come into force till the 1st of April, 1940.
+Fact	That means that the old law applied to every assessment year up to and including the assessment year 1939- 40.
+Fact	12.
+Fact	In the assessment year 1938-39, the assessee showed a certain unabsorbed depreciation i n its accounts year for the calendar year 1937, that being the assessee's accounting year for the assessment year 1938-39.
+Argument	Under the unamended section, he was permitted to carry that amount forward into the accounting year 1938, add it to the depreciation for 1938 and treat the total amount as the "allowance" for the assessment year 1939-40.
+Argument	13.
+Argument	The Income-tax Officer refused to allow that amount, but, for the reasons already stated, we have to disregard that fact and therefore, for the purpose of the present reference, must treat the unabsorbed depreciation which was carried forward from the assessment year 1938-39 into the accounts of the assessment year 1939-40 as the unabsorbed depreciation in the assessment year 1939-40 and treat it as unabsorbed for the reason that the profits in that year were not sufficient to absorb this sum, that being the position which would have resulted had the Income-tax Officer not disallowed the sum.
+RatioOfTheDecision	In other words, in answering the reference, we have to accept the position  which the accounts would have revealed had the Income-tax Officer not wrongly refused to allow the unabsorbed depreciation of 1938-39 to be carried forward to 1939-40.
+RatioOfTheDecision	It follows from this, as the learned Chief Justice has pointed in the judgment under appeal, that according to the mandatory provision of the old section, the allowance for 1939-40 is not only the percentage allowed for that year but also the unabsorbed depreciation of 1938-39.
+RatioOfTheDecision	14.
+RatioOfTheDecision	Now we come to the assessment year 1940-41.
+RatioOfTheDecision	The amended section applied here and the question is whether under the new law this figure could be carried forward into 1940-41.
+RatioOfTheDecision	The first question which arises is whether the assessment year 1939-40 is an assessment year which ended prior to the 1st of April, 1939.
+RatioOfTheDecision	It is evident that it is not, because it ended on the 31st of March, 1940.
+RatioOfTheDecision	Therefore, it is not one of the excluded years.
+RatioOfTheDecision	As it is not, and as, on the facts set out above, what must be regarded as the unabsorbed depreciation for the year 1939-40 could not abs orbed for the reason given in the amended section, it follows that it can be carried forward into the accounts of the assessment year 1940-41 and from there on to the accounts of the succeeding assessment year, if it is not absorbed meanwhile for the reason given in the proviso.
+Argument	15.
+Argument	As has been pointed out already, the section provides what in order to enable the unabsorbed depreciation to be carried forward to the succeeding year, it must be shown that full effect was not given in the previous year, owing to there being no profits or gains chargeable for the year, or, owing to the profits or gains chargeable beings less than the allowance.
+Argument	It was argued on behalf of the appellant that in the present case full effect could not be given to the unabsorbed depreciation not for the reasons stated in the section but on account of the failure of the assessee to take the matter in appeal against the assessment for 1940-41.
+RatioOfTheDecision	In our opinion, this view is based on a misreading of the section.
+RatioOfTheDecision	The words used in the sect ion are :- "where full effect cannot be given", and not "where full effect has not been given."
+RatioOfTheDecision	It is not denied that the profits or against were less than the depreciation allowance, and that being to the requirements of the section were satisfied.
+RatioOfTheDecision	16.
+RatioOfTheDecision	In our opinion, the view taken by <ORG> on the limited question referred to it is correct, and a we accordingly dismiss this appeal with coasts.
+RatioOfTheDecision	17.
+RulingByPresentCourt	Appeal dismissed.

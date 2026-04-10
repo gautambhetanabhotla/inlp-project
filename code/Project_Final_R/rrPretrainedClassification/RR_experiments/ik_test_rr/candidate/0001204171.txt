@@ -1,0 +1,278 @@
+Fact	PETITIONE<ORG>: <NAME> & <NAME>.
+Fact	Vs. <ORG>ESPONDENT: <NAME> & O<ORG>S.
+Fact	DATE OF JUDGMENT: 05/09/1969 BENCH: <NAME>, <NAME> BENCH: <NAME>, <NAME> SHELAT, J.M.
+Fact	VAIDYIALINGAM, C.A.
+Fact	CITATION: 1970 AI<ORG> 1717 1970 SC<ORG> (2) 204 1969 SCC (3) 787 CITATO<ORG> INFO : <ORG> 1973 SC 569 (16,36) <ORG>F 1978 SC1217 (15) ACT: Transfer of Property Act , s. 52- --Doctrine if lis pendens-Applicability <ORG>elease by Cooperative <O<ORG>G> of properly from mortgage--Effect of.
+Fact	HEADNOTE: One <ORG> executed a mortgage of his share in two survey Nos.
+Fact	to <O<ORG>G>.
+Fact	On his application and in order to enable him to repay a sum of <ORG>s.
+Fact	500/-, the <O<ORG>G> released the property in 1933, but <ORG> never paid the amount to the <O<ORG>G>.
+Fact	The <O<ORG>G> filed an application for a mortgage award on April 5, 1934 and the Assistant <ORG>egistrar made an award in the nature of a preliminary decree, on December 16, 1934.
+Fact	Thereafter a final mortgage decree was passed by the Assistant <ORG>egistrar and the two survey nos.
+Fact	were brought to sale and purchased by the.
+Fact	Soc iety and possession was obtained on July 20, 1937.
+Fact	Meanwhile, one D obtained attachment before judgment of the two survey nos., as the property of R, in a suit for money against R, and, in execution of the money decree, purchased the two survey nos.
+Fact	on August 13, 1934.
+Fact	In 1943, the <ORG> went into liquidation and the liquidator sold the properties of the <ORG> and the appellant bought the two.
+Fact	survey nos.
+Fact	He filed a suit for a declaration of his title and possession of the properties in the two, survey nos.
+Fact	from various persons who were in possession of the properties under R and D. <ORG> dismissed the .suit.
+Fact	In appeal to this Court, HELD: (1) The motive of the release, in 1933, of the properties by the <ORG> in favour of R was the payment of Rs.
+Fact	500/- by R to the <ORG>, but it was not a condition Of the release.
+Fact	Therefore, the release was binding on the <ORG>.
+Fact	[209 D--E] (2) But R did not object to the inclusion of the items in the mortgage award.
+Fact	Therefore, the <ORG> must have bona fide  felt that the properties remained encumbered.
+Fact	[211 G] (3) The proceedings in respect of the mortgage were pending from April 5, 1934 to July 20, 1937.
+Fact	The proceedings were for obtaining a mortgage award equivalent to a mortgage decree and not for a money decree.
+Fact	The fact that they were attached before judgment in <ORG>'s suit does not affect the application of the doctrine of lis pendens.
+Fact	Attachment is only effective in preventing alienation and does not create title to property.
+RulingByLowerCourt	If in fact, the property was.
+RulingByLowerCourt	acquired pendente lite, the acquirer is bound by the decree ultimately obtained.
+RulingByLowerCourt	Therefore, <ORG>'s purchase on August 13, 1934, was hit by the.
+RulingByLowerCourt	doctrine.
+RulingByLowerCourt	of lis pendens in s. 52 of the Transfer of Property Act , 1882.
+Fact	Since <ORG>'s purchase was hit by the doctrine the properties continued to be those of the <ORG> and hence, the appellant was entitled to them.
+Fact	[210 E, G--H; 211 A--C] 205 <CITATION_105132> ,  2 S.C.R.
+Fact	18, followed.
+Fact	<NAME> v. Karrab-ul-<ORG>in & Ors.
+Fact	24 I.A.
+Fact	170 and <CITATION_714582> .
+Fact	75 I.A.
+Fact	165, a pplied.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeals Nos.
+Fact	1091-1103 of 1964.
+Fact	Appeals from the judgment and decree dated April 17, 1957 of <ORG> In Second Appeals Nos.
+Fact	1447 of 1950 etc.
+Fact	<NAME> and <NAME>, for the appellant (in all the appeals).
+Fact	<NAME> and <NAME>, for respondents Nos.
+Fact	3 and 4 (in C.A.
+Fact	No.
+Fact	1091 of 1964) respondent No.
+Fact	3 (in C.A.
+Fact	No.
+Fact	1092 of 1964) respondent No.
+Fact	4 (in C.A.
+Fact	No.
+Fact	1093 of 1964), respondent No.
+Fact	7 (in C.A.
+Fact	No.. 1094 of 1964), respondent No.
+Fact	3 (in C.A.
+Fact	No.
+Fact	1096 of 1964) respondents Nos.
+Fact	4 and 5 (in C.A.
+Fact	No.
+Fact	1095 of 1964) and respondent No.
+Fact	4 (in C.As.
+Fact	Nos.
+Fact	1099, 1100 and 1101 of 1964).
+Fact	The Judgment of the Court was delivered by <NAME>, C.J.
+Fact	These are 13 appeals by certificate against the common judgment in second appeal, April 17, 1957, of <ORG>.
+Fact	The appellants are the original plaintiffs.
+Fact	The appellants had filed 12 title suits for ejectment in the court of <ORG> at <ORG>.
+Fact	Eleven suits were dismissed.
+Fact	It  was held that the plaintiffs had no title to suit lands.
+Fact	One suit was compromised and decreed in terms of the compromise.
+Fact	Two other suits--one by <NAME> (one of the plaintiffs in the 12 title suits) and the other by one <NAME> were filed for rent for 1335-1337 Fasli in respect of some lands comprised in Survey No.
+Fact	3385 of <NAME> against the tenant <NAME>.
+Fact	The two rent suits were heard together.
+Fact	<NAME> was held to be the landlord and not <NAME>.
+Fact	The suit of the former was decreed and that of the latter dismissed.
+Fact	On appeals filed by <NAME> the decision was reversed.
+Fact	Appeals by <NAME> to <ORG> were dismissed on the ground that in the title suits from which eleven appeals were filed it was held by <ORG> affirming the decision of the courts below that <NAME> had no title.
+Fact	Since the success of the last two appeals depended on whether <NAME> had title or not it is not necessary to refer to them at this stage.
+Fact	We shall deal with the other eleven appeals first.
+Fact	in these appeals, plaintiffs and defendants 1 to 3 are common.
+Fact	Plaintiffs are purchasers from the mortgagees of the suit lands who had purchased the suit lands in an auction-sale in execution of the mortgage decree.
+Fact	Defendants 1 to 3 were the former owners of these suit lands and the other defendants were either purchasers at auction-sales in execution of money decrees against the owners or transferees from the auction-purchasers.
+Fact	The suits concern plots formed out of two <ORG> Nos.
+Fact	3384 and 3385.
+Fact	It is thus that the other two suits get connected with the title suits because in those suits the rent of certain plots from <ORG> No.. 3385 was involved.
+Fact	The history of the plots is as follows :--  One <NAME> was the previous owner of these 2 <ORG> Nos.
+Fact	On his death his daughter's sons <NAME>, <NAME> and <NAME> inherited these <ORG> Nos.
+Fact	alongwith other properties.
+Fact	The first two sons were defendants 1 to 2 in the suits and defendant 3 is the son of <NAME>.
+Fact	In 1930 the other two  brothers sued <NAME> for a partition.
+Fact	Preliminary decree was passed on April 15, 1931 and the final decree on September 10, 1932.
+Fact	Half share in the property went to <NAME> and the other half jointly to the other two brothers.
+Fact	The suit <ORG> came to the share of <NAME> and <NAME>.
+Fact	On April 27, 1931 <NAME> executed a mortgage of a half share in 27 plots made in the two <ORG> and some other property with <ORG>.
+Fact	On April 20, 1933, the <ORG> released <NAME>'S share in the 27 plots from the mortgage by a registered release deed.
+Fact	On September 20, 1932 <NAME> filed a suit for 'partition against <NAME>.
+Fact	The preliminary decree was passed in May 1933, that is to say, after the release by the <ORG>.
+Fact	The two brothers divided the two <ORG> half and half between them.
+Fact	No final decree in this partition suit seems to have been passed.
+Fact	<NAME> (one of the defendants) obtained settlement of 3 k 13 d of land out of Sur vey No.
+Fact	3384 from <NAME> on June 10, 1933 and in execution of a money decree against <NAME> and <NAME> purchased on August 13, 1934 the remaining portion of Survey No.
+Fact	3384 and Survey No.
+Fact	3385.
+Fact	He obtained possession on February 27, 1935.
+Fact	He had obtained attachment of the two plots before judgment, on April 23, 1934.
+Fact	<NAME> disposed of 3 k 13 d by settling them on his wife and she was one of the defendants in the suits.
+Fact	<NAME>'s title depends on whet.her the release by the <ORG> was valid and binding on the <ORG> or not.
+Fact	If the release was valid and binding on the <ORG>, the <ORG> could not obtain a decree in respect of these two Survey Nos.
+Fact	and bring them to sale.
+Fact	207  This is one of the points for consideration in these appeals.
+Fact	<ORG> and the court below have decided unanimously that the release was binding on the <ORG> and <NAME> obtained no title.
+Fact	On April 26, 1934, that is to say, before <NAME>'s purchase but after attachment by him , the <ORG> applied to ,.he Registrar, <ORG> for a mortgage award.
+Fact	In that application the surety of <NAME> was also joined.
+Fact	On August 16, 1934 a money- award was given against <NAME> and his surety.
+Fact	On September 20, 1934 the money award was cancelled and a preliminary mortgage award was passed.
+Fact	Admittedly the mortgage award had the force of a mortgage decree.
+Fact	The final mortgage award was made on May 28, 1935.
+Fact	The award ordered sale of all .mortgage properties including the half share of <NAME> in survey Nos.
+Fact	3384 and 3385.
+Fact	No mention was made of the earlier release of the Survey Nos.
+Fact	by the <ORG> by a registered deed.
+Fact	In execution of the decree the <ORG> purchased the two Survey Nos.
+Fact	on February 7, 1936 and obtained possession o.n July 20, 1937.
+Fact	One Dwarikanath had a money decree against the <ORG> and he attached the two disputed Survey Nos.
+Fact	and brought them to sale.
+Fact	<ORG> purchased the two Survey Nos.
+Fact	in auction-sale on February  8, 1940 obtaining possession on July 5, 1941.
+Fact	On March 28, 1943 the <ORG> and the <ORG> went into liquidation.
+Fact	The right, title and interest of the <ORG> and the <ORG> was sold by the common Liquidator to <NAME> including the 27 plots made in the two Survey Nos.
+Fact	<NAME>'s purchase was on March 20, 1943 but he took the sale benami in the name of <NAME>, who was plaint.
+Fact	ill No.
+Fact	2 in the title suits while <ORG> was plaintiff No.
+Fact	1.
+Fact	The title of the plaintiffs <NAME> and <NAME> is based on this purchase.
+Fact	After the release of the two Survey Nos.
+Fact	by the <ORG>, <NAME> and <NAME>, and after his purchase, <NAME>, made settlement of the plots to various persons.
+Fact	They are the remaining defendants in the suits and respondents in the various appeals before us.
+RatioOfTheDecision	<ORG> has given a chart of these persons and the dates of pattas but as nothing turns upon these details it is not necessary to mention them here.
+Argument	The plaintiffs (<NAME> and <NAME>) i n these title suits asked for declaration of title and possession.
+Argument	Their case was that the release was void and inoperative and not binding on the <ORG>.
+Argument	Therefore, the mortgage award and the auction-sale was binding on <NAME> and all those who derive title from him.
+Argument	Their next contention is that., in any event, the transfers to the defendants were effected during the pendency of the mortgage award proceedings and were affected by the doctrine of lis pendens.
+Argument	These two grounds were not accepted by <ORG> and the courts below and it is these two grounds which were urged before us in these appeals.
+Argument	The other side seeks to avoid the effect of lis pendens by pleading that the mortgage award was claimed <NAME> fide against the suit plots after their release and, in any event, there was attachment of these plots before the petition for the mortgage award was made.
+RulingByLowerCourt	Before we deal with these two points it may be mentioned at once that neither ground of appeal applies to the transfers by <NAME> o was not a mortgagor and who was not affected by the release deed made by the <ORG>.
+RulingByLowerCourt	Mr. <NAME> frankly conceded that the transfer by him could not be assailed and must stand.
+RulingByLowerCourt	He, therefore, did not press Civil Appeals Nos.
+RulingByLowerCourt	1091, 1092, 1093 and 1094 of 1964.
+RulingByLowerCourt	These appeals are accordingly dismissed with costs.
+RulingByLowerCourt	We may first consider whether the release was binding on the <ORG> or not.
+RulingByLowerCourt	When <NAME> mortgaged the property to raise a loan from the <ORG> of which he was a member, half share in the plots belonged to him because these plots had fallen in the preliminary decree to.
+RulingByLowerCourt	the share of his brother <NAME> and himself.
+RulingByLowerCourt	That preliminary decree was passed on April 15, 193 1.
+RulingByLowerCourt	The <ORG> had fixed a ceiling on the amount which could be borrowed, at Rs.
+RulingByLowerCourt	3000/-.
+RulingByLowerCourt	The mortgage deed recited that the amount borrowed was Rs.
+Fact	3000/- with interest at Actually Rs.
+Fact	1890/- were given as a loan.
+Fact	The release deed, releasing the suit plots was executed in pursuance of a resolution of the <ORG> (Res .
+Fact	No.
+Fact	4 dated April 4, 1933).
+Fact	The release stated thus:  " ...... relinquished and released the properties, specified below, from the debt due to the said <NAME>, to the said society, entered in the said mortgage bond, in favour of <NAME> ....
+Fact	The said property shall not be made liable for any debt of the said society nor shall any incumbrance be recovered from the said property.
+Fact	The said property shall come in possession of <NAME>.
+Fact	The said <NAME> shall have right to sell the property to keep the same in whatever ways he likes.
+Fact	The said society neither has nor shall have any objection thereto."
+Fact	209  Why the release was granted by the <ORG> was stated in the following words:  " .... A petition was filed on behalf of the said <NAME> in the meeting of the members in the presence of all the members of the society for releasing some land from the said mortgage in order to repay the debt.
+Fact	of Rs.
+Fact	500/- forming part of the debt due by the said <NAME> to the said co- operative society which was put up before all the members and accepted by them .... ".
+Fact	It appears that <NAME> did not pay the amount of Rs.
+Fact	500/- to the <ORG> and the <ORG> considered itself free to include these two plots, notwithstanding the release, in their application for an award decree.
+Fact	In our opinion the release was binding on the <ORG>.
+Fact	The argument.
+Fact	in opposition to the binding nature of the release is that it was conditional on payment of Rs.
+Fact	500/-.
+Fact	This is no true.
+Argument	No.
+Argument	doubt the motive for the release was the payment of Rs.
+Argument	500/- to the <ORG> promised by <NAME>, but the payment was not made a condition of the release.
+Argument	There was no attempt to release this amount from <NAME>.
+Argument	Therefore, the release being absolute and unconditional and by a registered deed must be treated as binding.
+Argument	It is open to the promisee to waive the performance of any part of the contract or to release any property from the operation of a 'mortgage or charge.
+Argument	If he wishes his rights to continue  in the.
+Argument	event of some condition simultaneously imposed on the promisor, he must see that the release is made dependent on the performance by the promisor of his part of the agreement.
+RatioOfTheDecision	Here the <ORG> merely released the two plots without making the payment a condition precedent, and the release operated.
+RatioOfTheDecision	That, however, is not the end of the matter.
+Fact	The <ORG> filed on April 5, 1934 a petit.ion for a mortgage award before the Assistant Registrar, <ORG>.
+Fact	The petition is headed 'Petition for mortgage decree'.
+Fact	The petition mentioned that the mortgage was made on April 27, 1931 and that the amount secured was Rs.
+Fact	3,000/- with interest at 121/2% per annum.
+Fact	The petition then described the property mortgaged and it included plots Nos.
+Fact	3385 and 3384.
+Fact	The amount due on December 31, 1933 was said to be Rs.
+Fact	2440/3.
+Fact	The relief asked for was:  "We the punches therefore pray that a decree may be passed by your honour against the said member and he may be directed under the decree to pay the debt, princi pal and interest, amounting to Rs.
+Fact	2440/3/- within 3 months, that in case of non-payment this order may be passed that the entire amount may be realized by auction sale of the mortgaged property and that if the mortgaged property would not be sufficient for the satisfaction of the entire amount of the decree the punches of the committee be allowed to pray for passing a personal decree against the said member."
+Precedent	When the Registrar made his order he overlooked that a mortgage award had to be pass.ed.
+Precedent	On August 16, 1934 he ordered that an award jointly with sureties be issued.
+Precedent	However, on September 2, 1934, .he corrected <NAME> earlier order thus:  "S1.
+Precedent	'6.
+Precedent	Read along with S1.
+Precedent	5.
+Precedent	By mistake of the 2nd Asst.
+Precedent	simple award was issued instead of Mortgage award.
+Precedent	Issue mortgage award and ask the <ORG> to return the simple award which will be cancelled here.
+Precedent	Sd.
+Precedent	<NAME>.
+Precedent	D.F.A.
+Precedent	Addl.
+Precedent	A.R.
+Fact	2-9-34."
+Fact	After 'this mortgage award which had the force of a preliminary decree, the <ORG> on December 16, 1934 resolved that a  final mortgage decree be obtained from the Assistant Registrar, and a final decree was obtained and the property brought to sale on February 7, 1936 and purchased by the <ORG> itself with the permission of the court executing the decree.
+Fact	Possession was obtained on July 20, 1937.
+Fact	Therefore, litigation in respect of this mortgage remained pending from April 5, 1934 to July 20, 1937.
+Fact	Under Explanation to s. 52 of the Transfer of Property Act the whole of this period denoted pendency of the proceeding for purposes of application of the doctrine of lis pendens.
+Fact	All the leases made by <ORG> were after the proceedings commenced.
+Fact	<ORG> purchased the right title and interest of <NAME> on August 13, 1934.
+Fact	His acquisition was prima facie hit by the doctrine of lis pendens.
+Fact	Three arguments were advanced before us to meet this situation and we shall now deal with them seriatim.
+Argument	The first argument is that there could be no lis pendens till August 16, when the money award was issued because a money  suit for proceeding cannot lead to the application of the doctrine of lis pendens.
+RatioOfTheDecision	As a proposition of law the argument is sound but it is wrongly grounded on fact.
+Argument	The proceeding was to get a mortgage award, the equivalent of a mortgage decree.
+Argument	The Court made a mistake and treated it as a proceeding for a money decree.
+Argument	When the court corrected its,order, the mortgage award related back to the petition as made and the whole of the proceeding must be treated as covered by the doctrine.
+RatioOfTheDecision	We cannot, therefore, accede to the suggestion that the doctrine did not apply; at any rate, on this suggested ground.
+RatioOfTheDecision	211  The second ground of attack is that before the proceedings commenced before the Registrar these fields had been attached and, therefore, the doctrine of lis pendens again cannot apply.
+RatioOfTheDecision	We are unable to accept this argument either.
+RatioOfTheDecision	If the property was acquired pendente lite, the acquirer is bound by the decree ultimately obtained in the proceedings pending at the time of acquisition.
+RatioOfTheDecision	This result is not avoi ded by reason of the earlier attachment.
+RatioOfTheDecision	Attachment of property is only effective in preventing alienation but it is not intended to create any title to the property.
+RatioOfTheDecision	On the other hand, s. 52 places a complete embargo on the transfer of immovable property right to which is directly and specifically in question in a pending litigation.
+RatioOfTheDecision	Therefore the attachment was ineffective against the doctrine.
+RatioOfTheDecision	Authority for this clear position is hardly necessary but if one is desired it will be found in <NAME> v. <NAME> and others(1).
+RatioOfTheDecision	Lastly it was contended that the sale was by court auction and the doctrine of lis pendens would not apply to such a sale.
+RatioOfTheDecision	This point was considered in <CITATION_105132> (2) by one of us (<NAME>, J.)
+Precedent	and it was observed as follows :--  " ....
+Precedent	The purchaser pendente lite under this doctrine is bound by the result of the litigation on the principle that since the result must bind the party to it so it must bind the person driving his right, title and interest from or through him.
+Precedent	This  principle is well illustrated in Radhamadhub Holdar v. Monohar(3) where the facts were almost similar to those in the instant case.
+RatioOfTheDecision	It is true that section 52 strictly speaking does not apply to involuntary alienations such as court sales but it is well-established that he principle of lis pendens applies to such alienations.
+RatioOfTheDecision	(See <NAME> v. <NAME>) and <NAME> v.
+RatioOfTheDecision	<NAME>).''
+RatioOfTheDecision	This ground also has no validity.
+RatioOfTheDecision	Lastly it was argued that if the fields were released from the operation of the mortgage they could not be made the, subject of a mortgage decree, and whatever was done in the mortgage proceedings was not of any consequence.
+RatioOfTheDecision	To.
+RatioOfTheDecision	this there are two answers.
+RatioOfTheDecision	Firstly, the respondent before the Registrar (<NAME>) made no objection to ,the inclusion of the plots in the petition for a mortgage award.
+RatioOfTheDecision	Secondly, the doctrine of lis pendens applies irrespective of the strength or weakness of the case on one side or other.
+Precedent	<CITATION_714582> .
+Precedent	(5).
+Precedent	There is, however, one condition that ( 1) 24 I.A.
+Precedent	170.
+Precedent	(3) 15 I.A.
+Precedent	97.
+Precedent	(2) [1967] 2 S.C.R.
+Precedent	18.
+Precedent	(4) 12 I.A.
+Precedent	171.
+Precedent	(5) 75 i.A.
+Precedent	x65.
+Precedent	212  the proceedings must be bona fide.
+Precedent	Here no doubt the <ORG> knew that the plots had been released from the mortgage, but it was also clear that the release was to enable <NAME> to dispose of some of the plots and pay Rs.
+RatioOfTheDecision	500/- to the <ORG>.
+RatioOfTheDecision	This amount was never paid and the <ORG> must have bona fide felt that the plots still remained encumbered.
+RatioOfTheDecision	In fact the attitude of <NAME> in not claiming that these plots be removed from the mortgage award shows that he too felt that this was the true position.
+RatioOfTheDecision	In <NAME> case referred to by us, it was said that if the proceedings were bona fide, the applicability of s. 52 was not avoided.
+RatioOfTheDecision	For the above reasons we are clear that the purchase by Kedarnath was protected by the doctrine of lis pendens, the prior transfer to the defendants notwithstanding.
+RulingByPresentCourt	In this view of the matter the judgment of <ORG> cannot be sustained.
+RulingByPresentCourt	The appe als will, therefore, be allowed.
+RulingByPresentCourt	The judgment and decree of <ORG> will be set aside and the suits of the appellant will be decreed with costs throughout.
+RulingByPresentCourt	In this Court the costs will be one set.
+Precedent	R.K.P.S.
+Precedent	Appeals allowed.
+Precedent	(1) 75 X.A.
+RulingByPresentCourt	165 L 1 Sup./70--6-7-70- GIPF.

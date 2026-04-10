@@ -1,0 +1,131 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal by the defendants from the judgment and decree of the Court of Second Additional District Judge, Jabalpur under Order 12, Rule 6 of the Code of Civil Procedure.
+Fact	2.
+Fact	The subiect matter of the suit is <ORG> formerly known as '<ORG> and now '<ORG> Jabalpur.
+Fact	The said house belongs to the plaintiffs and the defendants-appellants have been in occupation thereof under a registered lease deed dated 26-1-1950 on a monthly rent of Rs.
+Fact	800/- for a period of 9 years commencing from 26-1-1950.
+Fact	According to the plaintiffs the lease expired on 25-1-1959 but as the defendants failed to vacate in spite of notices the plaintiffs filed a suit for eviction of the defendants and for arrears of rent etc.
+Fact	3.
+Fact	The suit was resisted by the defendants appellants on various grounds.
+Fact	The defendants admitted that according to the terms of the lease it was to expire on the 25th January, 1959 but they pleaded that on 2-1-1959 there was a fresh agreement between the parti es according to which the plaintiffs agreed that the Cinema House would be leased out for a period of 10 years on the same terms and conditions as before except that the monthly rent would be enhanced to Rs.
+Fact	850/-.
+Fact	The plaintiffs further agreed to execute and register a deed of lease and pending execution and registration thereof the defendants were to continue in possession as tenants holding over on a monthly rent of Rs.
+Fact	800/- and were not liable to be evicted.
+Fact	On the basis of this agreement for renewal of the lease the defendants filed a cross suit for specific performance of the agreement.
+Fact	During the pendency of the suit the defendants filed an application under Order 23, Rule 3 of the Code of Civil Procedure on 24-9-1964 that the suit was compromised between the parties in 1963 and Rs.
+Fact	12,000/- were paid to the plaintiffs in pursuance of the compromise.
+Argument	The principal terms of the compromise were that the defendant shall pay rent at the rate of Rs.
+Argument	850/- per month starting from 26-1-1959 and will execute  a fresh lease deed for a period of ten years starting from the 26th January, 1959 on the same terms and conditions as before.
+Argument	4.
+Argument	The plaintiffs in their reply dated 20-10-1964 to the application dated 24-9-1964 admitted receipt of Rs.
+Argument	12,000/-towards the arrears of rent but denied the alleged compromise.
+Fact	On 22-6-1970 the plaintiffs filed an application under Order 12, Rule 6 of the Code of Civil Procedure for a decree for eviction of the defendants from the suit premises and recovery of the arrears of rent and for <ORG> profits at least at the rate of Rs.
+Fact	800/- per mensem, The application though opposed was allowed by the trial Court and a decree for eviction was passed against the defendants and also for arrears of rent at Rs.
+Fact	800/-from 26-12-1958 to 25-1-1959, and <ORG> profits from 26-1-1959 till the recovery of possession at the rate of Rs.
+Fact	800/- per mensem.
+Fact	Being aggrieved by this decision the defendants have come up in appeal before this Court.
+Fact	5.
+Fact	Order 12, Rule 6 of the Code of Civil Procedure reads  as under:  "Any party may, at any stage of the suit, where admissions of fact have been made, either on the pleadings, or otherwise, apply to the <ORG> for such 1ude-ment or order as upon such admissions he may be entitled to, without waiting for the determination of any other question between the parties; and, the <ORG> may upon such application make such order, or give such judgment, as the <ORG> may think just."
+RatioOfTheDecision	The aforesaid Rule enables either party at any stage of the suit to move for judgment on the admissions which have been made by either side.
+RatioOfTheDecision	The admissions on which the judgment under this Rule may be based may be either on the pleadings or otherwise.
+Argument	6.
+Fact	We now proceed to consider whether the trial <ORG> was right in giving a judgment in favour of the plaintiff in the circumstances of this case.
+Fact	7.
+Fact	The defendants in their written statement pleaded an agreement between the parties on 2-1-1959 according to which the plaintiffs agreed to grant the lease of the Cinema House for a further period of 1 0 years on the same terms and conditions as before on an enhanced rent of Rs.
+Fact	850/- per month vide paragraph 18 of the written statement.
+Fact	Although the plaintiffs did not admit such an agreement but their contention is that even if such an agreement took place and the defendants were entitled to a lease of <ORG> for a further period of 10 years, the lease according to the alleged agreement would expire in the year 1969, and, therefore, even if the defendants' case, as pleaded, is correct, they are not entitled to continue in possession of the property after the expiry of the lease on 26-1-1969 and the plaintiffs could claim eviction of the defendants on the basis of their own admissions.
+Fact	8.
+Fact	The learned counsel for the defendants-appellants attempted to repel the aforesaid contention of the plaintiffs on two grounds.
+Fact	In the first place it was urged that the case of the defendants as pleaded in the written statement is that after the expiry of the original lease on 26-1-59 the defendants were to continue  in possession of the property as tenants-holding over until the fresh lease-deed was executed and that the fresh period of 10 years was tp be computed not from the date on which the original lease expired but from the date on which the lease-deed was executed.
+RatioOfTheDecision	We do not find any merit in this contention.
+RatioOfTheDecision	The written statement is not at all clear on this point inasmuch as it has not been pleaded that the fresh term of 10 years was to commence from the date of the execution of the lease-deed and not from the date of the expiry of the original lease.
+Argument	However in paragraph 11 of the reply dated 10-3-1959 to the application for appointment of receiver as well as in paragraph 1 of the reply dated 29-6-1970 to the Plaintiffs application for judgment on admission under Order 12, Rule 6 the defendants clearly stated that fresh term of lease was to commence from the date of the expiry of the first lease.
+Argument	Even in the application for recording the compromise under Order 23, Rule 3 of the Code of Civil Procedure, it is st ated in Clause 'J' of paragraph 1 that the period of lease shall be 10 years starting from 25th January, 1959.
+Argument	This contention must, therefore, be rejected.
+Argument	9.
+Argument	The next contention of the learned counsel for the appellants is that the plaintiff cannot succeed on a case not pleaded by him and that the admissions for basins a judgment under Order 12, Rule 6 must relate to facts stated in the plaint itself.
+RatioOfTheDecision	As defined in section 17 of the Evidence Act an admission is a statement oral or documentary which suggests any inference as to any fact in issue or relevant fact.
+RatioOfTheDecision	From the language of Order 12, Rule 6 of the Code of Civil Procedure it is clear that it is open to the <ORG> to base a judgment on admission on the pleadings or otherwise.
+RatioOfTheDecision	The word "otherwise", in the said provision clearly indicates that it is open to the <ORG> to base the judgment on statements made by a party not only in the pleadings but also de hors the, pleadings.
+RatioOfTheDecision	Such admissions may be made either expressly or constructively.
+RatioOfTheDecision	10.
+Fact	In the in stant case it is the case of the defendants-appellants that under an agreement between the parties the plaintiffs had agreed to grant a lease for a further term of 10 years.
+RatioOfTheDecision	We have already discussed above that this term has, according to the admissions made by the defendant himself, expired and, therefore, the defendant is no longer entitled to continue in possession.
+RatioOfTheDecision	11.
+Argument	The learned counsel for the appellants however urged that if the plaintiffs have to seek a decree on the basis of a cause of action arising out of the case as set up by the defendants it would be necessary for the Plaintiffs to amend the plaint to seek the relief of eviction alternatively on the cause of action based on the defendants' pleadings and in that event it would be open to the defendant to set up a defence of his choice and unless this is done the Court cannot proceed to judgment under Order 12, Rule 6 of the Code of Civil Procedure.
+Argument	It is no doubt true that ordinarily the plaintiff is entitled to a relief only on the basis of th e cause of action stated in the plaint but it is open to the <ORG> in suitable cases to afford a relief on the basis of the case as set up by the defendant.
+Argument	In such a case there is no prejudice to the defendant because the relief legitimately springs from the case as set UP BY him.
+Argument	12.
+Precedent	In <ORG> v. <NAME> AIR 1948 Naa 1 it was observed in paragraph 51 that the following two principles are well recognized (1) A suit must be tried in all its stages on the cause of action as it existed at the date of its commencement.
+Precedent	(2) The <ORG> may, however, in suitable cases take notice of events which have happened since the institution of the suit and afford relief to party on the basis of the altered conditions.
+Precedent	This doctrine, it was pointed out, was of art exceptional character and it applied where it was necessary to base the decision of the <ORG> on altered circumstances in order to shorten the litigation or to do complete justice between the parties.
+Precedent	This doctrine was recently approved by this <ORG> in  <NAME> v. <NAME>, 1971 MPLJ (SN) 79.
+Precedent	13.
+Precedent	In order to provide relief to the plaintiff on the basis of subsequent events the normal course for the plaintiff is to seek an amendment of the plaint in order to Put the new facts in issue so as to give the other party an opportunity to meet them.
+Precedent	But if the plaintiff is entitled to the whole or potion of the relief asked for in the plaint on the basis of certain new facts stated by the defendant in the pleadings or otherwise, it is open to the Court to base a -judgment on such admission of the defendant even though the plaintiff has not expressly founded his cause of action on such facts by suitably amending his plaint because the defendant cannot be said to have been taken by surprise or prejudiced by giving the plaintiff a relief on the basis of his own case (Defendant's case).
+Precedent	The object of procedural law is to promote justice and this must be kept in view while applying and interpreting rules of procedure.
+Precedent	14.
+Precedent	In <NAME> v. <NAME>, Civil  Revn.
+Precedent	No.
+Precedent	385 at 1962, D/-26-10-1962 (Madh Pra) Bhargava, J. directed the trial Court to pass a suitable decree for eviction of the defendant from the suit premises on the basis of the case as set up BY the defendant.
+Precedent	In that case tenancy was created by a registered lease-deed commencing from 22-5-1950 and its duration was 10 years.
+Fact	After the expiry of the lease by efflux of time on 22-5-1960 the landlord brought a suit for eviction against the defendants-tenants as they had failed to vacate the accommodation in spite of the notice.
+Fact	The defendant No.
+Fact	1 pleaded in his written statement that the lease was not determined as it wag extended for 2 years, after the expiry of the period originally fixed by a verbal agreement.
+Fact	<ORG> framed an issue covering the question of extension of lease for two years.
+Fact	Subsequently the defendant No.
+Fact	1 made an application alleging that there was a compromise between the parties according to which the lease of the suit premises was to continue for a further period of two  years commencing from 20-5-1960.
+Fact	The plaintiff denied the said compromise and alleged that it was put forward only to prolong the case with a <NAME> fide intent.
+Fact	However, while the suit was still being tried the period of two years expired on 23-5-1962.
+Fact	The plaintiff then made an application without prejudice to his pleadings, that he was entitled to a decree for possession under Order 12.
+Precedent	Rule 6 of the Code of Civil Procedure.
+Precedent	This application, was opposed and was rejected by the lower <ORG>.
+Precedent	The order was, however, set aside in revision and the lower <ORG> was directed to pass a decree for eviction.
+RatioOfTheDecision	We agree with the view taken by this <ORG> in that case.
+RatioOfTheDecision	The position in this case both in regard to facts as well as law is very much similar.
+RatioOfTheDecision	Here the defendant has taken a defence that under a compromise the term of the lease was extended by 10, years and this term has expired.
+RatioOfTheDecision	It was, therefore, open to the <ORG> to base a judgment against the defendant on the basis of his own admissions because it is clear fr om the case as set up by him that he was not entitled to continue in possession, in any case, after the expiry of the fresh term of 10 years.
+RatioOfTheDecision	15.
+RatioOfTheDecision	We would like to point out that while trying the suit or other actions at law the <ORG> is not to function helplessly in the routine manner.
+RatioOfTheDecision	The primary object of a <ORG> must be to do justice between the parties according to law and where at any stage of the suit it appears that the plaintiff is entitled to the relief asked for by him on the basis of defendant's own admissions there would be no point in delaying the judgment unnecessarily with a view to decide all controversial points in the routine manner.
+RatioOfTheDecision	We must say that the learned Judge of the lower <ORG> rightly exercised his discretion in granting a decree to the plaintiff in this case and there is no justification for interference with it.
+RatioOfTheDecision	16.
+RatioOfTheDecision	We may point out here that this suit was filed in 1959 and was governed by the Madhya Pradesh Accommodation Control Act, 1955.
+RatioOfTheDecision	Under Clause (d) of Sub-section (1) o f Section 2 of the said Act a Cinema House was excluded from the purview of the Act.
+RatioOfTheDecision	The defendant could not, therefore, resist the suit on any of the grounds available to him under the Act and in fact the learned counsel for the appellant made no attempt to do so.
+RatioOfTheDecision	We may also point out that the defendant had filed a separate suit against the plaintiff for specific performance of the alleged agreement of lease.
+RatioOfTheDecision	This suit has also been dismissed on the ground that the term of the lease had expired.
+RatioOfTheDecision	It is, not necessary for us to so into the merits of that decision because we are told that it is the subject matter of a separate appeal: but the fact remains that the suit has been dismissed.
+RatioOfTheDecision	17.
+RatioOfTheDecision	We, therefore, find that the plaintiff was rightly adjudged to be entitled to the decree for possession on the basis of the case set up by the defendant himself.
+RatioOfTheDecision	No other point was pressed before us.
+RatioOfTheDecision	18.
+RulingByPresentCourt	The appeal, therefore, fails and is hereby dismissed with costs.
+Fact	Hearing fee Rs.
+Fact	200/- if certified.
+Fact	<NAME>, J.  I ag ree with the judgment prepared by my learned brother and I will only add a few words of my own.
+Fact	Rule 6 of Order 12 of the Code of Civil Procedure corresponds to Rule 5 of Order 32 of the Supreme Court Rules (English), new Rule 3 of Order 27, and is almost identically worded (see Annual Practice 1965 edition Part I. p. 569).
+Fact	The Supreme Court Rule came up for consideration in <NAME> v. <NAME> (1914)) Ch 904.
+Fact	In that case a suit was filed for ejectment, mesne profits and damages on the ground of breach of covenant against sub-letting.
+Fact	<NAME>'s solicitors wrote to the plaintiff's solicitors in which fact of breach of covenant was admitted and a case was sought to be made out for relief against forfeiture.
+Argument	This letter was used as an admission under rule 5 and as there was no substance in the plea of relief against forfeiture, the suit was decreed for ejectment under that rule.
+Argument	<NAME>, J. rejected the argument that the rule is confined to admissions made in pleadings or under Rules 1 to 4 in the same order (same as  ours) and said;  "The rule applies wherever there is a clear admission of facts in the face of which it is impossible for the party making it to succeed."
+Argument	Rule 6 of Order 12, in my opinion, must bear the same construction as was put upon the corresponding English rule by <NAME>, J.
+Fact	The words "either on the pleadings or otherwise" in rule 6 enable us not only to see the admissions made in pleadings or under Rules 1 to 4 of the same order but also admissions made elsewhere during the trial.
+Fact	We are, therefore, entitled to see the appellants' reply dated 10th March 1959 to the application for appointment of receiver as also their reply dated 29th June 1970 to the plaintiffs' application for judgment on admission.
+Fact	The written statement read in the light of the admissions in these documents leaves no manner of doubt that the fresh lease of 10 years Pleaded by the appellants commenced from expiry of the original lease in January 1959 and expired in January 1969, and the appellants have thereafter no right whatsoe ver to remain in possession of the suit property.
+Fact	As regards the argument that no relief should be granted to the plaintiffs unless the plaint is amended.
+Fact	I have only to refer to the judgment of <ORG> in <CITATION_180091> , AIR 1951 SC 177.
+Fact	In that case in a suit for specific performance the plaintiff alleged to have paid Rs.
+Fact	30,000/- to the defendant as part of the price.
+Argument	The defendant denied the contract for sale and pleaded that Rs.
+Argument	30,000/- were received by him on loan.
+Argument	The contract for sale was held to be not proved, but <ORG> decreed the suit for recovery of the loan of Rs.
+Argument	30,000/- on the basis of admission made in the written statement, although the case of loan was not pleaded in the plaint.
+Argument	In that connection the <ORG> observed:  "The rule undoubtedly is that the <ORG> cannot grant relief to the plaintiff on a case for which there was no foundation in the pleadings and which the other side was not called upon or had an opportunity to meet.
+Argument	But when the alternative case, which  the plaintiff could have made, was not only admitted by the defendant in his written statement but was expressly put forward as an answer to the claim, which the plaintiff made in the suit, there would be nothing improper in giving the plaintiff a decree upon the case which the defendant himself makes.
+RatioOfTheDecision	A demand of the plaintiff based on the defendant's own plea cannot possibly be regarded with surprise by the latter and no question of adducing evidence on these facts would arise when they were expressly admitted by the defendant in his pleadings.
+RatioOfTheDecision	In such circumstances when no injustice can possibly result to the defendant, it may not be proper to drive the plaintiff to a separate suit."
+RatioOfTheDecision	When the suit is being decreed on the basis of a case pleaded by the appellants and admissions made by them, no question of surprise or prejudice to them can arise and, therefore, it is not necessary to insist that the plaint be amended to incorporate as an alternative case the cause of action arising from the appellants' pl eadings and admissions.
+RulingByPresentCourt	For these reasons and those given by my learned brother I agree that the appeal be dismissed with costs as proposed by him.

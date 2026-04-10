@@ -1,0 +1,134 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: UNION OF INDIA & OTHERS DATE OF JUDGMENT24/08/1972 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, K.S.
+Fact	<NAME>, D.G.
+Fact	CITATION: 1972 AIR 2551 1973 SCR (1) 997 CITATOR INFO : R 1977 SC 597 (34) R 1979 SC 397 (3,4,6,9) D 1985 SC1201 (12) ACT: Indian Tariff Act--Import Tariff--Annexure L--Entries 26, 70(7) & 87-Wolfram Concentrate with 65% WO3 concentration- Whether lmportable, duly free as Metallic ore-Normally acceptable merchantable quality of 'ore' alone relevant.
+Fact	Interpretation of statutes--Taxing statutes-Meaning in commercial sense and not in scientific sense should be followed.
+Fact	HEADNOTE: The appellant imported 200 metric tons of wolfram concentrate, under a contract which prescribed minimum contents of 65% of WO3 in the concentrate.
+Fact	The <ORG> authorities levied duty at the rate of 60% amount under item 87 of the First Schedule.
+Fact	The appellant claimed refund on the ground that no duty was leviable as the goods imported was an " ore" and fell under item 26 or 70(7) of the Import tariff.
+RulingByLowerCourt	The Assistant Collector of <ORG> held that the appellant was not entitled to refund because the term 'ore' mentioned in the text of item 26 is confined to articles which are in 'form and condition in which they are mined and not as wolfram ore concentrate in powder form as in the present case.
+RulingByLowerCourt	On appeal by the appellant the Appellate Collector held that the goods in question were in the manufactured form made by special specifications by dressing and were thus not "ores".
+RulingByLowerCourt	<ORG> rejected the revision application filed by the appellant holding that the examination by the Chemists showed that.
+RulingByLowerCourt	the uniform granules of the material were not only separated from rock but also from various impurities and had been subjected to such processing as would take them out of the category of metallic ore mentioned in entry 26.
+RulingByLowerCourt	In appeal to this Court the appellant contended that for the purposes of levy of ditty under entry 26 the normally acceptabl e merchantable quality of wolfram (containing a minimum 65% W03) is relevant and riot wolfram in mined form.
+RulingByLowerCourt	Allowing the appeals, HELD : <NAME> ore when mined contains only 5 to 2 per cent W03 and in order to make it usable and merchantable ore with minimum 65% W03, Concentration is necessary.
+RulingByLowerCourt	If item 26 of the Import Tariff is to be restricted to wolfram being material containing 5 to 2 per cent W03, it would be mainly rock which can not be imported in large quantity and it will have no market.
+RulingByLowerCourt	It is only usable ore with 65% W03 concentration that is relevant for levy of duty.
+RulingByLowerCourt	What has to be seen is what is meant in International trade and in the market by <NAME> ore containing 65% or more W03.
+Fact	The said concentrate is achieved by selective mining and washing or magnetic separation.
+Fact	It does not involve any manufacturing or processing with chemical for removing impurities.
+Fact	The concentrate, therefore, does not cease to be an 'ore'.within the meaning of item 26.
+Fact	[1002C-F] HELD, further, that in interpreting i tems in taxing statutes, resort should be had not to the scientific or technical meaning but to the meaning attached to them by those dealing in them in their commercial sense.
+Fact	[1002H] 998 JUDGMENT:  CIVIL APPELLATE JURISDICTION : C.A.
+Fact	Nos.
+Fact	877-879 of 1967.
+Fact	Appeal by special leave under Article 136(1) of the Consti- tution of India from the order No.
+Fact	2846-2848 of 1966, dated 25th and 29th November, 1966 of <ORG>, <ORG> in Custom Revision Application.
+Fact	<NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, for the appellant.
+Fact	<NAME>, Solicitor-General of India, <NAME>, <NAME> and <NAME>, for the respondents.
+Fact	<NAME>, <ORG> <NAME> and <NAME>, for the interveners.
+Fact	The Judgment of the Court was delivered by <NAME> These appeals by special leave are from an order of <ORG> passed in November 1966 refusing to refund the duty charged on 200 metric tons of Wolfram Ore im ported by the appellant <ORG> from the U.S.S.R.
+Fact	The facts are not in dispute.
+Fact	In October 1953 the appellant entered into a contract with a Moscow concern for the purchase of 200 metric tons of Wolfram Concentrate.
+Fact	The chemical composition of the goods apart from other components was to contain W03 the minimum percentage being 65%.
+Fact	<ORG>, <ORG>, granted an import license on November 21, 1963 permitting import of the aforesaid Wolfram Ore.
+Fact	The goods arrived in Bombay on January 14, 1964.
+Fact	It appears that certain tests were carried out by the Deputy Chief Chemist of <ORG>.
+Fact	The customs authorities levied duty under item 87 of the First Schedule-Import Tariff, at the rate of 60% amounting to Rs.
+Fact	4.13.
+Fact	796.24.
+Fact	The appellant paid that amount under protest.
+RulingByLowerCourt	The appellant claimed refund on the ground that no duty was leviable as the goods imported fell either under item 28 or 70(7) of the said Schedule.
+RulingByLowerCourt	On September 14, 1964 the Assistant Collect or of <ORG> (Refund Section) held that the "goods imported were in powder form and were found to be mainly composed of Tung- ston Oxide with small portion of iron and manganese oxides.
+RulingByLowerCourt	The term 'ore' mentioned in the text of item 26 I.C.T.
+RulingByLowerCourt	is confined to articles which are in the form of condition in which they are mined.
+RulingByLowerCourt	As such, ores in powder form cannot qualify for assessment u/i 26 I.C.T.
+RulingByLowerCourt	as they are not in the condition in which they are mined.
+Fact	Further the goods imported are Wolfram Ore Concentrate and not Wolfarm Ore as mixed.
+Fact	Concentration of ore is considered a manufacturing process which will exclude its assessment u/i 26 T.C.T.
+Fact	999  Three orders were passed by the Assistant Collector because the goods had been imported in three consignments.
+RulingByLowerCourt	The matter was taken in appeal to the Appellate Collector of <ORG>.
+RulingByLowerCourt	He disposed of the matter in January 1965.
+RulingByLowerCourt	Before him a good deal of evidence was produced both from authoritative books and in the shape of certificates from experts that the goods were m etallic ore.
+RulingByLowerCourt	The Appellate Collector, however, held that the ,'goods in question were not subjected to simple washing with water but were made of special specifications by "dressing" and are therefore not classifiable as 'ores' ".
+RulingByLowerCourt	The appellant then took the matter in revision to the Government.
+RulingByLowerCourt	The order of the Government was passed by the Joint Secretary on November 25, 1966.
+RulingByLowerCourt	According to his view examination of the sample of goods showed that the goods were in the form of fairly uniform granules.
+RulingByLowerCourt	Further they had been separated not only from the rock but also from various other impurities and had been subjected to such processing as would take them out of the category of metallic ore.
+RulingByLowerCourt	Thus the correct position was that the goods imported were intermediary articles between ore and metal and had been 'correctly assessed under item  87.
+RulingByLowerCourt	The relevant entries in the Import Tariff contained in An- nexure-L of the special leave petition may be set out: ____________________________________________________________  Item Name of Article Nature of Standard No.
+RulingByLowerCourt	duty rate of _____________________________________________________________ MINERAL PRODUCTS  26.
+RulingByLowerCourt	Metallic ores all sorts except ochres and other pig-  ments ores and antimony ore x Free x 70(7)Cobalt chromium tungsten magnesium and all other non-ferrous virgin metals not otherwise specified x Free cified.
+RulingByLowerCourt	SECTION XXII (ARTICIES NOT OTHERWISE SPECIFIED)  87.
+RulingByLowerCourt	All other articles not otherwise specified Revenue 60percent ad valcrem"  _______________________________________________________________ The short question that has to be decided is whether <ORG> Ore W03 65% falls within item 26 which covers metalic ores of all sorts with the exceptions mentioned therein.
+RulingByLowerCourt	It is and cannot be disputed that <ORG> ore which was imported does not fall within the exceptions.
+RulingByLowerCourt	All that had, therefore, to be determined by the authorities was whether such ore was a metallic ore.
+RulingByLowerCourt	In <ORG>, Vol.
+RulingByLowerCourt	3 page 2020.
+RulingByLowerCourt	It is stated that "ore" is a metal in its crude state  separated from the rock.
+RulingByLowerCourt	In the well known treatise on TUNGSTEN, its Metallurgy, Properties and Applications by <NAME>, 3rd Edition., it is stated that Tungsten ores rarely occur in massive form.
+RulingByLowerCourt	These ores are usually found in narrow veins.
+RulingByLowerCourt	"The tungsten content of the ore as it is mined is usually 0.5 to 2 per cent., although it amounts to 6 per cent.
+RulingByLowerCourt	in rare instances.
+RulingByLowerCourt	The concentration of tungsten ores depends chiefly on gravity methods, taking advantage of the high density of the, metal, although floa tation methods are also used.
+RulingByLowerCourt	The concentrates, which contain 60-70 per cent W03" .
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+Argument	.
+Argument	. "
+Fact	On page 12 of <NAME>' book it is stated that tungstens are sold in Europe under Contracts A and B given in Appendix 1.
+Fact	The form of Contract A in the Ap- pendix reads as follows:--  "Messrs We have this day..................... you the following Chinese Wolfram Ore of good merchantable quality, containing minimum 65% W03 ....
+Fact	The certificate dated January 13, 1965 of <ORG> contains th e following statement :  " In accordance with International Wolfram' Ore Contract 'B' which is the standard form, on which the vast majority of Wolfram ore concentrates are based, such ore of normally acceptable merchantable quality contains a minimum of 65% W03.
+Fact	Wolfram bearing material as mined, contains frequently less than 0.5% of W03 and asmuch as a content of 2% of W03 is rare.
+Fact	In order to produce a usable ore concentration operations are necessary which involve crushing, washing and similar process separating the useless gangue to bring it to a minimum 65% W03 content without which it is not regarded as an acceptable wolfram ore or wolfram concentrate and useless to consuming industries.
+Fact	Basic operations bringing the material to such a standard are not a manufacturing process but form part of normal wolframite mining activities".
+Fact	According to a letter dated February 3, 1965 from the Director of <ORG> to the Controller of <ORG> wolfram ore is always selectively mined in t he technical terminology.
+Fact	The selectively mined tungsten contains about 7% W03.
+Fact	Such selective mining does not constitute a manufactoring process.
+Fact	Unless selective mining is done the tungsten ore cannot be exported or even sold in the country of its origin.
+Fact	Thus the import of selectively mined tungsten ore containing 65% W03 or more should not be regarded as the import of a product which has been manufactured overseas and has passed through the manufacturing,process.
+Fact	The expression "selectively mined" means that the wolfram ore is detached and taken out from the rock in which it is embedded and this is done by crushing the rock and sorting out pieces of wolfram either by hand or by washing or magnetic separation.
+Fact	The appellant produced certificates from well known analytical <ORG>.
+Fact	According to <ORG> who claim to have been analysingvarious ores and minerals including wolframite for over sixyears this ore is always concentrated as part of the mining operations.
+Fact	The normal  method is by washing the crushed ore, thereby freeing the mineral from the gangue.
+Fact	The certificate from <ORG> has already been referred to.
+Fact	Alongwith with the appellants statement of the case an extract from the Brussels Tariffnomenclature has been attached as annexure A.
+Fact	In Chapter XXVI with the heading Metallic Ore etc.
+Fact	para 26.01 deals with Metallic Ores and Concentrates........
+RulingByLowerCourt	The relevant and material portions from these extracts may be reproduced :  "Ores are, seldom marketed before "preparation" for subsequent metallurgical operations.
+RulingByLowerCourt	The most important preparatory processes are those aimed at concentrating the ores.
+RulingByLowerCourt	For the purposes of the present hearing, the term concentrates" applies to ores which have had part or all of the foreign matter removed by special treatments, either because such foreign matter might hamper subsequent metallurgical operations or with a view to economical transport.
+RulingByLowerCourt	Processes to which products, physic-chemical or chemical operations, provided that they are  normal to the preparation of the ores for the extraction of metal.
+Fact	With the exception of changes resulting from calcination, roasting or firing (with or without agglomeration), such operations must not alter the chemical composition of the basic compound which furnishes the desired metal.
+Fact	The physical or physico-chemical operations include crushing, grinding, magnetic separation, gravimetric separation, floatation, screening, grading, agglomeration of powers (e.g., by sintering or pelleting) into grains, balls or briquettes (whether or not with the addition of small-quantities of binders), drying, calcination, roasting to oxidise or magnetise the ore, etc.
+Fact	(but not roasting for purposes of sulphating, chloridating, etc.)
+Fact	The chemical processes are aimed at eliminating the unwanted matter (e.g.
+Fact	dissolution)."
+Fact	Among the ores specifically mentioned to which the labove statement applies is Tungsten "or Wolfram".
+Fact	As against this the only evidence put in by the revenue consisted of the test report of <ORG> y Chief Chemist (Annexure E).
+RulingByLowerCourt	After giving the necessary particulars it was stated by him 'that the samples were not ore as mined.
+RulingByLowerCourt	We are wholly unable to comprehend how in order to fall under item 26 the ore has to be ,as mined.
+RulingByLowerCourt	There is a good deal of force in the argument of Mr. <NAME> for the appellant that the normally acceptable merchantable quality of wolfram or tungsten contains a minimum 65% W03.
+RulingByLowerCourt	This is the unable ore and it is in that sense that it is commercially understood.
+RulingByLowerCourt	wolfram ore when mined contains only 5 to 2 per cent W03 and in order to make it usable and merchantable ore with minimum 65% W03, concentration is necessary.
+RulingByLowerCourt	if items 26 of the Import Tariff is to be restricted to Wolfram being material containing 5 to 2 per cent W03 it would be mainly rock which can neither be imported in large quantity and which will have no market.
+RulingByLowerCourt	The separating of wolfram ore from the rock to make it usable ore is a process of selective mining.
+RulingByLowerCourt	It is not a manufacturing process.
+RulingByLowerCourt	The important test is  that the chemical structure of the ore should remain the same.
+RulingByLowerCourt	Whether the ore imported is in powder or granule form is wholly immaterial.
+RulingByLowerCourt	What has to be seen is what is meant in international trade and in the market by wolfram ore containing 60% or more W03.
+RulingByLowerCourt	On that there is a preponderation weight of authority both of experts and book,, and of writings on the subject which show that wolfram.
+RulingByLowerCourt	ore when detached and taken out from the rock in which it is embedded either by crushing the rock and sorting out pieces of wolfram or by washing or magnetic separation and other similar ,and necessary process it becomes a concentrate but does not cease to be ore.
+RulingByLowerCourt	Unless the ore is roasted or treated with any chemical it cannot be classed as processed.
+RulingByLowerCourt	It is common ground that the wolfram ore which was imported by the appellants was never subjected to any process of roasting or treatment with chemicals to remove the impurities.
+RulingByLowerCourt	It thus remained wolfram ore concentrate containing 65% W03 which was of the merchantable qu ality and was known commercially as such and imported as ore. Apart from all this it must be remembered that in interpreting items in Taxing Statutes resort should be had not to the scientific or technical meaning but to the meaning attached to them by those dealing in them in their commercial sense.
+RulingByLowerCourt	There can, therefore.
+RatioOfTheDecision	be no manner of doubt that the goods imported by the appellants fell within item 26 of the Import Tariff and no duty was leviable on them.
+RatioOfTheDecision	The appellants were entitled to the refund of the amounts which were paid by them by way of duty.
+RulingByPresentCourt	For the reasons given above the appeals are allowed with costs and the impugned orders including that of the Central Government dated 25/29th November 1966 are hereby set aside.
+RulingByPresentCourt	The respondents are directed to make appropriate orders for refunding the amounts collected from the appellants by way_ of duty on the goods in question.
+RulingByPresentCourt	One hearing fee.
+RulingByPresentCourt	<ORG> allowed.

@@ -1,0 +1,305 @@
+Argument	JUDGMENT <NAME>, J.
+Argument	1.
+Fact	In this reference under Section 256(1) of the Income-tax Act, 1961, at the instance of the Commissioner of Income-tax, the following two questions have been referred to this court for the assessment year 1973-74 :  "1.
+Fact	Whether, on the facts and in the circumstances of the case, the loss arising out of exchange fluctuation in respect of the payment of the instalments of loan in Japanese yen obtained for the purchase of machineries on deferred payment basis was capital or revenue expenditure ?
+RulingByLowerCourt	2.
+RulingByLowerCourt	Whether, on the facts and in the circumstances of the case, the assessee can claim as deduction the provision for payment of leave salary in the year under consideration ?"
+RulingByLowerCourt	2.
+Fact	At the suggestion of the learned advocates, we have reframed the first question as follows to bring out the real controversy :  "Whether, on the facts and in the circumstances of this case, the additional expenditure incurred by reason of exchange fluctuation in respect of the payment of the instalments of loan  in Japanese yen obtained for the purchase of machinery on deferred payment basis was capital or revenue expenditure ?"
+RatioOfTheDecision	3.
+RatioOfTheDecision	The facts relating to the first question are stated hereafter.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The assessee had borrowed certain capital in Japanese yen for the setting up of a capital asset.
+RatioOfTheDecision	The said loan was also repayable in instalments in Japanese yen.
+Argument	For the instalments in Japanese yen payable towards the purchase price of the machinery purchased on deferred payment, basis, the assessee, over and above the amount of those instalments in Indian rupees, had to pay Rs.
+Argument	8,939 more in view of the day to day fluctuations in the exchange rate.
+Argument	The claim of the assessee for the deduction of the said amount under Section 43A of the Act has been negatived by the Income-tax Officer on the ground that the said loss was capital and not revenue in nature because the loss arose in making instalment payments of the purchase price of the machineries which were capital assets of the assessee.
+Argument	5.
+RulingByLowerCourt	Aggrieved by the said disallow ance, the assessee brought the matter by way of appeal before the Appellate Assistant Commissioner who, following the decision of the <ORG> in the case of <ORG>, in ITA No.
+RulingByLowerCourt	5304 (Cal) of 1974-75, held that the said loss was capital and not revenue in nature.
+RulingByLowerCourt	6.
+RulingByLowerCourt	In the appeal by the assessee before the <ORG>, it was conceded that if the loss in the present case was loss due to devaluation in relation to a capital asset, it would not be allowed but since in this case the loss is on account of fluctuations in the rates of foreign exchange in terms of Section 43A of the Act, such loss should be allowed.
+RulingByLowerCourt	The <ORG> merely followed its earlier order and held that the loss in question was allowable as revenue loss.
+RulingByLowerCourt	7.
+RulingByLowerCourt	The <ORG> in the case of <ORG> held as follows :  "In our opinion, Mr. <NAME> is right.
+RatioOfTheDecision	There is no dispute that the loss relates to capital, in the sense that in respect of certain loans which were to be repaid by the assessee, they were inc urred in acquiring capital assets and the loss arose.
+RatioOfTheDecision	So far as the loss on account of fluctuations in foreign exchange rate is concerned, the decisions of the <ORG> are uniform in Calcutta and Bombay to which reference has been made already.
+RatioOfTheDecision	The decision in <ORG> has no application as it is a case of loss on devaluation.
+RatioOfTheDecision	The matter was fully discussed by the Calcutta and Bombay <ORG> and we are in full agreement with the views expressed therein.
+RatioOfTheDecision	Consequently, the loss is allowable."
+RatioOfTheDecision	8.
+RatioOfTheDecision	One of the orders relied on by the <ORG> is in the case of <ORG>.
+RatioOfTheDecision	In that case, the <ORG> has taken the view that foreign loans were obtained by the assessee in the course of business which were ultimately utilised for the purchase of plant and machinery.
+RatioOfTheDecision	The ultimate object and purpose of those foreign loans are immaterial for deciding the question whether the additional liability for fluctuation in the rate of foreign exchange is a business loss or not.
+Argument	Accordingly, it was  held that the loss in such a case was allowable as revenue loss or revenue expenditure, as the case may be, in view of the decision of <ORG> in the case of <CITATION_12637>  60 ITR 52.
+Argument	9.
+Argument	Mr. <NAME>, learned advocate for the assessee, has mainly reiterated his submissions made before the <ORG>.
+Argument	It is his submission that a distinction has to be drawn between a case where the loss is on account of devaluation and a case where the loss arises due to day to day fluctuation in the rate of currency.
+Argument	In a case of loss or liability arising because of fluctuations in the rate of exchange, it must be treated as incidental to the carrying on of the business.
+Argument	It is his contention that in the instant case whatever extra payment in terms of rupees was made by the assessee must be taken to be an unavoidable expenditure in connection with the loan.
+Argument	He has relied on the decision of this court in <CITATION_777166>  130 ITR 351.
+Argument	10.
+Argument	On the other hand, Mr. <NAME>, learned advocate for the <ORG>, has conte nded that there cannot be any difference in principle so far as the nature of the liability is concerned, one arising on devaluation and the other by reason of fluctuation.
+Argument	He has relied on various decisions in support of his contention.
+Argument	The respective contentions have to be considered in the light of the decisions cited before us.
+Argument	11.
+Argument	Mr. <NAME> has cited before us a decision of <ORG> in <CITATION_1627481> ,  60 ITR 405, where <ORG> observed as follows (p. 410):  "A number of cases have been cited before us, but it seems to us that the answer to the question depends on whether the act of keeping the money, i.e., $36,123.02, for capital purposes after obtaining the sanction of <ORG> was part of or a trading transaction.
+Argument	If it was part of or a trading transaction then any profit that would accrue would be revenue receipt ; if it was not part of or a trading transaction, then the profit made would be a capital profit and not taxable.
+Argument	There is no doubt that the amount of $36,123 .02 was a revenue receipt in the assessee's business of commission agency.
+Argument	Instead of repatriating it immediately, the assessee obtained the sanction of <ORG> to utilise the commission in its business of manufacture of locomotive boilers and locomotives for buying capital goods.
+RatioOfTheDecision	That was quite an independent transaction, and it is the nature of this transaction which has to be determined.
+RatioOfTheDecision	In our view, it was not a trading transaction in the business of manufacture of locomotive boilers and locomotives ; it was clearly a transaction of accumulating dollars to pay for capital goods, the first step in the acquisition of capital goods.
+RatioOfTheDecision	If the assessee had repatriated $36,123.02 and then after obtaining the sanction of <ORG> remitted $36,123.02 to the U.S.A., Mr. <NAME> does not contest that any profit made on devaluation would have been a capital profit.
+RatioOfTheDecision	But, in our opinion, the fact that the assessee kept the money there does not make any difference especially, as we have pointed out, when  it was a new transaction which the assessee entered into, the transaction being the first step in the acquisition of capital goods."
+RatioOfTheDecision	12.
+Precedent	The next decision cited by Mr. <NAME> is also of <ORG> in the case of <CITATION_1461059>  116 ITR i.
+Precedent	There, <ORG> observed as follows (p. 13) :  "The law may, therefore, now be taken to be well settled that where profit or loss arises to an assessee on account of appreciation or depreciation in the value of foreign currency held by it, on conversion into another currency, such profit or loss would ordinarily be trading profit or loss if the foreign currency is held by the assessee on revenue account or as a trading asset or as part of circulating capital embarked in the business.
+RatioOfTheDecision	But, if on the other hand, the foreign currency is held as a capital asset or as fixed capital, such profit or loss would be of capital nature.
+RatioOfTheDecision	Now, in the present case, no finding appears to have been given by the <ORG> as to whether the sums of Rs.
+RatioOfTheDecision	25 lakhs and Rs.
+RatioOfTheDecision	12,50, 000 were held by the assessee in West Pakistan on capital account or revenue account and whether they were part of fixed capital or of circulating capital embarked and adventured in the business in West Pakistan.
+Precedent	If these two amounts were employed in the business in West Pakistan and formed part of the circulating capital of that business, the loss of Rs.
+Precedent	11 lakhs and Rs.
+Argument	5,50,000 resulting to the assessee on the remittance of those two amounts to India, on account of alteration in the rate of exchange, would be a trading loss, but if, instead, these two amounts were held on capital account and were part of fixed capital, the loss would plainly be a capital loss.
+Argument	The question whether the loss suffered by the assessee was a trading loss or a capital loss cannot, therefore, be answered unless it is first determined whether these two amounts were held by the- assessee on capital account or on revenue account or, to put it differently, as part of fixed capital or of circulating capital."
+Argument	13.
+Argument	The next decision ci ted by Mr. <NAME> is the decision of this court in the case of <CITATION_676779>  117 ITR 789.
+Argument	This court observed as follows (p. 802) :  "The question which in our view is of real importance in the instant case is whether the loss or expenditure of the assessee as a result of the devaluation is of a capital nature or of a revenue nature.
+Argument	Mr. <NAME>, for the assessee, has contended in the course of his submissions that a loss has to be considered in a different way from a gain in computing business profits.
+Argument	There may be cases where a loss dehors the business is allowed as a business loss, whereas a gain arising in similar circumstances will never be a business gain.
+RatioOfTheDecision	In our view, this distinction again is of little significance as the gain or the loss, as the case may be, has to be connected with the business before the same can enter into the computation of profits.
+RatioOfTheDecision	On a scrutiny of the facts of the instant case, it appears to us that as a result of the devaluation which befell the assessee, it became imme diately liable to an extra liability in terms of its rupee assets for repayment of its debts.
+RatioOfTheDecision	This extra expenditure, deemed or otherwise, or this loss, is inextricably connected with the assessee's indebtedness and did not arise dehors the indebtedness nor was it incurred for the purposes of the loan and it was, as if, from the date of the devaluation, the dues from the assessee to its creditors in rupees were increased.
+RatioOfTheDecision	We are unable to accept the contentions of Mr. <NAME> that the extra amount which the assessee had to provide for as a result of the devaluation is to be considered as extra expenditure to be incurred for meeting the debt just as postal expenses or bank charges or this extra expenditure which would result in a business loss of a revenue nature."
+RatioOfTheDecision	14.
+RatioOfTheDecision	Mr. <NAME> then relied on the decision of <ORG> in the case of <CITATION_636011> .
+RatioOfTheDecision	120 ITR 451.
+Argument	In that case, the assessee entered into an agreement on December 3, 1958, with an Italian company for the purchase of machinery at the to tal value working out to Rs.
+Argument	2,93,25,000-39 in Indian currency at the then prevailing rate of exchange.
+Argument	The agreement further provided that the Italian company should draw bills of exchange on the assessee which were to be accepted by the assessee and payments of which were to be guaranteed by <ORG>.
+Argument	The agreement also provided for payment in terms of British sterling calculated at the prevalent exchange rate between sterling and the U.S. dollar and if there should be variation in the exchange rate, the same should be separately settled with credit notes in rupees or in lire in favour respectively of the Italian company or the assessee, as the case may be.
+Fact	In pursuance of the above agreement, during the accounting years fending on December 31, 1961, and December 31, 1962, the Italian company drew four bills of exchange on the assessee, the total amount payable according to the then prevailing rate of exchange being Rs.
+Fact	2,95,35,020.38.
+Fact	However, due to the fluctuations in the rate of exchange,  the assessee had to pay Rs.
+Fact	2,98,15,915.41.
+Fact	Similarly, the assessee had to pay a larger amount on account of fluctuations in exchange rate in respect of other instalments in 1964.
+Fact	Consequently, the assessee had to pay during the period relevant to the assessment years 1963-64 and 1965-66, Rs.
+Fact	1,93,509 and Rs.
+Fact	1,08,302 respectively in excess of the amount that would have been payable if the exchange rates were stationary as at the time the agreement was entered into.
+Fact	In its returns for these two assessment years 1963-64 and 1965-66, the assessee claimed deduction of these two amounts.
+Fact	The claim; was negatived by the <ORG> but upheld by the Appellate Assistant Commissioner and the <ORG>.
+Argument	15.
+Argument	On the aforesaid facts, <ORG> held that as the price fixed under the agreement was only a tentative price which had to be discharged at the prevailing rates of exchange at the time of the respective payments, the payments related only to the purchase price of the machinery and the difference was on capita l account and not allowable as business expenditure.
+Argument	16.
+Argument	<ORG> also observed that the fact, that <ORG>, provided for the fluctuation in the exchange rates being taken into account in arriving at the cost of assets by inserting Section 43A in the Income-tax Act , 1961, by Section 17 of the Finance (No.
+Statute	2) Act, 1967, with effect from April 1, 1967, would not in any way affect the point in issue which, has to be considered in the light of the actual nature of the payment that had to be made and in the light of the provisions in force.
+Argument	17.
+Argument	The next decision relied on by the learned advocates for the parties is in the case of <CITATION_777166>  130 ITR 351.
+Argument	There, this court, after considering the judgment of <ORG> in the case of <CITATION_1461059>  116 ITR 1, held at page 370, as follows:  "The aforesaid passage was emphasised on behalf of the <ORG> re-presenting the settled law that when profit or loss arises to an assessee on account of appreciation or depreciation in the va lue of foreign currency-held by it, such profit or loss would ordinarily be trading profit or loss if the foreign currency is held by the assessee on revenue account or as a trading asset or as part of circulating capital embarked in the business.
+Argument	But if, on the other hand, the foreign currency is held as a capital asset or as fixed capital, such profit or loss would be of capital nature.
+Argument	It was, in this connection, emphasised that whether it was sustenance money or borrowed money, after borrowing it becomes its own money.
+Argument	The learned advocate for the assessee also emphasised that there <ORG> was dealing essentially with the assessee's own money.
+Argument	Therefore, according to him, <ORG> had no occasion to advert to this aspect of the matter, where, in a case, the assessee was dealing with borrowed money.
+Precedent	Perhaps, in this light, <ORG> of this court decided this question in the case of <NAME> ( <CITATION_1433939> ."
+Precedent	18.
+Precedent	Then, this court considered the scope of Section 43A of  the Act.
+Precedent	At page 374, the court referred to the object of the <ORG> Bill which introduced Section 43A .
+Precedent	"In the <ORG> (No.
+Statute	2) Bill, 1967, which introduced Section 43A , Clause 17 of the Notes on Clauses sought to explain the purpose of such insertion, which reads as follows ( 64 ITR (St.) 109, 169):  'Clause 17 seeks to insert a new Section 43A in the Income-tax Act .
+Statute	The proposed Section 43A , in substance, secures that where an assessee had acquired any capital asset from a country outside India for the purposes of his business or profession on deferred payment terms or against a foreign loan, before the date of devaluation of the rupee, the additional rupee liability incurred by him in meeting the instalments of the cost of the asset or of the foreign loan, as the case may be, falling due for payment after the date of devaluation, will be allowed to be added to the original actual cost of the asset for the purpose of calculating the allowance on account of depreciation in computing the profits for the  assessment year 1967-68 and subsequent assessment years.
+Statute	Similar increase in the original actual cost will be allowed to be made in respect of the capital assets acquired by the assessee to be used in scientific research related to the class of business carried on by him or patent rights or copyrights acquired from abroad or any capital asset acquired by a company for the purpose of promoting family planning amongst its employees.
+Statute	Further, in computing the capital gains arising to the assessee on the sale or transfer of a capital asset acquired by him from abroad on deferred payment terms or against a foreign loan, the additional rupee liability incurred by him in repaying the instalments of the cost or the foreign loan, as the case may be, after the date of devaluation of the rupee, will be added to the original actual cost of the asset.
+Statute	The proposed section also secures that where there is a decrease in the rupee liability of the assessee in respect of assets acquired by him from abroad due to a change in  the exchange value of the rupee, the original actual cost of the asset will be correspondingly reduced.
+Statute	The additional rupee liability incurred on imported capital assets or, as the case may be, any decrease in such liability, in the circumstances stated in the earlier paragraph, will not, however, be taken into account in computing the actual cost of the asset for the purpose of deduction on account of development rebate.'
+Argument	Basing on the aforesaid notes, on behalf of the <ORG>, it was contended mainly that the purpose of Section 43A was to deal with all devaluation cases.
+Argument	Therefore, any appreciation or depreciation in value of assets, as a result of devaluation in profit or loss arising therefrom, must be governed by the special provisions of Section 43A .
+RatioOfTheDecision	A special provision has been made and this is the only provision to guide the matter.
+RatioOfTheDecision	Before we deal with that aspect of the matter, we must refer to Section 43(1) which uses a non obstante clause.
+RatioOfTheDecision	<ORG> had observed in the case of South Indi a Corporation (P.) <CITATION_1101230> , explaining the purpose of such a clause at page 215 dealing with Article 372 of the Constitution of India (p. 89 of 15 STC) :  ' That apart, even if Article 372 continues the pre-Constitution laws of taxation, that provision is expressly made subject to the other provisions of the Constitution.
+RatioOfTheDecision	The expression "subject to" conveys the idea of a provision yielding place to another provision or other provisions to which it is made subject.
+RatioOfTheDecision	Further, Article 278 opens out with a non obstante clause.
+RatioOfTheDecision	The phrase "notwithstanding anything in the Constitution" is equivalent to saying that in spite of the other articles of the Constitution, or that the other articles shall not be an impediment to the operation of Article 278.
+RatioOfTheDecision	While Article 372 is subject to Article 278 , Article 278 operates in its own sphere in spite of Article 372.
+RatioOfTheDecision	The result is that Article 278 overrides Article 372 ; that is to say, notwithstanding the fact that a pre-Constitution taxation law continues in fo rce under Article 372 , the <ORG> and the State Governments can enter into an agreement in terms of Article 278 in respect of Part B States depriving the State law of its efficacy.
+RatioOfTheDecision	In one view, Article 277 excludes the operation of Article 372 , and in the other view, an agreement in terms of Article 278 overrides Article 372.
+RatioOfTheDecision	In either view, the result is the same, namely, that at any rate during the period covered by the agreement, the States ceased to have any power to impose the tax in respect of "works contracts".'
+RatioOfTheDecision	19.
+RatioOfTheDecision	It states in essence that in spite of what is contained previously, this clause would be operative.
+RatioOfTheDecision	Another significant fact has to be borne in mind that Sub-section (1) of Section 43A deals with the expression 'acquisition' which deals with the situation where there is a change in the valuation of foreign currency after acquisition.
+RatioOfTheDecision	But in the case of development rebate, it has to be emphasised that acquisition is not relevant on the material date, but the date of installation is the mos t material date."
+RatioOfTheDecision	20.
+Precedent	At page 377, the court observed as follows :  "In the instant case before us, the contract stipulated repayment in dollars.
+RatioOfTheDecision	Therefore, the actual cost of the assessee must be computed on the dollar value.
+RatioOfTheDecision	Therefore, anything which went into that repayment, that is to say, any cost which actually went in repaying the debt, must be, in our opinion, on the principle of computation of the actual cost, which, irrespective of Section 43A , would be entitled to development rebate under Section 33A and inasmuch as Sub-section (2) of Section 43A only excludes the portion of Sub-section (1) of Section 43A , in our opinion, this position would not be inadmissible that the assessee would be entitled to obtain the development rebate.
+RatioOfTheDecision	In the instant case, we are concerned with the question whether Section 43 was at all meant for dealing with the case where there is no question of installation involved, but only acquisition was the relevant fact.
+RatioOfTheDecision	We are unable to find any support for the argument on b ehalf of the <ORG> that in all devaluation cases, whether of increase or decrease, the result of devaluation must be guided by Section 43A and under Section 43A alone.
+Precedent	The same view was reiterated by <ORG> in the case of <CITATION_1207302>  112 ITR 64."
+Precedent	21.
+Argument	This court thereafter considered the judgment of <ORG> in the case of <CITATION_1085477> .
+Argument	CIT  116 ITR 819 and at page 379, observed as follows :  "In so far as the decision took the view that in respect of all devaluation cases irrespective of whether the stipulated payment in the matter of foreign currency should be made under Section 43A alone, with great respect we are unable to agree and we prefer to adhere to the former view of <ORG> and the other view of <ORG> as mentioned hereinbefore.
+Argument	On behalf of the assessee, it was contended that Section 43A has been introduced to meet with the situation of computing depreciation year after year where the price in terms of Indian rupee fluctu ates on account of change in the rate of exchange.
+Argument	But since no such situation arises in the cases of development rebate which is granted once and for all, the said provision has not been made applicable to the computation of development rebate.
+RatioOfTheDecision	The development rebate continues to be computed on the basis of the provisions of Section 33 as before.
+RatioOfTheDecision	It was linked with the actual cost of the machinery or plant to the assessee.
+RatioOfTheDecision	The actual cost of the machinery or plant should be the cost on the relevant date.
+Precedent	Therefore, on the relevant date when the contract was entered into, it was entered into with the direction to pay back in dollars and whatever was necessary to pay back must be treated as actual cost to the assessee."
+Precedent	22.
+RatioOfTheDecision	Having regard to the principles laid down by the aforesaid decisions, we are unable to accept the contention of Mr. <NAME>.
+RatioOfTheDecision	There is no qualitative difference in the additional expenditure incurred due to the devaluation or fluctuation in the rate of exchange.
+Fact	In both the cases, an additi onal liability is imposed.
+RatioOfTheDecision	But whether the expenditure involving this additional liability will be allowable or not in computing the profit will depend on whether the expenditure is on capital account or on revenue account.
+RatioOfTheDecision	It is the nature and character of the expenditure which would determine the question.
+RatioOfTheDecision	It is not an expenditure as contended by Mr. <NAME> for meeting "the debt just as postal expenses or bank charges " or an extra expenditure in connection with obtaining any loan like "stamp duty, registration fees, etc."
+Precedent	This court held in <ORG> case [1979] 117 ITR 789, that an additional expenditure incurred due to the devaluation for repaying (in foreign exchange) a loan is a capital expenditure.
+Precedent	Although in that case the court was concerned with a case of devaluation, the principles laid down therein will equally apply to a case like this where the additional liability arises because, of fluctuation in the rate of exchange.
+Precedent	As laid down in <ORG> , " this extra  expenditure, deemed or otherwise, or this loss, is inextricably connected with the assessee's indebtedness and did not arise dehors the indebtedness nor was it incurred for the purpose of the loan and it was, as if, from the date of the devaluation, the dues from the the assessee to its creditors in rupees were increased ".
+Precedent	The reasoning of the <ORG> is based on the decision of <ORG> in <ORG> case [1966] 60 ITR 52.
+Precedent	This case has no application to the facts of this case as the extra expenditure was not incurred to obtain the loan.
+RatioOfTheDecision	The loan had already been obtained.
+RatioOfTheDecision	It is at the point of repayment of the loan that the assessee has to provide an extra amount in rupees by reason of the fluctuation in the rate of exchange.
+Argument	Further, the assessee purchased a capital asset and the purchase price was converted into loan which was repayable by instalments.
+Argument	Thus, the expenditure is on capital account.
+Precedent	<ORG> in the case of <ORG> [1979] 120 ITR 451 also he ld that additional expenditure incurred for paying the instalments of purchase of a capital asset due to fluctuation in the rate of exchange is on capital account.
+Precedent	23.
+Precedent	The decision relied on by Mr. <NAME> in the case of <ORG> also does not assist him.
+Fact	There, the assessee had taken a loan from <ORG> for making payment in the U.S.A. of the price of capital plant and machinery purchased for its project.
+Fact	The loan was taken and was repayable in dollars.
+Fact	One of the questions was whether the increase in liability of the assessee for repayment of loan due to devaluation was allowable deduction in computing the business income of the assessee.
+Fact	There, the court considered various decisions including the decision in the case of <ORG> .
+Precedent	This court considered in detail the judgment in <ORG>'s case [1979] 117 ITR 789 and took note of what was said in <ORG> as follows (p. 372) :  "Conversely, as a result of the exchange rate g oing against the asses-see, the loss which the assessee incurred cannot be held to be a revenue loss."
+Precedent	24.
+Precedent	This court held that "in view of the consistent view of <ORG> and in view of the decision in <ORG>" , the increased liability in terms of rupees for repayment of loan was not an allowable deduction as the said loss was on capital account.
+RatioOfTheDecision	Thus whether there is devaluation or whether there is fluctuation in the rate of exchange, the fact remains that the exchange rate goes against the assessee resulting in increase in the liability and there cannot be any difference in principle in deciding the question.
+RatioOfTheDecision	In <ORG> , the alternative argument of the assessee that development rebate should have been allowed on the increased liability arising out of devaluation attributable to plant and machinery was accepted.
+RatioOfTheDecision	Even the observation of this court in that context also does not support the contention of Mr. <NAME>.
+RatioOfTheDecision	The principle which has been laid down in <ORG>  <ORG> , by this court is that if the contract stipulates repayment in foreign currency, the actual cost of the asset must be computed on the value of the foreign currency.
+RatioOfTheDecision	Anything which went into the repayment was part of the actual cost of the capital asset.
+RatioOfTheDecision	Thus in the instant case also the extra expenditure incurred by the assessee would be towards the cost of plant and machinery and accordingly it will be on capital account.
+RatioOfTheDecision	In either view of the matter, the contention of Mr. <NAME> must fail.
+RatioOfTheDecision	We, therefore, answer the first question by saying that the additional expenditure incurred by reason of exchange fluctuation was capital expenditure.
+RatioOfTheDecision	25.
+RatioOfTheDecision	Now we shall take up the second question.
+RatioOfTheDecision	The facts relating to the second question are stated hereunder :  According to the leave rules of the assessee, one of the leaves to which the employees of the assessee are entitled is known as "privilege leave".
+Argument	Para.
+Argument	1 of the said leave rules pertains to privilege leave.
+Argument	It lays down that every permanen t employee of the assessee was entitled to privilege leave at the rate of 30 days for every completed period of twelve months.
+Argument	The said privilege leave has to be credited in the account of each individual employee at the end of each financial year of the assessee-company or calendar year as may be applicable.
+Argument	The said privilege leave can be accumulated up to 120 days only.
+Argument	Ordinarily, the privilege leave can be granted only twice a year at the discretion of the management, but in exceptional circumstances like marriage, death of near relatives, sickness, etc., it may be granted even beyond the schedule at the sole discretion of the management.
+Argument	It is further provided that if privilege leave is offered by the assessee-company and the offer is not accepted by the employee, the employee shall forfeit his leave to the extent of the period offered.
+Argument	Rule 6 of the said leave rules further provides the method for encashment of leave by different categories of employees.
+Argument	Rule 6A further provides that without prejudice  to the aforesaid general provisions for encashment of leave, the management shall have the right, at its sole discretion, to permit encashment of any number of days of accumulated privilege leave not exceeding 120 days in cases like marriage/sickness/accident or other special circumstances beyond reasonable control of the person concerned like refusal of leave by the management, etc., but no staff member shall be entitled to claim it as a matter of right.
+Argument	26.
+Argument	It is also an admitted position that prior to the year under consideration, the assessee was claiming the deduction in the matter of payment on account of privilege leave when the same was encashed on retirement or on the termination of the services of the employees in a particular year.
+Argument	Though this was the practice in the past, the assessee in the accounts for the year made a provision in respect of its accrued liability for payment of accumulated leave earned by the employee amounting to Rs.
+Precedent	2,19,982.
+Precedent	The claim of the assessee for the deduction of the  said amount had been negatived by the Income-tax Officer on the ground that the liability is a contingent liability.
+Precedent	27.
+Precedent	Aggrieved by the said disallowances, the assessee brought the matter by way of appeal before the Appellate Assistant Commissioner who upheld the aforesaid view of the Income-tax Officer by agreeing with him that the said liability was not a present liability but a contingent liability on the happening of some events.
+Precedent	28.
+Precedent	The <ORG> upheld the contention of the assessee and, inter alia, observed as follows :  "No doubt in the past the assessee was claiming the deduction only to the extent to which the said privilege leave was encashed by an employee on retirement or on termination of his service, yet that is not conclusive on the subject.
+RatioOfTheDecision	The position in the present case is that the employee is entitled under the rules to the privilege leave and he can accumulate the privilege leave for a period of 120 days.
+RatioOfTheDecision	Once the privilege leave is earned by an employee, it gets credited to his acco unt.
+RatioOfTheDecision	The same can, under the circumstances stated in the leave rules, be encashed.
+RatioOfTheDecision	Though the payment may be deferred, the liability of the assessee to pay for the accumulated leave stands accrued.
+RatioOfTheDecision	The said liability is a liability in praesenti and not a contingent liability.
+Precedent	As such, on the ratio of the decision of <ORG> in <ORG> [1969] 73 ITR 53, the asses-see can claim the deduction in respect of the said accrued liability in its assessment for the year under consideration.
+Precedent	We hold likewise. "
+Precedent	29.
+Argument	It has been contended by Mr. <NAME> with reference to the leave rules that the liability accrues to the assessee for payment of leave wages as soon as leave, under the rules, has become due to the employees.
+Argument	He has particularly referred to the following rules in support of his contention.
+Precedent	30.
+Precedent	Privilege leave :  (i) Every permanent employee shall be entitled to privilege leave at the rate of 30 (thirty) days for every completed period of twelve months :  (ii) Privilege leave wi ll be credited to the account of each individual at the end of each financial year of the company, or calendar year, as may be applicable (hereinafter referred to as " the year ") ;  (iii) Privilege leave will accumulate up to 120 days only.
+Precedent	31.
+RulingByPresentCourt	Rule 6 has provided for encashment of leave.
+RulingByPresentCourt	The management shall have the right, at its sole discretion, to permit encashment of any number of days of accumulated privilege leave not exceeding 120 days.
+RulingByPresentCourt	Mr. <NAME> has also drawn our attention to Rule 6C, which is in the following terms :  "For the purpose of leave encashment, the leave record will be completed immediately after the end of every calendar year or financial year of the company and the benefit of unavailed or accumulated leave, if any, shall be given as per these Rules in the succeeding calendar year or financial year, as the case may be."
+RatioOfTheDecision	32.
+RatioOfTheDecision	The question before us is whether provision for leave salary is an allowable deduction.
+Argument	The contention of Mr. <NAME> is that leave salary payable to an employe e can be ascertained at the end of the accounting year depending on the accumulated leave to the credit of an employee.
+Argument	It is his contention that it is not a contingent liability but a liability in praesenti.
+Argument	He has also submitted that out of the provision made, leave salary would be paid to the employees.
+Argument	He has also submitted that the leave encashment benefit is ascertainable at the end of the year in terms of Rule 6 of the leave rules.
+Argument	33.
+Argument	Mr. <NAME> on the other hand contended that the question of payment of leave salary only arises when a person goes on leave and for that particular period leave salary is payable.
+RatioOfTheDecision	Similarly a person is entitled to avail of the leave encashment benefit under the rules.
+RatioOfTheDecision	This will depend on whether he actually avails himself of the leave or not.
+RatioOfTheDecision	If leave is due to a person, he has the option either to accumulate the leave or he may avail of the leave.
+RatioOfTheDecision	If he avails of the leave, he would be entitled to the leave salary.
+RatioOfTheDecision	If he does not, he will be entitled to the benefit of en cashment of the leave.
+Precedent	These events according to the learned advocate are uncertain events and are contingent.
+Precedent	He has relied on several decisions in support of his contention.
+Precedent	34.
+Precedent	In the case of <CITATION_1114923>  62 ITR 274, the question before <ORG> was whether provision for earned leave wages was allowable as a deduction.
+Precedent	The assessee in that case claimed that in the computation of its profits, it was entitled to a deduction of Rs.
+Precedent	75,000 being the amount set apart as a reserve fund in its balance-sheet for the payments it may have to make to its workers in the next year on account of holiday wages under Section 79 of the Factories Act, 1948.
+Precedent	<ORG> held that the liability of the assessee for holiday wages under the Factories Act is a contingent liability.
+RatioOfTheDecision	It was held that the liability that rests on the employer to pay a worker wages in accordance with Section 79 for leave period remains a contingent liability which the employer may or may not be called upo n to discharge.
+RatioOfTheDecision	That being so, any sum set apart by an employer in any year for meeting the contingency of some of his workers going on leave the next year cannot be regarded as a permissible expenditure under Section 10(2)(xv) of the Indian Income-tax Act, 1922.
+RatioOfTheDecision	As a matter of fact, <ORG> followed the decision of this court in the case of <CITATION_263647>  2 Cal 13.
+Argument	There, this court held that holiday waives, payable under the Factories Act , not actually spent in the accounting year but entered in the books of account as a reserve fund for payment in the next year, are not allowable as an item of expenditure although the accounts may be kept according to the mercantile system.
+Argument	The liability under Section 49B of the Factories Act to pay holiday wages depends on the arising of circumstances specified therein and since they may or may not arise, the liability is only a contingent and uncertain liability which may or may not have to be discharged.
+Argument	<NAME> observed as follows ( p. 278 of 62 ITR) :  "It should be clear from what I have stated above that such statutory liability for holiday wages as the Factories Act creates is only a contingent liability which may or may not have to be discharged ; and, secondly, the measure of that liability can never be known in advance.
+Argument	It cannot be so known, because it cannot be known in advance how many employees will avail themselves of how many holidays and when and, necessarily, at what rate, holiday wages would be payable.
+Argument	In those circumstances, it is perfectly clear that not only is the amount claimed not allowable as an item of expenditure, because, in fact, no expenditure had been incurred and not a pica had gone out of the funds of the company, but also that the amount does not even represent a certain liability which will have to be discharged in any event.
+RatioOfTheDecision	It may be that although a particular amount is not actually expended during the currency of a particular accounting year, the assessee will still be entitled to a deduction if a cer tain liability for its payment has arisen so that it may be said that the expenditure is as good as made.
+RatioOfTheDecision	The amount claimed in the present case is certainly not even of that character and, as I have already pointed out, it is not an amount which was actually spent."
+RatioOfTheDecision	35.
+RatioOfTheDecision	A similar view was taken by <ORG> in the case of <CITATION_1429395> .
+RatioOfTheDecision	80 ITR 244.
+Fact	There the assessee-company set apart in its accounts a sum of Rs.
+RatioOfTheDecision	75,000 for payments it may have to make to its workers in the next year on account of holiday wages under Section 79 of the Factories Act and claimed deduction in respect of that amount on the footing that it had incurred a liability to pay leave wages to its employees in the year of account.
+RatioOfTheDecision	<ORG> held that the assessee-company has not incurred the liability for leave wages in the accounting year and the claim for deduction was not allowable.
+RatioOfTheDecision	36.
+RatioOfTheDecision	It is true that this court as well as the Madhya Pradesh and Bombay High Courts considered the scope of the provision s of the Factories Act regarding the payment of holiday wages and upon the consideration of the relevant provisions, the courts held that the liability was contingent.
+RatioOfTheDecision	The principles which have been laid down in those cases, in our opinion, would equally apply to the facts of this case.
+RatioOfTheDecision	Leave wages are payable only when a person goes on leave and during the period of leave, the wages paid to him are known as leave wages.
+RatioOfTheDecision	It cannot be ascertained with any certainty whether in a particular year the employees would go on leave or the leave would be granted to them.
+RatioOfTheDecision	After all, privilege leave cannot be claimed as a matter of right.
+RatioOfTheDecision	It will depend on the exigencies of the circumstances.
+RatioOfTheDecision	The rules also provide that the leave may be refused on certain circumstances.
+RatioOfTheDecision	Unless an employee goes on leave, the assessee is not required to pay the leave wages.
+RatioOfTheDecision	The liability will only arise when a person goes on leave and it is only for that particular month or months he is on leave, the leave wages are payable.
+RatioOfTheDecision	37.
+RatioOfTheDecision	Having r egard to the facts and circumstances of this case, we are unable to accept the contention of Mr. <NAME> that at the end of the accounting year it is known what is the quantum of leave due to a particular employee and on that basis a calculation can be made with accuracy.
+RatioOfTheDecision	No one makes a provision for salary because salary is only payable after the employee renders the service and then only it will accrue to him.
+RatioOfTheDecision	Similarly in the case of wages which are paid during the leave period, the employee becomes entitled to such leave wages only when he goes on leave.
+RatioOfTheDecision	Accumulated leave to the extent of 120 days can only be encashed at the time of retirement or termination or determination of service.
+RatioOfTheDecision	This is, therefore, a contingent liability and not a certain liability.
+RatioOfTheDecision	38.
+Precedent	Inspired by a decision of <ORG> under the Wealth-tax Act in the case of <ORG> v. Prema Lakshman  150 ITR 170, Mr. <NAME> sought to contend that the liability to pay the leave wages is not a contingent liability.
+Precedent	There the assessees  were partners of a firm which was engaged in the business of processing and exporting cashew kernels.
+Precedent	For the assessment year 1974-75 relevant to the valuation date, December 31, 1973, the assessees claimed deduction in respect of the amounts payable by the firm by way of leave with wages, in calculating their interest in the firm for purposes of wealth-tax.
+Precedent	The Wealth-tax Officer disallowed the claim.
+Precedent	The <ORG> found that subsequent to the decision of <ORG> in <ORG> <ORG>, , a practice came to be crystallised in the cashew industry in Kerala making it obligatory for the management to pay the workers leave with wages contemplated under Section 79 of the Factories Act, 1948, irrespective of the number of days they worked.
+Precedent	The <ORG> examined the relevant records and the books of account and, after satisfying itself as to the correctness of the claims, held that provision made for leave with wages had to be deducted while ascertaining  the interest of the assessees in the firm.
+Precedent	On a reference, <ORG> held that the amounts in question did not relate to a contingent or future liability but to an existing liability, liability which had already been incurred as a result of the practice which had, as found by the <ORG>, come to be crystallised in the cashew industry following an earlier decision of the court.
+RatioOfTheDecision	This liability could be arithmetically worked out as on the valuation day.
+RatioOfTheDecision	Hence, these were amounts in the nature of debts which could be taken into account for computation under the Wealth-tax Act , 1957.
+RatioOfTheDecision	39.
+RatioOfTheDecision	The decision, however, does not assist the assessee.
+RatioOfTheDecision	In the present case, leave rules provide that, ordinarily, the privilege leave shall be granted only twice a year at the discretion of the management, in exceptional circumstances like marriage, death of near relatives, sickness, etc.
+RatioOfTheDecision	Such leave may be granted even beyond the schedule at the sole discretion of the management.
+RatioOfTheDecision	Further, if privilege leave is offer ed by the assessee-company, whether applied for or not, and the offer is not accepted by the employee, the employee shall forfeit his leave to the extent of the period offered.
+RatioOfTheDecision	That apart, leave shall be granted at the convenience of the management and nothing would limit the free discretion of the management to refuse, evoke and/or cut short the leave period and ask the staff member to report immediately as the exigencies of the company's work may require.
+RatioOfTheDecision	It is, therefore, clear that there is no obligation on the employer to pay the leave wages irrespective of the number of days worked by the employee as in the Kerala case.
+RatioOfTheDecision	The decision of <ORG> in the case of <CITATION_756197>  73 ITR 53, cannot have any application in this case.
+RatioOfTheDecision	<ORG> in that case was concerned, inter alia, with the question whether it is legitimate in a scheme of gratuity to estimate the liability on actuarial valuation and deduct such estimated liability in the profit and loss account while working out the net pr ofit.
+RatioOfTheDecision	<ORG> held that if the liability is properly ascertainable and if it is possible to arrive at its discounted present value, even if the liability is a contingent liability, it can be taken into account.
+RatioOfTheDecision	That question does not arise here.
+RatioOfTheDecision	There cannot be actuarial valuation regarding the liability for payment of leave wages.
+RatioOfTheDecision	It cannot be equated with the gratuity liability under the Gratuity Act .
+RatioOfTheDecision	The rate of leave salary will depend on the salary a person draws at the time when he goes on leave and not when the leave is accumulated.
+RatioOfTheDecision	So far as the leave encashment is concerned, the employees are entitled to encashment of their privilege leave to the extent of 120 days.
+RatioOfTheDecision	Such encashment can be made only at the time of retirement or termination or determination of the services of an employee.
+RulingByPresentCourt	If any employee avails of the leave, he will be entitled to the leave salary.
+RulingByPresentCourt	If he does not avail of the entire leave, he will be entitled to accumulate to the extent permissible.
+RulingByPresentCourt	He will only be entitled  to encash such accumulated leave when he retires or his services are terminated or determined.
+RulingByPresentCourt	Therefore, neither the leave salary nor the leave encashment benefit payable to the employees can be said to be a present liability.
+RulingByPresentCourt	The contention of Mr. <NAME> has no substance and must fail.
+RulingByPresentCourt	The second question is, therefore, answered in the negative and in favour of the <ORG>.
+RulingByPresentCourt	40.
+RulingByPresentCourt	There will be no order as to costs.
+Precedent	<NAME>, J.
+Precedent	41.
+RulingByPresentCourt	I agree.

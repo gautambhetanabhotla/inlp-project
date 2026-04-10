@@ -1,0 +1,81 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This appeal adds another case to the long list of cases which have reference to the effect of Section 47 of the Code of Civil Procedure.
+Fact	The facts of the present case are of an unusual nature and there is no reported decision which directly covers it.
+Fact	In execution of a small cause decree passed by <ORG> the property which is the subject-matter of this appeal was purchased on the 17th September, 1917, by one <NAME> to whom was issued the usual sale certificate.
+Fact	On the 7th January, 1918, <NAME> conveyed the property to two persons, <NAME> and <NAME> who by a deed dated the 3rd February, 1927, sold it to <NAME>, the present appellant.
+Fact	At the time of the sale the property was in the possession of <NAME>, a sister of <NAME>, the judgment-debtor.
+Fact	She held the property as a monthly tenant of her brother.
+Fact	In 1919 she surrendered the possession of the property to <NAME>  <NAME>, who thereupon granted a monthly tenancy of it to a person named <NAME>.
+Fact	In 1923 <NAME> assigned his rights to one <ORG>.G.
+Fact	Subramania <NAME> who remained in possession of the property as a monthly tenant of Sankaranarayana <NAME> until 1927 when he purchased the property from Sankaranarayana <NAME>.
+Fact	Neither <NAME> nor the appellant ever obtained actual or symbolical possession of the property.
+Fact	The suit out of which this appeal arises was filed by the appellant against Sankaranarayana <NAME> and <ORG>.G.
+Fact	Subramania <NAME> for possession.
+Fact	In his plaint the appellant treated the surrender of the property by <NAME> to Sankaranarayana <NAME> as an assignment to him of her tenancy and Sankaranarayana <NAME> and <ORG>.G.
+Fact	Subramania <NAME> as successive holders of the tenancy.
+Fact	One line of defence was that the appellant had acquired no interest in the property.
+Fact	It was said that the transfer by <NAME> to <NAME> was a benami transaction and that the real title remained with <ORG> rishnier.
+Fact	The main contention, however, was that Section 47 of the Code of Civil Procedure barred the suit.
+Fact	The District <NAME> found against the plaintiff on both issues and dismissed the suit.
+RulingByLowerCourt	On appeal to the Subordinate Judge of South Malabar the decree of the trial Court was reversed, the Subordinate Judge holding that the transaction was not benami and that Section 47 did not apply.
+RulingByLowerCourt	A second appeal to this Court followed and was heard by <NAME>, who agreed with the District <NAME> on the question of the application of Section 47, but granted him leave to file an appeal under Clause 15 of the Letters Patent.
+RulingByLowerCourt	The decision of the Subordinate Judge was final on the question whether the transaction between <NAME> and <NAME> and <NAME> was of a benami nature.
+RulingByLowerCourt	2.
+Fact	The question which falls for decision is in what capacity did <NAME> obtain possession of the property from his sister?
+Fact	If he obtained possession of the property in the same capacity as he held at th e time of the sale in execution the appeal fails; but if he obtained it in another capacity the appeal succeeds.
+Precedent	As <NAME>, J., has pointed out in his judgment, so far as this <ORG> is concerned, it is well settled that proceedings by a decree-holder who has become the auction-purchaser for delivery of possession must be deemed to relate to the execution or discharge or satisfaction of the decree within the meaning of Section 47 of the Code of Civil Procedure.
+Precedent	It is considered that the section bars a suit by a decree-holder for possession of the property purchased by him in execution of his own decree not only against the judgment-debtor or any one claiming under him but the bar is equally applicable to a purchaser from the decree-holder.
+Precedent	The learned Judge referred in this connection to the decisions of the <ORG> in <NAME> v. <NAME> (1904) 14 M.L.J.
+Precedent	474 : I.L.R.
+Precedent	28 Mad.
+Precedent	87 and <CITATION_932831> (1926) 51 M.L.J.
+Precedent	126.
+Precedent	<CITATION_877318> (1919) 38 M.L.J.
+Precedent	32 : I.L.R.
+Precedent	43 Mad.
+Precedent	107 (F.B.
+Precedent	),  it was held by <ORG> that a purchaser at a <ORG> auction who is a stranger to the suit comes within the purview of Section 47 as the representative of the judgment-debtor.
+Precedent	There are numerous decisions which support the judgments in the cases just cited.
+Precedent	The Calcutta High <ORG> shares the view of this <ORG>: <CITATION_1554481> (1926) I.L.R.
+Precedent	53 Cal.
+Precedent	781 (F.B.).
+Precedent	Other High <ORG>s have, however, interpreted Section 47 in a different sense.
+Precedent	The effect given to Section 47 by this <ORG> has not been accepted without criticism by all the learned Judges who have had to consider the question.
+Precedent	<CITATION_273674> (1902) 13 M.L.J.
+Precedent	237 : I.L.R.
+Precedent	26 Mad.
+Precedent	740, <NAME> and <NAME>, JJ., doubted whether proceedings taken by a decree-holder who had purchased property to obtain possession did relate to the execution, discharge or satisfaction of the decree, but in view of the earlier decisions they felt constrained to follow them.
+Precedent	In <NAME> v. <NAME> (1904) 14 M.L.J.
+Precedent	474 : I.L.R.
+Argument	28 Mad.
+Argument	87, Arnold  <NAME>, C.J., observed that if the matter were res Integra, he would be disposed to hold that the right to sue for possession was not a question relating to the execution, discharge or satisfaction of the decree, where the plaintiff represented a decree-holder who had purchased land in execution of the decree.
+RatioOfTheDecision	It has, however, been the practice of this <ORG> for over 50 years to treat Section 47 as having the application which I have indicated and in my opinion it is now far too late in the day to re-open the question.
+RatioOfTheDecision	This appeal must, therefore, be decided on the basis that a decree-holder who purchases property in execution cannot institute a suit to recover possession from the judgment-debtor or some one who stands in the shoes of the judgment-debtor and his remedy is confined to an application, where the period of limitation is only three years.
+RatioOfTheDecision	3.
+RatioOfTheDecision	As I have already pointed but, the appellant's case is based on the assumption that <NAME> got possession of the property in 1919 as the assig nee of the tenancy.
+RatioOfTheDecision	It is common ground that a suit for possession will lie if this was the position, as a tenant cannot be regarded as a representative within the meaning of Section 47 where as in this case, the tenancy had commenced before the attachment.
+RatioOfTheDecision	In the plaint it was alleged that <NAME> fraudulently colluded with <NAME> in surrendering the property to him, but no attempt was made to prove this and for the purposes of this appeal it must be taken that her action was bona fide.
+Argument	The appellant contends that a tenant can only surrender his tenancy to the landlord or if the landlord has parted with his rights in the property to the person who has acquired the landlord's rights and as by reason of the provisions of Section 65 of the Code of Civil Procedure the property in suit vested in <NAME> from the time he bought it at the.
+Argument	Court auction, <ORG> could not in law surrender the tenancy to her brother.
+Argument	At the time she purported to do so he had no interest in the property.
+RatioOfTheDecision	It is said that at the most her action put <NAME> in the position of an assignee of the tenancy.
+RatioOfTheDecision	There is substance in the argument, but it is not necessary for the purpose of deciding this appeal to pause to inquire whether there is any flaw, because if <NAME> cannot in law be deemed to have entered into possession of the property in 1919 as the assignee of the tenancy entered into possession without right and was, therefore, in the eyes of the law a trespasser.
+RatioOfTheDecision	A trespasser clearly cannot rely on Section 47 to support his possession.
+RatioOfTheDecision	The fact that <NAME> did not apply for and obtain symbolical possession of the property under the provisions of Order 21, Rule 96 of the Code of Civil Procedure could not affect his right to the property.
+RatioOfTheDecision	The property vested in him absolutely, with or without symbolical possession, as soon as he became the auction purchaser.
+RatioOfTheDecision	Rule 96 is there to assist an auction purchaser to secure recognition of rights already acquired.
+RatioOfTheDecision	<NAME>, J.,  considered that it was obligatory on the part of the appellant to obtain symbolical possession, and that <NAME> was bound in law to surrender the property to the person who had granted her tenancy, but the learned Judge overlooked the provisions of Section 65.
+RatioOfTheDecision	The fact that <NAME> was unaware of the <ORG> auction would excuse her from liability in surrendering possession of the property to her brother, but the surrender could not put him in any better position.
+RatioOfTheDecision	It must be remembered that there is a the freehold, that imports that such person is seised of the estate of freehold.
+Fact	At the time of the auction sale <NAME> was seised of the property but was not in possession of it and the auction sale took away from him his seisin and gave it to the auction purchaser.
+Precedent	The moment the sale took place his rights in the property ceased, and when his sister put him in possession in 1919 he went into possession without any rights unless in the circumstances he could be deemed to be assignee of  the tenancy.
+Precedent	So far as the property was concerned the execution was complete and he was no longer the judgment-debtor.
+Precedent	4.
+Precedent	For the reasons indicated I am firmly of the opinion that the case does not fall within the purview of Section 47 of the Code of Civil Procedure and I would allow the appeal with costs throughout.
+Precedent	<NAME>, J.
+Precedent	5.
+Precedent	I agree.
+Precedent	<NAME>, J.
+Precedent	6.
+RulingByPresentCourt	I also agree.

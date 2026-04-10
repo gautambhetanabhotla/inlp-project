@@ -1,0 +1,259 @@
+Fact	ORDER <NAME>, J.
+Fact	1.
+Fact	The devaluation of the Indian Rupee on 6th June, 1966 brought several problems in its wake.
+Fact	One such problem arose out of the consequential enhancement in the liability of an Indian businessman who had imported plant and machinery from abroad the consideration for which had been fixed in terms of a foreign currency and which has not been fully discharged by the date of devaluation.
+Fact	How this increase in liability has to be (a) accounted for in the books of account of the businessman and (b) taken into account for purposes of certain allowances available under the Income-tax Act , 1961, are the two issues that have to be considered in this appeal.
+RatioOfTheDecision	2.
+RatioOfTheDecision	A simple hypothetical illustration (steering clear of complications that may arise where the purchase is made by borrowing funds therefor from others, where the price is paid in several instalments, where more than one fluctuation in exchange rate intervene and so on) will serve to bring the problem into focus.
+Statute	Let us consider the case of  an income-tax assessee, whose previous year ended on 31.3.66 who had placed an order for plant and machinery costing $ 10,000 on 1.1.1966, at a time when the rupee exchange rate of a dollar was, say, ten rupees to the dollar.
+Argument	The cost of the plant or machinery would have been debited by him, in his books for the year ended 31.3.66, at Rupees One Lakh.
+Argument	If the price wholly or in part remained undischarged on 6.6.1966, the assessee would have become liable to pay more money in terms of the Indian Rupee to pay in full the price of $ 10,000.
+Argument	Let us suppose that he had eventually to pay Rs.
+Argument	1,20,000 in the accounting year 1966-67 to discharge his liability towards the purchase price.
+Argument	The two questions that would arise are :  (1) Should he enter the additional liability of Rs.
+Fact	20,000 in his books for the year ended 31.3.67 during which the additional liability arose consequent on the devaluation or should he reopen his accounts of the earlier year and correct the figure of cost debited therein from Rs.
+Fact	1,00,000 to  Rs.
+Fact	1,20,000?
+Fact	(ii) On what basis should he claim allowances like depreciation and development rebate under the Income-tax Act which are admissible on the "actual cost to the assessee" of such plant and machinery?
+RatioOfTheDecision	3.
+RatioOfTheDecision	Before dealing with these questions it may be useful to refer to certain accountancy principles and statutory provisions that have a bearing on the issues raised.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Soon after the currency devaluation of 1966, <ORG> issued a statement indicating the manner in which the effects of devaluation should be shown in the accounts.
+RatioOfTheDecision	It said:  2.1 Where the accounts of an enterprise are closed on a date prior to 6th June 1966, but the auditor reports thereon subsequent to that date, the question arises whether it is necessary to include in the accounts or in the auditor's report any reference to the fact of devaluation and its effects upon the accounts of the company.
+RatioOfTheDecision	It is accepted in connection with certain matters that events occurring after the balance sheet  date may be of such a nature that they would have to be taken into account in order to show a true and fair view.
+RatioOfTheDecision	The <ORG> is, therefore, of the opinion that it is the duty of the Directors of a company to disclose by way of a note on the accounts the effect (if material) of devaluation upon the accounts of the company and in particular about the extent to which the outstanding liabilities may be increased as a result of devolution and its effect upon the profit or loss of a company.
+RatioOfTheDecision	xxxx xxxx xxxxx 2.2 While this is the recommended procedure, it is permissible for a company to include the effects of devaluation in its accounts ending on a date prior to 6th June 1966.
+RatioOfTheDecision	It would be desirable to make appropriate disclosure of the effect of such inclusion on the true and fair view of the results for the year and the position as at the Balance Sheet date in the accounts or in any notes thereon.
+RatioOfTheDecision	xxxx xxxx xxxxx 6.1 The <ORG> is of the opinion that to the extent to which repayment obligations in respect of f ixed assets purchased prior to devaluation remain outstanding as on 6th June 1966 (except those covered by forward exchange contracts), the additional cost of repayment in terms of rupees, should be considered as enhancing the cost of the corresponding asset purchased.
+RatioOfTheDecision	In cases where identification of the assets which have been purchased out of foreign funds is not possible, some reasonable method of allocation would have to be adopted.
+RatioOfTheDecision	6.2 Depreciation must be provided on the additional cost according to the method of depreciation normally employed by the company.
+RatioOfTheDecision	6.3 The <ORG> has recommended to the Government that appropriate amendments be made in the Companies Act to embody the accounting treatment outline above.
+Argument	It has also been represented to the Government that the consequential amendments should be made in the Income-Tax Act to enable businesses to claim such additional depreciation and appropriate development rebate as an allowable deduction for tax purposes.
+Statute	6.4 Fixed assets which are purchased  prior to devaluation but paid for subsequently, should be recorded at the enhanced cost by conversion at the new rates of exchange.
+Statute	6.5 Advances made to foreign suppliers for machinery to be supplied should be retained in the books at the actual rupee cost of the advance (i.e.
+Statute	at the old rate of exchange).
+Statute	Any subsequent payment towards the purchase of the machinery by way of final instalment or otherwise would, if paid after devaluation, be converted at the new rate of exchange and the total cost of the asset would be the sum of these two figures.
+RatioOfTheDecision	(Emphasis added)  5.
+RatioOfTheDecision	A few years later, the currencies of a large number of countries came to be "floated" in foreign exchange markets leaving the exchange rates to be determined from day to day market forces.
+RatioOfTheDecision	Also, the Indian rupee was delinked from the Pound Sterling and its rates of exchange in relation to other currencies came to be determined by the <ORG> on the basis of the exchange rates of a selected "basket" of foreign currencies.
+RatioOfTheDecision	In the context of  these developments, the institute issued a further detailed statement on accounting for foreign exchange transactions.
+RatioOfTheDecision	Pointing out that the need for a "foreign currency translation" arises (a) when translating the financial statements of foreign entities in the books of the parent entity and (b) when determining or restating book values of revenue items and assets and liabilities in respect of transactions in foreign currencies, the statement addressed itself, inter alia, to three problems: (a) whether all differences should be adjusted in the profit and loss account; (b) whether the adjustment should be in the year of change or deferred; and (c) whether any part of the difference can be treated as a capital expenditure.
+RatioOfTheDecision	On the second issue with which we are concerned here, the statement said:  23.
+RatioOfTheDecision	At the same time, deferment of the charge to the profit and loss account in all cases till the actual gain or loss is realised on conversion of the foreign currency would result in accounting on a "cash basis' an d would be contrary to the "accrual" concept of accounting.
+RatioOfTheDecision	It therefore becomes necessary to distinguish between translation differences which arise on translation of current assets and short-term liabilities and translation on differences which arise on translation of non-current assets and long-term liabilities.
+RatioOfTheDecision	xxxx xxxx xxxxx  25.
+Statute	The translation difference arising on the translation of long-term, liabilities should be dealt with as under:  (i) If the funds represented by the long-term liabilities have been used for the purchase of assets which continue to appear in the balance sheet at the date of translation, the amount of the difference can be dealt with as suggested in sub-paragraphs (ii) and (iii) below or can be added to or deducted from the cost of the assets to the extent considered appropriate.
+Statute	(ii) If the translation results in a profit, the difference (to the extent not adjusted wholly or partly against the cost of assets) should be transferred to a reserve account and a loss arising on a su bsequent translation can be debited to this reserve.
+Statute	(iii) If the translation results in a loss, the difference (to the extent not adjusted wholly or partly against the cost of assets) should be written off in the profit and loss account.
+Statute	If the amount of the difference is substantial, it can be written off in annual instalments over a period of years in proportion to the repayment of the liability in each of the subsequent years.
+Argument	6.
+Argument	The <ORG> reacted to the situation created by the devaluation of 1966 by effecting two amendments : The first legislative provision enacted to meet the situation was the insertion of Section 43A in the Income-tax Act , 1961.
+Statute	The relevant portions of this provision, inserted by the Finance (No.
+Statute	2) Act, 1967, w.e.f.
+Statute	1.4.1967, need to be set out in full as the controversy before us turns entirely on a proper interpretation of this privision.
+Statute	It reads:  43A.
+Statute	(1) Notwithstanding anything contained in any other provision of this Act, where an assessee has acquired any asset fro m a country outside India for the purposes of his business or profession and, in consequence of a change in the rate of exchange at any time after the acquisition of such asset, there is an increase or reduction in the liability of the assessee as expressed in Indian currency for making payment towers the whole or a part of the cost of the asset or for repayment of the whole or a part of the moneys borrowed by him from any person, directly or indirectly, in any foreign currency specifically for the purpose of acquiring the asset (being in either case the liability existing immediately before the date on which the change in the rate of exchange takes effect), the amount by which the liability aforesaid is so increased or reduced during the previous year shall be added to, or, as the case may be, deducted from, the actual cost of the asset as defined in Clause (1) of Section 43 or the amount of expenditure of a capital nature referred to in Clause (iv) of Sub-section (1) of Section 35 or in Section 35A or in Cl ause (ix) of Sub-section (1) of Section 36 , or, in the case of a capital asset (not being a capital asset referred to in Section 50 ), the cost of acquisition thereof for the purposes of Section 48 , and the amount arrived at after such addition or deduction shall be taken to be the actual cost of the asset or the amount of expenditure of a capital nature or, as the case may be, the cost of acquisition of the capital asset as aforesaid.
+Statute	xxxx xxxx xxxxx (2) The provisions of Sub-section (1) shall not be taken into account in computing the actual cost of an asset for the purpose of the deduction on account of development rebate under Section 33 .
+Statute	7.
+Statute	The second statutory provision was an amendment to Schedule VI of the Companies Act, 1956 in the form of Balance Sheet prescribed for companies.
+Statute	In the third column setting out "the instructions" in accordance with which assets should be made out", the following instructions had appeared against "Fixed Assets" at the very top of the form:  Under each head the ori ginal asset and the additions thereto and deductions therefrom during the year and the total depreciation written off or provided up to the end of the year to be stated.
+Statute	8.
+Statute	To this, a new paragraph, in language identical with that employed in Section 43A above, was added by a notification dated 3.1.1968.
+Statute	It read:  Where the original cost aforesaid and additions and deductions thereto, relate to any fixed asset which has been acquired from a country outside India, and in consequence of a change in the rate of exchange at any time after the acquisition of such asset, there has been an increase or reduction in the liability of the company, as expressed in Indian currency, for making payment towards the whole or a part of the cost of the asset or for repayment of the whole or a part of moneys borrowed by the company from any person, directly or indirectly in any foreign currency specifically for the purpose of acquiring the asset (being in either case the liability existing immediately before the date on which t he change in the rate of exchange takes effect), the amount by which the liability is so increased during the year, shall be added to, or, as the case may be deducted from the cost, and the amount arrived at after such addition or deduction shall be taken to be the cost of the fixed asset.
+Statute	Explanation 1: This paragraph shall apply in relation to all balance sheets that may be made out as at the 6th day of June, 1966, or any day thereafter and where, at the date of issue of the notification of <ORG>, in <ORG> (<ORG>), G.S.R.
+Statute	No.
+Statute	129, dated the 3rd day of January, 1968, any balance-sheet, in relation to which this paragraph applies, has already been made out and laid before the company in Annual General Meeting, the adjustment referred to in this paragraph may be made in the first balance-sheet made out after the issue of the said notification.
+RatioOfTheDecision	xxxx xxxx xxxxx  9.
+RatioOfTheDecision	Reverting now to the first of the two questions pose d earlier in the background of the above principles and amendments, the position appears to be that on strict accountancy principles the increase or decrease in liability towards the actual cost of an asset arising from exchange fluctuation can be adjusted in the accounts of the earlier year in which the asset was acquired (if necessary, by reopening the said accounts).
+Fact	In that event, the accounts of that earlier year as well as subsequent years will have to be modified to give effect to variations in depreciation allowances consequent on the re-determination of the actual cost In other words, in the illustration given earlier, the actual cost of Rs.
+Fact	1,00,000 and the allowances based thereon shown in the accounts for the financial year 1965-66 would have to be revised to show an actual cost of Rs.
+Fact	1,20,000 and allowances based on that figure.
+Fact	The figures of written down value and depreciation allowances for subsequent years would also need consequential revision.
+RatioOfTheDecision	However, though this is a course which is theo retically advisable or precise, its adoption may create a lot of practical difficulties.
+RatioOfTheDecision	That is why <ORG> gave an option to business people to make a mention of the effect of devaluation by way of a note on the accounts for the earlier year in case the balance sheet in respect thereof has not yet been finalised but actually to give effect to the necessary adjustments in the subsequent years instead of re-opening the closed accounts of the earlier year.
+Argument	This also appears to be in accord with the principle laid down by this Court in <<ORG>ATION_1265328> , <ORG> (1964)53 ITR and <ORG> v. <ORG>.. .
+Argument	10.
+Argument	This is also the principle subsequently recognised by the amendment to the Companies Act , 1956.
+Fact	Thus, in the illustration given earlier, the actual cost of the asset for the assessment year 1966-67 will be Rs.
+Fact	1,00,000.
+Fact	The actual cost to be entered in the books, for the assessment year 1967-68 will, however, be Rs.
+Fact	1,20,000.
+Fact	11.
+Fact	We may now turn to t he second question posed earlier and consider the position on general principles.
+RatioOfTheDecision	So far as depreciation allowance is concerned, the position is perhaps a little simpler because it is a recurrent claim.
+RatioOfTheDecision	Under the definitions contained in Section 32 read with Section 43(1) and (6) of the Income-tax Act , the depreciation is to be allowed on the actual cost of the asset less all depreciation actually allowed in respect thereof in earlier years.
+RatioOfTheDecision	Thus where the cost of the asset subsequently goes up because of devaluation, whatever might have been the position in the earlier year, it is always open to the assessee to insist, and for the Income-tax Officer to agree, that the written down value in the year in which the increased liability has arisen should be taken on the basis of the increased cost minus depreciation earlier allowed on the basis of the old cost.
+RatioOfTheDecision	Thus in the illustration given earlier, if the asset is one that earns depreciation at 10%, the assessee would have got a depreciation allowance of Rs.
+RatioOfTheDecision	10 ,000 for assessment year 1966-67 and that will stand.
+Fact	But, for the assessment year 1967-68 the depreciation allowance will be calculated on an actual cost of Rs.
+Fact	1,20,000 minus the depreciation, earlier allowed, of Rs.
+Fact	10,000 i.e.
+Fact	on Rs.
+Fact	1,10,000.
+Argument	The written down value and allowances for subsequent years will be calculated on this footings.
+Argument	In other words, though the depreciation granted earlier will not be disturbed, the assessee will be able to get a higher amount of depreciation in subsequent years on the basis of the revised cost and there will be no problem.
+Argument	So far as development rebate is concerned, however, a difficulty will arise because it is a one time allowance which has to be allowed in the year in which the machinery or plant has been acquired, installed or brought to use.
+Argument	If the actual cost has already been determined at the original price and development rebate has been granted on that footing to the assessee and an increase in liability arises later, it is possible for the <ORG> to conte nd that since the actual cost has already been determined and development rebate fixed on that footing there is no possibility or necessity for re-considering the issue though it may perhaps contend to the contrary if the fluctuation in exchange rate had resulted in a decrease in liability.
+Argument	On the other hand, the assessee may contend that, since the figure of actual cost has undergone a modification as a result of the currency revaluation, the assessment for the year in which development rebate was allowed should be re-opened and the actual cost as well as the development rebate should be re-computed; or, if this is not possible, that the actual cost should be re-worked at least in the subsequent year and any deficiency of the development rebate earlier allowed should be made up in the subsequent year though a corresponding alternative argument would not have been available if the fluctuation in currency had been favourable to our country.
+Argument	To obviate all these doubts and difficulties, Section 43A was enacted.
+Argument	While Sub-section (1) of Section 43A provides generally for modification of the actual cost of the asset consequent on the variation in exchange rate in the year in which the increase or reduction in liability arises, Sub-section (2) contains a clear mandate that the provisions of Sub-section (1) are not to be taken into account in computing the actual cost of an asset for the purpose of deduction on account of the development rebate under Section 33 .
+Argument	This means, according to the <ORG>, the statute is categorical that any increase or decrease in the liability towards the actual cost of machinery or plant consequent on fluctuations in exchange rates is totally irrelevant and has to be disregarded for purposes of computation of the development rebate allowable thereon.
+Argument	12.
+Argument	The grievance of the <ORG>, appellant in this appeal, is that, in spite of the clear and categorical language of Section 43A(2) , not only the Gujarat High Court in the judgment under appeal [( but also several other <ORG> vid e: <CITATION_1092578> .
+Argument	(1977)109 I.T.R.
+Argument	645 (Mad); <CITATION_777166> .
+Argument	; <CITATION_1187881> .
+Argument	v. <ORG> ; <CITATION_1056686> .
+Argument	and <CITATION_1799476> .
+Argument	have held that assessees are entitled to development rebate on the enhanced cost, the lone voice speaking differently being <CITATION_1900968> .
+Argument	.
+Argument	<NAME>, for the appellant, contends that the statutory mandate is clear and cannot be toned down.
+Argument	He lays emphasis on the well-established canon of construction of taxing statutes enunciated by <NAME> and approved in catena of decisions [e.g.
+Argument	<CITATION_821579> .
+Argument	.
+Argument	He also refers to the principle that a special provision [here, the one regarding development rebate contained in Section 43A(2) ] should override a general provision [regarding allowance of depreciation and development rebate on the actual cost of the assets in question].
+Argument	He submits that we should overrule or reverse the decisions referred to earlier and uphold the department's action in restricting the allowance of develop ment rebate to the original cost.
+Argument	13.
+Statute	Before considering the respondent's answer to this contention, reference may usefully be made to the "notes on clauses" of the Finance (No.
+Statute	2) Bill, 1967 pertaining to the insertion of Section 43A .
+Statute	The note on the relevant clause reads thus (vide : 1967-64 I.T.R.
+Statute	St. 169-70):  Clause 17 seeks to insert a new Section 43A in the Income-tax Act .
+Statute	The proposed Section 43A , in substance, secures that where an assessee had acquired any capital asset from a country outside India for the purposes of his business or profession on deferred payment terms or against a foreign loan, before the date of devaluation of the rupee, the additional rupee liability incurred by him in meeting the instalments of the cost of the asset or of the foreign loan, as the case may be, falling due for payment after the date of devaluation, will be allowed to be added to the original actual cost of the asset for the purpose of calculating he allowance on account of depreciation in computing the profit s for the assessment year 1967-68 and subsequent assessment years.
+Statute	Similarly increase in the original actual cost will be allowed to be made in respect of capital assets acquired by the assessee to be used in scientific research related to the class of business carried on by him or patent rights or copyrights acquired from abroad or any capital asset acquired by a company for the purpose of promoting family planning amongst its employees.
+Statute	Further, in computing the capital gains arising to the assessee on the sale or transfer of a capital asset acquired by him from abroad on deferred payment terms or against a foreign loan, the additional rupee liability incurred by him in repaying the instalments of the cost or the foreign loan, as the case may be, after the date of devaluation of the rupee, will be added to the original actual cost of the asset.
+Statute	The proposed section also secures that where there is a decrease in the rupee liability of the assessee in respect of assets acquired by him from abroad due to a cha nge in the exchange value of the rupee, the original actual cost of the asset will be correspondingly reduced.
+Statute	The additional rupee liability incurred on imported capital assets or, as the case may be, any decrease in such liability, in the circumstances stated in the earlier paragraph will not, however, be taken into account in computing the actual cost of the asset for the purpose of deduction on account of development rebate.
+Statute	14.
+Statute	Reference must also be made to a circular issued by <ORG> on which reliance was placed by both counsel:  6.1.
+Statute	The par value of the rupee was lowered by 36.5 per cent with effect from 6 June, 1966.
+Statute	In consequence of this change, the value, in rupees, of a unit of any foreign currency has increased by 57.5 per cent.
+Fact	Thus, the par rate of exchange between the rupee and the US Dollar became Rs.
+Fact	7.50 per $ 1, as against Rs.
+Fact	4.76 per $ 1 before the devaluation of the rupee.
+Fact	The value of other foreign currencies in terms of Indian currency has also similarly  gone up by 57.5 per cent with effect from the date of devaluation of the rupee.
+Fact	The effect of this is that assessees who had imported capital assets from abroad before the date of the devaluation of the rupee on deferred payment terms or against loans in foreign currency, have incurred an additional liability in rupees for payment of the instalments of the cost of the assets or of the loan in foreign currency remaining outstanding as on the date of devaluation, i.e.
+Statute	6 June, 1966.
+Statute	Such assessees would have suffered a hardship if the additional rupee liability referred to above were not to be taken into account for the purpose of granting depreciation allowance in respect of the imported assets, or for other purposes, e.g.
+Statute	amortisation, against the profits, of the capital cost of imported assets consisting of patent rights and copyrights or of imported assets used by the assessee for scientific research related to his business, or for computing the amount of capital gain or loss arising from the subsequent sal e or transfer of the imported capital assets.
+Statute	In order to avoid such hardship, and also to provide for the converse situation where, due to any devaluation of the currency of a foreign country or revaluation of the Indian currency in the future, there is a reduction in the liability of an assessee for payment of instalments of the cost of assets imported by him from abroad or repayment of foreign loans against which assets are required, the Finance (No.
+Statute	2) Act, 1967 has made special provisions in he new Section 43A .
+Statute	The substance of these provisions, which take effect from 1 April, 1967, i.e.
+Statute	for and from the assessment year 1967-68, is explained in the following paragraphs.
+Statute	62: The provisions of the new Section 43A apply in a case where an assessee has acquired any capital asset from abroad for the purpose of his business or profession, on credit or on deferred payment terms, or against a loan in foreign currency, and the whole or a part of the cost of such asset or of the loan in foreign currency, is outs tanding as on the date on which there is a change in the rate of exchange of currency.
+Statute	In such a case where, in consequence of the change in the rate of exchange of currency, there is an increase or reduction in the assessee's liability as expressed in Indian currency for payment of the whole or a part of the cost of the assets or of the loan in foreign currency, the original actual cost, to the assessee, of the machinery or plant or other capital asset, is required to be increased or, as the case may be, reduced correspondingly for the following purposes:  xxxx xxxx xxxxx The above mentioned adjustment to the original actual cost of the assessee to the imported capital asset is to be made in respect of the previous year in which there is an increase or reduction in the assessee's liability in terms of Indian currency for payment of the whole or part of the cost of this asset or for repayment of the foreign loan against which the asset has been acquired.
+Statute	With reference to the recent devaluation of the rupee,  this will be the previous year in which the date of devaluation, viz.
+Statute	6 June, 1966, falls.
+RatioOfTheDecision	xxxx xxxx xxxxx xxxx xxxx xxxxx  65.
+RatioOfTheDecision	It has been expressly provided in Sub-section (2) of Section 43A that the abovementioned provisions for adjustment to the original actual cost of imported capital assets due to an increase or reduction in the assessee's liability for payment of the instalments of the cost of the asset or for repayment of the foreign loan against which the asset has been acquired, will not be applicable in computing the actual cost of the asset for the purpose of the deduction on account of development rebate under Section 33 .
+RatioOfTheDecision	xxxx xxxx xxxx xxxx xxxx xxxxx  15.
+RatioOfTheDecision	It may also be mentioned that <ORG>, by its letter of 4th January, 1967, sometime earlier to the enactment of Section 43A had clarified its stand on certain points raised by <ORG>.
+RatioOfTheDecision	The first two paragraphs of this letter have a bearing on the issue before us and may be e xtracted here :  1.
+RatioOfTheDecision	As regards the point that the additional rupee liability in regard to assets imported before but installed after the date of devaluation would, in any case, be treated as forming part of the actual cost of the asset for the purpose of allowance of development rebate under the existing law the interpretation of the <ORG> on legal position is different.
+RatioOfTheDecision	It is that the actual cost of the asset in such a case will be reckoned at the cost on the date on which the legal ownership in the assets passed to the assessee, i.e., the cost as calculated in accordance with the pre-devaluation rate of foreign exchange.
+RatioOfTheDecision	2.
+RatioOfTheDecision	The <ORG> agrees that for the purpose of the calculation of depreciation allowance, the cost of capital assets imported before the date of devaluation should be written off to the extent of the full amount of the additional rupee liability incurred on account of devaluation and not what is actually paid from year to year.
+RatioOfTheDecision	The proposed legal provision in the matter is intended  to be framed on this basis.
+RatioOfTheDecision	(Emphasis Added)  16.
+RatioOfTheDecision	The contention of <NAME>, on behalf of the assessee-respondent, proceeds on the following lines:  (1) There can be no doubt that, on general principles, where the liability in respect of the cost of a capital asset increases due to devaluation, the increased liability, and not the original one, will really be the actual cost of such asset.
+RatioOfTheDecision	There is no difficulty about this and there is no provision in the Act which stands in the way of the application of this principle where the previous year in which the increase in liability arises is the same as that in which the asset is acquired, installed or put to use.
+RatioOfTheDecision	In fact this is what has happened in this case.
+RatioOfTheDecision	The asset was acquired/installed in calendar year 1966 and, by the end of this year, the increase in the liability had resulted.
+RatioOfTheDecision	Therefore, on ordinary and normal principles of accountancy, the cost of the asset should be and has been debited in the books at the increased figure in the year 1966.
+RatioOfTheDecision	That is  the actual cost on which the assessee is entitled to development rebate and depreciation.
+RatioOfTheDecision	The non-obstante clause, at the commencement of Section 43A(1) , suggests that the sub-section operates only where there is some provision in the.
+RatioOfTheDecision	Act which runs contrary to the above principle.
+RatioOfTheDecision	There being none, Section 43A(1) has no application to this type of a case.
+RatioOfTheDecision	Section 43A(1) not being applicable, the language of Section 43A(2) adds nothing.
+RatioOfTheDecision	(ii) Actually, Section 43A is intended to meet a different situation viz.
+RatioOfTheDecision	one where the increase in liability occurs in a subsequent accounting year.
+RatioOfTheDecision	In such a situation, a question might conceivably arise as to whether the assessee is entitled to reopen its accounts for the earlier year where the asset had been debited at its original cost and development rebate and depreciation allowed on that basis.
+RatioOfTheDecision	On normal accountancy principles the assessee can perhaps claim that he has a right to rewrite the books of the earlier year, open or closed, to show the increased cost as t he actual cost.
+RatioOfTheDecision	As to development rebate and depreciation also, he can perhaps claim that these allowances originally made for the earlier year should be reworked on the basis of the enhanced liability subject, however, to the possibility of his obtaining relief under some provision of the Act such as Section 154 or Section 263 .
+RatioOfTheDecision	The department may, perhaps, claim likewise where the change in rate is favourable to our country.
+RatioOfTheDecision	(iii) Section 43A , however, has been enacted to forestall such a claim.
+RatioOfTheDecision	It seeks to ensure:(a) that the enhanced liability is added to the actual cost or earlier expenditure on the asset only in the subsequent previous year in which such liability accrues and this is also in conformity with the provision introduced in the Companies Act in respect of Company assessees; and (b) that such increased liability is taken as the basis for amortisation allowances thereafter by taking the revised figure to be the actual cost, capital expenditure or cost of acquisition for the purposes of the fi ve provisions set out in Sub-section (1) viz., Section 43(1) , 35(1)(iv) or 35A or 36(1)(ix) or Section 48 .
+RatioOfTheDecision	Thus the allowances in that previous year and thereafter by way of depreciation under Section 32 , or, by way of deductions under Section 35(1)(iv) or 35A or 36(1)(ix) or Section 48 will be on the basis of the increased liability.
+RatioOfTheDecision	(iv) Thus understood it will be appreciated that the question of making such adjustment can arise only in respect of recurrent allowances for the future based on the actual cost or expenditure, referred to above.
+RatioOfTheDecision	The provision can have no relevance in respect of an allowance like development rebate which has already been granted in an earlier year once and for all.
+RatioOfTheDecision	There can be no question of reopening the claim of the earlier allowance at all as the adjustment is permitted by Sub-section (1) only in the subsequent year.
+RatioOfTheDecision	If development rebate has already been claimed and allowed in an earlier year on the basis of the original cost, the Act prohibits the assessee from seeking  either to review the figure of original cost on the basis of devaluation and claiming the deficiency in the earlier year on general principles or to claim it, on the strength of Sub-section (1), as an additional allowance in the subsequent year.
+RatioOfTheDecision	This is what is made clear by Sub-section (2).
+RatioOfTheDecision	(v) Counsel claims that the interpretation of the provision suggested by him-viz.
+RatioOfTheDecision	that it has application only to cases where actual cost has already been determined in a previous year and the increase in liability arises in a later previous year-is fully borne out by the reference therein to types of capital allowances other than depreciation, the language used in the notes on clauses ("Where an assessee had acquired....") and the language used in the circular earlier set out ("for the assessment year 1967-68 and subsequent assessment years" and "adjustment to the original actual cost").
+RatioOfTheDecision	(vi) The department's theory that Section 43A occupies the entire field cannot be accepted unless it is shown either that the sectio n confers for the first time a benefit which would not be otherwise available or that the section was intended not to confer a benefit but to curtail the existing benefits and allowances under the Act.
+RatioOfTheDecision	Neither of these premises is correct The first is incorrect because general principles of accountancy permit the incremental liability to be added to, or deducted from, the actual cost; the only controversy can be in relation to the year of adjustment of such increase or decrease, where it occurs in a later year.
+RatioOfTheDecision	The second premise is incorrect as it runs counter to the tenor of the "notes on clauses" and the circular.
+RatioOfTheDecision	(vii) If the department's contention were the correct one, the non obstante clause would have been inserted in Sub-section (2) and not in Sub-section (1): and Sub-section (2) would have read: "such increase or decrease in liability as is referred to in Sub-section (1) shall not be taken into account" and not "the provisions of Sub-section (1) will not be taken into account" as at present  17.
+RatioOfTheDecision	Pl ausible and ingenious as this argument sounds, we are of opinion that it cannot be accepted.
+RatioOfTheDecision	It puts too strained and artificial a construction on the clear language of Section 43-A .
+RatioOfTheDecision	This section was specially introduced to provide for the treatment of the situation created by the devaluation of the rupee.
+RatioOfTheDecision	It specifically enacts that the amount of increase or decrease in the liability due to exchange rate fluctuation should be adjusted against the actual cost or the capital expenditure or the cost of acquisition referred to in the five provisions of the statute mentioned earlier.
+RatioOfTheDecision	Where the terms of Sub-section (1) are fulfilled in any case, it is mandatory to take the actual cost, capital expenditure or cost of acquisition at the higher or lower figure for the purposes of the provisions mentioned irrespective of whatever might have been the position independent of the section.
+RatioOfTheDecision	The non obstante clause with which the section begins, indeed, makes it clear that, if the position had been different otherwise, it  cannot prevail after the introduction of this section.
+RatioOfTheDecision	Equally, even if the position would have been the same otherwise, that would be no justification to ignore or disregard the enacted provision on the ground that a specific statutory provision was not at all necessary.
+RatioOfTheDecision	Once the provision is there and its terms apply, it should be applied; it is idle to speculate on what the position would have been otherwise.
+RatioOfTheDecision	18.
+RatioOfTheDecision	The facts of the case undoubtedly fall within the terms of Section 43-A(1) .
+RatioOfTheDecision	The assessee has acquired, for the purposes of its business, a capital asset from a country outside India by making payment in foreign currency.
+RatioOfTheDecision	For this purpose it has borrowed monies in foreign currency from outside agencies and the liability in respect of such assets is outstanding.
+RatioOfTheDecision	At a point of time after the acquisition of the asset, this liability has increased on account of the devaluation of our currency.
+RatioOfTheDecision	These conditions being satisfied, the language of the sub-section is attracted.
+Precedent	19.
+Precedent	The principal argument  of <NAME> for saying that Sub-section (1) is not attracted are two in number.
+Argument	He contends, firstly, that it applies only where the fluctuation in rate occurs in a previous year subsequent to that in which the asset is acquired.
+Argument	He submits that where, as in the present case, the increase in liability occurs in the same year, it has automatically to be given effect to in the accounts of the previous year irrespective of the language of Sub-section (1).
+RatioOfTheDecision	That may be so but that is no reason to say that the terms of Sub-section (1) are not attracted to the case.
+RatioOfTheDecision	We find no merit in the contention of <NAME> that Sub-section (1) will come into operation only in respect of a year subsequent to the year in which the asset is acquired.
+RatioOfTheDecision	The language of the sub-section does not contain any such qualification.
+RatioOfTheDecision	The interpretation suggested by the learned Counsel would require the substitution of the words 'at any time during any subsequent previous year' in place of the present expression 'at any time'.
+RatioOfTheDecision	There is noth ing in the present language of the sub-section which makes it inapplicable to a case where the change in the magnitude of the liability consequent on a change in the rate of exchange occurs during the very previous year in which the asset has been acquired.
+RatioOfTheDecision	20.
+RatioOfTheDecision	We also find it difficult to find substance in the second argument of Sri <NAME> that Sub-section (1) was inserted only to define the year in which the increase or decrease in liability has to be adjusted.
+RatioOfTheDecision	It is no doubt true that, but for the new section, various kinds of arguments could have been raised regarding the year in which such liability should be adjusted.
+RatioOfTheDecision	But, we think, arguments could also have been raised as to whether the actual cost calls for any adjustment at all in such a situation.
+RatioOfTheDecision	It could have been contended that the actual cost can only be the original purchase price in the year of acquisition of the asset and that, even if there is any subsequent increase in the liability, it cannot be added to the actual cost at any stage and th at, for the purposes of all the statutory allowances, the amount of actual cost once determined would be final and conclusive.
+RatioOfTheDecision	Also Section 43-A provides for a case in which, as in the present case, the assessee has completely paid for the plant or machinery in foreign currency prior to the date of devaluation but the variation of exchange rate affects the liability of the assessee (as expressed in Indian currency) for repayment of the whole or part of the monies borrowed by him from any person directly or indirectly in any foreign currency specifically for the purposes of acquiring the asset.
+RatioOfTheDecision	It is a moot question as to whether in such a case, on general principles, the actual cost of the assessee's plant or machinery will be the revised liability or the original liability.
+RatioOfTheDecision	This is also a situation which is specifically provided for in the section.
+RatioOfTheDecision	It may not, therefore, be correct to base arguments on an assumption that the figure or actual cost has necessarily to be modified for purposes of development reb ate or depreciation or other allowances and that the only controversy that can arise will be as to the year in which such adjustment has to be made.
+RatioOfTheDecision	In our opinion, we need not discuss or express any concluded opinion on either of these issues.
+RatioOfTheDecision	As we said earlier, there is no need to speculate on all the problems that might have arisen if Section 43-A had not been there because the statute had resolved these problems.
+Precedent	It lays down, firstly, that the increase or decrease in liability should be taken into account to modify the figure of actual cost and secondly that such adjustment should be made in the year in which the increase or decrease in liability arises on account of the fluctuation in the rate of exchange.
+Precedent	21.
+Precedent	The result of the above discussion is that once the language of Sub-section (1) is attracted to a particular case, Sub-section (1) applies.
+Precedent	Once Sub-section (1) is attracted, its application is excluded, qua development rebate, by the operation of Sub-section (2).
+Precedent	22.
+RatioOfTheDecision	The contention of the lear ned Counsel that the interpretation we have accepted will mean the denial of some concession extended to the assessee is without force.
+RatioOfTheDecision	The clarifications given by <ORG> in January 1967, the notes on clauses and the circular make it clear that the relief proposed to be granted was restricted only to depreciation and amortisation allowances.
+RatioOfTheDecision	The anxiety of the Government, which has been given effect to by the legislature, was only that, in the absence of a proper statutory provision, the assessee should not suffer by even normal allowances like depreciation and amortisation being denied to him for one reason or another.
+RatioOfTheDecision	In that sense, the provision was intended to meet a hardship.
+RatioOfTheDecision	There is no basis for an assumption that increased development rebate was also intended to be provided and that an interpretation which would result in its non-availability would be unfair as it would result in the curtailment of an intended benefit.
+RatioOfTheDecision	23.
+RatioOfTheDecision	Counsel for the assessee points out that the departmental cou <ORG> has not been able to invite our attention to any specific reason spelt out anywhere as to why the legislature should deny development rebate on the basis of the revised cost though the other allowances and expenditure determined with reference to actual cost, capital expenditure or cost of acquisition will be calculated on the modified figure atleast subsequent to the change in exchange rate.
+RatioOfTheDecision	This is no doubt true.
+RatioOfTheDecision	But even the interpretation suggested on behalf of the assessee would create an anomaly for, according to the learned Cou<ORG>, if the fluctuation in the rate of exchange occurs in the same previous year as that of the acquisition of the asset, development rebate would be admissible on the increased cost but where the fluctuation occurs in a subsequent year it will not be so available.
+RatioOfTheDecision	There is no rationale for making any such distinction.
+RatioOfTheDecision	Such discrimination would indeed be more meaningless than an interpretation which, at least consistently, denies development rebate in all cases of increase  in liability due to fluctuation in exchange rates.
+RatioOfTheDecision	It cannot, therefore, be said that the interpretation contended for by the assessee is more reasonable or logical than the interpretation which follows from the clear language of the section.
+RatioOfTheDecision	24.
+RatioOfTheDecision	Nor is there any in-appropriateness of statutory language as urged.
+RulingByPresentCourt	As we have discussed above, the provisions of Sub-section (1) apply to the present case and the increased liability should be taken as 'actual cost' within the meaning of Section 43A(1) .
+RulingByPresentCourt	All allowances including development rebate or depreciation allowance or the other types of deductions referred to in the sub-section will therefore have to be based on such adjusted actual cost.
+RulingByPresentCourt	But then Sub-section (2) intercedes to put in a caveat.
+RulingByPresentCourt	It says that the provisions of Sub-section (1) should not be applied for purposes of development rebate.
+RatioOfTheDecision	The effect is that the adjusted actual cost is to be taken as the actual cost for all purposes other than for grant of development rebate.
+RatioOfTheDecision	Read thus, there is no d ifficulty in the application of the language of the section to the present case.
+RatioOfTheDecision	There is no inappropriateness of language either in Sub-section (1) or in Sub-section (2).
+RatioOfTheDecision	The language used is quite appropriate and meets the situation fully.
+RatioOfTheDecision	25.
+RatioOfTheDecision	For the reasons discussed above, we are of the opinion that the language of the provision is perfectly clear.
+RatioOfTheDecision	It cannot be interpreted in a restrictive manner as contended for by the learned Counsel for the assessee.
+RatioOfTheDecision	In our opinion, it is a clear requirement of the statute that, for purposes of development rebate, any increase or decrease in the actual cost consequent on fluctuations in exchange rate should not be taken into account.
+RatioOfTheDecision	It may be that the legislature intended to give a different treatment to development rebate from depreciation and other allowances because the allowance of development rebate can result in an assessee claiming allowances exceeding the original cost.
+RatioOfTheDecision	It may be that the legislature thought that, though development rebate was intended to pr omote development of industries, this could not be allowed at the cost of the foreign exchange resources of the country which are also depleted when there is an increase in liability due to devaluation of the currency.
+RatioOfTheDecision	It is unnecessary to attribute any particular reason for the provision when the language of the section is otherwise plain and unambiguous.
+RatioOfTheDecision	We do not think that, in face of the language of Sub-section (2), it would be right to permit the assessees to claim development rebate on the increased cost.
+RulingByLowerCourt	We, therefore, allow the appeal and uphold the action of the assessing officer granting development rebate to the assessee only in respect of a sum of Rs.
+RulingByLowerCourt	52.48 lakhs and not on Rs.
+RulingByLowerCourt	61 lakhs on the basis of which it was claimed.
+RulingByPresentCourt	Having regard, however, to the fact that the assessees had succeeded before all the <ORG> we make no order regarding costs.

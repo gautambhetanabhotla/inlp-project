@@ -1,0 +1,84 @@
+Fact	JUDGMENT Amberson Marten, Kt., <NAME>  1.
+Argument	This is an appeal from a judgment of Mr. Justice <NAME> by which he dismissed a petitition to set aside an award alleged to have been made by <ORG> in an alleged dispute between the petitioners and the respondents.
+Argument	2.
+Argument	It appears that <ORG> was incorporated on November 25, 1925, under the Indian Companies Act , but that the transactions between the parties in linseed were before that date; and further that certain hundies which were given by the petitioners to the respondents in an alleged settlement of those transactions were all payable before the date when the <ORG> was incorporated.
+Argument	On the other hand there was before that date an unregistered Marwari <ORG> of Commerce of which both the petitioners and the respondents were members.
+Argument	3.
+Argument	The learned Judge took the view that the bye-laws of the old <ORG> amounted to a compulsory provision for arbitration.
+Argument	On the evidence before the learned Judge we are of opinion th at that is not the correct view.
+Argument	The bye-law in question is set out at p. 14 of the paper book and runs :-  This sub-committee will decide upon the disputes between the members of this <ORG> of all kinds such as in respect of hundies, letters, seed, wheat and cotton etc.
+Argument	4.
+RatioOfTheDecision	That is not a compulsory provision for arbitration.
+RatioOfTheDecision	It is only a permissive one.
+RatioOfTheDecision	Further, even if it was a compulsory provision, the body that actually decided upon this dispute was not any sub-committee of the old <ORG> of Commerce, but a <ORG> under the new limited company.
+RatioOfTheDecision	Accordingly, in our judgment, it is clear that the respondents cannot rely upon the old rules in support of the award now in question.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Next, as regards the rules of the present <ORG> of Commerce, they provide in Article 19 of the Articles of Association:  It shall be compulsory for every Member or Associate Member in the first instance to hove all disputes arising out of or in course of all dealings and transactions in seeds, wheat and hundi-chitties betwee n himself and any other Member or Associate Member and optional in the case of disputes in gold, silver, cotton, cloth etc., settled by or before the <ORG> or such person or persons as may be nominated by the <ORG> to act as arbitrators or umpires and subject to any special rules as may be prescribed in that behalf from time to time by arbitration and without recourse to <ORG>.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Now under the Articles of <ORG> it is clear from Article 4 that there are two kinds of members of this <ORG>, called Members and Associate Members.
+RatioOfTheDecision	The difference between them appears to depend on the amount they pay for entrance fees and annual fees.
+RatioOfTheDecision	Therefore the words "Member or Associate Member" in Article 19 refer to members of the new registered company.
+RatioOfTheDecision	Accordingly the argument advanced to us by the petitioners is that the disputes to be determined by the new company are only those arising out of transactions between members or associate members of the new company, and therefore cannot include transactio ns which took place, previously to the registration of the company, between then non-members.
+RatioOfTheDecision	In my judgment that contention is correct.
+RatioOfTheDecision	I think the words "between himself and any other Member or Associate Member" depend on the words "dealings and transactions"; and that the clause cannot be read as if it ran "disputes...between himself and any other Member or Associate Member in dealings and transactions in hundies, chitties, etc."
+RatioOfTheDecision	7.
+RatioOfTheDecision	Further, on general principles this would seem quite a fair construction, viz., that, when a new compulsory clause of this character is introduced, it should only apply to future transactions and not to past ones.
+RatioOfTheDecision	In substance it amounts to an arbitration clause inserted in every contract.
+RatioOfTheDecision	But it is one thing to do this as regards future contracts, and quite another thing to insert that clause into past contracts.
+RatioOfTheDecision	As my brother <NAME> has pointed out, it might be that a member would never have entered into a particular contract with a non-member if he had contemplated that  that non-member might subsequently become a member of the <ORG>, and then force the first member to go to arbitration, under this clause.
+RatioOfTheDecision	Other instances may be put of disputes pending at the date when this <ORG> was formed, or, again, if those disputes had already formed the subject of a pending suit in <ORG>.
+RatioOfTheDecision	8.
+RatioOfTheDecision	It follows then that in my judgment the <ORG> had no jurisdiction to hear this particular dispute.
+RatioOfTheDecision	Under these circumstances it is unnecessary to decide whether a mere non-payment of the hundis would amount to a "dispute" on the hundis within the meaning of this particular clause.
+RatioOfTheDecision	The expression that I am accustomed to is "disputes or differences," and it would seem rather a pity that the ordinary form of expression was not used by those drafting this particular clause.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The real difficulty before us is as to whether we have any proper award before us within the meaning of the Indian Arbitration Act , and that even if we have a document which purports to be an award, th en whether we have power to set it aside under Section 14 of the Act, seeing that it has never been filed in accordance with the provisions of the Act and our <ORG> rules (see Rule 354).
+RatioOfTheDecision	10.
+RatioOfTheDecision	Now taking the first point, no doubt the letter of <ORG>, dated April 12, 1926, Ex.
+Argument	B to the petition, purports to set out the decision of the <ORG> on the question, and it requires the petitioners to pay by April 19, in accordance with that decision.
+Argument	Further, the affidavit of the respondents in no way takes up the position that this was not an award, though they say that the Court cannot act because this award has not been filed.
+Argument	11.
+RatioOfTheDecision	In our judgment on the evidence before us this letter does not show that the provisions of the Indian Arbitration Act have been complied with.
+RatioOfTheDecision	For instance, Section 11 requires that when the arbitrators have made their award, they should sign it and give notice to the parties of the making and signing of it and of the amount of the fees and charges payable to the arb itrators.
+RatioOfTheDecision	Then at the request of any party to the submission and upon payment of the fees and charges due in respect of it, the arbitrators should cause the award to be filed and notice of it given to the parties.
+RatioOfTheDecision	It is not even clear to us who precisely were the arbitrators in the present case, although certain names are set out in the affidavit of one of the respondents as to the persons who he thinks were the arbitrators so far as he remembers.
+RatioOfTheDecision	But we have nothing to show that those persons ever signed the award, The actual award itself is not before us.
+RatioOfTheDecision	And we have no evidence as to whether the arbitrators gave notice of the amount of their fees and charges.
+RatioOfTheDecision	All we do know is that they have not in fact filed the award.
+RatioOfTheDecision	12.
+RatioOfTheDecision	That being so, in our judgment it is not proved that there is an award within the meaning of Section 14 of the Act.
+RatioOfTheDecision	Consequently, if there is no award there is nothing which we can set aside.
+RatioOfTheDecision	In that view it is unnecessary to decide whether the award mentioned in Section 14 extends to  an unfiled award, or whether it is confined to a filed award.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The next question is, what, under those circumstances, is the proper order for us to make ?
+RatioOfTheDecision	In our judgment it would be misleading to dismiss the appeal, or for the matter of that, to dismiss the petition without more.
+RatioOfTheDecision	We think the order we propose to make should be prefaced by stating our reasons for that order.
+RatioOfTheDecision	In doing that I am following a course which has to my knowledge been frequently adopted by <ORG> in appropriate cases.
+RulingByLowerCourt	14.
+RulingByLowerCourt	Accordingly the order I would propose would be to this effect, that the appeal be allowed, the decree of the lower Court set aside, and that this appellate Court being of opinion that on the true construction of the Articles of Association of the Marwari <ORG> of Commerce Ltd., and in the events which have happened, <ORG> of the said <ORG> had no jurisdiction to hear and determine the alleged dispute referred to in the letter from <ORG> dated April 12, 1926, Ex.
+RulingByLowerCourt	B to the petition, but th at it is not proved to the satisfaction of the <ORG> that any award within the meaning of Section 14 of the Indian Arbitration Act has been made which the <ORG> can set aside thereunder, this <ORG> makes no order on the petition except etc.
+RulingByLowerCourt	Then after my learned brother has delivered his judgment and after we have heard counsel on the question of costs, the order can be completed.
+Precedent	<NAME>, J.
+Precedent	15.
+RatioOfTheDecision	I am of the same opinion.
+Argument	I desire to add a word only upon one submission that was made by Mr. <NAME>, He contended that even if Article 19 ought to be construed in the way indicated by the learned Chief Justice-and I may say I am in entire agreement with that construction-yet nevertheless there was a waiver by the petitioners of their right to contend that the <ORG> had no jurisdiction to enter upon and determine the disputes in question.
+Argument	Mr. <NAME> referred us to p. 13 of the appeal paper book, from which it appears that the petitioners had asked for an adjournment and requested the <ORG> to fix a meeting a fter April 10, to enable the petitioners to bring their solicitors.
+Argument	Then it appears that on April 4, 1926, a partner of the petitioners one <NAME> was present at a meeting of the <ORG>.
+Argument	<NAME> was asked by some of the respondents with the permission of the President of the <ORG> what the petitioners' solicitors had to say in the matter, having regard to the fact that the hundies were drawn by the petitioners on themselves and had become due.
+Argument	<NAME> then alleged that the hundies were never presented to the petitioners for payment.
+Argument	Having regard to what appears on that page of the paper book, Mr. <NAME>.
+Argument	contended that the petitioners had thereby submitted to the jurisdiction of the <ORG>.
+RatioOfTheDecision	I do not agree with that contention, seeing that before the meeting of April 11, the petitioners had written a letter to the <ORG> protesting against the jurisdiction of the <ORG>, and declining to attend.
+RatioOfTheDecision	It seems to me that if arbitrators enter upon the consideration of a matter when they have no jurisdiction  to do so by the arbitration clause or submission between the parties, then they cannot be given jurisdiction under that submission by a mere appearance of the parties before them at a preliminary meeting followed by a protest against their jurisdiction before they have entered upon a consideration of the matters upon which they subsequently purport to make an award.
+RatioOfTheDecision	In cases where an arbitrator enters into the consideration of matters which are not referred to him, or which he has no jurisdiction to try, <ORG> in <NAME> v. <NAME> (1864) 33 L.J.C.P.
+RatioOfTheDecision	337 said (p. 338) that "The question is not one of waiver or of estoppel, but of authority," and a party continuing to attend the reference after objection taken and protest made does not give the arbitrator authority to make an award.
+RatioOfTheDecision	Even if a party under protest continues to attend before arbitrators and cross-examines witnesses, he does not thereby waive his objection, nor is he estopped from saying that the arbitrators have exceeded their authority b y awarding on the matter.
+Precedent	See <NAME> v. <NAME> (1864) 34 L.J.Q.B.
+Precedent	8.
+Precedent	See also the remarks of Lord <NAME> in <NAME> v. <NAME> (1880) 6 Q.B.D.
+Precedent	63, where he said (p. 65) :-  In arbitrations, where a protest is made against jurisdiction, the party protesting is not bound to retire; he may go through the whole case, subject to the protest he has made.
+Precedent	16.
+Precedent	In my judgment it is clear that if a party to a submission appears before an arbitrator and merely takes part in a preliminary discussion, he doss not thereby waive his right to object to the jurisdiction of the arbitrator before the arbitrator actually enters upon the consideration of the matters upon which he makes his award.
+Precedent	17.
+Precedent	The learned Chief Justice reminds me that although there is an allegation in para 18 of the petition that a large number of the <ORG> had an adverse interest to that of the petitioners, that point has not been persisted in before us, and therefore we feel it unnecessary to say anything in regard to that part of the petition,  <NAME>, Kt., <NAME>18.
+RulingByPresentCourt	On the peculiar facts of this particular case, we think that the proper order to make is that each party do bear his own costs of this appeal and also in the <ORG> below.

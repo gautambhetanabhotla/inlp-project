@@ -1,0 +1,34 @@
+Fact	JUDGMENT  1.
+Fact	We accept the findings of fact arrived at by the lower Appellate Court.
+Argument	2.
+Argument	Mr. <NAME>, for the Respondent, contended that a suit for the relief claimed by the plaintiff, though it might have been brought till 31st December 1908, could not be brought on or after 1st January 1909, as the new Civil Procedure Code and the new Limitation Act of 1908 made ail order passed on a claim petition conclusive unless set aside within one year, and he refers to Order XXI, Rule 63, of the new Civil Procedure Code and Article 11 of the new Limitation Act .
+Argument	The new Limitation Act  Article 11 refers to an order passed under the Civil Procedure Code of 1903 and neither Section 158 of the Civil Procedure Code nor Section 8 of the General Clauses Act constrains us to read the phrase the Code of Civil Procedure 1908" in Article 11 as including a reference to the earlier Civil Procedure Cede of 1882.
+Argument	The order of 1905 which is relied upon as conclusive (because not set aside within one year) need not have  been set aside under the old law (as it was not passed after investigation) and Article 11 of the old Limitation Act , 1877, did not, therefore, apply; nor need it be set aside under the new Code, as it was not ail order passed under the new Code and Article 11 of the new Limitation Act refers only to orders passed under the new Code.
+Fact	In this view, it is unnecessary to consider the question whether the provisions of the new Civil Procedure Code and the new Limitation Act were intended to and could take away the right of suit under the general law which plaintiff had till 31st December 1908 see, however, <CITATION_1490816> 30 Ind.
+RulingByLowerCourt	Cas.
+Fact	94 29 M.L.J.
+Fact	1 : 18 M.L.T.
+Fact	67 : 2 L.W.
+Fact	661 : (1915) M.W.N.
+Fact	547, and <CITATION_504032> 24 Ind.
+Fact	Cas.
+Fact	37 : 18 C.W.N.
+Fact	804 : 19 C.L.J.
+Fact	549 : 41 C. 1125.
+Fact	The <ORG> case, <CITATION_1493512> 19 Ind.
+Fact	Cas.
+Fact	291 : 35 A.
+Fact	227 : 13 M.L.T.
+Fact	437 : 17 C.W.N.
+Fact	605 : 11 A.L.J.
+Fact	389 : (1913) M.W.N.
+Fact	470 : 17 C.L.J.
+Fact	488 : 15 Bom.
+Fact	L.R.
+Fact	489 : 25 M.L.J.
+Fact	13 : 40 I.A.
+Argument	74, was decided on the ground th at an acknowledgment did not create any" title in the person whose right was acknowledged and no question of taking away any right or title arose by reason of a change of the law in respect of what kind of acknowledgment will afford a fresh starting point for limitation.
+Argument	3.
+Argument	In the result, we modify the decree of the lower <ORG> by giving relief to the plaintiff as regards the 3rd schedule properties thus restoring the <NAME>'s decree.
+Argument	4.
+RulingByPresentCourt	The parties will bear their respective costs here and in the lower <ORG>.

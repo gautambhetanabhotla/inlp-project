@@ -1,0 +1,32 @@
+RulingByLowerCourt	JUDGMENT <NAME> and <NAME>, JJ.
+RulingByLowerCourt	1.
+RulingByLowerCourt	It is now contended in second appeal: (1) that the application of the 15th August 1888 ought to be regarded as a continuation of the application filed on the 11th June 1883; and (2), that the suit instituted by the decree-holder on the 22nd March 1884, and the appeal presented to <ORG>, ought to be regarded as being in the nature of applications to take some step in aid of the execution of the decree; and that the decree-holders ought to be allowed to reckon their time either from the 22nd July 1887, or from the 29th March 1886.
+Precedent	In support of the first of these contentions several cases have been cited amongst which we may mention <ORG> v. <NAME> 23 W.R. 183, <CITATION_1627961> .
+Precedent	4 Cal.
+Precedent	435, <CITATION_1117526> .
+Precedent	14 Cal.
+Precedent	385, and <CITATION_355117> .
+Precedent	1 All.
+Precedent	355.
+Precedent	2.
+Precedent	We have heard the learned Vakil for the appellant at some length on the point, and we think that all that it was possible to urge in furtherance of the appeal has been urged befo re us; but we are unable to give effect to his contention.
+Precedent	The cases cited are all distinguishable from the present in this respect, namely that in those cases the execution-proceedings were either interrupted by an intermediate order, which was afterwards set aside, or were rendered infruetuous, so as to make a fresh application necessary, as was the case in <CITATION_1627961> .
+Precedent	14 Cal.
+Precedent	415, and in these cases, the second application could not have been made for a time by reason of the state of things that intervened, though in not making the second application earlier, no blame attached to the decree-holder.
+Precedent	That this was the reason for the rule laid down in those cases will appear from the observations of Markby, J., in the case of <NAME>, v. <NAME> 23 W.R. 183.
+Precedent	In that case, the learned Judge observes: "Whatever may be the form of the last application, dated the 5th December 1873, in substance it was an application to the <ORG> for the continuation of the former proceedings on the gr ound that the bar that was set up by reason of the adverse order under Section 246 had been removed by the decision in the subsequent regular suit."
+Precedent	And in the case of <CITATION_355117> .
+Precedent	1 All.
+Precedent	355, <NAME>, C.J., observes: "The interruption to the execution of his decree was not occasioned by any fault or laches of his own, but was caused by the illegal intervention of <NAME>.
+Precedent	<NAME> procedure, therefore, under his decree, must beheld to have been legally continuous, and he may proceed to its execution."
+RatioOfTheDecision	Now, it is clear that in the present case those considerations have no application.
+RatioOfTheDecision	It is clear that the decree-holders could, notwithstanding the order in the claim case, have prosecuted their application for execution against the one-third share which was not released then quite as well as they can do so now.
+Fact	Their present application is for the sale of that third share of the property; there was no bar then to their enforcing the execution of the decree, and there has been no subsequent removal of  that bar.
+RatioOfTheDecision	The reason of the decisions not applying to the present case, they cannot afford any ground for holding that the present application is a continuation of the application of the 11th June 1883.
+RatioOfTheDecision	3.
+RatioOfTheDecision	Then, as regards the second ground, no doubt the case cited in the argument, <ORG> v. <NAME> 8 W.R. 99, lends some support to it, but that was a case under the old Limitation Law (Act XIV of 1859), the language of which was very different from that of the present law.
+RatioOfTheDecision	Clause 4, Article 179 of the second schedule of the Limitation Act provides, that the three years may be reckoned from the date of applying, in accordance with law, to the proper <ORG> for execution, or to take some steps in aid of execution of any decree or order," etc.
+RatioOfTheDecision	Now, seeing that the Limitation Act XV of 1877 draws a clear distinction between suits and applications, it would be difficult to construe these words to include a suit for setting aside an order in a claim case.
+RatioOfTheDecision	"Proper <ORG>," again, as defined by Explanation  II of that article, means the <ORG> whose duty it is (whether under Section 226 or Section 227 of the Code of Civil Procedure or otherwise) to execute the decree or order," Therefore, evidently the provision of law just referred to contemplates an application made in the course of execution to the <ORG> whose duty it was to execute the decree, and cannot be taken to include a suit to have an order in a claim case set aside.
+RatioOfTheDecision	4.
+RulingByPresentCourt	We therefore think that the Lower Appellate <ORG> was right, and that this appeal must be dismissed with costs.

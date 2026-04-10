@@ -1,0 +1,413 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These are two connected suits filed for a declaration that the assessments of sales-tax made on the plaintiffs are illegal and void.
+Fact	2.
+Fact	The facts are:- The plaintiffs Messrs. <ORG>, First Line Beach, Madras, are a firm of commission agents at Madras and other places.
+Fact	Their business consists of sales of tea in this State on behalf of the resident principals and foreign exports on behalf of non-resident principals.
+Fact	In these suits we are concerned only with the latter transactions, viz., foreign exports.
+Fact	The 'modus operand!'
+Fact	of the plaintiffs firm in regard to these foreign exports, is as follows: These commission agents have representatives at London and New York.
+Fact	These representatives enter into contracts with buyers for the supply of tea from particular tea estates and transmit their agreements to the commission agents.
+Argument	The buyers are enjoined to open invariably irrecoverable letters of credit with a bank at Madras.
+Argument	These commission agents t hen intimate their principals, viz., <ORG>, <ORG>, with a branch at Calicut, to despatch the goods.
+Argument	The goods are sent either C. I. F. or P. O.
+Argument	B.
+Fact	Mostly the despatch is on F. q.
+Fact	B. and presenting the bill of lading at the bank in which the credit has been opened the commission agents realise the full value of the tea exported.
+Fact	3.
+Fact	In C. S. No.
+Fact	51 of 1951 the case for the plaintitfs is as follows: During the year 1-4-1947 and 31-3-1948 the plaintiffs sold as commission agents tea and rubber of the total value of Rs.
+Fact	43,03,172.
+Fact	Out of this sum a sum of Rs.
+Fact	22,14,765 represented the price of goods sold on behalf of principals resident within the <ORG>; and the balance of Rs.
+Fact	20,88,407 represented sales on behalf of foreign principals Rs.
+Fact	19,68,065 being the price of goods exported outside India and Rs.
+Fact	1,20,342 being the price of goods sold within the <ORG>.
+Fact	By his order dated 9-12-1949 the Deputy Commercial Tax Officer, <ORG>, Madras, assessed the plaintiffs to a tax of Rs.
+Fact	44 ,855 on the aggregate amount of Rs.
+Fact	43,03,172.
+Fact	Against the said order the plaintiffs preferred an appeal 308 of 1949-50 on the file of <ORG>, Madras.
+Fact	That officer passed an order on 7-2-1950 wherein he validated the licence in favour pf the plaintiffs on payment of a penalty of Rs.
+Fact	1000 and in consequence exempted the sum of Rs.
+Fact	22,14,765 representing the value of the goods sold on behalf of the principals resident within the <ORG>, and confirmed the assessment in respect of the balance of Rs.
+Fact	20,88,407 representing the price of goods exported outside India or sold locally on behalf of foreign principals.
+Fact	The tax payable by the plaintiffs under this order is Rs.
+Fact	21,207.
+Fact	The plaintiffs preferred a revision to <ORG> against the order of the Commercial Tax Officer, North Madras, dated 7-2-1950.
+Fact	By an order dated 13-7-1950 the <ORG> confirmed the order of the Commercial Tax.
+Fact	Officer and dismissed the revision.
+Fact	4.
+Fact	In C. S. No.
+Fact	163 of 1951 the case for the plaintiffs is that in  respect of sales effected, by them as commission agents during the year 1-4-1948 to 31-3-1949 the Deputy Commercial Tax Officer, Mannady Division, passed an order on 7-3-1950 as-sessing them to a tax of Rs.
+Fact	57,340, on a total turnover of Rs.
+Fact	36,69,741.
+Argument	Against that order the plaintiffs preferred an appeal to <ORG>, North Madras, in App.
+Argument	No.
+Argument	24 of 1950-51.
+Argument	The said Officer passed an order on 20-6-1950 reducing the tax only by a sum of Rs.
+Argument	700.
+Argument	In the result the plaintiffs were assessed to tax of Rs.
+Argument	56,640.
+Fact	The plaintiffs took up the matter in revision to <ORG> and the <ORG> passed an order exempting sales by the plaintiffs on behalf of principals resident within the State by validating the licence retrospectively for the entire period on payment of a penalty of Rs.
+Fact	2000.
+Fact	With reference to sales other than those made on behalf of principals resident within the state the <ORG> referred the plaintiffs to <ORG>, North Madras, by its order dated 26-12-1950 .
+Fact	The Commercial Tax Officer, North Madras, in turn referred the plaintiffs to the Deputy Commercial Tax Officer by his order dated 5-1-1951 and eventually the Deputy Commercial Tax Officer passed an order on 24-1-1951 fixing the total turnover at Rs.
+Fact	21,40,743 and assessed the plaintiffs to a tax of Rs.
+Fact	33,449.
+Fact	5.
+Fact	With reference to the assessment for the year 1950-51 the Deputy Commercial Tax Officer, <ORG>, made an order on 8-2-1950 determining the turnover of the plaintiffs at Rs.
+Fact	2,96,750 and assessed them to a tax of Rs.
+Fact	4637 thereunder.
+Fact	The plaintiffs preferred an appeal to <ORG>, North Madras, in App.
+Fact	No.
+Fact	359 of 1949-50 against the order of assessment made by the Deputy Commercial Tax Officer.
+Fact	On 4-4-1950 <ORG>, North Madras, passed an order exempting sales on behalf of the principals resident within the State by validating the licence retrospectively for the entire period on payment of a penalty of Rs.
+Fact	200 and as a result of the said validation red uced the assessable turnover to Rs.
+Fact	25,470 and assessed the plaintiffs to a tax of Rs.
+Fact	398.
+Fact	Against the said order the plaintiffs preferred a revision to <ORG> and the <ORG> by its order dated 4-11-1950 confirmed the assessment made by <ORG>, North Madras (Note: I have rounded the figure to the nearest rupee for convenience).
+Fact	6.
+Fact	The plaintiffs contend that they are not liable to be assessed for these amounts on the following five grounds: .
+Fact	(a) The plaintiffs are commission agents and not dealers and the sales in question are sales .
+Fact	effected only as commission agents.
+Fact	As commission agents they are not dealers selling and purchasing on their own account; nor are they mere agents of the foreign principals because they are principals carrying on business for commission.
+Argument	The plaintiffs accordingly claim that they are not assessable either as dealers or as agents on behalf of foreign principals.
+Argument	(b) In regard to the amounts representing the value of tea exported to foreign c ountries during the years under assessment these amounts cannot be assessed for the reason that the sales were not made within the <ORG> nor were the goods deliverable within the <ORG>.
+Argument	The contracts were concluded in foreign countries; the goods were shipped <ORG> and Bombay and C and F foreign ports and were deliverable in foreign countries.
+Argument	These sales were not made within the <ORG>.
+Argument	The plaintiffs state that the fact that letters of credit were opened within the <ORG> does not convert the sales effected abroad into sales within the <ORG>.
+Argument	Moreover, all drafts drawn under the letters of credit are payable after 60 days of sight and therefore payment is not made immediately in the <ORG>.
+Statute	(c) The amounts represent the sale of tea grown by the sellers on estates of which they are owners and as the sales were for delivery outside the <ORG> and deliveries were actually so made, they are exempted from assessment under Section 5, Clause (v) of the Madras General Sales-tax Act.
+Statute	The sum included in the t otal turnover representing the price of rubber sold in Madras cannot be made assessable as rubber is agricultural produce and therefore exempted from taxation.
+Statute	(d) The plaintiffs, in any event, are entitled to the following deductions under Rule 5 (g) of the Turnover and Assessment Rules, viz., (i) export duty; (ii) cess; (iii) shipping dues and (iv) handling and other charges.
+Argument	(e) The plaintiffs further claim that the Madras General Sales Tax Act is opposed to Article 286 of the Constitution in so far as it purports to authorise imposition of tax on the sale of goods outside the State and for this reason also the assessments for both the years aforesaid are invalid.
+Argument	7.
+Argument	The contentions of the state of Madras are reflected in the following issues which have been framed in both the suits:  "C. S. No.
+Fact	51 of 1951  1.
+Fact	Are the plaintiffs entitled to be both commission agents and principals in respect of the transactions entered into by them?
+Fact	2.
+Fact	Are not the plaintiffs assessable to tax under Section 14-A of the'  Madras General Sales Tax Act and Rule 5 (1) of the Madras General Sales-tax rules?
+Fact	3.
+Fact	What part of the turnover of Rs.
+Fact	20,88,407-3-10 refers to commission agency sales on behalf of non-resident principals?
+Fact	4.
+Fact	What is the extent of local sales of tea effect-ed by the plaintiff on behalf of resident principals.
+Fact	Are not the plaintiffs liable to pay tax.
+Fact	in respect of such sales?
+Fact	5.
+Fact	Are plaintiffs entitled to exemption in respect of Rs.
+Fact	19,68,064-11-7 being the value of tea exported to foreign countries?
+Fact	8.
+Fact	Are the sums of Rs.
+Fact	16,62,293-8-4 and Rs.
+Fact	3,03,771-3-3- representing the value of tea exported to foreign, countries from 1-1-1948 to 31-3-1949 not liable to assessment?
+Fact	7.
+Fact	Are the local sales of tea from 1-4-1947 to 31-12-1947 amounting to Rs.
+Fact	1,01,969-3-9 on behalf, of foreign principals not liable for assessment?
+Fact	8.
+Fact	Are the Local sales from 1-1-1948 to 31-3-1948 amounting to Rs.
+Fact	18,373-1-6 not liable to be assessed?
+Argument	9.
+Argument	Are the plaintiffs entitled to exemption in respect of the sum of Rs.
+Fact	1971-1-6 being  the sale price of rubber?
+Argument	10.
+Fact	Are the plaintiffs entitled to the deductions mentioned in paragraph 8 of the plaint?
+Fact	11.
+Fact	Has this court no jurisdiction for the reasons, stated in paragraph 4 of the written statement?
+Fact	12.
+Fact	Have the plaintiffs any cause of action against the defendant?
+Fact	B 13.
+Fact	To what relief are the plaintiffs entitled?
+Fact	1 C. S. No.
+Fact	163 of 1951 1.
+Fact	Are plaintiffs entitled to be both commission, agents and principals in respect of the transac-tions entered into by them?
+Fact	2.
+Fact	Are not the plaintiffs assessable to tax under Section 14-A of the Madras General Sales Tax Act and Rule 5 (1) of the Madras General Sales-tax Rules?
+Fact	3.
+Fact	What part of the turnover of Rs.
+Fact	21,40,742-12-8-refers to commission agency sales on behalf of non-resident principals?
+Fact	4.
+Fact	What is the extent of local sales of tea effect-ed by the plaintiffs on belialf of resident principals?
+Fact	Are not the plaintiffs liable to pay tax in respect of such sales?
+Fact	5.
+Fact	Are plaintiffs entitled to exemption in respect of Rs.
+Fact	19,75,078-1-8 being the value of  tea exported to foreign countries?
+Argument	6.
+Argument	Are not plaintifis liable to pay sales-tax on the sum of Rs.
+Argument	95,104-8-0 being the price of rubber sold in Madras as turnover of sales of rubber?
+Argument	7.
+Fact	Are the plaintiffs entitled to the deductions claimed in paragraph 4 (5) of the plaint?
+Fact	8.
+Fact	Are the plaintiffs entitled to the exemption, claimed in paragraph 6 (1) of the plaint?
+Argument	9.
+Argument	Are the sales of tea exported to foreign countries exempted from taxation as sales made outside the <ORG>?
+Argument	10.
+Fact	Are the plaintiffs entitled to the deduction claimed in paragraph 6 (3) of the plaint?
+Fact	11.
+Fact	Are the plaintiffs entitled to any of the overhead charges claimed in sub-para graph 4 of paragraph 6 of the plaint?
+Fact	12. is the Madras General Sales Tax Act invalid and opposed to the provisions of the Constitution?
+Fact	13.
+Fact	Docs the Act affect Article 286 of the Constitution?
+Fact	14.
+Fact	Have the plaintiffs any cause of action against the defendant?
+Argument	15.
+Argument	To which relief are the plaintiffs entitled?"
+Argument	8.
+Fact	Before me both the parties adduced no oral evidence and filed  in C. S. No.
+Fact	51 of 1951 Exs.
+Fact	P, 1 to P. 7 and in C. S. No.
+Fact	163 of 1951 Exs.
+Fact	P. 1 to P. 9.
+Argument	9.
+Fact	On a review of the entire circumstances of the case, I nave come to the conclusion that the plaintiffs are dealers as the term "dealer" will take in a commission agent also; secondly the the sales in question were all effected within the State of Madras; thirdly, that the plaintiffs are not entitled to claim exemption from assessment under Section 5, Clause (v) of the Madras General Sales Tax Act whatever might be the position of the non-resident foreign principals; fourthly, that the plaintiffs are not entitled to the deductions claimed under Rule 5 (g) of the Turnover and Assessment Rules: and fifthly, that the Madras General Sales Tax Act is not opposed to Article 286 of the Constitution of India.
+Fact	Here are my reasons.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Point (a): "Dealer" has been generally defined as any person who carries on the busi-ness of selling goods.
+RatioOfTheDecision	In Madras, Mysore, Travan-core-Cochin and Uttar Pradesli, the term includes a, person  who carries on the business of purchasing goods.
+RatioOfTheDecision	In almost all the Acts except the Madras, Travancore-Cochin, Mysore and Bengal Act s a "dealer" has been defined as a person who sells or supplies goods.
+RatioOfTheDecision	There does not seem to tie any special significance for the word "supplies".
+RatioOfTheDecision	If the supply of goods is for no consideration, then it cannot come within the sales-tax levy, as there is no element of sale.
+RatioOfTheDecision	The transaction is essentially a gift.
+RatioOfTheDecision	If the supply of goods is for consideration, then there can be no doubt that it is a sale.
+RatioOfTheDecision	Hence the word "supplies" does not enlarge the scope of the definition.
+RatioOfTheDecision	In all the definitions the following essential features are present (i) there must be a sale; (ii) in the course of carrying on the business of selling goods.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The word "sale" is defined in all the Acts.
+RatioOfTheDecision	The essential requisite of a sale is a "transfer of property" in goods and this requirement is set out in all the definitions.
+RatioOfTheDecision	What is deemed to be a sale is enlarged by other explanations, but the main def inition is the same in all the <ORG>.
+RatioOfTheDecision	See Section 2 Cg) of the Bengal, Bihar, Madhya Pradesh, Orissa and U. P. Act s and Section 2 (h) of the Madras and Punjab Act s. <ORG> in - ' <CITATION_1266379> ) has set at rest the controversy whether the expression "sale" was used in any popular sense.
+RatioOfTheDecision	In the words of <NAME> unmistakably the stress is laid in this definition on the element of transfer of property in a sale and no other.
+RatioOfTheDecision	The language gives no indication of the popular meaning of "sale".
+RatioOfTheDecision	The test, to find out whether transaction is ft sale assessable to tax in a State, is to take the definition and apply it with the aid of the Indian sale of Goods Act .
+Precedent	The nature of the definition of "sale" in the various <ORG> has been set out thus by <NAME> in - ' <CITATION_424874> .
+Precedent	', AIR 1953 SC 253 at p. 256 (B):  "In exercise of the legislative power conferred upon them in substantially similar terms by the Government of India Act, 1935, <ORG> enacted sales-tax  laws for their resective Provinces, acting on the principle of territorial nexus referred to above.
+Precedent	That is to say, they picked out one or more of the ingredients constituting a sale and made them the basis of their sales-tax legislation.
+Precedent	Assam and Bengal made among other things the actual existence of the goods in the Province at the time of the contract of sale the test of taxability.
+Precedent	In Bihar the production or manufacture of the goods in the Province was made an additional ground.
+Precedent	A net of the widest range perhaps was laid in Central Provinces and Berar where it was sufficient if the goods were actually "found" in the Province at any time after the contract of sale or purchase in respect thereo was made".
+Precedent	12.
+Precedent	The word 'business' is a term of wide import.
+Precedent	It is even wider than the word "trade"; - '<ORG> v. <NAME>,', (1942) 25 Tax Cas 1 at p. 7 (C).
+Precedent	The habitual doing of an act capable of producing profits for the purpose of profits is trade or business: - '<ORG> v. <NAME>', (1888 ) 20 Q B D 753 (D).
+Precedent	<ORG> in - 'Commr.
+Precedent	of <CITATION_1537241> .
+Precedent	', AIR 1936 PC 1 (E) appears to consider that the essence of business consists in a course of dealings.
+RatioOfTheDecision	The motive to make a profit is not a 'sine quo non' and if the characteristics of a business are discernible, the absence of profit motive will not take it out of the category of business.
+RatioOfTheDecision	Whether a person carries on business or not is essentially a matter of inference.
+RatioOfTheDecision	Even if a person is taken to be carrying on a business, the question that may still arise is whether his transactions are assessable in any particular State.
+RatioOfTheDecision	For that the transaction will still have to be within the particular State.
+Precedent	It has been held that If all that a person does is to solicit orders in any particular place, he cannot be said to be reasonably carrying on a business in that place: - '<ORG>', 1896 AC 325 (F).
+RatioOfTheDecision	What is done is only ancillary to the exercise of his trade in the place where he buys, or makes, stores and sells goods.
+RatioOfTheDecision	The b usiness must be in buying or selling the goods.
+RatioOfTheDecision	The entering into contracts will only be incidental to the purchase or sale as a business.
+RatioOfTheDecision	Except the States which have adopted the Madras definition of the word "dealer" in toto, the other States have made it clear in the definition itself that the dealer must be carrying on the business of selling in that State: See e.g., Section 2 (c) of the Bengal, Bihar, Madhya Pradesh, Orissa and U. P. Act s and Section 2 (d) of the Punjab Act .
+RatioOfTheDecision	As it has now been held by <ORG> in - ' (A)', the sale must be within the State or Province so as to be taxable even under the Madras Act; the absence of the words, viz., "sales inside the State" found in the other <ORG> does not make a difference.
+RatioOfTheDecision	12A.
+RatioOfTheDecision	It will be seen, from this discussion that the term "dealer" will take in a commission agent also.
+RatioOfTheDecision	The question whether a commission agent will fall within the definition of a "dealer" has not had an uniform answer till the differences have been resolved by a Full Bench  of this Court.
+Precedent	In - 'Provincial Govt.
+Precedent	of Madras v. <NAME>-bhadrappa', (G), it was held that a commission agent who sold or bought on behalf of known principals in the sense that the principal was not a fictitious or non-existent principal, but one shown as such in the accounts, was not a dealer and was not liable to assessment under the Sales-tax Act , irrespective of the question whether or not he had obtained a licence under Section 8 .
+Precedent	This <ORG> decision approves the decision by a single Judge in - ' <CITATION_838118> ', AIR 1948 Mad 102 (1) (H).
+Precedent	See also - ' <CITATION_675917> ', AIR 1953 Mys 19 (I).
+Precedent	But a different note was struck in 'In re Narasingamuthu Chettiar', AIR 1949 Mad 11C (J) and - 'Province of Madras v. Finn of Kanigolla Siva Lakshminarayana', AIR 1949 Mad 843 (K).
+Precedent	Therefore, the Pull <ORG> was constituted to resolve these differences in - 'Radha-krinshna Rao v. Province of Madras', AIR 1952 Mad 713 (FB) (L) and it was held by the Full <ORG> as follows:  A commission agent as distinguished fro m a broker and who is in possession of the goods which he deals with on behalf of another will be a "dealer" within the definition of Section 2 (b) and can be assessed to tax unless he taxes a licence under Section 8 and that a broker is an agent employed to make a bargain for another and receives a commission on the transaction which is usually called brokerage.
+RatioOfTheDecision	He has usually neither the custody nor the possession of the goods.
+RatioOfTheDecision	It is the broker's duty to establish privity of contract between the principal and the third party.
+RatioOfTheDecision	The broker cannot sell in his own name nor can he sue on the contract.
+RatioOfTheDecision	A commission agent on the other hand has according to accepted mercantile practice, control over or possession of the goods, and has the authority from the owner of the goods to pass" the property in and title to the goods.
+RatioOfTheDecision	When a commission agent sells goods belonging to his principal with his authority or consent, ana without disclosing the name of the owner, there is certainly a transfer of property in the goods  from the commission agent to the buyer.
+RatioOfTheDecision	A business which consists in, such transactions can properly be described as a business of selling goods.
+RatioOfTheDecision	A similar position would arise even in the case of a commission agent buying for an undisclosed principal.
+RatioOfTheDecision	A commission agent doing this kind of business is therefore a dealer as defined in Section 2 (b) of the Sales-tax Act which does not contemplate as a necessary condition that the goods sold should belong to the person selling or buying.
+Precedent	See also - ' <CITATION_556808> ).
+Precedent	I have discussed the distinction between a broker and a commission agent and set out the entire English and Indian case-law.
+Precedent	There I fore, applying these principles I find that these plaintiffs are dealers as defined in Section 2 (b) of the Madras Sales-tax Act.
+Precedent	13.
+RatioOfTheDecision	Point (b): The contention of the <ORG> is that these sales took place within the <ORG> of Madras.
+RatioOfTheDecision	The nature of the transactions relating to this turnover was as follows: The goods were shipped <ORG> and <ORG> foreign port s and the goods were deliverable in foreign countries.
+RatioOfTheDecision	In respect of all such exports made by the plaintiffs, the documents of title relating to the goods were negotiated through banks in Madras under letters of credit opened by the foreign buyers.
+RatioOfTheDecision	When full amounts were drawn by surrendering documents of title specific goods were thus unconditionally appropriated to the contracts and the sales were completed in Madras.
+RatioOfTheDecision	Even if drafts payable after 60 days of sight were drawn, moneys were still drawn in Madras on the strength of the documents of title to the goods and it is therefore that these transactions are sales within the meaning of the Madras General Sales-tax Act, and the turnover with reference to such sales has thus become assessable turnover.
+RatioOfTheDecision	The contention of the <ORG> is concluded by authority.
+Argument	It has been held in the Bench decision of - 'Commr.
+Argument	of <CITATION_1270260> ) following the 'Prinz <NAME>' 1917 AC 586 (O) and - 'Smyth (Ross T) & Co. Ltd. y.
+Precedent	<ORG>', 1940-3 All ER 60 (P),  that where a bill of exchange is accepted and the delivery of the bill of lading is obtained from the bank and irrevocable tetter of credit is drawn that place will be the place where the property in the goods would pass and that where property in the goods passed that place would be the place where the sale is effected.
+Precedent	Subsequently another Bench of this court (<NAME> and <NAME>) applied the same principles to a case arising under the Sales-tax Act in - ' <CITATION_432995> .
+Precedent	<ORG>, Mangalore', (Q).
+Precedent	Therefore the transactions in regard to which the exemption is asked for were transactions effected within the State of Madras.
+Precedent	14.
+Precedent	Point (c) in regard to tea, Section 2 (a) lays down that agricultural or horticultural produce snail not be deemed to include tea.
+Precedent	<ORG> held in - 'Kaju Mal v. Saligram', AIR 1924 PC 1 (R) that tea was an agricultural product.
+Precedent	This definition has nullified the effect of that decision.
+Precedent	This was done by means of an amendment  of the General Sales-tax Act (Madras Act 25 of 1947) and which has apparently come into force under Part IV-b of the Fort St. George Gazette Extraordinary, dated 11-12-1947.
+Precedent	The period for which exemption is now claimed is for a period of nine months prior to the coming into existence of this amendment.
+Precedent	In regard to rubber no decided case has been brought to my notice.
+Precedent	But the recent decision of <ORG> in - ' <CITATION_186830> ', AIR 1049 PC 13 (S), has to some extent facilitated the evolving of clearer definition of the expression.
+Precedent	In the above case Lord <NAME> observed :  "It is sufficient for the purpose of the present appeal to say (1) that in their opinion no assistance is to be got from the meaning ascribed to the word 'agriculture' in other statutes and (2) that, though it must always be difficult to draw the line, yet unless there is some measure of cultivations of the land, some expenditure of skill and labour upon it, it cannot be said to be used for agricultural purposes within the mea ning of the Income-tax Act ."
+RatioOfTheDecision	This <ORG> had also held that the word "agriculture" implied something which is achieved with the aid of human agency.
+RatioOfTheDecision	<CITATION_749759> ', AIR 1947 Mad 157 (T) and this decision was approved by <ORG>.
+Argument	Following <ORG> decision this court held in - 'Commr.
+Argument	of Income-tax Madras v. <NAME>', (U) that irrespective of the nature of the pro-ducc or product of the land, whatever is grown on land aided by human labour and effort, whatever does not grow wild or spontaneously on the soil without human labour or effort would be an agricultural product.
+Argument	15.
+Argument	The following have been held to be agricultural products: Betel leaves: - ' <CITATION_1872897> ', 24 Mad 421 (V); Coffee: - ' <CITATION_374699> ', 17 Mad 98 (W).
+Argument	The latter decision can no longer be good law in view of the test laid down by <ORG> decision, <NAME>: - ' <CITATION_731293> ', AIR 1922 Mad 351 (X); ' (U)'; - ' <CITATION_1642935> ', AIR 1946 Mad 143 (Y); Cardamom: - ' <CITATION_4 45675> ', AIR 1917 Mad 160 (Z); Cocoanut: - 'Venkayya v. Ramasami', 22 Mad 39 (Zl); - ' <CITATION_377987> ', AIR 1937 Mad 234 (FB) (Z2), - 'Milk: Venkata-<NAME> Naidu v. Commr.
+Argument	of Income-tax Mad.
+Precedent	', (Z3);-'Commr.
+Precedent	of <CITATION_861730> ', AIR 1938 Rang 260 (FB) (Z4);- Mango - 'Sarojini Devi v. Srikristna', AIR 1944 Mad 401 (Z5); - ' <CITATION_60108661> ', 1948 AC 210 (Z6).
+Precedent	Forest is agriculture if growing was with the aid of human agency and not if growth was spontaneous - 'Secy, to the Chief Commr.
+Precedent	of Income-tax Madras v. <NAME> of Singam-patti'.
+Precedent	AIR 1922 Mad 325 (FB) (Z7); - 'Maharaja of Kapurthala v. Commr.
+Precedent	of Income-tax Central & UP', AIR 1945 Oudh 35 (Z8); Fishery - Inland not agriculture - ' <CITATION_823878> ', AIR 1924 Pat 474 (Z9); Toddy; cultivation is agricultural income: - 'Commr.
+Precedent	of <CITATION_1390774> ", AIR 1927 Mad 1038 (FB) (Z10).
+Precedent	Tne above does not, however, represent an exhaustive list.
+Precedent	16.
+RatioOfTheDecision	The use of the word "horticulture" in juxtaposition with the word "agriculture" cannot be construed to  mean, that the word "agriculture" is used in a narrow sense.
+RatioOfTheDecision	The decisions under the Madras Estates Land Act in - 'Raja of Venka-tagiri v. Ayappa Reddi', AIR 1915 Mad 781 (2) ( <CITATION_1996153> ', AIR 1917 Mad 649 (Z12) cannot be pressed into service in construing this Act as in these cases the report of <ORG> omitting the words "siviculture" and ''pasturing" from the bill was taken to show that the <ORG> contemplated only a restricted interpretation of the word.
+RatioOfTheDecision	Rubber on these principles may be construed as an agricultural produce.
+RatioOfTheDecision	But the sale of agricultural or horticultural produce is exempt from the levy of sales-tax in the hands of a grower of such produce or a person having an interest in the land in which the produce is grown: See Section 2 (i).
+RatioOfTheDecision	17.
+RatioOfTheDecision	Bearing these facts in mind let us examine the exemption claimed relating to tea for a period of nine months.
+RatioOfTheDecision	The contention of the <ORG> is twofold, viz., that the exemption can be claimed only in the case of resident growers and  cannot be claimed by non-resident growers; secondly, exemptions can be claimed by the non-resident principal and not by his commission agent - rcst-ing the former upon the language of Section 5 (5) and the latter upon the wording of Section 14-A of the Sales-tax Act.
+RatioOfTheDecision	18.
+RatioOfTheDecision	Under Section 5 (v) of the Act sale of tea grown by the seller or grown on any land in which he has an interest, whether as owner, usufructuary mortgagee, tenant or otherwise, is exempt from levy of sales-tax on two conditions, viz., (i) the sale must be for delivery outside the <ORG>, that is to say, the terms of sale must provide for delivery outside the <ORG>; and (ii) must actually be so made.
+RatioOfTheDecision	In such a case the sale of tea shall be exempt from tax under Section 3(1) .
+RatioOfTheDecision	This is the taxing section on which the entire Act and the rules thereunder revolve.
+RatioOfTheDecision	This section prescribes that a tax can be collected under the Act not from anybody and everybody, but only from a dealer whose turnover is Rs.
+RatioOfTheDecision	10,000 or above in the year of assessment.
+RatioOfTheDecision	Wh o is a dealer has already been considered.
+RatioOfTheDecision	It is clear that to be a dealer for attracting taxability, he must either be an owner of the goods or a person who has custody thereof with authority to transfer the property therein as in the case of a commission agent.
+RatioOfTheDecision	Then there are two classes of persons under the term' "seller of the tea growing his own produce".
+RatioOfTheDecision	He may be a resident or non-resident of the <ORG> who has no agent but comes into the <ORG> himself and sells and delivers goods or he may be a non-resident with a recognised commission agent here.
+RatioOfTheDecision	But whatever be the class under which he falls as contended for by the <ORG> of Madras under Section 5 (v) exemption to sales tax for tea is limited to tea produced and sold by the resident estate owners and cannot be claimed in regard to tea produced out side the province by non-resident estate owners and sold within the Province by their accredited representatives or agents.
+RatioOfTheDecision	19.
+Argument	The other part of the contention of the <ORG> of Madras that even if the exemp tion can be claimed by the non-resident estate owner producing and selling tea in question this cannot be done by his commission agent inside the Madras <ORG> and can only be claimed by the principal is equally well-founded.
+Argument	Section 14-A as has been pointed out by <NAME> in his 'locus classicus' "Sales-tax in Madras" published by <ORG> Madras, assisted by <NAME> is designed to afford an easy method lor collection of taxes due in respect of transac-tions carried on by persons residing outside the <ORG> through agents residing inside the <ORG> The tax under the Act being one on dealings irres-pective of the person who deals, it is necessary that the taxes due in respect thereof should be made payable by the person immediately concern-ed in such transactions and since the principal in respect of those transactions when residing outside the <ORG> cannot be easily reached, his agent who puts through the transactions within the <ORG> and who ordinarily will not be liable he n ot being a dealer strictly so called, is statu-torily deemed to be dealer for the purposes of the Act.
+Argument	This has also been put effectively in another way by <NAME> in his comprehensive all India publication "The Law of Sales-tax in India (published by <NAME> Lodge" 11, McNichol Road, Chetput, Madras 10) as follows:  "The non-resident dealers by virtue of their absence from this <ORG> may escape assessment.
+Argument	If they do not have any property, then even if assessment were to be made it will be futile as recovery of the tax levied will be impossible.
+Argument	The non-resident dealers will then be at an advantage.
+Argument	This section, is designed to make them assessable and to collect the tax easily on such assessments".
+Argument	A similar provision for taxing non-residents through their agents is also found in the Indian Income-tax Act .
+Argument	But this is only an enabling provision for facilitating collection where for instance the non-resident has no agent here.
+Argument	but comes into the <ORG> himself and sells and delivers , goods he is liable to tax because the sale has taken place in this State and the plea that there is no adequate machinery to levy and collect the tax from such a non-resident is not relevant as the difficulty in collection is not a bar to making the assessment.
+Argument	Secondly, Courts have held that-such a provision does not preclude a direct assessment.
+Precedent	In - 'Public Prosecutor v. <NAME>', 1953-2-Mad LJ 48 (SN) (Z13) it was held that a non-resident dealer liable to tax under the Madras General Sales-tax Act cannot escape liability merely because the resident agent is also-liable.
+Precedent	Similarly Courts have held that such a provision in the Indian Income-tax Act does not preclude a direct assessment: - ' <CITATION_1064801> .,' AIR 1921 Mad 212 (SB) Z14).
+Precedent	This section provides two safeguards, first for the commission agent and secondly fort the principal.
+Precedent	20.
+Precedent	In the case of non-resident buying or selling goods in the Province or State but residing outside, his agent shall be deemed to be the dealer.
+RatioOfTheDecision	The agent will  then be deemed himself to nave carried on the business.
+RatioOfTheDecision	The agent if he carries on a separate business himself and is assessable, as a dealer under the Act, there will be two assessments on him: (i) in Ms name for his business and (ii) in his name as the agent of the nonresident dealer.
+RatioOfTheDecision	If the non-resident's turnover is less than Rs.
+RatioOfTheDecision	10,000 then also the agent will be-taxed.
+RatioOfTheDecision	There will be no exemption for the turnover being less than the assessable minimum.
+RatioOfTheDecision	But.
+RatioOfTheDecision	the agent is assessable only to the extent of the turnover of such non-resident with which he is concerned.
+RatioOfTheDecision	If the non-resident has several agents in several places or even in each place, each of such agent will be assessable separately.
+RatioOfTheDecision	The agent is safeguarded by being authorised under the Act to retain out of any amount payable to the non-resident an amount equal to the tax assessed on or paid by him in respect of the nonresident's turnover.
+RatioOfTheDecision	This is without prejudice to his other rights like a right to file a suit.
+RatioOfTheDecision	The non-resident is equally saieg uarded because if he proves that his entire turnover in the <ORG> was less than the minimum assessable under Section 3 (3) he may apply to the assessing authority, if there has been only one assessment through his agent for refund 01 the tax, if any, paid on his behalf.
+RatioOfTheDecision	If there has been more than one assessment then the <ORG> Government is empowered to designate the authority to whom refund application will have to be made.
+RatioOfTheDecision	The period within which application for refund has to be made is 12 months from the end of the financial year in which payment was made.
+RatioOfTheDecision	21.
+RatioOfTheDecision	But this does not mean, as has been well put by Sri <NAME> in his Sales-tax in Madras, that Section 14-A (iv) is expressly restricted to an application for refund being made on the ground of the turnover being less than Rs.
+RatioOfTheDecision	10,000.
+RatioOfTheDecision	By reason of the provision in the opening paragraph of Section 14-A making the rest of the Act applicable to the transactions of nonresident dealers it is perfectly clear that Sub-section (iv) also covers ca ses of exemption contemplated in respect of agricultural or horticultural produce.
+RatioOfTheDecision	So, though initially the agent of a non-resident principal is assessed on a turnover it is open to the non-resident principal to make an application to the assessing authority and establish to his satisfaction that the produce assessed in the hands of the agent was agricultural produce grown by the principal himself or grown on any land in which such non-resident principal has an interest and therefore exempt from assessment.
+RatioOfTheDecision	22.
+RatioOfTheDecision	To postulate otherwise would lead to absurdities because first of all under the Act whenever any exemption is claimed the burden of proof is upon that person claiming that exemption, viz., the grower and seller of tea outside the State.
+Statute	It has been well laid down in <NAME> on "Construction of Statutes", Section 258 is as follows:  "Provisions providing for an exemption may be properly construed strictly against the person who makes the claim of an exemption.
+RatioOfTheDecision	In other words, before an exemption can b e recognised, the person or property claimed to be exempt must come clearly within the language apparently granting the exemption.
+Precedent	The reason for requiring a strict construction of statutes in favour of the <ORG> where a person claims immunity from the common burden of taxation, has been ably stated by Mr. Justice <NAME>, as appears from the quotation from his opinion in - '<NAME> v. <ORG>', 54 Kan 542 (Z15);  'All property receives protection from the <ORG>.
+RatioOfTheDecision	Every man is securedin the enjoyments of his own, no matter to what use he devotes it.
+RatioOfTheDecision	This security and protection carry with them the corresponding obligation to support.
+RatioOfTheDecision	It is an obligation which rests equally upon all.
+RatioOfTheDecision	It may require military service in time of war, or civil service in time of peace.
+RatioOfTheDecision	It always requires pecuniary support.
+RatioOfTheDecision	This is taxation.
+RatioOfTheDecision	The obligation to pay taxes is co-extensive with the protection received.
+RatioOfTheDecision	An exemption from taxation is a release from this obligation.
+RatioOfTheDecision	It is the receiving o f protection without contributing to the support of the authority which protects.
+RatioOfTheDecision	It is an exception to a rule, and is justified and upheld upon the theory of peculiar benefits received by the state from the property exempted.
+RatioOfTheDecision	Nevertheless it is an exception; and they who claim under an exception must show themselves within its terms.
+RatioOfTheDecision	Moreover, exemption laws are in derogation of equal rignts, and this is an equally important reason lor construing them strictly.
+RatioOfTheDecision	And a third reason appears from the court's language in - '<ORG> Tennessee', 1896) 161 US 134 at p. 145 (Z16)'.
+RatioOfTheDecision	Taxes being the sole means by which sovereignties can maintain their existence, any claim on the part of any one to be exempt from the full payment of his share of taxes on any portion of his property must on that account be clearly defined and founded on plain language.
+RatioOfTheDecision	There must be no doubt or ambiguity used upon which the claim to the exemption is founded.
+RatioOfTheDecision	It has been said that a well lounded doubt is fatal to the claim, no  implications will be indulged in for the purpose of construing the language used as giving the claim for exemption, where such claim is not founded upon the plain and clearly expressed intention of the taxing power.
+Precedent	See also - 'Commr.
+Precedent	of Income-tax B & O v. <NAME>', AIR 1935 Pat 342 (SB) (Z17); - 'Commr.
+Precedent	of <CITATION_1773157> ', AIR 1935 Pat 8 (Z18).
+RatioOfTheDecision	Secondly, the commission agent is constituted as agent, only for the purpose of selling and by a fiction of law he is treated as a dealer for a limited purpose, i. e., assessability on the first instance.
+RatioOfTheDecision	Such a person with limited rights to act on behalf of the principal cannot be looked upon as the person who would be entitled to claim exemption on behalf of the principal.
+RatioOfTheDecision	So far as this agent is concerned, whether the assessment is levied or whether exemption is granted, his liability 'vis-avis' the principal is not in any way affected and a safeguard is provided in his retaining moneys in his hands to reimburse himself of the assessment paid out to  the Government, His business is to pay up leaving it open to the affected nonresident principal to claim exemption and refund.
+RatioOfTheDecision	That is the scheme of this fiscal enactment.
+RatioOfTheDecision	Thirdly it is easy to envisage conflicting claims of principal and commission agent in regard to a matter in which the latter is not an agent for the former over exemptions the former possibly asserting that he is not entitled to exemption and the latter asserting that he is entitled to exemption.
+RatioOfTheDecision	It will be easy to multiply other complications of this nature if we are to restrict Section 14-A (iv) expressly to application for refund in regard to turnover being for less than Rs.
+RatioOfTheDecision	10,000 only.
+RatioOfTheDecision	22A.
+RatioOfTheDecision	This point is concluded by authority also.
+Precedent	In - 'Messrs.
+Precedent	<CITATION_1982858> .
+Precedent	121 to 126 of 1953 (Mad) (Z19) ), a Bench of this Court has held that the tax is collected on the turnover of the agent without reference to facts like the turnover exceeding the statutory minimum or not and that thereafter it is open to the non-resident principal to mo ve in the matter and get such refund as is permissible under the Act.
+RatioOfTheDecision	In other words, the business of the commission agent is to pay the tax assessed on him and keep a lien on the moneys acquired by him on behalf of the principal and leave it open to that principal to make applications to the assessing authorities and establish to their satisfaction that either the turnover was less than the minimum prescribed or that the agricultural produce assessed in the hands of the agent was grown by himself or grown on any land in which such a non-resident principal has an interest.
+RatioOfTheDecision	23.
+RatioOfTheDecision	I therefore accept the contention of the <ORG> that the commission agent is not a person who can claim the exemption and refund and it is tne non-resident principal who should do so if he is entitled to any <ORG> exemption and refund.
+RatioOfTheDecision	Therefore, loosed at from any point of view this point (c) has to be decided against the claim of the piainiffs in its entirety.
+RatioOfTheDecision	24.
+RatioOfTheDecision	Point (d): The claim for deductions cannot be supported because the ite ms referred to in the plaint reproduced above are not admissible deductions under Rule 5 (1) of the Turnover and Assessment Rules.
+RatioOfTheDecision	Tne sales-tax has been levied on tne price of the goods and it has no concern with tne overhead expenses incurred by the dealer as the deductions were not charged for separately, without including them, in the price of the goods and the prices, which were either F. O.
+RatioOfTheDecision	B or C and F, could not be split up for purposes of deduction.
+RatioOfTheDecision	To complete this I must explain the terms if.
+Precedent	O.
+Precedent	B. or F. O. R., C. I. F. and C and F.  25.
+Precedent	The words F. O.
+Precedent	B. and F. O. R stand for Free on Board and Free on Kail respectively.
+Precedent	Where tne seller agrees to sell goods on F. O.
+RatioOfTheDecision	B. or F. O. R. terms at means the seller will bear all the expenses prior to the putting on board or rail.
+RatioOfTheDecision	As soon as the goods are put on board or rail the responsibility of the seller ceases and the risk as well as property vests in the buyer.
+RatioOfTheDecision	Prior to the putting on board a ship or rail of the goods, the seller alone must bear the  damages to the goods: - '<ORG> v. <ORG>', 1922-1 KB 343 (Z20) and - 'Colley v. Overseas Exporters Ltd.', 1921-3 KB 302 (Z21).
+RatioOfTheDecision	(26) The words C. I. P. stand for Costs, Insurance and Freight.
+RatioOfTheDecision	The meaning of a contract of sale upon cost, freight and insurance is so well established that it is unnecessary to refer to the authorities' upon the subject.
+Argument	A seller under a contract of sale containing such terms has firstly, to ship at the port of shipment goods of the description contained in the contract; secondly, to procure a contract of affreightment under which the goods will be delivered at the destination contemplated by the contract; thirdly, to arrange for an insurance upon the terms current in the trade which will be available for the benefit of the buyer; fourthly, to make out an invoice; and finally, to tender these documents to the buyer so that he may Know what freight he has to pay and obtain delivery of the goods if they arrive or recover their loss if they are  lost on the way: - 'Biddell Bros. v. E. Clemens Horst Co.', 1911-1 KB 834 at p. 940 (Z22); - 'Copal Chand v. 3.
+Argument	Behrens & Sons', AIR 1930 Lah 640 (223); - Girdharilal v. <ORG>', AIR 1037 Lah 566 (Z24); - '<ORG>', 1920 AC 144 (Z25).
+RatioOfTheDecision	The essential feature of an ordinary <ORG> contract for the sale of goods rests in the fact that performance ot the Bargain is to be fulfilled by delivery of documents and not by the actual physical delivery of the goods by the vendor.
+RatioOfTheDecision	All that the buyer can call for is the delivery of the customary documents.
+RatioOfTheDecision	This represents the measure of the buyer's right and extent of the vendor's duty.
+RatioOfTheDecision	The buyer cannot refuse the documents and ask for actual goods nor can the vendor withhold the documents and tender the goods they represent.
+Precedent	It is in short a transfer of symbols rather than physical property : - ' <CITATION_1812493> .
+Precedent	', 1919-1 KB 198 (Z26).
+Precedent	Property passes to the buyer as soon as the documents are delivered to him.
+Precedent	27.
+RatioOfTheDecision	There is ge nerally another type of contract called C and F contract.
+RatioOfTheDecision	In such contracts, the buyer undertakes to insure the goods while in transit.
+RatioOfTheDecision	A. C. & P. contract is for all practical purposes and F. O.
+RatioOfTheDecision	B. contract.
+Precedent	It was held by this <ORG> in an unreported case - 'Commr.
+Precedent	of <CITATION_794823> .
+Precedent	Case No.
+Precedent	61 of 1946 (Mad) (227) that in the case of such contracts property passes not when the goods are ascertained but subsequently.
+Precedent	As to when property passed, <NAME> observed that it was unnecessary in that case to determine the point of time when property passed while <NAME> said "The time of shipment is the time of passing of tne property to the buyer".
+Precedent	28.
+Precedent	Therefore point (d) has got to be decided against plaintiffs.
+Precedent	29.
+Fact	Point (e): The validity of the several State Sales-tax Act s imposing a tax on sales had come up for consideration both before the Republican India and after the Republican India.
+Fact	(For a lucid discussion of this subject, see the comprehensive survey made by Mr. <NAME> m and <NAME> in their excellent treatise Law of Sales-tax in India, 1954, published by <ORG> office pages 36-50).
+Fact	In regard to the former class of cases it is enough, to mention Tn re C. P. & Berar Sales of Motor Spirit & Lubricants Taxation Act, 1938', AIR 1939 F. C. 1 (Z23); - ' <CITATION_882976> .
+Fact	', AIR 1941 Mad 913 (229) and on appeal - ' <CITATION_882976> .
+Fact	', AIR 1942 FC 33 (Z30); - 'Governor-General in Council v. Province of Madras', AIR 1945 PC 93 (Z31).
+Fact	Then in Republican India the validity of the Sales-tax Act has been impeached as being opposed to Article 14 of the Constitution of India and unconstitutional delegation of the taxing power by the <ORG> to the <ORG> and as violating Article 286 of the Constitution.
+Fact	In regard to Article 14 and unconstitutional delegation, these have been set at rest by - ' <CITATION_1472271> ); - ' <CITATION_1032035> ).
+Fact	In regard to Article 286 this has been the subject-matter of three decisions by <ORG>, - ' (B)'; - ' <CITATION_20411 1> ) and - ' <CITATION_1334665> .
+Fact	', AIR 1952 SC 336 (Z35).
+Fact	The above decisions of <ORG>: upheld the contention of the Madras State that!
+Fact	the Madras Sales-tax Act does not offend Article 286 of the Constitution.
+Fact	Secondly in any event as Article 286 of the Constitution of India came into force on or after 26-1-1950, this Article would not affect the assessments objected to relating to 1947 to April-May 1949.
+RatioOfTheDecision	30.
+RatioOfTheDecision	It is quite true that these decisions of <ORG>, as pointed out by <NAME> on page 21 of his Law of Sales-tax in India, have given rise to fresh problems such as where does a delivery take place, how is consumption to be proved, what happens in a case where delivery takes place in one State and consumption in another, etc.
+RatioOfTheDecision	The solutions of the problem appear, to be more with the <ORG> and possibly by a suitable amendment to Article 286 of the Constitution.
+Fact	But as the appropriate quotations with which Sri <NAME> and <NAME> begin their excellent tre atise Law of Sales-tax In India (<ORG> publication): "Whoever hopes a faultless tax, to see, Hopes, what never was, or is, or ever shall be (M'culloch Adaptation of Pope") "To tax and to please, no more than to love and to be wise, is not given to men" (Cicero).
+Fact	31.
+Fact	In the result, I find in both the suits that the plaintiffs are commission agents and not principals; that the plaintiffs are assessable to tax under Section 14-A of the Madras General gales-tax Act and R. 5 (1) of the Madras Turnover and Assessment Rules; that the sale transactions in dispute took place within the state of Madras; that the plaintiffs are not entitled to the deductions asked for; that the plaintiffs are not entitled to claim exemptions on behalf of the non-resident principals; that the Sales-tax Act is not invalid as opposed to the provisions of the Constitution of India; and that the plaintiffs are entitled to no relief.
+Fact	The issues in both the suits are found accordingly.
+Fact	The suits are dismissed with costs.
+Fact	I certify for two  counsel.

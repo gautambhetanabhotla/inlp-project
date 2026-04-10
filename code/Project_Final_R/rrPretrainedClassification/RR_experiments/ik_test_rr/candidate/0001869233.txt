@@ -1,0 +1,730 @@
+Fact	ORDER <NAME> and <NAME>, JJ.
+Fact	1.
+Fact	These two appeals arise out of a suit brought by the plaintiff <NAME>, the principal contesting respondent in S. A.
+Fact	No.
+Fact	860 and the appellant in S. A.
+Fact	No.
+Fact	890, for recovery of possession of a certain zamindari share.
+Fact	The circumstances which led to the present litigation are briefly as follows:  2.
+Fact	<NAME> and <NAME> executed a deed of simple mortgage on 6th October 1911 in favour of certain persons (it is not necessary to mention their names) in lieu of Rs.
+Fact	2,500 hypothecating a two biswa odd share in patti No.
+Fact	1 and a one biswa odd share in patti No.
+Fact	6 both of village Bhaineroli, for a term of ten years, subject to the condition that if interest was not paid in any year the whole of the mortgage money would become immediately payable.
+Fact	One Behari, who is now represented by his sons Ram <NAME> and <NAME>, first two defendants and appellants in this Court in S. A.
+Fact	No.
+Fact	860 of 1928, obtained the mortgagee rights under the deed above mentioned, in the exerc ise of his right of pre-emption.
+Fact	<NAME>, one of the mortgagors already named, executed another deed of simple mortgage on 17th May 1912 in respect of his share of the property detailed above, i. e. half of it, to <NAME>.
+Fact	The second of: the two aforesaid mortgages was first sued on, and a preliminary decree obtained on foot thereof on 13th March 1923, which was made final on 13th November 1923.
+Fact	3.
+Fact	The appellants in S. A.
+Fact	No.
+Fact	860 in whom the prior mortgagees' interest was then vested, were not made parties, and it is not disputed that they were not necessary parties and that the auction purchaser at a sale held in execution of the decree passed on the 2nd mortgage would take subject to the encumbrance created by the first mortgage.
+Fact	Before however such a sale could take place, the prior mortgage was put in suit and a preliminary decree obtained on foot thereof on 15th March 1924.
+Fact	A final decree followed in due course on 23rd March 1925.
+Fact	Between the dates of the preliminary and final decrees passed  on foot of the prior mortgage, the property to which the subsequent mortgage related, i. e., half of that to which the prior mortgage related was sold in execution of the decree passed on foot of the second mortgage, to which reference has already been made and was purchased by <NAME>..
+Fact	He does not appear to have taken out delivery of possession, but succeeded in obtaining mutation of names.
+Fact	At the sale held in execution of decree passed on foot of the prior mortgage the mortgagees themselves were declared purchasers.
+Fact	On 20th November 1925, they took out delivery of possession and succeeded in obtaining mutation of names in their favour by an order which directed the removal of <NAME>'s name.
+Fact	It is not disputed that the first two defendants, the prior mortgagees (as purchasers) were in actual possession up to the date of the suit which has given rise to this appeal.
+Fact	<NAME> sued for possession unconditionally and, in the alternative, for possession by redeeming the prior mortgage of 6th Octob er 1911 to the extent of half, provided that it has not become time barred as against the plaintiff and still has effect on the property purchased by him (the plaintiff.)
+Fact	4.
+Fact	The Court of first instance decreed the first relief with the condition super-added that if the defendants redeemed the second mortgage within three months the suit should stand dismissed.
+Fact	On appeal by the plaintiff, the lower appellate Court modified that decree by allowing the plaintiff-respondent to redeem the prior mortgage within six months.
+Fact	Accordingly, a preliminary decree for redemption under Order 34, Rule 7, Civil P.C., was passed.
+Fact	Both parties have appealed to this Court.
+Fact	Second Appeal No.
+Fact	860 of 1928 is by defendants 1 and 2 and S.A. No.
+Fact	890 of 1928 is by the plaintiff.
+Fact	5.
+Fact	Two main questions arise for consideration: first, which of the two auction-purchasers is entitled to possession of the property in dispute; and secondly, if the first two defendants, the mortgagee auction-purchasers in execution of decree of the prior mor tgage, are rightfully in possession, whether the plaintiff, the auction-purchaser in execution of the decree passed on foot of the second mortgage, is still entitled to redeem the first mortgage so as to entitle him to possession on redeeming the prior mortgage.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The second question presents no difficulty.
+RatioOfTheDecision	If the purchaser under the puisne mortgage has no right to possession, it can only be because the right of the mortgagor who was entitled to possession did not effectively pass under the auction sale to such purchaser, but, at any rate, the puisne mortgagee's right did pass to him.
+RatioOfTheDecision	The puisne mortgagee not having been made a party in the prior mortgagee's suit, his right to redeem cannot be affected and can be exercised by his representative the auction-purchaser at the sale held in this suit.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The case law bearing on the first question is considerable, and it is not easy to reconcile some cases in which identical questions were considered.
+RatioOfTheDecision	We desire to note only the cases of this <ORG> which, in our  opinion, have so unsettled the law that it is not a little embarrassing to the subordinate <ORG> when conflicting rulings of this <ORG> are cited before them.
+RatioOfTheDecision	It will be seen that in any cases the auction sale in the second mortgagees suit took place during the pendency of the suit on the prior mortgage, as in the case before us.
+RatioOfTheDecision	An important question emerges from that fact, viz.
+Precedent	whether such sale is affected by the rule of lis pendens, a question which was considered with conflicting results in some and overlooked in others.
+Precedent	8.
+Precedent	<CITATION_1834465>  19 All.
+Precedent	541 the mortgagor had sold his rights and the mortgagee (there was only one mortgage) brought his suit for sale subsequently, impleaded the mortgagor who had lost all rights to the mortgaged pro-party before the institution of the suit, and failed to implead the vendee.
+Precedent	The auction-purchaser in the mortgage suit sued the vendee for recovery of possession.
+Precedent	It was held that he was not entitled to possession against such vendee.
+Precedent	No doubt can arise as regards  the correctness of the view therein taken.
+Precedent	But that decision can be of no help in a case where there is competition between the auction-purchaser in the prior mortgagee's suit in which the puisne mortgagee was not a party and the auction-purchaser in the puisne mortgagee's suit.
+Precedent	<CITATION_993476>  21 All.
+Precedent	235 (F.
+Precedent	B.)
+Precedent	was a case of two successive mortgages and both mortgages ware apparently simple, so that the right to possession of the mortgaged property was in the mortgagor.
+Precedent	The puisne mortgagee instituted his suit for sale first, but before the mortgaged property could be sold in execution of his decree the prior mortgagee also instituted a similar suit without impleading the puisne mortgagee.
+Precedent	The sale in execution of the decree on foot of the second mortgage took place during the pendency of the prior mortgagee's suit, and the auction-purchaser obtained actual possession.
+Precedent	Subsequently the purchaser in the prior mortgagee's suit made an unsuccessful attempt to obtain possession which was followed by a simp le suit for possession described by the learned Judges as an ordinary suit for ejectment, the plaintiff claiming to recover possession from the defendant absolutely and not subject to any condition.
+Precedent	9.
+Precedent	The learned Judges dismissed the suit holding that the case of <CITATION_1834465> applied to the case before them.
+Precedent	The judgment contains no discussion of the question whether the auction-purchaser in the prior mortgagee's suit to which the puisne mortgagee is no party acquires at least the right of a mortgagor which in case both mortgages are simple includes the right to possession.
+RatioOfTheDecision	No question was raised or decided in reference to the sale in the puisne mortgagee's suit having taken place during the pendency of the prior mortgagee's suit and to the applicability or otherwise of the rule of lis pendens.
+RatioOfTheDecision	It does not appear to have been noticed that <CITATION_1834465> was not a case in which there were prior and puisne mortgagees but was one in which the sole mortgagees sued the original mortgagor who had parted  with all rights before the institution of his suit, so that he bad ceased to be a mortgagor, and that his vendee to whom his rights had passed was the only person who could be sued.
+RatioOfTheDecision	<CITATION_993476> , on the other hand, the mortgagor who was impleaded by the prior mortgagee, retained his rights till a date several months after the institution of the prior mortgagee's suit.
+Precedent	In <ORG>26 All.
+Precedent	464, which again was a case of one mortgage, the mortgaged property was sold in execution of a simple money decree during the pendency of the mortgagee's suit.
+Precedent	The auction-purchaser obtained possession subsequently.
+Precedent	The auction-purchaser in execution of the decree passed on foot of the mortgage unsuccessfully attempted to obtain possession.
+Precedent	It should be noted that the auction-purchaser in the mortgagee's suit was a third person and not the mortgagee himself.
+Precedent	He brought a suit for possession affording an opportunity to the auction purchaser in execution of the simple money decree to redeem.
+Precedent	The suit wa s described by the learned Judges as one for foreclosure in substance.
+Precedent	The claim was decreed.
+Precedent	The two cases first referred to were distinguished on the ground that they were simple suits for possession in which no opportunity to redeem had been given to the defendant.
+Precedent	The next case which should be referred to is that of <CITATION_783718> , in which though the prior mortgagee instituted his suit first, omitting to implead the subsequent mortgagee, the latter managed to obtain a decree and sale thereunder before the former could bring the mortgaged property to sale in execution of his decree.
+Precedent	The purchaser in the prior mortgagee's suit failed to obtain possession and sued the purchaser in the second mortgagee's suit for possession of the property than in dispute, on the defendant, that is, the purchaser in the second mortgagee's suit, failing to pay the money due under the prior mortgage.
+Precedent	It should be noticed that the substantial relief claimed in that suit was one for possession, giving an option to the defend ant to redeem the prior mortgage.
+Precedent	This feature is of importance, as in a subsequent case, in which a different view was taken, it was pointed out that redemption was a right and not an obligation.
+Precedent	As a matter of fact, it was treated as a right in that case by the plaintiff, and <ORG> and <NAME>, JJ., appear to us to have treated the matter on that footing.
+Precedent	It was held that the purchaser in execution of a decree obtained by the prior mortgagee, the plaintiff in that suit, was entitled to possession unless the purchaser in the second mortgagee's suit chose to redeem the prior mortgage.
+Argument	<ORG>, J., has expressed the opinion that the auction sale in execution of the decree obtained by the puisne mortgagee being pendente lite could not affect the right of the auction-purchaser in execution of the prior mortgagee's decree.
+Argument	At the same time he held that the puisne mortgages whose right should be deemed to have been transferred to the auction-purchaser in his suit was a necessary party to the prior mortgagee's su it and a failure on the part of the prior mortgagee to implead him did not affect his right and, through him, that of the auction-purchaser in his suit to redeem the prior mortgage.
+Argument	<NAME>, J., has made no mention of the rule of lis pendens, but the ratio decidendi adopted by him is by strong implication based on that doctrine.
+Argument	He observed:  As for the title of the plaintiff, it cannot, I think, be argued that she acquired nothing under her purchase.
+Precedent	It will not, I imagine, be denied that had she joined the subsequent mortgagee as a defendant in her suit, she would by her purchase have acquired an absolute title to the property, including the right to possession.
+Precedent	To what extent then is her title defective by reason of her omission to implead the puisne mortgagee?
+Precedent	Only to the extent that her title as owner is qualified by a right of redemption which was vested in the second mortgagee and which has now passed to the appellant as purchaser under the decree obtained on the second mortgage.
+Precedent	That is the only rig ht which the second mortgagee could have enforced against her as prior encumbrancer for the right of the subsequent mortgagee to bring the equity of redemption to sale to satisfy his claim is a right which is exercised against the mortgagor only.
+Precedent	The right of the first mortgagee to have the property sold is, in no way, affected by the second mortgagee's right of sale.
+Precedent	As between the first and the second mortgagees (or their representatives), the only right of the latter is one of redemption.
+Precedent	As for the title of the auction-purchaser under the second mortgage, that too is circumscribed by the liability to redeem the earlier mortgage.
+Precedent	The title could only become absolute by a discharge of the prior incumbrance.
+Precedent	10.
+Precedent	It is clear that this view, which upholds the right of a purchaser in the prior mortgagee's suit who purchased after the sale in the second mortgagee's suit had already taken place, is justified only on the assumption that the sale in the second mortgagee's suit, though anterior in date, was subjec t to the result of the prior mortgagee's suit then pending.
+Precedent	11.
+Precedent	<CITATION_1019678> A.I.R.
+Precedent	1926 All.
+Precedent	480, <ORG> have expressly dissented from the case last quoted on almost every material point.
+RatioOfTheDecision	The frame of the suit was exactly the same as in the case last quoted, the plaintiff claiming possession on failure of the defendant to pay the money due under the prior mortgage.
+RatioOfTheDecision	The plaintiff was purchaser in the prior mortgagee's suit, while the defendant was the purchaser in the second mortgagee's suit.
+RatioOfTheDecision	The sale in execution of decree obtained by the puisne mortgagee took place during the pendency of the suit on the prior mortgage.
+Precedent	<NAME>, J. held that the mortgage in favour of the plaintiffs does not give them a right to obtain possession.
+Precedent	That right, to possession can accrue to them only by working out the mortgage with proper patties before the Court.
+Precedent	They have failed to work out the mortgage so far as the principal defendants are concerned and any fresh attempt to work out the mortgage today i s barred by limitation.
+Precedent	12.
+Precedent	In other words, according to that learned Judge, the auction-purchaser in the prior mortgagee's suit to which the puisne mortgagee was no party, does not acquire even the right of the mortgagor, the reason being that the mortgage was not "worked out" with proper parties before the Court.
+Precedent	On the question of lis pendens and referring to the case of <CITATION_783718> he observed that there was no transfer in favour of defendants in <CITATION_783718> after the institution of the prior mortgagee's suit.
+Precedent	The transfer took place in favour of the second mortgagee and at a date long prior to the institution of the suit by the first mortgagee.
+Precedent	The sale under the subsequent mortgage was only an after effect and an inevitable effect of the second mortgage, and it would be wrong to describe the auction-sale as anything independent of the second mortgage.
+Precedent	13.
+Precedent	Boys, J. arrived at the same conclusion, holding that the effect of the nonjoinder of the puisne mortgagee was to leave him unaffected b y the decree passed in the prior mortgagee's suit and that in reference to him it should be assumed that nothing had taken place on foot of the prior mortgage which should be deemed to be subsisting.
+Precedent	On the doctrine of lis pendens he observed that the sale to the auction-purchaser in the decree upon the puisne mortgage cannot be regarded as a new transfer; the title of the auction-purchaser must be taken, at any rate where, as in this case, the decree-holder was himself the purchaser, as dating back to the mortgage, and I find myself in agreement in this respect with <NAME>, J., in <ORG> v. <NAME> [1905] 32 Cal.
+Precedent	891 at p. 906.
+Precedent	14.
+Precedent	We may at once point out that <NAME>, J., based his decision in that case on a different point, and his observation as to lis pendens is obiter dictum.
+Precedent	He said:  I do not think it necessary to pursue the argument about lis pendens further, as I think the decree of the lower appellate Court is sustainable irrespective of it.
+Precedent	15.
+Precedent	In a recent <ORG> case <CITATION_842650>  A.I.R.
+Precedent	1931 All.
+Precedent	277, the position of the auction-purchaser in execution of a decree passed on foot of the prior mortgage to which the puisne mortgagee was not a party was again considered.
+Precedent	The view of the majority, which should be considered to be that of <ORG>, is clearly in support of the contention that such auction-purchaser acquires the right of the mortgagor in the property subject to right of the puisne mortgagee to redeem and for that purpose the auction-purchaser is to be considered as standing in the shoes of the prior mortgagee.
+Precedent	The facts of that case were different, though the position of the auction purchaser and his right to possession were the principal questions to be decided in it.
+Precedent	The auction-purchaser had, in that case, made constructions on part of the mortgaged property after his purchase but before the suit brought by the puisne mortgagee, who sought to treat those constructions as accession to the mortgaged property.
+Precedent	<NAME>, J., held that as against the puisne mortgagee, who was  not a party to the prior mortgagee's suit, the auction sale in execution of the decree obtained by the prior mortgagee and, indeed, the proceedings in his suit should be considered as never having taken place and that consequently any additions made by the auction-purchaser were at par with those made by a total stranger.
+Precedent	He observed on this question:  that if the puisne mortgagee who was not made a party to the suit of the prior mortgagee elects to treat the decree in that suit, and what followed it, as not binding on him, they have to be treated as nullity, not in the sense of being void ab initio but so far as his rights may be affected thereby.
+Precedent	If he does so elect, the whole case shall have to be so dealt with as if the prior mortgage is subsisting in which case, as already stated, no question can arise as to whether anyone became a purchaser at an auction sale held in execution of a decree passed on foot of the prior mortgage which ex hypothesi is subsisting.
+Precedent	16.
+Precedent	It should be noticed that this view is i n conformity with that expressed by <ORG>, in <CITATION_1019678> above referred to.
+Precedent	The majority of <ORG> however pronounced an opinion which is in conformity with that taken in <CITATION_783718>  37 I.C.
+Precedent	343, first quoted.
+Precedent	In describing the position of an auction-purchaser in execution of a decree passed on foot of the prior mortgage, in which the puisne mortgagee was not a party, <NAME>, J., observed:  They (auction-purchasers) have also undoubtedly acquired the interest of the mortgagor in the property.
+Precedent	No doubt the decree in the previous mortgage suit is not binding on the subsequent mortgagees, who had not been impleaded, to this extent: that their rights under their mortgage have not been extinguished, as would have been the case if they had been impleaded and had not redeemed the prior mortgage.
+RatioOfTheDecision	But it is not correct to say that the previous proceedings are totally a nullity.
+RatioOfTheDecision	As between the prior mortgagee and the subsequent mortgagees the previous proceedings are ineffective , but that does not imply that the mortgagor's interest could not have been sold by the prior mortgagee behind the back of the subsequent mortgagees but subject to their subsequent mortgage.
+RatioOfTheDecision	The mortgagor's interest in the property validly passed to the auction-purchasers, no matter whether the subsequent mortgagees were parties to the suit or not.
+RatioOfTheDecision	The auction-purchaser cannot be in a worse position than a private transferee from the mortgagor.
+RatioOfTheDecision	In this sense, the defendants are undoubtedly the representatives of the mortgagor qua the property which is now in suit.
+RatioOfTheDecision	After payment of the amount of the previous mortgage decree the subsequent mortgagees can enforce their own mortgage against them, treating them as the representatives of their mortgagor.
+Precedent	17.
+Precedent	<NAME>, J., who took the same view, held that I think the auction-purchaser is in just the same position as the mortgagor's son or transferee in the cases which I have put, by way of example, above.
+Precedent	The auction-purchaser is in fact the successor-in-interest of t he mortgagor, having acquired all the mortgagor's right, title and interest in the property.
+Precedent	18.
+Precedent	In the <ORG> case to which reference has been made, the sale in execution of a decree obtained by the prior mortgagee without impleading the subsequent mortgagee had taken place long before the puisne mortgagee obtained a decree in his suit.
+Precedent	In that respect it is different from <CITATION_783718> and <CITATION_1019678> .
+Precedent	We would have followed it in deciding the present case if the case before us had been free from the complication that the puisne mortgagee had the property sold first but during the pendency of the suit on the prior mortgage.
+Precedent	19.
+RatioOfTheDecision	On the applicability or otherwise of the rule of lis pendens as contained in Section 52, T. P. Act, we find ourselves in agreement with <ORG> "We would however give our own reasons in support of that view.
+RatioOfTheDecision	In discussing the scope of that rule the language of Section 52, T. P. Act, which is exhaustive on that question in India, should be carefully borne in mind .
+RatioOfTheDecision	The material portion may usefully be reproduced here:  During the active prosecution in any <ORG> .
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+Precedent	of a contentious suit or proceeding in which any right to immovable property is directly and specifically in question, the property cannot be transferred or otherwise dealt with by any party to the suit or proceeding so as to affect the rights of any other party thereto under any decree or order which may be made therein, except under the authority of the <ORG>, and on such terms as it may impose.
+Precedent	20.
+Precedent	It cannot be doubted that in a suit on a prior mortgage "right to immovable property is directly and specifically in question" and that the lis continues up to the date of sale: see Parsotam Narain v. Chheda Lal [1907] 29 All.
+Precedent	76.
+Precedent	It is now settled law, though some doubt existed at one time, that the rule applies not only to transfer of or dealing with the property pendente lite by a party himself but also at auction sales in decrees obtained against him, on the principle that what the owner could not do  with the property the <ORG> could not do on his behalf: see <NAME> v. <NAME> [1888] 15 Cal.
+Precedent	756 and <NAME> v. <NAME> [1901] 23 All.
+Precedent	60.
+Precedent	A sale in execution of a decree obtained by a puisne mortgagee during the pendency of a prior mortgage must, in our opinion, be held to be within the rule.
+RatioOfTheDecision	Such a sale is undoubtedly a transfer of the property "directly and specifically in question" in the prior mortgagee's suit.
+RatioOfTheDecision	The property is at least "dealt with" at the auction sale.
+RatioOfTheDecision	It cannot be argued that the sale relates back to the mortgage or that it is the inevitable result of it, and therefore not affected by the rule of lis pendens, which has been purposely made so wide as to include not only transfers of properties pendente lite but also any manner of "dealing" with it during the pendency of a proceeding in which it is "directly and specifically in question."
+RatioOfTheDecision	The whole object of the rule is to afford protection to the parties to a pending suit against every kind of dealing wit h the property in dispute and to maintain the status quo existing at the date of the suit.
+Precedent	21.
+Precedent	On the authorities to which we have referred we are lad to the following conclusions:  (1) Where the puisne mortgagee has had the mortgaged property sold before the prior mortgagee institutes a suit, or where the mortgagor parts with his right by a private alienation before such suit, and the prior mortgagee fails to implead the auction-purchaser or the transferee from the mortgagor, the auction-purchaser in his suit acquires no title to possession of the property purchased by him for the simple reason that the mortgagor had ceased to be the owner at the date of the suit and the equity of redemption had become vested in another person who was the only parson that could have been made a party and was not impleaded.
+Precedent	(2) There are conflicting rulings of at least two Division Benches of his Court on the question whether the auction-purchaser in execution of a decree obtained on a prior mortgage without impleading the  subsequent mortgagee acquires, at least, the rights of the mortgagor who was a party, including his right to possession in cases where both the mortgages were simple.
+Precedent	(3) Where sale in execution of a decree obtained on foot of a puisne mortgage takes place during the pendency of the suit on the prior mortgage, there are conflicting rulings of two Division Benches of this Court on the questions (a) whether the sale in the subsequent mortgagee's suit is affected by the rule of lis pendens so as to make the purchaser's right subject to the result of the prior mortgagee's suit; and (b) whether, apart from the effect of the rule of lis pendens, the purchaser in the prior mortgagee's suit is entitled to possession in preference to the purchaser in the puisne mortgagee's suit in case both mortgages were simple, even though the sale in the second mortgagee's suit took place before the sale in the prior mortgagee's suit.
+Precedent	22.
+Precedent	On the second question our own view is that the purchaser in the prior mortgagee's suit acqu ires, at least, the mortgagor's right to possession subject to the right of the purchaser in the puisne mortgagee's suit to redeem the prior mortgage which, for that purpose, should be deemed to be subsisting.
+Precedent	On the third question we hold that the sale in execution of decree obtained by a puisne mortgagee during the pendency of a suit on the prior mortgage is affected by the rule of lis pendens and that the purchaser in the puisne mortgagee's suit must yield to the paramount title in favour of the auction-purchaser in the prior mortgagee's suit.
+RulingByLowerCourt	Our view is in conformity with that taken (by <NAME> and <NAME>, JJ.,) in <CITATION_783718> , and contrary to that taken (by <NAME> and <NAME>, JJ.,) in the case of <CITATION_1019678> .
+RulingByLowerCourt	In these circumstances, we are of opinion that questions 2 and 3 noted above should be referred to a larger <ORG>.
+RulingByLowerCourt	Accordingly, we request the Hon'ble the Chief Justice to refer the aforesaid questions to a Full.
+RulingByLowerCourt	<ORG>.
+Precedent	This appeal will be finally disposed of by us on receipt of the  opinion of the Full Bench on questions 2 and 3..  <NAME>, Ag.
+Precedent	C.J.
+Precedent	23.
+Precedent	The questions-referred to the Full Bench are as follows:  1.
+Precedent	Whether the auction purchaser, in execution of a decree obtained on a prior mortgage without impleading the subsequent mortgagee acquires, at least, the rights of the mortgagor who was a party including his rights to possession in cases where both the mortgages were simple.
+Precedent	2.
+Precedent	Where sale in execution of a decree obtained on foot of a puisne mortgage-takes place during the pendency of the suit on the prior mortgage.
+Precedent	(a) whether the sale in the subsequent mortgagee's suit is affected by the rule of lis pendens so as to make the pnrchaser's right subject to the result of the prior mortgagee's suit; and (b) whether, apart from the effect of the rule of lis pendens, the purchaser in the prior mortgagee's suit is entitled to possession in preference to the purchaser in the puisne mortgagee's suit in case both mortgages were simple, even though the sale in the second mortgagee's su it took place before the sale in the prior mortgagee's suit.
+Precedent	24.
+Precedent	The facts of this case may be briefly stated as follows:  On 6th October 1911 <ORG> and <NAME> made a simple mortgage of their shares in a certain village in favour of certain mortgagees.
+Precedent	A suit to pre-empt this mortgage was brought and decreed, with the result that the mortgagee's rights vested in <NAME> and <NAME>.
+Precedent	25.
+Fact	On 17th May 1912 <ORG> alone made a second simple mortgage in favour of <NAME>.
+Fact	The suit on the second mortgage was instituted on 21st March 1922, against the mortgagor without impleading the prior mortgagees.
+Fact	A preliminary decree for sale was passed on 13th March 1923 and a final decree on 13th November 1923.
+Precedent	26.
+Fact	In the meantime a suit by the prior mortgagees for sale on their mortgage was filed on 29th August 1923 without impleading the subsequent mortgagee.
+Fact	A preliminary decree was obtained against the mortgagors on 15th March 1921 and a final decree on 23rd March 1924.
+Precedent	27.
+Precedent	It will thus appea r that although the suit on the subsequent mortgage was instituted first, there was a parallel suit on the first mortgage as well, and decrees were obtained in both.
+Precedent	Both the suits were pending before any auction sale took place.
+Precedent	28.
+Precedent	The subsequent mortgagee was first to put the mortgagor's interest to sale at auction on 28th 'January 1925, the purchaser being <NAME>.
+Precedent	The prior mortgagees put the mortgagor's interest to sale on 20th November 1925 and they themselves made the purchase.
+Precedent	29.
+Precedent	As <NAME> was the lambardar of the village he did not apply for a formal delivery of possession from the civil Court but got mutation of names effected in <ORG>.
+Precedent	The prior mortgagees however applied for formal delivery of possession and having obtained it, succeeded in <ORG> in getting the name of <NAME> expunged and their own names substituted.
+Precedent	Admittedly <NAME> and <NAME> the mortgagee-purchasers entered into effective possession.
+Precedent	30.
+Fact	<NAME> accordingly brought the pr esent suit for possession and in the alternative for redemption of the prior mortgage in case it was not time barred.
+Fact	The suit was resisted by the prior mortgagee purchasers on the ground that it did not lie, and in any case that the plaintiff must redeem them.
+Precedent	31.
+Precedent	The lower appellate Court has given the plaintiff a decree for possession on payment of half the mortgage money due to the prior mortgagees.
+Precedent	Both parties have accordingly appealed.
+Precedent	32.
+Precedent	The appeals came up for hearing before <NAME> and <NAME>, JJ.
+Precedent	who found that there was a conflict of opinion in this Court.
+Precedent	They were inclined to agree with the opinion expressed by <NAME> and <NAME>, JJ., in <CITATION_783718> and were inclined to differ from the views expressed by <NAME> and <NAME>, JJ., in <CITATION_1019678> am however not sure whether the learned Judges meant to hold that the former case was rightly decided and the latter case was not.
+Precedent	33.
+Precedent	The case has been argued with ability on both sides and a large number of cases have been placed bef ore us.
+Precedent	As there is undoubtedly a conflict of opinion not only in this <ORG> but also in the other High <ORG>s I propose to discuss the relevant cases of this <ORG> and only of course the cases decided by their Lordships of <ORG>, and shall only give references to a few cases of the other High <ORG>s.
+Precedent	34.
+Precedent	There is considerable case law in support of the view that a prior mortgagee, who purchases the mortgagor's interest without impleading the subsequent mortgagee, is entitled to use his prior mortgage as a shield in a suit brought against him by the subsequent mortgagee or his purchaser, in case the prior mortgagee is actually in possession.
+Precedent	The result of the view of this <ORG> was summarised by my learned brother <NAME>, J., in his excellent Commentary on the Transfer of Property Act , Article 238 , in the following terms:  One difference between the rights of a subsequent mortgagee who has acquired or paid off a prior mortgage, and those of prior mortgagee who has acquired the mortgagor's righ t in the property by purchase is important to note.
+Precedent	In the latter case, the person with the double rights cannot sue himself to enforce the prior mortgage and hence he is permitted to hold the prior mortgage as a shield even though at the time the question arises a suit on the prior mortgage would be time barred.
+Precedent	But in the former case, no such consideration arises, and hence the right to hold the prior mortgage as a shield will last only so long as a suit on the prior mortgage will be within time.
+Precedent	35.
+Precedent	The passage from Section 1395 of <ORG> quoted by my learned brother <NAME>, J., also shows that when a party in interest other than the owner of equity of redemption is not made a party to the bill the foreclosure is not generally for this reason wholly void.... His only remedy however is to redeem.
+Precedent	He cannot maintain ejectment against the purchaser.
+Precedent	36.
+Precedent	A Full Bench of <ORG> in <CITATION_1834465> laid down that if from a suit by a mortgagee a subsequent transferee of the mortgagor has be en excluded, the decree does not affect his title.
+Precedent	There can be no question as to the authority of this case.
+Precedent	37.
+Precedent	<ORG> in <CITATION_993476> held that where on a suit by a subsequent mortgagee without impleading the prior mortgagee a decree was obtained and the property was purchased by a third party and subsequently the prior mortgagee brought a suit without impleading the subsequent mortgages and obtained a decree, and the property was sold and purchased by a further party, the letter's suit for ejectment against the third party was not competent.
+Precedent	38.
+Precedent	It will be noticed that in this case it was the purchaser in execution of the prior mortgagee's decree, to which the subsequent mortgagee had not been impleaded, who was suing as plaintiff and claiming possession if the defendants did not redeem him.
+Precedent	It is also clear that no other matter came up for consideration before <ORG>, and no other point was decided.
+Precedent	39.
+Precedent	<NAME> v. <NAME> and <NAME> v. <NAME> [1913] 20 I.C.
+Precedent	18 4 were not cases of purchasers in execution of decrees of rival mortgagees.
+Precedent	40.
+Precedent	In <NAME> v. <NAME> <NAME> and <NAME>, JJ., had a case in which a prior mortgagee brought a suit on his mortgage without impleading the subsequent mortgagee and obtained a decree and purchased the property in execution.
+Precedent	The subsequent mortgage also brought a suit on his mortgage without impleading the prior mortgagee and having obtained up the property for purchased by a third into possession.
+Precedent	The although be got formal possession, failed to dispossess the third party.
+Precedent	He then brought a suit against the subsequent mortgagee and the third party for recovery of the amount due under his mortgage and in default of payment by the defendants for recovery of possession.
+Precedent	It would appear from the judgment that the sale in execution of the subsequent mortgagee's decree took place first.
+Precedent	The learned Judges held that the suit was maintainable and as all the parties were before the Court the equities could be worked out between them and  the third party was entitled to nothing more than an opportunity of paying off the prior mortgage.
+Precedent	41.
+Precedent	With great respect it appears to me that ultimate decision was somewhat contrary to the opinion of <ORG> expressed in <CITATION_993476> .
+Precedent	42.
+Precedent	<CITATION_998791>  33 I.C.
+Precedent	573.
+Precedent	<NAME> and <NAME>, JJ., held that where in a suit for sale the plaintiff occupied the position of a puisne mortgagee and the defendants were persons who were in possession under a decree for foreclosure on foot of their prior mortgage, the defendants could hold up their prior mortgage as a shield, and the plaintiff was entitled to redeem by reason of not having been impleaded in the suit on the prior mortgage.
+Precedent	I shall come back to this case again as it was ultimately disposed of by their Lordships of the' Privy Council in <CITATION_787414> A.I.R.
+Precedent	1922 P.C.
+Precedent	11.
+Precedent	43.
+Precedent	In <NAME> v. <ORG> All.
+Precedent	339 where a prior mortgagee, without impleading the puisne mortgage, sued for and obtained a decree for sale on his mo rtgage, but before the sale actually took place the puisne mortgagee sued for sale on his mortgage and contended that the prior mortgagee, by omitting to implead him, had forfeited his right to execute his decree, <ORG> of this Court held that this was not better nor worse by his not having been impleaded in the prior mortgagee's suit, and that if the prior mortgage was valid the puisne mortgagee was not entitled to a decree for sale without giving the prior mortgagee an opportunity of redeeming him.
+Precedent	It is to be noticed that by the time the second mortgagee brought his suit, limitation for the prior mortgage, if a fresh suit were to be instituted on it had expired.
+Precedent	<CITATION_1199035> A.I.R.
+Precedent	1922 All.
+Precedent	104 <NAME> and <NAME>, <ORG>., held that where a puisne mortgagee wishes to sell property which has already been sold in execution of a decree passed under a prior mortgage, the decree must direct redemption by the second mortgagee of the first mortgage and then an order for sale if the purchaser of the  property does not wish to redeem the second mortgage.
+Precedent	44.
+Precedent	<CITATION_1482029> A.I.R.
+Precedent	1922 All.
+Precedent	394 <NAME> and <NAME>, <ORG>., held that when a prior mortgagee purchases the rights of a mortgagor in execution of a simple money decree his rights under the prior mortgage merge in the purchase so long as no attempt is made by the puisne mortgagee to oust him by litigation or sale from the rights purchased, but it will he presumed that he intends to keep his mortgage subsisting in order that he might use it as a shield to protect himself against any subsequent encumbrance.
+Precedent	45.
+Precedent	In the case of <CITATION_771661> A.I.R.
+Precedent	1923 All.
+Precedent	449 <NAME> and <NAME>, <ORG>., held that where two mortgagees, each without impleading the other, brought suits on their respective mortgages and obtained decrees for sale and purchased the property, the second mortgagee being earlier in date, a suit by the first mortgagee for possession, or compelling the defendant to redeem him, was not maintainable.
+Precedent	Bat here the first mortgagee not  being in possession was suing as plaintiff and could not set up his mortgage as a shield.
+Precedent	46.
+Precedent	<CITATION_481892> A.I.R.
+Precedent	1923 All.
+Precedent	457 <NAME> and <NAME>, <ORG>., held that where a prior mortgagee of a property purchased it and satisfied a mortgage and.
+Precedent	the subsequent mortgagee of the same property brought it to sale on the basis of his mortgage after impleading the prior mortgagee as defendant, it was settled law that the prior mortgagee was entitled to hold up the earlier mortgages which were satisfied out of the sale consideration as a shield against any attempt to deprive him of the property.
+Precedent	47.
+Precedent	<CITATION_787414> two simple mortgages had been executed in 1924 and 1925 by <NAME> in favour of <NAME>, followed by a mortgage by conditional sale in 1883 in favour of <NAME>.
+Fact	In 1886 <NAME> sued for sale without impleading <NAME> and got a decree and in execution purchased the property at auction.
+Fact	He bequeathed it to his wife <NAME>.
+Fact	She obtained probate after his death and then made a gift of it  to her nephews <NAME> and <NAME>.
+Fact	The latter, in whom the rights of <NAME> and <NAME> had become vested, executed a security bond in favour of Mt.
+Fact	<NAME> for her maintenance allowance, hypothecating the same property to her in 1902.
+Fact	In 1910 <NAME> sued <NAME> and <NAME> for foreclosure of his mortgage of 1883, but omitted to implead Mt.
+Fact	<NAME>.
+Fact	The defendants successfully set up the discharge of the mortgages of 1874 and 1875, as a shield and <NAME> had to deposit Rs.
+Fact	2,954 in Court, which amount was taken away by <NAME> and <NAME>.
+Fact	The latter did not redeem <NAME>'s mortgage which was foreclosed in 1913.
+Fact	48.
+Fact	In 1914 Mt.
+Fact	<NAME> brought a suit on the basis of her mortgage of 1902 claiming Rs.
+Fact	10,000 as her arrears of maintenance.
+Fact	She impleaded <NAME> who was in possession of the property.
+Argument	The first Court gave the plaintiff a decree for sale conditional on her paying to the defendants the sum of Rs.
+Argument	2,954, the amount which had been paid to satisfy the mortgage debts of 1874-1875.
+Argument	O n appeal <NAME> and <NAME>, JJ., in <CITATION_998791> modified the decree and directed the plaintiff to pay the additional sum of Rs.
+Argument	8,649 odd which was due on the mortgage of 1883..
+Argument	In the course of the judgment the learned Judges held that the plaintiff, <ORG>, was seeking to enforce her mortgage against a prior mortgagee, who had failed to make her a party and that it was the duty of the Court to give the plaintiff an opportunity of occupying the position which she would have occupied if she had bean made a party.
+Argument	They allowed <NAME> to set up his old mortgages as a shield and to compel the plaintiff to pay off the amount due on them.
+Precedent	In the course of the judgment the learned Judges referred to an earlier case in which the question of limitation was discussed, but pointed out that the defendant was not seeking to enforce the old mortgages but merely held them up as a shield and that he was entitled to stand upon the former mortgages which he had satisfied and take up the position of  a prior mortgagee and claim redemption.
+Precedent	It is noteworthy that at the time when Mt.
+Precedent	<NAME> was suing the mortgages of 1874 and 1875 as well as the mortgage of 1883 would have been barred by time if fresh suits to enforce them were instituted as even the extension of time allowed by the Limitation Act , 1908, had expired.
+Precedent	49.
+Precedent	When the ease went up before their <CITATION_787414> , they distinguished the cases of <CITATION_1905789> A.I.R.
+Precedent	1918 P.C.
+Precedent	34 and <CITATION_846962> A.I.R.
+Precedent	1920 P.C.
+Precedent	79 on the ground that they were decided when Section 89 , T. P. Act, was in force, but as that section had disappeared from Order 34, Civil P. C, their Lordships concluded that the law now was the same as had stood before the Transfer of Property Act was passed.
+Precedent	Their Lordships observed at foot of p. 475:  An owner of a property who is in the rights of a first mortgagee and of the original mortgagor as acquired at a sale under the first mortgage is entitled at the suit of a subsequent mortgagee who is not bound by the sale or t he decree on which it proceeded, to set up the first mortgage as a shield.
+Precedent	50.
+Precedent	At p. 476 their Lordships remarked:  The general principle was stated rightly by <ORG>, namely the plaintiff is a puisne mortgagee seeking to enforce her mortgage, the prior mortgage in his suit having failed to make her a party.
+Precedent	It is the duty of the <ORG> to give the plaintiff the opportunity of occupying the position which she would have occupied if she had been a party to the former suit.
+Precedent	51.
+Precedent	Their Lordships however considered that, owing to the laches of <NAME>, <ORG> and Net Earn bad been allowed to carry off in money the part of the estate represented by the value of the first mortgage which they had really impledged by their mortgage to the widow, and that therefore the widow should not be deprived of her rights.
+Precedent	In the result their Lordships ordered the respondents to pay Rs.
+Precedent	2,925 with interest and in case of such payment directed the plaintiff to pay to the respondents Rs.
+Precedent	8,649 odd being the sum in th e decree on the mortgage of 1883.
+Precedent	The respondents were allowed a right to recover from Net Ram and <ORG> by a separate suit the sum wrongly carried off by them in fraud of their own mortgage.
+Precedent	52.
+Precedent	The question of allowing a prior mortgagee whose mortgage had long since become barred by time, but who was in possession of the property under a decree obtained without impleading the subsequent mortgagee, to set up his prior mortgage as a shield, even though the limitation for the mortgage had run out, was prominently before their Lordships; and their Lordships allowed <NAME> to recover the amount due on his mortgage of 1883.
+Precedent	This, to my mind, is a clear authority for the proposition that a prior mortgagee, if he is in possession, can set up in defence a prior mortgage as a shield, although in his suit he had not impleaded the subsequent mortgagee and even though a fresh suit to enforce it would now be barred by time.
+Precedent	53.
+Precedent	<CITATION_773823> A.I.R.
+Precedent	1926 All.
+Precedent	734 was a case where after the execution of simpl e mortgages the equity of redemption was attached by the plaintiffs' predecessor in execution of a simple money decree and sold.
+Precedent	While the attachment was pending the defendants purchased it.
+Fact	The plaintiffs ultimately purchased the interest at auction but failed to obtain actual possession.
+Fact	They sued for recovery of possession.
+Fact	The defendants set up the payment of previous simple mortgages as a shield.
+Precedent	<NAME> and <ORG>, held that as those mortgages were not usufructuary mortgages and the plaintiffs purchased the equity of redemption, it was not open to the defendants to resist the claim of the plaintiffs to possession, and the defendants had got possession by virtue of a sale which was unenforceable as against the claim arising out of the attachment.
+Precedent	They remarked:  If the sale is invalid they must surrender possession of the same because their mortgages did not give them any right to possession.
+Precedent	54.
+Precedent	In that case the ostensible purchase by the defendants was void against the plaintiffs and they  could not under that colourable title set up payment of previous mortgages as a shield.
+Precedent	<NAME>, J., was one of the members of the <ORG> which had decided the case of <CITATION_1482029> .
+Precedent	55.
+Precedent	When the case went up to their Lordships of <ORG> the judgment was affirmed and the following remark of <ORG> was quoted with approval:  They (i.e.
+Precedent	the defendants) get possession by virtue of the sale of 19th November 1908...if the sale is invalid they must surrender possession of the same because their mortgages did not give them any right to possession.
+Precedent	56.
+Precedent	Their Lordships further observed that whatever rights if any the defendants had under their mortgages, they could no doubt enforce them in proper proceedings taken for the purpose, but there was no opportunity afforded which, enabled them to set up their mortgages as shields against the plaintiffs' claim for possession.
+Precedent	That was a case in which the defendants' purchase of the equity of redemption was void and a nullity and is therefore un like the case of <CITATION_787414> where the purchase had been made without impleading the subsequent mortgagee.
+Precedent	I am therefore of opinion that <NAME> case does not in any way shake the authority of <NAME>'s case.
+Precedent	57.
+Precedent	I now come to the case of <CITATION_1019678> .
+Precedent	No doubt my learned brethren <NAME> and <NAME>, JJ., expresly dissented from certain expressions of opinion made in <CITATION_783718> .
+Precedent	On some points, their opinions are contrary to those held by <NAME> and <NAME>, JJ.
+Fact	But in <NAME> case the plaintiff was the prior mortgagee and the defendant was the puisne mortgagee.
+Fact	Both had sued the mortgagor upon their mortgages without impleading each other and both had obtained decrees for sale and purchased the mortgagor's interest at auction.
+Fact	The sale in execution of the decree of the puisne mortgagee was earlier in point of time, and he also succeeded in obtaining actual possession of the "property.
+Fact	The prior mortgagee purchaser sued for possession offering the defendant an opportuni ty to redeem the plaintiff.
+Precedent	The learned Judges held that the plaintiff was not entitled to possession and the suit was not maintainable.
+Precedent	It would be noticed that apart from certain expressions of opinion contained in the judgment, it was quite clear that the prior mortgagee was not in a position to set up his prior mortgage as a shield.
+Precedent	His suit in substance was one for the enforcement of his mortgage, and had been brought after the mortgage had become barred by limitation.
+Precedent	58.
+Precedent	On the other hand <CITATION_1431870> A.I.R.
+Precedent	1927 All.
+Precedent	28, was a case where an owner of a property possessed the equities of the first mortgagee and the rights of the original mortgagor as acquired by an auction sale in a decree on the first mortgage to which a subsequent mortgagee had not been impleaded.
+Precedent	Both my learned brother <NAME>, J., and myself held that he was entitled in a suit of the subsequent mortgagee, who was not bound by the sale or the decree to which he had not been made a party, to set up the first mortgage as a shie ld.
+Precedent	We both relied on <CITATION_787414> , which was held to be directly applicable.
+Precedent	<NAME> having paid off a previous mortgage was given priority in respect of the amount paid by him as against <NAME> who came under a subsequent mortgage.
+Precedent	The equities were adjusted accordingly, although if <NAME> were suing to enforce the previous mortgage which he had discharged he would have been hopelessly beyond time.
+Precedent	59.
+Precedent	The <ORG> case of <CITATION_842650> is distinguishable in this respect that there the prior mortgagee had obtained his decree, without impleading the subsequent mortgagee and had put up the property to sale long before the subsequent mortgagee brought his suit.
+Precedent	But in the course of my judgment I had occasion to remark at p. 281:  A purchase at auction in execution of a prior mortgage decree, to which a subsequent mortgagee is not a party, does not confer on the purchaser any right to enforce the mortgage by a suit against the subsequent mortgagee not impleaded, (the limitation  for the prior mortgages had expired).
+Precedent	It may give the former the right to redeem the latter.
+Precedent	But where the purchaser has succeeded in obtaining actual possession, Courts in India have allowed to him the equitable right of holding up the discharge of the prior mortgage as a shield for purposes of defence...but a shield is purely a weapon of defence and not attack.
+Precedent	60.
+Precedent	It is analogous to a lien and can be exercised only so long as it is accompanied with possession.
+Precedent	<NAME>, J., also remarked:  Although the auction-purchaser is in one sense standing in the shoes of the prior mortgagee, and can set up the prior mortgage as a shield, nevertheless it is clear in this case that the auction-purchaser did not enter into possession of the property as a representative of the prior mortgagee.
+Precedent	61.
+Precedent	As regards the cases in the other <ORG>, there too the opinion is somewhat conflicting.
+Precedent	I am not called upon, to discuss them, but I would only refer to a few out of the numerous cases : <NAME> v. <NAME> rji (particularly p. 608) [l903] 30 Cal.
+Precedent	599; <CITATION_1957344>  31 Cal.
+Precedent	737; <NAME> v. <NAME>  28 Bom.
+Precedent	153;, and <CITATION_1918772>  24 Mad.
+Precedent	171.
+Precedent	62.
+Precedent	It may also be noted that in <NAME> v. <NAME> [1891] 18 Cal.
+Precedent	164 a puisne mortgagee had been excluded from the previous suit and he was given by their Lordships of <ORG> a decree for sale with application of the purchase money to pay encumbrances in their due order.
+Precedent	63.
+Precedent	It thus appears that there is considerable authority for the support of the proposition stated above.
+Precedent	I now come to a consideration of the principles on which these authorities seem to proceed.
+Precedent	64.
+Precedent	There are three principles which are now well established and from which the right of the prior mortgagee as a defendant in possession to set up his prior mortgage as a shield follows logically.
+Precedent	65.
+Precedent	The first principle is that the omission to implead a person interested in the [mortgaged property in the suit does not make the whole suit defective and the proceed ings null and void, but only frees the parson excluded from all liability 'under the decree.
+RatioOfTheDecision	No doubt Order 34, Rule 1, Civil P. C, lays down that all persons interested in the equity of redemption are necessary parties.
+RatioOfTheDecision	But that rule is a mere rule of procedure and not of substantive law and is subject to the provisions of Order 1, Rule 9, Civil P. C, which lays down that as far as possible no suit is to fail on account of nonjoinder of party.
+RatioOfTheDecision	A prior mortgagee therefore can bring a suit against his mortgagor without impleading a subsequent mortgagee; and if there were no defect of lis pen-dens and no suit by a subsequent mortgagee were pending, the prior mortgagee can sell up the rights and interest of the mortgagor in the mortgaged property, even behind the back of the subsequent mortgagee.
+RatioOfTheDecision	It would be incorrect to say that the decree is null and void and the effect is the same as if the proceedings had never taken place.
+RatioOfTheDecision	I adhere to the opinion expressed by me in <CITATION_842650> :  No doubt the decree o n the previous mortgage is not binding on the subsequent mortgagees, who had not been impleaded, to this extent that their rights under their mortgage have not been extinguished, as would have been the case if they had been impleaded and had not redeemed the prior mortgage.
+RatioOfTheDecision	But it is not correct to say that the previous proceedings are totally a nullity.
+RatioOfTheDecision	As between the prior mortgagee and the subsequent mortgagees the previous proceedings are ineffective, but that does not imply that the mortgagor's interest could not have been sold by the prior mortgagee behind the back of the subsequent mortgagees but subject to their subsequent mortgage.
+RatioOfTheDecision	The mortgagor's interest in the property validly passed to the auction-purchasers no matter whether the subsequent mortgagees were parties to the suit or not.
+RatioOfTheDecision	The auction-purchasers cannot be in a worse position than a, private transferee from the mortgagor.
+RatioOfTheDecision	66.
+RatioOfTheDecision	The second principle is that a purchaser from the mortgagor is entitled to) subrogation.
+Precedent	Section 74 , T. P. Act , expressly conferred a right of subrogation on subsequent mortgagees, but the equitable principle underlying that section was applied to all subsequent transferees on the strength of the rule of equity laid down by their Lordships of <ORG> in <NAME> v. <NAME>  10 Cal.
+Precedent	1035 re-affirmed in <NAME> v. <NAME>  21 Cal.
+Precedent	70 and followed by this <ORG> in several cases out of which mention may be made of Kesrimal v. <NAME>  10 I.C.
+Precedent	556.
+RatioOfTheDecision	It is obvious that there is to be no difference in principle where the transferee from a mortgagor was a transferee under a private treaty or a purchaser at an involuntary sale at auction.
+RatioOfTheDecision	It would further follow that the principle would equally apply if instead of a third party, the prior mortgagee himself were to acquire the equity of redemption.
+RatioOfTheDecision	The old theory of a necessary merger was exploded and the doctrine in <NAME> v. <ORG> was held to be 'inapplicable in India by their Lordships of the Privy Coun cil in <NAME> case referred to above.
+RatioOfTheDecision	It would then seem to follow that if the prior mortgagee can acquire the mortgagor's interest in the suit on his mortgage even without impleading a subsequent mortgagee, <ORG> can claim the benefit of his prior mortgage which would not now be necessarily extinguished.
+RatioOfTheDecision	67.
+RatioOfTheDecision	Apart from all question of lis pen-dens or limitation, a prior mortgagee or for the matter of that any other purchaser under his decree, would be entitled to keep alive his mortgage as against a subsequent mortgagee, who had not been impleaded.
+RatioOfTheDecision	68.
+RatioOfTheDecision	The third principle is that the language of Section 52 has been held to be applicable not only to private transfers but also to <ORG> sales held in execution of decrees.
+RatioOfTheDecision	Section 2 (d) does not make Section 52 inapplicable to Ch.
+RatioOfTheDecision	4, which deals with mortgages.
+RatioOfTheDecision	This is now well settled : vide <NAME> v. <NAME> and <NAME> v. <NAME>  25 Cal.
+RatioOfTheDecision	179, followed in numerous cases out of which mention may be made of <NAME> v. <NAME> .
+RatioOfTheDecision	69.
+RatioOfTheDecision	When a suit under the prior mortgage is pending and the subsequent mortgagee has not been impleaded, the plaintiff is trying to sell the rights and interests of the mortgagor, namely, the equity of redemption.
+RatioOfTheDecision	He is not selling his own rights as the mortgagee, but by the principle of subrogation the auction purchaser would step into the shoes of the mortgagee also in addition to his acquiring the proprietary interest of the mortgagor, subject to the subsequent mortgage.
+RatioOfTheDecision	70.
+RatioOfTheDecision	Thus the equity of redemption of the mortgagor is in dispute in such a suit and the doctrine of lis pen-dens would undoubtedly attach to it.
+Precedent	If in another proceeding, whether it be in execution of a simple money decree or in enforcement of a subsequent mortgage, the same proprietary interest of the mortgagor is simultaneously sought to be sold, Section 52 would apply.
+Precedent	Similarly if while a suit of a subsequent mortgagee for the enforcement of his mortgage against the mortgagor, without impleading the prior mortgagee, is pending, any  attempt on the part of the prior mortgagee to get that interest sold in his own decree would be equally governed by Section 52 .
+Precedent	71.
+Precedent	In <NAME> v. <NAME> at p. 80, Banerji, J., quoted with approval a passage from Bennet, J., on <ORG>:  Where something remains to be done by the <ORG> in the execution of its judgments and decrees other than can be done without order of <ORG> by the merely ministerial officers of the <ORG>, <ORG> continues until this decree is executed.
+Precedent	So in the case of the foreclosure of a mortgage it continues until the purchaser has been put into possession of the property.
+Precedent	72.
+Precedent	The learned Judge held that a sale of the mortgagor's interest between the decree nisi for foreclosure and the order absolute for foreclosure was affected by <ORG>.
+Precedent	73.
+RatioOfTheDecision	It has been suggested that <ORG> cannot apply to the sale in a subsequent mortgage decree for the reason that the transfer in reality took place at the date of the mortgage and the subsequent auction sale is mere ly a necessary result of it.
+RatioOfTheDecision	If these.
+RatioOfTheDecision	arguments were sound it could be said that the transfer under the first mortgage took place at the date of that mortgage and the auction-purchaser in the prior mortgage suit would always have priority even though his auction sale may be later in point of time.
+RatioOfTheDecision	It seems to me that the transfer by the mortgagee at the time of its execution was of the mortgagee's rights and was made to the mortgages.
+RatioOfTheDecision	The equity of redemption of the mortgagor was not all transferred at that time.
+RatioOfTheDecision	In the mortgage suit the plaintiff is trying to put up for sale the mortgagor's equity of redemption and not the mortgagee's interest.
+RatioOfTheDecision	The auction-purchaser would purchase the rights and interest of the defendant mortgagor, although by virtue of the principle of subrogation he would also step into the shoes of the mortgagees and acquire his rights as well.
+RatioOfTheDecision	But it cannot be suggested that the mortgagee's rights are put up for sale or are transferred by the defendant.
+RatioOfTheDecision	It is not a case of a sale of the  mortgagee's interest, but of the mortgagor's interest free from the mortgage.
+RatioOfTheDecision	Indeed, the defendant had no right whatsoever to transfer the mortgagee's rights.
+RatioOfTheDecision	The property purchased at auction may not be co-extensive with that mortgaged, and in most cases is much less.
+RatioOfTheDecision	Can this be the result of only one transfer effected by the mortgage?
+RatioOfTheDecision	In the case before us <NAME> became the auction-purchaser in execution of the decree on the subsequent mortgage.
+RatioOfTheDecision	Can it be said that the transfer made to him really took place when the mortgage was executed in.
+RatioOfTheDecision	favour of the mortgagee : Surely the transfer with which we are dealing and which is in favour of <NAME> could only have taken place on the date of the auction sale and not a day earlier.
+RatioOfTheDecision	To take another illustration.
+Precedent	Suppose there were a third mortgagee who is impleaded and a fourth mortgagee not impleaded.
+Precedent	The sale in pursuance of the second mortgage would extinguish the third mortgage and would not involve a transfer of the third mortgagee's interest t o the purchaser entitling him to enforce it against the fourth mortgagee.
+Precedent	Or suppose that the whole mortgage decree is not satisfied, can it be said that the auction-purchaser has acquired any part of the mortgagee's right?
+Precedent	I therefore do not see how this argument can avoid the applicability of lis pendens to the transfer of the mortgagor's interest, even though that transfer takes place in the case of a mortgage suit.
+Precedent	74.
+RatioOfTheDecision	I fully agree with the opinion expressed by my learned brothers <NAME> and <NAME>, JJ., in their order of reference that it is not possible to get over the doctrine of lis pendens in such cases.
+RatioOfTheDecision	As pointed out above the doctrine would apply equally to both the suits and the sale in each suit would be subject not only to the other mortgage but to the decree or final order passed in the other suit.
+RatioOfTheDecision	The result in my opinion would be that the sales in execution of the decree on the two mortgages in the parallel suits would both be imperfect and not absolute, each being subject to being av oided by the other mortgagee.
+RatioOfTheDecision	This may be a very unsatisfactory state of affairs, but it is the inevitable result of the applicability of Section 52 to both the suits.
+RatioOfTheDecision	75.
+RatioOfTheDecision	The subsequent mortgagee cannot avoid the effect of the doctrine of lis pendens by urging that it was open to him under Order 34, Rule 1, Civil P. C, to enforce his own mortgage subject to the prior mortgage, without impleading the prior mortgagee.
+RatioOfTheDecision	Though he was not bound to implead the latter, he could very well have joined him in the suit.
+RatioOfTheDecision	As the legal title acquired by the purchaser, even though he may be the first in point of time, is defective and imperfect, equity will prevail.
+RatioOfTheDecision	The doctrine of allowing a prior mortgagee who has entered into possession of the mortgaged property to set up his prior mortgage as a shield is a doctrine of equity.
+RatioOfTheDecision	As noted above it is a means of defence and not a weapon of attack.
+RatioOfTheDecision	To allow him to maintain a suit as plaintiff, when limitation on his mortgage has expired would be tantamount to permitting an  enforcement of his time barred mortgage against a person left out from the first suit and now entitled to plead limitation.
+RatioOfTheDecision	76.
+RatioOfTheDecision	While the prior mortgagee has obtained possession of the mortgaged property, though strictly speaking not under his simple mortgage, but because he has acquired the mortgagor's interest in execution of his mortgage decree, he is in enjoyment of the profits in lieu of his interest.
+RatioOfTheDecision	It may well be suggested that the continuous payment of interest in this form helps to keep alive the limitation in his favour.
+RatioOfTheDecision	Strictly speaking the limitation would not apply to the defence.
+Precedent	If however the prior mortgagee does not succeed in obtaining possession, he cannot enforce his rights under the prior mortgage in a suit as plaintiff, if the remedy on that prior mortgage has become barred by time.
+Precedent	77.
+Precedent	After the equities have been adjusted by the payment of the amounts due on the encumbrances, which can be validly ordered to be paid up, the equity of redemption of the mortgagor will ultimately remai n vested in the person who purchased it at auction first in point of time.
+Precedent	The same property cannot pass to two persons under different sales, and therefore after the legal defects have been removed and the equities have been adjusted preference must be determined by the priority of purchase in point of time.
+Precedent	78.
+Precedent	In my judgment the following results follow from these conclusions:  1.
+Precedent	(A) If the purchaser in execution of the prior mortgagee's decree is not in possession and is suing as plaintiff the purchaser in execution of the subsequent mortgagee's decree.
+Precedent	(a) he can enforce his remedy, if limitation on the prior mortgage has not yet run out, but  (b) he cannot recover the mortgage money, if limitation has run out.
+Precedent	(B) (a) If he was the earlier purchaser in point of time, he can redeem the second mortgage and recover possession, even though the prior mortgage is barred by time.
+Precedent	(b) But if he was the later purchaser in point of time, then his suit even for redemption cannot be decreed.
+Precedent	2.
+Precedent	If the purchas er in execution of the second mortgagee's decree is suing the purchaser in execution of the prior mortgagee's decree, who is the defendant in possession, then  (a) if the purchaser under the second mortgage was the earlier purchaser in point of time, he must redeem the prior mortgage, and the purchaser under the prior mortgage cannot compel the purchaser under the second mortgage to submit to redemption by him;  (b) if the purchaser under the second mortgage was later in point of time, then he must first redeem the prior mortgage, but the purchaser under the prior mortgage will have the right to redeem the purchaser under the second mortgage next, and retain possession of the mortgagor's property.
+Precedent	<NAME>, J.
+Precedent	79.
+Precedent	This is a reference to <ORG>.
+Precedent	The questions that have been referred to <ORG> have not been separately formulated, but I gather from the order of reference that the following are the questions on which answers are needed,  1.
+Precedent	Whether the auction-purchaser in execution of a decree obtai ned on a prior mortgage without impleading the subsequent mortgagee acquires, at least, the rights of the mortgagor who was a party, including his right to possession in cases where both the mortgages were simple?
+Precedent	2 (a).
+Precedent	Whether the sale in the subsequent mortgagee's suit is affected by the rule of lis pendens so as to make the purchaser's right subject to the result of the prior mortgagee's suit?
+Precedent	(b) Whether apart from the effect of the rule of lis pendens, the purchaser in the prior mortgagee's suit is entitled to possession in preference to the purchaser in <ORG> suit in case both the mortgages were (sic) simple, even though the sale in the second mortgagee's suit took place before the sale in the prior mortgagee's suit?
+Precedent	80.
+Precedent	The facts of the case must be carefully noted, because the questions put to <ORG> cannot be answered irrespective of facts.
+Precedent	The questions are rather wide in their nature and are capable of different answers under different circumstances.
+Precedent	I take it however that  the reference relates to the admitted and established facts of the case and I therefore lay emphasis on the facts of this case.
+Precedent	My answer should not be taken as relating to any facts which are not identical with the facts of this case.
+Precedent	81.
+Precedent	<NAME> and <NAME> were two brothers and owned certain properties in equal shares.
+Precedent	They made a simple mortgage for Rs.
+Precedent	2,500 in favour of Mt.
+Precedent	Dulari wife of <NAME> and to one <NAME> on 6th October 1911.
+Precedent	The mortgage money was payable in ten years with a certain rate of interest.
+Precedent	It was agreed that the interest would be paid yearly and in default of payment of the yearly rent the mortgagees would be entitled to sue for their mortgage money.
+Precedent	The result was that the Court below has held that the mortgage became payable in 1912 and the limitation for the suit would expire in 1924.
+Precedent	82.
+Precedent	Defendants 1 and 2 in the suit out of which this appeal has arisen, namely, <NAME> and <NAME>, hereinafter to be called the prior mortgagees, sued the simple mortgagees Mt .
+Precedent	<ORG> and <NAME> for pre-emption and were successful with the result that they became substituted as the mortgagees.
+Precedent	83.
+Fact	One of the brothers who had mortgaged the property in 1911, namely <NAME>, mortgaged his half share in the property already mortgaged, to <ORG> for Rs.
+Fact	300 on 17th May 1912.
+Fact	The prior mortgagees brought a suit for sale, being Suit No.
+Fact	166 of 1923, on 29th August 1923.
+Fact	To this suit the subsequent mortgagee <ORG> was not made a party.
+Fact	The important dates are as follows:  Date of suit ... 29th August 1923.
+Fact	Preliminary decree ... 15th March 1924.
+Fact	Final decree ... 23rd March 1925.
+Fact	Sale in execution of prior decree ... 20th Nov. 1925.
+Fact	(Prior mortgagees themselves purchased), Delivery of possession through Court... 7th Feb. 1926.
+Fact	<ORG> instituted his suit being No.
+Fact	105 of 1922.
+Fact	To this suit the prior mortgagees were not parties.
+Fact	The important dates are as follows: Institution of the suit ... 21st March 1922.
+Fact	Preliminary decree ... 13th March 1923.
+Fact	Final decree for sale ... 13th Nov .
+Fact	1923.
+Fact	Sale at auction (pur- chaser being <NAME> plaintiff) ... 20th Jan. 1925.
+Fact	(No delivery of possession through the Court).
+Precedent	84.
+Precedent	Order of mutation of names in favour of auction-purchaser, 21st April 1925.
+Precedent	85.
+Fact	It has been held that although <NAME> succeeded in obtaining on order of mutation in his name he was not actually in possession and the prior mortgagees by virtue of their purchase were actually put in possession on 7th February 1926.
+Fact	86.
+Fact	<NAME> raised the suit out of which this appeal and reference have arisen against the prior mortgagees who have purchased in execution of their own decree for possession of the property (half share belonging to <NAME>) purchased by himself and has made the mortgagors or their representatives also parties.
+Fact	His contention is that he is entitled to possession without payment of anything to defendants 1 and 2, but he had offered to redeem them in case it is found that the plaintiff is not entitled to possession without redemption of the prior mor tgage of 1911.
+Fact	87.
+Fact	The suit was resisted on various grounds.
+Fact	<ORG> held that the plaintiff was entitled to possession unconditionally, but defendants 1 * and 2 were entitled to redeem the plaintiff.
+Fact	It accordingly directed that the plaintiff's suit should be decreed subject to this condition: that if defendants 1 and 2 redeemed the plaintiff (in reference to the second mortgage) the suit would stand dismissed, except for costs.
+Fact	88.
+Fact	The plaintiff filed an appeal and defendants 1 and 2 filed a cross-objection.
+Fact	The cross-objection related to the question of costs and to the finding of the first <ORG>, as to possession in favour of the plaintiff.
+Fact	89.
+Fact	The lower appellate <ORG> held that the plaintiff was not in possession when defendants 1 and 2 were put in possession, that the mortgage of 1911 was time barred at the date of <NAME> suit which was instituted in December 1926, that defendants 1 and 2 had a right to hold up as a shield their prior mortgage of 1911, although it wag time barred, be cause as a matter of fact, defendants 1 and 2 were in possession, and that the plaintiff was entitled to redeem half of the property mortgaged in 1911.
+Fact	The lower appellate Court accordingly modified the decree of the Court of first instance and gave a decree for possession to the plaintiff on condition that he redeemed the mortgage of 1911 on payment of half the mortgage money within a period of six months.
+Precedent	90.
+Argument	Point No.
+RatioOfTheDecision	1: As already stated, the question is rather wide and, ordinarily speaking, the answer should be in the affirmative if we disregard the peculiar facts of this particular case.
+RatioOfTheDecision	When a mortgagee, whether he be a prior mortgagee or a subsequent mortgagee, brings the mortgaged property to sale the auction-purchaser acquires the two interests possessed by the mortgagee and the mortgagor respectively.
+RatioOfTheDecision	A mortgage is according to Section 58 , T. P. Act, a transfer of an interest in immovable property in favour of the mortgagee.
+RatioOfTheDecision	A property has been described as a bundle of rights and when a person ma kes a mortgage, he parts with some of his rights in the property in favour of the mortgagee.
+RatioOfTheDecision	To clearly understand the principle, let us take this illustration.
+Precedent	Suppose P represents the property.
+Precedent	If it is mortgaged to say three persons A, B and C, we may say that the interest P-l, out of the entire property P, has been parted with in favour of A, the interest P-2 has been parted with in favour of B, interest P-3 has been parted with in favour of C, and what remains with the mortgagor D is the interest P-4.
+Precedent	In the case supposed P is = P-1 + P-2 + P-3 + P-4.
+Precedent	If A the first mortgagee, brings a suit for sale (I am speaking of simple mortgages only) and makes, as he ought to do, the mortgagor and all the subsequent mortgagees parties, the auction-purchaser acquires the interest of A, the interest of B, the interest of C, and the interest of the mortgagor; that is to say he acquires P-1-, P-2, P-3, P-4, and therefore the entire property P. But if A brings a suit for sale against the mortgagor alone without impleadi ng B and C, the auction-purchaser acquires the interest of the mortgagee A, which is P-l, and the interest of the mortgagor which is P-4 only.
+Precedent	Thus the auction-purchaser is the owner of P-l and P-4 alone.
+Precedent	The interest P-2 and P-3 have not vested in the auction-purchaser.
+Precedent	91.
+Precedent	It follows from what has been stated above that the auction-purchaser will be entitled to take possession of the property as he has acquired the interest of the mortgagor which is P-4.
+Precedent	92.
+Precedent	It will thus be seen that the question is purely elementary in its character and the answer is equally simple and affirmative.
+Precedent	93.
+RatioOfTheDecision	If however we seek to apply the principle enunciated above to the facts of this case, we shall find that the question involved in this case is more complicated.
+RatioOfTheDecision	What we have to consider in deciding the reference is what rights are left out if B and C the subsequent mortgagees, are not impleaded in the suit of A, as has been done in this case, by the omission of <NAME> from the suit.
+RatioOfTheDecision	B and C have not only a right to  redeem A or, in the case of a sale, the auction-purchaser (it matters little whether the auction-purchaser is the prior mortgagee himself or a third party), but also they have an absolute right to bring the interests mortgaged to them to sale, without payment of the prior mortgage of A B can raise a suit of his own by making <NAME> a party as a subsequent mortgagee.
+RatioOfTheDecision	D, a party as the mortgagor, and the auction-purchaser in A's suit and decree, as the person who has acquired the interests of the mortgagor, in execution of the decree obtained by A.
+RatioOfTheDecision	B can say that he would sell the property subject to the mortgage in favour of A and now held by (I am not considering the question of limitation for the present) the auction-purchaser, and nobody can possibly object to this attitude of his.
+RatioOfTheDecision	A by omitting B and <NAME> from his.
+RatioOfTheDecision	suit could not in any way interfere with B's right to sell the mortgage property subject to the prior mortgage.
+RatioOfTheDecision	This aspect of the rights of the subsequent mortgagee, who has been omitted from the prio r mortgagee's suit is very often overlooked.
+RatioOfTheDecision	A by his act or omission cannot take away the rights of B.
+RatioOfTheDecision	Now if B's suit is decreed, as it is bound to be, unless the auction-purchaser under the prior mortgage, in his capacity of the representative of the mortgagor, redeems B, the property will be sold subject to the prior mortgage of A and the auction-purchaser, whoever he may be, will be entitled to obtain possession, even as against the auction-purchaser under the prior mortgage decree.
+RatioOfTheDecision	The only right which the auction-purchaser under the prior mortgage of A will then have is to bring a suit for sale after making the subsequent auction-purchaser a party.
+RatioOfTheDecision	In this suit the prior auction-purchaser will be entitled to nothing but the amount of the price which he has paid for the property, not exceeding the mortgage money due to A.
+RatioOfTheDecision	If the auction-purchaser be A himself and if he has purchased the property in full satisfaction of his mortgage decree, he will be entitled to realize the whole of the mortgage money b y a fresh sale.
+RatioOfTheDecision	94.
+RatioOfTheDecision	No authority is needed in support of the elementary proposition that in execution of a mortgage decree the auction-purchaser acquires not only the interest of the mortgagor but also that of the mortgagee, who brings the property to sale.
+RatioOfTheDecision	I may however quota some authorities on the point.
+Precedent	<NAME>, in his well-known book " Law of mortgages of Real Property" Ed.
+Precedent	7 in Article 1305 , states as follows, in considering what is the effect of omitting a party, interested in the mortgaged premises, other than the original mortgagor himself.
+Precedent	He says:  When a party in interest other than the owner of the equity of redemption is not made a party to the bill, the foreclosure is not generally for this reason wholly void.
+Precedent	It is effectual as against those persons' interest in the equity, who are made parties.
+Precedent	The sale vests the estate in the purchaser, subject to redemption by the person interested in it, who was not made party to the proceedings.
+Precedent	His only remedy however is to redeem.
+Precedent	<NAME> cannot maintain eje ctment against the purchaser.
+Precedent	He cannot have the sale sot aside by intervening, by petition in the foreclosure suit.
+Precedent	His only right is the right of redemption.
+Precedent	The sale though it fails to be effectual in other respects operates as an assignment of the mortgage and all the mortgagee's rights to the purchaser who may proceed de novo to foreclose, as against the parties whose interests have been omitted.
+Precedent	95.
+Precedent	As a commentary on this text quoted from <NAME>, I may point out that the word "foreclosure" is a common designation for suits both for sale and for "fore-closure" strictly so called.
+Precedent	Further, I would point out that where the author is talking of the right of the party, omitted from the previous suit, to redeem, he is not considering the right of a subsequent transferee who was omitted, to raise a suit of his own and to bring the property to sale subject to the prior mortgage relating to the suit to which he was not a party.
+Precedent	The author is contracting a suit for redemption with a suit in ejectment.
+Precedent	96.
+Precedent	Simil arly, <NAME> (Edn.
+Precedent	9 of 1927, Vol.
+Precedent	2, p. 940) in considering what passes to the purchaser when a sale is held under an English mortgage states:  The effect of a conveyance by the mortgages under an express or statutory power to sell is to vest the property in the purchaser discharged from the mortgage and all claims arising thereunder and free from equity of redemption.
+Precedent	97.
+RatioOfTheDecision	This means that in the purchaser, vest all the rights of the mortgagee and all the rights of the mortgagor and not only the rights of the mortgagor alone.
+RatioOfTheDecision	The rights of the mortgagor alone would mean the equity of redemption, burdened with the mortgage.
+RatioOfTheDecision	The purchaser gets the property free from mortgage and therefore if there be no intermediate mortgagee he gets the entire property.
+RatioOfTheDecision	If there be an intermediate mortgagee, the purchaser gets the first mortgagee's rights, also the rights of the mortgagor.
+RatioOfTheDecision	98.
+RatioOfTheDecision	Answer to Question No.
+RatioOfTheDecision	1.
+RatioOfTheDecision	My answer therefore to question No.
+RatioOfTheDecision	1 is in the affirmative, subject to the rider that the sale in favour of  the auction-purchaser does not prevent the subsequent mortgagee from bringing a suit of his own and sell the property again by making the auction-purchaser under the prior mortgage a party to it, the property being sold in the second suit, subject to the prior mortgage.
+RatioOfTheDecision	99.
+RatioOfTheDecision	Point No.
+RatioOfTheDecision	2 (a).
+RatioOfTheDecision	I must consider this question with reference to the facts of this case and not independently of them.
+Precedent	The question would otherwise be very wide and would be capable of different answers in different circumstances.
+Precedent	The question is:  Whether the sale in a subsequent mortgagee's suit is affected by the rule of lis pendens so as to make the purchaser's right subject to the result of the prior mortgagee's suit.
+Precedent	100.
+RatioOfTheDecision	There can be no doubt that the rule of lis pendens, generally speaking, applies to cases of transfer pending suit on a mortgage.
+RatioOfTheDecision	Thus, if where a mortgagee's suit is pending the mortgagor transfers his property voluntarily or, if his interest is attached in execution of a simple money decree and it is sold, the p urchaser by private treaty or the auction-purchaser would take the property subject to the result of the mortgage suit.
+RatioOfTheDecision	Again, if pending a mortgage suit, the mortgagee plaintiff should sell his interest by private treaty, or if his interest be attached in execution of a simple money decree and be sold the purchaser by private treaty or the auction-purchaser, as the case may be, would purchase subject to the result of the mortgage suit.
+RatioOfTheDecision	This would be in accordance with Section 52 , T. P. Act, read with general principles of law.
+RatioOfTheDecision	Literally, Section 52 applies to a transfer by a party to the suit, which would be a private act, but there can be no doubt on principle and on authorities, that where the interest of a party is transferred at the instance of a simple money creditor, who attaches the same in execution, the principles of the section would apply.
+RatioOfTheDecision	The reason is perfectly clear.
+RatioOfTheDecision	Although a party is not himself transferring the property, he is made to do so involuntarily at the instance, of the <ORG> and t he result would be the same.
+RatioOfTheDecision	101.
+RatioOfTheDecision	Where however a transfer takes place, not in execution of a simple money decree or by private treaty, but at the instance of a prior or subsequent mortgagee, who is no party to the litigation, Section 52 or the principles on which Section 52 is based, has no application whatsoever.
+RatioOfTheDecision	The reasons are these.
+RatioOfTheDecision	There is no difference in principle between a private sale and a sale held in execution of a simple money decree after attachment.
+RatioOfTheDecision	A judgment-debtor has failed to pay while he could pay by selling his property.
+RatioOfTheDecision	The Court seizes the property and sells it for the judgment-debtor for the benefit of the judgment-creditor.
+RatioOfTheDecision	There, the only right that passes to the auction-purchaser is the right, title and interest of the judgment-debtor alone and none of the decree-holder, who has no interest whatsoever in the property attached and sold.
+RatioOfTheDecision	102.
+RatioOfTheDecision	In the case of a sale under a mortgage, the transfer has already taken place at the date of the mortgage and what follows, namely the subse quent sale in execution of the mortgage decree, is nothing but the logical effect of a transfer which took place some time ago and not during the pendency of the suit by the prior mortgagee.
+RatioOfTheDecision	Let us consider this illustration.
+Argument	<ORG> has made a simple mortgage of property P to <ORG>.
+Argument	<ORG> sues <ORG> for recovery of P on the allegation that <ORG> is the owner of the same.
+Argument	To this suit, <ORG> does not make 0 a party.
+Argument	It is clear that if <ORG>'s suit be decreed, <ORG> will not be bound by the result of the suit.
+RatioOfTheDecision	There is no transfer pendente lite.
+RatioOfTheDecision	Now let us suppose that while the suit of <ORG> against <ORG> was pending, <ORG> brings a suit against <ORG> for sale of the property under the simple mortgage executed in his favour, and during the pendency of <ORG>'s suit, brings the property P to sale and himself purchases it.
+RatioOfTheDecision	The question is: " Will <ORG> be bound by the result of the suit in favour of <ORG>? "
+RatioOfTheDecision	We have seen that <ORG> as a mortgagee would not be bound by the decree passed in favour of <ORG>, not being a party to <ORG>'s suit, and because there was no transfer in favour  of <ORG>, pending the suit of A.
+Fact	"Will <ORG> be bound because he has brought a suit of his own on the mortgage and purchased the property himself? "
+Fact	If it be said that <ORG> would be bound in the capacity of the auction-purchaser, how will you divide up <ORG>'s liability between his capacity as the mortgagee and his capacity as the auction purchaser?
+Fact	How far will <ORG> be bound, if he be bound at all?
+Precedent	If we should hold, as we ought to, that <ORG> is not at all liable, how, and on what principle, shall we hold the auction-purchaser, in execution of the decree obtained by <ORG>, liable, if the purchaser should happen to be somebody other than <ORG> himself?
+Precedent	103.
+Precedent	On principle therefore the sale in pursuance of a mortgage decree, the mortgage having been executed before the institution of the suit, is not affected by the doctrine of lis pendens.
+Precedent	104.
+Precedent	Further, the sale in execution of a mortgage decree transfers not only the interest of the mortgagor, but also the interest of the mortgagee himself: see observations on question 1 .
+Precedent	105.
+Precedent	Let us  recollect the illustration of three mortgages and the mortgagor in an earlier portion of this judgment.
+Precedent	If a sale takes place at the instance of the second mortgagee, the third mortgagee being a party to the suit, the auction purchaser would acquire the rights of the two mortgagees and of the mortgagor, The mortgagor alone is a party to the prior mortgagee's suit, while the second mortgagee is not.
+Precedent	How will you split up the liabilities of the auction-purchaser in his various capacites as the representative of the mortgagor he will be bound by the decree obtained by the prior mortgagee and will not be permitted to question the decree, while as the representative of the second mortgagee ha will be entitled to treat the decree as not binding on him, and will be entitled to ask for redemption and also to sell the property again, subject to the prior mortgage.
+Precedent	106.
+Precedent	To apply the principle to this case, when <NAME> purchased on 20th January 1925, he acquired the interest, which is the sum total of the interest of S ital and <NAME>.
+Precedent	<ORG> alone was a party to the suit of <NAME> and <NAME>, but <NAME> was no party to it.
+Precedent	The transfer in favour of <NAME> was therefore a transfer not by " any party to the suit or proceeding " within the meaning of Section 52 ; T. P. Act.
+Precedent	107.
+RatioOfTheDecision	It has been suggested that even in the case of a mortgage sale only the right, title and interest of the judgment-debtor (the mortgagor) passes to the auction-purchaser, and that the auction purchaser gets the interests of the plaintiff mortgagee on the principle of subrogation alone.
+RatioOfTheDecision	But what would happen in the case, which I have considered by way of illustration.
+RatioOfTheDecision	In the case of a suit by the second mortgagee, against the third mortgagee and the mortgagor, the auction-purchaser acquires not only the interest of the second mortgagee, B, but also the interest of C and D, the second mortgagee and the mortgagor respectively.
+RatioOfTheDecision	The auction-purchaser has paid the mortgage money due to the second mortgagee and thus we may say (let us assume) that  the auction-purchaser has acquired, by subrogation, an interest of the second mortgagee B.
+RatioOfTheDecision	But how does he acquire the interest of C, the subsequent mortgagee also?
+RatioOfTheDecision	There is no question of payment of the money due to C the third mortgagee.
+RatioOfTheDecision	The failure of the third mortgagee C to redeem the mortgage in favour of the second mortgagee B extinguishes the rights of the third mortgagee and vests the auction-purchaser with the rights belonging to the second mortgagee, the third mortgagee and the mortgagor.
+Precedent	108.
+Precedent	The text-books when they talk of application of the principles of lis pendens, where the mortgage suit is pending, they speak of the transfer of equity of redemption or the mortgagor's interest.
+Precedent	I have not come across a case where an auction-purchase in execution of a mortgage decree held by a person not a party to the lis has been held to come within the purview of the rule of lis pendens.
+Precedent	109.
+RatioOfTheDecision	Again, let us take note of the facts of the present case.
+RatioOfTheDecision	The suit by <NAME> was a perfectly good suit.
+RatioOfTheDecision	He was no t bound to make <NAME> and <NAME> defendants 1 and 2 parties to the suit, they being prior mortgagees.
+RatioOfTheDecision	It follows that the result of the suit should not be allowed to be vitiated by anything done irregularly by <NAME> and <NAME>.
+RatioOfTheDecision	<NAME> and <NAME> instituted their suit in the absence of <ORG> and got a decree and brought the property to sale.
+RatioOfTheDecision	By obtaining the decree to which <ORG> was not a party, they could not prejudice the right of <ORG> which was twofold, namely : (1) the right to redeem <NAME> and <NAME> and; (2) to sell the mortgage property (subject to the prior mortgage in favour of <NAME> and <NAME>.
+RatioOfTheDecision	If the sale in favour of <NAME> be vitiated by the principle of lis pendens, the proceedings in the suit of <NAME> and <NAME> and the purchase by them are equally vitiated on the principle of lis pendens, owing to the pendency of <ORG>'s suit, 105 of 1922.
+RatioOfTheDecision	Each of the two purchases made, respectively, by <NAME> and <NAME> and <NAME>, would be affected b y the principle of lis pendens.
+RatioOfTheDecision	Then who is the true owner of the property?
+RatioOfTheDecision	The mortgagor's interest must vest in somebody.
+RatioOfTheDecision	It cannot reside in no person or, inchoately, in both <NAME> and <NAME> and <NAME>.
+RatioOfTheDecision	When <NAME> and <NAME> made the purchase the property, being the interest of <NAME>, had already passed to <NAME> and this happened, not by virtue of anything done by <ORG> or <NAME> during the pendency of <NAME> and <NAME>'s suit No.
+RatioOfTheDecision	166 of 1923, but by virtue of what had been done so early as on 17th May 1912, the date of the mortgage.
+RatioOfTheDecision	The mortgage suit of <ORG> was nothing but a corollary of the transfer effected in 1912.
+RatioOfTheDecision	Besides, as I have already said, the result of the suit was a transfer to <NAME> of an interest, which was not the sole interest of <NAME>, but an interest which is the sum total of the interests of <NAME> and <ORG>, We cannot split up this interest acquired by <NAME> and say that so far as <NAME>'s interest is co ncerned, it is affected by the principle of lis pendens, although the interest of <ORG> is not affected by that principle.
+RatioOfTheDecision	110.
+Argument	It has been argued that <NAME> got his interest by a sale held in 1925 and not by the mortgage of 1912.
+RatioOfTheDecision	I do not regard this argument as serious, because the mortgage of 1912 gave <ORG> a right to bring the interest of <ORG> to sale and it is that right of 1912 that has been exercised by <ORG> and, as the result of the exercise of that right, <NAME> had made the purchase.
+RatioOfTheDecision	If instead of <NAME>, the second mortgagee himself had purchased, could it then be said that <ORG> Prasad's right, as the auction-purchaser, were something different from, and had no basis on, the mortgage of 1912?
+RatioOfTheDecision	111.
+RatioOfTheDecision	I may point out, and this is very important to note, that if the subsequent mortgagee <ORG> had been a party to the suit of <NAME> and <NAME>, there would have been no difficulty, in holding that <NAME> would have been bound by the result of <NAME> and <NAME> ia Ram's suit.
+RatioOfTheDecision	For, in that case, both the subsequent mortgagee <ORG> and <ORG>, being parties to the suit of 1923, and because of holding interests inferior to those of the first mortgagee, their interests would have passed subject to the result of the prior mortgagee's suit.
+RatioOfTheDecision	As I have said this is an important distinction to remember, and the simple question formed in the order of reference does not take note of the different answers that may be given in different cases.
+RatioOfTheDecision	112.
+RatioOfTheDecision	My answers therefore to question 2 (a) is as follows:  Answer to question 2 (a):  Where a transfer takes place as the result of an auction sale held during the pendency of a prior mortgagee's suit, in execution of a subsequent mortgagee's decree, the principle of lis pendens will not apply.
+Fact	If however both the subsequent mortgagee and the mortgagor be parties to the prior mortgagee's suit, the auction-purchaser in the subsequent mortgagee's suit will be bound by the result of the prior mortgagee's suit, but not on the principl e of lis pendens but because the subsequent mortgagee and all who are parties to his suit claim under titles inferior to that of the prior mortgagee.
+Fact	Question 2 (6).-It runs as follows:  Whether apart from the effect of the rule of lis pendens, the purchaser in the prior mortgagee's suit is entitled to possession in preference to the purchaser in the puisne mortgagee's suit, in case both the mortgages are simple, even though the sale in the second mortgagee's suit took place before the sale in the prior mortgagee's suit?
+Precedent	113.
+Precedent	The question, here again, is too wide and is capable of different answers in different circumstances.
+Precedent	I take it that the question was framed with reference to the facts of this case and this case alone.
+Precedent	114.
+Precedent	It is firmly established that the purchaser in execution of a mortgage decree obtains the rights of the mortgagor and the mortgagee alone; if therefore the subsequent mortgagee has not been made a party to the prior mortgagee's suit, the auction-purchaser acquires no right as agai nst the subsequent mortgagee, and it would follow, as against those who claim under the subsequent mortgagee.
+RatioOfTheDecision	It is equally a firmly established proposition that a property can be sold only once and the mortgagor can lose his property once only.
+RatioOfTheDecision	Thus the purchaser at the first auction sale, whether it be held under the prior mortgage, or whether it be held under the subsequent mortgage, acquires the interest of the mortgagor.
+RatioOfTheDecision	After the mortgagor's interest has once passed away to a purchaser, that interest cannot be sold again effectively : see, e. g. <ORG> v. <NAME>.
+Precedent	115.
+Precedent	In this case before us, <NAME>, having purchased first, became the owner of the interest of <ORG> and the interest of <ORG> could not again be sold by virtue of the sale held on 7th February 1926.
+Precedent	No doubt, it would be open to the prior mortgagees <NAME> and <NAME>, who have purchased at auction, to bring a second suit against <NAME> (if there be no bar of limitation) and sell up the interest of Janki  <NAME>, if he fails to redeem <NAME> and <NAME>.
+Precedent	116.
+Precedent	The <ORG> cases of <CITATION_993476> and <CITATION_1834465> both being decisions of five learned Judges of this Court, are authorities for the proposition that a simple mortgagee can give, to the purchaser, his own right as simple mortgagee alone, and those rights of a simple mortgagee do not carry with them a right to obtain possession.
+Fact	Answer to question 2 (b).-My answer therefore to the question is that, generally, it is the first purchaser who gets the property and the question of purchase has nothing to do with the priority or posterity of the mortgage, in enforcement of which the property is sold.
+Fact	Doctrine of shield.-In the course of the arguments before the <ORG>, some question as to the right of the prior mortgagee, who has obtained possession, rightly or wrongly, to hold up his prior mortgage as a shield, against a suit by the person, to whom property has passed rightfully, was raised and discussed.
+Fact	I do not find that there is a nything in the reference which requires a discussion of the principles of the doctrine of shield and I therefore refrain from expressing any opinion.
+Fact	I will content myself with referring to the latest pronouncement of their Lordships of <ORG> in <CITATION_187839> A.I.R.
+Fact	1929 P.C.
+Argument	288.
+Argument	The paper book and the judgment of <ORG> were put before us and I find that <NAME> and <NAME>, JJ., do refer to the fact that the defendant's counsel relied on the doctrine of shield.
+Argument	But the plea was disregarded not only by <ORG>, but also by their Lordships of <ORG>, on the ground that the simple mortgages held by the defendant did not give him a right to hold possession as against the rightful owner.
+Precedent	This is in accordance with the <ORG> cases of <CITATION_993476> and <CITATION_1834465> .
+Precedent	117.
+Precedent	I have not referred to decided cases, as, in my opinion, an attempt to follow them in disregard of principles, has been responsible for all the troubles, so clearly pointed out by t he learned Judges making the reference.
+Precedent	If the decision of the present <ORG> or of the majority of them be based on sound principles, it would not matter if the reconciliation of authorities has not been attempted.
+Precedent	<NAME>, J.
+Precedent	118.
+Precedent	I agree with <NAME>, Ag.
+Precedent	C. J., and for the reasons given by him.
+Precedent	<NAME>, J.
+Precedent	119.
+Precedent	I agree with the judgment of <NAME>, Ag.
+Precedent	C. J., and have nothing to add.
+Precedent	<NAME>, J.
+Precedent	120.
+Precedent	After reading the judgment of <NAME>, Ag.
+Precedent	C. J., I am confirmed in the view expressed in the order of reference and have nothing to add.
+Precedent	121.
+RatioOfTheDecision	The answer to the first question is in the affirmative, if either no suit by the subsequent mortgagee is pending or the purchase in execution of the prior mortgagee's decree was earlier in point of time.
+RatioOfTheDecision	If the first mortgagee be the earlier purchaser, the rights of the mortgagor to obtain possession will ultimately vest in him.
+RatioOfTheDecision	If his mortgage is not time barred, he can compel the subsequent mortgagee to redeem him, but if it is time barred he must redeem the su bsequent mortgage.
+RatioOfTheDecision	122.
+RatioOfTheDecision	The answer to (a) of the second question is in the affirmative.
+RatioOfTheDecision	123.
+Argument	The answer to (b) of the second question is that if <ORG> does not apply and the second mortgagee is the earlier purchaser, the prior mortgagee will have the right to take possession as plaintiff if a suit on his mortgage be not time barred.
+Argument	If the second mortgagee redeems him, the second mortgagee will retain the property.
+Argument	If the prior mortgage has become barred by time, the prior mortgagee cannot obtain possession.

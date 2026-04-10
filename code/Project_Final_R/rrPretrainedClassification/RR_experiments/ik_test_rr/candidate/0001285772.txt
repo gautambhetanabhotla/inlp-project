@@ -1,0 +1,95 @@
+Precedent	JUDGMENT <NAME> Offg.
+Precedent	C.J.
+Precedent	1.
+Fact	At the instance of the assessee, this court directed <ORG> to refer the following question for its opinion.
+Fact	-  "Whether on the facts, and in the circumstances of the case, <ORG> is justified in sustaining both the additions of Rs.
+Fact	14,222/- as deficit yield and Rs.
+Fact	35,4007- as cash credits and whether they do not amount to double taxation?"
+Fact	2.
+Fact	The facts relevant to this question may be 'shortly stated:  The return submitted by the assessee, who is a dealer in the manufacture and sale of ground-nut-kernel and cake at <ORG> disclosed a gross profit of Rs.
+Fact	5,118/- on a turnover of Rs.
+Fact	3,67,000/- the purchases of ground-nut alone amounting to Rs.
+Fact	2,41,213/- and the purchase of kernels being of the value of Rs.
+Fact	1,07,4487-.
+Fact	There were no vouchers to support these transactions.
+Fact	The assessee decorticated ground-nuts and obtained kernel.
+Fact	The resultant kernel together with the kernel purchased was crushed by means of expellers yieldin g ground-nut oil and cake which were sold.
+Fact	No books were maintained to show the daily quantity of kernel pressed and the quantity of oil and cake obtained.
+Fact	Similarly, there was no record showing the kernel obtained by decorticating the ground-nuts.
+Fact	In these circumstances and having regard to the fact that dealers similarly situated made gross profits of about 12 per cent,, the Income-tax Officer estimated the gross profits of the assessee at 10 per cent which resulted in the addition of Rs.
+Fact	31,551/-.
+Fact	Besides this, he added Rs.
+Fact	73,000/- secret profits introduced into the books in the guise of un-ledgered anamath cash credits in the name of as-sessee's relatives and friends, when in the course of examination of accounts he found that there were credits to the tune of Rs.
+Fact	48,000/- on 21 different occasions in the name of <NAME> whose full identity was not disclosed and another entry of Rs.
+Fact	9,000/- as a credit in favour of one <NAME> whose existence was not proved by the assessee and a third item  of Rs.
+Fact	16,000/- in the name of one <NAME>, which alleged borrowing also was not satisfactorily explained.
+Fact	On appeal, the Appellate Assistant Commissioner thought that the fair estimate to be adopted was at the rate of 76, 42 and 50 per cent, for yielding kernel, oil and cake respectively which would make only an addition of Rs.
+Fact	14,222/- to the profits disclosed by the assessee.
+Fact	Thus, in that behalf the estimate made by the Income-tax Officer was varied by substituting Rs.
+Fact	14,222/- for Rupees 31,551/-.
+Fact	As regards the other head, the Appellate Assistant Commissioner upheld the addition only to the extent of Rs.
+Fact	37,400/-.
+Fact	In his opinion, the entries which make up that amount were not satisfactorily explained by the asses sees.
+Fact	The assessee carried a further appeal to the <ORG> but unsuccessfully.
+Fact	3.
+Fact	If it is urged by Mr. <NAME> in support of this Reference that the Income-tax Officer having made an estimate of the profits of the business For the assessment year upon an examination of the ac count-books which, as modified by the Appellate Assistant Commissioner, resulted in an addition of Rs.
+Fact	14,222/- it was not open to him to make an addition of another sum in the name of undisclosed profits; in other words, it was open to the Income-tax authorities to accept either the sum of Rs.
+Fact	14,222/- or Rupees 37,400/- as the estimated profits of the assessee for the year and not to take into account both the amounts together.
+RatioOfTheDecision	If is maintained by him that having rejected the books of account in some respects and made an estimate of the profits he could not add up the cash credits to that estimate.
+RatioOfTheDecision	This argument is founded on <NAME> v. Commissioner of Income-tax, B. and O. .
+RatioOfTheDecision	We do not think that this ruling is of much assistance to the assessee.
+Fact	In that case, the Income-tax Officer made an estimate of the profits of the business for the assessment year, not having accepted as genuine his books of account.
+Fact	Having done it, he found that some cash credits entered in the books of account were the separ ate profits of the business.
+Fact	He added this to the income disclosed by the assessee.
+Fact	He further added another amount as the undisclosed profits of that very business.
+Fact	In that position, <ORG> pointed out that the Income-tax Officer could not add both the sums as the addition was made under the head "business" and this could be justified only if there was material to show that the assessee carried on a different and independent business apart from the business to which its books related and on which it was being assessed.
+RatioOfTheDecision	The facts of this case do not bear any resemblance to the instant case.
+Fact	The Income-tax Officer here has not added the two items under the head of profits made out of the same business as shown in the accounts.
+RatioOfTheDecision	The Officer thought that the assessee must have made a gross protit of 10 per cent on the turnover as disclosed in his account-books.
+RatioOfTheDecision	With regard to the other head, he was not prepared to accept the explanation regarding the sources from which the credits were derived and was  inclined to view them as profits from undisclosed source.
+RatioOfTheDecision	According to him this might have had reference to the business which the assessee carried on outside the books of account.
+RatioOfTheDecision	In our opinion, it is certainly open to the income-tax Officer to make these two additions which fell under two distinct heads.
+RatioOfTheDecision	The correct legal position seems to be that if the two additions are traceable to two distinct heads, namely, one attributable to the business acti-vities of the assessee and is thus an undisclosed profit from the known source and the other to profits from an undisclosed source i. e., some profit earning activity of the assessee which is altogether unknown, they are legally sustainable.
+RatioOfTheDecision	The postion will be different if the cash credits also were treated as part of the undisclosed profits of the same business.
+RatioOfTheDecision	It will not be permissible for him to estimate the gross profits from the business and again to add to it the cash credits shown in the.
+RatioOfTheDecision	books in some disguise, as a part of the income oil the same b usiness.
+RatioOfTheDecision	4.
+Precedent	The case which is more in point is <ORG>, v, Commissioner of Income-tax.
+Precedent	West Bengal, which was cited by the counsel for the assessee.
+RatioOfTheDecision	This decision does not render him any assistance on the other hand, it furnishes an answer to the point raised by him.
+RatioOfTheDecision	What happened there was this.
+RatioOfTheDecision	The books of the assessee disclosed only a gross profit of 4 per cent.
+Argument	The Income-tax Officer considered this percentage of profits as too low and thought that considerable volume of sale had been suppressed.
+Argument	In that view, he estimated the gross profits at 15 per cent and added a sum of Rs.
+Argument	5,000/- to assessable income as representing concealed profits of the business.
+Argument	Resides this, he added a further sum of Rs.
+Argument	32563 which was made up of certain cash credits which were entered in the suspense account of the assessee.
+Precedent	The explanation as put in by the partners of the.
+Precedent	assessee with regard to the source of the deposits was not accepted by the <ORG> and the Officer concerned came to the conclusion th at they were profits made by the firm from undisclosed sources.
+Precedent	5.
+Precedent	One of the questions posed before the Bench of <ORG> was whether the Income-tax Officer could add the amount of unexplained cash credits as profits from undisclosed sources when he had already estimated the whole of the undisclosed profits of the business carried on by the assessee.
+Precedent	The learned Judges answered it in the affirmative, distinguishing cited on behalf of the assessee since the Income-tax Officer had not, after making an estimate of the profits of the business and making an addition to the und;sclosed book profits, added a further sum 'as undisclosed profits of the same business' as in the Patna Case.
+Precedent	They then pointed out the distinction between an undisclosed income from known source and income from an undisclosed source.
+Precedent	We do not see how this ruling can be pressed into service by the assessee.
+Precedent	A contention similar to the one advanced by the assessee here was rejected by the learned Judges.
+Precedent	To the same effect  is the judgment of <ORG> in <CITATION_345736> , 1948-16 ITR 254: (AIR 1949 Pat 211).
+RatioOfTheDecision	Therefore, even on this ground, the Reference has to be rejected.
+RatioOfTheDecision	6.
+RatioOfTheDecision	That apart, there is a very substantial reason for rejecting this Reference.
+Precedent	The objection as presented before us was not raised either before the Income-tax Officer or the Appellate Assistant Commissioner.
+Precedent	Both the Officers determined the question bearing on the genuineness of these entries.
+Precedent	The stand taken before the <ORG> was that certain intangible additions were made in prior years and therefore the present one should be deleted.
+Precedent	This contention was disposed of by the <ORG> by observing that the income of each year should be determined from the materials available (or that year, and that the additions made in prior years related to the income of those years and the additions under consideration bore on the income of the year under consideration and that, therefore, there was absolutely no force in the representative's argument.
+Precedent	T he statement in paragraph 8 of the statement of the case that "the assessee's argument that both the credits 'as well as 'deficit yield could not be added was not accepted by the <ORG> for the reason that both were separate and distinct" has to be understood in the context of the observations made by the <ORG> in its order dismissing the appeal.
+Precedent	It would not be possible to construe this as meanng that the case of the appellant was presented in the form in which it is done before us and it was negatived, having regard to the fact that it is stated in the statement that "the particulars regarding this are found in the orders of the Income-tax Officer and the Appellate Assistant Commissioner, copies of which are annexures A and B and form part of the case."
+RatioOfTheDecision	If, however, that is susceptible of the interpretation sought to be put upon it, it is not of much help to the assessee because it means that the matter had received the attention of the <ORG> and they found as a fact that they represent two distinct  sources.
+RatioOfTheDecision	Be that as it may, there is no scope for construing it in the manner the counsel for the assessee invites us to do, if that were so no question of law arises to be answered by us.
+RatioOfTheDecision	A question of law can be said to arise out of an order of <ORG> within the meaning of Section 66(1) of the Indian Income-tax Act.
+RatioOfTheDecision	In other words, the order of the <ORG> should disclose that point of law was raised before the <ORG>.
+RatioOfTheDecision	If such a question is not raised before, the <ORG>, it cannot be said to arise out of its order even if it could be sustained on the facts in the statement of the case by the <ORG>.
+RatioOfTheDecision	There is ample authority for this proposition.
+Precedent	<CITATION_324332> , 1947-15 ITR 442; (AIR 1948 Mad 181) and <CITATION_1333873> .
+Precedent	7.
+Precedent	In the above circumstances, the question is answered in the affirmative and against the assessee.
+Precedent	The assessee will pay the costs of the <ORG> which we fix at Rs.
+RulingByPresentCourt	100/-.

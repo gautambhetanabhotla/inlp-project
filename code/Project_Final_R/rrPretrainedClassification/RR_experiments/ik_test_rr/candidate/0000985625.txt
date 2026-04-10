@@ -1,0 +1,94 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These appeals arise from an order of Ramakrishnan, J., dismissing two connected petitions, one to quash a penalty of Rs.
+Fact	1,000 in lieu of confiscation of goods under Section 42 (3) (a) of the Madras General Sales Tax Act, 1959 and the other for a direction to the respondents to deliver to the appellant the goods which had been seized and confiscated while on transit at Kandaigoundan Chavadi check-post, which is the border of Coimbatore district in this State, and Calicut in the Kerala State.
+Fact	The learned Judge declined to accept that the said provision is invalid, and held that <CITATION_1707617> (1965) 16 S.T.C.
+Fact	708, and <CITATION_913336> (1968) 1 S.C.J.
+Fact	121 : (1967) 2 I.T.J.
+Fact	919 :(1968) 1 An.W.R.(S.C.)
+Fact	43 : (1968)1 M.L.J , (S.C.).
+Fact	43 : (1967) 20 S.T.C.
+Fact	453. in which this Court held, <ORG> agreeing with it that Section 41 (4) was invalid,were distinguishable.
+Fact	2.
+Fact	The lorry K. L. R. 3919, was searched by the Check-post Officer and was found to carry at the time 85 bag s of which 45 contained maida, 20 atta and 20 khandasari sugar.
+Fact	The lorry driver, however, carried with him a sale bill and delivery note which covered only 85 bags of atta.
+Fact	On the ground that the lorry attempted to transport without any sale bill or delivery note for the maida and khandasari sugar and on suspicion that there was an attempt at evasion of tax, the Check-post Officer by an order dated 2nd March, 1965 confiscated the goods, but gave an option to the appellant to pay a penalty of Rs.
+Fact	1,000 in lieu of confiscation of the goods.
+Argument	The Check-post Officer declined to accept the explanation of the appellant which was that he had purchased in Madras 85 bags of atta, 45 bags of maida and in Nellore 20 bags of khandasari sugar, he being of the view, as we said, that there was really an attempt to suppress the sales of the maida and khandasari sugar under the cloak of the sale bill and delivery note for atta only.
+Argument	3.
+Argument	Before Ramakrishnan, J., no attempt appears to have been made to challenge the validity of  the penalty order on its merits and the learned Judge proceeded on the basis that in the exercise of writ jurisdiction the finding of the Check-post Officer that the explanation of the appellant was not acceptable could not be revised.
+RatioOfTheDecision	No point about this has been made for the appellant before us.
+RatioOfTheDecision	The appeals have therefore, been confined to the validity of Section 42 (3) (a) and the effect of <CITATION_1707617> (1965) 16 S.T.C.
+Precedent	708 and <CITATION_913336> (1968) 1 S.C.J.
+Precedent	121 : (1967) 2 I.T.J.
+Precedent	919 : (1968) 1 An.W.R.
+Precedent	(S.C.) 43 : (1968) 1 M.L.J.
+Fact	(S.C.)43 : (1968)2O S.T.C.
+Fact	453 on that question.
+Argument	4.
+Argument	<CITATION_1707617> (1965) 16 S.T.C.
+Argument	708, decided by <ORG> of this Court, to which one of us was a party, held that the Madras General Sales Tax Act was not a law of goods and a power to confiscate is not ancillary or incidental to a power to tax on sale or purchase of goods, though of course such power to tax undoubtedly included the power to make due provisions to prevent or check evasion of tax and make it  unprofitable.
+Argument	On that view this <ORG> struck down Section 41 (4) which provided for search and seizure from the premises of a dealer goods unaccounted for and for confiscation thereof.
+Argument	The section also provided for levy of penalty in lieu of such confiscation.
+Argument	<ORG> agreed with the conclusion of this <ORG> as to the invalidity of Section 41 (4), but on a different ground.
+Argument	Clause (a) of the second proviso to Section 41 (4) which was introduced by a latter amendment, stated that in cases where the goods are taxable under this Act, in addition to the tax recoverable, a sum of money not exceeding one thousand rupees or double the amount of tax recoverable, whichever is greater, may be levied as penalty in lieu of confiscation.
+Argument	<ORG>, with reference to this provision, observed (at page 465):  But under Clause (a) of the second proviso the tax is ordered to be recovered even before the sale, in addition to the penalty not exceeding Rs.
+Argument	1,000 or double the amount of tax recoverable whichever  is greater.
+Argument	Referring to the scheme of the Act, <ORG> considered that in a large majority of cases covered by the Act the tax was payable at the point of first sale in the <ORG>, and that, therefore, Clause (a) of the second proviso was clearly repugnant to the general scheme of the Act.
+Argument	In the words of <ORG> (at page 466):  We are, therefore, of opinion that Clause (a) of the second proviso being repugnant to the entire scheme of the Act, in so far as it provides for recovery of tax even before the first sale in this <ORG>, which is the point of time in a large majority of cases for recovery of tax, must fall on the ground of repugnancy....We therefore agree with <ORG> and strike down Sub-section (4) but for reasons different from those which commended themselves to <ORG>.
+Argument	In so holding, <ORG> made it clear that it did not propose to decide the general question whether a power to confiscate goods found on search and not <ORG>counted for in the books of <ORG> count of the dealer was an ancillary power necessary for the purpose of stopping evasion of tax.
+Argument	5.
+RatioOfTheDecision	Section 42 (3) of the Act, with which we are concerned in the appeals before us, is substantially in pari materia, if not identical, with Section 41 (4) the only difference being that unlike the latter, which provides for goods searched and seized in the premises of the dealer, which are not accounted for, the former concerns itself with goods under transport by any vehicle or boat across the check-post or barrier, and not covered by the specified documents.
+RatioOfTheDecision	Except for this difference, which is quite inconsequential from the standpoint of the question of invalidity, Clause (a) of the second proviso to Section 42 (3) is word for word identical with Clause (a) of the second proviso to Section 41 (4).
+RatioOfTheDecision	The separate and independent reasoning on the basis of which this <ORG> and the Supreme <ORG> struck down Section 41 (4) as invalid seems, as we think, to apply with equal force to the invalidity of Section 42 (3).
+RatioOfTheDecision	6.
+RatioOfTheDecision	<NAME>, J., however, felt that there was difference between Section 41 (4) and Section 42 (3) but he did not proceed to detail the difference.
+RatioOfTheDecision	As far as we are able to see, except the difference, which we mentioned, there is no other existing between the language, scheme, object and effect of the two provisions.
+Argument	The learned Judge having noticed the two decisions, one of this <ORG> and the other of the Supreme <ORG>, that the ratio or the principle of those decisions will not apply to the facts of the petitions before him, because, in his opinion, it had been established by the finding of the Check-post Officer that the taxable event had occurred and the transactions become exigible to tax.
+Argument	In such a case, the learned Judge was of opinion that there might be room to hold that the power to seize and confiscate the goods was ancillary to the power to tax and further the basis of the reasoning of the Supreme <ORG> that a power to confiscate even before the taxable event had occurred, that is to say a sa le or purchase, was inconsistent with the scheme of the Act which was to charge first sales or purchases in the <ORG>, was not present here.
+RatioOfTheDecision	In our opinion, the factual position in this case has or can have no bearing on the legislative competence to enact Section 41 (4) or Section 42 (3) in their present form, or the invalidity of the provisions, because they, as they exist at the moment proceed to charge the goods to tax even before a sale or purchase thereof has occurred which is repugnant to the scheme of the Act.
+RatioOfTheDecision	Legislative competency to provide for confiscation of goods entirely depends on whether such a power is ancillary or incidental to a power to check evasion of tax or to make it unprofitable which is undoubtedly a part of the power to tax on sale or purchase of goods.
+RatioOfTheDecision	This Court held that such a power was not ancillary or incidental to the power of taxation of sale or purchase of goods.
+RatioOfTheDecision	That conclusion rested entirely on the scope and ambit of Entry 54 in List II of the Constitution, not on the f actual position, whether a sale or purchase had in a given case taken place.
+RatioOfTheDecision	The learned Judge, as we have already mentioned, was of opinion that there might be room to hold that the power to seize and confiscate goods was ancillary to the power to tax sales, where a sale in a given case had taken place.
+RatioOfTheDecision	That, we are bound to point out, was directly in conflict with the view in <CITATION_1707617> (1965) 16 S.T.C.
+RatioOfTheDecision	708, which is binding on us as well as the learned Judge.
+RatioOfTheDecision	The view of this <ORG> was untouched by the Supreme <ORG> as expressly mentioned by it.
+RatioOfTheDecision	Nor the fact that a sale or purchase had taken place in a given case could make any difference to the invalidity of Section 42 (3) because, that question depended on the actual language employed by the <ORG>.
+RatioOfTheDecision	The vice according to the Supreme <ORG> which invalidated Section 41 (4) lay in the fact that it charged goods to tax even before the taxable event has occurred which is repugnant to the entire scheme of the Act.
+RatioOfTheDecision	That repugnancy is not solved by  stating that the Check-post Officer has found that there has been a sale or purchase in respect of the goods seized and confiscated.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Apart from what we have said, we are also unable to appreciate how the finding of the Check-post Officer that there had been a sale would at all in the present context, be relevant to Section 42 (3), proviso 2 (a).
+RatioOfTheDecision	The appellant is an out of State dealer.
+RatioOfTheDecision	So far as his purchase of khandasari sugar from Nellore is concerned, the transport by him has no reference to any sale or purchase, whether inter-State or intra-State, chargeable to tax in this State.
+RatioOfTheDecision	It does not also appear that the sales of goods in question are subject to single point of taxation.
+RatioOfTheDecision	Even so, it is nobody's case that the first sales or any sales, for that matter have been effected by the appellant.
+RatioOfTheDecision	In such circumstances, two things will follow : one is if there is evasion of tax it is not on the part of the appellant.
+RatioOfTheDecision	If he colluded, as the learned Judge apparently thought, that is not covered by the penal  provision in Section 42 (3).
+RatioOfTheDecision	Secondly it is only where the goods are chargeable to tax, so to speak, with reference to Section 42 (3), proviso 2 (a) that any occasion for seizure and confiscation of the goods can arise.
+RatioOfTheDecision	That even does not appear, on the facts, to have happened.
+RatioOfTheDecision	It is not any taxable event, but it is only a taxable event which is exigible to tax at the hands of the assessee and is the subject-matter of evasion, that will come within the purview of Section 42 (3).
+RatioOfTheDecision	That is not the case here.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Before we leave this case, there is one other matter to which we would like to make reference.
+Precedent	The learned Judge referred to <CITATION_1296326> (1967) 2 An.W.R.
+Precedent	71 : 19 S.T.C.
+Precedent	506.
+Precedent	But this very case was noticed by <ORG> in <CITATION_913336> (1968) 1 S.C.J.
+Fact	121 : (1967) 2 I.T.J.
+Fact	919 : (1968) 1 An.W.R.
+Fact	(S.C.) 43 : (1968) 1 M.L.J.
+Fact	(S.C.) 43 : (1967) 20 S.T.C.
+Fact	453, and it was pointed out that the Andhra Act did not contain a provision like Section 41 (4), proviso 2 (a).
+Fact	That made all the differ ence, as <ORG> itself pointed out, because the main body of Sub-section (4) of Section 41 as was held by <ORG>, ought to be read as qualified by and in the sense of the two provisos to Section 41 (4).
+Fact	9.
+Fact	We hold that Section 42 (3) is unconstitutional and invalid, and strike it down.
+Fact	The appeals are allowed with costs throughout.
+Fact	Counsel's fee Rs.
+Fact	100 in each case.
+RulingByLowerCourt	We are informed that in obedience to an interlocutory order of this Court the relative bags of maida and atta have been returned to the appellant, but 20 bags of khandasari sugar, the subject-matter of confiscation, had been sold by the department, in open market.
+RulingByLowerCourt	In the circumstances, this will be taken note of and the respondents will pay the sale proceeds of the khandasari sugar to the appellant.
+RulingByLowerCourt	W.P.
+RulingByLowerCourt	No.
+Fact	1077 of 1968.--This petition is not opposed by the <ORG>.
+Fact	This is allowed but with no costs.

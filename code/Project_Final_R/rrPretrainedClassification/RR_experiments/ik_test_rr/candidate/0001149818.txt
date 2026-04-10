@@ -1,0 +1,61 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	<ORG>, <ORG>, has referred the following question at the instance of the assessee under Section 256(1) of the Income-tax Act, 1961.
+Fact	"Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that the deduction under Section 80E has to be worked out on the adjusted total income of the year, after setting off the losses brought forward from the preceding year ?"
+Fact	2.
+Fact	The year of assessment is 1967-68.
+Fact	The Income-tax Officer determined the total income assessable to tax for that year at Rs.
+Fact	2,13,769.
+Fact	The loss in the earlier years amounting to Rs.
+Fact	87,437 was then set off against the profits and gains arising from the business of the assessee which is a limited company, apparently under Section 72 of the Income-tax Act, 1961.
+Fact	From the balance net income of Rs.
+Fact	1,26,332, 8 per cent.
+RulingByLowerCourt	was deducted under Section 80E as it stood at the relevant time.
+RulingByLowerCourt	The assessee appealed and one of the contentions raised before <ORG> pellate Assistant Commissioner was that for the deduction under Section 80E , the total income arising from profits and gains, viz., Rs.
+RulingByLowerCourt	2,13,769, should be the figure that should be taken into account.
+RulingByLowerCourt	This contention was upheld by the Appellate Assistant Commissioner.
+RulingByLowerCourt	But, in further appeal, the <ORG> reversed the decision of the Appellate Assistant Commissioner and held that the 8 per cent.
+Fact	can be permitted only on the net balance income after setting off the losses and that the figure for the purpose of Section 80E is Rs.
+Fact	1,26,332.
+RatioOfTheDecision	The question is which of these views is the correct one.
+Statute	It is necessary to refer to Section 80E as it stood at that time :  "80E.
+Statute	Deduction in respect of profits and gains from specified industries in the case of certain companies.--(1) In the case of a company to which this section applies, where the total income (as computed in accordance with the other provisions of this Act) includes any profits and gains attributable to the business of generation or distribution of ele ctricity or any other form of power or of construction, manufacture or production of any one or more of the articles or things specified in the list in the Fifth Schedule, there shall be allowed a deduction from such profits and gains of an amount equal to eight per cent.
+Statute	thereof, in computing the total income of the company.
+Statute	(2) This section applies to--  (a) an Indian company; or  (b) any other company which has made the prescribed arrangements for the declaration and payment of dividends (including dividends on preference shares) within India.
+Statute	but does not apply to any Indian company referred to in Clause (a), or to any other company referred to in Clause (b), if such Indian or other company is a company referred to in Section 108 and its total income as computed before applying the provisions of Sub-section (1) does not exceed twenty-five thousand rupees."
+Argument	3.
+Argument	Counsel for the assessee contended that the view taken by the <ORG> is not justified by the section.
+Argument	According to him, the computation of the  total income of profits and gains arising from the business does not involve the application of Section 72 of the 1961 Act providing for set-off.
+Argument	Counsel for the revenue, however, urged that the set-off permissible tinder Section 72 is part of the computation of the total income.
+Argument	4.
+Statute	Chapter IV of the Income-tax Act, 1961, deals with the computation of income falling under the various heads mentioned in Section 14 of the 1961 Act and Chapter VI in which Section 72 occurs deals with the aggregation of income, and set-off or carry forward of loss.
+Statute	Section 80E in Chapter VIA deals with deductions to be made in computing total income.
+Statute	The definition of the term "total income" in Section 2(45) of the 1961 Act merely states that the total income means the total of the amount of Income referred to in Section 5 computed in the manner laid down in the Act.
+Statute	Computation as such is used only in the heading in Chapter IV.
+Statute	Section 66 also provides that in computing the total income of an assessee there shall be included al l income on which no income-tax is payable under Chapter VII, etc.
+Statute	What is provided in Section 66 is also relating to computation.
+Statute	Similarly, the same words are used in Section 67 .
+Statute	But, there are no such words in Section 72 .
+Statute	Section 72 speaks of the net result of the computation under the head "Profits and gains of business or profession."
+Statute	We consider that the set-off permitted under Section 72 is from an amount arrived at after applying the provisions of Chapter IV along with other sections of the Act such as Sections 66 and 67 , etc., dealing with computation of income and after permitting the deductions under Section 80E .
+Argument	Counsel for the revenue submits that the process must be reversed and before the deduction under Section 80E is made, the set-off under Section 72 must be allowed.
+Argument	5.
+Statute	Section 80E seems to be a special provision and permits deduction from profits and gains attributable to specific activities like business of generation or distribution of electricity or any other form of power or of con struction, manufacture or production of any one or more of the articles or things specified in the List in the Fifth Schedule.
+Statute	The set-off under Section 72 is applicable in relation to the profits and gains arising from any business or profession.
+RatioOfTheDecision	We, therefore, think that the deduction under Section 80E is a special benefit given to a company which satisfies the conditions under Section 80E and the deduction of 8 per cent.
+RatioOfTheDecision	permissible under that section is only from profits and gains attributable to the specific activities to which we have referred.
+RatioOfTheDecision	This is a special benefit.
+RatioOfTheDecision	This must refer to the results of that particular activity.
+RatioOfTheDecision	This benefit should not be diminished by the other benefits conferred by the Act, such as the right to have the previous losses set off.
+RatioOfTheDecision	The two serve different purposes and the benefit of both must be available to an assessee, without the one impinging on the other.
+RatioOfTheDecision	The acceptance of the contention of the revenue would have the result of substantially depleting the benefit und er Section 80E .
+RatioOfTheDecision	This is not permissible.
+RatioOfTheDecision	Even apart from this, we think, the wording of Section 80E , which talks of "total income" is also an indication that the deduction under Section 80E must be before the set-off permissible under Section 72 is made.
+RatioOfTheDecision	In the case before us the total income consists exclusively of profits and gains arising from the specific activities mentioned in Section 80E .
+RatioOfTheDecision	This refers to the total income of a particular year, namely, the previous year.
+RatioOfTheDecision	And from this the deduction under Section 80E has to be made as the deduction is related to the profits and gains from specified activities of a particular period.
+RatioOfTheDecision	The figure arrived at after setting off the losses under Section 72 is certainly not the total income arising from the profits and gains attributable to the activities in the year.
+RulingByPresentCourt	We, therefore, answer the question referred to us in the negative, that is in favour of the assessee and against the department.
+RulingByPresentCourt	There will be no order as to costs.
+RulingByPresentCourt	6.
+RulingByPresentCourt	A copy of this judgment und er the seal of <ORG> and the signature of the Registrar will be sent to <ORG> as required by Sub-section (I) of Section 260 of the Income-tax Act, 1961.

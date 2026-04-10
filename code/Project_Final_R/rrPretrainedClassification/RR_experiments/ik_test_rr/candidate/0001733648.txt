@@ -1,0 +1,77 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This petition challenges a decision of the Chief Judge of <ORG>, Bombay, by which he held that the <ORG> under the Payment of Wages Act had no jurisdiction to entertain the application made by the petitioner and 116 other against the Naval Dockyard for payment of part of their wages illegally deducted.
+Fact	The facts briefly are that these 117 persons were employed as lorry drivers in the Indian Naval Dockyard end from May 1945 to July 1947 their wages were Rs.
+Fact	100/-per month.
+Fact	In August 1947 their wages were reduced from Rs.
+Fact	100/- to Rs.
+Fact	70/-.
+Fact	On 31-12-1947 rules were framed by the Governor General under Section 241(2) , Government of India Act and these rules were issued in a notification and under this the wage scale for the lorry drivers was fixed at Rs.
+Fact	60-75.
+Fact	It appears that these lorry drivers were asked to elect as to whether they would accept this wage scale and also if they did accept, the wage scale was to operate from 1-1-1947.
+Fact	They elected to accept this w age scale.
+Fact	As a result of the election they were given the top of the grade viz.
+Fact	Rs.
+Fact	75/- and Rs.
+Fact	25/- were given to them as personal pay.
+Fact	The result was that their Wages were brought up to the wages they were getting on 1-1-1947 viz., Rs.
+Fact	100/- per month.
+Fact	The grievance of these employees was that from August 1947 their wages were reduced to Rs.
+Fact	80/- and they were paid Rs.
+Fact	75/- and only Rs.
+Argument	5/- as personal pay and, therefore they went before the <ORG> under the Payment of Wages Act , contending that the deduction of Rs.
+Argument	20/- every month was an illegal deduction and that the employer should be asked to refund this amount.
+Argument	The <ORG>, after considering the evidence before him came to the conclusion that the contract between the parties was that the employer Was liable to pay only Rs.
+Argument	80/- and not Rs.
+Argument	100/-as claimed by the employees.
+RulingByLowerCourt	The employees went in appeal to <ORG> and the learned Chief Judge came to the conclusion that in view of the contention raised before the <ORG>, he had  no jurisdiction to decide the application made by the employees on merits.
+RulingByLowerCourt	He, therefore, dismissed the appeal.
+RulingByLowerCourt	It is against that order that the employees have now come on this petition.
+Argument	2.
+Argument	Mr. <NAME>'s contention before us is that the Chief Judge should have heard the appeal on merits and should not have dismissed it on the preliminary ground that the <ORG> had no jurisdiction to entertain this particular application.
+RatioOfTheDecision	In order to decide this question we have carefully to bear in mind the nature of the jurisdiction that the <ORG> under the Payment of Wages Act exercises.
+RatioOfTheDecision	He constitutes a <ORG> or a <ORG> of summary jurisdiction and the clear object of the <ORG> in setting up this <ORG> or <ORG> was to give facilities to the employee to recover his wages as expeditiously as possible.
+RatioOfTheDecision	Gross delays in a Civil <ORG> are notorious and it was but proper that a workman getting small wages should not be prevented from recovering them merely because the employer took up a refractory attitude and  drove the employee to a civil Court Co litigate his rights.
+RatioOfTheDecision	Therefore, it could never have been the object of the <ORG> that the <ORG> under the Payment of Wages Act should try and decide complicated questions which should ordinarily and normally be heard by <ORG>.
+RatioOfTheDecision	What the authority has to determine is whether there has been an illegal deduction of wages.
+RatioOfTheDecision	In order to determine that he has to determine what are the wages to which the employee is entitled and again to determine that, he must decide what the contract between the employer and the employee is which entitles the employee to receive wages.
+RatioOfTheDecision	Under these circumstances, there is no dispute between the employer and the employee as to the contract which regulates the conditions of service of employment.
+RatioOfTheDecision	The dispute is as to what the employee is entitled under that contract.
+RatioOfTheDecision	The employer may take up the contention that a certain amount is not due to the employee under the contract.
+RatioOfTheDecision	It would be open to the <ORG> to decide What is t he quantum of wages due and whether that quantum has been paid or not.
+RatioOfTheDecision	We considered, the ambit of the jurisdiction of the <ORG> under the Payment of Wages Act in ' <CITATION_679996> ', we laid down that the jurisdiction of the <ORG> really is to determine the terms of the contract in so far as they relate to the payment of wages and in so far as he has to decide the liability of the employer to pay wages under the terms of the contract.
+RatioOfTheDecision	In that case the question that arose was whether the <ORG> had the jurisdiction to deter-mine whether the contract was terminated us alleged by the employer or the contract was still subsisting as alleged by the employee and we held that the <ORG> had no such jurisdiction.
+RatioOfTheDecision	The question that now arises is in a sense different from the Question that arose in <NAME>'s case.
+RatioOfTheDecision	What the authority is now asked to decide is not what is the contract between the employer and the employee but which is the contract which regulates the terms of employment between the partie s.  In our opinion, the jurisdiction of the <ORG> is limited to decide what is contract in the sense of construing the contract in order to determine the liability of the employer to pay wages.
+RatioOfTheDecision	But when the employer and the employee come before him and rely on different contracts it is not Within his jurisdiction to decide which of the two contracts holds the field, which of them is subsisting and under which of them the employer is liable, to pay wages.
+RatioOfTheDecision	It is only when there is no dispute as to the contract that subsists and regulates the rights and liabilities of the parties that the jurisdiction of the <ORG> arises to determine the quantum of wages.
+RatioOfTheDecision	But when the very basis of the relationship is in dispute and in controversy, the legislature did not intend that <ORG> of summary jurisdiction should decide that important question.
+RatioOfTheDecision	Now, in this case it is clear that the parties are not agreed as to the contract which regulates their rights or liabilities and under which the liability of the employe r arises to pay wages.
+Argument	According to the employee, he is entitled to receive Rs.
+Argument	100/- by reason of the notification issued on 31-12-1947 and by reason of the election made by him by which he was to receive Rs.
+Argument	75/- as wages and Rs.
+Argument	25/- as personal pay.
+Argument	According to the employer, there was a new contract entered in to prior to August 1948 and under that contract the liability of the employer was to pay only Rs.
+Argument	5/-  as personal pay and not Rs.
+Argument	25/-.
+RatioOfTheDecision	It would be noticed that there is no dispute as to the quantum of wages.
+Precedent	If the subsisting contract is that of 31-12-1947, then it is clear that the quantum of wages is Rs.
+Precedent	100/-.
+Precedent	If, on the other hand, the subsisting contract is the subsequent contract of 1948, then it is equally clear that the quantum of wages is Rs.
+RatioOfTheDecision	80/-.
+RatioOfTheDecision	Therefore, what the <ORG> is called upon to decide is not the quantum of wages under the contract, nor the question of illegal deduction under the contract but what it is called upon to decide is which is the connect subsisting between t he master and the servant under which the liability to pay wages arises and in respect of which he has to determine the quantum of wages.
+RatioOfTheDecision	When the rival contracts are in the field _and the question is under which contract the liability of the employer arises, in our opinion, the <ORG> has not conferred the jurisdiction upon the <ORG> to decide the question.
+RatioOfTheDecision	It should also be borne in mind that in this case the employee challenges the factum of the subsequent contract.
+RatioOfTheDecision	He also challenges the validity of that contract, assum ing that that contract was arrived at.
+RatioOfTheDecision	Therefore, the <ORG> has been called upon to decide not only the factum of the subsequent contract but also its validity.
+RatioOfTheDecision	These are questions which, according to us, do not fail within the ambit of the jurisdiction of the <ORG>.
+RatioOfTheDecision	3.
+RatioOfTheDecision	We wish to make it clear in coming to this conclusion we do not for a moment suggest that the employees are without a remedy.
+RatioOfTheDecision	Our decision merely amounts to this that this particular summary remedy given  to the workmen under the Payment of Wages Act is denied to them in view of the issue that arises for determination.
+RatioOfTheDecision	It is always open to the workmen to go to <ORG> and litigate this question.
+RatioOfTheDecision	Mr. <NAME> has drawn our attention to the fact that the question of limitation may arise and that may defeat the claim of the employees.
+RatioOfTheDecision	We are cure that the civil Court to which the employees will go will take into consideration the fact that the employees have been bona fide prosecuting the claim for wages in a Court which has now been held had no jurisdiction.
+RatioOfTheDecision	4.
+RulingByPresentCourt	The result is that the petition must fail and is dismissed with costs.
+RulingByPresentCourt	5.
+RulingByPresentCourt	Petition dismissed.

@@ -1,0 +1,164 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The question referred to us by <ORG> in this reference reads as follows :  "Whether, on the facts and in the circumstances of the case, the <ORG> was correct in uphlding the order of the commissioner of Income-tax ?"
+Fact	2.
+Fact	The question does not indicate what the order of the Commissioner of Income-tax was, on what basis the <ORG> upheld it as correct, and what was nature of the controversy raised by the assessee on it.
+Fact	A perusal of the sated case, however, tell us what the question is all about, a mercy for which we must be thankful.
+Fact	The assessee is a partnership firm carrying on A business of its own.
+Fact	It also indulged in a joint venture in sugar in association with certain other firms.
+Fact	While returning its income for 1969-70, the assessee displayed therein its share income from the joint venture.
+Fact	The Income-tax Officer accepted the return as he found it, and made an assessment on the basis of the return, charging to tax the total income income  from the joint venture.
+Fact	Subsequently, the Commissioner of Income-tax initiated proceedings for suo moturevision under section 263 of the Income-tax Act, 1961, on the score that the Income-tax officer action in so far as he brought to charge the assessee's share income from the joint venture was prejudicial to the interest of the <ORG>.
+Fact	Accounting to the Commissioner of Income-tax Officer should have considered assessing the joint venture income in the hands of the association of persons as a whole.
+Fact	By assessing the share income in the individual assessment of this assessee, the Income-tax Officer had put it out of his reach to get at the association of persons as a body and as a taxable entity.
+Fact	It was apparently the view of the Commissioner of Income-tax that the average rate of tax appertaining to the total income of the association of persons was higher than the average rate of tax at which the share income was taxed appertaining to the members of the association of persons.
+Fact	He accordingly set aside the a ssessment in this case and directed Income-tax Officer to first make an assessment on the association of persons as such and then follow it up with the assessment of the share income of the assessee as member of that association.
+Fact	3.
+Fact	This order of the Commissioner of Income-tax was confirmed by the <ORG> in appeal.
+Fact	The order of the <ORG> has given raise to the present reference.
+Fact	Two questions were debated before us on the the tax treatment of the association of persons vis-a-vis the individual members thereof.
+Fact	The other question was about the powers of the Commissioner of Income-tax to interfere with the orders of the Income-tax Officer as prejudicial to the interest of the <ORG>.
+Fact	4.
+Fact	On the first question, it may be said that the position is now fairly well settled.
+Fact	Over a period of years, courts have held that when once an Income-tax officer makes an assessment of the share income of a member of an association, thereafter he could not proceed to asses the income of association of person as such.
+RatioOfTheDecision	All  that would remain to be done in such a case would be for the Income-tax officer to proceed to deal with the other members shares of income in their respective individual assessments.
+RatioOfTheDecision	This position has been laid down as the pattern of assessment in all cases where an association of persons as such earn income in which the members thereof would be entitle to their aliquot shares.
+RatioOfTheDecision	It may be conceived that this position regarding the modes of assessment of the association of persons on the one hand and on the members of the association on the other was somewhat clear under the Indian Income-tax Act , 1922, than they are under the present Income-tax Act , 1961.
+RatioOfTheDecision	However, it can be taken as fairly well settled now that the position is the same even under the present statute, to this effect, there is a ruling of Bench of our court in <CITATION_195693214>  113 ITR 602.
+Argument	To the same effect are the decision of Andhra Pradesh and Calcutta <ORG>, vide <CITATION_1970012> <NAME> and <CITATION_306690> .
+Argument	5.
+Argument	The rationale  behind the view of courts is variously described.
+Argument	It is sometimes said that an association of persons and a member of such an association are two distinct entities.
+Precedent	It is also said that under the scheme of the Income-tax Act ,the Income-tax Officer has choice of alternatives, either to assess the association of persons as a whole, on its total income or,in the alternative, to proceed to assess the respective share income of the individual members thereof.
+Precedent	From this conception of the pattern of assessments of the two entities involving an option or an election, it was but a natural step for the court to proceed to hold that when once an Income-tax Officer had taken a particular course of assessment, then not only, does he, as an assessing officer, commits himself to making an assessment in that mode but also commits <ORG> as a whole to the course of action.
+Precedent	In other words, if an officer having charge of the assessment of an association of persons makes an assessment for any given assessmen t year on the total income of the association, there cannot be an assessment thereafter of the individual shares of the members separately.
+Precedent	Contrary-wise where an Income-tax Officer having jurisdiction to assess an individual member of an association, proceeds to make an assessment of the share income as part and parcel of that member's total income, then, thereby he renders the department incapable of proceeding to assess to assess the total income of the association of person as a unit.
+Argument	6.
+Argument	Mr. <NAME>, learned counsel for the assessee-firm, advanced another plausible consideration as being the rationale behind ruling of the court in this regard.
+Argument	He submitted that association of persons is an abstraction and it merely represents and denotes a group of persons who join together for the purpose of carrying on any transaction or business enabling each one of them to earn a share in the general profits obtained by the association as such.
+RatioOfTheDecision	In this sense, what is regarded as the income of the association o f persons is nothing but the aggegation of the individual shares of profit of the constituent can be spoken of as an entity in itself really and truly, there is only one income or one combination of income which is produced by the association, viz., the aggregate income of all the constituent members.
+RatioOfTheDecision	In such a situation, if an Income-tax officer were to bring to charge the share income of a member of anassociation, thereby what the officer does is not merely to get at the income of the particular member concerned, but also to get at a portion of what undoubtedly is the income of the association itself.
+RatioOfTheDecision	In this sense, therefor, the moment the member if an association is taxed in respect of his share income, that very moment a part of the association's income also gets taxed.
+RatioOfTheDecision	In this situation, to permit the same Income-tax officer or any other officer having jurisdiction over <ORG> to bring to charge the income of the association as a whole, would be to bring about double taxation of the  same income or part of it.
+RatioOfTheDecision	The objection against double taxation is a principal, unless there are express provisions ought to be construed as negating double taxation.
+RatioOfTheDecision	7.
+Precedent	Both in the Indian Income-tax Act , 1922, and in the Income-tax Act of 1961, while there may be no express provision prohibiting double taxation of both of the association and of the members thereof, there is no provision which expressly permits the Income-tax Officer to tax one and the same income both in the assessment of the association of members and of the constituent members thereafter proceed to assess the association of person, as a whole, as a unit of assessment.
+Argument	8.
+Argument	Mrs. <NAME>, learned junior standing counsel for <ORG>, submitted that in order that the Income-tax officer may be interdicted from proceeding to make an assessment on the association of person following his assessment of the share income of a member thereof,there must be a conscious choice made by the Income-tax officer of the alternati ves before him.
+Argument	The suggestion in this argument, was that if, in any given case, the Income-tax officer is said to have made the assessment in a member without an intelligent exercise of his discretion or in a fir of absent-mindedness, as as it were, this argument at first blush seems to be attractive and look like being based on some principal, it really is an argument of inconvenience.
+Argument	All that the learned counsel for the <ORG> suggests is that where an Income-tax Officer, for some reason or other, had taken a false step in making an assessment of a member, rather than being the process by making an assessment on the association, such an act on the part of the Income-tax Officer would be deleterious to the interest of the <ORG>, and in that sense, the fate of the assessment and collection of Income-tax revenue cannot be made to depend purely on the accidental circumstance of the Income-tax Officer taking an initial wrong plunge,as it were, in the stream of assessment.
+Argument	Similar argument have been addre ssed before courts on the basis of inconvenience and loss that may be caused to <ORG> if it should be held that any step taken by the Income-tax officer in the choice of alternatives would block further action in the other modes available under the Act, more productive of tax revenue.
+Argument	In some of the cases in the books, we find the <ORG> putting forward the contention that the interest of the <ORG> would suffer if it were asked to abide by the assessment by an individual Income-tax Officer on a member of the association where that officer had charged only one of the members of the association, when the jurisdiction for the assessments of the other members and for the assessment of the association of persons as such happens to reside in other Income-tax Officers in different charges and far-flung places.
+Argument	In such a situation, it was urged on behalf of the <ORG> that it would prejudice the <ORG> if the Income-tax Officer assessing the share income of one of the members of t he association should be held thereby to commit irretrievably the entire department to that course, blocking any other venue of assessment as against the association as a whole.
+Argument	This kind of argument did not find favour of acceptance at the hands of the court, vide the following observations of this courts, in <CITATION_1383468>  113 ITR 602 at p. 604 :  "In one view, there can be no exercise of option by the Income-tax officer who assessed the individual, when he had no jurisdiction to assess the association as such.
+RatioOfTheDecision	However, the point adverted to before us is that the choice is by the department as such and not by the individual.
+Argument	In other words, the point sought to be made out is that all the Income-tax Officers are functioning under Income-tax Act to assess the income of any person liable to tax and that thought, for convenience, they are invested with the jurisdiction over particular cases territorially or otherwise, still as all of them are discharging the same function, when one of them is exercising a  choice, then he in a way forceloses the power available to the <ORG> to assess the association."
+Argument	9.
+RatioOfTheDecision	We do not, therefore, accept the argument of the learned counsel for the <ORG> that whenever an Income-tax officer has taken the step to assess an individual member of the association in respect of his aliquot share, then the correctness of his choice of assessment is open to question on an inquiry as to whether he had consciously made that choice, having before him all the relevant data therefor, or did so accidentally or without an application of his mind.
+RatioOfTheDecision	10.
+RatioOfTheDecision	We may sum up this part of our discussion by observing that whether or not modus operandi in the tax treatment of an association of member vis-a-vis the members thereof can be called an option or a choice or an election, the courts have uniformly held that when once the officer has followed a particular mode of reaching the income to be taxed, then that perse puts the entire <ORG> out of reach of the other mode of making an assessment o n the self-same income.
+RatioOfTheDecision	It may be observed that this position has not been controverted by the Commissioner of Income-tax when he sought to interfere with the assessment made by the Income-tax officer in this case.
+Precedent	Indeed, in the order passed by Commissioner of Income-tax under section 263 of the Act, the Commissioner in so many words had stated :  "......that the order of the Income-tax officer cannot be said to be not in accordance with the law...."  11.
+Precedent	This was the conclusion of the Commissioner of Income-tax notwithstanding his earlier observation that when the Income-tax Officer made an assessment of the assessee's share from the joint venture, he had done so "apparently without considering whether the four concerns together could be treated as having formed an association of persons for the purpose of the transaction."
+Precedent	12.
+Precedent	The next question, therefore, is whether on the footing that the officer's assessment of the assessee-firm with respect to its share income from the joint venture is not only final  but also is valid and in accordance with law, the action of <ORG>mmissioner of income-tax under section 263 of the Income-tax Act can be sustained.
+Argument	13.
+Argument	Section 263 of the Act empowers <ORG>mmissioner to call for and examine the record of any proceeding under the Act and if he considers that any order passed therein by the Income-tax Officer us erroneous in so far as it is prejudicial to the interests of the <ORG>, he may, after giving the assessee an opportunity of being heard and after making or causing to be made such enquiry as he deems necessary, pass such order thereon as the circumstances of the case justify, including an order enhancing or modifying the assessment, or cancelling the assessment and directing a fresh assessment.
+Argument	The Commissioner of Income-tax, in the present case, had purported to act in exercise of this power on the ground that the order of the Income-tax Officer, although in accordance with the law, was, in his view, prejudicial to the interests of the <ORG>.
+Argument	This view of <ORG> mmissioner of Income-tax that the order passed by the Income-tax Officer was erroneous and prejudicial to the interests of the <ORG>, was endorsed by the <ORG> in their order.
+RatioOfTheDecision	The question is whether the view expressed by the Commissioner of Income-tax and the <ORG> are based on a correct understanding of the enabling provisions of section 263 of the Income-tax Act and of the nature of the order of assessment passed by the Income-tax Officer.
+RatioOfTheDecision	14.
+Statute	Section 263 of the Income-tax Act is a provision in sub-chapter E of Charter XX of the Income-tax Act.
+Statute	This Chapter deals with appeals and revision.
+Statute	Section 246 provides a right of appeal to an assessee, against order passed by the Income-tax Officer, to the Appellate Assistant Commissioner.
+Statute	Section 252 provides a further appeal to the <ORG> against the orders passed by the Appellate Assistant Commissioner in appeal.
+Statute	In the sub-chapter XX relating to revision by the Commissioner apart from section 263 , there is yet another provision under section 264 whi ch confers revisional power on the Commissioner of Income-tax.
+RatioOfTheDecision	This latter revisional power under section 264 enables the Commissioner, either suo motu or on application by assessee, to interfere in revision with the orders passed by the authorities subordinate to him.
+RatioOfTheDecision	The expression "authorities subordinate to him" would include not only the Income-tax Officer, but also the Appellate Assistant Commissioner and the Inspecting Assistant Commissioner.
+RatioOfTheDecision	It is, however, specifically stated in section 264 that this power of revision under section 264 is available only against an order other than an order which is subject to revision under section 263 .
+RatioOfTheDecision	15.
+RatioOfTheDecision	In the context of the above provisions, the power of the Commissioner of Income-tax under section 263 has to be judged on the words employed therein.
+RatioOfTheDecision	The language used by the legislature in section 263 is to the effect that the Commissioner may interfere in revision if considers that the order passed by the Income-tax Officer is erroneous in so far as it is prej udicial to the interests of the <ORG>.
+RatioOfTheDecision	It is quite clear from the above phrasing that two things must co-exist in order to give jurisdiction to the Commissioner to interfere in revision.
+RatioOfTheDecision	The order of the Income-tax officer in question must not only be erroneous but also the error in the Income-tax officer's order must be of such a kind that it can be said of it that it is prejudicial to the interests of the <ORG>.
+RatioOfTheDecision	In other words, merely because the officer's order is erroneous, the Commissioner cannot interfere.
+RatioOfTheDecision	Again, merely because the order of the officer is prejudicial to the interests of the <ORG>, then again, that is not enough to confer jurisdiction on the Commissioner to interfere in revision.
+RatioOfTheDecision	These two elements must co-exist.
+RatioOfTheDecision	This construction of the section has been stated and evolved from the statutory language by a decision of <ORG> in <CITATION_1560985>  98 ITR 422.
+RatioOfTheDecision	16.
+Argument	The learned counsel for the <ORG> submitted that the order of the Income-tax Officer in the prese nt case was prejudicial to the interests of the <ORG> since by taxing first the share income of the assessee who was a member of the association the officer thereby disabled the <ORG> from getting at the total income of the association of persons as such for being taxed at the higher rate appropriate thereto, resulting thereby in loss of revenue.
+RatioOfTheDecision	We find it hard to accept this argument for more than one reason.
+RatioOfTheDecision	In the first place, there are no materials started in the order of the Commissioner of Income-tax to suggest in what way there is any prejudice to the interests of the <ORG>.
+RatioOfTheDecision	Even if prejudice to the <ORG> is to be reckoned in terms of the actual loss to the exchequer, no figures have been given in the order of the Commissioner of Income-tax to suggest that the average rate of Income-tax on the total income of the association of persons would be far higher than the average rate of income-tax applied to the share income from the joint venture in this assessment year in so far as the present a ssessee is concerned and in so far as the other members of the association are concerned.
+RatioOfTheDecision	Indeed, in one portion of the order, the Commissioner had dealt with the argument advanced on behalf of the assessee to the effect that even if the joint venture is to be assessed as such, the tax effect may not necessarily be more.
+RatioOfTheDecision	While noticing this contention of the assessee, the Commissioner had observed that this question as to whether the tax effect would be more or less may be raised when the assessment of the association of persons is taken up.
+RatioOfTheDecision	This is an indication that the Commissioner had not, as on that date, any clear idea as to what the difference in tax effect would have been if, instead of taxing the share income of all the members in their respective hands, the <ORG> had first made an assessment on the total income of the association, as such, in respect of the joint venture business.
+RatioOfTheDecision	We cannot, therefore, readily accept the thesis that the Income-tax Officer's order shown to be prejudicial to the  interests of the <ORG>, by reference to any acceptable materials.
+RatioOfTheDecision	17.
+RatioOfTheDecision	Even otherwise, the argument of the <ORG>'s learned counsel is unsound as a matter of construction of section 263 .
+RatioOfTheDecision	As we earlier observed, it is essential for the Commissioner to find not only that the order of the Income-tax Officer in question proposed to be revised is prejudicial to the interests of the <ORG> but also that it is erroneous and, therefore, prejudicial in that sense.
+RatioOfTheDecision	We have earlier pointed out how the Commissioner himself had clearly conceded the position that the order of assessment made by the Income-tax Officer is in accordance with the law.
+RatioOfTheDecision	We fail to understand how an assessment, which is in accordance with the law, can at all be regarded as erroneous, let alone prejudicial to the interests of the <ORG>.
+RatioOfTheDecision	We think it is axiomatic that any assessment, which is in accordance with the law cannot, at the same breath, be regarded as erroneous, and if the assessment is not erroneous it cannot be prejudicial to t he interests of the <ORG> or for that matter to the interests of the assessee as well.
+RatioOfTheDecision	This is on the principle that nothing can be prejudicial either to the <ORG> or to the assessee if it is in accordance with the law, unless it be that the law itself is being questioned on some ground or other, which objection is available under some provision or other of the Constitution.
+RatioOfTheDecision	In this case, when the Commissioner had accepted the position that the Income-tax Officer was at liberty to tax the share income from the joint venture in the hands of the assessee as a member of the association, then it follows that that can be regarded as prejudicial to the interests of the <ORG>.
+RatioOfTheDecision	18.
+RatioOfTheDecision	In our judgment, the expression "prejudicial to the interests of the <ORG>" is not to be construed in a petty-fogging manner, but must be given a dignified construction.
+RatioOfTheDecision	It may be noted that the use of the expression "<ORG>", in our opinion, is significant.
+RatioOfTheDecision	It denotes some kind of abstraction or symbol in the same sense in wh ich the expression "crown" is used to distinguish it from any person enthroned.
+RatioOfTheDecision	The interests of the <ORG> is not to be equated to rupees and paise, merely.
+RatioOfTheDecision	There is a biblical saying that we do not live by bread alone.
+RatioOfTheDecision	Varying this saying, it may be said that the <ORG> does not live by tax alone.
+RatioOfTheDecision	In this sense, therefore, the interests of the <ORG> are not tied up merely with realising as much <ORG> as possible, willy nilly, merely looking to the productivity aspect of taxation.
+RatioOfTheDecision	The jurisdiction of the Commissioner under section 263 is undoubtedly a supervisory jurisdiction.
+RatioOfTheDecision	It is intended for interference in special cases to counteract orders which are erroneous as well as prejudicial to the interests of the <ORG>.
+RatioOfTheDecision	In this context, therefore, the expression "prejudicial to the interests of the <ORG>" must be regarded as involving a conception of acts or orders which are subversive of the administration of revenue.
+RatioOfTheDecision	There must be some grievous error in the order passed by the Income-tax Officer, w hich might set a bad trend or pattern for similar assessments, which on a broad reckoning, the Commissioner might think to be prejudicial to the interests of <ORG> administration.
+RatioOfTheDecision	There might be cases where the Commissioner might wish to interfere with an order of the Income-tax Officer in order to safeguard the fair name and reputation of <ORG> without any thought of going into the particular aspect of the assessment.
+RatioOfTheDecision	Assessments which are <NAME> fide, politically and communally motivated may be, however set aside as being prejudicial to the interests of the <ORG>.
+RatioOfTheDecision	It is unnecessary, for us to illustrate the point any further.
+RatioOfTheDecision	All that we wish to observe is that the scope of the interference under this section is not to set aside merely unfavourable orders and bring to tax some more money to the treasury.
+RatioOfTheDecision	Nor is the section meant to get at sheer escapement of revenue which, as is well known, is taken care of by provisions elsewhere in the Act such, for instance, as section 147 of the Ac t. The prejudice must be prejudice to the revenue administration.
+RatioOfTheDecision	19.
+RatioOfTheDecision	The mainspring of action for the Commissioner of Income-tax in the present case would seem to be really to circumvent the position of law which has become will-settled in the matter of assessment of an association and/or the members thereof.
+RatioOfTheDecision	Since the Income-tax Officer's order makes it difficult for the <ORG> to get at the total income of the association of persons, it had to be removed out of the way.
+RatioOfTheDecision	If it is removed out of the way, the resulting position would be as though there had been no such order even in the first instance, and the field may be clear for the exercise of option once more, as though the <ORG> can begin from the very beginning.
+RatioOfTheDecision	This intention to circumvent the clear consequence of the law, as laid down by the courts, is not definitely a purpose which could actuate the Commissioner of Income-tax under section 263 of the Act.
+RatioOfTheDecision	This is because, far from the Income-tax under section Officer's order being prejudi cial to the interests of the <ORG>, the present action of the Commissioner in seeking to set aside that order is really prejudicial to the <ORG> since it is prejudicial to the law laid down by the courts.
+RatioOfTheDecision	20.
+Precedent	The learned counsel for the <ORG> referred to a decision of <ORG> in <CITATION_89815281>  67 ITR 84.
+Precedent	That was a case which arose under section 33B of the Indian Income-tax Officer offering for assessment some incoome.
+Precedent	Without investigating into the source of the income disclosed, the Income-tax Officer hurried with the assessment and completed it.
+Precedent	The Commissioner of Income-tax took action under section 33B of the Indian Income-tax Act, 1922, and set aside the assessment for the reason that the income, which was offered for assessment by the assessee in that case, really had to be considered as part of the income of some other taxpayer in a higher income bracket.
+Argument	Before <ORG>, it was urged that on the Commissioner's view that no income was assessable in the hands of the  person who filed the return, the Commissioner could not regard the order of assessment as prejudicial to the interests of the <ORG>.
+RatioOfTheDecision	<ORG> rejected this contention and upheld the Commissioner's interference under section 33B .
+RatioOfTheDecision	One way of understanding the reasoning of <ORG> in this case is to say that the Commissioner is not confined to have regard to the particular assessement order before him for the purpose of drawing a inference that order is prejudicial to the interests of the <ORG>, but he can have regard to the repercussions of that order generally in other assessments as well.
+RatioOfTheDecision	Another way of understanding the basis of <ORG>'s decision which commends itself to us is to interpret the power of the Commissioner as based on the substantial interests of the <ORG> and not merely the particular element which might be spotted in the order of the Income-tax Officer as erroneous.
+Precedent	21.
+Precedent	Before closing the discussion, we might refer to a decision of <ORG> <CITAT ION_244172>  53 ITR 225.
+Precedent	This case was one in which there was an initial assessment made by an Income-tax Officer on an association of persons.
+Precedent	He made the assessment on the assocition brushing aside the objection of the members who urged that the income of the association must be assessed in separate shares in the hands of the constituent members.
+Precedent	They raised the same contention in an appeal against the assessment.
+Argument	<ORG> accepted that contention, set aside the assessment on the association and directed the Income-tax Officer to assess the share incomes from the association in the respective individual assessments of the members.
+Argument	Before <ORG>, the <ORG> questioned the powers of <ORG> to cancel the assessment on the association and direct the Income-tax Officer to make an assessment of the shares of income in the hands of the members.
+Argument	The contention was that option to assess either the association or the members thereof was only with the Income-tax Officer and  when once he had exercised that option, that cannot be interfered with in appeal.
+RatioOfTheDecision	<ORG> rejected this contention on the principal that the appellate authorities under the Income-tax Act had plenary powers in disposing of the appeal and the scope of the appellate power is co-terminous with that of the assessing power of the Income-tax Officer, and, in that sense, the choice of alternatives between assessing the association, as such, and assessing the shares of the members apart, was equally open to the appellate authority, in the same manner as it was open to the Income-tax Officer.
+RatioOfTheDecision	22.
+RatioOfTheDecision	The principle laid down in this judgment of <ORG> cannot, however, be adopted for the purpose of clothing the Commissioner of Income-tax with a power of interference with the exercise of the option made by the Income-tax Officer in the matter of assessment of the members of an association in preference to an assessment to be made on the association itself.
+RatioOfTheDecision	In the first place, the basis of <ORG>  <ORG>'s ruling was that an appeal was but a rehearing and the powers of the appellate authority are so equal with those of the assessing authority, in the first instance.
+RatioOfTheDecision	In coming to this conclusion, the Supreme <ORG> were only adopting the general law relating to the powers of the appellate authorities under the Civil Procedure Code, and other enactments dealing with the powers of appellate courts.
+RatioOfTheDecision	The Commissioner of Income-tax acting under section 263 is not, however, an appellate authority, by any means.
+RatioOfTheDecision	As we had earlier observed, the power conferred on him by this section is in the nature of a supervisory power.
+RatioOfTheDecision	We have referred to another revisional power under section 264 which might be regarded as a regular revision.
+RatioOfTheDecision	Section 263 , however, is a special power, which, so far as we know, has no parallel in any other statute or legal system.
+RatioOfTheDecision	It is an extraordinary revisional power.
+RatioOfTheDecision	It is also sui generis, in its nature, and in the occasion for its exercise, it is to be employed not as a jurisdictional c orrective or as a review of a subordinate's order in exercise of supervisory power.
+RatioOfTheDecision	It is, on the contrary, to one invoked and employed only for the purpose of setting right distortions and prejudices to the <ORG>, which, as we havbe endeavoured to point out earlier, is a unique conception which has got to be understood in the context of and in the interests of revenue administration.
+RatioOfTheDecision	The power, as we conceive it, is intended to maintain the tone of the revenue administration and the moral of the Officers manning it.
+RatioOfTheDecision	Such a power cannot,in any manner, be equated to, or regarded as approaching in any way the appellate jurisdiction or even the ordinary revisional power conferred on the Commissioner under section 264 of the Act.
+RatioOfTheDecision	23.
+RatioOfTheDecision	For all the above reasons, we hold that the Commissioner of Income-tax, in this case, was not justified in interfering with the order of <ORG> under section 263 of the Act.
+RatioOfTheDecision	The <ORG>'s order, confirming the Commissioner's decision, was based on a misconception o f the provision of section 263 and the nature and finality of the order passed by the Income-tax Officer.
+RulingByPresentCourt	On this basis, our answer to the question of law is in the negative and in favour of the assessee.
+RulingByPresentCourt	The assessee will have its costs.
+RulingByPresentCourt	Counsel's fee Rs.500.

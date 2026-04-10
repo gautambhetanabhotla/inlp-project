@@ -1,0 +1,151 @@
+RulingByLowerCourt	CASE NO.
+RulingByLowerCourt	: Appeal (civil) 5315 of 2007 PETITIONER: <ORG>,G.T.
+RulingByLowerCourt	Road, Ludhiana RESPONDENT: Commissioner of Income tax,(Central), Ludhiana DATE OF JUDGMENT: 20/11/2007 BENCH: <NAME> & <NAME> JUDGMENT:  J U D G M E N T (Arising out of S.L.P.
+RulingByLowerCourt	(C) No.
+RulingByLowerCourt	7411 of 2007) with Civil Appeal No.
+RulingByLowerCourt	5317/2007 @ S.L.P.
+RulingByLowerCourt	(C) No.7541/2007 Civil Appeal No.
+RulingByLowerCourt	5318/2007 @ S.L.P.
+RulingByLowerCourt	(C) No.7613/2007 Civil Appeal No.
+RulingByLowerCourt	5319/2007 @ S.L.P.
+RulingByLowerCourt	(C) No.7663/2007 KAPADIA, J.
+RulingByLowerCourt	Leave granted.
+RatioOfTheDecision	2.
+RatioOfTheDecision	This batch of civil appeals is filed by the assessee for assessment years 1994-95, 1995-96, 1996-97 and 1997-98.
+RatioOfTheDecision	A short question which arises for determination in this batch of civil appeals is whether the <ORG> and CIT(A) were right in disallowing the claim of the assessee for adjustment of 10% of export incentive against indirect cost of trading goods while allowing deduction under section 80HHC of the Income-tax Act as it stood at the relevant time.
+RatioOfTheDecision	Facts in the Civil Appeal arising out of S.L.P.
+RulingByLowerCourt	(C) No.
+RulingByLowerCourt	7411/2007 (lead matter):  3.
+Argument	Asse ssee was engaged in the business of export of trading goods.
+Argument	Under section 80HHC(3)(b) , an exporter of trading goods was entitled to deduction in respect of profits derived from such export (export turnover) as reduced by the direct costs and the indirect costs attributable to such export.
+Argument	The smaller the figure of direct and indirect costs, the larger is the profits derived from the export and, consequently, larger is the deduction under section 80HHC .
+Argument	By attributing a part of the indirect costs to the export incentives, interest etc.
+Argument	the assessee sought to reduce the indirect costs attributable to the export of trading goods so that it would be left with the larger amount of export profits which it can deduct from the gross total income.
+Argument	On the other hand, the attempt of the <ORG> was to prevent the aforestated claim of the assessee by holding that expenses incurred for earning incentives, commission etc.
+Argument	were not liable to be reduced/deducted from Indirect Costs under section 80HHC(3)(c) read with  clause (e) to the Explanation.
+Argument	4.
+RatioOfTheDecision	The following example will clarify the position (figures assumed):  Rs.
+RatioOfTheDecision	Rs.
+Fact	FOB value of trading goods 6,50,000 Export incentives 80,000 } Miscellaneous income & Brokerage 50,000 1,60,000 Interest Income 30,000 Direct cost 5,00,000 Indirect cost 50,000 Assessees working of deduction under section 80HHC :  Rs.
+Fact	Rs.
+Fact	FOB value of exports 6,50,000 Less: Direct costs 5,00,000 Proportionate indirect costs (Rs.
+Fact	50,000 minus 10% of expenses attributable to export incentives, miscellaneous income & interest income i.e.
+Fact	10% of Rs.1,60,000 =Rs.16,000) 34,000 5,34,000 Balance (export profits) 1,16,000 A.Os.
+Fact	working of deduction under section 80HHC :  Rs.
+Fact	Rs.
+Fact	FOB value of exports 6,50,000 Less: Direct costs 5,00,000 Indirect costs 50,000 5,50,000 Balance (export profits) 1,00,000  5.
+Fact	The analysis of the aforestated example indicates that assessee claims to reduce FOB value of exports amounting to Rs.
+Fact	6,50,000 by direct cost of Rs.
+Fact	5,00,000 plus proportionate indirect costs of Rs.
+Fact	34,000, in all amounting to Rs.
+Fact	5,34,000, whereas the <ORG> reduces the FOB value of exports of Rs.6,50,000 by the direct cost of Rs.5,00,000 plus 100% indirect cost of Rs.50,000, in all amounting to Rs.5,50,000, which is sought to be reduced from FOB value of Rs.6,50,000.
+Fact	In other words, according to the assessee, its export profits should be Rs.1,16,000 whereas, according to the <ORG>, its export profit is Rs.1,00,000.
+Argument	6.
+Argument	According to the assessee, apart from export turnover, it had earned income on account of export incentives, miscellaneous income and interest income.
+Argument	According to the assessee, it had two incomes, namely, export income and income from export incentives.
+Argument	In the above example, assessee had incurred direct cost of Rs.5,00,000 and indirect cost of Rs.50,000.
+Argument	According to the assessee, the <ORG> was right in reducing Rs.5,00,000 from FOB value of exports amounting to Rs.6,50,000, however, according to the assessee, the <ORG> had erred in reducing further the FOB value of  exports by Rs.50,000 instead of Rs.34,000 because, according to the assessee, although it had incurred indirect cost of Rs.50,000, from that figure of Rs.50,000 it was entitled to deduction of 10% of expenses attributable to export incentives, miscellaneous income and interest income amounting to Rs.1,60,000 (10% of Rs.1,60,000 is Rs.16,000) as mentioned in the above example.
+Argument	Therefore, according to the assessee, it was entitled to total deduction of only Rs.5,34,000 and not Rs.5,50,000 from FOB value of exports amounting to Rs.6,50,000.
+Argument	7.
+Argument	<NAME>, learned senior counsel appearing for the assessee, submitted that under section 80HHC(3)(b) only indirect costs which are attributable to such export can be deducted from export turnover.
+Argument	According to the learned counsel, in the present case, assessee had export turnover plus export incentives.
+Argument	According to the learned counsel, the assessee had, under the circumstances, two incomes, namely, incentives income and income from export sales for which it had  one Common Pool of expenses.
+Argument	According to the learned counsel, clause (baa) of the Explanation to section 80HHC specifically excludes 90% of incentive receipts from the business profits leaving 10% of such receipts assumed to have been incurred by the <ORG> for earning such receipts and, therefore, there is no reason why a similar assumption cannot be validly made while interpreting clause (b) of sub- section (3) to section 80HHC read with clause (e) of the Explanation to section 80HHC(3) .
+Argument	Learned counsel submitted that, every receipt has a corresponding expense.
+Argument	Learned counsel submitted that, under clause (e) in the Explanation to sub-section (3) of section 80HHC(3) , indirect costs have been defined to mean costs, not being direct costs, allocated in the ratio of export turnover in respect of trading goods to the total turnover.
+Argument	In this connection, it is submitted that the <ORG> has given recognition to the fact that 10% of certain receipts had to be incurred for earning them and, therefore, i t excluded only 90% of such receipts from the purview of business profits.
+Argument	According to the learned counsel, one has to read Explanation (e), which defines indirect costs as applicable to apply to the entire section 80HHC and even if that argument is not accepted, still there is no reason why the assumption made by the <ORG> of treating 10% of certain receipts as expenditure under clause (baa) of the Explanation to section 80HHC is not applicable to cases falling under section 80HHC(3)(b) read with clause (e) to the Explanation to sub-section (3) of section 80HHC .
+Argument	8.
+Argument	Mr. <NAME>, Additional Solicitor General, learned counsel appearing on behalf of the <ORG> submitted that the modality under section 80HHC(3)(a) for computing business profits was different from the modality for computing export turnover in respect of trading goods under section 80HHC(3)(b) .
+Argument	According to the learned counsel, nothing contained in sub-section (3)(a) can be read into sub-section (3)(b).
+Argument	According to the learned co unsel, sub-section (3)(b) was a stand alone sub-section.
+Argument	According to the learned counsel, the two sub-sections operated in different spheres.
+Argument	In this connection, learned counsel urged that in case of section 80HHC(3)(a) , incentives are required to be deducted to the extent of 90% by a deeming fiction from business profits which methodology would not apply in computation of export turnover reduced by direct and indirect costs as contemplated by section 80HHC(3)(b) , which, as stated above, applied only to trader exporter.
+Argument	In the present case, we are concerned with section 80HHC(3)(b) alone.
+Argument	According to the learned counsel, the definition of the words direct costs and indirect costs in the Explanation to sub-section (3) of section 80HHC , the <ORG> has indicated the ratio for allocation of costs between export turnover and total turnover only in cases where the tax payer is engaged in the business of exports and also in the business of making domestic sales.
+Argument	According to the learned counsel, the wo rd costs being attributable to exports would attract the allocation ratio only in such cases where the tax payer is engaged in earning income in foreign exchange from exports and simultaneously earning income from domestic sales and, that, such ratio is not applicable in cases falling under section 80HHC(3)(b) because that sub- section categorically states that the profits derived from exports shall be the export turnover minus direct and indirect costs.
+Argument	Therefore, according to the learned counsel, the methodology of section 80HHC(3)(a) should not be read into section 80HHC(3)(b) .
+Argument	In this connection, learned counsel also urged that in the case falling under section 80HHC(3)(b) , export turnover and total turnover are identical and, therefore, the allocation ratio contemplated by the definition of indirect costs has no application to the cases falling under section 80HHC(3)(b) .
+Argument	According to the learned counsel, in cases of exports of trading goods, the methodology only indicates that profits derived from exp ort shall be export turnover minus costs.
+Argument	Therefore, according to the learned counsel, the ratio of allocation of costs in the definition of the words indirect costs in the Explanation to sub-section (3) would apply only to cases falling under section 80HHC(3)(a) and section 80HHC(3)(c)(i) .
+Argument	Learned counsel further urged that in clause  (e) in the Explanation to sub- section 80HHC(3) , which defines the words indirect costs to be allocated in the ratio of export turnover upon total turnover, the denominator, namely, total turnover would not include incentives and, therefore, while computing total turnover, one has to take the entire indirect expense into account.
+Argument	In short, learned counsel submits that the said ratio will not apply to cases falling under section 80HHC(3)(b) .
+Argument	9.
+Argument	Learned counsel further submitted that as a matter of policy that the Government thought it fit to exclude only 90% of the receipts from the business profits as per Explanation (baa) instead of 100% and from this it cannot be inferred  that the <ORG> has assumed that 10% of such receipts has to be treated as costs or expenses to earn receipts by way of incentives, commission, interest etc..
+Argument	According to the learned counsel, clause (baa) was inserted for an entirely different purpose.
+Argument	It was not meant for interpreting clause (b) of section 80HHC(3) and, therefore, it cannot be assumed that 10% of export incentives should be considered as costs or expenses incurred to earn such receipts.
+Argument	According to the learned counsel, the definition of indirect costs as per clause (e) in the Explanation below sub-section(3) does not exclude such costs incurred for earning export incentives.
+Argument	Therefore, there is no justification for excluding indirect costs, if any, incurred for earning export incentives, commission etc..
+Argument	According to the learned counsel, the assessee in the present case is a 100% exporter and, therefore, the entire expenses, both direct and indirect, can be only in respect of export turnover.
+Argument	According to the learned counsel, the d efinition of indirect costs in clause (e) of the Explanation below sub-section (3) was to apply only in cases where the tax payer had export business plus domestic business, in which case, allocation between export turnover and total turnover is contemplated.
+Argument	According to the learned counsel, in the present case falling under section 80HHC(3)(b) , question of such apportionment did not arise because in cases of the present type, export turnover and total turnover are identical and in such cases question of apportionment or allocation did not arise.
+Argument	Therefore, the assumption on which the assessee is placing reliance is not applicable to cases falling under section 80HHC(3)(b) .
+Statute	10.
+Statute	Before coming to the controversy in hand, we quote hereinbelow section 80HHC(3) as it stood at the relevant time:  Deduction in respect of profits retained for export business 80HHC (3) For the purposes of sub-section (1),--  (a) where the export out of India is of goods or merchandise manufactured or processed by the assessee,  the profits derived from such export shall be the amount which bears to the profits of the business, the same proportion as the export turnover in respect of such goods bears to the total turnover of the business carried on by the assessee;  (b) where the export out of India is of trading goods, the profits derived from such export shall be the export turnover in respect of such trading goods as reduced by the direct costs and indirect costs attributable to such export ;  (c) where the export out of India is of goods or merchandise manufactured or processed by the assessee and of trading goods, the profits, derived from such export shall,--  (i) in respect of the goods or merchandise manufactured or processed by the assessee, be the amount which bears to the adjusted profits of the business, the same proportion as the adjusted export turnover in respect of such goods bears to the adjusted total turnover of the business carried on by the assessee; and  (ii) in respect of trading goods, be the export turnover i n respect of such trading goods as reduced by the direct and indirect costs attributable to export of such trading goods : Provided that the profits computed under clause (a) or clause (b) or clause (c) of this sub-section shall be further increased by the amount which bears to ninety per cent of any sum referred to in clause (iiia) (not being profits on sale of a licence acquired from any other person), and clause (iiib) and (iiic) of section 28 , the same proportion as the export turnover bears to the total turnover of the business carried on by the assessee.
+Statute	Explanations.
+Statute	 For the purposes of this sub-section,--  (a) adjusted export turnover means the export turnover as reduced by the export turnover in respect of trading goods;  (b) adjusted profits of the business means the profits of the business as reduced by the profits derived from the business of export out of India of trading goods as computed in the manner provided in clause (b) of sub-section (3);  (c) adjusted total turnover means the tot al turnover of the business as reduced by the export turnover in respect of trading goods;  (d) direct costs means costs directly attributable to the trading goods exported out of India including the purchase price of such goods;  (e) indirect costs means costs, not being direct costs, allocated in the ratio of the export turnover in respect of trading goods to the total turnover;  (f) trading goods means goods which are not manufactured or processed by the assessee.
+Statute	(3A)  (4)  (4A)  Explanation.For the purposes of this section,--  (a) convertible foreign exchange means foreign exchange which is for the time being treated by <ORG> as convertible foreign exchange for the purposes of the Foreign Exchange Regulation Act , 1973 , and any rules made thereunder;  (aa) export out of India shall not include any transaction by way of sale or otherwise, in a shop, emporium or any other establishment situate in India, not involving clearance at any customs station as defined in the Cus toms Act , 1962 ;  (b) export turnover means the sale proceeds, received in, or brought into, India by the assessee in convertible foreign exchange in accordance with clause (a) of sub-section (2) of any goods or merchandise to which this section applies and which are exported out of India, but does not include freight or insurance attributable to the transport of the goods or merchandise beyond the customs station as defined in the Customs Act , 1962 ;  (ba) total turnover shall not include freight or insurance attributable to the transport of the goods or merchandise beyond the customs station as defined in the Customs Act , 1962  :  Provided that in relation to any assessment year commencing on or after the 1st day of April, 1991, the expression total turnover shall have effect as if it also excluded any sum referred to in clauses (iiia), (iiib) and (iiic) of section 28 ; (baa) profits of the business means the profits of the business as computed under the head Profits and gains of business or pro fession as reduced by (1) ninety per cent of any sum referred to in clauses (iiia), (iiib) and (iiic) of section 28 or of any receipts by way of brokerage, commission, interest, rent, charges or any other receipt of a similar nature included in such profits; and (2) the profits of any branch, office, warehouse or any other establishment of the assessee situate outside India;  (c) Export House Certificate or Trading House Certificate means a valid Export House Certificate or Trading House Certificate, as the case may be, issued by the Chief Controller of Imports and Exports, <ORG>;  (d) supporting manufacturer means a person being an Indian company or a person (other than a company) resident in India, manufacturing (including processing) goods or merchandise and selling such goods or merchandise to <ORG> or <ORG> for the purposes of export.  11.
+RatioOfTheDecision	We have considered the rival submissions.
+RatioOfTheDecision	It is not disputed by the <ORG> that the assessee, in addition to the income  derived from export of trading goods, also derived income from Export Incentives etc.
+RatioOfTheDecision	of Rs.1,60,000 against FOB value of exports amounting to Rs.6,50,000 in the above illustration.
+RatioOfTheDecision	It is not the case of the <ORG> that the assessee could have earned Rs.1,60,000 without incurring any expenditure.
+RatioOfTheDecision	(Rs.50,000 in the above example).
+RatioOfTheDecision	It is not in dispute that the case falls under section 80HHC(3)(a) .
+RatioOfTheDecision	It is not the case of the <ORG> that assessee had no income by way of incentive, interest etc.
+RatioOfTheDecision	(Rs.1,60,000 in the example).
+RatioOfTheDecision	The basic case of the <ORG> was that the words indirect costs in clause (e) in the Explanation did not provide for exclusion of expenses incurred for earning incentives, commission, rent etc.
+RatioOfTheDecision	and, therefore, the entire amount of expenses (Rs.50,000 in the above example) spent for earning such Other Incomes did not fall within the meaning of the word indirect cost in clause (e).
+RatioOfTheDecision	According to the <ORG>, section 80HHC(3)(b) provides for a statutory formula to calculate expo rt profits by deducting direct and indirect costs from export turnover, however, expenses incurred for earning incentives, commission etc.
+RatioOfTheDecision	(other incomes) does not fall in the definition of indirect cost.
+RatioOfTheDecision	That, the assessee was not entitled to claim 10% of the receipts from its Other Income (Rs.16,000 in the above example) as expense to be deducted from the indirect cost (Rs.50,000 in the above example).
+RatioOfTheDecision	Accordingly, the A.O.
+RatioOfTheDecision	deducted full Rs.50,000 as indirect cost from the export turnover.
+RatioOfTheDecision	Therefore, even according to the <ORG>, it is not in dispute that the assessee had incurred an expense of Rs.16,000 (in the above example) to earn Other Incomes of Rs.1,60,000 but it denied the Proportionate Deduction from Rs.50,000 on account of strict interpretation of the words indirect cost in clause (e).
+RatioOfTheDecision	However, in the above stand of the <ORG>, there is a fallacy.
+Statute	Under section 80HHC(3)(b) which is the main section, the <ORG> has provided that in cases falling under section 80HHC(3)(b) direct and  indirect costs attributable to such exports have to be deducted from the export turnover to arrive at Export Profits.
+Statute	Similar provision is made in clause (d) which defines the words direct costs to mean costs attributable to exports of trading goods.
+Statute	Moreover, clause (e) of the Explanation defines indirect costs as costs which is not direct costs as defined in clause (d).
+RatioOfTheDecision	The word attributable is wider than the word derived.
+Argument	The <ORG> in this case, as can be seen from above example, itself says that Rs.50,000 in full is the Indirect Cost which has to be deducted in full as clause (e) does not provide for proportionate deduction.
+Argument	According to the <ORG>, the definition of indirect costs will not cover expenses incurred for earning Other Incomes.
+Argument	However, at the same time, <ORG> concedes that the assessee had earned export turnover of Rs.6,50,000 plus Rs.1,60,000 as Other Incomes.
+Argument	It also concedes that Rs.50,000 is the indirect expense.
+Precedent	If so, what should be the expense allocated to the  earning of the two incomes and in what proportion is the question?
+Precedent	12.
+RulingByPresentCourt	According to the <ORG>, the question of allocation does not arise in cases falling under section 80HHC(3)(b) .
+RulingByPresentCourt	We do not find merit in this contention.
+RulingByPresentCourt	Firstly, clause (e) to the Explanation which refers to allocation of costs applies to sections 80HHC(3)(a) , 80HHC(3)(b) and 80HHC(3)(c) .
+RulingByPresentCourt	Secondly, section 80HHC(3)(b) equates export profits to export turnover less direct and indirect costs attributable to the exports of trading goods.
+RulingByPresentCourt	Therefore, the principle of attribution is retained.
+RulingByPresentCourt	Thirdly, keeping in mind the provisions of section 80HHC(3)(b) read with clauses (d) and (e) of the Explanation it is clear that <ORG> intended allocation of costs between export turnover and total turnover.
+RulingByPresentCourt	It is urged that the apportionment would not apply to cases under section 80HHC(3)(b) .
+RatioOfTheDecision	It is true that, in most cases, it may not.
+RatioOfTheDecision	But in certain cases falling under section 80HHC(3)(b) , ratio still applies.
+Argument	For example, in the case wher e the assessee exports all bought-out items but brings back only a part of the export proceedings into India, in such cases, the ratio will apply and, therefore, if one is to read clause (e), it retains the words indirect costs to be allocated in the ratio of export turnover to total turnover.
+Argument	13.
+Argument	The question which, however, needs to be decided is whether, in the above example, the assessee is entitled to reduction of Rs.16,000 from Rs.50,000 being the total indirect expenses for earning both the incomes.
+Argument	<ORG> reduces the FOB value by Rs.50,000 whereas assessee contends that it should be reduced by Rs.34,000 (Rs.50,000  Rs.16,000).
+Argument	<ORG> claims apportionment at the rate of 10% of Other Income of Rs.1,60,000 (in the above example).
+Argument	This is opposed by the <ORG> saying that since apportionment does not apply to section 80HHC(3)(b) , there is no question of applying the yardstick of 10%.
+Argument	According to the <ORG>, the words indirect costs does not take into account the expenses to earn Other  Incomes.
+Argument	In this case, reliance is placed on clause  (e).
+RulingByLowerCourt	However, the <ORG> has failed to notice the words attributable to exports in section 80HHC(3)(b) .
+RulingByLowerCourt	14.
+RulingByLowerCourt	As stated above, in our opinion, the words attributable in section 80HHC(3)(b) in the main section itself indicates that apportionment (principle of attribution) is not omitted from the said provision of section 80HHC(3)(b) .
+RulingByLowerCourt	As stated above, assessee has earned Other Income of Rs.1,60,000 apart from FOB value of exports of Rs.6,50,000.
+RulingByLowerCourt	Therefore, some expense has to be attributed to earning of Rs.1,60,000.
+RulingByLowerCourt	If so, the next question which arises is how to allocate the costs?
+RulingByLowerCourt	As stated above, assessee has two incomes with one Common Pool of expenses and since principle of attribution has been retained in the scheme of section 80HHC , both in terms of section 80HHC(3) , clause (e) to the Explanation to section 80HHC(3)(a) , (b) and (c) and in clause (baa) to the Explanation to section 80HHC , instead of going into lengthy exercise of dividing  such Common Expenses, the assessee has estimated the reduction of export turnover by 10% of the other income of Rs.1,60,000 (in the above example).
+RulingByLowerCourt	Ultimately, clause (baa) to the Explanation is itself based on the assumption that 10% of the income would be an expense.
+RatioOfTheDecision	We make it clear that we are not reading Explanation (baa) into section 80HHC(3)(b) .
+RatioOfTheDecision	What we say is as a Guidance Value/Factor, 10% of the total Other Income of Rs.1,60,000 would be fair estimate.
+RatioOfTheDecision	This guidance value is not flowing from clause (baa) but from the scheme of section 80HHC read with the Memorandum to the Finance Act of 1991.
+RatioOfTheDecision	Take a reverse case, if allocation of expenses is to be done on Actual Basis, it would not only be very difficult but in some cases actual apportionment may not be in the interest even of the <ORG>.
+RatioOfTheDecision	15.
+RatioOfTheDecision	In conclusion, we may state that under section 80HHC(3)(b) one has to balance the principle of attribution with the concept of allocation.
+RatioOfTheDecision	The concept of allocation is meant to reduce the incentive.
+RatioOfTheDecision	However, when allocation has to be balanced with the principle of attribution, the object is to reduce the incentive and not to eliminate it.
+RatioOfTheDecision	16.
+RatioOfTheDecision	For the above reasons, we set aside the impugned judgments of <ORG> dated 22.12.2006 and restore the orders of <ORG> dated 30.9.2003, 24.10.2003, 13.2.2004 and 26.8.2004.
+RatioOfTheDecision	17.
+RulingByPresentCourt	Accordingly, the civil appeals filed by the assessee stand allowed with no order as to costs.

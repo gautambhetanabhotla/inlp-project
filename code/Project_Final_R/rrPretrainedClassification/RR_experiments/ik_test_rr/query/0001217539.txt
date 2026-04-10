@@ -1,0 +1,89 @@
+Fact	<NAME>, Acting C.J.
+Fact	1.
+Fact	This is an appeal under Clause 15 of the Letters Patent from the judgment of Mr. Justice <NAME> in a suit for recovery of possession of land upon declaration of title, The subject-matter of the litigation is an occupancy holding which belonged to one <NAME>.
+Fact	the plaintiff purchased it in 1910 in execution of a decree, and the sale was made expressly subject to a mortgage in favour of one <NAME>.
+Fact	<NAME> subsequently sued to enforce his security; but in that suit the original mortgagor alone was joined as a party; the plaintiff, for some unexplained reason, was not joined as a defendant.
+Fact	A. decree was obtained in due course by the mortgagee and at the execution sale, which followed, the mortgagee became the purchaser.
+Fact	Subsequently he transferred the property to the third defendant, from whom the plaintiff now seeks to recover possession.
+RulingByLowerCourt	2.
+RulingByLowerCourt	The Court of first instance held that the plaintiff was entitled to a decree for possession without redeeming the pu <NAME> at the mortgage sale.
+RulingByLowerCourt	Upon appeal, the District Judge reversed that decision and held that although the title of the plaintiff as the holder of the equity of redemption might be declared, his claim for possession must be rejected as he had not offered to redeem the pu<NAME> at the mortgage-sale.
+RulingByLowerCourt	On appeal to this Court Mr. Justice <NAME> has reversed the decision of the District Judge and has restored the decree of the Court of first instance on the authority of the decisions in the cases of <NAME> v. <NAME> 4 C.W.N.
+Precedent	452 and <NAME> v. <NAME> 6 C.L.J.
+Precedent	609.
+RatioOfTheDecision	We are of opinion that this decree cannot be supported.
+RatioOfTheDecision	3.
+RatioOfTheDecision	On the facts stated, it is plain that the plaintiff is the pu<NAME> of the equity of redemption while the contesting defendant is the pu<NAME> at the mortgage-sale.
+RatioOfTheDecision	The plaintiff, as holder of the equity of redemption, is not entitled to recover possession, after the mortgage sale has taken place, The fact that he was left out of the mortgage suit does  not nullify the decree in that litigation.
+RatioOfTheDecision	The true result is, as was pointed out, upon a review of the earlier decisions, in <NAME> v. <NAME> 6 C.L.J.
+RatioOfTheDecision	612 : 12 C.W.N.
+Fact	107 that the omission to make the plaintiff a party to the mortgage-suit leaves unaffected his right to redeem [of.
+Fact	Brojonath Koondco Chowdry V. Khelut Chunder Ghose 14 M.I.A.
+Precedent	144 : 8 B.L.R.
+Precedent	104 (<ORG>) : 16 W.R. 33 (<ORG>) : 2 Suth.
+Precedent	<ORG>J.
+Precedent	480 : 2 Sar.
+Precedent	<ORG>J.
+Precedent	711 : 20 E.R.
+Precedent	740, <NAME> v. <NAME> tatima 18 C. 164 : 17 I.A.
+Precedent	201 : 5 Sar.
+Precedent	<ORG>J.
+Precedent	507 : 9 Ind.
+Precedent	Dec.
+Precedent	(N.S.)
+Precedent	110; <CITATION_524481> anam Misser 21 C. 70 : 20 I.A.
+Precedent	165 : 16 Ind.
+Precedent	Jur.
+Precedent	536 : 6 Sar.
+Precedent	<ORG>J.
+Precedent	356 : 10 Ind.
+Precedent	Dec.
+Precedent	(N.S.)
+Precedent	679; the <NAME> v. <NAME> 5 Ind.
+Precedent	Cas.
+Precedent	151 : 37 C. 239 : 14 C.W.N.
+Precedent	214 : 11 C.L.J.
+Precedent	166 : 3 Bur.
+Precedent	L.T.
+Precedent	27 : 12 Bom.
+Precedent	L.R.
+Precedent	234 : 20 M.L.J.
+Precedent	153 : 37 I.A.
+Precedent	19 (<ORG>).
+Precedent	It is not necessary for our present purpose to consider whether the mortgagee can still sue the plaintiff on his mortgage [of.
+Precedent	<NAME> v. <NAME> 30 C. 599 : 7 C. W.N.
+Precedent	766 (F.B.
+Precedent	); <CITATION_1690181> 9 Ind.
+Precedent	Cas.
+Precedent	513 : 21 M.L.J.
+Precedent	213 : 9 M.L.T.
+Precedent	431 : (1911) 1 M.W.N.
+Precedent	165 .
+Argument	It is abundantly clear that he need not sue again on his mortgage <NAME> v. <NAME> 5 C.L.J.
+Argument	315 : 11 C.W.N.
+Argument	403 and is not bound to deliver up possession to the plaintiff till he has been redcemed by the latter on the footing of the mortgage decree.
+Argument	This view is supported by the decisions in <CITATION_561008> 32 C. 891 : 9 C.W.N.
+Precedent	728 : 1 C.L.J.
+Precedent	371; <NAME> v. <NAME> 4 C.W.N.
+Precedent	266 and <CITATION_1009782> 44 Ind.
+Precedent	Cas.
+Precedent	52 : 22 C.W.N.
+Precedent	543 : 28 C.L.J.
+Precedent	256.
+Precedent	The cases of <NAME> v. <NAME> 4 C.W.N.
+Precedent	452 and <NAME> v. <NAME> 6 C.L.J.
+RatioOfTheDecision	609 may perhaps be difficult to reconcile with those just mentioned, but their correctness is open to doubt.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The plaintiff respondent has at this stage offered to redeem the defendant but for this, we would have directed that the decree should declare his right to redeem and disallow his claim  for recovery of possession.
+RatioOfTheDecision	5.
+RulingByPresentCourt	The result is that this appeal is allowed, the decree made by Mr. Justice <NAME> set aside, and the case remitted to the District Judge so that a decree may be made in favour of the plaintiff as if this were framed as a suit for redemption.
+Fact	An account will betaken by the District Judge of the amount due on the mortgage decree, including interest thereon up to the date when the mortgagee purchaser was placed in possession by the <ORG>, The interest due thereafter will be set off against the profits received from the land by the mortgagee purchaser.
+Fact	<NAME> v. <NAME> 5 C.L.J.
+Fact	315 : 11 C.W.N.
+Fact	403.
+Fact	The plaintiff must pay the contesting defendants their costs in all the <ORG>s, which will be added to the sum due under the mortgage decree.
+Fact	If the aggregate sum so calculated is deposited by the plaintiff in <ORG> to the credit of the contesting defendants, within six months from the date when the decree is drawn up by the District Judge pursuant to this judgme nt, the plaintiff will recover possession upon redemption.
+Fact	If the plaintiff fails to make the deposit as directed, the suit will stand dismissed with costs in all the <ORG>.
+Fact	<NAME>, J.
+Fact	6.
+Fact	I agree.

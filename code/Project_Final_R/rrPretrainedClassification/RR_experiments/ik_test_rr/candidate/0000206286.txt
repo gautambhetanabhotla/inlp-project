@@ -1,0 +1,166 @@
+Fact	JUDGMENT  1.
+Fact	This appeal is against an order of <ORG> dismissing an application for execution of the decree of <ORG> in Original Suit No.
+Fact	15 of 1892.
+Fact	The decree is one for partition and was passed on the 3rd August 1897.
+RatioOfTheDecision	There were several intermediate applications for execution presented on the plaintiff's behalf during his minority by his next friend.
+RatioOfTheDecision	One of them was compromised on the 29th January 1900.
+RatioOfTheDecision	The plaintiff's present application ignores the compromise, his case being that it was illegal and not binding on him.
+RatioOfTheDecision	The application has been dismissed by the lower Court on the ground that it is barred by limitation under Section 48 of the Code of Civil Procedure, it having been presented more than twelve years after the date of the decree, although within three years after the attainment of majority by the plaintiff.
+RatioOfTheDecision	The first question for consideration is whether the plaintiff is entitled to the benefit of Section 7 of the Limitation Act and to  reckon the period of limitation for execution of the decree from the date of attainment of majority; and whether apart from that section, there is any general principle of law entitling him to the same benefit on account of his disability arising from minority.
+RatioOfTheDecision	Article 182 of the Limitation Act which lays down the general rule of limitation applicable to execution of decrees exempts from its operation cases coming within the purview of Section 48 of the Civil Procedure Code.
+RatioOfTheDecision	Section 6 of the Act enacts that "where a person entitled to institute a suit or make an application for the execution of a decree is, at the time from which the period of limitation is to be reckoned, a minor,... he may institute the suit or make the application within the same period after the disability has ceased, as would otherwise have been allowed from the time prescribed therefor in the third column of the first schedule"; and as Article 182 of the schedule is inapplicable to the case, Section 6 enacting the rule of exemption dur ing the period of minority must also be held to be inapplicable, The District Judge, Mr. <NAME>, has dealt with the question in a remarkably able and lucid judgment; but the question really does not admit of any serious doubt on the language of the section.
+RatioOfTheDecision	It is unnecessary to consider whether the other general provisions of the Limitation Act contained in Sections 4 to 25 would be applicable or not, where the period of Limitation is prescribed by some special Act and not by the general code of limitation.
+RatioOfTheDecision	Section 6 is expressly limited to cases where the limitation is provided for in the Limitation Act itself.
+RatioOfTheDecision	We therefore agree with the Judge in holding that the plaintiff cannot claim the benefit of Section 6 of the Limitation Act.
+RatioOfTheDecision	It is strenuously contended by Mr. <NAME>, the learned vakil for the appellant, that apart from that section minority is a well recognised ground of exemption in law from the operation of the law of limitation.
+Precedent	He relies in support of this contention mainly on Moro  <NAME> v. <NAME> (1892) I.L.R.
+Precedent	16 Bom.
+RatioOfTheDecision	536 and a passage in <NAME>'s Abridgment.
+RatioOfTheDecision	The Bombay case, it cannot be denied, supports his contention.
+RatioOfTheDecision	The question there was the same as in this case.
+RatioOfTheDecision	<NAME>, <NAME>, observed : " The question referred to us must be decided by the general principle of law as to the disability of minors, to which the provisions of the Civil Procedure Code must, in the absence of anything to the contrary, be deemed to be subject.
+RatioOfTheDecision	The general principle is that time does not run against a minor; and the circumstance that he has been represented by a guardian does not affect the question."
+RatioOfTheDecision	No authority has been cited in support of the enunciation of the rule that there is a general principle of law that time does not run against a minor.
+Precedent	The passage cited from <NAME>'s Abridgment is in the following terms:-- "The rights of infants are much favoured in law, and regularly their laches shall not be prejudicial to them, upon a presumption that they understand not their right, and that  they are not capable of taking notice of the rules of law, so as to be able to apply them to their advantage.
+Precedent	Hence, by the common law, infants were not bound for want of claim and entry within a year and a day, nor are they bound by a fine and five years' non-claim, nor by the statutes of limitation, provided they prosecute their right within the time allowed by the statute after the impediment removed."
+Precedent	Tit: Infancy and Age, Section (g), IV volume, seventh edition page 348 <NAME> v. <NAME> (2) is cited as authority for this proposition.
+RatioOfTheDecision	After full consideration we have come to the conclusion that the authority relied on in the passage cited does not show that according to the English law, infancy is an answer to a plea of limitation.
+Fact	The question in <NAME> v. <NAME> (1688) 87 E.R., 142 at p. 144 (3 Mod., 221 at p. 223) was whether a certain custom was applicable to minors, namely, a custom that the person to whose use a copyhold estate is surreudered shall come in and be admitted after three proclamation s or otherwise his land shall be forfeited.
+RatioOfTheDecision	It was held that it was not and that therefore if a surrender be made in fee and the surrenderee die before the next <ORG>, the estate is not forfeited by the infant heir and the surrenderee not coming in after three proclamations.
+RatioOfTheDecision	<NAME>, J., observed "that a feoffment of an infant was no forfeiture at the common law, and that as a particular custom may bind an infant for a time, so it may bar him for ever," and that the question was whether the custom in question as it was found in general words should bind an infant after three proclamations; "All customs," he said, "are to be taken strictly when they go to the destruction of an estate."
+RatioOfTheDecision	Strictly, infants were not prevented by the letter of the custom, they were not bound by other customs like this, there was no necessity to construe them to be within the custom.
+RatioOfTheDecision	He no doubt observed that, "the right of infants is much favoured in the law, and their laches shall not be prejudicial to them as to entry or claim, upon  a presumption that they understand not their right" but he did not say that they were not bound by statutes of limitation.
+RatioOfTheDecision	On the other hand he observed: "it is admitted that if an infant do not present to a church within six months, or do not appear within a year, that his right is bound; but this is because the law is more tender of the church, and the life of a man, than of the privileges of infancy.
+RatioOfTheDecision	Bo if an office of parkship be given or descends to an infant, it the condition annexed in law to such an office (which is skill) be not observed, the office is forfeited.
+RatioOfTheDecision	But that a proclamation in a base court should bind an infant, when he is not within the reason of the custom, is not agreeable either to law or reason" Nor did either of the other concurring Judges <NAME>, J.,and <NAME>, J., make any pronouncement in favour of the exemption of minors from rules of limitation proper.
+RatioOfTheDecision	It may be that laches may not be attributable to an infant and that a penalty inflicted for laches may not be enforced on an  infant.
+RatioOfTheDecision	But laches should not be regarded as the sole or perhaps even the main ground on which rules of limitation are based.
+Precedent	Lord <NAME> observed "all statutes of limitation have for their object the prevention of the rearing up of claims at great distances of time when evidences are lost; and in all well regulated countries the quieting of possession is held an important point of policy."
+Precedent	In <ORG> v. <NAME> 1 Macq H.L.
+Precedent	321 Lord <NAME> described the statutes of limitation as statutes of repose.
+Precedent	See also the observations of Lord <NAME> in <NAME> v. <NAME> (1821) 4 Bligh (P.C.)
+Precedent	1 at p. 106 : (4 E.R.
+RatioOfTheDecision	721).
+RatioOfTheDecision	Lord <NAME> says that the limitation of actions was by force of diverse Acts of Parliament, although at a very remote time in England there was undoubtedly a stated time for the heir of the tenants to claim after the death of his ancestor and in case of non-claim before the expiration of the time (a year and a day) the claimant was without remedy.
+RatioOfTheDecision	Banning in his work on <NAME> itations, page 1, observes: "the limitation of the times for bringing actions is, at the present day entirely dependent on statute."
+RatioOfTheDecision	He states that under the common law the presumption arose alter a long time in respect to a legal claim that it had been satisfied.
+Precedent	See <NAME> v. <NAME> (1792) 4 Brown's Chancery Cases, 115.
+Precedent	Eminent Judges have repudiated the notion that limitation is based solely on the ground of laches.
+Precedent	In <NAME> v. <NAME> (1881) 6 A.C. 740 at p. 818 Lord <NAME> observed: "This ground of acquiescence or laches is often spoken of as if it were the only ground on which prescription was or could be founded.
+RatioOfTheDecision	But I think the weight of authority, both in this country and in other systems of jurisprudence, shews that the principle on which prescription is founded is more extensive.
+RatioOfTheDecision	Prescription is not one of those laws which are derived from natural justice.
+Precedent	Lord STAIR, in his Institutions, treating of the law of Scotland, in the old customs of which country he tells us prescription had no plac e (book 2, tit.
+Precedent	12, Section 9 ), says, I think truly, "Prescription, although it be by positive law, founded upon utility more than upon equity, the introduction whereof the Romans ascribed to themselves, yet hath it been since received by most nations, but not so as to be counted amongst the laws of nations, because it is not the same, but different in diverse nations as to the matter, manner, and the time of it....It is both fair and expedient that there should be provisions to enlarge the time when the true owners are under disabilities or for any other reason are not to be considered guilty of laches in not using their right within the specified period, and such provisions there were in the lioman law, and commonly are in modern (Statutes of Limitations, but I take it that these are positive laws, founded on expedience, and varying in different countries and at different times."
+Precedent	<NAME> in his work On Limitation observes: "although, says <NAME>, there was no other reason to justify the introduction and use  of prescription than that of public policy, it would be just to prevent the property of things from being constantly in a state of uncertainty.
+Precedent	Laches like limitation no doubt deprive the plaintiff of his remedy, but it depends upon general principles while limitation depends on express law.
+Precedent	Laches may be adapted to the facts of each particular case, but limitation is a matter of inflexible law.
+Precedent	A positive rule of limitation must not depend on whether there be laches or no: <ORG> in England apart from any rules of limitation refused relief to parties resorting to th em for remedies not open to the courts of common law, if they were guilty of laches; but they also followed the Statutes of Limitation by analogy in granting equitable reliefs; although no Statute of Limitations before 3 and 4 Will.
+Precedent	IV, c 27, provided in terms 'for equitable rights or expressly bound the <ORG>."
+Precedent	See <ORG>, page 234.
+Precedent	2.
+Precedent	Limitation then being the result of statute law, it has been h eld in England that no exemption from it can be recognised except what the statute itself provides.
+Precedent	In <NAME> v. <NAME> (1805) 11 R.R., 20 at pp.
+Precedent	23 and 24 : S.C. 17 Ves.
+Precedent	87 at pp.
+Precedent	91--93, <ORG> held that the fact that the defendants in an action were absent from the realm could not postpone the running of limitation.
+Precedent	<NAME> observed; "The proposition, that this construction, under the doctrine of inherent equity, is put upon our English Statutes of Limitation, is, as I apprehend, altogether unfounded.
+Precedent	General words in a statute must receive a general construction; unless you can find in the statute itself some ground for limiting and restraining their meaning by reasonable construction, and not by arbitrary addition or retrenchment."
+Precedent	He goes on to say: "The true rule on this subject is laid down by Sir <NAME> in his opinion in <ORG> on the case of Earl of Buckinghamshire v. <NAME> 1762 (<NAME>.
+Precedent	177), [97 E.R.,69].
+Precedent	He says: 'many cases ha ve been put, where the law implies an exception; and takes infants out of general words by what is called a virtual exception.
+Precedent	I have looked through all the cases, and the only rule to be drawn from them is, that, where the words of a law in their common and ordinary signification are sufficient to include infants, the virtual exception must be drawn from the intention of the legislature, manifested by other parts of the law, from the general purpose and design of the law, and from the subject matter of it.'
+Precedent	And he mentions the Statutes of Limitations, as an instance of a case, in which infants would be barred, if it were not for the introduction of the waving clause.
+Precedent	Accordingly we find, that in the great case of <NAME> v. Lord <NAME> (1797) 1 Plowden 353 [75 E.R.
+Precedent	536], upon the Statute of Fines of Henry the Seventh where the question was, whether, when the bar by five years' non-claim had begun to run in the time of the ancestor of lull age, it should continue to run against his infant heir, although there w as great difference of opinion among the Judges upon that question, the whole argument turns upon the true construction of the statute itself, with reference to all the parts of it, and to the object it had in view, and not upon any supposed inherent, equity, by which infants were to be excepted out of the operation of the Statutes of Limitation.
+Precedent	On the contrary it is laid down in that case and laid down without any contradiction; 'For as much as they intended,' that is, the <ORG> intended, 'to avoid universal trouble fas the preamble speaks) and to make peace, which is to be preferred before all other things, and for as much as they have made the provision general, viz.
+Precedent	that the fine shall be final, and shall conclude as well privies as strangers: if the Act had stopped there, it would have bound as well infants, femes covert, and the others, named in the exception, as people of full age, and who were void of such defects," His Lordship went on to observe, referring to the case before him, that the abs ence of the defendants from the realm or even the fact of <ORG> being shut up in times of war were no grounds for excluding the Statutes of Limitation.
+Precedent	See also <ORG>, page 498, where the opinions of Chancellor <NAME> and <ORG> in America to the same effect are referred to.
+Precedent	It is perfectly clear from <NAME> v. <NAME> (1805) 11 R.R., 20 at pp.
+Precedent	23 and 24 : S.C. 17 Ves.
+Precedent	87 at pp.
+Precedent	91--93, that minority unless expressly provided for in the statute would be no ground of privilege.
+Precedent	See <NAME> v. Collector of Bareilly (1874) 1 I.A., 107.
+Precedent	We have no hesitation in saying that the same view must be held in this country also.
+Precedent	3.
+Precedent	The earliest statutes of limitation in India therefore made express provisions in favour of minors.
+Precedent	See Madras Regulation 2 of 1802, Section 18 , Clauses 1, 2 and 3.
+Precedent	In Act XIV of 1859, Section 11 provided a general exemption in favour of minors but only in the case of suits.
+Precedent	In Act IX of 1871 also the exemption was confined to suits, but a f urther restriction was introduced by it by limiting the privilege to cases where limitation was provided for in the schedule to the Act.
+RatioOfTheDecision	There can be no doubt that the restriction was deliberately made.
+RatioOfTheDecision	In Section 7 of Act XV of 1877 the privilege was extended to applications; but the restriction to cases for which the limitation was provided for in the Act was continued.
+RatioOfTheDecision	The provision in the present Act is in the same terms.
+RatioOfTheDecision	We cannot therefore uphold the argument that there is any fundamental rule of law or justice entitling the appellant to claim that the limitation should run only from the date of his attaining majority.
+RatioOfTheDecision	The decision of <ORG> in <CITATION_197339988> 29 P.R., 489, is in accordance with the view we have taken on the question.
+RatioOfTheDecision	4.
+Argument	It is next contended for the appellant that the application is not barred in so far as the claim for mesne profits is concerned, even if Section 48 of the Civil Procedure Code would be a bar so far as partition is concerned.
+Precedent	The argument is that wi th regard to mesne profits the decree cannot be regarded as complete until they are ascertained; and that the present application may be regarded as one for the ascertainment of the mesne profits and as such should be regarded as one not for execution of the decree but as one in the suit itself to finish the enquiry and make the decree for mesne profits final, And reliance is placed in support of the argument on <CITATION_1175965> (1892) I.L.R.
+Precedent	19 Calc.
+Precedent	132 (F.B.
+Precedent	), <NAME> v. <NAME> (1907) 6 C.L.J.,462, <CITATION_1947974> (1912) I.L.R.
+Precedent	39 Calc.
+Precedent	220 : S.C, 16 C.W.N., 109, <NAME> v. <NAME> (1902) I.L.R.125 All.
+Precedent	385 and <NAME> v. <NAME> (1904) I.L.R.
+Precedent	26 All.
+Precedent	628.
+RatioOfTheDecision	The decree here was passed when the repealed Civil Procedure Code was in force.
+RatioOfTheDecision	If provided that "the defendants do pay to the plaintiff his one-third share of the mesne profits (to be ascertained in execution) from the date of suit 11th August 1892 until delivery of the lands or until three years fr om this date whichever event first occurs."
+RatioOfTheDecision	The direction for the ascertainment of the mesne profits in execution was apparently made under Section 211 of the Code.
+RatioOfTheDecision	Section 212 enacted that with regard to mesne profits prior to the institution of the suit "the <ORG> may either determine the amount by the decree itself, or may pass a decree for the property and direct an enquiry into the amount of mesne profits and dispose of the same on further orders."
+RatioOfTheDecision	Where the decree provided for the mesne profits up to the date of delivery of the property the enquiry had necessarily to be postponed.
+RatioOfTheDecision	Section 244 laid down that "questions regarding the amount of any mesne profits or interest which the decree has made payable in respect of the subject-matter of a suit, between the date of its institution and the execution of decree, or the expiration of three years from the date of the decree".
+RatioOfTheDecision	should be decided by the <ORG> executing the decree.
+RatioOfTheDecision	It is argued that the expression "the <ORG> executing the deoree" merely design ates the <ORG> which is to hold the enquiry into <ORG> profits and that the provision in Section 244 does not make the enquiry a matter relating to the execution of the decree.
+RatioOfTheDecision	It is not easy to see why an enquiry for <ORG> profits accruing subsequent to the date when judgment is given by the <ORG> should be regarded as necessary to make the decree itself complete.
+RatioOfTheDecision	Where the <ORG> profits relate to the period before the decree, it may be said that the decree should, strictly speaking, determine all the rights of the plaintiff including the claim to <ORG> profits up to the date of the decree; but it is doubtful whether this argument can apply to <ORG> profits subsequent to decree.
+RatioOfTheDecision	Whatever the strictly logical view of.
+RatioOfTheDecision	the matter may be, it appears to us that the object of provisions of the Code was to enable the <ORG> to separate the question of <ORG> profits from the claim to the land and to relegate the former to proceedings in execution.
+RatioOfTheDecision	It was certainly within the competence of the legislature to do so; a nd it was regarded as promoting the convenience of litigants and the <ORG>, According to Section 244 the enquiry need not be held by the <ORG> which tried the suit.
+RatioOfTheDecision	If the execution of the decree is transferred to another <ORG> it might be held by such <ORG>.
+RatioOfTheDecision	The enquiry may not logically be one relating to the execution of the decree; but in our opinion it was the intention of the legislature to make it a part of the execution proceedings.
+RatioOfTheDecision	This explains the reason for its inclusion in Section 244 .
+RatioOfTheDecision	The language of Clause (c) of that section "any other question relating to the execution" shows that the enquiry into the amount of <ORG> profits was also to be regarded as a question relating to execution.
+RatioOfTheDecision	An application for the ascertainment of <ORG> profits must therefore according to the Code be regarded as an application for execution, though it may be that the decree, in so far as <ORG> profits are concerned, would be incomplete until they have been ascertained.
+RatioOfTheDecision	It may be right to hold that within the meanin g of Section 280 of the repealed Code, the twelve years prescribed therein for the execution of a decree for money would run only from the date when the mesne profits are ascertained; for it may be said that until that is done, it cannot be said that there is a decree for money.
+Precedent	In this view the actual decision in <NAME> v. <NAME> (1907) 6 C.L.J., 462 may not be open to exception and the observation in <CITATION_1175965> (1892) I.L.R.
+Precedent	19 Calc.
+Precedent	132 (F.B.)
+RatioOfTheDecision	that the decree is not complete with regard to mesne profits for the purpose of execution until they have been ascertained, may also be unexceptionable; but this does not show that an application for the ascertainment of mesne profits would not be an application for execution as held by the Calcutta and Allahabad High Courts.
+RatioOfTheDecision	The Code expressly made it such.
+Precedent	<CITATION_1914368> (1906) I.L.R.
+Precedent	28 Calc.
+Precedent	242 is in accordance with this view, <CITATION_1947974> (1912) I.L.R.
+Precedent	39 Calc.
+Precedent	220 : S.C. 16 C.W.N., 109, no doubt contains an observatio n that the whole decree including the decree for possession must be regarded as incomplete until the <ORG>rofits are ascertained; but with all deference we are for the reasons already stated unable to agree in this view.
+Precedent	It is not supported by the earlier decisions of <ORG>.
+Precedent	It is based partly upon a judgment of <ORG> in <NAME> v. <NAME> (1891) I.L.R.
+Precedent	13 All.
+Precedent	53.
+RatioOfTheDecision	But that case does not support the proposition.
+RatioOfTheDecision	There although there was a declaration that the original defendants were liable for <ORG>rofits, the decree did not determine the important question whether the defendants were liable jointly or severally in respect of wrongful occupation.
+RatioOfTheDecision	There was no adjudication upon any of these matters until a long time after the original decree and until after the death of the defendants whose representatives were sought to be made liable.
+RatioOfTheDecision	The decision of their Lordships was that the representatives not having been made parties to the investigation about <ORG> rofits, they were not liable for the amount adjudged against them.
+RatioOfTheDecision	Their Lordships did not decide any question of limitation.
+Precedent	The appellant relies also on the decision of this Court in <CITATION_16072> (1911) 21 M.L.J., 546.
+RulingByPresentCourt	There the decree directed that the costs of one of the parties should be paid by the other when ascertained.
+RatioOfTheDecision	The ascertainment was not directed to be made in execution proceedings.
+RatioOfTheDecision	The Court had no power to give such a direction.
+RatioOfTheDecision	The question was when limitation began to run for the execution of the decree.
+RatioOfTheDecision	It was held that the decree was complete only when the costs were ascertained.
+RatioOfTheDecision	We do not think that the case affords any support to the appellant's contention here.
+RatioOfTheDecision	According to Section 48 of the present Code the execution of all decrees except a decree granting an injunction will be barred after the expiration of twelve years.
+RatioOfTheDecision	An application for the ascertainment of mesne profits being in our view an application for execution, we must hold that it is barred by the provisions of the se ction.
+RatioOfTheDecision	5.
+RatioOfTheDecision	But it is contended that this case must be decided according to the provisions of the present Procedure Code which by Order XX, Rule 12, directs that in a suit for the recovery of immoveable property and mesne profits the <ORG> may direct an enquiry as to the mesne profits and should pass a final decree in accordance with the result of the enquiry.
+RatioOfTheDecision	The effect of the provision is to make the decree so far as mesne profits are concerned complete only when the amount has been ascertained while not making the rest of the decree incomplete till then.
+RatioOfTheDecision	In this view an application for the ascertainment of mesne profits would not be one for execution of the decree, though the question might then arise whether Article 181 would not apply to such an application.
+RatioOfTheDecision	We are however of opinion that the question whether the application is one for execution or not should be decided in accordance with the provisions of the repealed Code.
+RatioOfTheDecision	The effect to be given to a document and to the proceedings of a <ORG> must be de cided by the law in force when the document was executed or the proceedings were passed.
+RatioOfTheDecision	The decree for mesne profits in this case cannot be regarded as incomplete and incapable of execution on the ground that according to the present Code it would be so regarded.
+RatioOfTheDecision	This view is in our opinion in accordance with the decisions discussed at pages 324 to 333 of <NAME> on the Interpretation of Statutes.
+Precedent	See also the judgment of this Court in <CITATION_666254> .
+Precedent	117 of 1911.
+Argument	6.
+Argument	Lastly it is contended that the application is not barred at any rate so far as the recovery of out standings is concerned inasmuch as they had not been collected by the defendants at the time of the decree, according to which the plaintiffs are entitled to recover their share when the out standings are collected.
+RatioOfTheDecision	But the application for execution does not state when they were collected or that they have been collected at all.
+RatioOfTheDecision	It does not therefore disclose any right on the part of the plaintiff to recover anything from the defendants.
+RulingByPresentCourt	In t he result the appeal is dismissed with costs.

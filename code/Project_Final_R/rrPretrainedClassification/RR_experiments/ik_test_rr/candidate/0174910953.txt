@@ -1,0 +1,215 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These are appeals by certificate.
+Fact	They raise common questions of law for decision, and they are directed against a common judgment of <ORG>.
+Fact	2.
+Fact	The facts of the case lie within a narrow compass.
+Fact	The appellants are dealers in foodgrains including cereals and pulses especially split or processed foodgrains and dal.
+Fact	The dispute in this case centers round the question whether the Government is competent to levy sales-tax on the purchases made by the appellants of split processed foodgrains and dal under the provisions of the United Provinces Sales Tax Act, 1948 as amended by the Uttar Pradesh Sales Tax Act (Amendment and Validation) Act .
+Fact	1970 (which will hereinafter be referred to as the Act).
+Fact	3.
+Fact	Under the Sales Tax Act as it originally stood (which will hereinafter be referred to as the principal Act), the purchases of split or processed foodgrains and dal by dealers were sought, to be brought to tax Under <CITATION_162836889> of the principal Act read with the  notification issued.
+Fact	The validity of the levy was challenged by <NAME>, the appellant in Civil Appeal No.
+RulingByLowerCourt	1625 of 1971 in respect of the assessment made on him for the assessment year 1966-67 by assessment order dated June 30, 1968 by means of a writ petition under Article 226 of the Constitution.
+RulingByLowerCourt	<ORG> struck down the levy holding that the dal purchased by the petitioner before it could not be said to be a commodity essentially different from the arhar dal purchased by the dal mills and accordingly the purchases effected by the petitioner could not be regarded as the first purchases.
+RulingByLowerCourt	This decision is reported in 25, S.T.C.
+RulingByLowerCourt	p. 118.
+Fact	Thereafter the Governor of U.P.
+Fact	issued an ordinance known as Uttar Pradesh Sales Tax (Amendment and Validation) Ordinance, 1970 (U.P.
+Fact	Ordinance No.
+Fact	2 of 1970) adding inter alia Explanation II to <CITATION_162836889> as well as Section 7 to the principal Act.
+Fact	This ordinance was later on enacted as an Act to which we have already made referenc e. The provisions of the Amending Act are identical with the provisions in the Ordinance.
+Fact	Though at the time of the institution of the writ petitions from which these appeals arise, the Ordinance had not yet been made into the Act, the Amending Act came into force during the pendency of the writ petitions.
+Statute	Hence we shall refer to the provisions of the Amending Act .
+Statute	4.
+Statute	Under the principal Act a dealer is defined in Section 2(c) as :  "dealer" means any person or association of persons carrying on the business of buying or selling goods in Uttar Pradesh, whether for commission, remuneration or otherwise, and includes any firm or Hindu Joint Family and any society, club or association which sells goods to its members and also includes any department of <ORG> or <ORG> which carries on such business and any undertaking engaged in the generation or distribution of electrical energy or any other form of power.
+RatioOfTheDecision	(Explanation to the section is not relevant for our present purpose).
+RatioOfTheDecision	5 .
+Statute	Section 3 of the Act provides for the levy of multi-point tax.
+Statute	The portion of that section which is material for our present purpose reads :  Subject to the provisions of this Act, every dealer shall, for each assessment year, pay a tax at the rate of two naye paise per rupee on his turnover of such year, which shall be determined in such manner as may be prescribed....  6.
+Statute	Section 3-A provides for a single point taxation in respect of sale of certain goods.
+Statute	At present we are only concerned with Section 3-D(l) .
+Statute	It provides :  Except as provided in Sub-section (2), there shall be levied and paid, for each assessment year or part thereof, a tax on the turnover, to be determined in such manner as may be prescribed, of first purchases made by a dealer or through a dealer, acting as a purchasing agent in respect of such goods or class of goods, and at such rates, not exceeding two paise per rupee in the case of foodgrains, including cereals and pulses, and five paise per rupee in the case of other goods and wit h effect from such date, as may, from time to time, be notified by <ORG> in this behalf.
+Statute	(Explanation I to this Section is not relevant for our purpose).
+Statute	7.
+Fact	The notification issued Under Section 3-D of the principal Act on October 1, 1964 (Notification No.
+Fact	S. T. 7122/X) provided that with effect from October 1, 1964, the turnover of purchases in respect of goods mentioned therein shall be liable to tax Under Section 3-D at the rate mentioned :  Foodgrains .. 1.5 paise per rupee on first: purchases x x x x  8.
+Fact	On the basis of Section 3-D read with the notification, as mentioned earlier, the authorities under the Act sought to bring to tax under the principal Act the first purchases of processed or split food-grains including dal on the ground that they constituted a separate item of foodgrains quite independent of the unprocessed or unsplit foodgrains.
+Fact	This view, as seen above, was negatived by <ORG>.
+RatioOfTheDecision	After the decision of <ORG>, the principal Act was amended.
+Statute	Under the Amend ing Act one more Explanation viz., Explanation II was added to Section 3-D .
+Statute	For the purposes of this Sub-section, split Or processed foodgrains, such as in the form of dal shall be deemed to be different from unsplit or unprocessed foodgrains, and accordingly, nothing in this sub-section shall be construed to prevent the imposition, levy or collection of the tax in respect of the first purchases of split or processed foodgrains merely because tax had been imposed levied or collected earlier in respect of the first purchases of those foodgrains in their unsplit or unprocessed form.
+Argument	9.
+Precedent	The Amending Act also added a validating provision to the principal Act viz.
+Statute	Section 7 .
+Statute	That section reads :  Notwithstanding any judgment, decree or order of any court or tribunal to the contrary, every notification issued or purporting to have been issued Under Section 3-A or Section 3-D of the principal Act before the commencement of this Act shall be deemed to have been issued under that section as amended by this Act and  shall be so interpreted and be deemed to be and always to have been as valid as if the provisions of this Act were in force at all material times; and accordingly anything done or any action taken (including any order made, proceeding taken, jurisdiction exercised, assessment made, or tax levied, collected or paid purporting to have been done or taken in pursuance of any such notification) shall be deemed to be, and always to have been, validly and lawfully done or taken.
+RatioOfTheDecision	10.
+RatioOfTheDecision	It will be necessary later on to consider what was the vice that the legislature intended to cure by the Amending Act .
+RatioOfTheDecision	The sequence of events itself discloses the purpose of the Ordinance as well as the Amending Act .
+RatioOfTheDecision	That apart, the statement of objects and reasons which can be usefully looked into for the purpose of finding the vice that the legislature was trying to provide against reads thus :  Sections 3-A and 3-D of the U.P.
+RatioOfTheDecision	Sales Tax Act, 1948 provide for single point taxation.
+RatioOfTheDecision	Under the former section the tax is levied on the  turnover of sales, while under the latter the tax is levied on the, turnover of first purchases.
+RatioOfTheDecision	Plain and ornamented glass bangles are subject to tax separately Under Section 3-A .
+RatioOfTheDecision	Similarly, unsplit and split pulses are separately subject to tax Under Section 3-D .
+RatioOfTheDecision	It has been held by <ORG> in one case that tax cannot be levied separately on plain and ornamented glass bangles Under Section 3-A and in another that tax cannot be levied separately on unsplit and split pulses Under Section 3-D because in their opinion plain glass bangles are not a commodity different from ornamented glass bangles and similarly unsplit pulses and split pulses are also not two different commodities.
+RatioOfTheDecision	These judgments have created legal difficulties in the assessment and collection of tax on the aforesaid commodities.
+RatioOfTheDecision	Besides, the dealers have started applying for the refund of tax already collected on these commodities.
+RatioOfTheDecision	This will have serious repercussions on the <ORG>'s revenue.
+RulingByPresentCourt	Accordingly, it is proposed to amend Sectio ns 3-A and 3-D to provide for the levy of tax on the aforesaid commodities as separate items.
+RulingByPresentCourt	It is also proposed to validate the past levy, assessment and collection of tax on the above commodities....  (The remaining part of the statement of objects and reasons is not relevant for our present purpose).
+Argument	11.
+Argument	The appellants challenged the validity of Explanation II of Section 3-D as well as Section 7 introduced by the Amending Act before <ORG> in petitions under Article 226 of the Constitution.
+Argument	They further took the plea that the amendments incorporated were not effective enough to bring to tax the first purchases of split or processed foodgrains and pulses.
+Argument	<ORG> rejected these contentions and dismissed the writ petitions.
+RatioOfTheDecision	Thereafter these appeals have been brought after obtaining certificates from <ORG>.
+RatioOfTheDecision	12.
+RatioOfTheDecision	The validity of the levy in question was challenged on the following grounds :  (1) That no fresh levy can be imposed by a retrospective legislation;  (2) That t he legislature cannot in case of legislation of the nature with which we are concerned, separate into independent commodities split and unsplit pulses or processed or unprocessed pulses and on that footing seek to impose tax twice over on the same commodity in respect of the goods liable to be taxed at a single point;  (3) That the newly added Explanation to Section 3-D read with Section 7 of the Amending Act amounts to an unlawful usurpation of judicial power by the legislature;  (4) The newly added Explanation II to Section 3-D is violative of Article 14 of the Constitution.
+RatioOfTheDecision	There is no rational basis for separating split or processed pulses from unsplit or unprocessed pulses;  (5) On a true construction of Explanation II to Section 3-D no fresh charge can be held to have been imposed:  (6) No levy of purchase tax can be made without a fresh Notification Under Section 3-D read with Explanation II showing therein separately foodgrains unsplit or unprocessed as well as foodgrains split or processed; and (7) T hat the power conferred on the <ORG> Under Section 3-D amounts to an excessive delegation of legislative power and consequently void.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The source of the legislative power to levy sales or purchase tax on goods is Entry 54 of the List II of.
+RatioOfTheDecision	the Constitution.
+RatioOfTheDecision	It is well settled that subject to Constitutional restrictions a power to legislate includes a power to legislate prospectively as well as retrospectively.
+Precedent	In this regard legislative power to impose tax also includes within itself the power to tax retrospectively- <CITATION_565623>  S.C.R.
+Precedent	541.
+Precedent	<CITATION_1291316> .
+Precedent	S. C. R. 1422; <CITATION_1781444> .
+Precedent	12 S.T.C.
+Precedent	429.
+Precedent	<CITATION_1404351> .
+Precedent	Supp.
+Precedent	(2) S.C.R.
+Precedent	p. 1; <CITATION_1216757> the last mentioned case it was specifically decided that where the legislature can make a valid law, it can provide not only for the prospective operation of the material provisions of the said law but it can also provide for the retrospective operation of the said provisions.
+Precedent	14.
+RatioOfTheDecision	We see no force in the second contention  advanced on behalf of the appellants.
+RatioOfTheDecision	As seen earlier the general rule as enunciated in Section 3 is multi-point tax-sales tax or purchase tax; but power is conferred on the Government to select any transaction in respect of such goods or class of goods as the Government may choose to levy a single point sales tax or purchase tax.
+RatioOfTheDecision	It is open to the legislature to define the nature of the goods, the sale or purchase of which should be brought to tax.
+RatioOfTheDecision	Legislature was not incompetent to separate the processed or split pulses from the unsplit or unprocessed pulses and treat the two as separate and independent goods.
+Precedent	15.
+Precedent	<CITATION_436116> , .
+Precedent	question arose for decision whether it was open to the legislature to impose separate excise duty on tobacco leaf as well as on broken leaf of tobacco.
+Precedent	This Court overruled the contention that such a levy was invalid.
+RatioOfTheDecision	It held that it was open for the legislature to separate the two items.
+RatioOfTheDecision	We see no basis for the contention that the legislature cannot for the purpose of tax  under the Act separate the split or processed pulses from the unsplit or unprocessed.
+RatioOfTheDecision	The power of the legislature to specify the nature of the goods the sale or purchase of which, it will bring to tax is very wide.
+RatioOfTheDecision	16.
+RatioOfTheDecision	Now coming to point No.
+RatioOfTheDecision	3, there is no justification for the contention that the legislature has usurped any judicial power.
+RatioOfTheDecision	The legislature has not purported either directly or by necessary implication to overrule the decisions of <ORG> in <NAME> case (supra).
+RatioOfTheDecision	On the other hand it has accepted that decision as correct; but has sought to remove the basis of that decision by retrospectively changing the law.
+RatioOfTheDecision	This <ORG> has pointed out in several cases the distinction between the encroachment on the judicial power and the nullification of the effect of a judicial decision by changing the law retrospectively.
+RatioOfTheDecision	The former is outside the competence of the legislature but the latter is within its permissible limits.
+RatioOfTheDecision	From the statement of objects and reasons, it  appears that in the principal Act, the legislative intent was not clearly brought out.
+RatioOfTheDecision	By means of the Amending Act the legislature wanted to make clear its intent.
+RatioOfTheDecision	17.
+RatioOfTheDecision	The fourth contention also appears to be without any basis.
+RatioOfTheDecision	It is true that the taxing statutes are not outside the scope of Article 14 of the Constitution.
+RatioOfTheDecision	But the legislature has wide powers of classification in the case of taxing statutes.
+RatioOfTheDecision	18.
+Precedent	In <NAME>'s case (supra), this <ORG> ruled that there was no unconstitutional discrimination in the imposition of the excise duty on tobacco in the broken leaf form.
+Precedent	Therein it was observed that tobacco in the broken leaf form was capable of being used in the manufacture of bidis while tobacco in the whole leaf form could not be so used economically; the two forms of tobacco were different by the test of capability of user; the tariff is not based either wholly or even primarily by reference to the use of tobacco and there was a clear and unambiguous distinction between tobacco in the whole leaf  form covered by item 5 and tobacco in the broken leaf form covered by item 6 which had a reasonable relation to the object intended by the imposition of the tariff.
+Precedent	19.
+Precedent	<CITATION_1048632> , .
+Precedent	this Court laid down the tests to find out whether there are discriminatory provisions in a taxing statute.
+Precedent	Therein this Court observed that in order to judge whether a law was discriminatory what had primarily to be looked into was not its phraseology but its real effect.
+RatioOfTheDecision	If there was equality and uniformity within each group, the law could not be discriminatory, though due to fortuitous circumstances in a peculiar situation some included in a class might get some advantage over others, so long as they were not sought out for special treatment.
+RatioOfTheDecision	Although taxation laws could be no exception to this rule, the courts would, in view of the inherent complexity of fiscal adjustment of diverse elements, permit a larger discretion to the legislature in the matter of classification so long as there was no transgression of the f undamental principles underlying the doctrine of classification.
+RatioOfTheDecision	The power of the legislature to classify must necessarily be wide and flexible so as to enable it to adjust its system of taxation in all proper and reasonable ways.
+RatioOfTheDecision	20.
+RatioOfTheDecision	It must be noticed that generally speaking the primary purpose of the levy of all taxes is to raise funds for public good.
+RatioOfTheDecision	Which person should be taxed, what transaction should be taxed or what goods should be taxed, depends upon social, economic and administrative considerations.
+RatioOfTheDecision	In a democratic set up it is for the legislature to decide what economic or social policy it should pursue or what administrative consideration it should bear in mind.
+RatioOfTheDecision	The classification between the processed or split pulses and unprocessed or unsplit pulses is a reasonable classification.
+RatioOfTheDecision	It is based on the use to which those goods can be put.
+RatioOfTheDecision	Hence, in our opinion, the impugned classification is not violative of Article 14.
+RatioOfTheDecision	21.
+RatioOfTheDecision	A feeble attempt was made to show that the retrospective levy made und er the Act is violative of Article 19(1)(f) and (g).
+RatioOfTheDecision	But we see no substance in that contention.
+RatioOfTheDecision	As seen earlier, the amendment of the Act was necessitated because of the legislature's failure to bring out clearly in the principal Act its intention to separate the processed or split pulses from the unsplit or unprocessed pulses.
+RatioOfTheDecision	Further the retrospective amendment became necessary as otherwise the <ORG> would have to refund large sum of money.
+RatioOfTheDecision	The contention that the retrospective levy did not afford any opportunity to the dealers to pass on the tax payable to the consumers has not much validity.
+RatioOfTheDecision	The tax is levied on the dealer: the fact that he is allowed to pass on the tax to the consumers or he is generally in a position to pass on the same to the consumer has no relevance when we consider the legislative competence.
+RatioOfTheDecision	22.
+RatioOfTheDecision	It was next urged that on a true contribution of Explanation II to Section 3-D , no charge can be said to have been created on the purchases of split or processed pulses.
+RatioOfTheDecision	It was firstly c ontended that an Explanation cannot extend the scope of the main section; it can only explain that section.
+RatioOfTheDecision	In construing a statutory provision, the first and and the foremost rule of construction is the literary construction.
+RatioOfTheDecision	All that we have to see at the very outset is what does that provision say ?
+RatioOfTheDecision	If the provision is unambiguous and if from that provision, the legislative intent is clear, we need not call into aid the other rules of construction of statutes.
+RatioOfTheDecision	The other rules of construction of statutes are called into aid only when the legislative intention is not clear.
+RatioOfTheDecision	Ordinarily a proviso to a section is intended to take out a part of the main section for special treatment.
+RatioOfTheDecision	It is not expected to enlarge the scope of the main section.
+RatioOfTheDecision	But cases have arisen in which this <ORG> has held that despite the fact that a provision is called proviso, it is really a separate provision and the so called proviso has substantially altered the main section.
+Precedent	<CITATION_1359356> , .
+Precedent	this <ORG> held that by the fiction i n Section 10(2) (vii) second proviso read with Section 2 (6C) of the Indian Income-tax Act, 1922 what is really not income is, for the purpose of computation of assessable income, made taxable income.
+Precedent	23.
+Precedent	<CITATION_1669028> ., this Court observed :  The primary purpose of the proviso now under consideration is, it is apparent, to provide a substitute or an alternative remedy to that which is prohibited by the main part of Section 4(1) .
+RatioOfTheDecision	There is, therefore, no question of the proviso carving out any portion out of the area covered by the main part and leaving the other part unaffected.
+RatioOfTheDecision	What we have stated earlier should suffice to establish that the proviso now before us is really not a proviso in the accepted sense but an independent legislative provision by which to a remedy which is prohibited by the main part of the section, an alternative is provided.
+RatioOfTheDecision	It is further obvious to us that the proviso is not coextensive with but covers a field wider than the main part of Section 4(1) .
+Precedent	24.
+Precedent	<CITATION_187706>  .
+Precedent	.
+Precedent	this Court was called upon to consider the Explanation to Section 48(1) of the Bihar and Orissa Co-operative Societies Act , 1935.
+Precedent	Therein this Court observed :  The question then arises whether the first Explanation to the section widens the scope of Sub-section (1) of Section 48 so as to include claims by registered societies against non-members even if the same are not covered by Clause (c).
+Precedent	25.
+Precedent	On the basis of the language of the Explanation this Court held that it did not widen the scope of Clause (c).
+Precedent	But from what has been said in the case, it is clear that if on a true reading of an Explanation it appears that it has widened the scope of the main section, effect must be given to the legislative intent notwithstanding the fact that the legislature named that provision as an Explanation.
+Precedent	In all these matters the courts have to find out the true intention of the legislature.
+Precedent	26.
+RatioOfTheDecision	We are unable to accept the contention that Explanation II to Section 3-D did not widen the scope of Section 3-D .
+RatioOfTheDecision	Sectio n 3-D as it originally stood dealt with foodgrains and pulses.
+Precedent	It did not treat the unprocessed or unsplit foodgrains and pulses as a separate item but because of Explanation, II, we have now to read the expression "foodgrains" in Section 3-D as containing two separate items viz.
+RatioOfTheDecision	(1) foodgrains unprocessed or unsplit and (2) foodgrains processed or split.
+RatioOfTheDecision	It is true that Explanation II is not very happily worded but the intention of the legislature is clear and unambiguous.
+RatioOfTheDecision	The newly added Explanation brings to tax with retrospective effect the split or processed foodgrains as well.
+RatioOfTheDecision	27.
+RatioOfTheDecision	We next come to the contention that no levy of purchase tax can be made on split or unprocessed pulses without a fresh notification Under Section 3-D read with Explanation II showing therein separately foodgrains unsplit or unprocessed as well as foodgrains split or processed.
+RatioOfTheDecision	As seen earlier that the notification issued merely refers to foodgrains.
+RatioOfTheDecision	That notification does not classify foodgrains into two separate categories-p rocessed or split and unprocessed or unsplit.
+RatioOfTheDecision	Therefore we were told that no tax can be levied on processed or split foodgrains on the basis of that notification.
+RatioOfTheDecision	This contention cannot be accepted as correct.
+RatioOfTheDecision	The notification in question was issued Under Section 3-D .
+RatioOfTheDecision	Section 3-D refers to foodgrains; but because of Explanation II to that Section.
+RatioOfTheDecision	we have now to read the expression "foodgrains" as containing two different items, processed or split foodgrains and unprocessed or unsplit foodgrains.
+RatioOfTheDecision	Consequently while reading the expression "foodgrains" in the notification also, we must adopt the same approach.
+RatioOfTheDecision	This conclusion is also obvious from Section 7 .
+RatioOfTheDecision	If the legislature had not retrospectively validated the assessments made on the first purchases of split or processed foodgrain.
+RatioOfTheDecision	what did Section 7 seek to achieve ?
+RatioOfTheDecision	That section says in plain words that notwithstanding any judgment, decree or order of any court or tribunal to the contrary, every notification issued or purporting to have been issued Under  Section 3-D of the principal Act.
+RatioOfTheDecision	before the commencement of the Amending Act shall be deemed to have been issued under that section as amended by the Amending Act and shall be so interpreted and be deemed to be and always to have been as valid as if the provisions of the amending Act were in force at all material times and accordingly, anything done or any action taken (including any order made, proceedings taken, jurisdiction exercised, assessment made, or tax levied, collected or paid, purporting to have been done or taken in pursuance of any such notification) shall be deemed to be, and always to have been validly and lawfully done or taken.
+RatioOfTheDecision	28.
+RatioOfTheDecision	We asked the learned Counsel appearing for the appellants to let us know the field in which Section 7 can be said to operate.
+RatioOfTheDecision	Their answer was that though the legislature intended to validate the assessments made on the first purchases of the split or processed dal, it failed to achieve that object because of the defective phraseology employed in Explanation II  to Section 3-D and Section 7 of the Amending Act.
+RatioOfTheDecision	In other words their submission was that Section 7 has become otios.
+RatioOfTheDecision	It was urged on behalf of the appellants that a taxing provision will have to be strictly interpreted and in finding out the intention of the legislature in the matter of imposing tax, we cannot travel beyond the words of the section.
+RatioOfTheDecision	29.
+RatioOfTheDecision	There is no doubt that a taxing provision has to be strictly interpreted.
+RatioOfTheDecision	If any legislature intends to impose any tax, that intention must be made clear by the language employed in the statute; but that does not mean that the provision in a taxing statute should not be read reasonably.
+RatioOfTheDecision	The contention that we should ignore Section 7 of the Amending Act is a contention difficult of acceptance.
+RatioOfTheDecision	Dealing with a similar contention <NAME> speaking for the <ORG> in <NAME> case (supra) observed at p. 435 :  The object of the legislation as stated in the long title and in the preamble to the Act was to validate the impugned notification in r elation to the amended section.
+RatioOfTheDecision	Schedule B to the Act expressly mentions that notification.
+RatioOfTheDecision	And if we are now to accede to the contention of the petitioner, we must hold that though the legislature set about avowedly to validate the notification dated March 31, 1956, it failed to achieve that object.
+RatioOfTheDecision	A construction which will lead to such a result must, if that is possible, be avoided.
+RatioOfTheDecision	30.
+RatioOfTheDecision	We have earlier come to the conclusion that because Explanation II to Section 3-D the expression "foodgrains including pulses" in Section 3-D should be read as including two different items i.e., (1) unsplit or unprocessed foodgrains including pulses and (2) split or processed foodgrains including pulses.
+RatioOfTheDecision	Consequently the expression "foodgrains" in the notification will also have to be read in the same manner.
+RatioOfTheDecision	This, in our opinion, is the reasonable way of reading the notification in the light of Section 3-D , Explanation II to that section and Section 7 of the Act.
+RatioOfTheDecision	31.
+RatioOfTheDecision	The only remaining contention is that the delegation  made to the executive Under Section 3-D is an excessive delegation.
+RatioOfTheDecision	It is true that the legislature cannot delegate its legislative functions to any other body.
+RatioOfTheDecision	But subject to that qualification, it is permissible for the legislature to delegate the power to select the persons on whom the tax is to be levied or the goods or the transactions on which the tax is to be levied.
+RatioOfTheDecision	In the Act , Under Section 3 the legislature has sought to impose multi-point tax on all sales and purchases.
+RatioOfTheDecision	After having done that it has given power to the executive, a high authority and which is presumed to command the majority support in the legislature, to select for special treatment dealings in certain class of goods.
+RatioOfTheDecision	In the very nature of things, it is impossible for the legislature to enumerate goods, dealings in which sales tax or purchase tax should be imposed.
+RatioOfTheDecision	It is also impossible for the legislature to select the goods which should be subjected to a single point sales or purchase tax.
+RatioOfTheDecision	Before making such selections several  aspects such as the impact of the levy on the society, economic consequences and the administrative convenience will have to be considered.
+RatioOfTheDecision	These factors may change from time to time.
+RatioOfTheDecision	Hence in the very nature of things, these details have got to be left to the executive.
+Precedent	32.
+Precedent	<CITATION_797174> .
+Precedent	S.CR.
+Precedent	427. the question arose whether it was permissible for the legislature to empower the executive to amend the Schedule relating to exemptions.
+Precedent	This Court by majority answered that question in the affirmative.
+Precedent	It further held that it is not unconstitutional for the legislature to leave it to the executive to determine the details relating to the working of the taxation laws, such as the selection of the persons on whom the tax is to be levied, the rates at which it is to be charged in respect of different classes of goods and the like.
+Precedent	33.
+RatioOfTheDecision	We have not found any substance in any of the contentions advanced on behalf of the appellants.
+RulingByPresentCourt	Hence these appeals fail and they are dismissed with costs-hearing fee one set.

@@ -1,0 +1,55 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal by special leave from a judgment of <ORG> in a reference under section 66(2) of the Income-tax Act.
+Fact	The assessee is the appellant.
+Fact	Messrs. <NAME> (assessee) is a Hindu undivided family consisting of the four sons and grandsons of <NAME>.
+Fact	We are concerned with the four brothers, whose names are <NAME>, <NAME>, <NAME> and <NAME>, and one <NAME>, son of <NAME>.
+Fact	The family does business in grains, kirana etc.
+Fact	at Madhupur, under two names, <NAME> and <NAME> <NAME>.
+Fact	The family through its <ORG> was also a partner in another firm called <NAME> <NAME>, in which the <ORG> had a 12 annas share, and one <NAME>, a stranger to the family, had the remaining 4 annas share.
+Fact	2.
+Fact	We are concerned with the assessment year, 1953-54.
+Fact	<NAME>, the <ORG>, entered into two agreements with the other members of the family, by which the junior members agreed to serve the Hindu undivided family on monthly payments of Rs .
+Fact	200 to <NAME>, Rs.
+Fact	150 each to <NAME> and <NAME>, and Rs.
+Fact	100 to <NAME>.
+Fact	By the first agreement, <NAME> and <NAME> were to look after the interests of the Hindu undivided family in the partnership, and the two others were to look after the business of the Hindu undivided family.
+Fact	3.
+Fact	In the year of account relative to the assessment year, 1953-54, Rs.
+Fact	6,600 were paid as remuneration to the four junior members.
+Fact	Rs.
+Fact	3,850 were paid to <NAME> and <NAME> for their services to the partnership and Rs.
+Fact	2,750 to <NAME> and <NAME> for their services to the Hindu undivided family.
+Fact	The Income-tax Officer, Santhal Parganas, by his assessment order dated December 31, 1953, only allowed as expenses a payment of Rs.
+Fact	50 per month to <NAME>.
+Fact	The rest of the claim made under section 10(2)(xv) of the Income-tax Act amounting to Rs.
+Fact	6,000 was disallowed.
+Fact	The order of the Income-tax Officer was confirmed by the Appellate Assistant Commissioner; but <ORG> on appeal  allowed the deduction of the full remuneration paid to <NAME> and <NAME>.
+Fact	The <ORG>, however, did not allow the deduction of the amounts paid to <NAME> and <NAME>, which, as already stated, totalled Rs.
+Fact	3,850.
+Fact	The assessee made an application under section 66(1) of the Income-tax Act;  "Whether in the facts and circumstances of the case, the assessee, namely, the Hindu undivided family, who is a partner in the partnership business of Hiralal <NAME>, is entitled to a deduction of Rs.
+Fact	3,850 from the assessment of income-tax for the relevant year under section 10(2)(xv) of the Income-tax Act ?"
+Fact	4.
+Fact	This question was answered by the high Court against the assessee.
+Fact	<ORG> unfortunately erred in apprehending the finding of fact given by the <ORG>, and much is made of this in the appeal before us.
+Fact	<ORG> in the course of its judgment observed [[1959] 37 I.T.R.
+Fact	528, 532.]
+Fact	:  "We, therefore, proceed upon the footing that the finding of fact of the income-tax authorities in this  case is that neither <NAME> nor <ORG> has rendered any service to the partnership business nor contributed to the earning of profits to the Hindu undivided family from the share of the partnership business ?"
+Argument	5.
+Argument	What the <ORG> held was mentioned in the case stated to <ORG>.
+Argument	There, the <ORG> observed :  "The <ORG> by its order dated September 28, 1955 which is annexure 'B' hereto and forms part of the case, held that these payments of salaries to the persons who worked for the Hindu undivided family were admissible but that the payment to <NAME> and <ORG>, amounting to Rs.
+Argument	3,850, was not, as the members did not render any service to the Hindu undivided family's business but to the firm, which was a separate entity and for services for which the liability was on the firm."
+Argument	6.
+RatioOfTheDecision	In our opinion, this finding of the <ORG>, which has been relied upon by the assessee, makes its case even more difficult.
+RatioOfTheDecision	A Hindu undivided family is allowed to deduct salaries paid to members of the  family, if the payment is made as a matter of commercial or business expediency; but the service must be to the family.
+RatioOfTheDecision	It was held by this court in <CITATION_1718643> , that "partnership" being the relation between persons, who have agreed to share the profits of a business carried on by all or any of them acting for all, and "persons" who enter into the partnership being called individually "partners" or collectively "a firm" the word "person" contemplates only natural or artificial, i.e., legal persons and neither a firm nor a Hindu undivided family can be that person.
+RatioOfTheDecision	It was again recently emphasised in the case of <CITATION_1095533> , that where a Hindu undivided family becomes a partner through its karta, the coparcenary has no place in the partnership but only the karta is everything, and in <CITATION_476389> it was pointed out that both, under the Hindu law and under the law of partnership, the Hindu undivided family as such can exercise no control and management over the business of a partners ship,  Of which the <ORG> is a member through the <ORG>.
+RatioOfTheDecision	7.
+RatioOfTheDecision	All these cases show that if the junior members of the <ORG> were serving the partnership, they were serving an entity, which was separate and distinct from the Hindu undivided family.
+RatioOfTheDecision	If the <ORG> had no place in the partnership, any service to the partnership any service to the partnership cannot be described as service to the Hindu undivided family, sufficient to attract the application of section 10(2)(xv) of the Income-tax Act, because it cannot be said to be wholly and exclusively for the Hindu undivided family.
+RatioOfTheDecision	8.
+RatioOfTheDecision	In our opinion, the answer to the question was rightly stated by <ORG> in the negative, though for reasons which we have indicated here.
+RatioOfTheDecision	9.
+RulingByPresentCourt	The appeal fails, and is dismissed with costs.
+RulingByPresentCourt	10.
+RulingByPresentCourt	Appeal dismissed.

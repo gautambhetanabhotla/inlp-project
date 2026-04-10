@@ -1,0 +1,356 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This reference to <ORG> has been made by <ORG> of this court doubting the correctness of the judgment of <ORG> in <ORG> v. <NAME> [1984] ACJ 791 (<NAME>).
+Fact	The learned judges felt that the above decision could not be treated as good law in view of the decisions of <ORG> in <CITATION_1385337>  63 Comp Cas 847 and <CITATION_1406160>  64 Comp Cas 7.
+Fact	The point in these cases related to the defences that are open to an insurance company under Section 96(6) of the Motor Vehicles Act, 1939.
+Fact	The appeal before us is by <ORG>.
+Fact	Of course, during the course of the hearing of this appeal, learned counsel for the respondents has sought to sustain the award passed by the <ORG> on certain other grounds.
+Fact	2.
+Fact	The facts of the case are as follows : The deceased, who was aged 57 years at the time of the accident, was killed on November 25, 1981 while travelling as a passenger in a stage carr iage bus.
+Fact	The accident occurred on account of the negligent driving of the driver of the said vehicle.
+Fact	The name of the owner of the vehicle is <NAME>.
+Fact	The claimants before the <ORG> were the legal representatives of the deceased.
+Fact	They filed O. P. (MV) No.
+Fact	1101 of 1983 on April 12, 1982, claiming Rs.
+Fact	42,600 as damages, making the assessment on the basis that the deceased was aged 57 years and was getting a monthly salary of Rs.
+Fact	1,685 from his employer.
+Fact	After conducting an enquiry, the <ORG> found that the driver was negligent and that the owner of the stage carriage bus was, therefore, liable and also that consequently the appellant-insurance company was also liable for the aforesaid sum of Rs.
+Fact	42,600.
+Fact	Before the <ORG>, the insurance company contended that its liability should have been restricted to the extent covered by Section 95(2) of the Motor Vehicles Act, 1939, which, at the relevant time on November 25, 1981, was only Rs.
+Fact	5,000 as per the provisions of Section 95(2)(b)(ii) (the limit wa s later raised to Rs.
+Fact	15,000 with effect from October 1, 1982, by Act 47 of 1982, and it has now become an unlimited liability under Section 147(2)(a) of the Motor Vehicles Act, 1988, which has come into force with effect from July 1, 1989).
+Fact	The contention of the insurance company was rejected by the <ORG> on the ground that the same was contrary to the decision of this court in <ORG> v. <NAME>  ACJ 791 (<NAME>) above referred to.
+Argument	It is against the said judgment that the present appeal has been preferred by the insurance company.
+Argument	3.
+Argument	In this appeal, it is contended on behalf of the insurance company by Sri <NAME> that the view taken in <NAME>'s case [1984] ACJ 791 is no longer good law in view of the two decisions of <ORG> referred to above and that the defences enumerated in Section 96(6) are not relevant for the purpose of this case.
+Argument	According to him, the defences that may be taken by the insurance company are limited only if the company wants t o avoid the policy totally, but if the insurance company wants to claim that its liability is restricted to the statutory limits mentioned in Section 95(2) , such a defence is not prohibited by the provisions of Section 96(6) of the Act.
+Argument	4.
+Argument	On the other hand, it is contended by Sri <NAME> for the respondents-claimants that even if the judgment of this court in <NAME>'s case [1984] ACJ 791 is to be treated as no longer good law in view of the judgment of <ORG> in the two cases referred to above, he could still sustain the award against the insurance company on other grounds.
+Argument	He contended that the liability of the insurance company, even though it was Rs.
+RulingByLowerCourt	5,000 under Section 95(2)(b)(ii) of the Act, as it stood on November 25, 1981, when the accident occurred, the said liability has become an unlimited liability in view of the provisions of Section 147(2)(a) of the Motor Vehicles Act, 1988, which has come into force on July 1, 1989.
+RulingByLowerCourt	According to learned counsel, the provisions of Section  147(2)(a) of the 1988 Act are retrospective in nature and apply to cases of accidents which occurred before July 1, 1989, and even relate back to November 25, 1981, the date of the accident in the present case.
+Argument	His submission also is that inasmuch as the provisions of the Motor Vehicles Act , 1988, have come into force during the pendency of this appeal which was filed in 1987, the provisions of the new Motor Vehicles Act have to be applied.
+Argument	It is also alternatively contended that once the liability on the part of the owner of the vehicle in a sum of Rs.
+Fact	42,600 is found, the insurance company is bound to indemnify the vehicle owner for Rs.
+Fact	42,600 in view of the provisions in Section 96(1) of the Motor Vehicles Act, 1939, and that under Section 96(4) it will be for the insurance company, in its turn, to recover the "excess" amount over and above its statutory limits prescribed by Section 95(2)(b)(ii) by way of a separate proceeding by the company against the insured.
+Fact	5.
+Fact	On the basis of the above contentions,  the following points arise for consideration :  (1) Whether under Section 96(6) of the Motor Vehicles Act, 1939, the insurance company is not entitled to take a defence that its liability is to be limited to the statutory liability mentioned in Section 95(2) and whether <NAME>'s case  ACJ 791 is not correctly decided ?
+Fact	(2) Whether the provisions relating to the unlimited liability of the insurance company specified in Section 147(2)(a) of the Motor Vehicles Act, 1988 (which came into force with effect from July 1, 1989), are retrospective and apply to pending cases and even to an accident which has occurred on November 25, 1981, and to a claim which has been filed on April 12, 1982 ?
+Fact	(3) Whether in view of Section 96(1) of the Motor Vehicles Act, 1939, the insurance company is bound to discharge any liability incurred by the vehicle owner and whether the insurance company is bound to recover the "excess" amount over and above the statutory liability under Section 95(2) from the insured by way of procee dings to be taken out by the insurance company against the insured in view of Section 96(4) ?
+Fact	6.
+RatioOfTheDecision	Point No.
+RatioOfTheDecision	1.--This point does not present much difficulty in view of the decisions of <ORG> already referred to.
+RatioOfTheDecision	Before doing so, we shall refer to the facts in <NAME>'s case [1984] ACJ 791.
+Precedent	In that case, two persons suffered injuries while travelling as passengers in a stage carriage vehicle on October 23, 1976, when the bus dashed against a tree.
+Precedent	The two persons filed two separate suits.
+Precedent	In one suit, the plaintiff claimed Rs.
+Fact	30,000 while in the other suit, the plaintiff claimed Rs.
+Fact	20,000.
+Fact	Negligence of the driver was established and the civil court passed a decree against the vehicle owner, the driver and the conductor as also the insurance company.
+Fact	However, the vehicle owner was held liable in a sum of Rs.
+Fact	10,000 in each of the two suits.
+Fact	The vehicle owner and his servants did not prefer any appeal to <ORG>.
+Fact	The appeal was preferred only by the insurance company.
+Fact	In that appeal, it w as argued for the insurance company that its liability to a passenger was only Rs.
+RulingByLowerCourt	5,000 under Section 95(2)(b)(ii) and that, therefore, the award of the <ORG> was liable to be modified to conform to the statutory limits prescribed in the Act.
+RulingByLowerCourt	<ORG> of this court rejected the said contention of the insurance company by holding that under Section 96(2) of the Act, the statute specified the various defences which an insurance company could take.
+RulingByLowerCourt	The said defences were exhaustive as stated by <ORG> in <CITATION_135147>  29 Comp Cas (Ins) 60 ; AIR 1959 SC 1331.
+RulingByLowerCourt	<ORG> took the view that in view of the said decision of <ORG> in Captain <NAME>'s case  29 Comp Cas (Ins) 60 no other defence could be taken by the insurance company.
+RulingByLowerCourt	According to <ORG>, a defence based on the limits specified in Section 95(2) is not one of the defences enumerated in Section 96(2) of the Act.
+RulingByLowerCourt	Accordingly, <ORG> dismissed the appeal and held that the insura nce company was liable for the amount of Rs.
+Fact	10,000 each for each of the passengers instead of Rs.
+Fact	5,000 each as provided in Section 95(2)(b)(ii) .
+Fact	It is the correctness of this view that is in question before us.
+Argument	7.
+Argument	<CITATION_1385337>  63 Comp Cas 847 ; AIR 1988 SC 719, the same question fell for consideration.
+Argument	In the above said case before <ORG>, Captain <NAME>'s case [ 1959] 29 Comp Cas (Ins) 60 ; AIR 1959 SC 1331 was also cited.
+Argument	<ORG> pointed out that the principle laid down by <ORG> in Captain <NAME>'s case  29 Comp Cas (Ins) 60 applies only to a case where the insurance company intends to avoid the policy in toto on the basis of the defence mentioned in Section 96(6) .
+Argument	The word "avoid" used in Section 96(6) is referrable to a case of total avoidance of the insurance policy (see Section 96 extracted under point No.
+Argument	3).
+Argument	Captain <NAME>'s case  29 Comp Cas (Ins) 60, therefore, is not a bar to the insurance company raising a contention that it is not liable  for more than the limits prescribed in Section 95(2) .
+Argument	This is what <ORG> observed in <NAME> case, AIR 1988 SC 719 (para 9, page 722) (at p. 852 of 63 Comp Cas) :  "Learned counsel for the appellant then urged relying on the decision of this court in <CITATION_135147>  29 Comp Cas (Ins) 60 ; AIR 1959 SC 1331, that in view of Sub-section (6) of Section 96 of the Act no insurer to whom the notice referred to in Sub-section (2) thereof has been given, is entitled to avoid his liability' to any person entitled to the benefit of any such judgment as is referred to in Sub-section (1) thereof otherwise than in the manner provided for in Sub-section (2).
+Argument	On this basis it was urged that the appellant was not entitled to assert that its liability was confined to Rs.
+RatioOfTheDecision	20.000 only inasmuch as this is not one of the defences specified in Sub-section (2) of Section 96 of the Act.
+RatioOfTheDecision	We find it difficult to agree with this submission either.
+RatioOfTheDecision	Firstly, in paragraph 12 of the report of this very case it has b een held that Sub-section (2) of Section 96 in fact deals with defences other than those based on the conditions of a policy.
+RatioOfTheDecision	Secondly, from the words 'to avoid his liability' used in Sub-section (6) of Section 96 it is apparent that the restrictions placed with regard to defences available to the insurer specified in Sub-section (2) of Section 96 are applicable to a case where the insurer wants to avoid his liability.
+RatioOfTheDecision	In the instant case the appellant is not seeking to avoid its liability but wants a determination of the extent of its liability which is to be determined, in the absence of any contract to the contrary, in accordance with the statutory provision contained in this behalf in Clause (b) of Sub-section (2) of Section 95 of the Act.
+RatioOfTheDecision	In the instant case since as seen above the appellant did not undertake in the policy any liability in excess of the statutory liability the award against it could be only in accordance with the said statutory liability."
+RatioOfTheDecision	8.
+RulingByLowerCourt	<CITATION_1406160>  64 Comp Cas 7 ; AIR 1987  SC 2158, the above-said principle was applied by <ORG> and the liability of the insurance company was limited to the statutory liability.
+RulingByLowerCourt	Of course, there was no occasion to lay down the principle in the clear terms in which it was laid down in <NAME> case  63 Comp Cas 847, but the fact remains that the decision conforms to the principle laid down in that case.
+RulingByLowerCourt	In view of the above said two decisions of <ORG>, there can be no doubt that <NAME>'s case  ACJ 791 (Ker) is wrongly decided.
+RulingByLowerCourt	We agree with the learned judges who referred the matter to <ORG> that the said decision must be overruled, and it is accordingly overruled.
+RulingByLowerCourt	Point No.
+Fact	1 is answered in favour of the appellant-insurance company.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Point No.
+RatioOfTheDecision	2.--The contention raised is that the insurance company's liability is now unlimited in view of the provisions of Section 147(2)(a) of the Motor Vehicles Act, 1988, which has come into force on July 1, 1989.
+RatioOfTheDecision	It is argued that Section 147(2)(a) applies as the sai d provision is retrospective and applies to pending cases even though the accident in this case occurred on November 25, 1981, and the claim was filed on April 12, 1982.
+RatioOfTheDecision	Therefore, the insurer is liable for the whole amount, it is claimed.
+RatioOfTheDecision	10.
+Fact	As already stated, if we go by the provisions of the Motor Vehicles Act , 1939, as they stood on November 25, 1981, when the accident occurred, the statutory liability of the insurance company will be only Rs.
+Fact	5,000 under Section 95(2)(b)(ii) .
+Fact	The said statutory liability was enhanced to Rs.
+Fact	15,000 by the amendment to Section 95(2)(b)(ii) by Act 47 of 1982 which came into force on October 1, 1982.
+Fact	Subsequently, by the provisions of Section 147(2)(a) of the Motor Vehicles Act.
+Fact	1988, which came into force on July 1, 1989, the said liability of the insurance company has been made unlimited.
+Statute	We shall extract the provisions of Section 147(2) of the Motor Vehicles Act, 1988. including its proviso :  "147.
+Statute	(2) Subject to the proviso to Sub-section (1), a policy of insurance  referred to in Sub-section (1), shall cover any liability incurred in respect of any accident, up to the following limits, namely :  (a) save as provided in Clause (b), the amount of liability incurred ;  (b) in respect of damage to any property of a third party, a limit of rupees six thousand :  Provided that any policy of insurance issued with any limited liability and in force, immediately before the commencement of this Act, shall continue to be effective for a period of four months after such commencement or till the date of expiry of such policy, whichever is earlier."
+Statute	11.
+Statute	The Motor Vehicles Act , 1988, contains provision for repeal and savings in Section 217 .
+Statute	Section 217(2)(a) to (f) contain various provisions as to savings and a reading of those saving provisions shows that they do not specifically deal with the question of the statutory liability or compulsory insurance.
+Statute	12.
+Statute	Section 217(4) reads as follows :  "217.
+Statute	(4) The mention of particular matters in this Section shall not be held to prejudic e or affect the general application of Section 6 of the General Clauses Act, 1897  with regard to the effect of repeals."
+Statute	13.
+Statute	It is, therefore, clear that the provisions of Section 6 of the General Clauses Act are attracted and under that Act, the court must first find whether the new Act shows any intention to apply its provisions with retrospective effect.
+RatioOfTheDecision	Otherwise, the new Act has to be treated only as prospective.
+RatioOfTheDecision	14.
+RatioOfTheDecision	In this context, it is necessary to refer to the proviso to Section 147(2)(a) which we have already extracted.
+RatioOfTheDecision	It will be noticed that policies of insurance issued with limited liability and which are in force immediately before the commencement of the new Act, i.e., in force on July 1, 1989, shall continue to be effective for a period of four months after such commencement or on the date of expiry of such policy, whichever is earlier.
+RatioOfTheDecision	That would mean that even in cases where a policy issued under the 1939 Act was in force on July 1, 1989, it would continue to be in force only for a perio d of four months after July 1, 1989, and the policy holders are obliged to take a new policy under the Act of 1988.
+RatioOfTheDecision	This, in our opinion, is a clear indication that the provisions of Section 147(2) are not intended to be retrospective.
+RatioOfTheDecision	Under Section 217(2)(c) , it is, no doubt, stated that notwithstanding the repeal by Section 217(1) , any document referring to any of the repealed enactments or the provisions thereof shall be construed as referring to the new Act or to the corresponding provisions of the new Act.
+RatioOfTheDecision	This provision, in our view, cannot help the claimants.
+RatioOfTheDecision	It cannot be said that the policy issued under the old Act should be treated as a policy issued under the new Act.
+RatioOfTheDecision	Any such argument is clearly negatived by the provisions of the proviso to Section 147(2) which we have already referred to.
+RatioOfTheDecision	Further, in this case, the policy which was issued on August 29, 1981, was for a period of one year up to August 28, 1982, on which date it expired.
+RatioOfTheDecision	In fact, the policy itself matured on the date of the accide nt on November 25, 1981.
+Precedent	Therefore, the policy was not in force even on October 1, 1982, when by Act 47 of 1982, the liability of the insurance company was raised from Rs.
+Precedent	5,000 to Rs.
+Precedent	15,000 nor was it in force on July 1, 1989, when the 1988 Act came into force.
+Precedent	15.
+Precedent	In this context, it is also necessary to refer to a decision of <ORG> in <CITATION_1750182> .
+Precedent	53 Comp Cas 333 ; AIR 1982 SC 836.
+Fact	In that case, the policy issued by the insurance company covered "liability under Chapter VIII of the Motor Vehicles Act, 1939".
+RatioOfTheDecision	The facts were that the policy was issued on May 31, 1969, for the period from June 30, 1969, to June 29, 1970.
+Fact	Section 95(2)(a) was amended by the Motor Vehicles Amendment Act  by which the particular coverage under the statutory liability was increased from Rs.
+Fact	20,000 to Rs.
+Fact	50,000.
+Fact	The said amendment came into force on March 2, 1970.
+Argument	The contention for the claimants was that inasmuch as the amendment came into force during the currency of the policy, the said amendment applied .
+Argument	But <ORG> held that "liability as the one under Chapter VIII of the Motor Vehicles Act, 1939" mentioned in the policy must mean a liability as determinate under Chapter VIII at the relevant time.
+RatioOfTheDecision	Relevant time is the time when the liability actually arises.
+RatioOfTheDecision	Since the liability of the insurer to pay a claim under a motor accident policy arises on the occurrence of the accident and not until then, one must necessarily have regard to the state of the law obtaining at the time of the accident for determining the extent of the insurer's liability under a statutory policy.
+RatioOfTheDecision	Therefore, in our opinion, the material date is the date of the accident and on that date the rights of the parties crystallise.
+RatioOfTheDecision	The liability of the insurance company, on the date of the accident in the present case, i.e.
+Precedent	on November 25, 1981, was only Rs.
+Precedent	5,000.
+Precedent	The provisions of 1988 Act came into force on July 1, 1989, and there can be absolutely no doubt that the same cannot be applied to an accident which occured on November 2 5, 1981.
+RatioOfTheDecision	In fact, the term of the policy expired on August 28, 1982, long before July 1, 1989.
+RatioOfTheDecision	The policy itself matured before July 1, 1989, and ceased to be in force.
+RatioOfTheDecision	Hence Section 147(2)(a) of the 1988 Act has no application.
+RatioOfTheDecision	16.
+RatioOfTheDecision	It is then contended that inasmuch as this appeal is pending when the new Act came into force, the new Act should be applied.
+RatioOfTheDecision	In this context, we have to refer to a recent judgment of a Full Bench of this court, consisting of one of us (<NAME> in <CITATION_511452>  77 Comp Cas 62 (Ker) [FB] wh'erein in the context of the retrospectivity of Section 92A of the Motor Vehicles Act, 1939, which was introduced on October 1, 1982, in relation to its application to the case of an accident which occurred on April 9, 1977, this court rejected a similar contention.
+RatioOfTheDecision	It was pointed out by this court that merely because a statute came into force during the pendency of a case, it did not automatically follow that the said statute had to be applied.
+RatioOfTheDecision	There must be some provisions in  the statute which expressly or by necessary implication lead to an inference that the rights of the parties as on the date of the commencement of the proceedings are intended to be altered.
+RatioOfTheDecision	We do not find anything in the new Act of 1988 which seeks to alter the liability of the insurance company as it stood on the date of the accident, i.e., on November 25, 1981.
+RatioOfTheDecision	It may be true that there are beneficial provisions in the new Act, but even where beneficial provisions are introduced, it does not automatically lead to the inference that such provisions are retrospective in nature.
+RatioOfTheDecision	As we have considered the said question exhaustively in the above said <ORG> judgment, we do not propose to deal with the same once again.
+RatioOfTheDecision	We are of the view that the reasoning given in that judgment squarely applies to the case before us.
+RulingByPresentCourt	We hold that the provisions of Section 147(2)(a) are not retrospective.
+Precedent	They cannot be applied to the case of an accident which took place on November 25, 1981, even though the claim raised in  connection with such an accident is pending in appeal by the date of commencement of the new Act.
+Precedent	Point No.
+Precedent	2 is held accordingly against the claimants.
+Precedent	17.
+RatioOfTheDecision	Point No.
+Fact	3.--The contention is that inasmuch as the owner of the passenger vehicle has been made liable for the total sum of Rs.
+Fact	42,600, the insurance company is liable to discharge the entire liability of Rs.
+Statute	42,600 under Section 96(1) and that it will be for the insurance company to resort to Section 96(4) to seek to recover any amount paid to the claimants in excess of the statutory liability upon the insurance company under Section 95(2) .
+Statute	Section 96 of the Motor Vehicles Act, 1939, is a very lengthy Section and we shall, therefore, try to refer only to that part of the Section which is relevant for our purpose.
+Statute	"96.
+Statute	Duty of insurers to satisfy judgments against persons insured in respect of third party rishs.--(1) If, after a certificate of insurance has been issued under Sub-section (4) of Section 95 in favour of the person by whom a policy has b een effected, judgment in respect of any such liability as is required to be covered by a policy under Clause (b) of Sub-section (1) of Section 95 (being a liability covered by the terms of the policy) is obtained against any person insured by the policy, then, notwithstanding that the insurer may be entitled to avoid or cancel or may have avoided or cancelled the policy, the insurer shall, subject to the provisions of this section, pay to the person entitled to the benefit of the decree any sum not exceeding the sum assured payable thereunder, as if he were the judgment-debtor, in respect of the liability, together with any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any enactment relating to interest on judgments.
+RatioOfTheDecision	(2) No sum shall be payable by an insurer under Sub-section (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice through the court of the bringing  of the proceedings, or in respect of any judgment so long as execution is stayed thereon pending an appeal; and an insurer to whom notice of the bringing of any such proceeding is so given shall be entitled to be made a party thereto and to defend the action on any of the following grounds, namely :--  (a) that the policy was cancelled by mutual consent or by virtue of any provision contained therein before the accident giving rise to the liability, and that either the certificate of insurance was surrendered to the insurer or that the person to whom the certificate was issued has made an affidavit stating that the certificate has been lost or destroyed, or that either before or not later than fourteen days after the happening of the accident the insurer has commenced proceedings for cancellation of the certificate after compliance with the provisions of Section 105 ; or  (b) that there has been a breach of a specified condition of the policy, being one of the following conditions, namely :--  (i) a condition  excluding the use of the vehicle--(a) for hire or reward, where the vehicle is on the date of the contract of insurance a vehicle not covered by a permit to ply for hire or reward,  (b) for organised racing and speed testing, or  (c) for a purpose not allowed by the permit under which the vehicle is used, where the vehicle is a transport vehicle, or  (d) without side-car being attached, where the vehicle is a motor cycle ; or  (ii) a condition excluding driving by a named person or persons or by any person who is not duly licensed, or by any person who has been disqualified for holding or obtaining a driving licence during the period of disqualification ; or -  (iii) a condition excluding liability for injury caused or contributed to by conditions of war, civil war, riot or civil commotion ; or  (c) that the policy is void on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+Statute	(3) Where a certificate of in surance has been issued under subsection (4) of Section 95 to the person by whom a policy has been effected, so much of the policy as purports to restrict the insurance of the person insured thereby by reference to any conditions other than those in Clause (b) of Sub-section (2) shall, as respects such liabilities as are required to be covered by a policy under Clause (b) of Sub-section (1) of Section 95 , be of no effect :  Provided that any sum paid by the insurer in or towards the discharge of any liability of any person which is covered by the policy by virtue only of this sub-section shall be recoverable by the insurer from that person.
+Statute	(4) If the amount which an insurer becomes liable under this Section to pay in respect of a liability incurred by a person insured by a policy exceeds the amount for which the insurer would apart from the provisions of this Section be liable under the policy in respect of that liability, the insurer shall be entitled to recover the excess from that person.
+Statute	(5) In this S ection the expressions 'material fact and material particulars' mean, respectively, a fact or particular of such a nature as to influence the judgment of a prudent insurer in determining whether he will take the risk and, if so, at what premium and on what conditions, and the expression 'liability covered by the terms of the policy' means a liability which is covered by the policy or which would be so covered but for the fact that the insurer is entitled to avoid or cancel or has avoided or cancelled the policy.
+Statute	(6) No insurer to whom the notice referred to in Sub-section (2) or Sub-section (2A) has been given shall be entitled to avoid his liability to any person entitled to the benefit of any such judgment as is referred to in Sub-section (1) or Sub-section (2A) otherwise than in the manner provided for in Sub-section (2) or in the corresponding law of the reciprocating country, as the case may be."
+Statute	18.
+RatioOfTheDecision	The contention here is that under Section 96(1) whenever a judgment is given in respect of a liability  incurred by a policy holder under Section 95(1)(b) (being a liability covered by the terms of the policy) then the insurance company shall pay to the persons entitled to the benefit of the decree, any sum not exceeding the sum assured payable "thereunder", as if the insurer were the judgment-debtor in respect of the liability, together with any amount of costs and interest.
+RatioOfTheDecision	It is the further contention of the claimants that the effect of the above said provision in Section 96(1) is that whatever decree or award is passed against the insured, here the vehicle owner, the insurance company is liable to discharge the liability "thereunder".
+RatioOfTheDecision	It is argued that the words "thereunder" refer to the decree as passed against the insured.
+RatioOfTheDecision	It is the further contention that under Section 96(4) inasmuch as the word "exceeds" is used, the insurance company shall first discharge the liability incurred by the insured in toto, whatever be such liability and then after deducting the amount covered by the statutory liability of t he insurance company under Section 95(2) , the company has to recover the excess amount from the insured by way of a separate action.
+RatioOfTheDecision	In the present case, the contention is that if the statutory liability of the insurance company under Section 95(2)(b)(ii) to a passenger carried in the stage carriage vehicle is restricted to Rs.
+Precedent	5.000 as on November 25, 1981, then the insurance company has to first pay the entire amount of Rs.
+Precedent	42,600 to the legal representatives of the deceased thereby discharging the entire liability under the award or decree and then the insurance company has to recover the excess amount (Rs.
+Precedent	42,600-5,000 = 37,600) from the vehicle owner.
+Precedent	The question is whether such a contention can be accepted.
+Precedent	19.
+Precedent	The provisions of Section 96 of the Motor Vehicles Act, 1939, are more or less based upon the corresponding provisions of the Road Traffic Act, 1934, in England which sought to protect the interests of third parties.
+Precedent	In fact, we find that the provisions of the said Act sought to supplement the  provisions of the Road Traffic Act of 1930.
+Precedent	We also find that the provisions of the above said two Acts have more or less been adopted not only in India in the Motor Vehicles Act , 1939, but also in Sri Lanka and also in other Commonwealth countries with minor local changes.
+Precedent	It would be convenient to refer to the history of these provisions briefly.
+Precedent	20.
+Precedent	In the 1920s, motor cars on the roads were rapidly becoming a menace to life in England.
+RatioOfTheDecision	The persons injured had no recourse against anyone except the driver or his principal (the owner of the vehicle).
+RatioOfTheDecision	Sometimes, the owner was insured in full or in part against third party risks.
+RatioOfTheDecision	Sometimes, he was not insured at all.
+RatioOfTheDecision	In any case, the injured person had no right whatsoever to call upon the insurance company or on the moneys which were payable under the policies.
+RatioOfTheDecision	The injured person's only recourse was against the negligent driver and he was often worth nothing or did not have enough money to pay the damages.
+RatioOfTheDecision	In order to mitigate these evils, the British Parli <ORG> in 1930 passed two statutes within a few days of one another.
+RatioOfTheDecision	The principal one was the Road Traffic Act, 1930.
+RatioOfTheDecision	Section 35(1) of that Act corresponds to Section 94(1) of the Motor Vehicles Act, 1939, while Section 36 thereof corresponds to our Section 95 and Section 38 corresponds to Section 96(3) of our Act.
+RatioOfTheDecision	Under the Road Traffic Act, 1930, it was compulsory for motorists to insure against third parties in respect of certain classes of liability.
+RatioOfTheDecision	They were not bound to insure in respect of their employees or in respect of passengers in private cars.
+RatioOfTheDecision	But, they were bound to insure for other classes of insurance.
+RatioOfTheDecision	The other Act was the Third Party (Rights Against Insurers) Act, 1930.
+RatioOfTheDecision	That applied to cases where the driver or the owner of the car became insolvent--even bankrupt or the company went into liquidation.
+RatioOfTheDecision	The Act enables the insured person to go directly against the insurance company ; but only for the sum covered by the policy.
+RatioOfTheDecision	The insurance company was not bound to pay any more than what the p olicy provided as stated in Section 1(4) of that Act.
+RatioOfTheDecision	The result, therefore, was that under these two Acts, the insurance company could not be made liable beyond their contractual obligations.
+RatioOfTheDecision	The insurance company could still say that they were bound under their own contract.
+RatioOfTheDecision	So much so, the protection became illusory.
+Precedent	In Zurich General Accident and Liability Insurance Co. Ltd. v. <ORG>72 Lloyd's Rep 167 ;  2 KB 53, Lord Justice <NAME> pointed out that a position had arisen which to a great extent nullified the protection which compulsory insurance was intended to afford.
+Precedent	So a year or two later an important Act was passed to remedy the position.
+Statute	It was the Road Traffic Act, 1934.
+Statute	It made the insurance company pay directly to the third parties even though such parties are not parties to the insurance contract.
+Statute	The provisions of Section 10 of the 1934 Act correspond to Section 96 of the Motor Vehicles Act, 1939.
+Statute	It will be advantageous to extract the provisions of Section 10 , so that the same could be c ompared with the provisions of Section 96 of the Act :  21.
+Statute	The Road Traffic Act, 1934 :  "10.
+Statute	(1) If, after a certificate of insurance has been delivered under Sub-section (5) of Section 36 of the principal Act (Road Traffic Act, 1930), to the person by whom a policy has been effected, judgment in respect of any such liability as is required to be covered by a policy under para (b) of Sub-section (1) of Section 36 of the principal Act (being a liability covered by the terms of the policy) is obtained against any person insured by the policy, then, notwithstanding that the insurer may be entitled to avoid or cancel, or may have avoided or cancelled, the policy, the insurer shall, subject to the provisions of this section, pay to the persons entitled to the benefit of the judgment any sum payable thereunder in respect of the liability, including the amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any enactment relating to interest on judgments.
+Statute	(2) No sum  shall be payable by an insurer under the foregoing provisions of this section-(a) in respect of any judgment, unless before or within seven days after the commencement of the proceedings in which the judgment was given, the insurer had notice of the bringing of the proceedings ; .
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+Statute	(3) No sum shall be payable by an insurer under the foregoing provisions of this section, if, in an action commenced before, or within three months after, the commencement of the proceedings in which the judgment was given, he has obtained a declaration that, apart from any provision contained in the policy, he is entitled to avoid it on the ground that it was obtained by the non-disclosure of a material fact, or by a representation of fact which was false in some material particular, or, if he has avoided the policy on that ground, that he was entitled so to do apart from any provision contained in it :  Provided that an insurer who has obtained such a declaration as aforesaid in an action shall not thereby become entitled to  the benefit of this sub-section as respects any judgment obtained in proceedings commenced before the commencement of that action, unless before or within seven days after the commencement of that action he has given notice thereof to the person who is the plaintiff in the said proceedings specifying the non-disclosure or false representation on which he proposes to rely, and any person to whom notice of such an action is so given shall be entitled, if he thinks fit, to be made a party thereto.
+Statute	(4) If the amount which an insurer becomes liable under this Section to pay in respect of a liability of a person insured by a policy exceeds the amount for which he would, apart from the provisions of this section, be liable under the policy in respect of that liability, he shall be entitled to recover the excess from that person."
+Statute	22.
+Statute	It will be noticed that the provisions of Section 10 of the Road Traffic Act, 1934, and the provisions of Section 96 of the Motor Vehicles Act, 1939, are similar.
+Precedent	,  23.
+Precedent	A question,  similar to the one now raised before us under Section 96(2) and (4), arose before <ORG> in <NAME> v. <ORG>  2 <ORG> 193.
+Argument	<NAME> and <ORG> (Lord Dinning M. R. dissenting) were dealing with a case under the British Honduras Motor Vehicles Insurance (Third Party Risks) Ordinance, 1958, provisions of which were similar to Section 10 of the British Road Traffic Act, 1930, and Section 96 of the Motor Vehicles Act, 1939.
+Argument	In that case, the plaintiff was the executor of the estate of <NAME>, a soldier in <ORG>, who suffered grave injuries in a motor accident in British Honduras.
+Argument	An action in <ORG> of Belize, British Honduras, ended with a consent judgment for 175,000 British Honduras dollars with interest and costs, but the car driver was unable to pay any part of that judgment.
+Argument	He was, however, insured by the defendants under a motor insurance policy which was issued in accordance with the abovesaid Ordinance.
+Statute	The material clauses of Se ctions 3 , 4 and 20 of the said Ordinance read thus :  "3(1) Subject to the provisions of this ordinance, no person shall use, or cause or permit any other person to use, a motor vehicle on a public road unless there is in force in relation to the user of the motor vehicle by that person or that other person, as the case may be, such a policy of insurance or such a security in respect of third party risks as complies with the requirements of this Ordinance.
+Statute	4(1) In order to comply with the requirements of this Ordinance, a policy of insurance must be a policy which (a) is issued by a person who is an insurer, and (b) insures such person, persons or classes of persons as may be specified in the policy in respect of any liability which may be incurred by him or them in respect of the death or bodily injury to any person caused by or arising out of the use of the motor vehicle on a public road :  Provided that such a policy shall not be required to cover (i) liability in respect of the death arising out of and  in the course of his employment of a person in the employment of a person insured by the policy or of bodily injury sustained by such a person arising out of and in the course of his employment, or (ii) except in the case of a motor vehicle in which passengers are being carried for hire or reward or by reason of or in pursuance of a contract of employment, liability in respect of the death of or bodily injury to persons being carried in or upon or entering or getting on to or alighting from the motor vehicle at the time of the occurrence of the event out of which the claim arises, (iii) any contractual liability, (iv) liability in respect of the first twenty-four dollars of any claim by any one person, (v) liability in respect of any sum in excess of four thousand dollars arising out of any one claim by any one person, (vi) liability in respect of any sum in excess of eight thousand dollars arising out of the total claims for any one accident for each vehicle concerned.
+Statute	20(1) If, after a certificate of insur ance has been issued under Sub- Section (4) of Section 4 to the person by whom a policy has been effected, judgment in respect of any such liability as is required to be covered by a policy under paragraph (b) of Sub-section (1) of Section 4 (being a liability covered by the terms of the policy) is obtained against any person insured by the policy, then, notwithstanding that the insurer may be entitled to avoid or cancel, or may have avoided or cancelled, the policy, the insurer shall, subject to the provisions of this section, pay to the persons entitled to the benefit of the judgment any sum payable thereunder in respect of the liability, including any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any enactment relating to interest on judgments.
+Statute	20(4) If the amount which an insurer becomes liable under this Section to pay in respect of a liability of a person insured by a policy exceeds the amount for which he would, apart from the provisions of this  section, be liable under the policy in respect of that liability, he shall be entitled to recover the excess from that person."
+Statute	24.
+Fact	The insurance company paid the plaintiff 4,000 dollars and the issue before the court was whether they were liable for the entire amount of 175,000 dollars with a right to recover 171,000 dollars from the driver.
+Fact	The question, therefore, was whether the plaintiff should recover 171,000 dollars from the driver or whether the insurance company should first pay the plaintiff even beyond their statutory liability of 4,000 dollars to cover the decree and then try to recover the balance of 171,000 dollars from the driver.
+Precedent	25.
+Precedent	It will be noticed that Section 3(1) of the ordinance corresponds to Section 94 , Section 4(1) to Section 95(1)(b) and Section 95(2)(b) while Section 20(1) corresponds to Section 96(1) and Section 20(4) corresponds to Section 96(4) of the Motor Vehicles Act, 1939.
+Argument	It was initially held by <NAME> ]., on a construction of Section 20 , Sub-clause (1), that the  insurers were liable only "in respect of any such liability as is required to be covered by a policy under Section 4(1)(b) ".
+Argument	He held that the insurance company was liable up to the statutory liability of 4,000 dollars and not for the entire judgment in the sum of Rs.
+Fact	175.000 dollars.
+Argument	26.
+Argument	The said view was affirmed by the majority of <ORG>, namely, <NAME> and <ORG>, while Lord <NAME> dissented.
+Argument	The majority held that the word "liability" which occurred in the last three provisos to Section 4(1) had the same meaning which it bore in the three provisos and there was no reason why the <ORG> should not have provided either for total exemption of liability or for partial limited exemption liability above a stated figure.
+Argument	Lord <NAME> pointed out that Section 4(1)(b) of the Honduras Ordinance, which was in line with Section 36 of the Road Traffic Act, 1930, required the policy of insurance to insure "such person, persons or classes of persons as may be specified in the policy in  respect of any liability which may be incurred by him or them in respect of the death or bodily injury to any person caused by or arising out of the use of the motor vehicle on a public road" (This provision corresponds to Section 95(1)(b)(i) of the Motor Vehicles Act, 1939).
+Argument	The learned judge then pointed out that thereafter there are six provisos (1) to (6) in the Honduras Act while the corresponding English provisions contain three provisos.
+Argument	The learned judge then referred to the argument of the plaintiff as follows : The argument was that the judgment had been obtained in respect of such liability as is required to be covered by Section 4(1)(b) (being a liability covered by the policy), and, therefore, the insurance company must pay to the plaintiff as the person entitled to the benefit of the judgment, any sum payable thereunder in respect of that liability, namely, 175,000 dollars.
+Argument	The insurance company contended that the only relevant liability required to be covered by Section 4(1)(b) is the liabilit y up to 4,000 dollars and that alone was the sum payable thereunder in respect of the liability.
+Argument	The plaintiff thereafter contended that the words "thereunder" in the context meant under the judgment.
+Argument	The learned judge observed that it would be open to the <ORG> to limit the liability of the insurance company to a particular amount.
+Argument	Such limitations in the quantum of liability of the insurance company were there--for example, in Sections 502 and 503 of the U. K. Merchant Shipping Act, 1894.
+Argument	If the <ORG> wanted the insurance company to be initially liable for the whole amount nothing precluded the <ORG> from saying so clearly.
+Precedent	The learned judge further observed that the words "amount in excess" in Section 20(4) of the Honduras Act (corresponding to Section 96(4) of the Motor Vehicles Act, 1939), no doubt, suggested the quantum rather liability, but this was not the view taken by the editor (Prof. <NAME>) in the fourth edition of <ORG>, para 779 which reads as follows:  "Ri ghts of insurers against their assured.--If insurers, by virtue of the provisions relating to payments on judgments, become liable to pay to a third party a sum in excess of what, under the policy, they would be liable to pay to their assured in respect of the relevant accident, they are entitled to recover the excess from the assured.
+Precedent	It would seem, therefore, that where the insurers would not be liable to pay anything under their policy by reason of misrepresentation or non-disclosure giving them a right to repudiate, they are entitled to recover from the assured anything which they are compelled by the statutory provisions to pay, whether or not they seek to obtain the relief which the statutory provisions afford them."
+Precedent	27.
+RatioOfTheDecision	The other learned judge, <NAME>, L.J., observed that the Honduras Ordinance was manifestly modelled upon the example and language of the U. K. legislation of 1934.
+RatioOfTheDecision	So far as England was concerned, an insured, apart from his remedy against the insurance company, had a separate ri ght against <ORG> to recover the balance amount of the award to the extent it was not covered by the statutory liability.
+RatioOfTheDecision	Such a device was not there in other countries.
+RatioOfTheDecision	Even so, the policy of the <ORG> in Central America appeared to be the same as in the Carribean <ORG>s where a similar view had been taken in <ORG> v. <NAME> [1968] 13 WIR 138, limiting the liability of the insurance company to the statutory liability only and rejecting the contention that the insurance company should pay the full amount covered by the judgment and recover the balance over the statutory liability from the insured.
+RatioOfTheDecision	The word "liability" in Section 20(4) of the Honduras Ordinance had the same meaning as the liability mentioned in the prviso to Section 4(1)(b) (corresponding to Section 95(2) of the Motor Vehicles Act, 1939).
+Precedent	The majority followed the earlier decision of <ORG> from Ceylon, namely, <ORG> v. <ORG> anasinghe  AC 541 (PC).
+Precedent	28.
+Precedent	The above said decision of <ORG> was taken to <ORG> and the majority view was upheld in <NAME> v. <ORG>, [1980] 1 Lloyd's Rep. 556.
+Argument	<ORG> stated that the wording of the Ordinance was clear and free from any ambiguity.
+Argument	In effect, they held that there was nothing unusual if there was some difference between the position in England as compared to other countries in the sense that in England the entire liability of the insured (or even in the case of non-insurance) would be cleared by <ORG>, apart from what was covered by the insurance company while in certain other countries the compulsory insurance provisions in the statute could limit the questions of liability of the insurance company.
+Argument	Their Lordships agreed with the majority of <ORG> that the words in Section 20(1) "liability" as is required to be covered by a policy under paragraph (b) of Sub-section (1) of Section 4 (being a liabili ty covered by the terms of the policy) are referable not only to the basic liability but also to the statutory quantum mentioned therein.
+Argument	After referring to Section 4(1) and Section 20(1) of the British Honduras Ordinance, 1958 (already set out), Lord <NAME> posed the question :  "In a sentence, the question of construction is : Is liability in respect of any sum in excess of four thousand dollars arising out of any one claim by any one person which by proviso (v) to Sub-section (1)(b) of Section 4 , a policy is not required to cover, nevertheless included in "such liability as is required to be covered by a policy under paragraph (b) of Sub-section (1) of Section 4 ", where that expression is used in Section 20(1) ?"
+Argument	29. and answered the question as follows :  "So stated, the only possible answer is, in my view, "no".
+Argument	Your Lordships were taken through various other provisions of the Ordinance which it was suggested throw some darkness upon the apparent clarity of the language of Sections 4(1) and 20(1) .
+Argument	I n particular an argument was based on Sub-section (4) of Section 20 ...
+Argument	The reference to the liability of the insurer in a direct action 'exceeding' his liability to his assured under the policy was relied upon as indicating that monetary limits lawfully provided for by the policy would be ineffective as a defence, in part, to a direct action on the judgment obtained against the assured"  30. and explained by the following crucial words :  "This sub-section was, in my view, intended to cover inter alia, cases where the insurer was entitled to avoid or cancel the policy; but even if, in the absence of the words 'if any' after the word 'amount' where it appears for the second time in the sub-section, the verb 'exceeds' is not the most apt to express an 'excess over nil', there are instances, of which costs and interest on the judgment are examples, where the insurer would be liable in the direct action for sums in excess of the permissible monetary limits upon the cover afforded by the policy.
+Precedent	So even on its na rrowest construction, the sub-section is not inconsistent with the clear and unambiguous meaning of Section 20(1) ."
+Precedent	31.
+Precedent	Therefore, in spite of a provision similar to Section 96(1) and Section 9G(4) , the liability of the insurance company was restricted to the statutory liability and not to the extent of the entire liability of the insured.
+Precedent	32.
+Precedent	We have then to refer to two more decisions of <ORG> in regard to a similar provision in Ceylon and Bermuda.
+Precedent	33.
+Precedent	We have stated that in <NAME>'s case [1980] 1 Lloyd's Rep 556, <ORG> followed its earlier decision in <CITATION_97332233>  AC 541 (PC).
+RulingByLowerCourt	In that case too, the position was the same.
+RulingByLowerCourt	The claimant, who was an injured person, was awarded damages for Rs.
+Fact	30,000 against the owner of the lorry, who was insured against third party risks.
+Fact	The statutory liability of the insurance company was up to Rs.
+Fact	20,000 only.
+Fact	The claimant started an action against the insurance company and obtained judgment for the entire Rs.
+Fact	30,000 from <ORG> urt of Ceylon rather than Rs.
+Fact	20,000.
+Fact	The said judgment was reversed by <ORG>.
+Fact	The provisions of Section 133(1) of the Motor Car Ordinance, 1938, of Ceylon corresponds to Section 96(1) while Section 128(1)(b) corresponds to Section 95(1)(b) and Section 128(4)(c) to Section 95(2) .
+Fact	Section 138 of the Ordinance corresponds to Section 96(4) .
+Fact	Lord <NAME>, speaking for the <ORG>, construed Section 138 to say that the liability of the insurance company was only Rs.
+Fact	20,000.
+Fact	The words "required to be covered" in Section 133 meant that the Section did not render the insurer liable to a third party for a greater sum than that in which he was liable to the assured under Section 128 of the ordinance.
+Fact	34.
+Fact	In the other decision of <ORG> in <NAME> v. <NAME> [1989] 2 Lloyd's Rep. 227 (PC), the same question arose under the Bermudan Motor Car Insurance (Third Party Risks) Act, 1943.
+Fact	The respondent was injured by the negligent driving of Mr. <NAME>.
+Fact	The car was owned  by Mrs. <NAME> and was insured with the appellants under a policy.
+Fact	The respondent claimed damages for personal injuries against Mr. <NAME>, for $ 100,000 and costs by consent.
+Fact	The respondent-claimant wanted that the entire sum be paid by the insurer-appellant even though by virtue of the provision of the Act of 1943, the statutory liability was restricted to $ 24,000.
+Fact	<ORG> at Bermuda held the appellant liable for the whole amount.
+RulingByLowerCourt	Allowing the appeal, their Lordships held the appellant liable only to an extent of $ 24.000.
+RulingByLowerCourt	Section 3(1) of the Act there is similar to Section 94 while Section 4(1) is similar to Section 95(1)(b) .
+RulingByLowerCourt	The proviso to Section 4(1) corresponds to Section 95(2) limiting the liability of the insurance cmpany to $ 24,000 and to other amounts in various situations.
+RulingByLowerCourt	Again Section 6(1) of the Act corresponds to Section 96(1) while Section 6(4) corresponds to Section 96(4) .
+RulingByLowerCourt	Their Lordships followed the decision in <NAME>'s case  1 <ORG> and <NAME> case   AC 541 (PC).
+Precedent	The contention that <NAME>'s case  1 Lloyd's Rep 556 was wrongly decided and that the view of Lord <NAME> in <ORG> in <NAME>'s case  2 Lloyd's Rep 193, was correct, was rejected.
+Precedent	35.
+Precedent	A further point was also argued that the policy there covered $ 125,000 while the statutory liability of the insurance company was only $ 24,000, and the award was for $ 100,000 and that <NAME>'s case [1980J 1 Lloyd's Rep 556 was distinguishable.
+Precedent	But Lord <NAME> of Kinkel observed :  "It is true that <NAME>'s case [1980] 1 Lloyd's Rep 556 was in certain respects different in its facts from the persent one.
+RatioOfTheDecision	But the reasoning of Lord <NAME> may nevertheless be applicable.
+RatioOfTheDecision	That reasoning indicates that so far as the 1943 Act is concerned, the words in Section 6(1) -  36.
+RatioOfTheDecision	'.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	such liability as is required to be covered by a policy under paragraph (b) of Sub-section (1) of Section 4 ..."  37. do not include liability in respect of any sum in excess of $ 24,000 arising out of any one claim by any  one person, since by virtue of proviso (iii) to Section 4(1)(b) , such a liability is not required to be covered.
+RatioOfTheDecision	It is, in their Lordships' opinion, nothing to the point, so far as the construction of Section 6 is concerned, that the insurers might under the terms of the policy be bound to indemnify the insured in respect of any excess over the statutory minimum for which an injured third party might have obtained judgment against the insured.
+RatioOfTheDecision	The effect of Section 6(1) is to limit the amount which the injured third party can recover directly from the insurers."
+RatioOfTheDecision	38.
+RatioOfTheDecision	It is not necessary for us to go into this further question for it is not contended here that the policy covers any amount in excess of the compulsory liability under the Act.
+RatioOfTheDecision	No doubt, the above observations would show that even if the policy was for a higher amount, than the statutory limit, the claimants would be entitled as against the insurance company, only to the amount compulsorily required to be covered under Section 95(2) and the <NAME> nce had to be recovered from the insured.
+RatioOfTheDecision	The insured might seek reimbursement from the insurance company to the extent the policy amount exceeded the statutory liability.
+RatioOfTheDecision	We are, as stated above, not concerned with this latter aspect which additionally arose in <NAME> (P.W.G.)
+Precedent	v. <NAME> [1989J 2 <ORG> (PC).
+Precedent	39.
+Precedent	The same view as in the <ORG> cases was taken by <ORG> of this court consisting of <NAME> and <NAME> in <CITATION_58137430> .
+Precedent	308 of 1986, dated September 3, 1992) after distinguishing <CITATION_1320567>  34 Comp Cas 693 (SC); AIR 1964 SC 1736.
+Precedent	40.
+Precedent	Applying the above case-law, the following principles can be summarised :  (1) The provisions of Section 96(1) are unambiguous and clear, that where a judgment in respect of the liability referred to in Section 95(1)(b) --(being a liability covered by the policy)--, then the insurance company shall pay to the claimants-decree holders any sum, not exceeding the sum assured, payable thereunder, as  if the insurer was the judgment-debtor in respect of the liability, together with any amount payable in respect of costs and any sum payable in respect of interest on that sum by virtue of any enactment relating to interest on judgments.
+RatioOfTheDecision	The words "liability referred to in Section 95(1)(b) " are confined to the statutory liability mentioned in Section 95(1)(b) to the extent covered by Section 95(2) for Section 95(1)(b) itself refers to Section 95(2) .
+RatioOfTheDecision	In other words, the insurer is not under Section 96(1) liable to the claimants for the entire amount covered by the judgment but only up to the extent covered by Section 95(1)(b) read with Section 95(2) .
+RatioOfTheDecision	2.
+RatioOfTheDecision	(2) No doubt, Section 96(4) enables the insurer to recover the "excess" from the insured.
+RatioOfTheDecision	But this does not refer to a situation where the insurer pays the entire amount covered by the judgment to the claimants and to its recovering the excess over the statutory liability from the insured.
+RatioOfTheDecision	This is because the basic liability of the insurer is only to the st atutory liability covered by Section 95(1)(b) read with Section 95(2) .
+RatioOfTheDecision	But, the provisions of Section 96(4) are not redundant or otiose.
+RatioOfTheDecision	They have a meaning and are meant to cover at least one of two different situations.
+RatioOfTheDecision	In a case where the entire policy is avoided under Section 96(6) by the insurer on grounds mentioned in Section 96(2) as against the insured, the insurer may, after paying to the claimants the amount covered up to its statutory liability under Section 95(1)(b) read with Section 95(2) , recover whatever it has so paid to the claimants, from the insured.
+RatioOfTheDecision	In that case, it can get back the whole of the amount covered by the statutory liability from the insured and it would be a case of "excess over nil" as stated by Lord <NAME> in <NAME>'s case  1 Lloyd's Rep 556.
+RatioOfTheDecision	There can also be a second situation where after paying to the claimants the amount covered by the statutory liability under Section 95(1)(b) read with Section 95(2) together with interest and costs, the insurer could recover the "ex cess" amount over and above the specific statutory figure, governing its liability under Section 95(1)(b) read with Section 95(2) and obviously the word "excess" would then mean that the insurer could recover the costs and interest from the insured.
+RatioOfTheDecision	Of course, there is no practice in our country for the general insurance companies to proceed to recover the interest and costs from the insured nor are we to be understood as permitting such a course by laying down a new convention.
+RatioOfTheDecision	(3) That would, in effect, mean that in case the insurance policy is totally avoided by the insurance companies on the ground of misrepresentation or otherwise, then the entire amount paid or payable to the claimants becomes "excess" and can be recovered from the insured.
+RatioOfTheDecision	In other cases, the statutory liability of the insurance company under Section 95(2) being the amounts stated therein, the "excess" that the company becomes liable to pay to the claimants is the costs and interest payable because of the provisions of Section 96(1) ,  which, apart from that provision, was not payable by the insurance company and the insurance company's recovery of "excess" under Section 96(4) could refer to these two amounts, namely, costs and interest.
+RatioOfTheDecision	There is, however, no claim generally, by any insurance company against the insured for the interest and costs and we should not be understood as permitting such a course.
+RatioOfTheDecision	(4) Thus, the liability of the insurance company could only be to the statutory limits and there is no question of recovering the entire amount from the insurance company nor is it necessary to make the company recover the excess from the vehicle owner.
+RatioOfTheDecision	41.
+RatioOfTheDecision	We make it clear that we are here dealing with an Act policy only.
+RulingByPresentCourt	We hold point No.
+RulingByPresentCourt	3 accordingly.
+Precedent	42.
+Precedent	For the aforesaid reasons, we allow the appeal of the insurance company, overrule <ORG> v. <NAME> [1984] ACJ 791 (Ker), hold that Section 147(2) of the Motor Vehicles At, 1988, is not retrospective, that the liability of the insurance company under Sect ion 96(1) is restricted to the statutory liability provided under sectin 95(2) and that the claimants cannot rely on Section 96(4) to contend that the insurance company is liable for the entire liability of the insured and they cannot say that the insurance company should recover the excess over the statutory liability from the insured.
+Precedent	The claimants can recover from the insurance company only up to the limits stated in Section 95(2) and the balance, if any, has to be recovered from the insured.
+Precedent	On the facts, the insurance company is liable only up to Rs.
+Precedent	5,000 with interest thereon and costs to the claimants.
+Precedent	The balance of Rs.
+Precedent	37,600 with interest thereon is not recoverable from the insurance company.
+Precedent	43.
+RulingByPresentCourt	The appeal is allowed as stated above.
+RulingByPresentCourt	No costs.

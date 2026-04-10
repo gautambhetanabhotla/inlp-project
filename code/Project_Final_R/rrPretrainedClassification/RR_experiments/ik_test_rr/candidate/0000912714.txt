@@ -1,0 +1,21 @@
+Fact	JUDGMENT  1.
+Precedent	The appellant became surety on behalf of the defendant in O.S.
+Precedent	No.
+Precedent	596 of 1897 during the pendency of that suit in the Court of first instance.
+Fact	Though the security was taken after the attachment of property before judgment, yet by the security bond the appellant consented to become liable for any sum that might be decreed.
+Fact	2.
+Fact	A decree having been eventually passed against the defendant in that suit, application for the execution of the decree was made and granted against the appellant.
+Fact	Before the actual execution of the decree the present suit was brought for a declaration that the appellant was not liable for a portion of the decree sought to be executed against him on certain grounds unnecessary here to be stated.
+Fact	The order for execution against the appellant was not appealed against.
+Precedent	The objection taken on behalf of the respondent that this suit does not lie, the matter being one to be litigated only in execution proceedings must, in our opinion, be upheld on the authority of Exparte Bhikaji  v. <NAME> 4 B.H.C.R.
+Precedent	119 <NAME> v. <NAME> and Anr.
+Precedent	8 W.R. p. 24 <CITATION_1049872> .
+Precedent	15 W.R. p. 538 <CITATION_1355890> .
+Precedent	12 B.
+Precedent	7 and <NAME> v. <NAME> 13 M. p. 1 <CITATION_1155518> 13 M.L.J.R.
+Precedent	484.
+Argument	3.
+Argument	In some of these cases, it is expressly pointed out that the surety should be treated as a party to the suit and as the question sought to be raised by the appellant is one relating to the execution of the decree, the bar to a separate suit laid down by Section 244, C P.C.
+Argument	applies.
+Argument	On this ground, the suit ought to have been dismissed.
+RulingByPresentCourt	We accordingly dismiss this second appeal with costs.

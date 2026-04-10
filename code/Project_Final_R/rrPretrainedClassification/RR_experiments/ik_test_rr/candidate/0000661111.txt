@@ -1,0 +1,380 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The question referred to this Court under Section 66(2) of the Income-tax Act arises out of the assessment for the year 1944-45, the previous year in relation to which ended on 16th August, 1943.
+Fact	The assessee firm carried on business in coffee, among other things.
+Fact	In the relevant accounting year, 1942-43 the assessee, entered into contracts with <ORG>, constituted under the Coffee Market Expansion Act VII of 1942, under which the assessee purchased 12,390 cwt.
+Fact	of coffee with a contractual obligation to export the whole of that quantity to the Middle East and Australia.
+Fact	In addition, the assessee purchased from others out of their export quotas 2,3O3cwt.
+Fact	which also he was under an obligation to export.
+Fact	The prices at which <ORG> sold the coffee for export were far less than those at which coffee was sold from the pool by the <ORG> for sales within India.
+Fact	The assessee exported only 8,784 cwt.
+Fact	the balance of 5,959 cwt.
+Fact	it sold within India without the  knowledge of <ORG>.
+Fact	The assessee made considerable profits out of these sales.
+Fact	<ORG> came to know of these sales in contravention of the assessee's obligations only in 1946, when it called upon the assessee to explain.
+Fact	The assessee admitted in his letter, dated 20th May, 1946, that it had failed to export 5,959 cwt.
+Fact	of coffee that it had obtained for export in 1942-43 and the assessee agreed to pay the damages in accordance with one of the alternative terms of the contract it had entered into with <ORG>.
+Fact	2.
+Fact	Clause 9 of that contract ran:  If the buyer fails to ship the coffee purchased for export to a destination outside India, the <ORG> reserves to itself the right to levy liquidated damages or to restore the status quo in any one of the following ways, at the absolute discretion of the Controller of Coffee:  (a) To recover a fixed measure of damages at Rs.
+Fact	20 per owt.
+Fact	to be paid to <ORG>.
+RatioOfTheDecision	(b) To export an equivalent quantity by weight of coffee  purchasing the same from the pool and to recover the loss incurred in the transactions from the buyer.
+Statute	The decision of the Controller in the matter of price at which such coffee is purchased and sold and in the matter of fixing the loss, shall be final.
+Statute	(c) To call upon the buyer to restore the stock delivered to him at a price less than the purchase by 2J per cent, of the price for every month after the expiry of the period for export fixed above and the date when the buyer is called upon to restore the stock provided that a period of fifteen days and over shall be treated as a month and a period less neglected.
+Statute	The fixed damages referred to above shall be deemed as liquidated damages and the buyer shall not be entitled to any reduction thereof in any circumstances."
+Argument	3.
+Argument	It was apparently the first of these alternatives that was availed of by the Controller of Coffee, and the damages, the assessee was liable to pay for the admitted breach of the contractual obligation was assesseed at Rs.
+RatioOfTheDecision	1,19,177, on 1st june, 1946.
+RatioOfTheDecision	The assessee paid this amount in instalments in the latter part of its year of account 1945-46.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The assessment proceedings for 1944-45 were completed by the Income-tax Officer only on 5th August, 1947.
+Precedent	The assessee firm claimed that the sum of Rs.
+Precedent	1,19,177, it had paid as liquidated damages should be deducted to arrive at its assessable profits for the accounting year 1942-43 under Section 10(2)(xv) of the Income-tax Act.
+Precedent	That claim was disallowed by the departmental authorities.
+Precedent	The assessccs' appeal to <ORG> failed.
+RatioOfTheDecision	5.
+Fact	The question referred to this Court under Section 66(2) of the Act ran:  Whether on the facts and in the circumstances of the case the sum of Rs.
+Fact	1,19,177 paid by the assessee as damages to <ORG> for not exporting the coffee seeds outside India is under the terms of agreement allowable as an expenditure under Section 10(2)(xv) of the Act in the assessment year 1944-45.
+RatioOfTheDecision	6.
+Fact	Two points had to be determined by <ORG> (1) whether  independently of the year of account in which the expenditure of Rs.
+Fact	1,19,177 was incurred by the assessee, the expenditure could be claimed at all as deduction under Section 10(2)(xv) of the Act; and (2) if it could be claimed as a lawful deduction, did the fact that the amount was expended, not in the relevant year of account 1942-43, but only in the year of account 1945-46, bar the grant of relief in the assessment year 1944-1945.
+Fact	Both the points were decided against the assessee by <ORG>.
+Fact	The claim of the assessee firm has to be rejected if either of the points is decided against it.
+Fact	7.
+Fact	The <ORG>, in our opinion, was right when it decided in the circumstances of this case that the amount expended by the assessee in 1945-46 could not be excluded in computing the assessable income of the assessee during its account year 1942 43.
+Argument	8.
+Argument	No doubt the assessee paid the sum of Rs.
+Argument	1,19,177 to <ORG> as liquidated damages for breach of contract.
+RatioOfTheDecision	That breach was in the year of ac count 1942-43.
+RatioOfTheDecision	The liability to pay damages under the contract between the assessee and <ORG> was, however, only a contingent liability, and it remained so till that year of account ended.
+RatioOfTheDecision	The assessee maintained its accounts on the mercantile basis.
+RatioOfTheDecision	The assessee did not debit itself in the year of account with the amount it eventually had to pay in 1945-46.
+RatioOfTheDecision	It could not claim to be in a better position than it would have been had it debited itself with that amount in its accounts during 1942-43.
+RatioOfTheDecision	Even so, that debit would have represented only a reserve provided by the assessee against the enforcement in future of what was still a contingent liability in 1942-43.
+RatioOfTheDecision	However prudent such a provision might have been from the point of view of accountancy, that would not have sustained a claim for deduction under Section 10(2)(xv) of the Act with reference to the account year 1942-43.
+RatioOfTheDecision	It would still have been an unascertained claim for damages for breach of contract.
+RatioOfTheDecision	The claim itself was not made in  the year of account.
+RatioOfTheDecision	That there could be no defence to the claim when it was made did not alter the fact, that the claim had yet to be made and the damages yet to the ascertained.
+RatioOfTheDecision	9.
+RatioOfTheDecision	It could not be predicated in 1942-43 what Would be the claim of <ORG>, the other contracting party entitled to damages under the contract.
+RatioOfTheDecision	We have already set out the terms of Clause 9 of the contract.
+RatioOfTheDecision	It provided for three alternatives any one of which <ORG> could claim at the discretion of the Controller of Coffee.
+RatioOfTheDecision	The quantum of damages could not possibly have been identical under each of these three alternatives open to <ORG>.
+RatioOfTheDecision	Which of these three alternatives gave the greatest monetary advantage to <ORG> at any given point of time, with the corresponding monetary liability on the assessee, it was not possible to guess because no claim even was made by <ORG> in 1942-43.
+RatioOfTheDecision	Till <ORG> made clear by its claim which of the three  alternatives it chose, there could be no means of knowing what the liability of the assessee was.
+RatioOfTheDecision	Up to that stage it could only be a contingent liability.
+RatioOfTheDecision	For all that the assessee knew in 1942-43 no claim might have been made at all by <ORG>.
+RatioOfTheDecision	That was probably what the assessee hoped for that the breach of the terms of the contract would go undetected and the liability would go unenforced.
+RatioOfTheDecision	Under such circumstances the assessee could not treat any sum as an ascertained liability even if it could not be viewed as an ascertained debt due to <ORG>, to justify the claim to deduct any specified sum from the assessable profits of that year.
+RatioOfTheDecision	Whether the liability was discharged or not by payment, only an ascertained liability would have justified an entry in the accounts of the assessee maintained on a merchantile basis.
+RatioOfTheDecision	Even had the assesee firm entered any amount in its accounts in 1942-43 before such ascertainment, the claim under Section 10(2) {xv) would have been unsustainabl e.  10.
+RatioOfTheDecision	To sum up, it was contingent liability and not an ascertained liability in 1942-43.
+RatioOfTheDecision	11.
+RatioOfTheDecision	It should betaken as well-settled now that without statutory warrant--and there is none in Section 10(2)(xv) --deductions are not premissible for anticipated losses even if they are inevitable, nor for contingent liabilities.
+RatioOfTheDecision	12.
+Precedent	In <ORG> v. Stedeford(1948) 30 T.C.
+Precedent	496, the facts were as follows.
+Precedent	The assessee company carried on the business of managing factory canteens.
+Precedent	Under the usual form of contract made between the company and the factory owner, the crockery, cutlery and utensils used in the canteen were provided by the factory owner, but they were to be maintained in their original quantity and quality by the company.
+Precedent	It was found impossible in the relevant year of account, owing to scarcity and high price of the equipment concerned, to effect all the replacements for which the company was liable.
+Fact	The company, however, charged as expenses not only the amounts- of the disbursements actually made  in effecting replacements, but also amounts representing at current prices the company's liability to effect replacements as soon as the required equipment became available.
+Fact	The company claimed the latter set of amounts as admissible deductions in computing its assessable profits.
+Fact	That claim was disallowed.
+Fact	In the assessment proceedings an accountant who was called in as an expert gave evidence.
+Argument	He stated that the accounts had been prepared in accordance with the principles of sound commercial accounting.
+Argument	He added that, if he had been the auditor of the assessee company, he would not have been prepared to certify the accounts as correct, if the provisions to meet the company's liabilities in respect of equipment shortages had not been made year by year in the manner in which the accounts showed them to have been made.
+Argument	13.
+Argument	In dealing with the evidence of the Accountant, <NAME>, L.J., observed:  .
+Argument	.
+Argument	.
+Argument	.
+RatioOfTheDecision	they (accounts) might well have been prepared in accordance with the principles of sound commercial accounti ng without being permissible deductions before arriving at the profits in a particular year.
+RatioOfTheDecision	After analysing the terms of the contract in that case, <NAME>, L.J., observed:  The real liability under the contract so far as replacement of utinsils goes was a contingent liability.
+RatioOfTheDecision	It is a liability which would not arise until termination of the contract and it was contingent upon the inability of the caterers in the meanwhile to replace the utensils.
+RatioOfTheDecision	In that sense it is, I think, correct to say that the real liability under the contract was a contingent one.
+RatioOfTheDecision	14.
+RatioOfTheDecision	It was the same principle that was laid down in <ORG> v. <ORG>) 12 T.G.
+RatioOfTheDecision	773, at page 781:  ...A prudent commercial man may put part of the profits made ,in one year to reserve, and carry forward that reserve to the next year, in order to provide against an unexpected, or (it may be) an inevitable, loss which he foresees will fall upon his business during the next year.
+RatioOfTheDecision	The process is a familiar o ne.
+RatioOfTheDecision	But its adoption has no effect on the true amount of the profits actually made, and does not prevent the whole of the profits, whereof a part is put to reserve, from being taken into computation in the year in question for purposes of assessment.
+RatioOfTheDecision	On the contrary, the balance of profits and gains is determined independently altogether of the way in which the trader uses that balance when he has got it; and, if he puts part of it to reserve and carries it forward into the next year, that has no effect whatever upon his taxable income for the year in which he makes the profit.
+Precedent	Earlier the Lord President observed:  It is a general principle, in the computation of the annual profits of a trade or business under the Income-tax Act s, that those elements of profit or gain, and those only, enter into the computation which are earned or ascertained in the year to which the enquiry refers; and in like manner, only those elements of loss or expense enter into the computation which are suffered or incurred during th at year At page 782 the Lord President stated:  I confess to thinking that it would be a dangerous innovation to allow apprehended losses in fuluro to constitute proper matter for deduction from the present profits of commercial undertakings.
+Precedent	He restated this later when he observed:  ...this only serves to make it plain that what they are seeking to do is to put against the actual ascertained receipts from their business in one period a loss which is neither suffered nor incurred in that period.
+Precedent	I know of no justification for this, either under the rules or principles of the Income-tax Act s or in ordinary commercial accounting.
+Precedent	In <ORG> v. <ORG> T.C.
+Precedent	1017, the assessee company which carried on business in mining, held their mines on leases which contained the usual covenants for the repair and maintenance of the mines, pits, roads, etc.
+Precedent	Owing to national stoppage in the coal mining industry, the company was forced to close down their mines from 1st A pril, 1921 to 2nd July, 1921.
+Precedent	The stoppage of work resulted in severe damage to the mines involving considerable amount of expenditure to recondition the mines.
+RatioOfTheDecision	The reconditioning work was commenced after 2nd July, 1921.
+RatioOfTheDecision	For the period of account, from 1st April, 1921 to 30th June, 1921, the assessee debited itself in its accounts with the cost of reconditioning the mines, though no expenditure was made until after the end of the accounting period.
+Argument	It was ultimately held by <ORG> that the costs of reconditioning was not a proper deduction in computing the results of the assessee company's trade for the accounting-period ending 30th June, 1921.
+Argument	Lord <NAME> observed at page 1048:  According to the appellants' contention, however, it is not the actual expenditure that is deducted but the need for making the expenditure which is to be measured in their favour and brought into the account.
+Argument	This contention would involve the conclusion that the subject could choose which period he liked as the one i n which the allowance is to be brought into account, either that when the expenditure became necessary or that when it was made.
+RatioOfTheDecision	The contention was repelled.
+RatioOfTheDecision	If we apply the principle of that contention to the claim of the assessee before us, logically he should be in a position to claim a deduction in any of the years 1942-43, 1943-44, 1944 45 or 1945-46 at his choice.
+RatioOfTheDecision	That certainly would not disclose a true picture of the assessable profits made in the year 1942-43.
+Precedent	At page 1049 Lord <NAME> observed:  The appellants say that in an Income-tax sense this sum is a proper debit against the profit of the three months in question, because, although it was neither spent in fact nor incurred as a debt in that time, it was a prospective liability which would have to be satisfied at another time and as soon as possible.
+Precedent	The money was spent to enable profits to be made after 30th June, 1921, not to enhance those made before that date.
+Precedent	...It seems to me like saying that a man is entitled to charge supper in his expen ses for Sunday night because, though he went supperless to bed, he orders something extra for his breakfast on Monday morning.
+Precedent	In <NAME> and <NAME>'s Principles of Income-tax Taxation at page 534 the learned authors quoted the dictum of the Lord President in <ORG> v. <ORG>) T.R.
+Precedent	149:  It seems to follow that, if in the earlier period there is only a provisional or contingent liability it is not until it has been subsequently determined to be an actual liability by admission or decision that it can properly be brought into computation....  15.
+Precedent	The position is thus summed up in <ORG>, second edition, Vol.
+Precedent	II, paragraph 230, at page 203:  In computing the profits of a trade it is the normal accountancy practice to allow as an expense any sum in respect of liabilities which have accrued over the accounting period, and to make a deduction of such sums from the profits.
+Argument	Following the decision in <ORG> v. <ORG>) 30 T.C.
+Argument	496, howe ver, it appears that the nature of liabilities which may be deducted on business and accountancy principles does not accord with the nature of liabilities deductible for income-tax purposes.
+Argument	For income-tax purposes it was held that a distinction must be drawn between an actual, i.e., legal liability, which is deductible, and a liability which is future or contingent and for which no deduction can be made.
+Argument	16.
+Argument	The position under Section 10(2)(xv) of the Indian Income-tax Act is the same as the learned authors pointed out in <NAME> and <NAME>'s Income-tax, third edition, at page 500:  This clause allows deduction only in respect of expenditure.
+Argument	A contingent liability is not expenditure and therefore cannot be subject of deduction under this clause.
+Argument	17.
+Argument	Thus the position is that, even had the assessee firm in this case debited itself with the entire amount of Rs.
+Argument	1,19,177 in the year of account 1942-43, it would have represented only an estimate of its contingent liability and would not have furnished a rea l basis for a claim to deduct that amount under Section 10(2)(xv) of the Act.
+RatioOfTheDecision	What the assessee really asked for in this case was that the expenditure actually incurred in its year of account 1945-46 should be related back to the year of account 1942-43 in computing the assessable profits for 1942-43.
+RatioOfTheDecision	There should be no difficulty in repelling that claim.
+Precedent	The position is thus summed up in <ORG>, second edition, Vol.
+Precedent	II, paragraph 181, at page 161:  When a sum has been charged as a trade expense for a certain accounting period, no adjustment of the amount can, as a rule, be made.
+Precedent	If, however, a liability had accrued in the accounting period in question, but the amount to be charged is subsequently altered, there may be a case for re-opening the account for the previous period so as to substitute the ascertained amount for the amount charged for that period.
+Precedent	The question is to some extent a question of fact, but the principle is that if the liability accrued in the earlier period, the subsequently  ascertained amount must be related back to that period; while if no liability had accrued in the earlier period, the item has to be brought into account for the period in which the liability arose.
+Precedent	In the case of the assessee it was only a contingent liability in 1942-43.
+Precedent	The liability arose in the year of account 1945-46 when the claim was made, and after it had been admitted the liability of the assessee was ascertained.
+Precedent	It could not be related back as a proper item of expenditure in 1942-43.
+Precedent	18.
+Precedent	The learned Counsel for the assessee invited our attention to <NAME> v. <NAME> T.C.
+Precedent	649, where it was held that, if on the discontinuance of trade a payment for work already done has not been finally settled, the accounts could be re-opened so as to bring in a payment for such work, even though it is gratuitous, which is made thereafter.
+Precedent	That related to a receipt after the period of account.
+Precedent	In view of the true principle applicable to relating back of expenses, we see no scope for extending the principle la id down in <NAME>'s case35 T.C.
+Precedent	649, to the claim of the assessee.
+Precedent	19.
+Precedent	Our conclusion on this part of the case is that, even if the sum the assessee had eventually to pay in 1945-46 as liquidated damages for breach of its contractual obligations had constituted a permissible deduction under Section 10(2)(xv) of the Act, such a claim could not have been allowed in the assessment year 1944-45, in computing the assessable profits for the accounting year 1942-43.
+Precedent	20.
+Precedent	We shall next deal with the question whether the requirements of Section 10(2)(xv) could be satisfied, i.e., whether the expenditure had been laid out or expended wholly and exclusively for the assessee's business.
+Precedent	21.
+Precedent	What the Income-tax-Act in England does not permit among other things is (1) any disbursements or expenses not being money wholly and exclusively laid out or expended for the purpose of trade (Rule 3-a) and (2) any loss not connected with or arising out of trade (Rule 3-c).
+Precedent	The interdependence of the two provisions as well as the  distinction between them was pointed out by <NAME>, J., in <CITATION_1183434> (1932) 17 T.C.
+Precedent	59 at 64.
+Precedent	...no doubt they do run rather close to each other, but I cannot help thinking that there is a distinction between (a) and {e).
+RatioOfTheDecision	Now a case might be put in which it was not easy to say whether a thing was a disbursement or expense or was a loss.
+RatioOfTheDecision	It is conceivable--such things sometimes happen--that there may be cases in which a thing might fall alternatively--it might be either within (a) or within (e), but, none the less, I do think that there is a distinction to be drawn between the two: (a) relates to disbursements; that means something or other which the trader pay out; I think some sort of volition is indicated.
+RatioOfTheDecision	He chooses to pay out some disbursement; it is an expense; it is something which comes out of his pocket.
+RatioOfTheDecision	A loss is something different.
+RatioOfTheDecision	That is not a thing which he expends or disburses.
+RatioOfTheDecision	That is a thing which, so to speak, comes upon him ab extra.
+RatioOfTheDecision	It is not very easy to formulate the thing but  it is easy enough to put illustrations falling on one side or the other of the line which may show what is, I think, the distinction, and the real distinction, between these things.
+RatioOfTheDecision	In this case we are concerned with a disbursement or expense; but unless it was connected with or arose out of the assessee's business, there could be no further question of the expenditure having been incurred wholly and exclusively for its business.
+Precedent	22.
+Precedent	In the oft-quoted passage from the speech of Lord <NAME>, L.C., in <NAME> v. WoodifieldL.R.
+Precedent	(1906) A.C. 448 at 452 : 5 T.C.
+Precedent	215at 219, he laid down:  In my opinion, however, it does not follow that if a loss is in any sense connected with the trade it must always be allowed as a deduction; for it may be only remotely connected with the trade, or it may be connected with something else quite as much as or even more than with the trade.
+Precedent	I think only such losses can be deducted as are connected with it in the sense that they are really incidental to the trade itself.
+Precedent	They cannot  be deducted if they are mainly incidental to some other vocation or fall on the trade in some other character other than that of trader.
+Precedent	The nature of the trade is to be considered.
+Precedent	To give an illustration, losses sustained by a railway company in compensating passengers for accidents in travelling might be deducted.
+Precedent	On the other hand, if a man kept a grocer's shop, for keeping which a house is necessary, and one of the window shutters fell upon and injured a man walking in the street, the loss arising thereby to the grocer ought not to be deducted.
+Precedent	Many cases might be put near the line, and no degree of ingenuity can frame a formulla so precise and comprehensive as to solve at sight all the cases that may arise.
+Precedent	What Lord <NAME> observed in the same case has been applied as consistently by Courts in India as in England.
+Precedent	Lord <NAME> said:  ...for the purposes of the 'trade'.
+Precedent	These words are used in other rules and appear to me to mean for the purpose of enabling a person to carry on and earn profits in the tr ade, etc.
+Precedent	I think disbursements permitted are such as are made for that purpose.
+Precedent	It is not enough that the disbursement is made in the course of, or arises out of, or is connected with the trade, or is made out of the profits of the trade.
+Precedent	It must be made for the purposes of earning the profits .
+Precedent	23.
+Precedent	The application of these principles has led to the position which may be taken as well settled now, that payments of penalties for infraction of the law fall outside the scope of permissible deductions.
+Precedent	The penalty in any such case is imposed as a punishment on the offender as a responsible person owing obedience to the law.
+Precedent	Its nature severs it from the expense of trade.
+Precedent	It is not incurred by him in his character of trader.
+Precedent	24.
+Precedent	The principle laid down by <NAME>, J., in <ORG>) 12 T.C.
+Precedent	277, and followed by him in <ORG>) 12 T.C.
+Precedent	232, was approved of by <ORG> in <ORG> <NAME>'s case(1920) 12 T.C.
+Precedent	232.
+Precedent	25.
+Precedent	In <NAME>'s case(1919) 12 T.C.
+Precedent	277, Rowlatt, J., observed:  I may shelter myself behind the authority of Lord <NAME>, who, in his judgment in <ORG> in <ORG> v. <ORG> (1906) A.C. 448 at 452 : 5 T.C.215 at 219 said that it is impossible to frame any formula which shall describe what is a loss connected with or arising out of a trade...but it seems to me that a penal liability of this kind cannot be regarded as a loss connected with or arising out of a trade.
+Precedent	I think that a loss connected with or arising out of a trade must, at any rate, amount to something in the nature of a loss which is contemplable, and in the nature of a commercial loss.
+Precedent	I do not intend that to be an exhaustive definition, but I do not think it is possible to say that when a fine, which is what it comes to has been inflicted upon a trading body, it can be said that, that is 'a loss connected with or arising out of' the trade....  26.
+Precedent	In <NAME> case(1920) 12 T.C.
+Precedent	232, Lor <NAME>, <NAME>, pointed out at page 235 of the report:  Now...such proceedings as those are not technically criminal proceedings.
+RatioOfTheDecision	I do not think that matters.
+RatioOfTheDecision	They certainly are proceedings in which a penalty is being sued for by the Attorney General as representing the Crown, for an infraction of the law, whether technically criminal for the purpose of appeal, seems to me to be immaterial.
+RatioOfTheDecision	The money which is paid is money paid as a penalty, and it does not matter in the least that the Attorney-General has elected to take treble the value of the goods, nor does it matter that it may be called in the information a forfeiture.
+RatioOfTheDecision	It is in fact, under the section, a penalty.
+RatioOfTheDecision	At page 237 the learned Master of the Rolls pointed out that no moral obliquity attached itself to the conduct of the assessee who had to pay a penalty, but he observed that that made no difference.
+RatioOfTheDecision	At page 238 the learned Master of the Rolls-observed:  Now what is the position here ?
+RatioOfTheDecision	This business could perfectly well be carried on without  any infraction of the law at all.
+RatioOfTheDecision	This penalty was imposed because of an infraction of the law and that does not seem to me to be, any more than the expense which had to be paid in the case of <NAME> v. <NAME> L.R.
+Precedent	(1906) A.C. 448 at 452 : 5 T.C.215 at 219, appeared to Lord <NAME> to be, a disbursement or expense which was laid out or expended for the purpose of such trade,...nor does it seem to me, though this is rather more questionable,to be a sum paid, on account of a loss connected with or arising out of such trade....  <NAME>, L.J., observed at page 241:  Now it cannot be said that the disbursement in the present case is made in any way for the purpose of the trade or for the purpose of earning the profits of the trade.
+Precedent	The disbursement is made, as I have already said--and the same remark applies to this rule as to the other because the individual who is conducting the trade has, not from any moral obliquity, but has unfortunately, been guilty of an infraction of the law.
+Precedent	<NAME>, L.J., was of  the view, that the payment of the penalty in that case was an unfortunate incident that followed after the assessee, <NAME>, had earned his profits.
+Precedent	27.
+Precedent	The principles laid down in <NAME>' case(1919) 12 T.C.
+Precedent	277, and <NAME> case(1920) 12 T.C.
+Precedent	232, were applied in <NAME> v. <ORG> T.C.
+Precedent	202: The law infraction of which was alleged in that case, was the law of the United States.
+Precedent	The assessee was assessed to tax under the English law.
+Precedent	After referring to the dictum of Lord <NAME> in <NAME>'s case(1920) 12 T.C.
+Precedent	232, that whether the proceedings in which the penalty was incurred were criminal proceedings or not did not matter, <ORG>, observed:  I can see no distinction in law as to whether the proceedings were proceedings to recover sums of money of this sort pursued in an American Court or in an English Court.
+Precedent	Dealing with the contention, that <ORG> and <ORG>, paid the money in question to ensure continuity of supplies from America, <ORG>,  observed at page 211:  But when one is asked to say that the 16,000 dollars were wholly and exclusively expended in order to get the supplies, so to do would be to shut one's eyes, as I think, to the plain facts.
+Precedent	There is no evidence that it was paid, "wholly and exclusively" for that purpose.
+Precedent	It was one of the reasons--it was paid but it manifestly was not the only reason.
+Precedent	One of the reasons was to get as cheaply as possible a settlement with the American authorities, paying something by way of compromise--agreeing with one's adversary while one is in a way with him.
+Precedent	That is really what happene'd here.
+Precedent	The learned Judge held that the payment was not an admissible deduction.
+Precedent	28.
+Precedent	Though the claim for deduction was upheld in <CITATION_934530> , it was on the application of the principle laid down by Lord <NAME>, L.G., in <NAME> v. <NAME>.
+Precedent	At page 563 <NAME>, G.J., observed:  Now, applying these two tests to the facts of the case, in my opinion, both the tests are satisfied because the loss is incidenta l to the trade because it was in the course of its business of selling stationery that the directors were charged with having contravened the law and also in its capacity as a trader that the company was called upon to defend its directors and the salesman Earlier the learned Chief Justice pointed out that the expenses for the litigation were not incurred by the persons charged with the offences themselves, but they were incurred by the company in order to save those persons from the consequences of the prosecution.
+Precedent	We have referred to this case only to show that the principles laid down in <NAME> v. <NAME>, were not departed from in deciding whether the deduction claimed by the assessee, <ORG>, under Section 10(2)(xv) was permissible.
+Precedent	29.
+Precedent	The learned Counsel for the assessee referred to <CITATION_1596662> (1939) 7 I.T.R.
+Precedent	269, and <CITATION_1786436> (1948) 16 I.T.R.
+Precedent	412; in support of his contention, that the illegality of a transaction was not really relevant.
+Precedent	In both these cases the question at  issue was whether the income derived from a partnership, the constitution of which was illegal, was assessable to tax.
+Precedent	These decisions leave untouched the principle which we referred to earlier, that a payment by way of penalty for an infraction of law will not come within the scope of Section 10(2)(xv) , which requires that the expenditure should have been incurred wholly and exclusively for the assessee's business.
+Precedent	30.
+Precedent	The next class of cases to which we shall refer, decided again on an application of the principles laid down in <NAME> v. WoodifieldL.R.
+Precedent	(1906) A.C. 448, dealt with payments by way of damages or compensation.
+Precedent	In Income-tax Appellate Tribunal, Bombay v. <ORG>) 14 I.T.R.
+Precedent	206, after considering the scope of the principles laid down in <NAME>' case (1919) 12 T.C.
+Precedent	227, and <NAME> case(1920) 12 T.C.
+Precedent	232, and in <NAME> v. WoodifieldL.R.
+Precedent	(1906) A.C. 448, the learned Judges applied the principle laid down by <ORG> is <CITATION_1440235> (1940) 8 I.T.R.
+Precedent	(Supp.)
+Precedent	41 , and observed at page 215:  The assessee <NAME> was not convicted for infringement of the trade mark.
+Precedent	The suit against him was not decided on merits.
+Precedent	An appeal was filed against an interlocutory order in a pending suit.
+Precedent	The compromise of the claim did not amount to an admission that he had committed an infringement of the trade mark.
+Precedent	Instead of carrying on an expensive and uncertain litigation he considered it more prudent to compromise the claim in order to minimise his losses or to save him from the the payment of damages in case the suit was ultimately decided against him.
+Precedent	The amount of Rs.
+Precedent	2,000 which he paid was not on account of a penalty for infringement of the trade mark but was solely on account of costs incurred by the plaintiff in the suit....In the carrying on of his business he was involved in a litigation and he was bound to defend the case and conduct it in a prudent manner which would be for his benefit and would minimise his losses.
+Precedent	The expenditure was laid out or expended  wholly and exclusively for the purpose of such business.
+Precedent	We fail to see how this decision, where the facts as found were totally different from those we have to consider in this case, helps the assessee.
+Precedent	31.
+Precedent	<CITATION_1440235> (1940) 8 I.T.R.
+Precedent	(Supp.)
+Argument	41, the company paid £7,500 in settlement of a claim for damages for defamation.
+Argument	That payment was under a compromise entered into between the assessee company and Mr. <NAME>.
+Argument	The claim of the asses-see company, that the payment constituted a permissible deduction,was upheld by <ORG>, affirming the decision of <NAME>, J.
+Precedent	At page 53, <NAME>, M.R., pointed out:  ...there is no evidence upon which the Commissioners could find that the object of <ORG> in entering into the compromise was anything except to obtain payment of as much of the balance of the account as they could persuade Mr. <NAME> to agree to, and that account being, as I have said, a trading account,it seems to me that the compromise was a compromise effected for the purpose  of the company's trade and for the purpose of enabling them to recover the payment of a trading debt owing to them from a customer, which would come into computation in their trading account.
+Precedent	On that basis, payments made as a condition of obtaining that compromise which secured that payment to them would have been payments wholly and exclusively laid out or expended for the purposes of the Appellant company's trade The other basis on which the claim for the deduction was upheld was, that it was a payment to get rid of a trading relation that was disadvantageous (see the observations of <NAME>, M.R., at page 55).
+Precedent	The test to apply was the same.
+Precedent	Only in the case of <CITATION_1440235> (1940) 8 I.T.R.
+Precedent	(Supp.)
+Precedent	41, the finding was that that test was satisfied.
+Precedent	32.
+Precedent	The decision in <ORG> v. <ORG> C.L.R.
+Precedent	113 was the one on which the learned Counsel for the assessee relied to a considerable extent.
+Precedent	In that case the appellant assessee, which was the proprietor and p ublisher of an evening newspaper, claimed to deduct from its assessable income moneys paid by way of compensation, either before or after judgment, for damages in respect of defamatory matter published in that paper, and amounts incurred by way of costs in contesting the claims of persons defamed and in obtaining advice in regard thereto.
+Precedent	The <ORG> by a majority held that the monies so disbursed were wholly and exclusively laid out or expended for the production of assessable income.
+Precedent	That decision of the majority was based on the application of the tests laid down in <NAME> v. <ORG>1906) A.C. 448.
+Precedent	<NAME>, C.J., and <NAME>, J., pointed out that the distinction between the case before them and <NAME> v. <ORG>1906) A.C. 448, lay in the degree of connection between the trade or business carried on and the cause of the liability for damages.
+Precedent	At page 119 the learned Judges pointed out:  When it appears that the inclusion in the newspaper of matter alleged by claimants to be defamatory is  a regular and almost unavoidable incident of publishing it, so that the claims directly flow from acts done for no other purpose than earning revenue, acts forming the essence of the business no valid reason remains for denying that the money was wholly and exclusively expended for the production of assessable income Earlier at page 118 the learned Judges observed:  None of the libels or supposed libels was published with any other object in view than the sale of the newspaper.
+Precedent	The liability to damages was incurred or the claim was encountered, because of the very act of publishing the newspaper.
+Precedent	The thing which produced the assessable income was the thing which exposed the tax-payer to the liability or claim discharged by the expenditure.
+Precedent	<NAME>, J., put it thus:  As publication is the common source of income and liability, the necessary connection between the carrying on of the business of newspaper and the liability which causes the expenditure is complete.
+Precedent	The claim of the assessee before us is on a total ly different footing, as we shall presently show.
+Precedent	33.
+Precedent	Equally storng reliance was placed by the learned Counsel for the respondent on <CITATION_1723322> (1943) 11 I.T.R.
+Precedent	454 : (1943) 2 M.L.J.
+Precedent	274.
+Precedent	In that case the assessee firm, which was carrying on business in crackers, entered into a contract with other proprietors in the same line of business, under which the assessee's goods were to be sold at certain specified rates, but in breach of this contract the assessee sold crackers at lower rates.
+Argument	In a suit for <NAME>es for breach of contract instituted by the other parties a decree was passed against the assessee for Rs.
+Argument	5,000 and costs.
+Argument	The assessee claimed the amount paid by the assessee under the decree as lawful deduction.
+Precedent	That claim was negatives.
+Precedent	After referring to the principles laid down in <NAME>' case(1912) 12 T.C.
+Precedent	277 and <NAME> case(1910) 12 T.C.
+Precedent	232, the learned Chief Justice observed at page 462:  In the present case, the assessee was not fined for a breach of law, but was made to pay <NAME> es for a breach of the contract entered into.
+Precedent	The assessee's action in disregarding the undertaking given was palpably dishonest and we are of the opinion that the award of damages which followed did not constitute an expenditure falling within Section 10(2)(xv) .
+Precedent	It was not incidental to the trade.
+Precedent	The learned Chief Justice further observed:  This is not a case of conducting a business in a negligent manner; it is a case of conducting a business in a dishonest manner.
+Precedent	34.
+Precedent	In <NAME> v. Commissioner of Income-tax, Madras(1955) 28 I.T.R.
+Precedent	235 : (1955) 2 M.L.J.579, we had occasion to refer to the decision in <CITATION_1723322> (1943) 2 M.L.J.
+Precedent	274 : 11 I.T.R.
+Precedent	454, when the correctness of that decision was not challenged.
+Precedent	The learned Counsel for the assessee invited us to differ from the principles laid down in <NAME>'s case(1943) 2 M.L.J.
+Precedent	274 : 11 I.T.R.
+Precedent	454.
+Precedent	It may not be necessary to examine in this case the full implications of the decision in <NAME>'s case(1943) 2 M.L.J.
+Precedent	274 : 11 I.T.R.
+Precedent	454, or the corre ctness of the extension of the principles of the English decisions which it might involve.
+Precedent	In any event we do not understand the learned Chief Justice to have laid down that, where a wilful breach of con tract has been established, that is sufficient proof of dishonesty which would disentitle the assessee from preferring any claim under Section 10(2)(xv) of the Act for damages paid for breach of contract.
+Precedent	As we shall presently show, it is not necessary to rest our decision in this case merely on the basis, that the conduct of the assessee before us, when he committed the breach of the contract, was palpably dishonest."
+Precedent	35.
+Precedent	In <ORG> v. <ORG>) 33 T.C.
+Precedent	91 <NAME>, J., in dealing with the contention, that the £25,000 paid as damages by the company was for fraud and deceit on its part or was akin to such damages, observed, at page 93:  If it is fraudulent and deceitful then the penalty it pays by way of damages cannot be deducted as a trading exp ense any more than could the penalty in <ORG> v. <ORG>) 12 T.C.
+Precedent	232.
+Precedent	Possibly it was only the argument that was set out, because the learned Judge observed next:  For the respondent company it was argued that even were the £25,000 damages, or akin to damages, for fraud and deceit, it would still be entitled to deduct that sum in computing its taxable profits, but as this question, in my view, does not arise I say nothing about it.
+Precedent	The last of the cases we have to refer Tto on the question of damages is <NAME> v. Hall(1947) 28 T.C.
+Precedent	200.
+Precedent	In that case, the assessee <NAME> had to pay £3,575, damages and costs, in an action for malicious libel.
+Precedent	After referring to the principle laid down in <NAME> v. WoodifieldL.R (1906) A.C. 448, Macnaghten, J., observed at page 205:  In the present case the loss which the Appellant has sustained, £550, damages, and £3,025, costs is in one sense a loss connected with his trade.
+Argument	Apart from his desire to injure Mr. <NAME>, th e Appellant also desired to increase his own profits.
+Argument	He had that motive.
+Argument	He could only have increased his profits if he succeeded in giving an advantage to his own clients in Cuba or a disadvantage to the rivals of his clients.
+RatioOfTheDecision	It is a case that falls, it seems to me, exactly within the words of Lord <NAME>, who said that the losses " cannot be deducted if they are mainly incidental to some other vocation, or fall on the trader in some character other than that of a trader."
+RatioOfTheDecision	The loss fell upon the Appellant in this case in the character of calumniator of a rival sugar broker.
+RatioOfTheDecision	It was only remotely connected with his trade as a sugar broker As we said, these cases were all virtually decided on the application of the test laid down in <NAME> v. <NAME> (1906) A.C. 448.
+RatioOfTheDecision	It is not enough if the loss sustained or expenditure incurred is in some sense connected with the trade, for it may be only remotely ccnneeded with the trade or it may be connected with something else quite as much or even more than with  the trade.
+RatioOfTheDecision	Only such losses can be deducted as are connected in the sense that they are really incidental, to the trade itself.
+RatioOfTheDecision	It is not enough that the disbursement is made in the course of, or arises out of or is connected with the trade or is made out of the profits of the trade.
+RatioOfTheDecision	It must be made for the purposes of earning the profits.
+RatioOfTheDecision	36.
+RatioOfTheDecision	Before we discuss whether these tests have been satisfied by the assessee, we have to verify, what the nature of the payment was.
+RatioOfTheDecision	No doubt the assessee firm paid the amount of Rs.
+RatioOfTheDecision	1,19,177 in discharge of the contractual obligation it had entered into with <ORG> to pay an ascertained sum as liquidated damages for breach of contract.
+RatioOfTheDecision	The contractual obligation, the performance of which the asessee defaulted, was to export the coffee which had been sold to it at a concessional price only because it was earmarked for export abroad.
+RatioOfTheDecision	The other contracting party, <ORG>, was a statutory body created by the Coffee Market Expansion Act (VII of  1942).
+RatioOfTheDecision	The control <ORG> exercised over the sales of coffee, whether for ultimate export out of India or for sales within India, had a statutory basis.
+RatioOfTheDecision	It is true the Act itself did not in express terms prohibit sale within India of coffee sold by the <ORG> for export.
+RatioOfTheDecision	That what was broken by the assessee was a term of the contract and not an express provision of law does not, in the circum-stances of this case, make any real difference to the principle to be applied.
+RatioOfTheDecision	It was in exercise of the statutory duties imposed on the <ORG> to regulate and control sales of coffee produced in India, in the interests of the national economy of the country, that the <ORG>, through the instrumentality of a contract, virtually laid an embargo on sale within India of coffee that had been sold at a concessional rate for the specified purpose of export.
+RatioOfTheDecision	It was that that the assessee transgressed, when it deliberately and without any apparent excuse, sold the coffee within India.
+RatioOfTheDecision	What it had to pay was no doubt  called liquidated damages.
+RatioOfTheDecision	But the payment was really akin to a penalty for committing an act opposed to public policy, a policy that underlay the Act, which the Act left to <ORG> to enforce.
+RatioOfTheDecision	The assessee could and should have carried on its business in coffee in conformity with the obligations imposed upon it, no doubt, by a contract, but under the authority of the Coffee Market Expansion Act and in furtherance of the policy of control that underlay that Act.
+RatioOfTheDecision	It could have carried on the bsusiness without infraction of its obligations.
+RatioOfTheDecision	That should have been its normal course of conducting its business.
+RatioOfTheDecision	37.
+RatioOfTheDecision	Could it be claimed by the assessee, in the circumstances of this case, that what it did by selling the coffee with in India was incidental to the trade itself that if carried on ?
+RatioOfTheDecision	Its business was among other things to buy and sell coffee.
+RatioOfTheDecision	Puchases and sales of coffee were regulated by the Act and by <ORG> under the provisions of that Act.
+RatioOfTheDecision	It was subject to that statuto ry control that the assessee had to carry on its business.
+RatioOfTheDecision	Transgression of that control was not a normal incident of that business, though it was in one sense connected with its business.
+RatioOfTheDecision	If it had not been a dealer in coffee, it could not have been in a position to buy coffee for export; and if it had bought coffee for export, it would not have been in a position to sell that coffee within India.
+RatioOfTheDecision	But that connection is not enough to sustain the claim, that what the assessee had to pay <ORG> was inextricably mixed up with its normal line of business.
+RatioOfTheDecision	The breach of its contractual,obligation to the <ORG> was not in the normal course of business, and the liability the assessee had to discharge for such a breach was not incidental to the trade itself that it carried on.
+RatioOfTheDecision	38.
+RatioOfTheDecision	From what we have said above it should be clear that it was not a case of a payment of damages for a mere breach of contract with nothing more.
+RatioOfTheDecision	It was not of course a case of penalty paid under the terms of a statute for co ntravention of any specific statutory provision.
+RatioOfTheDecision	In the circumstances of this case the liquidated damages, claimed and paid was, however, more akin to a penalty than the damages suffered for breach of contract in the course of normal trading activities, whether or not that breach of contract was also dishonest.
+Precedent	That is why we said that it may not be necessary to rest our decision in this case on the rule laid down in <NAME>'s case(1943) a M.L.J.
+Precedent	274 : 11 I.T.R.
+Precedent	454.
+Precedent	In out opinion it is the principle laid down in <NAME> case(1920) 12 T.C.
+RatioOfTheDecision	232, that should be extended and applied to negative the claim of the assessee in this case.
+RatioOfTheDecision	To adapt the words of <NAME>, M.R., in <NAME> case(1920) 12 T.C.
+RatioOfTheDecision	232, the assessee's business could perfectly well be carried, on without any infraction of the obligations laid on the assessee by <ORG>, entrusted with the statutory duty of controlling and regulating sales of coffee.
+RatioOfTheDecision	A penalty was imposed because of an infraction of these obligations, and t he money was not expended or laid out for purposes of the trade which the assessee carried on.
+RatioOfTheDecision	Or in the words of <NAME>, L.J.
+RatioOfTheDecision	Were these fines made or paid for the purpose of earning the profits ?
+RatioOfTheDecision	The answer seems to me to be obvious that they were not, they were unfortunate and in this case we would add, justly deserved incidents which followed after the profits had been earned.
+RatioOfTheDecision	39.
+Fact	The learned Counsel for the assessee relied on <CITATION_1133511> (1950) 2 M.L.J.
+Fact	33 : 18 I.T.R.
+Fact	357, in support of his contention, that the sum of Rs.
+Fact	1,19,177 paid in 1945-46 as damages should really be viewed as addition to the price that the assessee had to pay for the coffee it had purchased and sold in 1942-43.
+Precedent	We are unable to see any real basis on the facts proved in this case to apply the principle laid down in <CITATION_1133511> (1950) 2 M.L.J.
+Precedent	33 : 18 I.T.R.
+Precedent	357.
+Precedent	It could not be the case of the asses-see that it purchased the coffee for sale in India, with a pre-existing contractual obligation to pay a higher pric e, to be quantified on ascertainment at a later stage.
+Precedent	It should be remembered that it was in breach of its contractual obligations that the assessee sold the coffee in India.
+Precedent	40.
+RatioOfTheDecision	The <ORG>, in our opinion, was right in rejecting the claim of the assessee.
+RatioOfTheDecision	The requirements of Section 10(2)(xv) were not satisfied.
+Precedent	The payment was not even really incidental to the trade itself, as that principle was explained by <ORG>, in <NAME> v. WoodifieldL.R.
+Precedent	(1906) A.C. 448.
+Precedent	41.
+RulingByPresentCourt	We answer the question referred to us in the negative and against the assessee.
+RulingByPresentCourt	Since the assessee has failed, the assessee will pay the costs of this reference.
+RulingByPresentCourt	Counsel's fee Rs.
+RulingByPresentCourt	250.

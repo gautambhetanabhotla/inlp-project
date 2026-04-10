@@ -1,0 +1,9 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+RulingByLowerCourt	In my opinion the decree-holder was bound strictly by the terms of the decree.
+RulingByLowerCourt	When the first default occurred, under the wording of the decree, he was bound to execute it in one lump.
+RulingByLowerCourt	The instalment arrangement then ceased.
+RulingByLowerCourt	If the decree-holder chose to continue to receive instalments, he did so at his own risk.
+RulingByLowerCourt	When the acknowledgment of the balance due was made, it seems to me that the decree was already dead, and could no longer be executed.
+RatioOfTheDecision	Though the cases cited <NAME> v. <NAME> 13 W.R. F.B.44; and <CITATION_165931547> 24 W.R. 282 may not be strictly in point, the principle upon which they proceed applies to this case.
+RulingByPresentCourt	I would decree the appeal and reverse the order of the <ORG> below with costs.

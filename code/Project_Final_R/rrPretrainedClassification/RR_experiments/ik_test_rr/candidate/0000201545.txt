@@ -1,0 +1,170 @@
+Fact	JUDGMENT  1.
+Fact	This is a plaintiff's appeal arising out of a snit for sale brought on the basis of a mortgage deed, dated the 21st of February 1893, purporting to hare been executed by two persons, <NAME> and his mother, <NAME>, in favour of the plaintiff-appellant, <NAME>, According to the document Rs.
+Fact	4,000 was the loan and it was secured on two classes of property.
+Fact	Firstly, pure Zemindari in Mauza Deoria and Chak Muhammad Panah, <NAME>, of the Allahabad District and 13 items of property which the mortgagors of held as mortgagees from other persons.
+Fact	Among these 13 items were two mortgages of property in Mauza Chintemanpar and Sidhaura.
+Fact	Oat of the sum of Rs.
+Fact	4,000, Rs.
+Fact	1,400 purported to have been paid in cash prior to the registration and Rs.
+Fact	2,600 purported to have been left with the creditor for payment of certain debts due from the mortgagors to other persons.
+Fact	They were as follows:  Rs.
+Fact	1,000 due to <NAME> on account of his decree.
+Fact	Rs.
+Fact	700 due to <NAME> of Utraon .
+Fact	Rs.
+Fact	400 due to <NAME> who held a mortgage of sir land in Mauza Deoria; and Rs.
+Fact	500 to <NAME>, Banker of the City of Allahabad,  2.
+Fact	According to the terms entered in the document the interest was to be Rs.
+Fact	1 per cent.
+Fact	per mensem and the executants stipulated to re-pay the loan in 12 years.
+Fact	They further stipulated that they would pay annually a sum of Rs.
+Fact	500 on account of principal and interest.
+Fact	The interest at Rs.
+Fact	12 per cent.
+Fact	per mensem for one year amounted to Rs.
+Fact	480, so that this sum allowed for the payment of the annual interest and a little over.
+Fact	They stipulated that the amount thus paid annually should be set off against the interest and the balance should be credited towards the principal.
+Fact	Further on in the document the mortgagors stipulated that if in any year they were unable to pay the interest, the interest might be treated as principal and would carry interest at the rate of Rs.
+Fact	1 per cent.
+Fact	per mensem.
+Fact	Further on in the deed they further stipulated that if there was any de fault in payment of the Rs.
+Fact	500 per annum, the mortgagee was to have power, without waiting for the expiry of the stipulated period, to set aside all the other stipulations embodied in the document and to bring a suit in Court to realise the entire principal together with interest and costs from the parsons of the mortgagors and from the hypotheacted property.
+Fact	<NAME> and <NAME> are both dead and the persons who are now sued are their heirs.
+Fact	They pleaded in defense that the deed had not been executed by <NAME> and <NAME>.
+Fact	They pleaded that no consideration had passed; and they lastly pleaded that the suit was barred by limitation.
+Fact	We may note here that it is an admitted fact that all the 13 items of mortgagee rights which were hypotheacted under the deed in suit have disappeared, that is, the original mortgagors have paid of the mortgages, but not to <NAME> or any of the present plaintiffs.
+Fact	The plaintiffs have not made the original mortgagors of these properties  parties to the present suit.
+RulingByLowerCourt	The <ORG> below has held that Rs.
+RulingByLowerCourt	3,000 out of the Rs.
+RulingByLowerCourt	4.000 entered in the deed as consideration was actually paid.
+RulingByLowerCourt	It has further held that the deed was duly executed by <NAME> and <NAME>.
+RulingByLowerCourt	It has held that the suit is barred by limitation.
+Argument	3.
+Argument	The plaintiffs in their appeal urge:  That the Rs.
+Argument	1,000 of consideration which the <ORG> below has disallowed has been established.
+Argument	They further plead that the suit is not barred by limitation.
+Argument	4.
+Argument	So far as the Rs.
+Argument	1,000 of the consideration is concerned, the appeal has not been particularly strongly pressed.
+Argument	The learned <NAME> for the appellants states that his clients will be quite satisfied if they can get a decree for Rs.
+Argument	3,000 principal together with interest thereon by sale of the hypotheacted property.
+RatioOfTheDecision	With regard to this item, therefore, we need not say mush, except that we agree with the <ORG> below, that the appellants have failed to establish the payment of this item.
+RatioOfTheDecision	It was a sum which they had to pay  to the decree holder, <NAME>.
+RatioOfTheDecision	Excepting the bare statement of the plaintiff <NAME> there is practically no evidence.
+RatioOfTheDecision	No receipt has been produced, and the best evidence which was obtainable from the records of <ORG> has not been put forward.
+RatioOfTheDecision	We, therefore, agree with the Court below that the plaintiffs have failed to establish the payment of this Rs.
+RatioOfTheDecision	1,000.
+Argument	5.
+Fact	We next come to the question of limitation.
+Fact	This may be divided into two heads.
+Fact	First of all it is pleaded that the plaintiffs had a period of 24 years within which to bring their suit on the basis of the bond.
+Fact	Next it is pleaded that even if they had not this lengthy period, still the plaintiffs have adduced evidence and have established the payment of some 10 sums of money on various dates on account of interest due under the deed and that these payments of interest have given the plaintiffs further time and the suit is, therefore, within 12 years of the last payment.
+Fact	The first portion of the plea is based upon the terms of the deed.
+RatioOfTheDecision	T he document is dated the 21st of February 1893.
+RatioOfTheDecision	The period fixed for payment was 12 years, which would bring the time up to the 21st of February 1905, The suit 19 within 12 years of this date, it having been filed on the 21st of February 1917, that is, on the very last day of limitation.
+Precedent	The <ORG> below, however, has held, relying on the Fall Bench decision of this <ORG> in <CITATION_1114727> 28 Ind.
+Precedent	Cas.
+Precedent	910 : 37 A.
+Precedent	400 : 13 A.L.J.
+Precedent	510, that the suit ought to have been brought within 12 years of the 21st of February 1894,.
+Precedent	It is an admitted fast that the sum of Rs.
+Fact	500 which the mortgagors stipulated to pay annually was not paid at any time.
+Fact	The first sum of Rs.
+Fact	500 was due on the 21st of February 1894.
+Fact	Admittedly it was not paid.
+Fact	Even the entries of the alleged payments on the back of the document do not begin before the 15th of December 1899.
+Fact	According to the terms of the deed the mortgagee was entitled to sue on the 21st of February 1894 by reason of the default.
+RulingByLowerCourt	Article 132 of the Limitation Act clearly  applies to the suit and that Article fixes a period of 12 years from the date on which the money became due.
+RulingByLowerCourt	The lower <ORG> has also held that excepting the one alleged payment of the 15th of December 1899, none of the other alleged payments of interest have been proved.
+RulingByLowerCourt	It has, therefore, held that the suit is out of time.
+Precedent	It is urged before us practically that we should not apply the ruling in <CITATION_1114727> 28 Ind.
+Precedent	Cas.
+Precedent	910 : 37 A.
+Precedent	400 : 13 A.L.J.
+Precedent	510, because in the case of certain other suits to which Article 132 does "not" apply, this <ORG> has in certain instances tome to a decision which in principle may clash with the principle laid down in the <ORG> ruling.
+RatioOfTheDecision	We do not think that this is a good argument.
+Fact	The first question is, whether the circumstances of the two cases, that is of the reported case and the case before us, are identical or not, and whether the <ORG> ruling does as a matter of fact apply to the suit before us.
+Fact	We have compared the two cases and find it impossible to disti nguish between them.
+Fact	In the present suit no option whatsoever was given to the mortgagee in the matter.
+Fact	The stipulation laid down (and the mortgagors agreed) that if they failed to pay the annual sum of Rs.
+RatioOfTheDecision	500, the mortgagee had a right to sue.
+RatioOfTheDecision	On the face of this document now in suit the mortgage money became due on the 21st of February 1894 and time began to run.
+RatioOfTheDecision	That time, in the absence of any payments on account of interest, came to an end at the end of 12 years and the present suit was brought, as we have already pointed out, at the end exactly of 24 years from the emotion of the document.
+RatioOfTheDecision	It is true that <ORG> has, in a recent case, differed from the decision of this <ORG> In doing so, it has had to go contrary to one of its own farmer decisions, whereas <ORG> has consistently followed the opinion of this <ORG>, or rather the decision in <ORG> is based partly on the decisions of the Calcutta High <ORG>, and we see no reason whatsoever not to follow the decis ion of this Court, which up to the present moment has not been upset and with which we agree.
+Fact	Unless, therefore, the plaintiffs are able to satisfy us that the alleged payments of interest entered on the back of the document were made, their suit is clearly barred by limitation, In regard to these payments, they are ten in number the earliest payments purport to have been endorsed on the deed in December 1899, <NAME> 1901 February 1902 and January 1903 The four sums mentioned in these four entries purport to have been paid by <NAME> and the entries on the deed to have been made by <NAME>.
+Fact	The next two entries are of January 1904 and December 1904 and purport to cover two sums of Rs.
+Fact	700 and Rs.
+Fact	300 sent by <NAME> through <NAME> one of her servants.
+Fact	The entries which are made in the Urdu character purport to have been made by <NAME>.
+Fact	The 7th item is dated the 10th of April 1906 and purports to relate to a sum of Rs.
+Fact	900 paid on that date by <NAME> herself.
+Fact	The ent ry purports to have been made by <NAME>.
+Fact	The 8th and 9th items of Rs.
+Fact	1,000 each dating in 1910 and 1911 also purport to have been paid by <NAME> herself and both the entries are in the handwriting of or purport to be in the handwriting of <NAME>.
+Argument	6.
+Fact	The last item of 11th August 1912 is a sum of Rs.
+Fact	1,000 and the entry purports to have been made by one <NAME> a servant of the plaintiffs.
+Fact	The <ORG> below has pointed to the fact that the evidence of these payments consists only of the statements of <NAME> and <NAME>.
+Fact	It has in the circumstances of the case reinsert to accept their evidence as sufficient proof.
+Fact	The lower <ORG> clearly hesitated to believe there two men.
+Fact	In regard to the payment of the 15th of December 1899 the <ORG>, however, has accepted their statements because of an entry in the deed, dated 16th of January 1900.
+Fact	That deed purports to be a sale-deed of a half share in this document as well as other documents by <NAME> in favour of <NAME>.
+Fact	There had been a  partition apparently in the plaintiffs' family and their rights under certain deeds were distributed among them, and then there were transfers from one to the other of their shares.
+Fact	In this sale-deed there is an entry of the deed now in suit showing the value of the bond itself on the 31st of December 1899.
+Fact	According to the calculation made therein the interest shown as then due was really less than the full amount calculated according to the bond; therefore, it was pleaded on behalf of the plaintiffs that this shows that there must have been some payment of interest prior to the 31st of December 1899 and they point to the entry dated 15th of December 1899, which shows a payment of Rs.
+Fact	353-8-0, and they say this, therefore, is corroborated by the entry in the sale-deed of the 16th of January 1910.
+RatioOfTheDecision	<ORG> has more or less made a present of this item to the plaintiffs.
+RatioOfTheDecision	We have been taken over the evidence of <NAME>, <NAME> and <NAME> and on a consideration of their evidence, we have come to  the conclusion that all these entries of payments on the back of the deed are highly suspicious and that not even the entry of the 15th of December 1899 has been established to our satisfaction The appellants are people who on the face of the record have done in the past a considerable amount of money lending.
+RatioOfTheDecision	Even their sale-deed of 16th January 1904 shows that.
+Fact	They have not produced in <ORG> any books of account whatsoever to show that any of these payments were made.
+Fact	They have stated in <ORG> that they kept no account books; that they every year prepared what they call a choubandi, which we presume consisted of papers stitched together and which they say they threw away and destroyed at the end of each year.
+Fact	Now the evidence shows that not only did they lend money but they also lent grain; they are described as Mahajans in <NAME>'s own deposition.
+Fact	He there gave his occupation as that of a Mahajan and Zemindar.
+Fact	<NAME> also described himself as a Mahajan.
+Fact	They are residents of Jhusi, which is a suburb  of the town of Allahabad.
+Fact	We find it impossible to believe that they maintained no account books at all.
+RatioOfTheDecision	Not a single receipt purports to have been given.
+RatioOfTheDecision	No signature of any of the alleged payers has been taken.
+RatioOfTheDecision	We are asked to accept the statements of <NAME> and <NAME> as being simply true, unsupported practically by any other evidence.
+RatioOfTheDecision	An examination of the back of the bond will show that the entries Nos.
+RatioOfTheDecision	1, 2, 3 and 4 are not in the position on that bond where one would naturally expect to find them.
+RatioOfTheDecision	Beneath the registration endorsement there was a certain amount of open space.
+RatioOfTheDecision	One would have thought that a person endorsing a payment on thin document would have naturally begun the first entry at the beginning of the open space, but we find that these four earlier payments are entered in cramped spaces in between the entries made by the Registration Officer and the stamp vendor on the back of the deed.
+RatioOfTheDecision	7.
+Fact	The next point which is worthy of notice is this: The plaintiffs would ask ns to believe that  on the 10th of April 1908, <NAME> herself paid the sum of Rs.
+Fact	900 and that she made three further payments of Rs.
+Fact	1,000 each on the 9th of November 1910, 20th of October 1911 and the 11th of August 1912.
+Fact	Now in 1906 on the plaintiffs' own showing the amount of their debt was Rs.
+Fact	14,647-2-0.
+Fact	The value of the property could not have been more than this amount.
+Fact	The amount of the debt continued to swell up to Rs.
+Fact	21,622 in 1910 when the <NAME> is said to have paid Rs.
+Fact	1,000 more; In 1911 it had swollen to Rs.
+Fact	23,094 when another sum of Rs.
+Fact	1,000 is said to have been paid, and in 1912 it had swollen to Rs.
+Fact	24,745 when in August of that year another Rs.
+Fact	1,000 is said to have been paid.
+Fact	The income of this property is said to be Rs.
+Fact	500 to Rs.
+Fact	600 per annum.
+Fact	The amount of the debt in 1910,1911 and 1912 was considerably more than the value of the property.
+Fact	It is difficult to believe that any mortgagor would in these circumstances have thrown Rs.
+Fact	1,000 into the pocket of the plaintiffs without any ob ject what soever.
+RatioOfTheDecision	It made no appreciable reduction in the amount of the debt.
+RatioOfTheDecision	The latter was far greater than the value of the property, and it would have been a hopeless payment which no sane person would have made.
+RatioOfTheDecision	But there is another fast which goes to show that no such payment would, however, have been made by <NAME>.
+Fact	On the 24th of May 1906, that is, a month and fourteen days after the alleged payment of Rs.
+Argument	900 of the 10th of April 1906, the mortgagor of two portions of the mortgaged property, that is, the shared of Mauza Chintamanpur and Sidhaura, filed an application under Section 83 of the transfer of Property Act to which he made both Sadar-un-nissa and <NAME> parties.
+Argument	He tendered the money due under his mortgage and made <NAME> a party because, as he alleged, he had discovered the existence of the document of 21st of February 1893, under which the mortgagee purported to have sub-mortgaged her rights, and he had questioned <NAME> who had denied the mortgage of th e 21st of February 1893, and, therefore, to protect himself he made both <NAME> and <NAME> parties to his application and paid the money into <ORG>.
+Argument	Notice in that case was issued to <NAME>.
+Argument	It was not served upon him personally but was attached to the door of his house.
+Argument	On the 22nd of November 1906 Musammat <NAME> filed a reply in that proceeding, in which she also stated that she had denied the execution and completion of the deed of the 21st of February 1893 and she claimed the money deposited by the mortgagor, <NAME>, as belonging to herself.
+Argument	Apparently <NAME> took no farther steps in the matter and the money was withdrawn from <ORG> by Musammat <NAME>.
+Argument	It in, therefore, clear that so early as the beginning of the 10th of April 1905 <NAME> had publicly denied execution of the deed now in suit.
+RatioOfTheDecision	We have pointed out above that the mortgage debt in that year was practically equal to the value of the property, if not greater and that in subsequent years it continu ed to increase till the payment of the debt was a hopeless one.
+RatioOfTheDecision	We have also the admitted fact that all the mortgagee rights that were hypothecated to the present plaintiffs have been redeemed and the plaintiffs have not deemed it worth their while to make these mortgagors parties to the present suit.
+RatioOfTheDecision	In these circumstances, we think that it would be dangerous in the extreme to place any reliance whatsoever on the evidence of <NAME>, <NAME> or any of the plaintiffs' witnesses.
+RatioOfTheDecision	We cannot and we do not believe that any of the payments endorsed on the document were ever made.
+RatioOfTheDecision	They certainly have not been established to our satisfaction.
+RulingByPresentCourt	In any view, it is clear that the suit was barred by limitation and was properly dismissed by the Court below.
+RulingByPresentCourt	The appeal fails and we dismiss it with costs, including fees on the higher scale.

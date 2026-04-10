@@ -1,0 +1,55 @@
+Fact	<NAME>, <NAME>1.
+Fact	This case is really the aftermath of a previous suit which ended in an abortive attempt at arbitration.
+Fact	The original action (O.S.
+Fact	No.
+Fact	59 of 1926, on the file of <NAME> of Ongole) was brought by presumptive reversioners for a declaration of their rights in properties in the possession of a widow and a minor.
+Fact	One of the questions arising in that suit was the genuineness of a will.
+Fact	The decision of that question apparently involved certain disclosures which are alleged to have been likely to embarrass the <NAME> of the village.
+Fact	As a result of this anticipated embarrassment, the village officers engineered a compromise.
+Fact	It is found as a fact by the lower <ORG> that there was a definite agreement as to the terms of this compromise, and that the parties decided that it would be best to have this compromise embodied in the award of an arbitrator on a reference by the <ORG>.
+Fact	Consequently, an application for reference to arbitration, which is Ex.
+Fact	A in the present proceedings, was  drafted and signed by both the parties and filed in <ORG>.
+Fact	Apparently both the parties and the learned District Munsif overlooked the, fact that according to the terms of Ex.
+Fact	A, questions of possession and pecuniary compensation, which were not in issue in the suit, were to be referred to the arbitrator.
+Fact	The <ORG> referred the suit and the arbitrator made the award.
+Fact	Objections were raised to the award on the grounds (a) that it was procured by fraud and (b) that it went outside the subject-matter of the suit.
+Fact	No decision was given on the fraud question, and the <ORG> decided that the award went beyond the scope of the suit and could not therefore form the basis of a decree.
+Fact	The suit, O.S.
+Fact	No.
+Fact	59 of 1926, was then decided on the merits and resulted in a decree and an appeal.
+Fact	While that suit was pending, the present suit was filed, wherein the plaintiff seeks possession of properties allotted to them by the decision of the arbitrator, or in the alternative a declaration that they have a reversionary right ther ein.
+RulingByLowerCourt	The suit is in fact based on the abortive reference to arbitration as evidence of an agreement between the parties capable of separate enforcement by suit.
+RulingByLowerCourt	2.
+Fact	There are two questions now before me in this second appeal.
+Fact	One is whether the plaintiffs are entitled to enforce as an extra judicial agreement between the parties, for allotment of properties by the arbitrator, what was in form and fact an agreement to refer matters through Court to an arbitrator with a view to the termination of the suit, which scheme has become abortive.
+Fact	The other question is whether there was fraud as alleged so as to vitiate the agreement.
+Fact	I will deal first with the purely legal question, as to the possibility of making an abortive reference to arbitration through Court the foundation of a separate suit as on a private agreement.
+Fact	The plaintiffs who are the appellants base their arguments mainly on the decision reported in <CITATION_1049371> 1926 Mad.
+Fact	366, where it was held that when there was a reference to arbitration thro ugh <ORG> and a separate agreement by the parties that the arbitrators should deal with matters not within the scope of the suit, though the award is invalid under para.
+Fact	15 read in the light of para.
+Fact	3, Schedule 2, Civil P.C., yet the agreement between the parties, that these matters outside the suit should be settled by the arbitrator is binding upon them and it may form the subject of a separate suit.
+Fact	With reverence to that ruling, it must be observed that in the present case there is really no-agreement subsequent to the agreement to refer matters to arbitration.
+Fact	The agreement embodied in Ex.
+RatioOfTheDecision	A is essentially an agreement by the party to get both the matter in suit and some matters out of suit decided by the arbitrator through the <ORG>, with a view to put an end to the pending litigation.
+RatioOfTheDecision	3.
+RatioOfTheDecision	I have heard the arguments of both sides at considerable length, and after careful consideration, I am definitely of opinion that this agreement does not provide for any settlement of matters by the arbitrator, apart  from the pending suit.
+RatioOfTheDecision	The essence of the agreement is that both the plaintiffs and the defendant were anxious to determine the litigation without further expense, and on that consideration, they agreed that the arbitrator on reference through <ORG> should decide the question of the rights of parties including the rights to possession and pecuniary compensation.
+RatioOfTheDecision	Apart from this reference through <ORG>, there was no agreement at all, and if the reference through <ORG> broke down, the prospect of putting an end to the litigation ceased, and the whole foundation of the agreement goes, and there is nothing loft which can be enforced, I take it that this is the line of thought which must have formed the basis for the decision in <CITATION_146082> 1921 Mad.
+Precedent	709, wherein <ORG> of this <ORG>, in a similar case found that an award under an invalid reference being itself invalid gives no rights either as an award or as a compromise.
+RatioOfTheDecision	4.
+RatioOfTheDecision	It has been argued that the authority of this case is taken by <ORG> sion, <NAME> v. <NAME> 1928 Mad.
+RatioOfTheDecision	1025, wherein it is held that Section 89, Civil P.C., is not a bar to a decree in terms of an award based on an extra judicial reference to arbitration being passed in a pending suit.
+RatioOfTheDecision	It is true that their Lordships consider <CITATION_146082> 1921 Mad.
+RatioOfTheDecision	709 and dissent from it so far as it relates to the applicability of a bar under Section 89 of the Civil Procedure Code to the recording of a compromise as a result of an extra judicial reference to arbitration, but there is no dissent from the decision in the previous paragraph of the judgment in <CITATION_146082> 1921 Mad.
+RatioOfTheDecision	709, to the effect that the award under an invalid reference being itself invalid, gives no rights either as an award or as a compromise.
+RatioOfTheDecision	It seems to me that the decision in <CITATION_146082> 1921 Mad.
+RatioOfTheDecision	709 must rest on the logical conclusion that though an agreement to compromise a suit may be enforced in separate proceedings, there can be no such agreement, for a private compromise when the who le tenor of the agreement in question contemplates an award through the intervention of the <ORG>.
+RatioOfTheDecision	The position is, of course, quite different) when, as in <CITATION_1049371> 1926 Mad.
+RatioOfTheDecision	366 referred to above, there is a separate private agreement for the decision of additional questions by the arbitrator.
+RatioOfTheDecision	In this view I must hold that the view taken by the <ORG>s below that the reference to arbitration was vitiated by illegality at its inception and that the award based solely on such an illegal reference cannot be enforced by a suit is correct.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It is unnecessary therefore to go into the further question of the correctness of the decision based on fraud, but I must observe that the finding of the lower <ORG> in the matter of fraud seems to be based on allegations quite different from those which we find in defendant 1's written statement.
+RatioOfTheDecision	The plea of defendant 1 expressly was that there was a conspiracy between the arbitrator and the village officers to pass an award different from that which the parties t hemselves had agreed upon at the time when this more or less formal application for reference to arbitration was made in Court.
+RatioOfTheDecision	The case of fraud as presented actually in the lower <ORG>, seems to have been a conspiracy by the plaintiffs to induce the defendants to sign a reference to arbitration with the idea of getting an award different from that which had been agreed upon.
+RatioOfTheDecision	The evidence before the lower Court seems to me to contain very little to justify m finding that the arbitrator himself had fraudulently conspired to give an unjust award, and I am of opinion that the <ORG> below should not have found fraud based on allegations different from those which were pleaded.
+RulingByPresentCourt	In the view however which I have taken on the first point the appeal fails and is dismissed with costs.

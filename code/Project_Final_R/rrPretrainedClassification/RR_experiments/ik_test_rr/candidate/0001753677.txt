@@ -1,0 +1,207 @@
+Fact	PETITIONER: <ORG>, <NAME> Vs. RESPONDENT: COLLECTOR OF CENTRAL EXCISE, <NAME> DATE OF JUDGMENT31/01/1989 BENCH: <NAME>, <NAME> (J) BENCH: <NAME>, <NAME> (J) RANGNATHAN, S. CITATION: 1989 AIR 1153 1989 SCR (1) 382 1989 SCC (1) 602 JT 1989 (1) 450 1989 SCALE (1)226 CITATOR INFO : R 1989 SC2066 (5) R 1990 SC 59 (4) R 1990 SC1676 (11) R 1990 SC1893 (4) RF 1991 SC 999 (7) ACT: Central Excises and Salt Act , 1944/Central Excise Rules, 1944: Sections 2(d) , 2(f) , 3 , 35-L and 35-P /Rules, 10-A 173-J.
+Fact	Excise duty--Excisable goods--Mere fact that an article falls within Tariff Schedule is not enough--Taxable event is 'manufacture of goods'--Which are marketable or capable of being marketed-Marketability is an essential element--Burden of proof on revenue that goods are marketable.
+Fact	Central Excise Tariff Act , 1985: Schedule Item 15-A(2)-Production of crude PVC films--Non-marketable--Intermediate products--Used for captive consumption in end products such as leather cloth--Laminated jute matt ings and PVC tapes--Whether clas- sifiable and liable to duty.
+Fact	Words and Phrases: 'Excisable goods'-'Manufacture'--Meaning of.
+Fact	HEADNOTE: The appellant is a manufacturer of Crude PVC films for the purpose of use in final products such as leather cloth and laminate jute mattings and PVC tapes both insulation and adhesive.
+Fact	The films manufactured by the appellant were subject matter of adjudication by the <ORG> authorities during the period commencing from 1st March, 1970 to 29th May, 1971.
+Fact	The Appellate Collector of Central <ORG> by an order dated 14.1.1974 held that the appellant had produced sufficient evidence to prove that the said Crude PVC films were not marketable and were therefore not liable to excise duty.
+Fact	On 20.11.1975 the appellant filed a classification list in respect of Crude PVC films used for lamination with jute and for tapes claiming that the said PVC films were non-excisable on the ground that the same were non-marketa- ble intermediate products used exclusively for captive consumption.
+Fact	On  9.12.1975 the classification list was ap- proved by the Assistant Collector, <ORG>.
+Fact	On 15.2.1977, however, the Assistant Collector issued a show 383 cause notice calling upon the appellant to show cause as to why the aforesaid films should not be re-classified as excisable under Item No.
+Fact	15A(2) of the <ORG> Tariff Schedule and appropriate duty not recovered under Rule 10 of the <ORG> Rules, as these then stood, read with Rule 173-J.
+Fact	By a corrigendum, dated 23.2.1977, to the said show cause notice Rule 10-A was substituted in place of Rule 10.
+RulingByLowerCourt	The appellant contested the notice but the Assistant Collector vide his order dated 16th February, 1978 confirmed the said show cause notice by holding that the said PVC films were classifiable under Item No.
+RulingByLowerCourt	15A(2) and directed the appellant to pay duty at the appropriate rate on past clearances under Rule 10-A read with Rule 173-J.
+RulingByLowerCourt	The appeal filed against the aforesaid order was reject- ed by the Appellate Collector of <ORG> on 10th  October, 1979.
+RulingByLowerCourt	A revision was preferred before <ORG>.
+RulingByLowerCourt	The <ORG> confirmed the order of the Appellate Collector and held that the goods in question fell under Tariff Item No.
+Fact	15A(2) and were dutiable in the intermediate list and the question of marketability or being capable of being sold in the market was not relevant, but modified the order to the extent that duty in respect of clearances prior to the issue of show cause notice was restricted to the period permissible in terms of Rule 10 read with Rule 173-J viz.
+Fact	12 months.
+Fact	In the statutory appeal to this Court under Section 35-L , of the Central Excises and Salt Act , 1944 the question for consideration was whether the Crude PVC film was dutiable under Item No.
+RulingByLowerCourt	15A(2).
+RulingByLowerCourt	Allowing the appeal, HELD: 1.
+RulingByLowerCourt	In view of the Appellate Collector's order holding that the Crude PVC films were not marketable goods and there being no contrary evidence found by the <ORG> subsequent to the finding by the Appellate Collect or no excise duty should be charged under Item No.
+RulingByLowerCourt	15A(2) of the Central Excise Tariff on the Crude PVC Sheets.
+Fact	The <ORG> went wrong in not applying the proper test.
+RatioOfTheDecision	The test of marketability or capable of being marketed was not applied by the <ORG>.
+RatioOfTheDecision	[395D-E] 2.
+RatioOfTheDecision	Under the Central Excise Act , as it stood at the relevant time, in order to be goods as specified in the entry the first condition was that as a result of manufac- ture goods must come into existence.
+RatioOfTheDecision	For articles to be goods these must be known in the market as such or these 384 must be capable of being sold in the market as goods.
+RatioOfTheDecision	Actual sale in the market is not necessary, user in the captive consumption is not determinative but articles must be capa- ble of being sold in the market or known in the market as goods.
+RatioOfTheDecision	Taxable event in the case of duties of excise is the manufacture of goods and the duty is not directly on the goods but on the manufacture thereof.
+RatioOfTheDecision	The manufacturer could not be taxed unless manufacturing process resulted in pro-  duction 'of goods as known in the market'.
+RatioOfTheDecision	The expression "goods manufactured or produced" must refer to goods which are capable of being sold to the consumer.
+Precedent	[389B-C; 391F] <CITATION_923724> ,  Suppl.
+Precedent	1 S.C.R.
+Fact	586; <ORG> etc.
+Fact	v. <ORG>,  3 S.C.R.
+Fact	21; <CITATION_1613412> ,  2 S.C.C.
+Fact	547; Governor General in Council v. Province of Madras,  7 F.C.R.
+Fact	179; In Re.
+Fact	the Bill to Amend S. 20 of the Sea Customs Act, 1878 and Section 3 of the Central Excises and Salt Act , 1944,  2 S.C.R.
+Fact	787; applied.
+Fact	3.
+RatioOfTheDecision	Simply because a certain article falls within the Schedule it would not be dutiable under excise law if the said article is not 'goods' known to the market.
+RatioOfTheDecision	Marketabil- ity, therefore, is an essential ingredient in order to be dutiable under the Schedule to the Central Tariff Act , 1985.
+RatioOfTheDecision	[392F-G] 3.1.
+RatioOfTheDecision	In the instant case, the Crude PVC films as pro- duced by the appellant were not known in the market and could not be sold in the market and were therefore not capable of being marketa ble.
+Fact	[392G-H] JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	2820 of 1984.
+Fact	From the Order dated 25.4.84/4.5.84 of <ORG>, New Delhi in Appeal No.
+Fact	F.D.
+Fact	(SB)(T) A.
+Fact	999/80-C in Order No.
+Fact	223/84.
+Fact	<NAME>, Mrs. <NAME>, <NAME> and <NAME> for the appellant.
+Fact	<NAME>, Additional Solicitor General, Ms. <NAME> and <NAME> for the respondent.
+Fact	The Judgment of the Court was delivered by <NAME> This is an appeal under Section 35L of the Central Excises and Salt Act , 1944 (hereinafter referred to as 'the Act') from the order passed and judgment delivered on 25th April, 1984/4th May, 1984 by <ORG>, New Delhi (hereinafter referred to as 'the <ORG>').
+Fact	The question involved is whether the crude PVC film is dutiable.
+RatioOfTheDecision	The appellant is, inter alia, a manufacturer of crude PVC films for the purpose of use in final products such as leather cloth and laminate jute m attings and PVC tapes--both insula- tion and adhesive.
+RatioOfTheDecision	The said crude PVC films are manufactured by the appellant in a continuous process in the factory premises of the appellant which are licensed premises under the Act.
+Fact	The appellant filed classification list No.
+Fact	XIV/75 dated 20th November, 1975 in respect of crude PVC films used for lamination with jute and for tapes claiming that the said PVC films were non-excisable on the ground that the same were nonmarketable intermediate products used exclu- sively for captive consumption.
+Fact	The said classification was approved by the Assistant Collector, <ORG> on 9th December, 1977.
+Fact	There was an order passed by the Appellate Collector on 14th June, 1974 holding that crude PVC films were not mar- ketable and were not liable to excise duty.
+Fact	It is necessary to refer to the Tariff Entry involved in this case.
+Fact	Tariff Item 15-A(2) of the <ORG> Tariff reads as follows:  "Articles made of plastics, all sorts includ- ing tubes, rods, sheets, foils, sticks, o ther rectangular or profile shapes.
+Fact	whether lami- nated or not, and whether rigid or flexible, including levy flat tubings and polyvinyl chloride sheets, not otherwise specified."
+Fact	The same crude PVC films which have been manufactured by the appellant and used in the manufacture of some other end product were subject-matter of adjudication by the concerned authorities in the period 1.3.1970 to 29.5.1971.
+Argument	The Appel- late Collector of <ORG> in an order dated 14th January, 1974 held that the said PVC films manufactured by the appellant are not marketable intermediate products and hence not liable to duty.
+Argument	The Appellate Collector, <ORG> in his order noted the contentions of the appellant that the appellant had produced sufficient evidence to prove that the crude PVC sheets which were the subject-matter of the Show Cause Notice in that case and which are also the subject-matter of the present show cause notice were not known in the market as PVC sheets nor were these marketable as PVC sheets.
+Argument	Aft er reference to the rival contentions, the said Appellate Collector in his order held, inter alia, as follows:  "PVC films/sheets for the clearance of which demand letters are issued are not marketable as the same are neither embossed nor printed nor any finishing Work is done when compared to PVC films/sheets which are marketed by them.
+Argument	It was further stated that the tensile strength of PVC sheets which is marketed by the appellants is as per the international standards laid down by <ORG> much higher than the crude PVC sheets manufac- tured by them as an intermediate product for further manufacture of leather cloth.
+Argument	As such, it was contended that the product manufactured by the appellants is not liable to central excise duty.
+Argument	<NAME> further stated that it was not necessary to prove from technical angle that the curde PVC sheets manufactured by the appellants for manufacturing leather cloth are different from PVC sheets which are manufactured by them and sold in the market as such.
+Argument	Crude  PVC sheets used in the appellants' factory for further manufacture of leather cloth can be distinguished from PVC sheets which are marketed by them as such by naked eye.
+Argument	Moreover, all the processes which are required in case of PVC sheets which are marketed by the appellants so as to make these sheets marketable are not carried out in the case of crude PVC sheets which are used by the appellants in their factory for the manufac- ture of leather cloth ........"  The Appellate Collector further held in the said order that from the technical point of view, crude PVC sheets are different from marketable PVC sheets inasmuch as the tensile strength of crude PVC sheets is much lower than that of marketable PVC sheets.
+Argument	He further held that:  "This is so because marketable PVC sheets are passed through the calender at very high temperature and at a slow speed to that gela- tion/curing fusion takes place while in the case of crude PVC sheets, the same are passed through the calender at very fast speed and lower tempera ture with the result that gela- tion fusion in the course of heating and ageing is not formed resulting in lower ten- sile strength.
+RatioOfTheDecision	When these crude PVC sheets are coated with textile fabrics, the two layers are passed through the rollers at slow speed and at high temperature and it is only at this stage that the GEL is properly formed and resin particles become swollen by diffusion of plasticizer into them that they touch each other.
+RatioOfTheDecision	As heating progresses, the swollen particles begin to weld together, resulting in the required degree of strength."
+RatioOfTheDecision	Thereafter, the Classification List was filed in respect of crude PVC films manufactured for use in adhesive tapes on 9th December, 1975 and the said list was approved by the Assistant Collector of Central Excise after making an in- quiry in that behalf.
+Fact	On 15th February, 1977, however, a Show Cause Notice was issued by the Assistant Collector, calling upon the appellant to show cause as to why crude PVC films should not be classified under teriff Item 15A(2) and  appropriate duty not recovered under Rule 10 of the Central Excise Rules, as these then stood, read with Rule 173-J of the Central Excise Rules.
+Fact	There was a corrigendum issued on February 23, 1977 to the said Show Cause Notice dated 15th February, 1977 substituting the words 'Rule 10' by the words 'Rule 10A'.
+Fact	A reply was given by the appellant to the said Show Cause Notice.
+Fact	In the said reply, the appellant stated as follows:  "We have repeatedly pointed out that the issue of "Crude Film" has been decided by the Appel- late Collector and also by the Assistant Collector while approving classification.
+RatioOfTheDecision	However, the Superintendent persisted in pressing us for giving information about production figures of 'Crude Film' possibly with a view to raise demand.
+RatioOfTheDecision	We had requested the Superintendent to let us know the provi- sion under which he required us to give the information in regard to a product which was non-excisable.
+RatioOfTheDecision	He was not able to clarify this and tried to invoke wrong sections and rules according to us.
+RatioOfTheDecision	T he present action of re- classification, in order to make the product excisable some how or other, seems to us to be a continuation of the matter which the Super- intendent was not able to enforce on us.
+RatioOfTheDecision	There is no change in the market terminology of "PVC Film".
+RatioOfTheDecision	Our product is not known in the market as "PVC Film".
+RatioOfTheDecision	Even technically also a further process is required to be carried out on our product before it is "PVC Film" as is known to the market.
+RatioOfTheDecision	The various decisions of <ORG> on this point are well-known to the <ORG>.
+RatioOfTheDecision	It is also known that the Appellate Collector's decision is binding on you.
+Fact	The principles of natural justice cannot be served by serving a show cause notice on us in order to change the Appellate Collector's decision in some manner or other.
+Fact	We have an uneasy feeling that an attempt is being made to some how bring the product under excise duty."
+Fact	There was an order passed on 16th February, 1978 by the Assistant Collector confirming the Show Cause Notice.
+Fact	On 10th October, 1979 a n appeal was preferred by the appellant against the order of the Assistant Collector dated 16th February, 1978 which was rejected by the Appellate Collector of Central Excise.
+Fact	On 6th February, 1980 a revision applica- tion was preferred, by the appellant to the Joint Secretary, <ORG>.
+Fact	That was transferred to the <ORG> and by the impugned order, the <ORG> has rejected the appeal under challenge.
+Argument	The <ORG> in the order has set out the contentions and observed that the question for determination was whether crude PVC film fell for classification under Item 15A(2) of the Central Excise Tariff or not.
+Argument	A submission was made that the Appellate Collector had held that the crude PVC sheets were not marketable and had not acquired the character and status of PVC films as known to the market.
+Argument	It was contended on behalf of the appellant that only marketable PVC film would fall within the said item.
+Argument	On the other hand, the <ORG>'s contention was that there was nothing to show that the film/shee t was crude and the test of marketability was not relevant.
+Argument	According to the <ORG>, the crude PVC films/sheets would fall under the Tariff Item.
+RulingByLowerCourt	The <ORG> was of the view that the tariff entry did not spell out whether it covered only finished film/sheet or whether it covered also crude film/sheet.
+RulingByLowerCourt	The <ORG> came to the conclusion that the tariff item covered all types of films/sheets.
+RulingByLowerCourt	The <ORG> also came to the conclusion that the concept of marketability was not relevant and all sorts of crude films would be covered by the entry.
+RulingByLowerCourt	The <ORG> was of the view that the Appellate Collec- tor's observations were made entirely in different context.
+RulingByLowerCourt	In that view of the matter, the Appellate Collector's order was confirmed subject to the modification that duty in respect of clearances prior to the issue of the Show Cause Notice was restricted to the period permissible in terms of Rule 10 read with Rule 173-J, that is to say, for 12 months.
+RulingByLowerCourt	In other words, the <ORG>'s view was that if the descrip- ti on of the goods in question fell into the entry, it was dutiable in the intermediate list and as such the goods had become goods as known to the market and the question of marketability or being capable of being sold in the market was not relevant.
+Argument	In support of this appeal, on behalf of the appellant, it was contended by <NAME> that it was only the 'goods as specified in the Schedule' to the Central Excise that could be subject to the duty.
+RatioOfTheDecision	It appears to us that under the Central Excise Act , as it stood at the relevant time, in order to be goods as specified in the entry the first condition was that as a result of manufacture goods must come into existence.
+RatioOfTheDecision	For articles to be goods these must be known in the market as such or these must be capable of being sold in the market a goods.
+RatioOfTheDecision	Actual sale in the market is not necessary, user in the captive consumption is not determinative but the articles must be capable of being sold in the market or known in the market a goods.
+RatioOfTheDecision	That was necessary.
+Precedent	This h as been clearly spelt out by this Court in <CITATION_923724> ,  Supp.
+Precedent	1 SCR 586.
+Precedent	There this Court held that excise duty being leviable on the manufacture of goods and not on their sale, the manufacturer could not be taxed unless manufacturing process resulted in production 'of goods as known in the market' (<ORG> supplied).
+Argument	In that case, the respondents, who were manufacturers of vegetable products known as Vanas- <NAME>, were assessed to excise duty under Item 23 of the First Schedule to the Central Excises and Salt Act , 1944, on what the taxing authorities called the manufacture of 'r- efined oil' from raw oil which according to them fell within the description of "vegetable non-essential oils, all sorts, in or in relation to the manufacture of which any process is ordinarily carried on with the aid of power".
+Argument	The common case made by the respondents in their petition under Article 226 of the Constitution challenging the imposition was that for the purpose of manufacturing Vanaspati they purchased groundnu t and til oil from the market and subjected them to different processes before applying hydrogenation to produce Vanaspati and that nothing that they produced at any stage was covered by that item.
+Argument	Affidavits by experts were filed by both the parties and <ORG> found in favour of the respondents and allowed the petitions.
+Argument	<ORG> appealed.
+Argument	It was urged on its behalf before this <ORG> that before finally producing Vanaspati the respondents produced at an intermediate stage what was known as 'refined oil' in the market and although they might not sell it and although Vanaspati, when produced, was liable to excise duty under another item, that could not affect their liability.
+Argument	It was held that excise duty being leviable on the manufacture of goods and not on their sale, the petitioners in that case no doubt be liable if they produced 'refined oil', as known in the market, at an intermediate stage.
+Argument	But the <ORG> found that it was clear that there could be no 'refined oil' as known in the market  without deodorisation according to the specification of <ORG> and the affidavits of the experts.
+Argument	Since, however, the process of deodorisation was admittedly applied in the respondents' factories only after hydrogenation was com- plete, they could not be said to produce 'refined oil' at any stage.
+Argument	Nor could the respondents be held to manufacture some kind of 'non-essential vegetable oil'.
+Argument	<NAME>, J., who spoke for the <ORG>, at page 595 of the report, observed as follows:  "On a consideration of all these materials we have no doubt about the correctness of the respondents' case that the raw oil purchased by the respondents for the purpose of manufac- ture of <ORG> does not become at any stage "refined oil" as is known to the consumers and the commercial community."
+Precedent	After considering the definition of the word 'manufac-  ture' and several authorities and Words and Phrases, Perma- nent Edition, Vol.
+Precedent	18, from a judgment of the New York <ORG> and also other relevant authoriti es, this <ORG> held that the definitions made it clear that to become "goods" an article must be something which can ordinarily come to the market to be bought and sold.
+RatioOfTheDecision	(Emphasis supplied).
+RatioOfTheDecision	In that view of the matter this <ORG> agreed with the High <ORG> and dismissed the appeal.
+RatioOfTheDecision	Therefore, the first principle that emerges is that excise was a duty on goods as specified in the Schedule.
+RatioOfTheDecision	In order to be goods an article must be some- thing which can ordinarily come to the market and is brought for sale and must be known to the market as such.
+RatioOfTheDecision	Therefore, the marketability in the sense that the goods are known in the market or are capable of being sold and purchased in the market is essential.
+Precedent	This principle was again reiterated by this <ORG> in <ORG>, etc.
+Precedent	v. <ORG>, [1968] 3 SCR 21, where this <ORG> held that the gas generated by the appellant companies in that case was kiln gas and not carbon dioxide as known to the market, i.e., to those who deal in it or who use it.
+Argument	The refore, the kiln gas in question is neither carbon dioxide nor com- pressed carbon dioxide known as such to the commercial community and could not attract duty under Item 14-H of the First Schedule.
+Argument	It was held by this <ORG> that the duty being on the manufacture and not on the sale, the mere fact that kiln gas generated by those concerns was not actually sold did not make any difference if what they generated and used in their manufacturing process was carbon dioxide.
+Precedent	Justice <NAME> speaking for the <ORG> at page 31 of the report observed:  " The Act charges duty on manufacture of goods.
+Precedent	The word "manufacture" implies a change but every change in the raw material is not manu- facture.
+Precedent	There must be such a transformation that a new and different article must emerge having a distinctive name, character or use.
+Precedent	The duty is levied on goods.
+Precedent	As the Act does not define goods, the legislature must be taken to have used that word in its ordinary, dictionary meaning.
+Precedent	The dictionary meaning is that to become goods it  must be something which can ordinarily come to the market to be bought and sold and is known to the market.
+Precedent	(emphasis supplied).
+Precedent	That it would be such an article which would attract the Act was brought out in <CITATION_923724> .,  Suppl 1 SCR 586."
+Argument	In that view of the matter, the <ORG> came to the conclusion that the gas generated by these concerns was kiln gas and not carbon dioxide as known to the trade, i.e., to those who deal in it or who use it.
+Argument	It must be capable of being sold in the market and known in the market as such.
+Argument	Then only it would be dutiable.
+Precedent	This view was reiterated again in <CITATION_1613412> ,  2 SCC 547 where <NAME>, J. as the learned Chief Justice then was, speaking for the <ORG> observed that in order to attract excise duty the article manufactured must be capable of sale to a consumer.
+Precedent	The expression "goods manufactured or produced" must refer to goods which are capable of being sold to the consumer.
+Precedent	This <ORG> observed as follows:  "It does not seem to us that in order to attract e xcise duty the article manufactured must be capable of sale to a consumer.
+Precedent	Entry 84 of List I of Schedule VII to the Constitu- tion specifically speaks of "duties of excise on tobacco and other goods manufactured or produced in India .... ", and it is now well accepted that excise duty is an indirect tax, in which the burden of the imposition is passed on to the ultimate consumer.
+Precedent	In that context, the expression "goods manufactured or produced" must refer to articles which are capable of being sold to a consumer.
+Precedent	In <ORG> v.  392  <ORG>, this <ORG> con- sidered the meaning of the expression "goods" for the purposes of the Central Excises and Salt Act , 1944 and observed that "to become 'goods' an article must be something which can ordinarily come to the market to be bought and sold", a definition which was reiterated by this <ORG> in <CITATION_941355> ."
+RatioOfTheDecision	It is necessary in this connection to reiterate the basic fundamental principles of excise.
+Precedent	The Judicial Commit- tee of the  <ORG> in Governor General in Council v. Province of Madras, [1945] F.C.R.
+Precedent	179, this Court observed at page 1287 of the report that excise duty was primarily a duty on the production or manufacture of goods produced or manufactured within the country.
+Precedent	This Court again in Re The Bill to Amend S. 20 of the Sea Customs Act, 1878, And Sec- tion 3 of the Central Excises and Salt Act , 1944,  3 SCR 787 at page 822 of the report referring to the aforesaid observations of <ORG> reiterated that taxable event in the case of duties of excise is the manu- facture of goods and the duty is not directly on the goods but on the manufacture thereof.
+RatioOfTheDecision	Therefore, the essential ingredient is that there should be manufacture of goods.
+RatioOfTheDecision	The goods being articles which are known to those who are deal- ing in the market having their identity as such.
+Statute	Section 3 of the Act enjoins that there shall be levied and collected in such manner as may be prescribed duties of excise on all excisable goods other than salt wh ich are produced or 'man- ufactured' in India.
+Statute	"Excisable goods" under section 2(d) of the Act means goods specified in the Schedule to the Central Tariff Act , 1985 as being subject to a duty of excise and includes salt.
+RatioOfTheDecision	Therefore, it is necessary, in a case like this, to find out whether there are goods, that is to say, articles as known in the market as separate distinct identi- fiable commodities and whether the tariff duty levied would be as specified in the Schedule.
+RatioOfTheDecision	Simply because a certain article falls within the Schedule it would not be dutiable under excise law if the said article is not "goods" known to the market.
+RatioOfTheDecision	Marketability, therefore, is an essential ingre- dient in order to be dutiable under the Schedule to Central Tariff Act , 1985.
+RatioOfTheDecision	It appears from the facts as aforesaid before that the crude PVC films as produced by the appellant in this case were not known in the market and could not be sold in the market and was not capable of being marketable.
+Argument	The learned Solicitor General submitted b efore us that the Tri-  393  bunal was right in considering that as the article fell within the Entry the marketability was irrelevant and the <ORG> was right in not considering whether the articles in question, namely, crude PVC films used in this case, were marketable or capable of being sold and used in the market.
+Argument	Mr <NAME> on the other hand submitted that as it was found that the goods were not marketable by the Appellate Collector in the order of 1974 and no evidence was adduced before the <ORG> to the contrary and the <ORG> refused to consider the question of marketability no useful purpose would be served in remanding the matter to the <ORG>.
+Argument	The appeal should be allowed and no duty should be charged.
+Argument	As mentioned before, the Appellate Collector has on 14.1.
+Argument	1974 held that the crude PVC sheets/films which formed the subject-matter of the appeal are manufactured by the appellant for the production of leather cloth in the factory are not marketable as PVC sheets and had allowed the  appeal because he found that:  " .... because PVC sheets of the gauges manufactured by the appellants are invariably either embossed or printed or both.
+RatioOfTheDecision	The nature of embossing may be with an engraving roll or with a mirror finished roller or a mat finish.
+RatioOfTheDecision	The manufacture or PVC sheets marketable as such involves the following processing se- quences, namely: Polyvinyl chloride resin is formulated with plasticizer, colorants, heat stabilizers, etc.
+RatioOfTheDecision	and the formulation is thoroughly mixed.
+RatioOfTheDecision	When homogeneous, this mix is fed through a two roll mill to give heavy sheet stock, which in turn is fed to the calender, where it is reduced to the desired width, thickness etc.
+RatioOfTheDecision	The temperature at which PVC sheets which are marketed as such are passed through the calender is about 178o C (330 - 350x) and the speed of the roller is adjusted accordingly.
+RatioOfTheDecision	The speed of the roller and the temperature at which the sheets are passed through the calender are important factors in order to achieve the minimum stand- ard of tensile s trength of the sheets.
+RatioOfTheDecision	Gela- tion, i.e., the change of state from the liquid to the solid condition that occurs during the heating and/or ageing, when the plasticizer has been absorbed by the resin to an extent resulting in a dry but weak and crumbly mass, and thereafter within normal proportions of resin and plasticizer, this state is attained when the resin particles have become so swollen by diffusion of plasticizer into them that they touch each other, is an impor- tant process in the case of PVC sheets which are marketed as such.
+RatioOfTheDecision	As heating progresses the swollen particles begin to weld together, resulting in some degree of strength.
+RatioOfTheDecision	After the GEL is formed in such PVC sheets and resins get fused with plastisizer, they are further subjected to the processing of finish- ing, embossing/printing.
+RatioOfTheDecision	On the other hand, crude PVC sheets manufactured by <ORG> for production of leather cloth in their factory are passed through the rollers at a temperature of 130o - 1400 (280 F) and the speed of the roll er is, therefore, faster.
+RatioOfTheDecision	Due to low temperature and faster speed of the rollers fusion is not completed in such crude plasticizers thus resulting in the tensile strength of such crude PVC sheets which is much less than the tensile strength of the PVC sheets which are marketable as such.
+RatioOfTheDecision	The tensile strength of PVC sheets which are marketed as such and the crude PVC sheets which are used by the appellants in their factory for the manufacture of leather cloth are as under:  (1) Marketable PVC sheets Thickness Tensile strength Per cm.
+Precedent	sq.
+Precedent	in Kgs.
+Precedent	Longitudinal Transverse 0.08 mm 239 185 O.
+Precedent	10 mm 230 201 O.
+Precedent	15 mm 268 2 0.20 mm 230 200 (2) Crude PVC sheets Thickness Tensile strength Per cm.
+Precedent	sq.
+Precedent	kgs.
+Precedent	Longitudinal Transverse O.
+RatioOfTheDecision	11 mm 127 98 0.22 mm 144 107 The thickness of crude PVC sheets  of O.
+RatioOfTheDecision	11 mm ultimately comes to 10 mm when it is coated with textile fabrics and rolled.
+RatioOfTheDecision	Similarly, the thickness of crude PVC sheets of 0.22mm ultimately comes to when it is coated with fabrics and rolled.
+RatioOfTheDecision	395  The idea behind  producing crude PVC sheets at low temperature and at high speed of the rollers is that when such crude PVC sheets are coated with textile fabrics and passed through a coating machine, high temperature is required to be maintained and the speed at which the rollers move has also got to be slow so that these partially fused crude PVC sheets are eventually fully fused at the time of coating these sheets with textile substrates.
+RatioOfTheDecision	No finishing, embossing or printing is done in case of such crude PVC sheets.
+RatioOfTheDecision	I, therefore, hold that the crude PVC sheets manufactured by the appellants are used by them in the manu- facture of leather cloth in their factory are not marketable as PVC sheets and as such the same are not liable to duty under Item 15A(2) of the said Schedule."
+RatioOfTheDecision	In view of the Appellate Collector's order dated 14.1.1974 it was the duty of the revenue to adduce evidence or proof that the articles in question were goods.
+RatioOfTheDecision	No evi- dence or proof was produced.
+RatioOfTheDecision	The <ORG> went wrong in not applying the proper te st.
+RatioOfTheDecision	The test of marketability or capable of being marketed was not applied by the <ORG>.
+RatioOfTheDecision	In that view of the matter that there being no contrary evidence found by the <ORG> in this case subsequent to the finding by the Appellate <ORG>, we are of the opinion that the appeal should be allowed and no excise duty should be charged under section 15A(2) of the Central Excise Tariff on the Crude PVC sheets.
+RulingByPresentCourt	In the facts and circumstances of the case, there will be no order as to costs.
+RulingByPresentCourt	T.N.A.
+RulingByPresentCourt	Appeal allowed.

@@ -1,0 +1,31 @@
+Fact	ORDER <NAME>, J.
+Fact	1.
+Fact	The appellant was working as a conductor with <ORG>, Nagpur (the <ORG>).
+Fact	A departmental enquiry was held against him on the allegations that he misappropriated a sum of Rs.
+Fact	2300.
+Fact	The charge of misappropriation was proved against him and as a consequence he was dismissed from service by the order dated April 10, 1980.
+Fact	The appellant raised a dispute and <ORG> made a reference under the Industrial Disputes Act , 1947.
+Fact	<ORG> came to the conclusion that the enquiry held against the appellant was neither fair nor proper and as such it gave an opportunity to the <ORG> to prove the charge against the appellant before <ORG>.
+Fact	Finally <ORG> by its award dated April 23, 1991 upheld the dismissal of the appellant.
+Fact	The appellant challenged the said award by way of a writ petition before the Nagpur Bench of <ORG>.
+Fact	The only point raised before <ORG> was that the order dism issing the appellant could only be effective from April 23, 1991 (the date of the award) and not from April 10, 1980 when it was originally passed.
+Fact	<ORG> rejected the contention raised by the appellant and dismissed the writ petition.
+Fact	2.
+Fact	We have heard learned Counsel for the parties.
+Fact	Mrs. <NAME>, learned Counsel for the appellant has placed strong reliance on the following observations from the judgment of this Court in <CITATION_1065826> Court, Indore :  The second contention must also therefore fail.
+RatioOfTheDecision	We would, however, like to add that the decision in <CITATION_794955> case 1963-I-LLJ-679 is not to be construed as a charter for employers to dismiss employees after the pretence of an enquiry.
+RatioOfTheDecision	The enquiry in the instant case does not suffer from defects so serious or fundamental as to make it non est.
+RatioOfTheDecision	On an appropriate occasion, it may become necessary to carve an exception to the ratio of <NAME> (supra) case so as to exclude from its operation at least that class of cases in which unde r the facade of a domestic enquiry, the employer passes an order gravely detrimental to the employee's interest like an order of dismissal.
+RatioOfTheDecision	An enquiry blatantly and consciously violating principles of natural justice may well be equated with the total absence of an enquiry so as to exclude the application of the 'relation-back' doctrine.
+RatioOfTheDecision	But we will not pursue the point beyond this as the facts before us do not warrant a closer consideration thereof.
+Argument	Mrs. <NAME> has vehemently contended that the domestic enquiry against the appellant having been held to be unfair the order of dismissal dated April 10, 1980 became illegal and inoperative as a consequence.
+Argument	According to her the dismissal order could only operate from the date of the award which was given as a result of the fair and proper enquiry held by <ORG> itself.
+Argument	3.
+RatioOfTheDecision	We do not agree with the contentions raised by the learned Counsel.
+RatioOfTheDecision	We are of the view that the enquiry held against the appellant by the <ORG> in the instant case did not  suffer from defects which were so serious or fundamental as to render the same non est.
+RulingByPresentCourt	We have perused Part 1 of the award wherein <ORG> has held the domestic enquiry to be unfair.
+RulingByLowerCourt	The defects on the basis of which the domestic enquiry was held to be unfair did not go to the root of the case and as such it is not possible to hold that the said enquiry was void and non est.
+RulingByLowerCourt	We see no ground to interfere with the judgment of <ORG>.
+RulingByLowerCourt	We agree with the reasoning and the conclusions reached therein.
+RulingByLowerCourt	The appeal is dismissed.
+RulingByLowerCourt	No costs.

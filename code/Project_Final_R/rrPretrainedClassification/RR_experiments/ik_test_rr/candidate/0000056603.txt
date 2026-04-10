@@ -1,0 +1,3 @@
+Fact	Security Code Check for Accessing Judgment/Order Document eLegalix - <ORG> Judgment Information System Welcome to eLegalix, Judgment Information System for <ORG> and Its Bench at Lucknow.
+Fact	Disclaimer Please enter the 4-digit numerical security code below to download Judgment/Order Document Security Code: GO Visit http://elegalix.allahabadhighcourt.in/elegalix/StartWebSearch.do for more Judgments/Orders delivered at <ORG> and Its Bench at Lucknow.
+Fact	Disclaimer System designed and developed at <ORG>, <ORG>, Allahabad.

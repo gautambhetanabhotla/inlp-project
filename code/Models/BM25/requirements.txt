@@ -1,8 +1,0 @@
-numpy
-pandas
-tqdm
-
-scipy
-matplotlib
-scikit-learn
-sklearn

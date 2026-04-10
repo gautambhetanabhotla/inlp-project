@@ -1,0 +1,68 @@
+Fact	PETITIONER: COMMISSIONER OF INCOME TAX, <NAME> Vs. RESPONDENT:  BRITISH PAINTS INDIA LTD.
+Fact	DATE OF JUDGMENT13/12/1990 BENCH:  <NAME>, T.K.
+Fact	(J) BENCH:  <NAME>, T.K.
+Fact	(J) PUNCHHI, M.M.
+Fact	CITATION:  1991 AIR 1338 1990 SCR Supl.
+Fact	(3) 525 1992 SCC Supl.
+Fact	(1) 55 JT 1990 (4) 694 1990 SCALE (2)1261 ACT:   Income Tax Act 1961: Section 145- -Valuation of stock--Principle to be followed--Cost or market value--Whichever is lower-Assessing officer--Whether enti- tled to add over head charges.
+Fact	Method of accounting--Consistent practice--To disclose true picture of profits and gains--Assessing Officer--Enti- tled to and has duty to adopt appropriate computation to determine true income.
+Fact	HEADNOTE:  The respondent-assessee a limited liability company engaged in the business of manufacture and sale of paints, had a consistent practice to value its goods in process and finished products exclusively at cost of raw materials and totally excluding overhead expenditure.
+RulingByLowerCourt	The justification for this practice, the assessee contended w as that the goods being paints had limited storage life and if not quickly disposed of were liable to lose their market value.
+RulingByLowerCourt	The Income Tax Officer rejected the aforesaid contention of the assessee observing that at no time had the assessee claimed any deduction on account of deterioration or damage to goods and that there was no justification to recognise a practice as claimed by the assessee of valuing its stock otherwise that in accordance with the well recognised prin- ciple of accounting which require the stock to be valued at either cost (raw material plus expenditure) or market value whichever was lower.
+RulingByLowerCourt	Recalculating the value of the opening and closing stocks by adding the overhead expenditure, the Income-tax Officer made an addition of Rs.1,04,417 for the assessment year 1963-64, and allowed a deduction of Rs.3338 for the assessment year 1964-65.
+RulingByLowerCourt	These orders were confirmed by the Appellate Assistant Commissioner.
+RulingByLowerCourt	On appeal, <ORG> held that there was no evidence to show  that the goods in stock dete- riorated in value and that there was no justification for excluding the overhead expenditure in valuing the stock; and if it was in the interest of the business to value stock solely with reference to cost of raw materials and without including the overhead expenditure, such valuation was not appro-  526  priate to the computation of income chargeable under the Income Tax Act .
+RulingByLowerCourt	<ORG>, in a reference at the instance of the <ORG> noticed that though there was no evidence of dete- rioration of the goods in stock, came to the conclusion that having regard to the consistent practice of the assessee, the <ORG> was not justified in rejecting the assessee's method of valuation of its stock-in-trade.
+RulingByLowerCourt	It accordingly reversed the <ORG>s decision.
+RulingByLowerCourt	In the appeals by the <ORG> to this Court, it was contended on behalf of the assessee that for a number of years the <ORG> did not question the method of accounting regularly employed by the assessee, that it was during the  assessment years in question that the objection was raised for the first time on the ground that overhead expenditure was not included in the value of the stock, that the Assess- ing Officer had exceeded his jurisdiction by adding the overhead expenditure to the cost of raw material, especially because of the short durability of paint and that the As- sessing Officer has not appreciated that the method adopted by the assessee is a well recognised method among account- ants of repute.
+RulingByLowerCourt	Allowing the appeals and setting aside, the judgment of <ORG>, this Court, HELD: 1.
+Fact	The Income Tax Act does not contain any specif- ic provision for the valuation of stock, Income, profits and gains must, however, be computed in the manner provided by the Act.
+Fact	It is the duty of the Officer to determine the profits and gains of a commercial adventure according to the correct principle of accounting.
+Fact	In doing so, he might, dependent on the nature of the business and its special character, allow certain adjustments, but hi s primary pur- pose and duty is to deduce the correct income, profits and gains, and this he cannot do without taking into account the value of the stock-in-trade at the beginning and at the end of the year and by ascertaining the difference between them.
+Fact	[537G- <CITATION_1000822> ,  73 I.T.R.
+Fact	SC 735, referred to.
+Fact	2.
+Fact	The object of stock valuation is the correct determi- nation of the profits and loss resulting from a year's trading.
+Fact	[538B]  <CITATION_1113996> ,,  12 Tax Cases 813, 827; <NAME> v. Commis- sioner of IncomeTax, West Bengal,  24 I.T.R.
+Fact	481,485- 486; <CITATION_948571> .,  25 I.T.R.
+Fact	377, 395; <NAME> v. <ORG>,  13 App.
+Fact	Cas.
+Fact	418, 424; 4 TLR.
+Fact	500 and <CITATION_1472164> .,  A.C. 85; (1956) I.T.R.
+Fact	84, 99, referred to.
+Argument	3.
+Argument	Section 145 of the Income Tax Act, 1961 confers sufficient power upon the officer-nay it imposes a duty upon him-to make such computation in such manner as he determines for deducing the correct profits and gains.
+Fact	This means that where accounts are prepared wi thout disclosing the real cost of the stock-in-trade, albeit on sound expert advise in the interest of efficient administration of the company, it is the duty of the Income Tax Officer to determine the taxable income by making such computation as he thinks fit.
+Fact	[539E]  4.
+Fact	Even if the assessee had adopted a regular system of accounting, it was the duty of the Assessing Officer under section 145 of the Income Tax Act 1861, to consider whether the correct profits and gains could be deduced from the accounts so maintained.
+Fact	If he was of the opinion that the correct profits could not be deduced from the accounts, he was obliged to have recourse of the proviso to section 145 of the Income Tax Act 1961.
+Fact	[536C, <CITATION_416867> .,  6 ITR 36; <CITATION_1330871> .,  53 I.T.R.
+Fact	122, 128 and 132; <CITATION_228352> .,  33 I.T.R.
+Fact	182; <CITATION_1700929> ,  38 I.T.R.
+Fact	579, 588 and Commissioners of <ORG> v. <ORG>,  29 Tax Cases 387, 392, referred to.
+Argument	5.
+Argument	Any system of accounting which excludes, fo r the valuation of the stock-in-trade, all costs other than the cost of raw material for the goods in process and finished products, is likely to result in a distorted picture of the true state of the business for the purpose of computing the chargeable income.
+Argument	Such a system may produce a comparatively lower valuation of the opening stock and the closing stock, thus showing a comparatively low difference between the two.
+Argument	In a period of rising turnover and rising prices, the system adopted by the assessee, as found by the <ORG>, is apt to diminish the assessment of the taxable profit of a year.
+Argument	The profit of one year is 'likely to be shifted to another year which is an incorrect method of computing profits and gains for the purpose of assessment.
+Argument	[539F-G]  6.
+Argument	Each year being a self-contained unit, and the taxes of a particular year being payable with reference to the income of that year, as computed in terms of the Act, the method adopted by the assessee has been found to be such that the income cannot prop erly be deduced therefrom.
+RatioOfTheDecision	It is, therefore, not only the right but the duty of the Assessing Officer to act in exercise of his statutory power, for determining what, in his opinion, is the correct taxable income.
+RatioOfTheDecision	[539H-540A]  7.
+RatioOfTheDecision	The question to be determined by the Assessing Offi- cer in exercise of his power under section 145 is whether or not income can properly be deduced from the accounts main- tained by the assessee, even if the accounts are correct and complete to the satisfaction of the Officer and the income has been computed in accordance with the method regularly employed by the assessee.
+RatioOfTheDecision	What is to be determined by the Officer is a question of fact i.e.
+RatioOfTheDecision	whether or not income chargeable under the Act can properly be deduced from the books of account, and he must decide the question with reference to the relevant material and in accordance with the correct principles.
+RatioOfTheDecision	[531D-F]  8.
+RatioOfTheDecision	It is a well recognised principle of commercial accounting to enter in the profit and loss account the value of the stoc k-in-trade at the beginning and at the end of the accounting year at cost or market price, whichever is the lower.
+RatioOfTheDecision	[533G- <CITATION_1113996> ,  12 Tax Cases, 813,823 referred to.
+RatioOfTheDecision	(9) Where the market value has fallen before the date of valuation and at that date the market value of the article is less than its actual cost, the assessee is entitled to value the articles at market value and thus anticipate the loss which he will probably incur at the time of the sale of goods.
+RatioOfTheDecision	Valuation of the stock-in-trade at cost or market value, whichever is the lower, is a matter entirely within the discretion of the assessee, but whichever method he adopts, it should disclose a true picture of his profits and gains.
+RatioOfTheDecision	If, on the other hand, he adopts a system which does not disclose the true state of affairs for the determination of tax, even if it is ideally suited for other purposes of his business, such as the creation of a reserve, declaration of dividends, planning and the like, it is the duty of the Assessing Officer  to adopt any such computation as he deems appropriate for proper determi- nation of the true income of the assessee.
+RatioOfTheDecision	[534E-F] This is not only a right, but a duty that is placed on the Officer, in terms of the first proviso to section 145 which concerns a correct and complete account, but which in the opinion of the Officer does not disclose a true and proper income.
+Fact	[534G] <ORG> v. <NAME> (Inspector of Taxes),  2 W .L.R.
+Fact	1313, referred to.
+RatioOfTheDecision	(10) It is not only the right, but the duty of the Assessing Officer to consider whether or not the books disclose the true state of accounts and the correct income can be deducted therefrom.
+RatioOfTheDecision	It is incorrect to say, as con- tended on behalf of the assessee, that the Officer is bound to accept the system of accounting regularly employed by the assessee the correctness of which had not been questioned in the past.
+RatioOfTheDecision	There is no estoppel in these matters, and the Officer is not bound by the method followed in the earlier years.
+RatioOfTheDecision	[535G] (11) What is the profit of a tr ade or business is a question of fact and it must be ascertained, as all facts must be ascertained, with reference to the relevant evi- dence, and not on doctrine or theories.
+RulingByPresentCourt	[539C] JUDGMENT:

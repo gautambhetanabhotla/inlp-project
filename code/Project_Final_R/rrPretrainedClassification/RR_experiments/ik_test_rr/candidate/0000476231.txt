@@ -1,0 +1,34 @@
+Fact	JUDGMENT <NAME>, Kt., C.J.
+RulingByLowerCourt	1.
+Fact	This is an appeal from an order made under Section 32, Act X of 1877.
+Fact	Appellant sued the first defendant upon a bond executed in his favour.
+Fact	The first defendant pleaded in substance that appellant and his uncle, the respondent, formed a joint Hindu family, that the bond was taken on behalf of the joint family, and that he had made a part-payment to the respondent.
+Fact	The respondent, supporting the statement made by the first defendant, sought to intervene.
+Fact	He had also brought suit upon the same bond against the first defendant.
+Fact	Appellant resisted the respondent's application to be made a defendant, on the ground that the money 'secured by the bond was his own.
+Fact	The Subordinate Judge of Kumbakonam added the respondent as a defendant,, and it is argued in appeal that this is not a case within the scope of Section 32,. and reliance is placed on <NAME> v. <NAME> L.R.
+Fact	2 C.P.D.
+Fact	80, <NAME> v. <ORG> L.R.
+Fact	2 Ex.
+Fact	D. 365, Ex parte Smith (L.R.
+Fact	2 Ch D. 51) , <NAME> v. <NAME> 45 L.J.
+Fact	(C.P.)
+Fact	419, <NAME> v. <NAME> 7 W.R. 202, <NAME> v. <NAME> 10 W.R. 360, and <NAME> v. <NAME> 25 W.R. 17.
+Argument	2.
+Argument	The decision of the objection to the order of the <ORG> below turns on the meaning of the words in Section 32 of the Code of Civil Procedure "whose presence before the <ORG> may be necessary to enable the <ORG> effectually and completely to adjudicate upon and settle all the questions involved in the suit."
+Argument	3.
+Fact	Is it meant by these words ' that a person not originally impleaded is to be made a party only if the questions raised in the suit cannot otherwise be completely and effectually determined between the parties to the suit?
+Fact	or is it meant completely and effectually determined so that they shall not be again raised in that or in any other suit between the parties to the suit or any of them and third parties?
+RatioOfTheDecision	To accept the more restricted interpretation involves the addition of words which we do not fin d in the section, namely, ' between the parties to the suit," and there can be few, if any, questions which cannot be determined between the parties to the suit one way or the other, and of which the determination, if they be material, will, as between the parties to the suit, not be final.
+RatioOfTheDecision	On the other hand, the interpretation warranted by the terms would enable the <ORG> to avoid conflicting decisions on the same question which would work injustice to a party to the suit, and finally and effectually to put an end to litigation respecting them.
+RatioOfTheDecision	No better instance of the wisdom of such a rule could be afforded than is presented by the" suit before the <ORG>.
+RulingByLowerCourt	If the respondent be not made a party and the appellant succeeds, the first defendant is liable to be called upon to pay the debt twice over, viz., in this suit, as a debt due to the appellant personally, and, in Original Suit 60 of 1880, as a debt due to the coparceners, and he will lose in this suit the benefit of the part-payment, it is alleged, he has  made, while in the other suit he may establish he is entitled to it.
+RulingByLowerCourt	Reading the whole of the rules under Order XVI of the Judicature Act together, it seems clear that Rule 13 should be interpreted in the larger sense.
+RulingByLowerCourt	Although Ex-parte Smith L.R.
+RulingByLowerCourt	2 Ch.
+RulingByLowerCourt	D. 51 and <NAME> v. Hartley L.R.
+RulingByLowerCourt	1 Q.B.D.
+RulingByLowerCourt	656 were decided on Rules 17,18, they indicate the principle, we believe, the framers of the rules had in view, namely, that a material question common to the parties and to third parties should be tried once for all.
+RulingByLowerCourt	To secure this result the <ORG> has a discretion to add parties which it should exercise, unless by the addition of new parties either of the parties already on the record would be prejudiced or hindered of their remedies.
+RulingByLowerCourt	4.
+Fact	The appeal is dismissed with costs.

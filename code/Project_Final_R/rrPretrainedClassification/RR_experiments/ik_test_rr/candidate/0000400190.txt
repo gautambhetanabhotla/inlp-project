@@ -1,0 +1,280 @@
+Fact	<NAME>, J.
+Fact	1.
+Fact	The question raised in this Second Appeal is whether the appellant, who was defendant in the suit, was entitled to subrogation in respect of two mortgages discharged by him for the mortgagor.
+Fact	2.
+Fact	The appellant had been given a usufructuary mortgage of property, which was subject to three prior simple mortgages in consideration of an advance of Rs.
+Fact	8000 made by him to the mortgagor, the appellant undertaking to pay off these prior mortgages.
+Fact	As a matter of fact he paid off the two first mortgages, but he did not pay off the third mortgage.
+Fact	The third mortgagee brought a suit for sale on the footing of his mortgage, and the appellant set up in this suit a claim to be substituted for the two prior mortgagees whose debt he had discharged.
+Fact	The lower appellate Court rejected this claim, holding that it was not sustainable in the face of <ORG>ion 92 of the Transfer of Property Act.
+RatioOfTheDecision	It should be mentioned that the mortgages in question were antecedent in date to the amendment introduced by <ORG> ion 92 into the Act.
+RatioOfTheDecision	3.
+Precedent	The case has been argued on the assumption that Section 92 , as held by <ORG> in <CITATION_1668648> (1932) I.L.R.
+Precedent	54 All.
+Precedent	897 (F.B.)
+Fact	is retrospective.
+RatioOfTheDecision	Assuming that it is, I think that the third paragraph of the Section is fatal to the appellant's claim.
+Fact	This paragraph runs:  A person who has advanced to a mortgagor money with which the mortgage has been redeemed shall be subrogated to the rights of the mortgagee whose mortgage has been redeemed, if the mortgagor has by a registered instrument agreed that such person shall be so subrogated.
+Fact	4.
+Argument	The appellant has advanced money to the mortgagor with which mortgages have been redeemed.
+Argument	But it was argued that some person other than a mortgagee is intended.
+RatioOfTheDecision	But the section does not say so; and there is no apparent reason why a person who has advanced money for the purpose named in the section should not be regarded as within the section simply because the mortgagor has given him a mortgage to secure the advance made.
+RatioOfTheDecision	But in such ca se the right to subrogation is made by the section a matter of express contract between the mortgagor and the person who has advanced him the money.
+RatioOfTheDecision	There is no right to subrogation unless the mortgagor has by registered instrument agreed that the person advancing the money shall be subrogated in respect of the mortgage or mortgages discharged.
+RatioOfTheDecision	No such agreement is forthcoming in this case.
+RatioOfTheDecision	5.
+RatioOfTheDecision	But assuming that Section 92 is not applicable, I think that the appellant's claim must equally fail.
+Precedent	I do not propose to analyse the numerous cases which have been cited, because, in my opinion, the correct principle to be gathered from the authorities is stated in <CITATION_950864> (1933) 65 M.L.J.
+Precedent	390 at 399 as follows:  The general principle is that a later purchaser or mortgagee who undertakes to pay two prior encumbrances but pays only one and not the other, cannot resist the claim of the encumbrancer not so paid by setting up the discharge of the other encumbrance as a shield and claiming priority in respect of  it  6.
+Precedent	No doubt the same two learned Judges in an earlier decision in <CITATION_1931362> (1933) 64 M.L.J.
+Precedent	606 appear to have overlooked this principle.
+Precedent	But the later statement must be accepted as correct.
+Precedent	It will be found to have been expressed in much the same language by <NAME>, J. in <CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Precedent	188 at 198 : 57 M.L.J.
+Precedent	746  7.
+Fact	The question whether a mortgage paid off is kept alive of extinguished depends upon the intention of the parties, and this intention, in the absence of any declared intention, is to be inferred from the circumstances : <NAME> v. <NAME>.
+Fact	(1883) L.R.
+Fact	10 I.A 62 : I.L.R.
+Fact	9 Cal.
+Fact	961 (P.C.)
+Fact	In that case their Lordships discussed the equity which is to be applied.
+Fact	Quoting an English authority they said:  If there is no reason for keeping it (the incumbrance) alive, then, especially in the Case of an owner in fee, equity will in the absence of any declaration of intention destroy it, but if there be any reason for keeping it alive, such as the existence of  another incumbrance, equity will not destroy it  8.
+RatioOfTheDecision	In the present case the appellant's undertaking to pay off all the mortgages would, I think, indicate an intention that the whole debt with which the property was encumbered was to be extinguished.
+RatioOfTheDecision	That is the proper view of the mortgagor's intention when he made his bargain with the appellant.
+RatioOfTheDecision	In the absence of any particular circumstance to the contrary there is no room for inferring that the appellant was intended to be substituted for the three mortgagees whom he had contracted to pay.
+RatioOfTheDecision	But in any case no such inference can be drawn in favour of the appellant when in breach of his contract he has paid off only two of the three mortgages which he had undertaken to discharge.
+RatioOfTheDecision	9.
+RatioOfTheDecision	For these reasons I hold that the appellant's claim to a right of subrogation fails, and that the Second Appeal should be dismissed with costs.
+Precedent	<NAME>, J.
+Precedent	10.
+Fact	The only point for decision in this Second Appeal is whether in the circumstances stated in my learned brother's  judgment, the appellant who holds the usufructuary mortgage (Ex.
+Fact	1) dated 7th May, 1927, is entitled to claim priority over the plaintiff's rights under the mortgage deed (Ex.
+Statute	A) dated 3rd March, 1922.
+Statute	11.
+Fact	<CITATION_1610564> (1929) I.L.R.
+Fact	53 Mad.
+Fact	188 at 198 : 57 M.L.J.
+Fact	746 it was observed by <NAME>, J. that:  Where a mortgagor sells his property to a vendee requiring the vendee to pay off two or three prior debts of the mortgagor and if the vendee pays off only one of them, he cannot claim priority in respect of it over the others, though he may claim such priority in respect of some other debts the payment of which by him was not contemplated  12.
+Fact	If this statement of the law is correct and if the principle enunciated with reference to a 'purchase' is also applicabl to a mortgagee who is directed to discharge certain prio Mortgages - this was assumed in <CITATION_950864> (1933) 65 M.L.J.
+Fact	390 the appellant's claim of priority cannot be sustained.
+Fact	On behalf of the appellant, Mr. <NAME> has conten ded that the proposition enunciated in <CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Argument	188 at 198 : 57 M.L.J.
+Argument	746 is not correct and that in any event it ought not to be extended to a mortgagee He has also contended that whatever might have been the position prior to 1930, the matter must now be taken to be settled in the appellant's favour by Section 92 of the Transfer of property Act as amended by Act XX of 1929, which he claims should be held to have retrospective operation, though the discharge of the prior mortgages in this case was made in 1927.
+RatioOfTheDecision	On behalf of the respondent, it has been argued that the principle enunciated by <NAME>, J. is correct and is equally applicable to the case of a mortgagee, that Act XX of 1929 is not retrospective in its operation and that even under Section 2 as amended, the appellant will not obtain priority, as the case must be held to be governed by Clause (3) and not by Clause (1) of that section.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The argument based on Section 92 may first be disposed of.
+RatioOfTheDecision	in the view I take  of the construction of that section; it is not necessary to come to a decision in this case on the question of its retrospective operation.
+Precedent	It is true that in <CITATION_1668648> (1932) I.L.R.
+Precedent	54 All.
+Precedent	897 (F.B.)
+Precedent	Full Bench of <ORG> held that the provision on had retrospective effect but a contrary opinion has been expressed by a Bench of this Court in <CITATION_587550> (1932) 63 M.L.J.
+Precedent	587.
+Precedent	I would only add that in deciding how far an inference in tavour of 'retrospective operation' is to be drawn from the fact that Section 63 of the Act XX of 1929 expressly excludes retrospective operation in respect of certain specified sections, the remarks of Lord <NAME> in <NAME> v <NAME> (1878) L.R.
+RatioOfTheDecision	3 A.C. 582 at 599, might have to be borne in mind, namely, that it may well be a provision inserted ex majore cautela.
+RatioOfTheDecision	With reference to the concluding words of Section 63 of Act XX of 1929 the learned Judges of <ORG> observed that in that case nothing had already been done before the first  day of April, 1930, in any pending proceeding and no remedy or proceeding was being affected by the new provisions.
+RatioOfTheDecision	I beg leave to doubt the correctness of this statement.
+RatioOfTheDecision	If the learned Judges were right in their view that the law was the same even prior to Act XX of 1929, or that Act XX of 1929 must only be understood as having declared the previous law (with a view to set conflicting decisions at rest) no exception could be taken to their relying on Act XX of 1929, because there will then be no question of 'retrospective operation' at all.
+RatioOfTheDecision	If, on the other hand, Act XX of 1929 must be held to have changed the law prevailing prior thereto, it is difficult to agree that the learned Judges were giving full effect to the concluding words of Section 63 , of Act XX of 1929, because in that case the suit was undoubtedly pending when the Act of 1929 came into force and that section not merely provides that the Act shall not affect "anything already done" in any pending proceeding but goes on to say that such proc eeding may be continued "as if this Act had not been passed".
+RatioOfTheDecision	14.
+Precedent	Turning now to Section 92 as amended, the appellant contends that the present case must be held to be governed by the first clause in view of the generality of its language, and here again strong reliance is placed on the decision in <CITATION_1668648> (1932) I.L.R.
+Precedent	54 All.
+Precedent	897 (F.B.).
+Precedent	There can be little doubt that the proper method of interpreting the first clause is to construe it in the light of the third clause of the same section.
+Precedent	It will be seen from the report of <ORG> which considered the Bill that they assumed that under the previous state of the law a transferee from a mortgagor who has undertaken to discharge a prior mortgage debt cannot by the mere fact of paying off a prior mortgage claim subrogation though in certain circumstances the <ORG> may presume an intention on his part to keep alive the security thus paid off by him.
+Precedent	To meet such cases they recommended the provision now enacted as Clause (3) of Section 92  whereunder a person advancing money to a mortgagor to pay off a prior mortgage shall be subrogated to the rights of the mortgagee thus redeemed only if "the mortgagor has by registered instrument agreed that such person shall be so subrogated".
+Precedent	This provision corresponds to what is described by <NAME>, J., in <NAME> v. <NAME> and <NAME> v. <NAME> (1907) I.L.R.
+Precedent	36 Cal.
+Precedent	193 at 218 as 'conventional subrogation'; and it gives effect to the decision in <NAME> v. <NAME> (1901) L.R.
+Precedent	29 I.A.
+Precedent	9 : I.L.R.
+Precedent	29 Cal.
+Precedent	154 : 12 M.L.J.
+Precedent	73 (P.C.)
+Precedent	<CITATION_345775> (1912) L.R.
+Precedent	39 I.A.
+Precedent	68 : I.L.R.
+Precedent	39 Cal.
+Precedent	527 : 22 M.L.J.
+Precedent	468 (P.C.)
+Fact	and <NAME> v. <NAME> (1905) I.L.R.
+Fact	29 mad.
+Fact	37 subject to the condition that the right of subrogation must be provided for by an agreement in writing registered.
+Precedent	Cf.
+Precedent	In re, <ORG> (1899) L.R.
+Precedent	1 Ch.
+Precedent	440 at 463.
+RatioOfTheDecision	In the present case the right to subrogation is claimed not as the result of an agreement  between the parties but only on general principles of equity.
+RatioOfTheDecision	The learned Judges of <ORG> make no reference to the third clause of Section 92 .
+Argument	Mr. <NAME> contends that the third clause must be held to apply only to cases in which a person advances money without taking a mortgage therefore.
+RatioOfTheDecision	I am unable to agree that that is the true construction of that clause.
+RatioOfTheDecision	There is a well established distinction between cases in which a person who has a preexisting interest in property pays off a prior charge on that property for the protection of his own interest and cases in which a person acquires an interest in property only by reason of his advancing money to pay off an existing mortgage debt.
+RatioOfTheDecision	It seems to me that the first clause of Section 92 must be held to relate to the first type of cases above referred to and the third clause to the second type.
+RatioOfTheDecision	15.
+Precedent	Mr. <NAME> next contended that the <ORG> decision is an authority in favour of the appellant even indepe ndently of Act XX of 1929.
+Precedent	In this connection he also relied upon the decision of a <ORG> of this Court in <CITATION_812700> (1920) 39 M.L.J.
+Precedent	445 and upon certain observations in the judgment in S.A. No.
+Precedent	401 of 1925.
+Precedent	In the Referring Order in this case <NAME>, J. also mentions the apparent conflict between <NAME> v. Venkatar chalapathi Aiyar (1933) 64 M.L.J.
+Precedent	606 and <CITATION_950864> (1933) 65 M.L.J.
+Precedent	390.
+Precedent	16.
+Precedent	So far as the two recent decisions reported in <ORG> are concerned, I may observe that the conflict must be held to be not so much as to the rule of law to be applied as to the application of it to particular circumstances; because both the decisions were pronounced by the same <ORG> and in the later case they accept the rule stated by <NAME>, J., in <CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Precedent	188 : 57 M.L.J.
+Precedent	746.
+Precedent	It is not necessary for me to canvass whether the circumstances in <CITATION_1931362> (1933) 64 M.L.J.
+Precedent	606 would not also have justified the application of the same rule because we a re only concerned with the correctness of the principle enunciated in <CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Precedent	188 : 57 M.L.J.
+Precedent	746.
+Precedent	So far as we can gather from the judgment, the decision in <CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Precedent	188 : 57 M.L.J.
+Precedent	746 does not appear to have been brought to the notice of the learned Judges and it seems to me unaccountable that when referring to the <ORG> decision in <NAME> v. <NAME> (1923) I.L.R.
+Precedent	47 Mad.
+Precedent	190 : L.R.
+Precedent	51 I.A.
+Precedent	140 : 46 M.L.J.
+Precedent	164 (P.C.)
+Precedent	the learned Judges should have lost sight of the express reservation made on page 195 that the rule as to keeping alive the discharged5 mortgage for the benefit of the owner 'would not apply if the owner of the property had covenanted to pay the later mortgage debt'.
+Precedent	The decision in <CITATION_812700> (1920) 39 M.L.J.
+Precedent	445 does not conflict with the decision in <CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Precedent	188 : 57 M.L.J.
+Precedent	746 because the right to subrogation was there recognised only as against a person whose debt th e later mortgagee had not covenanted to discharge.
+Precedent	The judgment in S.A. No.
+Precedent	401 of 1925, though it contains some observations on <NAME> v. <NAME> (1910) I.L.R.
+Precedent	34 Mad.
+Precedent	119 : 20 M.L.J.
+RatioOfTheDecision	380 does not bear on the question now under consideration.
+RatioOfTheDecision	17.
+RatioOfTheDecision	<ORG> point out that Section 101 of the Transfer of Property Act deals only with cases in which there is a possibility of merger by reason of the prior mortgage interest and the residuary ownership vesting in the same person and the observations made in cases relating to discharge of prior mortgages, by a person who has become owner of the property, ought not to be applied to a case of discharge by a puisne mortgagee, because in the latter case no question of merger can arise.
+Precedent	It is true that Section 101 will in terms apply only to an "owner" paying off a prior charge and not to a mortgagee paying off a prior charge; but in the judgments in <ORG> (1901) L.R.
+Precedent	29 I.A.
+Precedent	9 : I.L.R.
+Precedent	29 Cal.
+Precedent	154 : 12 M.L.J .
+Precedent	73 (P.C.)
+Precedent	and <CITATION_345775> (1912) L.R.
+Precedent	39 I.A.
+Precedent	68 : I.L.R.
+Precedent	39 Cal.
+Precedent	527 : 22 M.L.J.
+Precedent	468 (P.C.)
+Precedent	<ORG> base their conclusions only on the theory or presumption of an 'intention to keep alive' even in cases when the prior charge has been discharged by a mortgagee.
+Precedent	In <NAME> v. <NAME> (1883) L.R.
+Precedent	10 I.A 62 : I.L.R.
+Precedent	9 Cal.
+Precedent	961 (P.C.)
+Precedent	also, the discussion proceeded on similar lines.
+Precedent	The reference to this case in <CITATION_1668648> (1932) I.L.R.
+Precedent	54 All.
+Precedent	897 (F.B.)
+Precedent	and in <CITATION_86414> (1929) I.L.R.
+Precedent	52 All.
+Precedent	139 at 146 as the case of a purchaser whose interest it may be to extinguish the mortgage is somewhat misleading; for their Lordships discuss the question of intention not merely from the point of view of <ORG> (the purchaser) but also from the point of view of the plaintiff who was the mortgagee that lent the money utilised to pay off the prior mortgage in favour of <ORG>.
+Precedent	18.
+Precedent	<CITATION_1668648> (1932) I.L.R.
+Precedent	54 All.
+Precedent	897 at p. 900 the learned Judges recognise that in the majo rity of cases in that Court it has been held that a third mortgagee paying off the first mortgage in similar circumstances was not entitled to be subrogated to the position of the first mortgagee.
+Precedent	To the cases cited by them I may add <CITATION_1553323> A.I.R.
+Precedent	1931 All.
+Precedent	347.
+Precedent	But they refer to <NAME> v. <NAME> (1906) I.L.R.
+Precedent	28 All.778 and <NAME> v. <NAME> (1926) 24 A.L.J.
+Precedent	570 <CITATION_625606> (1905) I.L.R.
+Precedent	29 Mad.
+Precedent	37 and <CITATION_1043636> (1906) I.L.R.
+Precedent	33 Cal.
+RatioOfTheDecision	1133 as taking a contrary view.
+RatioOfTheDecision	With due respect, I may point out that in none of these cases was subrogation claimed or allowed as against a person whose debt the later mortgagee had undertaken to pay.
+RatioOfTheDecision	This distinguishing circumstance seems to have escaped the notice of the learned Judges.
+RatioOfTheDecision	19.
+RatioOfTheDecision	The discussion at the bottom of p. 901 and at the top of p. 902 suggests that they proceeded on the assumption that subrogation has been denied in similar cases only on the strength of the theory of agency namely, that in paying off the prior charg e, the purchaser or puisne incumbrancer merely acted as the agent of the mortgagor.
+Precedent	The observation already extracted from the judgment of <ORG> in <NAME> v. <NAME> (1923) I.L.R.
+Precedent	47 Mad.
+Precedent	190 : L.R.
+Precedent	51 I.A.
+Precedent	140 : 46 M.L.J.
+Precedent	164 (P.C.)
+Precedent	shows that that is not the true basis of the rule but an inference derived from or a disability founded on the fact that the person claiming subrogation has covenanted to discharge the debt due to the very person against whom he seeks to claim the priority.
+Precedent	Among the Indian authorities, some cases hold that a covenant to discharge several pre-existing mortgages indicate an intention to extinguish them all, <CITATION_1873146> (1910) I.L.R.
+Precedent	34 Mad.
+Precedent	119 : 20 M.L.J.
+Precedent	380, <CITATION_389088> (1923) 45 M.L.J.
+Precedent	693 at 698, <CITATION_956165> (1910) I.L.R.
+Precedent	35 All.
+Precedent	101 at 103, or to treat them as a consolidated debt without reference to the dates when they were incurred.
+Precedent	<CITATION_1610564> (1929) I.L.R.
+Precedent	53 Mad.
+Precedent	188 at 198 : 57 M.L.J.
+Precedent	746.
+Precedent	It is some times said that a p resumption most beneficial to the person paying off the prior charge can be made only when two courses are open to him in law, but no such option can be recognised in favour of a person who has bound himself by covenant to pay off another encumbrance also, <NAME> v. <NAME> A.I.R.
+Precedent	1931 All.
+Precedent	347 at 348 for it will in effect be to permit him to benefit by breaking his own contract.
+Precedent	<NAME> v. <NAME> (1905) 2 C.L.J.
+Precedent	291 at 299.
+Precedent	Again it has been said that subrogation is only a rule of 'equity' and it cannot be allowed where its application will lead to injustice or inequitable results.
+Precedent	<NAME> v. <NAME> Sarvam Singh (1907) 6 C.L.J.
+Precedent	134 at 138.
+RatioOfTheDecision	Whichever of these views be held to be the true basis of the rule, it can make no difference whether the subrogation is claimed by a purchaser or a puisne incumbrancer, so long as there is a covenant between him and his transferor that the transferee should discharge the debt due to the person whom he seeks to postpone.
+Precedent	There is no doubt a  difference between a covenant in a sale-deed about payment of consideration and a similar covenant in a mortgage deed, in that the latter covenant may not be specifically enforced and even damages for its breach may ordinarily be nominal but it is nonetheless a legal covenant which may, in certain circumstances sustain a claim for substantial damages (see A.S. No.
+Precedent	114 of 1923; see also <ORG>, v. <ORG> (1883) 49 L.T.
+Precedent	(N.S.)
+Precedent	674 and <NAME> on Damages Ch.
+Precedent	VII quoting from <ORG> v. <NAME> (1897) 1 Q.B.
+Precedent	696 at 697 and <NAME> v. <ORG> (1870) L.R.5 Ex.
+Precedent	92.
+Precedent	20.
+Precedent	In the Allahabad <ORG> case the learned Judges say (at the bottom of p. 901) that there appears to be no difference between the case of a purchaser or mortgagee paying off a prior charge out of his own funds and at his own choice and the case where he pays off the prior charge out of funds forming part of the consideration for the transfer in his favour.
+Precedent	With al l respect, I am unable to agree; in the former case, there will be no occasion for suggesting an inference of disability founded on the fact of a covenant to discharge the intermediate mortgage as well, whereas in the latter case the question can arise whether out of the consideration amount, the transferee has agreed to pay off not merely the prior charge but also the debt due to the intermediate incumbrancer against whom priority is claimed.
+Precedent	21.
+Precedent	I am of opinion that the rule as stated in <CITATION_1610564> (1920) I.L.R.
+Precedent	53 Mad.
+Precedent	188 at 198 and <CITATION_950864> (1933) 65 M.L.J.
+Precedent	399 is correct and well founded in principle.
+Precedent	I agree that the Second Appeal must be dismissed with cost's.
+Precedent	<NAME>, J.
+Precedent	22.
+Precedent	I agree with the judgments just delivered.
+Precedent	As laid down by their Lordships of <ORG> in <NAME> v. <NAME> (1928) I.L.R.
+Precedent	47 Mad.
+Precedent	190 at 194 : L.R.
+Precedent	51 I.A.
+Precedent	140 : 46 M.L.J.
+Precedent	164 (P.C.
+Precedent	):  It is now settled law that where in India there are several mortgages on a property, the owner  of the property subject to the mortgages may, if he pays off an earlier charge, treat himself as buying it and stand in the same position as his vendor, or to put it in another way, he may keep the incumbrance alive for his benefit and thus come in before a later mortgagee.
+Precedent	This rule would not apply if the owner of the property had covenanted to pay the later mortgage debt.
+Precedent	23.
+Precedent	Therefore if, as in this case, a person advances money or covenants to discharge three incumbrances payment of two prior incumbrances cannot be availed of by him as a shield against the third vide <CITATION_1610564> (1920) I.L.R.
+Precedent	53 Mad.
+Precedent	188 at 198.
+Precedent	The principle of subrogation cannot be invoked in such a case for as explained in <CITATION_1873146> (1910) I.L.R.
+Precedent	34 Mad.
+Precedent	119 : 20 M.L.J.
+Precedent	380 "the object of the transaction was not to keep alive a mortgage against the puisne incumbrancer but to discharge the puisne incumbrancer as well".
+Precedent	This was undoubted law before the amendment of the Transfer of Property Act .
+Precedent	But Mr. <NAME> <ORG> contends that this rule of law would apply to the case of a purchaser but not to that of a mortgagee.
+Precedent	I see no distinction in principle, vide <NAME> v. Sheomangal A.I.R.
+Precedent	1931 All.
+Precedent	347.
+Precedent	24.
+Precedent	The next argument of Mr. Kutti Krishna M<ORG> is that Section 92 of the amended Transfer of Property Act is retrospective and under Clause (1) of that section his client's right to subrogation cannot be questioned and he is supported in this view by the <ORG> decision in <CITATION_1668648> (1932) I.L.R.
+Precedent	54 All.
+Precedent	897 (F.B.).
+RatioOfTheDecision	Assuming Section 92 to be retrospective, I am, with due respect, unable to agree with the interpretation placed on Clause (1) Clauses 1 and 3 of Section 92 must be read together Clause 1 enunciates no new principle (vide Section 74 of the Transfer of Property Act since repealed).
+RatioOfTheDecision	It applies to all persons who have an interest in Equity of Redemption and are under no personal obligation to discharge prior incumbrances.
+RatioOfTheDecision	Clause 3 has been enacted to confer a benefit on persons who advance money  to discharge an incumbrance only if the mortgagee has by a registered instrument agreed that such persons shall be subrogated.
+RatioOfTheDecision	The clause is intended to apply to all persons who acquire an interest in the mortgaged property by advancing moneys to discharge prior incumbrances and there is no warrant for restricting the scope of that clause to persons other than purchasers or mortgagees as contended by Mr. <NAME>.
+RatioOfTheDecision	The distinction between the two classes of cases aforesaid namely, those who have an existing interest in the property and those who acquire an interest therein by advancing money is well recognised in the law relating to subrogation.
+Precedent	The <ORG> decision in <NAME> v. <NAME> (1931) 36 C.W.N.
+Precedent	4 (P.C.)
+RatioOfTheDecision	illustrates this clearly.
+RatioOfTheDecision	A purchaser covenanted to pay half the amount of the money due on a prior mortgage but he was compelled to pay the whole and the right of subrogation was allowed only as to half the amount he had not covenanted to pay.
+RatioOfTheDecision	In respect of this half he  would now come under Clause 1 of Section 92 and in respect of the other half under Clause 3 if he obtains a registered instrument securing the right.
+RatioOfTheDecision	Clauses 1 and 3 unmistakably indicate that the legislature has kept this distinction in view.
+RatioOfTheDecision	The Allahabad decision fails to note this and consider Clause 3 and the principle underlying it.
+RatioOfTheDecision	To give effect to the contention of Mr. <NAME> would be to enable every purchaser or mortgagee who enters into a contract to discharge a particular incumbrance to commit a breach thereof and profit by his own wrong and thus violate the equitable principles on which the doctrine of subrogation is based and it is impossible to attribute this intention to the legislature.
+RatioOfTheDecision	There is no registered instrument as required by Clause 3 in this case and the appellant's claim is unsustainable.

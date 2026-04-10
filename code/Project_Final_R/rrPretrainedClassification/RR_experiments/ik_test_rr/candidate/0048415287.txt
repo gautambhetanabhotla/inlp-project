@@ -1,0 +1,29 @@
+Fact	CASE NO.
+Fact	: Appeal (civil) 3276 of 1990 PETITIONER: STATE OF MADHYA PRADESH AND ORS.
+Fact	RESPONDENT: <NAME> DATE OF JUDGMENT: 21/09/1994 BENCH: <NAME> & <NAME> JUDGMENT:  JUDGMENT 1994 SUPPL.
+Fact	(3) SCR 747 The following Order of the Court was delivered :  The respondent was initially granted Mining lease in the year 1966 for a period of 20 years to extract limestone in the forest area.
+Fact	The Forest (Conservation) Act 69 of 1980 has come into force with effect from 25.10.80.
+Fact	Under Section 2 of the Act grant or renewal after the Act has come into force shall be made, in the event of <ORG> deciding to grant lease or renewal, with the prior approval of <ORG>.
+Fact	The object of the Act is to maintain ecology and preservation of the forest.
+Fact	It is also the object under Section 3 to regenerate the forests by planting trees and the forest growth.
+Fact	In 1986 after the expiry of the lease the respondent had approached the Government for renewal.
+RulingByLowerCourt	Though the Government had taken t he decision and passed an order on February 7, 1986 to grant further renewal for a period of 20 years in terras of the original grant, it was objected to by <ORG>.
+RulingByLowerCourt	Consequently it was cancelled.
+RulingByLowerCourt	The respondent had approached <ORG> in Miscellaneous Petition No.
+RulingByLowerCourt	2758 of 89 and <ORG> by its order dated August 18, 1989 following the ratio in <ORG> v, <NAME> and Others, (A.I.R.
+RulingByLowerCourt	1985 S.C. 814) directed to grant renewal on the ground that the part of the leased area had already been broken and, therefore, renewal should be granted.
+RulingByLowerCourt	The appellant contends that this <ORG> in <CITATION_104313664> ., (A.I.R.
+Precedent	1988 SC 2187) and <ORG> v. State of Gujarat and Others, (A.I.R.
+Precedent	1987 SC 1073) had held that even the renewal of the lease cannot be granted without the prior occurrence of <ORG>.
+RatioOfTheDecision	We find force in the contention.
+RatioOfTheDecision	It is settled law that the grant or renewal is a fresh grant and mast be made consistent with law.
+RatioOfTheDecision	Section 2 prohi bited the grant or renewal.
+RatioOfTheDecision	In case <ORG> decides to grant fresh lease or renewal of the lease it is mandatory that it should obtain prior approval of <ORG>.
+RatioOfTheDecision	Admittedly, no prior approval of <ORG> had been obtained under Section 2 of the Act.
+RatioOfTheDecision	<ORG> thus had realised the mistake in directing renewal when <ORG> had objected to the renewal of the lease in favour of the respondent".
+RatioOfTheDecision	Therefore, the cancellation of the order, before it came into effect by registering, had been properly made by the appellant.
+RatioOfTheDecision	<ORG> was, therefore, not right in directing grant of renewal of the lease.
+RatioOfTheDecision	It is brought to our notice that under contempt proceedings the lease deed was directed to be registered and it was accordingly registered.
+RulingByPresentCourt	It is declared that the registration is illegal and is invalid.
+RulingByPresentCourt	The appeal is accordingly allowed.
+RulingByPresentCourt	No costs.

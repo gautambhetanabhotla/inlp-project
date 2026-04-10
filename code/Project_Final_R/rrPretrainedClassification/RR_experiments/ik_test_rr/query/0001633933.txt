@@ -1,0 +1,25 @@
+Fact	JUDGMENT  1.
+Fact	The plaintiff had preferred a claim under Section 278 of the Civil Procedure Code and his claim was disallowed under Section 281 of the Civil Procedure Code.
+Fact	Within a year of the order disallowing the present plaintiff's claim, the judgment-debt was satisfied otherwise than by the sale of the attached property.
+Fact	The present suit is now brought to establish the plaintiff's right to the properties as usufructuary mortgagee and for recovery of possession from the defendants.
+Fact	It has been held that the suit is barred under Article 11 of schedule II of the Limitation Act.
+Precedent	2.
+Precedent	Mr. <NAME>, appearing for the plaintiff who is the appellant before us, contends that the order under Section 283 enures in favour of or against the decree-holder or the claimant and not the judgment-debtor, The judgment-debtor, according to this contention, is not a party within the meaning of Section 283 and this contention would seem to be supported by the decisions in <ORG> v. <NAME> (1888)  I.L.R.
+Precedent	15 Calc.
+Precedent	574 and Morshia Barayal v. Elahi Buxkhan (1905) 3 C.L.J.
+Precedent	381 where the proposition is laid down that, in proceedings under Section 278, the real question for decision is not whether the title to the property belongs to the judgment-debtor or the claimant but whether the property should be released from attachment or not.
+Precedent	We may also point out that the observations of their Lordships of the Privy Council in <NAME> v. <NAME> (1888) I.L.R.
+Precedent	15 Calc.
+Precedent	521 at p. 525 would indicate that, besides the claimant, the only other party within the meaning of Section 280 is the judgment-creditor.
+Precedent	<CITATION_1227114> (1906) I.L.R.
+Precedent	29 Mad.
+Precedent	225 and <CITATION_1074949> (1902) I.L.R.
+Precedent	25 Mad.
+Precedent	721 proceed upon the view that if the judgment-debtor be made a party to the proceedings and there has been an adjudication between him and the claimant, the suit of the claimant would be barred as against him if not brought within a year.
+Precedent	Even supposing that to be the correct interpretation of the section of the C ode in question--and we do not think that the respondent can properly put her case any higher--we find that in the present case the respondent, who was judgment-debtor in the claim proceedings, neither appeared nor was there adjudication of the claim as between her and the present plaintiff.
+Precedent	We may point out that the decision in <CITATION_26873> (1869) M.H.C.R.
+Precedent	472 proceeds upon the Code of 1857 where the language employed is different from that of the code of 1882.
+Argument	3.
+RulingByPresentCourt	We therefore hold that the view taken by the lower <ORG> on the question of application of Article 11 of the ' Limitation Act is wrong.
+RulingByPresentCourt	The decree of lower <ORG> will be set aside and the case will be remanded to it for disposal on the other issues.
+RulingByPresentCourt	Costs will abide the result.

@@ -1,0 +1,8 @@
+Argument	Court No.
+Argument	- 19 Case :- CONSOLIDATION No.
+Fact	- 322 of 2010 Petitioner :- <NAME> S/O <NAME> Respondent :- Deputy Director Of Consolidation, Faizabad Petitioner Counsel :- <NAME> Respondent Counsel :- C.Sc..,R.R.
+Fact	Upadhyaya Hon'ble S.C. Chaurasia,J.
+Fact	<NAME>, learned counsel for opposite party is reported to be on sanctioned leave.
+RulingByLowerCourt	List after the expiry of his sanctioned leave.
+RulingByLowerCourt	Interim order, if any, shall continue till the date of next listing.
+Fact	Order Date :- 12.7.2010 psd

@@ -1,0 +1,473 @@
+Fact	ORDER <NAME>, Accountant Member  1.
+Fact	<ORG> was constituted to consider the question whether provisions of Section 40A(8) of the Income-tax Act, 1961 ('the Act') are applicable to assessment year 1976-77, irrespective of previous year followed by the assessee.
+Fact	<ORG> had expressed the opinion that it would, while <ORG> had held that Section 40A(8) would apply only to expenditure on interest incurred after 1-4-1976.
+Fact	2.
+Fact	The assessee-company manufactures Pharmaceuticals, drugs and milk products.
+Fact	Its accounting year ended on 30-6-1975 which is relevant for the assessment year 1976-77 (year under consideration).
+Fact	The <ORG> had disallowed under Section 40A(8) Rs.
+Fact	3,11,040.
+Fact	The only discussion in the assessment order as per paragraph 10 is that (assessee) has correctly shown disallowance at the rate of 15 per cent of Rs.
+Fact	20,73,598 (out of interest paid) amounting to Rs.
+Fact	3,22,040.
+Fact	Before the Commissioner (Appeals), the assessee raised an additional ground challenging the disallowance under  Section 40A(8) on the ground that Section 40A(8) , having been introduced with effect from 1-4-1976, would, therefore, be applicable to expenditure incurred on payment of interest on deposits from that date and not to interest paid prior to that date and as the assessee's previous year relating to the assessment year 1976-77 ended on 30-6-1975, provisions of Section 40A(8) were inapplicable to this year.
+Fact	The assessee relied on the <ORG> 'D' decision in <ORG> [IT Appeal No.
+Fact	952 (Mad.)
+Argument	of 1980] for the assessment year 1976-77.
+Argument	The Commissioner (Appeals), without discussing the matter, rejected the assessee's contention and confirmed the <ORG>'s order.
+Argument	3.
+Argument	At the hearing before us, the learned counsel for the assessee again relied on the aforesaid decision of the <ORG> 'D' and emphasized that provisions of Section 40A(8) operate only in respect of expenditure on interest incurred after 1-4-1976.
+Argument	In the <ORG> case, the accounting year ended on 30-4-1975, while in t he case before us the accounting year ended on 30-6-1975.
+Argument	It was thus urged that the <ORG> decision squarely applied in the assessee's case.
+Argument	4.
+Argument	The learned departmental representative urged that Section 40A(8) had been introduced by the Finance Bill, 1975 with effect from 1-4-1976-  98 ITR (St.) 129.
+Argument	He also referred to memorandum explaining the provisions of the Finance Bill, 1975 at  98 ITR (St.) 184 (paragraphs 9-11) where it was indicated that 'the proposed amendment will take effect from 1st April, 1976 and will accordingly apply in relation to the assessment year 1976-77 and subsequent years'.
+Argument	Similar were the observations under 'Notes on clauses' in  98 ITR (St.) 168.
+Argument	It was emphasized by the departmental representative that there was nothing in the aforesaid amendment or the Notes on clauses or in the memorandum to suggest that previous year had any relevance and that it was clear that disallowance of 15 per cent of the interest was to be made out of expenditure on interest incurred in th e assessment year 1976-77 irrespective of different previous years followed by the diverse assessees.
+Argument	It was further urged that it was an elementary principle of income-tax law that the law to be applied is that in force in the assessment year and it is immaterial what previous year the assessee follows.
+Argument	It was urged that any amendment which is in force at the beginning of the relevant assessment year must govern the case after the income under assessment is earned.
+Argument	It was also urged that the <ORG> had given one year's advance notice of the applicability of the new provision [ Section 40A(8) ].
+Argument	5.
+Argument	The revenue's case is supported by good authority.
+Precedent	<NAME> & <NAME> in <ORG>, Seventh edn., Vol.
+Precedent	1 at p. 83 under the head 'Law to be applied is that in force in assessment year' observed : "Though the subject of the charge is the income of the previous year, the law to be applied is that in force in the assessment year, unless otherwise stated or implied."
+Precedent	These observations are base d on <CITATION_375925> 1.1951] 20 ITR 572, 577 (<ORG>) and M.KR.
+Precedent	Deivanayagam Pillai v. Second Addl.
+Precedent	ITO  35 ITR 549, 551 (Mad.).
+Precedent	The learned commentators further observed : "Any amendment which is in force at the beginning of the relevant assessment year must govern the case though the amendment is made after the income under assessment is earned.
+Precedent	In other words, the Income-tax Act as it stands amended on the 1st April of a financial year must apply to the assessment for that year."
+Precedent	These observations are again based on a number of decisions given in footnotes 12-13 on the same page.
+Precedent	We will refer to these decisions later.
+Precedent	6.
+Precedent	Similar are the observations by <NAME> in <ORG>, Seventh edn., Vol.
+Precedent	1 at pages 450-451 under the head "14.
+Precedent	Levy of charge according to the provisions of the Income-tax Act as they stand on the first day of April each year."
+Precedent	The learned commentator, relying on <ORG> case (supra) observed that <ORG> pointed out that "It is a cardinal princ iple of the tax law that the law to be applied is that in force in the assessment year unless otherwise provided expressly or by necessary implication.
+Precedent	But, it has been held, the subject of charge is not the income of the year of assessment, but the income of the previous year.
+Precedent	As the Finance Act s come into force on the first day of April each year, therefore, the law to apply is the law in force at the commencement of the year of assessment, i.e., the first day of April each year."
+Precedent	The commentator relied on <CITATION_873220>  13 ITR 221 (PC) as also on <NAME> case (supra).
+Precedent	The commentator further observed in the same para : "Thus, as a charge on the income of the previous year, the substantive law of that year must be applied."
+Precedent	The commentator relied on <CITATION_485405>  111 ITR 525 (Cal.).
+Precedent	The commentator further observed that "applying the above rule, <ORG> in <CITATION_963833> .
+Precedent	42 ITR 589 declined to allow retrospective operation to be given to fourth proviso to <ORG> n 10(2)(vii) inserted by the Income-tax (Amendment) Act , 1946 which had been brought into force on 5-5-1946".
+Argument	7.
+Argument	Similar are the observations of <NAME> and <NAME> in Income-tax Law, Third edn., Vol.
+Argument	1 at p. 193 under the head 'Law applicable to income-tax assessments'.
+Argument	These commentators have also relied on a number of decisions.
+Argument	8.
+Fact	<ORG> in <ORG> case (supra) at p. 577 clearly observed : "The first question to be answered is whether these dates [1-4-1940 when amendment to Section 10(2)(vii) of the Indian Income-tax Act, 1922 took effect and 1-4-1939 mentioned in the amended proviso] are to apply to the accounting year or the year of assessment.
+Fact	They must be held to apply to the assessment year, because in income-tax matters, the law to be applied is the law in force in the assessment year unless otherwise stated or implied,"  9.
+Fact	Earlier, <ORG> in Maharajah of Pithapuram's case (supra) observed that under the express terms of Section 3 of the Indian Incom e-tax Act, 1922 ('the 1922 Act') the subject of charge is not the income of the year of assessment but the income of the previous year.
+Fact	In that case, Section 16(1)(c) of the 1922 Act, which was amended by the Income-tax (Amendment) Act , 1939, was held to apply to the assessment year 1939-40 although the subject of charge was the income of the accounting year 1938-39.
+Statute	Section 16(1)(c) applied to revocable transfers of assets- whether they were effected before or after the commencement of the Income-tax (Amendment) Act .
+Argument	The assessee by certain deeds of trust and settlement dated 5-4-1933 had settled properties on his daughters with a provision reserving to himself powers to revoke the settlements and the question was whether for the assessment year 1939-40, the income of accounting year 1938-39 derived from such assets was assessable under Section 16(1)(c) and the assessee urged that only transfers effected after 1-4-1939 were hit by Section 16(1)(c) but <ORG> repelled that contention and held tha t the law as amended would apply to the assessee.
+Argument	10.
+Precedent	To the same effect is the decision of <ORG> in <ORG> v. <ORG> [1940] 8 ITR 467 where it was held that law and statutory rules applicable for determining an assessment are the law and statutory rules in force for the year of assessment and not those which were in force during the (accounting) year the income of which is sought to be assessed.
+RatioOfTheDecision	Thus, for the assessment year 1936-37, the <ORG> notifications of 2-11-1935 and 4-4-1936, limiting the exemption of interest on securities purchased through the post offices was applicable though the income assessable was for the accounting year ending 31-3-1936.
+RatioOfTheDecision	11.
+Argument	<<ORG>ATION_1002323>  9 ITR 137 (Pat.
+Argument	), the question was whether the provisions of Section 16(3)(a)(iii) inserted by Section 2 of the Income-tax (Amendment) Act, 1937 applied to the assessment year 1937-38 in respect of income from assets transferred by <NAME> to his wife otherwise than for adequate consid eration before 1-4-1937 and it was held that the said provision applied to the transfers made before 1-4-1937.
+Argument	The <ORG>, thus, repelled the contention that the amending Section would not apply to transactions entered into before the amendment.
+Argument	12.
+RatioOfTheDecision	There is thus a catena of decisions laying down, what has by now become a well established rule of interpretation, that any amendment which is in force at the beginning of the relevant assessment year must govern the case though the amendment is made after the income under assessment is earned in the accounting year which has since closed.
+RatioOfTheDecision	The Calcutta High <ORG> in <NAME> case (supra) followed the earlier decisions mentioned above and reaffirmed the said principle of construction of statutes.
+Precedent	Similar view had been taken by the Gujarat High <ORG> in <CITATION_1201179>  72 ITR 637.
+Precedent	13.
+Precedent	The Madras High <ORG> in <NAME> case (supra) while dealing with double taxation relief under India & Burmah Income-tax Relief Order, 1936, held  that the law to apply to the claim of the assessee in this case was the law as it stood in the year of assessment, namely, 1947-48.
+Precedent	It was observed that only where there was a change in law even within the course of the assessment year, it was the law in force at the commencement of the assessment year that should apply in the absence of any statutory provision to the contrary.
+Precedent	14.
+Precedent	<ORG> in <CITATION_208673>  84 ITR 661 observed that it was well recognized that specific dates in the 1961 Act and the Finance Act , 1955, had reference to assessment years and had nothing to do with the accounting years of an assessee which might differ from person to person.
+RulingByLowerCourt	Thus, the amendment contained in the Finance Act was held applicable to the assessment year 1955-56.
+RulingByLowerCourt	15.
+RulingByLowerCourt	<ORG> in <CITATION_1527327> .)
+RulingByLowerCourt	Ltd.  119 ITR 830 observed at p. 834 that it was a well settled proposition in the income-tax law that in income-tax matters, the law to be applied is the law in force in the assessment year  unless otherwise stated or implied.
+Argument	<ORG> followed the <ORG> decision in <ORG> case (supra).
+Argument	16.
+Argument	The <ORG> in <CITATION_1340757> ' 120 ITR 921 reiterated that it was a cardinal principle of tax law that the law to be applied is that in force in the assessment year unless otherwise provided expressly or by necessary implication.
+Argument	They followed their decisions in <ORG> case (supra) and <CITATION_1476134>  60 ITR 262 (SC).
+Argument	17.
+Argument	The <ORG> in <CITATION_565623>  25 ITR 58 was considering the applicability of the Finance Act , 1950 to 'United States of Rajasthan' for the assessment year 1950-51 and they observed that the income for the assessment year 1950-51 became assessable to Indian income-tax in respect of the previous year 1949-50.
+Argument	They rejected the contention that as the Constitution of India had come into force only on 26-1-1950, the income of the previous year before 26-1-1950 was not taxable to Indian Income-tax.
+Argument	At page 70, t hey observed that "The case is thus one where the statute purports to operate only prospectively, but such operation has, under the scheme of the Indian Income-tax law, to take into account income earned before the statute came into force.
+Argument	Such an enactment cannot, strictly speaking, be said to be retroactive legislation, though its operation may affect acts done in the past.
+Argument	18.
+Argument	<ORG> in <ORG>'s case (supra) observed : "It is well settled that the Income-tax Act as it stands amended on the first day of April of any financial year must apply to the assessment of that year."
+Argument	However, dealing with amendment coming into force after 1st April, they observed "Any amendments in the Act which comes into force after the first day of April of a financial year, would not apply to the assessment for that year, even if the assessment is actually made after the amendments come into force."
+Precedent	<ORG> explained that its earlier decision in <ORG> case (supra) ha d laid down that the amended Act as on 1st April applied to assessment year and accounting year had no relevance and that though subject of charge was income of the previous year, law to be applied was that in force in the assessment year.
+Precedent	19.
+Precedent	<ORG> in L. Rajeshwar Pershadv.
+Precedent	<ORG> were dealing with the assessability to capital gains of sale of ornaments in the financial year 1972-73 in view of amendment of Section 2(14)(ii) of the Act made effective from 1-4-1973 by including jewellery in the definition of 'capital assets'.
+Precedent	Question before the Court was whether the said amendment governed the assessment year 1973-74.
+Precedent	Following <ORG> case (supra), <ORG> held that the sale of jewellery in the financial year 1972-73 was assessable in the assessment year 1973-74.
+Precedent	<ORG> thus rejected the assessee's contention that as the sale of jewellery was made before the amendment, the amendment did not apply to his case.
+Precedent	20.
+Precedent	In <ORG> v. <ORG>  [1973] 91 ITR 513 (Mad.
+Argument	), while dealing with voluntary disclosure under the Finance (No.
+Argument	2) Act, 1967, <ORG> observed that it was a well settled rule of interpretation that in construing the scope of legal fiction, it would be proper and even necessary to assume all those facts on which alone the fiction can operate and a construction which defeats the very object sought to be achieved by the <ORG> must, if possible, be avoided.
+Argument	21.
+Argument	Applying the aforesaid ratio to the facts of the case before us, the <ORG> having declared that Section 40A(8) would operate from the assessment year 1976-77, it has to be assumed as a necessary corollary that the said Section would operate for the previous year relevant for the assessment year 1976-77 and to hold that the said Section would operate only in respect of expenditure incurred on or after 1-4-1976, as contended by the assessee, would nullify the <ORG>'s intention to apply the said Section with effect from the assessment year-1976-77.
+Argument	We may observe that arguments advanced regarding interpretation of Section 64 of the Act, similar to those urged before us by the assessee-company, that the taxing provisions would apply only prospectively and would not affect transactions already completed, were rejected in a number of decisions where it was held that Section 64(1) concerns the income from transferred assets and not the date of transfer and if the income from transferred assets (to the wife or minor child without adequate consideration) arose in the accounting year relevant to the assessment year, the income was assessable.
+Argument	A number of cases are enumerated at page 1835 of <NAME> and <NAME>'s Income-tax, Third edn., Vol.
+Argument	2.
+Argument	Similar are the observations at p. 2379 of <NAME> Law of Income-tax, Seventh edn., Vol.
+Argument	3.
+Precedent	22.
+Precedent	In this context, we have to refer to <CITATION_993745> .)
+Precedent	Ltd.  76 ITR 84 (Cal.)
+RatioOfTheDecision	on which the assessee has relied in support of his proposition that only the law in force in the accounting year should be appl ied.
+RatioOfTheDecision	In that case, the company's accounting year had ended on 30-6-1959 and it had declared dividend in March 1960 when the statutory percentages of total income under Section 23A of the 1922 Act for declaration of dividend (within 12 months of close of previous year) were 45 per cent in the case of manufacturing, processing, etc.
+RatioOfTheDecision	and 60 per cent in the case of trading.
+RatioOfTheDecision	However, by Section 11 of the Finance Act, 1959, the said statutory percentages were amended to 50 per cent and 65 per cent respectively, with effect from 1-4-1960.
+RatioOfTheDecision	23.
+Fact	The controversy was whether the revised percentages would apply in the assessee's case in respect of assessment year 1960-61 for which the <ORG> had made the assessment on 17-3-1961.
+RulingByLowerCourt	<ORG> held that as the dividend was to be declared within 12 months following the expiry of the previous year, the statutory percentages operative in the previous year only have to be considered and not the revised percentages.
+RulingByLowerCourt	The <ORG> came to this conclusion on analysing the lan guage of Section 23A as well as the amendment introduced by the Finance Act , 1959 which, according to <ORG>, intended the revised percentages to be applicable only prospectively from 1-4-1960.
+RulingByLowerCourt	The <ORG> further observed that tax cannot be levied by implication.
+Fact	The <ORG>, therefore, was of the opinion that the revised percentages would not be applicable and only the percentages operative in the previous year would be operative in that case.
+Precedent	24.
+Precedent	Thus, the said case was decided on the language of Section 23A of the 1922 Act and of the Finance Act , 1959 and does not lay down any general proposition regarding the applicability of law as on 1st April to the assessment year (irrespective of the previous year followed by the assessee).
+Precedent	25.
+RulingByLowerCourt	<CITATION_1106830> .)
+RulingByLowerCourt	Ltd.  71 ITR 380 (Mad.
+RulingByLowerCourt	), it was held that the amended Section 23A which had become applicable from 1-4-1954 would apply in the assessee's case whose accounting year ended on 31-5-1954 (relevant for the assessment year 1955-56).
+Fact	Thus, the Madras H <ORG> view is different than that of <ORG>.
+RatioOfTheDecision	26.
+RatioOfTheDecision	The scheme of levy of additional income-tax on undistributed profits of private limited companies under Section 104 of the 1961 Act (and Section 23 A of the 1922 Act) is entirely different from levy of income-tax on income or allowance of expenditure.
+RatioOfTheDecision	Under the aforesaid provisions, a private company must distribute out of its total income statutory percentages as dividend within 12 months of expiry of its previous year, otherwise, it will have to pay additional income-tax.
+RatioOfTheDecision	Thus, the law applicable would be as obtaining immediately on close of the previous year.
+RatioOfTheDecision	The proposition regarding applicability of income-tax laws as on 1st April being applicable in assessment year would, therefore, not be applicable while considering the special provision of levy of income-tax on undistributed income.
+RatioOfTheDecision	That is why the case law relevant to the controversy before us, namely, of law existing on 1st April being applicable to assessment year was neither  cited nor considered by <ORG> in <ORG> case (supra).
+RatioOfTheDecision	We may point out that the assessee had to take positive action of declaring dividend within a time framework, i.e., immediately after the close of accounting year and in any case before the expiry of 12 months thereafter so as to avoid levy of additional income-tax.
+RulingByLowerCourt	If the assessee did not declare dividend of statutory percentages of total income, then additional income-tax was to be levied by the <ORG>.
+RulingByLowerCourt	However, in the case before us, no positive action on the part of the assessee is contemplated and only at the time of computation of the total income, the <ORG> has to disallow part of certain expenditure (on payment of interest) in the light of law obtaining as on 1st April of the assessment year in question.
+RulingByLowerCourt	27.
+RulingByLowerCourt	Let us now analyse the assessee's arguments based on <ORG> case (supra).
+RulingByLowerCourt	The first argument is that though there is nothing in Section 40A(8) to say that the amount disallowed under that Section s hall be deemed to be the income of the assessee but the said Section by implication treated the disallowed expenditure on interest as part of the income.
+RulingByLowerCourt	Thus, there was implied deeming of the disallowed interest as income and the implied deeming of income did not have any retrospective effect as the <ORG>'s usual practice was of giving the assessee a chance to arrange its affairs.
+Argument	It was admitted that Section 40A(8) was introduced by the Finance Act , 1975 with effect from the assessment year 1976-77, thus, giving one year's advance notice, still it was claimed that sufficient notice was not given to the assessees to arrange their affairs.
+Argument	Though the revenue contended that the <ORG> was competent even to retrospectively amend the law and, thus, assess income which had already accrued in the earlier years, the assessee urged that for retrospective legislation, there must be specific intention expressed by the <ORG> and that in the present case, there was no express declaration of such intent ion by the <ORG>.
+Argument	It was urged that holding that Section 40A(8) operated from the assessment year 1976-77, irrespective of the previous year, would lead to absurd and anomalous results and applying the modern 'purposive approach' by considering the policy behind the enactment of curbing credits by non-banking concerns, the curb could only be on taking fresh interest-bearing deposits after 1-4-1976.
+Argument	28.
+RatioOfTheDecision	We have given very careful and anxious consideration to this matter and we find ourselves unable to accept the assessee's contentions.
+RatioOfTheDecision	There is no warrant for equating the disallowed expenditure on interest with deemed income.
+RatioOfTheDecision	Income and expenditure are two different and diametrically opposite concepts.
+RatioOfTheDecision	Income is what comes in, while expenditure is what goes out.
+RatioOfTheDecision	Thus, to treat income as interchangeable with expenditure would be confusing the issue.
+RatioOfTheDecision	We, therefore, cannot accept the proposition that disallowed expenditure becomes deemed income.
+RatioOfTheDecision	29.
+RatioOfTheDecision	Regarding giving the assessee a chance to arrange its af fairs, we are unable to find any such rule of construction of statutes.
+RatioOfTheDecision	When the <ORG> has full and plenary powers even to make laws retrospective in operation, we do not see anything wrong with the <ORG> introducing Section 40A(8) by the Finance Act , 1975 and making it effective only one year later, i.e., from 1-4-1976 which would thus be operative in the assessment year 1976-77.
+Argument	<ORG> in <ORG> case (supra) at p. 223 observed "under the express terms of Section 3 of the Indian Income-tax Act, 1922, the subject of charge is not the income of the year of assessment, but the income of the previous year.
+Argument	This is in direct contrast with the English Income-tax Acts, under which the subject of assessment is the income of the year of assessment, though the amount is measured by yardstick based on previous years".
+Argument	Similarly, <ORG> in <NAME> case (supra) at p. 665 observed : "It was contended by the learned counsel for the assessee that Section 2(6C)(iii)  came into force on April 1, 1955, while the previous year relevant to the assessment year in question was from October 1, 1953 to September 30, 1954.
+Argument	Section 2(6C)(iii) , therefore, did not apply to the case.
+RatioOfTheDecision	The contention is not well founded Further, it is well recognized that the specific dates which are mentioned in the Income-tax Act have reference to the assessment years and have nothing to do with the accounting years of an assessee which may differ from person to person.
+Precedent	The amendment contained in the Finance Act , 1955, in respect of Section 2(6C)(iii) was thus applicable to the assessment year 1955-56 and was rightly invoked by the Income-tax Officer."
+Precedent	30.
+RatioOfTheDecision	We are unable to accept <NAME> contention that there was any ambiguity regarding the applicability of provisions of Section 40A(8) or that the applicability of the said provisions to the assessment year 1976-77 would lead to manifestly absurd and anomalous results.
+RatioOfTheDecision	When the intention of the <ORG> is clear and unequivocal, there is n o room for trying to go behind the clear language of the Section.
+Precedent	31.
+Precedent	<ORG>, Twelfth edn.
+Precedent	observes at p. 28 under Chapter 2 while discussing the general principles of interpretation that the primary rule is of literal construction.
+Precedent	The rule of construction is 'to intend the <ORG> to have meant what they have actually expressed'.
+Precedent	"Where the language is plain and admits of but one meaning, the task of interpretation can hardly be said to arise."
+Precedent	32.
+Precedent	<NAME>' Construction of Deeds and Statutes, Fifth end.
+Precedent	at p. 260 under the head '8.
+Precedent	Statute, if clear, must be enforced' observes "if the language of a statute is clear, it must be enforced though the result may seem harsh or unfair and inconvenient".
+Precedent	Reliance is placed on Re.
+Precedent	Robb's Contract [1941] Ch.
+Precedent	463 at p. 478 per Lord Greene M.R.
+Precedent	33.
+Precedent	Craies on Statute Law, Seventh end.
+Precedent	at p. 64 under Chapter 'Construction where the meaning is plain' under the heading 'Meaning and legal effect distinguished' observes : "There is no pla ce for interpretation or construction except where the words of the statute admit of two meanings."
+Precedent	As <NAME> said : "Where the words of an Act of Parliament are clear, there is no room for applying any of the principles of interpretation which are merely presumptions in cases of ambiguity in the statute."
+Precedent	Under the heading 'Construction according to intention' (on the same page) the author observed : "The cardinal rule for the construction of Acts of the Parliament is that they should be construed according to the intention expressed in the Acts themselves.
+Precedent	If the words of the statute are themselves precise and unambiguous, then no more can be necessary than to expound those words in their ordinary and natural sense.
+Precedent	The words themselves alone do in such a case best declare the intention of the law-giver."
+Precedent	It was further observed (on p. 65) that the primary rule is the literal rule and that the intention of the <ORG> is not to be speculated on.
+Precedent	34.
+Precedent	Bindra on Interpretation of Statutes, Fifth edn.
+Precedent	a t pages 552-553 under the heading 'Rule to determine tax liability' noted that the Lord <NAME> observed in <NAME> v. Attorney General [1869] LR 4 HL 100 : "As I understand the principle of all fiscal legislation, it is this : if the person sought to be taxed comes within the letter of the law, he must be taxed, however, great the hardship may appear to the judicial mind to be".
+Precedent	Similarly, <NAME> in Attorney General v. Earl of <NAME> said : "Therefore, the Crown fails if the case is not brought within the words of the statute, interpreted according to their natural meaning".
+Precedent	At p. 554 under the head 'Literal construction of words used', the author observed : "It is no doubt true that in construing fiscal statutes and in determining the liability of a subject to tax, one must have regard to the strict letter of the law and not merely to the spirit of the statute or the substance of the law.
+Precedent	If the revenue satisfies the <ORG> that the case falls strictly within the provisions of the law, the subject  can be taxed."
+Precedent	At p. 559, under the head 'Considerations of reason and justice not material', it was noted that in <NAME> v. Hall,;Tounten, J. observed with reference to stamp law that it "imports nothing of reason and justice but depends entirely upon the language of the <ORG>".
+Precedent	The author further observed on the basis of <CITATION_1009696> AIR 1957 AP 706, 710.
+Precedent	"In case of a taxing statute, the <ORG> should be guided by the general scope of the enactment and the express provisions of the statute and not by considerations which might weigh in a case arising under the statute of frauds or similar statutes".
+RatioOfTheDecision	At p. 560, the author noted that in the case of a fiscal enactment, one has to look at what is clearly said.
+RatioOfTheDecision	There is no room for any 'intendment'.
+RatioOfTheDecision	No argument based on hardship or inconvenience can be entertained.
+RatioOfTheDecision	Rule of strict construction does not mean that the language of the provisions should be tortured into meaning something artificial, if its natural meaning is not repugnant to reason.
+RatioOfTheDecision	Thus,  the rules of interpretation of statutes are quite emphatic that where the language of a statute is clear, effect should be given to it, however, hard the case of the taxpayer may appear to be.
+RatioOfTheDecision	35.
+RatioOfTheDecision	Applying the said rules to the case before us, we do not see how the provision for disallowance of interest under Section 40A(8) is not applicable to the assessment year 1976-77.
+RatioOfTheDecision	We are, therefore, unable to accept <NAME> argument that literal construction of Section 40A(8) would lead to absurd and anomalous results.
+RatioOfTheDecision	<NAME> has not spelt out what absurd or anomalous results he visualised and we are unable to see any such results.
+RatioOfTheDecision	According to us, the provisions of Section 40A(8) do not lead to any absurd or anomalous results and the intention of the <ORG> is quite clear that the said provisions are to apply in the assessment year 1976-77 and, therefore, the said provisions would apply, irrespective of the fact as to which previous year the particular assessee follows and so long as the previous y ear followed by the assessee would be relevant for the assessment year 1976-77, the provisions of Section 40A(8) would apply to that particular assessee.
+RatioOfTheDecision	We have already noted that the <ORG> had given the assessees one year's notice by introducing the said provision in the Finance Act , 1975 though it.
+RatioOfTheDecision	was applicable for the assessment year 1976-77.
+RatioOfTheDecision	Therefore, the submission of <NAME> that an assessee should be given adequate notice to arrange his affairs, though legally not correct, is still factually invalid because the <ORG> did give one year's advance notice to the assessees to arrange their affairs.
+RatioOfTheDecision	The <ORG> has plenary powers to legislate prospectively as well as retrospectively and there is no limitation on the <ORG>'s power to direct from which date a particular fiscal provision would operate.
+RatioOfTheDecision	It is true that in some cases the <ORG> does specify a date from which date the said provision is to come into force, For example, under Section 40A(3) in respect of disallowance  of payment of Rs.
+RatioOfTheDecision	2,500 or more not paid by a crossed cheque, the <ORG> did specify that payments made after 31-3-1969 would be hit by the said provision.
+RatioOfTheDecision	However, the"<ORG> has also specified in respect of a number of other fiscal provisions, particularly annual amendments to the 1961 Act brought through the Finance Act s that certain provisions would be applicable with effect from specified assessment years.
+RatioOfTheDecision	This is a well recognized and much used method of amendment of the Act.
+RatioOfTheDecision	We cannot arrogate to ourselves the power to sit in judgment over the wisdom of introducing a particular fiscal provision with effect from a particular assessment year and we have to give effect to the clear legislative intention as expressed by the <ORG> through the amendment to the Act.
+RatioOfTheDecision	It is not for us to twist the fiscal provision on the ground that literal construction of the fiscal provision would result in hardship or that the particular assessee did not get sufficient advance notice to arrange his affairs in t he light of the amendment.
+RatioOfTheDecision	Nor can we import 'purposive approach' to hold that though Section 40A(8) was clearly directed to be operative with effect from 1-4-1976 for the assessment year 1976-77, yet, according to us, it would apply only to expenditure on interest incurred after 1-4-1976.
+RatioOfTheDecision	For the foregoing reasons, we are, therefore, anable to accept the assessee's contentions based on the view taken by the Madras Bench.
+Precedent	36.
+Precedent	In the result, we uphold the Commissioner (Appeals)'s order that Section 40A(8) was applicable in the assessment year 1976-77 and, therefore, the disallowance made by the <ORG> stands upheld.
+Precedent	37.
+Precedent	We now deal with the other grounds raised in this appeal.
+Precedent	38.
+RulingByLowerCourt	Ground Nos.
+RulingByLowerCourt	2-3 are regarding assessability of reimbursement of medical expenses and applicability of Sections 40A(5) / 40(c) of the Act.
+RulingByLowerCourt	The <ORG> in paragraph 3 of the assessment order observed as under :  3.
+RulingByLowerCourt	Disallowance under Section 40A(5) and under Section 40(c) .-Assessee has worked out this disallowance at Rs.
+RulingByLowerCourt	2,60,659 without  taking into account reimbursement of medical expenses.
+RulingByLowerCourt	The same has been considered as perquisites while arriving at the above disallowance.
+RulingByLowerCourt	The correct disallowance works out to Rs.
+RulingByLowerCourt	2,84,151.
+RulingByLowerCourt	The Commissioner (Appeals) in paragraph 7 noted the assessee's grievance against the <ORG>'s treating reimbursement of medical expenses as perquisite.
+Argument	He upheld the <ORG>'s action in applying Section 40A(5) which finding, according to us, was unnecessary as there was no controversy regarding the disallowance of expenses of Rs.
+Argument	2,60,659 and the only controversy before the Commissioner (Appeals) was regarding the treatment of reimbursement of medical expenses as perquisite by the <ORG>.
+Argument	Hence, ground No.
+Argument	2 raising the point whether Section 40A(5) or Section 40(c) applied to director employees being academic is rejected.
+Argument	Salaries of all the directors were above Rs.
+Argument	72,000 and, therefore, it is immaterial whether Section 40(c) or proviso to Section 40A(5) applies in the case of director employees.
+Argument	39.
+Argument	The Commissioner (Appeals)  further held that cash reimbursement of expenses constituted a distinct addition to the salary of the director employees.
+Argument	He thus varied the <ORG>'s findings because the <ORG> had treated the reimbursement of medical expenses as perquisite.
+Fact	The assessee-company as per Annexure XIII (paper book, page 31) had worked out the disallowance under Section 40A(5) in respect of directors at Rs.
+Fact	2,28,424 (as exceeding Rs.
+Fact	72,000 in each case) and in respect of other employees at Rs.
+Fact	32,235 and the total disallowance at Rs.
+Fact	2,60,659 and had given a note that the medical expenses reimbursed to the employees and directors had not been considered as perquisite while computing the aforesaid disallowance.
+Fact	The company furnished details of medical expenses (PB 32) of directors at Rs.
+Fact	13,608 and all other employees at Rs.
+Fact	10,233 totalling Rs.
+Fact	23,841 and it is this amount which the <ORG> added as 'disallowance under Section 40A(5) and 40(c) '.
+Fact	40.
+Fact	Thus, the controversy before us is whether the Commissioner (Appeals) was right in tre ating the reimbursement of medical expenses as part of salary.
+Argument	41.
+Argument	We may straightaway note that the matter is covered squarely by a decision of <ORG> in <CITATION_1647347>  3 SOT 72, where in paragraph 19 the <ORG> noted that Explanation 2 to Section 40A(5) defined not only 'perquisites' but also defined 'salary' by stating that 'salary' has the meaning assigned to it in Section 17(7) , read with Section 17(5) , of the Act subject to certain modifications, namely, that perquisite was omitted from Section 17 (/)(iv).
+Argument	The <ORG> noted that 'profits in lieu of or in addition to salary or wages' was not omitted from the same Clause and that Section 17(3)(ii) defining 'profits in lieu of salary' included 'any payment .
+Argument	.
+Argument	.
+Statute	received by an assessee from an employer'.
+Precedent	42.
+Precedent	The Special <ORG> observed that "the words 'any payment' again is wide enough to cover every payment made by the employer to the employee irrespective of the context in which or the purpose for which the payment is made....
+Precedent	In o ther words, it would also include a payment made by the employer to the employee which is in the nature of payment made for reimbursement of expenses.
+Precedent	(p. 77)  43.
+Precedent	The <ORG> then arrived at the conclusion that 'salary as defined in Explanation 2 includes every cash payment due to or received by an employee'.
+Precedent	The <ORG> was considering reimbursement by the employer to the employee of medical expenses and lunch expenses (paragraph 8).
+Precedent	44.
+Argument	At the hearing before us, the learned counsel for the assessee urged for reconsideration of the aforesaid Special <ORG> decision.
+Argument	He relied on the Tribunal <ORG> 'A's order in the assessee's case for the assessment year 1977-78 where the <ORG> had held in paragraphs 10 and 10(a) that cash reimbursement made by the <ORG>-company to its employees was not hit by Section 40A(5) in case of employees and by Section 40(c) in the case of directors and employee-directors.
+Argument	The <ORG> in paragraph 8 noted the assessee's contention that medical reimbursement was a perquisite but in view  of expression 'whether convertible into money or not' qualifying perquisite in Section 40A(5)(a)(ii) , cash payments could not be covered by.
+RatioOfTheDecision	the said sub-clause.
+RatioOfTheDecision	Support was taken from <CITATION_428028> .)
+Precedent	Ltd.  132 ITR 125 (Bom.)
+Precedent	where, following <CITATION_621499> .
+Precedent	119 ITR 431 (Cal.)
+Precedent	and <CITATION_823444> .
+Precedent	125 ITR 150 (Mad.
+Precedent	), <ORG> held that amount paid by way of bonus and commission in cash by the assessee-company to employees was not a perquisite within the meaning of Section 40(c) (/7i) in view of the said term 'whether convertible into money or not' used in the said Section (which was operative in the assessment year 1964-65).
+Precedent	The <ORG> accepting this contention held that medical reimbursement paid in cash was not a perquisite, as Section 40A(5)(a)(ii) contemplated disallowance of payment in kind only by the employer to the employee.
+Precedent	The <ORG> noted that similar view had been taken in <CITATION_308296> .
+Precedent	137 ITR 285 (Cal.)
+Precedent	which had followed its earlier decision in Kanan Devan Hill s <ORG>'s case (supra) while interpreting provisions of Section 40(c)(iii) in respect of motor car allowance paid in cash to employees.
+Precedent	45.
+Precedent	For holding further that the reimbursement of medical expenses was not even part of salary, the said Bench 'A' relied on the <ORG>, Hyderabad Bench's decision in IT Appeal Nos.
+Precedent	676-679 (Hyd.)
+Precedent	of 1980 dated 30-3-1981 (PB 33-34).
+Precedent	46.
+Precedent	We have perused the said decision of <ORG> where for holding that the cash allowances are not perquisites, reliance was placed on <ORG> case (supra) and <CITATION_1270260> .
+Precedent	125 ITR 341 (Kar.).
+Precedent	However, <ORG> further observed that medical reimbursement was not a 'remuneration' within the meaning of Section 40(c) nor was a 'benefit or amenity'.
+RatioOfTheDecision	The Bench for taking this view relied on some earlier decision which has not been made available to us.
+RatioOfTheDecision	Thus, <ORG>'s decision is no authority for holding that cash reimbursements by the employer to the employee are not par t of salary.
+RatioOfTheDecision	We have already noted above detailed discussion by <ORG> in <ORG> case (supra) for holding that cash payments by the employer to the employee are covered by salary.
+RatioOfTheDecision	47.
+Argument	The learned counsel for the assessee next urged that the expression 'whether convertible into money or not' occurring in Section 40A(5)(a)(ii) qualifying 'perquisite' excludes cash payment as was held in <ORG> case (supra).
+Argument	It is next urged that the definition of 'perquisite' in Explanation 2(b) to said Section is exhaustive and that Clauses (i) to (v) thereof do not contemplate cash payment.
+Argument	48.
+Argument	Accepting the above argument of the assessee should imply that cash payments being not covered by the definition of 'perquisite' under Explanation 2(b), should fall under 'salary' under Explanation 2(a) in view of inclusive definition of 'salary' as per Section 17(1) which has been adopted by Explanation 2(a) but the learned counsel for the assessee even disputes this proposition on the  ground that the ordinary meaning and connotation of 'perquisite' should not be ignored and while ordinary meaning of 'salary' does not include reimbursement of expenses, ordinary meaning of 'perquisite' would take in reimbursement of expenses.
+Argument	For the proposition, he refers to discussion under the head 'Perquisite' in <ORG>, Seventh edn.
+Statute	under Section 17 which reads as follows :  'Perquisite'.-'Perquisite' is defined in <ORG> as 'any casual emolument, fee, or profit, attached to an office or position in addition to salary or wages'.
+Statute	'Perquisite' denotes a personal advantage ; it is something that benefits a man by going 'into his own pocket' : it does not cover a mere reimbursement (be it by way of allowance) of travelling or other expenditure incidental to the employment.
+RatioOfTheDecision	Thus, transport facilities made available to an employee for going from home to office and back, should not be regarded as a perquisite.
+RatioOfTheDecision	(p. 311)  49.
+Argument	The assessee relied  on <ORG> v. N.S.
+Argument	Getti Chettiar [1971] 82 ITR 599 where <ORG> approved the following observations of Craies on Statute Law, Sixth edn.
+Argument	at p. 213 :  ...An interpretation Clause which extends the meaning of a word does not take away its ordinary meaning.
+Argument	An interpretation Clause is not meant to prevent the word receiving its ordinary, popular and natural sense whenever that would be properly applicable, but to enable the word as used in the Act, when there is nothing in the context or the subject-matter to the contrary, to be applied to some things to which it would not ordinarily be applicable.
+Argument	(p. 605) Reliance was also placed on <ORG> v. Dr. <NAME> [1974] 95 ITR 476 at p. 481 where <ORG> extracted the observations of <ORG> in <ORG> v. <ORG> SC 121 to the effect that there must be compelling words in the statute to show a meaning different from or in excess of the ordinary meaning was intended and where within the framework of the o rdinary acceptation of a word, every single requirement of the definition Clause was fulfilled, it would be wrong to take the definition as destroying the 'essential meaning' of that word.
+Argument	50.
+Argument	The revenue's contention was that the purpose of introduction of Section 40A(5) was given in the Finance Minister's Budget Speech for 1971-72 in  80 ITR (St.) 96 which reads :  I am firmly of the view that the fiscal instrument must be deployed to discourage payment of high salaries and remunerations which go ill with the norms of egalitarian society.
+Argument	I accordingly propose to impose a ceiling on the remuneration of company employees which would be deductible in the computation of taxable profits.
+Argument	The ceiling is being set at Rs.
+Argument	5,000 per month.
+Argument	Together with the existing ceiling of Rs.
+Argument	1,000 per month in the case of perquisites, the allowable overall ceiling on remuneration and perquisites, for purposes of taxation, will be at Rs.
+Argument	6,000 per month....
+Argument	It was, therefore, urged for the revenue that Section 40A(5) was a c omplete code covering the payments by the company to its employees in the form of salary, remuneration and perquisites and, therefore, no item could be said to fall outside these categories.
+Argument	It was emphasized that while 'perquisite' was given an exhaustive definition by Explanation 2(b) to Section 40A(5) by using the expression 'perquisite means', the term 'salary' was not given an exhaustive definition by Explanation 2(b) and only the inclusive definition of Section 17(1) was grafted in the said Explanation and, therefore, whatever does not fall under the head 'Perquisite' would be covered under the inclusive definition of 'salary'.
+Argument	It was urged that in this context the ordinary meaning of the word 'perquisite' cannot take away the force of an enactment nor defeat its object.
+Argument	Reliance was also placed on Notes on Clauses in the Finance (No.
+Argument	2) Bill, 1971 in  80 ITR (St.) 147 where dealing with Clause 10 it was observed :  ... 'salary' is being defined broadly on the lines of the provision in Section 17 of the  Income-tax Act subject to certain modifications.
+Statute	The expression 'salary' will include wages ; any annuity or pension ; any gratuity, any fees, commissions or profits in lieu of or in addition to any salary or wages;...
+RatioOfTheDecision	It will, however, not include perquisites....
+RatioOfTheDecision	It was, therefore, urged that reimbursement of medical expenses having been held to be not perquisite in view of the expression 'whether convertible into money or not' governing the expression 'perquisite' in Section 40A(5)(a)(ii) and thus restricting its ordinary meaning, the cash reimbursement would necessarily fall under 'salary' in view of the inclusive and wide definition of 'salary' in Section 17(1) , read with Section 17(3) and in view of the clear enunciation of law by the <ORG>, Bombay in <ORG> case (supra).
+RatioOfTheDecision	51.
+RatioOfTheDecision	We see merit in the revenue's contentions.
+RatioOfTheDecision	While definitions of 'salary' and 'perquisite' in Section 17(1) are inclusive, in Explanation 2 to Section 40A(5) an exclusive and exhaustive d efinition of 'perquisite' was given as per Clause (b) covering only five categories enumerated therein, but in respect of 'salary', the inclusive definition of Section 17(7) was adopted, which means that what is not covered by five categories of 'perquisite' would fall in the net of 'salary' in view of 'salary's' inclusive definition in Section 17(1) .
+RatioOfTheDecision	We have already noted that Section 17(5) defining 'profits in lieu of salary' includes under Sub-clause (ii) any payment due to or received by the employee from the employer.
+RatioOfTheDecision	Thus, all payments by the employer to the employee, which are held to be not perquisite like reimbursement of medical expenses, would necessarily be covered under 'salary'.
+RatioOfTheDecision	In this connection, the revenue is right in relying on the Finance Minister's speech as well as notes on clauses to show the <ORG>'s intention in introducing Section 40A(5) to put a curb on salaries, remunerations and perquisites paid by companies to its high executives.
+RatioOfTheDecision	The 'mischief rule' as enunciated in Heydor is Case 3 Co. Rep. la, of Maxwell on Interpretation of Statutes, Twelfth edn.
+RatioOfTheDecision	is :  ...that for the sure and true interpretation of all statutes in general (be they penal or beneficial, restrictive or enlarging of the common law) four things are to be discerned and considered: (1st) What was the common law before the making of the Act.
+Fact	(2nd) What was the mischief and defect for which the common law did not provide.
+Fact	(3rd) What remedy the <ORG> hath resolved and appointed to cure the disease of the commonwealth.
+RatioOfTheDecision	And, (4th) The true reason of the remedy ; and then the office of all the Judges is always to make such construction as shall suppress the mischief and advance the remedy and to suppress subtle inventions and evasions for continuance of the mischief and pro privato commodo and to add force and life to the cure and remedy, according to the true intent of the makers of the Act, pro bono publico.... (p. 40)  52.
+RatioOfTheDecision	Thus, in view of the declared intention of the <ORG> to curb the high salaries and p erquisites of senior executives of the companies, we have to interpret Section 40A(5) so as to advance the remedy and to suppress subtle inventions and evasions for continuance of the mischief and to add force and life to the cure and remedy, according to the true intent of the makers of the Act.
+RatioOfTheDecision	Thus, to hold that reimbursement of medical expenses would neither be covered under 'salary' nor under 'perquisite' would be to defeat the purpose of the legislation.
+RatioOfTheDecision	53.
+RatioOfTheDecision	<NAME> on Interpretation of Statutes under the head 'Construction ut res magis valeat quam pereaf observed :  'If the choice is between two interpretations, the narrower of which would fail to achieve the manifest purpose of the legislation, we should avoid a construction which would reduce the legislation to futility and should rather accept the bolder construction based on the view that <ORG> would legislate only for the purpose of bringing about an effective result.'
+RatioOfTheDecision	'Where alternative constructions are equally open, that alternative is to  be chosen which will be consistent with the smooth working of the system which the statute purports to be regulating ; and that alternative is to be rejected which will introduce uncertainty, friction or confusion into the working of the system'.
+RatioOfTheDecision	(p. 45) Applying the above principle, we have to avoid an interpretation which would make the provisions of Section 40A(5) ineffective in curbing the mischief which the <ORG> intended.
+RatioOfTheDecision	54.
+Precedent	<NAME> in Law of Income-tax, Seventh edn., Vol.
+RatioOfTheDecision	1 under Section 17 under the head "4.
+RatioOfTheDecision	'Perquisites' Sub- section (2).--'Perquisite', meaning of", observed :  Formerly, the word 'perquisite' was used to denote emoluments not fixed generally and granted mostly ex gratia, whether in cash or in kind, it denoted a benefit, amounts or advantage mostly in kind enjoyed by the employee at the cost of the employer, generally in addition to the salary or wages to which he is entitled.
+RatioOfTheDecision	Perquisites are, in many cases, in the nature of voluntary payments attached to an office or  employment, such as the fee of any clerk serving under a barrister, but in some cases, there may also be legal obligation to pay, though, in common parlance, one rarely used the term 'perquisites' where the payment is claimable as of right.
+RatioOfTheDecision	Voluntary or not, when actually paid, they fall to be taxed.
+RatioOfTheDecision	Their characteristic is that they are payable only during the continuance of employment and are directly dependent upon service.
+Precedent	They cease when the employment ceases.
+Precedent	(p. 970)  55.
+Precedent	At the same page, the commentator noted that 'the grant or allowance of perquisites...has become a regular feature of almost all employment,...
+Precedent	The statutory definition of salary and wages had, therefore, to be enlarged as to comprehend the most common forms of advantages and benefits enjoyed by an employee....'  56.
+Precedent	While dealing with 'profits in lieu of salary' under Section 17(5) at page 983 under paragraph 14(c) 'other payments received from employer-clause (ii)', the commentator noted that "any payment due to or received by an a sscssee from his employer...is taxable as 'profits in lieu of salary'.
+Precedent	...
+Precedent	This is a comprehensive provision by virtue of which all payments made by an employer to an employee whether made in pursuance of a legal obligation or voluntarily are brought under 'profits in lieu of salary'.
+Precedent	57.
+Precedent	We further note that <ORG> in <CITATION_1181032> [l985] 153 ITR 444 observed at p. 455 that cash payment made by the employer to the employee as cash allowance was not covered under definition of 'perquisite' as per Clause (b)(iv) of Explanation 2 to Section 40A(5) and that the said expenditure was expenditure or payment coming under Section 40A(5)(a) (0 which covers any expenditure which results directly or indirectly in the payment of any salary to employee.
+Precedent	The <ORG>, therefore, held that car allowance was, thus, a cash payment periodically made in addition to salary, and, therefore, partook of the nature of salary.
+Precedent	58.
+Precedent	In this context, we also note that the Delhi High <ORG> in Instalment Supply (P.) <C ITATION_416340>  149 ITR 457 was dealing with disallowance under Section 40(a)(v) of reimbursement by employer company of medical expenses incurred by managing director in the assessment years 1969-70 and 1970-71 when the said provision was in force.
+Precedent	[ Section 40(a)(v) was deleted and substituted by Section 40A(5) with effect from 1-4-1972.]
+Precedent	<ORG> dissented from the Full Bench decision of <ORG> in <CITATION_97788> .
+Precedent	135 ITR 19 where it was held that house rent allowance paid by the employer company to its employee was a perquisite and the words 'whether convertible into money or not' qualifying the words 'beneftt, amenity or perquisite' would not exclude cash payments by the employer to the employee and a contrary construction accepted by the Karnataka, Calcutta and Madras High Courts was irrational defeating the very purpose of Section 40(a)(v) -The Kerala High Court, therefore, held that house rent allowance received by an employee from an employer was covered by Section 40(a )(v) .
+Precedent	59.
+RatioOfTheDecision	<ORG>, however, fell in line with the aforesaid three <ORG>, who, in <ORG> case (supra), <ORG> case (supra) and <ORG> case (supra) had taken the view that the expression 'whether convertible into money or not' qualifying the words 'benefit, amenity or perquisite' excluded cash payments made by the employer to the employee.
+RatioOfTheDecision	<ORG> in this context had noted at page 462 the contentions by the assessee's counsel : 'According to him, any cash payment made by the company to its employee would be part of the salary'.
+RatioOfTheDecision	<ORG> at page 465 observed : 'Any cash payment could well be part of the salary as given in Section 17 of the Act'.
+RatioOfTheDecision	<ORG> accordingly held that reimbursement of medical expenditure of the managing director was not a 'benefit, amenity or perquisite', whether convertible into money or not, and, therefore, Section 40(a)(v) did not apply to cash payments by t he employer to the employee.
+RatioOfTheDecision	[The question regarding medical reimbursement expenses being part of salary was not referred to <ORG> as under Section 40(a)(v) fell only expenditure on provision of benefit, amenity or perquisite].
+RatioOfTheDecision	We may elucidate by referring to legislative changes.
+Statute	Section 40(c)(iii) , as amended by the Finance Act , 1964, put a ceiling of one-fifth of salary, on all expenditure on employees resulting in benefit, amenity or perquisite.
+Fact	This Clause was substituted by Section 40(a)(v) with effect from 1-4-1969 which put a further ceiling of Rs.
+Fact	1,000 per month on expenditure on benefit, amenity or perquisite to an employee.
+Fact	Section 40(a)(v) was substituted by Section 40A(5) with effect from 1-4-1972 which put a ceiling on salary to employees of Rs.
+Fact	5,000 per month, besides ceiling on perquisites of Rs.
+Fact	1,000 per month and one-fifth of salary.
+Fact	Similarly, on the directors of the company, overall ceiling of Rs.
+RatioOfTheDecision	72,000 was imposed with effect from 1-4-1972 under Section 40(c) in respe ct of expenditure on remuneration, benefit, amenity, etc.
+RatioOfTheDecision	Thus, before 1-4-1972, there was no controversy whether an expenditure was covered by salary or perquisite.
+RatioOfTheDecision	In case of an employee of a company, the <ORG> was concerned only with curbing perquisites, benefits or amenities.
+RatioOfTheDecision	The <ORG> was not concerned about quantum of salary of employees.
+RatioOfTheDecision	In respect of a director of a company, the <ORG> was concerned only with reasonableness of total expenditure on director as remuneration, benefit, amenity or expenditure or allowance in respect of company's assets.
+RatioOfTheDecision	60.
+RatioOfTheDecision	In this context, we may also note that the head-note in <ORG>'s case (supra) is incorrect insofar as it is indicated that house rent allowance is not a perquisite 'or part of salary'.
+RatioOfTheDecision	All that <ORG> held at page 342 was that payment of house rent allowance or bonus is not a perquisite because of the expression 'whether convertible into money or not' qualifying the words 'benefit, amenity or perquisite'.
+RatioOfTheDecision	61.
+RatioOfTheDecision	We are, therefore, of the view that the reimbursement of medical expenses being a cash payment by the employer to the employee would fall under 'salary' in view of the very wide and inclusive definition of 'salary' as per Section 17(1) which is adopted by Clause (a) of Explanation 2 to Section 40A(5) , in contradistinction to only five enumerated categories being covered under 'perquisites' as per Clause (b) of said Explanation 2 to Section 40A(5) .
+RatioOfTheDecision	Thus, salary would cover any perquisite not falling in the said five categories of perquisites and particularly a cash payment [being hit by the expression 'whether convertible into money or not' qualifying 'perquisite' in Section 40A(5)(a)(ii) ].
+RatioOfTheDecision	We have already noted above the view taken by <ORG> in <ORG> case (supra) that Section 17(3) by giving inclusive definition of 'profits in lieu of salary' [appearing in Section 17(7)(iv) ] covered in its Sub-clause (ii) any payment due to or received by an employee from an employer.
+Statute	We note that the said Sub-clause excluded from purview of salary, following payments :  (A) death-cum-retirement gratuity-Section 10(70) of the Act (B) payment in commutation of pension-Section 10(10A) (C) compensation on retrenchment received by workmen under the Industrial Disputes Act , 1947-Section 10(10B) (D) payment from a provident fund to which Provident Funds Act , 1925 applies- Section 10(1) (E) accumulated balance in provident fund becoming payable to employee- Section 10 (/2) (F) house rent allowance- Section 10(13A) .
+Statute	However, under the said sub-clause, payments from provident fund or other fund (not being approved superannuation fund) are included under salary to the extent it does not consist of contributions by employee or interest on such contributions.
+RatioOfTheDecision	62.
+RatioOfTheDecision	From the above narration, it would be clear that but for the exclusion provided in the said sub-clause, the said payments would have been treated as salary though taking ordinary meaning of payments 'in lieu of salary', nobody would con sider such payments to be in lieu of or instead of or in substitution of salary.
+RatioOfTheDecision	This shows that the said Section 17(3)(ii) was very wide in its sweep, despite its rather deceptive or inelegant descriptions as 'profits in lieu of salary'.
+RatioOfTheDecision	63.
+Statute	We further observe that Clause (iv) of Section 17(i) besides taking in its sweep 'profits in lieu of salary', also covers 'profits in addition to any salary'.
+Statute	Thus, any payments received by an employee from his employer under terms of service contract or otherwise would be fully caught in the net of 'profits in addition to any salary'.
+Statute	[Emphasis supplied]  64.
+Statute	We further note that Clause (i) of Section 40A(5)(a) covers 'any expenditure which results directly or indirectly in the payments of any salary'.
+Statute	[Emphasis supplied] Salary is recompense for the services rendered.
+RatioOfTheDecision	While salary (paid periodically) is the direct payment : any benefit or advantage or amenity received by the employee from employer would be the indirect payment of salary and would thus be clearly cover ed by the said Clause (0 of Section 40A(5)(a) .
+RatioOfTheDecision	65.
+RatioOfTheDecision	For the above reasons, we see no ground to depart from the view taken by <ORG>, Bombay, in <ORG> case (supra).
+RatioOfTheDecision	We would accordingly hold that reimbursement of medical expenses being a cash payment was rightly treated as part of salary for computing the disallowance under Section 40A(5) .
+RatioOfTheDecision	Position is different while assessing perquisite of medical reimbursement in hands of employee under Section 17 in view of the <ORG> circulars.
+RatioOfTheDecision	Circular No.
+Precedent	336 dated 16-4-1982 [See Taxmann's Direct Taxes Circulars, Vol.
+Precedent	1, 1985 edn., p. 163] directed that only medical reimbursement in excess of one month's salary is to be included in hands of employee.
+Precedent	Circular No.
+Precedent	376 dated 6-1-1984 [See Taxmann's Direct Taxes Circulars, Vol.
+Precedent	1, 1985 edn., p. 163] clarified that only reimbursement in excess of Rs.
+Precedent	5,000 was includible.
+Precedent	However, Circular No.
+Precedent	445 dated 31-12-1985- 24 <ORG> exempted all expenditure in a recognised public hospital in India.
+Precedent	66 .
+RatioOfTheDecision	We may further observe that the position under Section 40(c) is clearly against the assessee as the above argument is not available to the assessee because the word 'perquisite' does not appear in Section 40(c)(i) which only uses the words 'remuneration or benefit or amenity'.
+RatioOfTheDecision	Further, the restrictive phrase 'whether convertible into cash or not' is missing in the said clause.
+RatioOfTheDecision	Under these circumstances, the reimbursement of medical expenses to a director by employer company would clearly be hit by Section 40(c)(i) because it is an expenditure which results directly or indirectly in the provision of 'remuneration or benefit or amenity' to a director.
+RatioOfTheDecision	67.
+Argument	Thus, both under Section 40A(5) as well as under Section 40(c) , reimbursement of medical expenses by the employer company to the employee would form part of the remuneration of the employee and in case of a director, any payment in excess of Rs.
+Argument	72,000 would have to be disallowed.
+Argument	In case of employees simpliciter, provisions of Section 40A(5) would apply a nd, therefore, considering the medical reimbursement as part of the salary, perquisites in excess of one-fifth of salary have to be disallowed.
+RulingByLowerCourt	As from the computation given to us, it is not clear how the disallowance has been computed by the <ORG>, we direct the <ORG> to examine if any recomputation of disallowance is called for in the light of our directions above.
+RulingByLowerCourt	Ground No.
+RulingByLowerCourt	1 :  68.
+RulingByLowerCourt	The assessee is aggrieved against disallowance of depreciation on assets used by the assesssee for conducting scientific research.
+RulingByLowerCourt	These assets were installed in the earlier years for which deduction equivalent to full cost has already been allowed to the assessee under Section 35 of the Act.
+RulingByLowerCourt	The <ORG> rejected the assessee's claim for depreciation and the Commissioner (Appeals) upheld it in view of the amendment of Section 35(2)(iv) by the Finance (No.
+RulingByLowerCourt	2) Act, 1980.
+RulingByLowerCourt	Under similar circumstances, <ORG> in <CITATION_1560985> .
+RulingByLowerCourt	149 ITR 771 has held that depreciation cannot be granted for the subsequent year on the ass ets on which the relief under Section 35(2) equivalent to the full cost has already been allowed.
+RulingByLowerCourt	The assessee, however, contends that the constitutionality of the aforesaid amendment in 1980 is under challenge before <ORG> and, therefore, the <ORG> be directed to abide by the decision of <ORG>.
+RulingByLowerCourt	We direct accordingly.
+RulingByLowerCourt	Ground No.
+RulingByLowerCourt	4 :  69.
+Fact	Foreign travel expenses of Rs.
+Fact	19,783 of Mrs. <NAME>, wife of chairman of board of directors of the assessee-company, was disallowed by the <ORG> after observing that the assessee was unable to produce any resolution of board of directors to sanction the said visit by the wife who accompanied her <NAME> on the foreign visit and, thus, according to the <ORG>, there was no evidence that her visit served the business interest of the assessee-company.
+RulingByLowerCourt	The Commissioner (Appeals) vide paragraph 9 noted the assessee's contention that Mr. <NAME> had gone abroad for business discussion with the assessec-company's British Associates and had also visite d France and Italy where the assessee-company had also its associates and that on such, visits it was customary for meeting at social level that the chairman should be accompanied by his wife.
+RulingByLowerCourt	The Commissioner (Appeals), however, rejected the assessee's contention on the ground that the business connection of the wife's visit was too far-fetched.
+RulingByLowerCourt	70.
+Fact	At the hearing before us, our attention was drawn to the company's application to <ORG> for release of foreign exchange for the chairman and his wife and the application form indicated that they were proceeding abroad for business purposes.
+Fact	<ORG> sanctioned on 7-5-1975 foreign exchange of £ 840 for Mr. <NAME> and £ 210 for his wife for their stay of 40/42 days in UK, Italy and France.
+Fact	The learned counsel for the assessee reiterated that the wife accompanying the <NAME> (chairman) was in business interest.
+Fact	Reference was made to company's application dated 18-4-1975 to the Assistant Controller, <ORG>, R eserve <ORG>, indicating, that chairman and chief executive of <ORG> extended invitation to Mr. & Mrs. <NAME> and that the wife was accompanying her <NAME> as a number of social engagements were included in the programme.
+Fact	Reliance was placed on Taxes & Planning dated 15-7-1984 a decision of the Tribunal <ORG> in <ORG> v. <ORG> [IT Appeal Nos.
+Fact	2606 and 2607 (Bom.)
+Fact	of 1982] where in paragraph 22 the <ORG> upheld the Commissioner (Appeals)'s order that wife accompanying the <NAME> abroad (who is a director of the company) was in business interest.
+Precedent	71.
+Precedent	The revenue relied on <CITATION_537027> .
+Precedent	153 ITR 422 (Mad.)
+Precedent	and <ORG> (P.) <CITATION_416340>  153 ITR 437 (Guj.).
+Fact	In the first case, wife had accompanied the <NAME> on foreign tour.
+Fact	The <NAME> was a partner of the firm and the wife had accompanied him because of the <NAME>'s indifferent health.
+Fact	<ORG> held that the wife's travelling expenses were in the nature of personal  expenses and even assuming that the expenditure related to business purposes, the expenditure had a dual and twin purpose and served not only purposes of business but also a personal or private purpose and as the expenditure did not exclusively serve the business, it was not allowable under Section 37(1) of the Act.
+Fact	In the second case, <ORG> was considering the case of a director of a company keeping indifferent health and his wife accompanying him on the foreign tour.
+Fact	It was urged before <ORG> that in case the wife had not accompanied the <NAME>, the company would have had to engage a nurse.
+Fact	<ORG> still held that expenses being personal, were not allowable as the wife was not a qualified or trained nurse.
+Fact	72.
+Fact	In both the above cases, the asscssees were unable to prove that the wife accompanied the <NAME> for business considerations.
+Fact	The case before us is, therefore, entirely different where it is claimed that the wife accompanied the <NAME> because of business  considerations.
+Fact	In the modern age and more so in the Western countries, the senior executives are, as a matter of social custom, accompanied by their wives when the visit, though for business purposes, has necessarily some social aspects also.
+Fact	Under these circumstances, we hold that the expenditure of Rs.
+Fact	19,783 which includes air-fare of Rs.
+Fact	15,656 and foreign exchange of Rs.
+RulingByLowerCourt	4,022 equivalent to £ 210 is an allowable expenditure.
+RulingByLowerCourt	Ground No.
+RulingByLowerCourt	5.:  73.
+RulingByLowerCourt	The <ORG> rejected the assessec's claim of deduction of surtax and the Commissioner (Appeals), following the <ORG>, Bombay decision in <ORG> v. <ORG> [1983] 3 SOT 384, upheld the disallowance.
+RulingByLowerCourt	<CITATION_1479353>  144 ITR 317 (Cal.
+RulingByLowerCourt	), <CITATION_691088>  159 ITR 431 (Ker.)
+RulingByLowerCourt	and <CITATION_165529>  26 Taxman 187 (Mad.
+RulingByLowerCourt	), similar view has been taken.
+Fact	We, accordingly, uphold the orders of lower authorities on this point.
+RatioOfTheDecision	74.
+RulingByPresentCourt	In the result, the appeal is partly allowed.

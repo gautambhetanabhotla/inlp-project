@@ -1,0 +1,15 @@
+{
+    "path_prior_cases":   "../BM25/data/corpus/ik_test/candidate",
+    "path_current_cases": "../BM25/data/corpus/ik_test/query",
+    "true_labels_json":   "../BM25/data/corpus/ik_test/test.json",
+    "checkpoint":         "law-ai/InLegalBERT",
+    "tfidf_top_n":        200,
+    "tfidf_n_gram":       4,
+    "tfidf_min_df":       2,
+    "tfidf_max_df":       0.95,
+    "tfidf_tf_scheme":    "log",
+    "alpha":              0.6,
+    "chunk_tokens":       256,
+    "chunk_stride":       128,
+    "encode_batch":       64
+}

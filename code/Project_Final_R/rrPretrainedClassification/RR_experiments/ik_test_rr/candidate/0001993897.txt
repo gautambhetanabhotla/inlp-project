@@ -1,0 +1,13 @@
+RulingByLowerCourt	JUDGMENT  1.
+RulingByLowerCourt	The law is now well settled in the absence of any contractor usage to the contrary, <NAME> is not chargeable on the and.
+RulingByLowerCourt	See <NAME> v. <NAME>.
+RulingByLowerCourt	2.
+RulingByLowerCourt	We disagree with the view taken by the Sub-Judge, and we think the District <NAME> was right in holding that in the present case, the <NAME> is not chargeable on the land.
+Argument	3.
+Argument	It has been pointed out that the plaintiff in the prayer of his plaint asks that the arrears of <NAME> claimed may be satisfied on the liability of the defendants and of the lands and that the 3rd defendant in his written statement does not in terms deny that the <NAME> is chargeable on the land.
+Fact	As a matter of technical pleading there is no ground alleged that the <NAME> is chargeable on the land.
+Fact	But we should certainly not decide this case on any technicality of pleading.
+Fact	4.
+Fact	The 4th issue involved the question as to whether the <NAME> was chargeable on the land, and the District <NAME> held that it was not so chargeable.
+Fact	5.
+RulingByPresentCourt	Agreeing with this view we  must allow the appeal and dismiss the sun as against the appellant with costs throughout.

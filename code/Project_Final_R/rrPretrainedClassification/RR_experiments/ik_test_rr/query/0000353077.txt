@@ -1,0 +1,59 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The question in this case is whether the application of plaintiff decree-holder for a final decree for sale under Order XXXIV, Rule 5, of the Code of Civil Procedure is or is not barred by limitation.
+Fact	The preliminary decree for sale was passed by the Court of first instance on the 16th of May 1911.
+Fact	The mortgagors were allowed six months from that date to pay the mortgage amount, so that the date fixed for payment was the 15th of November 1911.
+Fact	The plaintiff, whose claim had only been partially decreed by the Court of first instance, preferred an appeal to the lower <ORG>, but that appeal was dismissed on the 3rd of November 1911.
+Fact	He appealed to <ORG> and this Court affirmed the decree of the lower Court on the 3rd of July 1912 The present application was filed on the 22nd of June 1915.
+Fact	Among the pleas raised on behalf of the defendants was the plea of limitation and it was contended that the application had been filed beyond time.
+Fact	If limitation is to be comput ed from the date of <ORG> decree of the 3rd of July 1912, the application is certainly within time.
+Fact	If, however, limitation is to be reckoned from the 16th of November 1911, when the date fixed for payment by the <ORG> of first instance expired, the application would be beyond time.
+Fact	It is not disputed by either party that the Article in Schedule I of the Limitation Act applicable to the present application is Article 181.
+Fact	The present application being an application in the suit for a final decree, it is not an application for execution, and, therefore, the Article applicable to an application for execution of decree does not govern it.
+Fact	We have, therefore, to consider whether the right of the plaintiff to apply for a final decree accrued when the decree of <ORG> was passed or on the expiry of the six months allowed for payment by the <ORG> of first instance.
+Fact	Order XXXIV Rule 5, provides that where payment is not made as directed by the preliminary decree for sale, "the <ORG> shall, on appli cation made in that behalf by the plaintiff, pass a decree that the mortgaged property or a sufficient part thereof, be sold, and that the proceeds of the sale be dealt with as is mentioned in Rule 4."
+RatioOfTheDecision	It seems to me that this rule contemplates the passing of only one final decree in a suit for sale upon a mortgage.
+RatioOfTheDecision	The essential condition to the making of a final decree is the existence of a preliminary decree which has become conclusive between the parties.
+RatioOfTheDecision	When an appeal has been preferred, it is the decree of <ORG> which is the final decree in the cause.
+RatioOfTheDecision	This is beyond controversy, having regard to the decisions of the Full Bench of this Court in <NAME> v. <NAME> 4 A.
+Precedent	376: A. W. N, (1882) 68: 2 Ind.
+Precedent	Dec. (N. S.) 990. and <CITATION_1313981> 11 A 267: A. W. N. (1889) 55: 13 Ind.
+Precedent	Jur.
+Precedent	427: 6 Ind.
+Precedent	Dec. (N. S.) 598.
+Precedent	The view taken in those cases was affirmed by their Lordships of <ORG> in <CITATION_1841230> 23 Ind.
+Precedent	Cas.
+Precedent	649: 36 A, 350: 18 C. W. 963: 27 M. L. J.
+Precedent	17: 16 Bom.
+Precedent	L.  R. 395: 19 C. L. J.
+Precedent	626: 12 A. L. J.
+RatioOfTheDecision	624: 16 M. L. T. 44: (1914) M. W. N. 485: I L. W. 483 (P. C.) As has been already stated, if an appeal is preferred and the case is decided by <ORG>, the decree of <ORG> takes the place of the decrees of <ORG> where it affirms the decrees of those <ORG> and the decrees of <ORG> are merged in the decree of the final <ORG>.
+RatioOfTheDecision	Therefore, where a preliminary decree for sale is appealed to <ORG>, it is the decree of <ORG> which must be deemed to be the preliminary decree that may be made final under Order XXXIV, Rule 5.
+RatioOfTheDecision	In the present case the decree of <ORG>, no doubt, affirmed the decree of the lower <ORG>: but whether the decree of tin's Court is a decree of affirmance, or modification of the decrees of the <ORG> below, it is the final decree in the cause.
+RatioOfTheDecision	It is this decree which in a suit for sale the plaintiff can seek to be made absolute and final.
+Fact	In the present case the  plaintiff's application was to the effect that the decree of this <ORG> should be made final.
+Fact	He applied for interest for the period subsequent to the decree of the first <ORG> and subsequent costs which could be added to the amount of the mortgage under Rule 10.
+RulingByLowerCourt	These he could not have claimed before the decree of the High <ORG> was passed.
+RulingByLowerCourt	To the case of <CITATION_1250363> 30 Ind.
+RulingByLowerCourt	Cas.
+Fact	494: 38 A.
+Fact	21: 13 A. L. J.
+Fact	985., to which I was a party, it was no doubt held that the right of the decree-holder to apply for a final decree accrued upon the expiry of the term fixed for payment.
+Fact	I must confess that the considerations to which I have referred were overlooked in that case.
+RatioOfTheDecision	Upon further consideration, I think the view taken in that case was not correct.
+RatioOfTheDecision	It is impossible to hold that there can be more final decrees than one in a suit for sale upon a mortgage Unless it be held that the right to apply for a final decree accrues when the decree of the Appellate <ORG> is passed, in a case in which an appeal has bee n preferred to the final <ORG>, it may be open to a party to apply for several final decrees in the same cause.
+RatioOfTheDecision	That surely was not contemlated by the <ORG>.
+RatioOfTheDecision	In this view the appeal must prevail.
+RatioOfTheDecision	I would allow it, set aside the orders of the <ORG>s below and remand the case to the <ORG> of first instance for disposal of the application of the plaintiff according to law.
+Precedent	<NAME>, J.
+Precedent	2.
+RatioOfTheDecision	I fully agree and there is very little that I can with advantage add to the judgment which has just been delivered.
+RatioOfTheDecision	When the <ORG> passed the decree it was open to the plaintiff, or the defendant, to accept that decree or to appeal.
+RatioOfTheDecision	If an appeal is preferred the final decree is the decree of <ORG> of final decision.
+RatioOfTheDecision	When that decree is passed, it is that decree and only that which can be made final in the cause between the parties.
+Precedent	<NAME>, J.
+Argument	3.
+Argument	I conour.
+Argument	4.
+RulingByPresentCourt	By the <ORG>.---The order of the <ORG> is that the appeal is allowed, the orders and decrees of the <ORG>s below are set aside, and the  case is remanded to the Court of first instance with directions to readmit it under its original number in the register and to dispose of it according to law.
+RulingByPresentCourt	Costs here and hitherto will be costs in the cause.

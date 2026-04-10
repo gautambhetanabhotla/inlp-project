@@ -1,0 +1,99 @@
+Fact	JUDGMENT Dunedin, J.
+Fact	1.
+Fact	In these consolidated appeals it will be convenient to consider the first case by itself.
+Fact	The appellants as sellers entered into two contracts with the respondents as buyers of certain bales of cotton.
+Fact	The contracts were made subject to the rules and regulations of <ORG>.
+Fact	Rule 12 of the said <ORG> provides:  All questions or disputes as to quality between buyer and seller shall be referred to the arbitration of two disinterested persona, one to be chosen by each disputant, such arbitrators having the power to call in a third arbitrator.
+Fact	The award made by such arbitrators or any two of them shall be final and binding subject only to the right of appeal to <ORG> All arbitrations held under this Rule must be held in accordance with Rule 5, and only shareholders and/or Directors shall be eligible to act on arbitrations held in the rooms of the <ORG>.
+Fact	Associate members, however, shall be eligible to act as arbitrators when t he arbitration is held in the seller's jetha and/or godown as provided under Rule 5.
+Fact	2.
+Fact	Rule 13 provides:  All questions in dispute (other than that of quality) arising out of, or in relation to, contracts made subject to the Rules and Regulations of <ORG>, provided one of the parties to the contract is a member or associate member of the <ORG>, shall be referred to the arbitration of two disinterested persons being shareholders or directors of the <ORG>, one to be chosen by each disputant; such arbitrators having the power to call in a third arbitrator who must also be a shareholder or director of the <ORG>.
+Fact	The award made by such arbitrators or any two of them shall be final and binding on both parties, subject only to the right of appeal to the Board within 15 days of the date of the arbitrators' award on payment of Rs.
+Fact	100.
+Fact	3.
+Fact	The cotton was delivered but objected to by the respondents as being not up to contract.
+Fact	Upon this an arbitration was ent ered into between the parties, and the arbitrators under Rule 12 made an award as to quality.
+Fact	Thereupon, the respondents rejected the cotton.
+Fact	The appellants retorted by claiming damages.
+Fact	This dispute was referred to arbitrators under Rule 13.
+Fact	They issued their award as follows:  To all to whom these presents shall come, we, <NAME> of <ORG>, and <NAME>, also of Bombay, <ORG>, send greeting.
+Fact	Whereas by a contract dated 17th day of August, 1918, Messrs. <NAME> and <ORG> bad agreed to sell to the Jivraj Balloo Spinning and Weaving <ORG>, Limited, 100 bales of Mundra M.G.
+Fact	Fully Good Staple cotton on the terms and conditions mentioned in the contract.
+Fact	And whereas by another contract dated 4th day of September, 1918, the said Messrs <NAME> and <ORG> had also agreed to sell to the said Jivraj Balloo Spinning and Weaving <ORG>, Limited, 100 bales of New M.G.
+Fact	Mundra Cotton Fully Good Staple on the terms and conditions therein contained.
+Fact	An d whereas both the said contracts were made subject to the rules and regulations of <ORG>.
+Fact	And whereas the goods tendered under the said contracts by the said Messrs, <NAME> and Company were rejected by <ORG>, on the grounds contained in their letters dated 25th November, 1918, and 11th November, 1918, respectively.
+Fact	And whereas the said Messrs. <NAME> and Company claimed from the said <ORG>, the sum of Rs.
+Fact	25,003 (rupees twenty-five thousand) in respect of the aforesaid contracts.
+Fact	And whereas the said <ORG>, denied liability in respect of the said sum or any part thereof.
+Fact	And whereas the said disputes were referred to the arbitration of us, <NAME> and <NAME>, who were appointed Arbitrators by the Deputy Chairman of <ORG>.
+Fact	And whereas on the 12th  day of December the time for making our Award was extended by the Deputy Chairman to the 27th day of December, 1918.
+Fact	Now know ye that we, the said <NAME> and <NAME>, having taken upon ourself the burden of the said reference, and having done all acts necessary to enable us to make a valid Award, hereby make our Award as follows, that is to say:-We award and direct that the said <ORG>, do pay to the said Messrs. <NAME> and Company the sum of 25,000 (rupees twenty-five thousand), and we do further award and direct) that the said <ORG>, do pay the coats of this our Award, which we assess at the sum of Rs.
+Fact	55 (rupees fifty-five).
+Fact	In witness whereof we have hereunto set our respective hands this 23rd day of December, 1918.
+Fact	Signed and Published this 23rd (Signed) day of December, 1918, by us, <NAME>.
+Fact	<NAME> and <NAME>.
+Fact	<NAME>  in the presence of (Signed) <NAME>.
+Fact	4.
+Fact	An appeal was made to <ORG>, who confirmed the award.
+Fact	The respondents then presented a petition to the <ORG> asking that the award should be set aside.
+RulingByLowerCourt	They alleged two grounds (1) that there was no question referable to the arbitrators under Rule 13(2) that there was an error of law on the face of the award, The case depended before <NAME>, who dismissed the petition.
+RulingByLowerCourt	Appeal was taken to <ORG> of the High <ORG>, and they reversed the judgment holding that there was an error in law on the face of the award.
+RulingByLowerCourt	The way that the learned Judges arrived at that conclusion was this : They said that the recital that the respondents had rejected the cotton on the grounds mentioned in the letters of November, 11 and 25, 1918, respectively, allowed them to look at the letters.
+Fact	The letter of November 11 is as follows:  To Messrs, <ORG> and Company.
+Fact	Dear Sirs, Re : D/Order No.
+Fact	27 dated 6.11.18 for 100 bales <NAME>.
+Fact	Please note  that at the survey held this day on the above lot tendered by you against contract No.
+Fact	56, dated 4.19.8 as the Arbitrators have in their award allowed Rs.
+Fact	10 off, we hereby reject the said lot and refuse to take delivery thereof.
+Precedent	<ORG>  5.
+Precedent	The letter of November 25, is in identical terms referring to the other contract, The learned Judges then held that if Clause 52 of the Regulations is looked at-it being the clause which deals with what is to happen when arbitrators, as to quality, make certain findingsit becomes apparent that the arbitrators here could only have arrived at their judgment if they entirely misinterpreted Article 52 ,, They based their opinion, upon the case of <NAME> v. <NAME>  2 K.B.
+Precedent	184.
+Precedent	6.
+Precedent	The law on the subject has never been more clearly stated than by <NAME> in the case of <NAME> v. <NAME>: [1857] 3 C.B.N.S.
+Precedent	189.
+RatioOfTheDecision	The law has for many years been settled, and remains so at this day, that, where a clause or matters in difference  are referred to an arbitrator, whether a lawyer or a layman, he is constituted the sole and final judge of all questions both of law and of fact....
+RatioOfTheDecision	The only exceptions to that rule, are, cases where the award is the result of corruption or fraud, and one other, which though it is to be regretted, is now, 1 think, firmly established, viz., where the question of law necessarily aries on the face of the award, or upon some paper accompanying and forming part of the award.
+RatioOfTheDecision	Though the propriety of this latter may very well be doubted, I think it may be considered as established.
+RatioOfTheDecision	7.
+RatioOfTheDecision	This view has been adhered to in many subsequent cases, and in particular in <ORG> in <ORG>, Limited v. <ORG> Limited [1912] A.C. 673.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The question to be decided is : Does the error in law appear on the face of the award?
+RatioOfTheDecision	In the British <ORG> case it clearly did.
+RatioOfTheDecision	The arbitrator had stated a special case and got an opinion of t he <ORG>; in making his award he stated that opinion and founded his award upon it.
+RatioOfTheDecision	The opinion as given was held to be erroneous, and so there was an error in law on the face of the award.
+Fact	In <NAME> v. <NAME> the state of affairs was different.
+Fact	The question was as to liability and interest on a policy of insurance effected by sellers for and on account of buyers, and the arbitrator framed his award thus:  I decide that as the parties to the contract dated November 3, 1903, were by the terms thereof principals thereto, their interest and liability in insurance is defined to be the value of the invoice plus 5 per rent., and that the buyers are therefore entitled to and only to the said amount, the balance one way or the other being due from or to the sellers.
+RatioOfTheDecision	9.
+RatioOfTheDecision	<ORG> held that this entitled them to look at the contract and to come to the conclusion that the decision was erroneous in law.
+RatioOfTheDecision	The case of <NAME> v. <NAME> is not binding on their Lordships, and it was contended that it wa s wrongly decided, but in their Lordships' opinion it is not necessary to consider that point, for the present case differs from <NAME>'s case in an essential particular.
+RatioOfTheDecision	In that case the legal proposition was stated in terms on which the award proceeded.
+RatioOfTheDecision	In the present case, no legal proposition at all is stated as a ground of award.
+RatioOfTheDecision	The reference to the letters is only in the narrative, and even when the letters are looked at they only contain the view of one party.
+RatioOfTheDecision	To make this case equiparate with that of <NAME> v. <NAME> the award would have to run somewhat thus:-"In respect of the ground of rejection contained in the letters of November 11 and 25, and in respect of Clause 52 of the Articles, I decide that, etc."
+RatioOfTheDecision	10.
+RatioOfTheDecision	Now the regret expressed by <NAME> in <NAME> v. <NAME> has been repeated by more than one learned Judge, and it is certainly not to be desired that the exception should be in any way extended.
+RatioOfTheDecision	An error in law on the face of the award means, in their Lordships' view, that you can  find in the award or a document actually incorporated thereto, as for instance, a note appended by the arbitrator stating the reasons for his judgment, some legal proposition which is the basis of the award and which you can then say is erroneous.
+RatioOfTheDecision	It does not mean that if in a narrative a reference is made to a contention of one party that opens the door to seeing first what that contention is, and then going to the contract on which the parties' rights depend to see if that contention is sound.
+RatioOfTheDecision	Here it is impossible to say, from what is shown on the face of the award, what mistake the arbitrators made.
+RatioOfTheDecision	The only way that the learned Judges have arrived at finding what the mistake was is by saying : Inasmuch as the arbitrators awarded so-and-so, and inasmuch as the letter shows that the buyer rejected the cotton, the arbitrators can only have arrived at that result by totally misinterpreting Clause 52."
+RatioOfTheDecision	But they were entitled to give their own interpretation to Clause 52 or any other article, and the award wi ll stand unless, on the face of it, they have tied themselves down to some special legal proposition which then, when examined, appears to be unsound.
+RatioOfTheDecision	Upon this point, therefore, their Lordships think that the judgment of <NAME> was right and the conclusion of the learned Judges of <ORG> erroneous.
+Argument	11.
+Argument	The counsel for the respondents then argued the other point, which the learned Judges of <ORG> found it unnecessary to decide, and which the trial Judge decided against them.
+Precedent	He said that upon a proper construction of the contract the moment his client rejected the cotton in virtue of the decision by the arbitrators as to quality, he was entitled to do so, and the contract was repudiated or came to an end; that then the arbitration clause could no longer be appealed to and he said that inasmuch as this was a plea to jurisdiction the Court ought to decide it.
+Precedent	12.
+Precedent	Their Lordships think that this argument is based upon a confusion of thought.
+RatioOfTheDecision	The question of whether an arbitrator ac ts within his jurisdiction is, of course, for the <ORG> to decide, but whether the arbitrator acts within his jurisdiction or not depends solely upon the clause of reference.
+RatioOfTheDecision	It is, therefore, for the <ORG> to decide in this case whether the dispute which 'has arisen is a dispute covered by Clause IS of the Articles.
+RatioOfTheDecision	It clearly is so, because it is undoubtedly a dispute arising out of or in relation to a contract made subject to the rules and regulations of <ORG>.
+RatioOfTheDecision	Now that clause refers to the arbitrator the whole question whether it depends on law or on fact, with the exception only of dispute as to quality.
+RatioOfTheDecision	It is, therefore, for the arbitrator and not for the <ORG> to decide what is the effect of the rejection based on an award as to quality.
+Precedent	In truth this point is decided in terms by the recent case of <NAME> v. <NAME> [1922] S.C.H.L.
+Precedent	117.
+RatioOfTheDecision	It was a Scotch case, but in no way depended upon any peculiarity of the law of  13.
+RatioOfTheDecision	The decision of the first appeal in this sense disposes of  the second appeal without further argument, as it is obvious that in that case even the reference in the narrative to the grounds of defence in the letters is absent, and there is nothing but the bare statement that a certain sum was awarded.
+RulingByPresentCourt	It follows that in the first appeal the appeal must be allowed and the judgment of the trial Judge restored; the appellants must have their costs here and in the Courts below.
+RulingByPresentCourt	The second appeal must be dismissed and the respondents will have their costs.
+RulingByPresentCourt	14.
+RulingByPresentCourt	Their Lordships will humbly advise His Majesty accordingly.

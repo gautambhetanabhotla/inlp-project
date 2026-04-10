@@ -1,0 +1,89 @@
+Fact	PETITIONER: THE STATE OF ORISSA Vs. RESPONDENT: <NAME> STATE OF ORISSAV.ARJUN LADHA.THE STAT DATE OF JUDGMENT: 25/10/1951 BENCH: KANIA, HIRALAL J.
+Fact	(CJ) BENCH: KANIA, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> CITATION: 1952 AIR 12 1952 SCR 28 CITATOR INFO : F 1962 SC1044 (5) R 1962 SC1305 (22) R 1964 SC 685 (10) R 1965 SC 745 (137) R 1966 SC1441 (4) E 1968 SC 733 (9,10) RF 1973 SC2720 (9) RF 1975 SC2238 (19) F 1976 SC 578 (33) RF 1980 SC 962 (59) F 1983 SC1272 (10) ACT: Constitution of India, Art.
+Fact	226-- Writs granting more interim relief pending institution of civil suit without deciding rights of parties--Legality.
+RatioOfTheDecision	HEADNOTE: <ORG> cannot make a direction under Art.
+RatioOfTheDecision	226 of the Constitution for the purpose of granting interim relief only pending the institution of a suit merely because the suit could not be instituted until after the expiry of 60 days from the date of a notice under Sec.
+Fact	80 of the Civil Procedure Code and in the mean while, unless protected by the <ORG> the applicant may suffer irreparable loss.
+Fact	Even though writs can be issued under Art.
+Fact	226 for purposes other than the enforcement of fundamental rights, the concluding words of the article have to be read in the context of what precedes the same, and the existence of a right is the foundation of the exercise of jurisdiction of the <ORG> under this article.
+Fact	An interim relief can be granted only in aid of, and as ancillary to, the main relief which may be available to the party on final determination of his rights in a suit or proceeding.
+Fact	29 JUDGMENT:  CIVIL APPELLATE JURISDICTION: Cases Nos.
+Fact	300 to 304 of 1951.
+Fact	Appeals under Art.
+Fact	132(1) of the Constitution of India from a. judgment dated 2nd August, 1951, of the High <ORG> of Judicature at Orissa (<NAME> and <NAME>) in Miscellaneous Judicial Cases Nos.
+Fact	126, 127, 128, 129 and 130 of 1951.
+Fact	<NAME>, Attorney-General for India (<NAME>, with him) for the appellant in all the appeals.
+Fact	<NAME> (<NAME> <NAME> and <NAME>, with him) for the respondent in Case No.
+Fact	300 of 1951.
+Fact	<NAME> for the respondents in Cases Nos.
+Fact	301 and  304.
+Fact	<NAME> (<NAME>, with him) for the respondent in Case No.
+Fact	302 of 1951.
+Fact	<NAME> (<NAME> and <NAME>, with him) for the respondent in Case No.
+Fact	303 of 1951.
+Fact	1951.
+Argument	October 25. the Judgment of the Court was delivered by <NAME> five companion appeals from the judgment of <ORG> at Orissa, delivered on five petitions filed by the respondent in each of the appeals, to obtain from the Court a writ of mandamus and/or directions under article 226 of 'the Constitution of India.
+Argument	Each of the respondents alleged that between 1941 and 1947 he had agreed to take from the Ruler of Keonjhar a mining lease and had entered into possession of the area.
+Argument	Some of the petitioners alleged that they had spent money on the development of the mines and installed machinery to work the same.
+Fact	It is however common ground that there was no registered lease in fa vour of any of the respondents before 1947.
+Fact	On the 14th December, 1947, the Ruler of Keonjhar entered into a merger agreement with the Dominion of India and as from the 1st January, 1948, the State was merged in the Dominion of India.
+Fact	After signing the merger agreement the Ruler gave registered leases on the 27th December, 1947, to the respondents in these appeals.
+Fact	In pursuance of the exercise of the powers conferred on <ORG> by section 4 of the Extra Provincial Jurisdiction Act, 1949, read with Notifica- tion No.
+Fact	172/1B dated 23rd March, 1948, of <ORG>, <ORG> issued a notification dated the 8th of June, 1949, declaring, inter alia, the said leases to be void and not binding on it.
+Fact	This annulment was made expressly on the ground that these commitments were not reasonable and bona fide.
+Fact	Thereafter, the respondents, along with others approached <ORG> to give them leases and <ORG> gave them temporary permits to work the mines  in November, 1949.
+RulingByLowerCourt	On the 3rd July, 1951, however they passed an order cancelling the temporary per- mits and directed the respondents to remove their assets appertaining to the respective mines within a fortnight.
+RulingByLowerCourt	The respondents thereupon filed the petitions before <ORG> praying for writs or directions in the nature of mandamus against the <ORG> of Orissa directing them to withdraw the notices dated the 8th of June and 3rd of July, 1951, and to forbear from acting upon or giving effect to the same.
+RulingByLowerCourt	The Court, after noticing the rival contentions of the parties and rejecting the contention that the <ORG> of Orissa had cancelled the permits and were attempting to take possession as an act of <ORG>, posed the question "whether the law of annulment relied upon by the <ORG> was applicable to the mining leases granted to the petitioners, or in the alternative, whether the <ORG> had any right in law to cancel the leases before the period mentioned therein."
+RulingByLowerCourt	Referring to the contention of the <ORG>  rounded on the acceptance by the respondents of the temporary permits and the estoppel arising therefrom, <NAME> in his judgment stated as follows :--"In determining the validity of this contention (relating to the temporary permit and estoppel arising therefrom) the circumstances under which these applications were made and the legal implications of such applications and the permissions granted under them will have to be considered.
+Fact	It is remote from our intention to express any opinion in this summary proceeding as to the respective merits of the rival contentions.
+Fact	I am however satisfied that in the context of events and in the logic of circumstances attending thereto there is a case to be tried."
+RulingByLowerCourt	He next considered the scope of the writ of mandamus and came to the conclusion that "at the moment" the respondents had no alternative legal remedy, equally conven- ient, beneficial and effectual because the respondents could not file a suit till after the expiry of the period of sixty days required for the pu rpose under section 80 of the Civil Procedure Code and he thought that unless protected by the <ORG> in the meanwhile the respondents would undergo irrepa- rable and irremediable loss of possession of the mining leases involving a huge waste of labour, machinery and other resources of equipments of immense value hardly capable of being remedied by payments of money as compensation.
+RulingByLowerCourt	The <ORG> therefore passed an order dated 2nd August, 1951, as follows :--"We direct that till three months from today or one week after the institution of their (respondents') contemplated suit, whichever is earlier, the Government of the State of Orissa should refrain from disturbing the petitioners' possession over the mining areas in question and that thereafter this order will cease to have effect."
+RulingByLowerCourt	They gave further directions as to how the mines were to be worked during the aforesaid period.
+RulingByLowerCourt	Towards the end of the judgment it was stated, "In the result, the petitions are allowed in part to the limited extent indicated above. "
+RulingByLowerCourt	<NAME> agreed with the order set out in the judgment of the Chief Justice although his judgment shows the concur- rence to be very halting.
+RulingByLowerCourt	He stated that although he was reluctant to exercise the powers under article 226 because the present respondents could file a suit, yet as in view of section 80 of the Civil Procedure Code there would be an unavoidable delay resulting in irreparable loss to the respondents he agreed that the order should be passed as mentioned in the judgment of the Chief Justice, Towards the end of his judgment he stated as follows:-"It should however be clearly emphasized that the observations contained in this judgment should not be taken as pre-judg- ing any question which may.arise for the consideration of <ORG> in the event of the petitioners filing a regular suit and seeking interim relief from that Court by way of temporary injunction, appointment of receiver or otherwise.
+RulingByLowerCourt	If such an application is made, the questions as to whether the petitioners have a prima  facie case for trial or whether such a suit is maintainable or whether the bal- ance of convenience requires that they should be permitted to remain in possession of the leasehold property till the termination of the suit and other allied matters should all be dealt with by the <ORG> concerned without being influ- enced in any way by the observations contained in this judgment.
+RulingByLowerCourt	Those observations have been made for the limited purpose of granting temporary relief under article 226 and are not intended to embarrass either party or the <ORG> in future litigation."
+RulingByLowerCourt	It appears that thereafter an application was made to stay the operation of this order to enable <ORG> to appeal against the order of the 2nd of August.
+RulingByLowerCourt	The same Judges on the 6th of August stayed the operation of the order for fifteen days and observed as follows :--"The effect of the order (of 2nd August, 1951) is that except giving them (respondents in these appeals) some interim measure of relief for the period during which the  petition- ers were without remedy, we were not inclined to accept the petition and issue a writ in the nature of mandamus, as prayed for."
+RulingByLowerCourt	The State of Orissa has come on appeal to us and after hearing the arguments on both sides we came to the conclusion that the order of <ORG> could not be sustained.
+RulingByLowerCourt	We accordingly passed the following order on the 15th of October: "These five appeals are allowed and the order of <ORG> is set aside in each case.
+RulingByLowerCourt	As <ORG> has passed no other orders on the petitions.
+RulingByLowerCourt	and indeed has stated that the Court was not prepared to pass any ,other orders on the petitions, the petitions stand dismissed.
+Fact	The respondents will pay the costs of the ap- peals.
+Fact	We shall give our reasons later on."
+Fact	Our reasons are these:   Article ,226 of the Constitution of India runs as fol- lows:--  226.
+Statute	(1)"Notwithstanding anything in article 32 , <ORG> shall have power, throughout the territories in relation to which it exercises jurisdiction, to issue to any person  or authority, including in appropriate cases any Government, within those territories directions, orders or writs, including writs in the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any of them, for the enforcement of any of the rights conferred by Part III and for any other purpose.
+RatioOfTheDecision	(2) The power conferred on <ORG> by clause (1) shall not be in derogation of the power conferred on <ORG> by clause (2) of article The language of the Article shows that the issuing of writs or directions by the <ORG> is not rounded only on its decision that a right of the aggrieved party under Part II1 of the Constitution (Fundamental Rights) has been in- fringed.
+RatioOfTheDecision	It can also issue writs or give similar directions for any other purpose.
+RatioOfTheDecision	The concluding words of article 226 have to be read in the context of what precedes the same.
+RatioOfTheDecision	Therefore the existence of the right is the foundation of the exercise of jurisdiction of the <ORG> under this Arti- cle.
+RatioOfTheDecision	The judgment of the Oris <ORG> under appeal, however, shows that the Judges have decided nothing at all in respect of the rights of the parties.
+RatioOfTheDecision	Indeed they have expressly stated that their observations should not in any way be considered as deciding any of the rights or conten- tions of the parties raised in the petitions.
+RatioOfTheDecision	The whole judgment shows that because of the requirement of section 80 of the Civil Procedure Code the present respondents could not file a suit against the Government for at least sixty days, the  respondent's position should not in the interval be dis- turbed and accordingly the <ORG> gave the directions in its order of the 2nd of August, 1951.
+RatioOfTheDecision	If there was any doubt about the nature of the relief desired to be granted by the order of 2nd August the same Judges have made it per- fectly clear by their order of the 6th of August, wherein they have stated that except for these directions they were not prepared to make any other order on the petitions.
+RatioOfTheDecision	The result therefore is that while the Judges declined t o inves- tigate and pronounce on the rights of the parties and ex- pressly kept the determination thereof in abeyance in the suit proposed to be filed by the present respondents, they gave directions for interim relief till such suit was filed.
+RatioOfTheDecision	It must be noted that with the passing of the order of the 2nd August, 1951, containing directions in the nature of interim relief the petitions were completely disposed of and have not been kept pending for disposal.
+RatioOfTheDecision	Those directions embody therefore the final order passed by the <ORG> on these petitions.
+RatioOfTheDecision	A preliminary objection was raised about the maintainability of the appeals on the ground that no final orders were passed on the petitions.
+RatioOfTheDecision	That objection must fail in view of the fact that with these orders the petitions were disposed of finally and nothing further remained to be done in respect of the petitions.
+RatioOfTheDecision	The fact that the operation of the order is limited to three months or a week after the filing of the intended suit does not prevent the order from being  final.
+RatioOfTheDecision	On behalf of the appellant it was urged that the <ORG> had no jurisdiction to pass such orders under article 226 under the circumstances of the case.
+RatioOfTheDecision	This is not a case where the <ORG> before finally disposing of a petition under article 226 gave directions in the nature of interim relief for the purpose of maintaining the status quo., The question which we have to determine is whether directions in the nature of interim relief only could be granted under article 226 , when the <ORG> expressly stated that it refrained from determining the rights of the parties on which a writ of mandamus or directions of a like nature could be issued.
+RatioOfTheDecision	In our opinion, article 226 cannot be used for the purpose of giving interim relief as the only and final relief on the application as the High <ORG> has purported to do.
+RatioOfTheDecision	The directions have been given here only to circumvent the provisions of section 80 of the Civil Procedure Code, and in our opinion that is not within the scope of article 226.
+RatioOfTheDecision	An interim relief can be  granted only in aid of and as ancil- lary to the main relief which may be available to the party on final determination of his rights in a suit or proceed- ing.
+RatioOfTheDecision	If the <ORG> was of opinion that there' was no other convenient or adequate remedy open to the petitioners, it might have proceeded to investigate the case on its merits and come to a decision as to whether the petitioners suc- ceeded in establishing that there was an infringement of any of their legal rights which entitled them to a writ of mandamus or any other directions of a like nature; and pending such determination it might have made a suitable interim order for maintaining the status quo ante.
+RatioOfTheDecision	But when the <ORG> declined to decide on the rights of the parties and expressly held that they should be investigated more properly in a civil suit, it could not, for the purpose of facilitating the institution of such suit, issue directions in the nature of temporary injunctions, under article 226 of the Constitution.
+RatioOfTheDecision	In our opinion, the language of ar ticle 226 does not permit such an action.
+RatioOfTheDecision	On that short ground the judgment of <ORG> under appeal cannot be upheld..  Appeals allowed.
+RatioOfTheDecision	Agent for the appellant in all the appeals: <NAME>.
+Fact	Agent for the respondent in Case No.
+Fact	300 : <NAME>.
+Fact	Agent for the respondent in Cases Nos.
+Fact	301 and 304: <NAME>.
+Fact	Agent for the respondent in Cases Nos.
+Fact	302 and 303: <NAME>.
+Fact	36

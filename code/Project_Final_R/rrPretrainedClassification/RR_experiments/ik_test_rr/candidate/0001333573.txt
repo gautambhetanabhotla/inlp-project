@@ -1,0 +1,74 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The decree that was passed by the District Munsif upon this suit for redemption, though styled a preliminary decree and.
+Fact	passed under the Code of Civil Procedure, 1908, provided for sale of the mortgaged properties if the money required for redemption was not paid by a certain date.
+Fact	There was thus no need for anyone to apply for an order for sale.
+Fact	But in a redemption suit, the decree-holder being the mortgagor, it has been held in <CITATION_782124> (1913) I.L.R.
+Fact	36 Mad.
+Fact	32.
+Fact	<NAME> v. <NAME> and <CITATION_667060> (1920) I.L.R.
+Fact	43 Mad.
+Fact	835 that he as well as the mortgagee has a right to execute the decree by applying for sale, and I think we should follow those decisions.
+Fact	2.
+Fact	As regards the applications of 4th April 1916 and 23rd.
+Fact	June 1916 for an extension of time for depositing the redemption money in <ORG>, it may be conceded that.
+RatioOfTheDecision	they did not aid the particular form of execution which has ultimately been reached, but if they were bona fide they may well b e said to have been in aid of that portion of the decree which related to redemption, and I think the decree must be treated as a whole and not split up into sections.
+Fact	This is the view taken in a recent decision, <CITATION_1015066> (1922) I.L.R.
+Fact	45 Mad.
+Fact	35 to which I was a party.
+Fact	If they were in any sense aids to execution they should be treated as steps in aid of execution.
+Argument	3.
+Argument	<CITATION_974296> (1915) I.L.R.
+Argument	38 Mad.
+Argument	695 <NAME>, J., observed that an application by the decree-holder to give time to the judgment-debtor merely as a matter of grace would be a step in retardation.
+RulingByLowerCourt	In the present case the applicant though he was the decree-holder was the person who had to pay and he was applying for time not as a matter of grace to a judgment-debtor, but in order the better to enable himself to execute the decree, the execution of which would have been completed as soon as the redemption money was paid.
+RulingByLowerCourt	4.
+RulingByLowerCourt	The Subordinate Judge in appeal made the comment on these applications that it could not be said tha t they were made in execution.
+RulingByLowerCourt	The law only requires that they should be applications in accordance with law to the proper <ORG> and they appear to have been that.
+RulingByLowerCourt	5.
+RulingByLowerCourt	I therefore agree with my learned colleague that this Appeal should be allowed with costs in both <ORG>s.
+Fact	<NAME>, J.
+Fact	6.
+Fact	This is a matter arising in the execution of a decree for the redemption of a usufructuary mortgage in South Malabar.
+Fact	The final decree of the High <ORG>, dated 16th October 1913, allowed three months' time for redemption.
+Fact	The three months expired on the 16th (not 15th) January 1914 In his present application, dated 22nd December 1917, the decree-holder (plaintiff) applied for sale.
+Fact	7.
+Fact	It has been held in <CITATION_226374> (1918) M.W.N.
+Fact	p. 551 that in cases falling under the Malabar Tenants' Improvements Compensation Act, the provisions of Order XXXIV, Civil Procedure Code, are modified by Section 6 of that Act in so far as they are inconsistent with the latter, and that under the local Act only one decree in redemption sui ts need be passed.
+Fact	This was also acted upon by the Subordinate Judge in an earlier stage of the proceedings of this case.
+Fact	In this view, the question decided in <CITATION_782124> (1913) I.L.R.
+Fact	36 Mad.
+Fact	32 in <NAME> v. <ORG> of 1915 (unreported) and in <CITATION_667060> (1920) I.L.R.
+Fact	43 Mad.
+Fact	835, whether a mortgagor who obtained a decree for redemption can apply for sale when no final decree is passed under Order XXXIV, Rule 4, which enables the mortgagee only to apply for the passing of a final decree, does, not arise, though I may add that, if it arises, I am inclined to follow those decisions and do not share the doubts expressed by <NAME>, J., in the last of them.
+Fact	8.
+Fact	But it has also been pointed out in <CITATION_226374> (1918) M.W.N.
+Fact	551. p. 553 that Provisions like directions for sale in default, allowing time to pay moneys declared as due and so on, not inconsistent with the Improvements Act and directed or allowed by the new Civil Procedure Code to be mentione d in a decree for redemption or ejectment can, of course, be mentioned in decrees passed in suits falling under the Compensation Act also  9.
+Fact	It follows that the mortgagor is entitled to apply for extension of the time allowed to him in the decree for redemption.
+Fact	In this case, two such applications were filed by the decree-holder on 4th April 1916 and 23rd June 1916.
+RulingByLowerCourt	The District Munsif held that they operated as steps in aid of execution and saved the present application from being barred by limitation.
+RulingByLowerCourt	The Subordinate Judge reversed the order of the District Munsif on the ground that they were rot in aid of the execution because (1) the applications were not made when any execution application was pending and it cannot be said that they were made in execution (which is true) and (2) they retard execution and do not aid it.
+RulingByLowerCourt	10.
+RatioOfTheDecision	In my opinion there is no warrant for the view that an application to take a step in aid of execution should be made in execution, and no authority has been cited by the Subordinate  Judge or the learned vakil for the respondent in its support.
+RatioOfTheDecision	11.
+RatioOfTheDecision	On the second ground also, I am unable to agree with the learned Subordinate Judge.
+RatioOfTheDecision	Ordinarily, it is the judgment-debtors that have to pay or do some act under decrees in order to avoid sale, and applications by them for extension of time retard execution and do not aid it.
+RatioOfTheDecision	But it does not follow that, in redemption decrees and similar decrees, where the decree-holder has to pay before obtaining execution and asks for extension of the time allowed to him for payment, such application does not aid him though it may retard execution of the decree.
+Precedent	It aids Mm in the execution of the portion of the decree relating to redemption which he cannot get without extension of the time: see <CITATION_254377> (1907) I.L.R.
+Precedent	29.
+Precedent	All.
+Precedent	301. at p. 302.
+RatioOfTheDecision	As my learned brother observed in the course of the argument, late redemption is better than No.
+RatioOfTheDecision	redemption.
+RatioOfTheDecision	It may be that those applications do not aid the particular kind of execution now sought, viz., sale wh ich was a relief granted as an alternative to the relief of redemption.
+Precedent	It is enough that they aid the decree-holder in the execution of some portion of the decree vide <NAME> v. <NAME> (1891) I.L.R.
+Precedent	15 Bom.
+Precedent	245. note especially when that was the primary object of the decree-holder, even though, in the events that happened, the decree-holder did not derive the assistance sought.
+Precedent	In my opinion the proper test in deciding such a question is whether the step aids the execution.
+Precedent	The other test, viz., whether it accelerates or retards execution see <CITATION_863927> (1900) I.L.R.
+Precedent	27 Calc.
+Precedent	285, <CITATION_974296> (1915) I.L.R.
+Fact	38 Mad.
+RatioOfTheDecision	695 though in many cases it amounts to the same thing, may in some cases (such as this) turn out to be fallacious.
+RatioOfTheDecision	12.
+RulingByPresentCourt	I would reverse the order of the Subordinate Judge and restore that of the District Munsif with costs here and in the lower Appellate Court.

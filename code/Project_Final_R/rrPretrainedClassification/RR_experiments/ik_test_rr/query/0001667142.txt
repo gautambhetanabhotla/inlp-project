@@ -1,0 +1,51 @@
+Fact	JUDGMENT Visoount Dunedin, J.
+Fact	1.
+Fact	In this case the plaintiffs were mortgagees under a registered mortgage bond granted by the defendant.
+Fact	They raised action for the sum of Rs, 52,000 odd, said to be due under the mortgage.
+Fact	The defendant denied that the whole sum was due, as he said the plaintiffs had not given him credit for two sums of Rs.
+Fact	11,000 odd and Rs.
+Fact	8,000 odd, which he had paid, such payments having originally been endorsed on the bond, but the endorsations having been erased by the plaintiffs.
+Fact	2.
+Fact	The Subordinate Judge gave effect to this contention, but made the ordinary preliminary decree for the sum of Rs.
+Fact	19,000, being the sum due, with proper computation of interest, after allowing credit for the above-mentioned two sums.
+Fact	The date of this decree was February 22, 1915.
+RulingByLowerCourt	The six months of grace for payment would, therefore, expire on August 22, 1915.
+Fact	The mortgagees appealed against the decree.
+Fact	The appeal was heard, and the appeal dismissed on May 21, 1917.
+Fact	3.
+Fact	On February 21, 1919, application was  made for a final decree.
+Fact	The defendants opposed the application on the ground that it was time-barred under Article 181 of the Schedule to the Limitation Act , 1908.
+Fact	The terms of that Article of the schedule are : "Applications for which no period of limitation is provided elsewhere in this Schedule; period of limitation three years; time from which period begins to run, when the right to apply accrues."
+Fact	4.
+Fact	The three years had expired or had not expired according as computation fell to be made, as the defendants urged, from the time fixed for payment by the original decree, or, as the plaintiffs urged, from the date of the dismissal of the appeal.
+Fact	The Subordinate Judge gave effect to the contention of the plaintiffs.
+RulingByLowerCourt	5.
+RulingByLowerCourt	On appeal <ORG> upheld the decision of the Subordinate Judge.
+RulingByLowerCourt	The present appeal is against that judgment.
+RulingByLowerCourt	The point, therefore, is simply whether the time runs from the expiry of the time fixed by the original preliminary decree or from the date when on appeal against that de cree the appeal was dismissed.
+RulingByLowerCourt	6.
+Fact	The appellant's counsel strenuously urged that the appeal was not against the decree, but only against the items in the decree.
+Fact	This is a complete misunderstanding.
+Fact	An appeal must be against a decree as pronounced, It may be rested on an argument directed to special items, but the appeal itself must be against the decree, and the decree alone.
+Fact	Which date is then to be preferred ?
+Precedent	Their Lordships agree entirely with what was said by <NAME> in the case of <CITATION_353077> (1917) I.L.R, 39 All.
+Precedent	641, F. b.
+Precedent	(p. 643):-  It seems to me that this rule [the rule regulating application for final decrees in mortgage notions] contemplates the passing of only one final decree in a suit for Sale upon a mortgage.
+Precedent	The essential condition to the making of a final decree is the existence of a preliminary decree which has become conclusive between the parties.
+Precedent	When an appeal has been preferred, it is the decree of the appellate court which id the final decree in the cause  7.
+Precedent	These words  are all the more weighty that previously the learned Judge had in the case of <CITATION_1250363> (1915) I.L.R.
+RulingByLowerCourt	33 All.
+RulingByLowerCourt	21 held that when there had been an appeal against a preliminary decree, the limitation period applicable to an application for final decree ran from the expiry of the time for payment fixed by the original decree, and not from the disposal on appeal, a view which he candidly confessed in this case was erroneous.
+RatioOfTheDecision	The point is put with admirable brevity by <NAME> J.
+RatioOfTheDecision	(p. 645) :-  When the Munsif passed the decree, it was open to the plaintiff, or the defendant, to accept that decree or to appeal.
+RatioOfTheDecision	If an appeal is preferred, the final decree is the decree of the appellate court of final jurisdiction.
+RatioOfTheDecision	When that decree is passed, it is that decree, and only that, which can be made final in the cause between the parties.
+RatioOfTheDecision	8.
+Precedent	The same view was incidentally taken without comment by this <ORG> in the case of <CITATION_1841230> .
+Precedent	(1914) I.L.R.
+Precedent	38 All.
+Precedent	350 : s.c. 10 Bom.
+Precedent	L.R.
+Argument	395, P.C.
+Argument	9.
+RulingByPresentCourt	Their Lordshi <ORG> will, therefore, humbly advise His Majesty to dismiss the appeal with costs.

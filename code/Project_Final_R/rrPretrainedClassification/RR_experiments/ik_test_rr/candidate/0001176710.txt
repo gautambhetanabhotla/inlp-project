@@ -1,0 +1,81 @@
+Fact	JUDGMENT <NAME>, K.C., <NAME>  1.
+Fact	This is an appeal from the judgment of <NAME>, J. in a partition suit--from so much of his decree as directed that the first defendant should account for a sum of Rs.
+Fact	6,500 shown to have come into his hands as part of the joint family assets.
+Fact	The 1st defendant was the manager of a joint Hindu family governed by the Mitakshara Law, the other persons interested being a minor brother, and their mother and sister who were entitled to rights of maintenance.
+Fact	The 1st defendant has become an insolvent and the Official Assignee of <ORG> on behalf of his creditors represents his interest.
+Fact	The facts so far as they are relevant are that Rs.
+Fact	6,500 which formed part of the ancestral property were deposited in a <ORG>, and, some years ago, drawn out by the 1st defendant.
+Fact	Of that amount Rs.
+Fact	2,500 were deposited with <ORG>, as security for the honesty of the 1st defendant who was entering the service of that firm as cash-keeper.
+Fact	The balance has disappeared.
+Fact	<ORG> e was a suggestion that it was used by the 1st defendant for purpose of his own marriage or other legitimate family expenses.
+Fact	But this was negatived by his mother who stated that she had found the necessary money for the marriage and by the fact that the sums were drawn out sometime after the marriage, and no evidence was forthcoming of any other necessary family expenditure which could not be met out of the income.
+Fact	The 1st defendant was not called as a witness.
+Fact	.It was suggested that he was helping his relations as against his creditors which might account for the Official Assignee not calling him as a witness.
+Fact	But all his affairs were in the hands of the Official Assignee who had every opportunity of examining the insolvent and ascertaining the true facts.
+Fact	The money was drawn by the 1st defendant in 1914.
+Argument	In 1918 he was found to have committed defalcations in his office of Cash-keeper to Messrs <NAME> & Co., amounting to Rs.
+Argument	15,000.
+Argument	It is possible that the balance of the money so drawn out by the 1st def endant was invested in some other manner.
+Argument	At the time, he told his mother that he was lending a large part of it to a Muhammadan, a business man; but there is no evidence that this loan is still outstanding, and it is much more probable that it was ultimately used to meet the defalcations in Messrs <NAME> & Co., or to meet the 1st defendant's losses in some unfortunate speculations which led to his making away with this large amount of <NAME>'s money.
+Argument	2.
+Argument	The learned Judge has held that the 1st defendant has received these moneys and has not accounted for them except as to the Rs.
+Precedent	2,500 mentioned.
+Argument	He has held further that it is a rule of Hindu Law that a co-parcener upon partition is not entitled to call upon the managing member to render an account of his past management so as to debit him with any loss caused to the joint property by his management but can only get his share in the properties available for division at the time of the partition, and for this proposition he quotes <CITATION_1599193> (19 08) ILR 32 M 271 and Krishnayya v. Guruvayya (1921) 41 MLJ 503.
+Argument	He points out that there is an exception to this rule, when a person is able to establish misappropriation on the part of the manager.
+Argument	He also holds that there is another exception, namely, that if a co-parcener is a minor, the manager can be made to account generally in respect of the corpus of the estate, at any rate where there are no adult members except the manager; and as the plaintiff in this case was at all material times a minor, he holds that the first defendant must bring into account this sum of Rs.
+RatioOfTheDecision	6,500.
+RatioOfTheDecision	3.
+RatioOfTheDecision	I agree to the result arrived at, but I do not agree with the reasons given.
+RatioOfTheDecision	That a managing member is not bound to give a general account of his dealings, that, in the absence of fraud or misappropriation, the managing member cannot be called upon to justify his past transactions, that the manager is not bound to keep general accounts and that co-parceners cannot complain if the manager in his discretion favours in his expendit ure one of the co-parceners at the expense of the others are matters, I think, beyond controversy; nor do I find any authority in support of the proposition that in this matter there is any difference between the position of an infant co-parcener and another.
+RatioOfTheDecision	In fact, on an examination of the cases establishing these propositions, it will be found that in most of them there were persons who were minors at the date of the partition or had been minors at the time of the expenditure by the manager.
+RatioOfTheDecision	But in respect of assets proved to have come into the hands of the manager, in my judgment,, he has to account.
+RatioOfTheDecision	It is not enough for him to say that he has no longer got those assets; nor do I think it right to say, once it had been proved that the assets came into his hands, that the co-parcener has also to prove that they remained in his hands at the date of the partition.
+RatioOfTheDecision	In my judgment, capital monies proved to have come into the hands of a manager must be considered as available for partition, in the absence of s ome evidence showing what has happened to them.
+RatioOfTheDecision	It is not necessary in this case to discuss what would be sufficient evidence.
+RatioOfTheDecision	It may be that the proof of family necessities which would involve an expenditure greater than the income would lead to the presumption that the assets have been properly expended on behalf of the family.
+RatioOfTheDecision	But, in this case, there is nothing of the sort, and I think that the proper inference to be drawn is that these monies have been misappropriated by the managing member.
+RatioOfTheDecision	In this connection I think that misappropriation means nothing more than the expenditure of the money on other than justifiable family expenses.
+Precedent	Rs.
+Precedent	2,500 were clearly misappropriated.
+Precedent	It was a legitimate family purpose to place that money with Messrs <NAME> & Co., as security for the good behaviour of the managing member.
+Precedent	But it remained joint family property and, when he caused the loss of that money to the family by his misconduct as an employee of Messrs <NAME> & Co., in my judgment, he clearly misappropria ted the money.
+Precedent	As regards the balance of Rs.
+Precedent	4,000 it was traced into his hands.
+Precedent	It was proved that it was deposited in a <ORG> and that he drew it out.
+Precedent	There is no evidence that he spent it on a family necessity, or that there was any family necessity for which such a sum of money would have been required, and, in my judgment, under those circumstances, when the assets are traced into the hands of the managing member, he is bound to account for them on a partition, whether his co-parceners are minors or majors, and in this case the first defendant and the Official Assignee representing him have entirely failed to do so.
+Precedent	If authority were required for these propositions, I think, it is to be found in the account that was ordered in <CITATION_1599193> (1908) ILR 32 M 271 : 19 MLJ 70, and in the clear judgment on the point of <NAME> and <NAME>, JJ.
+Precedent	in <NAME> v. <NAME> (1921) 41 MLJ 503, particularly of <NAME>, J. at page 509 where he states the law correctly.
+Precedent	It was suggested that <CITATION_1769705>  (1921) ILR 45 M 281 : 42 MLJ 570 was an authority to the contrary, but as I read the judgment, particularly on page 287, it supports the view expressed above.
+Precedent	4.
+Precedent	The result is that this appeal must be dismissed with costs.
+Precedent	<NAME>, J.
+Precedent	5.
+RulingByPresentCourt	I agree that this appeal must be dismissed with costs.
+RatioOfTheDecision	The rule of law, as stated by <NAME>, J. is that a co-parcener can get a share only in such properties as are actually available at the time of partition.
+RatioOfTheDecision	If this means that, when a manager is asked to account for missing property, it.
+RatioOfTheDecision	is a sufficient answer on his part to point out that it no longer exists, 1 cannot accept it as an adequate statement of the law.
+RatioOfTheDecision	The ruling in <CITATION_1599193> shows that it is open to a co-parcener to call upon the manager to account for specific items of property which are alleged to have come into his hands.
+RatioOfTheDecision	Though he is not entitled to ask for a general account of the management, he is entitled to an account of the property at the time he asks for partition.
+RatioOfTheDecision	And by that is meant  not the property as it actually exists, but as it ought to be.
+RatioOfTheDecision	This is the view taken in <NAME> v. <NAME> (1921) 41 MLJ 503 and there is nothing to the contrary in <CITATION_1769705> (1921) ILR 45 M 281 : 42 MLJ 57.
+RatioOfTheDecision	6.
+Fact	In the present case it is clear that the manager had to account for Rs.
+Fact	6, 500.
+RatioOfTheDecision	This sum of money he probably appropriated to his own use.
+RatioOfTheDecision	In any event, it has not been proved that he spent it for any necessary or legitimate family purpose.
+RatioOfTheDecision	He must therefore make good plaintiff's half share.
+RatioOfTheDecision	7.
+RatioOfTheDecision	(Continuation of the Judgment pronounced in open Court this day).
+Fact	<NAME>, K.C., C.J.
+Argument	8.
+Argument	Another point arises under the judgment of <NAME>, J.
+Argument	The second and third defendants being the mother and sister of the co-parceners, he directs that they should have a maintenance of Rs.
+Argument	15 a month, and that the daughter should have a sum of Rs.
+Argument	2,000 for her marriage.
+Argument	He also holds that they should be allotted each a room in the house item 1, that is, the family house, for their residenc e. Now, it is objected that the last part of the order will seriously interfere with the most advantageous partition, namely, the sale of the house which is the only valuable family property that there is, if it is to be sold subject to a right of these two ladies each to have one room in that house.
+RatioOfTheDecision	It is argued on the other hand that they have an absolute right to them, it being called a light in rent.
+RatioOfTheDecision	In my judgment, it is quite wrong to say that the members of a joint Hindu family have rights in rent to residence in a particular house.
+RatioOfTheDecision	It is true that, while it is being used as a family house, they have a right to reside there; but I have serious doubts whether they have a right to any particular separate room; but, on partition, it is clearly a matter for the tribunal arranging the partition to say whether it is in the general interest of the co-parceners that residence should be given in a particular house or not; Some other provision can be made if there are more houses than one to choose from.
+RatioOfTheDecision	It may  be for the general advantage of the family that provision should be made in money instead of in kind.
+RulingByPresentCourt	I think that so much of this judgment as purports to hamper the Official Referee's discretion in effecting this partition by giving these two ladies an indefeasible right to occupy a certain part of this house is wrong and that the matter must go before the Official Referee to decide what is best to be done unfettered by any such direction.

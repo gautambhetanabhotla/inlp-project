@@ -1,0 +1,321 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <NAME> & <NAME> DATE OF JUDGMENT23/04/1975 BENCH: <ORG>, P.N.
+Fact	BENCH: <ORG>, P.N.
+Fact	GUPTA, A.C. UNTWALIA, N.L.
+Fact	CITATION: 1975 AIR 1767 1975 SCR 250 1976 SCC (1) 700 ACT: Land Acquisition Act  ss.
+Fact	9(1) , 17(1) and 48(1) - Possession taken of acquired land-Occupant resuming possession-Effect of-If Government can withdraw from the acquisition.
+Fact	HEADNOTE: For the purpose of acquiring land for <ORG> a notification was issued under s. 4 of the Land Acquisition Act, 1894, in January 1959, with respect to several pieces of land one of which belonged to the res- pondents and was in possession of the appellant as tenant.
+Fact	After the issue of the notification under s. 6 , in February 1959, the Commissioner directed that possession of that land may be taken under s. 17(1) on the expiry of 15 days from the publication of the notice under s. 9(1) .
+Fact	On March 24, 1959, the appellant filed a statement before the Land Acquisition Officer.
+Fact	In that stateme nt, he did not deny the publication of notice on the spot under s. 9(1) nor did he put any impediment to the taking of the land.
+Fact	He merely wanted the compensation amount to be paid to him and wanted stay of the taking possession of his house on the land.
+Fact	The Land Acquisition Officer passed orders in the presence of the appellant directing the <NAME> to take possession of the land and hand it over to the Principal of <ORG>.
+Fact	The <NAME> went to the spot, inspected the land for the purpose of determining what part was waste and arable and should therefore be taken possession of and took possession of the land, leaving out the small portion containing the house of the appellant, and handed over possession of the land so taken over to the Principal of <ORG>.
+Fact	The appellant was not present at the time when the <NAME> took possession.
+Fact	There was, thereafter, correspondence between the appellant and the <ORG>.
+Fact	and various reports had been made by the officers of the <ORG> vernment and on April 16, 1959, a stay order was passed by the <ORG>.
+Fact	On December 13, 1961, the Land Acquisition Officer wrote to the Commissioner that possession of the land was still with the appellant, and on August 8, 1968, withdrawal from the acquisition of that part of the land under s. 48(1) of the Act, was directed by the Commissioner.
+Argument	The respondents and <ORG> filed writ petitions in <ORG>, challenging the release of the land.
+Argument	<ORG> allowed the petitions holing that possession of the land was taken (even though the <ORG> took the stand that they had taken only 'symbolical' possession) and given to the Principal of the <ORG> and that, therefore, it was not open to the Commissioner to withdraw from the acquisition under s. 48(1) as amended by the Land Acquisition (Maharashtra Extension and Amendment) Act .
+Argument	Dismissing the appeal to this Court, HELD : (Per <NAME>) : Neither the <ORG> nor the Commissioner could withdraw under s. 48(1) from the acquisit ion of any portion of the land which had been taken over by and vested in the <ORG>.
+Argument	[253-F] (Per <NAME> and <NAME>) : When <ORG> proceeds to take possession of the land acquired by it under the Act.
+Argument	it must take actual Possession since all interests in the land are sought to be acquired by it, and there is no question of taking 'symbolical' possession as understood 251 under the C.P.C.
+Argument	Nor would possession merely on paper be enough.
+RatioOfTheDecision	How such actual possession may be taken would depend on the nature of land.
+RatioOfTheDecision	It is not an absolute and inviolable rule that merely going on the spot and making a declaration by beat of drum or otherwise would be sufficient to constitute taking possession of land in every case.
+RatioOfTheDecision	It is also not strictly necessary as a matter of legal requirement that notice should be given to the owner or occupant of the land that possession would be taken at a particular time, though it may be desirable to do so in order to eliminate the possibility of a fraudulent or collu sive transaction of talking of mere paper possession, without the occupant or the owner ever knowing about it.
+RatioOfTheDecision	[252E-H, 153A-B] On the facts and circumstances of the present case, the <NAME> had taken actual possession of that part of the land which was waste or arable and handed it over to the Principal of the <ORG>.
+Argument	The Land Acquisition Officer thought that actual possession could not be regarded as having been taken unless the appellant was excluded from the land, and, since the appellant, without any obstruction entered on the land and continued in possession, he mistakenly stated that actual possession was not taken.
+Precedent	The legal position is that even if the appellant entered upon the land after actual possession had been taken by and the land vested in, the <ORG>, the appellant's possession would not obliterate the consequence of vesting in the <ORG>.
+Precedent	[253-B-E] [Discussion regarding delivery of 'symbolical' and 'actual' possession under the <ORG> is not necessary for the disposal of the app eals], [252-D] (Per Untwalia J.)
+Precedent	: (1) Under the C.P.C., a symbolical or formal delivery of possession has the effect, of dispossessing the judgment-debtor from his right, title or interest in the property, although, as a matter of fact, he may have succeeded in resuming possession shortly after dispossession.
+Precedent	It does not, however, dispossess the person in actual possession in his own right not liable to be evicted under the decree or in pursuance of the auction sale.
+Precedent	[263A-B] (2)When a public notice under s. 9(1) of the Act is published at a convenient place or near the land to be taken that <ORG> intends to take possession, ordinarily there would be no question of resisting or impeding the taking of possession.
+RatioOfTheDecision	Delivery of possession by the owner is not required and the Collector can enforce surrender under s. 47 if impeded.
+RatioOfTheDecision	On taking possession either under s. 16 or s. 17(1) , the land vests absolutely in the <ORG> free from all encumbrances.
+RatioOfTheDecision	Therefore, in a proceeding under the Land Acquisition  Act for acquisition of land all interests are wiped out, and hence, the taking of possession must be taking actual possession on the spot and not symbolical possession; and surely it cannot be a possession merely on paper.
+RatioOfTheDecision	[263E-G] (3)As to the mode of taking possession, the Act is silent.
+RatioOfTheDecision	Unless possession is taken by the written agreement of the party concerned the mode of taking possession obviously would be for the authority to go upon the land and do some act which would indicate that the authority has taken possession of the land.
+RatioOfTheDecision	It may be in the form of a declaration by beat of drum or otherwise or by hanging a written declaration on the spot that possession has been taken.
+RatioOfTheDecision	The presence of the owner or the occupant is not necessary to effectuate the taking of possession.
+RatioOfTheDecision	[263H, 264A] (4)In the instant case, actual possession of the land was taken by the <NAME> on the spot and the possession was handed over to the Principal of the <ORG>.
+RatioOfTheDecision	The Land Acquisition Officer's statement that the land was n ot actually taken possession and the <ORG>'s stand that, only symbolical possession was taken, should be viewed from the correct legal position.
+RatioOfTheDecision	So viewed, the appellant's resuming possession after once the land was validly taken by the <ORG> would not have the effect of undoing the fact (if vesting in the <ORG>.
+RatioOfTheDecision	[264B, E-F] 252 JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+RatioOfTheDecision	75 & 76 of 1974.
+RulingByLowerCourt	Appeal by special leave from the Common Judgment and Order dated 27 /28-9-1973 of <ORG>, Nagpur Bench, in Spl.
+RulingByLowerCourt	Civil Applications Nos.
+RatioOfTheDecision	826 of 1968 & 389 of 1971.
+RatioOfTheDecision	<NAME> and <NAME>, for the appellants.
+RatioOfTheDecision	<NAME> and <NAME>, for respondent No.
+RatioOfTheDecision	1 and 2 (in Appeal No.
+RatioOfTheDecision	75/74).
+Argument	<NAME>, Attorney General of India, <NAME> and <NAME>, for respondent No.
+Precedent	1 (In Appeal No.
+Precedent	76/74).
+Precedent	<NAME> and <NAME>, for respondents Nos.
+Precedent	3-6.
+Precedent	(In Appeal No.
+Precedent	75/74) and respondent No.
+Precedent	3 (in appeal No.
+Precedent	76/74).
+Precedent	The Judgment of <NAME> ti and <NAME>, <NAME>.
+Precedent	was delivered by <NAME>, <NAME>, J. gave a separate Opinion.
+Precedent	<NAME>, J.-We agree with the conclusion reached by our brother <NAME>, J., as also with the reasoning on which the conclusion is based.
+Precedent	But we are writing a separate judgment as we feel that the discussion in the judgment of our learned brother <NAME>, J., in regard to delivery of 'symbolical' and 'actual' possession under rules 35, 36, 95 and 96 of Order XXI of the Code of Civil Procedure, is not necessary for the disposal of the present appeals and we do not wish to subscribe to what has been said by our learned brother <NAME>, J., in that connection, nor do we wish to express our assent with the discussion' of the various authorities made by him in his judgment.
+Precedent	We think it is enough to state that when the Government proceeds to take possession of the land acquired by it under the Land Acquisition Act , 1894, it must take actual possession of the land, since all interests in the land are sought to be  acquired by it.
+Precedent	There can be no question of taking 'symbolical' possession in the sense understood by judicial decisions under the Code of Civil Procedure.
+RatioOfTheDecision	Nor would possession merely on paper be enough.
+RatioOfTheDecision	What the Act contemplates as a necessary condition of vesting of the ]And in the Government is the taking of actual possession of the land.
+RatioOfTheDecision	How such possession may be taken would depend on the natureof the land.
+RatioOfTheDecision	Such possession would have to be taken as the natureof the land admits of.
+RatioOfTheDecision	There can be no hard and fast rule laying down what act would be sufficient to constitute taking of possession of land.
+RatioOfTheDecision	We should not, therefore, be taken as laying down an absolute and inviolable rule that merely going on the 'pot and making a declaration by beat of drum or otherwise would be sufficient to constitute taking of possession of land in every case.
+RatioOfTheDecision	But here, in our opinion, since the land was laying fallow and there was no crop on it at the material time, the act of the Tehsildar in going on the spot and inspecting  the land for the purpose of determining what part was waste and arable and should, therefore, be taken possession of and determining its extent, was sufficient to constitute taking of possession.
+RatioOfTheDecision	It appears that the appellant was not present when this was done by the Tehsildar, but the presence of the owner or the occupant of the land is not necessary to effectuate the taking of possession.
+RatioOfTheDecision	It is also not strictly necessary as a matter of legal requirement that notice should be given to the owner or the occupant of the land that possession would be taken at a particular time, though it may be desirable where possible, to give such notice before possession is taken by the authorities, as that would eliminate the possibility of any fraudulent or collusive transaction of taking of mere paper possession, without the occupant or the owner ever coming to know of it.
+RatioOfTheDecision	We are of the view, on the facts and circumstances of the present case, that the Tehsildar took actual possession of that part of the land which was  waste or arable and handed it over to the Principal of <ORG>.
+Argument	It is true that the Special Land Acquisition Officer in his letter dated 13th December, 1961 to the Commissioner stated that possession of the entire land was still with the appellant and it was not actually taken possession of by the Principal, <ORG>.
+Argument	But it is obvious that this statement was made by the Special Land Acquisition Officer because he thought that actual possession of the land could not be regarded as having been taken, unless the appellant was excluded from the land and since the appellant immediately, without any obstruction, entered upon the land and continued in possession, "the land was not Actually taken possession of by the Principal, <ORG>".
+Argument	This was plainly erroneous view, for the legal position is clear that even if the appellant entered upon the land and resumed possession of it the very next moment after the land was actually taken possession of and became vested in the <ORG> rnment, such act on the part of the appellant did not have the effect of obliterating the consequences of vesting.
+RulingByLowerCourt	There can, therefore, be no doubt that actual possession of 19 acres 16 gunthas of waste and arable land was taken by the Tehsildar on 3rd April, 1959 and it became vested in the <ORG>.
+RulingByLowerCourt	Neither the <ORG> nor the Commissioner could thereafter withdraw from the acquisition of any portion of this land under s. 48(1) of the Act.
+RulingByLowerCourt	The result is that the appeals fail and are dismissed with costs..
+RulingByLowerCourt	There will be only one set of costs.
+RulingByLowerCourt	UNTWALIA, J.-These two Civil Appeals filed by <NAME> on grant of special leave by this Court arise out, of a common judgment of <ORG> allowing Special Civil Application No.
+RulingByLowerCourt	826/1968 filed by <NAME> and <NAME>, respondent Nos.
+RulingByLowerCourt	1 and 2 in Civil Appeal No.75 of 1974 and Special Civil Application No.
+RulingByLowerCourt	389/1971 filed by thePunjabrao Krishi Vidyapeeth--(hereinafter called the AgriculturalCollege)--to quash the  order of the Commissioner Nagpur purporting to give sanction for withdrawal of the acquisition by his letter dated 8-8-1968 in respect of a portion of the land comprised in Survey No.
+RulingByLowerCourt	30/2 in village Umari, District <NAME>.
+Fact	<ORG> has held that possession of the land in question was taken by the Collector, <NAME> and given to the Principal, <ORG>.
+Precedent	It was, therefore, not open to the Commissioner to withdraw from the acquisition of the land under section 48(1) of the Land Acquisition Act, 1894 as it stands amended by the Land Acquisition (Maharashtra Extension and Amendment) Act hereinafter called the Act.
+Precedent	It is well- settled and nothing to the contrary was canvassed before us, that after possession of the land forming the subject matter of acquisition has been taken in accordance with section 16 or section 17(1) of the Act, the land vests in the <ORG> and the <ORG> or any other authority is not at liberty to withdraw from the acquisition of any land of which possession has been  taken; vide, <CITATION_303515> .
+Precedent	(1) and <CITATION_54770> (2).
+Precedent	The controversy, therefore, centered round the question as to whether possession of the land which was released by the Commissioner under section 48(1) of the Act had been taken or not.
+Precedent	For the purpose of <ORG> a large area of land was acquired near Akola.
+Fact	A notification under section 4 of the Act was issued on the 24th January, 1959 by which several pieces of land measuring 236 acres 7 gunthas (40 gunthas make one acre) were sought to be acquired including 20 acres 32 gunthas of Survey No.
+Fact	30/2 in Village Umari, Pargana Akola.
+Fact	The total area of this plot is 20 acres 33 gunthas.
+Fact	A separate notification under-section (4) was issued for acquisition of the remaining one guntha which contained a well.
+Fact	As the land was urgently required for the purpose of College, action under section 17 of the Act was taken dispensing with the following of the procedure under section 5A .
+Fact	The Sub-Divisional Officer, Akola was appointed the Land Acqui sition Officer to perform the functions of the Collector under the Act.
+Fact	A notification under section 6 of the Act was issued on the 17th February, 1959.
+Fact	A direction was given for taking possession of the land under section 17(1) on the expiration of 15 days from the publication of the notice under section 9(1) .
+Fact	Notice under section 9(1) of the Act was subsequently published on 6-3-1959.
+Fact	After expiry of_15 days from the publication of the notice under section 9(1) on 24 3-1959 the land Acquisition Officer ordered the Tehsildar, Akola to deliver possession of the land to the Principal, <ORG> or his nominee in the presence of the Sub-Divisional Officer, <ORG>, Akola and directed him to report compliance alongwith the possession receipt obtained from the Principal by 2-4-1959.
+Fact	The Tehsildar took and handed over possession on 3-4-1959 and made a report.
+Fact	Out of 20 acres 33 gunthas of land comprised in Survey No.
+Fact	30/2 possession was taken and handed over in regard to 19, a cres and 16 gunthas only.
+Fact	An area of 19. acre 17 gunthas which contained a double storied house of the appellant and a well etc.
+Fact	was for the time being left and possession of the same was not taken.
+Fact	1[1966] 3 S.C.R.
+Fact	557.
+Fact	2[1970] 2 S.C.C.
+Fact	149.
+Fact	255  It appears, just after the issuance of the notification under section 6 of the Act, the appellant who claimed to be the tenant of the land, the owners admittedly being respondents 1 and 2 in Civil Appeal No.
+Fact	75 of 1974 made a representation to the Government that his field in Survey No.
+Fact	30/2 should not be acquired and the acquisition should be withdrawn.
+Fact	He seems to have filed an application to that effect before <ORG> on 18-2-1959.
+Fact	Some stay order thereupon is said to have been passed staying the proceeding in respect of the appellant's land.
+Fact	Following upon this correspondence took place and reports came to be made in April, 1959 and thereafter until the withdrawal from the acquisition of 12 acres and 23 gunthas of the land in Survey No.
+Fact	30/2 was  directed to be made by the Commissioner in the year 1968.
+Fact	As already stated the withdrawal was challenged by filing two writ petitions in <ORG>.
+Fact	The appellant filed a, counter in the Writ application of the owners but did not do so in answer to the Writ application of the <ORG>.
+Fact	On behalf of the <ORG>al authorities two counters were filed in the two Writ Petitions.
+Fact	In the owners' petition the petitioners had stated that pursuant to the relevant notifications, <ORG> took possession of 19 acres 16 gunthas of land on 3-4-1959 And gave possession of the same to the Principal, Agricultural <ORG>.
+Fact	The <ORG> in its return filed in the said case denied that possession as alleged was taken from the appellant and given to the Principal, Agricultural <ORG>.
+Fact	In paragraph 3 of Special Civil Application No.
+Fact	389/1971 it wasstated on behalf of the Agricultural <ORG> that the Tehsildar took possession only of 19 acres and 16 gunthas out of the field as the remaining area was found in th e meantime on spot inspection not to be waste or arable to which the provision of section 17 of the Act could apply.
+Fact	Actual possession of 19 acres 16 gunthas alongwith the other pieces of land measuring 200 acres and odd was delivered to the Principal, <ORG>.
+Fact	In the return filed on behalf of the Officers of the Government the contents of paragraph 3 of the petition were admitted.
+Argument	But it was asserted that Government had taken only symbolical possession and the physical possession of the land remained with the appellant.
+RatioOfTheDecision	On consideration of the relevant materials placed before <ORG> it has come to the conclusion that actual possession of the land in question was taken and handed over on 3-4-1959 on the spot ; and, even symbolical possession, if land is occupied by a person other than the owner.
+RatioOfTheDecision	would be good possession for the purpose of section 48 of the Act.
+Argument	Mr. <NAME>, learned counsel for the appellant, submitted that possession of any portion of the land comprised in  Survey No.
+Argument	30/2 was not taken by the Government or given to the Principal, <ORG>, it was all a paper delivery of possession, no notice was ever given to the appellant as to the date and time of taking possession of the land on the spot, and the sym- bolical delivery of possession, even if any.
+Argument	bad not the effect of divesting the appellant from the Actual possession over the land.
+Argument	Counsel further submitted that the order of withdrawal which is confined to an area of 12 acres 23 gunthas only out of Survey No.
+Argument	30/2 leaving a further balance of 6 acres 33 gunthas to the <ORG> was valid.
+Argument	Mr. <NAME> appearing for the Government and its authorities struck to their stand that only symbolical possession was taken and actual possession remained with the appellant.
+Argument	Learned Attorney General for the <ORG>, followed by Mr. <NAME> for the owners, submitted that no where the appellant had challenged the taking of possession of the land on the spot on 3-4-1959.
+Argument	The effect of taking possession o f the land was to vest it in the <ORG> and no portion of it could be released under section 48(1) of the Act.
+Argument	It was further submitted that there is no provision in the Act requiring the giving of any notice to the possessor of the land of the exact date and time of taking possession on the spot and notice published under section 9(1) is sufficient.
+Fact	It may be stated at the outset that there does not seem to be any dispute as respects the fact that <NAME> and <NAME> were the owners of the land at the time of the issuance of the notification under section 4 of the Act and the appellant was in its occupation or actual possession as a tenant.
+Fact	It is also not in dispute that possession was taken on 3-4-1959 in respect of the large portion of land measuring more than 200 acres.
+Fact	There is no controversy that <ORG> not only needed the land in question but subsequently steps were taken for acquiring an additional area of 340 acres for the needs of the <ORG>.
+Fact	The Commissioner in his order da ted 17th February, 1959 had directed that the possession of the land may be taken on the expiration of 15 days from the publication of the notice mentioned in section 9 (1 ) of the Act.
+Fact	The order recorded on 11-3-1959 shows that the notice in form 'D' under section 9(1) of the Act was published on 6-3-1959, so the possession of the land could be taken on 21-3-1959 or there after.
+Fact	Some persons filed their written statement showing their interest in the land to be acquired and their claims for compensation on 11-3-1959.
+Fact	On 24-3-1959 various other persons including the appellant appeared before the Land Acquisition Officer.
+Fact	Appellant's counsel prayed for time to file his written statement.
+Fact	He was directed lo do so by 5.00 p.m. on 24-3-1959.
+Fact	On this date the land Acquisition Officer recorded the order in presence of the parties including the appellant directing <NAME> to take possession of the land and hand it over to the Principal, <ORG>, in the presence of <ORG>, <ORG>, <NAME> and to re port compliance with possession receipt by 2- 4-1959.
+Fact	A written statement on behalf of the appellant was filed by 4.20 p.m. on 24-3-1959.
+Fact	It is necessary to refer to the claim of the appellant made in the written statement aforesaid.
+Fact	He stated that he was interested in the field as be was its protected lessee and as such 'he was entitled to receive compensation that may be granted.
+Fact	The amount of claim put forward in respect of the field in Survey No.
+Fact	30/2 by <NAME> and <NAME> was stated to be acceptable to the appellant.
+RatioOfTheDecision	But be said that he was entitled to the said amount.
+Argument	In respect of the bungalow the appellant stated that it was his residential house, it was not nece-  257  ssary to be acquired, dispensing with the provision of section 5A in respect of the house was 'not legal, therefore, the proceeding being not in accordance with law be 'dropped.
+Argument	Finally, the prayer in the written statement was to stay the delivery of possession of the bungalow at least for two months.
+Argument	It would thus be seen that in h is written statement filed on 24-3-1959 the appellant did not deny the publication of notice on the spot under- section 9(1) nor did he propose to put any impediment in the taking of possession of the land comprised in Survey No.
+Argument	30/2.
+Argument	He merely wanted the stay of taking possession in respect of the house.
+Argument	The Principal of <ORG> wrote a letter to the SubDivision Officer and Land Acquisition Officer, <NAME> on the 6th April, 1959 with an endorsement of the Revenue Inspector who it appears was the <NAME>, stating therein that he had taken possession of the fields mentioned below in the letter on the 3rd April, 1959, in presence of the Sub-Divisional Officer, P.W.D.
+Fact	and the Naib <NAME>, <NAME>.
+Fact	The total area mentioned in this letter is 234 acres 31 gunthas including 19 acres and 16 gunthas in Survey No.
+Fact	30/2.
+Fact	The Revenue Inspector endorsed "handed over as above."
+Fact	On the facts and in the circumstances of this case it is difficult to accept the argument put forward on behalf of the appell ant that the taking and giving of possession on 3- 4-1959 was only on paper and not on the spot.
+Argument	<ORG> in its judgment has referred to a letter dated 7-4-1959 by the Land Acquisition Officer to the Collector, <NAME> to say that the appellant represented before him that a stay order had been passed in respect of Survey No.
+Argument	30/2 by the Minister for Agriculture and the proceedings for taking possession of this land may be deferred pending further instructions from the higher authorities ; but before any step could be taken on the representation of the appellant, the land Acquisition Officer got the information that possession had been taken and given but in spite of that in the letter dated 7-4-1959 a direction was given to the Tehsildar to withhold taking possession of the field in Survey No.
+Argument	30/2 of village Umari temporarily.
+Precedent	Thereupon, the Tehsildar made a report dated 11-4-1959 stating therein "possession has already been delivered to the Principal, <ORG>.
+Precedent	<NAME> and the possession rece ipt is enclosed.
+Precedent	In case possession of S. No.
+Precedent	30/2 is still to be withheld, the Principal, <ORG>, <ORG> and the lessee of the field would be approached in this respect and necessary action would be taken accordingly."
+Fact	As a matter of fact it would appear from the letter dated 16-4-1959 written by the Assistant Secretary of <ORG> to the appellant in reply to his letter addressed to the Minister for Agriculture a copy of which was forwarded to the Collector, <NAME> that for the first time in this letter he was requested to stay the proceedings until further orders.
+Fact	No stay order of <ORG> seems to have received earlier and prior to the taking of possession of the land in question.
+Fact	Then comes the letter dated 4-5-1959 written by the Land Acquisition Officer to the Collector, <NAME>.
+Fact	Reference was made to all these documents on behalf of both the parties.
+Fact	The S.D.O.
+Fact	and the Land Acquisition Officer sought instructions of the Collector as to what action was to  be taken in respect of land measuring 19 acres 16 gunthas out of Survey No.
+Fact	30/2 "the possession of which has already been delivered to <ORG>".
+Fact	The next letter is one from the Principal of the <ORG> to the Land, Acquisition Officer dated the 27th May, 1959 asking clarification of the stay order received in regard to Survey No.
+Fact	30/2.
+Fact	The reply is dated 4-6-1959 informing him that clarification will be made on receipt of further communication from the Collector.
+Fact	The next letter is dated 18-7-1959 from the Principal of the <ORG> to the Director of Agriculture stating therein that possession of the whole field no.
+Fact	30/2 excluding the area of 1 acre 16 gunthas which was also required for the purpose of the <ORG>, was delivered on 3-4-1959 but in view of the Government order contained in their letter dated 16-4-1959 the land was not being cultivated and was lying as a sort of no man's land.
+Fact	Then comes an important letter again referred at the <ORG> on behalf of both the parties written by  the Special Land Acquisition Officer, <NAME> to the Commissioner, Nagpur on the 13th December, 1961.
+Argument	The difficulty in releasing the land under section 48 (1) was pointed out and further, in this letter it is stated "Taking over possession of IA-15G of land to be acquired under urgency clause was deferred as on joint spot inspection made by the then Sub- Divisional Officer, Principal Agricultural College and S.D.O.
+Argument	(P.W.D.)
+Argument	<NAME>, it was thought that acquisition of this portion which contains one double storied building, some converted land etc.
+Argument	would entail heavy expenditure."
+RatioOfTheDecision	It Would thus be clear beyond any shadow of doubt that possession was taken on the spot.
+RatioOfTheDecision	On spot inspection the area of 1 acre and odd only was left out of possession.
+RatioOfTheDecision	But then in this very letter there is a statement "The Collector <NAME> was directed to stay the acquisition proceedings in respect of this field until further orders, though possession receipt for S. No.
+RatioOfTheDecision	30/2 was passed on 3-4- 1959, the possession (physical) of the enti re field S. No.
+Fact	30/2 of Umari is still retained by the lessee of that field and the land was not actually taken possession of by the Principal, <ORG>, Akola."
+Fact	Learned counsel for the appellant submitted that physical possession of the entire land comprised in Survey No.
+Fact	30/2 remained with the appellant and the possession delivered was either on paper or merely symbolical ; it.
+Fact	therefore, could not prevent the release of the land from acquisition under section 48(1) of the Act.
+Fact	It is not necessary to refer to the further correspondence which ensued.
+Fact	It may, however, be stated that because of the stay order and the dispute raised in respect of the land comprised in Survey No.
+Fact	30 in the award prepared by the Collector on 30-1-1960 compensation for the said land was not determined.
+Fact	And eventually in the year 1968 an area of 12 acres 23 gunthas was sought to be released from acquisition.
+Fact	The question for consideration is-was the release valid and proper ?
+RatioOfTheDecision	259  In order to appreciate what is meant  by taking possession of the land under section 16 or 17(1) of the Act and what is the mode of taking such possession in regard to the waste or arable land with which we are concerned in this case, it is necessary to refer to certain provisions of the Code of Civil Procedure-hereinafter called the Code, and some decisions thereon.
+RatioOfTheDecision	Order 21, Rules 35, 36, 95 and 96 of the Code prescribe two modes of delivery of possession based upon the nature of the property concerned.
+RatioOfTheDecision	The Code does not prescribe that in respect of a particular property there can be two modes of giving possession either to a decree- holder or to an auction-purchaser one ,..symbolical" and the other "actual".
+RatioOfTheDecision	These Rules prescribe that if the property is in the occupation of the judgment-debtor or some-one on his behalf the possession shall be given if necessary by removing the judgment-debtor and placing the decree-holder or the auction purchaser in occupation of the same.
+RatioOfTheDecision	On the other band if the property is of such a nature that the judgment -debtor cannot be in actual occupation of it, as for instance, property in the possession of a tenant, the only mode of giving possession is by proclaiming on the spot that the possession has been given to the decree-holder or the auction-purchaser.
+RatioOfTheDecision	In some decisions the former mode of possession has been called "actual'9 and the latter "symbolical".
+RatioOfTheDecision	Really speaking even the delivery of so- called "symbolical" possession is delivery of "actual" possession of the right title and interest of the judgment- debtor.
+RatioOfTheDecision	It completely dispossess him.
+RatioOfTheDecision	It does not affect the physical occupation of the property by a person who is not bound by the decree or whose interest is not affected by sale of the judgment-debtor's interest in execution of a decree.
+RatioOfTheDecision	If the property is land over which does not stand any building or structure, then delivery of possession over the judgment-debtor's property becomes complete and effective against him the moment the delivery is effected by going upon the land, or in case of resistance, by  removing the person resisting unauthorisedly.
+RatioOfTheDecision	A different mode of delivery is prescribed in the Code in the rules aforesaid in regard to a building, with which we are not concerned in this case.
+RatioOfTheDecision	Sometimes the expression symbolical or formal delivery of possession has been used in decisions to connote the actual delivery of possession effective against the judgment-debtor leading to his dispossession in the eye of law even though the duration of the dispossession may be momentary or temporary.
+Argument	<CITATION_1954048> (1) <NAME>, <NAME> delivering the judgment of the Full Bench consisting of five Judges pointed out at page 588 "In the one case, the delivery of the land is to be made by placing the plaintiff in direct possession.
+Argument	In the other, the delivery is effected by the officer of the <ORG> by going through a certain process prescribed by s. 224 , and proclaiming to the occupants of the property that the plaintiff has recovered it from the defendant.
+Precedent	This is the only way in which the decree of the <ORG>, awarding  possession to the plaintiff, can be enforced ; and as, in contemplation of law, (1) I.L.R.
+Precedent	5 Calcutta 584.
+Precedent	260  both parties must be considered as being present at the time when the delivery is made, we consider that, as against defendant, the delivery thus given must be deemed equivalent to actual possession."
+Precedent	"As against third parties, of course, this symbolical possession (as it is called) would be of no' avail ; because they are no parties to the proceeding.
+Precedent	But if the defendant should, after this, again dispossess the plaintiff by receiving the rents and profits, we think that the plaintiff would have twelve years from such dispossession to bring another suit."
+Precedent	<ORG> consisting again of live learned Judges of <ORG> presided over by <NAME>, C.J., in the case of <CITATION_1089958> (1) reaffirmed teh view taken in <NAME> case (I.L.R.
+Precedent	5, Calsutta,584)in the following words :  "<ORG> held that symbolic.
+Precedent	* possession obtained by the plaintiff's vend or was effective as against the judgment debtor, defendant, and that the suit brought against him within 12 years of that event was not barred by limitation."
+Precedent	The facts of the case of Sri Radha Krishna Chanderji V. Rain Bahadur and others(2), are these : The dispute related to 150 bighas of land.
+Precedent	The plaintiffs had filed a suit to recover possession of the said land.
+Precedent	The principal defendant who was the appellant before <ORG> was an idol by shebiats who was in actual possession of the land by their tenants.
+Precedent	The predecessors of the defendants in the suit were parties to an earlier mortgage action.
+Precedent	In due course a decree was obtained.
+Precedent	The property which, according to the finding, included the disputed land was sold.
+Precedent	The mortgagee decree-holders were the purchasers of the property.
+Precedent	"The land being in occupation by cultivating tenants under an apparently bona fide title they received formal possession as usual after due proclamation by beat of drum in 1898.
+Precedent	"(vide page 200 column 2).
+Precedent	Lord <NAME> delive ring the judgment of the <ORG> said At the same page "This interruption, if such it was, of the defendants' actual possession was not of long duration.
+Precedent	Hence the necessity for the present suit.
+Precedent	Hence also the defence of adverse possession for more than twelve years before suit began."
+Precedent	It would thus be seen that formal possession of the land in actual occupation of the tenants, which in a sense was symbolical, was' characterised as interruption of defendant's actual possession.
+Precedent	And finally the ratio of the decision of <ORG> of the Calcutta High Court in <NAME> case (I.L.R.
+Precedent	5, Calcutta, 584) was approved thus- at page 201, column 1 :  "In <ORG> and before their Lordships it was further argued that symbolical possession would not avail against the defendants, but that only actual dispossession would interrupt their adverse possession.
+Precedent	<ORG> (1) I.T.R.
+Precedent	16 Calcutta 530.
+Precedent	(2) A.T.R.
+Precedent	1917 Privy Council 197 (2).
+Precedent	261  following a decision of <ORG> in <CITATION_1954 048> - (1880) 5 Calcutta, 584=5 C.L.R.
+Precedent	548 (F.B.)
+Precedent	held that symbolical possession availed to dispossess the defendants sufficiently, because they were parties to the proceedings in which it was-ordered and given.
+Precedent	This decision is one of long standing, and has been followed for many years.
+Precedent	Their Lordships see no reason to question it or to-hold that this rule of procedure should now be altered."
+Precedent	In the case of joint possession the decision of <ORG> in Sri <NAME> case [A.I.R.
+Precedent	1917 Privy Council, 197(2)] has been referred with approval by this <ORG> in the case of <NAME> v. <NAME> and others(1) in paragraph 7 at page 474 in the judgment of <NAME>, J, as he then was, as also in paragraph 20 at page 478 is that of <NAME>, <NAME> may just quote a sentence from paragraph 7 which says :  "By the delivery of symbolical possession under the order of November 6, 1939, the adverse possession of the defendants was interrupted."
+Precedent	<NAME> the case of  <NAME> and others v. <NAME> and others(2) has considered the point in his separate but concurring judgment with 'reference to the relevant provisions of the Code at page  147.
+Precedent	In that case the question of defendants adverse possession arose with reference to a property which was not in occupation of any tenant.
+Precedent	The suit for possession after the mortgage sale and delivery was being resisted by a person who was in.
+Precedent	no better position than the mortgagor judgment-debtor.
+Precedent	The learned Judge pointed out at pages 147 and 148 "When it is said that symbolical possession is not binding upon a third party but actual possession is, it is only meant that when a decree-bolder or an auction-purchaser has been put in actual occupation of the property every body else has been ousted from it, and consequently dispossessed.
+RatioOfTheDecision	This is an obvious fact and not a question of law.
+RatioOfTheDecision	On the other had if the <ORG> simply proclaims that the decree-holder or auction-purchaser has been given possession but on accou nt of the nature of the property they have not been placed in physical occupation of the property itself, such a delivery of possession can be binding only upon those who are parties to those proceedings or on those who claim through them.
+RatioOfTheDecision	The difference, as I have said, is due to the nature of the property and not on account of the difference in the nature of possession.
+Precedent	The question will always be not what was the mode of delivery of possession but who has in fact been ousted by it."
+Precedent	(1) A.I.R.
+Precedent	1966 S.C. 470.
+Precedent	(2) A.I.R.
+Precedent	1932 Patna 145.
+Precedent	262  The same learnedJudge had the occasion to consider the question again in the case <CITATION_1962657> (1).
+Precedent	And that too with reference to a property which was not in possession of any tenant but of the judgment- debtor.
+Precedent	The question arose in a criminal case and the confusion arising out of the use of the expressions-"the actual" and "symbolical" possession was again discussed at page 568.
+Precedent	The writ of delivery was issued in the previous litigation under Order 21, Rule 9 5 of the Code and in that connection the different modes of delivery of possession over a piece of land were discussed.
+Precedent	The momentary possession given to the purchaser was characterised as delivery of symbolical possession by the Additional Sessions Judge and not actual possession.
+Precedent	The learned Judge pointed out at page 569, column 1:  "It issued its writ under Rule 95, and the peon formally put the auction-purchaser in possession of the property.
+Precedent	It is wrong to think that there Are two kinds of delivery of possession ; one actual and the other symbolical independent of the nature of possession of the judgment debtor.
+Precedent	Even if the delivery of possession was symbolical, its effect against the judgment-debtor was the same."
+Precedent	The so-called paper possession or possession on paper is no delivery of possession, actual, formal or symbolical.
+Precedent	A Bench of <ORG> consisting of <NAME>, <NAME> and <NAME>, J. has stated at page 762 in the case of <CITATION_127118> (2) :  .lm15 "The next question  is whether it makes any difference in legal effect if possession is taken through court.
+Precedent	The Code contemplates no notice to the judgment-debtor at that stage or any objection being raised by him to the delivery of possession under Rule 95, or Rule 96, and as the full title to the property has passed from the judgment debtor to the auction purchaser, he has no interest in the property to protect."
+Precedent	It has further been pointed out "The characterisation of possession taken under Order 21 Rule 96, as "paper possession" is hardly justified and runs counter.
+Precedent	to the principle on which the provision is based.
+Precedent	Symbolical possession obtained under Order 21, Rule 96 is quite a different thing from paper possession, which might correctly describe only the possession obtained by a party who being entitled to actual possession, the judgment-debtor himself being in possession, obtains delivery of possession on paper without actual possession ; or those cases where without complying with the requisites of the statute a fals e return is made as if they were complied with."
+Precedent	(1)A.I.R.
+Precedent	1934 Patna 565.
+Precedent	(2) A.T.R.
+Precedent	1954 Madras 760.
+RatioOfTheDecision	263  It would thus be seen that a symbolical or formal delivery' of possession as understood in law has the effect of dispossessing the judgment-debtor from his right title or interest in the property.
+RatioOfTheDecision	It does not dispossess the person in' actual possession in his own right not liable to be evicted under the decree or in pursuance of the auction sale.
+RatioOfTheDecision	A symbolical or formal delivery of possession against the judgment-debtor is giving of actual possession of the property in the eye of law and has the effect of dispossessing him although as a matter of fact he may have succeeded in resuming back, possession as before shortly after dispossession.
+RatioOfTheDecision	In a proceeding under the Act for acquisition of land all interests are wiped out.
+RatioOfTheDecision	Actual possession of the land becomes necessary.
+RatioOfTheDecision	for its use for the public purpose for which it has been acquired.
+RatioOfTheDecision	Therefore, the taking of possession under the Act cannot be "symbol ical" in the sense as generally understood in Civil Law.'
+RatioOfTheDecision	Surely it cannot be a possession merely on paper.
+RatioOfTheDecision	What is required under the Act is the taking of actual possession on the spot.
+RatioOfTheDecision	In the eye of law the taking of possession will have the effect of transferring possession from the owner or the occupant of the land to the Government.
+RatioOfTheDecision	Section 9(1) of the Act reads as follows "The Collector shall then cause public notice to be given at convenient places or near the land to be taken, stating that the Government intends to take possession of the land, and that claims to compensation for all interests in such land may be made to him."
+RatioOfTheDecision	When a public notice is published at a convenient place or near the land to be taken stating that the Government intends to take possession of the land, then ordinarily and generally there would be no question of resisting or impeding the taking of possession.
+RatioOfTheDecision	Delivery or giving of possession by the owner or the occupant of the land is not required.
+RatioOfTheDecision	The Collector can enforce th e surrender of the land to himself under section 47 of the Act if impeded in.
+RatioOfTheDecision	taking possession.
+RatioOfTheDecision	On publication of the notice under section (1) claims to compensation for all interests in the land has to be made ; be it the interest of the owner or of a person entitled to the occupation of the land.
+RatioOfTheDecision	On the taking of possession of the land under section 16 or 17 (1) it vests absolutely in the Government free from all incumbrances.
+RatioOfTheDecision	It is, therefore, clear that taking of possession within the meaningof section 16 or 17(1) means taking of possession on the spot.
+RatioOfTheDecision	It isneither a possession on paper nor a "symbolical" possession as generally understood in Civil Law.
+RatioOfTheDecision	But the question is what is the mode of taking possession ?
+RatioOfTheDecision	The Act is silent on the point.
+RatioOfTheDecision	Unless possession is taken by the written agreement of the party concerned the mode of taking possession obviously would be for the authority to go upon the land and to do some act which would indicate that the authority has taken possession of the land.
+RatioOfTheDecision	It may be  in the form of a declaration by beat of drum or otherwise or by hanging a written declaration on the spot that the authority 10 SC 75-18 has taken possession of the land.
+RatioOfTheDecision	The presence of the owner or the occupant of the land to effectuate the taking, of possession is not necessary.No further notice beyond that under section 9(1) of the act: is required.
+RatioOfTheDecision	When possession has been taken, the owner or the occupant of the land is dispossessed.
+RatioOfTheDecision	Once possession has been taken the land vests in the <ORG>.
+RatioOfTheDecision	In the instant case in agreement with the findings of the <ORG>, I hold that the eye of law actual possession of the land in question was taken by the Tehsildar on the spot and the possession was handed over to the Principal of <ORG>.
+RatioOfTheDecision	It appears that the appellant on his part thought that he never gave up possession and claimed to continue in actual possession of the disputed land, because of the stay order passed by the <ORG> on or about the 16th April, 1959.
+RatioOfTheDecision	It is in the background o f the law discussed above that the statement that "the possession (physical) of the entire field S. No.
+RatioOfTheDecision	30/2 of Umari is still retained by the lessee of that field and the land was not actually taken possession of by <ORG>, Akola", occurring in the letter dated the 13th December, 1961 written by the Special Land Acquisition Officer, Akola to the Commissioner, Nagpur has got to be appreciated and so also the stand of the <ORG> in its counter as to what was meant by taking of symbolical possession.
+RatioOfTheDecision	Viewed in the light of the discussion of law I have made above, it would be noticed that possession of the land, in any event, was taken on the spot and it vested in the <ORG>.
+RatioOfTheDecision	The appellant's resuming possession of the land after once it was validly taken by the <ORG> had not the effect of undoing the fact of the vesting of the land in the <ORG>.
+RatioOfTheDecision	The <ORG> or the Commissioner.
+RulingByPresentCourt	was not at liberty to withdraw from the acquisition of any portion of the land of which  possession had been taken, under section 48(1) of the Act.
+RulingByPresentCourt	In the result the appeals fail and are dismissed with costs.
+RulingByPresentCourt	One set of hearing fee.
+RulingByPresentCourt	<ORG> dismissed.

@@ -1,0 +1,165 @@
+Argument	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	At the instance of the <ORG>, <ORG> has referred to this court under Section 256(1) of the Income-tax Act, 1961 (for short "the Act"), the following four questions of law as arising out of the order dated March 28, 1981, passed by the <ORG> in ITA No.
+Fact	483/ Coch/1977-78 :  "1.
+Fact	Whether, on the facts and in the circumstances of the case and in view of the decision of <ORG> in <CITATION_596612>  33 ITR 245, the order under Section 201 of the Income-tax Act is invalid and without jurisdiction ?
+Fact	2.
+Fact	Whether, on the facts and in the circumstances of the case, the employee (Mr. <NAME>) is entitled to exemption under Section 10(6)(i)(a) of the Income-tax Act ?
+Fact	3.
+Fact	Whether, on the facts and in the circumstances of the case, the order passed under Section 201 of the Income-tax Act is barred by limitation ?
+Argument	4.
+Argument	Whether, on the facts and in the circumstances of the case, and also considering the scope and purport of the judgment of <ORG> in the earlier  reference, <CITATION_1317765>  161 ITR 489 (Ker) (ITR No.
+Argument	239 of 1979), the <ORG> (Bench) was right, justified and with jurisdiction in going into and deciding the questions of 'exemption' and 'limitation' contrary to the view of the earlier <ORG> (Bench) ?"
+Argument	2.
+Fact	The assessee-company (which will be referred to in this judgment as "the company") owning tea estates had employed <NAME> (hereinafter referred to as "the employee") as manager of one of the estates.
+Fact	The employee was paid Rs.
+Fact	8, 112 during the accounting year 1970-71 relevant to the assessment year 1971-72, being passage money for the journey of his two children from the U.K. to India and back.
+Fact	The employee filed his return on July 7, 1971, disclosing his net salary income but without including the sum of Rs.
+Fact	8, 112.
+Fact	However, he mentioned the receipt of this amount in the statement appended to the return.
+Fact	The Income-tax Officer completed the assessment on the employee on December 22, 1971, accepting the return and treating the aforesaid a mount as not includible in the assessee's income for the purpose of taxation under the Act by virtue of Section 10(6)(i)(a) of the Act.
+Fact	The company had been deducting tax at source and remitting the same to the <ORG>.
+Fact	But in doing so, the company had not included the sum of Rs.
+Fact	8,112 in the total income for the purpose of computation of tax and had not deducted tax on this amount at source.
+Fact	On February 16, 1976, the Income-tax Officer issued a notice to the company intimating that he proposed to treat the company as a person in default under Section 201 of the Act for not deducting at source tax payable on the aforesaid amount.
+Argument	The company denied its responsibility to pay the tax and liability to be treated as assessee in default.
+Argument	The company further contended that the proceedings were barred by limitation.
+Argument	The Income-tax Officer overruled the contentions and passed an order on December 21, 1976, treating the company as a person in default under Section 201 of the Act and requiring it to pay tax and surc hage due on the amount of Rs.
+Argument	8,112.
+Argument	3.
+Argument	Aggrieved by this order, the company filed an appeal before the Appellate Assistant Commisioner who allowed the appeal, holding that the journey of the children of the employee from the U. K. to India and back having been performed within 12 months after or before the employee's journey from the U.K. to India and back, the amount of passage money so paid was exempt from tax and the company was justified in not deducting tax at source.
+RulingByLowerCourt	The <ORG> filed an appeal before <ORG> which set aside the order of the Appellate Assistant Commissioner and restored the order of the Income-tax Officer on March 22, 1979.
+RulingByLowerCourt	The <ORG> held that the journey of the children of the employee from the U.K. to India and back had no connection with the employee proceeding on home leave out of India as contemplated in Section 10(6)(i)(a) of the Act, that the decision in ITR No.
+Fact	13 of 1973[ <CITATION_826135>  161 ITR 486 (Ker)] was not applicable to the facts, that the not ification dated February 10, 1977, issued by the <ORG> also did not apply to the facts and the proceedings of the Income-tax Officer were not barred by limitation.
+Fact	4.
+Fact	Thereupon, at the instance of the company, two questions of law were referred to this court under Section 256(1) of the Act.
+Fact	The reference was disposed of in ITR No.
+Fact	239 of 1979 [ <CITATION_1317765>  161 ITR 489 (Ker)].
+Fact	The questions were whether the company should have deducted tax on the amount in dispute at source and whether the order passed by the Income-tax Officer was barred by limitation.
+Argument	Pointing out that the statutory authorities failed to decide the jurisdictional, question, viz., whether in law, the <ORG> was entitled to proceed against the employer under Section 201 of the Act by going behind the order of assessment and treating the sum of Rs.
+Argument	8,112 paid to the employee as not exempt from taxation despite the fact that in the assessment order made against the employee the said amount was treated as not includible in the t axable income of the assessee, this court remitted the case to the <ORG> for fresh disposal in accordance with law and in the light of the observations in the judgment.
+Argument	5.
+Argument	Thereupon, the <ORG> considered the matter once again and by the judgment dated March 28, 1981, held that the Income-tax Officer had no jurisdiction to invoke Section 201 of the Act against the company since the assessment against the employee was completed and the same had become final and could not have been reopened, that the non-taxability of the disputed amount is supported by a circular of 1958 and the decision in ITR No.
+Argument	13 of 1973-- <CITATION_826135>  161 ITR 486 (Ker).
+Argument	The <ORG> further held that the proceedings against the company were barred by limitation under Section 231 of the Act.
+Argument	At the instance of the <ORG>, the four questions referred to earlier have been referred to this court under Section 256(1) of the Act.
+Argument	6.
+Argument	The first question referred to this court is whether, on the facts and circumstances of the cas e and in view of the decision of <ORG> in <CITATION_596612>  33 ITR 245, the order under Section 201 of the Act is invalid and without jurisdiction.
+Argument	Learned counsel representing the <ORG> contended that the liability of the employer under Section 192(1) of the Act is independent of the liability of the employee to pay tax, that the company is deemed to be a defaulter when it fails to make a valid deduction at source or pay over the amount deducted to the <ORG>, though the default is to be followed by passing a specific order which may be appealable under Section 246 of the Act and that the Income-tax Officer is entitled to proceed under Section 201 of the Act irrespective of the assessment being completed on the employee.
+Argument	Therefore, according to learned counsel, the action of the Income-tax Officer in this case treating the company as an assessee in default and passing an order for recovery was within his jurisdiction and did not suffer from any illegality.
+Argument	These contentions are rebutted by  learned counsel for the company.
+Argument	7.
+Statute	Section 15 of the Act deals with "salaries" and Section 16 with "deductions from salaries".
+Statute	Section 17 defines the expressions "salary", "perquisite" and "profits in lieu of salary".
+Statute	Section 10 categorises incomes not included in the total income.
+Statute	Sub-section (6) of Section 10 excludes from the total income certain sums received in the case of an individual who is not a citizen of India.
+Statute	The provision with which we are concerned as it existed at the relevant time is Sub-section (6)(i)(a) which reads :  "(6) in the case of an individual who is not a citizen of India,--  (i) subject to such conditions as <ORG> may prescribe, passage moneys or the value of any free or concessional passage received by or due to such individual,--  (a) from his employer, for himself, his spouse and children, in connection with his proceeding on home leave out of India. "
+RatioOfTheDecision	8.
+RatioOfTheDecision	Evidently, both the employee and the company proceeded on the basis that the passage money of Rs.
+RatioOfTheDecision	8,112  was paid to the employee towards passage of the employee's children from the U.K. to India and back as part of passage money received by the employee in connection with his proceeding on home leave out of India, Therefore, the employer, while deducting tax at source at the time of paying salary and perquisites to the employee, did not include this amount in the taxable income and did not deduct tax thereon.
+RatioOfTheDecision	9.
+Statute	Chapter II of the Act deals with "basis of charge".
+Statute	Section 4 explains charge of income-tax.
+Statute	Sub-section (2) of this section states that in respect of income chargeable under Sub-section (1), income-tax shall be deducted at the source or paid in advance, where it is so deductible or payable under any provision of the Act.
+Statute	Chapter XIV of the Act deals with "procedure for assessment".
+Statute	Section 139 requires, among other things, every person whose total income in respect of which he is assessable under the Act during the previous year, exceeded the maximum amount which is not chargeable to income-tax, to f urnish a return of his income in the prescribed manner and setting forth such other particulars as may be prescribed.
+Statute	In the case of a person drawing salary, he has to do so before the 30th of June of the assessment year.
+Statute	Provisional assessment is dealt with in Section 141A of the Act.
+Statute	Sub-section (1) of this section contemplates refund of excess paid, which is to be dealt with by regular assessment as laid down in Sub-section (4).
+Statute	Assessment, as such, is dealt with in Section 143 .
+Statute	10.
+Statute	Chapter XVII of the Act deals with collection and recovery of tax.
+Statute	Sections 190 and 191 in Part A deal with deduction at source, advance payment and direct payment, respectively.
+Statute	Provisions governing deduction of tax at source are dealt with in Part B while Part C deals with advance payment of tax.
+Statute	Part D deals with collection and recovery.
+Statute	Subsection (1) of Section 192 states that "any person responsible for paying any income chargeable under the head 'Salaries' shall, at the time of payment, deduct income-tax on the amount  payable at the average rate of income-tax computed on the basis of the rates in force for the financial year in which the payment is made, on the estimated income of the assessee under this head for that financial year".
+Statute	The expression "person responsible for paying" is explained in Section 204 .
+Statute	In the case of a salaried employee, "the person responsible for paying" means the employer himself, or if the employer is a company, the company itself, including the principal officer thereof.
+Statute	Tax so deducted at source is required to be paid by the employer to the <ORG> within the prescribed time under Section 200 .
+Statute	Section 199 lays down in what manner credit is to be given for the tax so deducted.
+Statute	The section states, inter alia, that any deduction made in accordance with Section 192 and paid to <ORG> "shall be treated as payment of tax on behalf of the Person from whose income the deduction was made" and credit shall be given to him for the amount so deducted on the production of the certifica te furnished under Section 203 in the assessment (including a provisional assessment under Section 141A ), if any, made for the immediately following assessment year under the Act.
+Statute	11.
+Statute	Section 201 deals with the consequences of failure to deduct or pay.
+Statute	Sub-section (1) states, inter alia, that if any such person does not deduct or after deducting fails to pay the tax as required by or under the Act, he shall, without prejudice to any other consequences which he may incur, be deemed to be an assessee in default in respect of the tax.
+Statute	The sub-section has a proviso which is not very material for the purpose of this case.
+Statute	Under Sub-section (1A), the person who is deemed to be an assessee in default in respect of the tax, by virtue of Sub-section (1), shall be liable to pay simple interest at fifteen per cent.
+Statute	per annum on the amount of such tax from the date on which such tax was deductible to the date on which such tax is actually paid.
+Statute	Section 203 requires the person so deducting and paying to issue a certific ate containing necessary particulars to the person on whose account such credit is given.
+Statute	Section 206 requires the person paying salary to furnish the prescribed return.
+Statute	We may, in this connection, notice Section 276B which states, inter alia, that if a person, without reasonable cause or excuse, fails to deduct or after deducting, fails to pay the tax as required by or under the provisions of Chapter XVII-B, he shall be punishable in the manner provided in Clauses (i) and (ii).
+Statute	12.
+Statute	Section 220 deals with "when tax payable and when assessee deemed in default".
+Statute	Sub-section (1) states, inter alia, that any amount, otherwise than by way of advance tax, specified as payable in a notice of demand under Section 156 shall be paid within 35 days of the service of the notice at the place and to the person mentioned in the notice.
+Statute	Section 156 states that when any tax, interest, penalty, fine or any other sum is payable in consequence of any order passed under the Act, the Income-tax Officer shall serve upon the assess ee a notice of demand in the prescribed form specifying the sum so payable.
+Statute	Sub-section (2) of Section 220 states that if the amount specified in any notice of demand under Section 156 is not paid within the period limited under Sub-section (1), the assessee shall be liable to pay simple interest at fifteen per cent.
+Statute	per annum from the day commencing after the end of the period mentioned in Sub-section (1).
+Statute	Section 221 deals with liability on the part of the assessee in default or deemed to be in default in making payment of tax.
+Statute	Sections 222 to 230 deal with modes of recovery.
+Statute	Section 231 prescribes the period for commencing recovery proceedings against assessees and assessees deemed to be in default.
+Statute	Section 234 states that tax paid or deemed to have been paid under the provisions of Chapter XVII-B or Chapter XVII-C in respect of any income provisionally assessed under Section 141A shall be deemed to have been paid towards the provisional assessment.
+Statute	13.
+Statute	Chapter XIX deals with refunds.
+Statute	Section 237 states t hat if any person satisfies the Income-tax Officer that the amount of tax paid by him or on his behalf for any assessment year exceeds the amount with which he is properly chargeable under the Act for that year, he shall be entitled to a refund of the excess.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The scheme and the provisions of the Act clearly indicate that the person who receives income by way of salary is primarily liable to pay the tax, though, generally speaking, the employer, that is, the person responsible for paying the salary, has a duty to collect the tax on the estimated income and pay over the same to the <ORG>.
+RatioOfTheDecision	Where the employer fails to do so, he is deemed to be an assessee in default with certain consequences.
+RatioOfTheDecision	The amount of tax so in default is to be recovered from him.
+RatioOfTheDecision	The scheme contained in Sections 192 , 201 and the connected sections is only a mode of recovery of tax on the estimated income at the time of payment of salary to the employee.
+RatioOfTheDecision	The obvious purpose of the scheme is to facilitate recovery of tax under the Act .
+RatioOfTheDecision	15.
+RatioOfTheDecision	Nevertheless, income-tax is a tax on the income derived by the employee.
+RatioOfTheDecision	It is a charge on the income.
+RatioOfTheDecision	The liability of the person who derives income subsists in spite of the liability cast on the employer to deduct tax at source and pay over the same to the <ORG>.
+RatioOfTheDecision	What is to be deducted at source and paid over to the <ORG> is tax computed on the estimated income.
+RatioOfTheDecision	Income estimated may or may not, ultimately, in the assessment to be made in regard to the employee, be found to be correct.
+RatioOfTheDecision	It is for the employee to submit an annual return showing his total income for the purpose of taxation and the <ORG> has a duty to complete the assessment, with statutory rights provided in the Act to the employee.
+RatioOfTheDecision	The regular assessment may be preceded by a provisional assessment.
+RatioOfTheDecision	In either event, the tax deducted at the source and paid over to the <ORG> is to be given credit to in the tax liability fixed on the employee for the assessment year.
+RatioOfTheDecision	If the tax deducted at source and paid over to the <ORG> is f ound to be in excess, that has to be refunded to the person on whose behalf it was deducted, viz., the employee.
+RatioOfTheDecision	If any excess is found due, the liability is on the employee to pay the same.
+RatioOfTheDecision	16.
+RatioOfTheDecision	At the same time, we notice that the failure to make deduction or pay over the same to the <ORG> is also visited with certain consequences.
+RatioOfTheDecision	17.
+RatioOfTheDecision	As we have pointed out, the provisions regarding deduction of tax at source and payment of tax so deducted to the <ORG> lay down only a mode of recovering tax due from the employee.
+RatioOfTheDecision	In other words, the duty on the employer is not an end in itself.
+RatioOfTheDecision	It is only a means to an end, viz., recovery of tax payable by the employee.
+RatioOfTheDecision	Tax paid over to the <ORG> after deduction by the employer is for and on behalf of the employee.
+RatioOfTheDecision	This is subject to the ultimate assessment to be made on the employee and the tax so deducted and paid is to go in adjustment of the employee's liability.
+RatioOfTheDecision	In other words, the liability of the employer to make deduction at source and pay over the tax to  the <ORG> is not independent of the liability of the employee to pay tax.
+RatioOfTheDecision	It is dependent entirely on the liability of the employee to pay tax.
+RatioOfTheDecision	If, on the estimated income of the employee, no tax is due, the employer has no liability to deduct tax at the source.
+RatioOfTheDecision	The liability of the employer and the employee is interconnected and not independent of each other.
+RatioOfTheDecision	Where the assessment in relation to an employee has been completed and has become final and no further tax is found due from the employee, that puts an end to the liability of the employer.
+RatioOfTheDecision	Thereafter, it cannot be said that the liability of the employer survives.
+RatioOfTheDecision	We are here dealing with a case where the assessment on the employee has become final.
+RatioOfTheDecision	It is admitted that it cannot be reopened under any of the provisions of the Act.
+RatioOfTheDecision	The present discussion is confined to such cases.
+RatioOfTheDecision	18.
+RatioOfTheDecision	Any other view would lead to absurdity.
+RatioOfTheDecision	If the view is taken that irrespective of the finality (followed by non-reopenability) attached to the assessment completed with  reference to the employee, the employer can be deemed to be an assessee in default, it would follow that the employer is liable to pay the deficit to the <ORG> and that too with simple interest at 15 per cent.
+RatioOfTheDecision	per annum from the date on which tax was deductible.
+RatioOfTheDecision	Had the liability of the employee to pay the alleged deficit been alive, he would be liable to pay the deficit with simple interest at 15 per cent.
+RatioOfTheDecision	per annum not from the date on which the tax was deductible but only from the day commencing after the end of the period mentioned in Sub-section (1)of Section 220 , that is, the expiry of 35 days of the service of demand notice under Section 156 , which notice could be served only after completing the assessment.
+RatioOfTheDecision	This would lead to absurd results.
+RatioOfTheDecision	19.
+RatioOfTheDecision	If the view is taken that the employer is deemed to be an assessee in default even though the assessment on the employee has become final, it would naturally follow that the employer would be under a duty to pay over the deficit to the <ORG>, fail ing which the <ORG> would be entitled to recover the same in the manner provided in the Act.
+RatioOfTheDecision	Assuming that the deficit tax is so collected from the employer by the <ORG>, the amount so collected would go to the credit of the employee.
+RatioOfTheDecision	But the assessment made on the employee showing that no further tax was due from him having become final, the employee has no liability in regard to any further amount.
+RatioOfTheDecision	Naturally, the alleged deficit amount collected from the employer must be refunded to the employee.
+RatioOfTheDecision	We do not think that the provisions of the Act could be interpreted in such a manner as to lead to such patently absurd consequences.
+RatioOfTheDecision	20.
+RatioOfTheDecision	We, therefore, hold that the employer cannot be deemed to be an assessee in default once the assessment on the employee is complete and cannot be reopened in accordance with any of the provisions of the Act.
+RatioOfTheDecision	Therefore, the act of the Income-tax Officer in the instant case treating the employer as an assessee in default is invalid and without jurisdiction.
+RatioOfTheDecision	21.
+RatioOfTheDecision	Learned cou nsel for the <ORG> placed reliance on the decision of <ORG> in <CITATION_596612>  33 ITR 245.
+RatioOfTheDecision	We do not think that either the ratio of, or the observations in, the judgment have any impact on the question we have considered in this case.
+RatioOfTheDecision	We answer question No.
+Precedent	1 in the affimative, in favour of the company and against the <ORG>.
+Precedent	22.
+Precedent	In this view, it is a futile exercise and, therefore, unnecessary to answer questions Nos.
+Precedent	2 to 4.
+Precedent	We decline to answer those questions.
+Precedent	23.
+Precedent	The company will have its costs from the <ORG> including counsel's fee.
+Precedent	24.
+RulingByPresentCourt	A copy of this judgment under the seal of <ORG> and the signature of the Registrar will be sent to <ORG> as required by Sub-section (1) of Section 260 of the Income-tax Act, 1961.

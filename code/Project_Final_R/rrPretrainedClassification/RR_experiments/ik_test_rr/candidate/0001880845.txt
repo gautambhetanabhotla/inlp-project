@@ -1,0 +1,222 @@
+Fact	ORDER, ADMISSIBILITY--Interest under s. 215.
+Fact	Ratio :  Levy of interest under section 215 can be appealed against only if the assessee denies his liability of penal interest, not in a case where he mere disputes the quantum of interest.
+Fact	Held :  If an assessee challenges only the quantum of the penal interest, then it is not permissible to him to go in appeal to the Appellate Assistant Commissioner under section 246(c) (as it then stood) but if the assessee denies the very liability to be charged with penal interest, then it is permissible to him to go in appeal to the Appellate Assistant Commissioner under section 246(c) and when such an appeal has been filed, it will be open to the Appellate Assistant Commissioner to take into account all points which may ligitimately reduce the taxable income or the tax to be paid but also substantially reduce the quantum of the penal interest.
+Fact	Application :  Section 215 is inoperative now.
+Fact	Income Tax Act 1961 s.215 Income Tax Act 1961 s.246 Depreciation--BUILDING--Roads .
+Fact	Ratio :  Roads in factory premises are building and not "plant" for the purpose of depreciation.
+Fact	Held :  As roads played no part in production as defined in section 43(3) , and because they are adjuncts to factory buildings, they are to be treated as `building' for depreciation.
+Fact	Application :  Also to current assessment years.
+Fact	Income Tax Act 1961 s.32 Income Tax Act 1961 s.43(3) ORDER Per <NAME>, Accountant Member - The first common ground in the present appeals filed by the revenue is concerning the allowance of deduction on account of customs fines amounting to Rs.
+Fact	22,85,983, Rs.
+Fact	1,84,225 and Rs.
+Fact	7,000 made by the Commissioner (Appeals).
+Fact	The facts of the case are that the appeals for the first two years had come up before the <ORG> in IT Appeal Nos.
+Fact	463 and 464 (Bom.)
+Fact	of 1978-79 decided by the <ORG> on 24-1-1979.
+Fact	The <ORG> observed that the assessee imported certain goods and sought clearance against the import licence dated 11-11-1969 on the ground that the goods represented sp are parts required for the plant, machinery and equipment used and installed in the assessees factory for the manufacture of petrochemicals.
+Fact	The customs authorities, however, found that the goods imported were of size and thickness which were different from those contemplated by item No.
+Fact	5 in the import licence of the assessee.
+RulingByLowerCourt	The sizes did not indicate to the customs authorities that the goods concerned could be treated as spare parts of any machinery.
+RulingByLowerCourt	According to the customs authorities, the goods could not be readily fitted into any machinery.
+RulingByLowerCourt	It was, therefore, held that they were raw materials and not spare parts.
+RulingByLowerCourt	In the circumstances, the customs authorities held that the import was made without a cover of valid licence resulting in the commission of an offence attracting the provisions of section 111(d) of the Sea Customs Act read with section 3 or the Imports and Exports (Control) Act, 1947.
+RulingByLowerCourt	The <ORG> referred to the <ORG> decisions in the case of <ORG> v. <ORG>  41 IT R 350 and disallowed the assessees claim.
+Precedent	The assessee appealed before the <ORG> and relied on the <ORG> decision in the case of <CITATION_1910861> .
+Precedent	67 ITR 667.
+Precedent	The <ORG>, however, rejected the assessees claim by relying upon the <ORG> decision in the case of <CITATION_1799476> .
+Precedent	104 ITR 167.
+Fact	The <ORG> for the first two years observed that it was yet to be established whether the assessees case was covered by the <ORG> decision in the case of <ORG> (supra).
+Fact	In the circumstances, the <ORG> restored the matter back to the <ORG>, who was directed to get the necessary expert evidence, make necessary inquiries, hear both the parties to the dispute and then reduced the matter in the light of the relevant statutory provisions and case law.
+Fact	In pursuance of the directions of the <ORG>, the Commissioner (Appeals) gave a hearing to the assessee and the technicians, who furnished to the Commissioner (Appeals) a draft of the machinery, valves, spares and othe r blueprints.
+Fact	The technicians explained to the Commissioner (Appeals) the whole process, the whole process, the whole working and specimens of flanges, elbows as also pump were shown to the Commissioner (Appeals).
+Fact	They gave detailed arguments how the machinery imported by the assessee was spares and not raw materials.
+Fact	Later on, they gave a detailed note recapitulating their arguments on the subject.
+RulingByLowerCourt	After going through the entire material and after hearing the assessees representative, the Commissioner (Appeals) held that the goods represented spare parts required for plant and machinery and equipment and had to be installed by the assessee for the purpose of manufacturing the assessees products, viz., petrochemicals.
+RulingByLowerCourt	The customs authorities while imposing the penalties were of the view that the goods imports were different from those contemplated in the import licence issued to the assessee and, therefore, they came in a different classification.
+RulingByLowerCourt	therefore, they held that the assessee had committed an affian ce under section 111(d) of the Sea <ORG> Act read with section 3 of the Imports and Exports (Controls) Act.
+RulingByLowerCourt	The spare parts under consideration were in the nature of flanges, elbows and globe valves.
+RulingByLowerCourt	They required to be replace frequently as due to the high degree of wear and tear and due to the high pressure and temperature they required constant replacement.
+RulingByLowerCourt	It was explained on behalf of the assessee that the above goods were imported under the genuine belief that they were covered under the import licence for the import of these spare parts.
+RulingByLowerCourt	The penalties were levied under the aforesaid provisions of the Sea <ORG> Act and Imports and Exports (Control) Act by the Collector of <ORG>.
+RulingByLowerCourt	An option was, however, given to the assessee to redeem the goods by payment of fines.
+RulingByLowerCourt	It was explained on behalf of the assessee that as the goods were vital for the purpose of manufacture of the petrochemical products by the assessee the assessee paid the fines and redeemed the goods.
+RulingByLowerCourt	The Commissioner (Appeals) also con sidered the <ORG> decision in the case of <ORG> (supra) and found that the assessee had not carried on the business in an unlawful manner or in conscious contravention of the rules and regulations regulating import of goods.
+RulingByLowerCourt	After considering the entire evidence on the subject and after considering the law on the subject, the Commissioner (Appeals) was of the opinion that it was clear that in the present case there was no moral guilt involved on the part of the assessee.
+RatioOfTheDecision	At best, the lapse on the part of the assessee could be considered as a mere technical breach of law.
+RatioOfTheDecision	Further, he made a pointed reference to the fact that no evidence was brought on record but the department to how that the assessee had acted in an unlawful manner in carrying on its business.
+RatioOfTheDecision	Had the assessee acted in an unlawful manner, there was no doubt that the imported goods would have been confiscated and would not have been released for the use in the assessees business.
+RatioOfTheDecision	In this connection, he referred  to the revised definition of the word spare in the Import Policy Book issued by <ORG> for the years 1980-81 and 1981-82, according to which spare means a part of sub-assembly or assembly for substitution, i.e.
+RatioOfTheDecision	ready to replace an identical smellier part of sub-assembly or assembly, if it becomes faulty or worn out and includes an accessory (or attachment) in the same regard.
+RatioOfTheDecision	Considering the entire issue, the Commissioner (Appeals) was of the opinion that the goods imported by the assessee were spare parts and, therefore, the assessees case was fully covered by the <ORG> decision in the case of <NAME> Co. (supra) and he allowed the deduction for the first two years, i.e., the assessment years 1972-73 and 1973-74.
+RatioOfTheDecision	For the assessment year 1978-79, he followed his earlier decisions and allowed the assessees claim.
+Argument	2.
+Argument	The revenue is in appeal against the order of the Commissioner (Appeals) on this issue.
+Argument	It was vehemently urge that the assessees case was fully covere d by the decision of the Supreme court in the case of <ORG> (supra) and of <ORG> in the case of <ORG> (supra).
+Argument	On behalf of the assessee, it was urged that in the case of <ORG> (supra), <ORG> had distinguished the case of <ORG> (supra) and the dictum in this cases squarely applied to the assessees case.
+Argument	Further, reference was also made to the fact that the assessees entire plant and machinery were value at about Rs.
+Fact	30 crores.
+Fact	The spare were of the value of Rs.
+Fact	60 lakhs, in respect of which the penalty levied for the first year was Rs.
+Fact	41 lakhs, which was later on reduced to Rs.
+Fact	22 lakhs on the ground that the assessee had used the machinery for itself as spares.
+Fact	3.
+Fact	We have carefully considered the facts and circumstances of the case and the arguments on either side.
+Fact	We find that the assessee has imported pipped flanges and elbows for its petrochemical complex at <ORG>.
+RulingByLowerCourt	Expert evidence has  been brought on record which shows that considering the types of chemicals required to be used by the assessee, it had to replace these pipes too frequently as they got corroded, rusted and had to be discarded.
+RulingByLowerCourt	The customs authorities treated the pipes, flanges and elbows as raw material perhaps because of its universal use.
+RulingByLowerCourt	But the assessee was not interested in it as a raw material, but merely as spare parts for replacement of its petrochemical works going (sic).
+RulingByLowerCourt	Perhaps for this reason, on an appeal by the assessee, the Board reduced the penalty on the ground that the assessee had used the material for itself.
+RatioOfTheDecision	In our opinion, there is certain element of uncertainty in the definition of the word spare.
+RatioOfTheDecision	As per the clarification given later in the Import Policy Book, the pipes and flanges imported by the assessee could well be called spares.
+RatioOfTheDecision	In the circumstances, in our opinion, at worst, it can be said the assessee had committed any venial offence in the import of these pipes.
+RatioOfTheDecision	At this stage we have to consid er whether the assessees case is covered by the <ORG> decision in the case of <ORG> (supra) or by the <ORG> decision in the case of <ORG> (supra).
+RatioOfTheDecision	In the case of <ORG> (supra), the <ORG> has held that the actual cost of the goods to the assessee was no only what it had paid to the importers but in addition thereto what it had to pay by way of penalty in order to save the goods from being confiscated and lost to it.
+RatioOfTheDecision	The penalty paid by it could, therefore, be regarded as part of the cost of goods to it.
+RatioOfTheDecision	It could also be regarded as an amount expended by it wholly and exclusively for the purpose of the business because unless the said amount was expended, the goods could not have been saved from confiscation.
+RatioOfTheDecision	The learned judges further proceeded to observe that in cases where the penalty has to be incurred because of the fault of the assessee himself, as for instance, for the reason of his having carried on his business  in an unlawful manner or in contravention of certain rules and regulations, the penalty paid by the assessee for such conduct thereof, could not be regarded as wholly laid out for the purpose of the business, because the incurring of the said expensed had not been necessitated by the business but by the conduct of the assessee in trying to carry out the business in an unlawful manner.
+RatioOfTheDecision	While delivering this judgment, the learned Judges of <ORG> had also considered the <ORG> decision in the case of <ORG> (supra).
+RatioOfTheDecision	In the case of <ORG> (supra), the facts as observed by <ORG> were that the penalty had been imposed not for the fault of the assessee, but it had to bear the penalty for the purpose of getting the goods released from the customs authorities.
+RatioOfTheDecision	More or less, the same circumstances prevailed in the assessees own case also.
+RatioOfTheDecision	As regards the case of <ORG> (supra), relied upon by the revenue, we find that the learned  judges of the Gujarat High court have held that infraction of law was on a normal incidence of business.
+RatioOfTheDecision	We find that the assessee has not indulged in any willful or conscious disregard of law.
+RatioOfTheDecision	Apart from that, since, in our opinion, the assessees case is fully covered by the <ORG> decision on the subject, we see no reason to look to the law as explained by any other <ORG> form guidance in deciding these appeals on this issue.
+RatioOfTheDecision	In the circumstances, we see no reason to interfere with the order of the Commissioner (Appeals) on this issue.
+RatioOfTheDecision	4.
+Fact	For the assessment year 1978-79, there are some more grounds.
+Fact	The first one is in respect of the order of the commissioner (Appeals) deleting the addition of Rs.
+Argument	8,81, 855 made by the <ORG> on account of the excess bonus ignoring the fact that this was not an admissible deduction either under section 36(1) (ii) or section 37(1) of the Income-tax Act, 1961 (the Act).
+Argument	During the course of the assessment proceedings, the <ORG> found that the assessee had debited  under the head salaries, wages and bonus a sum of Rs.
+Fact	3,81,65,845, which included an amount or Rs.
+Fact	18,47,255 in respect of the bonus for the previous year.
+Fact	It was Explained on behalf of the assessee that this bonus payment was made on the basis of a memorandum of settlement made with the employees organisation by an agreement dated 8-8-1978.
+Fact	As per the terms of the agreement, it was agreed between the parties that the annual profit bonus for the accounting year ending December 1975 had to be paid at an amount equivalent to 20 per cent of the salary or wages earned by the employees during the accounting year 1976 and such bonus was to be calculated on the actual salary of Rs.
+Fact	750 per month, whichever was lower.
+Fact	The non-supervisory staff was to be paid in respect of each of the calendar years 1977 and staff was to be paid in respect of each of the calendar years 1977 and 1978 at the rate of 20 per cent of the actual salary of wages of Rs.
+Fact	750 per month, whichever was lower.
+Fact	It was further explained on behalf of  the assessee that the agreement was arrived at on 28-8-1978 and, hence, it was a liability for the year under consideration, since a provision to that extent was made in the accounts.
+Fact	The assessee claimed the deduction under section 36(1) (ii) and section 37(1) .
+Argument	The <ORG> was of the opinion that since under the Payment of Bonus Act , 1965, the payment of Bonus was to be restricted to 8.33 per cent, the amount admissible as deduction under section 36(1) (ii) had to be restricted only to the extent as permitted by the Payment of bonus Act.
+Argument	He also held that the assessee was not eligible for deduction of the amount under section 37(1) .
+Argument	5.
+Argument	On an appeal by the assessee before the Commissioner (Appeals), the Commissioner (Appeals) observed that the liability for the payment of bonus to the employees in the case of the assessee was a contractual obligation, According to him, as the <ORG> had not challenged the genuineness of the contractual obligation, he had to allow the expenditure which was enforceable in view of  such an obligation.
+Argument	According to him, the provisions of section 36(1) (ii) did not prohibit the deduction of the amount claimed by the assessee.
+Argument	6.
+Argument	The revenue is, therefore, in appeal before the <ORG> against the order of the Commissioner (Appeals) on the ground that the Commissioner (Appeals) erred in deleting the addition of Rs.
+Argument	8,81,855 made by the <ORG> on account of the excess bonus ignoring the fact that this was not an admissible deduction either under section 36(1) (ii) or section 37(1) .
+Argument	7.
+Argument	In the course of the hearing of the appeal, the learned departmental representative proceeded to invite our attention to paragraph 5 of the <ORG>s order.
+Argument	He proceeded to bring to our notice that under section 10 of the Payment of Bonus Act, the assessee was under an obligation to pay a bonus of 8.33 per cent of the salary or wages earned by the employee or Rs.
+Argument	100 only, whichever was higher, whether or not the employer had any allocable surplus for the accounting period.
+Argument	He has proceeded to argue that according  to the proviso to section 36(1) (ii), the deduction in respect of the bonus paid to an employee employed in a factory or other establishment to which the provisions of the Payment of Bonus Act applied should not exceed the amount of bonus payable under that act.
+Argument	According to him, since under the Payment of Bonus Act , the assessee could have paid a bonus of 8.33 per cent of the salary or wages earned by each individual employee, the Commissioner (Appeals) could not have made an allowance of bonus to the extent of 20 per cent of the salary or wages of the employees.
+Argument	8.
+Argument	On behalf of the assessee, the learned representative has proceeded to argue that the <ORG> has seen only the provisions of section 10 , according to which, the assessee was under an obligation to pay bonus of 8.33 per cent of the salary or wages irrespective of the fact whether the employer had earned any profits during the year.
+Argument	If the <ORG> had seen the very next section of the Payment of Bonus Act , viz., section 11 , it would have been clear  that where the allocable surplus for any accounting year exceeded the amount of minimum bonus payable to the employees under that section, the employer was under an obligation to pay to every employee in respect of that accounting year bonus, which would be an amount in proportion to the salary or wages earned by the employee during the accounting year subject to a maximum of 20 per cent of such salary or wages earned by the employee during the year.
+Argument	The learned representative has proceeded to point out that under this section, the assessee had the freedom to pay bonus as high as 20 per cent in a year.
+Argument	Further, he has proceeded to rely on a long chain of decisions of the various Benches of the <ORG>, according to which, payment of bonus up to 20 per cent was held to be an admissible deduction under section 36(1) (ii).
+Precedent	In the case of <ORG> v ITO  1 ITD 516, the Hydrabad Bench of the <ORG> has held that the restriction on the allowance of claim for bonus up to the limits prescribed in the  Payment of Bonus Act would not operate on customary bonus paid under an agreement.
+Precedent	In the case of <CITATION_693628> .
+Precedent	1 ITD 748 (Mad.)
+RatioOfTheDecision	bonus was paid by an employer under an agreement in addition to the maximum bonus payable under the Payment of Bonus Act .
+RatioOfTheDecision	The <ORG> held that such bonus fell outside the provisions of the Payment of Bonus Act and was allowable as a deduction under section 37(1) .
+RatioOfTheDecision	In the case of <CITATION_484373> .
+Precedent	1 ITD 803, the <ORG> of the <ORG> held that bonus paid in excess of 20 per cent of the salary was found to be a customary bonus and was held to be admissible.
+Precedent	In the case of <ORG> (P.) <CITATION_1608984>  2 ITD 176, <ORG> of the <ORG> held that where an assessee was under an agreement required to pay bonus at 20 per cent of the wages in spite of the non-existence of the liability during the relevant accounting year and in spite of the provisions of section 36(1) (ii) such payment was not inadmissible.
+Precedent	In the case of <CITATION_1389262>  3  ITD 177, <ORG> of the <ORG> held as admissible the bonus paid by an employer to the employee under an agreement which was in excess of bonus statutorily payable under the Payment of Bonus Act .
+RatioOfTheDecision	9.
+RatioOfTheDecision	We have carefully considered the facts and circumstances of the case and the arguments on either side.
+RatioOfTheDecision	The facts lie within a narrow compass.
+RatioOfTheDecision	The assessee was under an obligation to pay bonus to the employees at the rate of 20 per cent of the salary and wages under a contract.
+RatioOfTheDecision	It is a contractual liability.
+RatioOfTheDecision	The various Benches of the <ORG> have in unambiguous terms held that such liability was deductible in the determination of the profits as a customary bonus arising out of a contract.
+RatioOfTheDecision	Apart from that, what we find is that the main thrust of the argument of the <ORG> in disallowing the claim is that the payment was in excess of the amount admissible under the Payment of Bonus Act .
+RatioOfTheDecision	As brought to our notice by the learned representative for the assessee under section 11 , the assessee had the freed om to make the payment up to 20 per cent of the salary or wages provided the allocable surplus was more than 50 per cent of the amount of minimum bonus payable to the employees.
+RatioOfTheDecision	Therefore, the <ORG> decision on the mere reference to section 10 was totally erroneous.
+RatioOfTheDecision	It is the assessees plea that its claim in addition to being admissible as a contractual obligation, was also unexceptionable in view of the provisions of section 11 .
+RatioOfTheDecision	In our opinion, without any clear finding on behalf of the <ORG> that the assessees case was not covered by section 11 , the <ORG> could not have proceeded to disallow the claim.
+RatioOfTheDecision	Being contractual obligation, the assessee is fully entitled to the deduction.
+RatioOfTheDecision	The order of the Commissioner (Appeals) in this respect calls for no interference.
+RatioOfTheDecision	10.
+RulingByLowerCourt	The next ground for the assessment year 1978-79 is that the Commissioner (Appeals) erred in directing the <ORG> to allow depreciation on roads at the rates applicable to plant and machinery When no depreciation is admissible at all on roads.
+RulingByLowerCourt	Without  prejudice to this ground, it is urged that the Commissioner (Appeals) had erred in directing the <ORG> to allow depreciation on roads at the rates applicable to plant and machinery, whereas depreciation can be allowed on roads at the most at the rates applicable to buildings only.
+RulingByLowerCourt	In the course of the assessment proceedings, the assessee claimed depreciation and development rebate on the cost of the roads in the factory premises, as if they were plant.
+RulingByLowerCourt	The <ORG> disallowed the assessees claim.
+RulingByLowerCourt	On an appeal by the assessee, the Commissioner (Appeals) followed the <ORG> decision in the assessees own case for the assessment years 1974-75 to 1976-77 in IT Appeal Nos.
+RulingByLowerCourt	990 to 992 (Bom.)
+RulingByLowerCourt	of 1979 decided by the <ORG> on 20-3-1980 wherein the <ORG> considered the roads connecting the various plant installation in the entire complex as part and parcel of the plant.
+RulingByLowerCourt	The Commissioner (Appeals) allowed the assessees appeal on this issue.
+RulingByLowerCourt	11.
+RulingByLowerCourt	The revenue is in appeal against the order of the Commissioner (Appeals) in  this respect.
+RulingByLowerCourt	Reliance is placed on the <ORG> decision in the case of <CITATION_200951> .
+Argument	144 ITR 585.
+Argument	On behalf of the assessee, it is submitted that the assessees business activity is to run a petrochemical complex.
+Argument	It is not as if one or two buildings are situated in a big compound which are connected by various roads.
+Argument	The roads are part and parcel of the huge lay-out.
+Argument	Further, in addition to the roads connecting the various plant installations, there are also other roads connecting the other buildings in the complex.
+Argument	The assessee had claimed and allowed depreciation as if these roads were part and parcel of the buildings.
+Argument	In respect of the roads, which are under consideration, it was submitted that these roads are part and parcel of the plant.
+Argument	12.
+RatioOfTheDecision	We have carefully considered the facts and circumstances of the case and the arguments on either side.
+RatioOfTheDecision	As explained by the assessee, no doubt, the roads presently under consideration are in the plant lay-out and are not merely roads connecting the  various other buildings in the factory complex.
+RatioOfTheDecision	At the same time, we cannot overlook the clear exposition of the law on the subject as laid down by the learned judges of <ORG> in the case of <ORG> (supra), according to which the essence of the test to determine whether an asset can be called a plant is to ascertain whether it can be treated as an apparatus which is used by a businessman for carrying on business, and whether with that asset he carries on the trade as opposed to the place where and the setting in which the trade was carried on.
+RatioOfTheDecision	Roads within the factory premises are adjuncts of the factory buildings and, therefore, must be treated as buildings.
+RatioOfTheDecision	Roads do not have any different nature or character than the buildings to which they are adjunct.
+RatioOfTheDecision	It cannot be said that buildings in the instant case plays any part in production as such, to be treated as plant.
+RatioOfTheDecision	They are factory buildings used as places where production goes on and cannot, therefore, be treated as plant.
+RatioOfTheDecision	Roads constructed by the assessee in the premises of the factory would not constitute plant as defined in section 43(3) of the Act.
+RatioOfTheDecision	They must be treated as building, for purposes of section 32 of the Act.
+RatioOfTheDecision	In our opinion, in the circumstances, the revenue is entitled to succeed on this ground.
+RatioOfTheDecision	We have also taken note of the fact that the <ORG> in IT Appeal Nos.
+RatioOfTheDecision	990 to 992 of (Bom.)
+RatioOfTheDecision	1979, for the assessment years 1974-75 to 1976-77 decided the issue in favour of the assessee.
+RatioOfTheDecision	We find that the <ORG> did not have the benefit of the guidance of the <ORG> decision in the case of <ORG> (supra), which was rendered two years later.
+RatioOfTheDecision	13.
+Argument	The next set of grounds, for the assessment year 1978-79, on behalf of the revenue is that the Commissioner (Appeals) erred in setting aside the assessment with reference to interest under section 215 / 217(1A) of the Act ignoring the fact that he has no powers to set aside an assessment merely with reference to a particular point.
+Argument	Further, it is submi tted that the Commissioner (Appeals) erred in entertaining the grounds of appeal against the levy of interest under section 215 / 217(1A) when section 246 of the Act does not provide for any appeal against the levy of such interest.
+Argument	Further, without prejudice to this argument, it was submitted that the Commissioner (Appeals) ought to have upheld the interest levied by the <ORG> under section 215 / 217(1A) .
+Argument	14.
+Argument	The facts relating to this set of grounds are that the <ORG> issued a notice under section 210 of the Act on 9-6-1977 for the payment of advance tax of Rs.
+Fact	97,65,581, in three equal installments.
+Fact	The first installment was paid on 15-6-1977.
+Fact	Later on, the <ORG> revised the demand notice and directed the assessee to pay the further two installments to make up Rs.
+Fact	79,08,064.
+Fact	A sum of Rs.
+Fact	39,54,032 was paid on 14-9-1977.
+Fact	The assessee filed an estimate in Form No.
+Fact	29 on 14-12-1977 estimating the total tax payable at Rs.
+Fact	2,74,39,913.
+Fact	It also paid an amount of Rs.
+Fact	1,88,80,704 on the same date.
+Fact	On filing the return  of income the assessee paid a further amount of Rs.
+Fact	80,10,809 on 26-6-1978.
+Fact	On completion of the assessment, there is no mention in the assessment order but in the demand notice the <ORG> demanded some amount by way of interest under section 217(1a) .
+Fact	Later on, by an order under section 154 of the Act dated 22-8-1981, the <ORG> directed that the levy was not under section 217(1A) but it was a levy under section 215 .
+Fact	15.
+Fact	The assessee appealed against this levy before the Commissioner (Appeals).
+Argument	It was submitted on behalf of the assessee before the Commissioner (Appeals) that the <ORG> was not entitled to levy any interest either under section 215 or under section 217(1A) in the circumstances narrated above.
+Argument	The assessee challenged the very jurisdiction of the <ORG> to make such a levy.
+Argument	After hearing the assessees appeal, the Commissioner (Appeals) observed that the <ORG> had not given the details of the calculations of the interest which was either under section 217(1A) or under section 215 .
+Argument	In the circumstances, he  found it difficult to verify the correctness regarding the chargeability of the interest.
+Argument	He proceeded to observe that he would not have entertained the grounds of appeal if the interest was prima facie chargeable.
+RulingByLowerCourt	From the discussion in the <ORG> order nothing was clear.
+RulingByLowerCourt	He, therefore, set aside the order of the <ORG> on this point only with a direction to him to go through the assessees claim and pass necessary order after verifying the facts.
+RulingByLowerCourt	While doing so, the <ORG> should also give credit to the installments paid by the assessee on 14-12-1977, which apparently was not taken into consideration by the <ORG> while imposing the levy.
+RulingByLowerCourt	16.
+RulingByLowerCourt	The revenue has, therefore, filed the appeal firstly, on the ground that the Commissioner (Appeals) has erred in setting aside the assessment with reference to this levy ignoring the fact that he had no power to set aside the assessment merely with reference to a particular point.
+RulingByLowerCourt	Further, it was submitted that the Commissioner (Appeals) erred in entertaining the grounds of appe al against the levy of interest under section 215 / 217(1A) when no appeal was provided against such a levy.
+RulingByLowerCourt	Finally, it was submitted that the Commissioner (Appeals) ought to have upheld the interest levied by the <ORG>.
+RulingByLowerCourt	The learned departmental representative has proceeded to refer to the <ORG> decision in the case of <CITATION_20346>  132 ITR 453.
+Fact	On behalf of the assessee, reliance is placed on another decision of the <ORG> decision in the case of <CITATION_2833> .
+Fact	108 ITR 961(FB).
+RatioOfTheDecision	17.
+RatioOfTheDecision	We have carefully considered the facts and circumstances of the case and the arguments on either side.
+RatioOfTheDecision	We find that the learned judges of the <ORG> have held against the assessee in the case of <NAME> (supra) only on the ground that the assessee had not denied the liability to the levy, whereas we have got the decision of the <ORG> of the same <ORG> in the case of <NAME> (supra) to the effect that where the assessee had denied the liability outright under  section 246(1) (c) the assessee was entitled to challenged the levy.
+Argument	As expressly mentioned by the Commissioner (Appeals), the assessee in this case was challenging the very jurisdiction of the <ORG> to make such a levy on the facts and in the circumstances of the case.
+RulingByLowerCourt	As explained by the learned judges of <ORG> in the case of <NAME>supra) the assessee was fully entitled to take up the ground before the Commissioner (Appeals).
+RulingByLowerCourt	Further, we find that the Commissioner (Appeals) has not set aside the entire assessment.
+RulingByLowerCourt	Since the order of the <ORG> on the issue was too cryptic, he restored the matter to the file of the <ORG> for re-examination of the assessees liability to this levy.
+RulingByLowerCourt	From the terms of the order of the Commissioner (Appeals), it is clear that the Commissioner (Appeals) was fully aware of <ORG> decision in the case of <NAME>supra) and in terms he has followed it.
+RulingByLowerCourt	We, there-fore, see no substance in the appeal on behalf of the revenue on any of  the grounds on this issue.
+RulingByLowerCourt	The appeal of the revenue on this issue is rejected.
+RulingByLowerCourt	18.
+RulingByLowerCourt	In the result, the appeals for the assessment years 1972-73 and 1973-74 are dismissed whereas for the assessment year 1978-79, it is partly allowed.

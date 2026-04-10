@@ -1,0 +1,46 @@
+Fact	JUDGMENT <NAME>, <ORG>, <ORG> and <NAME>, J.
+Fact	1.
+Fact	This first appeal arises out of a suit brought by the appellants who were plaintiffs in the <ORG> below.
+Fact	According to them, they in Sambat 1914, corresponding to the year 1857, made a religious endowment consisting of certain buildings situate at Sarsya Ghat in the city of Cawnpore.
+Fact	2.
+Fact	The religious endowment was for the promotion of the Nanak Shahi religion.
+Fact	They installed one <NAME> to carry out all the necessary rites connected with the endowments, and in succession to him they also appointed one <NAME>.
+Fact	Upon <NAME>'s death they appointed as a temporary measure <NAME> to carry on the duties connected with the <ORG> until such time as they could make a further appointment.
+Argument	3.
+Argument	The first four defendants, who represent themselves as <NAME> and as disciples of <NAME> and also of <NAME>, aforesaid, denied the plaintiffs' title to make any appointment to the religious endowment.
+Argument	They attempted t o realize certain bonds belonging to the religious endowment on the ground that these bonds and the properties connected with the endowment were the self-acquired property of <NAME>.
+Argument	The plaintiffs accordingly asked for a declaratory decree to the effect that the property scheduled in the plaint was endowed property dedicated to the <ORG> Nanak Shahi; that the defendants had no right of their own to that property, and that the plaintiffs had power to appoint on their behalf any person they liked as manager.
+Argument	The defence was that the property in dispute was not the <ORG> property, not was <NAME> a superintendent, nor was he appointed on behalf of the plaintiffs, The whole of the property in dispute was the self-acquired property of <NAME>.
+Argument	The property had been purchased in his name and stood in his name in the khewats and other revenue papers.
+Argument	He was not a manager on behalf of, or subordinate to, the plaintiffs.
+Argument	All suits which it had been necessary to bring in respect of these proper ties had always been brought by <NAME> in his own right.
+Argument	<NAME> died intestate, and the answering defendants being his disciples are entitled to succeed him.
+Argument	<NAME>, defendant No.
+Argument	5, filed a separate written statement, but it is not necessary to enter at length into what was stated therein, except to say that he sets up in himself a right as Mahant of the <ORG> upon appointment by the plaintiffs.
+Fact	Four issues were framed by the Court below, but only the third and the fourth require consideration for the purpose of this appeal.
+Fact	They are as follows: 3rd.
+Fact	Whether the property in suit appertaining to the <ORG> is dedicated property; 4thly, if so, whether the plaintiffs have any title to the property as superintendents and also have a right to appoint a successor of <NAME>.
+Fact	The learned Subordinate Judge decided the third issue in the plaintiffs' favour and gave them a declaration to the effect that the properties in question are endowed property appertaining to the <ORG> at Sarsy a Ghat.
+Fact	He dismissed that portion of the plaintiffs' claim in which they seek for a declaration that they arc superintendents of the property and have the power to appoint any person they like as a manager.
+Fact	The arguments addressed to us during the hearing of this appeal referred only to this portion of the reliefs claimed.
+Fact	The respondent has printed no evidence, and throughout the hearing of this appeal our attention was confined to the evidence printed by the appellants.
+Fact	The plaintiff went into the witness-box and said without any hesitation that the appellant had absolute power to appoint whomsoever they liked for the worship of <NAME>.
+Fact	He gave the origin of the endowment, deposed that first <NAME>, and, in succession to <NAME>, <NAME> after an interval was appointed by the appellants as the superintendent of the endowment.
+Fact	He gave more than one instance of direct interference in the affairs of the endowment, and it was not elicited by cross-examination that in making the  endowment the founder had imposed any limitation on their powers with regard to the same.
+Fact	His statement was confirmed by the evidence of <NAME>, who, while, it is true, stating that all who belonged to the sect had power to appoint Mahants, said that the plaintiffs had more authority than others because the buildings belong to them.
+Fact	They installed <NAME>.
+Fact	To the same effect is the deposition of <NAME> and <NAME> who belong to this form of worship.
+Fact	A witness, <NAME>, claimed to have been present on the day <NAME> was installed, and he says his installation was the work of <NAME>, one of the appellants.
+Fact	The witness <NAME> gives a very graphic account of the filling up of the vacancy caused by the disappearance of <NAME>.
+RulingByLowerCourt	He too says that <NAME> was appointed by Lala <NAME>.
+RulingByLowerCourt	<NAME> confirms him in this In short, we have very strong and voluminous evidence showing that the religious endowment was founded by the appellants and that each  of the two Mahants in turn who had presided over it had been appointed by the appellants.
+RulingByLowerCourt	Upon this finding the proposition of law enunciated by their Lordships of <ORG> in the case of <NAME> v. <NAME> (1889) L.R., 16 I.A., 137; I.L.R., 17 Calc., 3 would apply.
+RulingByLowerCourt	Their Lordships say: "According to Hindu law, when the worship of a Thakur has been founded, the Shebaitship is held to be vested in the heirs of the founder in default of evidence that he deposed of it otherwise or there has been some usage, course of dealing or some circumstance to show a different mode of devolution."
+RulingByLowerCourt	The rule of law laid down in that case was applied by this <ORG> in the case of <CITATION_225819> .
+Fact	(1896) I.L.R., 18 All., 227 It was for the respondents to establish that the appellants had divested themselves, either at the foundation or afterwards, of the powers which naturally belong to them.
+Fact	This they have not done.
+Precedent	In the present case, moreover, as no one has been shown to be entit led to succeed <NAME>, the right of management reverts to the heirs of the founder (see Mussumat Jai Bansi Kunwar v. <NAME> (1870) 5 B.L.R., 181.
+Argument	It cannot be claimed for <NAME> that he held the office of trustee of this religious endowment, for it will be remembered that the case set up by the defendants is that the endowment is not a religious endowment, and that all the buildings and other property, the subject-matter of this appeal, are the self-acquired property of <NAME>.
+RatioOfTheDecision	This neither the Court below found, nor do we find supported by any evidence that has been shown to us.
+Precedent	If no trust was created, then the nomination vests by law in the founder and his heirs, unless there has been some usage or course of dealing which points to a different mode of devolution--see <CITATION_225819> , (1896) I.L.R., 18 All., 227.
+RulingByPresentCourt	The result is that we allow this appeal and modify the decree of the Court below so far that we decree the plaintiffs' suit in full, with costs as against all  the respondents save <NAME>.

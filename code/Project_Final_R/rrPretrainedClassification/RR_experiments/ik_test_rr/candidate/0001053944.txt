@@ -1,0 +1,147 @@
+Fact	PETITIONER: STATE OF KERALA Vs. RESPONDENT: <NAME> & SONS DATE OF JUDGMENT: 11/02/1966 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME>, K.N.
+Fact	<NAME>, S.M.
+Fact	RAMASWAMI, V. CITATION: 1966 AIR 1738 1966 SCR (3) 582 CITATOR INFO : RF 1969 SC 78 (17,25) D 1975 SC1801 (2) RF 1975 SC2238 (22) R 1991 SC 435 (19) ACT: Travancore-Cochin, General Sales Tax Act (11 of 1125 M.E.
+Fact	)- Suit to recover excess tax paid-Jurisdiction of civil court if barred.
+Fact	HEADNOTE: Part of Sales-tax paid by the respondent was assessed upon the amount which it collected frOm its customers as sales- tax and which was included in its net turnover.
+Fact	A suit by the respondent for refund of that part of the sales-tax which was charged on the sales-tax collected by the res- pondent on the basis that it was not lawfully due under the Travancore-Cochin General Sales Tax Act, 1950, was decreed by the trial court and the decree was confirmed by <ORG>.
+Fact	In appeal to this Court, it was contended that the civil court had no j urisdiction to try the suit.
+Fact	HELD : By constituting appropriate authorities under the Act and ,creating a hierarchy of authorities to deal with the problem of levying tax as contemplated by the Act, the jurisdiction of the civil court to entertain the suit was excluded by necessary implication.
+Fact	[586 G] Jurisdiction of the civil court to try the suit was not barred by s. 23A ousting the jurisdiction of the civil court, because that section which was not retrospective in operation was incorporated into the Act after the suit was filed.
+Fact	But the jurisdiction of the civil court may be excluded by express enactment or by necessary intendment arising from the scheme of the Act.
+Fact	The Travancore-Cochin Sales Tax Act is a complete code dealing with the levy, assessment, collection and refund of tax.
+Fact	It authorises in- vestment of power in a hierarchy of authorities to administer the Act.
+Fact	For the purpose of making assessment of tax, the authorities have power to decide all questions arising before them, and the orders of  the appellate authorities, subject to the exercise of revisional jurisdiction by <ORG>, were declared filial.
+Fact	The liability to pay tax arose under and by virtue of the provisions of the Act and the quantum of liability was determined under the Act alone.
+Argument	Further, at the material time, there was no express provision in he Act, which obliged the taxing authority to exclude from the computation of the taxable turnover the amount of sales-tax collected by the dealer.
+Argument	Hence, it could not be said that by assessing sales-tax on such amount, the taxing authority had infringed a prohibition imposed by the statute upon him.
+Argument	Therefore the principle in Secretary of <ORG> for <CITATION_228245> .
+Fact	67 I.A.
+Fact	222, that civil courts have jurisdiction to examine a case where the provision-, of the statute have been infringed did not apply in the instant case.
+Fact	[583 F; 584 C; 585 H-586 B; 589 <CITATION_363516> ,  5 S.C.R.
+Fact	517; 15 S.T.C.
+Fact	144 (S.C.), overruled'.
+Fact	<CITATION_1536230> ,  1 S.C.R.
+Fact	64, followed.
+Fact	<CITATION_50 9289> ,  2 S.C.R.
+Fact	570; A.I.R.
+Fact	1962 S.C. 1037 and <CITATION_1266374> ,  2 S.C.R.
+Fact	229 referred to.
+Fact	583 JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Fact	1104 of 1964.
+Fact	Appeal by special leave from the judgment and decree dated the October 7, 1963 of <ORG> in A.S. No.
+Fact	190 of 1959.
+Fact	<NAME>, Attorney-General and <NAME>, for the appellant.
+Fact	<NAME> and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <NAME>, J.
+Fact	For the period August 16, 1950 to March 31, 1951 the respondents were assessed to sales-tax under the Travancore Cochin General Sales-tax Act, 1950, by the assessing authority, Moovattupuzha, on a turnover of Rs.
+Fact	14,04,732/716 which included Rs.
+Fact	49,318/7/4 collected by the respondents from their constituents as tax on their sale transactions.
+Argument	The respondents paid the tax assessed and commenced an action in the Court of the District Judge, Parur, for a decree for Rs.
+Argument	7,577/9/1 claiming that the amount was in excess of tax l awfully due from them under the.Act.
+Argument	<ORG> decreed the claim for Rs.
+Argument	7,477/9/1 with interest and proportionate costs, and <ORG> confirmed that decree.
+Fact	In this appeal with special leave, on behalf of the <ORG> of Kerala the principal ground which falls to be determined is whether the jurisdiction of <ORG> to try the suit is excluded.
+RulingByLowerCourt	Section 23-A of the Travancore-Cochin General Sales-tax Act 11 of 1125 M. E. provides that :  ".No suit or other civil proceeding shall, except as expressly provided in this Act, be instituted in any court to set aside or modify any assessment made under this Act."
+RulingByLowerCourt	But this express bar on which counsel for the <ORG> relied did not exclude the jurisdiction of the civil court, for s. 23-A was incorporated in the Travancore-Cochin General Sales-tax Act by Act 18 of 1955 after the suit was instituted by the respondents, and by s. 23-A as incorporated the jurisdiction of the civil court to try a suit properly instituted before it was  enacted is not ousted.
+RulingByLowerCourt	Counsel for the respondents submitted that in the absence of an express provision in the Act excluding the jurisdiction of the civil court, the courts below were right in holding that the suit was maintainable, and in support of that contention, he relied upon the decision of this Court in <CITATION_363516> (1).
+RulingByLowerCourt	In <NAME>'s case the (1)  S.C.R.
+Fact	517:15 S.T.C.
+Fact	144.
+Argument	584  assesee who was taxed in respect of certain sales which took place outside the taxing <ORG>, sued the <ORG> for a decree for refund of the amounts paid by him on the plea that the transactions in respect of which the tax was levied were not taxable under the law.
+Argument	This Court held that without a provision like S. 18-A of the Madras General Sales-tax Act, 1939, the jurisdiction to entertain the suit was not taken away, specially where the action of the authorities was "wholly outside the law".
+Argument	It was observed in that case that finality attached to orders passed in 1 appeal by the Act was a finality for the purposes of the  Act and I did not make valid an, action which was not warranted by the Act, as for example the levy of tax on a commodity which was not taxed at all or was exempt."
+Argument	But the jurisdiction of the civil court may be excluded expressly or by clear implication arising from the scheme of the Act.
+Argument	Where the <ORG> sets up a special tribunal to determine 'questions relating to rights or liabilities which are the creation of a statute, the jurisdiction of the civil court would be deemed excluded by implication.
+Argument	In <ORG> v. <ORG> in Council(1) <ORG> in dealing with the question whether the jurisdiction of the civil court to entertain a suit for refund of income-tax may be deemed to be excluded, apart from the express exclusion prescribed by s. 67 of the Income-tax Act , by the scheme of the Income-tax Act , observed ".............. the scheme of the Act (the Incometax Act) is to set up a particular machinery by the use of which alone total income assessable for  income-tax is to be ascertained.
+Argument	The income-tax exigible is determined by reference to the total income so ascertained, and Only by reference to such total income.
+Argument	Under the Act (S.45) there arises a duty to pay the amount of tax demanded on the basis of that assessment of total income.
+Argument	Jurisdiction to question the assessment otherwise than by use of the machinery expressly provided by the Act would appear to be inconsistent with the statutory obligation to pay arising by virtue of the assessment.
+Precedent	The only doubt, indeed, in their Lordships' mind, is whether an express pro- vision was necessary in order to exclude jurisdiction in a civil court to set aside or modify an assessment."
+Precedent	In delivering the judgment of the majority in <CITATION_1266374> (2), <NAME>,  1., observed :  "If a statute imposes a liability and creates an effective machinery for deciding questions of law or fact arising in regard to that liability, it may, by necessary implication, bar the maintainability of a civil suit in respect of the  said liability.
+Precedent	A statute may also, confer exclusive jurisdic- (1) L.R.
+Precedent	74 I.A.
+Precedent	50.
+Precedent	(2) [1966] 1 S.C.R, 229.
+Argument	585  tion on the authorities constituting the said machinery to decide finally a jurisdictional fact thereby excluding by necessary implication the jurisdiction of a civil court in that regard."
+Argument	in a case recently decided by this Court <CITATION_1536230> (1) exclusion of the jurisdiction of the civil court to entertain and decide suits for refund of tax paid fell to be determined.
+Argument	In that case a dealer was assessed to tax under the Bombay Sales-tax Act 5 of 1946 in respect of "outside $ales" which by virtue of the ban imposed by Art.
+Argument	286 of the Constitution were not taxable.
+Argument	The dealer sued to recover the tax paid by him.
+Argument	This Court held that where the Sales-tax Officer by misconceiving the nature of the transactions brings to tax transactions in respect of which the <ORG> has no authority to legislate for levying tax because of the ban imposed by Art.
+Argument	286 of the Constitution, the validity of the o rder of assessment of tax cannot be reopened in a suit for refund of tax paid.
+Argument	The Bombay Sales-tax Act 5 of 1946, it is true, contained s. .20 which in terms enacted that an assessment shall not be called in' question in any civil court, but the court in Kamala, <NAME> case(1) held that the jurisdiction of the civil court to entertain a suit for tax assessed under the Act was excluded expressly, and by the clear implication of the Act as well.
+Argument	The assessing authority invested with' power under the Tra- vancore-Cochin General Sales-tax Act is constituted by the Act a tribunal, which within the limits of its authority is competent to decide all questions of fact and law Arising before him in the course of proceedings for assessment and of his own jurisdiction as well.
+Statute	The Act sets up machine for levy,assessment, and collection of tax.
+Statute	By s. 3 of the Act charge is imposed, subject to exemptions prescribed by ss.
+Statute	4, 5 and 6 upon every dealer to pay tax on his total turnover of each year.
+Statute	Duty to pay the tax is i mposed by s. 11(2) of the Act.
+Statute	Section, 12 sets up the procedure of the assessing authority in making assessments and s. 13 deals with recovery of tax.
+Statute	A taxpayer aggrieved by an order of assessment may appeal under s. 14 against the order of assessment, and the decision of the appellate authority is by cl.
+Statute	(4) subject to the power of revision conferred by s. 1 expressly declared final.
+RatioOfTheDecision	Section 15 as it stood at the relevant time provided for the exercise of revisional jurisdiction by <ORG> against the order of the taxing authorities-original as well as appellate.
+RatioOfTheDecision	By s. 24 power is conferred upon <ORG> to frame rules' setting up machinery for determination of the not chargeable turn over, for refund of tax collected in excess of true liability and for other incidental matters.
+RatioOfTheDecision	The Act is therefore a complete code dealing with the levy, assessment and collection and refund of tax.
+Fact	(1)  1 S.C.R.
+Fact	64: A.I.R.
+Fact	1965 S.C. 1942.
+Statute	586  it authorises investment of power in a hierarchy of au thorities to administer the Act.
+RatioOfTheDecision	For the purpose of making assessment of tax, the authorities have power to decide all questions arising before them, and the orders of the appellate authorities subject to the exercise of revisional jurisdiction under S. 15 are declared final.
+RatioOfTheDecision	Liability to pay tax arises under and by virtue of the provisions of the Act, and, the quantum of liability may be determined under the Act alone.
+Precedent	It is true that in <ORG> case(1) reliance was placed on behalf of the claimant upon <NAME>'s case(2), and the following observations were made by the <ORG> :  " <CITATION_363516> it was held by this <ORG> that the finality attached to orders passed in appeal by section 11(4) of the Madras General Sales-Tax Act (IX of 1939) was a finality for the purposes of the said Act and did not make valid an action which was not warranted by the Act, as for "ample, the levy of tax on a commodity which was not taxable at all or was exempt.
+Precedent	We ought to add that this decision was based on the fact t hat the said Act at the relevant time did not contain section 18A which came into force on May 15, 1951; and it was section 18A which was construed by this Court in Firm of Illuri Subbayya Chetty & Sons [(1964) 1 SCR 752]."
+Argument	In <NAME>'s case(2) the taxpayer sought in an action for refund of tax paid, a decree on the plea that, the transactions in respect of which tax was levied were "outside sales", and it was held that in the absence of express exclusion of the jurisdiction of the civil court, the action for refund of tax was maintainable.
+Argument	But the nature of the transactions taxed in <ORG> case(1) was not different.
+Argument	In the judgment in <ORG> case(1) it was pointed out that the jurisdiction of the civil court to entertain a suit for refund of tax paid in compliance with an order of assessment may be excluded either expressly or necessary implication, and as the scheme of the Bombay Sales Tax Act, 146, indicated that a complete machinery was set up by constituting appropriate authorities und er the Act, and creating a hierarchy of authorities to deal with the problem of levying tax as contemplated by the Act, jurisdiction of the civil court to entertain the suit was excluded by implication as well as by express enactment.
+Precedent	That is clear from the following observations in <ORG> case(1):  "Whether or not a return is correct; whether or.
+Precedent	not transactions which are not mentioned in the return, but about which the appropriate authority has knowledge, fall (1) [1966] 1 S.C.R.
+Precedent	64.
+Precedent	(2) [1964] 5 S.C.R.
+Precedent	517.
+Argument	587  within the mischief of the charging section; what is the true and real extent of the transactions which are assessable; all these and other allied questions have to be determined by the appropriate authorities themselves; and so, we find it impossible to accept Mr. <NAME>'s argument that the finding of the appropriate authority that a particular transaction is taxable under the provisions of the Act, is a finding on a collateral fact which gives the appropriate authority jurisdiction  to take a further step and make the actual order of assessment."
+Argument	The action of the taxing authority in <NAME>'s case(1) in taxing transactions which he erroneously held were taxable was no.
+Argument	more outside the Act, than the action of the taxing authority in <NAME> case(2).
+Argument	If it be granted that the jurisdiction of the civil court may be excluded by express enactment or by necessary intendment arising from the scheme of the Act, <NAME>'s case(1) must be regarded as wrongly decided.
+Argument	It is true that even if the jurisdiction of the civil court is excluded, where the provisions of the statute have not been complied with or the statutory tribunal has not acted in conformity with the fundamental principles of judicial procedure, the civil courts have jurisdiction to examine those cases : Secretary of <ORG> for <CITATION_99943> (2).
+Argument	Counsel for the respondents urged that the case of the respondents fall within that exception, since the Sales-tax Officer in imposing tax-liability acted in defiance of the <NAME> tory provisions of the Act and in support of the argument he placed reliance upon r. 7 of the Rules framed under the Act and the definition of "turnover" under the Act.
+RatioOfTheDecision	Under the Act sales-tax is charged for the year at the prescribed rates on the total turnover of the dealer.
+Fact	<ORG> promulgated rules in exercise of powers under s. 24 of the Travancore- Cochin General Sales Tax Act, and r. 7 dealt with computation of "net turnover".
+Fact	In r. 7(1) by cls.
+Fact	(a) to  (k) certain exemptions admissible in the computation of the net turnover were set out.
+Fact	By notification No.
+Statute	SRI-1643-51- RD dated March 31, 1951 it was directed that with effect from April 1, 1951, the following clause shall be added :  "(1) all amounts of sales-tax collected by the dealer."
+RulingByLowerCourt	By this amendment in the computation of the taxable turnover, the amounts of sales tax collected by the dealer were not to be included.
+RulingByLowerCourt	But this amendment was to have effect only from April 1, 1951, and in the proceeding in this appeal ta x-liability for the assessment period ending March 31, 1951 fell to be determined.
+RulingByLowerCourt	(1) [1964] 5 S. C. R. 517.
+Fact	(2) [1966] 1 S. C. R. 64.
+Fact	(3) L. R. 67 1.
+Fact	A.
+Argument	222.
+Argument	588  The exemption was therefore inoperative in the computation of taxable turnover for the assessment year in question.
+Argument	Counsel for the.
+Argument	respondents however contended that the effect of the amendment w s merely to clarify what was implicit in the content of the expression "turnover".
+Argument	By s. 2(k) "turnover" means-insofar as the definition is relevant "the aggregate amount for which goods are either bought by or sold by a dealer, whether for cash or for deferred payment or other valuable consideration "Turnover" being the aggregate amount for which goods are bought or sold, and normally the aggregate amount would include such amount as the purchaser pays to the dealer for the goods, the expression "aggregate amount for which goods are .
+Argument	.
+Argument	.
+Argument	sold" within the meaning of "turnover" in s. 2(k) would include the amount of sales-tax received by the dealer.
+Argument	There is no provision in the Act which may' by implication suggest that from the connotation of the expression 'turnover' the sales tax collected in the year of assessment ending March 31, 1951 was to be excluded.
+Argument	Exclusion prescribed by cl.
+Argument	(1) of r. 7(1) enacted with effect from April 1, 1951 is not clarificatory, but prescribes an additional head in the computation of net turnover.
+Argument	This Court in <CITATION_331067> (1) in dealing with the question whether sales tax charged by the dealer may be excluded within the meaning of the expression "turnover" as used in the Madras General Sales-Tax Act, 1939, observed:  "Under the definition of turnover the aggregate amount for which goods are' bought or sold is taxable.
+Argument	This aggregate amount "includes the tax as part of the price paid by the buyer.
+Argument	'the amount goes into the common till of the dealer till he pays the tax.
+Argument	It is money which he keeps using for his business till he pays it over to <ORG>.
+Argument	Indeed, he may, turn it over again and again till he finally  hands it to <ORG>.
+Argument	There is thus nothing anamolous in the law treating it as part of the amount on which tax must be paid by him.
+Argument	This conception of a turnover is not new.
+Argument	It is found in England and America and there is no reason to think that when the legislatures in India defined turnover' to include tax also, they were striking out into something quite unknown and unheard of before."
+Argument	Counsel for the respondents contended that these observations made in interpreting the terms of the Madras General Sales tax (Definition of Turnover and Validation of Assessments) Act, 1954, have no bearing on the interpretation of the expression "turnover"' as in the Travancore-Cochin General Sales tax Act.
+Precedent	But the (1) [1962] 2 S.C.R.
+Precedent	570 : A.I.R.
+Precedent	1962 S. C. 1037.
+Precedent	589  observations made by the <ORG> were not made in the context of any special statute.
+Precedent	There was in the Travancore-Cochin General Sales-tax Act at the material time no express provision which obliged the taxing authority to exclude from the computation of  taxable turnover the amount of sales-tax collected by the dealer.
+Precedent	The argument of counsel for the respondents that the taxing authority has infringed a prohibition imposed upon him has therefore no substance.
+RulingByPresentCourt	The appeal is therefore allowed and the suit is dismissed.
+RulingByPresentCourt	There will be no order as to costs throughout.
+RulingByPresentCourt	Appeal allowed.
+RulingByPresentCourt	M11 Sup.C.I/66-6

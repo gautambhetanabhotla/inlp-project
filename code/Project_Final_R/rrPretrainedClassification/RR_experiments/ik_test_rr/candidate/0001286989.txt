@@ -1,0 +1,44 @@
+Fact	JUDGMENT  1.
+Fact	The only question for decision in this second appeal is whether the application for execution is barred by limitation.
+Fact	It was presented within three years of a prior application which was signed and put into <ORG> on behalf of the decree-holder by an agent.
+Fact	The question is whether that application was one presented in accordance with law, and that depends on whether the agent who presented it was one holding a general power of attorney and as such authorized to sign and present the petition under Section 37 of the repealed Code of Civil Procedure or one having a special power of attorney and not qualified to do so.
+Fact	2.
+Fact	The power of attorney under which the agent acted authorised him to present applications for execution, to realize the amount due to the decree-holder, to compromise the claim and to do all other acts relating to the excution of the decree.
+Fact	The lower <ORG>s have held that the agent had a special power of attorney.
+Fact	In taking this view they were much influenced by the fact that the p ower of attorney was executed on a stamp paper of the value of one rupee only.
+RatioOfTheDecision	It need hardly be stated that the legal nature of a document must be determined by its contents and not by the value of the stamp duty paid for it.
+RatioOfTheDecision	If a stamp of the appropriate value was not used for executing a document, that is a matter to be dealt with according to the rules provided for such cases.
+RatioOfTheDecision	The expression "general power of attorney" has not been defined either in the Civil Procedure Code or in any other statute; nor has any case been brought to our notice which could be regarded as giving an authoritative decision on the question.
+RatioOfTheDecision	But according to the view accepted by eminent lawyers there can be no doubt that the agent in this case had a general power of attorney.
+Statute	<NAME> in his work on Agency, Section 17, says: "a special agency properly exists where there is a delegation of authority to do a single act; a general agency properly exists where there is a delegation to do all acts connected with a particular trade, busin ess or employment.
+RatioOfTheDecision	Thus, a person, who is authorised by his principal to execute a particular deed, or to sign a particular contract or to purchase a particular parcel or merchandise, is a special agent.
+RatioOfTheDecision	But a person who is authorized by his principal to execute all deeds, sign all contracts, or to purchase all goods required in a particular trade, business or employment is a general agent in that particular trade, business, or employment."
+Statute	In <NAME> on Contract Vol I, p 39 a special agent is defined as one authorised "to do one or two particular things" and a general agent as one authorised "to transact all his principal's business or his business of a particular kind."
+Precedent	In Halsbury's Law of England, Vol.
+Precedent	I, p. 152 the following explanation is given.
+Precedent	"A special agent is one who has anything to act for some special occasion or purpose which is not within the ordinary course of his business or profession.
+Precedent	A general agent is one who has authority arising out of and in the ordinary course of his business or prof ession to do some act or acts on behalf of his principal in relation thereto or one who is authorised to act on behalf of the principal generally in transactions of a particular kind or incident to a particular business."
+Precedent	The statement in the Encyclopedia of the Laws of England, 1st edition Vol.
+Precedent	10 p. 263 is similar.
+Precedent	In <ORG>, Vol.
+Precedent	2, p. 714 the statement is "a general power authoriseS an agent to act generally on behalf of the principal; and a special power is one limited to particular acts."
+Precedent	See also American Cyclopaedia of Laws and Procedure Vol.
+Precedent	31, p. 1338, <NAME> v. <NAME> (1818) 3 H. & N. 554 and <NAME> v. <NAME> (1861) 9 C.B.
+Precedent	(N.S.)
+Precedent	592 S.C. 30 L.J.C.P.
+Precedent	223.
+RatioOfTheDecision	The same conception seems to underlie Article 48 of Schedule I to the Indian Stamp Act .
+RatioOfTheDecision	Clauses (a), (b) and (c) relate to an authority for procuring the registration of a document or documents or admitting the execution of one or more of such documents for registration, for acting in any other manner "in a single transaction."
+RatioOfTheDecision	Cla use (d) which apparently relates to a general power of attorney speaks of authority to not more than five persons "to act jointly and severally in more than one transaction or generally; Clause (e) relates to a similar authority to more than five but not more than ten persons.
+RatioOfTheDecision	The expression "a single transaction" seems to apply either to a single act or to acts so related to each other as to form one judicial transaction such as all the acts necesary to perfect a mortgage or a sale of a particular property.
+RatioOfTheDecision	This interpretation would be in accordance with the distinction between a special agent and a general agent as set forth in the authorities already referred to.
+RatioOfTheDecision	3.
+RatioOfTheDecision	According to this view, when a power of attorney authorises a person to do all things and take all steps which may be necessary to complete the execution of a decree, it must in our opinion be regarded as a general power of attorney.
+RatioOfTheDecision	The acts to be done might be of various and numerous kinds and could not be regarded as constituting one legal  transaction.
+RatioOfTheDecision	We may observe that the question has become immaterial under the New Code of Civil Procedure.
+RatioOfTheDecision	Order III Rule 2 in describing the kind of agent by whom appearances, applications and acts may be made or done on behalf of a party uses wider language, viz., "persons holding powers of attorney, authorising them to make and do such appearances, applications and acts on behalf of such parties."
+RatioOfTheDecision	4.
+RatioOfTheDecision	We hold that the previous application for execution in this case was presented by an agent having a general power of attorney and it was therefore one presented in accordance with law.
+RatioOfTheDecision	It follows that the present application is not barred by limitation.
+RulingByPresentCourt	We reverse the order of the <ORG> below and remand the application to the court of first instance to be disposed of according to law.
+RulingByPresentCourt	The Costs in this and in the lower appellate <ORG> will abide the result.

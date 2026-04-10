@@ -1,0 +1,89 @@
+Fact	JUDGMENT  1.
+Fact	The learned Trial Judge in this case, which is a claim by a grandson against his grandmother, was asked to take into consideration a document which purports to be a deed of compromise dated 28th December 1918.
+Fact	In that document, there is a statement that House No.
+Fact	27 in Thatha Muthiappan Street belonging to the said Ranganayakamma, that is the grandmother, and another house with which nobody in this case is concerned, which are in possession and enjoyment of the said Ranganayakamma from the date of the purchase, shall be enjoyed by the said Ranganayakamma with power to make gift and sell away.
+RatioOfTheDecision	The learned Vakils have argued this case with great preciseness and^ Mr. <NAME> for the appellant does not ask us to say that there is any magic about this document because it is in the nature of a nominal settlement which would excuse it from registration.
+RatioOfTheDecision	It has been held by the learned Trial Judge on the argument of the respondent that it does require registration and to test that, I must look a t the section of the Registration Act which is material, and' that is Section 17 .
+Fact	By Section 17(1)(b) among documents which require registration are nontestamentaly instruments which purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent of the value of Rs.
+Fact	100 and upwards, to or in immoveable property.
+RatioOfTheDecision	Now it is said that this part of the document is a declaration of right in immoveable property and that, therefore" by virtue of Section 49 , the document would create no rights in the property in question.
+RatioOfTheDecision	It is said, on the other side, that this is not a document which purports to create or modify in any way anybody's title to immoveable property.
+RatioOfTheDecision	It is simply a statement of fact, as I said in the course of the argument, that <NAME>'s house is <NAME>'s house.
+RatioOfTheDecision	To my mind this matter cannot be put better than in the words of <ORG>, in the case of <NAME> v. <NAME> 5 B.
+RatioOfTheDecision	232 : 3 Ind.
+RatioOfTheDecision	Dec.
+RatioOfTheDecision	(N.S.)
+RatioOfTheDecision	154, where the learned Judge says thus : "Here, however, the document is not itself one which declares a right in immoveable property, in the sense probably intended by Section 17 .
+RatioOfTheDecision	There 'declare' is placed along with 'create', 'assign', limit', or 'extinguish', a 'right', 'title' or 'interest' and these words imply a definite change of legal relation to the property by expression of <NAME> embodied in the document referred to.
+RatioOfTheDecision	I think this is equally the case with the word 'declare'.
+RatioOfTheDecision	It implies a declaration of <NAME>, not a mere statement of fact, and thus a deed of partition, which causes a change of legal relation to the property divided amongst all the parties to it, is a declaration in the intended sense, but a letter containing an admission, direct or inferential, that a partition once took place, does not declare a right within the meaning of the section.
+RatioOfTheDecision	It does in one sense 'declare' a right, that is the existence of the right is directly or indirectly stated by the writing, but it is not  the expression or declaration of Will by which the right is constituted."
+RatioOfTheDecision	I wish to associate myself with all that the learned Judge says on the point.
+Precedent	It does not, appear to me that any of the later decisions, whether of <ORG> or of the other <ORG> in India, have, in any way, modified it, and indeed in one case in which in its initial stage I was concerned, the case of <CITATION_861606> 53 Ind.
+Precedent	Cas.
+Precedent	901 : 43 M. 244 : (1919) M.W.N.
+Precedent	724 : 10 L.W.
+Precedent	679 : 24 C.W.N.
+Precedent	346 : 38 M.L.J.
+Fact	313 : 18 A.L.J.
+Fact	274 : 2 U.P.L.R.
+Fact	(P.C.)
+Precedent	64 : 22 Bom.
+Precedent	L.R.
+Precedent	444 : 46 I.A.
+Precedent	285 (P.C.
+Precedent	), it appears to me that the judgment of the Board entirely -recognises and proceeds on the principle laid down in the Bombay case by <NAME>, J.
+Precedent	Now it is said by Mr. <NAME> that the document is conclusive of the rights of the parties if not as to moveable property, certainly as to immoveable property and he relies mainly on the decision of <CITATION_157516> 10 Ind.
+Precedent	Cas.
+Precedent	477 : 33 A.
+Precedent	356 : 15 C.W.N.
+Precedent	545 : 8 A.L.J.
+Precedent	552 : 13 C.L.J.
+Precedent	57 5 : 13 Bom.
+Precedent	L.R.
+Precedent	427 : 10 M.L.T.
+Precedent	25 : (1911) 1 M.W.N.
+Precedent	432 : 21 M.L.J.
+Precedent	645 : 38 I.A.
+Precedent	87 (P.C.
+Argument	), a <ORG> case.
+Argument	The passage he relied on is a sentence which runs as follows:--"In the present case, <NAME> acquired no right from the daughters of <NAME> for 'the compromise', to use their lordships' language in <NAME> v. <NAME> 1 I.A.
+Precedent	157 : 13 B.L.R.
+Precedent	312 : 3 Sar.
+Precedent	P.C.J.
+Precedent	314 (P.C.
+Precedent	), 'is based on the assumption that there was an antecedent title of some kind in the parties and the agreement acknowledges and defines what that title is.'
+Precedent	"Turning to <NAME> v. <NAME> 1 I.A.
+Precedent	157 : 13 B.L.R.
+Precedent	312 : 3 Sar.
+Precedent	P.C.J.
+Precedent	314 (P.C.
+Precedent	), I find their lordships say at page 166, after the sentence quoted in <CITATION_157516> 10 Ind.
+Precedent	Cas.
+Precedent	477 : 33 A.
+Precedent	356 : 15 C.W.N.
+Precedent	545 : 8 A.L.J.
+Precedent	552 : 13 C.L.J.
+Precedent	575 : 13 Bom.
+Precedent	L.R.
+Precedent	427 : 10 M.L.T.
+Precedent	25 : (1911) 1 M.W.N.
+Precedent	432 : 21 M.L.J.
+Precedent	645 : 38 I.A.
+Precedent	87 (P.C.
+Argument	): "The claim does not rest on contract only but upon a title to the land acknowledged and defined by  that contract which is part only of the evidence of the appellant to prove her title and not all her case."
+RatioOfTheDecision	That seems to me to allow that the document is admissible in evidence either as a contract to acknowledge an existing title or perhaps as evidence in the nature of an admission.
+RatioOfTheDecision	At any rate, in my opinion, it is only part of the case of the appellant and it is not a conclusive document on which we can declare rights with regard to immoveable property.
+RatioOfTheDecision	2.
+RatioOfTheDecision	With regard to moveable property in the suit, no doubt the registration objection would not apply, but I gather from the learned Judge's judgment that, besides the plea of want of registration, it was alleged that the document was executed by the next friend in consequence of a misrepresentation made to her and of her negligence.
+RatioOfTheDecision	That being so, I think we must send the case back for re-hearing although the learned Judge has dealt with most of the other evidence.
+RatioOfTheDecision	We think that, for this Court satisfactorily to deal with the matter, we ought to have the  opinion of the learned Judge on the force of the evidence as a whole and it may be that, considered in the light of documents which we have now held admissible, his former opinion as to the rest of the evidence would perhaps require modification and we think that this is a process which ought to be gone through by the Court of the first instance.
+RatioOfTheDecision	3.
+RulingByPresentCourt	We, therefore, remand the case for rehearing.
+RulingByPresentCourt	The appellant will have his costs of this appeal and the costs incurred in the Court below will be in the discretion of the Trial Judge.
+RulingByLowerCourt	4.
+RulingByLowerCourt	The re-hearing will be confined to Items Nos.
+RulingByLowerCourt	3, 5, 6 of Schedule I and Schedule II.
+RulingByLowerCourt	As regards the other items in the plaint Schedule, the decree of the Original Side will be confirmed.
+RulingByLowerCourt	5.
+RulingByLowerCourt	The parties will pay and receive proportionate costs.

@@ -1,0 +1,142 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The assessee in this case is a company registered under the Indian Companies Act .
+Fact	For the assessment year 1971-72, corresponding to the accounting year ending August 31, 1970, the assessee filed its return to income of Rs.
+Fact	1,66,00,810.
+Fact	In the statement accompanying the said return, the assessee has valued the stock-in-trade as on August 31, 1970, as follows.
+Fact	___________________________________________________________________ As on Stock-in-trade 31-8-1970 31-8-1969 ____________________________________________________________________ Rs.
+Fact	Rs.
+Fact	Raw material at cost 65,79,277 78,30,468 Work-in-progress at cost 20,09,266 24,96,856 Finished goods, at lower cost and net realisable value 32,09,437 40,05,522 Other goods at cost 49,471 82,266 ----------------------------------- 1,18,47,487 1,44,15,112 ____________________________________________________________________  2.
+Fact	However, the assessee filed a revised return on July 25, 1972, showing the total income at Rs.
+Fact	1,48,20,481.
+Fact	Along with i ts return, the assessee appended a latter to the effect that Rs.
+Fact	17,80,329, the difference between Rs.
+Fact	1,66,00,810 and Rs.
+Fact	1,48,20,481, did not represent the profits of the assessee for the year ending August 31, 1970, as that sum represented part of the value of the closing stock of finished goods as on August 31, 1970.
+Fact	The <ORG> required the assessee to furnish information about the basis of the valuation of the closing stock.
+Fact	The assessee by its letter dated December 22, 1973, had stated that the basis of the valuation of the closing stock was as follows :  1.
+Fact	Raw materials at cost 2.
+Fact	Work-in-progress at direct cost 3.
+Fact	Finished goods at direct cost 4.
+Fact	Other goods at cost  3.
+Fact	In that letter the assessee also pointed out that it has been following the mercantile system of accounting, and that there is no change in the said method of accounting followed by it, but that it has changed only the manner of valuation of certain items (of closing stock), that while the valuation of closing stock in respect of all ite ms in the earlier years was being done at cost, which term was understood to be "total cost", the valuation in respect of the accounting year ended August 31, 1970, has been changed in respect of "work-in-progress" and "finished goods" from "total cost" to " direct cost" and that the difference between the total cost and the direct cost is that in the cost, the overheads such as administrative department expenses are excluded, while in the total cost such overheads are included.
+Fact	The <ORG> sought further elucidation from the assessee as to what is meant by "total cost" and "direct cost", and as to what was the difference between the method of ascertaining the cost.
+Fact	The assessee by its letter dated January 1, 1974, submitted that the "total cost" would include the following 15 items :  (1) Depreciation (2) Rent (3) Rates and taxes (4) Repairs and maintenance (supplies and services) (5) Insurance (6) Shipping (7) Packing (8) Salaries and perquisites - Supervisory and ancillary staff (9) Postage, telegrams and tele phones (10) Printing and stationery (11) Travailing (12) Audit fees (13) Advertising (14) Professional charges (15) Technical fees while "direct cost" would include only the following components :  (1) Raw materials (2) Power (3) Fuel (4) Direct labour, wages (5) Direct labour and overtime (6) Holiday pay (7) Fringe benefits, bonus, E.S.I., P.F.
+Fact	(8) Production department :  Supervisory staff : Salary " " Overtime and fringe benefits (bonus and P.F.)
+Fact	;  that it has bona fide valued the closing stock at "direct cost" and that this new method of valuation is not for any casual period but it would be adopted consistently in future from year to year and that the new basis adopted is based upon accepted principles of commercial practice.
+Fact	The <ORG>, however, held that the sum of Rs.
+Fact	17,80,329, which represented the difference in the value of the closing stock as per the new method of valuation and the old method valuation, is to be added back and the reasons given by him may be given in his own words :  "The assessee  has been valuing the closing stock of finished goods and work-in-progress at full cost.
+Fact	In addition to the direct cost, production overheads were also taken into account in valuing the unsold stock.
+Fact	The opening stock of the previous year, therefore, includes such part of the production overheads incurred in the preceding previous years at it is attributable to the unsold stock and work-in-progress at the close of that previous year.
+Fact	The assessee has made a departure from the method regularly adopted in the earlier years and for the first time has valued the stock as on August 31, 1970, at part (sic) of the cost, (viz., direct cost).
+Fact	The undervaluation works out to Rs.
+Fact	17,80,329, though attributable to the unsold stock, is being claimed by the assessee as relating to the goods sold.
+Fact	The valuation adopted this year regardless of the market value or full cost is not only arbitrary but is also inconsistent.
+Fact	By the adoption of the full cost method for valuing the opening stock and the partial cost method for val uing the closing stock, the assessee seeks to claim a part of the production overheads of the earlier year and thereby understate the income of the previous year by Rs.
+Fact	17,80,329 or by a corresponding amount included in the opening stock.
+Fact	As the method newly adopted does not reflect the true profits of the previous year and as the assessee has not reduced the opening stock valued o the basis of the new method, I have no other alternative but to add back the sum of Rs.
+Fact	17,80,329 representing undervaluation of the closing stock of the previous year -Rs.
+Fact	17,80,329".
+Argument	4.
+Argument	The assessee appealed to the <ORG> seeking deletion of the said amount of Rs.
+Argument	17,80,329.
+Argument	The <ORG> accepted the assessee's contention and held that there are various methods of closing stock valuation, that one of the recognised methods is "cost or market value, whichever is lower", that the assessee has been following the "cost method" so far but in the relevant assessment year it has switched over from "actual cost" to "direct cost" and that in tha t process the value of the closing stock as on August 31, 1970, went down by Rs.
+Argument	17,80,329 and, therefore, the assessee who has bona fide switched over to the "direct cost" basis, not temporarily but permanently, should be allowed to change the method of valuation.
+Argument	The <ORG>, however, gave a direction to the <ORG> to work out the value of the opening stock as on September 1, 1969, also at direct cost or market price basis, whichever is lower, and recompute the profits.
+Argument	5.
+Fact	Against the said decision of the <ORG>, the assessee went in appeal contending that it is entitled to change the method of valuation only in relation to closing stock without revaluing the opening stock and that, therefore, the direction issued by the <ORG> to revalue the opening stock is not sustainable.
+Fact	The <ORG> filed an appeal before the <ORG> questioning the finding of the <ORG> that the assessee is entitled to change the method of valuation and seeking to sustain the order of the <ORG> holding that the closing also should be valued on "total  cost" basis as was done for the opening stock.
+RulingByLowerCourt	6.
+RulingByLowerCourt	The <ORG> upheld the order of the <ORG> holding that the change in the method of valuation has been adopted by the assessee bona fide and that method of valuation is to be adopted in future year after year, that it is not only for the particular assessment year and that, therefore, the change in the method of valuation of the closing stock can be accepted.
+RulingByLowerCourt	The <ORG> also upheld the contention of the assessee that it is entitled to adopt "direct cost" method only for the closing stock.
+RulingByLowerCourt	Aggrieved by the decision of the <ORG>, the <ORG> has sought and obtained a reference on the following question of law to this court for its opinion :  "Whether, on the facts and in the circumstances of the case, the Appellate <ORG> was right in deleting the addition of Rs.
+RulingByLowerCourt	17,80,329 representing the difference on account of revaluation of closing stock on direct cost basis for the assessment year 1972-73 ?"
+RulingByLowerCourt	7.
+RulingByLowerCourt	Thus, the <ORG> has proceeded on the basis that it is no t open to the assessee to change the method of valuation for closing stock alone and, therefore, the closing stock should be valued at the same method as was applied to the opening stock.
+RulingByLowerCourt	He, therefore, held that since the opening stock has been valued as per the total cost method, the same method should be adopted for closing stock also.
+RulingByLowerCourt	The <ORG>, however, held that the assessee is entitled to change the method of valuation from "total cost" to "direct cost" but that he must adopt that valuation even for the opening stock.
+RulingByLowerCourt	The <ORG> has held that this being the first year in which the method of valuation of the stock is changed from "total cost" to "direct cost", the assessee is entitled to value the closing alone on "direct cost" method.
+RatioOfTheDecision	Thus, the authorities below have taken three different views.
+RatioOfTheDecision	8.
+RatioOfTheDecision	As already stated, both the <ORG> and the <ORG> have found that the change in the method of valuation of the stock from "total cost" to "direct cost" is bona fide, a that it is intended to be followed cons istently from year to year and that the change is not restricted for a particular period.
+RatioOfTheDecision	Before us the said finding has not been challenged.
+RatioOfTheDecision	Therefore, we have to proceed on the basis that the assessee is entitled to change the method of valuation of the stock from "total cost" to "direct cost".
+RatioOfTheDecision	The difference between the view taken by the <ORG> and the <ORG> is that while the <ORG> felt that the new method of valuation of stock should be adopted both for closing and opening stock, the <ORG> has held that being the first year when the change is contemplated on a permanent basis, the closing stock alone can be valued on the new basis leaving the value of the opening stock arrived at as per the total cost method intact.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The main contention of the <ORG> in this case is that the change in the method of valuation stock should be applied both to the opening stock as well as closing stock, which alone will indicate the true or real profits as has been held in <CITATION_670728> .
+RatioOfTheDecision	4 ITC 245 (PC), and that it  is not open to the assessee to apply the new method to the closing stock alone without reference to the opening stock.
+RatioOfTheDecision	Thus, according to the learned counsel for the <ORG>, whatever be the method of valuation adopted by the assessee, it should be applied to both the opening and closing stock, as otherwise it will give a distorted picture of the assessee's income.
+RatioOfTheDecision	The <ORG>'s reasoning for rejecting this contention of the <ORG> is that so far as the first year when the change is introduced is concerned, there is bound to be a slight distortion in the profits but that will get adjusted in course of time as the new method of valuation of stock is going to be applied on a permanent basis year after year.
+RatioOfTheDecision	10.
+RatioOfTheDecision	On a due consideration of the matter, we are inclined to agree with the view of the <ORG>.
+RatioOfTheDecision	If the assessee is called upon to apply the new method of valuation to the opening stock of the accounting year as well, then, in consequence, the value of the closing stock of the year previous to the accou nting year will also get altered and that will result in the modification of the assessment for the previous year.
+RatioOfTheDecision	It is for this reason the <ORG> has stated that thought by adoption of the new method of valuation for the closing stock alone the <ORG> may appear to get some unintended benefit, in course of time it will get adjusted and the <ORG> will not be a loser.
+RatioOfTheDecision	Even apart from this reason, if the <ORG>'s contention that the new method should be adopted both to opening stock and closing even in the first year of the introduction of the new method is accepted, then it will lead to the position that the <ORG> cannot at all change the method or the <ORG> has to revalue the closing stock of the previous year which will be the opening stock of this year, and such a revaluation on the new basis as per the <ORG> is not ordinarily possible.
+RatioOfTheDecision	That when a new method of valuation of stock is adopted in any particular year, the <ORG> can on that basis leave intact the valuation of the opening sto ck on the old method has been laid down in a series of cases.
+RatioOfTheDecision	11.
+RatioOfTheDecision	<CITATION_127231> , <ORG> has observed (headnote) :  "It is a misconception to think that any profit ' arises out of the valuation of the closing stock ' and the situs of its arising or accrual is where the valuation is made.
+RatioOfTheDecision	Valuation of unsold stock at the close of an accounting period is a necessary part of the process of determining the trading results of that period, and can in on sense be regarded as the ' source' of such profits."
+Argument	12.
+Argument	<CITATION_1819721>  44 ITR 22 (Mad), it was held that the assessee had the option of valuing the closing stock either at cost or at market value if the market value is less than the cost price and when the assessee bona fide changes his method of accounting and satisfies the <ORG> that he intends to adopt the changed method, he has in fact satisfied the requirements of s. 13 of the Indian I.T.
+Argument	Act, 1922, that unless the books maintained on the basis of the method of accounting so; changed , bona fide, fall within the mischief of the proviso to s. 13 of the Indian I.T.
+Argument	Act, 1922, the assessee is entitled to have his changed method of accounting can be made only once by the assessee.
+Argument	In that case, originally the assessee was following the closing stock at "market value" and he proposed to change the method into "cost".
+Argument	When the change in the method of valuation of the closing stock was not accepted by the income-tax authorities on the ground that the change in the basis of valuation of the stock was highly detrimental to the <ORG> and that the assessee could not be allowed to deduct in one year loss attributable to and spread over many years, the matter was taken to this court, and this court held that the method of valuation of the stock was an integral part of the mercantile system of accounting, the valuation of the closing stock at the market rate and adopted regularly thereafter should be accepted by the <ORG>, that that the change in the method of valuation was detrimental to the <ORG> ue was not a relevant factor in deciding whether the assessee had a right to change the basis of valuation, that in deciding whether the change method of valuation of closing stock attracted the proviso to s. 13 , it was not a correct approach to see whether the losses of previous years would also enter into the claim made by the assessee for the accounting year and that national or anticipatory loss resulting from a valuation of the closing stock, which an assessee was permitted to take into account in ascertaining his trading profits, stood on no different footing.
+Argument	<CITATION_1769355>  63 ITR 51, <ORG> has expressed the view that an assessee is entitled to value the closing stock of any account year either at cost price or market value, whichever is lower, that thought the value of the closing stock must be the value of the opening stock and closing stock of the same accounting year and that the course adopted by the <ORG> in that case of revaluing the opening stock of 1949-50 at cost merely  because the assessee had valued the closing stock at cost was not justified in law.
+RatioOfTheDecision	In that case, the assessee had valued his closing stock of the assessment year 1948-49 at the market rate and the same value was shown for the opening stock of 1949-50.
+RatioOfTheDecision	The closing of 1949-50 was valued at cost price which was much less.
+RatioOfTheDecision	The <ORG> revalued the opening stock of 1949-50 at cost price with the result the value of the opening stock of 1949-50 different from the value of the closing stock of the earlier year 1948-49.
+RatioOfTheDecision	It is in those circumstances the court held that the course adopted by the <ORG> was not justified in law and the assessee is entitled to value the closing stock for 1949-50 at cost price or market value whichever is lower.
+RatioOfTheDecision	13.
+RatioOfTheDecision	<CITATION_423432>  51 ITR 329 (<NAME>), the assessee which had purchased a lot of spares and stores for machinery from the war disposals in 1947 and used to value its stock at cost, wrote off seventy-five per cent.
+RatioOfTheDecision	of the book value of the spare parts and stores on the last date  of the accounting year 1956-57 on the basis of a certificate of an engineer that twenty-five per cent.
+RulingByLowerCourt	of original value can be taken to be the market value, and claimed a sum of Rs.
+RulingByLowerCourt	1,41,035 as loss on revaluation of stores and spares but continued to value the stock of stores and spares at their market value in subsequent years.
+RulingByLowerCourt	The claim was disallowed on the ground that such a change of method could not be allowed previous years.
+RulingByLowerCourt	<ORG> had in that case expressed the view that the assessee was entitled to change his method of valuation of stock in this matter even though the <ORG> may be affected adversely by such change, that it is a concession given to the assessee based on the well-recognised usage of the trade, and the principle underlying that concession is in no way violated when the assessee changes his method of valuation from cost to market value, when the latter is less than the cost price, provided the change is bona fide and the new system is continued in subsequent years and,  therefore, the assessee is entitled to claim the deduction of Rs.
+Precedent	1,41,035.
+Precedent	In that case the decision of this court in <CITATION_1819721>  44 ITR 22, was referred to and followed.
+Precedent	14.
+RatioOfTheDecision	<CITATION_740702>  99 ITR 574, <ORG> had to deal with a similar situation.
+RatioOfTheDecision	In that case the assessee has valued the closing stock as on December 31, 1959, on the basis of the invoice value plus appropriate customs duty and other charges on ad hoc basis, but valued its closing stock on December 31, 1960, without adding customs duty and other charges.
+RatioOfTheDecision	In order to bring the two on the same level, proportionate customs duty and other charges estimated at Rs.
+RatioOfTheDecision	40,000 were added by the income-tax authorities to the value of the closing stock shown by the assessee and <ORG> confirmed the addition.
+RatioOfTheDecision	When the matter was taken up to the court, <ORG> observed that they are not expressing any opinion in favour of one method of valuation of the closing stock or the other, that though the opening  stock for the year under reference was loaded with the value of the proportionate costs of customs duty, freight and handling charges and the closing stock was not loaded with such costs, in order to bring the two on the same level, it is necessary to disturb the valuation either of the opening stock or of the closing stock.
+RatioOfTheDecision	This decision which was relied on by the learned counsel for the <ORG> should be confined to the facts of that case as the court refused to direct a reference on the ground that no question of law arose out of the order of the <ORG>.
+RatioOfTheDecision	15.
+Fact	<CITATION_392500>  104 ITR 487 (Bom), was a case where the assessee had valued his closing stock for the assessment year 1960-61 differently from the value should necessary be the closing stock for the same previous year 1959-60, the <ORG> issued a notice to the assessee for re-opening the assessment for the year 1959-60.
+Fact	The assessee filed a return making addition to the value of the closing stock for that year.
+Fact	When the reassessment was made, the a ssessee filed an appeal seeking addition of the same amount to the opening stock of the assessment year 1959-60.
+Fact	That was refused on the ground that the <ORG> has filed a return revaluing only the closing stock of the previous year and not the opening stock of the previous year.
+RatioOfTheDecision	When the matter came before <ORG>, the court rejected the contention of the <ORG> that proper adjustment on account of the undervaluation of the opening stock for the year 1959-60 should have been allowed.
+RatioOfTheDecision	Though normally the value of the opening stock and the closing stock in a particular assessment year should be the same, the court in that case has contemplated the possibility of the closing stock being different from the opening stock.
+RatioOfTheDecision	16.
+RatioOfTheDecision	It is well-established, as pointed out by <ORG> in <CITATION_1330871> , that whichever method of book-keeping is adopted, in the case of a trading venture, for computing the true profits of the year stock-in-trade must be taken into account and must be taken into acco unt and if the value in the of the stock-in-trade is not taken into account in the ultimate result the profit or loss resulting from trading is bound to get absorbed or reflected in the stock-in-trade unless the value of the stock-in-trade remains unchanged, at the commencement of the year and at the end of the year.
+RatioOfTheDecision	It is, therefore, necessary to value the stock-in-trade at the end of the year by adopting a sound commercial practice of valuing the stock either at cost or market price, whichever is lower.
+RatioOfTheDecision	In this case the <ORG> has been adopting total cost method of valuing the closing stock till the beginning of the accounting year.
+RatioOfTheDecision	During the accounting year the <ORG> has changed the method of valuation of stock from "total cost" to "direct cost" methods is that in a total cost method, certain overheads are added while in the direct cost method the same overheads are excluded.
+RatioOfTheDecision	17.
+RatioOfTheDecision	It is not the contention of the <ORG> that the adoption of the direct cost method in the valuation of the closing is no t a sound commercial practice.
+RatioOfTheDecision	As a matter of fact, <ORG> in <NAME> v. <ORG> [1961] 2 All ER 167, had recognised the "direct cost" method as one of the recognised methods in commercial practice.
+Fact	In that case in the computation of profits, for purposes of income-tax and the profits tax, of a company producing motor vehicle bodies to order, work-in-progress had been consistently valued by the company by the "direct cost" method since 1924 and that method had been accepted by <ORG>.
+Fact	By "direct cost" method, the value of the work-in-progress comprised the direct cost of the materials and labour used in the work.
+Fact	In the assessment year 1951-52, <ORG> claimed that the "on cost" method of assessing the work-in-progress should be employed.
+Fact	Under the "on cost" method, the value included a proportion of the indirect expenditure such as business overheads.
+Fact	In the year of assessment 1951-52, the application of the "direct cost" method would result in the valu e of the work-in-progress being Pounds 2,000 less at the end of the year than at the beginning.
+Fact	The employment of the "on cost" method would result in the valuing beginning Pounds 14,000 more at the end of the year than at the beginning.
+Fact	The increase of Pounds 14,000 was due to the fact that a higher proportion of the overheads were attributed to work-in-progress at the end of the year than at the beginning owing to a slackening of business during the year and consequential increased costs of production.
+Fact	There had been no other change of circumstances.
+Fact	The court found that different accountants were applying either one or the other of the two methods producing a true figure of profit.
+RulingByLowerCourt	On the question as to which of the method of valuation should be applied for valuing the work-in-progress in the case, the court held in determining what, in the circumstances of a particular business, was the figure which fairly represented the costs of the work-in-progress as per the method employed consistently since 1924, th e <ORG> has not discharged the burden of showing good reason that the method should be changed to the "on cost" method and, therefore, the assessee is entitled to continue to adopt the "direct cost" method as before.
+RulingByLowerCourt	18.
+RulingByLowerCourt	Thus, the adoption of "direct cost" method by the assessee cannot be questioned by the <ORG> as it has been found by the <ORG> that the adoption of this method is bona fide and is a permanent arrangement.
+RulingByLowerCourt	The <ORG>'s only contention is that it has shown to be prejudicial to the <ORG>.
+RulingByLowerCourt	As pointed out in <CITATION_127231> and <CITATION_1819721>  44 ITR 22 (Mad), merely because the new method adopted by the assessee was detrimental to the <ORG>, that alone can never be the basis for denying the right to change the method.
+RulingByLowerCourt	Further, even though the change of the method has resulted in a detriment to the <ORG> in the year in question, since the method is to be followed consistently year after year in future, this apparent detriment to the <ORG> will get adjusted and disappe ar.
+RulingByLowerCourt	Therefore, in view of the findings of the <ORG> that the change of the method is bona fide and is intended to be followed in future, year after year, the change has to be accepted by the <ORG>, notwithstanding the fact that during assessment year which is the first year when change of method is brought about it has resulted in a prejudice or detriment to the <ORG>.
+RulingByLowerCourt	So long as the method of valuation adopted by the assessee gets recognition from the practising accountants and the commercial world for valuation of stock-in-trade, the adoption of that method cannot be questioned by the <ORG> unless the adoption of that method is found to be not bona fide or restricted for a particular year.
+RulingByLowerCourt	19.
+RulingByLowerCourt	In view of the above discussion, we answer the question referred to us in the affirmative and against the <ORG>.
+RulingByLowerCourt	The <ORG> will pay the costs of the assessee.
+RulingByLowerCourt	Counsel's fee Rs.
+RulingByLowerCourt	500.

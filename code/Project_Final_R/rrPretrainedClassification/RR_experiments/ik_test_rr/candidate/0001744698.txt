@@ -1,0 +1,42 @@
+Fact	JUDGMENT  1.
+Fact	This is a Rule calling upon the District Magistrate of Mymensingh to show cause why the orders of the District Judge of Mymensingh, dated the 28th October 1925, and 11th November 1925, should not be set aside or such other or farther order made as to this Court may seam fit and proper on the ground that the District Judge had no, jurisdiction whatever to dismiss the appeal of the petitioners, under Section 123 of the Code of Criminal Procedure, without looking into the record and considering the same.
+Fact	In order to understand the precise significance of the ground taken in this Rule, it will be necessary to set out briefly the facts giving rise to the appeal, the dismissal of which has led to the present application being made to us.
+Fact	The facts are as follows:  It appears that the Additional Munsif, Sadar, in the district of Mymensingh, decreed a suit in, ejectment brought by <NAME> against the petitioner.
+Fact	Thereafter, the learned Munsif, at the instance of the plaintiff,  filed a complaint b if ore the Magistrate against the said petitioners - <NAME> and <NAME> - or having committed certain offences punishable under Sections 193 , 465 , 467 and 471 of the I.P.C.
+Fact	This complaint was one which was marla under Section 476 of the Criminal P.C.
+Fact	Thereafter, an appeal was filed before the District Judge against the order of the Munsif making or filing the said complaint.
+Fact	It was registered as Miscellaneous Appeal 280 of 1924.
+Fact	The appeal was admitted by the District Judge on the 24th September 1924, and it cams on for hearing, after service of notice on the respondents, and after the record had been called for, before the District Judge on the 5th December 1924, when, it appears, the pleader for the appellants, after arguing the appeal for some time, stated that he could not proceed further with the appeal on that date as he was engaged otherwise and as the arguments would take some time.
+Fact	2.
+Fact	The hearing of the appeal was adjourned, and it appears that the matter did not  come on again before the District Judge till the 22nd December 1924, when it was thought desirable that the appeal, which the appellants, that is, <NAME> and <NAME>, had filed against the decree of the Munsif in tli8 said suit, should be heard along with the appeal against the order of the Munsif filing or making the complaint under the provisions of Section 476 of the Criminal P.C.
+Fact	The hearing of this appeal, that is to say, the appeal against the order of the Munsif filing or making the complaint, was accordingly a learned.
+Fact	It next came on for hearing on 28th October 1925, before the District Judge, when the pleaders for the appellants were absent and the pleader for the respondent was present.
+RulingByLowerCourt	The District Judge, after looking into the record, found that the hearing by the Magistrate of the complaint made by the Munsif had been delayed for more than a year; he came to the conclusion that no further time could be allowed, and he thereupon dismissed the appeal.
+RulingByLowerCourt	3.
+RulingByLowerCourt	An application for revival  of the appeal was filed, and that came on for hearing before the District Judge on 11th November 1925.
+RulingByLowerCourt	The District Judge, after hearing the parties, was of opinion that <ORG> was unable to re-admit the appeal, and he, accordingly, affirmed the order w<ORG>ch had been previously made by <ORG>m and rejected the application for rivival of the appeal.
+RulingByLowerCourt	Against the two last-mentioned orders the present petition was filed and the present Rule obtained.
+Argument	4.
+Argument	Mr. <NAME>, who appears for the <ORG>, argues that by the terms of Section 476B , the appeal against the order of the Munsif filing or making the complaint under Section 476 of the Criminal P.C., lay to the <ORG> to w<ORG>ch the <ORG> making the order or filing the complaint was subordinate wit<ORG>n the meaning of Section 195(3) ; in other words, Mr. <NAME>'s contention is that the appeal from the order of the Munsif making or filing the complaint lay to the District Judge, and the appeal was one w<ORG>ch was governed by the provisions of the Code of Civil Procedure, and no t by the Coda of Criminal Procedure.
+Argument	Mr. <NAME>, who appears in support of the Rule, argues that the appeal is one which is allowed by and under a section of the Code of Criminal Procedure, namely, section 476B , and that there is nothing whatsoever in the Code of Criminal Procedure negativing the contention that the appeal is governed by the provisions of the Code of Criminal Procedure.
+Argument	In the second place, he argues that the Coda of Civil Procedure has no application, and that, having regard to Chapter 31 of the Code of Criminal Procedure, it must follow that the appeal is one governed by the provisions of the Code of Criminal Procedure and, if that is so, then, under Section 423 of the Criminal P.C., the learned Judge who disposed of the appeal was in error in disposing of the same without considering the matters on the record in the appeal.
+Argument	5.
+RatioOfTheDecision	These being the respective contentions of the parties, it is now our duty to examine the same.
+RatioOfTheDecision	No doubt the appeal in this case is one which is given by Section 4 76B of the Criminal P.C., but the very words used in Section 476B of the Criminal P.C.
+RatioOfTheDecision	indicate with sufficient clearness that the <ORG> to which the appeal lies is one to which the <ORG> making or filing the complaint is subordinate; in other words, if it is a civil <ORG> which has made an order under Section 476 of the Criminal P.C., the appeal against such an order must lie to and be heard by the authority or tribunal to which such civil <ORG> is subordinate.
+RatioOfTheDecision	It follows, therefore, that the original order, having been made by a <ORG> in a civil suit, the appeal against an order by the <ORG> under Section 476 of the Criminal P.C.
+RatioOfTheDecision	lay to the District Judge to whom the <ORG> was subordinate.
+RatioOfTheDecision	Therefore, it would follow that, although the appeal itself is one which is allowed by the Code of Criminal Procedure, the appeal must be heard by the District Judge to whom the <ORG> is subordinate, i.e., by an appellate <ORG> exercising civil appellate jurisdiction.
+RatioOfTheDecision	It follows, therefore, that the procedure governin g an appeal of this description is one which is to be sought for within the four corners of the Code of Civil Procedure.
+RatioOfTheDecision	It follows also that the provisions of the Code of Civil Procedure being applicable to an appeal of this nature, the District Judge was in out opinion fully competent in making the orders which he did on the two date referred to above.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The relative provisions governing appeals in matters of this description are to be found in Order 41 of the Code of Civil Procedure.
+RatioOfTheDecision	It was a part-hoard appeal.
+RulingByPresentCourt	The appeal was admitted in September 1924.
+RulingByPresentCourt	It came on for hearing for the first time in December 1924.
+RulingByPresentCourt	It stood over from time to time till it was reached on the 22nd June 1925.
+RulingByPresentCourt	It stood over for a further period, and was not reached till the 28th December 1925, when as stated above, the learned pleaders who had bean engaged to appear in support of the appeal were found to be absent.
+RatioOfTheDecision	Under these circumstances, the District Judge was in our opinion fully entitled to consider that the appeal had bee n abandoned by and on behalf of the appellants.
+RatioOfTheDecision	Under these circumstances, we do not see that the District Judge has been guilty of any illegality or of any material irregularity within the meaning of Section 115 of the Civil P.C., nor doss it seem to us that there has been anything done by the District Judge to which exception can be taken, and in respect of which our powers of superintendence under the provisions of Section 107 of the Government of India Act can be invoked.
+RatioOfTheDecision	7.
+RulingByPresentCourt	The result, therefore, is that there is absolutely no substance in the present Rule, and it must be discharged.

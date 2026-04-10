@@ -1,0 +1,21 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	The petitioner who was in the service of <ORG> as a teacher was dismissed by an order of the District Educational Officer on 8-12-53.
+Fact	Thereupon he petitioned to <ORG> for setting aside that order but was unsuccessful.
+Argument	He has applied to this Court for the order being quashed on the ground that no opportunity was afforded to him to explain why the order should not have been passed.
+Argument	It is admitted, however, that the appointment he held was temporary, that prior to his dismissal he was involved in an assault against a collegue, and that as a punishment for this a penalty was imposed upon him and paid up.
+Argument	2.
+Argument	There is no doubt that Article 311 of the Con-stitutlon requires that a person should be notified to show cause why disciplinary action should not be taken against him before he is removed from service or otherwise dealt with.
+Argument	The fact that the petitioner was employed temporarily does not justify the course prescribed by the said Article being di spensed with.
+Argument	The loss of the petition is no doubt the result of dismissal, or of the service being terminated either because the vacancy in which the appointment was made has ceased to exist, or the appointment itself is abolished.
+Argument	There is, however, a stigma, disqualification or taint of being unfit or unworthy for service attac-hing to an order of dismissal, and this mav render the person concerned ineligible to be employed else where.
+Argument	This Is a factor which cannot be ignored, in applying Article 311; and for the purpose of the said Article it makes no difference whether the dismissal relates to a person who is a permanent or temporary incumbent.
+Argument	3.
+Argument	The question whether temporary employees can claim benefit of Article 311 arose in a case in <ORG> and it was held in <CITATION_938521> ) that it operates equally in favour of both classes of employees.
+Argument	Sri <NAME><NAME> on behalf of the learned Advocate-General concedes that no notice was issued to the petitioner to show cause why he sho uld not be dismissed, and that being so, the order is illegal and is accordingly set aside.
+Argument	It is open to the Government to deal with the petitioner in a proper manner as prescribed by law and take such action as it may deem fit.
+Argument	4.
+RulingByPresentCourt	Having regard to the circumstances in which the order apparently was passed, we do not think the petitioner is entitled to costs.
+RulingByPresentCourt	We, therefore, dirct the parties to bear their own costs.
+RatioOfTheDecision	5.
+RulingByPresentCourt	Application allowed.

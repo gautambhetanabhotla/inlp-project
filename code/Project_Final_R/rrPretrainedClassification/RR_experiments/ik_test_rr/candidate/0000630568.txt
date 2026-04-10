@@ -1,0 +1,83 @@
+Fact	JUDGMENT  1.
+Fact	This proceeding arises out of the case of the King.
+Fact	Emperor against <NAME> and <NAME> disposed of by us on the 17th instant.
+Fact	The petitioner, who was holding at the time the office of District Superintendent of Police at Noakhali, appears to have been cited as a witness for the defence in that case.
+Fact	He was, however, called by the Sessions Judge himself on the 16th of January and was examined for three consecutive days.
+Fact	On the 7th of February he was ordered to enter into recognizances for appearance in <ORG> on the 11th following, and on any subsequent date to which the case may be adjourned.
+Fact	On the 15th of February the Sessions Judge delivered his judgment in the case, and on that day he had the petitioner arrested and committed to jail on charges under Sections 193 , 466 and 471 of the Indian Penal Code.
+Fact	The 25th was fixed for commencing the preliminary inquiry.
+Fact	No proceeding was drawn up on that date (the loth), the order now before us being recorded only on the following day, name ly, the 16th of February.
+Fact	That order is in these terms: "In the course of the <ORG> trial of King-Emperor v. <NAME> and three Ors.
+Fact	decided yesterday, I came to the opinion, for reasons stated in my judgment then delivered, that <NAME>, Superintendent of Police of this district, has committed offences under Sections 193 , 466 and 471 of the Indian Penal Code, and that it is my duty to hold an inquiry preliminary to committing him to <ORG> to be tried for those offences.
+Fact	Mr. <NAME> was yesterday arrested and committed to jail.
+Fact	There was then no time owing to the lateness of the hour to draw up this formal proceeding.
+Fact	He will be produced before me, as directed in the warrant, on the 25th of February, when evidence will be taken."
+Fact	After the disposal of the case in this Court, the petitioner applied for and obtained the present Rule, calling upon the Magistrate of the District to show cause, why the proceedings instituted against him under those sections by the <ORG> Judge of Noakhali, on the  16th of February, should not be aside; first, on the ground that they are not warranted by law, as there was no proceeding drawn up on the day that he was committed to jail; secondly, on the ground that no specific statements are set out in the proceedings drawn up on the 16th, upon which the petitioner is charged with having committed perjury; thirdly, on the ground that there are no statements in the said proceedings showing the character of the forgery charged against him under the sections referred to above, and, fourthly, on the ground that otherwise there is no foundation for the proceedings against him.
+Fact	The Sessions Judge has purported to act under Section 477 of the Code of Criminal Procedure, which provides that "subject to the provisions of Section 444 the Court of Session may charge a person for any offence referred to in Section 195 and committed before it or brought under its notice in the course of a judicial proceeding, and may commit or admit to bail and try such person upon Us own charge."
+Fact	I t is an empowering section and authorises <ORG>, when an offence referred to in Section 195 of the Code of Criminal Procedure has been committed before it or brought under its notice as mentioned in the section, to charge the offender and to commit, or admit to bail and try him upon its own charge.
+RatioOfTheDecision	We observe that the Sessions Judge in one part of his judgment thinks the word "may" ought to be read as "must."
+RatioOfTheDecision	There is no warrant, however, for that view.
+RatioOfTheDecision	Having regard then to the phraseology of the law, it appears to us, that, if <ORG> proceeds to take action under Section 477 , it must, in the first instance, frame a charge, so as to enable the accused to know the exact nature of the offence he is alleged to have committed.
+RatioOfTheDecision	A charge is a precise formulation of the specific accusation made against a person, who is entitled to know its nature at the earliest stage.
+RatioOfTheDecision	After the accusation has been formulated in the shape of a charge, <ORG> may then either commit the accused f or trial before itself upon the charge so framed, or admit him to bail for the same purpose.
+RatioOfTheDecision	In the matter before us the <ORG> Judge had framed no charge, when he had the petitioner arrested and sent to jail, nor was his proceeding of the 16th of February in any sense a charge or order of commitment.
+RatioOfTheDecision	It contains no particulars of the statements made and acts done by the petitioner, upon which perjury and forgery are charged against him.
+RatioOfTheDecision	In our opinion the proceeding of the 16th of February was not warranted by law.
+RatioOfTheDecision	The order states that "Mr. <NAME> was yesterday arrested and committed to jail.
+RatioOfTheDecision	There was then no time, owing to the lateness of the hour, to draw up this formal proceeding.
+RatioOfTheDecision	He will be produced before me, as directed in the warrant, on the 25th of February, when evidence will be taken."
+RatioOfTheDecision	So that, the petitioner, against whom no definite accusation had been formulated up to that time, and in whose case, according to the <ORG> Judge himself, a preliminary inquiry was necessary, was to be kept in  jail for nine days, before even the matter could be inquired into.
+RatioOfTheDecision	A preliminary enquiry is necessary for the purpose of determining, whether there is a prima facie case against the person accused.
+RatioOfTheDecision	As the Sessions Judge did not charge the petitioner, as he was empowered to do, and as he considered a preliminary enquiry necessary, it seems to us that, until then, in the opinion of the Sessions Judge, there was not even a prima facie case against the petitioner.
+RatioOfTheDecision	In view of these facts we cannot help regarding the action of the Sessions Judge with the strongest disapproval.
+RatioOfTheDecision	2.
+RatioOfTheDecision	Apart from the illegality of the order as already mentioned, and dealing with the merits of the case, we are of opinion that there is no foundation for the proceeding.
+RatioOfTheDecision	We have already expressed our opinion in the judgment in the main case respecting the allegations of perjury made against the petitioner.
+RatioOfTheDecision	We do not desire to repeat our observations.
+RatioOfTheDecision	We may add, however, that we have again gone through the judgment of the Sessions Judge, an d beyond surmises and assumptions we find nothing to justify the view, that the petitioner wilfully perjured himself or intentionally gave false evidence in Court.
+RatioOfTheDecision	3.
+RatioOfTheDecision	There is less ground even for the charge of forgery.
+Fact	On the 15th of September the petitioner had visited the village and had a sketch map prepared of the locality by the writer, Head Constable <NAME>.
+Fact	A fair copy was made afterwards and both the draft and the fair copy were produced at the trial and are marked respectively as Exhibits Aa and A. Exhibits A bears the signature of the petitioner, and the date 15th September.
+RatioOfTheDecision	The learned Sessions Judge thinks that Exhibit A could not have been prepared on the 15th, and he therefore comes to the conclusion that the petitioner had purposely antedated his signature, "because he did not want Mr. <NAME> to know that Exhibit A was a copy.
+RatioOfTheDecision	He wanted Mr. <NAME> to believe that it was a plan made by himself on the 15th, instead of being, as it really is, a copy made after the 15th of a plan made  partly in and in great part (and that the most important part) out of Mr. <NAME>'s presence on the 14th, 15th and possibly subsequent dates."
+RatioOfTheDecision	It is worthy of note that not a single question was put to the petitioner to enable him to explain the circumstances, under which he came to put the date on the map as the 15th September.
+RatioOfTheDecision	Again, it appears that there are two pencil marks on exhibit Aa, which the petitioner states were intended to indicate two breaks on one of the roads.
+RatioOfTheDecision	These two pencil marks are not shown on Exhibit A.
+RatioOfTheDecision	The petitioner explains the absence of those marks by saying: "It might be an omission on the part of <NAME>."
+RatioOfTheDecision	The Sessions Judge, however, thinks that the petitioner tampered with Exhibit Aa, after it bad been prepared.
+RatioOfTheDecision	We must quote here the Judge's own language.
+RatioOfTheDecision	Referring to the draft he says as follows:  The rough map is Exhibit Aa.
+RatioOfTheDecision	Mr. <NAME> admits that he had it in his hand two days before <NAME> examined him, i.e., on the first day of his examination.
+RatioOfTheDecision	He had, therefore,  the opportunity of tampering with it.
+RatioOfTheDecision	and it is very significant that <NAME>, who says in cross-examination that he saw the draft as it was made, declared, even without taking it into his hand, that he did not see Exhibit ha the plan Mr. <NAME> swears is the draft, and when pressed says that he cannot say for certain whether or not it is the draft.
+RatioOfTheDecision	I think most likely it is the draft, but that <NAME> knows it has been added to and does not want to be asked about the additions.
+RatioOfTheDecision	Both Exhibit A and ha are the work of the Head Constable <NAME>.
+RatioOfTheDecision	and as Exhibit A has nothing of Mr. <NAME>'s, but his signature and the date, so Exhibit Aa has nothing of his, but certain pencil marks shortly to be noticed.
+RatioOfTheDecision	Both the entries are false documents within the meaning of Section 464 of the Indian Penal Code; for in each case Mr. <NAME>'s intention, when he made the entry, was to make people (in the first case Mr. <NAME>, in the second this <ORG>) believe that the entry was made at a time at which he  knew that it was not made, and as the documents purported to be made by a public servant in his official capacity, Mr. <NAME>, by making them, appears to have committed offences under Section 466 of the Indian Penal Code, and by using them, as genuine, to have committed offences under Section 471 ."
+RatioOfTheDecision	In page 127 occurs this remarkable passage: "I now come to the draft Exhibit Aa.
+RatioOfTheDecision	<NAME>, who made this draft, says, he did not show any break in it at all, that he was never told to, and did not think it necessary to.
+RatioOfTheDecision	But Mr. <NAME> points to two pencil marks at the place marked in Exhibit Aa and says he made these to indicate the break, and so I have no doubt he did make them, but I have equally little doubt that he made them on the 16th of January 1901, and not on the 15th of September 1900.
+RatioOfTheDecision	Mr. <NAME> explains the absence of any such marks from Exhibit A by saying it might be an omission on the part of Mohim.
+RatioOfTheDecision	But the far more obvious explanation is that Mr. <NAME> was unable to tamper with Exhibit A .
+RatioOfTheDecision	5.
+RatioOfTheDecision	It is needless to refer to the absence of sequence in the reasoning or the assumptions on which it proceeds.
+RatioOfTheDecision	Taking it however that Exhibit A was purposely antedated to deceive Mr. <NAME>, and that the pencil marks were put in Exhibit Aa after it had been prepared, we fail to see how the petitioner could be charged under Sections 466 and 471 of the Indian Penal Code.
+RatioOfTheDecision	Section 463 which defines the term "forgery" runs as follows: "Whoever makes any false document or part of a document with intent to cause damage or injury to the public or to any person, or to support any claim or title or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery."
+RatioOfTheDecision	Section 464 then explains the expression "making a false document."
+RatioOfTheDecision	The elements of fraud or dishonesty, as explained in the Penal Code , must be present in the mind of the person accused to bring his act under Sections 466 and 471 of the Indian Pe nal Code.
+RatioOfTheDecision	In our opinion the charge against the petitioner of committing forgery or making use of a forged document, even upon the assumption of the Sessions Judge, cannot be sustained.
+RatioOfTheDecision	But in our judgment there is no ground for the assumption of the Judge, that Exhibit A was purposely antedated.
+RatioOfTheDecision	The inspection of the locality having unquestionably taken place on the 15th and the results noted in Exhibit Aa, the fair copy, whenever prepared (and excepting the hypothesis of the Sessions Judge there is nothing to show it could not have been prepared on that day) would naturally bear the date of the inspection, and any other date would misrepresent the fact.
+RatioOfTheDecision	6.
+RatioOfTheDecision	As regards the pencil marks on Exhibit Aa, there is absolutely no reason for suggesting them to be dishonest interpolations by the petitioner or for not accepting his explanations regarding their omission from Exhibit A.
+RatioOfTheDecision	It was no doubt wrong on the part of the petitioner not to have insisted on the breaks being shown on the maps, and that error of judgm ent is deserving of censure, but in our opinion the imputation of forgery and of having used a forged document is not only groundless, but a straining of the law as well as the facts.
+RatioOfTheDecision	7.
+RatioOfTheDecision	We may observe in this connection that the offence of giving false evidence, Section 193 , is bailable, so also is the offence of using a forged document, Section 471 , whilst forgery, Section 466 , is non-bailable.
+RatioOfTheDecision	It was unfortunate that the Sessions Judge applied Section 466 against the petitioner in the way he has done, as it gives colour to the suggestion made at the bar, that it was purposely used to deprive the petitioner of the right to bail.
+RatioOfTheDecision	8.
+RatioOfTheDecision	We regret to observe that in dealing with this matter the Sessions Judge does not seem to have maintained a judicial balance of mind.
+RatioOfTheDecision	9.
+RulingByPresentCourt	For these reasons we think that his order must be set aside, and we set it aside accordingly.
+RulingByPresentCourt	10.
+RulingByPresentCourt	A copy of this judgment will be forwarded to <ORG>.

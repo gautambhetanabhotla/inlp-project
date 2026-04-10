@@ -1,0 +1,180 @@
+Fact	CASE NO.
+Fact	: Appeal (civil) 5639 of 2001 PETITIONER: <NAME> Vs. RESPONDENT: <NAME> & ORS.
+Fact	DATE OF JUDGMENT: 23/08/2001 BENCH: CJI, <NAME>, <NAME>, <NAME> & <NAME> JUDGMENT:  <NAME>, J.
+Fact	1.
+Fact	Leave granted.
+Fact	2.
+Fact	The question raised in this Appeal is whether the period of limitation for making deposit, in an application to set aside sale of immovable property under Order XXI Rule 89 of the Code of Civil Procedure, is 30 days from the date of sale (being the period prescribed in Order XXI Rule 92(2) C.P.C.)
+Fact	or 60 days from the date of sale (as prescribed in Article 127 of the Limitation Act ).
+Fact	3.
+Fact	Briefly stated the facts are as follows:  On 25th February, 1980 a decree was obtained in a suit based on a promissory note executed on 21st January, 1972.
+Fact	That decree was put into execution and the property of the Judgment-debtor was attached and put up for sale.
+Fact	The sale was held on 22nd November, 1982.
+Fact	4.
+Fact	On 21st January, 1983 i.e.
+Fact	on the 59th day after the date of sale,  an application was filed under Order XXI Rule 89 C.P.C.
+Fact	and the prescribed amount was also deposited.
+Fact	5.
+Fact	On 11th March, 1983 the executing Court dismissed the application on the ground that the deposit was not made within 30 days as prescribed under Order XXI Rule 92(2) C.P.C.
+Fact	The Judgment-debtor filed an Appeal which was allowed on 3rd September, 1983.
+Fact	The Order of the executing Court was set aside.
+Fact	The application of the Judgment-debtor was allowed and the sale was set aside.
+Fact	6.
+Fact	The Civil Revision Petition filed by the Auction Purchaser was dismissed by <ORG> on 1st February, 1990.
+Fact	It was held that Courts had to harmonise the two provisions and interpret the same having regard to the intention of the legislature.
+Fact	It was held that the Judgment Debtor should be given the benefit of the enlarged period of limitation under Art.
+Fact	127 of the Limitation Act .
+Fact	7.
+Fact	It must be mentioned that in coming to the above conclusion <ORG> relied upon a Judgment of this Cou <ORG> in the case of <NAME> v <ORG> repo<ORG>ed in (1986) 4 S.C.C.
+Fact	273.
+Fact	In that case it was held that the two provisions had to be harmoniously construed.
+Fact	In <NAME>s case this Cou<ORG> had endorsed the view of the Madras High Cou<ORG>, in the case of <ORG> v <NAME> and Anr.
+Fact	repo<ORG>ed in <ORG> (1981) Madras 254 that there was an inconsistency in these two provisions and that the legislature should take steps to remove the inconsistency.
+Argument	8.
+Argument	On 20th February, 1990 this Cou<ORG> in the case of <CITATION_1544426> .
+Argument	repo<ORG>ed in  held that the limitation period for making deposit in an application for setting aside sale under Order XXI Rule 89 is 30 days from the date of sale as prescribed under Order XXI Rule 92(2).
+Argument	It was noted that under A<ORG>icle 127 , Limitation Act , 1963 the period for making an application for setting aside the sale was 30 days.
+Argument	It was noted that, in 1974, the Limitation Act was amended and the period of Limitation to file an application to set asi de sale was extended from 30 days to 60 days.
+Argument	This Court noticed that the Statement of Objects and Reasons, in extending the period to 60 days, was as follows:  "An application to set aside a sale in execution of a decree on deposit under Rule 89 of Order XXI is required to be made within 30 days from the date of the sale.
+Fact	Experience shows that this period is too short and often causes hardship because the judgment-debtors usually fail to arrange for moneys within that time.
+Fact	Banks usually take more than 30 days to sanction loans and advances.
+Fact	In the circumstances, Entry 127 of the Schedule to the Limitation Act is being amended to increase the period of limitation to 60 days in respect of an application to set aside a sale in execution of a decree.
+Fact	This increase in the period of limitation will not affect the purchaser because five per cent of the purchase money is required to be paid to him.
+Fact	The advantage of the increased period of limitation will also be available to an application under Rule 90 or Rule 91  of Order XXI to set aside a sale in execution of a decree.
+Fact	In view of the increase in the period of limitation, confirmation of a sale will have to await the expiry of the increased period of limitation."
+Fact	It was however held that Order XXI Rule 92(2) C.P.C.
+Fact	and Article 127 , Limitation Act operated in different fields and that there was no repugnancy between the two.
+Fact	It was held that even though the period under Article 127 , Limitation Act was enlarged that period had no bearing on the time allowed for making a deposit.
+Fact	This Court held as follows:  "15.
+Fact	The court must indeed proceed on the assumption that the legislature did not make a mistake and that it intended to say what it said: <CITATION_553711> [1953 SCR 533, 545 : AIR 1953 SC 148].
+Fact	Assuming there is a defect or an omission in the words used by the legislature, the court would not go to its aid to correct or make up the deficiency.
+Fact	The court cannot add words to a statute or read words into it which are not there, especially when the literal reading  produces an intelligible result.
+Fact	No case can be found to authorise any court to alter a word so as to produce a casus omissus: Per Lord <NAME>, <ORG> v. <ORG>.
+Precedent	[(1888) 13 AC 595, 602: 4 TLR 703].
+Precedent	"We cannot aid the legislature's defective phrasing of an Act, we cannot add and mend, and, by construction, make up deficiencies which are left there": <NAME> v. <NAME> [(1846) 6 Moore PC 1, 8, 9: 4 MIA 179].
+Precedent	16.
+Precedent	Where the language of the statute leads to manifest contradiction of the apparent purpose of the enactment, the court can, of course, adopt a construction which will carry out the obvious intention of the legislature.
+Precedent	In doing so "a judge must not alter the material of which the Act is woven, but he can and should iron out the creases.
+Precedent	": Per <NAME>, L.J., as he then was, <ORG> v. <NAME> [(1949) 2 All ER 155, 164].
+Precedent	See the observation of <NAME>, J. in <CITATION_483899> [(1961) 2 SCR 295, 314: AIR 1961 SC 1107].
+Precedent	17.
+RatioOfTheDecision	In the construction of the r elevant provisions, we see no contradiction or ambiguity or defect or omission.
+RatioOfTheDecision	We see no merit in the argument that Article 127 must override Rule 92(2) of Order XXI in respect of limitation.
+RatioOfTheDecision	We view both the provisions as prescriptive of time for different purposes, and of equal efficacy and particularity.
+RatioOfTheDecision	The maxim generalia specialibus non derogant has no relevance to their construction.
+RatioOfTheDecision	Nor does the principle in <NAME> case [(1584) 3 Co Rep 7a: 76 ER 637] offer any help on the point in issue.
+RatioOfTheDecision	The mischief which the legislature had set out to remedy by amendment of Article 127 is what is stated in the objects and reasons clause.
+RatioOfTheDecision	That object was accomplished by prescribing a longer period for filing an application to set aside a sale in execution of a decree.
+RatioOfTheDecision	Furthermore, as already seen, by amendment of Rule 92(2) of Order XXI an opportunity was accorded to the depositor to make good the deficiency in the deposit made by him due to arithmetical or clerical mistake on his part.
+RatioOfTheDecision	In no other respect did the  legislature evince an intention to extend the period prescribed for making the deposit.
+RatioOfTheDecision	It would perhaps have been better, more logical, reasonable and practical, as stated by <ORG> in <CITATION_984911> [AIR 1982 Ker 126: 1981 Ker LT 861], to enlarge the period for making the deposit so as to make it identical with that prescribed for making the application, and such extended period would have better served the object of the amendment, namely, ameliorating the plight of the judgment-debtor, but such are matters exclusively within the domain of legislation by <ORG> and the court cannot presume deficiency and supply the omission.
+RatioOfTheDecision	The legislature did not do more than what it did.
+RatioOfTheDecision	It has, in our view, accomplished what it had set out to achieve.
+RatioOfTheDecision	No more no less."
+RatioOfTheDecision	9.
+RatioOfTheDecision	When this Special Leave Petition reached hearing on 8th September 1995 another three Judge <ORG> of this Court did not agree with the view expressed in <NAME> case.
+RatioOfTheDecision	That <ORG>, therefore, referred the matter to a five Judge  Bench for considering the correctness of the view taken in <NAME> case.
+RulingByLowerCourt	The Order dated 8th September, 1995 reads as follows:  "A three-member bench of this <ORG> in <CITATION_1544426> 1990(2) SCC 378 has held that time for making a deposit in terms of Rule 89 Order XXI C.P.C.
+Argument	is 30 days and Article 127 of the Limitation Act , 1963 prescribing a period of sixty days for making an application under Rule 89 has no relevance to the prescribed time for making the deposit, and that neither provision has any effect on the other as to time.
+RatioOfTheDecision	It appears to us however that these two periods of limitation are two facets of the same coin.
+RatioOfTheDecision	The difference, even though artificial, has to be resolved in permitting the larger period of time to achieve the objective.
+RatioOfTheDecision	We, on our part, find it difficult to bypass this three-judge bench decision.
+RatioOfTheDecision	We, therefore, refer this matter to a five-judge bench for considering the correctness of the view taken in that case and for the purpose direct that the papers of this case be laid  before Hon'ble the C.J.I.
+RulingByLowerCourt	for constituting a five-judge bench.
+RulingByLowerCourt	It may be mentioned that though the matter is short, it is likely to effect a large number of cases in the subordinate courts.
+RulingByLowerCourt	It would therefore solicit early fixation."
+RulingByLowerCourt	Under these circumstances this matter has come before <ORG> Judges for deciding the question mentioned above.
+RulingByLowerCourt	10.
+RulingByLowerCourt	Mr. <NAME> relied heavily on <NAME> case.
+RulingByLowerCourt	He submitted that even though the legislature intended to extend time to make deposit, they did not do so.
+RulingByLowerCourt	He frankly admitted that if the language of the statute leads to a manifest contradiction of the apparent purpose of the enactment, the <ORG> could adopt a construction which would carry out the obvious intention of the legislature.
+RulingByLowerCourt	He however submitted that in doing so the <ORG> could not alter the provision.
+RulingByLowerCourt	He submitted that in the construction of the two provisions i.e.
+RulingByLowerCourt	Order XXI Rule 92(2) C.P.C.
+RulingByLowerCourt	and Article 127 , Limitation Act , there was no contradiction or ambiguity or defect or omission.
+RulingByLowerCourt	He submitted that both the provisions prescribed time for different purposes.
+RulingByLowerCourt	He submitted that Art.
+RulingByLowerCourt	127 , Limitation Act prescribed a time for filing an application, whereas Order XX1 Rule 92(2) C.P.C.
+RulingByLowerCourt	prescribed a time for making a deposit.
+Argument	He submitted that the two provisions operated in different fields.
+Argument	He submitted that in effect the legislature did not extend the period prescribed for making the deposit even though they extended time for making an application.
+Argument	He submitted that it would have been more in keeping with their intention, as seen from the Statement of Objects and Reasons, if the legislature had enlarged the period for making the deposit so that it was identical to the one prescribed for making the application.
+Argument	He submitted that this was a matter exclusively within the domain of legislation by <ORG> and the <ORG> could not presume deficiency and supply the omission.
+Argument	11.
+Argument	Mr. <NAME> has fully supported the view taken in the impugned Judgment.
+Argument	He relied on the decision of this <ORG> in B asavantappas case and submitted that there was an apparent conflict.
+Argument	He submitted that the <ORG> must give an interpretation which would give effect to the intention of the legislature.
+Precedent	In support of this submission he cited the cases of <NAME> and others v <NAME> and another reported in <ORG> (1981) Madras 254, <NAME> and etc.
+Precedent	v <NAME> and another etc.
+Precedent	reported in <ORG> (1990) Kerala 286 and The <ORG> <CITATION_534552> reported in <ORG> (1985) Calcutta  382.
+Argument	12.
+Argument	Mr. <NAME> further submitted that Order XXI Rule 92(2) C.P.C.
+Argument	does not prescribe any period for deposit of monies but only provides that if the deposit is made within 30 days and an application filed then the <ORG> would have no discretion to refuse to set aside sale.
+Argument	He submits that by extending the period of time to file an application the legislature has now left it to the discretion of the <ORG>, to allow or disallow, the application if the deposit is not made within 30 days.
+Argument	13.
+RatioOfTheDecision	We have considered the submissio ns made by the parties.
+RatioOfTheDecision	The settled principles of interpretation are that the <ORG> must proceed on the assumption that the legislature did not make a mistake and that it did what it intended to do.
+RatioOfTheDecision	The <ORG> must, as far as possible, adopt a construction which will carry out the obvious intention of the legislature.
+RatioOfTheDecision	Undoubtedly if there is a defect or an omission in the words used by the legislature, the <ORG> would not go to its aid to correct or make up the deficiency.
+RatioOfTheDecision	The <ORG> could not add words to a statute or read words into it which are not there, especially when the literal reading produces an intelligible result.
+RatioOfTheDecision	The <ORG> cannot aid the legislature's defective phrasing of an Act, or add and mend, and, by construction, make up deficiencies which are there.
+RatioOfTheDecision	14.
+RatioOfTheDecision	If the rationale in <NAME> case is accepted there is a manifest contradiction.
+RatioOfTheDecision	As seen the object and intention in amending Article 127 , Limitation Act was to extend time to make deposit.
+RatioOfTheDecision	This will not have been achieved if the rationa le in <NAME> case is accepted.
+RatioOfTheDecision	If Order XXI Rule 92(2) C.P.C.
+RatioOfTheDecision	and Art 127, Limitation Act operate in different fields then it would imply that the <ORG> had undergone a useless formality in extending the period of limitation to file an application.
+Statute	Order XXI Rule 89 C.P.C.
+Statute	provides that an application to set aside sale can be made if the amounts mentioned therein are deposited.
+RatioOfTheDecision	Thus the deposit has to precede or be made at the same time as the application.
+RatioOfTheDecision	There would thus be no purpose in permitting filing of an application after 30 days if the deposit had to be made within 30 days and the legislature would have undertaken a useless formality.
+RatioOfTheDecision	15.
+RatioOfTheDecision	A plain reading of Order XXI Rule 92 C.P.C.
+RatioOfTheDecision	shows that the Court could either dismiss an application or allow an application.
+RatioOfTheDecision	Order XXI Rule 89 C.P.C.
+RatioOfTheDecision	prescribes no period either for making the application or for making the deposit.
+RatioOfTheDecision	The Limitation Act also prescribes no period for making a deposit.
+RatioOfTheDecision	However Article 127 , Limitation Act prescribes a perio d within which an application to set aside a sale should be made.
+RatioOfTheDecision	Earlier, this was 30 days, now it has been enhanced to 60 days.
+RatioOfTheDecision	Unless there was a period prescribed for making a deposit, the time to make the deposit would be the same as that for making the application.
+RatioOfTheDecision	This is so because if an application is made beyond the period of limitation, then a deposit made at that time or after that period would be of no use.
+RatioOfTheDecision	16.
+RatioOfTheDecision	Normally, when the legislature wishes to prescribe a period for making a deposit, it does so by using words to the effect "No deposit shall be made after days" or "a deposit shall be made within .
+RatioOfTheDecision	days" or "no application will be entertained unless a deposit is made within .. days".
+RatioOfTheDecision	Order XXI Rule 92(2) C.P.C.
+RatioOfTheDecision	does not use any such expressions.
+RatioOfTheDecision	The relevant portion of Order XXI Rule 92(2) C.P.C.
+RatioOfTheDecision	reads as follows :  "Where such application is made and allowed, and where, in the case of an application under Rule 89, the deposit required by that rule is made within 30 days from the date of s ale the <ORG> shall make an order setting aside the sale."
+RatioOfTheDecision	Thus Order XXI Rule 92(2) C.P.C.
+RatioOfTheDecision	is only taking away discretion of the <ORG> to refuse to set aside the sale where an application is made and allowed and the deposit has been made within 30 days from date of sale.
+RatioOfTheDecision	It is thus clear that Order XXI Rule 92(2) C.P.C.
+RatioOfTheDecision	is not prescribing any period of limitation within which a deposit has to be made.
+RatioOfTheDecision	17.
+RatioOfTheDecision	Viewed in this context the intention of the legislature in extending the period under Article 127  Limitation Act may be seen.
+RatioOfTheDecision	It is very clear from the Statement of Objects and Reasons, which have been set out hereinabove, that the period under Article 127  Limitation Act was extended from 30 days to 60 days in order to give more time to persons to make deposits.
+RatioOfTheDecision	The legislature has noted that the period of 30 days from the date of sale was too short and often caused hardships because Judgment-debtors usually failed to arrange for moneys within that period.
+RatioOfTheDecision	The question then would be whether by merely am ending Article 127  Limitation Act the legislature has achieved the object for which it increased the period of limitation to file an application to set aside sale.
+RatioOfTheDecision	18.
+RatioOfTheDecision	Having given our careful consideration to the question, we are of the opinion that there is no anomaly and that there are no different periods of limitation for making deposits and/or filing an application for setting aside the sale.
+RatioOfTheDecision	It is by virtue of Order XXI Rule 89 C.P.C.
+RatioOfTheDecision	that an application for setting aside a sale and a deposit can be made.
+RatioOfTheDecision	Order XXI Rule 89 C.P.C.
+RatioOfTheDecision	does not prescribe any period within which the application is to be made or deposit is to be made.
+RatioOfTheDecision	All that Order XXI Rule 92(2) provides is that if the deposit is made within 30 days from the date of sale and an application is filed then the <ORG> would have no discretion but to set aside the sale.
+RatioOfTheDecision	That does not mean that if the deposit is made after 30 days the <ORG> could not entertain the application.
+RatioOfTheDecision	If the deposit is made beyond the period of 30 days, but within the pe riod of 60 days, then it will be within the discretion of the <ORG> whether or not to grant the application.
+RatioOfTheDecision	Thus, an application can be made within the period prescribed under Article 127 , Limitation Act .
+RatioOfTheDecision	As an application can be made within 60 days and, as stated above, no period for making a deposit is prescribed under Order XXI Rule 92(2) the deposit can also be made within 60 days.
+RatioOfTheDecision	In our view, therefore, the view expressed in <NAME> case that Order XXI Rule 92(2) C.P.C.
+RatioOfTheDecision	prescribes a period of limitation for making a deposit is not correct.
+RatioOfTheDecision	19.
+RulingByPresentCourt	In this view of the matter, we see no merits in the Appeal.
+RulingByPresentCourt	We see no infirmity in the impugned Order.
+RulingByPresentCourt	The Appeal stands dismissed.
+RulingByPresentCourt	There will be no Order as to costs.
+RulingByLowerCourt	..CJI.
+Precedent	J.
+Argument	(K. T. THOMAS) .J.
+Argument	(R. C. LAHOTI) .J.
+Argument	(<NAME>) .J.
+Argument	(S. N. VARIAVA) August 23, 2001.

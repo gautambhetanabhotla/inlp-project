@@ -1,0 +1,167 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This is an appeal by the plaintiff, <ORG> against the order of the learned single Judge in IA 2094/94 in Suit 432/94 dated 31.10.1995.
+RulingByLowerCourt	By that order, the learned Single Judge dismissed the application of the appellant for grant of temporary injunction under Order 39 Rule 1 CPC against the respondent.
+RulingByLowerCourt	The dispute pertains to trade mark, emphasis being on trade dress.
+RulingByLowerCourt	Though reference is made in the grounds of appeal to the carton being a piece of artistic work within Section 2(c) of the Copyright Act, arguments were mainly focussed on 'trade dress'.
+RulingByLowerCourt	2.
+Fact	The appellant <ORG> sells Corn Flakes with cartons which describe the cartons as '<ORG>'s CORN FLAKES' (the original and the best).
+Fact	The respondent is selling corn flakes using a carton more or less similar in size but with the title "AIMS ARISTO CORN FLAKES" written just at the place where appellant's display the words '<ORG>'s CORN FLAKES'.
+Fact	This is done at the left hand top of the carton.
+Fact	The appel lants grievance in the suit as well as in the <ORG> was that the carton was likely to confuse the buyers of corn-flakes and there was every likelihood of consumers purchasing the respondent's goods in the belief that they were of the appellant.
+Fact	The learned single Judge after referring to the case-law pertaining to 'trade dress', of the appellant dismissed the <ORG> observing :  "If the trade dress in this case is as was found in the above case (i.e., <ORG> and others v. <NAME> ((1978) RPC 635).
+Fact	I would have had no hesitation to accept the arguments of Mr. <NAME>.
+Fact	Applying the test laid down therein, I am of the view that the trade dress of the defendant in this case is entirely .... different from the trade dress of the plaintiff and there is absolutely no scope for any confusion."
+Fact	On that basis, the learned Judge stated that the appellant had not proved prima facie case nor balance of convenience and hence no injunction could be granted.
+Fact	3.
+Fact	In this appeal, we have heard learned counsel, for the  appellant at the stage of admission.
+Fact	Learned counsel for the defendant was also present.
+Fact	4.
+Argument	It was contended before us that the learned single Judge, having accepted the legal principles relied upon for the appellant in respect of 'trade dress' erred, on facts, in holding that there was no scope for confusion among the consumers.
+Argument	It was pointed that the size and shape of the carton was similar being rectangular, that in the words 'FLAKES' in the appellant's carton the words L and A were joined together closely or rather touch each other, that respondent also described his goods as original and the best, that both contain a picture of the corn flakes, that there was a small square on the left hand top where the words '<ORG>'s CORN FLAKES' were written inside the square, and that the respondent had also put a square on the left hand top with the words 'AIMS ARISTO CORN FLAKES'.
+Argument	It was further stated that in all the cartons of <ORG>'s in regard to various commodities, there was a red-band at the top which  took off from the square on the left top and ran horizontally across on the front top into the right and to the other sides and respondent also used a similar red band taking off horizontally from the square on the left top.
+Argument	It was also argued that even in regard to the square on the left side top, <ORG>'s used an inner red border, then a white gap, and then an outer green border, running all along the sides of the square while respondent was also using the same red and green borders for the square on the left top.
+Argument	It was argued that these similarities in dress were so clear that purchasers were sure to be misled.
+Argument	It was submitted that there was a presumption that the consumer's memory was short and if a consumer had purchased a carton of appellant's at one point of time, he would easily mistake the respondent's carton for the appellant's.
+Argument	It was further submitted that respondent had done this with dishonest intention.
+Fact	5.
+Fact	Before we go into the above aspects, it is necessary to refer to a few more facts.
+Fact	If  we look at the appellant's carton, we find that the words '<ORG>'s is displayed very prominently in fairly big letters, above the words, 'CORN FLAKES' in the square on the left hand top.
+Fact	Then to the right of the words '<ORG>'s CORN FLAKES' there is the picture of the face of a hen, upto its neck.
+Fact	There is a bowl containing corn flakes and a cherry therein with a big spoon.
+Fact	Pouring of milk is shown into the plate.
+Fact	On the right side of the carton, it is stated prominently that the flakes are 99% fat free.
+Fact	6.
+Fact	When we come to the respondent's carton, we have in the left hand top rectangle the words 'AIMS ARISTO' corn flakes prominently written.
+Fact	We also have <ORG> in a smaller rectangular bracket but shown quite prominently below the rectangle on the left-top, a plate blue in colour with corn flakes and cashew etc.
+Fact	There is no picture of milk pouring into the plate.
+Fact	7.
+Fact	In other words, while in the rectangle on the left hand top, the words <ORG>'s corn flakes are prominent for the appellant, the words 'AIMS  ARISTO' corn flakes appear very prominently for the respondent, at the same place.
+Argument	8.
+Argument	It is true that the appellant has referred to certain similarities in the size and shape of the carton, there being a square on the left top with word '<ORG>'S CORN FLAKE'S; the words L and A being joined, border being red and green and a red band running round in the top horizontally.
+RatioOfTheDecision	It is true that these similarities were not set out in the order.
+RatioOfTheDecision	But in our prima facie view, the prominent display of the words '<ORG>' in bold red letters in white background inside the square on the left-top appellant's carton cannot go unnoticed by any buyer.
+RatioOfTheDecision	We have to understand the learned Judge's words "trade dress of the plaintiff is entirely different", in that light, prima facie.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The law relating to 'trade dress' is very clear.
+RatioOfTheDecision	<NAME> in 'Law of Trade Marks' (12th Ed.
+RatioOfTheDecision	1986, para 16.67) says that it is usually true in some degree that a trader's goods are recognised by their general appearance, or "get-up".
+RatioOfTheDecision	Accordingly, re semblance or 'get-up' is not uncommonly an ingredient in passing-off, and it is possible for imitation of get-up alone to amount to passing-off.
+RatioOfTheDecision	Such cases are rare, since few traders rely on get-up alone to distinguish their goods, so that trade names and word trade marks are ordinarily present too, and the author says :  "and in these days, in this country, a difference in names is enough to warn the public that they are getting one trader's goods and not the others" (<NAME> v. <NAME> ((1953) 70 RPC 173)".
+Precedent	In <ORG> v. <NAME> (1976 RPC 653), the plaintiff's bag displayed the words "Fison's Gro Bag" while the defendant's bag contained the words 'Goodwins Crop-Bag; and it was held that the prominence given to the name overshadowed the other similarities in get-up.
+Precedent	The plastic bags were peculiar.
+Fact	The plaintiffs were manufacturers of the plastic bag filled with a peat-based compost from which plastic rectangles could be removed thereby exposing the compost beneath the plastic.
+Fact	Seedlings could the n be planted in the compost so that the bag could function as containing growing element.
+Fact	The bag was partly over-printed with horticultural decoration and instructions and marked 'Fisons Gro Bag'.
+Fact	They were in market for 2 years.
+Fact	The defendants were peat merchants and got plastic bags produced with "identical size" and which bore "over-printed" instructions and decoration somewhat similar to those of the plaintiff's bag.
+Argument	While refusing injunction, <ORG> that even accepting that the plaintiff's had a get-up reputation in their growing bags and though there were obvious similarities between the bags in issue, it was inconceivable that any one seeing the defendant's grow bag could fall to observe that it was a product of the defendants' and that a normal purchaser could not be misled.
+Argument	He further said that "if the Fisons Gro-Bag had not contained the name "Fisons" or if the name "Goodwins" had not been so prominently displayed, by the defendants, he might have reached a different conclusion.
+Argument	He d oubted whether they could have done more to signify to a buyer that he was watching at a product of <ORG> and not at a product of <ORG>'.
+Argument	10.
+Fact	<CITATION_837072> (22.
+Fact	RPC 327), was also a case of similar 'get-up'.
+Fact	The plaintiff was selling, for 15 years, dried materials for soup in packets of certain size, shape and printing put in steel boxes of a peculiar kind, with the words '<ORG>' displayed thereon.
+Fact	Later, defendants started selling similar preparations for soup which were put up in a series of similar packets and boxes, and the name '<ORG>'s "appearing at the place where <ORG>" appeared on the plaintiff's goods.
+Argument	The plaintiffs also complained against the wrapper of the defendants containing untrue statement as to Prize medals and awards in the same manner as the true statements of the plaintiff.
+Argument	<NAME>, J. refused to grant injunction and in the Court of appeal, while confirming his order, <ORG> observed that the word '<ORG>' being printed prominently on the packets and the words '<NAME> rd' printed on defendant's packets, there was no scope for confusion in spite of the similarity in the packets and boxes.
+Argument	11.
+Fact	In yet another case, relating to similarity in trade-dress, <ORG>, in <ORG> v. <ORG> ((1981) RPC 429), confirmed the judgment of <NAME> of <ORG> New South Wales.
+Fact	In that case, the plaintiffs were selling lemon squash under the name 'Sole' in greenish-yellow cans with a medallion type label.
+Fact	The defendants launched a lemon squash called 'Pub Squash' and the label was of a medallion type bearing the words 'Pub Squash' on the label.
+Fact	The cans were of the same size and shape with colour yellow as those of plaintiff.
+Fact	The proceedings of the plaintiff brought on the ground of passing off, unfair trading etc.
+RulingByLowerCourt	were dismissed.
+Argument	Judgment of <NAME> is elaborate and he held that the defendants had sufficiently differentiated their product by their 'name'.
+Argument	On appeal to <ORG>, it was observed that over emphasis on adv ertised description of a product might indeed lead to stifling of competition.
+Argument	Lord <NAME> said :  "But competition must remain free, and competition is safeguarded by the necessity for the plaintiff to prove that he has built up an intangible property right' in the advertised description of his product, or, in other words, that he has succeeded by such methods in giving his product a distinctive character accepts by the market.
+Argument	A defendant, however, does no wrong by entering a market created by another and then competing with its creator.
+Argument	The line may be difficult to draw; but, unless it is drawn, competition will be stifled."
+Argument	Their Lordships then said that the test applied by, <ORG> in the instant case was that one has to see whether the consuming public would be confused or misled by the get-up, the formula or the advertising of the respondent's product into thinking that it was the appellant's dissimilar product.
+Argument	<ORG> held on the facts, that the public were not so decieved.
+Precedent	12.
+Precedent	In Schweppers L td.
+Fact	v. <NAME> ((1905) 22 RPC), the appellant was selling Soda Water in bottles, with a neck label around then, the body of the label being of chocolate colour with a white border and a red medallion in the centre of the label.
+Fact	The respondents, subsequently, sold soda water in bottles with a somewhat similar neck lable round them in same colour and with a central red medallion.
+Fact	However, appellants' labels showed '<ORG>'s soda water' printed on them in white characters while respondents' contained the name '<NAME> Soda Water'.
+Fact	Action by plaintiffs failed.
+Argument	It was held by <ORG> that a fraudulent intent cannot be presumed inspite of the similarities in the bottles, labels colour and medallion because the distinguishing feature of name adopted by defendants showed that they had no intention to deceive purchasers.
+Precedent	Lord <ORG> said :  "I should have thought if you looked at the two bottles together no human being could have mistaken one for the other.
+Precedent	If 'Royal' and 'Flag' were sufficiently di stinctive in the case to which the learned counsel called our attention <CITATION_450722> .
+Precedent	(17 RPC 628), I should have thought '<NAME>' and '<NAME>' are equally impossible to be confounded with each other."
+Precedent	Lord <NAME> said it was "ridiculous" to apply the principle of similarity in trade dress in such a situation.
+Precedent	He said :  "I can quite understand a case in which, although colourably a defendant has introduced his own name, yet the nature of the wrapping up, the nature of the package itself, or, in this case, the shape of the bottle, may all have been so closely imitated that the mere introduction of some distinctive mark, to which no ordinary observer would have applied his mind, will not get rid of the obvious intention to pass one goods off as the other; but to apply the proposition to this case appears to me to be a little short of ridiculous".
+Precedent	It was held that the name of '<NAME>' was so plainly placed upon the bottle as it could possibly be and it was in the place where 'Schweppes' was on th e bottle of the appellant, and there was no intention to deceive.
+Precedent	13.
+Precedent	The above case also answers the contention of fraudulent intent argued by the appellant's counsel before us.
+Precedent	Similar views as to absence of fraudulent intent were expressed in <CITATION_4517240> .
+Precedent	(supra), also, to which we have already referred and which came from New South Wales before <ORG> (1981) RPC 429 (PC).
+Precedent	14.
+RatioOfTheDecision	In the present case, in spite of any other close resemble ness in the cartons, the name '<ORG>' written prominently on the respondents carton would, in our view, prima facie, as in case before Lord <NAME> show that there was no intention on the part of the defendant to play fraud by misrepresenting his goods as the goods of the appellant.
+RatioOfTheDecision	In that very case, Lord <NAME> emhasized the need to see the whole description on the goods as one whole and not the individual features in isolation.
+Precedent	He said :  "Inasmuch as you and certainly not to impute fraud without proof, you are not to suggest that people are fradulent ly committing some commercial trick without sufficient evidence, and I cannot conceive here how anybody could gravely argue that the one thing could be mistaken for the other by anybody who looked as it.
+Precedent	**** *** *** *** *** The whole question is these cases is whether the thing - taken in its entirety, looking at the whole thing, is such that in the ordinary course of things a person with reasonable apprehension and with proper eyesight would be deceived."
+RatioOfTheDecision	Thus, the above case also lays down that the trade dress or rather the whole thing must be seen in its entirely and not parts in isolation.
+RatioOfTheDecision	It is not permissible, therefore to say that the square on the left side top had a small red and green border or there was a red band horizontally and defendant's carton if examined from close quarters, showed these feature.
+RatioOfTheDecision	Viewed as a whole, one can see that the words <ORG>, and <ORG> are prominently displayed on each and therefore there can be no confusion, prima facie.
+Precedent	15.
+Precedent	That brings us finally to the questi on of the failing memory of the customer.
+Precedent	The argument is that customer's have short memory and that if the trade dress is similar, the customers are likely to get con fused.
+Precedent	16.
+Precedent	It has now been held that there are limitations to the theory of imperfect memory.
+Precedent	Halsbury's Laws of England (4th Ed.)
+Precedent	(Vol.
+Precedent	48, para 139) says that this principle of imperfect recollection must not be pressed too far.
+Precedent	It says :  "The <ORG> must bear in mind that the marks will not normally be seen side by side and quard against the danger that a person seeing the new mark may think that it is the same as one he has seen before, or even that it is a new or associated mark of the proprietor of the formal mark.
+Precedent	However, the doctrine of imperfect recollection must not been pressed too far <ORG> v. <ORG> ((1954) 71 RPC 455 at 457).
+Precedent	Marks are often remembered by general impressions of by same essential feature (<ORG> ((1951) 68 RPC 106 (PC) 289), (on appeal 71 RPC 348.
+Precedent	(CA).
+Precedent	In fact in Sch <ORG> case above referred to, Lord <NAME> said "and if a person is so careless that he does not look, and does not, ........... treats the label fairly but takes the bottle without sufficient consideration and without reading what is written very plainly indeed up - the face of the label on which the trade has placed his own name, then you certainly cannot say he is deceived in fact, he does not care which it is.
+Precedent	That would be the true interference which I think a person would draw from conduct so described."
+Precedent	17.
+Precedent	Having dealt with the contention of imperfect memory of the coustomer, we shall now deal with the class of purchasers, which is also an important factor.
+Precedent	who are the persons who go to purchase '<ORG>'s' Corn Flakes ?
+Precedent	Prima facie, in our opinion, these people belong to a middle-class or upper middle class and above who are fairly educated in English and are able to distinguish "<ORG>'s" and what is not "<ORG>".
+Precedent	In American Jurisprudence (2d) (Trade Marks Supp.
+Precedent	para 19 page 178) it is s aid that it is necessary to note the fact :  "that customers for fasteners are sophisticated and discerning, that defendant acted with goods faith.
+Precedent	The case was one where customers purchasers of fasteners in the automobile industry.
+Precedent	(<ORG> v. <ORG> (LDC III (US PU 106")).
+Precedent	Again <NAME>, Law of Trade Marks (12th Ed.
+Precedent	1980) (Para 1706) says that :  "If the goods are expensive and not of a kind usually selected without deliberation, and the customers generally educated persons, these are all matters to be considered (Piano list ((1906) 23 RPC 774), <ORG> v. <NAME> ((1911) 28 RPC 597 = 29 RPC 465 (CA) (HL) (dentists), <ORG> (1943) 60 RPC 87).
+Precedent	18.
+Precedent	In Piano list's (supra) case an application was made for the registration as a trade mark of the word 'Neola' for "piano player" being a musical instrument included in class 9".
+Precedent	Coming to know of this application, the registered proprietors of the trade mark "Pinole" who were registered for all goods in class 9, opposed  the above application for registration.
+Precedent	The Registrar overruled the objection and ordered registration.
+Precedent	On appeal, Justice <NAME> said that having regard to the kind of customers" for such goods and the distinction in the names, there was not likely to be any confusion and dismissed the appeal.
+Precedent	19.
+Precedent	If that was so between '<ORG>' and '<ORG>', the case of <ORG> and <ORG>, in our prima facie view, presents no difficulty for distinct identification.
+Precedent	<NAME> J. in fact observed in the above case :  "Of course, one knows that the persons who buy these articles are generally persons, of some education, ........ my opinion is, having regard to the nature of the customer, the article in question and the price at which it is likely to be sold, and all the surrounding circumstances, no man of ordinary intelligence is likely to be deceived ..."  We are, on the facts of the case before us, prima facie of the same opinion in regard to <ORG> and <ORG>.
+Precedent	20.
+Precedent	Learned counsel for the appellant placed reliance on <ORG> -Palmolive Ltd. v. <NAME>, (supra).
+Precedent	In that case, the plaintiff was selling toothpaste as "<ORG>".
+Precedent	The appellant used packages with colours red, white and dark blue the respondents also used red, white and blue.
+Precedent	It was held that the defendant borrowed features from the plaintiff's packaging, tubes and labels and the ordinary purchaser of normal memory was not to be expected to examine the goods keeping them side by side, and the get-up would cause confusion.
+RatioOfTheDecision	In our prima facie view, this case is clearly distinguishable because, apart from the fact that the get up was the same, <ORG>me used by the defendant was found to be deceptively similar.
+Precedent	The question of imperfect memory was relevant there because the purchaser could be a person who would not discern whether the tooth paste was <ORG> or <ORG>.
+Precedent	21.
+Precedent	We shall now deal with likewise <CITATION_1070490> .
+Precedent	((1989) (1959) RPC 83), cited for the appellant.
+Precedent	There, no doubt, both parties sold sweet or 'fruit drops' in decorated tins.
+Precedent	No doubt <ORG> mes, <ORG> fruit flavoured drops and <ORG> fruit flavoured drops were somewhat different but, if one looks at the box, one can find the trade dress was too prominent and the names not that prominent.
+Precedent	The learned Judge <NAME>, J. held that it was possible that purchasers might get confused.
+Precedent	Prima facie, the case goes against the view expressed by <ORG> in the cases referred to above.
+Precedent	Further this case has been placed in a special category by writers because here the picture of the sweets on the top of the boxes was so similar, spreading over the entire face of the box, and the learned Judge felt more impressed by that fact though the names were not so similar, this view appears from <ORG> which says that we should look at the photographs of the boxes.
+Precedent	<NAME> says (para 16.6.7) that this case was treated as a case of deliberate copying offending plaintiff's copyright.
+Precedent	It was also held that there was infringement of registered trade mark.
+Precedent	So far as passi ng off was concerned, it was seen as a case where having regard to the arrangement of the picture of the sweets on the top of the box, that a person with imperfect memory could be misled.
+Precedent	Monday v. <NAME> ((1905) 22 RPC 273), cited for the appellant is also distinguishable.
+Precedent	The appellants mark there was of an 'ace of clubs' with the word 'club' upon bottles which were sold with label "Club Black Enamel", while defendants did likewise sell with 'ace of spades' and label "hub Black Enamel".
+Precedent	Injunction was granted on the ground of fraudulent get up.
+Precedent	The words '<ORG>' and 'club' were treated as similar and likely to create confusion.
+Precedent	This case is also distinguishable.
+Precedent	22.
+Precedent	In the result, on our prima facie conclusions, we reject the plea of similarity or likelihood of confusion, we reject the plea of fraud as well as the one based on imperfect memory.
+Precedent	We are of the view, prima facie that even though the get up is similar, the different names <ORG> and <ORG> prominently displayed, make all the difference a nd this is not a fit case for interference with the order of the learned Single Judge refusing injunction.
+Precedent	23.
+RatioOfTheDecision	These are prima facie views and it is made clear that the suit will be disposed of on the basis of such evidence as may be produced therein without being influenced by anything said here.
+RulingByPresentCourt	Appeal is dismissed.

@@ -1,0 +1,22 @@
+Fact	ORDER  1.
+Fact	1.
+Fact	Heard the learned counsel for the parties.
+Fact	2.
+Fact	The appellant shall pay Rs.
+Fact	10,000 as costs because of the delay of 247 days in filing these special leave petitions.
+Fact	3.
+RulingByPresentCourt	Delay condoned.
+RulingByPresentCourt	4.
+RulingByPresentCourt	Leave granted.
+Argument	5.
+Argument	This appeal is filed against the judgment and order dated September 20, 1999, passed by <ORG> holding that for the assessment year 1993-94 waiver of interest chargeable under Section 234B of the Income-tax Act, 1961, is restricted to 50 per cent.
+Fact	It is the contention of learned counsel for the appellant-Revenue that the said order is illegal and erroneous, in view of the judgment rendered by this court in <CITATION_1184550> and also the decision rendered by this court in C. A. Nos.
+Fact	7966-7967 of 1996 entitled <CITATION_535731> on December 17, 2002,  259 ITR 449.
+Fact	6.
+Fact	As against this, learned senior counsel appearing on behalf of the respondents submitted that in the judgments rendered by this court in <NAME>'s case [2001] 252 ITR 1 as well as in <ORG> arriers case [2003] 259 ITR 449, the court has not considered Explanation 1 under Section 234B of the Income-tax Act and, therefore, the said issue requires reconsideration.
+RatioOfTheDecision	7.
+RatioOfTheDecision	In our view, after the pronouncement of the judgment in <NAME>'s case , it is not open to us to reconsider the same as it has been specifically held that <ORG> has no power to waive mandatory interest as contemplated under Sections 234A , 234B and 234C of the Income-tax Act.
+RatioOfTheDecision	8.
+RulingByPresentCourt	In this view of the matter, these appeals are allowed and the impugned order passed by <ORG> is set aside.
+RulingByPresentCourt	It would be open to the <ORG> to recover interest as provided under the Act.
+RulingByPresentCourt	There shall be no order as to costs.

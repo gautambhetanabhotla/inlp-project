@@ -1,0 +1,51 @@
+Fact	JUDGMENT  1.
+Fact	This appeal arises out of a suit for the recovery of land.
+Fact	It was dismissed by both the lower <ORG> but on appeal Mr. Justice <NAME> passed a decree in the plaintiff's favour.
+Fact	From this decree the present appeal has been preferred under the Letters Patent.
+Argument	2.
+Argument	The facts found are that <NAME> held the suit land as a raiyat under <NAME>, the proprietor; that the plaintiffs held the land as under-raiyat under <NAME>, that on the 27th of February 190], <NAME>'s raiyati interest was expressed to be transferred to <NAME> who was benamidar for <NAME>; that <NAME> made the land khas and let it to defendant No.
+Argument	1; and that thus the plaintiffs have been dispossessed.
+Argument	3.
+Argument	Before us it has been contended that the plaintiffs are not entitled to possession as under Section 85 (1) of the Bengal Tenancy Act the oral sub-lease to them is not valid against defendant No.
+Argument	1 who for this purpose, it is argued, stands in the position of landlord.
+Argument	4.
+Argument	Assuming for the sake of the argument that defendant No.
+RatioOfTheDecision	1 is entitled to the same rights against the plaintiffs as <NAME>, can it be said that the plaintiffs' interest in the land has come to an end?
+RatioOfTheDecision	If not, the plaintiffs are manifestly entitled to a decree for possession.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The defendant-appellant argues that this must be answered in the affirmative on the strength of the transfer of the raiyat's interest and Section 85 (1) of the Bengal Tenancy Act.
+RatioOfTheDecision	6.
+RatioOfTheDecision	It is conceded that Section 85 (1) without this transfer would not suffice, for the existence of the intermediate holding would have been an answer to the landlord's claim.
+RatioOfTheDecision	7.
+RatioOfTheDecision	But can this protection be destroyed by the Voluntary Act of the raiyat who created the under-raiyat's holding?
+RatioOfTheDecision	It would certainly be contrary to justice, equity and good conscience that it should, but this, I recognize would, be no answer to the words of the statute.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The right of the landlord under Section 85 (1) is a right vested in him by virtue of his landlord's inter est and not by virtue of any other interest he might acquire; and to entitle the landlord to act by virtue of that interest there must be no obstacle in the shape of an intervening interest, and so the appellant is forced to contend that the raiyat's transferred interest has been extinguished.
+RatioOfTheDecision	9.
+RatioOfTheDecision	For this view reliance has been placed on the doctrine of merger and on the terms of Section 22 (1) of the Act.
+RatioOfTheDecision	10.
+Precedent	But it is at least doubtful whether the doctrine of merger applies to lands in the mofussil see per Sir <NAME>, C.J.
+Precedent	in <NAME> v. <NAME> 10 W.R. 15 at p. 17; <CITATION_964419> 19 C. 760; <NAME> v. Jogut Chunder Pundit 3 C.L.R.
+Precedent	159.
+Precedent	And even if it be assumed that it does, it cannot be that it would be more oppressive in its operation on the undertenant than the English Common Law doctrine.
+Precedent	Mergers were never favoured in <ORG> and still less in <ORG> and so we find it said in C. Lit 338b that having regard to strangers who were not parties or  privies there unto lest by a voluntary surrender they may receive prejudice touching any right or interest they had before the surrender the estate surrendered both in consideration of law and continuance."
+RatioOfTheDecision	11.
+RatioOfTheDecision	So clearly the doctrine of merger would not help the appellant.
+RatioOfTheDecision	Then is there anything in the Act which assists him?
+RatioOfTheDecision	Our attention has been drawn to Section 22 (1) and there no doubt it is provided that where the entire interests of the landlord and the raiyat in the holding became united in the same person by transfer succession or otherwise the occupancy right shall cease to exist; but nothing in this section shall prejudicially affect the rights of any third person."
+RatioOfTheDecision	12.
+RatioOfTheDecision	It may be a question whether it can be said on the facts of this case that entire interest of the raiyat has united with that of the landlords.
+RatioOfTheDecision	But be that as it may what is it that has ceased to exist?
+RatioOfTheDecision	The occupancy right, not the entire interest of the raiyat, so that on the words of the section there would be no extinguishment  of the holding, and I see no reason for adopting a construction beyond what the language imports see <CITATION_1479692> 24 C. 143 at p. 148 and <NAME> v. Sheikh Kachu 32 C. 386.
+RatioOfTheDecision	And if as I have shown the holding continues in favour of the under-tenant.
+RatioOfTheDecision	then there is, a continuing intermediate interest between that of the landlord and the undertenant which still furnishes an answer to any claim under Section 85 (1).
+RatioOfTheDecision	To hold otherwise would involve the view that if the position were reversed and the <ORG> acquired the holding of his landlord he could call Section 85 (1) in aid against his own under-tenant; for this the learned appellant's pleader admitted he could not contend.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The conclusion at which I have arrived is in substantial accord with decisions in <CITATION_67655> 31 C. 932 and <CITATION_67655> 34 C. 104 and is distinguishable from <CITATION_1839314> 28 C. 205 in that there the tenant's interest did not pass to the landlord by the voluntary act of the tenant.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The result is that, in  my opinion, the conclusion at which <NAME>, J. arrived, is correct and this appeal must be dismissed with costs.
+RatioOfTheDecision	Exception has been taken to the expression by <NAME>, J., of the opinion that it would be open to the present plaintiffs in any subsequent suit or proceeding taken against them to raise the question whether the plaintiffs by custom or usage had acquired an occupancy right.
+RatioOfTheDecision	This objection is, I think, well founded; whether the question can be raised in a future suit or proceeding must be determined in that suit or proceeding and its determination cannot be anticipated in this suit.
+RatioOfTheDecision	15.
+RatioOfTheDecision	This judgment, it is conceded, will govern the other appeal (No.
+RulingByPresentCourt	49) which is, accordingly, dismissed with costs.

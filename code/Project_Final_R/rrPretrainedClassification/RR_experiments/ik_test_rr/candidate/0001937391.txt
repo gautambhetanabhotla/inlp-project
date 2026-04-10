@@ -1,0 +1,34 @@
+Fact	JUDGMENT <NAME>, Acting C.J.
+Argument	1.
+Argument	This is an appeal against an order made by Mr. Justice <NAME>, under Clause 18 of the Matters Patent, for the transfer of a claim, suit from <ORG> to this Court.
+Argument	2.
+Argument	A preliminary objection has been taken on behalf of the respondent that the appeal is incompetent, in as much as the order is not a "judgment" within the meaning of Clause 15 of the Letters Patent.
+Argument	There can be no question, in our opinion, that the proceeding whish has been transferred is a suit within the meaning of Clause 13 of the Letters Patent.
+Argument	It was pointed out by Mr. Justice <NAME> in the case of <CITATION_1530278> 18 C. 296 : 9 Ind.
+Argument	Dec.
+Argument	(N.S.)
+Argument	197, that, under <ORG>, claims are not tried summarily; they are dealt with just as suits are and we find that the proceeding is described and is numbered as a suit lending in <ORG>.
+Argument	The only question consequently is, whether the order of transfer is a judgment."
+Precedent	We are of op inion that the answer must be in the negative.
+Precedent	3.
+Precedent	In the case of <ORG> for Calcutta v. <ORG> 8 B.L.R.
+Precedent	433 : 17 W.R. 364, Sir <NAME>, C.J" said: "We think that judgment in Clause 15 means a decision which affects the merits of the question between the parties determining some right or liability.
+Precedent	It may be either final, or preliminary or interlocutory, the difference between them being that a final judgment determines the whole cause or suit, and a preliminary or interlocutory judgment determines only a part of it, leaving other matters to the determined."
+Precedent	In the case before us, the order for transfer does not involve a decision which affects the merits of the question between the parties, nor does it determine some right or liability.
+Precedent	We do not overlook the later decision in the case of <NAME> v. <NAME> 13 B.L.R.
+Precedent	91 : 21 W.R. 303.
+Precedent	Where it was ruled that an order granting leave to sue, to the plaintiff, under Clause 12 of  the Letters Patent, is a "judgment" and is appealable under Clause 15, It was explained that an order granting leave to sue was not a mere formal order or an order merely regulating the procedure in the suit, but one that had the effect of ving a jurisdiction to the Court which it otherwise would no have and, from this point of view, it tight fairly be said lo determine some right between the parties, namely, the right to sue in a particular Court, and to compel the defendants who were not within its jurisdiction to come in and defend the suit, or, if they did not, to make them liable to have a decree passed against them in their absence.
+RatioOfTheDecision	These reasons, obviously, are not applicable to a case of the description row before us.
+RatioOfTheDecision	4.
+RatioOfTheDecision	It has been contended, however, that the order under appeal not only directs the transfer of the suit, but also declares thus the defendant firm will be at liberty to proceed with the gale in execution of the decree of <ORG>, made in a previous suit This declaration  is merely ancillary to the order for transfer, and cannot be deemed appealable irrespective of the character of the primary order.
+RatioOfTheDecision	We are accordingly of opinion, upon a construction of Clauses 13 and 15, that the order is not appealable.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It is worthy of mention that our attention has not been drawn to any case in which an appeal has been entertained from an order of this description.
+RatioOfTheDecision	Orders for transfer have frequently been made for years past and many of them are to he found in the reports: but there is no trace that an appeal has ever been successfully maintained against an order for transfer under Clause 13 of the Letters Patent.
+RatioOfTheDecision	6.
+RulingByPresentCourt	The result is, that the appeal is dismissed with costs.
+RulingByPresentCourt	7.
+RulingByPresentCourt	The Rule is discharged with costs.
+Precedent	<NAME>, J.
+Precedent	8.
+RulingByPresentCourt	I agree.

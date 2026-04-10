@@ -1,0 +1,79 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These appeals and cross-appeals from a judgment and decrees of <ORG>, dated the 5th of June 1905, arise out of certain actions in ejectment brought by the plaintiffs in <ORG> to recover possession of seven plots of jungle lands, commonly called garhs, as appertaining to their estate of <NAME>.
+Fact	2.
+Fact	The main defence to the suits was based on the allegation that the lands in dispute formed part of the defendant's talook of Balasuti, and not of the plaintiffs' zamindari of Pukhuria.
+Fact	It was also urged that the actions were barred by the Statute of Limitation.
+Fact	3.
+Fact	At the trial the plaintiffs appear to have withdrawn or abandoned their claim in respect of plots 5, 6, and 7 ; and the adjudication was thus confined to the first four pieces of property, named respectively, (1) Ramkrishnabaree, (2) Pirijpur, Bagalbari and Krishnapur, treated as one plot, (3) <NAME>, and (4) Mantollah.
+Fact	4.
+Fact	A number of issues were rais ed, most of which only touched the fringe of the case, and, as usual, helped in prolonging the trial.
+Fact	5.
+Fact	The Subordinate Judge, in a very able judgment dealing with the real issue, came to the conclusion that the plaintiffs had established both title and possession in respect of all four plots and awarded them a decree in modifiction of their claims regarding area.
+Fact	6.
+Fact	On appeal by the defendant <ORG> has affirmed the Subordinate Judge's decree in respect of plots 1, 2 and 4, but has dismissed the claim in respect of <NAME> (plot 3).
+Fact	7.
+Fact	Both parties have appealed to His Majesty in Council.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Regarding <NAME> (plot 4), the decision of <ORG> has not been seriously impugned at their Lordships' <ORG>, and the controversy is thus narrowed to the correctness of the decree with regard to <NAME> (plot 1), Pirijpur, &c. (plot 2), and of the dismissal of the claim respecting <NAME> (plot 3).
+RatioOfTheDecision	9.
+RatioOfTheDecision	The history of the two properties Pukhuria and Balasuti is set out in considerable  detail in the judgments of the Subordinate Judge and of <ORG>.
+RatioOfTheDecision	It is sufficient therefore to refer here to only a few of the salient features of the case.
+RatioOfTheDecision	10.
+Fact	Pergunnah Pukhuria, prior to the Permanent Settlement of 1793, belonged to a Hindu lady, <NAME>, whose name occurs frequently in the annals of Eastern Bengal towards the end of the 18th century, and who is referred to in very reverent terms, in the first <ORG>'s judgment.
+Fact	Between the years 1766 and 1778 this lady appears to have made certain grants to her daughter <NAME> of a number of mouzahs which now constitute the Talook of Balasuti, paying rent to the parent estate of Pukhuria.
+Fact	The defendant derives title from <NAME>, whilst the plaintiffs, by various transfers and devolutions, have become the proprietors of the zamindari of Pukhuria.
+Argument	11.
+Argument	The forest of Garhgojali forms admittedly a part of <ORG>, and is owned by the defendant.
+Precedent	In the year 1850 there was, at the instance of <ORG>, a thakbast, followed  by a scientific survey of this tract of country, which seems to have lasted until 1857.
+Precedent	In the course of the survey various contentions arose between the zamindars on one side and the talookdar on the other, regarding the demarcation of the lands.
+Precedent	These contentions are referred to in the judgments of the Courts in India as matneza or contentious proceedings.
+Argument	12.
+Argument	Ramkrishnabari and the three villages of Pirijpur, Bagalbari, and Krishnapur, now alleged by the defendant to form part of Garhgojali were surveyed then as appertaining to Pergunnah Pukhuria and not to Garhgojali, which was thaked and surveyed separately.
+Argument	Among the many contentions that arose between the parties in the course of the survey proceedings, no question seems to have been raised regarding the demarcation of these lands as falling within the ambit of the zamindari.
+Argument	Further, both the Courts in India concur in finding that the plots 1 and 2 are not included in the sanads by which the talook was created and having regard to the nature of the p roperty as jungle land they have held, in their Lordships' opinion correctly, that possession must be presumed to have been all along with the plaintiffs, who clearly had title to them, until dispossession within the statutory period.
+RatioOfTheDecision	In this view their Lordships think that the defendant's appeals in regard to plots 1, 2, and 4 must fail.
+RatioOfTheDecision	13.
+RatioOfTheDecision	With regard to <NAME> (plot 3), the position is not so clear.
+RatioOfTheDecision	Admittedly the plaintiffs are entitled to a mouzah or jote of that name as appertaining to Pukhuria, but bearing a separate revenue assessment in <ORG>.
+RatioOfTheDecision	It is established that they pay the revenue for it and that they have often purported to deal with it as an existing mouzah.
+Precedent	It is clear, however, that for many years prior to the <ORG> survey of 1851 they were unable to localise <NAME>; and consequently in the partitions that took place between the different owners of the <ORG>, the batwara of <NAME> among the co-sharers was effected by means of a division of the ja ma or <ORG> revenue payable for it.
+Precedent	14.
+Precedent	In the thakbast and survey proceedings of 1850 and 1851, no attempt appears to have been made to trace Jote Pailan or to have it demarcated by the <NAME> preparing the Thak map which formed the foundation of the subsequent survey.
+Precedent	15.
+Precedent	In 1857, when the survey proceedings were evidently drawing to a close, attention was directed to the fact that Jote Pailan, a separate revenue paying mouzah appertaining to Pergunnah Pukhuria, did not appear to have been separately measured or thaked.
+Precedent	The officer who submitted the report asked for an enquiry as to the reason of its non-appearance in the thakbast measurements of the locality; and the Deputy Collector in charge of the survey thereupon called for a statement from the person in possession of the mouzah or his <NAME>.
+Precedent	Pursuant to this order the zamindar's agent appeared and stated that as Jote Pailan, was wholly covered with jungle and was situated "by the side of Garhgojali" it had been surveyed along with it, and that  "the ten <NAME> share of <NAME> should be taken for that mouzah."
+Precedent	16.
+RatioOfTheDecision	There is nothing to show on what data or material the application was made for the allotment to <NAME> of a ten <NAME> share of the lands demarcated within the thaked boundaries of <NAME>.
+Precedent	But on the 27th July 1857 the Deputy Collector, proceeding on the allegations of the zamindari mukhtar, directed that the statement in the thakbast proceedings be rectified, and pursuant to this direction an entry was made in the index attached to the thakbast map of <NAME> (Ex.
+Precedent	386).
+Precedent	In the remark column it is entered that "this mouzah (<NAME>), has been measured without demarcation within the enclosure of <NAME>."
+Precedent	And in the column of <NAME>, it is recorded that <NAME> consists of "15 annas and 6 pies" and <NAME> of 6 pies (or ten gundas).
+Precedent	17.
+Argument	On the 19th July, and consequently before the order referred to above, a petition had been presented by the <NAME> of the defendant's predecessor in title objecting  to the statement of the zamindar's agent that Jole Pailan had been measured "in the same circle with <NAME>" (another name for Garhgojali).
+Argument	The petition then goes on to say "Jote Pailan is to the east of Ramnagar, and to the north of Kanyajora Khal, and forms an unprofitable mahal consisting of minor and worthless jungles,and it neither forms a part of, nor appertains to the garh held by"the petitioner, meaning Garhgojali.
+Fact	This petition, was rejected on the 27th July on the ground that the matter had been already disposed of.
+Fact	18.
+Fact	No further step seems to have been taken with regard to the localisation of Jote Pailan until 1882, when the plaintiffs brought a suit for the enhancement of the rent of the Talook.
+Fact	In their claim they purported to exclude a tract of land, which they alleged to be Jote Pailan, wrongly included in Garhgojali.
+Fact	A map was prepared on that occasion, and the line of boundary pointed out then has been reproduced in the map of the locality prepared for the purposes of the present su its.
+Argument	19.
+Argument	It will thus be seen that the plaintiffs' claim to <NAME> hinges on the entry in the statement attached to the thakbast map of Garhgojali, and the boundaries given in the defendant's petition of the 19th July 1857.
+Argument	20.
+Argument	The position of Ramnagar is not disputable, but the parties are not in accord with regard to Kanyajora Khal.
+Argument	The Subordinate Judge has accepted the plaintiffs' statement that what the defendant calls <NAME> is the real Kanyajora Khal of the petition of 1857; and as according to the statements made then by the defendant, <NAME> lay to the east of Ram-nuggur and north of the Kanyajora Khal he has treated the disputed <NAME> accordingly.
+Argument	He seems further to have considered that the declaration entered in the index to the thakbast map was an official act to which no exception had been taken on behalf of the defendant, and may therefore be presumed to have been correctly made.
+Argument	Proceeding on this hypothesis he awarded the plaintiffs a decree for y 1/32nd.
+Argument	or ten <NAME> share of  the total thaked area of Garhgojali lying to the east of Ramnagar and north of Kanyajora as pointed out by the plaintiffs.
+RatioOfTheDecision	The learned Judges of <ORG> were not satisfied with the plaintiffs' identification of the Khal.
+RatioOfTheDecision	With regard to the entry in the statement attached to the thakbast map, they considered it was made ex parte, and so far as appears on the record, without any inquiry.
+RatioOfTheDecision	And they accordingly held that the plaintiffs had failed to discharge the onus that lay on them to show Jote Pailan was situated within Garhgojali.
+RatioOfTheDecision	Their Lordships do not feel in a position, on a general review of the evidence, to say that they are wrong in the view they have taken.
+Fact	It is only with the help of the disputed entry in the thak map that the Subordinate Judge was able to mark off the area he has awarded to the plaintiffs.
+Fact	In the plaint they had claimed 8,000 biggas as belonging to Jote Pailan ; before the officer making the local investigation and who prepared the map of the locality, they pointed out an area  extending to 22,000 biggas.
+RatioOfTheDecision	The learned Judges are right in observing that the plaintiffs are "not at all certain as to the true position of <NAME>."
+RatioOfTheDecision	The entry on which the decree awarded to them must rest, was made on an ex parte statement of the zamindars' agent which was immediately contradicted on behalf of the defendant.
+RatioOfTheDecision	Under these circumstances their Lordships think the judgment and decree of <ORG> with regard to <NAME> must be affirmed.
+RatioOfTheDecision	21.
+RulingByPresentCourt	In the result their Lordships will humbly advise His Majesty that these appeals and cross-appeals be dismissed with costs.

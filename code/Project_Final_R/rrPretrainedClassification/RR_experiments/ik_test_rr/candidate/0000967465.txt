@@ -1,0 +1,85 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is a defendant's appeal arising out of a suit for ejectment and for recovery of rent.
+Fact	2.
+Fact	<NAME> and <NAME>, the two respondents, brought the suit on 3-12-1951, for ejectment of <NAME> appellant from the shop which had been purchased by the two brothers some time before the suit.
+Fact	It appears that on 22-10-1951, the two brothers (plaintiffs) served a notice on the appellant requiring him to vacate the shop.
+Fact	This notice was served after <NAME> had obtained the permission of the District Magistrate of Kheri to eject <NAME> appellant from the shop in question.
+Fact	3..
+Fact	The title of the plaintiffs to the shop which was in occupation of the defendant as a tenant was not disputed.
+Fact	The only ground upon which the suit was contested was that the permission obtained from the District Magistrate as also the notice served on the defendant were bad in law.
+Fact	4.
+Fact	The learned <NAME> held the notice-which was served upon the appellant <NAME> was a perfectly valid notice.
+Argument	He also  held that the permission obtained by one of the two joint owners from the District Magistrate was a good permission so as to entitled both the brothers the owners of the shop, to maintain the suit.
+Argument	On these findings the plaintiffs' suit for ejectment and for recovery of Rs.
+Argument	199/14/- was decreed.
+Argument	It was also ordered that "the plaintiffs shall get damages at the rate of Rs.
+RatioOfTheDecision	33-3-0 per month from the date of the suit till the date of the ejectment".
+RatioOfTheDecision	5.
+Fact	After the decision of the learned <NAME> the matter was taken up in appeal by the tenant.
+Fact	During the pendency of the appeal one of the plaintiffs, i. e. <NAME>, entered into a compromise with <ORG> tenant which was filed and .
+Fact	Verified on 11-2-1952.
+Fact	By this compromise <NAME> agreed to give up his moiety share of the rent due and damages which had been awarded by the learned <NAME>f, It was also mentioned in the compromise petition that <NAME> who was the owner of a moiety share in the shop, did not want to continue the appeal, so far as he was co ncerned.
+Precedent	The compromise referred to other matters also, but it is not necessary to mention them here.
+Precedent	6.
+Precedent	The other appellant before the lower appellate Court i.e.
+Precedent	<NAME>, prosecuted the appeal, which was heard and decided by the Civil Judge.
+Precedent	The lower appellate Court found that the notice which was served upon the tenant by the plaintiffs was a good and valid notice.
+Precedent	It also held that the sanction granted by the District Magistrate in the name of one of the two joint owners was a valid sanction.
+Fact	Lastly, the Court below held that the compromise entered into between one of the plaintiffs and the tenant did not affect the right of the other plaintiff to eject the tenant from the premises in suit.
+Fact	The decree of the learned <NAME> for ejectment of the defendant was confirmed but, in view of the compromise only a decree for half of the arrears of rent and damages in favour of <NAME> was passed.
+Argument	7.
+Argument	Dissatisfied with the decision of the lower appellate Court <NAME> (tenant) has come up in second appeal and t he points canvassed in this Court were:  (1) No proper sanction was obtained for the filing of the suit.
+Argument	(2) The compromise between one of the joint owners and the tenant operated as a waiver of the notice and, therefore, no decree for ejectment could be passed.
+Precedent	8.
+Precedent	As regards the first point, it has been contended before me that only <NAME> had applied to the District Magistrate for sanction to eject the tenant, & as there were two owners qf the shop in question the permission should have been obtained by both the owners.
+RatioOfTheDecision	This contention has little substance.
+RatioOfTheDecision	The two brothers <NAME> and <NAME> were the joint owners of the shop and both of them had served a notice upon the tenant determining the tenancy.
+RatioOfTheDecision	They could eject the tenant (<NAME>) but for the provisions contained in Section 3, U. P. Rent Control and Eviction Act , 1947, which provided.
+RatioOfTheDecision	that no suit for ejectment could be brought without the previous permission of the District Magistrate.
+Fact	The only hurdle in the way of the owners of the  shop in bringing the suit was the permission of the District Magistrate.
+Fact	Once that permission was obtained, the hurdle was removed and both could bring the suit.
+RatioOfTheDecision	It does not matter if the permission was obtained by both or either of them.
+Precedent	Once a permission was granted by the District Magistrate it took away the bar imposed by Section 3 and it did not matter whether the Distict Magistrate granted permission to one or the two joint" owners.
+Precedent	Permission to sue having been obtained under Section 3 it will automatically enure not only to the benefit of the person who obtained it but also to the benefit of others who were interested in filing the suit.
+Argument	Moreover, it is manifest that both the plaintiffs are brothers and both of them had served a notice on the tenant to vacant the premises in suit.
+Argument	Therefore both of them brought the suit to eject the defendant.
+RatioOfTheDecision	In these circumstances <NAME> who obtained the permission, will be deemed to have acted as agent on behalf of the other plaintiff even though we exclude  the theory that they were members of the joint Hindu family.
+RatioOfTheDecision	The Courts below were, therefore, quite right in holding that the permission obtained from the District Magistrate by one of the plaintiffs was a good permission to enable both of them to maintain the suit.
+RatioOfTheDecision	.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The only other ''point that remains to be decided is whether <NAME> can be prevented from ejecting the appellant on the principle of waiver.
+RatioOfTheDecision	This principle is contained in Section 113 , T. P, Act, which runs as follows:  "A notice' given under Section 111 , Clause (h) is waived, with the express or implied consent of a person to whom it is given, by any act on the part of the person giving it showing an intention to treat the lease as subsisting."
+RatioOfTheDecision	10.
+RatioOfTheDecision	Learned counsel for the appellant has argued that in view of the compromise arrived at between the tenant and one of the lessors, namely <NAME>, there was a waiver of the notice as contemplated by Section 113 , T. P. Act.
+RatioOfTheDecision	This argument is on the face of it untenable.
+RatioOfTheDecision	Under the terms of  the compromise between the appellant and <NAME> the latter agreed to give up the arrears of rent and the claim for damages so far as his share was concerned.
+RatioOfTheDecision	It is significant that in the compromise it wag specifically mentioned that the compromise had nothing to do with the right and interest of the other lessor, i.e.
+Precedent	<NAME>.
+Precedent	This compromise was arrived at in the lower appellate Court after the suit for ejectment had been decreed by the learned <NAME>.
+Precedent	As will appear from the language of Section 113 , a waiver can be brought about by the action of the landlord if after determining the tenancy by notice the landlord chooses to accept rent again from the tenant.
+Precedent	In such an event under Section 113 , T. P. Act, a notice for determination of the lease already given by the landlord to the tenant will be deemed to have been waived.
+RatioOfTheDecision	No question of waiver arises after the landlord has brought a suit on the basis of a valid notice given for determination of the lease.
+RatioOfTheDecision	After such a suit has been brought, there  can be no waiver, though it is always open to a landlord to renew the lease at any time he pleases.
+RatioOfTheDecision	I do not therefore think that any question of waiver arises in this case.
+RatioOfTheDecision	There is yet another reason why the plea of waiver is not open to the appellant.
+RatioOfTheDecision	It is obvious that the lease of the appellant was determined by the owners of the property, i.e.
+Fact	the two plaintiffs who brought the suit.
+Fact	As the interests of both the lessors were joint, one of the lessors was incompetent either to waive the notice or to renew the lease.
+Fact	A waiver to be effective and binding must be made by the entire body of joint owners and it is not open to one of the joint owners to waive notice.
+Fact	After the tenancy of the appellant was determined by the two owners, the possession of the appellant was that of a trespasser.
+Fact	If the appellant wanted back his tenancy rights, it could be done only by grant of a fresh lease by the two joint owners.
+Fact	Both the plaintiffs being joint owners, one of them could not create or restore back the lease.
+RatioOfTheDecision	1 1.
+RatioOfTheDecision	Since the tenancy of the appellant was determined by notice by both the owners of the shop, it came to an end.
+RatioOfTheDecision	The possession of the appellant was no better than that of a trespasser and this fact was confirmed by the decree of the learned <NAME>.
+RatioOfTheDecision	The compromise could not and did not change the status of the appellant which was no other than that of a trespasser.
+RatioOfTheDecision	One of the co-sharers is quite competent to eject a trespasser even though the other co-sharer does not join.
+RulingByPresentCourt	<NAME> plaintiff could validly continue the appeal and seek ejectment of the appellant.
+RulingByPresentCourt	The learned Civil Judge was, therefore, justified in passing the decree for ejectment as the compromise could not stand in the way of <NAME> from ejecting a trespasser.
+RulingByPresentCourt	The decree passed by the lower appellate Court must be affirmed.
+RulingByLowerCourt	12.
+RulingByLowerCourt	There is no substance in the appeal, which is dismissed with costs.
+RulingByLowerCourt	The interim order of stay dated 6-9-1954 is hereby vacated.
+RulingByLowerCourt	13.
+RulingByLowerCourt	Leave for special appeal is refused.

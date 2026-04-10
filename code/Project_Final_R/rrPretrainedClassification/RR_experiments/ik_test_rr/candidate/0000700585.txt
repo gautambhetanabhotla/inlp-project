@@ -1,0 +1,127 @@
+Precedent	JUDGMENT J.W.F.
+Precedent	<NAME>, C.J.
+Precedent	1.
+Precedent	This is an appeal from a judgment of Mr. Justice Sir <NAME>, and the first point which the learned Judge decided was that the action would not lie because it was a condition precedent to any action that there should be a reference to arbitration.
+Precedent	2.
+Precedent	The dispute arises on certain contracts made between the plaintiffs and the defendants, all of which are in the same form, the form being Ex.
+Precedent	A.
+RatioOfTheDecision	That is a document signed by the defendants and addressed to the plaintiff's, dated January 4, 1928, and it says:  We request you to execute the following order on our account subject to the Rules and Regulations of the East India Cotton Association Limited is applicable and also subject to the terms and conditions of your contract.
+RatioOfTheDecision	Then follow various stipulations for the sale of certain cotton providing for payment and so forth.
+RatioOfTheDecision	Upon the question whether there is a condition precedent that the matter should be referred to arbitration, the only material part of the contract is th at which I have read.
+RatioOfTheDecision	The word "is" in the phrase "is applicable" is not grammatical, but I think it means "so far applicable".
+RatioOfTheDecision	Now in order to determine the question what the words " subject to the Rules and Regulations of <ORG>" mean, and whether they make arbitration a condition precedent, one has to acquaint oneself with the position of that <ORG>.
+RatioOfTheDecision	The first thing to look at is the Bombay Cotton Contracts Act of 1922.
+Statute	That Act recites that it is expedient to provide for the regulation and control of transactions in cotton in Bombay.
+Statute	Then Section 3 gives the board, which is the board of directors of the <ORG>, power, subject to the sanction of of Governor in Council, to make by-laws for the regulation and control of transactions in cotton, and a lot of subjects are specified which may be covered by the by-laws.
+Statute	One of them is, " (i) providing for arbitration and appeals against awards", and the last one is, "(m) regulating the course of business between parti es to contracts in any capacity whether they be members of the <ORG> or not".
+Statute	Then Sub-section (3) of Section 3 provides that bylaws made by the board under Sub-section (7) and sanctioned by the Governor in Council shall be published in <ORG>.
+Statute	Then Section 4 provides: "The constitution and administrative machinery set out in the Articles of <ORG> of the <ORG> are declared to be lawful".
+Statute	Section 5 provides :  Any contract (whether either party thereto is a member of the <ORG> or not) which is entered into after the date on which by-laws under this Act are sanctioned by the Governor in Council and published in <ORG>, and which contravenes any such by-law shall be void.
+RatioOfTheDecision	It is to be noticed, therefore, that under that Act, Section 3 and Section 5 both cover the case of non-members, whereas in Section 4 there is no reference to non-members.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The next document to look at is the memorandum and articles of association of <ORG>  <ORG> Nothing, I think, turns upon the memorandum : the <ORG> is formed as a company limited by guarantee.
+Statute	The articles are for the most part in the common form of articles used by companies registered under the Indian Companies Act , and of course in reading articles one has to remember the provisions of Section 21 of the Indian Companies Act, which provides:  (1) The memorandum and articles shall, when registered, bind the company and the members thereof to the same extent as if they respectively had been signed by each member and contained a covenant on the part of each member, his heirs, and legal representatives, to observe all the provisions of the memorandum and of the articles, subject to the provisions of this Act.
+Statute	That is a section taken from the English Act , and it is quite clear under that section that the articles are a contract between the company and the members, and between the members inter 8e, but they do not bind outside parties.
+Statute	Now looking at these articles, it is wort h observing that in Article 5 occurs this phrase:  Every person, firm or company who having a place of business in Bombay and who up to May 10, 1922, or such extended date as may be fixed by the <ORG>, applies for Membership of the <ORG> agreeing to be bound by these Articles and the By-laws, Rules and Regulations of the <ORG> from time to time in force.
+Statute	The actual words used in the contract to be construed " Rules and Regulations" appear in this article and they seem to be used more in connection with the by-laws than with the articles.
+Statute	So far as I can see, the only articles which may be said to affect persons other than members, that is, persons engaged in the cotton trade other than members, are Articles 13-A, 95 and 96.
+Statute	Article 13-A provides :-  Any person, firm or company who has a place of business in Bombay and in the opinion of the <ORG> is or intends to be engaged in bona fide cotton business may in the discretion of the <ORG> be licensed to trade as a cotton broker.
+Statute	Such license shall n ot be necessary in order to engage in cotton breking business unless the By-laws so provide.
+Statute	Such license shall be granted and held upon such terms including payment and may be suspended or cancelled or renewed as the By-laws may provide.
+Statute	So that, although that article seems to deal with persons who are not members, it does not have any effect except so far as the by-laws provide.
+Statute	Article 95 deals with hedge contracts, which are a particular form of contract in the cotton market, but that article is also incorporated in the by-law.
+Statute	Article 96 provides as follows:-  Whenever any difference arises between Members or Associate Members or Special Associate Members or between one or more of them and another or others who are not Members or Associate Members or Special Associate Members touching or in connection with the cotton trade or any transaction therein it shall be referred to arbitration in such manner as shall be prescribed by the by-laws.
+Statute	And it is hereby expressly declared that the holding of such an ar bitration ' (which seems to be an arbitration between members or between members and non-members)' and the obtaining of an award thereunder shall be a condition precedent to the right of any Member or Associate Member or Special Associate Member or non Member to commence legal proceedings against any other Member or Associate Member or Special Associate Member or non-Member in respect of any such difference as aforesaid and any Member or Associate Member or Special Associate Member or non-Member shall have no right of action against any other Member or Associate Member or Special Associate Member or non-Member except to enforce the award in any such arbitration.
+Statute	4.
+Fact	That is an arbitration provision inserted in the articles which makes arbitration a condition precedent to any right of action.
+Fact	The second part of it covers in terms non-members.
+RatioOfTheDecision	It covers a difference between one non-member and another non-member and taking it quite literally it appears to impose as a condition precedent to an action between one  non-member and another non-member, the holding of an arbitration between members inter se or between members and non-members under the first part of the article, But whatever the article means it cannot under the ordinary law bind non-members.
+RatioOfTheDecision	In order to bind non-members it will be necessary to show that it has been given some special statutory effect.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The next document to consider is the by-laws, which contain provisions for arbitration in Clause (35) which deals with arbitrations in respect of disputes ass to quality, and Clause (88) which deals with other disputes.
+RatioOfTheDecision	This case falls under Clause (38), and not Clause (35) because there is no dispute here as to quality.
+RatioOfTheDecision	Clause (38) provides that:-  All unpaid claims whether admitted or not and all disputes (other than those relating to quality) arising out of, or in relation to (a) contracts (whether forward or 'ready' and whether between members or between a member and a non-member) made subject to these by-laws or (b) the rights and/or responsibilities  of commission agents, muccadums and brokers not parties to such contracts, shall be referred to the arbitration of two disinterested persona one to be chosen by each disputant.
+RatioOfTheDecision	I can see nothing in that clause to make arbitration a condition precedent to the right to bring an action.
+RatioOfTheDecision	It seems to me to be an ordinary provision for referring disputes to arbitration, and such a provision does not in any way oust the jurisdiction of the <ORG>.
+RatioOfTheDecision	If an action is brought in respect of a matter covered by the arbitration clause, the defendant can apply under the Indian Arbitration Act to stay the action, but it is not open to him to say that the action does not lie.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Now, coming back to the form of contract Ex.
+RatioOfTheDecision	A, one has to see what is meant by the contract being expressed to be subject to the rules and regulations of <ORG>.
+RatioOfTheDecision	Does the expression "rules and regulations" moan the by-laws, or does it mean the by-laws and the articles of association V Sir <NAME> for the  defendants points out that in Sections 17 and 18 of the Indian Companies Act the word "regulations" is used in connection with the articles of association.
+RatioOfTheDecision	I have no doubt that in many contexts a reference to regulations of the <ORG> would mean the articles and nothing else, but the question is whether in this commercial contract the parties, when they say the contract is made subject to the rules and regulations of the <ORG>, mean anything more than the by-laws.
+RatioOfTheDecision	The by-laws are the Code which the <ORG> has framed for governing cotton transactions, and they have to be published n <ORG>.
+RatioOfTheDecision	Articles of association, prima facie, according to the ordinary law, bind nobody except the <ORG> and the members of the <ORG>, and it seems to no that the parties here, when they refer to rules and regulations n this contract, are referring only to the by-laws and not to the articles of association.
+RatioOfTheDecision	I should have mentioned that at the date of the first contract neither the  plaintiffs nor the defendants were members of the <ORG>, although at the dates of the subsequent contracts which were in January, February, and March, 1928, plaintiffs had become associate members, while the defendants were not members.
+RatioOfTheDecision	As a matter of construction of this contact I hold that the contract is made subject to the by-laws of he <ORG>, but not subject to the articles of association.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Then Sir <NAME> says that even if that is so, nevertheless Article 96 of the articles of association applies, because the Bombay Cotton Contracts Act in Section 4 says that the constitution and administrative machinery set out in the articles of association of the <ORG> are declared to be lawful.
+RatioOfTheDecision	He says that that means that the constitution and administrative machinery set out in the articles are to have the force of law, and that is the view which the learned Judge in this case adopted.
+RatioOfTheDecision	He held that this arbitration provision is part of the administrative machinery, and that under S ection 4 it must have the force of an Act of Parliament.
+RatioOfTheDecision	In my opinion that is not the fair or proper meaning to be attributed to the words 'declared to be lawful'.
+RatioOfTheDecision	I think that all that those words mean is that the constitution and administrative machinery set out in the articles of association of the <ORG> are not to be attacked as unlawful.
+RatioOfTheDecision	Why it was thought necessary to make that provision in the Act I do not know.
+RatioOfTheDecision	It may very well be that some of the provisions of the articles were thought not to comply, or that there might be a question whether they complied, with the Indian Companies Act ; or it may have been thought that there was some question as to there being provisions in restraint of trade or in the nature of wagering or something of that sort.
+RatioOfTheDecision	Whatever the reason for its enactment, it seems to me that all that provision in Section 4 of the Act means is that the constitution and administrative machinery as set out in the articles are not to be challenged as being illegal, but it seems to m e quite impossible to say that the whole of the provisions of the articles relating to the constitution and administrative machinery are to have the force of law.
+RatioOfTheDecision	Whether the arbitration provision in Article 96 can fairly be described as administrative machinery I think extremely doubtful, but it is not necessary to decide that point.
+RatioOfTheDecision	8.
+RatioOfTheDecision	If I am right in the above view then the only provision for arbitration which is incorporated into this contract by reference to the rules and regulations of the <ORG> is by-law 38 ; and, as I have already said, I do not think that by-law makes reference to arbitration a condition precedent to the bringing of an action.
+RatioOfTheDecision	Therefore, in my judgment, the learned Judge was wrong in holding that the action would not lie.
+RatioOfTheDecision	9.
+RatioOfTheDecision	I should add that it has been argued that if the Bombay Cotton Contracts Act has made arbitration compulsory under either Article 96 or by-law 38 so as to oust the jurisdiction of the <ORG>, it was not competent for the legislature to pass such an enactm ent.
+RatioOfTheDecision	In the view I take of the matter, it is not necessary to consider that question, because I think that Article 96 does not apply at all to this contract, and I think that by-law 38 is merely an ordinary provision for arbitration which does not in any way oust the jurisdiction of the <ORG>.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The next point raised on the appeal, which is the subject, though I think not rightly the subject, of cross-objections by the defendants, is this, that the contract in this case does not comply with Clause (81) of the by-laws.
+RatioOfTheDecision	Clause (81) of the by-laws, which were in force at the date of this contract, provides that: -  Contracts between Agents and their constituents, e. g., between a member and a non-member or between a member acting as an agent and a member acting as his constituent shall be subject to the by-laws and shall be in writing in the form given in the Appendix (pages 67, 08, 69 and 70).
+RatioOfTheDecision	11.
+RatioOfTheDecision	Then it goes on:-  A member whose constituent has agreed in writing to sign the prescribed form of contract and  fails or refuses to do so after terms have been arranged shall be treated in all respects as if he had done so and both parties shall have the rights and remedies accorded by these by-laws.
+RatioOfTheDecision	The learned Judge in this case held that the documents, to which I shall refer in a moment, amounted to a substantial compliance with the terms of the by-law, that is to say, substantially they amounted to the same thing as the form of contract set out in the schedule to the by-laws, although they were not in fact in that form, but in a later case he seems to have receded from that position.
+RatioOfTheDecision	I see no reason why Clause (81) of the by-laws should not mean what it says, i. e., that the contract between the agents and their constituents shall be in writing in the form given in the Appendix.
+RatioOfTheDecision	It may be very convenient that contracts relating to cotton should all be in the same form.
+RatioOfTheDecision	Obviously it will assist arbitrators very much if the contracts which they have to deal with are all in the same form; in course of time any diffi culties which arise under them can be construed by the <ORG>, and people will get to know exactly what the contract means.
+RatioOfTheDecision	If every member of the cotton association or other person dealing in cotton is to have his own particular form these advantages will be lost.
+RatioOfTheDecision	At any rate, whatever the reason for this by-law it says plainly that the contract shall be in the form given in the appendix.
+RatioOfTheDecision	Looking at the documents in this case, it is perfectly plain that they are not in the form given in the appendix.
+RatioOfTheDecision	Mr. <NAME> says that he can bring the case within the second part of by-law 81, because he says that the defendants agreed in writing to sign the prescribed form of contract and there was failure by the defendants to sign it.
+RatioOfTheDecision	Now I am quite unable to find any agreement by the defendants to sign the prescribed form of contract.
+RatioOfTheDecision	The contract, as I have already said, starts with this provision, "We (i.e., the defendants) request you to execute the following order on our account subject to the Rules and Regulations  of <ORG>."
+RatioOfTheDecision	Mr. <NAME> says that "subject to the Rules and Regulations" involves signing the form of contract in the appendix.
+RatioOfTheDecision	But it seems to me impossible to give that meaning to the phrase.
+RatioOfTheDecision	The defendants are requesting the plaintiffs " to execute the following order on our account," and then follows an order not in the least in the form of the contract referred to in the by-laws.
+RatioOfTheDecision	I see no reason to suppose that defendants intended to be bound by two contracts or were requesting the plaintiffs to procure two forms of contract for them to sign.
+RatioOfTheDecision	Then that contract is followed by a telegram from the plaintiffs to their brokers in Bombay requesting them to carry out the defendants' order.
+RatioOfTheDecision	That is Exhibit N1, and Exhibit 01 is a telegram from the brokers stating that the order has been carried out.
+RatioOfTheDecision	And then comes Exhibit A3, a confirmation notice which the plaintiffs sent to the defendants stating that they have received from their Bombay friends, i.e., the brokers, a telegra m advising sale on defendants' account of such and such quantity of cotton "subject to usual terms of their contract of which please take note."
+RatioOfTheDecision	"Their" contract must, I think, mean the contract which the brokers have entered into for the sale of the cotton.
+RatioOfTheDecision	Then it goes on, " The confirmatory note and the contract will be sent to you as usual, as soon as we receive these from Bombay," and on that document, which is Exhibit A3, is endorsed by the defendants a receipt notice which is Exhibit A4, and the suggestion is that that endorsement by the defendants on Exhibit A3 in some way binds them to execute a contract in the form set out in the appendix to the by-laws.
+RatioOfTheDecision	I am quite unable to see that it does anything of the sort.
+RatioOfTheDecision	So far as the evidence goes, the parties never had any such form of contract as required by the by-laws; they never discussed it, and I see no ground on which it can be held that the defendants have either signed such a contract or agreed to sign such a contract, or that they ever heard of  such a contract, and if that is so, they cannot have failed or refused to sign such a contract.
+RatioOfTheDecision	In my judgment the contract was not a compliance with the statutory form as the learned Judge held and on that ground the action must fail.
+RatioOfTheDecision	12.
+RulingByPresentCourt	The result is that the appeal fails, with costs, though our reasons are different from those of the learned Judge.
+RulingByPresentCourt	I think this is a case where there ought to be two counsel allowed under Rule 533 (ii) (as).
+RulingByPresentCourt	The cross-objections were unnecessary and their costs are not allowed.
+Precedent	<NAME>, J.
+Precedent	13.
+Precedent	I am of the same opinion, and have very little to add to the exhaustive judgment delivered by my Lord the Chief Justice.
+Precedent	14.
+Precedent	As to the first point which was raised that the constitution of <ORG>, which compels all disputes arising in the cotton trade, even amongst persons who are not members of that <ORG>, to be referred to arbitration, has the force of law, I am of the same opinion as my Lord the Chief Justice.
+Precedent	If it was intended by the legislature  to compel everybody who dealt in cotton to be bound by the rules of <ORG>, I can only say that the legislature would presumably have dealt with the matter in a rather less casual manner than they have done in Section 4 of Bombay Act XIV of 1922.
+RatioOfTheDecision	All that the section says is that the constitution and administrative machinery set out in the articles of association of the <ORG> are declared to be lawful.
+RatioOfTheDecision	If it had been intended to give them the force of law and to make them binding on persona whether or not members of that <ORG>, I can see no reason why the legislature should not have said so.
+RatioOfTheDecision	The question, therefore, of whether the local <ORG> have the power to pass any Act of the kind is one which does not arise.
+RatioOfTheDecision	15.
+RatioOfTheDecision	Then as regards the second point that supposing a reference to arbitration not to be made compulsory by law, still it is so made in this case by agreement between the parties, I am of the same opinion as my Lord the Chief Justice that the agr eement to be bound by the rules and regulations of <ORG> does not necessarily import Article 96 of the articles of association into the contract between the parties.
+RatioOfTheDecision	The next point is one to which it seems there is really no answer.
+Precedent	By-law 81 is in mandatory terms, and provides that contracts must be in writing in the form given in the appendix, pp.
+Precedent	67, 68, 69 and 70.
+RatioOfTheDecision	There is a great deal of difference between that form and the form employed by the parties when the defendants originally asked the plaintiffs to purchase and sell certain cotton on their behalf.
+RatioOfTheDecision	The form which is given in the by-laws is shown in the printed book that we have been able to get.
+RatioOfTheDecision	The original forms which have been provided by the <ORG> are divided into several parts, and one noticeable thing about them is that they have the regulations regarding reference to arbitration printed on the reverse.
+RatioOfTheDecision	Therefore, it is not open to anybody who enters into a contract of that nature and signs the prescribed fo rm to raise any objection to the compulsory provisions regarding arbitrations.
+RatioOfTheDecision	There is nothing of the kind in the form which was signed by the defendants in the present ease, a form bearing the name of the plaintiffs' firm and apparently a private form printed by plaintiffs for their own private purposes, and although it contains a reference to the rules and regulations of <ORG>, it cannot by any stretch of language be regarded as the form given in the appendix to the by-laws of that <ORG>.
+RatioOfTheDecision	16.
+RatioOfTheDecision	Moreover, in the present case there is no agreement by the defendants to sign the prescribed form of contract, and there can be no failure or refusal to sign the form when no such form has been tendered to them for signature.
+RatioOfTheDecision	As far as appears from the record in the present case, I should doubt very much whether either of the parties had the prescribed form when the transaction took place or had ever seen it.
+RatioOfTheDecision	In these circumstances I do not see how any endorsements made on other docu ments which have no relation to these by-laws can amount to an agreement in writing to sign the specific form which is annexed to the bylaws of <ORG>.
+RatioOfTheDecision	17.
+RulingByPresentCourt	In these circumstances, the appeal must fail, although our reasons are somewhat different from those of the learned Judge who tried the case, and I agree with the order proposed by the learned Chief Justice.

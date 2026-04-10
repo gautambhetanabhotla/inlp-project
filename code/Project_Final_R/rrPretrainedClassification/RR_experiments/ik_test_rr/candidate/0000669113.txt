@@ -1,0 +1,24 @@
+Fact	JUDGMENT <NAME> and <NAME>, JJ.
+Fact	1.
+RatioOfTheDecision	The only question which arises in this case is whether an application for leave to bid is an application to the <ORG> to take a step in aid of execution within the meaning of Article 179 of the Limitation Act .
+RatioOfTheDecision	This question has before been considered by other Benches of this <ORG>.
+Precedent	In the case cited to us, <NAME> v. Mahomed Mabood I.L.R.
+Precedent	9 Cal.
+Precedent	730, which has been acted upon by the lower <ORG> in this case, the learned Judges, Mr. Justice <NAME> and Mr. Justice <NAME>, distinctly say at the top of page 732 that an application of this kind "would not give a fresh starting point."
+RatioOfTheDecision	It is perfectly true that it may not have been necessary for them to have gone so far as to express an opinion upon that question in that particular case, still it was a question which seems to have been argued before them, and their decision on this point might well arise from the circumstances of the case.
+Precedent	This decision has been cited with approval in another case, <NAME>  Boy v. <ORG> Cal.
+Precedent	196.
+Precedent	With reference to the other cases we find no expression of disapproval of this decision.
+Precedent	As against it, there is a decision of Mr. Justice <NAME>, sitting alone in a case <NAME> v. <ORG> All.
+Precedent	211 reported in <ORG>.
+RatioOfTheDecision	The learned Judge has not given his reasons why he differs from the view taken by <ORG>, but merely says that he takes a different view.
+RatioOfTheDecision	As matters stand, the decisions of this <ORG>, so far as we can see, are uniform.
+RatioOfTheDecision	We are not prepared to say in any way that, if the matter came to us afresh, we should arrive at a conclusion different from that expressed by the learned Judges, who decided the case of <NAME> v. <ORG>.
+RatioOfTheDecision	We do not think an application of this kind is an application seeking the action of the <ORG> in execution of a decree.
+RatioOfTheDecision	It may be in one sense a step in aid of execution of the decree, but it is not a step by the <ORG>.
+RatioOfTheDecision	Before a judgment-creditor can get  any benefit, he must show that he asks the <ORG> to take some step in aid of execution.
+RatioOfTheDecision	A step taken by the judgment-creditor himself is not, as is pointed out in one of the cases to which we have referred, sufficient.
+RatioOfTheDecision	2.
+RatioOfTheDecision	An application for leave to bid is not, as far as we can see, in any way a step in aid of execution, It is merely an order made to remove the restriction which the Code of Civil Procedure has placed upon the action of the judgment-creditor.
+RulingByPresentCourt	The sole object of it is to remove that restriction and not to enforce the decree.
+RulingByPresentCourt	For these reasons we dismiss the appeal with costs.

@@ -1,0 +1,179 @@
+Fact	ORDER <NAME>, C.J.
+RulingByLowerCourt	1.
+Fact	This batch of revisions is filed against the order of <ORG> holding that the material used to pack the redried tobacco was the subject of sale and was, therefore, liable to sales tax.
+Fact	2.
+Fact	The petitioners <ORG> have a plant for redrying raw tobacco.
+Fact	Owners of tobacco give them tobacco for redrying, the petitioners purchase the material necessary for packing, redry the tobacco and pack it before delivering it to the customer.
+Fact	They collect from each customer a consolidated charge for redrying as well as packing.
+Fact	Aggregate charges are levied at the rate of one anna per Ib.
+Fact	besides a charge of Re.
+Fact	1 per bale.
+Fact	For the years 1950-51, 1951-52, 1952-53 and 1953-54 they were assessed to sales tax on the sale turnover of the packing material.
+Argument	<ORG> held, that, though tobacco was exempt from sales tax, the packing material was not exempt and that, as the packing materials were transferred to the constituents for considerati on the transactions amounted to sales and, therefore, they were liable to sales tax.
+Argument	3.
+Argument	Mr. <NAME>, learned counsel for the appellants, contended that packing is an integral part of the drying process and, therefore, the contract between the parties is one of work and labour and that no sale is involved in the transaction.
+Argument	The learned Government Pleader, on the other hand, argued that the process of packing is not a part of the drying process but is entirely extraneous to it.
+RatioOfTheDecision	As the material is purchased by the assessees and the property therein is transferred to the customers for price, the transaction, in so far as the packing material is concerned, is clearly one of sale.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Before adverting to the contentions of the parties it may be convenient to notice briefly the manner in which raw tabacco undergoes the drying process.
+Fact	Why and how are the packing materials used ?
+RatioOfTheDecision	Are they used only to pack the dried tobacco to keep it intact and to prevent pollution and exposure, or, do they form an integral part of  the drying process itself ?
+RatioOfTheDecision	5.
+RatioOfTheDecision	<NAME> in his book on the production of tobacco says at page 422 :  When the storage room is artificially heated the fermentation begins at once and the process is termed forced sweating.... Perhaps the chief weakness of the sweating procedure is the increased danger of decay from black rot because of lack of control of the moisture content of the steam at the time of packing.
+RatioOfTheDecision	Turkish cigarette tobaccos are fermented chiefly in bales and there is a moderate rise in temperature in the course of the process.
+RatioOfTheDecision	THE AGING PROCESS :  Although the general objective is much the same, the very slow natural aging which flue-cured tobacco normally undergoes after packing perhaps stands in strongest contrast with the rapid and vigorous fermentation characterising cigar tobacco and certain other types when they contain high percentages of moisture.
+RatioOfTheDecision	Prior to packing, the moisture content of flue-cured tobacco is standardised at a low level (10 to 12 per cent) and this is necessary, for flue- cured leaf will not ferment normally with a high moisture content but instead it will quickly blacken and spoil.
+RatioOfTheDecision	As the tobacco emerges from the redrying machine the hands are promptly packed in hogsheads under hydraulic pressure while tobacco is still warm.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The aforesaid two passages do not establish that packing is an integral part of the drying process.
+RatioOfTheDecision	The redried tobacco is immediately packed to preserve the chemical changes obtained by the drying process and to prevent decay.
+RatioOfTheDecision	So, too, scents, medicines, salt, alcohol and similar commodities are bottled or packed to preserve the high quality obtained by scientific processing.
+RatioOfTheDecision	It cannot be said that bottles are a part of the process of manufacture of medicine, scent or alcohol as the case may be.
+RatioOfTheDecision	7.
+RatioOfTheDecision	We shall first consider the decisions relied upon by the learned counsel for the petitioners in support of his contention.
+Argument	In <NAME> v. <NAME> 108 E.R.
+Argument	46, the contract was that the plaintiff, a printer, should print for the defendant a second edition of his  book, the plaintiff to find the materials including the paper.
+Argument	It was held that this was not a contract for the sale of a thing to be delivered at a future time nor a contract for making a thing to be sold when completed but a contract to do work and labour, furnishing the materials.
+Argument	As it was a contract for work and labour, it was ruled that the said contract was not covered by the 17th section of the Statute of Frauds which required a memorandum in writing if the contract was one of sale.
+Argument	<NAME>, C.B., laid down the following rule to ascertain the character of contracts in similar cases :  Whether the work and labour is of the essence of the contract or whether it is the materials that are found."
+Argument	He proceeded to state : "My impression is that, in the case of a work of art, whether it be silver or gold or marble, or common plaster, that is a case of the application of labour of the highest description and the material is of no sort of importance as compared with the labour and therefore that all this woul d be recoverable as work and labour and materials found.
+RatioOfTheDecision	I do not mean to say the price might not be recovered as goods sold and delivered if the work were completed and sent home.
+RatioOfTheDecision	I am rather inclined to think it is only where the bargain is merely for goods thereafter to be made and not where it is a mixed contract of work and labour and materials found that the Act of Lord Tenterden applies.
+RatioOfTheDecision	8.
+Argument	<NAME>, B., said : "There are three matters of charge well known in the law : for labour simply, for work and materials and another for goods sold and delivered."
+Argument	He added: "Suppose an artist paints a portrait for three hundred guineas and supplies the canvas for it, which is worth 10s., surely he might recover under a count for work and labour.
+Argument	9.
+Argument	In <NAME> v. <NAME> 124 E.R.
+Argument	555, the opinions expressed by <NAME>, <NAME>, and <NAME>, B., were not followed and the learned Judges held that, in the case of a contract to make two sets of artificial teeth, the contract is one of sale and not of labour and work.
+Precedent	<NAME> , J., said : "When the contract is such that a chattel is ultimately to be delivered by the plaintiff to the defendant when it has been set, then the cause of action is goods sold and delivered.
+Precedent	10.
+Argument	In <NAME> v. <NAME> [1935] 1 K.B.
+Argument	579, the defendant orally commissioned the plaintiff, an artist, to paint the portrait of a lady and promised to pay 250 guineas therefor.
+Argument	The defendant subsequently repudiated the contract before the portrait was completed.
+Argument	In an action by the plaintiff for the agreed price of the portrait, it was held that the contract was a contract of work and labour and not for the sale of goods as the substance of the contract was that skill and labour should be exercised upon the production of the portrait and that it was only ancillary to that contract that there would pass from the artist to his customer some materials, namely the paint and the canvas, in addition to the skill and labour involved in the production of the portrait.
+Precedent	At page 584, <NAME>, <NAME>, says :  I can imagine that n othing would be more surprising to a client going to a portrait painter to have his portrait painted and to the artist who was accepting the commission than to be told that they were making a bargain about the sale of goods.
+Precedent	11.
+Precedent	At page 585, he quoted with approval the statement of <NAME>, B., in <NAME> v. <NAME> 108 E.R.
+Precedent	461 as follows :-  I am of the same opinion.
+Precedent	There are three matters of charge well known to the law, viz., for labour simply, for labour and materials, and for goods sold and delivered.
+Precedent	12.
+Precedent	It is not necessary to multiply cases.
+Precedent	13.
+RatioOfTheDecision	The English decisions cited do not turn upon any question of the taxability of the materials forming part of a finished product.
+RatioOfTheDecision	Invariably, the application of the provisions of the Sale of Goods Act or the Statute of Frauds was in question and it became necessary to ascertain whether the contract was one of sale of goods or only of work and labour.
+RatioOfTheDecision	The said decisions and others recognised four categories of contracts : (i) contracts for labour and work sudh as  one for the production of a work of art, picture, statue, etc., (ii) contract primarily for labour and the materials supplied are only ancillary, i.e., paper and ink used by a painter or an artist, (iii) contract of sale of the finished product-denture or a ship of which the parts supplied become an integral part of the denture or the ship as the case may be, and (iv) contract of sale of the finished product but some of the materials supplied do not form part of the finished product but are sold separately.
+RatioOfTheDecision	The present case is not covered by any of the aforesaid principles.
+RatioOfTheDecision	Here, there is no sale of any finished product, for the assessee has no property in the tobacco and has undertaken only to perform the drying process for consideration.
+RatioOfTheDecision	It is simply a contract of work and labour so far as the drying process is concerned.
+RatioOfTheDecision	14.
+RatioOfTheDecision	It cannot be said that the packing material has become an integral part of the drying process like the parchment and ink of an artist.
+RatioOfTheDecision	They are extraneous marketable material used to  preserve dried tobacco from contamination or loss.
+RatioOfTheDecision	15.
+Precedent	Now, coming to the Indian decisions, strong reliance is placed on the decision of <CITATION_1093168> (1955) 1 M.L.J.
+Precedent	87.
+Precedent	One of the questions raised in that case was whether a building contract involved the sale of the materials used in the building separately.
+Precedent	The learned Judges held, that, unless there was an intention in the contract specifically to pass the property in the materials as and when they are brought to the site, the property in the materials passes only when they are fixed to the building.
+Precedent	At page 95, <NAME>, J., observed :-  This leads us to the consideration of the question whether the contracts of the assessees, which are mostly building contracts, constitute contracts of sale of goods and contain any element of the nature of the sale of goods to justify the imposition of the tax upon them.
+Precedent	Contracts, which involve labour and work, may relate to a chattel, such as building a ship or an engine or painting a picture, or may re late to immovable property, such as building contracts, contracts for the construction of bridges, dams, laying roads and so on.
+Precedent	A contract purely for the supply of labour and work is not a contract of sale of goods, as labour and work cannot be deemed to be goods in any sense of the term.
+Precedent	In the case of a chattel, it has to be produced by the labour and work of the contractor and also by the supply of materials necessary for producing the thing.
+Precedent	This was the subject-matter of consideration in a number of cases in England and the question arose whether such contracts are contracts for the sale of goods or contracts for work and labour and materials furnished.
+Precedent	16.
+Precedent	After considering the case law on the subject, the learned Judge held that the contract in question was a building contract and that the material used was not the subject-matter of sale.
+Precedent	17.
+Precedent	A different view was taken by <ORG> in <CITATION_797174>  6 S.T.C.
+Precedent	93., Hidayatullah, J., as he then was, observed at page 106 thus :  We are h ere concerned with a taxing measure and the power to levy the tax can only be determined by a fair consideration of the ambit of the entry by which the power is conferred.
+RatioOfTheDecision	If the pith and substance of the Act come within that ambit, the power is there, otherwise not.
+RatioOfTheDecision	If a building contract was not split up into its component parts, that is to say, material and labour, in legislative practice relating to the ordinary regulation of sale of goods, there is no warrant for holding that it could not be so split up even for purposes of taxation.
+RatioOfTheDecision	The reasoning in the <NAME> case does not take into account the fundamental fact that the <ORG> could select out of a composite transaction the actual sale of materials and tax such sale in the exercise of undoubted plenary powers.
+RatioOfTheDecision	18.
+RatioOfTheDecision	It is not necessary to express in this case our preference to one of the two views.
+Precedent	Even if the <NAME> view be correct, it has no bearing on the present case as the learned Judges held that the contract in that case was one of labour an d the material supplied became an integral part of the building.
+Precedent	19.
+Precedent	We shall now turn our attention to some of the cases, which are really relevant to the enquiry before us.
+Precedent	<CITATION_912663> (1950) 2 M.L.J.
+Fact	449, a Division Bench of <ORG>, of which one of us was a member, had to consider whether gunny bags in which salt was packed was also exempt from sales tax along with the salt.
+Fact	The salt was exempt from sales tax.
+Fact	But the assessee was taxed on the turnover calculated on the price of the gunny bags sold by him.
+Fact	It was admitted, in that case, that the assessee bought the gunny bags and included the cost price of the gunny bags in the ultimate price charged by him for the salt bags.
+Argument	It was contended on his behalf that, as the article was capable of being sold without being packed in gunny bags, the gunny bags must be exempted from sales tax as salt was exempted on the ground of necessity.
+Argument	<ORG> held that the assessee in that case was carrying on the business of buying and sellin g gunny bags in addition to the business of buying and selling salt.
+Precedent	At page 450, <NAME>, J., observed :  Thus, if salt is exempted but not the gunny bags in which it is packed and sold, if we exempt the gunny bags without a special exemption to that effect, then gunny bags in which rice and other articles are packed, and drums and tins in which oil is packed, etc., will also claim exemption.
+Precedent	20.
+Precedent	<CITATION_766564>  4 S.T.C.
+Argument	129, the question was whether the turnover from gunny bags in which the rice was packed was liable to sales tax.
+Argument	As in the case of salt, rice was an exempted commodity.
+Argument	The learned Judges of <ORG> held that gunny bags came within the definition of "goods" and that as the assessee charged the Government for the bags which contained the rice, the transaction came within the definition of "sale" and the assessee was, therefore, a dealer within the meaning of the definition and was liable to sales tax.
+Precedent	When it was contended that the rice could not be sold without pa cking them in gunny bags, following the Madras decision, they did not accept it.
+Precedent	21.
+Precedent	<ORG> again in <CITATION_1681116> (1954) 2 M.L.J.
+Fact	588 rejected a similar contention.
+Fact	There, the assessee sold tobacco and also included the price of the packing material in the sale price of the tobacco.
+Fact	When exemption was claimed from sales tax in regard to the packing material, <NAME>, J., who delivered the judgment on behalf of the Bench, rejecting the claim, observed as follows :-  The sum of Rs.
+RatioOfTheDecision	1,70,105-6-0 represented the estimated value of the packing materials in which tobacco was consigned to the purchasers outside the State of Madras.
+RatioOfTheDecision	The claim based upon Section 4 of the Act is easiest dismissed.
+RatioOfTheDecision	Packing materials cannot obviously come within the scope of tobacco in any form within the meaning of Section 4 of the Act....
+RatioOfTheDecision	The value of the packing materials themselves had to be estimated.
+RatioOfTheDecision	22.
+RatioOfTheDecision	No doubt, in that case, it was held that the assessee was not entitled to the benefit of Rule 5(1)(g)( ii) of -the Turnover and Assessment Rules as he charged an inclusive price for both the tobacco and the packing materials when he sold the goods to the purchasers.
+RatioOfTheDecision	In the present case, no attempt was made to rely upon the aforesaid rule, presumably because the assessment related to a period prior to the coming into force of the rule.
+Precedent	23.
+Precedent	<CITATION_473248>  5 S.T.C.
+Fact	428, the petitioner owned a cotton press with which he pressed gin cotton belonging to his clients and recovered only the pressing charges.
+Fact	The question whether the hessian and iron hoops used for packing the bales were sold by the assessee and were, therefore, liable to sales tax was raised.
+RatioOfTheDecision	In that context, the learned Judges observed at page 443 :  The order is silent as to the person supplying hessian and iron hoops.
+RatioOfTheDecision	If they are supplied by the owner of cotton, then there is no transfer of ownership of hessian and iron hoops from the petitioner to its client.
+RatioOfTheDecision	But if this material, which is indispensable for turning out a pressed cotton bale, i s supplied by the petitioner, a question may well arise whether there is any sale of this material.
+RatioOfTheDecision	24.
+RatioOfTheDecision	Though the learned Judges did not finally decide the point, they brought out the distinction between a case where the material was supplied by the owner of the cotton and a case where the assessee supplied it.
+RatioOfTheDecision	25.
+RatioOfTheDecision	The only distinction that can possibly be attempted to be made between the aforesaid cases and that on hand is that, in the former the exempted goods were also sold along with the material, while in the latter there was no sale of the exempted goods.
+RatioOfTheDecision	It was argued that as the sale of the exempted goods along with the packing material was admitted in those cases, the <ORG> have held that there was a sale of the materials.
+RatioOfTheDecision	We cannot see any distinction on principle between those cases and the present one.
+RatioOfTheDecision	There, the question was whether when the salt or tobacco, not a taxable product, was sold, the bags or the materials used to preserve the said product were taxable.
+RatioOfTheDecision	If, as was contended, the pac king material became an integral part of the dried tobacco, there could not have been a sale of the material apart from the tobacco.
+RatioOfTheDecision	So too, if the gunny bags should be treated as an integral part of the salt, the bags should have been exempted along with the salt.
+RatioOfTheDecision	They were taxed because they were held to be extraneous and separate marketable material though necessary and convenient for the preservation and the delivery of the tobacco or salt as the case may be.
+RatioOfTheDecision	26.
+RatioOfTheDecision	In the case of tobacco given for drying purposes, the owner may supply the material or the assessee may supply the material himself.
+RatioOfTheDecision	If, in the first case, the material cannot be part of the drying process, we do not see how in the second case it becomes part of the drying process.
+RatioOfTheDecision	It may be that the labour involved in the packing may be charged for as part of the drying process but the material is clearly separable from the process.
+RatioOfTheDecision	27.
+RatioOfTheDecision	Now, let us scrutinise the relevant provisions of the Madras General Sales Tax Act, for, in the ultimate ana lysis, the point has to be decided on the terms of those provisions.
+Statute	Section 3(1) says that, subject to the provisions of this Act, every dealer shall pay for each year a tax on his total turnover for such year.
+Statute	"Dealer" is defined to mean any person, who carries on the business of buying or selling goods [Vide Section 2(b) ].
+Statute	Under Section 2(c) " 'goods' means all kinds of movable property other than actionable claims, stocks and shares and securities and includes all materials, commodities and articles including those to be used in the construction, fitting out, improvement or repair of immovable property or in the fitting out, improvement or repair of movable property."
+Statute	Section 2 (h) defines sale thus :-  'Sale' with all its grammatical variations and cognate expressions means every transfer of the property in goods by one person to another in the course of trade or business for cash or for deferred payment or other valuable consideration, and includes also a transfer of property in goods involved in the e xecution of a works contract, but does not include a mortgage, hypothecation, charge or pledge.
+Statute	28.
+Statute	Section 2(i) defines "turnover" thus :-  'Turnover' means the aggregate amount for which goods are either bought by or sold by a dealer, whether for cash or for deferred payment or other valuable consideration provided that the proceeds of the sale by a person of agricultural or horticultural produce grown by himself or grown on any land in which he has an interest whether as owner, usufructuary mortgagee, tenant or otherwise, shall be excluded from his turnover.
+Statute	29.
+RatioOfTheDecision	A combined reading of the provisions relevant to the question raised may be stated thus: Every person, who carries on the business of transferring property in any kind of movable property including materials, commodities and articles in the fitting out, improvement or repair of movable property to another for valuable consideration would be liable to tax on the turnover.
+RatioOfTheDecision	It cannot be said that packing material is not "goods" as defined under the  Act.
+RatioOfTheDecision	They are clearly movable property within the wide meaning of the word "goods" in the Act.
+RatioOfTheDecision	The assessee had property in these goods, for, it is conceded, that he purchased the material.
+RatioOfTheDecision	It cannot also be disputed that he transferred the property in the goods to his customer for consideration.
+RatioOfTheDecision	The amounts clearly show that he charged for the material in addition to his remuneration for drying the tobacco, though the price shown in the accounts is the inclusive one.
+RatioOfTheDecision	All the ingredients of the charging section, read with the definition, are satisfied.
+RatioOfTheDecision	Unless we can hold that the materials, after being packed, have been transformed into some other commodity not covered by the definition of goods, it is not possible to hold that there was no sale of that material.
+RatioOfTheDecision	Though the learned counsel for the petitioner argued that packing material was an integral part of the drying process, he did not go to the extent of contending that the material lost its character as movable property.
+RatioOfTheDecision	When the provisions of the Sale s Tax Act clearly apply, there is really no scope for exempting them on some hypothetical considerations.
+Precedent	30.
+RatioOfTheDecision	We will close our judgment with a citation from the decision of <ORG> in <ORG> v. Minister of Customs [1928] A.C. 340.
+RatioOfTheDecision	Unlike the cases cited by the learned counsel for the petitioners, this case arose under a taxing statute.
+RatioOfTheDecision	The appellants there supplied at an agreed price printed bill-heads and other commercial stationery to the order and to suit the individual requirements of individual customers.
+RatioOfTheDecision	No privity of contract existed between the supplier of the paper used and the customer.
+RatioOfTheDecision	Under the Act of 1922, a tax of 21/2% was imposed on sales and deliveries by Canadian manufacturers or producers and wholesalers or jobbers.
+RatioOfTheDecision	It was argued before <ORG> that the contract was for work and labour done and materials supplied within the authority of <NAME> v. <NAME> 108 E.R.
+Precedent	461.
+Precedent	Their Lordships in rejecting that contention, observed :-  In their Lordships' opinio n the material matter to be considered is as to the meaning of the expression 'sales and deliveries by Canadian manufacturers or producers' as used in the statute.
+Precedent	Having regard to the language of the first proviso and to the general scope of the enactment, their Lordships entertain no doubt that these contracts were contracts of sales and deliveries by Canadian manufacturers or producers within the meaning of the taxing statute, and that the payments made under them constituted the sale price of goods produced or manufactured in Canada.
+Precedent	31.
+Precedent	We have cited this decision only to show that, in the case of a taxing statute, we should be guided by the general scope of the enactment and the express provisions of the statute and not by considerations that might weigh in a case arising under the Statute of Frauds or similar statutes.
+Precedent	32.
+RatioOfTheDecision	For the aforesaid reasons, we hold that the packing materials were goods and that there was a sale in regard to them within the meaning of the Act.
+RatioOfTheDecision	If so, the turnover in respect  of the transactions in question was certainly liable to sales tax.
+RatioOfTheDecision	<ORG> was, therefore, right in negativing the contention of the petitioners.
+RatioOfTheDecision	33.
+RulingByPresentCourt	The revision petitions fail and are dismissed with costs.
+RulingByPresentCourt	Advocate's fee Rs.
+RulingByPresentCourt	250 in all the revisions.

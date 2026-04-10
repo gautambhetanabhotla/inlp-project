@@ -1,0 +1,122 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: UNION OF INDIA DATE OF JUDGMENT30/04/1991 BENCH: <NAME>, L.M.
+RulingByLowerCourt	(J) BENCH: <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> (J) CITATION: 1991 AIR 1612 1991 SCR (2) 567 1991 SCC (3) 47 JT 1991 (2) 380 1991 SCALE (1)848 ACT: Civil Services: Recruitment by Competitive Examination- Candidate included in merit list-Whether acquires an indefeasible right of appointment-Filling up of vacancies- Adoption of different policy for general and reserved categories-Whether arbitrary and discriminatory-<ORG>Cadre) Rules, 1954: Rule 4: <ORG>Recruitment) Rules; Rules 3,4,6 and 7; and <ORG>Appointment by Competitive Examination) Regulations:Regulations 2(1) (a), 8 and 13-Applicability of.
+RulingByLowerCourt	HEADNOTE: On the basis of the results of the combined Civil Services Examination held by <ORG> for appointment to several Services and the position in the combined merit l ist for <ORG> and <ORG>, Group `B' the appellant was appointed to <ORG>,also Known as <ORG>.
+RulingByLowerCourt	Subsequently when certain vacancies arose in <ORG>, due to selected candidates not joining the Service, and only the reserved category vacancies were filled up by the candidates, who had been earlier appointed in <ORG> Service, the appellant who came to occupy top position, represented to the authorities for filling the general vacancies also, but his request was turned down .Hence the appellant filed writ application before <ORG>, which was dismissed in limine .
+RulingByLowerCourt	In the appeal before this Court, on behalf of the appellant it was contended that since ultimately several vacancies in the general category of the <ORG> remained unfilled, he was entitled to be appointed in one of them, that since 54 vacancies were notified for general category and he was found qualified for the appointment, the respondent could not refuse to fill  up the vacancies, and there was no justification to refuse to follow the procedure adopted in similar situation with respect to the reserved category, in regard to the general category vacancies also and that in view of the relevant statutory rules, the authorities were under a duty to continue with the process of filling up the vacancies until nonremained vacant, and by keeping the posts unfilled, they had acted arbitrarily.
+RulingByLowerCourt	568 On behalf of the respondent-Union of India it was contended that the tentative service allocation for <ORG> was completed before the commencement of the foundational course for the <ORG>, and the process of final service allocation was closed after filling up certain vacancies, which had arisen, since the process for recruitment for the next year had already started, and hence the additional vacancies arising later remained unfilled, that the process followed in connection with the reserved category, was not followed in regard to the general category vacancies on account of vital differ ences obtaining in the relevant conditions in the two categories, and hence there was no discrimination or arbitrariness, in keeping the general category vacancies unfilled.
+RulingByLowerCourt	Dismissing the appeal, this Court HELD: 1.1 Even if vacancies are notified for appointment and adequate number of candidates are found fit, the successful candidates do not acquire an indefeasible right to be appointed.
+RulingByLowerCourt	Ordinarily, the notification merely amounts to an invitation to qualified candidates to apply for recruitment and on their selection they do not acquire any right to the post.
+RulingByLowerCourt	Unless the relevant recruitment rules so indicate, the <ORG> is under no legal duty to fill up all or any of the vacancies.
+RulingByLowerCourt	However, it does not mean that the <ORG> has the licence of acting in an arbitrary manner.
+RulingByLowerCourt	The decision not to fill up the vacancies has to be taken bona fide for appropriate reasons.
+RulingByLowerCourt	And if the vacancies or any of them are filled up, the <ORG> is bound to respect the comparative merit of the candidates, as reflected at the recr uitment test, and no discrimination can be permitted.
+RulingByLowerCourt	[572A- <CITATION_470118> , 1 SCR 165; <CITATION_1049711> ,  4 SCC 268 and <NAME> and Others v. State of Punjab and others,  1 SCR 899, referred to.
+RulingByLowerCourt	1.2 The appellant had not acquired a right to be appointed against the vacancy arising later on the basis of any of the rules, namely, Rule 4 of the Indian Police Service (Cadre) Rules, 1954, Rules 3,4,6 and 7 of the Indian Police Service (Recruitment) Rules, 1954 and Regulations 2(1)(a) and (c), 8 and 13 of the Indian Police Service (Appointment by Competitive Examination) Regulations, 1955.These Provisions do not indicate that all the notified vacancies are to be filled up.
+RulingByLowerCourt	[573G,574B] 1.3 From the materials placed before the Court it is fully estab- 569 lished that there has not been any arbitrariness whatsoever on the part of the respondent in filling up the vacancies in question or other vacancies.
+RulingByLowerCourt	The process of final selection had to be closed at some stage as was actually done.
+RulingByLowerCourt	A decision in this  regard was accordingly taken and the process for further allotment to any vacancy arising later was closed.
+RulingByLowerCourt	It is not material if in pursuance of a decision already taken before closing the process of final selection, the formal appointments were concluded later.
+RulingByLowerCourt	What is relevant is to see as to when the process of final selection was closed.
+RulingByLowerCourt	Mere completing the formalities dose not give any right to appointment.
+RulingByLowerCourt	[574E-G] 1.4 The decision to adopt a different policy with respect to filling up of the reserved vacancies is justified on account of the special circumstances.
+RulingByLowerCourt	The decision to depart from the confirmed policy was taken after consideration by the authorities of the position in regard to unavailability of qualified candidates from year to year adversely affecting the desired strength of the reserved candidates in the services and cannot be condemned on the grounds of arbitrariness and illegal discrimination.
+Fact	[575B] JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	8613 of 1983.
+Fact	From the Judg ment and Order dated 21.1.1981 of <ORG> in Civil Writ No.
+Fact	41 of 1981.
+Fact	P.K.Goswamy and <NAME> for the Appellant.
+Fact	<NAME>, <NAME> and <NAME> for the Respondent.
+Fact	The Judgment of the Court was delivered by <NAME>, j.
+Fact	This appeal was earlier heared by <ORG> and was referred to <ORG> for examining the question whether a candidate whose name appears in the merit list on the basis of a competitive examination, acquires indefeasible right of appointment as a Government servant if a vacancy exists.
+Precedent	Reference was made to the decision in <CITATION_470118> ,  1 SCR 165; <CITATION_1049711> ,  4 SCC 268 and <NAME> and Others v. State of Punjab and Others.
+Precedent	1SCR  899.
+Precedent	2.
+Fact	The appellant was selected in the combined Civil Services Examination held by <ORG> for appointment to several services including <ORG> (in short `the <ORG>') and <ORG>'.
+Fact	The examination had been held in Octobe r, 1977 and the result was announced in May 1978.
+Fact	A combined merit list for the <ORG> and <ORG>' was announced which included the name of the appellant.
+Fact	Out of the total number of 70 vacancies in the <ORG> announced to be filled up, 54 were of general category and the remaining 16 reserved for Scheduled Castes/Scheduled Tribes candidates.
+Fact	The position of the appellant in the merit list was not high enough to be included in the <ORG> and he was offered appointment to <ORG> (hereinafter referred to as <ORG> `B' which he accepted.
+Fact	On account of several candidates, allotted to <ORG> `B'not Joining, the position of the appellant improved and ultimately he was on the top of the list.
+Fact	3.
+Fact	In June, 1979, 14 Vacancies arose in the <ORG> due to selected candidates not joining the service.
+Fact	Out of the same, 11 were in the general category and 3 in the reserved category.
+Fact	Three vacancies in the reserved category were filled  up by the candidates who had been earlier appointed in <ORG>, but no appointments were made to general category vacancies.
+Fact	The appellant, by a representation, prayed that these vacancies also should be filled up.
+Argument	The request was turned down, and the appellant moved <ORG> by a writ application under Article 226 of the Constitution, which was dismissed in limine by the impugned order.
+Argument	4.
+Argument	The case of the appellant is that since ultimately several vacancies in the general category of the <ORG> remained unfilled, he was entitled to be appointed in one of them, and the authorities were not right in rejecting his representation.
+RatioOfTheDecision	It has been contended that after calculating the number of vacancies in the <ORG>, it was announced that appointments would be made in 54 vacancies of general category, and steps for recruitment were accordingly taken.
+RatioOfTheDecision	The appellant along with others appeared at the elaborate test held for the purpose and he was found qualified for the appointment .In that situation the r espondent could not refuse to fill up the vacancies and proceed to appoint the appellant in <ORG> `B'.
+RatioOfTheDecision	It has been argued that the correct procedure in similar situation was followed with respect to the reserved category and the three vacancies arising in identical situation were filled up from the candidates selected for <ORG>, and there was no justification to refuse similar benefit to the appellant in the general category.
+RatioOfTheDecision	5.
+RatioOfTheDecision	According to the case of <ORG>, the process for the recruitment in question started in 1977, and the tentative service allocation for <ORG> was completed before the commencement of the foundational course in July, 1978.
+RatioOfTheDecision	All the candidates selected for <ORG>, excepting those who were eligible to appear at the examination for <ORG> scheduled to be held in October -November, 1978, and such other candidates who had not been finally cleared on account of pending medical examination or character verification had to attend the  foundational course.
+RatioOfTheDecision	Candidates allocated to <ORG> `B' were not required to undergo this course.
+Fact	By June, 1978, 7 more vacancies arose on account of candidates not joining <ORG> due to various reasons, and 7 persons in order of merit from the joint list of the <ORG> and the <ORG> `B' were allowed to fill up these vacancies.
+Fact	The last one in this list of 7 candidates was <NAME> at serial No.
+RatioOfTheDecision	94.
+RatioOfTheDecision	The appellant could not get a chance as his position was 100th.
+RatioOfTheDecision	This process of final service allocation was closed on 24.10.1978 or at the latest by 4.11.1978, in view of the process for recruitment for the year 1978, which had already started.
+RatioOfTheDecision	The additional vacancies arising later,therefore, remained unfilled.The entire procedure which is followed for recruitment to the <ORG> has been given in several affidavits of the respondent, and detailed information in this regard was supplemented by a further affidavit during the hearing of the hearing of the appeal filed in the light of  observations of the Bench.
+RatioOfTheDecision	6.Dealing with the appointments to reserved category,it has been stated in the counter affidavit that the process which was followed in connection with the general category and which was being earlier followed for the reserved category also, was relaxed in pursuance of a policy decision taken after examining all relevant circumstances and materials in regard to this category including the strength of the reserve category in the <ORG>, the result of the examinations for the year 1975,1976 and 1977.
+RatioOfTheDecision	The procedure which was being followed in the past was not relaxed in regard to the general category on account of vital differences obtaining in the relevant conditions in the two categories and the appellant's plea of alleged discrimination does not have any merit.
+RatioOfTheDecision	Similarly the case of one <NAME> cited by the appellant has also been distinguished and Mr. <NAME>, therefore , did not pursue this plea any further in his final reply.
+RatioOfTheDecision	572  7.
+RatioOfTheDecision	It is not correct to say that if  a number of vacancies are notified for appointment and adequate number of candidates are found fit, the successful candidates acquire an indefeasible right to be appointed which cannot be legitimately denied.
+RatioOfTheDecision	Ordinarily the notification merely amounts to an invitation to qualified candidates to apply for recruitment and on their selection they do not acquire any right to the post.
+RatioOfTheDecision	Unless the relevant recruitment rules so indicate, the <ORG> is under no legal duty to fill up all or any of the vacancies.
+RatioOfTheDecision	However, it does not mean that the <ORG> has the licence of acting in an arbitrary manner.
+RatioOfTheDecision	The decision not to fill up the vacancies has to be taken bona fide for appropriate reasons.
+RatioOfTheDecision	And if the vacancies or any of them are filled up, the <ORG> is bound to respect the comparative merit of the candidates, as reflected at the recruitment test, and no discrimination can be permitted.
+RatioOfTheDecision	This correct position has been consistently followed by this <ORG>, and we do not find any discordant note in the decisions in <CIT ATION_470118> ,  1 SCR 165; <CITATION_1049711> ,  4 SCC 268 and <NAME> and Others v. State of Punjab and Others,  1 SCR 899.
+RatioOfTheDecision	8.
+RatioOfTheDecision	<CITATION_470118> , (supra) 15 vacancies of Subordinate Judges were advertised, and out of the selection list only 7, who had secured more than 55% marks, were appointed, although under the relevant rules the eligibility condition required only 45% marks.
+RatioOfTheDecision	Since <ORG> had recommended earlier, to <ORG> that only the candidates securing 55% marks or more should be appointed as Subordinate Judges, the other candidates included in the select list were not appointed.
+Precedent	They filed a writ petition before <ORG> claiming a right of being appointed on the ground that vacancies existed and they were qualified and were found suitable.
+Precedent	The writ application was allowed.
+Precedent	While reversing the decision of <ORG>, it was observed by this Court that it was open to the Government to decide how MANY appointments should be made and although <ORG> had  appreciated the position correctly, it had ``somehow persuaded itself to spell out a right in the candidates because in fact there were 15 vacancies''.
+Precedent	It was expressly ruled that the existence of vacancies does not give a legal right to a selected candidate.
+Precedent	Similarly, the claim of some of the candidates selected for appointment, who were petitioners in <NAME> and Others v. State of Punjab and Others, was turned down holding that it was open to the <ORG> to decide how many appointments would be made.
+Precedent	The plea of arbitrariness was rejected in view of the facts of the case and it was had that the candi-  573  dates did not acquire any right merely by applying for selection or even after selection.
+RulingByLowerCourt	It is true that the claim of the petitioner in the case of <CITATION_1049711> was allowed by this Court but, not on the ground that she had acquired any right by her selection and existence of vacancies.
+RulingByLowerCourt	The fact was that the matter had been referred to <ORG> which sent to the Go vernment only the names of 17 candidates belonging to the general category on the assumption that only 17 posts were to be filled up.
+RulingByLowerCourt	The <ORG> accordingly made only 17 appointments and stated before the Court that they were unable to select and appoint more candidates as the <ORG> had not recommended any other candidate.
+RulingByLowerCourt	In this background it was observed that it is, of course, open to the <ORG> not to fill up all the vacancies for a valid reason, but the selection cannot be arbitrarily restricted to a few candidates notwithstanding the number of vacancies and the availability of qualified candidates; and there must be a conscious application of mind by the <ORG> and <ORG> before the number of persons selected for appointment is restricted.
+RatioOfTheDecision	The fact that it was not for the Public Service <ORG> to take a decision in this regard was emphasised in this judgment.
+RatioOfTheDecision	None of these decisions, therefore, supports the appellant.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Mr. <NAME> appearing in support of the appeal has co ntended that in view of the relevant statutory rules, the authorities were under a duty to continue with the process of filling up all the vacancies until none remained vacant.
+RatioOfTheDecision	Reference was made to r. 4 of the Indian Police <ORG> (Cadre) Rules, 1954, rr.
+RatioOfTheDecision	3,4,6 and 7 of the Indian Police <ORG> (Recruitment) Rules, 1954 and rr., 2(1)(a), 2(1)(c), 8 and 13 of the Indian Police <ORG> (Appointment by competitive Examination) Regulations, 1965.
+RatioOfTheDecision	We do not think any of these rules comes to the aid of the appellant.
+RatioOfTheDecision	Rule 3 of the Cadre Rules directs constitution of separate cadres for States or group of States, and r. 4 empowers <ORG> to determine the strength in consultation with the State Governments.
+RatioOfTheDecision	The strength has to be re-examined at intervals of 3 years.
+RatioOfTheDecision	Rule 3 of Recruitment Rules deals with the constitution of the <ORG>, and r. 4 the method of recruitment.
+RatioOfTheDecision	Rules 6 and 7 give further details in this regard.
+RatioOfTheDecision	The learned counsel could not point out any provision indicating that all the  notified vacancies have to be filled up.
+RatioOfTheDecision	Similar is the position with respect to the Competitive Examination Regulations.
+RatioOfTheDecision	Regulation 2(1)(a) defines available vacancies as vacancies determined by <ORG> to be filled on the results of the examination, described in Regulation 2(1)(a).
+RatioOfTheDecision	Regulation 8 prescribes that the candidates would be considered for appointment to the available vacancies subject to provisions 9 to 12 and Regulation 13 clarifies the position that a candidate does not get any right to appointment by mere inclusion of his name in the list.
+RatioOfTheDecision	The final selection is subject to satisfactory report on the character, antecedent and suitability of the candidates.
+RatioOfTheDecision	We, therefore, reject that the claim that the appellant had acquired a right to be appointed against the vacancy arising later on the basis of any of the rules.
+RatioOfTheDecision	10.
+Argument	The main contention on behalf of the appellant has been, however, that the authorities in keeping the vacancies arising later unfilled, acted arbitrarily.
+Argument	Mr. <NAME> ami referred to several documents annexed to the special leave petition and affidavits filed on behalf of the parties and contended that although appointments of many candidates in the other services were made in the later vacancies, the vacancy in <ORG> which subsequently became available to the appellant was refused without any just cause, resulting in illegal discrimination.
+Argument	This was emphatically denied on behalf of the respondent.
+RatioOfTheDecision	Since the matter did not appear to be free from ambiguity on the basis of the affidavits before us, we decided to examine the factual aspects more thoroughly by examining the other available materials on the records of <ORG>, and accordingly the learned counsel for the respondent got the relevant departmental files called.
+RatioOfTheDecision	Two further affidavits were also filed along with photostat copies of a large number of documents, which we examined at some length with the aid of the learned advocates for both sides.
+RatioOfTheDecision	From the materials produced before us it  is fully established that there has not been any arbitrariness whatsover on the part of the respondent in filling up the vacancies in question or the other vacancies referred to by the learned counsel for the appellant.
+RatioOfTheDecision	The process of final selection had to be closed at some stage as was actually done.
+RulingByPresentCourt	A decision in this regard was accordingly taken and the process for further allotment to any vacancy arising later was closed.
+RatioOfTheDecision	Mr. <NAME> relied upon certain appointments actually made subsequent to this stage and urged that by those dates the further vacancies in <ORG> had arisen to which the appellant and the other successful candidates should have been adjusted.
+RatioOfTheDecision	We do not find any merit in this contention.
+RatioOfTheDecision	It is not material if in pursuance of a decision already taken before closing the process of final selection, the formal appointments were concluded later.
+RatioOfTheDecision	What is relevant is to see as to when the process of final selection was closed.
+RatioOfTheDecision	Mere completing the formalities cannot be of any  help to the appellant.
+RatioOfTheDecision	We do not consider it necessary to mention all the details in this connection available from the large number of documents which we closely examined during the hearing at considerable length and do not have any hesitation in rejecting the argument of the learned counsel in this regard based on the factual aspect.
+RatioOfTheDecision	11.
+RatioOfTheDecision	So far the decision to adopt a different policy with respect to filling up of the reserved vacancies is concerned the same is justified on account of the special circumstances mentioned in the respondent's affidavits.
+RatioOfTheDecision	The decision to depart from the confirmed policy was taken after a consideration by the authorities of the position in regard to unavailability of qualified candidates from year to year adversely affecting the desired strength of the reserved candidates in the services and cannot be condemned on the grounds of arbitrariness and illegal discrimination.
+RatioOfTheDecision	12.
+RulingByPresentCourt	In the result, we do not find any merit in the appeal which is accordingly dismissed, but, in the circum stances, without costs.
+RulingByPresentCourt	<ORG> dismissed.

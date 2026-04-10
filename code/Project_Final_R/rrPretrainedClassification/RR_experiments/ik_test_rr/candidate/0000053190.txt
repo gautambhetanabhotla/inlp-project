@@ -1,0 +1,468 @@
+Fact	PETITIONER: INCOME-TAX OFFICER, TUTICORIN Vs. RESPONDENT: <NAME> & ORS.
+Fact	DATE OF JUDGMENT: 25/10/1967 BENCH: <NAME>, G.K.
+Fact	BENCH: <NAME>, <NAME>, <NAME>, <NAME>, V. <NAME>, K.S.
+Fact	CITATION: 1968 AIR 623 1968 SCR (2) 33 CITATOR INFO : R 1973 SC2585 (13) RF 1981 SC 271 (39) ACT: Indian Income-Tax Act , 1922 as amended by Act 25 of 1953, s. 35(5) -Rectification of partners assessment consequent on reassessment of firm Section permitting such rectification in respect of "completed assesment" of partners-Section whether applies to partner's assessments finalised before 1st April 1952.
+Fact	HEADNOTE: The respondent and his four brothers were partners in a firm carrying on business in gunnies.
+Fact	The assessment of the firm for the year 1943-44 was completed on January 22, 1946 and the share income of each partner was also determined.
+Fact	The assessment of the respondent as an individual on the basis of his share so determined was completed on January 24, 1946.
+Fact	Subsequently the assessment of th e firm was reopened by notice under s. 34 of the Indian Income-tax Act, 1922 issued on September 11., 1952 and re-assessment by including some additional income was made in May 1959.
+Fact	In July 1959 notice under s. 35(5) was served on the respondent for consequential rectification of his assessment as an indivi- dual.
+Fact	The rectification was ultimately ordered to be made in August 1959.
+Fact	The respondent filed a writ petition in <ORG> for quashing the order.
+Fact	Relying on the decision of this <ORG> in Second Addl.
+Fact	<CITATION_1958814> <ORG> quashed the impugned order.
+Fact	The <ORG> appealed to this <ORG>.
+Fact	The question that fell for consideration was whether s. 35(5) which was introduced by the Income-tax Amendment Act , 1953 could be used to rectify assessments made before 1st April 1952, the date from which the said amendment came into force.
+Fact	The respondent urged that since the amendment had 'been brought into force from an anterior date no greater retrospectivity could be given to it.
+Fact	HELD : (Per <NAME>, Ba <NAME>, <NAME> and <NAME>, JJ) The aim of the legislation was to bring into line the assessment of the individual partner with that of the firm.
+Fact	It does not stand to reason that if the assessment of the firm is completed long after that of the individual by revision of proceedings under s. 34 or otherwise the discrepancy in the income of the partner -as shown by the assessment of the firm and as an individual should continue or be left untouched, and the Obvious and logical course should be to rectify the assessment of the individual on the basis of the final assessment of the firm.
+Fact	[39B] On a plain reading of s. 35(5) it appears that the legislature intended that the finding as to the non- inclusion of the proper share of the partner in the profit or loss of the firm in the assessment of the partner should excite the power of rectification.
+Fact	The power is to be exercised whenever"it is found on the assessment or re- assessment of the firm or on any reduction or enhancement made in the income of the firm."
+Fact	T he subject matter of rectification is the completed assessment of a partner in the firm.
+Fact	This is brought out by the.
+Fact	use of the words when in respect of any completed assessment of a partner in a firm."
+Fact	There is nothing in the section to show that such "completed assessment" must Like place after s. 35(5) was brought on the statute book.
+Fact	What must take place to give rise to the power of rectification is the finding on the assessment or 34 re-assessment of the firm.
+RatioOfTheDecision	The finding alone must be made after the section came into force.
+RatioOfTheDecision	The finding is to be given effect to or made operative on the 'completed assessment of a partner.
+RatioOfTheDecision	As the mischief sought to be rectified was the discrepancy between the income of the partner assessed as an individual and his income as computed on the assessment of the firm, the legislature must be held to have made the remedy applicable whenever the mischief was discovered.
+RatioOfTheDecision	There would have been nothing unjust in making the power of rectification exercisable at any time after the dis covery of the discrepancy but the legislature in its wisdom did not think that the power should be used except within a limited period of four years from the date of the final order in the case of the firm.
+Precedent	[39D-H] Second Addl.
+Precedent	lncome- <CITATION_1958814> 46 I.T.R.
+Precedent	609, reversed.
+Precedent	<CITATION_422967> , 29 I.T.R.
+Fact	419, lncome- <CITATION_890905> ,  Supp.
+Fact	2 S.C.R.
+Fact	716, <NAME> v. <NAME>, L.R.
+Fact	4 Chancery Appeals 735 and <ORG> v. <NAME>,  Supp.
+Fact	2 S.C.R.
+Fact	92, referred to.
+Fact	Per <NAME>, J (dissenting).
+Fact	The assessments of the respondents had become final in the year 1946 and under the law as it stood prior to the ,enactment of s. 35(5) those assessments could not have been interfered with.
+Fact	Section 35(5) neither expressly nor by necessary implication em- powers the Income-tax Officer to reopen assessments which had become final.
+Fact	If the section empowers the reopening of all final assessments of the partners of firm, there was no need to give that provision a partial retrospecti vity.
+Fact	[51H; 52A] The legislature used the expression "completed assessment" in s. 35(5) to distinguish that class of assessment from assessments which are made final under the Act.
+Fact	By using that expression the legislature intended that the assessment of a partner should not be considered as a final assessment till the assessment of the firm becomes final.
+Fact	In other words the partners' assessment would continue to be tentative till the firm's assessment 'becomes final, If that be the true interpretation of the expression " completed assessment" then the expression can only apply to assess- ments of partners made on or after April 1, 1952.
+Fact	The respondents' assessments could not be considered as "completed assessments" within the meaning of that word in s. 35(5).
+Fact	[52F-H] The decision of this <ORG> in <NAME> is correct.
+RatioOfTheDecision	Even assuming that s. 35(5) can receive a different interpretation, this Cot= would not be justified in overruling its previous decision except under compelling circumstances; otherwi se confidence of the public in the of this Court is bound to be shaken.
+Fact	[53C- <CITATION_608874> .,  2 S.C.R.
+Fact	603, relied on.
+Fact	Case Law referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeals Nos.
+Fact	2154 to 2158 of 1966.
+Fact	Appeals by special leave from the judgment and order dated March 27, 1963 of <ORG> in Writ Petitions Nos.
+Fact	1229 to 1233 of 1961.
+Fact	<NAME> and <NAME>, for the appellant (in all the ,appeals) -  <NAME>, for the respondents (in all the appeals), The Judgment of <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, <NAME>.
+Precedent	was delivered by <NAME>, J.
+Precedent	<NAME>, J. delivered a dissenting Opinion.
+Precedent	<NAME>, J.
+RulingByLowerCourt	This group of five appeals by special leave arises out of a common order made under Art.
+RulingByLowerCourt	226 of the Constitution of the High Court of Judicature at Madras.
+Fact	The appeals involve the interpretation of s. 35 (5) of the Income-tax, Act, 1922.
+Fact	The facts in Civil Appeal No.
+Fact	2154 of 1966 relevant for the disposal of the appeal, taken by way of sample, are as follows.
+Fact	The respondent along with his four brothers were partners of a registered firm carrying on business in gunnies.
+Fact	The assessment of the firm for the year 1943-44 was completed on January 22, 1946 and the share income of each partner was determined at Rs.
+Fact	8,265/-.
+Fact	The assessment of the respondent as individual was completed on January 24, 1946 wherein was included his income from the partnership just noted.
+Fact	Subsequently, the assessment of the firm was re-opened by proceedings under s. 34(1) (a,) of the Act and a sum of Rs.
+Fact	90,000/- was added to the income of the firm liable to be brought to tax.
+Fact	The notice under s. 34 was issued on September 11, 1952 and the reassessment of the firm took place on May 30, 1959.
+Fact	On July 24, 1959 notice under s. 35(5) of the Act was served on the respondent for rectification of his assessment as an individual.
+Fact	The rectification was ultimately ordered to be made on August 31, 1959.
+Fact	The respondent applied to <ORG> for quashing the said order.
+RulingByLowerCourt	When the matter came to be hea rd by <ORG>, there were already three reported-decisions of this <ORG> bearing on the interpretation of s. 35(5) of the Act.
+RulingByLowerCourt	In the last of these, decisions, a doubt had been cast as to the correctness-of the two earlier decisions but the High <ORG> felt that the decision in Second Addl.
+RulingByLowerCourt	<CITATION_1958814> (1) being the second decision of this <ORG> in point of time, was fully aplicable to the cases before it and in that view of the matter the order of rectification was quashed.
+Fact	Hence these appeals.
+RatioOfTheDecision	Before taking note of the earlier decisions of this <ORG>, it would be appropriate to consider the relevant provisions of the Income-tax Act and interpret them as if the matter were res Integra.
+RatioOfTheDecision	If the result leads to a conflict of decisions, we will have to examine the question as to whether the view taken in an earlier case should be adhered to.
+RatioOfTheDecision	It is only when this <ORG> finds itself unable to accept the earlier view that it would be justified in deciding these appeals in a different way.
+Fact	(1)  46 I.T.R.
+Statute	609 The two sub-sections of S. 35 which call for interpretation are transcribed is follows :  "35.
+Statute	Rectification of mistake.-(1) The Commissioner or Appellate Assistant Commissioner may, at any time within four years from the date of any order passed by him in appeal or, in the case of the Commissioner, in revision under section 33A and the Income-  tax Officer may, at any time within four years from the date of any assessment order or refund order passed by him on his own motion rectify any mistake apparent from the record of the appeal, revision, assessment or refund as the case may be, and shall within the like period rectify any such mistake which has been brought to his notice by an assessee :  Provided that no such rectification shall be made, having the effect of enhancing an assessment or reducing a refund unless the Commissioner, the Appellate Assistant Commissioner or the Income-tax Officer, as the case may be, has given notice to the assessee of his intention so to do and has allowed him  a reasonable opportunity of being heard : Provided further that no such rectification shall be made of any mistake in any order passed more than one year before the commencement of the Indian Income-tax (Amendment) Act , 1939.
+Statute	(2) to (4)...............  (5) Where in respect of any completed assessment of a partner in a firm it is found on the assessment or reassessment of the firm or on any reduction or enhancement made in the income of the firm under section 31 , section 33 , section 33A , section 33B , section 66 or section 66A that the share of the partner in the profit or loss of the firm has not been included in the assessment of the partner or, if included, is not correct, the inclusion of the share in the assessment or the correction thereof, as the case may be, shall be deemed to be a rectification of a mistake apparent from the record within the meaning of this section, and the provisions of subsection (1) shall apply thereto accordingly, the period of four years referred to in that sub-section bei ng computed from the date of the final order passed in the case of the firm.
+Fact	(6) to (10).................
+Statute	Section 35 (5) was brought on the statute book by the Income-tax (Amendment) Act , 1953 (XXV of 1953).
+Statute	Section 1(2) of the Act provided that "Subject to any special provision made in this behalf in this Act, it shall be deemed to have come into force on the 1st day of April, 1952."
+Statute	The Amendment Act contained provisions which show that some of the amendments introduced were to be effective from dates other than 1st April, 1952.
+Statute	Section 19 of the Act of 1953 introduced sub-sections (5), (6) and (7) of s. 35 of the original Act.
+Statute	Under sub-s. (1) of s. 35 the Income-tax authorities mentioned therein were empowered to rectify mistakes apparent from the record.
+Statute	Such power could, in the case of an Income-tax Officer, be exercised at any time within four years from the date of any assessment order passed by him on his own motion.
+Statute	The section however imposes a limitation in that the mistake must be in the re-  cord of the case itself.
+RatioOfTheDecision	As a firm and the individuals composing it are separate entities for the purpose of Income-tax Act , they are assessed separately.
+RatioOfTheDecision	Under s. 23(5)(a) of the Act when the assessee is a registered firm and its income has been assessed under sub-s. (1), sub-s. (3) or sub-s. (4) of that section the income-tax payable by the firm itself has to be determined and the total income of each partner of the firm including therein his share of the firm's income, profits and gains of the previous year have to be assessed and the sum payable by him on the basis of such assessment has to be determined.
+RatioOfTheDecision	In as much however as a mistake discovered in the assessment of the firm was not a mistake apparent from the record of assessment of the individual partner-, s. 35(1) did not enable the Income-tax Officer to rectify the assessment of the individual partner because of the discovery of the.
+RatioOfTheDecision	mistake in the assessment of the firm.
+RatioOfTheDecision	The judgment of <ORG> in Kanumaral pudi <CITATION_42 2967> (1) wherein it was decided that when the mistake discovered in the assessment of the firm was not in the record of the individual partner s. 35(1) did not authorise the rectification of such mistakes was upheld by, this Court in <CITATION_890905> (2).
+RatioOfTheDecision	Section 35(5) removes that difficulty.
+RatioOfTheDecision	It expression provides that where it is found on the assessment or reassessment, of the firm or on any reduction or enhancement made in the income of the firm under the provisions of the specified sections that the share of the partner in the profit or loss of the firm has not been included in the assessment of the partner or, if included, is not correct, the inclusion of the share in the assessment or the correction thereof will be deemed to be a rectification of a mistake apparent from the record within the meaning of s. 35 so as to make sub-s. (1) of s. 35 applicable to the case of a completed assessment of a partner in a firm.
+RatioOfTheDecision	Whereas under s. 35(1) rectification is only possible within four years from the date of  any assessment (1) 29 I.T.R.
+Precedent	419.
+Precedent	(2) [1962] Supp.
+Precedent	2 S,C.R, 716.
+Argument	38  order or refund order passed by the Income-tax Officer, the starting point of computation of the period of four years under S. 35(5) is the date of the final order passed in the case Of the firm.
+RatioOfTheDecision	The point which has been canvassed in this case in favour of the respondent is that as the section was brought on the statute book on the 1st April 1952 any mistake anterior to that date cannot be rectified.
+RatioOfTheDecision	It was argued that the opening words of the section reading "Where in respect of any completed assessment of a partner in a firm"  go to show that only assessments completed after the introduction of the provision i.e.
+RatioOfTheDecision	on 1st April 1952 were in the contemplation of the legislature as proper subject for rectification.
+RatioOfTheDecision	It was urged that according to the well known canons of construction legislation which impairs an existing right or obligation except is regards matters of procedure, is not to have retrospective operation unless such constructi on is clear from the terms of the Act itself.
+RatioOfTheDecision	This argument was sought to be fortified by a reference to sub-s. (2) of S.1 of the Income-tax Amendment Act of 1953 on the -round that the legislature was bringing this provision on the statute book as from an anterior date and consequently no greater retrospectivity should be given to it.
+Precedent	"The general rule" as <NAME> puts it in Vol.
+RulingByLowerCourt	36, (third edition), page 423 :  " .
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.. .
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	is that all statutes, other than those which are merely declaratory, or which relate only to matters of procedure or of evidence, are prima facie prospective; and retrospective effect is not to be given to them unless, by express words or necessary implication, it appears that this was the intention of the legislature."
+RulingByLowerCourt	The law was also succinctly stated by Lord <NAME>, L.C.
+Precedent	in <NAME> v. Bingham(1) where on the question as to whether a statute operated retrospectively it was said "In fact, we must look to the general scope and purview of the statute, and at the remedy s ought to be applied, and consider what was the former state of the law, and what it was that the <ORG> contemplated."
+RatioOfTheDecision	Applying the above principles, we find that the aim of the legislation was to bring into line the assessment of the individual partner with that of the firm.
+Precedent	It was well known that in many cases a firm's final assessment dragged on for years while the assessments of the individuals composing- of it were completed (1) L.R.
+Precedent	4 Chancery Appeals 735.
+Precedent	39  long before the assessment of the firm itself because in the case of individuals the matter was fairly simple.
+Precedent	It does not stand to reason that if the assessment of the firm is completed long after that of the individual by reason of proceedings under s. 34 or otherwise, the discrepancy in the income of the partner as shown by the assessment of the firm and as an individual should continue or be left untouched and the obvious and logical course should be to rectify the assessment of the individual on the basis of the final assessment of the  firm.
+Precedent	Sub-s. (5) of s. 35 is only a step in that direction but the legislature in its wisdom thought it best that assessments of individuals which had taken place before the final order in the assessment of the firm should not be, disturbed except within four years therefrom.
+Precedent	Under the Income-tax Act , 1922 a final assessment could not be altered except under proceedings sanctioned by s. 34 or s. 35 of the Act within the limits of time thereby prescribed.
+Precedent	Leaving aside for a moment the point of time when sub-s. (5) came into the statute book, on a plain reading of the provision it appears to us that the legisla- ture intended that the finding as to the non-inclusion of the proper share of the partner in the profit or loss of the firm in the assessment of the partner should excite the power of rectification.
+Precedent	The power is to be exercised whenever "it is found on the assessment or re-assessment of the firm or on any reduction or enhancement made in the income of the firm".
+Precedent	The subject matter of rectification is  the completed assessment of- a partner in a firm.
+Precedent	This is brought out by the use of The words "where in respect of any completed assessment of a partner in a firm".
+Precedent	There is nothing in the section to show that such "completed assessment" must take place after the provision i.e.
+Precedent	s. 35(5) was brought on the statute book.
+RatioOfTheDecision	What is to take place to give rise to the power of rectification is the finding on the assessment or re-assessment of the firm etc.
+RatioOfTheDecision	The finding alone must be made after section comes into force.
+RatioOfTheDecision	The finding is to be given effect to or made more operative on the "completed assessment" of a partner.
+RatioOfTheDecision	As the mischief sought to be rectified was the discrepancy between the income of the partner assessed as an individual and his income as Computed on the assessment of the firm, the legislature must be held to have made the remedy, applicable whenever the mischief was discovered.
+RatioOfTheDecision	There would have been nothing unjust in making the power of rectification exercisable at any time after the discovery of th e discrepancy but the legislature in its wisdom did not think that the power should be used except within a limited period of four years from the date of the final order.
+RatioOfTheDecision	This group of appeals has been referred to a larger Bench than one of the three Judges before whom the matter was opened on May 4, 1967 because of the earlier decisions of this <ORG>: We now proceed to examine these decisions chronologically.
+Fact	<CITATION_890905> (1) the facts were as follows.
+Fact	One <NAME> who was a partner in two registered firms submitted returns of his income incorporating therein the estimated share of losses in the two firms for the assessment years 1946-47 and 1947-48.
+Fact	The estimates of the assessee were accepted by the Income-tax Officer who completed the assessment for ,the two years on February 20, 1950.
+Fact	The assessment of one of the firms for the same years was completed on October 31, 1950 but the proportionate share of the assessee for the losses was computed at much smaller figures.
+Fact	The assessment of the other firm  for 1947-48 was completed on June 30, 1.951 again for a smaller sum than that estimated by the assessee.
+Fact	The Income-tax Officer started rectification proceedings on May 4, 1953 and ultimately passed an order for rectification on March 27, 1954 after taking into account the share of the losses as computed in the assessment of the two firms.
+Fact	It will be noted at once that the finding about the incorrectness of the losses of the firm as estimated by -the assessee as also the completion of his assessment preceded April 1, 1952 and on the view of the section which we have taken it could not be made applicable at all.
+Fact	It was stated in express terms by this Court "The power to rectify assessment of a partner consequent upon the assessment of the firm of which he is a partner by including or correcting his share of profit or loss can therefore be exercised only in the case of assessment of the firm made on or after April 1, 1952."
+RatioOfTheDecision	The decision in Habibullah's(1) case therefore in no way conflicts with the view of S.  35(5) which we have taken above.
+RatioOfTheDecision	III passing, however, it may be noted that in Habibullah's(1) case a reference was made to sub-s. (6) of S. 35 which was introduced in the statute book by s. 19 of the Amendment Act of 1953 it the same time was sub-s. (5).
+Precedent	There are certain words in sub-s. (6) which -,Ire not to be found in sub-s. (5) and on a contrast between the language used in the two sub-sections it was observed in Habibullah's(1) case :  "When the <ORG> under cl.
+Precedent	(6) of s. 35 expressly authorised rectification in the circumstances mentioned therein even if the assessment has been completed before the Indian Income-tax (Amendment) Act , 195 3, and it made no such provision in cl.
+RatioOfTheDecision	(5), it would be reasonable to infer that the <ORG> did not intend to grant to the revenue authorities a power to rectify assessments falling within cl.
+RulingByLowerCourt	(5) where the firm's assessment was completed before April 1, 1952."
+RulingByLowerCourt	(1)  Supp.2 S.C.R.1,716.
+RulingByLowerCourt	41  This reasoning was advanced before us in aid of the argument that s ub-s. (5) should have no retrospective operation beyond April 1, 1952.
+RatioOfTheDecision	We do not want to express any view as to the interpretation of sub-s. (6) but in our opinion, sub- s. (5) was clearly intended to give retrospective effect to final orders made in the case of the firm by incorporation of the result thereof in the case of the partner as an individual.
+RatioOfTheDecision	The second decision of this <ORG> is that of Second Addl.
+RatioOfTheDecision	<CITATION_1958814> (1).
+RatioOfTheDecision	In this case the proceedings related to the assessment of the respondent for the assessment year 1950-51.
+Fact	The respondent in one of the appeals was assessed as an individual while in the other appeal the respondent was assessed as a Hindu undivided family.
+Fact	The original assessment was completed in both cases on January 22, 1952.
+Fact	The two assessees held shares in two registered firms and the shares from the profits of these firms were included in the assessable income of the two respondents.
+Fact	The assessments of the firms were completed by an order dated October,16, 1954 when it was f ound that the aggregate shares of income from the two firms in the case of each of the respondents were more than that for what they had been assessed.
+RulingByLowerCourt	After starting proceedings under s. 35 an additional demand was made whereupon the respondents moved <ORG>.
+RulingByLowerCourt	After referring to <NAME>'s (2) case and <NAME> case it was said :  "The assessment of the respondents was a final assessment before April 1, 1952, and sub- section (5) has not been made applicable to such assessment, either expressly or by implication.
+RulingByLowerCourt	It has been given a limited retrospectivity from April 1, 1952, and it was held by this court in the cited case that it was not open to courts to give more retrospectivity to it.
+RulingByLowerCourt	Resort in this case could only be taken to the law as it stood before the introduction of sub-section (5), and as determined already by this court, the record of the firm's assessment could not then be called in aid to demonstrate an error on the record of a partner's assessm ent.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RulingByLowerCourt	.
+RatioOfTheDecision	In our opinion, sub-section (5) could not be used in this case, and the decision of <ORG> was right."
+RatioOfTheDecision	With very great respect, we find ourselves unable to concur.
+Precedent	As we have already said, sub-s. (5) becomes operative as soon as it is found on the assessment or re-assessment of the firm or on any reduction or enhancement made in the income of the firm (1) 46 I.T.R.
+Precedent	609.
+Precedent	L 10 Sup.
+Precedent	(CI)168-4 (2) [1962] Supp.
+Precedent	2 S.C.R.
+Precedent	716.
+Precedent	(3) 29 I.T.R.
+Precedent	419.
+Precedent	42  that the share of the partner in the profit or loss of the firm had not been included in the assessment of the partner or if included was not correct.
+RatioOfTheDecision	The completion of the assessment of the partner as an individual need not happen after April 1, 1952.
+RatioOfTheDecision	The completed assessment of the partner is the subject matter of rectification and this may have preceded the above mentioned date.
+RatioOfTheDecision	Such completion does not control the operation of the sub-section.
+RatioOfTheDecision	In the result, we find ourselves unable to concur in the decision or the reasoning in <NAME>( 1) case.
+RatioOfTheDecision	The last case in the series is that of <ORG> and <ORG> v. <NAME> (2 ).
+RatioOfTheDecision	In this case the <ORG> had to consider sub-s. (10) of s. 35 which was introduced by s. 19 of the Finance Act, 1956.
+RulingByLowerCourt	The Bench hearing this appeal was composed of five Judges and two of them, <NAME> and <NAME>, JJ., took the view that <NAME>'s (5) case had been correctly decided but that <NAME> case might require re-consideration although they did not express any final opinion on that point.
+Argument	<NAME>, <NAME>(as he then was) did not think that much assistance could be had from <NAME>'s case(-;) in the matter of interpretation of sub-s. (10) of s. 35 .
+Precedent	He said further:  "There is nothing in S. K. <NAME>'s(3) case to indicate that in the opinion of the learned Judges deciding it there were any words which would indicate that sub-s. (5) was to have a retrospective operation.
+Precedent	In my view, sub-s. (10) contains such words."
+Precedent	The judgment of the two other Judges, <NAME> <NAME> and <NAME>, JJ.
+Precedent	was delivered by Hiday<NAME>, J. who dealt with the subject of retrospective operation of statutes elaborately and discussed <NAME>'s case(1) at some length and expressed the view (at p. 125) that although the section mentioned the final order in the firm's assessment as the starting point "there was nothing to show that this new terminus a quo must be after 1-4-1952 before sub-s. (5) could be used."
+Precedent	According to Hiday<NAME>, J.
+Precedent	"the words of the sub-section were entirely indifferent to this aspect."
+Precedent	The learned Judge was however careful to add that this must not be considered as his final opinion on sub-s. (5).
+Precedent	Any opinion of Hiday<NAME>, J. even with the above qualification merits the highest-respect.
+Precedent	After giving very anxious consideration to the views expressed by the learned Judge, we still hold that by sub-s. (5) of s. 35 the legislature intended that rectification should be made on the finding as to the incorrectness of the assessment of the firm after the provisi on was introduced in the statute book, viz., 1-4-1952.
+Precedent	There would have been nothing unjust or inequitable in the legislature directing that rectification (1) 46.
+Precedent	I.T.R.
+Precedent	609.
+Precedent	(2)  Supp.
+Precedent	2 S.C.R.
+Precedent	92.
+Precedent	(3)  Supp.
+Precedent	1 S.C.R.
+Precedent	716.
+Precedent	43  of the assessment of the partner should always follow the assessment or re-assessment of the firm made finally.
+Precedent	On the other hand, we think rectification of the partner's assessment should logicallyfollow the re-assessment or modification of the firm's assessment.
+Precedent	Otherwise, there would be an unaccounted for divergence between a person's assessment as an individual and his assessment as a partner of a firm.
+Precedent	But the legislature, in our opinion, did not intend to disturb completed assessment of partners except within the period of time indicated earlier in this judgment and unless the finding as to the incorrectness of the firm's assessment was made after the terminus a quo above men- tioned.
+RulingByPresentCourt	In the result, the appeals are allowed.
+RulingByPresentCourt	The judgment and order of <ORG> are  set aside and the orders of rectification passed by the Income-tax Officer are held to be effective and binding on the respondents.
+RulingByPresentCourt	In the circumstances there will be no order as to the costs of these appeals.
+Precedent	<NAME>, J.
+Fact	The respondents in these appeals were the partners, of a registered firm carrying on business in gunnies.
+Fact	For the assessment year 1943-44, i.e., the assessment year ending March 31, 1944, the firm.
+Fact	in question was assessed to tax on 22-1-46.
+Fact	Two days thereafter, namely on January 24, 1946, the partners of the said firm were also assessed to tax for the assessment year 1943-44 after taking into consideration their share of profits in the firm.
+Fact	The Indian Income Tax Act 1922, to be hereinafter referred to as the Act, was amended by Act 25 of 1953.
+Fact	The said amending Act among other provisions incorporated s. 35(5) into the Act.
+Fact	Section 1(2) of that Act provided that "subject to any special provision made in this behalf in this Act, it shall be deemed to have come into force on the 1st day of Ap ril 1952".
+Fact	On September 11, 1952, the <ORG> issued notice to the firm under s. 34 of the Act requiring the firm to show cause why its assessment for the assessment year 1943-44 should not be re-opened and enhanced for the reasons mentioned in that notice.
+Fact	In the proceedings that followed the assessment of the firm was substantially enhanced on 30-5-  59.
+Fact	Thereafter, the proceedings against the respondents were initiated under s. 35(5) read with s. 35(1) as per the notices dated 24-7-59.
+Fact	In those proceedings the assessment of the respondents for the assessment year 1943-44 was enhanced.
+Fact	The respondents challenged the validity of those proceedings in <ORG> in writ petitions 1229-1233 of 1961 on its file.
+Fact	<ORG> following the decisions of this <ORG> in <CITATION_890905> (1) and <CITATION_1958814> (2), allowed those writ petitions and quashed (1) 119621 Supp.
+Fact	2 S.C.R.
+Fact	716.
+Fact	(2) 46 I.T.R.
+Precedent	609.
+Argument	44  the impugned orders.
+Argument	These appeals are directed against the said decision.
+Argument	As  the matters now stand, the question of law arising for decision is not res integra.
+Argument	It is concluded by the decision of this Court in <NAME> case, wherein this Court laid down that sub-s. 5 of S. 35 was not applicable to cases where the assessment of a partner of a firm was completed before April 1, 1952 even though the assessment of the firm was completed after April 1, 1952.
+Argument	Evidently, encouraged by some of the observations in the decision of this Court in <ORG> v. <NAME>, Income Tax Officer and another(1), Mr. <NAME>, learned counsel for the department contended that <NAME>'s (3) case and <NAME> case were not correctly decided and that they should be overruled.
+Argument	Though the majority have not acceded to the contention of Mr. <NAME> that <NAME>'s(1) case has not been correctly decided, it has accepted his contention that <NAME>) case was not correctly decided.
+RatioOfTheDecision	As I am unable to concur with that conclusion, I am con strained to deliver this dissenting judgment.
+RatioOfTheDecision	In my opinion, no case is made out to overrule the decision of this <ORG> either in Habibullah's(3) case or in <NAME> case.
+RatioOfTheDecision	As seen earlier, the assessments in question were made as far back as January 24, 1946.
+RatioOfTheDecision	Every assessment under the Act is final unless the same is modified in appeal or revision or reopened under S. 34 or rectified under S. 35 .
+RatioOfTheDecision	The assessment with which we are concerned in this case was neither modified in appeal or revision nor reopened under s.  34.
+RatioOfTheDecision	The question for decision is whether it can be rectified under S. 35 .
+RatioOfTheDecision	Under the Act , the assessment of a firm and the assessment of its partners are two different assessments though in assessing a partner his share in the firm's profits is added to his other income.
+RatioOfTheDecision	In fact, the profits of a registered firm are subject to double tax, firstly in the hands of the firm and nextly in the hands of its partners.
+Precedent	As the law stood prior to the amending Act 25 of 1953, the assessment of  a partner could not be rectified under S. 35(1) on the ground that the firm's assessment had been enhanced as a result of re-assessment.
+Precedent	In other words, the re-assessment of a firm could not be considered as a mistake apparent from the records of the assessment of its partners.
+Precedent	That was the view taken by <ORG> in <CITATION_422967> tax Officer, Nellore(1) and that view was accepted as correct by this <ORG> in <NAME>'s case(1).
+Precedent	Therefore, all that we have to see is whether (1) 46 I.T.R.
+Precedent	609.
+Precedent	(3) [1962] Sup.
+Precedent	2 S.C.R.
+Precedent	716.
+Precedent	(2) [1963] Supp.
+Precedent	2 S.C.R.
+Precedent	92.
+Precedent	(4) 29 I.T.R.
+Precedent	419.
+Statute	45  35(5) one of the group of clauses added by Act 25 of 1953 could have been availed of by the <ORG> in making the impugned rectifications.
+Statute	Section 35(5) , the extent it is material for our present purpose, reads as follows :  "Where in respect of any completed assessment of a partner in a firm, it is found on the assessment or reassessment of a firm .... that the share of the partner in the profit or loss of the f irm has not been included in the assessment of the partner, or, if included, is not correct, the inclusion of the share of the assessment or the correction thereof, as the case may be, shall be deemed to be a rectification of a mistake apparent from the record within the meaning of this section, and provisions of sub-sections (1) shall apply thereto accordingly, the period of four years referred to in that sub-section being computed from the date of the final order passed in the case of the firm."
+Statute	Section 35(1) empowers the income tax authorities to rectify mistakes apparent from the record of certain orders passed by them.
+Statute	The clause (omitting parts not material) provides that the income tax officer may, any time within the four years from the date of any assessment order passed by him, on his own motion, rectify any mistake apparent from the record of the assessment.
+RatioOfTheDecision	As seen earlier, prior to the amending Act 25 of 1953, the <ORG> could not have made the rectifications with which we are concerned in these ap peals.
+RatioOfTheDecision	Therefore, the question for decision is whether by the exercise of the powers conferred on him by s. 35(5) , the <ORG> could have validly made the impugned rectifications ?
+RatioOfTheDecision	It may be noted that in these cases both the assessment of the firm as welt as the assessment of its partners were made long before April 1, 1952.
+RatioOfTheDecision	But the assessment of the firm was reopened and the firm reassessed after that date.
+Precedent	In Habibullah's(1) case this <ORG> laid down that the legislature had given to cl.
+Precedent	5 of s. 35 which was incorporated with effect from April 1, 1952, a partial retrospective operation.
+Precedent	The provision enacted by cl.
+Precedent	5 is not Procedural in character.
+Precedent	It affects the vested rights of the assessee.
+Precedent	Therefore in the absence of compelling reasons, the court would not be justified in giving a greater retrospectivity to that provision than is warranted by the plain words used by the legislature.
+Precedent	Cl.
+Precedent	5 of s. 35 does not purport to amend cl.
+Precedent	I of the same section.
+Precedent	It confers additional powers upon the income tax authori ties and that power cannot be exercised in respect of assessment of a firm which had been completed before the date on which the power had been invested.
+Precedent	This <ORG> quoted with approval (1)  Sup.
+Precedent	2 S.C.R.
+Precedent	716 the observations of the Privy Council in <CITATION_1865729> (1) :  "When once a final assessment is arrived at, it cannot, in their Lordships' opinion, be reopened except in the circumstances detailed in sections 34 and 3  5 of the Act.... and within the time limited by those sections."
+RatioOfTheDecision	From this decision the correctness of which is not doubted by the majority, it follows that s. 35(5) is only retrospective as from April 1, 1 952; it has no greater retrospectivity and that section cannot affect vested rights.
+RatioOfTheDecision	No doubt that decision was dealing with the assessment of a firm, but the ratio of that decision, in my opinion, applies with equal force to the assessment of a partner If the assessment of a firm made before April 1, 1952 cannot be reopened under s. 35(1) read with s. 35(5) , the same must be equa lly true of the assessment of a partner of a firm.
+RatioOfTheDecision	The ratio of the decision in Habibullah's(1) case is that rights which have become final prior to April 1, 1952 cannot be affected by having recourse to s. 35(5) .
+Precedent	By applying the ratio of the decision in Habibullah's(2) case this Court held in <NAME> case that sub-s. 5 of s, 35 was not applicable to cases where the assessment of a partner was completed before April 1, 1952 even though the assessment of the firm of which he was the partner was completed after April 1 1952.
+Precedent	At p. 612 of the report, this is what this Court observed in <NAME> case :  "Here, the original assessment was made before the amendment, and to that assessment the amended provision cannot still be made applicable for the reason to be given by us, even though the assessments of the firms were after April 1, 1952, and sub-section (5) has not been made applicable to such assessment, either -expressly or by implication.
+Precedent	It has been given a limited retrospectivity fro m April 1, 1952, and it was held by this court in the cited case that it was not open to courts to give more retrospectivity to it.
+Precedent	Resort in this case could only be taken to the law as it stood before the introduction of sub-section (5), and as determined already by this <ORG>, the record of the firm's assessment could not then be called in aid to demonstrate an error on the record of a partne's assessment.
+Precedent	It was further held in <NAME> (2) case that the provision enacted by sub-section (5) is not procedural in character and that it affects vested rights of an assessee.
+Precedent	In our (1)65 I.A.
+Precedent	248.
+Precedent	(3) 46 I.T.R.
+Precedent	609.
+Precedent	(2) [1962] Supp.
+Precedent	2 S.C.R.
+Precedent	716 opinion, subsection (5) could not be used in this case, and the decision of the High <ORG> was right."
+Precedent	It may be noted that both the decisions in <NAME> case(1) and <NAME> case(1) were rendered by the same Bench (consisting <NAME>, <NAME> and <NAME>, JJ.)
+RatioOfTheDecision	I am unable to accept the, contention that <NAME> case(1) laid down any  new legal principle.
+RatioOfTheDecision	It merely applied the principle laid down in <NAME>'s case(1) to the facts of that case.
+RatioOfTheDecision	In my opinion there is no legal basis to distinguish the one from the other.
+RatioOfTheDecision	In <ORG> and <ORG>, Co., case(3), this <ORG> was called.
+RatioOfTheDecision	upon to interpret the scope of sub-s. 10 of s. 35 of the Act which was brought into force on April 1, 1956.
+RatioOfTheDecision	The language of that provision is wholly different from that of s. 35(5) .
+RatioOfTheDecision	It is not clear from the report why in that case it became necessary to consider the correctness of the decisions of this <ORG> in <NAME>'s case(1) and <NAME> ( 2 ) case.
+RatioOfTheDecision	But it appears that in the, course of the arguments the correctness of' those decisions was put into issue.
+RatioOfTheDecision	Three separate judgment were delivered in that case, one on behalf of <NAME> and <NAME>, <NAME>, by <NAME>, <NAME> another on behalf of <NAME> and <NAME>, J<NAME> by <NAME> J, and the third by <NAME>, <NAME> <NAME> <NAME> in his judgment, merely referred to <NAME>'s case(1 ) and not to <NAME> case.
+RatioOfTheDecision	Dealing with <NAME>'s case(1), this is what his Lordship observed :  "As to S. K. <NAME>'s case(1) I do not think that much assistance can be had from it.
+RatioOfTheDecision	It applied the rule of presumption against a statute having a retrospective operation-as to which rule, of course, there is no dispute-to sub-s. (5) of s. 35 .
+RatioOfTheDecision	Now cases on the cons- truction of one statute, are rarely of value in construing another statute.
+RatioOfTheDecision	for each case turns on the language with which it is concerned and statutes are not often expressed in the same language.
+RatioOfTheDecision	The language used in sub-ss.
+RatioOfTheDecision	(5) and (10) seems to me to be wholly different.
+RatioOfTheDecision	There is nothing in, S. K. <NAME>'s case(1) to indicate that in the opinion of the learned Judges deciding it there were any words which would indicate that sub-s.(5) was to have a retrospective operation.
+RatioOfTheDecision	In my view, sub-s' (10) contains such words.
+RatioOfTheDecision	Furthermore, I do not find that the other considerations' to which I have referred arose for discussion in t hat case.
+Precedent	In my view, the two cases are entirely different."
+Precedent	(1) [1962] Supp.
+Precedent	2 S.C.R.
+Precedent	716.
+Precedent	(3) [1963] Supp.
+Precedent	2 S.C.R.
+Precedent	92.
+Precedent	(2) 46 f.T.
+Precedent	R. 609.
+RulingByLowerCourt	48  <NAME>, J. accepted the correctness of the decision in <NAME>'s case(1) but while dealing with <NAME> case (2 ) he observed :  "We may point out, however, that in Second Additional Income tax <CITATION_1958814> (2) this court went a step further and held that sub-s. (5) of s. 35 was not applicable to cases where the assessment of the partner was completed before April 1, 1952, even though the assessment of the firm was completed after April 1, 1952.
+RatioOfTheDecision	Learned counsel for the appellant frankly conceded before us that he did not wish to go as far as that and contend that even in a case where a declaration of dividend was made after April  1.
+RatioOfTheDecision	1956, sub-s. (10) would not apply; because that would make sub-s. (10) unworkable.
+RatioOfTheDecision	The decision is <CITATION_1958814> (2) may perhaps require reconsideration as to which we need not express any final opinion now, but  so far as this case is concerned we see no reason why the, principle in <NAME> case(1) will not apply."
+RatioOfTheDecision	But <NAME>, J. who as mentioned earlier was a party to both the decisions dealing with those decisions observed :  "We do not naturally express a final opinion on sub-s. (5).
+RatioOfTheDecision	We must leave that to a future case.
+RatioOfTheDecision	We must, however, say that the two earlier cases may have to be reconsidered on some future occasion."
+RatioOfTheDecision	For the reasons to be presently stated I would rather prefer to follow the decisions in <NAME>'s case(1) and <NAME> case(2) which I am sure must have been rendered after deep consideration rather than the passing doubts hesitatingly expressed by two of the learned Judges who were parties to those decisions.
+RatioOfTheDecision	As seen earlier, even the majority has not shared the doubts expressed by <NAME>, J. as regards correctness of the decision in <NAME>'s case(1).
+RatioOfTheDecision	The rule laid down in <NAME>'s(1) and <NAME> (2 ) cases is a well settled rule.
+Precedent	Dealing with  the inter- pretation of taxing statutes, it is observed in Halsbury's Laws of England (Vol.
+Precedent	36, pp.
+Precedent	416-17) "The language of a statute imposing a tax, duty or charge must receive a strict construction in the sense that there is no room for any intendment, and regard must be had to the clear meaning of the words.
+Precedent	If the <ORG> claims a duty under a statute, it must show that duty is imposed by clear and unambiguous words, and where the meaning of the statute is in doubt, it must (1) [1962] Supp., C.R.716 (2) 46 I.T.R 669.
+RatioOfTheDecision	49  be construed in favour of the subject, however, much within the spirit of the law the case might otherwise appear to be; but a fair and reasonable construction must be given to the language used without leaning to one side or the other.
+RatioOfTheDecision	The rule that the literal construction of a statute must be adhered to, unless the context renders it plain that such a construction cannot be put on the words, is especially important in cases of statutes which impose taxation.
+RatioOfTheDecision	There is no rule admittin g equitable construction of a taxing statute; that is to say cases which are not within the actual words of the statute cannot be brought within the statute by consideration of its governing principle or intention."
+RatioOfTheDecision	<NAME>, J. observed in <ORG> v. <ORG>) :  "In a taxing Act one has to look merely at what is clearly said.
+RatioOfTheDecision	There is no room for any intendment.
+RatioOfTheDecision	There is no equity about a tax.
+RatioOfTheDecision	There is no presumption as to a tax.
+RatioOfTheDecision	Nothing is to be read in, nothing is to be implied.
+RatioOfTheDecision	One can only look fairly at the language used."
+RatioOfTheDecision	These principles have been accepted as correct both by <ORG> and the superior courts in this country.
+RatioOfTheDecision	It is now well settled that if the interpretation of a fiscal enactment is in doubt, the construction most beneficial to the subject should he adopted even if it results in obtaining an advantage to the subject; the subject cannot be taxed unless he comes within the letter of the law and the argument that he falls within the spirit of  the law cannot avail the department.
+Precedent	In Commissioner of Income tax, Bombay v. <ORG> (2 ) this <ORG> quoted with approval the following, passage from an earlier decision of this <ORG> in <CITATION_1350547> (3) :  "If the <ORG> satisfies tile <ORG> that the case falls strictly within the provisions of the law, the subject can be taxed.
+Precedent	If, on the other hand, the case is not covered within the four corners of the provisions of the taxing statute, no tax call be imposed by inference or by analogy or by trying to probe into the intentions of the legislature and by considering what was the substance of the matter.
+Precedent	We must of necessity, therefore, have regard to the actual provisions of the Act and the rules made there-  (1) [1921] 1 K.B.
+Precedent	64.
+Precedent	(3) 8 S.T.C.
+Precedent	561.
+Precedent	(2) 32 I.T.R.
+Precedent	190.
+Argument	50  under before we can come to the conclusion that the appellant was liable to assessment as contended by the <ORG> authorities."
+Argument	In Commissioner of Income tax, <CITATION_1092578> .
+Argument	(1), this <ORG> held  that if the words of the taxing statute fail, then so must the.
+Argument	tax.
+Argument	The courts cannot, except rarely and in clear cases, help the draftsmen by a favorable construction.
+Argument	In Commissioner of Income tax, <CITATION_496316> (2) this Court again observed :  "The income tax law seeks to bring within the net of taxation certain class of income, and can only successfully do so if it frames a provision appropriate to that end.
+Argument	If the law fails and the tax payer cannot be brought within its letter, no question of unjustness as such arises."
+Precedent	<CITATION_315873> tax Officer, Calcutta, and others(1), it was observed :  "Before construing the section it will be useful to notice the relevant rules of construction of a fiscal statute.
+Precedent	In <ORG> v. <NAME> (5 A.C. 842) <ORG> held that if a statute professed to impose a charge, the intention to impose a charge on the subject must be shown by clear and unambiguous language.
+Precedent	In <ORG> v. R. [1946] A.C. 119, Viscount Simon L.C.
+Precedent	ob served : 'In the words of <NAME>, J..... in a taxing Act one has to, look nearly at what is clearly said.
+RatioOfTheDecision	There is no room for any intendment.
+RatioOfTheDecision	There is no equity about a tax.
+RatioOfTheDecision	There is no presumption as to a tax.
+RatioOfTheDecision	Nothing is to be read in.
+RatioOfTheDecision	Nothing is to be implied.
+Precedent	One can only look fairly it the language used."
+Precedent	In other words, a taxing statute must be couched in express and unambiguous language.
+Precedent	The same rule of construction has been accepted by this court in <CITATION_1338548> tax (48 I.T.R.
+Precedent	1) wherein it was stated: .
+Precedent	It is well recognised that the rule of construction that if a case is not covered within the four corners of the provisions of a taxing statute no tax can be imposed by inference or by analogy or by trying to probe into the intentions of the legislature and by considering what was the substance, (1) 40 I.T.R.
+Precedent	142.
+Precedent	(3) 53 I.T.R.
+Precedent	100, 104.
+Precedent	(2) 40 I.T.R.
+Precedent	184.
+Precedent	51  of the matter, applies only to a taxing provision and has no application to all provisions in a taxing statute'."
+Precedent	In Commissioner  of Income tax, <CITATION_1664497> .
+Precedent	(1) this Court quoted with approval the rule laid down by <NAME>, J. in Cape Brandy Syndicate case(1) to which reference has already been made.
+Precedent	It went further and observed :  " To put in other words, the subject is not to be taxed unless the charging provision clearly imposes the obligation.
+Precedent	Equally important is the rule of construction that if the words of a statute are precise and unambiguous, they must be accepted as declaring the express intention of the legislature."
+Precedent	From the foregoing decisions it is clear that the consideration whether a levy is just or unjust, whether it is equitable or not, a consideration which appears to have greatly weighed with the majority, is wholly irrelevant in considering the validity of a levy.
+Precedent	The courts have repeatedly observed that there is no equity in a tax.
+Precedent	The observations of Lord <NAME>, L.C.
+Precedent	in <NAME> v. Bingham(3) "In fact we must took to the general scope and purview of the statute, and at the remedy sought to be applied, a nd consider what was the former state of the law, and what it was that the <ORG> contemplated", were made while construing, a non-taxing statute.
+RatioOfTheDecision	The said rule has only a limited application in the interpretation of a taxing statute.
+RatioOfTheDecision	Further, as observed by that learned Judge in that very case the question in each case is "whether the legislature had sufficiently expressed its intention" on the point in issue.
+RatioOfTheDecision	I do not think that the impugned assessments can be said to be just or equitable even if that consideration is at all relevant.
+RatioOfTheDecision	The assessments of partners of firms, whose assessments had become final before April 1, 1952 cannot be reopened.
+RatioOfTheDecision	There is no just or equitable -round to differentiate the case of the respondents from those assessees.
+RatioOfTheDecision	As seen earlier, the assessment of the respondents had become final as far back as 1946.The would have arranged their affairs on that basis.
+RatioOfTheDecision	Thirteenyears thereafter, they were called upon to pay additional tax.It cannot be said that is just or equitable.
+RatioOfTheDecision	This takes me to the question whether the impugned assess- ments come clearly within the scope of s. 35(5) .
+RatioOfTheDecision	That is the only relevant consideration.
+RatioOfTheDecision	But before going into that question we must remind ourselves that the assessments of- the respondents had become final in the year 1946 and under the law as it stood prior 'Lo the enactment of s. 35(5) , those assessments could not (1)55 I.T.
+Precedent	R. 741.
+Precedent	1 S.C.R.
+Precedent	70) (3) 4 Ch.
+Precedent	Appeals 735.
+Precedent	(2) [1921] 1.
+Precedent	K.B.
+Precedent	64.
+Precedent	52  have been interfered with.
+RulingByLowerCourt	Section 35(5) unlike several other provisions in the amending Act of 1953 had been given only a partial retrospective effect.
+RulingByLowerCourt	It is made to be operative as from April 1, 1952.
+RulingByLowerCourt	In this background let us now proceed to examine s. 35(5) .
+RulingByLowerCourt	Before a case can be held to fall within the scope of S. 35(5) , two requirements must be satisfied, namely, (1) that the assessment or reassessment of the firm must have taken place on or after April 1, 1952, and (2) the assessment of the partner must be a "completed assessment".
+Fact	The next qu estion to be decided is whether the "completed assessment" referred to in s. 35(5) includes an assessment which had become final prior to April 1, 1952.
+RatioOfTheDecision	I am unable to find out how the firm's assessment could have been validly reopened under s. 34 , in September 1952.
+RatioOfTheDecision	By the time the notice under s. 34 was issued, the eight years' period of limitation prescribed in s. 34 had expired.
+RatioOfTheDecision	But the validity of the firm's re-assessment does not appear to have been challenged at any time before the hearing of these appeals.
+RatioOfTheDecision	Hence it is not safe to pursue that question.
+RatioOfTheDecision	The concept of a "completed assessment" was introduced for the first time by the amending Act 25 of 1952.
+RatioOfTheDecision	The Act as it stood till then only spoke of assessments, re-assessments and rectification of assessments.
+RatioOfTheDecision	What did the legislature mean by saying completed assessment" in s. 35 (5) ?
+RatioOfTheDecision	That expression is not defined in the Act.
+RatioOfTheDecision	The legislature must be considered to have deliberately used that expression in place of the expression "assessment" an expr ession familiar to courts and the connotation of which is well settled.
+RatioOfTheDecision	On the basis of well recognised canons of construction of statutes we must give that expression a meaning different from that given to "assessment".
+RatioOfTheDecision	Evidently, the legislature used the expression "completed assessments" to distinguish that class of assessments from assessments which are final under the Act.
+Precedent	It appears to me, by using that expression, the legislature intended that the assessment of a partner should not be considered as a final assessment till the assessment of the firm becomes final.
+Precedent	In other words, the partner's assessment would continue to be tentative till the company's assessment becomes final.
+Precedent	If that be the true interpretation of the expression "completed assessment", as I think it is, then that expression can only apply to assessments of partners made on or after April 1, 1952.
+Precedent	The respondents' assessments as mentioned earlier had become final prior to that date.
+Precedent	Hence the respondents' assessments cannot be consider ed as "completed assessments" within the meaning of that word in s. 35(5) .
+Precedent	Consequently those assessments must be held to be outside the scope of that section.
+Precedent	53  Section 35(5) neither expressly nor by necessary implication empowers the I.T.O.
+Precedent	to reopen assessments which had become final.
+Precedent	If the legislature wanted to confer such a power it should have said so as it did in s. 35 (6) and in several other provisions in the amending Act,-ss.3(2), 7(2) and 30(2) of that Act.
+Precedent	Further, if s. 35(5) empowers the reopening of all final assessments of partners of firms, where was the need to give that provision a partial retrospectivity ?.
+RatioOfTheDecision	That very circumstance negatives the contention of the department.
+RatioOfTheDecision	Even if it is to be held that the expression "completed assessment" is an ambiguous expression, in that event also, the power conferred under s. 35 (5) could not have been exercised to rectify the assessments in question.
+RatioOfTheDecision	From the foregoing it follows that the decision of this <ORG> in <NAME> case(1) is c orrect.
+RatioOfTheDecision	Even assuming that s. 3  5 (5) can receive a different interpretation and that interpretation is more reasonable than that adopted by this <ORG> in <NAME> case(1), in that even also this <ORG> would not be justified in overruling its previous decision, which has the force of law in view of Art.
+RatioOfTheDecision	141 of the Constitution.
+RatioOfTheDecision	I am of the opinion that the decisions of this <ORG> should not be overruled except under compelling circumstances.
+RatioOfTheDecision	It is only when this <ORG> is fully con- vinced that public interest of a substantial character would be jeopardized by a previous decision of this <ORG>, this <ORG> should overrule that decision.
+RatioOfTheDecision	Every time this <ORG> overrules its previous decision, the confidence of the public in the soundness of the decision of this <ORG> is bound to be shaken.
+RatioOfTheDecision	Re-consideration of the decisions of this <ORG> should be confined to questions of great public importance.
+RatioOfTheDecision	In law finality is of utmost importance.
+RatioOfTheDecision	Legal problems should not be treated as mere subjects for mental exe rcise.
+RatioOfTheDecision	This <ORG> must overrule its previous decisions only when it comes to the conclusion that it is manifestly wrong, not upon a mere suggestion that some or all of the members of the later <ORG> might arrive at a different conclusion if the matter was res integra.
+RatioOfTheDecision	<CITATION_608874> (2), this <ORG> laid do" that there is nothing in the Constitution which prevents the Supreme <ORG> from departing from a previous decision of its own if the <ORG> is satisfied of its error and its baneful effect on the general interest of the public.
+Precedent	<NAME>, Acting C.J., speaking for the majority, observed in the course of his judgment (at p. 630 of the report):  "It is needless for us to say that we should not lightly dissent from a previous pronouncement of this <ORG>.
+Precedent	Our power of review, which undoubtedly exists, must be exercised with due care and caution and only for advancing the public well being in the light of the surrounding (1) 46 I.T.R.
+Precedent	609.
+Precedent	(2) [1955] 2 S.C.R.
+Precedent	603.
+Precedent	54  circumstances of each case brought to our not ice but we do not consider it right to confine our power within rigidly fixed limits as suggested before us."
+Precedent	The question of law with which we are concerned in this case was of minor importance, at all times.
+Precedent	It has become all the more so because of the passage of time, as it has relevance only to assessment of partners of firms made before April 1, 1952, and that too in cases where the question of enhancing those assessments arises as a result of the assessment or re-assessment of the concerned firms on or after April 1, 1952.
+RulingByPresentCourt	Such cases are not likely to be many.
+RulingByPresentCourt	For the reasons mentioned above, I dismiss these appeals with Costs.
+RulingByPresentCourt	ORDER In accordance with the opinion of the majority the appeals are allowed, the judgment and order of <ORG> are set aside and the orders of rectification passed by the Income tax Officer are held to be effective and binding on the respondents.
+RulingByPresentCourt	In the circumstances there will be no order as to costs of these appeals.
+Precedent	G.C.
+Precedent	55

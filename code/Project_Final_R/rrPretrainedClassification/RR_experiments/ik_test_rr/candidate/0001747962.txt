@@ -1,0 +1,279 @@
+Fact	JUDGMENT <NAME>, C.J.
+RatioOfTheDecision	1.
+RatioOfTheDecision	The point referred to us for our opinion is one of considerable difficulty.
+RatioOfTheDecision	At every step of the reasoning in support of either view taken on it there is considerable divergence of judicial authority.
+RatioOfTheDecision	There is much to be said for either view and ultimately our decision must depend upon what view appeals to us.
+Fact	The question is:  "Is Section 48, Civil P. C., controlled by Section 15 of the Indian Limitation Act, or does it prescribe an absolute prohibition of an entertainment of a fresh execution application beyond twelve years from the date of the decree subject only to the exceptions contained in that same section?"
+Statute	Section 48 runs as follows:  "(1) Where an application to execute a decree not being a decree granting an injunction has been made, no order for the execution of the same decree shall be made upon any fresh application presented after the expiration of 12 years from:  (a) the date of the decree sought to be executed, or;  (b) where the decree or any subsequent order d irects any payment of money or the delivery of any property to be made at a certain date or at recurring periods, the date of the default in making the payment or delivery in respect of which the applicant seeks to execute the decree.
+Statute	(2) Nothing in this section shall be deemed:  (a) to preclude the <ORG> from ordering the execution of a decree upon an application presented after the expiration of the said term of twelve years, where the judgment-debtor has by fraud or force, prevented the execution of the decree at some time within 12 years immediately before the date of the application; or  (b) to limit or otherwise affect the operation of Article 183 of the First Schedule to the Indian Limitation Act , 1908."
+Statute	The section is given under a separate heading "Limit of time for execution."
+Statute	The marginal note is "Execution barred in certain cases."
+Statute	2.
+Statute	Section 15 of the Indian Limitation Act in EO far as it is material is in the following terms:  "(1) In computing the period of limitation prescribed for any sui t or application for the execution of a decree, the institution or execution of which has been stayed by injunction or order, the time of the continuance of the injunction or order, the day on which it was issued or made and the day on which it was withdrawn, shall be excluded."
+Statute	The Legislative history of this provision is as follows: In the Act of 1859 there was no provision corresponding to this.
+Statute	In the Act of 1871 the corresponding provision was Section 16 which ran thus:  "In computing the period of limitation prescribed for any suit, the commencement of which has been stayed by injunction, the time for the continuance of the injunction shall be excluded."
+Statute	In the next Act of 1877 the corresponding provision was Section 15 which ran thus:  "In computing the period of limitation prescribed for any suit, the institution of which has been stayed by injunction or order, the time of the continuance of the injunction or order, the day on which it was issued or made, and the day on which it was withdrawn shall  be excluded."
+RatioOfTheDecision	The conflict of opinion is in respect of the construction of the two expressions "the period of limitation" and "prescribed" which occur in Section 15 of the Limitation Act.
+RatioOfTheDecision	Does "prescribed" mean "prescribed in the schedule to the Limitation Act ", or does it mean "prescribed either in the schedule or in any other enactment?"
+RatioOfTheDecision	is the period of 12 years mentioned in Section 48 , Civil P. C., a period of limitation within the meaning of Section 15 of the Limitation Act?
+RatioOfTheDecision	It is obvious that unless the 12 years period is a period of limitation and "prescribed" is understood in an extended sense as not confined to the provisions of the schedule to the Limitation Act , Section 15 of that Act cannot apply in computing the period of 12 years under Section 48 of the Code.
+RatioOfTheDecision	3.
+Statute	Another statutory provision to which it is necessary to refer is Section 29 (2) of the Limitation Act as it now stands after the amendment in 1922 which runs thus:  "Where any special or local law prescribes for any suit, appeal or a pplication a period of limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule, and for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law:  (a) the provisions contained in Section 4 , Sections 9 to 18 and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law."
+Statute	The corresponding provision before the amendment was as follows:  "29 (1) Nothing in this Act shall...... (b) affect or alter any period of limitation specifically prescribed for any suit, appeal or application by any special or local law now or hereafter in force in British India."
+Statute	The Limitation Act of 1877, Section 6 , was more or less in similar terms, namely: "Where, by any special or local law or hereafter in force in British India a period of limitation is specially pre scribed for any suit, appeal or application, nothing herein contained shall affect or alter the period so prescribed."
+RatioOfTheDecision	Whether the Civil Procedure Code is a special or local law within the meaning of S, 29 is also one of the questions which falls to be determined before arriving at a final conclusion on the point referred to us.
+RatioOfTheDecision	4.
+Precedent	The earliest case of our Court with which we can start the discussion is that 'Venkata Perumal v. <NAME>', 27 Mad L J 25.
+Precedent	In this case <NAME>, J., made the following observations though they were 'obiter':  "Following the observations in Thoolas Koonwar V. Lalla Jogheshwar Sahay', 1 Cal 226, p. 242, the observations in 'Navalchand v. <NAME>', is Bom 734 and 'Moro Sadashiva T. Visaji Raghunath', 16 Bom 536, I am inclined to hold that the Civil Procedure Cole is not a 'special statute' but it is a general law of procedure usually passed in the same year as the Limitation Act , and that the sections of the Limitation Act relating to exclusion of time and obtaining t he benefit of the time spent in certain necessary acts, other and similar provisions govern also the 12 years period of limitation provided for in Section 48 , C.P.C."
+Precedent	The other learned Judge (<NAME>, J.)
+Precedent	thought it unnecessary to consider whether the time as limited by Section 48 , C.P.C., for the execution of a decree can be extended by virtue of the general provisions of the Limitation Act .
+Precedent	5.
+Precedent	The leading decision in this Court directly on the point is to be found in ' <CITATION_1693508> ', 45 Mad 785.
+Precedent	It was therein held by <NAME> and <NAME>, JJ., that Section 48 of the Code contains an unqualified prohibition against execution of certain kinds of decrees more than 12 years old and is not controlled by Section 15 (1) of the Limitation Act of 1908.
+Precedent	Though the two learned Judges concurred in this final conclusion their reasoning proceeded on different lines.
+Precedent	<NAME>, J., held that the word "prescribed" to Section 15 , Limitation Act must be understood as prescribed in the schedule to the Act, though th e words "in the schedule" do not occur in the section.
+Precedent	He made reference to two decisions of <ORG> in 'Jurwan v. Mahabir Dube', 40 All 198 and ' <CITATION_514620> ', 43 All 118, as supporting him in his view.
+RatioOfTheDecision	According to him, Section 48 has nothing to do with the periods of limitation prescribed in the schedule to the Limitation Act .
+RatioOfTheDecision	He noticed the view to which <NAME>, J., was inclined in 'Venkata Perumal v. Velayudha Beddi', 27 Mad L J 25, but apparently did not agree with him.
+RatioOfTheDecision	He dismissed Section 29 of the Limitation Act as not affecting the matter one way or the other, because it related to special or local laws which contain special provisions of their own for the limitation of certain proceedings taken to obtain reliefs provided therein and did not include the Civil Procedure Code in its scope.
+RatioOfTheDecision	6.
+RatioOfTheDecision	<NAME>, J., did not agree with <NAME>, J., in confining the application of Section 15 (1) of the Limitation Act to the periods of limitation provided in the schedule to the Act .
+RatioOfTheDecision	He held that the Civil Procedure Code was a general law and hence periods of limitation in it were governed by the Limitation Act .
+RatioOfTheDecision	On the second point, however, he held that the period of 12 years mentioned in Section 48 , Civil P.C., is not a period of limitation within the meaning of Section 15 of the Act.
+RatioOfTheDecision	He pointed out that the phrase "period of limitation" could be used in the two senses, a strict and a loose sense.
+RatioOfTheDecision	In the strict sense it meant such a provision that a proceeding to which it is sought to be applied will be in time if filed within the period and beyond time if filed after it.
+RatioOfTheDecision	The period in Section 48 , Civil P. C., was not a period of limitation in the strict sense, for an application for execution of a decree of the kind mentioned in Section 48 will in general not be in time if filed within 12 years.
+RatioOfTheDecision	It will be out of time unless it is within three years from any of the dates mentioned in the third column of Article 182.
+RatioOfTheDecision	Referring to Col. 1 of Article 182 which speaks of the execution  of a decree or order of <ORG> not provided for in Article 183 or by Section 48 , Civil P.C., and the first column in Article 181 which runs thus: "Application for which no period of limitation is provided elsewhere in this schedule or by Section 48 , Civil P. C., 1908," the learned Judge expressed his opinion that it was in the looser sense, the phrase "period of limitation" was there used.
+RatioOfTheDecision	The learned Judge was inclined to hold that it was in the stricter sense that the phrase was used in Section 15 of the Limitation Act.
+RatioOfTheDecision	He was well aware that there was no conclusive reason in support of this view because he said: "On this question one has to find the sense in which it is used, as best as he can."
+Precedent	He agreed finally with <NAME>, J., in holding that in computing the period of 12 years in Section 48 , Civil P. C., Section 1 & (1) of the Limitation Act could not be applied.
+Precedent	The next decision of this <ORG> to which reference may be made is <NAME> v. <NAME>', AIR (15) 1928 Mad 1154.
+Precedent	The learne d Judges (<NAME> and <NAME>, JJ.)
+Precedent	came to the same conclusion as the learned Judges in Subbaraya v. Natarajan', 45 Mad 785, but apparently on the ground that Section 15 (1) of the Limitation Act applies only to the periods prescribed in the schedule to that Act and does not apply to the periods mentioned in Section 48 , Civil P.C.
+Precedent	This was the ground on which <NAME>, J., based his decision though <NAME>, J., was of a contrary view.
+Precedent	There is no further discussion in "Thandavamurthi v. Durgamba', AIR (15) 1928 Mad 1154 and it does not carry the matter further: <ORG>, followed the ruling in ' <CITATION_1693508> ', 45 Mad 785 in ' <CITATION_303535> ', 1944-2 Mad LJ 403.
+Precedent	He held that the period of stay under Madras Act IV of 1938, could not be excluded under Section 15 of the Limitation Act, for the purpose of calculating the 12 years contained in Section 48 , Civil P. C. He felt himself bound by the decision in ' <CITATION_1693508> ', 45 Mad 785, though his attention was drawn to the deci sion in 'Kalyanasundaram Pillai v. Vaidhialinga Vanniar', ILR (1939) Mad 611, in which the reasoning of Ramesam, J., in 'Subbaraya v. <NAME>', 45 Mad 785, had been criticised.
+Precedent	and to the decision of the Full Bench of <ORG> in 'Drigpal Sfngh v. <NAME>', ILR (1939) All 647 FB, in which a different view had been taken.
+Precedent	No other decision of this Court was brought to our notice which deals directly with Section 15 (1) of the Limitation Act in its application to Section 48 of the Code.
+Precedent	7.
+Precedent	But it will be useful to refer to the decision in 'Kalyanasundaram Pillai v. Vaidhialinga Vanniar', ILR (1939) Mad 611, though it is not a direct case on the point.
+Precedent	The learned Judges (Kings and <NAME>, JJ.)
+Precedent	were there concerned with the construction of Section 78(2) of the Provincial Insolvency Act.
+Precedent	Under that provision where the order of adjudication has been annulled under that Act, in computing the period of limitation prescribed for any suit or application for the execution of a de cree other than a suit or application in respect of which the leave of the <ORG> was obtained under Sub-section (2) of Section 28 , the period from the date of the order of adjudication to the date of the order of annulment has to be excluded.
+Precedent	The learned Judges held that the benefit of this provision would enure to a decree-holder even in the computation of the period of time limited by Section 48 , <NAME>, who delivered the judgment of the <ORG> discussed at length the question : "What is and what is not a period of limitation".
+RatioOfTheDecision	He was clearly of opinion that the period of 12 years limited by Section 48 of the Code should be regarded as a period of limitation.
+RatioOfTheDecision	He said: "If the law fixes a period of time after which a suit or other proceeding is not to be entertained by the <ORG>, the period so limited is etymologically a period of limitation."
+RatioOfTheDecision	He was not satisfied about the necessity or the correctness of classifying rules of limitation as falling under two heads, strict and loose .
+RatioOfTheDecision	This classification was artificial and not founded on any rational basis and not warranted by the statutory language.
+RatioOfTheDecision	At the same time he was not evidently prepared to say that <NAME>, J., was wrong in holding that in computing the period of 12 years under Section 46 of the Code, it was not permissible to exclude under Section 15 of the Limitation Act the period of time during which the decree had been stayed by an order of <ORG>.
+RatioOfTheDecision	Of course, it was not necessary to canvass the correctness of the decision in that case, as the learned Judges were concerned with construing a section in another Act, namely, the Provincial Insolvency Act .
+RatioOfTheDecision	There is no clear indication as to what the learned Judges would have held if the very question which arose in ' <CITATION_1693508> ', 45 Mad 785, had arisen before them.
+RatioOfTheDecision	There is one statement in <NAME>, J.
+RatioOfTheDecision	's judgment which appears to me to be not quite correct.
+Precedent	He said at page 619:  "Both the learned Judges held that the section was inapplicable, as on its tr ue construction the word 'prescribed' found in it meant 'prescribed in the schedule to the Act' though these latter words do not occur in it."
+Precedent	With great respect to the learned Judge, I venture to point out that this was the view of <NAME>, J., only and not of <NAME>, J., who was not prepared to place such a narrow construction of the word "prescribed."
+Precedent	8.
+Precedent	In Allahabad the question was very elaborately discussed by <ORG> in '<NAME> v. <NAME>', ILR (1939) All 647 FB.
+Precedent	The decision of <ORG> was that the provisions of Section15 (1) of the Limitation Act applied to and affected Section 48 , C.P.C.
+Precedent	The learned Judges held that the word "prescribed" has been used in Section 15 of the Limitation Act in a general sense as meaning 'prescribed by any enactment for the time being in force" and that Section 48 , C.P.C., does prescribe a period of limitation.
+Precedent	<NAME>, <NAME>, relied upon the following circumstances in concluding that Section 15 of the Limitation Act need not be confined in it s operation to periods of limitation prescribed by the Act itself or by its schedule.
+RatioOfTheDecision	The terms of Section 15 were perfectly general and it must be assumed that the <ORG> advisedly did not include the words "by this Act" or "by the first schedule of the Act."
+RatioOfTheDecision	The first schedule of the Limitation Act is not the only statutory provision which prescribes a period of limitation.
+RatioOfTheDecision	Section 29 of the Limitation Act refers to the periods of limitation which are prescribed by any special or local law.
+RatioOfTheDecision	The learned Chief Justice summed up the position thus: "In view of the unqualified terms of Section 15 of the Act, and of the fact that periods of limitation are prescribed in a number of statutory enactments, it .does not appear that there is any justification, judicial authority apart, for restricting the operation of the section to the periods of limitation prescribed by the Act or by the First Schedule."
+RatioOfTheDecision	In considering the second question.
+RatioOfTheDecision	"Does Section 48 , Civil P.C., prescribe a period of limitation?"
+RatioOfTheDecision	the le arned Chief Justice refers to the terms of Article 181 of the Limitation Act as well as Article 182.
+RatioOfTheDecision	Having regard to the language used by the <ORG> in Articles 181 to 183 and to the heading of Section 48 , namely, "Limit of time for execution", it appeared to be clear to him that Section 48 of the Code does prescribe a period of limitation.
+RatioOfTheDecision	He found great difficulty in accepting the distinction between periods of limitation in a loose sense and periods of limitation in a strict sense.
+RatioOfTheDecision	His definition of "a period of limitation" is as follows:  "It appears to me that if the result of a statutory provision is in substance to fix a period within which a person must take appropriate and necessary action If he desires to assert his rights in <ORG>, that provision prescribes a period of limitation."
+Precedent	He sought support for this definition in the ruling of <ORG> in 'Phoolbas Koonwar v. Lalla Jogheshwar Sahay', 1 Cal 326 P. C. <NAME>, J., discussed both the questions which fell to be co nsidered.
+Precedent	The learned Judge gives additional reasons of holding that the word prescribed" in Section 15 of the Limitation Act is used in a general sense as meaning "prescribed by any law whatsoever".
+RatioOfTheDecision	In the group of Sections from 3 to 29 in Sections 3 , 6 and 29 , after the word "Prescribed" reference has expressly been made to the first schedule.
+RatioOfTheDecision	The omission of this qualification in the other sections including Section 15 is significant and with a set purpose, namely, to make those sections of universal application.
+RatioOfTheDecision	If the <ORG> intended to use the word "prescribed" in all sections of the Act in one and the same sense, then it would have been easy to define that word in Section 2 of the Act.
+RatioOfTheDecision	The learned Judge was unable to discover any reason why the rules as to computation of period of limitation which accord with common sense should have been intended by the <ORG> to apply only to periods of limitation provided for by other enactments.
+RatioOfTheDecision	The learned Judge answers the argument founded on Section  29 by referring to the course of legislation on the subject.
+RatioOfTheDecision	9.
+RatioOfTheDecision	On the other question, namely, whether Section 48 prescribes a period of limitation, after giving It his best consideration and after referring to the decision in ' <CITATION_1693508> ', 45 Mad 785 the learned Judge arrived at the conclusion that Section 43 did prescribe a period of limitation.
+RatioOfTheDecision	It is unnecessary to repeat the reasons for his decision which were practically identical with those given by the learned Chief Justice.
+RatioOfTheDecision	In addition to these reasons, the learned Judge points out that to hold that Section 48 is not subject to the rules laid down by Section 15 of the Limitation Act would lead to starting results.
+Precedent	I must confess that I was much impressed with the illustration that he gave (at page 669):  "take a case in which a Hindu son files a suit assailing the validity of a decree pasted against his <NAME> and the family property and execution of the decree is stayed by an injunction and litigation does not terminate for a period of 12  years.
+Precedent	On what principle the <ORG> in such a case can refuse to execute the decree after the period of 12 years passes my comprehension."
+Precedent	<NAME>, J., was in complete agreement with the reasoning of the learned Chief Justice and <NAME>, on both the questions.
+Precedent	10.
+Precedent	The question came up before the Bombay High <ORG> in ' <CITATION_1881202> (1939) Bom 87.
+Precedent	Though the actual decision in the case was on a different point, <NAME>, J., discussed the decision of this <ORG> in ' <CITATION_1693508> ', 45 Mad 785.
+Precedent	The learned Judge thought that the reasoning of <NAME> was not very convincing.
+Precedent	Referring to the view of <NAME>, J., that the period prescribed by Section 48 was not strictly a period of limitation, he said:  "I must confess that I cannot see that there is much difference between an enactment which forbids execution upon a decree more than 12 years old and one prescribing a maximum period of limitation of 12 years."
+Precedent	He finally concluded that on general principles there seemed to be no reason  why Section 15 should not be applied so as to extend the period prescribed by S. 48 of the Code.
+Precedent	In a later decision of that Court the point was directly decided by <ORG>.
+Precedent	<CITATION_1741880> (30) 1943 Bom 164 <NAME> and <NAME>, JJ., held that Section 43 , C.P.C., was controlled by Section 15 of the Limitation Act.
+Precedent	In effect the learned Judges differed from the reasoning in ' <CITATION_1693508> ', 45 Mad 785 and fully approved that in '<NAME> v. <NAME>', ILR (1939) All 647.
+Precedent	11.
+Precedent	The later decisions of <ORG> have also followed <NAME> ruling in '<NAME> v. <NAME>', ILR (1939) All 647 and not that in ' <CITATION_1693508> ', 45 Mad 785.
+Precedent	In 'Sitaram v. Chunilalsa', ILR (1944) Nag 250, <NAME>, C.J., and <NAME>, J., after examining the several decisions on the point were of opinion that Section 48 of the Code was controlled by Section 15 of the Limitation Act.
+Precedent	In addition to the reasons given by the learned Judges in '<NAME> Singh v. <NAME>', ILR (1939) All 647, they  gave another reason based on Section 29 (2) of the Limitation Act .
+Precedent	In their view, any enactment which prescribed a period of limitation for any suit, appeal or application was a special law with reference to the Limitation Act which embodied the general law regarding limitation.
+Precedent	The Civil Procedure Code was a- general law in matters of civil procedure, but in so far as it prescribed a period of limitation, it was a special law regarding limitation.
+Precedent	Otherwise the reasoning is identical with <ORG> (Vide also <NAME> v. <NAME>', ILR (1947) Nag 25.)
+Precedent	12. in 'Kirtyanand Singh v. Pirtichand', <ORG> (16) 1929 Pat 597 '<NAME>, J., was inclined to take the view in ' <CITATION_1693508> ', 45 Mad 785 but it was not necessary to decide the point.
+Precedent	There is no discussion and the other learned Judge merely agreed with him.
+Precedent	This case went up on appeal to <ORG> in ' <CITATION_1517142> ', 12 Pat 195, but their Lordships considered it unnecessary to deal with this point.
+Precedent	13.
+Precedent	The re cent decision of <ORG> in ' <CITATION_611046> ', 1951 S C J 19 (SC) was also cited to us, but it is clear that their Lordships did not deal with the point now before us.
+Precedent	14.
+Precedent	In this state of divided judicial opinion I think it useful and instructive to trace the course of legislation in so far as it has'a bearing on the present question.
+Precedent	In doing so, I propose to deal with the several Limitation Act s and the Civil Procedure Codes together as having material bearing on each other.
+Precedent	It is well established that the Limitation Act and the Code are to be read together, because both are statutes relating to procedure and they are in 'pari materia' and therefore to be taken and construed together as one system as explanatory of each other (Vide Ruckmaboyc v. Lullooo Bhoy', 5.
+Precedent	<ORG>, 'Arunachala Chetti v. Periasami Servai', 44 Mad 902 at p. 909 and 'Tribeni Prasad v. Ramasray Prasad', 10 Pat 670 at pp.
+Precedent	702 and 718).
+Precedent	It is not without significance that in the same year when the one Code was repl aced by a subsequent Code, similarly a new Limitation Act succeeded the one already in existence.
+Precedent	15.
+Precedent	It is sufficient to begin from 1859.
+Precedent	In that year the Civil Procedure Code.
+Precedent	Act VIII of 1659 came into force on 22nd March 1859.
+Fact	The Limitation Act came into force soon after on 4th May 1859.
+RatioOfTheDecision	It is abundantly clear from a perusal of the provisions of the two enactments that they should be read together.
+RatioOfTheDecision	The Limitation Act did not provide the periods for several applications for which subsequent Limitation Act s provided by the Articles in the schedule.
+Statute	Section 1 of this Limitation Act declared that no suit shall be maintained in any Court unless the same was instituted within the period of limitation thereinafter made applicabe to a suit of that nature.
+Statute	The periods of limitation for several kinds of suits were set out in Clause (1) to (xvi).
+Statute	Section 2 corresponds to the present Section 10 , Section 3 to Section 29 , and Section 4 to Section 19 .
+Statute	Sections 5 to 14 laid down rules for the computation of the per iod of limitation in suits.
+Statute	These rules did not apply to applications either for execution or for other reliefs.
+Statute	Sections 19 and 20 were the main provisions relating to execution.
+Statute	Section 19 provided a period of 12 years for enforcement of the judgment, decree or order of a <ORG> established by Royal Charter and for reviver and enlargement of time by payment or acknowledgment.
+Statute	Section 20 dealt with other judgments, decrees and orders and ran thus:  "No process of execution shall issue from any <ORG> not established by Royal Charter to enforce any judgment, decree, or order of such <ORG>, unless some proceeding shall have been taken to enforce such judgment, decree or order, or to keep the same in force within three years next preceding the application for such execution."
+RatioOfTheDecision	The Limitation Act did not provide any periods of limitation for several applications under the Civil Procedure Code.
+RatioOfTheDecision	Nor did it provide for appeals and review.
+RatioOfTheDecision	Now we find all these periods contained in the Civil Procedure Code of 1859.
+RatioOfTheDecision	T o give a few illustrations, Section 119 provided for a period of thirty days for an application to set aside an 'ex parte' decree.
+Statute	Section 230 prescribed one month for an application by a person dispossessed of Immovable property in execution of a decree to be put back into possession.
+Statute	Under Section 246 a period of one year was prescribed for a suit to establish a right negatived in claim proceedings.
+RatioOfTheDecision	Under Section 256 the period of limitation for an application to set aside an execution sale on the ground of any material irregularity in publishing or conducting the sale was 30 days from the date of sale.
+RatioOfTheDecision	Section 33 prescribed the periods of limitation for appeals to <ORG> and to <ORG> and Section 377 for an application for review.
+RatioOfTheDecision	In 1859 therefore it could not be said that the general law relating to limitation of suits and applications was contained only In the Limitation Act .
+RatioOfTheDecision	Nor could it be said with any justification that the Civil Procedure Code was a special law relating to li mitation.
+RatioOfTheDecision	The fact was that both the enactments were treated as supplementary to each other and concerned with procedural law.
+RatioOfTheDecision	It followed that if there was a general provision In the Limitation Act , it would govern also provisions as to limitation contained in the Civil Procedure Code.
+Precedent	This was authoritatively laid down by their Lordships of <ORG> in 'Phoolbas Koonwar v. Lalla Jogheswar', 1 Cal 226 PC.
+Precedent	I have already referred to Section 246 of the Code of 1859 which prescribed a period of one year for a claim suit.
+Precedent	The question which arose for decision was whether this provision was subject to be modified by Sections 11 and 12 of the Limitation Act.
+Precedent	These sections provided for computation of the period of limitation in case of persons under legal disability like minors and lunatics.
+Precedent	A person under disability was permitted to bring the action within the same time, after the disability shall have ceased, as would otherwise have been allowed for the time when the cause of action accrued, unles s such time exceeded the period of three years in which case the suit had to be commenced within three years from the time when the disability ceased.
+Precedent	Their Lordships held that Sections 11 and 12 applied to Section 246 of the Code of that year.
+Precedent	The following observations of their Lordships contain the 'ratio decidendi' of that decision:  "The two statutes were passed in the same year, the assent of the Governor-General being given to Act VIII on the 22nd of March to Act XIV on the 4th of May 1859.
+Precedent	The object of the first was to enact a general Code of Procedure for toe Courts of Civil Judicature not established by Royal Charter.
+Precedent	The object of the second was to establish a general law oi limitation in supersession both of the Regulations which had governed those Courts and of the English Statutes which had regulated the practice of Courts established by Royal Charter.
+Precedent	Looking to the fifth sub-section of the first section, and the third and the eleventh sections of Act XIV of 1859, their Lordships have no doubt  that the intention of the <ORG> was that the period of limitation resulting from the 246th section of Act VIII should, in the case of a minor, be modified by the operation of the eleventa section or Act XIV; and that this construction has obtained in the Courts of India appears from the case of ' <CITATION_1717198> ', 3 WR 8."
+Precedent	The importance of this decision of <ORG> appears to me to be this that the Rules laid down in the Limitation Act relating to the computation of the periods of limitation need not necessarily be confined to periods prescribed in that Act and in proper cases due regard being of course had to the language, can be applied to periods of limitation prescribed by other statutes of a general nature like the Civil Procedure Code.
+Precedent	16.
+Precedent	There is no provision in the Code of 1859 corresponding to the present Section 48 .
+Precedent	The only limit of time imposed on an application for execution of a decree other than that of <ORG> was that contained in Section 20 of the Limi tation Act.
+Precedent	There was no provision corresponding to Section 15 of the present Limitation Act either.
+Precedent	17.
+Statute	The Limitation Act of 1871 (IX of 1871) repealed the Limitation Act of 1859.
+Statute	Its scheme was far more comprehensive than the Act of 1859.
+Statute	It not only provided for the limitation of suits, it also provided for appeals and certain applications to Court which had been provided in the Civil Procedure Code of 1859.
+Statute	Another important provision enacted by this statute which is however not very material for us is the provision of rules for acquiring ownership by prescription.
+Statute	This Act of 1871 repealed practically all such portions of the Civil Procedure Code of 1859 which contained periods of limitation for specified applications, illustrations of which were already given earlier in this judgment.
+Statute	The third column of the first schedule to this Act relating to Act VIIII of 1859 shows the extent of the repeal of the provisions of the Code relating to limitation.
+Statute	Corresponding provisions are made in the second schedu le of the Act in the form of Articles.
+Statute	It is sufficient to mention Article 167 which provided for the execution of a decree or order of any civil Court not provided by for by Article 169 which related to the enforcement of a judgment, decree or order of chartered <ORG> in the exercise of its ordinary original civil Jurisdiction.
+Statute	Article 168 provided for the execution of the decree or order of any Court of which a certified copy had been registered under the Indian Registration Act.
+RatioOfTheDecision	This Act clearly demonstrates the close relationship between the Code and the Limitation Act in the matter of prescribing periods of limitation.
+RatioOfTheDecision	It was in this Act for the first time we find a provision corresponding to the present Section 15 .
+Statute	This provision is Section 16 which runs thus:  "In computing the period of limitation prescribed for any suit, the commencement of which has been stayed by injunction, the time of the continuance of the Injunction shall be excluded."
+Statute	It did not expressly apply to applications for execu tion.
+Statute	18.
+Statute	In 1877 there were two corresponding enactments dealing with procedure and limitation, namely.
+Statute	Act X of 1877 and Act XIV of 1877 respectively.
+Statute	It is in the Code of this year that a provision corresponding to the present Section 48 of the Code makes its first appearance in Section 230 .
+Statute	That section in so far as it is material ran as follows: 'Where an application to execute a decree for the payment of money or delivery of other property has been made under this section and granted, no subsequent application to execute the same decree shall be granted unless the <ORG> is satisfied that on the last preceding application due diligence was used to procure complete satisfaction of the decree; and the order of the <ORG> granting any such subsequent application shall be conclusive evidence that due diligence was used to procure such satisfaction.
+Statute	And no such subsequent application shall be granted after the expiration of twelve years from any of the following dates (namely):  (a) the date of the decree s ought to be enforced, or of the decree (if any) on appeal affirming the same; or  (b) where the decree or any subsequent order directs the payment of money or the delivery of property by instalments -- the date of the default in paying or delivering the instalment in respect of which the applicant seeks to enforce the decree.
+RatioOfTheDecision	Nothing in this section shall prevent the <ORG>.
+RatioOfTheDecision	from granting an application for execution of a decree after the expiration of the said term of twelve years where the judgment-debtor has by fraud or force prevented the execution of the decree at some time within 12 years immediately before the date of the application."
+RatioOfTheDecision	Evidently because of this new additional provision.fixing a period of limitation that there were consequential changes in the second schedule of the Limitation Act (1877).
+RatioOfTheDecision	In the Limitation Act of that year, Article 178 was a new Article which.
+RatioOfTheDecision	ran thus: "Applications for which no period of limitation is provided elsewhere in this schedule or by <ORG> e, Section 230 ......Three years ........ when the right to apply accrues."
+RatioOfTheDecision	In Article 179 after the words "for the execution of a decree or order not provided for by No.
+RatioOfTheDecision	180" in Column 1, the following words were added, namely, "Or by the Code of Civil Procedure, Section 230 ."
+RatioOfTheDecision	It must be noticed, however, that Section 15 of that Limitation Act in terms applied only to suits and not to applications including applications for execution.
+RatioOfTheDecision	There was another Civil Procedure Code in 1882 to which it is not uecessary to refer.
+RatioOfTheDecision	19.
+RatioOfTheDecision	Then we come to 1908 in which year again there was another Civil Procedure Code and another Limitation Act , Act V of 1908 and Act IX of 1908 respectively.
+RatioOfTheDecision	The corresponding provisions in these two enactments do not contain many radical changes, though there are some changes.
+RatioOfTheDecision	For instance, while the old Section 230 of the Code of 1877 and of 1882 applied only to decrees for payment of money or delivery of other property, the present Section 48 is made applicable to all decrees of any kin d whatever except decrees granting injunction.
+RatioOfTheDecision	The reference to "subsequent applications" is omitted as well as the words "or of the decree in appeal, if any, affirming the same."
+RatioOfTheDecision	In the Limitation Act , Section 15 has been expresssly made applicable to an application for the execution or a decree.
+RatioOfTheDecision	20. it appears to me from the course of legislation to which I have adverted above that the provisions of the Limitation Act must be read with those provisions of the Civil procedure Code which are intimately connected therewith.
+RatioOfTheDecision	There is no doubt room (or comment in the fact that while other provisions prescribing periods of limitation for applications, appeals and suite found in the Civil Procedure Code of 1869 are subsequently transferred to the Limitation Act , the provision corresponding to Section 48 of the Code, namely, Section 230 of the Code of 1877 continued to remain in the Code and.
+RatioOfTheDecision	did not find a place in the subsequent Limitation Act .
+RatioOfTheDecision	But it is equally apparent that the <ORG> was well aware th at Section 48 of the Code also prescribed a period of limitation apart from the period of limitation prescribed by the Articles in the Limitation Act .
+RatioOfTheDecision	This appears to me to be conclusively established by the reference to Section 48 of the Code (and its corresponding provision in the earlier Code) in Column 1 of Articles 181 and 182 of the Limitation Act of 1908 (and the corresponding articles in the earlier <ORG>.)
+RatioOfTheDecision	I do not find anything repugnant to legal sense in that for an application for execution there should be an outside limit of a longer period after which there should be no further execution at all as well as shorter periods for successive applications within this longer period.
+RatioOfTheDecision	21.
+RatioOfTheDecision	It was contended before us that Section 29 of the Limitation Act as it now stands after the amendment by Act X of 1922 might help us to come to the conclusion that Section 15 (1) controls Section 48 of the Code.
+RatioOfTheDecision	This depends upon the question whether the Civil Procedure Code can be deemed to be a special or local law wi thin the meaning of Section 29 of the Limitation Act.
+RatioOfTheDecision	It is certainly not a local law, taut is it a special law?
+Precedent	We have seen how the learned Judges of <ORG> in 'Sitaram v. <NAME>', ILR (1944) Nag 250 were Inclined to hold that tile Code could be treated as a special law in so far as it provides a period of limitation in Section 48 .
+RatioOfTheDecision	I am unable to agree with this view.
+RatioOfTheDecision	I think that the expression "special law" which has not been defined in the Limitation Act , was intended to cover only laws like the Rent Act of 1859 which was held by <ORG> to be a complete Code in itself.
+RatioOfTheDecision	In the ordinary sense "special" is used in antithesis to "general."
+RatioOfTheDecision	A special Act as opposed to a general or public Act means one that is directed towards a special subject or special class of objects.
+Precedent	(See 'Carnet v. V. Broadley', (1878) 3 A c 944 at p.
+RatioOfTheDecision	950.)
+RatioOfTheDecision	It is a specious argument to say that the Civil Procedure Code deals with a particular subject, namely, procedure.
+Precedent	The special law contemplated is the  law which gives rise to special causes of action and which itself provides for the method of enforcement of rights conferred by that Act or for repress of injuries suffered by the application of the provisions of that Act.
+Precedent	The Provincial Insolvency Act .
+Precedent	for instance, would be a special law; likewise the Income-tax Act .
+Precedent	The Civil Procedure Code is not such a special law.
+Precedent	It is a general law relating to procedure, I am definitely of opinion that Section 29 has no bearing on the question referred to us.
+Precedent	22.
+Precedent	On a careful consideration of the decided cases on the point and the course of legislation .1 have arrived at the following conclusions: The expression "prescribed" in Section 15 (1) of the Limitation Act does not mean "prescribed by the first schedule" to the Act.
+Precedent	It would include a case where a period of limitation is prescribed by any general statute like the Civil Procedure Code.
+Precedent	I venture to think further that even if it be understood in the strictest sense, the period fixed by Section 48 of the Code  must be deemed to have become a part of the Limitation Act by a process of Incorporation in Articles 181 and 182.
+Precedent	Column 1 of Art.
+Precedent	181 speaks of application for which no period of limitation is provided elsewhere in this schedule or in Section 48 of the Civil Procedure Code, 1908.
+RatioOfTheDecision	Whether the word "prescribed" in Section 15 (1) would apply to periods of limitation provided by other statutes or not, it is clearly indicated by Article 181 that the period fixed by Section 48 is in 'pari materia' with the periods of limitation provided in the schedule to the Limitation Act .
+RatioOfTheDecision	Column 1 of Article 162 further supports this view.
+RatioOfTheDecision	The period of 12 years mentioned in Section 48 of the Code is a period of limitation.
+RatioOfTheDecision	The term "period of limitation" means the time prescribed by law at the end of which a right ceases to be enforceable in a Court whether by a suit or application.
+RatioOfTheDecision	Some provisions of law not only bar rights of action after the lapse of a prescribed period but even extinguish rights and title altogether.
+RatioOfTheDecision	But  the common features of all statutes of limitation is that they ax a certain period after the expiry of which an action is not maintainable.
+RatioOfTheDecision	<NAME>, J., was inclined to hold that in the strict sense a rule of limitation implies that if an action is brought or an application is made within the time prescribed, it will not be barred.
+RatioOfTheDecision	Applying this test, he considered the rule laid down in Section 48 of the Code would not be a rule of limitation in the strict sense, because even if an application for execution is made within the period fixed by that section, the application may be nevertheless barred unless it is within three years from any of the dates mentioned in the third column of Article 182.
+RatioOfTheDecision	With great respect, I find no authority for defining "limitation" in the manner in which <NAME>, J., understood it to mean.
+RatioOfTheDecision	Even so, I do not see any anomaly.
+RatioOfTheDecision	If an execution application is filed within 12 years of the date specified in Section 48 of the Code, such an application will be maintainable under Section 4 8 of the Code, but that does not mean that it may not be barred on account of another provision, namely.
+RatioOfTheDecision	Article 182 of the Limitation Act .
+RatioOfTheDecision	Presumably <NAME> was of opinion that the period specified in Article 182 of the Limitation Act is a period of limitation.
+RatioOfTheDecision	But the test which he lays down will not be satisfied even as regards that Article.
+RatioOfTheDecision	For an application may be within time according to Article 182 but if su.ch application is beyond the period of twelve years specified in Section 48 of the Code, it will not be maintainable.
+RatioOfTheDecision	<NAME>, J., himself explains later the mutual operation of Article 182 of the Limitation Act and Section 48 of the Code.
+RatioOfTheDecision	The very fact that Section 48 of the Code operates in curtailment of the period provided by Article 182 , to my mind conclusively shows that Section 48 also prescribes a period of limitation.
+Precedent	I respectfully agree with <NAME>, and <NAME>, C. J., in their criticism of the reasoning of <NAME>, J., based on a distinction between a stricter an d a looser sense of the expression "period of limitation" for which there appears to be no warrant either in authority or in principle.
+Precedent	23.
+Precedent	Though it is true that in construing statutes of limitation, considerations of hardships and anomaly are out of place, it is, I think, permissible to adopt a beneficient construction of a rule of limitation if alternative constructions are possible.
+RatioOfTheDecision	One can understand the policy underlying Section 48 , namely, the desirability of giving a quietus to proceedings in execution.
+RatioOfTheDecision	A judgment-debtor cannot be harassed interminably.
+RatioOfTheDecision	It is evidently because that all rights under the decree would cease to be enforceable thereafter that a long period of limitation of 12 years was fixed in Section 48 of the Code.
+RatioOfTheDecision	But then the decree-holder should have had an opportunity of working out his rights under the decree, for this full period of 12 years.
+RatioOfTheDecision	If by an act of Court over which the decree-holder has not control he is prevented from recovering the fruits o£ his decree during the ful l period of twelve years, It appears to me to be highly unreasonable that by the mere lapse of twelve years from the date of the decree, his rights should become extinct rights which he was prevented from enforcing for a part at least of the period of twelve years.
+Precedent	I recall in this connection the instance referred to by <NAME> J., in 'Drigpal Singh v. Panchan Singh', ILR (1939) All 647 FB.
+Precedent	24.
+Precedent	Though it did not directly arise in this case, one other question has given me considerable difficulty, namely, the applicability of Section 19 of the Limitation Act to Section 48 of the Code.
+RatioOfTheDecision	Will an acknowledgment in writing before the expiry of the period prescribed by Section 48 of the Code furnish a fresh period of twelve years from the date of the acknowledgment?
+RatioOfTheDecision	If the expression "prescribed" in that section (19) means "prescribed not only in the schedule but also prescribed by Section 48 of the Code", then it may be contended that an acknowledgment will have that effect.
+RatioOfTheDecision	It has, however, been held by the  <ORG> in 'Krishna Dayal v. Mt.
+RatioOfTheDecision	Sakina Bibi 20 C W N 952, the words "fresh period of limitation" in Section 19 do not refer to the terms of twelve years prescribed by Section 48 of the Code.
+RatioOfTheDecision	No reasons are given.
+RatioOfTheDecision	The question will have to be carefully examined if and when it arises directly.
+Precedent	The question referred to us must be answered as follows:  " Section 48 , Civil Procedure Code is controlled by Section 15 (1) of the Indian Limitation Act ."
+Precedent	<NAME>, J.
+Precedent	25.
+Precedent	I agree.
+Precedent	<NAME>, J.
+Precedent	26.
+RulingByPresentCourt	I agree.

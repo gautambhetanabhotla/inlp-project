@@ -1,0 +1,57 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The short controversy involved in this revision petition is, whether the order dated 20th March, 2004 passed by learned Principal District Judge, <NAME> in appeal titled as <NAME> and <NAME>.
+Fact	v. <NAME> and <NAME>., is erroneous, illegal and perverse.
+Fact	2.
+Fact	It appears that a compromise decree has been passed on 29th April, 1987 by the learned District Judge, <NAME> in suit titled <NAME> v. <NAME> and <NAME>.. Then a suit has been filed before District Judge, <NAME> on 20.07.1989 for cancellation of the compromise decree which came to be transferred to the court of Sub-Judge, <NAME> and Sub-Judge, <NAME> passed exparte decree on Ist March, 1995 and declared the judgment and decree passed by District Judge on 29th April, 1987 (supra) as null and void, ineffective and inoperative.
+Fact	3.
+Fact	The legal heirs of <NAME> filed an appeal against the said exparte judgment and decree dated 1st March, 1995 before District Judge, <NAME>.
+Fact	The Distric t Judge, <NAME> set-aside the exparte judgment and decree vide order dated 20.03.2004, hereinafter referred to as impugned order.
+Fact	4.
+Fact	Mr. <NAME> argued that the impugned order is illegal because the summons were issued to the legal heirs of <NAME>.
+Fact	The affidavit of process server is on the back of summon.
+Fact	The exparte proceedings have been drawn rightly and accordingly the exparte judgment and decree dated 01.03.1995 is legal one.
+Fact	5.
+Argument	Learned counsel for the respondents 1 and 2 argued that the exparte proceedings were not drawn legally.
+Argument	The exparte judgment and decree dated Ist march, 1995 passed by Sub Judge <NAME> is not legal one.
+Argument	The District Judge, Anantnag has passed the impugned order rightly.
+Argument	6.
+RulingByLowerCourt	Considered.
+Fact	The question is, whether the summon issued in terms of Order dated 28.02.1994 on file No.
+Fact	55/B dated of institution 24.07.1989 titled as <NAME> and Anr.
+Fact	v. <NAME> and <NAME>, was properly served or not and whether the report is verified by the affidavit of the serving officer?
+Fact	7.
+Fact	In t erms of interim order dated 17th March, 1994, <ORG> has reported on the back of summon that legal heirs of respondent No.
+Fact	1 have refused to accept notice and the summon contains the affidavit of the process server.
+Fact	The summon issued on 28th Feb., 1994 EXDW/4 nowhere discloses that it is accompanied by affidavit of the serving officer.
+Fact	No such affidavit is on the file.
+RatioOfTheDecision	Thus the interim order dated 17th March, 1994 is not correct to that extent.
+Statute	Order 5 Rule 17 of CPC reads as under:  Order 5 Rule 17.
+Fact	Procedure when defendant refused to accept service, or cannot be found.-Where the defendant or his agent or such other person as aforesaid refuses to sign the acknowledgement, or where the serving officer, after using all due and reasonable diligence, cannot find the defendant, [who is absent from his residence at the time when service is sought to be effected on him at his residence and there is no likelihood of his being found at the residence within a reasonable time] and there is no agent empower ed to accept service of the summons on his behalf, nor any other person on whom service can be made, the serving officer shall affix a copy of the summons on the outer door or some other conspicuous part of the house in which the defendant ordinarily resides or carries on business or personally works for gain, and shall then return the original to the Court from which it was issue, with a report endorsed thereon or annexed thereto stating that he has so affixed the copy, the circumstances under which he did so, and the name and address of the person (if any) by whom the house was identified and in whose presence the copy was affixed.
+Fact	8.
+Fact	While going through this provision of law, if a party refuses to accept service, the serving officer has to affix copy of the summon on the outer door or some other conspicuous part of the house in which the defendant ordinarily resides or carries on business or personally works for gain and shall then return the original summon to the Court with the report stating therein th at he has followed the procedure contained in Order 5 Rule 17 CPC.
+Fact	When the summon is returned in terms of Order 5 Rule 17 CPC then Order 5 Rule 19 CPC comes into play and the <ORG> has to follow the procedure contained in Order 5 Rule 19 of CPC.
+Fact	Order 5 Rule 19 reads as under:  Order 5 Rule 19 Examination of serving officer.-Where a summon is returned under Rule 17, the <ORG> shall, if the return under that rule has not been verified by the affidavit of the serving officer and may, if it has been so verified, examine the serving officer on oath, or cause him to be so examined by another <ORG>, touching his proceedings, and may make such further inquiry in the matter as it thinks fit; and shall either declare that the summons has been duly served or order such serviced as it thinks fit."
+Fact	9.
+Fact	This rule mandates that the court has to examine the serving officer if the report of the serving officer is not verified by the affidavit of the serving officer and the <ORG> may also examine the serving officer on oath  even if the serving officer has verified the report by affidavit.
+Fact	In case the report has not been verified by the affidavit, the examination of the serving officer is mandatory and also it is the discretion of the court to examine the serving officer on oath even if the report has been so verified.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Now applying the test to the case in hand, neither there is affidavit of the serving officer nor the verifying officer has been examined by the court.
+RatioOfTheDecision	Thus the exparte judgment and decree passed on 1st March, 1995 has rightly been set aside by the medium of impugned order and case has been remanded back to the trial court.
+RatioOfTheDecision	11.
+Fact	The another aspect of the case, of which one must take note of is, that the summon issued on 28th Feb., 1994 for 17th March, 1994 was notice to the heirs of defendant No.
+Fact	1 in the application for substitution and not in the suit as defendants.
+Fact	<ORG> interim order dated 17th March, 1994, learned Sub-Judge granted the application for bringing the legal heirs on record.
+Fact	It was the duty of  the trial court to issue summons to the legal heirs brought on record as defendants in the suit.
+Fact	No such summon has been issued.
+RulingByLowerCourt	Not to speak of issuance of summon even a whisper has not been made in the interim orders right from 17th March, 1994 till passing of the exparte judgment and decree dated 1st March, 1995 which suggests non-application of mind.
+RulingByLowerCourt	The trial court has not followed the procedure rightly and correctly.
+RulingByLowerCourt	Thus the exparte judgment and decree merits to be set aside.
+RulingByLowerCourt	12.
+RulingByLowerCourt	Viewed thus the impugned order is well founded and has been rightly passed.
+RulingByLowerCourt	The learned Judge has passed well reasoned and speaking order and needs no interference.
+RulingByLowerCourt	The learned Principal District Judge has rightly set aside the exparte judgment and decree and has remanded back the case.
+Precedent	13.
+RulingByPresentCourt	In the given circumstances the revision petition is dismissed.
+RulingByPresentCourt	The Parties present are directed to cause appearance before Sub Judge, <NAME> on 25th April, 2005.
+RulingByPresentCourt	Registry is directed to send back the record to the courts of District Ju dge, <NAME> and Sub Judge, <NAME> along with copy of this order.

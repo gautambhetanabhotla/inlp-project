@@ -1,0 +1,64 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+RulingByLowerCourt	This is an appeal from a judgment of <ORG> at Bombay dated March 27, 1945, given upon the reference of a question of law made to the <ORG> under Section 66(2) of the Indian Income-tax Act by <ORG>.
+RulingByLowerCourt	2.
+Fact	The question referred to the High <ORG> was in the following terms :  Whether, in the circumstances of this case, that portion of the income received by the assesses from the principal company of <ORG> which is proportionate to the 'agricultural income' earned by the principal company, is 'agricultural income 'within the meaning of Section 2(1) of the Indian Income-tax Act, 1922, and exempt from assessment under the provisions of Section 4(3)(viii) of the Act.
+Fact	3.
+Fact	The High <ORG> answered this question in the negative, taking the same view of the law as had been taken by the Income Tax Officer, the Appellate Assistant Commissioner of Income Tax, Bombay, and <ORG>.
+Fact	Their Lordships have n o doubt that the view unanimously held by the <ORG> in India is correct.
+Fact	4.
+Fact	The assessee, at all material times, was the Managing Agent of <ORG> (hereinafter called "the Principal Company"), under an agreement dated February 1, 1926, and made between the principal company of the one part and the assessee (by its then name of <ORG>) of the other part.
+Fact	The remuneration of the assessee was regulated by Clause 2 of the agreement and under Sub-clause (b) the assessee was entitled to :  A commission at the rate of ten per cent, per annum on the annual nett profits of the principal company after making all proper allowances and reductions from revenue for working expenses changeable against profits but without making any deduction for depreciation or in respect of any amount carried to reserve or sinking fund or any payment on account of super tax or any deduction for expenditure on capital account provided that such commission shall not in any year a mount to a less sum than rupees ten thousand.
+Fact	5.
+Fact	The year of assessment was the year 1942-43.
+Fact	In that year the assessee received as remuneration under the Managing Agency Agreement a commission at the rate of ten per cent, of the nett profits of the principal company, that sum being in excess of the minimum salary secured by the agreement.
+Fact	The whole of this remuneration, less certain deductions which are not in question, was assessed to income tax by the Income-tax Officer.
+Fact	6.
+Fact	One of the sources of income of the principal company is the manufacture of sugar from cane grown on its own farms and from other cane bought from outside, and it is not disputed that in so far as its income is derived from sugar manufactured from its own cane such income is agricultural income and as such is exempt from income tax.
+Fact	The assessee claimed that as its remuneration was calculated with reference to the income of the principal company, part of which was agricultural income, such part of the remuneration as was proportionate  to the agricultural income of the principal company, was itself agricultural income and as such exempt from income tax.
+Fact	As already indicated, this claim was rejected by the Income-tax Officer, and in appeal by the Assistant Commissioner of Income Tax and <ORG>.
+Fact	At the request of the assessee <ORG> referred to <ORG> the question already mentioned.
+Fact	7.
+RatioOfTheDecision	"Agricultural income" is rendered exempt from income tax by Section 4(3)(viii) of the Indian Income-tax Act.
+RatioOfTheDecision	"Agricultural Income" is denned by Section 2(1) of the Act, so far as relevant, as :  (a) Any rent or revenue derived from land which is used for agricultural purposes....  (b) Any income derived from such land by :  (i) Agriculture, or  (ii) The performance of certain specified acts which may be paraphrased as acts necessary to render agricultural produce lit for market and sale.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Nothing turns on the exact words of this sub-section.
+RatioOfTheDecision	9.
+Argument	In the opinion of their Lordships the effect of the managing agency agre ement is that the assessee is entitled, in consideration of services rendered, to a minimum annual salary of Rs.
+RatioOfTheDecision	10,000 which is payable irrespective of whether or not the principal company has made any profit.
+RatioOfTheDecision	If, in any year, ten per cent, of the profits made by the principal company exceeds Rs.
+RatioOfTheDecision	10,000, then the agent gets remuneration calculated as a percentage upon the profits of the principal company, without regard to the sources from which those profits are derived.
+RatioOfTheDecision	10.
+RatioOfTheDecision	In determining the question at issue some previous decisions of this <ORG> must be noticed.
+Precedent	<CITATION_301789> (1935) L.R.
+Precedent	62 I.A.
+Precedent	207, s.c. 37 Bom.
+Precedent	L.R.
+Precedent	215, s.c. 37 Bom.
+Precedent	L.R.
+Fact	822 the assessee was entitled to an annuity under a contract, the annuity being made a charge upon agricultural land.
+Precedent	The <ORG> held that the annuity was not rent or revenue derived from land; it was money payable under a contract imposing personal liability on the covenantor, the discharge of which was secured by a charge on land.
+Precedent	<CITATION_1011716> (1935) L.R.
+Precedent	62 I.A.
+Precedent	215, s.c. 37 Bom.
+Precedent	L.R.
+Fact	822 the assessee carried on business as a money lender.
+Fact	As security for a debt due to him in respect of his business he was put into possession of agricultural land as a mortgagee.
+Precedent	It was held that the rents received by the assessee from the agricultural land were agricultural income and exempt from income tax, and that the exemption was not affected by the circumstance that the rents were received as part of the money lending business of the assessee, the exemption depending on the kind of income received and not on the character of the recipient.
+Precedent	<CITATION_867502> (1942) L.R.
+Precedent	70 I.A.
+Precedent	14, s.c. 46 Bom.
+Precedent	L.R.
+Argument	189 the assessee as the mutawalli of a <ORG> received as remuneration for his services a monthly salary.
+Argument	It was held by the <ORG> that the fact that the income of the <ORG> was derived from agricultural land did not make the remuneration paid to the mutawalli "agricultural income", since the remuneration did not depend either on the nature of the properties which constituted th e <ORG> estate, or on the amount of income derived therefrom by the estate.
+Precedent	11.
+Precedent	With this case may be compared <NAME> v. Commissioner of Income-tax, Central and United Provinces [1942] All.
+Precedent	425 where <ORG> held that the assessee as mutawalli of a <ORG> was entitled, by way of remuneration for his services, to retain as a beneficiary the agricultural income of the <ORG> estate and that such remuneration was, therefore, free from income tax.
+RatioOfTheDecision	12.
+RatioOfTheDecision	In their Lordships' view the principle to be derived from a consideration of the terms of the Income-tax Act and the authorities referred to is that where an assessee receives income, not itself of a character to fall within the definition of agricultural income contained in the Act, such income does not assume the character of agricultural income by reason of the source from which it is derived, or the method by which it is calculated.
+RatioOfTheDecision	But if the income received falls within the definition of agricultural income, it earns exemption, in whatev er character the assessee receives it.
+RatioOfTheDecision	In the present case the assessee received no agricultural income as denned by the Act; it received remuneration under a contract for personal service calculated on the amount of profits earned by the employer, payable, not in specie out of any item of such profits, but out of any moneys of the employer available for the purpose.
+RatioOfTheDecision	The remuneration, therefore, is not agricultural income and is not exempt from tax.
+RatioOfTheDecision	13.
+RulingByPresentCourt	For these reasons their Lordships will humbly advise His Majesty that this appeal be dismissed.
+RulingByPresentCourt	The appellant must pay the costs.

@@ -1,0 +1,27 @@
+Fact	ORDER  1.
+Fact	The <ORG> is in appeal against the judgment of a Division Bench of <ORG> at Madras delivered upon a reference application by the <ORG>.
+Fact	The three questions that <ORG> considered read as follows:  1.
+Fact	Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that the Income-tax Officer was not justified in diminishing the capital base with reference to the deductions allowed under Chapter VI from the total income?
+Fact	2.
+Fact	Whether the <ORG>'s view that for the purpose of the computation of capital base, the provisions of Rule 4 of the Second Schedule would apply only to items of income which are wholly exempt under Chapter III and that those provisions would not apply to the deduction allowed under Chapter VI-a is sustainable in law?
+Fact	3.
+Fact	Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that for the purpose of the computation of chargeable profits, the deduction under Rule 1(viii) of the First Schedule  should be made only with reference to gross dividends but not the net dividends as done by the Income-tax Officer?
+Fact	<ORG> answered the questions in the affirmative and in favour of the assessee.
+Precedent	2.
+Precedent	It is not in dispute that the first two questions are covered against the <ORG> by the judgment of this <ORG> in <CITATION_14061> .
+Precedent	187 I.T.R.
+Precedent	108.
+Precedent	The question to consider, therefore, is the third question.
+Precedent	The judgment of this <ORG> in <CITATION_795227> .
+Precedent	155 I.T.R.
+Precedent	120 delivered in respect of a similar provision was considered by the Delhi High <ORG>, in the case of <CITATION_1472762> .
+Precedent	200 I.T.R.
+Precedent	325.
+RatioOfTheDecision	The question before the Delhi High <ORG> was akin to Question No.
+RatioOfTheDecision	3 before us.
+RatioOfTheDecision	The Delhi High <ORG> considered the judgment in <ORG> (S.C.) and noted that following that judgment, several High <ORG>s had taken the view that on a correct interpretation of Rule 1(viii) of the First Schedule to the Companies (Profits) Surtax Act , 1964, it was only the net dividend which was incl uded in the total income and, therefore, it was this amount which was deductible in arriving at the figure of the chargeable profits.
+RatioOfTheDecision	In our view, having regard to the language of the Rule, this is the correct position and, accordingly, we affirm the view taken by <ORG> in the case of <ORG> The third question is, therefore, answered in the negative and in favour of the <ORG>.
+RatioOfTheDecision	3.
+RulingByPresentCourt	The civil appeals are allowed to that extent.
+RulingByPresentCourt	4.
+RulingByPresentCourt	No order as to costs.

@@ -1,0 +1,53 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+RulingByLowerCourt	This is an appeal under Order 43, Rule 1(m), Civil P.C., from.
+Fact	an order passed by the learned Subordinate Judge, <NAME>.
+Fact	The plaintiff-respondent obtained a preliminary decree for sale in a suit on mortgage.
+Fact	The mortgagor was directed to pay Rs.
+Fact	12,881-4-0-within six months from the date of the.-.
+Fact	preliminary decree, the 22nd of May 1930.
+Fact	An appeal from this decree to this Court was dismissed.
+Fact	The mortgagee applied for a final decree under Order 34, Rule 5 Civil P.C.
+Fact	He alleged that no payment, had been made in Court, as directed by the preliminary decree.
+Fact	The mortgagor the appellant before us, objected, by a, petition dated 26th August 1933, on the allegation that after the dismissal.
+Fact	of the appeal by <ORG> a settlement was arrived at between the parties that, if Rs.
+Fact	8,000 were paid by the mortgagor immediately and a sum of Rupees.
+Fact	4,000 were paid in two instalments by the months of June 1934, the entire mortgage money would be taken to have been satisfied, and that acco rdingly the mortgagor paid Rs.
+Fact	8,000 on 4th June, 1933, for which a receipt was granted by the mortgagee, and that the mortgagor was ready to pay Rs.
+Fact	2,000, the first.
+Fact	of the two instalments above referred to.
+Argument	If this allegation is true, the time fixed for payment of the last instalment had not expired when the mortgagor preferred his objection.
+Argument	2.
+Argument	The lower <ORG> dismissed the objection without recording a finding as to whether this settlement, alleged by the mortgagor, had, in fact, taken place.
+Argument	The ground on which the order of the lower <ORG> proceeds is that no payment out of <ORG> can be recognized by the <ORG> passing a final decree under Order 34, Rule 5, as the preliminary decree, which was drawn up in terms of Order 34, Rule 4, Civil P.C.
+Argument	provides that, if the mortgage money is not deposited in <ORG>, a 'final decree for sale shall be passed.
+Argument	The contention which found favour with the lower <ORG> was that, even if the mortgagor paid Rs.
+Argument	8,000, as alleged by him, he could not successfully resist the  mortgagee's application for a final 'decree in respect of the entire mortgage money payable under the preliminary decree.
+Argument	It is argued on behalf of the mortgagor that a mortgage suit does not terminate with the passing of the preliminary decree and that proceedings in such suit continue till a final decree is passed.
+Argument	Accordingly, it is contended, any adjustment agreed to by the parties must be recorded and must be given effect to under Order 23, Rule 3, Civil P.C.
+Argument	3.
+Argument	Whatever may be the correct view on the question whether money paid out of <ORG> in satisfaction of the preliminary decree, wholly or in part, can be recognized by a <ORG> when it is moved to pass a final decree-a point on which we express no opinion-it seems to us that the <ORG> cannot refuse to act under Order 23, Rule 3, Civil P.C.
+Argument	if the conditions required by that rule are fulfilled, so that if a suit had been adjusted wholly or in part by any lawful agreement or compromise, or where the defendant satisfies the plaintiff in respect of the w hole or any part of the subject-matter of the suit, the <ORG> has no option but to order that such agreement, compromise or satisfaction be recorded, and to pass a decree in accordance therewith.
+Argument	This is a necessary corollary of the view taken by this <ORG> that a preliminary decree does not terminate the suit, which continues till a final decree is passed.
+Argument	Once a suit is finally disposed of Order 23, Rule 3, cannot have any application; but so long as the suit is pending, it is open to the parties to enter into a compromise or otherwise adjust their differences.
+Argument	Great stress is laid on behalf of the respondent on the imperative language of the preliminary decree that, if the amount declared due by the preliminary decree, is not paid in <ORG> on or before the date fixed for payment, the plaintiff shall be entitled to apply for a final decree directing that the mortgaged property, or a sufficient part thereof, be sold....  4.
+Argument	It is argued that the payment not having been made in the manner directed by the prel iminary decree, the plaintiff has an absolute right to apply for a final decree being passed.
+Argument	Reference is also made to Order 34, Rule 5(3), which provides for the consequences of non-payment in the manner laid down by the preliminary decree, namely that the <ORG> shall pass a final decree directing that the mortgaged property or a sufficient portion thereof be sold.
+Argument	5.
+RatioOfTheDecision	The provisions contained in this rule should, however, be read with other parts of the Civil Procedure Code, including Order 23, Rule 3, which is equally imperative and gives no discretion to the <ORG> where an agreement, compromise or satisfaction of the suit wholly or in part has taken place.
+RatioOfTheDecision	It may be that where all that is alleged by the defendant in a mortgage suit is payment out of <ORG>, which does not necessarily amount to an adjustment of the suit wholly or in part, the <ORG> required to pass a final decree may ignore it, leaving the mortgagor to pursue his remedy by other appropriate means; but where both parties deliberately agree  to a compromise or otherwise agree to an adjustment in respect of the subject-matter of the mortgage suit, the Court is bound to give effect to such compromise or agreement.
+RatioOfTheDecision	To hold otherwise would be to introduce serious anomalies in the application of law to cases in which preliminary decrees are passed.
+RatioOfTheDecision	Such decrees are passed in suits for partition, dissolution of partnership for accounts, in administration suits and others.
+RatioOfTheDecision	We do not think it can be seriously contended that, where a preliminary decree is passed directing that a partition shall take place, or that accounts shall be taken between the parties, it is not open to the parties amicably to settle their differences before a final decree is passed.
+RatioOfTheDecision	If a mortgagee has agreed with the mortgagor, after the passing of the preliminary decree, that the rights and liabilities of the parties would stand differently from what they are declared to be by the preliminary decree, he is clearly estopped from going behind that arrangement.
+RatioOfTheDecision	To take an extreme cas e, Suppose a mortgagee accepts the sale of part of the mortgaged property in lieu of the entire mortgage money, but subsequently repudiates the sale on some ground and applies for a final decree.
+RatioOfTheDecision	We do not think that the mortgagor's plea that the whole suit has been adjusted by Sale of part of the mortgaged property can be overruled by the <ORG> on the ground that nothing short of payment of the mortgage money in <ORG> declared due by the preliminary decree can prevent the passing of a final decree for recovery of the amount declared due by the preliminary decree.
+RatioOfTheDecision	For these reasons we are of opinion that Order 34, Rules 4 and 5, Civil P.C., are subject to the provisions contained in Order 23, Rule 3, Civil P.C.
+Argument	6.
+Argument	In the case before us, the petition of objection filed by the appellant clearly alleged not a mere payment but au adjustment between the parties.
+Argument	The respondent denied having agreed to the adjustment of the suit alleged by the appellant.
+Argument	The lower <ORG> did not inquire into the truth of the appella <ORG>'s allegation and threw out the objection on a preliminary ground.
+Argument	The appella<ORG>'s allegation should have been inquired i<ORG>o and given effect to if it was found to be true.
+RulingByPresentCourt	In these circumstances, we allow the appeal, set aside the order of the lower <ORG> and remand the case to that <ORG> for disposal according to law as herein indicated.
+RulingByPresentCourt	Costs shall abide the result.
+RulingByPresentCourt	The court-fee paid in this <ORG> shall be refunded.

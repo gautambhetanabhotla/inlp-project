@@ -1,0 +1,310 @@
+Fact	PETITIONER: <ORG> Vs. RESPONDENT: SUPERINTENDENT OF TAXES <NAME> & <ORG> DATE OF JUDGMENT18/12/1987 BENCH: <NAME>, <NAME> (J) BENCH: <NAME>, <NAME> (J) <NAME>, S. CITATION: 1990 AIR 772 1988 SCR (2) 474 1988 SCC (1) 401 1987 SCALE (2)1435 CITATOR INFO : D 1991 SC1676 (72) ACT: Constitution of India, 1950: Article 226 Petition for refund of tax paid under mistake of law-Maintainability of- Not to be turned down on the negative plea of alternative remedy.
+Fact	Assam Taxation (on Goods Carried by Road or on Inland Water ways) Act, 1961: ss.
+Fact	7, 9, 16 & 23-<ORG> Setting aside assessment order-but refusing refund on triable issue of limitation-Validity of.
+Fact	Limitation Act , 1963, Article 113 , Laches-Discretion- Exercise of by Court-Must be fair and equitable.
+Fact	HEADNOTE: % The Assam Taxation (on Goods Carried by Road or Inland Water-ways) Act,1954 was struck down as ultra vires the Constitution in <ORG> v. State of Assam, AIR 1961 SC 232.
+Fact	A new Act was thereafter  passed which received the President's assent on April 6, 1961.
+Fact	<ORG> declared the said Act to be ultra vires on August 1, 1963.
+Fact	The <ORG> and other respondents preferred appeals before <ORG> against the decision.
+Fact	In the meantime, in <CITATION_668225> ,  5 SCR 975 the <ORG> held the Act to be intra vires on December 13, 1963.
+Fact	Following the decision in <NAME> case the appeals filed by the <ORG> and others were allowed by this <ORG> on April 1, 1968.
+Fact	After this decision the respondents required the appellants by notices under s. 7(2) of the Act issued on July 8, 1968 to submit return for the period ending June 30, 1961, September 30, 1961, December 31, 1961 and March 31, 1962.
+Fact	Due to the penal consequences mentioned in the said notices the appellants filed returns on July 11, 1968.
+Fact	The assessment orders were passed under s. 9(3) of the Act.
+Fact	The tax was duly paid.
+Fact	In November 1973 the appellants filed writ petitions before the High <ORG> seeking direction for refund of the tax paid under mist ake relying on <ORG> Judgment in Loong Soong Tea Estate (Civil Rule No.
+Argument	1005 of 1969) dated July lO, 1973 declaring the assessment as without jurisdiction.
+Argument	475 <ORG> set aside the orders and notices of demand but refused claim of refund on the ground of delay and laches.
+Argument	It took the view that it was possible for the appellants to know about the legality of the tax sought to be imposed as early as 1963, when the Act in question was declared ultra vires.
+Fact	The taxes having been paid in 1968 the claim in November 1973 was belated.
+Fact	It, however, held that the claim for refund was a consequential relief.
+Fact	In the appeals to this Court it was contended for the appellants that they had paid the tax under a mistake of law and were entitled to seek refund thereof, and a writ petition seeking refund of tax realised without the authority of law cannot be rejected on the ground of limitation or delay unless such delay can be said to amount to laches or has caused some irreparable prejudice to the opposite  party.
+Fact	Allowing the appeals, ^ HELD: By the <ORG>: (Per <NAME> & <NAME>, JJ.)
+Fact	The money was refundable to the appellants.
+Fact	The writ petitions were within time.
+Argument	[4X4H] Per <NAME>, J.
+Argument	1.
+Argument	No <ORG> has the right to receive or to retain taxes or monies realised from citizens without the authority of law.
+Argument	There is in such cases concomitant duty to refund the realisation as a corollary of the constitutional inhibition that should be respected unless it causes injustice or loss in any specific case or violates any specific provision of law.
+Argument	[480H; 485E-F] In the instant case, tax was collected without the authority of law.
+Argument	The notices were without jurisdiction.
+Argument	So was the assessment made under s. 9(3) of the Act.
+Argument	The respondents, therefore, had no authority to retain the money so collected, and as such the money was liable to refund.
+Argument	[480D] 2.1 In an application under Article 226 of the Constitution the <ORG> has power to direct the refund unless there has been avoidable laches on the part of the p etitioner which indicate either the abandonment of his claims or which is of such nature for which there is no probable explanation or which will cause an injury either to respondent or any third party.
+RulingByLowerCourt	[484C-D] 476 2.2 Courts have, however, made a distinction between those cases where a claimant approaches <ORG> seeking relief of obtaining refund only and those where refund is sought as a consequential relief after striking down of the order of assessment etc.
+RulingByLowerCourt	A petition of the former nature is not ordinarily maintainable for the simple reason that a claim for such a refund can always be made in a suit wherein it is open to the <ORG> to raise all possible defences to the claim, defences which cannot in most cases be appropriately raised and considered in the exercise of writ jurisdiction.
+RulingByLowerCourt	[480F-H; 48;B] In the instant case, s.23 of the Assam Act provided for refund to a producer or a dealer any sum paid or realised in excess of the sum due from him under that Act.
+RulingByLowerCourt	The section thus applies only in a ca se where money is paid under the Act.
+RulingByLowerCourt	If there is no provision for realisation of the money under the Act, the act of payment was ultra vires, the money had not been paid under the Act.
+RulingByLowerCourt	In that view of the matter the case did not come within s. 23 of the Act.
+RulingByLowerCourt	<ORG> having found that the claim for refund was a consequential relief, it could have directed the <ORG> to refund the amount in question.
+RatioOfTheDecision	[483-G-H;484A-B] 2.3 Exercise of every discretion must be fair and equitable.
+RatioOfTheDecision	The period of limitation prescribed for recovery of money paid by mistake under the Limitation Act was three years from the date when the mistake was known.
+RatioOfTheDecision	In the instant case, knowledge is attributable from the date of judgment in <NAME> case on 10th July, 1973.
+RatioOfTheDecision	There being a statement that the appellants came to know of that fact in October 1973 and there being no denial by the averment made on this ground, <ORG> was in error in presuming that there was a triable issue on this ground and refusing to grant refund.
+RatioOfTheDecision	Within a month in November 1973 the present petitions were filed.
+RatioOfTheDecision	There was no unexplained delay.
+RatioOfTheDecision	The appellants had proceeded diligently.
+RatioOfTheDecision	There is nothing to indicate that had they been more diligent, the appellants could have discovered the constitutional inhibition earlier.
+RulingByLowerCourt	The position is not clear even if there is a triable issue.
+RulingByLowerCourt	The position becomes clearer only after the decision in <NAME> case.
+RulingByLowerCourt	It could not, therefore, be said that the appellants had abandoned their claims.
+RulingByLowerCourt	[487B- <CITATION_1561861> ., AIR 1965 SC 1740; <CITATION_623976> .,  2 SCR 824; <CITATION_1224032> 21 S.T.C.
+RulingByLowerCourt	174; <CITATION_1353164> ., [1967 2 SCR 286; <CITATION_1774419> ,  3 SCR 417; <CITATION_1204286>  6 477 SCR.
+Fact	261; <CITATION_20762> .,  2 SCR 216; <CITATION_1775619> ,  1 SCR.
+Fact	753; <ORG> v. State of Haryana & Ors.
+Fact	etc.,  1 SCR.
+Precedent	1170 and State of Madhya Pradesh and others etc.
+Precedent	etc.
+Precedent	v. <NAME> and others etc.
+Argument	etc., AIR 1987 SC 251 referred to.
+Argument	3.
+Fact	It is only on the delivery of the judgm ent in <NAME> case in 1973, the appellants realised the right to claim the relief of refund as a consequential relief, setting aside the assessment and the assessment was set aside by the very order itself.
+Fact	That right has been granted by <ORG>.
+Argument	<ORG> has not refused the setting aside on the ground of delay.
+Argument	It would be inconsistent for <ORG> to refuse to grant consequential relief after setting aside the assessment.
+Argument	If the realisation was without the authority of law and that was declined by <ORG> by the judgment in the instant case, which claimed also the consequential relief, that relief must automatically follow.
+Fact	Refunding the amount as a consequence of declaring the assessment to be bad and recovery to be illegal will be in consonance with justice, equity and good conscience.
+Fact	[489F-H] 4.
+Fact	The challenge to the assessment on the ground that the assessment was bad could not be made in an appeal under the Act because the right to appeal being a creature of the Act, if  the Act is ultra vires that right would not ensure to the benefit of the appellant.
+Fact	Section 16 of the Act under which an appeal lay within thirty days from the date of service of an assessment order therefore had no application.
+Fact	Similarly, rule 55 of the Rules framed under the Act barring claims of refund unless made within one year from the date of the original order of assessment being unconstitutional had no application.
+Fact	[485H; 486A-B; 487H] 1.
+Argument	The assessments on the appellants were illegal.
+Argument	The taxes demanded on the basis thereof had been collected without the authority of law.
+Argument	<ORG>, therefore, while allowing the appellant's prayer for quashing the assessment should also have allowed the refund of the illegally collected taxes.
+Fact	[490D] <CITATION_431154> ,  Supp.
+Fact	SCR 365, applied.
+Fact	478 The petitions filed in November, 1973 were within the period of limitation prescribed in Article 113 of the Limitation Act read with s. 23 of the Assam Act.
+Fact	The appellants' averment that they realised their mistake  only when they came to know about the decision of Loong Soong Tea Estate case in July, 1973 stands uncontroverted.
+Fact	There is nothing on record to show that the appellants had realised their mistake earlier[491D-f] State of M. P. v. <NAME> 6 SCR 261 referred to.
+Fact	It was considered unnecessary therefore to consider the larger question whether the bar of limitation would be fatal to a writ petition for refund.
+Precedent	149.
+Precedent	F-G l JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal Nos.
+Precedent	3023- 3029 OF 1979.
+Fact	From the Judgment and order dated 14.6.
+Fact	1979 of <ORG> in Civil Rule Nos.
+Fact	509 to 512 of 1973.
+Fact	<NAME>, <NAME>.
+Fact	<NAME> and <NAME> for the Appellants.
+Fact	<NAME> for the Respondents.
+Fact	The Judgment of the Court was delivered by <NAME> These appeals arise out of the Judgment and order dated 14th June, 1979 of <ORG> in Assam setting aside the order and notice of demand under the Assam Taxation (on Goods carried by Road or Inland Wa terways) Act , hereinafter called the Act, but declining to order any refund of the taxes paid.
+Fact	In 1954 Assam Taxation (on Goods carried by Road or Inland Waterways) Act was first enacted.
+Fact	This Court struck down the Act as ultra vires the Constitution of India.
+Fact	<CITATION_128161> ., AIR 1961 SC 232.
+Fact	On 6th of April, 1961 a new Act passed received the assent of the President.
+Fact	<ORG> again struck down the Act declaring it ultra vires the Constitution on 1.8.63.
+Fact	On 13.12.63 <CITATION_668225> ,  5 SCR ts 975 in a challenge to the Act under Article 32 of the Constitution, this Court held the Act to be intra vires.
+Fact	On 19th December, 1966, Judgment was passed in Civil Rule No.
+Fact	190/ 1965.
+Fact	On Ist April 1968, the appeals preferred by the State of Assam against the <ORG> order dated 13.12.63 were allowed on the basis of the declaration of the Act to be intra vires the Constitution.
+Fact	Thereafter notices were issued by <ORG>, Nowgong, requiring the appellant under section 7(2) of the Act to sub mit returns for the period ending 30.6.61, 30.9.61, 31.12.61 and 31.3.62.
+Fact	Returns were duly filed.
+Fact	Assessment orders were passed under section 9(3) of the said Act.
+Fact	On 10th July, 1973, <ORG> passed judgment in Loong Soong Tea Estate, (Civil Rule No.
+Fact	1005 of 1969) declaring the assessment as without jurisdiction.
+Fact	It is the case of the appellant-petitioner that in view of the above judgment, the appellant came to know about the mistake in paying the tax as per assessment order and also that the appellant became entitled to refund of the amount paid.
+Fact	The present Writ Petition was filed in November, 1973 before <ORG> of Assam.
+Fact	Thereafter in June, 1976, the learned Single Judge of <ORG> referred the matter to a larger Bench.
+Fact	<ORG> on June 14, 1979, passed judgment setting aside the orders and notices of demand but refused relief of refund claimed by the appellant.
+Fact	Aggrieved thereby, the appellant has preferred the present appeals.
+Argument	The appellant-petitioner claimed in all the se petitions that the assessments were illegal and prayed that directions be given to the respondents to refund the tax collected in pursuance of those orders.
+Fact	<ORG> passed the Act, as mentioned hereinbefore in 1954 called the Assam Taxation (on Goods carried by Road and Inland Waterways) Act , 1954 which purported to levy tax on manufactured tea and jute carried by road and inland waterways.
+Fact	The Act was declared ultra vires the Constitution by this Court in <NAME> case (supra) on the ground that previous sanction of the President was not taken.
+Fact	Thereafter the <ORG> passed the Act which received the assent of the President on 6.4.61.
+Fact	The validity of the Act was also challenged and <ORG> declared that Act to be ultra vires on 1st August, 1963.
+Fact	Against the judgment and order passed by <ORG>, the State of Assam and other respondents preferred appeals before this Court.
+Fact	In the meantime, <ORG> challenged the provisions of the Act directly before t his <ORG> by filing an application under Article 32 of the Constitution and this <ORG> in its judgment dated 13.12.63 held the Act to be intra vires.
+Fact	Following the aforesaid decision of this <ORG>, the appeals filed by the State of Assam and others against the judgment of the High <ORG> were allowed by this <ORG> on the 1st April, 1968.
+Fact	It was after this decision that the respondents required the appellant by a notice under section 480  7(2) of the Act issued on 8.7.68 to submit returns for four periods mentioned hereinbefore.
+Fact	Due to penal consequences mentioned in the said notices in the event of failure to file return and pay the taxes, the appellant filed return on July 11, 1968 and paid the various taxes.
+RulingByLowerCourt	In the judgment under appeal after elaborate discussion, the High <ORG> came to the conclusion that when a petitioner approaches the High <ORG> with the sole claim for refund of money by writ of mandamus, the same is normally not granted but where the refund is prayed as a consequential relief the same  is normally entertained if there is no obstruction or if there be no triable issue like that of limitation which could not be conveniently tried in writ petition.
+RulingByLowerCourt	In this case indisputably it appears that tax was collected without the authority of law.
+RulingByLowerCourt	Indeed the appellant had to pay the tax in view of the notices which were without jurisdiction.
+RulingByLowerCourt	It appears that the assessment was made under section 9(3) of the Act.
+RulingByLowerCourt	Therefore, it was with out jurisdiction.
+Argument	In the premises it is manifest that the respondents had no authority to retain the money collected without the authority of law and as such the money was liable to refund.
+RatioOfTheDecision	The only question that falls for consideration here is whether in an application under Article 226 of the Constitution the <ORG> should have directed refund.
+RatioOfTheDecision	It is the case of the appellant that it was after the judgment in the case of <ORG> the cause of action arose.
+RatioOfTheDecision	That judgment was passed in July 1973.
+RatioOfTheDecision	It appears thus that the High <ORG> was in error in coming to th e conclusion that it was possible for the appellant to know about the legality of the tax sought to be imposed as early as 1963, when the Act in question was declared ultra vires as mentioned hereinbefore.
+Fact	Thereafter the taxes were paid in 1968.
+Fact	Therefore the claim in November, 1973 was belated.
+RatioOfTheDecision	We are unable to agree with this conclusion.
+RatioOfTheDecision	As mentioned hereinbefore the question that arises in this case is whether the Court should direct refund of the amount in question.
+RatioOfTheDecision	Courts have made a distinction between those cases where a claimant approaches <ORG> seeking relief of obtaining refund only and those where refund is sought as a consequential relief after striking down of the order of assessment etc.
+RatioOfTheDecision	Normally speaking in a society governed by rule of law taxes should be paid by citizens as soon as they are due in accordance with law.
+RatioOfTheDecision	Equally, as a corollary of the said statement of law it follows that taxes collected without the authority of law as in this case from a citizen should be refunded becaus e no <ORG> has the right to receive or to retain taxes or monies realised from citizens without the authority of  <CITATION_1561861> , AIR 1965 SC 1740, this <ORG> held that the High <ORG>s have power to pass any appropriate order in the exercise of the powers conferred on them under Article 226 of the Constitution.
+RatioOfTheDecision	A petition solely praying for the issue of a writ of mandamus directing the <ORG> to refund the money alleged to have been illegally collected by the <ORG> as tax was not ordinarily maintainable for the simple reason that a claim for such refund can always be made in a suit against the authority which had illegally collected the money as a tax and in such a suit it was open to the <ORG> to raise all possible defences to the claim, defences which cannot in most cases,, be appropriately raised and considered in the exercise of writ jurisdiction.
+RatioOfTheDecision	It appears that Section 23 of the Act deals with refund.
+RatioOfTheDecision	In the facts of this case, the case did not come within section 23 of the Act.
+RatioOfTheDecision	But in the instant a ppeal, it is clear as <ORG> found in our opinion rightly that the claim for refund was a consequential relief.
+Fact	<CITATION_623976> .,  2 S.C.R.
+Fact	824, claimants in that case contended that they did pay taxes under section 2 1(4) of the Bombay Sales Tax Act, 1953 which was ultra vires on the particular ground on which it was struck down by this Court.
+Argument	On 28th March, 1958 the petitioners in that case filed a writ petition in <ORG> and contended that section 2  1(4) of the said Act was ultra vires the powers of <ORG> and was violative of Articles 19(1)(f) and 265 of the Constitution.
+Argument	The single Judge of <ORG> dismissed the petition on the ground that the petitioners defrauded their customers and so were not entitled to any relief even if there was a violation of fundamental rights.
+RulingByLowerCourt	The appellate bench of <ORG> dismissed the appeal on the ground that it would not interfere with the discretionary order of the single Judge.
+Fact	Thereafter, it appears that on December 24 , 1958, the Collector attached the properties of the petitioners for recovering the amount as arrears of land revenue and the petitioners paid the amount in instalments between August 1959 and August 1960.
+Fact	On September 29, 1967 this <ORG> in <CITATION_1224032> , 2 1 S.T.C.
+Fact	174 struck down section 12A(4) of the Bombay Sales Tax Act, 1946 corresponding to section 21(4) of the 1953 Act, on the ground that it was violative of Article 19(1)(f) of the Constitution inasmuch as the power conferred by the section was unguided, uncanalised and uncontrolled and so was not a reasonable restriction on the fundamental right guaranteed under that Article.
+Fact	On the assumption that section 21(4) of the 1953 Act was also liable to be struck down on the same ground, on February 9, 1968, the petitioners therein filed a writ petition under Article 32 of the Constitution claiming a refund of the amount.
+Fact	The petitioners contended that they did not know that the section was ultra vires on the particular ground on which this <ORG> had  struck it down and they had paid the amounts under coercion or mistake, that the mistake was discovered on September 29, 1967 (the date of the judgment of this <ORG>) and that they were entitled to the refund under section 72 of the Indian Contract Act, 1872.
+Fact	It was held by the majority that the petition should be dismissed on the ground of laches.
+Fact	<NAME>, C.J.
+Fact	held that Article 32 gave the right to move the <ORG> by appropriate proceedings for enforcement of fundamental rights and the <ORG> cannot place any hindrance in the way of an aggrieved person.
+Fact	But once the matter had reached this <ORG>, the extent or manner of interference is for this <ORG> to decide.
+RatioOfTheDecision	(emphasis supplied).
+RatioOfTheDecision	The Chief Justice reiterated that this <ORG> had put itself in restraint in the matter of petitions under Article 32.
+Argument	For example, this <ORG>, reiterated the Chief Justice?
+Argument	refrained from acting under the Article if the party had already moved the High <ORG> under Article 226 and if the High <ORG> had exercised its parallel j urisdiction.
+Argument	It was said in such a case, the <ORG> would not allow fresh proceedings to be started under Article 32 but would insist on the decision of the High <ORG> being brought before it on appeal.
+Argument	Similarly, in inquiring into belated and stale claims, this <ORG> should take note of evidence of neglect of the petitioner's own rights for a long time or of the rights of innocent parties which might have emerged by reason of the delay.
+Argument	The Chief Justice emphasised that it was not possible for this <ORG> to lay down any specific period as the ultimate limit of action and each case will have to be considered on its own facts.
+Argument	A petition under Article 32 was neither a suit nor an application to which the Limitation Act applied.
+Argument	Further, putting curbs in the way of enforcement of fundamental rights through such legislative action might be questioned under Article 13(2) for, if a short period of limitation was prescribed the fundamental right might be frustrated.
+Argument	Therefore, for the matter of relief in each case,  this <ORG> had to exercise its description from case to case and where there was appearance of an avoidable delay and the delay affected the merits of the claim, this <ORG> held the party disentitled to invoke its extraordinary jurisdiction.
+Argument	In the facts of that case, the majority Judges found that by his own conduct, the petitioner had abandoned his own litigation years ago and the <ORG> would not apply the analogy of the Article in the Limitation Act in cases of mistake of law and give him relief.
+Argument	<NAME>, J. in a concurring judgment observed that the normal remedy for recovery of money paid to the <ORG> under coercion or mistake of law is by suit.
+Argument	The right to move this <ORG> for enforcement of fundamental rights was guaranteed by Article 32 , and no period of limitation was prescribed for such a petition.
+Argument	<NAME>, J. reiterated that the writ issues as a matter of course if a breach of a fundamental right is established, but this did not mean that in giving relief under the Article this <ORG> might igno re all laws of procedure.
+Argument	The extraordinary remedies under Articles 32 and 226 of the Constitution, said <NAME>, J., are not intended to enable a claimant to recover monies the recovery of which by suit is barred by limitation.
+Argument	In the absence of any rules of procedure under Article 145(1)(c ), the <ORG> may adopt any reasonable rule.
+Argument	<NAME>, J. emphasised that for example, the <ORG> will not allow a petitioner to move this <ORG> under Article 32 on a petition containing misleading and inaccurate statements.
+Argument	Similarly, the general principles of res judicata were applied where applicable on grounds of public policy.
+Argument	<NAME>, J. emphasised that where the remedy in a writ application under Article 32 or Article 226 corresponded to a remedy in an ordinary suit and the latter remedy was subject to the bar of a statute of limitation, the <ORG> imposed on analogy the same limitation on the summary remedy in the writ jurisdiction even though there was no express statutory bar of limitation, on grounds of public p olicy and on the principle that the laws aid the vigilant and not those who slumber.
+Argument	<NAME>, J. more or less expressed the same view.
+Argument	<NAME>, J. allowed the appeal because he was of the opinion that the petitioners were under a mistake of law, the mistake was discovered, like all assessees, when the <ORG> struck down section 12A(4) of the 1946 Act and they came to this <ORG> within six months of that date and hence there was no delay.
+Argument	<NAME>, J. allowed the petition.
+Argument	He was of the opinion that in the facts of that case, there was no delay..
+Argument	He observed that mere impression of a party that a provision of law might be ultra vires cannot be equated to knowledge that the provision was invalid.
+Statute	Under Article 113 of the Limitation Act , 1963 the limitation was the period of three years from the date the right to sue accrues.
+Statute	It may be noted that in the instant case under section 23 of the Act, it was provided that the Commissioner shall, in the prescribed manner refund to a producer or a dealer any sum paid or rea lised in excess of the sum due from him under this Act either by case or, at the option of the producer or dealer, be set off against the sum due from him in respect of any other period.
+RatioOfTheDecision	Section 23 applies only in a case where money is paid under the Act.
+RatioOfTheDecision	If there is no provision for realisation of the money under the Act, the act of payment was ultra vires, the money had not been paid under the Act.
+RatioOfTheDecision	In that view of the matter section 23 would not apply.
+RatioOfTheDecision	<ORG> in the instant case after analysing the various decisions came to the conclusion that where a petitioner approached <ORG> with the sole prayer of claiming refund of money by writ of mandamus, the same was normally not granted but where the refund was prayed as a consequential relief the same was normally entertained if there was no obstruction or if there was no triable issue like that of limitation.
+RatioOfTheDecision	We agree that normally in a case where tax or money has been realised without the authority of law, the same should be refunded and in a n application under Article 226 of the Constitution the <ORG> has power to direct the refund unless there had been avoidable laches on the part of the petitioner which indicate either the abandonment of his claims or which is of such nature for which there is no probable explanation or which will cause any injury either to respondent or any third party.
+RatioOfTheDecision	It is true that in some case the period of three years is normally taken as a period beyond which the <ORG> should not grant relief but that is not an inflexible rule.
+RatioOfTheDecision	It depends upon the facts of each case.
+RatioOfTheDecision	In this case, however, the High <ORG> refused to grant the relief on the ground that when the section was declared ultra vires originally that was the time when refund should have been claimed.
+RatioOfTheDecision	But it appears to us, it is only when the <NAME> case was decided by the High <ORG> in 1973 that the appellant became aware of his crystal right of having the assessment declared ultra vires and in that view of the matter in October, 1973 when the judgment was  delivered in July, 1973 the appellant came to know that there is mistake in paying the tax and the appellant was entitled to refund of the amount paid.
+RatioOfTheDecision	That was the time when the appellant came to know of it.
+Fact	Within a month in November 1973 the present petition was filed.
+RatioOfTheDecision	There was no unexplained delay.
+RatioOfTheDecision	There was no fact indicated to <ORG> from which it could be inferred that the appellant had either abandoned his claims or the respondent had changed his position in such a way that granting relief of refund would cause either injury to the respondent or anybody else.
+RatioOfTheDecision	On the other hand, refunding the amount as a consequence of declaring the assessment to be bad and recovery to be illegal will be in consonance with justice, equity and good conscience.
+RatioOfTheDecision	We are, therefore of the view that the view of <ORG> in this matter cannot be sustained.
+Precedent	485   <CITATION_1353164> ., [1967l 2 S.C.R.
+Precedent	286 was a case where this Court observed that <ORG> erred in exalting a rule of practice into a rule of  limitation and rejecting the petition of the appellant for refund without considering whether the appellant was guilty of laches and undue delay.
+Precedent	<NAME>, J. delivering the judgment of the <ORG> observed that the primary question in each case is whether the applicant had been guilty of laches or undue delay.
+Precedent	Reference may be made in this connection to <CITATION_1774419> ,  3 S.C.R.
+Precedent	417.
+Precedent	There the question arose about punishing for contempt.
+Precedent	The jurisdiction conferred on the High <ORG> under Article 215 of the Constitution to punish for contempt of itself was a special one, not arising or derived from the Contempt of <ORG>s Act , 1952, and therefore, not within the purview of the Penal Code .
+RatioOfTheDecision	Such a position is also clear from the provisions of the Contempt of <ORG>s Act .
+RatioOfTheDecision	The effect of section 5 of that Act was only to widen the scope of the existing jurisdiction of a special kind and not conferring a new jurisdiction.
+RatioOfTheDecision	So far as contempt of the High <ORG> itself is concerned, as distinguished from that of cour t subordinate to it, the Constitution vested these rights in every High Court, and so no Act of a legislature could take away that jurisdiction and confer it afresh by virtue of its own authority.
+RatioOfTheDecision	That being the position, this Court held that section 25 of the General Clauses Act would not apply.
+RatioOfTheDecision	Similarly, it appears to us that this was a tax realised in breach of the section, the refund being of the money realised without the authority of law.
+RatioOfTheDecision	The realisation is bad and there is a concomitant duty to refund the realisation as a corollary of the constitutional inhabitation that should be respected unless it causes injustice or loss in any specific case or violates any specific provision of law.
+RatioOfTheDecision	In that view of the matter in the facts of this case we are of the opinion that the money was refundable to the appellant.
+RatioOfTheDecision	The appellant had proceeded diligently.
+RatioOfTheDecision	There is nothing to indicate that had the appellant been more diligent, the appellant could have discovered the constitutional inhibition in 1966.
+RatioOfTheDecision	The pos ition is not clear even if there is any triable issue.
+RatioOfTheDecision	The position becomes clearer only after the decision in <NAME> case as mentioned hereinbefore.
+RatioOfTheDecision	Our attention was drawn on behalf of the respondents that under section 16 of the Act an appeal lay in the prescribed manner within thirty days from the date of service of any order of assessment but the challenge to the assessment on the ground that the assessment was bad could not be made in an appeal under the Act because the right to appeal being a creature of the Act, if the Act is ultra vires that right would not enure to the benefit of the appellant.
+RatioOfTheDecision	<CITATION_1204286> .,  6 S.C.R.
+RatioOfTheDecision	261 this Court had occasion to consider what was unreasonable delay in moving the court when tax was paid under a mistake.
+Fact	There the respondents were dealers in tobacco in the State of Madhya Bharat.
+Fact	The State had imposed sales tax on the sale of imported tobacco by the respondents.
+Fact	But no such tax was imposed on the sale of indigenous tobacco.
+Fact	The respondents filed w rit petitions under Article 226 of the Constitution for the issue of writ of mandamus directing the refund of sales tax collected from them.
+Fact	They contended that the impugned tax was violative under Article 301(a) of the Constitution and they paid the tax under a mistake of law and the tax so paid was refundable under section 72 of the Indian Contract Act, 1872.
+Argument	The appellant contended that there was no violation of Article 301 of the Constitution, and even if there was such violation the tax came within the special provision under Article 304(a) of the Constitution and <ORG> had no power to direct refund of tax already paid and in any event <ORG> should not exercise its discretionary power of issuing a writ of mandamus directing this to be done since there was unreasonable delay in filing the petition.
+Fact	<ORG> rejected all the contentions of the appellant and a writ of mandamus was issued as prayed for.
+Precedent	It was held that tax was violative under Article 301 of the Constitution.
+Precedent	But it w as held that even though the tax contravened Article 30 1 of the Constitution, it was valid if it came within the saving provisions of Article 304 of the Constitution.
+Precedent	Tobacco manufactured or produced in the appellant State, similar to the tobacco imported from outside had not been subjected to the tax and therefore the tax was not within the saving provisions of Article 304(a) of the Constitution.
+RatioOfTheDecision	It was reiterated that the tax which had already been paid was so paid under a mistake of law under section 72 of the Indian Contract Act.
+RatioOfTheDecision	<ORG> had power for the purpose of enforcement of.
+RatioOfTheDecision	fundamental rights and statutory rights to grant consequential reliefs by ordering repayment of money realised by the <ORG> without the authority of law.
+RatioOfTheDecision	It was reiterated that as a general rule if there has been unreasonable delay the court ought not ordinarily to lend its air to a party by the extraordinary remedy of mandamus.
+RatioOfTheDecision	Even if there is no such delay, in cases where the opposite party raises a prima facie  issue as regards the availability of such relief on the merits on grounds like limitation the <ORG> should ordinarily refuse to issue the writ of mandamus.
+RatioOfTheDecision	Though the provisions of the Limitation Act did not as such, it was further held, apply to the granting of relief under Article 226 , the maximum period fixed by the legislature as the time within which relief by a suit in a Civil <ORG> must be claimed may ordinarily be taken to be a reasonable standard by which delay in seeking remedy under Article 226 could be measured.
+RatioOfTheDecision	The <ORG> might consider the delay unreasonable even if it is less than the period of limitation prescribed for a civil action for the remedy.
+RatioOfTheDecision	Where the delay is more than that period it will almost always be proper for the court to hold that it is unreasonable.
+RatioOfTheDecision	The period of limitation prescribed for recovery of money paid by mistake under the Limitation Act was three years from the date when the mistake was known.
+RatioOfTheDecision	In this case knowledge is attributable from the date of the judgment in  <NAME> case on 10th July, 1973 and there being a statement that the appellant came to know of that fact in October, 1973 and there being no denial by the averment made on this ground, <ORG>, in our opinion, in the instant case was in error in presuming that there was a triable issue on this ground and refusing to grant refund.
+RatioOfTheDecision	<CITATION_20762> .
+Precedent	2 S.C.R.
+Precedent	216, in a different context, it was observed that laches or existence of alternative remedy may be ground for not granting relief.
+RatioOfTheDecision	But in view of the facts of this case, it is not necessary to deal with that case in any detail.
+RatioOfTheDecision	<CITATION_1775619> ,  1 S.C.R.
+RatioOfTheDecision	753 this <ORG> held that <ORG> was in error in its view that though the respondent had failed to exercise his statutory remedy, the fact that it had become time-barred at the date of the hearing of the appeal against the order in the petition under Article 226 , was a good ground for the <ORG> to exercise its discretion in granting the relief prayed for by the respondent in h is petition.
+RatioOfTheDecision	Learned counsel drew our attention to Rule 55 of the Act where it was stated that no claim to any refund shall be allowed unless it was made within one year from the date of the original order of assessment or within one year of the final order passed on appeal or revision as the case may be, in respect of such assessment.
+RatioOfTheDecision	It was contended on behalf of the respondents that here a fixed period of limitation was prescribed and by virtue of Article 226 of the Constitution, we should not allow to subvert that rule.
+RatioOfTheDecision	This principle, in our opinion, in view of the fact that the rule was unconstitutional will have no application.
+Precedent	488  In <ORG> v. State of Haryana & Ors.
+Precedent	etc., [1980] l S.C.R.
+Argument	1170 <NAME>, J. speaking on behalf of him self as well as on behalf of <NAME> J. as the learned Chief Justice then was and <NAME> J.
+Argument	Observed that where public bodies under colour of public laws recover people's money, later discovered to be erroneous levies the dharma o f the situation admits of no equivocation.
+RatioOfTheDecision	There was no law of limitation especially for public bodies on the virtue of returning what was wrongly recovered to whom it belongs.
+RatioOfTheDecision	In our jurisprudence it is not palatable to turn down the prayer for high prerogative writs on the negative plea of alternative remedy, since the root principle of law married to justice, is ubi jus ibi remedium.
+Precedent	His Lordship observed as follows:  "Since the root principle of law married to justice, is ubi jus ibi remedium.
+Precedent	Long ago <NAME> wrote:  'The law ubi jus ibi remedium, becomes from this Point of view something more important than a mere tautological proposition.
+Precedent	In its bearing upon constitutional law, it means that the Englishmen whose labours gradually formed the complicated set of laws and institutions which we call the Constitution, fixed their minds far more intently on providing remedies for the enforcement of particular rights or for averting definite wrongs, than upon any declarations of the Rights of Man or English men.
+Precedent	..The Constitution of the United States and the Constitutions of the separate States are embodied in written or printed documents, and contain declaration of rights.
+Precedent	But the statesmen of America have shown an unrivalled skill in providing means for giving legal security to the rights declared by American Constitutions.
+Precedent	The rule of law is as marked a feature of the United States as of England.
+Precedent	Another point.
+Precedent	In our jurisdiction, social justice is a pervasive presence; and so, save in special situations it is fair to be guided by the strategy of equity by asking those who claim the service of the judicial process to embrace the basic rule of distributive justice, while moulding the relief, by consenting to restore little sums, taken in little transactions, from little persons, to whom they belong."
+Precedent	489  We are in respectful agreement with this approach.
+Precedent	<ORG> of Madhya Pradesh and others etc.
+Precedent	etc.
+Precedent	v.  <NAME> and others etc.
+Precedent	etc., A.I.R.
+Precedent	1987 S.C. 251 this principle was reiterated by <NAME>, C. J. that it was well settled that the power of <ORG> to issue an appropriate writ under Article 226 of the Constitution was discretionary and <ORG> in the exercise of its discretion did not ordinarily assist the tardy and the indolent or the acquiescent and the lethargic.
+RatioOfTheDecision	If there was inordinate delay on the part of the petitioner in filing a writ petition and such delay was not satisfactorily explained, <ORG> might decline to intervene and grant relief in the exercise of its writ jurisdiction.
+RatioOfTheDecision	The evolution of this rule of laches or delay was premised upon a number of factors.
+RatioOfTheDecision	<ORG> did not ordinarily permit a belated resort to the extraordinary remedy under the writ jurisdiction because it was likely to cause confusion and public inconvenience and bring in its train new injustices.
+RatioOfTheDecision	It was emphasised that this rule of laches or delay is not a rigid rule which can be cast in a straitjacket formula.
+RatioOfTheDecision	There may be cases where despite delay and creation of third party rights the  <ORG> may still in the exercise of its discretion interfere and grant relief to the petitioner.
+RatioOfTheDecision	But where the demand of justice is so compelling that the <ORG> would be inclined to interfere in spite of delay or creation of third party rights would by their very nature be few and far between.
+RatioOfTheDecision	Ultimately it would be a matter within the discretion of the <ORG>; ex hypotheses every discretion must be exercised fairly and justly so as to promote justice and not to defeat it.
+RatioOfTheDecision	We are in respectful agreement with this approach also.
+RatioOfTheDecision	In this case looked at from one point of view, it is only on the delivery of the judgment in <NAME> case in 1973, the appellant realised the right to claim the relief of refund as a consequential relief, setting aside the assessment and the assessment was set aside by the very order itself in this case.
+RatioOfTheDecision	That right has been granted by the <ORG>, the <ORG> has not refused the setting aside on the ground of delay.
+RatioOfTheDecision	It would be inconsistent for the <ORG> to r efuse to grant consequential relief after setting aside the assessment.
+RatioOfTheDecision	If the realisation was without the authority of law and that was declined by <ORG> by the judgment in this case which claimed also the consequential relief, that relief must automatically follow and <ORG> was wrong in taking the view that a triable issue of limitation arises in this case.
+RatioOfTheDecision	In the absence of any averment to the contrary, the averment of the appellant in the petition that they came to know only after <NAME> case must be accepted.
+RatioOfTheDecision	<ORG> was wrong in contending that they should have been more diligent.
+RatioOfTheDecision	After all the discretion must be fair and equitable.
+RatioOfTheDecision	In the facts of this case, we are of the opinion that <ORG> was in error in the approach it took.
+RulingByPresentCourt	We, therefore, set aside the judgment and order of <ORG> and direct refund of the tax illegally realised by the respondent.
+RulingByPresentCourt	The appeals are allowed.
+RulingByPresentCourt	We set aside the judgment and order to the extent that it refused refund of  the tax illegally realised.
+RatioOfTheDecision	In the facts of this case the parties will pay and bear their own costs.
+RatioOfTheDecision	<NAME> I agree with the order proposed by my learned brother but would like to add a word of reservation.
+RatioOfTheDecision	2.
+RatioOfTheDecision	In view of the judgment of this Court in <CITATION_431154> , [ 1975] Supp SCR 365, there can be no doubt that the assessments on the appellants were illegal and that.
+RatioOfTheDecision	the taxes demanded on the basis thereof had been collected without the authority of law from the appellants.
+Argument	The appellant's contention is that they had paid the taxes under a mistake of law and are entitled to seek refund thereof.
+Argument	It is difficult to see how <ORG> could have allowed the appellant's prayer for quashing the assessments but refused the prayer for the refund of the illegally collected taxes.
+Argument	The appeals have, therefore, to be allowed.
+Argument	3.
+Argument	Counsel for the respondents, however, places strong reliance on the following observations of <ORG> of this Court in <CITATION_1204286> ,  6 SCR 261:  "T hough the provisions of the Limitation Act do not, as such, apply to the granting of relief under Art.
+Argument	226 , the maximum period fixed by the <ORG> as the time within which relief by a suit in <ORG> must be claimed may ordinarily be taken to be a reasonable standard by which delay in seeking remedy under Art.
+Argument	226 could be measured XXXX Where the delay is more than that period it will almost always be proper for the <ORG> to hold that it is unreasonable. "
+Argument	He also relies on <CITATION_1053542> ,  2 SCR 5tl and drawn our attention to the decision in <CITATION_1013581> ,  3 SCR 180 where the claim for refund in respect of a period beyond three years was rejected.
+Argument	He contends, on the strength of the above decisions, that the High <ORG> rightly rejected the appellants' claims for refund.
+Argument	4.
+Argument	On the other hand, it is contended for the appellants that a writ petition seeking refund of taxes collected without the authority of law cannot be rejected on the ground of limitation or delay unless such delay c an be said to amount to laches or has caused some irreparable prejudice to the opposite party or some other like forceful reason exists.
+Argument	Counsel refers in this context to <CITATION_1775619> ,  1 SCR 75; <CITATION_1353164> ,  2 SCR 286; <CITATION_623976> ,  2 SCR 824; <CITATION_20762> ,  2 SCR 216; <CITATION_487062> , [ 1975] 2 SCR 558; <NAME> <CITATION_209154> , [ 1980] 1 SCR 1170 and <CITATION_320843> , AIR 1987 SC 251 and contends that these decisions have qualified the observations of <NAME>, J. in <NAME> case.
+Argument	5.
+RatioOfTheDecision	As pointed out by my learned brother, in the present case, the appellants' averment that they realised their mistake only when they came to know about the decision in the <ORG> case in July 1973 stands uncontroverted.
+RatioOfTheDecision	There is nothing on record either to show that the appellants had realised their mistake even earlier, at about the time when the writ petition in the <ORG> case was filed or at the time when the earlier decision of 1966 referred i n the <ORG> case judgment was rendered.
+RatioOfTheDecision	On this finding of fact, the writ petitions, filed by the appellants in November 1973, were filed within the period of limitation prescribed in Article 113 read with s. 23 of the Limitation Act, 1963.
+RatioOfTheDecision	Thus the petitions were within time even by the test enunciated in <NAME> case.
+RatioOfTheDecision	6.
+RatioOfTheDecision	I think, therefore, that, for the purposes of the present case, it is unnecessary to consider the larger question whether the bar of limitation should be considered as fatal to a writ petition as to a suit for recovery or whether it is only a relevant but not conclusive factor that should be taken into account by the court in exercising a discretion.
+RulingByPresentCourt	<ORG> allowed.

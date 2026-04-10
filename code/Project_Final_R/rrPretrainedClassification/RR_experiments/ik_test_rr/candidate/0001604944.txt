@@ -1,0 +1,54 @@
+Fact	JUDGMENT <NAME>, Kt., J.
+RulingByLowerCourt	1.
+Fact	The preliminary question arising in this case is, whether there is an appeal from the decision of <ORG> under Clause 3 of Section 160 of the Bombay District Municipal Act (Bombay Act III of 1901).
+Fact	2.
+Fact	That section provides a remedy for the determination of the amount of compensation, to which a person becomes entitled under Clause 3 of Section 92 of the Act, by reason of his land forming part of a public street and becoming vested in the Municipality in virtue of the last portion of the first clause of that section.
+Fact	Both the right to compensation and the remedy for the determination and apportionment of its amount are given by the Act itself; so the right must be asserted and the remedy pursued only in the manner and upon the conditions prescribed by the Act.
+Precedent	This is on the well-known rule of law that, where a Statute creates a right not existing at common law and prescribes a particular remedy for its enforcement, then that remedy alone must be followed: per  <NAME> in <ORG> v. <NAME> (1859) 6 C.B.N.S.
+Precedent	336.
+Argument	3.
+Fact	The question then is, whether Section 160 of the Bombay District Municipal Act, which constitutes <ORG> the tribunal for the determination of the amount of compensation, gives a remedy by way of appeal from that <ORG>'s order made under Clause 3 of that section.
+RatioOfTheDecision	If that section does not give the right, it is admitted that there is no other section in the Act which gives it.
+Precedent	A right to appeal cannot be assumed " in every matter which comes under the consideration of a Judge ; such right must be given by Statute or by some authority equivalent to a Statute: " Meenakshi Naidoo v. Subramaniya Sastri (1887) L.R.
+Precedent	141.
+Precedent	A.
+Precedent	160, 165.
+Fact	In terms Section 160 does not provide an appeal.
+RatioOfTheDecision	Nor can it be said that it is provided by necessary implication.
+RatioOfTheDecision	Clause 1 of the section directs that the amount of compensation shall be determined in the first instance by a panchayet appointed by the parties.
+RatioOfTheDecision	Clause 2 provides that if the y fail to appoint, the District Judge shall make the appointment at the instance of either party.
+RatioOfTheDecision	It is not, and can hardly be, contended that where a panchayet, appointed under either of the said clauses, has determined the amount of compensation, its award can be questioned by way of appeal to a <ORG> of law.
+RatioOfTheDecision	Clause 3 of the same section provides that if the panchayet appointed under either Clause (1) or Clause (2) fails to give a decision within the period fixed in the clause, <ORG> shall determine the amount on application by either party.
+RatioOfTheDecision	It will thus be seen that the <ORG> in question comes in as a substitute for the panchayet where adjudication by the latter has failed.
+RatioOfTheDecision	What applies to the latter in the matter of appeal must apply, therefore, to the former, on the principle of the legal maxim "nosctiur a sociis."
+RatioOfTheDecision	So far the necessary implication in Section 160 is against a right of appeal.
+RulingByLowerCourt	4.
+RulingByLowerCourt	Further, Clause 3 of Section 160 directs that <ORG> shall "follow as far as may be t he procedure provided by the Land Acquisition Act " in determining the amount of compensation.
+RulingByLowerCourt	That means that only those provisions of the latter Act apply to the proceedings before <ORG>, which regulate its procedure in land acquisition cases.
+RulingByLowerCourt	The said provisions do not include, but stand apart from, the provision relating to an appeal against an award made by <ORG> under the Land Acquisition Act .
+RulingByLowerCourt	The right to appeal from the award is specifically given by Section 54 of that Act.
+Precedent	That section is, therefore, excluded from the purview of Section 160 of the Bombay District Municipal Act.
+RatioOfTheDecision	5.
+RatioOfTheDecision	There are two provisoes to Clause 3 of this latter section.
+RatioOfTheDecision	The first says that no application to the Collector for a reference to <ORG> of the question as to the amount of compensation, such as is required under the Land Acquisition Act to give jurisdiction to that <ORG> in land acquisition cases, shall be necessary where the same <ORG> has to determine the amount of compensation unde r the said Clause 3.
+RatioOfTheDecision	By this proviso Section 18 of the Land Acquisition Act, which would have otherwise applied to the proceedings before <ORG> under that clause as part of the procedure to be followed, is made inapplicable to those proceedings.
+RatioOfTheDecision	So, again, the second proviso to Clause 3 of Section 160 says that <ORG> "shall have full power to give and apportion the costs of all proceedings in any manner it thinks fit."
+RatioOfTheDecision	But for this proviso, Section 27 of the Land Acquisition Act, which points out how <ORG> shall make an order as to costs in land acquisition cases, would have applied to the proceedings before <ORG> under Clause 3 of Section 160 of the Municipal Act as part of its procedure.
+RatioOfTheDecision	So careful has the <ORG> been to limit the application of the provisions of the Land Acquisition Act to the proceedings in <ORG> under Clause 3 of Section 160 of the Municipal Act that the implication is distinctly against a right of appeal from any deci sion of that <ORG> made under that clause.
+RatioOfTheDecision	6.
+RatioOfTheDecision	It was contended before us by the learned pleader for the appellant that such right existed under the Code of Civil Procedure because that Code gave an appeal against a decree of every <ORG>.
+RatioOfTheDecision	But it is taking a long stride in logic to infer from that that there is an appeal from an order made by the District <ORG> under Clause 3 of the Bombay District Municipal Act.
+RatioOfTheDecision	An order made under the said clause is not a decree because it is made, not under the ordinary civil jurisdiction, but under a special jurisdiction created by a special Act, and that Act does not say that such an order is a decree.
+RatioOfTheDecision	7.
+Precedent	This conclusion is supported by the decision of <ORG> in Meenakshi Naidoo v. <NAME> (1887) L.R.
+Precedent	14 I.
+Precedent	A.
+Precedent	160, 165, on the construction of a somewhat similar section ( Section 10 ) in Act XX of 1863, which relates to the management of religious endowments.
+RatioOfTheDecision	That Act provides for the supplying of vacancies among the members  of <ORG> by election ; where the election fails, it says " <ORG>, on the application of any person, may appoint a person to fill the vacancy."
+RatioOfTheDecision	It was held that an order by <ORG> made under that provision was not appeasable, because there was nothing in the provisions which conferred a right of appeal.
+RatioOfTheDecision	With reference to the argument that though the Act gave no such right, it must be found in the general law, i. e., the Code of Civil Procedure, their Lordships held that an order under Section 10 of Act XX of 1863 was not a decree within the meaning of the Code, (Act X of 1877 as modified by Act XII of 1879), because a decree was defined to mean " a formal expression of an adjudication upon any right, claim, or defence, set up in <ORG> where such adjudication decides the suit or the appeal."
+RatioOfTheDecision	" In the opinion of their Lordships, there was no civil suit respecting the appointment" made by the <ORG> under Section 10 of Act XX of 1863.
+RatioOfTheDecision	In the present Code (Act V of 1908) a de cree is defined to mean an adjudication in a suit.
+RatioOfTheDecision	A proceeding under Clause 3 of Section 160 of the Bombay District Municipal Act is initiated, not by suit, but by application, and a decision passed in it is at best an award on the analogy of the Land Acquisition Act , so far as the provisions of the latter apply to the former.
+RatioOfTheDecision	8.
+RulingByPresentCourt	For these reasons this appeal must be dismissed with costs, on the ground that it does not lie.
