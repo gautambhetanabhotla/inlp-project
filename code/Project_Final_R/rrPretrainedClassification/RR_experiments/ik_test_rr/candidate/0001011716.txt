@@ -1,0 +1,121 @@
+Fact	ORDER The assessee who is a wealthy nobleman and a landed proprietor also carries on the business of money-lending.
+Fact	In connection with an assessment on the profits and gains of his money-lending business for the year 1931-32, the assessee claimed that he was entitled to deduct the sum of Rs.
+Fact	2,07,018, the amount which he had paid as legal expenses in connection with a suit in which he had been substituted as defendant in place of his <NAME>, the late <NAME>.
+Fact	The latter had also carried on the business of money-lending during his life-time and had lent a sum of Rs.
+Fact	10 lacs to <ORG>, in which company he was a shareholder.
+Fact	In 1926 a suit was instituted against the late <NAME> by certain shareholders of the <ORG>.
+Fact	They alleged that the defendant had agreed to take over the management of the <ORG> and to finance it, but that in breach of this agreement the necessary finances had not been furnished by the defendant with the result that the shareholders of the <ORG> had suffered heavy lo sses.
+Fact	The defendant denied that there was any such contract as alleged by the plaintiffs or that he was liable to them.
+Fact	He died during the pendency of the suit and his son, the present assessee, was substituted in his place.
+Fact	The suit was dismissed on the 26th of February, 1931.
+Fact	In the course of the assessment of the year 1930-31 the assessee claimed to deduct a sum of Rs.
+Fact	1,17,275 on account of expenses incurred in connection with the suit in that year.
+Fact	This was disallowed by the Income-tax authorities on the ground that the suit did not arise in the course of any business of the assessee.
+Fact	In the present assessment year the assessee claims to deduct the sum of 2 lacs and odd already mentioned above as legal expenses incurred in connection with the suit during the year of assessment.
+Fact	The claim has again been disallowed by <ORG>, but having been requested by the assessee to state a case for the opinion of this Court, the Commissioner of Income-tax has referred to us the following question.
+Fact	"Whether the cost in question is legally a business deduction or not ?"
+Fact	In the order of reference the Commissioner refers to the findings of the court which tried the suit.
+RulingByLowerCourt	These findings were that there was no agreement between the late <NAME> and the <ORG> to finance the latter and that the suit was the outcome of a conspiracy to defraud him of large sums.
+RulingByLowerCourt	The Commissioners own finding was that the suit had no connection with any business of the assessee but that he was involved in it because he happened to be a very rich man and was therefore liable to attack by unscrupulous persons who desired to relieve him of part of his surplus cash.
+RulingByLowerCourt	In the opinion of the Commissioner the expenses of defending such a suit are not expenses incurred for earning the profits of which the assessee has been assessed and therefore no allowance is permissible in respect of it.
+Argument	It has been contended by the assessee that the transaction into which the late <NAME> was alleged, by the plaintiffs in the suit, to have entere d with <ORG>, was a transaction of the kind which a person carrying on an extensive money-lending business like the late <NAME>, would sometimes find it necessary to enter, and that if the suit had succeeded the assessee would have been entitled to deduct from the profits of his money-lending business the expenses incurred in defending the suit.
+Argument	On behalf of <ORG>, on the other hand, it was contended that as there was no contract between the late <NAME> and the <ORG> the suit had nothing to do with the <NAME>s money-lending transactions and must be regarded merely as the kind of false suit to which a wealthy person is exposed by reason of his wealth.
+Argument	It appears to us that the question of law on which our opinion is sought is incapable of being adequately answered without a further statement of facts by the Commissioner.
+Argument	We, therefore, require the Commissioner to state whether the money-lending business of the late <NAME> and the assessee is such as wou ld have included transactions of the kind into which he was alleged to have entered with <ORG>  JUDGMENT Agarwala, J.
+Fact	- This reference under Section 66 (2) of the India Income Tax Act relates to the assessment on <NAME>, who besides being a wealthy nobleman and landed Proprietor, carries on an extensive money-lending business.
+Fact	In connection with the profits and gains of his business for the year 1931 to 1932 the assessee has been assessed on an income of Rs.
+Fact	15,02,880.
+Fact	He claims to deduct from this amount a sum of Rs.
+Fact	2,07,018.
+Fact	This amount has been expended in the year 1931-32 in a suit instituted against his <NAME>, the late <NAME> and others, by some of the shareholders of <ORG> On the 3rd of July, 1929, the late <NAME> died.
+Fact	The assessee and his brother were substituted in his place.
+Fact	The suit was eventually dismissed on the 22nd of February, 1931.
+Argument	The claim to deduct the sum referred to is found on clause (ix) of sub-section (2) of Section 10  of the Act.
+Argument	Sub-section (2) of Section 10 enacts that in computing the profits and gains of a business certain allowance shall be made.
+Argument	The allowance mentioned in clause (ix) is "expenditure (not being in the nature of capital expenditure) incurred solely for the purpose of earning such profits or gains."
+Argument	It is contended that the sum claimed to be deducted is expenditure incurred solely for the purpose of earning the profits which have been assessed to tax.
+Fact	The late <NAME> was a shareholder in <ORG>, and there is no dispute that in 1923 the <ORG> was in very serious financial difficulties.
+Fact	The late <NAME> advanced to the <ORG> a sum of 10 lacs of rupees.
+Fact	The plaintiffs in the suit against the <NAME> asserted that this was only a part of the money which the late <NAME> contracted to advance to the <ORG>.
+Argument	According to the allegations in the plaint in the suit the then managing agents of the <ORG> commenced negotiations with the late <NAME> for the purpose of obtaining hi s financial assistance in the affairs of the <ORG>.
+Argument	It was alleged that the late <NAME>, through his agents, consented to a scheme whereby he was to assume the managing agency of the <ORG> and advance whatever sums were necessary to put it on a sound financial basis.
+Argument	It was further alleged that in breach of this agreement the <NAME> had advanced nothing but the 10 lacs already referred to and that as a result the shareholders of the company had suffered considerable losses.
+Fact	The total amount of damages claimed by the plaintiffs amounted to about a crore of rupees.
+Fact	The amount for which it was sought to render the late <NAME> responsible was a sum of about 60 lacs of rupees.
+Fact	The plaintiffs alleged that the agents of the late <NAME> knew that the dismissal of <NAME> and Co., the former managing agents, which was then under contemplation, would destroy their plan of obtaining the managing agency for their master with the aid of <NAME> and that for this reason they allowed promises to be made to the share holders which misled them into believing that the <NAME> would at all times, finance the <ORG> and would also provide <ORG>, with funds to repay over 17 lacs of rupees which they were alleged to have embezzled, and that in consequence of the promises an enquiry relating to the amount said to have been embezzled by <ORG> was stifled; damages were, therefore, claimed against the late <NAME> not only for the breach of contract but for entering into a conspiracy with others as a result of which the sum embezzled by <ORG>, was lost to the plaintiff company.
+Fact	The defence to the suit was denial of the allegation in the plaint.
+Argument	It was asserted that the only contract between the late <NAME> and the company was for a loan of 10 lacs of rupees and that this in fact had been advanced.
+Argument	The suit was dismissed on the 26th of February, 1931.
+Argument	The Court which decided the suit held that there was no agreement by the late <NAME> to finance the company beyond the sum of Rs.
+Argument	10 lacs and that the suit wa s the outcome of a conspiracy to defraud him of the large sums which were claimed.
+Argument	The Income-tax authorities declined to allow the deduction claimed by the assessee in connection with the costs of this suit.
+Argument	In stating the case the Commissioner of Income-tax said that the <NAME> was involved in the suit because he happened to be a very rich man and was therefore liable to attack by unscrupulous persons to relieve him of part of his surplus cash and that the suit had nothing to do with his business operations.
+Argument	At the request of the assessee, however, the Commissioner referred to this Court the question whether the costs in question were legally a business deduction or not.
+RulingByLowerCourt	This Court found itself unable to answer the question referred to it by the Commissioner without a further statement of facts.
+RulingByLowerCourt	The Commissioner was, therefore, called upon to state whether the money-lending business of the late <NAME> and the assessee was such as would have included transactions of the kind into which he was alleged to  have entered with <ORG> In response to an invitation by the Commissioner the assessee placed before him evidence of other transactions entered into by the late <NAME> which, it was said indicated that a transaction of the kind alleged in the suit against the late <NAME> was within the scope of his business.
+Fact	One of these was a loan to <ORG>.
+Fact	When the debtor defaulted in repayment of that loan the assessed sued him and in execution of the decree obtained in the suit he took possession of the debtors business and continued it.
+Fact	An advance to <ORG>, again resulted in the assessee acquiring the properties of the debtor and then continuing the debtors business.
+Fact	There was another transaction of the same kind with Dr. <NAME> of Bombay and with the same result.
+RulingByLowerCourt	Three other transaction which have been referred to as the Lachmipur zarpeshgi loan, the Tikari loan and the Madhuban loan, were instances in which money was advanced on the security of zamindar i property in which the assessee eventually acquired the property in execution of decrease for recovery of the loans.
+RulingByLowerCourt	In the opinion of the Commissioner the last three instance were not analogous to the transaction under discussion because the assessee is himself a zamindar and his acquisition of more zamindari property in satisfaction of loans was merely an extension of his activities as a zamindar and had nothing to do with his business operations.
+RulingByLowerCourt	The Commissioner also distinguishes the three first mentioned instances on the ground that in those instances the assessee acquired the business of the debtors whereas in the case under discussion he merely assumed the management of the debtors business.
+RulingByLowerCourt	For these reasons the Commissioner came to the opinion that the money-lending business of the late Maharaja and the assessee did not include a transaction of the kind into which he was alleged to have entered with <ORG> The Commissioner having properly stated the facts on which he has based h is opinion we have first to decide whether the conclusion of the Commissioner follows from the facts stated.
+RulingByLowerCourt	The conclusion I have come to is that there is no essential difference between taking over the debtors property for the purpose of preventing the loss of sums advanced and the taking over of the management of the debtors business for the same purpose and I, therefore, hold that the alleged transaction with <ORG>, was not foreign to the money-lending business of the assessee and his <NAME>.
+RulingByLowerCourt	The next and more difficult question is whether the costs of defending the suit can be regarded as expenditure incurred solely for the purpose of earning the profits of the business so as the attract the provisions of clause (ix) sub-section (2), of Section 10 of the Act.
+Argument	On behalf of the <ORG> it is contended that the expenditure was not for the purpose of earning the profits of the assessees business at all and even if it can be so regarded it was not solely for that purposes but mainly for  repelling allegations affecting the late Maharajas honour and for protecting his business against loss of capital.
+Argument	It is argued that had the suit succeeded the assessee would have had to part with a large part of his capital and that his primary object in defending the suit was to prevent this loss of capital.
+Argument	Hence it is contended that the expenditure was in the nature of capital expenditure and was excluded from the operation of clause (ix).
+RatioOfTheDecision	The line between what is capital expenditure is one of considerable difficulty as has been pointed out in a number of English cases to which we have been referred.
+RatioOfTheDecision	Examination of the facts of those cases only leads to the conclusion that the line of demarcation is so tenuous as to be almost imperceptible.
+RatioOfTheDecision	What clearly emerges is that no general or comprehensive rule can be laid down but that each transaction must be judged in relation to its own circumstances.
+RatioOfTheDecision	Reference was made to the case of <ORG> (1906 A.C. 448).
+Precedent	That was a case in which an inn-k eeper was held not to be entitled to an allowance on account of damages which he had been compelled to pay to a guest who had been injured by a defective chimney in the premises.
+Precedent	That decision has no application to the facts of the present case.
+Precedent	The library for damages arose not by reason of the assessee being an inn-keeper but by reason of his being a house-holder.
+Precedent	The case Countess of Warwick State ship Co. Ltd. v. <NAME> (1924, 2 K.B.
+Precedent	292) is also distinguishable.
+Precedent	There a company who owned ships which they used in their business as carries entered into a contract with a firm of shipbuilders for the construction of a vessel for Pounds 2,24,000.
+Precedent	Later, by arrangement with builders, it was agreed that the contract should be cancelled, the builders being permitted to retain a sum of Pounds 30,000 which they had already received as an advance, and it being further agreed that they should also receive a further sum of Pounds 30,000.
+Precedent	The company claimed an allowance in respect of the Pounds 60,000 which was thus los t to them.
+Precedent	The claim was disallowed on the ground that the loss was of a capital nature.
+RatioOfTheDecision	The money which a banker or a money-lender employs in his business, while it is in one sense capital, is also his stock-in-trade.
+RatioOfTheDecision	There can, I consider, be no doubt that money expended for the purpose of insuring the stock-in-trade of a business must be considered expenditure in the nature of revenue expenditure and incurred solely for earning the profits of the business.
+RatioOfTheDecision	The fact that one of the allowances mentioned in sub-section (2) of Section 10 is money spent in insuring against risk of damage or destruction of buildings, machinery, plant, furniture, stocks or stores used for the purposes of business does not imply that but for this express provision the premium paid for such insurance would not be deductible under clause (ix).
+RatioOfTheDecision	I think it follows as a consequence that if expenditure incurred for securing the assessee against possible loss of his business stock and stores (that is, his stock-in-trade) is allowable, ex penditure should not be disallowed when it is incurred for the purpose of repelling an actual attack on the assessees stock-in-trade.
+RatioOfTheDecision	To hold otherwise would mean that while a trader would be entitled to deduct the cost of insuring his stock-in-trade against, e.g., loss by the fire, he would not be entitled to deduct the expenses of fighting a fire that has actually occurred and which threatened destruction of the stock-in-trade.
+RatioOfTheDecision	That conclusion seems to me to be so illogical that it should not be adopted even in construing a statute the provisions of which, as has frequently been observed, are not designed or intended to lead to logical conclusions.
+RatioOfTheDecision	The contention that the suit against the late <NAME> was instituted against him not because he was a money-lender but because he was a wealthy nobleman is not, in my opinion acceptable.
+RatioOfTheDecision	It was because the late <NAME> lent money to the <ORG> that an opportunity was afforded to the plaintiffs to allege that the advance of 10 lacs of rupees actually made was  only a part performance of a contract the scope of which was very much wider.
+RatioOfTheDecision	It was the relationship of money-lender and borrower which provided a foundation on which the allegations against the late <NAME> were based and the main purpose of the suit was to obtain damages for the breach of an alleged money-lending transaction.
+RatioOfTheDecision	Taking all the circumstances into consideration I would therefore hold that the deduction claimed falls within Section 10 , sub-section (2), clause (ix) of the Act and would answer the reference accordingly.
+Fact	The assessee is entitled to his costs and to the refund of the one hundred rupees deposited for the reference.
+Fact	Hearing fee 10 (ten) gold mohurs.
+Argument	<NAME>, <NAME> - I agree with the view taken by my learned brother.
+Argument	The late <NAME>dhiraj brought a suit for recovery of 10 lacs of rupees advanced to the <ORG>, a decree was obtained in 1927, and the assessee was allowed to deduct the expenses incurred in this suit as expenses incurred in his money-lending business.
+Argument	If spending money to  recover this ten lacs is treated as not being in the nature of capital expenditure, and incurred solely for the purpose of earning the profits or gains of the money-lending business, then I cannot see why money spent in defending a false claim arising out of the same transaction is not to be treated upon the same basis.
+Argument	Both suits were bases upon the same transaction, namely, the advancing of the ten lacs, though no doubt very different versions of that transaction were given by the plaintiffs in each of the suits the version of the plaintiffs in the suit against the <NAME> being almost completely false.
+RatioOfTheDecision	That version might have been an almost completely false version of what took place but it cannot be denied that it was built up upon the transaction in which the loan of ten lacs was made.
+RatioOfTheDecision	If the <NAME> was to show a profit upon this transaction, it was not only necessary for him to sue for recovery, but also to defend any false claims which might have been based on the transaction.
+RatioOfTheDecision	Defence of such suits  must be regarded, in my view, as a necessary though unpleasant part of the business of money-lending.
+RatioOfTheDecision	I am satisfied that the suit was primarily against the <NAME> in his capacity as moneylender and not merely as a rich nobleman, and it was based primarily too upon breach of contract by the money-lender.
+RatioOfTheDecision	The instances put before the Commissioner do show that the <NAME> was in the habit of running business, to which he has advanced money.
+RatioOfTheDecision	If it seemed to be the best way of protecting his invested interest he might well therefore have entered into a transaction of the kind alleged in the plaint, either to safeguard his ten lacs, on his prior interest as a shareholder.
+RatioOfTheDecision	The expenditure in defending the suit was not capital expenditure any more that the advancing of the ten lacs or spending money in suing to recover that loan was capital expenditure, for only floating capital and not fixed capital was involved.
+RatioOfTheDecision	In the case of a money-lender the money used in loan transactions forms his stock-in-trade, and th e advancement of a loan, though in one sense a temporary disbursement of capital, is not capital expenditure.
+RatioOfTheDecision	The distinction can be clearly illustrated by an example.
+RatioOfTheDecision	If a firm of ship carriers buys a ship to add to its fleet, that is capital expenditure; but if a firm, whose business is the buying and selling of ships for profit, buy a ship, that is not capital expenditure, but normal trading.
+RatioOfTheDecision	In the one case the ship represents stock-in-trade, in the other it does not.
+RatioOfTheDecision	Similarly, owning to the peculiar nature of the money-lenders business his money itself becomes his stock-in-trade.
+Precedent	Having regard to this principle the ruling in In re <ORG>, (3 I.T.R.
+Precedent	324; I.L.R.
+Precedent	16 Lah.
+Precedent	479) is easily distinguishable.
+RatioOfTheDecision	In that case expenses incurred in defending a suit were disallowed as capital expenditure, but it was a suit, the success of which would have involved not merely trading loss, but would have put an end to the entire business, and the very existence of the company was affected.
+RatioOfTheDecision	Another  ruling, <ORG> (5 Tax Cas.
+RatioOfTheDecision	215; 1906 Appeal Cases 448) relied on by the learned Advocate for the Income Tax authorities is really in my opinion in favour of the assessee in so far as it does lay down a principle.
+RatioOfTheDecision	The principle laid down was, with some hesitation, held not applicable to that particular case, where an inn-keeper had incurred expenses in defending a suit brought by a guest who had been injured by a defective chimney in the premises, as the loss was found to have been incurred not as an inn-keeper but as a house-holder, and the implication was that had the loss been held to have arisen out of the business of inn-keeping, the expenditure would have been deductible.
+RatioOfTheDecision	It was observed as an illustration that losses sustained by <ORG> in compensating passengers for injuries received as the result of an accident in travelling might be deducted.
+RatioOfTheDecision	It seems to me that there is little distinction between expenses incurred by <ORG> in defending such a suit for comp ensation, based as it would be upon the implied contract for safe carriage, and the expenses incurred by a money-lender in defending a false claim based upon one of his money-lending contract.
+RatioOfTheDecision	In my opinion the deduction claimed clearly falls within Section 10 , sub-section (2), clause (ix), of the Indian Income-tax Act .
+RulingByPresentCourt	Reference answered accordingly.

@@ -1,0 +1,105 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an application on behalf of the plaintiffs in the Suit No.
+Fact	820 of 1920 to have filed of record in this suit a certain award dated the 1st day of August 1921.
+Fact	2.
+Fact	There are three defendants who are sued by name as carrying on a certain kind of business at No.
+Fact	27, Darpanarain Tagore Street in Calcutta.
+Fact	3.
+Fact	The applicants' case is that there was an informal agreement of reference t6 arbitration of all the disputes in this suit made between the parties in or about Jane 1921.
+Fact	He says also that the arbitrators have made their award, which would appear to be dated 1st August 1921.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The original drafting of the notice of motion would lead one to suppose that the provisions of Order XXII, Rule 3 of the Civil Procedure Code were not in the mind of the draftsman.
+RatioOfTheDecision	However that may be, learned Counsel for the applicant rests his case entirely upon Order XXIII, Rule 3.
+RatioOfTheDecision	He asks me to record the award as being an adjustment by lawful agreement or compromise within the meaning of that rule.
+Precedent	Now, I have already decided in the case reported as <ORG> v. <ORG> 61 Ind.
+Precedent	Cas.
+Precedent	919 : 25 C.W.N.
+Precedent	127, that in such a case the award cannot be enforced under Order XXIII, Rule 3, and I purpose in this case to follow that decision, among other reasons, for the reason that I believe it to be right.
+Precedent	In that cess I expressed the opinion that the decision of <ORG>, in <CITATION_935274> 37 Ind.
+Precedent	Cas.
+Precedent	140 : 40 B.
+Precedent	386 : 18 Bom L.R.
+Precedent	659 was correct in so far as he construed the Code and in particular Section 89 of the Code, as preventing any attempt to admit any informal arbitrations or awards under the provisions of Order XXIII, Rule 3.
+Precedent	5.
+Precedent	In the case sited, however, the learned Judge tame to a further conclusion, namely, that the rules under the Second Schedule (rr.
+Precedent	20 and 21) of the Code, could be applied in such a case.
+Precedent	So far as that matter is concerned, I did not agree with that view at that time, and the learned Judge, now Chief Justice of Bombay, has in a recent case <CITAT ION_1367964> 59 Ind.
+Precedent	Cas.
+Precedent	685 45 B.
+Precedent	245 : 22 Bom.
+Precedent	L.R.
+Precedent	1048 some to the conclusion that these rules of the Second Schedule cannot be employed for that purpose.
+RatioOfTheDecision	6.
+RatioOfTheDecision	It appears fairly certain that they relate solely to a case where the reference to arbitration is not a reference in the course of a suit.
+RatioOfTheDecision	7.
+RulingByLowerCourt	Mr. <NAME> very properly relies on the authority of the case last mentioned, because in that case the <ORG> went bask upon the previous decision that Order XXIII Rule 3 could not in such a case as this be employed.
+RulingByLowerCourt	The <ORG> held the previous decision to the effect to be erroneous, holding that, on ordinary principles of the law of contract, the award was an adjustment and came within the meaning of Order XXIII, Rule 3.
+RulingByLowerCourt	It was considered further that, under that Order, either by directing an issue or otherwise, as might be neceesary, the validity of a disputed award might be gone into and the award enforced, if valid.
+RulingByLowerCourt	It was further held that this might be done, if necessary, in a separate suit.
+RulingByLowerCourt	I desire  to adhere to my opinion in <ORG> case 61 Ind.
+Precedent	Cas.
+Precedent	919 : 25 C.W.N.
+Precedent	127 and say that, in my judgment, the judgment of Mr. Justice <NAME> in <CITATION_1367964> 59 Ind.
+Precedent	Cas.
+Precedent	685 45 B.
+Precedent	245 : 22 Bom.
+Precedent	L.R.
+Precedent	1048 is in substance right.
+Precedent	Apart altogether from the terms of Section 89 of the Civil Procedure Code, with regard to which the Appeal <ORG>s in the Bombay case seems to have felt great difficulty, it is, I think, impossible to look at the scheme of the Code for dealing with arbitrations in the course of suits without seeing that the <ORG> intended to make sure that, as said by <ORG> in a case <CITATION_1398204> 29 C.167 at p. 182 : 6 C.W.N.
+Precedent	226 : 29 I.A.
+Precedent	51 : 12 M.L.J.
+Precedent	77 : 4 Bom.L.R, 161 : 8 Sar.
+Precedent	P.C.J.
+Precedent	154 : 25 P.R.
+Precedent	1902 (P.C.
+RatioOfTheDecision	)1 frequently referred to on this subject, "where parties to a litigation desire to refer to arbitration any matter in difference between them in a suit, in that case all proceedings from first to last are under the supervision of the <ORG>."
+RatioOfTheDecision	It is quite  true this was said of what is now the Second Schedule.
+RatioOfTheDecision	But it is difficult to see what point there is in the Second Schedule saying or meaning that arbitration mast be done in a particular way if, according to some other law or principle, it may still be done in another way.
+RatioOfTheDecision	In any Base the logical gap, if there be any, is stopped up by Section 89.
+RatioOfTheDecision	Without adverting any further to the terms of Section 89, I desire to point out that if a submission to arbitration of matters in difference in a suit is to take plate, there is no provision for it other than the provisions in the Second Schedule.
+RatioOfTheDecision	All parties interested must consent, and their consent must be evidenced in a certain way.
+RatioOfTheDecision	The <ORG> from She first is to limit the time within which the award is to be made, and it has certain powers of interference after the award is made.
+RatioOfTheDecision	It may in certain cases correct an award, or set aside an award.
+RatioOfTheDecision	It may set aside the proceedings before award in certain cases and recall the matter into <ORG>.
+RatioOfTheDecision	It may also remit the  matter to the arbitrators in certain cases.
+RatioOfTheDecision	That is the scheme of the Code applicable to cases where parties to a suit desire arbitration.
+RatioOfTheDecision	It is now-said that by virtue of Order XXIII, Rule 3, which does not specially deal with arbitrations or awards at all, it is open to the parties to put aside all these careful provisions and to have an award behind the back of the <ORG> and without the order of the <ORG>.
+RatioOfTheDecision	There may always be questions for litigation as to the validity of an award.
+RatioOfTheDecision	Under Order XXIII.
+RatioOfTheDecision	Rule 3, everything is at large at Common Law.
+RatioOfTheDecision	There is no power on the part of the <ORG> to prevent submission as between tome partie where all the parties interested are not agreed.
+RatioOfTheDecision	There is no power to prevent or control delay; no power to remit such an award; no power to correct such an award.
+RatioOfTheDecision	The only issue to be tried is, is it a valid award?
+RatioOfTheDecision	If valid, decree must follow; if not, the whole thing comes to an end and the suit mast proceed.
+RatioOfTheDecision	That never was the intension of the Civil Procedure Code; and indee d it ruins the whole scheme.
+RatioOfTheDecision	I do not rely merely on the words of Section 89.
+RatioOfTheDecision	It seems to me if the Code is looked into as a scheme for dealing with a difficult and highly important matter, viz,, arbitrations in the course of litigation--it intends these to be under the strict conditions and stipulations of the Second Schedule and under the supervision of the <ORG>.
+RatioOfTheDecision	The Indian Arbitration Act does not apply to arbitrations in the course of litigation.
+RatioOfTheDecision	There are decisions of this <ORG> in which arbitrators, acting under the Indian Arbitration Act without leave from the <ORG> after the matter has been put in suit, have been held to be doing that which is wrong and outside their power.
+RatioOfTheDecision	Apart from this general principle, which may be quite inapplicable and as a matter of interpretation of the Code, I cannot agree that a submission, neither under the Second Schedule nor under the Indian Arbitration Act , may be enforced in the suit under the general law of contract.
+RatioOfTheDecision	Even if an award comes fairly within the notion  of "adjustment by consent," it is a very special kind of adjustment by consent, and, if Section 89 requires this specks to comply with the Second Schedule, the general language of Order XXIII, Rule 3, is out down thereby as regards that species.
+RatioOfTheDecision	Informal and uncontrolled arbitrations between parties to a suit, leading up to litigation upon the bare issue as to whether there in fast a valid adjustment, are the very things from which the Second Schedule was meant to deliver litigants.
+RatioOfTheDecision	The contention of the applicant here is not one to which any Court can lightly commit itself, knowing, as every Court ought to infer, that the careful provisions of the Code in the Second Schedule are no mare than was thought absolutely necessary for the protection of ignorant litigants in many of the Courts in India.
+Precedent	My opinion is, although there was prior to 1908 some authority in Bombay to the contrary, that under the Code, arbitration in suits is a specific subject matter, and that where the Code means to deal with arbitration s and.
+Precedent	awards, it Bays so.
+Precedent	8.
+Precedent	On this I observe that Mr. Justice <NAME> in the case already cited says: <CITATION_1367964> 59 Ind.
+Precedent	Cas.
+Precedent	685 45 B.
+Precedent	245 : 22 Bom.
+Precedent	L.R.
+Precedent	1048.
+Precedent	"No doubt the words 'other law for the time being in force are inappropriate for covering a provision of the Code itself, such as Order XXIII, Rule 3.
+Precedent	But the <ORG> in enacting Section 89 probably had not that particular rule...in their mind, and had no intention of affecting it one way or the other."
+Precedent	9.
+Precedent	That seems to me to take a point which tells against; the applicability of Order XXIII, Rule 3.
+Precedent	I should put it that when the <ORG> in Section 89 says: "all references to arbitration, whether by order in suit or otherwise, and all proceedings thereunder," it probably had not in mind anything so remote in character as adjustments or settlements of suits.
+Precedent	In any case, it dealt with a specific subject matter in a specific way and other principles are only to be applied to other things.
+Precedent	10.
+Precedent	In my opinion this motion being brought  under Order XXLII, Rule 3, is bad.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Mr. <NAME> for the defendant has taken other points, firstly, the point that in this case only one of the three defendants signed the submission, and that; there are matters dealt; with by the award which do not arise in this suit.
+RatioOfTheDecision	There is a case also on the part of the defendant of misconduct against the arbitrators.
+RatioOfTheDecision	As regards none of these matters do I say anything.
+RulingByPresentCourt	I dismiss the application with costs.

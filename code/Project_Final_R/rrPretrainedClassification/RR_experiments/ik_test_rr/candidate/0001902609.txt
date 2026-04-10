@@ -1,0 +1,168 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This reference under Section 256(1) of the Income-tax Act, 1961, relates to the assessment year 1984-85.
+Fact	The facts are in a narrow compass.
+Fact	During the year of account ending on March 31, 1984, being the previous year relevant to the assessment year 1984-85, the assessee collected an aggregate sum of Rs.
+Fact	5,03,310 as and by way of <ORG> sales tax.
+Fact	During the said year of account, the assessee paid in the aggregate <ORG> sales tax of Rs.
+Fact	4,02,136 leaving a balance of Rs.
+Fact	1,01,174 which was taken to the balance-sheet.
+Fact	The Income-tax Officer, invoking the provisions of Section 43B of the Income-tax Act, 1961, added the said sum of Rs.
+Fact	1,01,174 to the income returned by the assessee.
+Fact	On his part, the Commissioner of Income-tax (Appeals) declined to interfere in the matter.
+Fact	Thereupon, the assessee moved the <ORG>.
+Fact	The <ORG> was of the view that if the assessee is allowed time under the statute governing payment of sales tax and such payment is made within the period so pre scribed even though after the close of the accounting year, this payment cannot come within the purview of Section 43B of the Act.
+Fact	The assessee claimed before the <ORG> that the amount of Rs.
+Fact	1,01,174 was paid before the statutory dates which fell outside the accounting year.
+Fact	Since the claim required examination by the Income-tax Officer, the <ORG> remanded the matter to the Income-tax Officer to find out whether the impugned amount was or was not statutorily payable before the end of the accounting year on March 31, 1984, and to allow the relief accordingly.
+Argument	2.
+Argument	On these facts, the following question has been referred to this court:  "Whether, on the facts and in the circumstances of the case, the <ORG> is justified in law in directing the Income-tax Officer not to make addition of Rs.
+Argument	1,01,174 under Section 43B of the Income-tax Act, 1961, as unpaid Central sales tax if the same was not statutorily payable before the end of the accounting year ?"
+Argument	3.
+RatioOfTheDecision	Before us, the contentions as urged before the T ribunal have been reiterated by the <ORG>.
+RatioOfTheDecision	4.
+RatioOfTheDecision	None appeared for the assessee.
+RatioOfTheDecision	Mr. <NAME> and Mr. <NAME>, Advocates, ably assisted the court.
+RatioOfTheDecision	We record our appreciation of such assistance.
+RatioOfTheDecision	5.
+RatioOfTheDecision	To appreciate the contentions, it is necessary to consider the relevant provisions and the objects and intention behind the introduction of the provisions.
+RatioOfTheDecision	6.
+Statute	By the Finance Act , 1983, Section 43B of the Income-tax Act, 1961, was inserted and the provisions came into force with effect from April 1, 1984.
+Statute	The relevant provision as it stood before the amendment is extracted below:  "43B.
+Statute	Certain deductions to be only on actual payment.--Notwithstanding anything contained in any other provision of this Act, a deduction otherwise allowable under this Act in respect of-  (a) any sum payable by the assessee by way of tax or duty under any law for the time being in force, or  (b) any sum payable by the assessee as an employer by way of contribution to any provident fund or superannuation fund or gratuity fund or a ny other fund for the welfare of employees, shall be allowed (irrespective of the previous year in which the liability to pay such sum was incurred by the assessee according to the method of accounting regularly employed by him) only in computing the income referred to in Section 28 of that previous year in which such sum is actually paid by him.
+Statute	Explanation.--For the removal of doubts, it is hereby declared that, where a deduction in respect of any sum referred to in Clause (a) or Clause (b) of this section is allowed in computing the income referred to in Section 28 of the previous year (being a previous year relevant to the assessment year commencing on the 1st day of April, 1983, or any earlier assessment year) in which the liability to pay such sum was incurred by the assessee, the assessee shall not be entitled to any deduction under this section in respect of such sum in computing the income of the previous year in which the sum is actually paid by him."
+Argument	7.
+Argument	In the Budget Speech of 1983-84, the Financ e Minister had stated as follows (at p. 31 of 140 ITR (St.)) :  "Several cases have come to notice where taxpayers do not discharge their statutory liability such as in respect of excise duty, employer's contribution to provident fund, Employees' State Insurance Scheme, etc., for long periods of time.
+RatioOfTheDecision	For the purpose of their income-tax assessments, they none the less claim the liability as deduction even as they take resort to legal action, thus depriving the <ORG> of its dues while enjoying the benefit of non-payment.
+RatioOfTheDecision	To curb such practices, I propose to provide that irrespective of the method of accounting followed by the taxpayer, a statutory liability will be allowed as a deduction in computing the taxable profits only in the year and to the extent it is actually paid."
+RatioOfTheDecision	8.
+RatioOfTheDecision	Under Section 145 of the Income-tax Act, profits and gains of business or profession are computed in accordance with the method of accounting regularly employed by the assessee.
+RatioOfTheDecision	Broadly stated, under the mercantile system of acco unting, income and expenditure are accounted for on the basis of accrual and not on the basis of actual receipts or disbursements.
+RatioOfTheDecision	For the purposes of computation of profits and gains of business or profession, Section 43(2) of the Income-tax Act defines the word "paid" to mean "actually paid or incurred" according to the method of accounting on the basis of which the profits or gains are computed.
+RatioOfTheDecision	9.
+RatioOfTheDecision	There are cases where taxpayers do not discharge their statutory liability such as in respect of excise duty, employer's contribution to provident fund, Employees' State Insurance Scheme, etc., for long periods of time, extending sometimes to several years.
+RatioOfTheDecision	For the purpose of their income-tax assessments, they claim the liability as deduction on the ground that they maintain accounts on mercantile or accrual basis.
+RatioOfTheDecision	On the other hand, they dispute the liability and do not discharge the same.
+RatioOfTheDecision	For some reason or the other, undisputed liabilities also are not paid.
+Statute	To curb this practice, the Finance Act , 1983, ins erted Section 43B to provide that the deduction for any sum payable by the assessee by way of tax or duty under any law for the time being in force (irrespective of whether such tax or duty is disputed or not) or any sum payable by the assessee as an employer by way of contribution to any provident fund or superannuation fund or gratuity fund or any other fund for the welfare of employees shall, irrespective of the previous year in which the liability to pay such sum was incurred, be allowed only in computing the income of that previous year in which such sum is actually paid by him.
+Statute	10.
+Statute	The Explanation to the section provides that an assessee who had already been allowed a deduction of a liability on account of tax or duty, etc., for the assessment year 1983-84 or any earlier year in which the liability to pay was incurred cannot, in respect of that liability, be allowed as deduction in the assessment year 1984-85 or any subsequent year on the ground that he has actually made a payment towards such liabilit y in that year.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The object of Section 43B is, therefore, to discourage those taxpayers who do not discharge their statutory liabilities even though they claim and obtain those liabilities as deduction on the ground that they maintain accounts on mercantile or accrual basis.
+RatioOfTheDecision	Section 43B was intended to apply to cases where the statutory liability remained undischarged though the assessee in such a case was entitled to claim deduction on the ground that he maintains his accounts on mercantile or accrual basis.
+RatioOfTheDecision	12.
+RatioOfTheDecision	But the question still remains as to whether the provision in Section 43B is applicable to a case where the statutory liability has been discharged by the assessee within the period prescribed under the law even though such payment is made after the close of the relevant previous year.
+RatioOfTheDecision	In other words, the question is whether tax or duty if paid by the assessee in terms of the statute imposing obligation to pay such tax or duty, even though such payment is made in the next succeeding previous yea r, the assessee is entitled to deduction of such liability for the assessment year relevant to the previous year in which such liability was incurred.
+RatioOfTheDecision	We are concerned with the Central sales tax law.
+RatioOfTheDecision	The provisions of the sales tax law of the State will apply mutatis mutandis in relation to filing of returns and provisional assessment, advance payment of tax, etc., under the Central sales tax law.
+RatioOfTheDecision	13.
+Statute	We may, therefore, consider the provisions of the Bengal Finance (Sales Tax) Act, 1941.
+Statute	Section 4 , sub-section (2) of the said Act states that every dealer to whom sub-section (1) does not apply (with which we are not concerned in this case), shall, if his gross turnover calculated from the commencement of any year exceeds the taxable quantum at any time within such year, be liable to pay tax under the Act on the expiry of two months from the date on which such gross turnover first exceeds the taxable quantum, on all sales effected after such expiry.
+Statute	Section 5(2) defines what is meant by taxable turnover.
+Statute	Sect ion 7(1) enjoins that no dealer shall, while being liable to pay tax (under Section 4 of the said Act), carry on business as a dealer unless he has been registered and possesses a registration certificate.
+Statute	14.
+Statute	Rule 21 of the Bengal Sales Tax Rules, 1941, provides that every registered dealer other than those referred to in rule 17 shall furnish returns quarterly within 30 days from the expiry of each quarter.
+Statute	Rule 36 of the said Rules provides that every dealer for whom quarterly returns have been prescribed shall pay the tax and surcharge due and additional surcharge, if any, due for any quarter before furnishing the return for that quarter.
+RatioOfTheDecision	15.
+RatioOfTheDecision	These provisions make it clear that a dealer has a statutory duty to file the return within the prescribed time.
+RatioOfTheDecision	Along with the return he has also to pay the tax due on the basis of such return.
+RatioOfTheDecision	But, under the aforesaid rules, a return can be filed within 30 days from the expiry of each quarter and the tax due on such return has to be paid before furnishing such re turns.
+RatioOfTheDecision	In other words, time to pay the tax due for any quarter stands extended by 30 days from the expiry of each quarter.
+RatioOfTheDecision	It is only after the close of the quarter for which the return is due that a dealer will be in a position to compute or calculate the tax payable on the basis of the return to be furnished and deposit the said amount in the treasury before furnishing the return.
+RatioOfTheDecision	No return will be accepted or treated as valid unless the return is accompanied by the receipt showing payment in respect of the dues shown in the return.
+RatioOfTheDecision	The tax dues for the quarter cannot be ascertained before the close of the quarter for which the return is made and, accordingly, the rules allow 30 days' time to a dealer who files quarterly returns to furnish along with the return the receipt from the treasury or from the bank showing payment of such dues.
+RatioOfTheDecision	Therefore, if the period of quarterly return ends on 31st March of a year, a dealer will, as a matter of course, get 30 days' time from the expiry of that date to make payme nt of the tax due and submit the return along with the receipt showing the payment of such tax computed in accordance with the return.
+RatioOfTheDecision	In such a case, a dealer, by filing the return and making the payment, complies with the obligation imposed by the statute under the sales tax laws.
+RatioOfTheDecision	It is true that the date of payment of tax for the last quarter in some cases may fall beyond the last day of the previous year maintained by the assessee.
+RatioOfTheDecision	When an assessee, in complying with any statutory obligation, actually pays the tax within the period prescribed by statute, he cannot be denied the benefit of deduction of such tax, although it may have been paid after the close of the accounting year in which such liability arose.
+RatioOfTheDecision	The object of Section 43B is not to penalise an assessee who does not merely show the tax dues as a liability but actually pays the tax within the time prescribed by the statute.
+RatioOfTheDecision	The object is to collect <ORG> by compelling the assessee to discharge the liability by making actual pa yment and to get the benefit of deduction.
+RatioOfTheDecision	In other words, the object behind the provision is to provide for a tax disincentive by denying deduction in respect of a statutory liability which is not discharged by actual payment in time.
+RatioOfTheDecision	If the construction which is suggested by the <ORG> is accepted, in that event, although the assessee has incurred the liability and th'e time to make payment of such liability has not yet expired, the assessee will be disentitled to the benefit of deduction, although he discharges the liability within the time allowed by the relevant statute.
+RatioOfTheDecision	Although the liability may have been incurred during the relevant previous year, it may not be possible to quantify such liability until the expiry of the previous year where the last day of the quarter coincides with the last day of the previous year.
+RatioOfTheDecision	A dealer can calculate the exact liability only after the expiry of the particular quarter and, thereafter, he is to file the return along with the receipted challan showing payment in te rms of the return.
+RatioOfTheDecision	This is precisely the reason why the Finance Act , 1983, made certain significant amendments.
+Statute	Our attention has been drawn to the amendments which have been made in Section 43B which, according to the <ORG>, would show that the intention of the <ORG> was not to permit any deduction of any liability incurred during the previous year, unless such liability is discharged within the relevant previous year.
+Statute	16.
+Statute	The Finance Act , 1987, has introduced the following provisos :  "Provided that nothing contained in this section shall apply in relation to any sum referred to in Clause (a) which is actually paid by the assessee on or before the due date applicable in his case for furnishing the return of income under Sub-section (1) of Section 139 in respect of the previous year in which the liability to pay such sum was incurred as aforesaid and the evidence of such payment is furnished by the assessee along with such return.
+Statute	Provided further that no deduction shall, in respect of any sum re ferred to in Clause (b), be allowed unless such sum has actually been paid during the previous year on or before the due date as defined in the Explanation below Clause (va) of Sub-section (1) of Section 36 ."
+Statute	17.
+Statute	The first proviso enables an assessee to claim deduction on account of payment of tax if he has actually paid it on or before the due date applicable to his case for furnishing the return of income in respect of the previous year in which the liability to pay such sum was incurred.
+RatioOfTheDecision	18.
+RatioOfTheDecision	The second proviso enables an assessee to claim deduction on account of provident fund, etc., if he has paid the same during the currency of the accounting year on or before the due date as defined, in the Explanation below Clause (va) of Sub-section (1) of Section 36 .
+RatioOfTheDecision	19.
+RatioOfTheDecision	Both the provisos have been amended by the Finance Act , 1989.
+RatioOfTheDecision	The amendments to the first proviso are not material.
+RatioOfTheDecision	In the second proviso, the words "during the previous year" have been deleted.
+RatioOfTheDecision	The second proviso enables an assessee to claim d eduction on account of contribution to be made by him to provident funds, etc., in a particular accounting year if it is paid by him on or before the due date as defined in the Explanation below Clause (va) of Sub-section (1) of Section 36 .
+Statute	The object of deleting the words "during the previous year" was clarified in the memorandum to the Finance Bill, 1989, which reads as follows (see  176 ITR (St.) 124):  "Under the existing provisions of Section 43B of the income-tax Act, it is also provided that any sum payable by the assessee as an employer by way of contribution to the provident fund or superannuation fund, etc., is not allowable as a deduction unless the same is paid 'during the previous year on or before the due date'.
+Statute	The payment in respect of the last month of a previous year shall have to be made by the due date and cannot, possibly be made in the previous year itself.
+Statute	It is, therefore, proposed that the words 'during the previous year' occurring in the second proviso to Section 43B be deleted."
+RatioOfTheDecision	2 0.
+Statute	The Memorandum explaining the provisions in the Finance Bill, 1989, clarified the object of insertion of the first proviso (see [1989] 176 ITR (St.) 123) :  "Under the existing provisions of Section 43B of the Income-tax Act, a deduction for any sum payable by way of tax, duty, cess or fee, etc.
+Statute	is allowed on actual payment basis only.
+Statute	The objective behind these provisions is to provide for a tax disincentive by denying deduction in respect of a statutory liability which is not paid in time.
+Statute	The Finance Act , 1987, inserted a proviso to Section 43B to provide that any sum payable by way of tax or duty, etc., liability for which was incurred in the previous year will be allowed as a deduction, if it is actually paid by the due date of furnishing the return under Section 139(1) of the Income-tax Act, in respect of the assessment year to which the aforesaid previous year relates.
+Statute	This proviso was introduced to remove the hardship caused to certain taxpayers who had represented that since the sales tax for th e last quarter cannot be paid within that previous year, the original provisions of Section 43B will unnecessarily involve disallowance of the payment for the last quarter."
+Statute	21.
+Statute	The original Section 43B , as it stood on April 1, 1984, could not be literally applied to a case where the last day of the last quarter under the sales tax statute coincides with the last day of the previous year.
+RatioOfTheDecision	If the Quarterly return period for the last quarter ends on March 31, 1984, as is the case here, a dealer could only pay the tax for the said quarter earliest on April 1, 1984, which falls in the subsequent previous year.
+RatioOfTheDecision	It was, therefore, impossible for an assessee to comply with the provisions of Section 43B as they stood originally.
+RatioOfTheDecision	A dealer in such a case would be denied the benefit of deduction, although he has done all that he could have done.
+RatioOfTheDecision	This provision was harsh and clearly unjust and unworkable.
+RatioOfTheDecision	This is precisely the reason why the amendments were inserted in Section 43B .
+RatioOfTheDecision	The amendments were intended to make  the provisions workable.
+Statute	If an assessee has paid the sales tax, etc., on or before the due date applicable in his case for furnishing the return of income, he shall be entitled to claim deduction of that amount and with regard to provident fund, family pension, etc., the assessee shall be entitled to claim deduction if the same has been paid on or before the due date.
+RatioOfTheDecision	22.
+RatioOfTheDecision	But, then it is contended by the <ORG> that the proviso to - section 43B was introduced by the Finance Act , 1987, with effect from April 1, 1988, which will be applicable only, from the assessment year 1988-89.
+RatioOfTheDecision	In other words, the benefit of the proviso introduced from April 1, 1988, would not be available to the taxpayer in respect of the assessment years 1984-85 to 1987-88.
+RatioOfTheDecision	The question, therefore, is whether the object of the amendments made to Section 43B -would apply prospectively from the assessment year 1988-89 or from the assessment year 1984-85.
+RatioOfTheDecision	If the provisions are not harmoniously construed, in that event, in our view, for t he assessment years 1984-85 to 1987-88, the assessee would be denied the benefit of deduction, even if the liability incurred during the relevant previous year has been discharged before the filing of the return relating to that previous year.
+RatioOfTheDecision	23.
+Statute	Our attention has also been drawn to Explanation 2 to Section 43B , inserted by the Finance Act , 1989, with retrospective effect from April 1, 1984, which is to the following effect:  "Explanation 2.--For the purposes of Clause (a) as in force at all material times, 'any sum payable' means a sum for which the assessee incurred liability in the previous year even though such sum might not have been payable within that year under the relevant law."
+Statute	24.
+Statute	The Memorandum explaining the provisions of the Finance Bill, 1989, put forward the following reasons for insertion of the said Explanation (see [1989] 176 ITR (St.) 123) :  "Certain courts have interpreted the provisions of Section 43B in a manner which may negate the very operation of this section.
+RatioOfTheDecision	The interpretati on given by these courts revolves around the use of the words 'any sum payable'.
+RatioOfTheDecision	The interpretation given to these words is that the amount payable in a particular year should also be statutorily payable under the relevant statute in the same year.
+RatioOfTheDecision	Thus, the sales tax in respect of sales made in the last quarter was held to be totally outside the purview of Section 43B since the same is not statutorily payable in the financial year to which it relates.
+RatioOfTheDecision	This is against the legislative intent and it is, therefore, proposed by way of a clarificatory amendment and for removal of doubts, that the words 'any sum payable' be defined to mean any sum, liability for which has been incurred by the taxpayer during the previous year irrespective of the date by which such sum is statutorily payable".
+RatioOfTheDecision	25.
+RatioOfTheDecision	This Explanation is, therefore, intended to clarify the legislative intent by providing that the words "any sum payable" mean any sum the liability for which has been incurred by the taxpayer during the previous year, irr espective of the date by which such sum is statutorily payable.
+RatioOfTheDecision	Having regard to the intent and purport of the provisions of Section 43B and the amendments made from time to time, which we have already indicated, this Explanation must be held to be only clarificatory in nature and will be effective retrospectively.
+RatioOfTheDecision	Even if "any sum payable" means a sum for which the assessee incurred liability in the previous year, so long as such sum is paid before the return is filed, the benefit of deduction cannot be denied to the assessee.
+RatioOfTheDecision	When the section as a whole is read, the amendments by way of provisos and Explanations are considered, when both textual and contextual interpretations are taken into account and a harmonious construction is made, it would be evident that the intention was that the assessee who collects sales tax, etc., during the previous year and pays or deposits the tax pertaining to the last quarter in the early part of the next succeeding previous year and, in any event, before the filing of the  return for the previous year, it would be treated as sufficient compliance with the provisions of Section 43B .
+RatioOfTheDecision	Any other interpretation would mean that the assessee would be denied deduction of such taxes in the subsequent assessment year only because the liability in respect of that tax did not arise in that year, but in an earlier year and thereby the assessee would be denied deduction of the taxes paid relating to the last quarter which could only have been paid in the next subsequent previous year.
+RatioOfTheDecision	This could never be the intention of the <ORG>.
+RatioOfTheDecision	26.
+RatioOfTheDecision	It has also been contended that no statute shall be construed to have restrospective operation unless such a construction appears very clearly at the time of passing of the Act or arises by necessary and distinct implication.
+RatioOfTheDecision	There is nothing mentioned in the proviso that it would be retpospec-tive.
+RatioOfTheDecision	On the other hand, the <ORG> had taken care to see that it applies only from April 1, 1988.
+RatioOfTheDecision	Against the very specific mention of the date of its oper ation, it was difficult to say that it was intended to apply restrospec-tively either, by construction or by necessary implication, There was no material to say that the proviso is declaratory.
+RatioOfTheDecision	27.
+RatioOfTheDecision	It is no doubt true that, ordinarily, a statute, and particularly when the same has been made applicable with effect from a particular date, should be construed prospectively and not retrospectively.
+RatioOfTheDecision	But this principle will not be applicable in a case where the provision construed is merely explanatory, clarificatory or declaratory.
+RatioOfTheDecision	It cannot be disputed that the proviso may be used to act as an operational addendum to the enactment with the sole object of explaining the real intendment of the statutory provision.
+RatioOfTheDecision	Similarly, the object of the Explanation is to explain the meaning and intendment of the Act itself.
+RatioOfTheDecision	In the present case, having regard to the object of Section 43B , it must be held that the provisos and the Explanation have been added as and by way of interpretation clause.
+RatioOfTheDecision	The object, as we have said,  is to suppress the mischief of getting deduction of liability without discharging such liability and not for the purpose of denying relief to an assessee who discharges the liability incurred.
+RatioOfTheDecision	The provisos and the Explanation added to Section 43B supplied an omission and were intended to remove an impossibility of performance and, therefore, cannot be said to be prospective in operation.
+Precedent	If Section 43B is interpreted as it originally stood in the manner in which the <ORG> sought to urge that deduction could be claimed only upon actual payment of sales tax, etc., during the previous year, it would require the assessee to do an impossible act because the assessee could not have paid its tax liability in the previous year ending on March 31, 1984, in March, 1984, itself in respect of a quarter ending on the last date of the previous year.
+Precedent	Inconsistency, if any, can be avoided by holding that although the provisos have been introduced subsequent to the assessment year 1984-85, they would relate back to the tim e when the original provision was inserted.
+Precedent	In other words, in our view, upon a textual interpretation of the provisos and the Explanation, it must be held that the benefit of deduction will be allowed so long as the assessee makes the payment of the tax which could not have been paid in the previous year even if the assessee intended to pay because of the statutory requirement governing such payment.
+Precedent	However, the assessee will be entitled to the benefit of such deduction if the liability is discharged before filing the return which would advance the object, purport and intention of Section 43B as amended.
+Precedent	The benefit of deduction in such cases should not be confined only to the assessment year 1984-85, but should be extended to the subsequent assessment years also.
+Precedent	In this case, the liability was required to be discharged or could only have been discharged by the assessee after the expiry of the accounting year within 30 days from the end of the accounting year and, accordingly, this amount for the particula r quarter was not actually payable within the accounting year under the relevant law.
+Precedent	28.
+Precedent	Our attention has been drawn to the decision of <ORG> in <CITATION_1438436> .
+Precedent	This decision has laid down that the obligation to pay sales tax arises as soon as the sale is effected.
+RatioOfTheDecision	Here, we are concerned with the effective date of discharge of such liability in the light of Section 43B .
+RatioOfTheDecision	The said decision has no relevance to the facts of this case.
+RatioOfTheDecision	The questions on the facts and in the circumstances of this case as to whether the liability for sales tax accrued within the previous year and whether the assessee discharged such liability by actual payment within the period prescribed under the relevant statute were not gone into by the Income-tax Officer in this case.
+RulingByPresentCourt	We are, therefore, of the view that the <ORG> was right in holding that, in a case like this, where the statutory liability is actually discharged after the expiry of the previous year in compliance with the relevant statute, the benefit of  deduction cannot be denied to the assessee.
+RulingByPresentCourt	The <ORG>, however, shall direct the Assessing Officer to dispose of the matter in the light of the observations contained in this judgment after ascertaining the factual position.
+RulingByPresentCourt	29.
+RulingByPresentCourt	Subject to the aforesaid, we answer the question in this reference in the affirmative and in favour of the assessee.
+RulingByPresentCourt	30.
+RulingByPresentCourt	There will be no order as to costs.
+RulingByPresentCourt	<NAME>, J  31.
+RulingByPresentCourt	I agree.

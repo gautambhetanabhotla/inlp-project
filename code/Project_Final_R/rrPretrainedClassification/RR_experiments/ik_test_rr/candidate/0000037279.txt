@@ -1,0 +1,123 @@
+Fact	JUDGMENT <NAME>, J.
+RatioOfTheDecision	1.
+Fact	This appeal arises out of a mortgagee s suit for sale.
+Fact	The mortgage document (Ex.
+Fact	A) which was executed by the first defendant on 25th September, 1915, comprised properties which it appears from several statements on record stood in the first defendant's name, but as the title deeds themselves have not been produced it is not possible to make a mere positive statement on the point.
+Fact	At the time of the mortgage, the first defendant was undoubtedly a member of a joint family which consisted of a large number of male members and his <NAME> <NAME> was also alive.
+Fact	The evidence establishes that the family was a trading family and was carrying on cloth trade; for convenience, they were having two shops which may be referred to as <ORG> and <ORG>.
+Fact	In their dealings with outsiders, the family seem to have found it convenient, whether it be for bookkeeping purposes or for other purposes as well, to keep two sets of accounts, one for <ORG> and another for S hop No.
+RatioOfTheDecision	172 though there was some amount of mixture even in respect of the transactions relating to one shop and the other.
+RatioOfTheDecision	The plaintiff is clearly proved to have been supplying goods to and to have had dealings with both these shops for a long period.
+RatioOfTheDecision	It is also stated that he was related to the family and presumably he was well acquainted with its position and affairs.
+RatioOfTheDecision	2.
+Fact	The main contesting defendants are persons who have purchased the interest of the second and third defendants in certain items of property in Court-sale and in the interests of the fourth defendant in a sale by the Official Receiver in the insolvency of the fourth defendant.
+Fact	These purchases took place in the years 1926, 1927 and 1929, and the insolvency proceedings began in 1923.
+Fact	It is clear that between 1915 and the date of the suit no member of the family ever questioned either the binding character of this debt or the binding character of the mortgage; on the other hand, we have the fact that in a partition suit instituted by the thir d defendant against the other members of the family in 1916 the properties comprised by the suit mortgage were not brought into the partition suit at all by any of the parties thereto nor was any suggestion made that this mortgage was not binding on the family.
+Fact	In the insolvency petition filed by the fourth defendant, he included the suit debt as one of the debts for which he was liable, and referred to the existence of the mortgage securing repayment of the same.
+Fact	Neither the Official Receiver nor any of the creditors of the fourth defendant took any steps to impeach the suit mortgage.
+Fact	On the other hand, the Official Receiver sold the property subject to the suit mortgage and when certain of the creditors attempted to have that sale set aside as having been held at an undervalue the Official Receiver as well as the present 13th and 14th defendants justified the sale on the ground-that as the properties were sold subject to mortgages including the suit mortgage the price fetched at the sale was a fair value.
+RatioOfTheDecision	I t is true that the mere fact of the sale having been held subject to the mortgage would not preclude purchasers from questioning the truth or the validity of the mortgage.
+Fact	<NAME> v. <NAME> (1909) 19 M.L.J.
+Fact	682 : L.R.
+Fact	36 I.A.
+Fact	203 : I.L.R.
+Fact	31 All.
+Fact	583 (P.C.).
+RatioOfTheDecision	But the conduct of the parties can certainly be taken into account in dealing with the question of fact and drawing inference as to the truth and validity of the mortgage.
+Argument	3.
+Argument	A suggestion was made in the written statements of the alienee-defendants in this case, that the suit mortgage was a sham transaction not supported by consideration but brought into existence in favour of a near relative of the family merely for the purpose of screening some property from the creditors of the family.
+Argument	In the argument before us, reliance was placed in this connection upon the admission of <ORG> that the title deed was not examined before the mortgage was taken nor did the plaintiff make any adequate enquiries.
+Argument	It was also pointed out that the suit h ad been instituted after considerable delay almost when the period of limitation was about to expire.
+RatioOfTheDecision	These circumstances are explained, by the very relationship that the parties bore to each other.
+RatioOfTheDecision	If the plaintiff was related to the family of the mortgagor defendants and had known their affairs there was nothing particular for him to enquire about.
+RatioOfTheDecision	Similarly when nobody ever disputed his mortgage but on the other hand it was not called in question either in the partition suit or in the insolvency proceedings, it is nothing strange that in view of his relationship to the family the plaintiff did not think it necessary to sue unless and until it became inevitable.
+RatioOfTheDecision	The real question therefore is whether there is sufficient proof on record as to the existence of the debt the payment of which was secured by this mortgage.
+RatioOfTheDecision	The learned Subordinate Judge has discussed the evidence on this point very fully; a large mass of correspondence has been filed showing the dealings between the parties; the plaintiff also fil ed his accounts in Court showing how the amount of the suit bond was arrived at.
+RatioOfTheDecision	No attempt has been made by the contesting defendants to show that the evidence thus prima facie furnished is open to suspicion.
+RatioOfTheDecision	4.
+RatioOfTheDecision	It has been pressed upon us that the plaintiff did not call any of the members of the mortgagor's family to give evidence on his side.
+RatioOfTheDecision	Assuming for the sake of argument that all the members of the mortgagor's family are sympathising with the plaintiff, there is nothing whatever to show that the Official Receiver if he had been summoned on the defendant's side would not have produced the accounts of the business or would not have given useful information bearing on the question of the truth of the debt and he would have been in the best position to explain why neither he nor any of the other creditors in the insolvency of the fourth defendant thought fit to impeach the suit mortgage but on the other hand to sell the properties subject to the suit mortgage.
+RatioOfTheDecision	In these circumstances we have no hesitation  in concurring in the finding of the lower Court that Ex.
+Precedent	A was executed for the balance due on settlement of accounts of dealings between the plaintiff and the first defendant in respect of the business carried on by the first defendant in Shop No.
+Precedent	172.
+Precedent	5.
+Fact	The only other question in the case was whether the suit mortgage was binding upon the interests of the other members of the family in the mortgaged properties.
+Argument	On a view of the law which seems to vis untenable, the learned Subordinate Judge held against the plaintiff on this point.
+Argument	On behalf of the respondents his view has been attempted to be supported on three grounds.
+Argument	The first of them is that in entering into the suit mortgage transaction, the first defendant did not purport to act on behalf of the family or as manager of the family business but only purported to mortgage the properties standing in his name describing them as properties purchased out of his earnings and in his possession and enjoyment.
+Argument	It was pointed out that the plaint did not proce ed on the footing that these properties were the self-acquired properties of the first defendant and as such the first defendant was entitled to mortgage them in his own right.
+Precedent	It was next argued that in view of the principle of the decision in <CITATION_1112235> (1912) 23 M.L.J.
+Precedent	18 : L.R.
+Precedent	39 I.A.
+Precedent	109 : I.L.R.
+Precedent	34 All.
+Precedent	296 (P.C.)
+RatioOfTheDecision	the Court will not be justified in treating the suit mortgage as a transaction entered into by the first defendant on behalf of the family and as its manager.
+Argument	Lastly, it was contended that as the first defendant was only a junior member of the family he had no authority to mortgage the interests of the other members in the family property.
+Argument	6.
+Argument	As to the first of these questions, it must be admitted that though in paragraph 3 of the plaint there is a reference to some of the mortgaged items standing in the name of the first defendant, the plaint proceed mainly on the footing that the mortgage was made for purposes of the joint family business and is therefore binding upon whatever inte rest the other members of the family possessed in the mortgaged items.
+Precedent	<ORG> decision that the mortgaged properties must be held to be properties of the joint family apparently rests upon the presumption of the Hindu Law in favour of their joint character and the general rule as to onus of proof in regard to self-acquisition when purchases are made in the name of a member of a joint family.
+Precedent	By way of excluding that presumption in this case, Mr. <NAME> invited our attention to the observations of this Court in <NAME> v. <NAME> (1931) 62 M.L.J.
+Precedent	141 : I.L.R.
+Precedent	55 Mad.
+Precedent	483 at 491 following a judgment of <ORG> in <CITATION_1951875> (1870) 7 B.H.C.R.
+Precedent	153 at 176.
+Argument	If the matter rested upon presumptions alone Mr. <NAME> is probably justified in the contention that the presumption arising in favour of the joint character at the time of the mortgage may well be set against the presumption arising from the non-inclusion of these properties in the partition suit  of 1916 and the presumption of the completeness of a partition when one takes place, so that at the time when the question arises in this suit there is no scope for the application of any presumption in favour of the joint family character of the properties.
+RatioOfTheDecision	But, as pointed out by Mr. <NAME> on behalf of the respondents, the matter does not rest upon presumption alone, because the very facts spoken to by <NAME> in the evidence go to establish the joint family character of these properties.
+RatioOfTheDecision	We do not therefore think it proper or necessary to rest our decision in this case on any finding that the mortgaged properties were the separate properties of the first defendant.
+RatioOfTheDecision	7.
+Precedent	The second head of argument advanced by the earned Counsel for the respondents on the strength of the decision in <CITATION_1112235> (1912) 23 M.L.J.
+Precedent	18 : L.R.
+Precedent	39 I.A.
+Precedent	109 : I.L.R.
+Precedent	34 All.
+Precedent	296 (P.C.)
+Precedent	is answered by more than one decision of this Court vide <NAME> v. <NAME> (1915) 28 I.C.
+Precedent	365 and Sadayappa  <NAME> v. Raghava <NAME> (1919) 27 M.L.T.
+Precedent	325 : 62 I.C.
+Precedent	220 to the effect that the mere fact that properties are described by a member of a family as properties acquired out of his earnings is not the assertion of such a hostile claim as against the interests of the family or an indication that it was his own personal transaction as to preclude the application of the principle that if the purpose was one binding on the family the transferor might still be regarded as having entered into the transaction in the capacity in which he could bind the family.
+RatioOfTheDecision	It must also be remembered that in this case, cloth <ORG> was undoubtedly a concern of the joint family and there is no reason why the first defendant should mortgage what he considered his self-acquired properties for the liabilities of that shop.
+RatioOfTheDecision	As has frequently been pointed out in the judgments of this Court, the mere description that properties were acquired out of a member's earnings is not the same as claiming for it the character of 'self-acquisit ion' in the legal sense; it is merely a statement of the fact that they were not originally the property of the joint Hindu family but had been acquired out of the earnings made in the course of business by one of the members.
+RatioOfTheDecision	The fact that the law will in such circumstances impress upon the property so purchased the character of joint family property should not be unduly pressed in construing the terms of the document.
+RatioOfTheDecision	8.
+RatioOfTheDecision	With reference to the third question, namely, the power of the first defendant to* bind the interests of the other members of the family by the suit mortgage, the evidence establishes what indeed is admitted in the written statement of defendants 13 and 14, that though <NAME> the <NAME> of the first defendant and the eldest member of the family was alive, the first defendant was authorised by the members of the family to conduct the family trade carried on in this shop.
+RatioOfTheDecision	We have already held that the mortgage was created to secure the repayment of a debt incurred in the course  of the business conducted in that shop.
+RatioOfTheDecision	It is well established as a rule of Hindu Law that the manager of a joint Hindu family conducting a family business may mortgage or sell joint family property for debts and liabilities incurred in the course of that business.
+RatioOfTheDecision	In the present case, the learned Subordinate Judge himself has held that the members of the family would be liable for the debt secured by Ex.
+RatioOfTheDecision	A but he felt himself bound to hold that even for securing repayment of such a debt the first defendant had no authority to create a mortgage binding on the interests of the other members.
+RatioOfTheDecision	The proposition of law stated in Mr. <NAME>'s book and adopted in several decisions in India is that a person who is the "accredited agent" of a family so as to be able to bind the family by debts borrowed for a proper and necessary purpose can also pledge the properties of the family for debts so incurred.
+RatioOfTheDecision	The plaint proceeds on the footing that the first defendant was the accredited agent of the family within the meaning  of this rule.
+RatioOfTheDecision	The written statement denies that the mere fact of the first defendant being authorised to manage one of the two shops of the family will empower him to alienate the family properties.
+RatioOfTheDecision	9.
+Argument	Even if the question stood as an abstract proposition of law, there is much to be said in favour of the view that if the first defendant was the accredited agent of the family for the purpose of managing Shop No.
+Argument	172 to the extent of being empowered to bind the members of the family for debts incurred in connexion with that shop, he would also be entitled to pledge the credit of the family and its properties for such debts.
+RatioOfTheDecision	It must be remembered that the Hindu Law with reference to the power of the <NAME> or the managing member to alienate family property, is intimately connected with the power possessed by the creditor to recover from the family property debts incurred by them for proper purposes.
+RatioOfTheDecision	It seems to us meaningless to say in a case like the present (as the learned Subordinate Judge has held) that the  creditor could bring the family property to sale for the realisation of the debt under Ex.
+Precedent	A as a simple debt though it has been incurred by the first defendant but the first defendant himself could not by a voluntary alienation either secure the repayment or arrange for its discharge.
+Precedent	The language employed by the learned Judges of <ORG> in <NAME> v. <NAME> (1892) I.L.R.
+Precedent	20 Cal.
+Precedent	453 is in favour of the view that even a junior member, if he is in charge of the family business, will have all the powers of a managing member to the extent necessary for the proper conduct of the business of which he is in charge.
+Precedent	10.
+Precedent	Reference was made in the course of the argument to the decision in <CITATION_1111117> (1922) 45 M.L.J.
+RatioOfTheDecision	44 a case which arose out of the partition suit in this very family already referred to, and reliance was strongly placed on behalf of the respondents on the fact that a mortgage executed in favour of the thirty-fifth defendant in that case by the present first def endant was set aside on appeal by this <ORG>; but the observations in that case (at page 51) do not seem to us to support the proposition of law contended for on behalf of the respondents.
+RatioOfTheDecision	It may be that the learned Judges in that case took the view that the security was not created in circumstances making the creation of a mortgage necessary, but their observations do not read as if they intended to exclude the possibility of the first defendant ever being able to create a valid mortgage even for binding debts.
+RatioOfTheDecision	The learned Judges recognised that a person who is not the managing member may, if he is the accredited agent of the family, alienate joint property for family necessity, and in the earlier portion of the judgment they refer to the debts created by the present first defendant as debts incurred by an accredited agent of the family in the course of the management of the family business and on that very ground hold that the properties of the family were liable for the discharge of these debts.
+Precedent	The judgme nt of <NAME> and <NAME>, JJ., in Appeals in Appeal Nos.
+Precedent	406 and 467 of 1930 was also referred to in this connexion.
+Precedent	There again, the learned Judges based their conclusion on the circumstances of the particular case, namely, that for some reason the parties made the transaction a personal one of the junior member and the plaint sought to enforce it on that basis and not on the footing that it was entered to by him as the accredited agent of the family.
+Precedent	11.
+Precedent	The circumstances mentioned by the learned Subordinate Judge in paragraph 18 of his judgment arising out of certain proceedings for attachment before judgment in O.S.
+Precedent	No.
+Precedent	49 of 1915 probably explain why Ex.
+RatioOfTheDecision	A came to be executed by the first defendant alone without the other members of the family joining in it.
+RatioOfTheDecision	He points out that during the pendency of the attachment application, some of the other members of the family had given an undertaking not to alienate the properties pending disposal of the application, but the first defendant did not join in the und ertaking.
+RatioOfTheDecision	The respondents no doubt wanted to use that circumstance as an argument in favour of the nominal character of the mortgage, but as we have found on the other evidence in the case that the transaction was genuine and fully supported by consideration, that circumstance really seems to us to further the clue for the other people not joining in it though by their later conduct they have clearly shown that this transaction had their full approval.
+RatioOfTheDecision	It may also be mentioned that in July, 1918, an endorsement was made on the suit bond by adjustment towards it a sum of Rs.
+RatioOfTheDecision	600 and odd due from the plaintiff to <NAME> as per account of <ORG>.
+RatioOfTheDecision	This is another circumstance indicating that the family regarded the transaction as binding on them for otherwise there was no reason for them to appropriate that amount in part satisfaction of this claim; and this endorsement is attested by the fourth defendant.
+RatioOfTheDecision	Having regard therefore to the conduct of the family in not attempting to impeach the su it transaction at any time and particularly to the conduct of the fourth defendant in admitting it in the insolvency proceedings and of the Official Receiver in accepting the mortgage and selling the property subject to it and the attitude taken by defendants 1 to 7 and 9 in this litigation in remaining ex parte we think the proper inference is that the suit mortgage was executed by the first defendant with the knowledge and approval of all the other members of the family in the circumstances above stated ; and as it has been found to be for a debt binding on the family we think that the lower <ORG> erred in holding that the mortgage was not binding on the interests of the other members.
+RatioOfTheDecision	12.
+RatioOfTheDecision	The result is that this appeal is allowed and a decree for sale given to the plaintiff as against the mortgaged property in terms of paragraph 18 (a) of the plaint.
+RulingByPresentCourt	The plaintiff will be entitled to his costs both here and in the <ORG> below.
+RulingByPresentCourt	Clause 3 of the lower <ORG>'s decree will be deleted and defendants 12 to 14 wi ll be liable to pay to the plaintiff his costs both here and in the Court below.
+RulingByPresentCourt	Time for payment six months.

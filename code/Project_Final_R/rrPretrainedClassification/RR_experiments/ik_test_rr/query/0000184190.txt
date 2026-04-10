@@ -1,0 +1,40 @@
+Fact	JUDGMENT  1.
+Fact	The petitioners who have obtained the present Rule are the editor, the printer and the publisher of the Bengali newspaper called <ORG>.
+Fact	On the 23rd April 1926 an item headed "Telegram to the Nakhoda Mosque" was published in a conspicuous position at the top of a column.
+Fact	The petitioners were thereupon charged before the Chief Presidency Magistrate with having committed an offence under Section 153A of the I.P.C.
+Fact	The defence taken was that they published the telegram to draw the attention of the authorities to a piece of information received from a reliable source so that they might trace the persons responsible for the disturbances and find some means of securing peace between the two communities.
+Fact	2.
+Fact	The learned Chief Presidency Magistrates took the view that the publication of this telegram did not fall within the explanation of Section 153A .
+Fact	But having regard to the circumstances of the case he came to the conclusion that it would be sufficient to deal with the petitioners under Sect ion 562 of <ORG>, and dismissed them with a warning not to publish rumours of this nature in future particularly at a time of tension.
+Fact	The telegram in question is in these terms:  It is rumoured that a certain Moslem has sent a telegram to <ORG> from Port Louis Mauritius to the following effect : 'Let the quarrel between Hindus and Moslems be carried on; whatever money will be spent, I will pay up on going.
+Fact	I am soon going to Calcutta.
+Fact	Will <NAME> cf the mosque disclose whether or not this telegram has come?
+Fact	3.
+Fact	Now the defence taken by the petitioners was that this item of news was base upon a telegram which had been actually received in Calcutta from Mauritius and the telegraph officer has produced the original in Court.
+Fact	It is addressed to <NAME>, <NAME>, Jakaria Street, Calcutta in these terms:  Wait, starting Naringa, take money for food <NAME>.
+Fact	and is signed by <NAME> Mr. <NAME> who has appeared for the petitioners construes this message as  meaning that the writer was shortly starting for Calcutta by the steamer "Naringa" and was bringing money with him to feed Mirzapuris by which he means goondas if that is the correct interpretation of the message the question is whether the editor of a paper is justified in translating it into the words which find expression in the paper.
+RatioOfTheDecision	Beading the wording in the newspaper as a whole we think that this is a possible interpretation of the telegram.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The next question is whether in publishing a message of this kind the petitioners brought themselves within the scope of Section 153A .
+RatioOfTheDecision	The learned Magistrate has expressed his view in this way:  If the accused honestly thought there was anything in it requiring investigation he could have given particulars of his information to the police.
+RatioOfTheDecision	I cannot sea any honesty in this pretence of informing the authorities by quoting rumours.
+RatioOfTheDecision	It is the obvious duty of a paper not to give currency to rumours at such times.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The editor of a newspaper has certain public d uties, one of which is to publish matters-which it is to the public interest should be known and if he does so honestly he is evidently not liable to be dealt with by a criminal <ORG>.
+RatioOfTheDecision	Section 153A says that a person is liable under this section if he promotes or attempts to promote feelings of enmity or hatred between different classes of His Majesty's subjects.
+RatioOfTheDecision	The explanation says that it does not amount to an offence within the meaning of this section to point out without malicious intention and with an honest view to their removal matters which are producing or have a tendency to produce feelings of enmity or hatred between different classes of His Majesty's subjects.
+RatioOfTheDecision	It is well settled as Mr. <NAME>, the learned Counsel, who has appeared for the <ORG> has stated that the essence of an offence under this section and also under Section 108 of the Criminal P.C.
+RatioOfTheDecision	is malicious intention.
+RatioOfTheDecision	6.
+Precedent	In the recent case of <CITATION_584125> A.I.R.
+Precedent	1926 Cal.
+Precedent	1133, <NAME> makes the following observations : "In substanc e my opinion of this case" (he is referring to the prosecution of the paper "<ORG>"):  is that the newspaper here has given its readers in the ordinary way a perfectly legitimate and sensible piece of news without any intention to utilize that piece of news for the purpose of promoting or furthering class hatred and that even if the news is of such a character that it is possible to suppose that some people reading it may momentarily or foolishly be induced to entertain unreasonable feeling towards a class of other people, this is not enough to bring it within the mischief either of Section 153A of the I.P.C.
+Precedent	or Section 108 of the Criminal P.C.
+Precedent	7.
+RatioOfTheDecision	Applying that test to the present case we are of opinion that there is no indication of any such intention as to bring the case within the purview of Section 153A .
+RatioOfTheDecision	Learned Counsel for the Crown has contended that that is not enough but that the petitioners must also show that the publication was with an honest view to remove certain matters which have a tendency  to produce feelings of enmity between the various classes.
+RatioOfTheDecision	If there is no malicious intention in the publication we think honesty of purpose may safely be inferred.
+RulingByPresentCourt	Upon the facts found in the present case we are not satisfied that the action taken by the Magistrate in dealing with the petitioners was necessary.
+RulingByPresentCourt	The order made under Section 562 should be vacated.
+RulingByPresentCourt	8.
+RulingByPresentCourt	The rule is accordingly made absolute.

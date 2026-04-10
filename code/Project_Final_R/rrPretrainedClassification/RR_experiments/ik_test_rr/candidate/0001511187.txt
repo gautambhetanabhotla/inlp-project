@@ -1,0 +1,744 @@
+RulingByLowerCourt	CASE NO.
+RulingByLowerCourt	: Appeal (civil) 3228 of 2006 PETITIONER: <ORG> <ORG>re RESPONDENT: <ORG> & Anr DATE OF JUDGMENT: 29/11/2006 BENCH: <NAME> & <NAME> JUDGMENT:  J U D G M E N T with Civil Appeal Nos.
+Fact	1374/06, 2841/06, 3225/06, 3226/06 and 908/06.
+Fact	<NAME>, J.
+Fact	A short question of public importance arises for determination, namely, whether withdrawal of O.A.
+Fact	in terms of the first proviso to Section 19(1) of the DRT Act, 1993 (inserted by the Amending Act No.30 of 2004) is a condition precedent to taking recourse to the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act , 2002 (" NPA Act " for short).
+Fact	Facts in Civil Appeal No.
+Fact	3228 of 2006:  Since the above question arises in a batch of matters, for the sake of convenience, we refer briefly to the facts in civil appeal No.
+Fact	3228/06, in which <ORG> <ORG> is the appellant.
+Fact	In March 1999, O.A.
+Fact	No.
+Fact	354/99 was filed by <ORG> ("the bank") before the DRT, Chennai for recovery of dues from <ORG> Tr anscore- appellant herein.
+Fact	The claim was disputed.
+Fact	An interlocutory application was filed by the bank in the said O.A.
+Fact	to bring the properties to sell.
+Fact	That I.A.
+Fact	is pending even today.
+Fact	On 6.1.2003, a notice under Section 13(2) of the NPA Act was issued.
+Fact	On 11.11.2004 the following provisos were introduced in Section 19(1) of the DRT Act vide amending Act 30 of 2004:  "Provided that the bank or financial institution may, with the permission of <ORG>, on an application made by it, withdraw the application, whether made before or after the Enforcement of Security Interest and Recovery of Debts Laws( Amendment) Act , 2004 for the purpose of taking action under the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act , 2002 , if no such action had been taken earlier under that Act:  Provided further that any application made under the first proviso for seeking permission from <ORG> to withdraw the application made under sub-sect ion (1) shall be dealt with by it as expeditiously as possible and disposed of within thirty days from the date of such application:  Provided also that in case <ORG> refuses to grant permission for withdrawal of the application filed under this sub-section, it shall pass such orders after recording the reasons therefor."
+Fact	On 8.1.2005, the said bank issued Possession Notice under Section 13(4) of the NPA Act read with Rule 8 of the Security Interest (Enforcement) Rules, 2002 ("2002 Rules") stating that, vide notice dated 6.1.2003, the appellant herein (<ORG> <ORG>) was called upon to repay an amount of Rs.
+Fact	4.15 crores (approximately) together with interest within sixty days; that the appellant had failed to repay the amount; that a notice was also given to the guarantor; that the bank had taken possession of the immovable properties mentioned in the schedule to the Notice; and, that the appellant and the guarantor were directed not to deal with those immovable properties.
+Fact	By the said P ossession Notice, the public in general were also told not to deal with the properties mentioned in the Notice as they were subject to the charge of the bank for the aforesaid amount with interest and cost.
+Fact	The immovable properties were put to auction.
+RatioOfTheDecision	However, pending civil appeal, confirmation of auction sale had been stayed.
+RatioOfTheDecision	As far as <ORG>, the appellant herein, is concerned, the argument is that the respondent-bank (<ORG>) could not have invoked the NPA Act under the above proviso to Section 19(1) of the DRT Act without the prior permission of the <ORG> before whom O.A.
+RatioOfTheDecision	354/99 was pending.
+RatioOfTheDecision	The contention of the appellant is, that prior to the insertion of the proviso on 11.11.2004, the bank had issued a show cause notice under Section 13(2) of the NPA Act; that Notice dated 6.1.2003 was merely a show cause notice and such a Notice did not constitute an action in terms of the first proviso to the said Section 19(1) of the DRT Act.
+RatioOfTheDecision	Briefly, the first proviso states that, the bank  or financial institution may, with the permission of <ORG>, on an application made by it, withdraw the O.A.
+RulingByPresentCourt	made before or after the amending Act 30 of 2004 for the purpose of taking action under the NPA Act , 2002, if no such action had been taken earlier under that Act.
+Argument	The contention of the borrower is that the Notice given by the bank on 6.1.2003 was merely a show cause notice and such notice did not constitute "action" in terms of the said proviso.
+Argument	Consequently, according to the appellant, the said bank was duty bound and obliged to make an application to the <ORG> seeking withdrawal of O.A.
+Argument	No.
+Argument	354/99.
+Argument	The appellant contends that, in the present case, the proviso has not been complied with by the bank and, consequently, the Possession Notice/ Order issued by the authorised officer of the bank under Section 13(4) dated 8.1.2005 was illegal and bad in law and liable to be set aside as the said bank could not have invoked the NPA Act without prior permission/ leave of the <ORG> under the  said proviso to Section 19(1) of the <ORG> Act.
+Argument	At this point, it may be noted that, according to the banks appearing before us, the contention raised is, that the said proviso is an enabling provision; that banks and financial institutions have an independent right to recover debts; that the purpose behind enactment of the NPA Act was to obliterate all fetters on their right to recover the debt which earlier existed in the form of Sections 69 and 69A of the Transfer of Property Act, 1882 (" TP Act "), and consequently, the option lay with the banks/ FIs to invoke or not to invoke the NPA Act .
+Argument	According to the banks/FIs, they were not mandatorily obliged to obtain the prior leave of <ORG> and that the said proviso is not a condition precedent to taking recourse to the NPA Act .
+RatioOfTheDecision	What is Securitisation ?
+RatioOfTheDecision	Securitisation of credit exposures of Banks and Credit Institutions involves a transfer of outstanding balances in Loans/Advances and packaging into transferable and tradable securities.
+RatioOfTheDecision	Mr. <NAME> has  succinctly defined securitisation as under: "Securitisation is a financing tool.
+RatioOfTheDecision	It involves creating, combining and recombining of assets and securities."
+RulingByLowerCourt	Basel Accord II has considered securitisation in a broader perspective saying: "A Traditional Securitisation is a structure where the cash flow from an underlying pool of exposures is used to service at least two different stratified risk positions or trenches reflecting different degrees of credit risk.
+RulingByLowerCourt	Payments to the investors depend upon the performance of the specified underlying exposures, as opposed to being derived from an obligation of the entity originating those exposures".
+RulingByLowerCourt	In the context of securitisation of Standard Assets, <ORG> has defined securitisation as "a process by which a single performing asset or a pool of performing assets are sold."
+RulingByLowerCourt	Reasons for Enactment of the NPA Act, 2002:   The NPA Act , 2002 is enacted to regulate securitisation and reconstruction of financial assets and enforcement of security interest an d for matters connected therewith.
+RulingByLowerCourt	The NPA Act enables the banks and <ORG> to realise long-term assets, manage problems of liquidity, asset liability mis- match and to improve recovery of debts by exercising powers to take possession of securities, sell them and thereby reduce non-performing assets by adopting measures for recovery and reconstruction.
+RulingByLowerCourt	The NPA Act further provides for setting up of asset reconstruction companies which are empowered to take possession of secured assets of the borrower including the right to transfer by way of lease, assignment or sale.
+RulingByLowerCourt	The said Act also empowers the said asset reconstruction companies to take over the management of the business of the borrower.
+RulingByLowerCourt	The constitutional validity of the said Act has been upheld in the case of <CITATION_1059476> .
+Fact	reported in 2004 (4) SCC 311.
+Fact	After the judgment of this Court in <ORG>, the amending Act 30 of 2004 was inserted.
+Fact	By the said Act 30 of 2004, Section 19(1) of the DRT Act was recasted simultaneously with section 13 of  the NPA Act, 2002.
+Fact	These amendments were made in order to enable the banks/ FIs.
+Fact	to withdraw, with the permission of DRT, the O.As.
+Argument	made to it, and thereafter take action under the NPA Act .
+Argument	In the judgment in <ORG> (supra) this Court observed that, in cases where a secured creditor has taken action under Section 13(4) , it would be open to the borrower to file an application under Section 17 of the NPA Act.
+Argument	In the said judgment, this Court further observed that if the borrower, after service of notice under Section 13(2) of the NPA Act, raises any objection or places facts for consideration of the secured creditor, such reply to the notice must be considered by the bank/ FI with due application of mind and reasons for not accepting the objections briefly must be given to the borrower.
+Argument	In the said judgment, it is further stated that the reasons so communicated shall only be for the purposes of information/ knowledge of the creditor and such reasons will not give him any right to approach the <ORG> nal under Section 17 of the NPA Act.
+Argument	The appellant herein (<ORG> <ORG>) mainly relied on the said reasons given by this Court in <ORG> (supra) in support of its contention that the Notice dated 6.1.2003 under Section 13(2) of NPA Act was merely a show cause notice and it did not constitute "action" under the NPA Act and, therefore, the said bank was obliged statutorily to apply for withdrawal of O.A.
+Argument	No.
+Argument	354/99 before invoking the NPA Act .
+Argument	Non-Performing Assets (NPA) is a cost to the economy.
+Argument	When the Act was enacted in 2002, the NPA stood at Rs.
+Argument	1.10 lac crores.
+Argument	This was a drag on the economy.
+Argument	Basically, NPA is an account which becomes non- viable and non-performing in terms of the guidelines given by the <ORG>.
+RatioOfTheDecision	As stated in the Statement of Objects and Reasons, NPA arises on account of mis-match between asset and liability.
+RatioOfTheDecision	The NPA account is an asset in the hands of the bank or FI.
+RatioOfTheDecision	It represents an amount receivable and realizable by the banks or FIs.
+RatioOfTheDecision	In that sense, it is an asset in the hands  of the secured creditor.
+RatioOfTheDecision	Therefore, the NPA Act , 2002 was primarily enacted to reduce the non-performing assets by adopting measures not only for recovery but also for reconstruction.
+RatioOfTheDecision	Therefore, the Act provides for setting up of asset reconstruction companies, special purpose vehicles, asset management companies etc.
+RatioOfTheDecision	which are empowered to take possession of secured assets of the borrower including the right to transfer by way of lease, assignment or sale.
+Fact	It also provides for realization of the secured assets.
+Fact	It also provides for take over of the management of the borrower company.
+Fact	There is one more reason for enacting NPA Act , 2002.
+Fact	When the civil courts failed to expeditiously decide suits filed by the banks/ FIs., <ORG> enacted the DRT Act , 1993.
+Fact	However, the DRT did not provide for assignment of debts to securitization companies.
+Fact	The secured assets also could not be liquidated in time.
+Fact	In order to empower banks or FIs.
+Fact	to liquidate the assets and the secured interest, the NPA Act is enacted i n 2002.
+Fact	The enactment of NPA Act is, therefore, not in derogation of the DRT Act .
+Fact	The NPA Act removes the fetters which were in existence on the rights of the secured creditors.
+Fact	The NPA Act is inspired by the provisions of the State Financial Corporations Act , 1951 (" SFC Act "), in particular Sections 29 and 31 thereof.
+Fact	The NPA Act proceeds on the basis that the liability of the borrower to repay has crystallized; that the debt has become due and that on account of delay the account of the borrower has become sub-standard and non-performing.
+Fact	The object of the DRT Act as well as the NPA Act is recovery of debt by non-adjudicatory process.
+Fact	These two enactments provide for cumulative remedies to the secured creditors.
+Fact	By removing all fetters on the rights of the secured creditor, he is given a right to choose one or more of the cumulative remedies.
+Fact	The object behind Section 13 of the NPA Act and Section 17 r/w Section 19 of the DRT Act is the same, namely, recovery of debt.
+RatioOfTheDecision	Conceptually, there is no inherent  or implied inconsistency between the two remedies.
+RatioOfTheDecision	Therefore, as stated above, the object behind the enactment of the NPA Act is to accelerate the process of recovery of debt and to remove deficiencies/ obstacles in the way of realisation of debt under the <ORG> Act by the enactment of the NPA Act , 2002.
+Statute	Analysis of the <ORG> Act, 1993:   The <ORG> Act , 1993 has been enacted to provide for the establishment of Tribunals for expeditious adjudication and recovery of debts due to banks/ FIs.
+Statute	Section 2(g) defines a 'debt' to mean any liability which is claimed as dues from any person by a bank, FI or by a consortium of banks.
+Fact	It covers secured, unsecured and assigned debts.
+Fact	It also covers debts payable under a decree, arbitration award or under a mortgage.
+Fact	Chapter III deals with jurisdiction, powers and authority of <ORG>.
+Statute	Section 17 refers to jurisdiction of <ORG>.
+Statute	Section 17 states that <ORG> shall exercise the jurisdiction, powers and authority to entertain and decide applications from the banks and FIs.
+Argument	for recover y of debts due to such banks/ FIs.
+Argument	(emphasis supplied).
+Argument	Section 19 of the Act inter alia states that where a bank or FI has to recover any debt, it may make an application to the <ORG>.
+Argument	By amending Act 30 of 2004, the three provisos were inserted in Section 19(1) .
+Argument	Under the first proviso, the bank or FI may, with the permission of the <ORG>, on an application made by it, withdraw the O.A.
+Argument	for the purpose of taking action under the NPA Act , if no such action has been taken earlier under that Act.
+Argument	Under the second proviso, it is further provided that, any application made for withdrawal to the <ORG> under the first proviso shall be dealt with expeditiously and shall be disposed of within thirty days from the date of such application.
+Argument	The reason is obvious.
+Statute	Under Section 36 of the NPA Act the bank of FI is entitled to take steps under section 13(4) in respect of the financial asset provided it is made within the period of limitation prescribed under the Limitation Act , 1963.
+Statute	Therefore, the second proviso to Section  19(1) states that the <ORG> shall decide the withdrawal application as far as possible within thirty days from the date of application by the bank or <ORG>.
+Statute	The third proviso to Section 19(1) states that in case the <ORG> refuses to grant permission/ leave for withdrawal, it shall give reasons thereof.
+Statute	Section 19(6) provides for the defendant's claim to set-off against the bank's demand for a certain sum of money.
+Statute	Similarly, Section 19(8) gives right to the defendant to set a counter claim.
+Statute	Section 19(12) empowers the <ORG> to make an interim order by way of injunction, stay or attachment before judgment debarring the defendant from transferring, alienating or otherwise deal with, or disposing of, his properties and assets.
+RatioOfTheDecision	This can be done only with the prior permission of the <ORG>.
+Statute	Under Section 19(13) , the <ORG> is empowered to direct the defendant to furnish security in cases where the <ORG> is satisfied that the defendant is likely to dispose of the property or cause damage to the property in order to defeat the dec ree which may ultimately be passed in favour of the bank or <ORG>.
+Statute	Under Section 19(18) the <ORG> is also empowered on grounds of equity to appoint a receiver of any property, before or after grant of certificate for recovery of debt.
+Statute	Under Section 19(19) , a recovery certificate issued against a company can be enforced by the <ORG> which can order the property to be sold and the sale proceeds to be distributed amongst the secured creditors in accordance with the provisions of Section 529-A of the Companies Act, 1956 and pay the balance/ surplus, if any, to the debtor-company.
+Statute	Section 20 of the <ORG> Act provides for appeal to <ORG>.
+Statute	Section 21 deals with the necessity of the applicant to pre-deposit seventy-five per cent of the amount of debt due from him as determined by the <ORG> under Section 19 .
+Statute	Section 25 refers to modes of recovery of debts.
+Fact	It provides for three modes, namely,  (a) attachment and sale; (b) arrest of the defendant; and (c) appointment of a receiver for the management of the prop erties of the defendant.
+Fact	There are other modes of recovery contemplated by Section 28 which states that where a certificate has been issued by the <ORG> to the Recovery Officer under Section 19(7) , the Recovery Officer may, without prejudice to the modes of recovery specified in Section 25 , recover the amount of debt by any one or more of the modes mentioned in Section 28 .
+Statute	Section 29 of the <ORG> Act incorporates provisions of the Second and Third Schedules to the Income Tax Act , 1961.
+Fact	On analysing the above provisions of the <ORG> Act , we find that the said Act is a complete Code by itself as far as recovery of debt is concerned.
+Fact	It provides for various modes of recovery.
+Fact	It incorporates even the provisions of the Second and Third Schedules to the Income Tax Act , 1961.
+Fact	Therefore, the debt due under the recovery certificate can be recovered in various ways.
+RatioOfTheDecision	The remedies mentioned therein are complementary to each other.
+RatioOfTheDecision	The <ORG> Act provides for adjudication.
+RatioOfTheDecision	It provides for adjudication of disputes as far as  the debt due is concerned.
+RatioOfTheDecision	It covers secured as well as unsecured debts.
+RatioOfTheDecision	However, it does not rule out applicability of the provisions of the TP Act , in particular Sections 69 and 69A of that Act.
+RatioOfTheDecision	Further in cases where the debt is secured by pledge of shares or immovable properties, with the passage of time and delay in the DRT proceedings, the value of the pledged assets or mortgaged properties invariably falls.
+RatioOfTheDecision	On account of inflation, value of the assets in the hands of the bank/FI invariably depletes which, in turn, leads to asset liability mis-match.
+Fact	These contingencies are not taken care of by the DRT Act and, therefore, <ORG> had to enact the NPA Act , 2002.
+Fact	Analysis of the NPA Act, 2002:  We have already discussed the Statement of Objects and Reasons for enacting the NPA Act , we need not repeat.
+RatioOfTheDecision	The NPA Act has been enacted to regulate securitisation and to provide for reconstruction of financial assets.
+Statute	It also provides for enforcement of security interest and for matters connected therewit h.   Section 2(b) defines "asset reconstruction" to mean acquisition by any securitisation company or reconstruction company of any right or interest of any bank or financial institution in any financial assistance for the purpose of realisation of such financial assistance.
+Statute	Section 2(f) defines the word "borrower" to mean the principal borrower who is granted financial assistance by any bank or <ORG> and includes a guarantor, a mortgagor as well as a pledgor.
+Statute	It also includes a person who becomes a borrower of an asset reconstruction company consequent upon acquisition by it of the rights or interest of any bank or <ORG> in relation to financial assistance.
+Statute	The word "debt" is also defined under Section 2(ha) to mean the debt as defined under the DRT Act .
+Statute	Section 2(k) defines "financial assistance" to mean any loan or advance or any debentures or bonds subscribed or any guarantees given or letters of credit established or any other credit facility extended by any bank or <ORG>.
+RatioOfTheDecision	Therefore, asset reconstruction means a cquisition by asset reconstruction company or asset management company of any right or interest created in favour of any bank or FI in any loan or advance granted or created in any debentures or bonds subscribed or guarantee given to the bank or FI or rights created in favour of the bank or FI under letters of credit.
+RatioOfTheDecision	This shows that the NPA Act basically deals with a crystallized liability.
+RatioOfTheDecision	The NPA Act proceeds on the basis that the asset is created in favour of the bank/FI which could be assigned to the asset management company or asset reconstruction company which, in turn, steps into the shoes of the secured creditor, namely the bank/ FI.
+RatioOfTheDecision	Section 2(l) defines "financial asset" to mean any debt or receivables.
+RatioOfTheDecision	It includes a claim to any debt or receivables which may be secured or unsecured.
+RatioOfTheDecision	It includes a mortgage, charge, hypothecation or pledge.
+RatioOfTheDecision	It includes any right or interest in the security underlying such debt or receivables.
+RatioOfTheDecision	It includes any beneficial interest in the property.
+RatioOfTheDecision	It also includes any f inancial assistance.
+Statute	Section 2(n) defines hypothecation to mean a charge created by a borrower in favour of a secured creditor as a security for financial assistance.
+Statute	Section 2(o) defines non-performing asset to mean an asset or account of a borrower which has been classified by a bank or <ORG> as sub-standard, doubtful or loss asset.
+Statute	Section 2(r) defines the word "originator" to mean the owner of a financial asset which is acquired by a reconstruction company or asset management company for the purposes of the NPA Act .
+Statute	Similarly, an obligor is defined under Section 2(q) to mean a person who is liable to the originator.
+RatioOfTheDecision	A borrower is an obligor whereas a secured creditor, namely, a bank or <ORG> is the originator who is the owner of a financial asset.
+RatioOfTheDecision	This section also indicates that banks/ <ORG>s.
+RatioOfTheDecision	are the owners of the financial assets.
+RatioOfTheDecision	It is only when these assets in the hands of the bank or <ORG> becomes sub-standard, doubtful or loss then the account or the asset becomes classifiable as a non-performing asset and it  is only then the NPA Act comes into operation.
+Statute	Section 2(z) defines securitisation to mean acquisition of financial assets by any asset reconstruction company from any originator (bank/FI).
+Statute	Section 2(zc) defines secured asset to mean the property on which security interest is created.
+Statute	Section 2(zd) defines secured creditor to mean any bank or FI.
+Statute	Section 2(ze) defines a secured debt to mean a debt which is secured by any security interest.
+Statute	Section 2(zf) defines security interest to means right, title and interest of any kind whatsoever upon property, created in favour of any secured creditor and includes any mortgage, charge, hypothecation and assignment.
+RatioOfTheDecision	Section 31 of the NPA Act excludes certain items of security interest from the provisions of the NPA Act .
+RatioOfTheDecision	Section 5 of the NPA Act deals with acquisition of rights or interest in financial assets by securitisation company or reconstruction company.
+RatioOfTheDecision	Section 5A was introduced by Act 30 of 2004.
+RatioOfTheDecision	It says that, if any financial asset, of a borrower is acquire d by a securitisation company or reconstruction company and if such financial asset comprise of secured debts of more than one bank or FI for recovery of which such banks or FIs.
+RatioOfTheDecision	has filed applications before two or more <ORG>.
+RatioOfTheDecision	then the securitisation company or reconstruction company may file an application to the <ORG> having jurisdiction for transfer of all pending applications to any one of the several <ORG>.
+RatioOfTheDecision	as it deems fit.
+RatioOfTheDecision	Section 5A gives a clue as to the cases in which leave is required to be obtained from <ORG> by banks/ FIs.
+RatioOfTheDecision	before invoking the NPA Act .
+RatioOfTheDecision	Section 5A indicates matters which attract the first proviso to Section 19(1) of <ORG> Act.
+RatioOfTheDecision	Section 6 of the NPA Act inter alia states that the bank or FI may, if it considers appropriate, give a notice of acquisition of financial assets by any securitisation company or reconstruction company to the borrower and to any other concerned person.
+RatioOfTheDecision	This is also an enabling provision.
+RatioOfTheDecision	The bank/FI may or may not give notice to the borrower regarding acquisition of  financial assets.
+RatioOfTheDecision	The reason is that assets are transferable overnight.
+RatioOfTheDecision	In certain cases, the bank/FI may feel that a third party right may be created by the borrower, in which event, the bank/FI may not give notice of acquisition.
+RatioOfTheDecision	In other cases, it may give such notice if it is satisfied that the financial asset is not likely to be disposed of or alienated by the borrower.
+RatioOfTheDecision	The point to be noted is that the scheme of NPA Act , whose constitutional validity is already upheld, provides for various enabling provisions.
+Statute	It gives discretion to the bank/FI to take steps in order to protect its assets from being alienated, transferred or disposed of in any other manner.
+Statute	Section 9 deals with various measures which a reconstruction company is required to take for assets reconstruction.
+Statute	Section 10 deals with the functions of securitisation company or reconstruction company.
+Statute	Section 11 deals with resolution of disputes relating to securitisation, reconstruction or non-payment of any amount due between the bank or FI o r securitisation company or reconstruction company.
+Statute	It further states that such disputes shall be resolved by conciliation or arbitration.
+RatioOfTheDecision	It is important to note that the dispute contemplated under Section 11 of NPA Act is not with the borrower.
+Statute	Section 12 empowers <ORG> to give directions from time to time.
+RatioOfTheDecision	Classification of an account as non-performing asset has to be done by the bank of <ORG> in terms of the guidelines issued by <ORG>.
+Statute	Section 13 falls in Chapter III which deals with enforcement of security interest.
+Statute	It begins with a non obstante clause.
+RatioOfTheDecision	It states inter alia that notwithstanding anything contained in Section 69 or Section 69A of the TP Act, any security interest created in favour of any secured creditor may be enforced, without the court's intervention, by such creditor in accordance with the provisions of this Act.
+RatioOfTheDecision	When we refer to the word 'court', it includes DRT.
+RatioOfTheDecision	We quote hereinbelow sub-section (2) of Section 13 of NPA Act:  "13.
+Statute	Enforcement of Security interest.-  (2) Where any borrower,  who is under a liability to a secured creditor under a security agreement, makes any default in repayment of secured debt or any instalment thereof, and his account in respect of such debt is classified by the secured creditor as non-performing asset, then, the secured creditor may require the borrower by notice in writing to discharge in full his liabilities to the secured creditor within sixty days from the date of notice failing which the secured creditor shall be entitled to exercise all or any of the rights under sub-section (4)."
+Statute	On reading Section 13(2) , which is the heart of the controversy in the present case, one finds that if a borrower, who is under a liability to a secured creditor, makes any default in repayment of secured debt and his account in respect of such debt is classified as non-performing asset then the secured creditor may require the borrower by notice in writing to discharge his liabilities within sixty days from the date of the notice failing which the secured creditor shall be  entitled to exercise all or any of the rights given in Section 13(4) .
+RatioOfTheDecision	Reading Section 13(2) it is clear that the said sub-section proceeds on the basis that the borrower is already under a liability and further that, his account in the books of the bank or FI is classified as sub- standard, doubtful or loss.
+RatioOfTheDecision	The NPA Act comes into force only when both these conditions are satisfied.
+RatioOfTheDecision	Section 13(2) proceeds on the basis that the debt has become due.
+RatioOfTheDecision	It proceeds on the basis that the account of the borrower in the books of bank/ FI, which is an asset of the bank/FI, has become non-performing.
+RatioOfTheDecision	Therefore, there is no scope of any dispute regarding the liability.
+RatioOfTheDecision	There is a difference between accrual of liability, determination of liability and liquidation of liability.
+RatioOfTheDecision	Section 13(2) deals with liquidation of liability.
+RatioOfTheDecision	Section 13 deals with enforcement of security interest, therefore, the remedies of enforcement of security interest under the NPA Act and the DRT Act are complementary to each other.
+RatioOfTheDecision	There is no in herent or implied inconsistency between these two remedies under the two different <ORG>.
+RatioOfTheDecision	Therefore, the doctrine of election has no application in this case.
+Statute	Section 13(3) inter alia states that the notice under Section 13(2) shall give details of the amount payable by the borrower as also the details of the secured assets intended to be enforced by the bank/ FI.
+Statute	In the event of non- payment of secured debts by the borrower, notice under Section 13(2) is given as a notice of demand.
+Statute	It is very similar to notice of demand under Section 156 of the Income Tax Act, 1961.
+Statute	After classification of an account as NPA, a last opportunity is given to the borrower of sixty days to repay the debt.
+Statute	Section 13 (3-A) inserted by amending Act 30 of 2004 after the judgment of this Court in <ORG> (supra), whereby the borrower is permitted to make representation/ objection to the secured creditor against classification of his account as NPA.
+Statute	He can also object to the amount due if so advised.
+Statute	Under Section 13 (3-A), i f the bank/FI comes to the conclusion that such objection is not acceptable, it shall communicate within one week the reasons for non-acceptance of the representation/ objection.
+Statute	A proviso is added to Section 13 (3-A) which states that the reasons so communicated shall not confer any right upon the borrower to file an application to the <ORG> under Section 17 .
+RatioOfTheDecision	The scheme of sub-sections (2), (3) and (3-A) of Section 13 of NPA Act shows that the notice under Section 13(2) is not merely a show cause notice, it is a notice of demand.
+RatioOfTheDecision	That notice of demand is based on the footing that the debtor is under a liability and that his account in respect of such liability has become sub-standard, doubtful or loss.
+RatioOfTheDecision	The identification of debt and the classification of the account as NPA is done in accordance with the guidelines issued by <ORG>.
+RatioOfTheDecision	Such notice of demand, therefore, constitutes an action taken under the provisions of NPA Act and such notice of demand cannot be compared to a show cause notice.
+RatioOfTheDecision	In fact, because it  is a notice of demand which constitutes an action, Section 13 (3-A) provides for an opportunity to the borrower to make representation to the secured creditor.
+RatioOfTheDecision	Section 13(2) is a condition precedent to the invocation of Section 13(4) of NPA Act by the bank/FI.
+RatioOfTheDecision	Once the two conditions under Section 13(2) are fulfilled, the next step which the bank or FI is entitled to take is either to take possession of the secured assets of the borrower or to take over management of the business of the borrower or to appoint any manager to manage the secured assets or require any person, who has acquired any of the secured assets from the borrower, to pay the secured creditor towards liquidation of the secured debt.
+RatioOfTheDecision	Reading the scheme of Section 13(2) with Section 13(4) , it is clear that the notice under Section 13(2) is not a mere show cause notice and it constitutes an action taken by the bank/ FI for the purposes of the NPA Act .
+Statute	Section 13(6) inter alia provides that any transfer of secured asset after taking possessio n or after taking over of management of the business, under Section 13(4) , by <ORG> shall vest in the transferee all rights in relation to the secured assets as if the transfer has been made by the owner of such secured asset.
+Statute	Therefore, Section 13(6) inter alia provides that once <ORG> takes possession of the secured asset, then the rights, title and interest in that asset can be dealt with by <ORG> as if it is the owner of such an asset.
+Statute	In other words, the asset will vest in <ORG> free of all encumbrances and the secured creditor would be entitled to give a clear title to the transferee in respect thereof.
+Statute	Section 13(7) refers to recovery of all costs, charges and expenses incurred by <ORG> for taking action under Section 13(4) .
+Statute	Section 13(7) provides for priority in the matter of recovery of dues from the borrower.
+Statute	It inter alia provides for payment of surplus to the person entitled thereto.
+Statute	Section 13(8) inter alia states that if the dues of the secured creditor together w ith all costs, charges and expenses incurred are tendered to the secured creditor before the debt fixed for sale/transfer, the secured asset shall not be sold or transferred by the bank/FI to the asset reconstruction company and no further steps shall be taken in that regard.
+RatioOfTheDecision	Section 13(9) inter alia states that where a financial asset is funded by more than one bank/FI or in case of joint financing by a consortium, no single secured creditor from that consortium shall be entitled to exercise right under Section 13(4) unless exercise of such right is agreed upon by all the secured creditors.
+RatioOfTheDecision	Section 13(9) provides for one more instance when permission of <ORG> may be required under the first proviso to Section 19(1) of the <ORG> Act.
+RatioOfTheDecision	The agreement between the secured creditors in such cases is required to be placed before the <ORG> not as a fetter on the rights of the secured creditors but out of abundant caution.
+RatioOfTheDecision	Generally, such agreements are complex in measure, particularly because rights of each of the secured  creditor in the consortium may be required to be looked into.
+RatioOfTheDecision	However, if before the <ORG>, all the secured creditors in such consortium enter into an agreement under Section 13(9) then no such further inquiry is required to be made by the <ORG>.
+RatioOfTheDecision	In such cases, the <ORG> has only to see that all the secured creditors in the consortium are represented under the agreement.
+RatioOfTheDecision	The point to be noted is that the scheme of the NPA Act does not deal with disputes between the secured creditors and the borrower.
+RatioOfTheDecision	On the contrary, the NPA Act deals with the rights of the secured creditors inter se.
+RatioOfTheDecision	The reason is that the NPA Act proceeds on the basis that the liability of the borrower has crystallized and that his account is classified as non-performing asset in the hands of the bank/FI.
+RatioOfTheDecision	Section 13(9) also deals with pari passu charge of the workers under Section 529-A of the Companies Act, 1956, apart from banks and financial institutions, who are secured creditors.
+RatioOfTheDecision	Section 13(10) inter alia states that where the dues of the se cured creditor are not fully satisfied by the sale proceeds of the secured assets, the secured creditor may file an application to <ORG> under Section 17 of the NPA Act for recovery of balance amount from the borrower.
+RatioOfTheDecision	Section 13(10) , therefore, shows that the bank/ FI is not only free to move under NPA Act with or without leave of <ORG> but having invoked NPA Act , liberty is given statutorily to the secured creditors (banks/ FIs.)
+RatioOfTheDecision	to move the <ORG> under the <ORG> Act once again for recovery of the balance in cases where the action taken under Section 13(4) of the NPA Act does not result in full liquidation of recovery of the debts due to the secured creditors.
+RatioOfTheDecision	Section 13(10) fortifies our view that the remedies for recovery of debts under the <ORG> Act and the NPA Act are complementary to each other.
+RatioOfTheDecision	Further, Section 13(10) shows that the first proviso to Section 19(1) of <ORG> Act is an enabling provision and that the said provision cannot be read as a condition precedent to taking recourse to NPA Act .
+Statute	Section 13(1 1) of the NPA Act inter alia states that, without prejudice to the rights conferred on the secured creditor under Section 13 , the secured creditor shall be entitled to proceed against the guarantor/pledgor; that the secured creditor shall be entitled to sell the pledged assets without taking recourse under Section 13(4) against the principal borrower in relation to the secured assets under the NPA Act .
+Statute	Section 13(13) states that, no borrower shall, after receipt of notice under Section 13(2) , transfer by way of sale, lease or otherwise any of his secured assets referred to in the notice, without prior written consent of the secured creditor.
+RatioOfTheDecision	Thus, Section 13(13) further fortifies our view that notice under Section 13(2) is not merely a show cause notice.
+RatioOfTheDecision	In fact, Section 13(13) indicates that the notice under Section 13(2) in effect operates as an attachment/ injunction restraining the borrower from disposing of the secured assets and, therefore, such a notice, which in the present case is dated 6.1.2003,  is not a mere show cause notice but it is an action taken under the provision of the NPA Act .
+RatioOfTheDecision	Section 17 of NPA Act confers right to appeal.
+Statute	It inter alia states that any person including borrower, aggrieved by exercise of rights by the secured creditor under Section 13(4) , may make an application to the <ORG> as an appellate authority within forty-five days from the date on which action under Section 13(4) is taken.
+Statute	That application should be accompanied by payment of fees prescribed by the 2002 Rules made under the NPA Act .
+Statute	A proviso is added to Section 17(1) by amending Act 30 of 2004.
+Statute	It states that different fees may be prescribed for making the application by the borrower and the person other than the borrower.
+Statute	By way of abundant caution, an Explanation is added to Section 17(1) saying that the communication of the reasons to the borrower by the secured creditor rejecting his representation shall not constitute a ground for appeal to the <ORG>.
+Statute	However, under Section 17(2) , the <ORG> is required to consi der whether any of the measures referred to in Section 13(4) taken by the secured creditor for enforcement of security are in accordance with the provisions of the NPA Act and the Rules made thereunder.
+Statute	If the <ORG>, after examining the facts and circumstances of the case and the evidence produced by the parties, comes to the conclusion that any of the measures taken under Section 13(4) are not in accordance with the NPA Act , it shall direct the secured creditor to restore the possession/ management to the borrower (vide Section 17(3) of NPA Act).
+RatioOfTheDecision	On the other hand, after the <ORG> declares that the recourse taken by the secured creditor under Section 13(4) is in accordance with the provisions of the NPA Act then, notwithstanding anything contained in any other law for the time being in force, the secured creditor shall be entitled to take recourse to any one or more of the measures specified under Section 13(4) to recover his secured debt.
+RatioOfTheDecision	In our view, Section 17(4) shows that the secured creditor is free to t ake recourse to any of the measures under Section 13(4) notwithstanding anything contained in any other law for the time being in force, e.g., for the sake of argument, if in the given case the measures undertaken by the secured creditor under Section 13(4) comes in conflict with, let us say the provision under the <ORG> land revenue law, then notwithstanding such conflict, the provision of Section 13(4) shall override the local law.
+RatioOfTheDecision	This position also stands clarified by Section 35 of the NPA Act which states that the provisions of NPA Act shall override all other laws which are inconsistent with the NPA Act .
+RatioOfTheDecision	Section 35 is also important from another angle.
+RatioOfTheDecision	As stated above, the NPA Act is not inherently or impliedly inconsistent with the DRT Act in terms of remedies for enforcement of securities.
+RatioOfTheDecision	Section 35 gives an overriding effect to the NPA Act with all other laws if such other laws are inconsistent with the NPA Act .
+RatioOfTheDecision	As far as the present case is concerned, the remedies are complimentary to each other  and, therefore, the doctrine of election has no application to the present case.
+RatioOfTheDecision	In the present matter, there is a controversy with regard to payment of court fee in the matter of appeal to <ORG> against the action taken under Section 13(4) of the NPA Act.
+RatioOfTheDecision	In this connection, certain facts are required to be stated.
+RatioOfTheDecision	On 21.06.2002 the NPA Act came into force.
+RatioOfTheDecision	As stated above, any person including borrower aggrieved by action taken under Section 13(4) of NPA Act is entitled to move the tribunal in appeal under Section 17(1) of NPA Act.
+RatioOfTheDecision	The tribunal being established under Section 3(1) of the DRT Act.
+RatioOfTheDecision	This aspect is important.
+RatioOfTheDecision	The tribunal under the DRT Act is also the tribunal under the NPA Act .
+RatioOfTheDecision	Under Section 19 of the DRT Act read with Rule 7 of the Debts Recovery Tribunal (Procedure) Rules, 1993 ("1993 Rules"), the applicant bank or <ORG> has to pay fees for filing such application to DRT under the DRT Act and, similarly, a borrower, aggrieved by an action under Section 13(4) of NPA Act was en titled to prefer an application to the <ORG> under Section 17 of NPA.
+RatioOfTheDecision	Similarly, the borrower was required to file an appeal to <ORG> under Section 18 of the NPA Act.
+RatioOfTheDecision	For such appeals a borrower was required to pay fees as prescribed by Section 20 of the <ORG> Act read with Rule 8 of the Debts Recovery Appellate Tribunal (Procedure) Rules, 1994 ("1994 Rules").
+RatioOfTheDecision	<ORG>, however, found that a borrower who was entitled to carry the matter further against the action taken under Section 13(4) was also required to pay court fees which give rise to difficulties and, therefore, it enacted the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (Removal of Difficulties) Order, 2004 ("Order 2004") under Section 40 of the NPA Act to make provisions for levying fees in the matter of filing of application/appeal under Sections 17 and 18 of the NPA Act respectively.
+RatioOfTheDecision	We quote hereinbelow the contents of the said Order, 2004: "NOW, THEREFORE, in exercise of the powers conferred  by sub-section (1) of section 40 of the said Act, <ORG> hereby makes the following Order to make the provisions of levying of the fee for filing of appeals under sections 17 and 18 of the said Act, being not inconsistent with the provisions of the Act, to remove the difficulty, namely: -  1.
+Statute	Short title and commencement.-(i) This Order may be called THE SECURITISATION AND RECONSTRUCTION OF FINANCIAL ASSETS AND ENFORCEMENT OF SECURITY INTEREST (REMOVAL OF DEFFICULTIES) ORDER, 2004.
+Statute	(ii) It shall come into force at once.
+RatioOfTheDecision	2.
+RatioOfTheDecision	Definition.
+RatioOfTheDecision	 Debts Recovery Tribunal (Procedure) Rules, 1993 means <ORG> (Procedure) Rules, 1993 made under section 9 read with clause (e) of sub-section (2) of section 36 of the Recovery of Debts Due to Banks and Financial Institutions Act, 1993.
+RatioOfTheDecision	3.
+Statute	Fee for filing of an appeal to <ORG> The fee for filing of an appeal to <ORG> under sub-section (1) of section 17 of the Securitisation and Reconstruction of F inancial Assets and Enforcement of Security Interest Act , 2002 shall be mutatis mutandis as provided for filing of an application to <ORG> under rule 7 of <ORG> (Procedure) Rules, 1993.
+Statute	4.
+Statute	Fee for filing of an appeal to <ORG> The fee for filing of an appeal to <ORG> under sub-section (1) of section 18 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act , 2002 shall be mutatis mutandis as provided for filing of an appeal to <ORG> under rule 8 of <ORG> (Procedure) Rules, 1994."
+RatioOfTheDecision	It is interesting to note that the 2004 Order came into force with effect from 6.4.2004.
+RatioOfTheDecision	This Order has continued even after amending Act 30 of 2004 which, as stated above, came into force with effect from 11.11.2004.
+RatioOfTheDecision	As stated above, by the said amending Act 30 of 2004 an avenue to challenge was provided to any person  including a borrower, who is aggrieved by any of the measures taken by the secured creditor under Section 13(4) , subject to his paying fees along with his application.
+RatioOfTheDecision	The fee is to be levied in the manner prescribed.
+RatioOfTheDecision	Under Section 2(s) of NPA Act, the word "prescribed" has been defined to mean prescribed by the Rules made under the NPA Act .
+RatioOfTheDecision	Till today, there are no rules prescribing the court fees for filing applications to the <ORG> under Section 17(1) .
+RatioOfTheDecision	Till today, the 2004 Order continues to operate, whose effect is considered hereinafter.
+RatioOfTheDecision	Points for determination:  Three points arise for determination in these cases.
+RatioOfTheDecision	They are as follows:  (i) Whether the banks or financial institutions having elected to seek their remedy in terms of <ORG> Act , 1993 can still invoke the NPA Act , 2002 for realizing the secured assets without withdrawing or abandoning the O.A.
+Fact	filed before the <ORG> under the <ORG> Act .
+Fact	(ii) Whether recourse to take possession of the secured assets of the borrower in terms of Section 1 3(4) of the NPA Act comprehends the power to take actual possession of the immovable property.
+Fact	(iii) Whether ad valorem court fee prescribed under Rule 7 of the DRT (Procedure) Rules, 1993 is payable on an application under Section 17(1) of the NPA Act in the absence of any rule framed under the said Act.
+Fact	Findings:  (i) On Point No.
+Argument	1:  Mr. <NAME>, learned counsel for the appellant in the lead matter submitted that the banks or FIs.
+Argument	cannot be permitted to avail of the remedy under the NPA Act when they have already invoked the jurisdiction of the DRT Act .
+Argument	He urged that it was mandatory for the respondent-bank (<ORG>) to withdraw the said O.A.
+Argument	No.
+Argument	354/99 before DRT before initiating action under the NPA Act .
+Argument	He urged, that Notice dated 6.1.2003 given by <ORG> under Section 13(2) of NPA Act, 2002 was a mere show cause notice; that it did not constitute action so as to exclude the applicability of the proviso to Section 19(1) of DRT Act, 1993; consequently, it was urged that, on the fa cts of the present case, in the matter of M/s <ORG>, the bank should have taken permission of the <ORG> for withdrawal of O.A.
+Argument	No.
+Argument	354/99 before invoking the NPA Act .
+Argument	Elaborating this aspect, it was urged that NPA Act has been enacted to enforce the security interest without the intervention of the court and this implies that any intervention by way of OA already resorted to should got out of the way before invoking NPA Act .
+Argument	Learned counsel submitted that the proviso to Section 19(1) of <ORG> Act inserted by amending Act 30 of 2004 was inserted precisely for the above purpose.
+Argument	In this connection, reliance was placed on the text of the proviso which states that the bank or <ORG> may, with the permission of the <ORG>, withdraw the O.A.
+Argument	for the purpose of taking action under the NPA Act , if no such action had been taken under the NPA Act .
+Argument	The point emphasized is that, the notice under Section 13(2) dated 6.1.2003 is the show cause notice, it is not an action in terms of the above proviso and, therefore, in the pr esent case, the bank ought to have taken permission from the <ORG> before invoking the NPA Act .
+Argument	Similarly, in the said proviso the words are that the bank or <ORG> may, with the permission of the <ORG>, withdraw the OA for the purpose of taking action under the NPA Act , learned counsel urged that, this proviso read as a whole indicates applicability of the doctrine of election.
+Argument	Learned counsel urged that, the very object of enacting the proviso was that two parallel procedures cannot simultaneously be resorted to unless leave is granted in that regard by the <ORG> under the said proviso.
+Argument	According to the learned counsel, the second proviso to Section 19(1) inter alia states that, the application made by the bank or <ORG> seeking withdrawal of the OA shall be dealt with as expeditiously as possible.
+Argument	Reliance on second proviso was placed in support of the argument that, if the bank or <ORG> is permitted to invoke both the remedies simultaneously, then the very object of expeditious disposal would stand defeated.
+Argument	It was furt her urged that when NPA Act was enacted in 2002, Section 13 (3-A) and the provisos to Section 19 of the DRT Act were not there on the statute book.
+Argument	The constitutional validity of the Act was upheld in <ORG> (supra).
+Argument	However, learned counsel invited our attention to Para 80 of the judgment of this Court in <ORG> (supra) which states that, before taking any action, a notice of sixty days was required to be given and after the measures under Section 13(4) of the NPA Act have been taken a mechanism had been provided under Section 17 of the NPA Act to approach the DRT.
+Argument	The object behind the above provisions was to give reasonable protection to the borrower.
+Argument	Placing reliance on Para 80 of the said judgment, learned counsel urged that in the said paragraph this Court has used the expression "action" in juxtaposition to the words "measures adopted under Section 13(4) ", therefore, even this Court did not understand the word notice under Section 13(2) as "action" taken.
+Argument	Learned counsel urged that  "action taken" under Section 13 of the NPA Act can only be the steps taken by the bank or <ORG> under Section 13(4) and, therefore, notice of sixty days under Section 13(2) was a mere show cause notice which did not constitute action taken and, therefore, the proviso to Section 19(1) of the DRT Act was applicable in the facts and circumstances of the case in which <ORG> Transcore is the appellant.
+Argument	Learned counsel urged that, since the proviso had not been complied with, <ORG> was not entitled to invoke the NPA Act as it purported to do so vide notice dated 8.1.2005.
+Argument	Reliance was also placed on the provisions of Section 13 (3-A) which enables the borrower to make any representation/ objection to the secured creditor and if the secured creditor rejects such representation then the proviso states that the reasons so communicated by the bank or <ORG> shall not provide right upon the borrower to make an application under Section 17 to the DRT.
+Argument	In the proviso, the words used are that even a likely action by the secured cred itor at the stage of communication of reasons shall not confer any right upon the borrower to prefer an application under Section 17 to DRT.
+Argument	Once again, emphasis is on the word "action" in the said proviso to show that, a notice under Section 13(2) is different from the word action under the scheme of Section 13 as amended.
+Argument	Learned counsel points out that, Section 13 (3-A) bars an appeal against the order communicating reasons or against the likely action of the secured creditor.
+Argument	Since no appeal is provided for against the order rejecting representation and since Section 17 of the NPA Act provides remedy to the borrower only against action taken under Section 13(4) , the scheme of Section 13 suggests that, the notice under Section 13(2) should be read only as a show cause notice.
+Argument	Similarly, reliance is placed by the learned counsel on the provisions of Section 13(10) of the NPA Act which states that, where the dues of the secured creditor are not fully satisfied, the secured creditor may file an application t o the DRT for the recovery of the balance.
+Argument	Learned counsel submitted that Section 13(1) shows that simultaneous action for enforcement of security interest was not contemplated by the NPA Act .
+Argument	It was further urged, that even conceptually there is a difference between the right to debt and the right to take action of recovery; that these two concepts are totally different concepts; that one is a right to receive and the other is a right to enforce.
+Argument	Learned counsel urged, that a debt is not the same thing as a right of action for its recovery; that a debt is a right in the strict sense corresponding to the duty of the debtor to pay, whereas a right of action is a legal authority corresponding to the liability of the debtor to be sued, therefore, according to the learned counsel, the two are distinct concepts which is clear from the fact that, the right of action can stand destroyed by prescription while the debt remains.
+Argument	Applying these concepts to the scope of the NPA Act , learned counsel urged that, the NPA  Act only gives certain powers to the bank/ FI to enforce a recovery of debt and for that purpose it excludes Section 69 of the TP Act vis-`-vis certain acts specified therein.
+Argument	Therefore, it was urged that, when Section 13(2) notice is issued, it merely reiterates a right to debt which has accrued to the secured creditor.
+Argument	According to the learned counsel, the most important words find place in the proviso to Section 19(1) to the DRT Act are "if no such action had been taken".
+Argument	Learned counsel places reliance on these words in support of his contention that, there is no need to apply for withdrawal of the O.A.
+RatioOfTheDecision	where the recovery stands enforced.
+RatioOfTheDecision	Learned counsel urged that, mere giving of a notice under Section 13(2) does not indicate conclusion of recovery.
+RatioOfTheDecision	Hence, Section 13(2) notice is merely a show cause notice.
+RatioOfTheDecision	According to the learned counsel, the proviso to Section 19 only says about concluded cases where the enforcement power stands exhausted.
+RatioOfTheDecision	This power is not exhausted by mere giving of Section 13(2) no tice.
+Argument	The issuance of notice under Section 13(2) without a concluded action under Section 13(4) would not be saved by the proviso.
+Argument	Learned counsel urged that, Section 13(2) does not create a vested right of any action and, therefore, no remedy against the notice is provided for.
+Argument	Reliance was also placed in support of his above arguments on Section 13(13) of the NPA Act which states that, no borrower shall, after receipt of notice under Section 13(2) , transfer by way of sale, lease or otherwise (other than in the ordinary course of business) any of the secured assets without prior written consent of the secured creditor.
+Argument	Learned counsel urged that, Section 13(13) allows the secured assets to be disposed of in the usual course of business and, consequently, notice under Section 13(2) cannot constitute action taken under the Act, as urged by the banks.
+Argument	Alternatively, it was urged that, even assuming for the sake of argument that Section 13(2) notice creates a right to take action, such a right is not a vested r ight and is at best contingent on other factors, namely, continuation of action by secured creditors even after representations.
+Argument	The proviso to Section 19 of the DRT Act speaks only of concluded action under Section 13(4) of the NPA Act to prevent closed transactions from being reopened.
+Argument	In this connection, learned counsel submitted that, the right vests when all the facts have occurred.
+Argument	Whereas a right is contingent when some but not all the vestitive facts have occurred.
+Argument	Learned counsel urged, that Section 13(2) refers to a right, at the highest, at an inchoate stage; that Section 13(4) only refers to Section 13(2) in the context of the period fixed; that before introduction of Section 13 (3-A) no opportunity to represent was there and, consequently, Section 13(2) notice is only a show cause notice.
+Argument	Learned counsel further submitted that, the proviso to Section 19 of the DRT Act is the statutory recognition of the doctrine of election; it is not a simple withdrawal procedure as set out in Order XXIII CPC b ecause the proviso to Section 19 states that the withdrawal of the O.A.
+Argument	is for the purpose of taking action under the NPA Act .
+Argument	Learned counsel urged that, in view of Section 19(25) of the DRT Act, it cannot be said that the DRT has no inherent powers.
+Argument	Learned counsel submitted that the doctrine of election is a branch of the rule of estoppel.
+Precedent	It was urged that, the said doctrine postulates that when two remedies are available for the same relief, the aggrieved party has an option to elect either of the two but not both.
+Precedent	In this connection, reliance was placed on the judgments of this <ORG> in the case of <CITATION_899309> .
+Precedent	reported in 2006 (2) SCC 641 and <CITATION_1697343> .
+Precedent	reported in 1994 (2) SCC 647.
+Argument	Learned counsel, therefore, urged that the proviso to Section 19(1) mandates that either one of the two remedies can be resorted to at a time but not both and in view of the statutory interventions, there is no option with the secured creditor but to withdraw the DRT proceedings to cases where the proviso  to Section 19(1) of DRT Act is applied.
+Argument	The above submissions of the learned counsel for the appellant (<ORG> Transcore) was adopted by Mr. <NAME>, learned counsel for <ORG> <NAME> (the respondent in civil appeal No.
+Argument	2841/06) and Mr. <NAME> for <ORG> <ORG> (the respondent in civil appeal No.
+Argument	908/2006).
+Argument	In reply to the above submissions, Mr. <NAME>, learned senior counsel appearing for <ORG> (the bank) submitted that, Section 13(2) notice is a condition precedent for invoking Section 13(4) of the NPA Act and, therefore, the said notice is an action and not a mere show cause notice.
+Argument	Learned counsel submitted that Section 13(2) notice is the step-in-aid for enforcement of security interest under Chapter III of the NPA Act.
+Argument	He submitted that the proviso to Section 19(1) of the DRT Act cannot affect the rights of a bank/FI under the NPA Act which deals only with recovery and which only deals with enforcement of security interest.
+Argument	Learned counsel urged, that Section 13 (2) notice is given on the basis that the client's account in the books of account, which is an asset of the bank as the amount receivable under that account, has become sub-standard, doubtful or a loss; that Section 13(2) proceeds on the basis of classification of that account as a NPA; that there is no adjudication contemplated under Section 13(2) as the said section deals with enforcement of security interest alone which security interest is recognized by the Act as a financial asset of the bank/ FI.
+Argument	In the circumstances, learned counsel urged that, Section 13(2) notice is not a mere show cause notice.
+Argument	He submitted that, the purpose of NPA Act is to enable the secured creditor to enforce any security interest without the intervention of the court or the tribunal, apart from creation of asset reconstruction company and securitisation company.
+Argument	In this connection, it was pointed out that sub-section (4)(a) of Section 13 of the NPA Act permits a bank/FI to take possession of the secured assets.
+Argument	Similarly, sub- section (4)(b) enables a bank/ FI to take over management of the business of the borrower.
+Argument	Similarly, sub-section (4)(c) permits appointment of a manager to manage the secured assets, the possession of which has been taken over and, similarly, sub- section 4(d) authorizes the secured creditor to require any transferee of the secured assets to pay the secured creditor the specified amount by just a return notice.
+Argument	According to the learned senior counsel, under the scheme of Section 13(4) , all these powers are to be exercised without the intervention of the court/ tribunal.
+Argument	He urged that if the proviso to Section 19(1) of the <ORG> Act is read as mandatory, then the consequence would be that a secured creditor can have recourse to Section 13 only with the prior permission of the <ORG> which would defeat the very object of the NPA Act which is to remove all fetters, if any, on the right of enforcement by the secured creditor.
+Argument	It was next urged that the <ORG> does not have inherent powers and that Section 19(25) of the  <ORG> Act which empowers the tribunal to issue appropriate directions for enforcement of its orders is not akin to Section 151 CPC and, therefore, a provision akin to the provision was necessary to be inserted.
+Argument	In this connection, learned senior counsel submitted that, in the <ORG> Act there was no provision similar to Order XXIII CPC and to get rid of that lacuna, the <ORG> Act had to be amended.
+Argument	He urged that, the proviso to Section 19 is an enabling provision.
+Argument	The bank/ FI may apply to the <ORG> for withdrawal of the O.A.
+Argument	in cases where the <ORG> has appointed a court receiver or in cases where the <ORG> had granted attachment or injunction.
+Argument	If the bank/ FI seeks to invoke the NPA Act vis-`-vis a financial asset over which a court receiver is appointed or over which an attachment stands then in such cases an enabling provision is made whereby the bank or FI can move the <ORG> for permission seeking withdrawal of O.A.
+Argument	in part or in whole in order to enable the bank/ FI to take appropriate steps for enforcement of securi ty under the NPA Act .
+Argument	Learned counsel submitted that, vide the impugned judgments, <ORG> have erred in making the said proviso mandatory/ obligatory.
+Argument	He submitted that, the very purpose behind the proviso would be defeated if it is read as mandatory.
+Argument	He submitted that, withdrawal application in respect of O.A.
+Argument	can be made by the bank/ FI at any time.
+Argument	The proviso is inserted only to meet contingencies where the assets are in possession of the court receiver or under attachment/ injunction.
+Argument	Learned counsel submitted that there is no bar to the application of both the Acts simultaneously.
+Argument	He submitted that the NPA Act gives to the bank/ FI an independent right and wherever required the bank/FI may apply that option as given to the secured creditor.
+Argument	In this connection, he submitted that, under third proviso to Section 19(1) of the DRT Act even part withdrawal of the suit/application is permissible.
+Argument	He further submitted that, under Section 13(10) of the NPA Act where the dues of the secured creditor are  not fully satisfied with the sale proceeds of the secured assets, the bank/ FI may file an application to the <ORG> for recovery of the balance from the borrower.
+Argument	The point which is emphasized is that part withdrawal of the suits or the invocation of <ORG> jurisdiction for recovery of the balance are aspects which required an amendment to be carried out in the <ORG> Act as well as in the NPA Act so that the provisions are brought at par with Order XXIII CPC.
+Argument	This was the main object behind the enactment to the first proviso to Section 19(1) to the <ORG> Act .
+Argument	In fact, it is pointed out by the learned counsel that the amending Act 30 of 2004 has made changes in both the <ORG> Act and the NPA Act simultaneously which indicates that both the Acts complement each other.
+Argument	He submitted that the enabling provision under the first proviso had to be made so that withdrawal is restricted to cases where the bank/FI wishes to withdraw the O.A.
+Argument	for the purpose of taking action under the NPA Act and not for any other purpose.
+Argument	It is  pointed out that Order XXIII CPC provides for several situations whereas the proviso to Section 19 deals with some aspects/ situations only.
+Argument	In this connection, learned counsel submitted that Section 13(10) provides for a fresh cause of action.
+Argument	Inability to realise the entire dues does not provide any fresh cause of action for proceeding under the DRT Act .
+Argument	The course of action for proceeding under the DRT Act is the debt due.
+Argument	Not satisfying the dues fully, according to the learned counsel, is not a cause of action attributable to the borrower.
+Argument	He, therefore, submitted that proviso to Section 19(1) is not a condition precedent to taking recourse to NPA Act .
+Argument	Learned counsel further pointed out that, Section 36 of NPA Act talks of limitation.
+Argument	Section 36 of NPA Act makes it clear that no action under NPA Act can be taken unless the claim is within limitation and, therefore, according to the learned counsel, the time spent in adopting action under DRT Act is not excluded and it does not stop the limitation.
+Argument	Ther efore, it is urged that this aspect also indicates that the proviso to Section 19(1) is not a condition precedent to taking recourse to NPA Act .
+Argument	On the question of doctrine of election, learned counsel submitted that, the doctrine of election is an aspect of estoppel which can have no effect on the operation of a statute inasmuch as it is well settled that there can be no estoppel against a statute.
+Argument	Therefore, learned counsel submitted that the interpretation placed by <ORG> on the proviso to Section 19(1) of the DRT Act, making it mandatory for banks/ FIs.
+Argument	to take prior permission of the DRT, would render the whole NPA Act meaningless.
+Argument	Learned counsel further contended that there is no merit in the arguments advanced on behalf of the borrowers that the amendments under Act 30 of 2004 introduced into the DRT Act has restricted the rights of the secured creditors under the NPA Act .
+Argument	He urged that this argument has no basis as there is no amendment restricting any of the rights of secured creditors  under the NPA Act .
+Argument	He submitted that the NPA Act deals with the secured creditors, including, banks and financial institutions and the persons mentioned in sub-section (zd) to Section 2 .
+Argument	He further pointed out that the words "security interest" with which NPA Act is concerned, includes mortgage, charge, hypothecation etc.
+Argument	except those specified in Section 31 which excludes ten types of securities from the purview of NPA Act .
+Argument	He submitted that the NPA Act is the special Act whose provisions override all other laws inconsistent therewith.
+Argument	In this connection, he places reliance on Section 35 of the NPA Act.
+Argument	Learned counsel urged, that Act 30 of 2004 amended the NPA Act as well as the DRT Act simultaneously; that the said Act 30 of 2004 specifically amended Section 13 by insertion of sub-section (3-A), however, no provision corresponding to the proviso to Section 19 was introduced into the NPA Act , which indicates that <ORG> did not intend to dilute rights of the secured creditors granted to them under t he NPA Act through DRT Act .
+Argument	He also invited our attention to Section 37 of the NPA Act which provides that the NPA Act shall be in addition to and not in derogation of the DRT Act .
+Argument	Learned counsel urged, that the proviso to Section 19(1) was introduced in DRT Act to make it more effective; that provision is akin to Order XXIII CPC, which was not there in the original DRT Act .
+Argument	As stated above, learned counsel urged that DRT unlike a court has no inherent powers.
+Argument	Learned counsel urged that there may be innumerable situations in which the secured creditor may have to withdraw the recovery application and but for a specific provision, it was not open to the tribunal to entertain an application for withdrawal and, in any case, it was not open to the tribunal to pass conditional order on such application for withdrawal without express provision in that regard, which now is the proviso to Section 19(1) of the DRT Act.
+Argument	Therefore, to fill this lacuna, the proviso was inserted in Section 19(1) .
+Argument	The proviso makes it  very clear that the withdrawal of the <ORG> shall be limited to the purpose of taking action under the NPA Act .
+Argument	It clarifies that such application for withdrawal may be made if no action has been taken under the NPA Act before seeking withdrawal.
+Argument	Learned senior counsel urged that the said proviso does not compel the withdrawal of the <ORG> before having recourse to NPA Act either before 11.11.2004 or thereafter.
+Argument	He submitted that, reading the proviso of Section 19(1) of the DRT Act as a condition precedent for taking recourse to the NPA Act would have serious adverse effects, for example, in a given case relief might have been claimed against the guarantors also, those guarantors may be specific to one of the consortium transactions.
+Argument	Compelling the creditor to withdraw his application before the DRT would amount to forcing that creditor to give up his claim against the guarantors also.
+Argument	Similarly, if the mortgage property is not subject to any attachment or court receiver, there is no need for permission to with draw the application before resorting to Section 13(4) .
+Argument	However, if the argument of the borrowers is accepted, the bank/ FI is forced to move the tribunal for permission even in cases where it is not necessary.
+Argument	Lastly, the time spent in action under NPA Act is not excluded for saving limitation for recovery of the balance.
+Argument	The Banks/ FIs.
+Argument	have to revert back to <ORG> within the period of limitation under Section 13(10) of the NPA Act, and if the banks/FIs.
+Argument	are forced to withdraw, then all securitisation actions starting from the issue of demand notice and ending with sale of securities must be completed within the period of limitation and if the banks/FIs.
+Argument	fail to complete these actions within the period of limitation, they will not be able to go back to <ORG>.
+Argument	In a given case, if the <ORG> refuses permission to withdraw, the very purpose of the NPA Act will be defeated.
+Argument	To make the NPA Act subject to the prior permission of <ORG> would make the NPA Act redundant.
+Argument	Learned senior counsel urged that Section 24 of the  DRT Act makes the Limitation Act , 1963 applicable to claims before the DRT.
+Argument	This means that, by the time the pending recovery application is allowed to be withdrawn, an application under Section 13(10) of NPA Act would become time barred.
+Argument	Thus, the banks/FIs, if compelled to withdraw the recovery applications before resorting to Section 13 , will be deprived of their rights to recover the balance amount under Section 13(10) .
+Argument	In this connection, reliance was also placed on the provisions of Section 36 of the NPA Act which requires the claims to be made under NPA Act within the period prescribed under the Limitation Act , 1963.
+Argument	Learned counsel, therefore, submitted that there is no merit in the contention of the appellant that the banks/FIs should be compelled to first withdraw their O.As.
+Argument	before resorting to Section 13 of NPA Act.
+Argument	Mr. <NAME>, learned senior counsel appearing on behalf of <ORG>, submitted that the doctrine of election does not apply to curative relief.
+Argument	He submitted, that a cr editor is entitled to choose one or more cumulative remedies open to him, unless precluded by statutory provisions or by the doctrine of election; that in the absence of any bar, it is open to the creditor to choose one or more of the cumulative remedies.
+Argument	Learned senior counsel submitted that under the scheme of NPA Act , a bank/ FI is under no disability to take recourse under Section 13 of NPA Act even after it has invoked Section 19 of DRT Act.
+Argument	He submitted, that the object of both the sections is to recover dues; that there is no inconsistency inherent or implied in the two remedies; that the doctrine of election applies in cases of inconsistent remedies.
+Argument	He submitted that, in the present case, the two remedies are not inconsistent to each other.
+Argument	He submitted that the judgment of this <ORG> in the case of <ORG> (supra) has no application because in that case this <ORG> has held that the State Financial Corporation Act has expressly provided for the doctrine of election.
+Argument	Learned  counsel submitted that the doctrine of election is a doctrine evolved by courts on equity.
+RatioOfTheDecision	It is based on the principle that a man shall not be allowed to approbate and reprobate.
+RatioOfTheDecision	If a person has chosen a particular remedy and has intentionally relinquished another remedy, he is debarred by the doctrine of election to pursue the remedy he has intentionally given up.
+RatioOfTheDecision	Learned counsel submitted that a creditor is not precluded by the doctrine of election if he makes a choice of one or more cumulative remedies available to him.
+RatioOfTheDecision	The adoption of remedies under Section 19 of DRT Act and under Section 13(4) of NPA Act are not inconsistent with each other.
+RatioOfTheDecision	Both the remedies recognize the existence of the same facts, on the basis of which reliefs are claimed.
+RatioOfTheDecision	In the case of election of remedies a party is confined to the remedy first chosen, precluding a resort to another, because the two remedies are inconsistent with each other, and not analogous, consistent and concurrent.
+RatioOfTheDecision	Learned senior counsel submitted that a cre ditor is not concluded by the rule of election where he merely makes a choice of one or more consistent and cumulative remedies available to him.
+RatioOfTheDecision	Thus, a creditor whose claim is secured by two written obligations falling due simultaneously has a right to proceed thereafter upon either or both of them to enforce payment of the amount due.
+Precedent	In this connection, learned senior counsel placed reliance on Corpus Juris Secundam, Vol.
+Precedent	XXVIII, para 13; American Jurisprudence, 2d, Vol.
+Precedent	25 and <ORG>, Twenty-Eighth Edition, page 495.
+Argument	Learned counsel urged that the interpretation suggested by the borrowers would not subserve the object of the NPA Act which is enacted for speedy recovery of debts.
+Argument	If a bank/FI is compelled or mandatorily required to withdraw its application under the proviso to Section 19 of DRT Act and, thereafter, invoke NPA Act , it would face a situation where Section 13(10) would fail.
+Argument	It would lead to further complications which would involve questions of limitation and delay in  the speedy recovery of its dues.
+Argument	Learned counsel urged that the conclusion drawn by <ORG> in the case of <CITATION_1180113> was erroneous because it states that once the bank/FI decides to proceed under the NPA Act , that Act imposes an obligation on the bank/ FI to withdraw the O.A.
+Argument	under Section 19 of DRT Act.
+Argument	Mr. <NAME>, learned senior counsel appearing for <ORG>, submitted that if notice under Section 13(2) of NPA Act was only a show cause notice then Section 13 (3-A) was not required.
+Argument	He submitted that because Section 13(2) notice constituted an action taken under the Act, Section 13 (3-A) becomes necessary because it gives an opportunity to the borrower to object to the notice.
+Argument	Learned counsel submitted that the NPA Act deals only with secured assets whereas the DRT Act deals with both secured and non-secured assets.
+Argument	He submitted that a secured asset is an asset which is owned by the bank/ FI and, therefore, it can act without intervention of the court.
+Argument	Learned co unsel urged that in certain respects, the <ORG> Act did not provide for the remedies, which led to the enactment of the NPA Act .
+Argument	In this connection, he cited the example of take over of management of the business of the borrower which is provided for only in the NPA Act and not in the <ORG> Act .
+Argument	<NAME>, learned senior counsel appearing for <ORG> (IBA) submitted, that NPA Act has to operate de hors the <ORG> Act ; that both the Acts operate within the same scheme but the <ORG> Act is a general Act whereas the NPA Act is the special Act.
+Argument	He submitted that a bank/FI is entitled to go back to the <ORG> under Section 13(10) which indicates that the NPA Act is a special Act vis-`-vis the <ORG> Act which is the general Act.
+Argument	He urged that the NPA Act is amplification of <ORG> Act .
+Argument	In this connection, it is pointed out that the concept of asset reconstruction and the concept of asset management is wider than the concept of recovery of debt under the <ORG> Act .
+Argument	Our attention was invited to Section 5 of th e NPA Act which refers to acquisition of rights or interest in financial assets which concept is not there in <ORG> Act .
+Argument	Learned counsel, therefore, submitted that NPA Act is a special Act and, therefore, irrespective of the pendency of litigation under the <ORG> Act , acquisition of interest in financial assets can take place under the NPA Act .
+Argument	Learned senior counsel further pointed out, that under <ORG> Act a debt could be secured as well as unsecured; that under Section 9(f) of the NPA Act, a reconstruction company or a securitisation company is empowered for the purposes of assets reconstruction to take possession of secured assets without prejudice to the provisions contained in any other law for the time being in force.
+Argument	Therefore, even a reconstruction company can enforce security interest under Section 13 of the NPA Act without being restricted by the provisions of the <ORG> Act .
+Argument	Section 9(f) is put into service to show that at every stage, <ORG> has ousted the jurisdiction of the courts and <ORG> to get  the <ORG> liquidated at the earliest opportunity.
+Argument	Learned senior counsel submitted, that Section 19 of the <ORG> Act concerns the procedure which has to be followed by the tribunal; that it is a procedural section and, therefore, Section 19 of <ORG> Act cannot confer or allow jurisdiction to be retained by the tribunal.
+Argument	He submitted that by Section 13 (3-A), <ORG> has made a conscience decision that there will be no interference from <ORG>/ court at any stage, therefore, it states that a borrower cannot approach <ORG> against communication of reasons by a bank/ FI which shows that in the matter of <ORG>, <ORG> has ruled out intervention by courts and tribunals.
+Argument	Learned senior counsel submitted that calling to the borrowers for hearing, the <ORG> Act shall remain suspended till leave is given by <ORG>.
+Argument	This interpretation, according to the learned senior counsel, defeats the very object behind enactment of the <ORG> Act .
+Argument	Lastly, he pointed out that Section 35 of <ORG> Act states that the Act shall override all other l aws which are inconsistent with NPA Act .
+Argument	Similarly, Section 37 of NPA Act states that if any law is consistent with NPA Act then the NPA Act shall be treated as an additional Act.
+Argument	The NPA Act is made in addition to the Companies Act , 1956, the SEBI Act, 1992, the DRT Act , 1993 as well as the Securities Contracts (Regulation) Act , 1956 and, therefore, the doctrine of election has no application in this case.
+Argument	Learned counsel submitted that the very object for enacting the NPA Act is to introduce banking reforms including change in the DRT Act so as to include the provisions of the NPA Act therein and, therefore, withdrawal of the O.A.
+Argument	is not a condition precedent for invoking NPA Act .
+Argument	<NAME>, learned senior counsel appearing for <ORG> submitted that Rule 2(b) of the Security Interest (Enforcement) Rules 2002 ("2002 Rules") states that a demand notice is the notice in writing issued by a secured creditor to any borrower pursuant to Section 13(2) of the NPA Act.
+Argument	Reliance is placed on  the said rule to show that the notice under Section 13(2) is not a mere show cause notice, that it is a demand notice similar to Section 156 of the Income Tax Act.
+Argument	In this connection, learned counsel submitted, that Section 22 of the NPA Act refers to default in repayment of debt on the part of the borrower plus classification of his account as NPA; that once an account is classified as NPA then the account continues to remain as NPA even if there is a part payment.
+Argument	Learned counsel submitted that under Rule 3 of the 2002 Rules, the service of demand notice under Section 13(2) indicates the procedure to be followed in serving such notice and if the amount mentioned in the demand notice is not paid within the stipulated period then Rule 4 provides that the Authorised Officer of a bank/ FI shall proceed to realise the amount by adopting any one or more of the measures specified in Section 13(4) .
+Argument	These rules are relied upon to show that the notice under Section 13(2) constitute an action taken under the NPA Act  .
+Argument	Further, he pointed out that after giving of the demand notice, the debtor is debarred from dealing with the assets, vide Section 13(13) of NPA Act.
+Argument	He submitted that Section 13 of NPA Act deals with secured interest whereas Section 9 of the NPA Act deals with unsecured interest.
+Argument	Learned counsel submitted, that there is a basic difference between suits to recover debts and suits to enforce securities; that NPA Act deals with enforcement of securities and it does not wait for debts to crystallize and, therefore, O.A.
+RulingByLowerCourt	filed in the <ORG> will not be required to be withdrawn in the event action by way of Section 13(2) notice is taken even before 11.11.2004.
+RulingByLowerCourt	The doctrine of election would not apply to the proceedings under the NPA Act and the <ORG> Act .
+RulingByLowerCourt	It is urged, that the nature, ambit and scope of the proceedings under the two Acts are different; that the legislative purpose for conferring the power on the secured creditors to enforce its security interest by taking recourse to Section 13(4) of NPA Act without  intervention of the court is to free the secured creditors of the impediments contained in Section 69 of the TP Act.
+RulingByLowerCourt	A secured creditor is now empowered by virtue of Section 13 of the NPA Act to take any of the measures including sale of the secured assets without intervention of the court and notwithstanding the limitations of Section 69 of the TP Act.
+RulingByLowerCourt	The power of sale of property in a suit even prior to the passing of decree has been upheld by this <ORG> by placing reliance on Order XL Rule 1(1)(d) CPC.
+RulingByLowerCourt	In the circumstance, withdrawal of O.A.
+RulingByLowerCourt	cannot be made a condition precedent for taking recourse to N.PA Act.
+RulingByLowerCourt	Mr. <NAME>, learned counsel appearing on behalf of <ORG>, submitted that the doctrine of election is for banks/ FIs.
+RulingByLowerCourt	and not for borrowers.
+RulingByLowerCourt	The reason is that a creditor has to see his debtor, it is the right of the bank to liquidate the asset which right is unfettered once a security or interest is created in favour of the bank/ <CITATION_109255> (2005)127CompCas514(Ker)].
+Argument	Learned counsel submitted that the purpose of enacting proviso to Section 19(1) is to bring in Order XXIII CPC.
+Argument	Learned counsel submitted that the doctrine of election applies only in case of inconsistent remedies and not in case of additional remedies.
+Argument	He urged that withdrawal of an application could be a condition precedent for alternate remedy, however, it cannot be a condition precedent for taking recourse to an additional remedy.
+Argument	Learned counsel urged that unlike SICA, in the NPA Act , 2002 there is no proviso saving limitation, and, therefore, if the argument of the borrowers is accepted, it could lead to a situation where the banks' action under NPA Act would be time barred.
+Argument	In any event, NPA Act , according to the learned counsel, is a later enactment and, therefore, it shall prevail over the DRT Act .
+Argument	Ms. <NAME>, learned counsel for <ORG>, has adopted the above arguments advanced on behalf of the various banks.
+RatioOfTheDecision	The heart of the matter is that NPA Act proceeds on the basis that an  interest in the asset pledged or mortgaged with the bank or FI is created in favour of the bank/ FI; that the borrower has become a Debtor, his liability has crystallized and that his account with the bank/ FI (which is an asset with the bank/FI) has become sub-standard.
+RatioOfTheDecision	Value of an asset in an inflationary economy is discounted by "time" factor.
+RatioOfTheDecision	A right created in favour of the bank/ FI involves corresponding obligation on the part of the borrower to see that the value of the security does not depreciate with the passage of time which occurs due to his failure to repay the loan in time.
+RatioOfTheDecision	Keeping in mind the above circumstances, the NPA Act is enacted for quick enforcement of the security.
+RatioOfTheDecision	The said Act deals with enforcement of the rights vested in the bank/ FI.
+RatioOfTheDecision	The NPA Act proceeds on the basis that security interest vests in the bank/FI.
+RatioOfTheDecision	The NPA Act proceeds on the basis that security interest vests in the bank/FI.
+RatioOfTheDecision	Sections 5 and 9 of NPA Act is also important for preservation of the value of the assets of  the banks/ FIs.
+RatioOfTheDecision	Quick recovery of debt is important.
+RatioOfTheDecision	It is the object of DRT <ORG>ct as well as NP<ORG> <ORG>ct .
+RatioOfTheDecision	<ORG>ut under NP<ORG> <ORG>ct , authority is given to the banks/ FIs, which is not there in the DRT <ORG>ct , to assign the secured interest to securitisation company/ asset reconstruction company.
+RatioOfTheDecision	In cases where the borrower has bought an asset with the finance of the bank/ FI, the latter is treated as a lender and on assignment the securitisation company/ asset reconstruction company steps into the shoes of the lender bank/ FI and it can recover the lent amounts from the borrower.
+RatioOfTheDecision	<ORG>ccording to <ORG> (Thirty-first edition) at page 777, a dual obligation could arise on the same transaction, namely, <ORG>'s obligation to repay a sum of money to <ORG> or some other obligation.
+RatioOfTheDecision	In such a case, <ORG> can sue <ORG> for money or for breach of the obligation.
+RatioOfTheDecision	However, <ORG> will often have some security which covers the obligation of <ORG>, say, in the form of an asset over which <ORG> can exercise his rights.
+RatioOfTheDecision	<ORG> may be entitled to this security eit her by law or by operation of common law principles or under the transaction (contract).
+RatioOfTheDecision	In addition, B may acquire a personal right of action against the third party.
+RatioOfTheDecision	Security over the asset (property) may be obtained by mortgage, charge, pledge, lien etc.
+RatioOfTheDecision	Security in the form of right of action against a third party is known as guarantee.
+RatioOfTheDecision	Broadly, there are three types of security over the asset.
+RatioOfTheDecision	One is where the creditor obtains interest in the asset concerned (mortgage).
+RatioOfTheDecision	Second is securities in which the rights of the creditor depends on possession of the asset (pledge/ lien).
+RatioOfTheDecision	The third is charge where the creditor neither obtains ownership nor possession of the asset but the asset is appropriated to the satisfaction of the debt or obligation in question (charge).
+RatioOfTheDecision	The dichotomy, which is of importance, is that more than one obligation could arise on the same transaction, namely, to repay the debt or to discharge some other obligation.
+RatioOfTheDecision	Therefore, when Section 13(4) talks about taking possession of the sec ured assets or management of the business of the borrower, it is because a right is created by the borrower in favour of the bank/ FI when he takes a loan secured by pledge, hypothecation, mortgage or charge.
+RatioOfTheDecision	For example, when a company takes a loan and pledges its financial asset, it is the duty of that company to see that the margin between what the company borrows and the extent to which the loan is covered by the value of the financial asset hypothecated is retained.
+RatioOfTheDecision	If the borrower company does not repay, becomes a defaulter and does not keep up the value of the financial asset which depletes then the borrower fails in its obligation which results in a mis- match between the asset and the liability in the books of the bank/ FI.
+RatioOfTheDecision	Therefore, Sections 5 and 9 talks of acquisition of the secured interest so that the balance sheet of the bank/ FI remains clean.
+RatioOfTheDecision	Same applies to immovable property charged or mortgaged to the bank/ FI.
+RatioOfTheDecision	These are some of the factors which the Authorised Officer of the bank/ FI has  to keep in mind when he gives notice under Section 13(2) of the NPA Act.
+RatioOfTheDecision	Hence, equity, exists in the bank/FI and not in the borrower.
+RatioOfTheDecision	Therefore, apart from obligation to repay, the borrower undertakes to keep the margin and the value of the securities hypothecated so that there is no mis-match between the asset-liability in the books of the bank/FI.
+RatioOfTheDecision	This obligation is different and distinct from the obligation to repay.
+RatioOfTheDecision	It is the former obligation of the borrower which attracts the provisions of NPA Act which seeks to enforce it by measures mentioned in Section 13(4) of NPA Act, which measures are not contemplated by DRT Act and, therefore, it is wrong to say that the two Acts provide parallel remedies as held by the judgment of <ORG> in <ORG> <ORG>.. As stated, the remedy under DRT Act falls short as compared to NPA Act which refers to acquisition and assignment of the receivables to the asset reconstruction company and which authorizes banks/ FIs.
+RatioOfTheDecision	to take possession or to take over manag ement which is not there in the DRT Act .
+RatioOfTheDecision	It is for this reason that NPA Act is treated as an additional remedy ( Section 37 ), which is not inconsistent with the DRT Act .
+RatioOfTheDecision	In the light of the above discussion, we now examine the doctrine of election.
+RatioOfTheDecision	There are three elements of election, namely, existence of two or more remedies; inconsistencies between such remedies and a choice of one of them.
+RatioOfTheDecision	If any one of the three elements is not there, the doctrine will not apply.
+Precedent	According to American Jurisprudence, 2d, Vol.
+RatioOfTheDecision	25, page 652, if in truth there is only one remedy, then the doctrine of election does not apply.
+RatioOfTheDecision	In the present case, as stated above, the NPA Act is an additional remedy to the DRT Act .
+RatioOfTheDecision	Together they constitute one remedy and, therefore, the doctrine of election does not apply.
+RatioOfTheDecision	Even according to <ORG> (Thirty-first Edition, page 119), the doctrine of election of remedies is applicable only when there are two or more co-existent remedies available to the litigants at the time of electi on which are repugnant and inconsistent.
+RatioOfTheDecision	In any event, there is no repugnancy nor inconsistency between the two remedies, therefore, the doctrine of election has no application.
+RatioOfTheDecision	In our view, the judgments of the High Courts which have taken the view that the doctrine of election is applicable are erroneous and liable to be set aside.
+RatioOfTheDecision	We have already analysed the scheme of both the Acts.
+RatioOfTheDecision	Basically, the NPA Act is enacted to enforce the interest in the financial assets which belongs to the bank/ FI by virtue of the contract between the parties or by operation of common law principles or by law.
+RatioOfTheDecision	The very object of Section 13 of NPA Act is recovery by non-adjudicatory process.
+RatioOfTheDecision	A secured asset under NPA Act is an asset in which interest is created by the borrower in favour of the bank/ FI and on that basis alone the NPA Act seeks to enforce the security interest by non-adjudicatory process.
+RatioOfTheDecision	Essentially, the NPA Act deals with the rights of the secured creditor.
+RatioOfTheDecision	The NPA Act proceeds on the basis that the debtor h as failed not only to repay the debt, but he has also failed to maintain the level of margin and to maintain value of the security at a level is the other obligation of the debtor.
+RatioOfTheDecision	It is this other obligation which invites applicability of NPA Act .
+RatioOfTheDecision	It is for this reason, that Sections 13(1) and 13(2) of the NPA Act proceeds on the basis that security interest in the bank/FI; needs to be enforced expeditiously without the intervention of the court/tribunal; that liability of the borrower has accrued and on account of default in repayment, the account of the borrower in the books of the bank has become non-performing.
+RatioOfTheDecision	For the above reasons, NPA Act states that the enforcement could take place by non-adjudicatory process and that the said Act removes all fetters under the above circumstances on the rights of the secured creditor.
+RatioOfTheDecision	The question still remains as to the object behind insertion of the three provisos to Section 19(1) of DRT Act vide amending Act 30 of 2004.
+RatioOfTheDecision	The DRT is a tribunal, it is the creature  of the statute, it has no inherent power which exists in the civil courts.
+RatioOfTheDecision	Order XXIII Rule 1 (3) CPC states inter alia that where the court is satisfied that there are sufficient grounds for allowing the plaintiff to institute a fresh suit for the subject-matter of a suit or part of a claim then the civil court may, on such terms as it thinks fit, grant the plaintiff permission to withdraw the entire suit or such part of the claim with liberty to institute a fresh suit in respect thereof.
+Statute	Under Order XXIII Rule 1(1)(4)(b), in cases where a suit is withdrawn without the permission of the court, the plaintiff shall be precluded for instituting any fresh suit in respect of such subject-matter.
+RatioOfTheDecision	Order XXIII Rule 2 states that any fresh suit instituted on permission granted shall not exclude limitation and the plaintiff should be bound by law of limitation as if the first suit had not been instituted.
+RatioOfTheDecision	Order XXIII Rule 3 deals with compromise of suits.
+RatioOfTheDecision	It states that where it is proved to the satisfaction of the co urt that a suit has been adjusted wholly or in part by any lawful agreement or compromise or where the defendant satisfies the plaintiff in respect of whole or any part of the subject- matter of the suit, the <ORG> shall order such agreement, compromise or satisfaction to be recorded, and shall pass a decree in accordance therewith.
+RatioOfTheDecision	The object behind introducing the first proviso and the third proviso to Section 19(1) of the <ORG> Act is to align the provisions of <ORG> Act , the NPA Act and Order XXIII CPC.
+RatioOfTheDecision	Let us assume for the sake of argument, that an O.A.
+RatioOfTheDecision	is filed in the <ORG> for recovery of an amount on a term loan, on credit facility and on hypothecation account.
+RatioOfTheDecision	After filing of O.A., on account of non disposal of the O.A.
+RatioOfTheDecision	by the tribunal due to heavy backlog, the bank finds that one of the three accounts has become sub-standard/ loss, in such a case the bank can invoke the NPA Act with or without the permission of the <ORG>.
+RatioOfTheDecision	One cannot lose sight of the fact that even an application for withdrawal/ leave ta kes time for its disposal.
+RatioOfTheDecision	As stated above, with inflation in the economy, value of the pledged property/ asset depreciate on day to day basis.
+RatioOfTheDecision	If the borrower does not provide additional asset and the value of the asset pledged keeps on falling then to that extent the account becomes non-performing.
+RatioOfTheDecision	Therefore, the bank/ FI is required to move under NPA Act expeditiously by taking one of the measures by Section 13(4) of the NPA Act.
+RatioOfTheDecision	Moreover, Order XXIII CPC is an exception to the common law principle of non-suit, hence the proviso to Section 19(1) became a necessity.
+RatioOfTheDecision	For the above reasons, we hold that withdrawal of the O.A.
+RatioOfTheDecision	pending before the <ORG> under the <ORG> Act is not a pre-condition for taking recourse to NPA Act .
+RatioOfTheDecision	It is for the bank/FI to exercise its discretion as to cases in which it may apply for leave and in cases where they may not apply for leave to withdraw.
+RatioOfTheDecision	We do not wish to spell out those circumstances because the said first proviso to Section 19(1) is an enabling provision, which provision  may deal with myriad circumstances which we do not wish to spell out herein.
+RatioOfTheDecision	(ii) On Point No.
+RatioOfTheDecision	2 on question of possession:  The short question under this head is whether recourse to take possession of the secured assets of the borrower under Section 13(4) of the NPA Act comprehends the power to take actual possession of the immovable property.
+Argument	Mr. <NAME> and Mr. <NAME>, learned advocates appearing on behalf of the respective borrowers submitted that Section 13(4) of the NPA Act empowers the secured creditor to take possession of the secured immovable assets of the borrower on expiry of sixty days and notice served under Section 13(2) of that Act.
+Argument	It is pointed out that in many cases, the banks/FIs.
+Argument	have taken actual physical possession whereas in other cases they have taken only a symbolic possession.
+Argument	Learned advocates submitted that in <ORG>, <ORG> has rightly held that if physical possession is taken on expiry of sixty days, the remedy of application under Section 17 of the  NPA Act by the borrower would become illusory and meaningless as the borrower or the person in possession would be dispossessed even before adjudication of the objections by the tribunal.
+Argument	Learned advocates further submitted that under Section 13(8) , the bank/FI is prevented from selling the secured assets, if the dues of the secured creditor with all costs, charges and expenses are tendered to the secured creditor at any time before the date fixed for sale.
+Argument	Learned advocates pointed out that under Rule 8(1) of the 2002 Rules, a secured creditor is empowered to take possession as per notice appended in terms of Appendix IV.
+Argument	That notice cautions the borrower not to deal with the property.
+Argument	Learned advocates submitted that notice in terms of Rule 8(1) of the 2002 Rules operates as attachment.
+Argument	It contemplates a symbolic possession.
+Argument	Learned advocates submitted that actual physical possession of immovable assets can be taken under Rule 8(3), in cases where there is a vacant plot or a property which is lying unatte nded, but where the immovable property is in actual physical possession of any person, the person in possession cannot be dispossessed by virtue of a notice under Rule 8(1); that actual physical possession is to be delivered only after confirmation of sale under Rule 9(6) read with Appendix V under which the authorised officer is empowered to deliver the property to the purchaser free from all encumbrances in terms of Rule 9(9) of the 2002 Rules.
+Argument	Learned advocates, therefore, submitted that <ORG> was right in holding that the borrower or any other person in possession of the immovable property cannot be physically dispossessed at the time of issuing notice under Section 13(4) of the NPA Act so as to defeat the adjudication of his claim by the <ORG> under Section 17 of NPA Act, and that, physical possession can be taken only after the sale is confirmed in terms of Rule 9(9) of the 2002 Rules.
+RatioOfTheDecision	We do not find any merits on the above contentions for the following reasons.
+RatioOfTheDecision	The word possession is a relativ e concept.
+RatioOfTheDecision	It is not an absolute concept.
+RatioOfTheDecision	The dichotomy between symbolic and physical possession does not find place in the Act.
+RatioOfTheDecision	As stated above, there is a conceptual distinction between securities by which the creditor obtains ownership of or interest in the property concerned (mortgages) and securities where the creditor obtains neither an interest in nor possession of the property but the property is appropriated to the satisfaction of the debt (charges).
+RatioOfTheDecision	Basically, the NPA Act deals with the former type of securities under which the secured creditor, namely, the bank/FI obtains interest in the property concerned.
+RatioOfTheDecision	It is for this reason that the NPA Act ousts the intervention of the courts/ tribunals.
+RatioOfTheDecision	Keeping the above conceptual aspect in mind, we find that Section 13(4) of the NPA Act proceeds on the basis that the borrower, who is under a liability, has failed to discharge his liability within the period prescribed under Section 13(2) , which enables the secured creditor to take recourse to one of the  measures, namely, taking possession of the secured assets including the right to transfer by way of lease, assignment or sale for realizing the secured assets.
+RatioOfTheDecision	Section 13 (4-A) refers to the word "possession" simpliciter.
+RatioOfTheDecision	There is no dichotomy in sub-section (4-A) as pleaded on behalf of the borrowers.
+Statute	Under Rule 8 of the 2002 Rules, the authorised officer is empowered to take possession by delivering the possession notice prepared as nearly as possible in Appendix IV to the 2002 Rules.
+Statute	That notice is required to be affixed on the property.
+Statute	Rule 8 deals with sale of immovable secured assets.
+Statute	Appendix IV prescribes the form of possession notice.
+Statute	It inter alia states that notice is given to the borrower who has failed to repay the amount informing him and the public that the bank/FI has taken possession of the property under Section 13(4) read with Rule 9 of the 2002 Rules.
+Statute	Rule 9 relates to time of sale, issue of sale certificate and delivery of possession.
+Statute	Rule 9(6) states that on confirmation of sale, if the  terms of payment are complied with, the authorised officer shall issue a sale certificate in favour of the purchaser in the form given in Appendix V to the 2002 Rules.
+Statute	Rule 9(9) states that the authorised officer shall deliver the property to the buyer free from all encumbrances known to the secured creditor or not known to the secured creditor.
+Statute	(emphasis supplied).
+Statute	Section 14 of the NPA Act states that where the possession of any secured asset is required to be taken by the secured creditor or if any of the secured asset is required to be sold or transferred, the secured creditor may, for the purpose of taking possession, request in writing to the District Magistrate to take possession thereof.
+Statute	Section 17(1) of NPA Act refers to right of appeal.
+Statute	Section 17(3) states that if the <ORG> as an appellate authority after examining the facts and circumstances of the case comes to the conclusion that any of the measures under Section 13(4) taken by the secured creditor are not in accordance with the provisions of the  Act, it may by order declare that the recourse taken to any one or more measures is invalid, and consequently, restore possession to the borrower and can also restore management of the business of the borrower.
+RatioOfTheDecision	Therefore, the scheme of Section 13(4) read with Section 17(3) shows that if the borrower is dispossessed, not in accordance with the provisions of the Act, then the <ORG> is entitled to put the clock back by restoring the status quo ante.
+RatioOfTheDecision	Therefore, it cannot be said that if possession is taken before confirmation of sale, the rights of the borrower to get the dispute adjudicated upon is defeated by the authorised officer taking possession.
+RatioOfTheDecision	As stated above, the NPA Act provides for recovery of possession by non-adjudicatory process, therefore, to say that the rights of the borrower would be defeated without adjudication would be erroneous.
+RatioOfTheDecision	Rule 8, undoubtedly, refers to sale of immovable secured asset.
+Statute	However, Rule 8(4) indicates that where possession is taken by the authorised officer before issuance  of sale certificate under Rule 9, the authorised officer shall take steps for preservation and protection of secured assets till they are sold or otherwise disposed of.
+Statute	Under Section 13(8) , if the dues of the secured creditor together with all costs, charges and expenses incurred by him are tendered to the creditor before the date fixed for sale or transfer, the asset shall not be sold or transferred.
+Statute	The costs, charges and expenses referred to in Section 13(8) will include costs, charges and expenses which the authorised officer incurs for preserving and protecting the secured assets till they are sold or disposed of in terms of Rule 8(4).
+RatioOfTheDecision	Thus, Rule 8 deals with the stage anterior to the issuance of sale certificate and delivery of possession under Rule 9.
+RatioOfTheDecision	Till the time of issuance of sale certificate, the authorised officer is like a court receiver under Order XL Rule 1 CPC.
+RatioOfTheDecision	The court receiver can take symbolic possession and in appropriate cases where the court receiver finds that a third party interest  is likely to be created overnight, he can take actual possession even prior to the decree.
+RatioOfTheDecision	The authorized officer under Rule 8 has greater powers than even a court receiver as security interest in the property is already created in favour of the banks/FIs.
+RatioOfTheDecision	That interest needs to be protected.
+RatioOfTheDecision	Therefore, Rule 8 provides that till issuance of the sale certificate under Rule 9, the authorized officer shall take such steps as he deems fit to preserve the secured asset.
+RatioOfTheDecision	It is well settled that third party interests are created overnight and in very many cases those third parties take up the defence of being a bona fide purchaser for value without notice.
+RatioOfTheDecision	It is these types of disputes which are sought to be avoided by Rule 8 read with Rule 9 of the 2002 Rules.
+RatioOfTheDecision	In the circumstances, the drawing of dichotomy between symbolic and actual possession does not find place in the scheme of the NPA Act read with the 2002 Rules.
+RatioOfTheDecision	(iii) On Point No.
+Argument	3, on question of court fee:  Whether ad valorem court fee prescribed under R ule 7 of the <ORG> (Procedure) Rules, 1993 is payable on an application under Section 17(1) of the NPA Act in the absence of any rule framed under the NPA Act .
+Argument	Mr. <NAME> supplemented by Mr. <NAME>, learned advocates appearing on behalf of the borrower submitted that by virtue of the amending Act 30 of 2004 with effect from 11.11.2004, the persons aggrieved against the action of the bank or FI initiated under Section 13(4) of the NPA Act have a right to adjudication by way of an application to the <ORG> under Section 17(1) of the NPA Act.
+Argument	It is submitted that in exercise of powers conferred under Section 40(1) of the NPA Act, <ORG> has issued an Order called the "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest (Removal of Difficulties) Order, 2004 ("Order 2004") making the provision for levying of fees for filing of appeals.
+Argument	This Order 2004 was issued on 6.4.2004.
+Argument	It is further pointed out that on 8.4.2004, this Court delivered its judgment i n the case of <ORG> (supra).
+Argument	Clause (3) of the Order 2004 provides that the fee for filing of an appeal to <ORG> under Section 17(1) of the NPA Act shall be mutatis mutandis as provided for filing of an application to <ORG> under Section 19 of the <ORG> Act read with Rule 7 of the Debts Recovery Tribunal (Procedure) Rules, 1993 ("1993 Rules").
+Argument	Learned advocates urged that after the amending Act 30 of 2004 which came into force with effect from 11.11.2004 by which amendment was made to Section 17(1) of NPA Act, the Order 2004 dated 6.4.2004 issued by <ORG> has become redundant because the amending provision stipulates filing of an application by the borrower under Section 17(1) of NPA Act to the <ORG> challenging the action under Section 13(4) by filing an application along with payment of fees as may be prescribed.
+Argument	Learned advocates submitted that under Section 17(1) of NPA Act, as amended, a proviso is added which states that different fees may be prescribed for making an application by t he borrower.
+Argument	It is further submitted that the word "prescribed" has been defined under Section 2(s) to mean prescribed by rules made under the NPA Act .
+Argument	It is urged that in the judgment of <ORG> (supra), this <ORG> held that the remedy under Section 17 of NPA Act is not an appellate remedy.
+Argument	Clause (3) of the Order 2004 providing for fees for filing an appeal under the unamended provisions cannot, therefore, be made applicable to any application filed after 11.11.2004.
+Argument	Learned advocates submitted that NPA Act vide Section 17(1) of NPA Act read with Rule 7 of the 1993 <ORG> under DRT Act cannot form the basis to claim ad valorem court fee in terms of Rule 7 of the 1993 <ORG>, particularly after 11.11.2004 because, as stated above, this <ORG> has held in <ORG> (supra) that the remedy under Section 17(1) of NPA Act is the original remedy and not an appellate remedy.
+Argument	It is further submitted that after 11.11.2004, fees could be levied only vide <ORG> and not by an Order removing Difficulties.
+RatioOfTheDecision	We do not find any merits in the above contentions, for the following reasons.
+RatioOfTheDecision	It is true that Section 17(1) of the NPA Act states inter alia that a borrower aggrieved by action taken under Section 13(4) may make an application along with fees, as may be prescribed to the <ORG> having jurisdiction in the matter.
+RatioOfTheDecision	It is true that, the marginal note states that Section 17(1) is a right to appeal.
+RatioOfTheDecision	In our view, the marginal note to Section 17(1) cannot control the text and the content of Section 17(1) which, as stated above, states that the borrower aggrieved by any of the measures in Section 13(4) may make an application to the <ORG>.
+RatioOfTheDecision	The judgment of this Court in <ORG> (supra) states that the <ORG> acts in an Original Jurisdiction under Section 17 of the NPA Act.
+RatioOfTheDecision	In our opinion, as far as the levy of fee is concerned, the terminology makes no difference.
+RatioOfTheDecision	In fact, the proviso to Section 17(1) indicates that different fees may be prescribed for making an application by the borrower.
+RatioOfTheDecision	The reason is obvious.
+RatioOfTheDecision	C ertain measures taken under Section 13(4) like taking over the management of the fee vis-a-vis the secured creditor taking possession of financial assets have to bear different fees.
+RatioOfTheDecision	Each measure is required to be separately charged to the borrower (applicant) for which different fees could be prescribed.
+RatioOfTheDecision	The said proviso indicates that the tribunal under Section 17(1) exercises Original Jurisdiction and, therefore, as far as the fees are concerned, the terminology of original or appellate jurisdiction in the context of fees is irrelevant.
+RatioOfTheDecision	Secondly, under the Order 2004 issued by <ORG> under Section 40 of the NPA Act, it is provided that the fee for filing an appeal to the <ORG> under Section 17(1) of NPA Act shall be mutatis mutandis as provided for filing an application to the <ORG> under Rule 7 of the 1993 Rules.
+RatioOfTheDecision	The word mutatis mutandis indicates that a measure is adopted for assessing the fees required to be paid by the borrower when he applies by way of application to the <ORG> under Section  17(1) of NPA Act challenging the action taken under Section 13(4) of NPA Act by the secured creditor.
+RatioOfTheDecision	Lastly, we do not find any merit in the argument advanced on behalf of the borrowers that since fees have not been prescribed by the rules after 11.11.2004, fees cannot be levied on the basis of the Order 2004 which was there prior to 11.11.2004.
+RatioOfTheDecision	The contention of the borrowers is that since Section 17(1) of NPA Act, as amended, provides for prescribing fees for an application under Section 17(1) and since no rule has been framed under the NPA Act after 11.11.2004 fees cannot be levied under the Order 2004 dated 6.4.2004 which, according to the borrower, has come to an end after 11.11.2004 with the enactment of the amending Act 30 of 2004.
+RatioOfTheDecision	We do not find any merit in this last argument also.
+RatioOfTheDecision	In the case of <CITATION_755547> .
+Fact	reported in , one of the questions which arose for determination was whether <ORG> in the exercise of its power to remove difficulties under the Income Tax Act similar  to Section 40 of the NPA Act was competent to supply a deficiency in the Act.
+Fact	Answering the above question, this Court held as follows:  "36.
+Fact	This raises two questions: (1) Is this a 'difficulty' within the contemplation of clause (7) of the Regulation?
+Fact	(2) Is <ORG> in the exercise of its power under that clause competent to supply a deficiency or casus omissus of this nature ?
+Precedent	38.
+Precedent	For a proper appreciation of the points involved, it is necessary to have a general idea of the nature and purpose of a "removal of difficulty clause" and the power conferred by it on the <ORG>.
+Precedent	39.
+RatioOfTheDecision	To keep pace with the rapidly increasing responsibilities of a welfare democratic State, the <ORG> has to turn out a plethora of hurried legislation, the volume of which is often matched with its complexity.
+RatioOfTheDecision	Under conditions of extreme pressure, with heavy demands on the time of the <ORG> and the endurance and skill of the draftsman, it is well nigh impossible to foresee all the circumstances to deal  with which a statute is enacted or to anticipate all the difficulties that might arise in its working due to peculiar local conditions or even a local law.
+RatioOfTheDecision	This is particularly true when <ORG> undertakes legislation which gives a new dimension to socio-economic activities of the <ORG> or extends the existing Indian laws to new territories or areas freshly merged in <ORG>.
+RatioOfTheDecision	In order to obviate the necessity of approaching the <ORG> for removal of every difficulty, howsoever trivial, encountered in the enforcement of a statute, by going through the time-consuming amendatory process, the legislature sometimes thinks it expedient to invest the <ORG> with a very limited power to make minor adaptations and peripheral adjustments in the statute, for making its implementation effective, without touching its substance.
+RatioOfTheDecision	That is why the "removal of difficulty clause", once frowned upon and nick-named as "Henry VIII Clause" in scornful commemoration of the absolutist ways in which that English  <NAME> got the "difficulties" in enforcing his autocratic will removed through the instrumentality of a servile <ORG>, now finds acceptance as a practical necessity, in several Indian statutes of post independence era.
+RatioOfTheDecision	40.
+RatioOfTheDecision	Now let us turn to Clause (7) of the Regulation.
+RatioOfTheDecision	It will be seen that the power given by it is not uncontrolled or unfettered.
+RatioOfTheDecision	It is strictly circumscribed, and its use is conditioned and restricted.
+RatioOfTheDecision	The existence or arising of a "difficulty" is the sine qua non for the exercise of the power.
+RatioOfTheDecision	If this condition precedent is not satisfied as an objective fact, the power under this Clause cannot be invoked at all.
+RatioOfTheDecision	Again, the '"difficulty" contemplated by the clause must be a difficulty arising in giving effect to the provisions of the Act and not a difficulty arising aliunde, or an extraneous difficulty.
+RatioOfTheDecision	Further, <ORG> can exercise the power under the clause only to the extent it is necessary for applying or giving effect to the Act, etc., and no further.
+RatioOfTheDecision	It may slightly  tinker with the Act to round off angularities, and smoothen the joints or remove minor obscurities to make it workable, but it cannot change, disfigure or do violence to the basic structure and primary features of the Act.
+RatioOfTheDecision	In no case, can it, under the guise of removing a difficulty, change the scheme and essential provisions of the Act.
+RatioOfTheDecision	41.
+RatioOfTheDecision	The above principles, particularly the distinction between a 'difficulty' which falls within the purview of the Removal of Difficulty Clause and one which falls outside it, finds ample illustration in the 1949 Order and the impugned provision of the 1962 Order which came up for consideration in <ORG> case (1968) 2 SCR 1.
+RatioOfTheDecision	Excepting the reference to the corresponding provision of the 1922 Act, the language of the 1949 Order was the same as that of the unimpugned part of clause (3) of Order 2 of 1970 in the present case.
+RatioOfTheDecision	The 1949 Order related to the removal of a difficulty which had arisen in giving effect to the provisions of Section 10(2)(vi) Proviso (c) and Se ction 10(5)(b) of the 1922 Act, corresponding to Section 34(2)(i) and Section 43(6)(b) of the Act of 1961.
+RatioOfTheDecision	This difficulty had arises because the income-tax laws of the merged States were not repealed by the Indian Income-tax Act but by the Taxation Laws (Extension to Merged States and Amendment) Act 67 of 1949.
+RatioOfTheDecision	Owing to this, the depreciation actually allowed under the laws of the merged States could not be taken into account in computing the aggregate depreciation allowance referred to in sub-section (2)(vi), proviso (c) or the written down value under clause (b) of sub-section (5) of Section 10 of the 1922 Act.
+RatioOfTheDecision	If this difficulty had not been removed, anomalous results would have followed.
+RatioOfTheDecision	The written down value of the assets acquired before the previous year would have been taken as the original cost of the assets without deduction of the depreciation actually allowed in the past under the State laws.
+RatioOfTheDecision	This would have given to the assessees in the merged States, a benefit, inconsistently with the scheme of  Section 10 of the 1922 Act, exceeding in the aggregate even the original cost of the assets.
+RatioOfTheDecision	42.
+RatioOfTheDecision	The 1949 Order removed this difficulty.
+RatioOfTheDecision	In terms, it did no more than directing that if under the income-tax laws of a merged <ORG> any depreciation was actually allowed, it was to be taken into account in ascertaining the written down value of the assets.
+RatioOfTheDecision	Far from supplanting or changing the essence of the essential provisions of the Act relating to depreciation and written- down value, it gave effect, life and meaning to them."
+RatioOfTheDecision	In view of the above judgment of this Court in Madeva Upendra Sinai, we are of the view that the 2004 Order, in the present case, was issued with the object of supplying a deficiency, namely, levy of fees.
+RatioOfTheDecision	By such levy of fees, the nature and scope of the NPA Act is not altered.
+RatioOfTheDecision	It is not in dispute that the 2004 Order has been issued after the enactment of NPA Act .
+RatioOfTheDecision	After the amending Act 30 of 2004, certain amendments have been made in Section 17(1) of NPA Act.
+RatioOfTheDecision	However, the 2004 Orde r dated 6.4.2004 does not, in any way, alter the scheme of the amended Act.
+RatioOfTheDecision	It merely fills in the deficiency and, therefore, the 2004 Order will continue to operate even after the amending Act 30 of 2004 and till rules are prescribed in terms of Section 2(s) of the NPA Act.
+RatioOfTheDecision	Before concluding, it is necessary to analyse the following two judgments of this Court in the light of what is stated above.
+RatioOfTheDecision	In the case of <CITATION_1697343> .
+RatioOfTheDecision	(supra) it has been held that Section 29 of the State Financial <ORG> Act, 1951 (" SFC Act ") provides for the rights and remedies as also the procedure for enforcement of the rights.
+RatioOfTheDecision	It is a complete Code.
+RatioOfTheDecision	It is open to the <ORG> to act under Section 29 to realise its dues from the defaulter concerned by following the procedure prescribed thereunder.
+RatioOfTheDecision	The <ORG> does not require the assistance of the court to enforce its rights while invoking the provisions of Section 29 .
+RatioOfTheDecision	In the said judgment, it has been further held that Section 31 has been enacted to take c are of a situation where any industrial concern, in breach of any agreement, makes default in repayment of the loan or advance or the <ORG> requires immediate repayment which the defaulter fails to make.
+RatioOfTheDecision	This Court, therefore, held that Section 31 provides for substantive relief in the nature of an application for attachment of property in execution of a decree before the judgment and that on conjoint reading of Sections 29 and 31 , in case of default in repayment/ breach of an agreement, the <ORG> has two remedies under the SFC Act against the defaulter, one under Section 29 and another under Section 31 .
+RatioOfTheDecision	This Court further held that the doctrine of election would not be attracted under the SFC Act in view of the expression "without prejudice to the provisions of Section 29 " being used in Section 31 .
+RatioOfTheDecision	However, this Court observed that the <ORG> has a right to choose initially whether to proceed under Section 29 or Section 31 , but its rights under Section 29 are not extinguished, if it dec ides to take recourse to Section 31 .
+RatioOfTheDecision	The <ORG> can abandon the proceedings under Section 31 at any stage.
+RatioOfTheDecision	This Court further held that a decree under Section 31 is not a money decree and, therefore, recourse to Section 31 cannot debar the <ORG> from taking recourse to Section 29 by not pursuing Section 31 .
+RatioOfTheDecision	It is also observed that debtor cannot claim equity.
+RatioOfTheDecision	In our view, the judgment in A.P.
+RatioOfTheDecision	State Financial <ORG> (supra) has no application to the present case.
+RatioOfTheDecision	Under the SFC Act , Section 31 uses the expression "without prejudice to the provisions of Section 29 ", therefore, it is held, in the above judgment, that Section 29 is wider in scope than Section 31 which concerns attachment before judgment.
+RatioOfTheDecision	Sections 29 and 31 find place in the same Act.
+RatioOfTheDecision	Section 31 operates in an area carved out of its preceding Section 29 of the SFC Act.
+RatioOfTheDecision	On the other hand, in the present case, we have two separate enactments, namely, the DRT Act , 1993 and the NPA Act , 2002.
+RatioOfTheDecision	Further, the DRT Act does not deal wi th assignment of an asset by the bank/FI to the asset reconstruction company/ securitisation company.
+RatioOfTheDecision	This can be done only under the NPA Act .
+RatioOfTheDecision	Under the NPA Act , the asset reconstruction company/ securitisation company can manage and reconstruct the asset.
+RatioOfTheDecision	The said company can even step into the shoes of the lender bank/FI, therefore, the remedy under NPA Act is an additional remedy, as stated in Section 37 of NPA Act.
+RatioOfTheDecision	The NPA Act is in addition to the DRT Act , therefore, the scheme of the SFC Act is different from the integrated scheme of the DRT Act and the NPA Act .
+RatioOfTheDecision	In the circumstances, the judgment of this Court in <ORG> (supra) has no application.
+RatioOfTheDecision	In the case of <CITATION_899309> .
+RatioOfTheDecision	(supra) this Court has held that on the language of Section 167 of the Motor Vehicles Act, 1988 (" MV Act "), and going by the principles of election of remedies, a claimant (worker) opting to proceed under the Workmen's Compensation Act , 1923 ("1923 Act") cannot take recourse to the provisions  to the MV Act except to the extent stated in Section 167 of the MV Act.
+RatioOfTheDecision	This judgment has no application to the facts of the present case.
+RatioOfTheDecision	As held in the above judgment of <CITATION_899309> (supra), Section 167 of the MV Act statutorily provides for an option to the claimant stating that where death or bodily injury gives rise to a claim for compensation under the MV Act as also under the 1923 Act, the person entitled to compensation may, without prejudice to the provisions of Chapter X, can claim such compensation under either of the two Acts but not under both.
+RatioOfTheDecision	Such a section is not there in the case before us and, therefore, the judgment in the case of <CITATION_899309> (supra) has no application.
+RulingByPresentCourt	Mr. <NAME>, learned counsel appearing for <ORG> seeks time for filing an application under Section 17 of the NPA Act.
+RulingByPresentCourt	He prays for continuation of the interim order dated 16.9.2005 granted by this <ORG> by which confirmation of sale has been stayed.
+RatioOfTheDecision	Since the matter was pending before this <ORG> in  appeal, we extend the interim order for four weeks from the date of the judgment in Civil Appeal No.
+RatioOfTheDecision	3228 of 2006.
+RatioOfTheDecision	Accordingly, we answer the above three questions in the affirmative that is in favour of the banks/FIs.
+RatioOfTheDecision	(secured creditors) and, accordingly, the borrower's appeal/I.A.
+RatioOfTheDecision	in this <ORG> stands dismissed whereas the appeal/I.A.
+RulingByPresentCourt	filed by the banks/ FIs.
+RulingByPresentCourt	stands allowed with no order as to costs.

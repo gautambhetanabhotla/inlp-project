@@ -1,0 +1,9 @@
+Fact	ORDER  1.
+Fact	This case is about writing off of bad debts.
+Fact	2.
+Fact	It is well settled that whether a debt has become bad or the point of time when it became bad are pure questions of fact.
+Fact	3.
+Fact	There is no question of law involved in this appeal.
+RulingByPresentCourt	We, therefore, declined to go into the controversy raised.
+RulingByPresentCourt	The appeal is dismissed.
+RulingByPresentCourt	There will be no order as to costs.

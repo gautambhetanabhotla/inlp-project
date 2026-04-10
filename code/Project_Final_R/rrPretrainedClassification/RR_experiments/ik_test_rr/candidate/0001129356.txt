@@ -1,0 +1,31 @@
+Fact	JUDGMENT <NAME>, <NAME> and <NAME>, J.
+Fact	1.
+Fact	This appeal arises out of a suit in which the plaintiff <NAME> claimed the sum of Rs.
+Fact	30,009 together with interest.
+Fact	It appears that on the 2nd of June, 1913, one <NAME> made a mortgage in favour of <NAME>.
+Fact	The mortgage consisted of zamiadari property and also mortgagee rights in other property.
+Fact	On the 21th of November, 1396, <NAME> sold the entire mortgaged property, that is to say, the zamindari and the mortgagee rights, to the defendant <NAME> for the sum of Rs.
+Fact	41,100 leaving Ra.
+Fact	40,000 with the vendee for payment of the money due to <NAME>.
+Fact	On the 9th of February, 1900, <NAME> sued for sale of the mortgaged property.--After a considerable amount of litigation he got a decree, but only for the sale of the zamindari the mortgagee rights were excluded.
+Fact	The sale of the zamindari property being insufficient to satisfy the decree, the plaintiff, on the 7th of January, 1907, applied for a decre e under section.
+Fact	90 of the Transfer of Property Act , and after some further litigation obtained a decree against the judgement-debtors other than the present defendant.
+Fact	It is alleged that a balance of Rs.
+Fact	33,009 still remained due.
+Fact	He now brings the present suit alleging that <NAME> was a trustee for him because Rs.
+Fact	40,000 out of Rs.
+Fact	44,000 was left in his hands for payment of the plaintiff's debt.
+Fact	There is no doubt that it was due to certain rulings of tins <ORG> that mortgagee rights were excluded from the original decree which <NAME> obtained on foot of his mortgage, ever since the case of <CITATION_871379> (1907) I.L.R.
+Fact	29 All.
+Precedent	385 was decided a mortgagee of mortgagee rights that is, a sub-mortgagee) is entitled to pursue his remedy and realize his debt out of the mortgage security, even though that security be mortgagee rights.
+Precedent	In the case we have referred to the authorities were fully discussed and the Court unanimously overruled the case of <NAME> v. <NAME> (18 91) I.L.R.
+Precedent	13 All.
+Precedent	432.
+RatioOfTheDecision	The latter decision of this Court is supported by the provisions of Order XXXIV.
+Fact	in reality the present suit has been brought because the plaintiff failed to realize his debt in the appropriate way.
+Fact	In our opinion the real nature of the sale of the 24th of November, 1896, was a sale by <NAME> to <NAME> for Rs.
+Fact	4,000 subject to the mortgage of Rs.
+RatioOfTheDecision	40,000.
+RatioOfTheDecision	In our Judgment it is absolutely clear that no trust was created in favour of the plaintiff', He was no party to the transaction and the sale did not in any way affect his rights to proceed against the property mortgaged to him.
+RatioOfTheDecision	We consider that the decision of the Court below was quite correct and must be confirmed.
+RulingByPresentCourt	We accordingly dismiss the appeal with costs.

@@ -1,0 +1,77 @@
+Fact	PETITIONER: <ORG> Vs. RESPONDENT: C.I.T., WEST BENGAL, CALCUTTA DATE OF JUDGMENT10/10/1979 BENCH: PATHAK, R.S.
+Fact	BENCH: PATHAK, R.S.
+Fact	UNTWALIA, N.L.
+Fact	CITATION: 1980 AIR 251 1980 SCR (1) 906 1980 SCC (1) 139 ACT: Indian <ORG> Act 1922_s.
+Fact	24(2)(iii)-Assessee if could claim vested right under the law as it stood before amendment-Law to be applied is the law in relevant assessment year.
+Fact	HEADNOTE: Section 24(2)(iii) of the Indian Income-Tax Act, 1922 as it stood in 1955 provided that a business loss which was not wholly set off should be carried forward from year to year.
+Fact	In consequence of an amendment to the section made in 1957 the carry forward of unabsorbed loss could not be effected for more than eight years.
+Fact	After setting off unabsorbed losses for the assessment years 1949-50 and 1950-51 the <ORG> officer directed that the loss remaining unabsorbed in the year 1950-51 be carried forward.
+Fact	The assessee's plea that the unabsorbed loss of the year 1950-51 should be set off against  the business income of the assessment year 1960.61 was rejected by the Income- Tax officer on the ground that the unabsorbed loss of the year 1950-51 could not be carried forward for more than eight years.
+Fact	The assessee was unsuccessful in appeal before the Appellate Assistant Commissioner and <ORG>.
+Fact	<ORG> answered the reference against the <ORG>.
+Fact	In appeal to this Court it was contended that by virtue of s. 24(2) (iii) of the Act, as it stood before its amendment in 1957, the assessee had acquired a vested right to have the unabsorbed loss carried forward from year to year until it was completely set off and that the subsequent amendment limiting the period to eight years could not divest the assessee of the vested right already accrued to him.
+Fact	Dismissing the appeal, ^ HELD: The unabsorbed loss of the assessment year 1950- 51 could not be carried forward for more than eight years and consequently could not be set off against the business income of the assessment year 1960-61.
+Fact	[90 9 C] 1.
+Fact	(a) It is a cardinal principle of the tax law that the law to be applied is that in force in the assessment year unless otherwise provided expressly or by necessary implication right claimed by an assessee under the law in force In a particular assessment year is ordinarily available only in relation to a proceeding pertaining to that years.
+Fact	[908 G, 909 <CITATION_375925> , (1951) 20 I.T.R.
+Fact	572 and <CITATION_1476134> (1966 60 I.T.R.
+Fact	262: referred to.
+Fact	907 (b) When an assessment for the assessment year 1960-61 was to be made A and s. 24(2) was invoked it was the section in force as ill that assessment year which had to be applied.
+Fact	There is no question of the assessee possessing any vested right under the law as it stood before the amendment.
+Fact	[908 H, 909 A-B] 2.
+Argument	The direction of the Appellate Assistant Commissioner that the unabsorbed loss should be carried forward have meaning only if the law in force in the relevant assessment year permits the unabsorbed loss to be carried forward into the assessment of  that year the instant case the Appellate Assistant Commissioner assumed that the law permitted the unabsorbed loss to be carried forward into future year.
+Argument	But that was not the law in the relevant assessment year and therefore the assessee could derive no advantage from that direction.
+RulingByLowerCourt	[909 <CITATION_919390> .
+RulingByLowerCourt	(1962) 44 I.T.R.
+RulingByLowerCourt	714, distinguished.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	2366 of 1972.
+Fact	From the Judgment and order dated 25-3-1971 of <ORG> in Income Tax Ref.
+Fact	No.
+RatioOfTheDecision	120/69.
+RatioOfTheDecision	<NAME>, <NAME>, <NAME>, <NAME> and Miss <NAME> for the Appellant.
+RatioOfTheDecision	<NAME> and Miss <NAME> for the Respondent.
+Fact	The Judgment of the Court was delivered by <NAME>, J: This appeal by certificate under section 66- A(2) of the Indian Income Tax Act , 1922 raises a question involving the interpretation of section 24(2) (iii) of that Act.
+Fact	The assessee is a company carrying on the business of manufacturing jute goods.
+Fact	The case relates to the assessment y ear 1960-61, for which the relevant accounting period is the financial year ending Match 31, 1960.
+Fact	While making the assessment for the assessment year 1959-60, the <ORG> officer set off the unabsorbed business loss of Rs.
+Fact	1,58,845 for 1949-50 and Rs.
+Fact	5,70,952 for 1950-51 against the business income of that year and directed that Rs.
+Fact	15,50,189 representing the loss remaining unabsorbed should be carried forward.
+Fact	In the assessment proceeding for the assessment year 1960-61, with which we are concerned, the assessee claimed that the unabsorbed loss should be carried forward and set off against the business income of the current year.
+Fact	The <ORG> officer rejected the claim on the ground that the unabsorbed loss related to 1950-51 and could not be carried forward for more than eight years.
+Fact	The assessee pressed the claim in appeal before the Appellate Assistant Commissioner but without success.
+Fact	A second appeal was dismissed by the <ORG> Appellate Tribunal.
+Fact	At the instance of the assessee, the Appellat e <ORG> referred the following question of law to <ORG> at Calcutta:-  "Whether, on the facts and circumstances of the case, the assessee was entitled in law to set off unabsorbed loss of Rs.
+Fact	15,50,189 of the assessment year 1950-51 against the business income of the assessment year 1960-61 ?"
+Fact	<ORG> answered the question in the negative.
+Fact	In this appeal by the assessee it is contended that by virtue of section 24(2) (iii) of the Indian Income Tax Act , 1922, as it stood before its amendment with effect from April 1, 1957, the assessee had acquired a vested right to have the unabsorbed loss carried forward from year to year until it was completely set off and the subsequent amendment limiting the period for carrying forward the loss to eight years could not divest the assessee of the vested right which had thus accrued to him.
+RatioOfTheDecision	It is pointed out that the amendment effected in 1957 is not retrospective in operation.
+RatioOfTheDecision	In our judgment, there is no substance in the assesse's claim.
+Statute	Section 24 (2) has suffered amendment a number of times.
+Statute	Prior to its amendment by the Finance Act , 1955 it permitted a business loss to be carried forward for not more than six years, except in the case of losses pertaining to certain assessment years ending with the assessment year 1943-44 where the period for carrying forward was shorter.
+Statute	Section 16 of the Finance Act, 1955 amended section 24(2) , and as a result of the amendment section 24(2) (iii) provided that a businesss loss which was not wholly set off could be carried forward from year to year.
+RulingByLowerCourt	Thereafter, Finance (No.
+RulingByLowerCourt	2) Act of 1957 amended s.24(2) (iii) with effect from April 1, 1957 and in consequence an unabsorbed loss could not now be carried forward for more than eight years.
+RatioOfTheDecision	The assessee claims a vested right under section 24(2)   (iii), as it, stood before its amendment in 1957, to have the unabsorbed loss of 1950-51 carried forward from year to year until the loss is completely absorbed.
+RatioOfTheDecision	The claim is based on a misconception of the fundamental basis  underlying every income tax assessment.
+RatioOfTheDecision	"It is a cardinal principle of the tax law that the law to be applied is that in force in the assessment year unless otherwise provided expressly or by necessary implication."
+RatioOfTheDecision	<CITATION_375925> and <CITATION_1476134> on that principle, it is abundantly clear that when an assessment for the assessment year 1960-61 is to be made and section 24(2) is invoked, it is s.24(2) as in force in that assessment year which has to be applied.'
+Statute	That is the provision as amended by the Finance (No.
+RatioOfTheDecision	2) Act, 1957.
+RatioOfTheDecision	There is no question of the assessee possessing any vested right under the law as it stood before the amendment.
+RatioOfTheDecision	The assessment for one assessment year cannot, in the absence of a contrary provision, be affected by the law in force in another assessment year.
+RatioOfTheDecision	A right claimed by an assessee under the law in force in a particular assessment year is ordinarily available only in relation to a proceeding pertaining to that year.
+RatioOfTheDecision	Therefore, inasmuch as the provisions of section 24(2 ) , as amended in 1957, govern the assessment for the assessment year 1960-61, <ORG> is right in affirming that the unabsorbed loss of Rs.
+RatioOfTheDecision	15,50,189 of the assessment year 1950-Sl cannot be carried forward for more than eight years, and consequently cannot be set off against the business income of the assessment year 1960-61.
+RulingByLowerCourt	It is pointed out that the Appellate Assistant Commissioner mentioned in his order for the assessment year 1959-60 that the unabsorbed loss of Rs.
+RulingByLowerCourt	15,50,189 should be carried forward.
+RulingByLowerCourt	That direction has meaning only if the law in force in the assessment year 1960-61 permits the unabsorbed loss to be carried forward into the assessment of that year.
+RulingByLowerCourt	The direction by the Appellate Assistant Commissioner assumes that it the law permits the unabsorbed loss to be carried forward into future years, but as we have seen that is not the law and, therefore, the assessee can derive no advantage from that direction.
+RulingByLowerCourt	The assessee relies on the judgment of this <ORG> in <CITATION_919390> .
+RulingByLowerCourt	( l) That was a case, however, where paragraph 3 of the Taxation Laws (Removal of Difficulties) order, 1950 operated to divide the previous years to which the provision of the Travancore Income Tax Act, 1946 applied from those previous years to which the provisions of the Indian Income Tax Act , 1922, brought into force in the State of Travancore in 1950, would apply.
+RulingByLowerCourt	It was because of the Removal of Difficulties order that the <ORG> held that since under the Travancore Law the loss could be carried forward for two years only and those two years ended be- fore the previous years for which the Indian Income Tax Act began to apply, the benefit of the period of six years under the Indian Income Tax Act would not be available.
+RatioOfTheDecision	The case is clearly distinguishable.
+RulingByPresentCourt	In the result, the appeal fails and is dismissed.
+RulingByPresentCourt	P.B.R.
+RulingByPresentCourt	Appeal dismissed.

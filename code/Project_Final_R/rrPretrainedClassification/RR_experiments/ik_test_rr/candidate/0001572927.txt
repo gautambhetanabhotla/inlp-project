@@ -1,0 +1,208 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: UNION OF INDIA AND ORS.
+Fact	DATE OF JUDGMENT15/10/1987 BENCH: VENKATACHALLIAH, M.N.
+Fact	(J) BENCH: VENKATACHALLIAH, M.N.
+Fact	(J) SEN, A.P.
+Fact	(J) CITATION: 1987 AIR 2386 1988 SCR (1) 512 1987 SCC (4) 611 JT 1987 (4) 93 1987 SCALE (2)773 CITATOR INFO : R 1988 SC1099 (6) D 1991 SC1617 (10,26,33,34) R 1992 SC 188 (5) R 1992 SC 417 (5) ACT: Army Act , 1950/Army Rules, 1954: Sections 41 and 130 /Rules 106-133-Court Martial-When proceedings vitiated- Participation of officer who has punished accused-Whether amounts to bias-Soldier-Refusing to eat food-Whether amounts to disobedience of lawful command.
+Fact	Constitution of India, 1950: Articles 32, 136 and 226- Judicial Review-Irrationality and perversity-Extentof.
+Fact	Administrative Law: Natural Justice-Fair Trial-Judgment only after due observance of Judicial Process-Quantum of punishment disproportionate to offence Whether conclusive evidence of bias.
+Fact	Interpretation of Statutes: Procedural safeguards- Statutory Provisions-How to be construed.
+Fact	HE ADNOTE: % The appellant, a Signal Man in <ORG>, while serving out a sentence of 28 days' rigorous imprisonment imposed on him by the Commanding officer of the Regiment respondent No.
+Fact	4, for violating norms for presenting representations to higher officers, was alleged to have committed another offence by refusing to eat his food on March 29, 1985 when ordered to do so.
+Fact	He was charged under section 41(2) of the Army Act, 1950 for disobeying a lawful command given by his superior officer.
+Fact	A sentence of rigorous imprisonment for one year was imposed by a Summary Court Martial consisting of respondent No.
+Fact	4 and others.
+Fact	He was removed to the civil prison and he served out the sentence.
+Fact	The appellant's representation to the confirming authority under section 164 of the Act was rejected by the General officer Commanding on May 24,1985.
+Fact	The appellant's writ petition challenging proceedings of the Summary Court-Martial was dismissed in limine by <ORG>.
+Fact	513 In the appeal by sp ecial leave, it was contended on behalf of the appellant that the proceedings of the Court- Martial were vitiated (i) by a non-affording of an opportunity to challenge the constitution of the Summary Court-Martial under section 130(1) ; (ii) by bias on the part of the respondent No.
+Fact	4 who participated in and dominated the proceedings; (iii) by awarding a punishment so disproportionate to the offence as to amount in itself to conclusive evidence of bias and vindictiveness; and (iv) by ignoring that as the appellant was then serving-out an earlier sentence he could not be need to be in active- service so as to be amenable to disciplinary jurisdiction and that the appellant's refusal, while already serving a sentence, to accept food did not amount to disobedience under section 41 , of any lawful command of a Superior officer.
+Fact	Allowing the appeal, ^ HELD: 1.1 The Indian Army Act , 1950 constitutes a special law in force conferring a special jurisdiction on.
+Fact	the Court-Martial prescribing a special procedure for th e trial of the offences under the Act.
+Fact	The Act and Rules constitute a self-contained Code specifying offences and the procedure for detention, custody and trial of the offenders by the Court-Martial.
+Fact	[518G-H; 519A] 1.2 The procedural safeguards contemplated in the Act must be considered in the context of and corresponding to the plenitude of the Summary jurisdiction of the Court- Martial and the severity of the consequences that visit the person subject to that jurisdiction.
+Fact	The procedural safeguards should be commensurate with the sweep of the powers.
+Argument	The wider the power, the greater the need for the restraint in its exercise ad correspondingly, more liberal the construction of the procedural safeguards envisaged by the Statute.
+Argument	[519B-C I 1.3 Non-compliance with the mandate of section 130 is an infirmity which goes to the root of jurisdiction and without more, vitiates the proceedings.
+Argument	[519F] <CITATION_278740> , AIR 1982 SC 1413 relied on.
+RatioOfTheDecision	<NAME> v. <NAME>, 359 U.S. 535 referred to.
+RatioOfTheDecision	514 2.1 It is the esse nce of a judgment that it is made after due observance of the judicial process; that the <ORG> or <ORG> passing it observes, at least the minimal requirements of natural justice, is composed of impartial persons.
+RatioOfTheDecision	acting fairly and without bias and in good faith.
+RatioOfTheDecision	A judgment which is the result of bias or want of impartiality is a nullity and the trial 'coram non judice'.
+RatioOfTheDecision	[520D-E] <NAME> v. <NAME>, AIR 1945 PC 38 referred to.
+Precedent	2.2 As to the tests of the likelihood of bias what is relevant is the reasonableness of the apprehension in that regard in the mind of the party.
+Precedent	The proper approach for the Judge is not to look at his own mind and ask himself, however, honestly, "Am I biased"?
+Precedent	but to look at the mind of the party before him.
+Precedent	[520F] <NAME> v. <ORG>,  1 Q.B.
+Precedent	750 at 758; <ORG> v. <NAME>,  1.
+Precedent	Q.B.
+Precedent	577 d 599; <ORG> v. <NAME>, 343 US 451 at 466 and Regina v. <NAME> pool City Justices, Ex-parte Topping,  1 WLR 119 referred to.
+Precedent	Having regard to the antecedent events, the participation of respondent No.
+Precedent	4 in the Courts-Martial rendered the proceedings Coram non judice.
+Precedent	[522B] 3.
+Precedent	The mere circumstance'that the appellant was at the relevant point of time, serving a sentence of imprisonment and could not, therefore, be said to be in 'active service' does not detract from the fact that he was still a person subject to the Act, as is clear from the second clause of section 41(2) which refers to offences committed when not in 'active service', the difference being in the lesser punishment contemplated.
+Precedent	[522C-D] 4.
+RatioOfTheDecision	Every aspect of life of a soldier is regulated by discipline.
+RatioOfTheDecision	Rejection of food might, under circumstances, amount to an indirect expression of remonstrance and resentment against the higher authority.
+RatioOfTheDecision	To say that a mere refusal to eat food is an innocent, neutral act might be an over simplification of the matter.
+RatioOfTheDecision	Mere in-action need not always necessarily be neutral.
+RatioOfTheDecision	Serious acts of calumny could be done in silence.
+RatioOfTheDecision	A disregard of a direction to accept food might assume the 515 complexion of disrespect to, and even defiance of authority.
+RatioOfTheDecision	But an unduly harsh and cruel reaction to the expression of the injured feelings may he counter-productive and even by itself be subversive of discipline.
+Precedent	[522E-F] In the instant case, appellant was perhaps expressing his anguish at, what he considered, an unjust and disproportionate punishment for airing his grievances before his superior officers.
+Precedent	[522G] 5.
+Precedent	Judicial review generally speaking, is not directed against a decision, but is directed against the "decision making process".
+Precedent	The question of the choice and quantum of punishment is within the jurisdiction and discretion of <ORG>.
+Precedent	But the sentence has to suit the offence and the offender.
+Precedent	It should not be vindictive or unduly harsh.
+Precedent	It should not be so disproportionate to the offence as to shock the conscience and amount in itself to conclusive evidence of bias.
+Precedent	The doct rine of proportionality, as part of the concept of judicial review, would ensure that even on an aspect which is, otherwise, within the exclusive province of the <ORG>-Martial, if the decision of the <ORG> even as to sentence is an outrageous defiance of logic, then the sentence would not be immune from correction.
+Precedent	Irrationality and perversity are recognised grounds of judicial review.
+Precedent	All powers have legal limits.
+Precedent	[522G-H; 523A-C] <ORG> v. <ORG>,  3 Weekly Law Reports 1174 HL and <NAME> v. State of Himachal Pradesh, A.I.R.
+Precedent	1983 SC 454 referred to.
+Precedent	In the instant case, the punishment is so strikingly disproportionate as to call for and justify interference.
+RulingByPresentCourt	[523G] The <ORG> order set aside.
+RulingByPresentCourt	The writ petition in the High <ORG> allowed, and the impugned proceedings of Summary <ORG>-Martial and the consequent order and sentence quashed.
+RulingByPresentCourt	Appellant entitled to be reinstated with all monetary and service benefits.
+RatioOfTheDecision	[523H, 524A] (Note: on point 1.3 the finding is  to be read with and subject to the subsequent order dated 10.8.88).
+Precedent	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Precedent	2630 of 1987.
+Precedent	516  From the Judgment and order dated 3.?.1986 of <ORG> in C.W.J.C.
+Precedent	No.
+Precedent	2823 of 1986.
+Precedent	<NAME>, <NAME> and <NAME> for the Appellant.
+Precedent	<NAME>, Additional Solicitor General, <NAME>, <NAME> and <NAME> for the Respondents.
+Precedent	The Judgment of the Court was delivered by <NAME>, J.
+Precedent	This appeal, by special leave, preferred against the order dated July 3, 1986, of <ORG> of <ORG> in C.W.J.C.
+Precedent	No.
+Precedent	2823 of 1986 raises a substantial question as to the scope and content of the procedural safe-guards in Section 130 of the Indian Army Act, 1950 ('Act') in the conduct of the Courts- Martial.
+Fact	<ORG> dismissed, in limine, the appellant's writ petition, under Article 226 , challenging the proceedings dated March 30, 1985, of the Summary Court- Martial imposing the punishment of dismissal from service and  a sentence of an year's rigorous imprisonment on the appellant.
+RatioOfTheDecision	2.
+RatioOfTheDecision	<NAME>, <NAME>, joined <ORG> on September 7, 1972, and was, at the relevant time, a Signal Man in "<ORG>."
+RatioOfTheDecision	Apparently, appellant had not commended himself well to respondent No.
+Fact	4, who was the commanding officer of the regiment.
+Fact	On March 29, 1985, appellant was already serving- out a sentence of 28 days' rigorous imprisonment imposed on him for violating the norms for presenting representations to higher officers.
+Fact	<NAME> is stated to have sent representation complaining of ill-treatment at the hands of Respondent 4 directly to the higher officers.
+Fact	<NAME> was punished for that by Respondent 4.
+Fact	<NAME> was held in the Quarter-guard Cell in handcuffs to serve that sentence of rigorous imprisonment.
+Argument	3.
+Argument	While so serving the sentence appellant is stated to have committed another offence on March 29, 1985, for which the punishment now impugned was handed down by Respondent 4.
+Fact	The nature o f this offence had better be excerpted from the charge-sheet itself:  "The accused No.
+Fact	1429055 M Signalman <NAME> of <ORG> is charged with- Army Act Section 41(2) Disobeying a lawful command given by his superior officer Section 41(2) In that he at 15.30 hrs.
+Precedent	On 29.5.1985 when ordered by <ORG> <NAME>, the orderly officer of the same <ORG> to eat his food, did not do so."
+Precedent	To try this offence a Summary Court Martial was assembled the very next day i.e.
+Precedent	March 30, 1985.
+Precedent	Respondent 4 and 2 others were on the Court-Martial.
+Fact	Some witnesses were examined.
+Fact	Appellant is stated to have pleaded guilty.
+Fact	A sentence of rigorous imprisonment for one year was imposed, in pursuance of which appellant was removed immediately to the civil prison at Tejpur to serve out the sentence.
+Fact	Appellant has served out the sentence.
+Precedent	He was also dismissed from service, with the added disqualification of being declared unfit for any future civil employment.
+Precedent	The representation of the appellant  to the confirming-authority under Section 164 of the Act was rejected by General of ficer Commanding on 24.5.1985.
+Precedent	<ORG>, however, persuaded itself to dismiss, in limine, appellant's writ petition challenging the proceedings of the Summary Court Martial.
+Precedent	4.
+Precedent	We have heard learned counsel on both sides.
+Precedent	The matter was adjourned on two earlier occasions on the submission of the learned Additional Solicitor General, that the question whether a lesser punishment was warranted was engaging the attention of the appropriate authorities.
+RatioOfTheDecision	Apparently, nothing came out of it.
+RatioOfTheDecision	F The submissions of <NAME>, in support of the appeal, admit of being formulated thus:  (a) (i) The proceedings of the Court-Martial are vitiated by non-compliance with the mandate of Section 130(1) of the Act in that the Summary Court Martial did not afford to the appellant an opportunity to challenge its constitution as required by that section;  (ii) The proceedings of the Court-Martial were vitiated by bias on the part of Respond ent 4 who participated in and dominated the proceedings; H   (b) In as much as the appellant was then serving a sentence of rigorous imprisonment, he was not in "active service" and that no question of disobeying any lawful command could at all arise;  (c) Appellant's refusal, while serving a sentence to accept food did not amount to disobedience, under Section 41 , of any lawful command of a superior officer in such manner as to show a wilful defiance of authority;  (d) At all events, the punishment handed down is so disproportionate to the offence as to amount, in itself to conclusive evidence of bias and vindictiveness.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Re: contention (a):  The records of the proceedings of the Special Summary Court Martial do not indicate that the procedural safeguard against bias contained in Section 130 of the Act was complied with.
+Statute	Section 130 provides:  "130(1) At all trials by general district or summary general court-martial, as soon as the court is assembled, the names of the presiding officer and members shall  be read over to the accused, who shall thereupon be asked whether he objects to being tried by any officer sitting on the court.
+Fact	(2)If the accused objects to any such officer, his objection, and also the reply thereto of the officer objected to, shall be heard and recorded, and the remaining officers of the <ORG> shall, in the absence of the challenged officer decide on the objection."
+Fact	The proceedings do not indicate-this was not disputed at the hearing-that appellant was asked whether he objects to be tried by any officer, sitting at the <ORG>-Martial.
+RatioOfTheDecision	This, in our opinion, imparts a basic infirmity to the proceedings and militates against and detracts from the concept of a fair trial.
+RatioOfTheDecision	The "Act" constitutes a special law in force conferring a special jurisdiction on the <ORG>-Martial prescribing a special procedure for the trial of the offences under the 'Act'.
+RatioOfTheDecision	Chapter VI of the 'Act' comprising of sections 34 to 68 specify and define the various offences under the 'Act'.
+RatioOfTheDecision	Sections 7 ] to 89 of Chapter VI I specify the various punishments.
+RatioOfTheDecision	Rules 106 to 133 of the Army Rules 1954 prescribe the procedure of, and before, the Summary Court- Martial.
+Precedent	The Act and A the Rules constitute a self contained Code, specifying offences and the procedure for detention, custody and trial of the offenders by the Courts-Martial.
+Precedent	The procedural safe-guards contemplated in the Act must be considered in the context of and corresponding to the plenitude of the Summary jurisdiction of the Court-Martial and the severity of the consequences that visit the person subject to that jurisdiction.
+Precedent	The procedural safe-guards should be commensurate with the sweep of the powers.
+Precedent	The wider the power, the greater the need for the restraint in its exercise and correspondingly, more liberal the construction of the procedural safeguards envisaged by the Statute.
+Precedent	The oft-quoted words of <NAME>, J. in <NAME> v. <NAME>, 359 U.S.535 are again worth re-calling;  "... if dismissal from employment is based on a defined procedure, even though gene rous beyond the requirements that bind such agency, that procedure must be scrupulously observed ..............................................
+Precedent	This judicially evolved rule of administrative law is now firmly established and, if I may add, rightly so.
+Precedent	He that takes the procedural sword shall perish with that sword.
+Precedent	E "The history of liberty" said the same learned Judge "has largely been the history of observance of procedural safeguards."
+Precedent	(318 US 332).
+Precedent	We are afraid, the non-compliance of the mandate of section 130 is an infirmity which goes to the root of the jurisdiction and without more, vitiates the proceedings.
+Precedent	lndeed it has been so held by this <ORG> in <CITATION_278740> , AIR 1982 SC 1413 where <NAME>, J referring to the purpose of section 130 observed:  "...... .Whenever an objection is taken it has to be recorded.
+RatioOfTheDecision	In order to ensure that anyone objected to does not participate in disposing of the objection .........  ........
+RatioOfTheDecision	This is a mandatory requirement because the officer objected to cannot par ticipate in the decision disposing of the objection.
+RatioOfTheDecision	H .......
+RatioOfTheDecision	The provision conferring a right on the accused to object to a member of <ORG> sitting as a member and participating in the trial ensures that a charge of bias can be made and investigated against individual members composing <ORG>.
+RatioOfTheDecision	This is pre eminently a rational provision which goes a long way to ensure a fair trial."
+RatioOfTheDecision	What emerges, therefore, is that in the present case there is a non-compliance with the mandate of section 130 with the attendant consequence that the proceedings of <ORG> are rendered infirm in law.
+RatioOfTheDecision	This disposes of the first limb of the contention (a).
+Precedent	6.
+Precedent	The second limb of the contention is as to the effect of the alleged bias on the part of respondent 4.
+Precedent	The test of real likelihood of bias is whether a reasonable person, in possession of relevant information, would have thought that bias was likely and is whether respondent 4 was likely to be disposed to decide the matter only in a  particular way.
+Precedent	It is the essence of a judgment that it is made after due observance of the judicial process; that the <ORG> or <ORG> passing it observes, at least the minimal requirements of natural justice, is composed of impartial persons acting fairly and without bias and in good faith.
+Precedent	A judgment which is the result of bias or want of impartiality is a nullity and the trial "coram non-judice".
+Precedent	(See Vassiliadas v. Vassiliades-AIR 1945 PC 38).
+Precedent	7.
+Precedent	As to the tests of the likelihood of bias what is relevant is the reasonableness of the apprehension in that regard in the mind of the party.
+Precedent	The proper approach for the judge is not to look at his own mind and ask himself, however, honestly.
+Precedent	"Am I biased?
+Precedent	"but to look at the mind of the party before him.
+Precedent	Lord <NAME> in <NAME> v. <ORG>, l 1894] 1 Q.B.
+Precedent	750 at 758 said:  "The question is not, whether in fact he was or was not biased.
+Precedent	The <ORG> cannot inquire into that .......... .............
+Precedent	In the administrat ion of justice, whether by a recognised legal court or by persons who, although not a legal public court, are acting in a similar capacity, public policy requires that, in order that there should be no doubt about the purity of the administration any person who is to A take part in it should not be in such a position that he might be suspected of being biased."
+Precedent	In <ORG> v. <NAME>, [1969] 1 Q.B.
+Precedent	577, at 599, Lord <NAME> Observed: B ".
+Precedent	.. in considering whether there was a real likelihood of bias, the court does not look at the mind of the justice himself or at the mind of the chairman of the tribunal, or whoever it may be, who sits in a judicial capacity.
+RatioOfTheDecision	It does not look to see if there was a real likelihood that he would, or did, in fact favour one side at the expense of the other.
+RatioOfTheDecision	The court looks at the impression which would be given to other people.
+Precedent	Even if he was as impartial as could be never- theless if right minded persons would think that in the circumstance s there was a real likelihood of bias on his part, then he should not sit ....... ".
+Precedent	<NAME> in <ORG> v. <NAME> (343 US 451 at 466) said:  "The judicial process demands that a judge move within the frame work of relevant legal rules and the court covenanted modes of thought for ascertaining them.
+Precedent	He must think dispassionately and submerge private feeling on every aspect of a case.
+Precedent	There is a good deal of shallow talk that the judicial robe does not change the man within it.
+Precedent	It does.
+Precedent	The fact is that on the whole judges do lay aside private views in discharging their judicial functions.
+Precedent	This is achieved through training, professional habits, self-discipline and that fortunate alchemy by which men are loyal to the obligation with which they are interested.
+Precedent	But it is also true that reason cannot control the subconscious influence of feelings of which it is unaware.
+Precedent	When there is ground for believing that such unconscious feelings may operate in the ultim ate judgment or may not unfairly lead others to believe they are operating, judges refuse themselves.
+Precedent	They do not sit in judgment .. ".
+Precedent	Referring to the proper test, <NAME> LJ in Regina v.  Liverpool City Justices, Ex-parte Topping [1983] I WLR 119 said: H "Assuming therefore, that the justices had applied the test advised by Mr. <NAME>-Do I feel prejudiced?
+Precedent	then they would have applied the wrong test, exercised their discretion on the wrong principle and the same result, namely, the quashing of the conviction would follow."
+Precedent	Thus tested the conclusion becomes inescapable that, having regard to the antecedent events, the participation of Respondent 4 in the Courts-Martial rendered the proceedings coram non-judice.
+Precedent	7.
+Precedent	Re: contention (b): The mere circumstance that the appellant was, at the relevant point of time, serving a sentence of imprisonment and could not therefore, be said to be in 'active service' does not detract from the fact that he was still "a person subject to this Act."
+RatioOfTheDecision	This is clear from the s econd clause of Section 41(2) which refers to offences committed when not in 'active service'.
+RatioOfTheDecision	The difference is in the lesser punishment contemplated.
+RatioOfTheDecision	We are, therefore, unable to appreciate the appositeness of this contention of <NAME>.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Re: contention (c): The submission that a disregard of an order to eat food does not by itself amount to a disobedience to a lawful command for purposes of section 41 has to be examined in the context of the imperatives of the high and rigorous discipline to be maintained in <ORG>.
+RatioOfTheDecision	Every aspect of life of a soldier is regulated by discipline.
+RatioOfTheDecision	Rejection of food might, under circumstances, amount to an indirect expression of remonstrance and resentment against the higher authority.
+RatioOfTheDecision	To say that, a mere refusal to eat food is an innocent, neutral act might be an over-simplification of the matter.
+RatioOfTheDecision	Mere in-action need not always necessarily be neutral.
+RatioOfTheDecision	Serious acts of calumny could be done in silence.
+RatioOfTheDecision	A disregard of a direction to accept food might assume the co mplexion of disrespect to, and even defiance of authority.
+RatioOfTheDecision	But an unduly harsh and cruel reaction to the expression of the injured feelings may be counter-productive and even by itself be subversive of discipline.
+RatioOfTheDecision	Appellant was perhaps expressing his anguish at, what he considered, an unjust and disproportionate punishment for airing his grievances before his superior officers.
+RatioOfTheDecision	However, it is not necessary in this case to decide contention (c) in view of our finding on the other contentions.
+Precedent	9.
+Precedent	Re: contention (d): Judicial review generally speaking, is not directed against a decision, but is directed against the "decision making process".
+Precedent	The question of the choice and quantum of punishment is within the jurisdiction and discretion of <ORG>.
+Precedent	But the sentence has to suit the offence and the offender.
+Precedent	It should not be A vindictive or unduly harsh.
+Precedent	It should not be so disproportionate to the offence as to shock the conscience and amount in itself to conclusive evidence of bias.
+Precedent	The doctrine of propo rtionality, as part of the concept of judicial review, would ensure that even on an aspect which is, otherwise, within the exclusive province of the <ORG>- Martial, if the decision of the <ORG> even as to sentence is an outrageous defiance of B logic, then the sentence would not be immune from correction.
+Precedent	Irrationality and perversity are recognised grounds of judicial review.
+Precedent	In <ORG> v. <ORG>, [1984] 3 Weekly Law Reports 1174 (HL) Lord <NAME> said:  "...
+Precedent	Judicial Review has I think developed to a stage today when without reiterating any analysis of the steps by which the development has come about, one can conveniently classify under three heads the grounds upon which administrative action is subject to control by judicial review.
+RatioOfTheDecision	The first ground l would call 'illegality'.
+RatioOfTheDecision	the second irrationality' and the third 'procedural impropriety'.
+RatioOfTheDecision	That is not to say that further development on a case by case basis may not in course of time add further grounds.
+Precedent	I hav e in mind particularly the possible adoption in the future of the principle of 'proportionality' which is recognised in the administrative law of several of our fellow members of <ORG> ............................ E In <NAME> v. State of Himachal Pradesh, A.I.R.
+Precedent	1983 SC 454 this <ORG> held:  "It is equally true that the penalty imposed must be commensurate with the gravity of the misconduct and that any penalty disproportionate to the gravity of the misconduct would be violative of Article 14 of the Constitution.
+Precedent	The point to note, and emphasise is that all powers have legal limits.
+Precedent	In the present case the punishment is so strikingly disproportionate as to call for and justify interference.
+Precedent	It cannot be allowed to remain uncorrected in judicial review.
+Precedent	10.
+RulingByPresentCourt	In the result, for the foregoing reasons, the appeal is allowed, the order of the High <ORG> set aside, the writ petition preferred in the High <ORG> allowed and the impugned proceedings of the Summary <ORG>-Martial dated Mar ch 30, 1985, and the consequent order and sentence are quashed.
+RulingByPresentCourt	The appellant is entitled to and shall be reinstated with all monetary and service benefits.
+RulingByPresentCourt	There will, however, be no order as to costs.
+RulingByPresentCourt	N.P.V.
+RulingByPresentCourt	Appeal allowed.

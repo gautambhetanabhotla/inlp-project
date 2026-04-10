@@ -1,0 +1,401 @@
+Fact	PETITIONER: <NAME> AND OTHERS Vs. RESPONDENT: <NAME> AND OTHERS DATE OF JUDGMENT: 19/11/1963 BENCH: <NAME>, J.C.
+Fact	BENCH: <NAME>, <NAME>, <NAME>, M. CITATION: 1965 AIR 214 1964 SCR (5) 480 CITATOR INFO : D 1984 SC1072 (30) R 1988 SC2018 (30) RF 1989 SC 606 (7) R 1989 SC 890 (18,30) R 1990 SC1426 (17) D 1991 SC 945 (6) F 1992 SC 232 (23,29) ACT: Arbitration-Partnership Agreement-Arbitration clause-Formula of valuation on dissolution-Arbitrator appointed by deed of reference-Validity of award questioned-Grounds on which award can be set aside-Error apparent on the face of the records Arbitrator exceeding jurisdiction-Validity of Award- Severability Indian Arbitration Act, 1940 (X of 1940), s. 30.
+Fact	HEADNOTE: The appellants and the respondents entered into a partnership in the business of manufacturing bidis.
+Fact	Under the agreement a partner was entitled to retire after giving notice of six months to all partners.
+Fact	It contained a clause for reference of disputes between the pa rtners relating to the business or dissolution of the firm to arbitration.
+Fact	It also contained a clause providing how four items including goodwill should be valued.
+Fact	According to this clause goodwill was equal to five years net profits for debts due to the firm were to be taken not at their book value but at 85% of that value, stocks of raw materials were to be valued at book value and immovable properties were to be valued at their purchase price or, their book value.
+Fact	About two years later the appellants desired to retire from the partnership and a deed ,of reference was executed and a sole arbitrator was appointed.
+Fact	This provided that the remaining partners shall continue the firm and they shall make full payment to the retiring partners of such amounts in such manner and on such conditions as shall be decided upon by the arbitrator.
+Fact	The arbitrator gave the award.
+Fact	He fixed the value of the goodwill of the firm at Rs.32 lakhs including in that amount the "depreciation and appreciation of the property, dead stoc k and dues to be recovered."
+Fact	The award was filed in the Court under s. 14(2) of the Indian Arbitration Act, 1940.
+Fact	481 The respondents applied for an order setting aside the award on diverse grounds, two out of which survived for consideration in the present appeal.
+Fact	The first was that the arbitrator in making this award exceeded his jurisdiction because in fixing Rs.
+Fact	32 lakhs as the value of the devisable assets of the firm he included therein the depreciation and appreciation of the property dead stock and outstandings; secondly that the arbitrator was guilty of misconduct.
+Fact	The trial court upheld these and certain other objections and set aside the award.
+Fact	<ORG> confirmed the decision of the trial court insofar as it related to the two contentions.
+Fact	The present appeal is on a certificate granted by <ORG>.
+Precedent	Held:(i) An award made by an arbitrator is conclusive as a judgment between the parties and the court is entitled to set aside an award if the arbitrator has misconducted himself in the proce eding or when the award has been made after the issue of an order by the <ORG> superseding the arbitration or after arbitration proceedings have become invalid under s. 35 of the Arbitration Act or where an award has been improperly procured or is otherwise invalid under s. 30 of the Act.
+Precedent	An award may be set aside by the <ORG> on the ground of error on the face of the award, but an award is not invalid merely because by a process of inference and argument it may be demonstrated that the arbitrator has committed some mistake in arriving at his conclusion.
+Precedent	<CITATION_525017> .
+Precedent	50 I.A.
+Precedent	324 and <NAME> and others v. <NAME> and others, (1923) 92 L.J.
+Precedent	Ch.
+Precedent	136, distinguished.
+RatioOfTheDecision	(ii)It is not open to the <ORG> to speculate, where no reasons are given by the arbitrator, as to what impelled the arbitrator to arrive at his conclusions.
+RulingByLowerCourt	(iii)In the present case the arbitrator had included depreciation and appreciation of certain assets in the value of the goodwill which he was incompetent to include by virtue of the  limits placed upon his authority by the deed of reference.
+RulingByLowerCourt	This was not a case in which the arbitrator has committed an error of fact or law in reaching his conclusions on the disputed questions submitted for adjudication.
+RulingByLowerCourt	It was a case of assumption of jurisdiction not possessed by him and that rendered the award to the extent to which it was beyond the arbitrators' jurisdiction, invalid.
+RulingByLowerCourt	It is, however, impossible to sever from the valuation made by the arbitrator the value of the depreciation and appreciation included by the arbitrator.
+RulingByLowerCourt	The award must therefore fail in its entirety.
+RulingByLowerCourt	Per <NAME>, J.-(i) If the parties set limits to action by the arbitrator, then the arbitrator had to follow the limits set for him and the court can find that he exceeded his jurisdiction on proof of such excess.
+RulingByLowerCourt	(ii)In the present case the arbitrator in working out net profits for four years took into account depreciation of immovable 1/SCI/64-31 482 property.
+RulingByLowerCourt	For this reason he must be held to have exceeded his jurisdic tion and it is not a question of his having merely interpreted the partnership agreement for himself as to which <ORG> could have had no say, unless there was an error of law on the face of the award.
+Precedent	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Precedent	717 of 1963.
+Precedent	Appeal from the judgment and order dated April 30, 1962, of <ORG> at Jabalpur in Misc.
+Precedent	Appeal No.
+Precedent	75 of 1961.
+Precedent	<NAME> and <NAME>, for the appellants.
+Precedent	<NAME> and <NAME>, for respondents Nos.
+Precedent	1 to  3.
+Precedent	<NAME> and <NAME>, for respondents nos.
+Precedent	4 and 5.
+Precedent	November 19, 1963.
+Precedent	The Judgment of <NAME> and <NAME>, JJ.
+Fact	was delivered by <NAME>, <NAME>, J. delivered a separate Opinion.
+Fact	<NAME>, J.---Vrajlal Manilal & Company, a firm consisting originally of four partners (1) <NAME>, (2) <NAME>, (3) <NAME>, and (4) Chintamanrao, has been doing business of manufacturing bidis at Sagar and Delhi since 1944.
+Fact	From time to time fre sh partnership deeds were executed readjusting the shares of the partners admitting new partners and adjusting the shares of the partners.
+Fact	In 1954 <NAME> retired from the firm and on January 27,1955, <NAME> died.
+Fact	On February 16, 1956, a fresh deed of partnership was executed.
+Fact	The firm then consisted of eight partners-<NAME> and his two sons being entitled in the aggregate to annas  -/4/3 share in a rupee in the profits, <NAME> and his two sons to annas -/7/6 share in a rupee, and the two sons of <NAME> to the remaining annas -/4/3 share.
+Fact	By paragraph-7 the books of account were to be maintained by the managing partner, the financial year of the firm being from Diwali to Diwali, and profits and losses were to be ascertained at the close of the year and a copy of the balance-sheet with profits and loss statement was to be supplied to each partner, and if no objection regarding the accounts was raised within four months from the end of the year, the' accounts were to be de emed conclusive and binding unless vitiated by fraud.
+Fact	By paragraph-12 it was stipulated that a partner desiring to retire from the partnership may, unless the other partners agreed to' his retirement otherwise, do so after giving six months notice to all the partners in writing terminable at the' end of the year i.e., the Diwali immediately following the date of the notice.
+Fact	Paragraph-13 provided:  "In case of retirement of any partner the valua-, tion of the <ORG> will be made on the following, basis for the purpose of settling the account of the retiring partner:- "(a) Goodwill of the <ORG>:-That is, right to use the trade marks, trade labels and the name of the <ORG>.
+Fact	In making the valuation of the above the net profits of the last five years will be taken as the value of the Goodwill of the <ORG>.
+Fact	(b) Outstandings, <NAME> (Recoveries) :-That is, loans and debts outstanding against persons other than partner will be calculated at 85 % of the book value of the <ORG>.
+Fact	(c) Stock of Raw Materials:-That is, tobacc o, bidis, bidi leaves, labels and other moveable property will be valued at the book value of these in the books of the <ORG> and all, such stock and moveables, thus valued shall be given to the remaining partners.
+Fact	(d) Immoveable Property:-Such as buildings, godowns, gardens, lands etc.
+Fact	will be valued at the parchase price or their book value in the books of the <ORG> as the case may be, and all these shall be given to the remaining partners."
+Fact	484  Paragraph-16 incorporated a clause for reference of disputes between the partners relating to the business or dissolution of the firm to arbitration.
+Fact	In April 1958 <NAME> and his two sons -appellants in this appeal desired to retire from the partnership, and a deed of reference was executed on April 16, 1958, appointing <NAME>, <NAME> and <NAME> as arbitrators to decide the dispute.
+Fact	It was recited in the deed of reference that since <NAME> and his two sons had expressed a desire to retire and the remaining five partners had agreed  to take over the entire business of the firm, it was "necessary to effect the final account of the retiring partners with regard to the matters mentioned below, as far possible, according to and taking into consideration the terms and conditions of the Partnership Agreement.
+Fact	1.
+Fact	Goodwill of Trade Mark.
+Fact	2.
+Fact	Property.
+Fact	3.
+Fact	Credits (Udhari)  4.
+Fact	Dead-stock.
+Fact	5.
+Fact	Stock-in-trade i.e.
+Fact	the raw material, or the finished goods invested in the business.
+Fact	6.
+Fact	Other matters connected with these transactions.
+Fact	7.
+Fact	Profit and Loss Account.
+Fact	8.
+Fact	The Receipt ond Payments account of the amounts of the partners.
+Fact	By Paragraph 6 it was provided that the firm shall be continued by the remaining five partners and that those five partners shall make full payment to the retiring partners <NAME> and his two sons of such amounts, in such manner, and on such conditions, as shall be decided upon by the arbitrators.
+Fact	Paragraph 7 set out the powers exercisable by the arbitrators in the matter of calling for production of account books and docu ments and other information from the parties.
+Fact	The deed of reference was subsequently modified, and the parties agreed that the reference be " carried out by the sole arbitrator <NAME>".
+Fact	Pursuant to this modified agreement, <NAME> entered upon the reference, and made his award on January 9, 1959.
+Fact	By his award he fixed the value of the goodwill of the entire firm at Rs.
+Fact	32 lakhs including in that amount the "depreciation and appreciation of the property, dead-stock and dues to be recovered".
+Fact	He also fixed the profits for the broken period of Samvat year 2014 from the commencement of the year till April 19, 1958 at Rs.
+Fact	2,80,000 and after adjusting the personal accounts of the three retiring partners awarded to <NAME> Rs.
+Fact	3,46,223.58 nP.
+Fact	to <NAME> son of <NAME> Rs.
+Fact	4,04,519.99 nP.
+Fact	and to <NAME> son of <NAME> Rs.
+Fact	3,86,019.14 nP, and directed that the ownership over the assets of the firm i.e.
+Fact	property-moveable and immoveable,--Trade mark, labels, stock-in-trade, long-term leases and contracts etc.
+Fact	shal l remain with the remaining partners, subject to the liabilities of the firm, the retiring partners not being responsible for the liabilities of the firm, nor having any interest in the firm or its business.
+Fact	This award was filed in <ORG>, <NAME>, under s. 14(2) of the Indian Arbitration Act, 1940.
+Fact	<NAME> and his sons then applied for an order setting aside the award on diverse grounds.
+Fact	In this appeal by the retiring partners, two heads of objections only survive for determination and we propose to refer only to those two heads, viz:  (1) That the arbitrator in making his award travelled outside.
+Fact	his jurisdiction delimited by the agreement of reference in that in fixing Rs.
+Fact	32 lakhs as the value of the di- visible assets of the firm he included therein the depreciation and appreciation of the property, dead-stock and outstandings, which he was by the terms of the reference incom- petent to include.
+Fact	(2) That the arbitrator was guilty of legal misconduct in that he had  in the course of arbitration proceedings admitted in his record a statement of account prepared by <NAME> and his sons without the knowledge of the other partners and without giving them an opportunity to make their submissions thereto.
+Fact	The retiring partners resisted the petition to set aside the award and submitted that they were entitled to have the assets of the firm in which they had a share, fixed at an amount much in excess of Rs.
+Fact	32 lakhs and that the arbitrator had not overstepped his jurisdiction in fixing the value of the goodwill at Rs.
+Fact	32 lakhs, and that the statement of account referred to by the applicants was prepared under the directions of the arbitrator and in his presence and it was admitted in the record of the arbitrator  -to the knowledge of the remaining partners who had assented thereto.
+Fact	<ORG> upheld these and certain other objections, and set aside the award.
+Fact	<ORG> confirmed the decision of <ORG>, insofar as it related to the two objections hereinbefore  set out.
+Fact	The question which we propose to consider first is: whether in making the valuation of the firm" for determining the share to be paid to the retiring partners, did the arbitrator overstep the limits of his authority under the agreement of reference?
+RatioOfTheDecision	It may be recalled that by cl.
+RatioOfTheDecision	6 of the arbitration agreement the remaining partners had to "make full payment to the retiring partners of such amount as may be decided" by the arbitrator.
+RatioOfTheDecision	But in determining the amounts to be awarded to the retiring partners, the authority of the arbitrator was restricted.
+Fact	He had, in determining the amounts due to the retiring partners, to take "final accounts with regard to the matters" set out in cl.
+Fact	4, "as far as possible, according to and taking into consideration the terms and conditions of the Partnership agreement".
+RatioOfTheDecision	By this direction the clauses of the partnership agreement were incorporated in the agreement of reference.
+RatioOfTheDecision	The "final account" of the retiring partners with regard to the eight matters specified in c l. 4 was undoubtedly to be made, as far as possible, according to and taking into consideration the terms and conditions of the partnership agreement.
+RatioOfTheDecision	The language used in the deed of reference is of compulsion, not of, option: it means that if there be in the partnership agreement any term or condition, which deals with any particular matter of which an account was to be taken under cl.
+RatioOfTheDecision	4 of the -agreement of reference, it has to be strictly followed.
+RatioOfTheDecision	Use of the expression "as far as possible" did not confer any discretion upon the arbitrator to ignore the terms and conditions of the partnership agreement.
+RatioOfTheDecision	In paragraph-13 of the partnership agreement, in making "valuation of the firm" for the purpose of settling accounts, the value of the goodwill, the outstandings, stock of raw material and moveable and immoveable property had to be taken as directed therein.
+RatioOfTheDecision	In the matter of valuation of the goodwill of the firm, therefore, no discretion was left to the arbitrator:the value of the goodwill had to be the ag gregate ofthe net profits of the last five years.
+RatioOfTheDecision	Debts due to the firm from persons other than partners had to be "calculated at 85 % of the book value of the firm".
+RatioOfTheDecision	In respect of the stock of raw materials and other moveable property the "book value in the books of the firm" had to be accepted by the arbitrator and in the case of immoveable property such as buildings, godowns, gardens, lands etc.
+RatioOfTheDecision	"the book value in the books of the firm" was to be accepted and if none such was available the purchase price as mentioned in the books was to be accepted.
+RatioOfTheDecision	In all these matters the arbitrator had by cl.
+RatioOfTheDecision	4 of the arbitration agreement to make the final account of the retiring partners according to and taking into consideration the terms and conditions of the partnership agreement and had no option.
+RatioOfTheDecision	It is necessary to remember that the partnership agreement does not grant to a retiring partner a share in the aggregate of the four items mentioned in cls.
+Fact	(a), (b), (c) & (d) of paragraph-13 i.e., goodwill of the firm,  outstandings, stock of raw materials including moveable and immoveable property.
+Fact	The partnership agreement merely provides that the "valuation of the firm" shall be made as set out therein for the purpose of settling the account of the retiring partners i.e., in ascertaining the.amount due to the retiring partners valuation of the assets in cls.
+Fact	(a) to (d) of paragraph-13 shall be made in the manner set out therein.
+Fact	The arbitrator was therefore bound to adopt the valuation prescribed by the partnership agreement, but that is not to say that the retiring partner was entitled to a share equal to the aggregate of the values of the four items mentioned in paragraph-13.
+Fact	It is neces- sary to emphasize this matter because on behalf of the retiring partners a considerable argument was advanced before us on the assumption that they were entitled to a share equal to the aggregate of the values of the four items of property mentioned in paragraph- 1 3 of the partnership agreement, and that by the method of valuation ad opted by the arbitrator they were awarded much less than what they were under the partnership agreement entitled to.
+RatioOfTheDecision	Paragraph-13 merely prescribes the valuation in respect of four out of the items which had to be considered in ascertaining the "valuation of the firm".
+RatioOfTheDecision	The phraseology used in paragraph-13 in the opening part of the paragraph makes it clear beyond all doubt that the valuation of the firm had to be made on the basis specified for the purpose of settling the account of the retiring partner.
+RatioOfTheDecision	The specific items in paragraph-13 do not prescribe any method of valuation of the debts and liabilities of the firm, but the debts and liabilities must be taken into account in assessing the value of the share of the retiring partners.
+RatioOfTheDecision	The arbitrator had to make a valuation of the firm i.e.
+RatioOfTheDecision	of all the assets of the firm and of the debts due by the firm and thereafter to settle the account of the retiring partners.
+RatioOfTheDecision	We may now turn to the award made by the arbitrator.
+Precedent	The dispute between the parties has to be  resolved on a true interpretation of the following clause:  "I assess the value of the goodwill at Rs.
+Fact	32 lakhs.
+Fact	489  This amount includes the depreciation and appreciation of the property, dead-stock and dues to be recovered."
+Fact	(We have taken this as the correct rendering into English of the original award which is in Hindi.
+Argument	It is accepted by both the parties before us as a true rendering.)
+Argument	The arbitrator has, as he has observed in his award, taken only the value of the goodwill, in determining the amounts to be allotted to the retiring partners, and has not expressly referred to the valuation of the three other items, viz., the outstandings, the stock-in-trade and moveables and the immoveable property mentioned in paragraph-13 of the partnership agreement.
+Argument	Counsel for the retiring partners urged that on the admission made by <NAME>, the value of the goodwill alone was Rs.
+Argument	21,70,650/10/and if the value of the immoveables, stock-in- trade etc.
+Argument	and outstandings be added thereto, the aggregate would con siderably exceed Rs.
+Argument	32 lakhs.
+Argument	But this argument is founded on the fallacious assumption that the debts and liabilities of the firm have to be ignored in determining the shares of the retiring partners.
+Argument	Counsel for the respondent submitted that in substance the goodwill had alone to be valued by the arbitrator for the property, moveable and immoveable, stockin-trade and the outstandings of the firm were approximately equal to the aggregate of the debts and obligations of the firm.
+Argument	<ORG> in this behalf was placed upon a balance-sheet Ext.
+RatioOfTheDecision	A-13 of the assets and liabilities of the firm, showing the financial position of the firm on April 16,1958, and the value of the tangible assets, such as the stock of raw-materials, moveable and immoveable property and outstandings, according to the balance-sheet, was approximately equal to the debts and liabilities of the firm.
+RatioOfTheDecision	But it is not necessary for us to decide whether the submission of the respondents is correct.
+Argument	The arbitrator has in his award stated that Rs.
+Argument	3 2 lakhs is the value of the goodwill alone, and for some reason not disclosed by him he has not valued the other assets.
+Argument	He has also not disclosed in his award how he has arrived at the valuation of Rs.
+Argument	32 lakhs.
+Argument	One thing, however, stands out prominently in the award, that in assessing the value of the goodwill, he has included the depreciation and appreciation of the property, dead-stock and the outstandings.
+Argument	The arbitrator could undoubtedly make a lump-sum valuation of the firm in the award made by him.
+Argument	He was not obliged in the absence of a direction in that behalf to set out in his award the valuation of the different components which aggregated to the lumpsum.
+Argument	The arbitrator had to "value the firm", and in doing so to abide by the specific directions, but he was not obliged to set out in the award separate valuations of all or any of the items mentioned in para 4 of the deed of reference, or in paragraph-13 of the partnership agreement, nor to set out the extent of the debts and obligations assessed by  him.
+Fact	What then is the effect of the inclusion by the arbitrator in the valuation of Rs.
+Fact	32 lakhs, of the depreciation and appreciation of the property, deadstock and dues to be recovered?
+Argument	Diverse arguments were submitted by counsel for the appellants in support of the plea that the inclusion of what is called the depreciation and appreciation in respect of the various items does not amount to overstepping the limits of the jurisdiction of the arbitrator.
+Argument	It may be re- iterated that the powers of the arbitrator were, by the terms of cl.
+Argument	4 of the deed of reference, clearly restricted.
+Argument	He was "to take final account of the retiring partners with regard to the matters mentioned therein, as far as possible, according to and taking into consideration the terms and conditions of the partnership agreement".
+Argument	Restriction on the power of the `rbitrator in valuing the property, dead- stock and outstandings was explicit.
+Argument	He could not therefore adopt any valuation different from the valuation prescribed by paragraph-13 of t he partnership agreement.
+Argument	But the arbitrator has, as he has himself stated, in valuing the goodwill at Rs.
+Argument	32 lakhs included in that amount the value of the depreciation and appreciation of the property, dead- stock and dues to be recovered.
+Argument	491  Counsel for the appellant submitted that reduction of outstandings of the firm by 15 % in respect of the dues from persons other than the partners was a mode of ascertaining the depreciation in respect of that item provided by cl.
+Argument	(b) of paragraph-13 of the partnership agreement, and the arbitrator in taking into consideration that depreciation has not acted outside his jurisdiction.
+Argument	It would be difficult to regard the method of valuation as prescribed in respect of the outstandings as "including depreciation".
+Argument	Even assuming that the reduction of the outstandings of the firm from persons other than the partners by 15 % as directed in cl.
+Precedent	(b) of paragraph-13 of the partnership agreement be regarded as depreciation of the assets, inclusion of depreciation and apprecia tion in respect of the other assets was not permitted by the deed of partnership.
+Precedent	In valuing the moveable property including the stock of raw materials, the arbitrator could not adopt any valuation other than that mentioned in cl.
+Precedent	(c) of paragraph -1 3 of the partnership agreement, namely, the book value as given in the books of the firm.
+Precedent	Similarly, in the valuation of immoveables such as buildings, godowns, gardens, lands etc., he had to accept the book value as mentioned in the books of account of the firm and if no book value was available the.
+Precedent	purchase price as mentioned in the books was to be accepted.
+Precedent	The arbitrator had no power to make any adjustment in respect of those items by including depreciation or appreciation in their value.
+Precedent	The principle of <NAME> and others v. <NAME> and others(1) on which reliance was placed by counsel for the retiring partners, has, in our judgment no application to this case, because in that case though there was an article of the partnership providing that the sh are of a deceased partner in the assets of the partnership should be ascertained by reference to the annual account made up on April 30 next after the death, the articles were wholly silent as to the (1) [1923] 92 L.J.
+Precedent	Ch.
+Precedent	136 principle to be adopted in preparing a full and general account of the property.
+Precedent	There was no usage or course of dealings between the partners from which an inference could be drawn that on the death of a partner his share shall be paid out on the footing of book value.
+Precedent	The executors of the deceased partner claimed that his share be determined "at the fair value of the firm".
+Precedent	At p. 138 it was observed by Lord <NAME>.
+Precedent	"Even if there were a usage to state an account for one purpose in one way, that is not a usage to state it for another purpose in the same way.
+Precedent	There is a passage in <NAME> v. <NAME> (10 Hare, at p. 515) which is useful reading in this connection.
+RatioOfTheDecision	An account stated for one purpose is not necessarily stated for another purpose.
+RatioOfTheDecision	The fact is, that in this partnership an a ccount has never been stated with a view to fitting the case of a retiring partner, or a deceased partner, or a senior partner who is going to exercise an option of taking over all the assets.
+RatioOfTheDecision	The partners have never had any such event in view in making the account which they have made.
+RatioOfTheDecision	There has never been an account prepared which was intended to meet all the various contingencies of events such as these.
+RatioOfTheDecision	In the case before us there is no dispute that the duty of the arbitrator was to make "valuation of the firm" subject to paragraph-13 of the partnership agreement and it may even be granted that in arriving at that valuation he was not bound by paragraph-7, but on this question we express no opinion.
+RatioOfTheDecision	But the values as mentioned in the different clauses had to be accepted in making up the partnership account in respect of the four matters specifically enumerated.
+RatioOfTheDecision	The principle of <ORG> case(1) did not apply, because the partnership agreement in this case itself provides that the book value in the bo oks of the firm shall be accepted.
+Precedent	(1) [1923] 92 L.J.
+Precedent	Ch.
+Precedent	136.
+RatioOfTheDecision	493  The expression "book value" in the context in which it occurs in the partnership agreement means, the value entered in the books of account.
+RatioOfTheDecision	Adoption of the book value is therefore obligatory and there is no scope.
+RatioOfTheDecision	of any adjustment in the value in the light of any depreciation or appreciation of the property, outstandings, stock-in-trade or dead-stock, apart from what may actually be included in the book value, in the books.
+RatioOfTheDecision	It is the book value alone which has to be taken.
+RatioOfTheDecision	If the depreciation or appreciation has been taken into account by the partners in assessing the book value, that was evidently part of the book value as entered in the books of account.
+RatioOfTheDecision	If there was no book value entered in respect of any immoveable property, the decisive value was to be the purchase price.
+RatioOfTheDecision	It was then urged that it was for the arbitrator to adjudicate upon the true meaning of the partnership agreement and to give effect thereto, and if in making a "v aluation of the firm" he was of the opinion that depreciation and appreciation in respect of certain items of assets should be included for the purpose of making up the account of the partners, the <ORG> had no jurisdiction to set aside the award on that account, merely because the <ORG> took a different view as to the true meaning of the arbitration agreement.
+RatioOfTheDecision	But if the partnership agreement was incorporated in the deed of reference, the limits of the jurisdiction of the arbitrator must be determined by the <ORG> and not by the arbitrator.
+Precedent	By assuming that he was entitled to include, beside the value of the four items as mentioned in paragraph-13, some amount by way of appreciation in the value of those items, the arbitrator purported to set at naught the specific directions given in that behalf An award made by an arbitrator is conclusive as a judgment between the parties and the <ORG> is entitled to set aside an award if the arbitrator has misconducted himself in the proceedings or when the award has been  made after the issue of an order by the <ORG> superseding the arbitration or after arbitration proceedings have become invalid under s.35 of the Arbitration Act or where an award has been improperly procured or is otherwise invalid: s.30 of the Arbitration Act .
+Precedent	An award may be set aside by the <ORG> on the ground of error on the face of the award, but an award is not invalid merely because by a process of inference and argument it may be demonstrated that the arbitrator has com- mitted some mistake in arriving at his conclusion.
+Precedent	As observed in <CITATION_525017> .
+Precedent	(" at p. 331:  "An error in law on the face of the award means, in their Lordships' view, that you can find in the award or a document actually incorporated thereto, as for instance a note appended by the "arbitrator stating the reasons for his judgment, some legal proposition which is the basis of the award and which you can then say is erroneous.
+Precedent	It does not mean that if.
+Precedent	in a narrative a reference is made to a contention of one party, that opens  the door to seeing first what that contention is, and then going to the contract on which the parties' rights depend to see if that contention is sound."
+RatioOfTheDecision	The <ORG> in dealing with an application to set aside an award has not to consider whether the view of the arbitrator on the evidence is justified.
+RatioOfTheDecision	The arbitrator's adjudication is generally considered binding between the parties, for he is a tribunal selected by the parties and the power of the <ORG> to set aside the award is restricted to cases set out in s. 30 .
+RatioOfTheDecision	It is not open to the <ORG> to speculate, where no reasons are given by the arbitrator, as to what impelled the arbitrator to arrive at his conclusion.
+RatioOfTheDecision	On the assump- tion that the arbitrator must have arrived at his conclusion by a certain process of reasoning, the <ORG> cannot proceed to determine whether the conclusion is right or wrong.
+Precedent	It is not open to the <ORG> to attempt to probe the mental process by which the arbitrator has reached his conclusion where it (1) L.R.
+Precedent	50 I.A.
+Precedent	324.
+Precedent	495  is  not disclosed by the terms of his award.
+RatioOfTheDecision	But the arbitrator has in the present case expressly stated in his award that in arriving at his valuation, he has included the depreciation and appreciation of the property, outstandings and dead-stock, and in so doing in our judgment the arbitrator has travelled outside his jurisdiction and the award is on that account liable to be set aside.
+RatioOfTheDecision	The question is not.
+RatioOfTheDecision	one of interpretation of paragraph-13 of the partnership agreement but of ascertaining the limits of his jurisdiction.
+Precedent	The primary duty of the arbitrator under the deed of reference in which was incorporated the partnership agreement, was to value the net assets of the firm and to award to the retiring partners a share therein.
+Precedent	In making the "valuation of the firm".
+Precedent	his jurisdiction was restricted in the manner provided by paragraph-13 of the partnership agreement.
+Argument	It was next urged that the depreciation or appreciation which had been entered in the assessment of the book value were "other matters connected  with" the "transactions" mentioned in the deed of reference.
+Argument	But manifestly those other matters were apart from the valuation of the goodwill, property, outstandings and the dead-stock.
+Argument	It was then urged that when the arbitrator stated that he had included depreciation and appreciation of certain assets in the value of the goodwill in the award, he merely meant that such depreciation and appreciation was included as was in the circumstances permissible.
+Argument	But that would be ignoring the express recital in the award.
+Argument	In fact under the scheme of valuation envisaged by the partnership agreement and therefore the deed of reference, there was no scope for including in the valuation, appreciation of the assets.
+Argument	Again to argue, as was sought to be done, that even though the arbitrator stated that he had included in the amount of Rs.
+Argument	32 lakhs "the depreciation and appreciation" of the property, dead-stock and dues, there being no power to include appreciation, appreciation in the property and the dead-stock could not h ave been included amounts to reaching a conclusion from an assumed premise of which the conclusion was a component.
+Argument	It was also urged that the expression depreciation and appreciation had no such meaning as decrease or increase in the market value of the property, ,dead-stock and outstandings, and the clause merely meant that in fixing the valuation such depreciation or appreciation as had gone into the assessment of the book value of the different items was taken into consideration.
+Argument	But the arbitrator has not said that he merely took into consideration the depreciation and appreciation which went into the book value assigned by the partners to the assets in the account: he has clearly stated that he had included the depreciation and appreciation in those assets in the valuation of the goodwill.
+Argument	Finally it was urged that the recital about the inclusion of depreciation or appreciation was a mere surplusage and should be discarded.
+RatioOfTheDecision	But it would be difficult to regard a statement made by the arbitrator relating  to what he says he had included in the valuation of the goodwill, as a mere surplusage, especially having regard to the orders made by him insisting upon the production of documentary evidence and certain books of account from <NAME>.
+RatioOfTheDecision	It may be pointed out that by cl.
+RatioOfTheDecision	7 of the deed of reference very wide powers were conferred upon the arbitrator to call upon the disputing parties to produce the accounts etc.
+RatioOfTheDecision	which the arbitrator desired and to produce any other papers or documents which the arbitrator would like to inspect, and to reply to any enquiry verbal or written of any sort or in any connection and in any form the arbitrator wanted.
+RatioOfTheDecision	The orders passed by the arbitrator in exercise of these powers tend to indicate that in his view he was competent to ascertain and include in the valuation of the firm the depreciation and appreciation on the various items which were taken into account in arriving at the valuation.
+Fact	By order dated September 16, 1958, the arbitrator gave direction, amongst others, to  <NAME> to file a statement of houses etc.
+RatioOfTheDecision	of immoveable property, valuation of the same as shown in the books of account, i.e.
+RatioOfTheDecision	figures regarding it, and "also the approximate value statement as it existed" at the date of demand according to the estimate of <NAME>.
+RatioOfTheDecision	In the note to the order, it was stated that <NAME> had produced certain papers but they were incomplete, and therefore he was ordered to bring copies of the incomplete papers and also those papers which were not sent by him.
+Fact	On October 10, 1958, <NAME> produced a statement of the net profits of the five years preceding the date of dissolution-which he called the price of the goodwill-for Samvat years 2009 to 2013.
+Fact	The aggregate of the net profits was Rs.
+Fact	21,70,650/10/which he called "price of the goodwill".
+Fact	He then submitted a statement of the outstandings of the different shops aggregating to Rs.
+Fact	9,16,366/- and the value of the goods purchased, and other property, and submitted that the total value of the goodwill of the fi rm by taking into account the profits of the firm for the last five years "as per the statement filed was Rs.
+Fact	21,70,650/10/3 and deducting therefrom 15 % of the outstandings of the firm considered as irrecoverable, the balance was Rs.
+Fact	20,33,295/12/9" and that this was the amount from which the shares of the retiring partners were to be computed.
+Fact	On December 2, 1958, an application was filed by <NAME> inviting the attention of the arbitrator to the agreement of reference and to the terms of the deed of partnership, especially paragraphs 7 and 13, and submitting that the book values of items (2) to (5) in paragraph-4 of the agreement of reference were already in the books of account and could be easily found without any detailed or elaborate examination of the books of account, it was unnecessary to enter upon any detailed inspection of the various entries.
+Fact	On this application an order was passed on December 5, 1958, by the arbitrator that the inspection of the books of account do start on December 21, 19 58, in his presence at Sagar in the office of Messrs <NAME> and <ORG> and that <ORG> do 1 SCI/64-32 make arrangements for giving inspection of all the books of account.
+Fact	On December 22, 1958, another application was submitted by <ORG> stating that it was not necessary to produce certain registers and manufacturing accounts and that the orders in that behalf were beyond the jurisdiction of the arbitrator and that he was unable to produce the ,documents demanded.
+Fact	It was submitted by that application that the kind of inspection claimed and granted amounted to re-opening of the accounts for the last five years which were closed with the consent and to the knowledge of all the partners and which could not in law be re-opened.
+Fact	On De- cember 23, 1958, an application was made by <NAME> son of <NAME> (one of the retiring partners) submitting that the arbitrator had to value the goodwill and this had to be done by ascertaining the value of the profits of the five years, and for that purpose  the arbitrator was entitled to ascertain yearly profits by scrutinising the account books and finding out the yearly net profits.
+Fact	On these applications on December 25, 1958 the arbitrator gave a direction that <ORG> do produce the papers mentioned in item No.
+Fact	2 in the order dated September 16, 1958, namely, the gross and net profits of the last five years, and that he do produce the other papers which were ordered to be produced by the order dated September 16, 1958.
+Fact	Thereafter on January 9, 1959, the arbitrator made his award.
+Argument	The insistence of the arbitrator upon production of the gross and net profits of the last five years indicate that it was the opinion of the arbitrator that he was entitled to take into consideration not only the book value of the assets given in the partnership books of account but the depreciation and appreciation of those assets.
+Argument	The specific use of the expression by the arbitrator that he had included the depreciation and appreciation of various items of property and the pr ocedure followed by him including the orders therefore clearly establish that the expression used by him was not a mere surplusage.
+Argument	499  It is clear that the arbitrator has included in his valuation some amount which he was incompetent, by virtue of the limits placed upon his authority by the deed of reference, to include.
+RatioOfTheDecision	This is not a case in which the arbitrator has committed a mere error of fact or law in reaching his conclusion on the disputed question submitted for his adjudication.
+RatioOfTheDecision	It is a case of assumption of jurisdiction not possessed by him, and that renders the award, to the extent to which it is beyond the arbitrator's jurisdiction, invalid.
+RatioOfTheDecision	It is, however, impossible to sever from the valuation made by the arbitrator the value of the depreciation and appreciation included by the arbitrator.
+RatioOfTheDecision	The award must, therefore, fail in its entirety.
+RatioOfTheDecision	In this view of the case, we do not think it necessary to consider whether the plea raised by the remaining partners that the award is vitiated on the ground  that the arbitrator accepted from the retiring partners documents prepared from the books of account without giving an opportunity to the remaining partners to explain those documents.
+RatioOfTheDecision	It was the case of <NAME> that these documents were prepared and handed over to the arbitrator without giving any notice to him.
+RatioOfTheDecision	It was the case of the retiring partners that the documents consisted merely of extracts of entries in the books of account, and that in any event <NAME> had assented to those documents being included in the record of the arbitrator.
+RatioOfTheDecision	For the reasons set out by us in dealing with the first plea for setting aside the award, and that plea having succeeded, we do not think it necessary to enter upon the respective contentions of the parties on the second ground.
+RulingByLowerCourt	We accordingly hold that the award was properly set aside by the <ORG> below.
+RulingByLowerCourt	Counsel for the retiring partners submitted that on the view taken by us, the award should be remitted to the arbitrator under s. 16 of the Arbitration Ac t, 1940.
+RatioOfTheDecision	No such request was, however, made by them in <ORG> or in <ORG>, and we will not be justified in the circumstances of the case in acceding to that request.
+RatioOfTheDecision	We may observe that we have not heard counsel on the question whether in the circumstances of the case and on the conclusion recorded, we have the power under s. 16 to remit the award to the arbitrator.
+RatioOfTheDecision	The retiring partners have also not asked for an order for supersession of the arbitration agreement in exercise of the powers of the <ORG> under s. 19 .
+RatioOfTheDecision	We have, therefore, refrained from considering that question also.
+RatioOfTheDecision	The appeal fails and is dismissed with costs in one set.
+RatioOfTheDecision	HIDAYATULLAH, J.-This appeal arises out of an arbitration award which was set aside by the Additional District Judge, <NAME> on the objection of the respondents.
+RatioOfTheDecision	The judgment of the Additional District Judge was confirmed on appeal by <ORG> and the present appeal has been filed on a certificate granted by <ORG> under Art.
+RatioOfTheDecision	133 (1)(c) of the  Constitution.
+RatioOfTheDecision	The arbitration was without the intervention of the <ORG>.
+RatioOfTheDecision	Previously it proceeded before three arbitrators but the authority of two of the arbitrators was revoked by the Additional District Judge, <NAME>, at the agreed request of the parties to the reference.
+Fact	It then proceeded before one <NAME> who gave his award on January 9, 1959.
+Fact	The arbitration proceedings were necessary because of the retirement of the appellants from a firm called <ORG> which at that time consisted of eight partners in three groups.
+Fact	These groups were the three appellants (<NAME> and his two sons) owning -/4/3 share, respondents Nos.
+Fact	1-3 (<NAME> and his two sons) owning  -/7/6 share and the two remaining respondents, who are brothers, owning the balance.
+RulingByLowerCourt	By agreement this retirement was to take place on April 15, 1958.
+RulingByLowerCourt	In revoking the award the High <ORG>, in concurrence with the court below, has upheld two objections-(a) that the arbitrator exceeded his jurisdiction and (b) that he was  guilty of misconduct in receiving some evidence behind the back of <NAME>.
+Fact	501  The firm of which the several parties here were partners had a written deed of partnership executed on February 16, 1956.
+Fact	This deed replaced earlier deeds to which reference is not necessary.
+Fact	The partnership kept its accounts from Diwali to Diwali and every year it drew up a balance sheet and a profit and loss account, copies of which documents were given to all the partners.
+Fact	The accounts so stated were subject to objection but if none was made, they were conclusive and binding on the partners.
+Fact	All this was provided in the deed of partnership which also provided for the retirement of partners and its 13th paragraph laid down special terms as follows:  "In case of retirement of any partner the valuation of the <ORG> will be made on the following basis for the purpose of settling the account of the retiring partner:-  (a) Goodwill of the <ORG>: That is, right to use the trade marks, trade labels and the name of the <ORG>.
+Fact	In m aking the valuation of the above, the net profits of the last five years will be taken as the value of the Goodwill of the <ORG>.
+Fact	(b) Outstandings, <NAME> (Recoveries): That is, loans and debts outstanding against persons other than partner will be calculated at 85 % of the book value of the <ORG>.
+Fact	(c) Stock of Raw Materials: That is, tobacco, bidis, bidi leaves, labels and other moveable property will be valued at the book value of these in the books of the <ORG> and all such stocks and moveables, thus valued shall be given to the following partners.
+Fact	(d) Immovable Property: Such as buildings, godowns, gardens, lands etc.
+Fact	will be valued at the purchase price or their book value in the books of the firm as the case may be, and all these shall be given to the re- maining partners."
+Fact	502  As a result of an arrangement reached aliunde by which the businesses of these partners, which were in different firm names and various places, were to be divided between the appellants on the one hand and the respondents on th e other, the parties desired an arbitration to separate the shares of the appellants as partners retiring from the firm <ORG> A deed of reference was executed by them on April 16, 1958.
+Fact	After the usual recitals, it provided that a final account of the partners should be taken with regard to eight matters- as far as possible according to and taking into consideration the terms and conditions of the partnership agreement."
+Fact	The eight matters were:  1.
+Fact	Goodwill of Trade Mark.
+Fact	2.
+Fact	Property.
+Fact	3.
+Fact	Credits (Udhari).
+Fact	4.
+Fact	Dead Stock.
+Fact	5.
+Fact	Stock-in-trade i.e., the raw material or the finished goods invested in the business.
+Fact	6.
+Fact	Other matters connected with these transactions.
+Fact	7.
+Fact	Profit and Loss Account.
+Fact	8.
+Fact	The Receipt and Payments account of the amounts of the partners.
+Fact	It was further provided that the firm <ORG> was to continue with the respondents after the appellants had retired therefrom and the appellants were to be.
+Fact	paid an amount to be determined by the arbitrator and in such a mann er and on such conditions as he might direct.
+Fact	The arbitrator having filed the award in Court, the respondents filed objections, only two of which noticed above succeeded and the award was set aside.
+Fact	I shall therefore proceed straight to those objections of which only the first was fully argued before us.
+Fact	In making his award the arbitrator gave the appellants a -14/3 share from a lump amount of RS.
+Fact	32 lacs which he described as "goodwill" of the firm, adjusting, in the respective shares of the three appellants in that sum, all amounts standing to their credit or debit, as the case may be, in the account books of the firm.
+Fact	He also assessed the "goodwill" for the period from Diwali to the date of retirement and made suitable additions.
+Fact	His real decision is contained in three or four lines in the award which of course contains other matters and his exact words in Hindi have given rise to some difference because they have been translated in two different ways on the record of the case.
+Fact	The two translations are-  ( 1) The value of the goodwill of the whole firm 1 assess at Rs.
+Fact	32,000,00,-- (Rupees thirtytwo lacs).
+Fact	In this sum property, dead stock and depreciation and appreciation of Udhari are also included;  (2) The value of the goodwill of the whole firm 1 assess at Rs.
+Fact	32,000,00/- (Rupees thirtytwo lacs).
+Fact	In this sum the depreciation and appreciation of property, dead stock and Udhari is also included."
+RatioOfTheDecision	The second translation is probably more accurate than the first, but to my mind it is not a matter of mere words but of what the arbitrator has done.
+RatioOfTheDecision	The award is in Hindi and the two words "appreciation" and "depreciation" are in English.
+RatioOfTheDecision	They might well have been used to still all controversy about issues which the parties had raised before him relating to these matters.
+RatioOfTheDecision	The arbitrator might, in other words, have used these words loosely without meaning anything except to show that he had looked into everything which the parties desired him to see.
+Argument	The dispute is thus whether the arbitrator exceeded his jurisdictio n by adding back depreciation amounts to the book value and/or allowing for appreciation of property which was successfully claimed by the respondents in <ORG> and the <ORG> below to be not open to him?
+Argument	In this appeal it was contended on behalf of the appellants that the deed of partnership as well as the order of reference left the arbitrator a free hand and even if the arbitrator wrongly interpreted the deed of partnership and did add back the depreciation and/or appreciation, no question of jurisdiction could arise.
+Precedent	Reliance is placed upon the observations of <ORG> in the well-known case of <CITATION_525017> .
+Precedent	(1) where it was observed:  "An error in law on the face of the award means, in their Lordships' view, that you can find in the award or a document actually incorporated thereto, as for instance, a note appended by the arbitrator stating the reasons for his judgment, some legal proposition which is the basis of the award and which you can then say is erroneous.
+RatioOfTheDecision	It does not m ean that if in a narrative a reference is made to a contention of one party that opens the door to seeing first what that contention is, and then going to the contract on which the parties' rights depend to see if that contention is sound.
+RatioOfTheDecision	Here it is impossible to say, from what is shown on the face of the award, what mistake the arbitrators made.
+RatioOfTheDecision	The only way that the learned judges have arrived at finding what the mistake was is by saying; "inasmuch as the arbitrators awarded so-and- so, and inasmuch as the letter shows that the buyer rejected the cotton, the arbitrators can only have arrived at that result by totally misinterpreting Rule 52".
+RatioOfTheDecision	But they were entitled to give their own interpretation to Rule 52 or any other Article, and the award will stand unless, on the face of it, they have tied themselves .down to some special legal proposition which then, when examined, appears to be unsound."
+Argument	Mr. <NAME> contends that the arbitrator might have interpreted the partnership deed wrongly but that was a matte r within his jurisdiction and the error, if any, not being one of law on the face of the award, <ORG> had no authority or jurisdiction to set aside the award.
+Argument	The other side contends, as has so far been held in the case, that the reference, read with the partnership deed, created an area of (1) I.L.R.
+Precedent	47 Bom.
+Precedent	578 at 586.
+Argument	505  jurisdiction which the arbitrator has outstepped.
+Fact	The first point is therefore to decide what were the limits of the arbitrator's action as disclosed by the reference and the deed of partnership and then to see what the arbitrator has actually done and not what be may have stated loosely in his award.
+RatioOfTheDecision	This is the only way in which the excess of jurisdiction can be found If the interpretation of the deed of partnership lies with the arbitrator, then there is no question of sitting in appeal over his interpretation, in view of the passage quoted above from <NAME>'s case but if the parties set limits to action by the arbitrator, then the arbitrator had to follow the limits set  for him, and the court can find that he has exceeded his jurisdiction on proof of such action.
+RatioOfTheDecision	The arbitrator derived his authority from the reference and we must turn to its terms in the first instance.
+Fact	The material portion has been quoted and it shows that in view of the retirement of <NAME> and his sons, parties considered it necessary "to effect the final account of the retiring partners with regard to the matters mentioned below as.'
+RatioOfTheDecision	far possible according to and taking into consideration the terms and conditions of the partnership agreement" and then followed the eight items.
+RatioOfTheDecision	The words underlined are in the recitals but they do show that the parties desired a division in accordance with the terms of the partnership agreement.
+RatioOfTheDecision	The words "as far possible" show some latitude in one sense, but the force of those words is to be discovered with the aid of the other words "according to and taking to consideration etc."
+RatioOfTheDecision	which lay down that the terms of the partnership agreement must prevail over personal opini on.
+RatioOfTheDecision	The partners appointed the arbitrators to decide the eight matters and to enable them to give their decision undertook by cl.
+RatioOfTheDecision	7 of the reference to furnish all accounts, documents and information which the arbitrators might require of them.
+RatioOfTheDecision	Now the deed of partnership which was to prevail as far as its terms were applicable provided that to settle the final account of the retiring partners four items of assets should be valued in a particular way.
+RatioOfTheDecision	These directions were contained in cl.'
+RatioOfTheDecision	13 of the deed already set out earlier.
+RatioOfTheDecision	Thus goodwill was equal to five years' net profits; debts due to the firm were to be taken not at their book value but at 85 % of that value; stocks of raw materials were to be valued at book value; and immovable properties at purchase price or their book value in the books of the firm as the case may be.
+RatioOfTheDecision	The goodwill took no account of anything but the net profits.
+RatioOfTheDecision	Admittedly, the net profits of the preceding five years were Rs.
+RatioOfTheDecision	21,70,650/ 10/-.
+RatioOfTheDecision	This set at rest sub-clause (a) of c l. 13 of the partnership agreement.
+Precedent	Admittedly also the outstandings (Udhari) came to Rs.
+Precedent	9,16,366/- at their book value and 15% thereof came to Rs.
+Precedent	137,354/13/6.
+Precedent	The net Udhari therefore was Rs.
+Precedent	7,79,011/2/6.
+Precedent	Differences really arose in the matter of valuation of raw materials and immovable properties and in this connection.
+Argument	the appellants asked to see an account of gross profits for the past five years which the arbitrator ordered <ORG> to produce.
+Argument	According to the appellants the value of properties given by <ORG> was the written down value and the right figure according to the agreement was not Rs.
+Argument	6,24,369/- as stated by <ORG> but Rs.
+Argument	16,57,000/-.
+Argument	In reply <ORG> stated that it was not the practice of the firm to prepare an account of gross profits but he added that gross profits could be calculated from the account books by the other side or by the arbitrator and he offered the services of an accountant to prepare such an account.
+Fact	The documents which the arbitrator is said to h ave received behind the back of <NAME> (though not some of the other respondents) are the abstracts which show the gross profits and what was excluded to reach the net profits.
+Fact	The net profits in these accounts and the net profits given by <NAME> agree.
+Fact	I do not refer to the dispute about the production of the documents since that part of the case was not argued before us, but these accounts prime facie do show that in working out net profits for the five years, depreciation of immovable property and goods was taken into account.
+Fact	The same depreciation appears to have been taken into account in the balance sheet while valuing the assets against the liabilities.
+Fact	In other words depreciation of immovable properties and goods over the five years for which the goodwill was to be calculated appeared to have been taken twice over.
+Fact	I would have persuaded myself to go into this matter more deeply but for the fact that such depreciation does not altogether account for the difference between 21 lacs and 32 l acs.
+Fact	The balance sheets show a very slender difference between the assets and liabilities over the five years and it may be taken that the value of <ORG>, raw materials and immovable properties is offset by the liabilities.
+Fact	Nothing remains except a very petty sum as profit to be carried over for addition to the goodwill.
+Precedent	The duplicated depreciation does not in fact account for the increase from Rs.
+Precedent	21 lacs to Rs.
+Argument	32 lacs.
+Argument	The conclusion is therefore inescapable that the arbitrator meant what he said when he spoke of including appreciation and depreciation in the valuation of the properties etc.
+Argument	For this reason he must be held to have exceeded his jurisdiction and it is not a question of his having merely interpreted the partnership agreement for himself as to which <ORG> on authority could have had no say, unless there was an error of law on the face of the award.
+Argument	Reliance is placed upon the case of <NAME> and others v. <NAME> -and others'-" that if accounts in the past were not prepared  to meet the contingency of retiring partners, the accounts must be recast for this special purpose and the arbitrator must necessarily have freedom to value property in his own way and not by accepting old accounts already made by the partners.
+Argument	The intention here was that the arbitrator should prepare the final accounts as the partners would themselves have done under the partnership agreement, and the arbitrator had to follow cl.
+Precedent	13 of the partnership agreement which was binding on (1) [1923] 92 L. J. Ch.
+Precedent	136.
+Precedent	508  the partners and therefore on him.
+RatioOfTheDecision	The partnership agreement did not speak of market value or fair value.
+RatioOfTheDecision	It stated that the purchase price or the book value as the case may be alone could be taken into account.
+RatioOfTheDecision	This meant that the book value where available and the purchase price in other cases only were to enter in the calculations.
+RatioOfTheDecision	There was thus no option to go to fair value or market price at all.
+RatioOfTheDecision	I do not think that we should supersede the arbitration agreement under s.19.
+RatioOfTheDecision	No circumstance  was made out for such a course.
+RatioOfTheDecision	I would have directed a remit to the arbitrator under s. 16 of the Arbitration Act 1940 but my brethren take a different view of the matter and I leave the matter there.
+RulingByPresentCourt	The contention of the appellants on the question of juris- diction decided against them must fail and I agree that the appeal should be dismissed with costs.
+RulingByPresentCourt	Appeal dismissed.

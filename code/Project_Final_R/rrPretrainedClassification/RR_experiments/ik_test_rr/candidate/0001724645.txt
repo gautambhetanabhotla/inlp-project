@@ -1,0 +1,92 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	The dispute in this case relates to the shebaitship of a Hindu temple belonging to the <NAME> Gossains situated at a place called Jatipura in the Muttra district of the United Provinces of India.
+Fact	2.
+Fact	The <NAME> cult, in reality an offshoot of Vaishnavism, was founded in the 16th century of the Christian Era by one <NAME>, who is usually designated among his followers and disciples as <NAME>.
+Fact	He and his descendants, who constitute the <NAME> Gossain Kul, are held in great veneration by the members of the sect and regarded as the incarnation of the famous and favourite Hindu deity <NAME>, whom in common with other Vaishnavs (Vishnuvites) they worship.
+Fact	The cult established by <NAME> differed in several particulars from the practices in vogue among other votaries of <NAME>, the principal point of difference consisting in the fact that he repudiated the practice of celibacy and asceticism practiced by the other Gossains.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The <NAME> Goss ains, in other works, the descendants of <NAME>, possess several principal temples, each of which in presided over by a member of his Kul or family, who is styled a Tikait.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The defendant <NAME> is in possession of one of the most important of these temples, if not the most important, which is situated at Nathdwara in the Odeypore State.
+RatioOfTheDecision	5.
+RatioOfTheDecision	In order to make the contentions of the parties intelligible, it is necessary to state in this connection certain admitted facts relating to the customs and usages in vogue among the <NAME>acharya Kul.
+RatioOfTheDecision	6.
+Precedent	In the first place the <NAME>acharyas do not intermarry in their own Kul, as the members belong to the same gotra.
+Precedent	They take wives from among the Bhats, a well-known Brahmanical caste, and marry their daughters to Bhats.
+Precedent	7.
+Precedent	In the <NAME>acharya Gossain temples, besides the principal image, which is directly or indirectly a presentment of <NAME>, there are subsidiary images not enjoying the same worship or veneration but nevertheless regarded as representatio ns of <NAME>.
+Precedent	They are almost invariably images of one or other of the descendants of <NAME>.
+Precedent	8.
+Precedent	Another fact necessary to bear in mind is that the ministrations in the <NAME>acharya temples are entirely in the hands of the direct descendants of the founder, and the Gossains of his <ORG> are the preceptors of the cult taught by him.
+Precedent	9.
+Precedent	The temple which forms the subject-matter of dispute in the present case is stated to have been built about the time of the Indian Mutiny, by one <NAME>, a descendent of <NAME> and thus a member of his <ORG>.
+Precedent	The worship he set up in this new temple was of the image of <NAME>, which is proved to have been brought from the <NAME> defendant's temples at Nathdwara.
+Precedent	This was one of the subsidiary images that were worshipped there along with the principal deity.
+Precedent	10.
+Precedent	<NAME> remained in possession of the temple built by him and of the worship performed there until his death in 1883.
+Fact	He left a widow, <NAME>, and two daughters, <NAME> and <NAME> na Beti.
+Fact	After the death of <NAME>, his widow, <NAME>, carried on the worship until 1888 when she died, and the charge of the temple devolved on <NAME> and <NAME>.
+Fact	<NAME> died in 1896 and <NAME> in 1902.
+Fact	Both <NAME> and <NAME> were married, according to the custom of the sect, to Bhat husbands and their sons are accordingly called Bhats.
+Fact	The plaintiffs, <NAME> and <NAME>, are the sons of <NAME>, whilst the defendant, <NAME>, is the surviving son of <NAME>, and <NAME> is her <NAME>.
+Fact	11.
+Fact	On the death of <NAME>, these two, together with <NAME>, another of her sons, who was alive at the time, appear to have taken possession of the temple.
+Fact	In 1904 a suit was instituted by the defendant Tikait <NAME>, against <NAME> and his two sons to establish his title to the shebaitship, and for possession of the temple.
+Fact	This suit was referred to arbitration, and an award was made in his favour under which he obtained possession.
+Fact	12.
+Fact	During the pendency of that suit, the plain tiffs, the sons of <NAME>, brought the present action against <NAME> and his two sons for joint possession of the temple and its appurtenances.
+Fact	On the 25th of August, 1905, <NAME> was added as a defendant to the suit of Mumsamat <NAME>'s sons.
+Fact	13.
+Fact	The plaintiffs' claim against <NAME> is for ejectment; whilst against the other defendants it is for joint possession.
+Fact	They allege that <NAME>, their maternal grandfather, was the owner of the temple with all its appurtenances; that on his death his widow came into possession of the same by right of inheritance; and that upon her death their mother and their aunt "became the owners of the temple."
+Fact	And they claim to be entitled on the death of <NAME> to joint possession with her <NAME> and sons to an equal share as "owners."
+Fact	It will be noted that they based their right on the ordinary right of inheritance under the Hindu Law.
+Argument	14.
+Argument	The <ORG>, the real contesting defendant, denied the title put forward by the plaintiffs.
+Argument	He urged that the temp le was not the personal property of <NAME> and that the right of inheritance did not attach to it.
+Argument	He further alleged that, according to the custom in force among the <NAME>, daughter's sons did not belong to their <ORG> and were debarred from taking part in the ministrations at the temple for the benefit of the worshippers; and he claimed that, as a collateral relative of <NAME> in the male line, he was entitled to succeed him as shebait.
+Argument	15.
+Argument	He also alleged that the temple was built by <NAME> on land belonging to his (the defendant's) <NAME> with his permission, and that on <NAME>'s death without leaving any lawful heir the right to the possession devolved on him by virtue of an agreement executed by <NAME>.
+Argument	16.
+Fact	On these respective allegations of the parties the Trial Judge framed a number of issues, only four of which need attention.
+Fact	The second and third put in issue the incapacity alleged by the defendant of daughter's sons succeeding to their maternal grandfathers or taking part in the worsh ip at a Ballav temple.
+Fact	The fourth raised the question whether the property was debuttur.
+Fact	The fifth dealt with the claim of the defendant to succeed to the shebaitship by right of heirship to <NAME>.
+RulingByLowerCourt	17.
+RulingByLowerCourt	The Subordinate Judge, on an exhaustive review of the evidence, held on all the issues against the plaintiffs and accordingly dismissed the suit.
+RulingByLowerCourt	His decision has been affirmed on appeal by <ORG>.
+RulingByLowerCourt	18.
+RulingByLowerCourt	From the decree of <ORG> the plaintiffs have appealed to His Majesty in Council.
+RatioOfTheDecision	They, or rather their advisers, abandoned, if not in the first court, certainly in <ORG>, their contention that the temple in suit with the appurtenances formed the private property of <NAME> subject to the ordinary law of inheritance.
+RatioOfTheDecision	In <ORG> the case was discussed and decided on the admission of the plaintiffs' counsel that the property in suit was debuttur.
+RatioOfTheDecision	In fact, in their Lordships' judgment, the evidence left no room for the opposite contention, for, apart from positive tes timony directly bearing on the point, the performance of the worship in accordance with the rites of the sect for whose benefit it was held may be treated as good evidence of dedication.
+RatioOfTheDecision	That being so, the ordinary rule of Hindu Law relating to the descent of private property is not applicable to the particular right in controversy in this case.
+Precedent	19.
+Precedent	Stress, however, is laid on the principle enunciated in <NAME> v. <NAME> (1889) I.L.R., 17 Calc., 3; L.R., 16 I.A., 137, where Lord <NAME>, delivering the judgment of this <ORG>, said as follows:  According to Hindu Law, when the worship of a thakoor has been founded, the shebaitship is held to be vested in the heirs of the founder, in default of evidence that he has disposed of it otherwise, or there has been some usage, course of dealing, or some circumstances to show a different mode of devolution.
+Precedent	20.
+Precedent	This rule must, from the very nature of the right, be subject to the condition that the devolution in the ordinary line  of descent is not inconsistent with or opposed to the purpose the founder had in view in establishing the worship.
+Precedent	This qualification is in fact covered by the words used by Lord <NAME>.
+Precedent	21.
+Precedent	Starting from this point, the first question to determine is whether the plaintiffs suing for the joint exercise of the right of shebaitship to the temple in suit, have established their competency for the office.
+Precedent	The duties which are imposed on the person in charge of the temple and of its worship are to be found very comprehensively set forth in Professor <NAME>'s "Religious Sects of the Hindus."
+Precedent	Both the courts in India have found that the plaintiffs, being Bhats, and not belonging to the Gossain Kul, cannot perform the diurnal rites for the deity worshipped by the sect; they cannot wash, dress or adorn the image or perform the arti (one of the most important rites) which seems to consist in waving the light before the image of the deity.
+RatioOfTheDecision	They cannot touch the food offerings placed before the idols, which are  afterwards distributed among the Vaishnav votaries.
+RatioOfTheDecision	Nor can they communicate the mantras to the disciples for purposes of initiation.
+RatioOfTheDecision	It is to be noted in this connection, that whilst the daughters of the Ballav Gossains married to Bhat husbands continue to live in their <NAME>'s houses and remain within their <NAME>'s Kul, their sons do not acquire that status; as sons of Bhats they are Bhats, and not Ballavacharya Gossains who are by virtue of their descent entitled to act as ministers of the cult established by Ballav Maha Pirbhuji.
+RatioOfTheDecision	22.
+RatioOfTheDecision	Another fact is equally clear on the evidence that Bhat girls married into the Gossain Kul receive the mantras and become thenceforth members of the Kul.
+RatioOfTheDecision	It is not surprising, therefore, that after <NAME>'s death his widow and daughters remained in charge of the temple and its worship.
+RatioOfTheDecision	But to allow the plaintiffs' claim to an admittedly Ballav temple, where the rites are performed according to Ballav ritual, which, it is clearly established, they cannot perform, would, i n their Lordships' judgment, defeat the purpose for which the worship was established.
+Precedent	23.
+Precedent	In an action of ejectment the conclusion at which their Lordships have arrived would be sufficient for the affirmance of the decree appealed against dismissing the plaintiffs' suit.
+RatioOfTheDecision	24.
+RatioOfTheDecision	But their Lordships are of opinion that the <ORG> defendant has succeeded in establishing an independent title of his own to the temple in suit.
+RatioOfTheDecision	He appears to be the nearest male relative of <NAME>, both being descendants of two full brothers; there can be little doubt, also, that the image installed at Jatipura was brought from his temple at Nathdwara, and that the worship founded by <NAME> was an off-shoot of the worship in Nathdwara.
+RatioOfTheDecision	The temple, again, was built on land belonging to the <ORG> defendant, with the permission of his ancestor, who held the office of <ORG> at the time.
+RatioOfTheDecision	25.
+RatioOfTheDecision	It seems to their Lordships that, apart from the statements contained in <NAME>'s letter, on which the defendant relied in his written statemen t, he has a clear title, according to the customs and usages of the Ballav Kul, to the shebaitship of the temple in suit.
+RatioOfTheDecision	26.
+RatioOfTheDecision	On the whole their lordships are of opinion that the judgment and decree of <ORG> are right, and that this appeal must be dismissed.
+RatioOfTheDecision	And they will humbly advise His Majesty accordingly.
+Precedent	27.
+RulingByPresentCourt	The appellants will pay the costs.

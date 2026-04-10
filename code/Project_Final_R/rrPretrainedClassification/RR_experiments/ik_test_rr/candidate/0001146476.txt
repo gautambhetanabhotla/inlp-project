@@ -1,0 +1,68 @@
+Fact	JUDGMENT K.S.
+Fact	<NAME>, J.
+Fact	1.
+Fact	There are two sets of appeals in this case both arising from the same judgment.
+Fact	The first set of appeals came to be filed under the following circumstances :  2.
+Fact	Civil Appeals Nos.
+Fact	2157-2160 of 68 were brought to this Court on the strength of certificates issued by <ORG>.
+Fact	<ORG> while granting those certificates did not give any reason in support of them.
+RatioOfTheDecision	That being so, those certificates cannot be considered as having been given according to law.
+RatioOfTheDecision	Hence the appeals brought on the strength of those certificates must be held to be non-maintainable.
+RatioOfTheDecision	It is under those circumstances the assessee-appellant applied to this Court to grant special leave against the judgment of <ORG>.
+RatioOfTheDecision	We granted the special leave asked for.
+Fact	On the basis of the special leave granted by this Court Civil Appeals Nos.
+Fact	1304-1307 of 71 have been filed.
+Fact	3.
+Fact	The assessee is <ORG> incorporated under the Indian Companies Act .
+Fact	We are concerned with its assessment for the as sessment year 1956-57, 1957-58, 1958-59 and 1959-60 the corresponding accounting years being the calender years 1955, 1956, 1957 and 19.58.
+Fact	4.
+Fact	In response to a notice issued by the Income-tax Officer under Section 22(2) of the Indian Income Tax Act, 1922 to be hereinafter referred to as 8th Act' the assessee filed Nil returns for all the four years.
+Fact	It claimed that it was not liable to pay income-tax as it was <ORG>.
+Fact	Before the Income-tax Officer the Balance sheets and Profits and Loss Accounts of the assessee for the relevant accounting years were produced.
+Fact	After perusing those records, the Income-tax Officer came to the conclusion that the assessee was not liable to pay any tax in respect of the amounts realised by it from its Members.
+Fact	Sometime thereafter the Income-tax Officer issued notices to the assessee under Section 34(1)(b) .
+Fact	In response to those notices the assessee again filed Nil returns but the Income-tax Officer did not accept those returns.
+Fact	He assessed 140 <CITATION_1146476> .)
+Fact	1972  the assessee for the assessment years 1956-57, 1957-58, 1958-59 and 1959-60 on Rs.
+Fact	7,526/-, Rs.
+Fact	3,521/., Rs.
+Fact	5,313/-and Rs.
+Fact	6,881/-respectively.
+Fact	He came to the conclusion that the amounts received from members of the Club as guests charges must be considered as the incline of the assessee and that the same is liable to be taxed.
+Fact	5.
+Fact	Aggrieved by the orders of the Income-tax Officer, the assessee took up the matters in appeal to the Appellate Assistant Commissioner.
+Fact	The Appellate Assistant Commissioner affirmed the orders of the Income-tax Officer.
+Fact	A further appeal was taken by the assessee to <ORG>.
+Fact	The <ORG> upheld the contentions of the assessee and came to the conclusion that the notices issued under Section 34(1)(b) were incompetent notices as the Income-tax Officer cannot be said to have received any information after he made the assessments in questions.
+Fact	6.
+Fact	As the instance of the department the <ORG> referred to <ORG> under Section 66(1) of the Act, one questi on relating to the assessment year 1956-57 and two questions relating to the assessment years 1957-58, 1958-59 and 1959-60.
+Fact	In respect of the assessment year 1956-67, the question referred was:  whether on the facts and circumstances of these cases the <ORG> erred in holding that the provisions of Section 34(1)(b) were not properly invoked and the re-assessment proceedings for the assessment years '956-57, were invalid.
+Fact	In respect of the remaining assessment eat years, the questions referred are :  (1) Whether on the facts and circumstances of these cases the <ORG> was justified in holding that the re-assessment for the years 1957-58, 1958-59 and 1959-60 under Section 34 were invalid on the ground that the Income-tax Officer had passed no orders of assessment on the original returns ?
+Fact	(2) Whether on the facts and circumstances of these cases the <ORG> erred in holding that the provisions of Section 34 were not properly invoked and the re-assessment proceedings for the assessment years 1957-58, 1958 -59, and 1959-60 were invalid ?
+Fact	7.
+Argument	<ORG> answered all those questions in favour of the <ORG>.
+Argument	The learned Counsel for the assessee did not challenge the correctness of the answer given by <ORG> in respect of question No.
+Argument	1 relating to the assessment years 1957-58, 1958-59, and 1959-60.
+Argument	He submitted that the question is concluded by the decision of this <ORG> in <CITATION_1838819> view of that submission we do dot propose to go into that question.
+Argument	8.
+Argument	Now coming to the question referred in respect of the assessment year 1956-57 and the second question referred in respect of the subsequent years the Income-tax Officer has not placed any material before the <ORG> to show that he received any fresh information either on questions of facts or on questions of law subsequent to the date he passed the original assessment orders.
+Argument	This court has repeatedly ruled that the information referred to in Section 34(1)(b) must be that the Income-tax Officer receives after he makes the original order  of assessment.
+RatioOfTheDecision	It must come to his knowledge subsequent to the assessment sought to be reopened.
+RatioOfTheDecision	In these cases it is admitted that all the facts were placed before the Income-tax Officer when he passed the original orders of assesssment.
+Fact	The fact that the <ORG> had received certain amounts as guests charges from its members had been placed before the Income-tax Officer.
+Fact	It is not the case of the Income-tax Officer that he did not come to know all the relevant facts when he made the original orders of assessment.
+Fact	It is also not his case that at the time he made those orders he was not aware of the true legal position.
+Fact	It was for the Income-tax Officer to show that he had received some information subsequent to his passing the original orders of assessment.
+RulingByLowerCourt	No such material was placed before the <ORG>.
+RulingByLowerCourt	That being so, the <ORG>, in our opinion was right in holding that the Income-tax Officer was incompetent to initiate proceedings under Section 34(1)(b) .
+RulingByLowerCourt	<ORG> has given no reason to come to the c onclusion that there was any subsequent information on the basis which the Income-tax Officer could have re-assessed the assessee under Section 34(1)(b) .
+Argument	9.
+RulingByPresentCourt	For the reasons mentioned above, we allow Civil Appeal Nos.
+RulingByPresentCourt	1304, 1307 of 1971 to the extent mentioned above, discharge the answer given in respect of the question relating to the assessment year 1956 57 as well as the answer given to the second question relating to the subsequent years and answer those questions in favour of the assessee.
+RulingByPresentCourt	The answer given by <ORG> in respect of the first question relating to the assessment years 1957-58, 1958-59 and 1959-60 stands.
+RulingByPresentCourt	The assessee is entitled to its coats in these appeals in this Court.
+RulingByPresentCourt	Hearing fee one set.
+RulingByPresentCourt	10.
+RulingByPresentCourt	Now coming to <ORG> Nos.
+RulingByPresentCourt	2157-2160 of 68 they are dismissed as not being maintainable.
+RulingByPresentCourt	In these appeals, there will be no order as to costs.

@@ -1,0 +1,54 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	At the instance of the Commissioner of <ORG>e-tax Gujarat-I, Ahmedabad, <ORG>, Ahmedabad, Bench 'A' (the "<ORG>" for short), has made the present reference to this court under section 256(1) of the <ORG>e-tax Act, 1961 ("the Act" for short), as the <ORG> was satisfied that a question of law arises out of the order dated May 25, 1980, passed by it in <ORG>e-tax Appeal No.
+Fact	51/Ahd.
+Fact	of 1979.
+Fact	2.
+Fact	The reference has been made in the background of the following facts :  3.
+Fact	The assessee, <ORG>, Ahmedabad, is a trust admittedly recognised by the income-tax authority as a charitable trust exempt under section 11 of the Act.
+Fact	The assessee submitted a return of income for the assessment year 1974-75.
+Fact	Some of the shares held by the assessee-trust belonged to the companies in which persons referred to in section 13(2) of the Act had substantial interests.
+Fact	The net dividend referable to such shares was worked out at Rs.
+Fact	57,007.
+Fact	The <ORG> e-tax Officer, while computing the gross income, took into consideration the dividend income of Rs.
+Fact	57,007 as well as Rs.
+Fact	17,028, which was tax deducted at source by the companies, and assessed the assessee accordingly.
+Fact	4.
+Fact	The assessee preferred an appeal before the Appellate Assistant Commissioner of Income-tax, Ahmedabad, Range-7, Ahmedabad, who took the view that an amount of Rs.
+Fact	57,007 was assessable in the hands of the assessee and not in amount of Rs.
+Fact	17,028 which was the amount of tax deducted at source by the companies who had paid the dividend.
+Fact	5.
+Fact	The <ORG>, in the <ORG>'s appeal, found that the sum of Rs.
+RulingByLowerCourt	57,007 also could not have been brought to tax in the present case, as the provisions of section 13(2)(h) of the Act were not applicable to the facts of the present case.
+RulingByLowerCourt	The <ORG> took the view that the claim of the revenue to tax the extra amount of Rs.
+RulingByLowerCourt	17,028 was without any substance and, therefore, dismissed the appeal.
+RulingByLowerCourt	6.
+RulingByLowerCourt	The Commissioner of Income-tax, therefore, submitted an appl ication under section 256(1) of the Act requiring the <ORG> to draw up a statement of case and refer the question of law for the opinion of <ORG>.
+RulingByLowerCourt	The <ORG> was satisfied that a question of law arose out of the order passed by it in A. T. A.
+RulingByLowerCourt	No.
+RulingByLowerCourt	51/Ahd.
+Fact	of 1979 and, therefore, the <ORG> drew up the statement of case and has made reference of the following question of law for the opinion of the High court :  "Whether, on the facts, and in the circumstances of the case, the provisions of section 13(2) were applicable so as to bring to tax the net dividend of Rs.
+Fact	57,007 and tax deducted at source of Rs.
+Argument	17,028?"
+Argument	7.
+Fact	Reasons :  (1) The <ORG> has recorded a finding a fact that the dividends on shares in the present case constituted the initial corpus of the trust.
+Fact	This is a finding of fact which is not challenged in the present reference.
+Fact	As the amount of dividends was received on the shares which initially constituted the corpus of the trust, it cannot be said that the income was derived by w ay of investment of funds of the trust.
+Fact	The question whether the dividend received on the shares is entitled to exemption when the trust continues to hold the shares in the relevant previous year has been considered by this court in the case of <CITATION_1092479>  173 ITR 248.
+Fact	In the facts of that case, it was found that the assessee, which was a public charitable trust, received as donation certain shares and the question was whether the assessee-trust had invested its funds purchasing the shares in question or not.
+Fact	The assessee-trust in the said case has received Rs.
+Fact	36,036 by way of dividends in respect of said shares in the previous year and the claim for exemption was rejected by the Income-tax Officer by holding that the right of the assessee-trust to exemption under section 11 of the Act was forfeited.
+RulingByLowerCourt	The said order was confirmed by the Appellate Assistant Commissioner.
+RulingByLowerCourt	However, the <ORG> reversed the said order.
+Argument	On a reference, <ORG> has held that, admittedly, the assessee-trust did not i <ORG> its funds in purchasing the shares in question and it was the donor who had purchased the shares.
+Argument	It is further held that the shares, after they were purchased by the donor, were donated to <ORG> and <ORG> continued to held those shares in the previous year, but for that reason, it could not be said that it was an i<ORG>ment made out of its own funds that was continued.
+Argument	Ultimately, it has been held that section 13(2)(h) was not applicable and the dividends received on the shares by the assessee were entitled to exemption.
+Argument	(2) On a plain reading of clause (h) of sub-section (2) of section 13 of the Act, it is clear that it covers i<ORG>ment of trust funds in any concern in which any of the persons specified in sub-section (3) has substantial interest.
+Argument	In the fact of the case, the dividend was received on the shares which constituted the initial corpus of the trust and, therefore, could not have been brought under the provisions of section 13 of the Act.
+Argument	The <ORG> was right i n holding that the provisions of section 13(2)(h) of the Act were not applicable to the facts of the present case in view of the holding of the assessee-company.
+Argument	In our view, therefore, on the facts and in the circumstances of the case, the provisions of section 13(2) of the Act were not applicable so as to bring to tax the net dividend of Rs.
+Fact	57,007 and the tax deducted at source of Rs.
+RatioOfTheDecision	17,028.
+RatioOfTheDecision	(3) The question referred to us is answered in the negative, i.e., in favour of the assessee and against the <ORG>.
+RatioOfTheDecision	8.
+RulingByPresentCourt	The reference stands accordingly disposed of with no order as to costs.

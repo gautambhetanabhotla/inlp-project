@@ -1,0 +1,58 @@
+Fact	JUDGMENT <NAME> Kt., <NAME> and <NAME>, J.
+Fact	1.
+Fact	The objections to the ownership of <ORG> having been abandoned, we have only to consider the objections taken to the status of the respondent as the widow of <ORG>.
+Fact	2.
+Fact	The parties to the suit are Muppanars and are classed with Sudras.
+Fact	It appears that <NAME>, the <NAME> of the respondent, had married the niece of <NAME> alias <NAME>.
+Fact	When he was thirty years of age and had had three daughters born to him, <NAME> assumed to take him in adoption; but dissensions arose, and he brought a suit--Original Suit 272 of 1829--against <NAME> for maintenance as an adopted son, and, although the fact and validity of the adoption were denied, he obtained a decree which was confirmed on appeal.
+Fact	3.
+Fact	<NAME> subsequently married a second wife, <NAME>, who is said to have been his mother's sister's daughter, and by her he had a son, <ORG>, who was a minor of the age of four years when his <NAME> died in 1847.
+Fact	4.
+Fact	In  1859 <NAME> instituted Original Suit 1 of 1859 against the minor <NAME>, represented by his mother as guardian, claiming a one-fourth share in the estate of <NAME> in virtue of his adoption.
+Fact	He relied on the decision in the previous suit as estopping the then defendants from questioning his title, and the validity of his contention was allowed by the Subordinate Judge (Ex.
+Fact	6) and by <ORG> in <CITATION_1081349> 1.
+Fact	M.H.C.R.
+Fact	45 though, in advertence to a passage in the Saraswati Vilasa, <ORG> affirmed the decree only to the extent of a one-fifth share.
+Fact	<NAME> took steps to present an appeal to <ORG>, but the parties came to terms.
+Fact	<NAME> accepted a sum of money and an allotment of land in extent considerably less than a one-fifth share and the appeal was withdrawn.
+Fact	It is said to have been arranged at the time of the compromise that <NAME> should obtain in marriage the respondent, the fourth daughter of <NAME> and born after the alleged adoption.
+Fact	The marriage  was shortly afterwards celebrated in the presence of members of the family, and from that time up to the death of <NAME>, which occurred in 1869, and subsequently up to the date of the institution of this suit, the respondent was treated in the family on the footing that she was the lawful wife of <NAME>, while her daughter has been sought in marriage by the seventh defendant for his son, a circumstance which certainly among the higher castes would argue admitted legitimacy.
+Fact	5.
+Fact	It is now contended that the marriage of <NAME> with the respondent was invalid, in that as the daughter of his adoptive brother she was his near <NAME> on the <NAME>'s side.
+Argument	6.
+Argument	The respondent meets this contention by asserting the invalidity of the adoption, the inefficacy of the adoption if it were at all valid to create a paternal relation, and a custom in the caste which sanctions marriages of <NAME>s which would be prohibited by the rules of Brahmanical law.
+Argument	The appellants reply that the respondent is e stopped by the decrees obtained by her <NAME> from denying the fact and validity of the adoption, and the first question that calls for decision is, whether or not those decrees have the effect claimed for them by the appellants.
+Argument	<ORG> has held that, inasmuch as the parties to Original Suit 1 of 1859 came to a compromise when the decree of <ORG> was under appeal to <ORG>, the question as to the validity of the adoption was left unsettled.
+Argument	We cannot assent to this ruling.
+Argument	When the proceedings in appeal were discontinued, the decree of this <ORG> became final, but we allow the objection of the respondent that neither that decree nor the decree in Original Suit No.
+Argument	272 of 1829 estops the respondent from contesting the validity of the adoption.
+Argument	She was neither a party nor privy to the suits in which those decrees were passed; she is not claiming under her <NAME>.
+Argument	It is true that both she and the respondents are claiming as heirs of <NAME>, but although <NAME> <ORG> and those claiming under him would have been or would be estopped by the decree in Original Suit 1 of 1859 from denying the fact and validity of the adoption in any proceedings between them and <NAME> or those deriving title from him, it does not follow that parties claiming inter se under a title derived from Chandrapraka<ORG> would, be so estopped.
+Argument	<NAME> v. <NAME> L.R.
+Argument	2, P. & D. 230) though it is not precisely in point, supports the contention that the rule of estoppel by matter of decision should not be carried further than it has been established by authority, and no authority has been cited in support of the appellants' objection.
+Fact	Moreover, the decree in Original Suit 1 of 1859 was not passed in a suit to determine status.
+Fact	It was a suit inter partes to determine the rights in the estate of <NAME>.
+Fact	In this suit the rights in question are rights in the estate of Chandrapraka<ORG>.
+Fact	Holding then that the respondent is not precluded from questioning the fact and validity of the adoption, we may next deal wi th the issue whether the adoption made was valid.
+RatioOfTheDecision	The fact that an act was done or certain conduct pursued which was asserted to be tantamount to adoption cannot be disputed.
+RatioOfTheDecision	7.
+RatioOfTheDecision	As to the validity of the adoption the decision of this <ORG> in the appeal of <NAME> is the only reported case in this Presidency which lends any colour to the opinion that even among Sudras the adoption of a married man would be regarded as valid under Hindu Law.
+RatioOfTheDecision	It would certainly be invalid under the Dattaka Chandrika, which declares that marriage concludes the period within which a Sudra may be adopted.
+RatioOfTheDecision	In <NAME> v. <NAME> M.S.D.
+RatioOfTheDecision	vol.
+RatioOfTheDecision	I, p. 412 the Sadr <ORG> in 1823 ruled that the adoption of a Sudra after marriage was illegal and void.
+RatioOfTheDecision	It will be seen that the decision of the High <ORG> in the appeal of <NAME> did not proceed on the ground that the adoption was valid.
+RatioOfTheDecision	The <ORG> conceived it was precluded by the decree obtained by the appellant in the earlier litigation from examining its va lidity.
+RatioOfTheDecision	We have not before us the proceedings in Original Suit 272 of 1829, but from the decision of <ORG> it appears that the then plaintiff relied on the recogintion of the adoption rather than on its validity, and that the decree was finally affirmed by <ORG> on the ground that "an adoption once made is valid and cannot be set aside."
+RatioOfTheDecision	8.
+RatioOfTheDecision	It was incumbent on the appellants to prove the validity of the adoption.
+RatioOfTheDecision	They have relied solely on the decisions already pronounced, and do not in their appeal to this Court assert the existence of a special custom at variance with the received law.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The conduct of the family suggests either that the adoption was regarded as invalid or that if the act of <NAME> to which the character of an adoption is imputed were effective to confer on him a right to property, it was not regarded as producing an altered paternity.
+RatioOfTheDecision	The daughters of <NAME> born' before his adoption have since the adoption been married by persons who, by the adoption, become sap indas of their <NAME>, and although it may be that if the adoption of a married man were valid, the children born before marriage would not become members of the family into which their <NAME> had passed, it is not shown that the marriage of the respondent who was born after the adoption was regarded as less proper than those of her sisters.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Although some evidence has been adduced to show that marriages are allowable in the caste which under strict rules of Hindu Law would be prohibited, and while we may admit that among Sudras the same attention is not paid to the rules as among Brahmans, we can hardly say that there is sufficient evidence to establish a custom sanctioning a marriage with a brother's daughter.
+RatioOfTheDecision	Some instances are indeed mentioned, but the practice so far as it prevails is admitted by one of the witnesses for the appellant to have been of recent origin and hardly yet regarded as sanctioned by usage.
+RatioOfTheDecision	We prefer then to rest our judgment on the ground that the validity of the adoption of <NAME> avu is not established.
+RatioOfTheDecision	11.
+RulingByPresentCourt	Affirming the decrees of the <ORG> below, we dismiss this appeal with costs.

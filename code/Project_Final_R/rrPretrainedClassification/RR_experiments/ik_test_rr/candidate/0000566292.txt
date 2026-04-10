@@ -1,0 +1,25 @@
+Fact	JUDGMENT Smt <NAME>, J.
+Fact	1.
+Fact	The assessee is a public charitable trust.
+Fact	The trustees of the trust received by way of a donation, fixed deposit receipts with Messrs. <ORG> from certain donors towards the corpus of the trust fund.
+Fact	The assessee claimed that the provisions of section 13(2)(a) or 13(2)(h) were not attracted in this case.
+Fact	This contention was rejected by the Income-tax Officer.
+RulingByLowerCourt	The Appellate Assistant Commissioner agreed with the Income-tax Officer in this regard.
+RulingByLowerCourt	The <ORG>, however, has held that these provisions are not attracted in the case of the assessee.
+Fact	Hence, the following question is referred to us under section 256(1) of the Income-tax Act, 1961 :  "Whether, on the facts and in the circumstances of the case, the <ORG> was justified in holding that the trust did not violate the provisions of section 13(2)(a) or section 13(2)(h) and in holding as a consequence that the question of considering whether section 13(4) applies would not arise for the assessm ent year 1972-73 ?"
+Fact	2.
+Fact	Section 11 provides, inter alia, that income derived from property held under trust wholly for charitable or religious purposes shall not be included in the total income of the previous year of the person in receipt of the income if it satisfies the provisions set out therein.
+Fact	Under section 13 , however, section 11 will not apply in certain cases.
+Fact	One such case is set out under section 13(2)(a) .
+Fact	It provides that the income or the property of the trust shall be deemed to be used or applied for the benefit of a person referred to in sub-section (3) and would, therefore, not qualify for exemption "(a) if any part of the income or property of the trust or institution is, or continues to be, lent to any person referred to in sub-section (3), for any period during the previous year without either adequate security or adequate interest or both".
+Fact	This clause clearly provides that the income or property of the trust should be lent to the person specified in sub-section (3).
+Fact	In the present case , the trustees of the trust have not lent any part of the income or property of the trust to such a person.
+Fact	They have received as a donation fixed deposit receipts in a certain company.
+RatioOfTheDecision	In our view, therefore, the <ORG> was right in coming to the conclusion that the receipt of such a donation did not amount to the assessee lending its income or funds or property to a person of the kind specified in sub-section (3).
+RatioOfTheDecision	3.
+Fact	This interpretation is in consonance with the interpretation we have put on the provisions of section 13(2)(h) in a judgment which we have delivered today in the case of <CITATION_1472456>  207 ITR 332, in Income-tax Reference No.
+Fact	298 of 1978.
+Fact	For the same reasons, the provisions of section 13(2)(h) are also not attracted in the present case.
+Fact	4.
+Fact	In the premises, the question which is referred to us is answered in the affirmative and in favour of the assessee.
+RulingByPresentCourt	No order as to costs.

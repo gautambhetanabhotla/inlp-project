@@ -1,0 +1,174 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal from (1) a judgment of the full bench of <ORG>, dated November 4, 1938, in Criminal Miscellaneous Petition No.
+Fact	1,003 of 1938, which, on a reference by a division bench of the same <ORG>, held that the orders of <NAME>, a single Judge of the <ORG>, on an application for writ of habeas corpus and relative applications, and dated October 21, 24, and 26, 1938, made in Criminal Miscellaneous Petitions Nos.
+Fact	986, 990 and 985 of 1938 respectively, were null and void, (2) a judgment and order of the said division bench, dated November 7, 1938, made in petition No.
+Fact	1,003 in implement of the above judgment, and ( 3 ) a judgment and order of the said division bench, dated November 7, 1938, made in petition No.
+Fact	985, dismissing the application for a writ of habeas corpus.
+Fact	2.
+Fact	The appellants challenge the validity of certain warrants issued by the Resident for the Madras States under Section 7 of the Indian Extradition Act (XV of 1903 ) to the Chief P residency Magistrate of Madras, under which they were arrested, and they ask to be discharged.
+Fact	The course of procedure which has been followed has raised important questions as to the jurisdiction of <ORG> to issue a writ of habeas corpus in the present case, and as to the competency of a single Judge of <ORG> to issue such a writ or the analogous writ under Section 491 of the Code of Criminal Procedure (Act V of 1898).
+Fact	3.
+Fact	The warrant against the first appellant was in the following terms, To the Chief Presidency Magistrate, Madras.
+Fact	Whereas Mr. <NAME>, Director of <ORG> (which is now under liquidation), who is now reported to be residing at Marble Hall, Sterling Road, Nungumbakam, Madras, stands charged with offences punishable under sections 410 , 419 , 421 , 480 and also sections 99 and 104 of the Travancore Penal Code corresponding to sections 409 , 418 , 420 , 477A , 109 and 114 of the Indian Penal Code committed in the Travancore  State, you are hereby directed to apprehend the said Mr. <NAME> and surrender him to the frontier police station of the Travancore State for production before the District Magistrate, Trivandrurn.
+Fact	Herein fail not.
+Fact	( Sgd.)
+Fact	<NAME>, Resident for the Madras States.
+Fact	The warrants against the other three appellants were in the same terms.
+Fact	The fourth appellant denies that he is a director of the bank, but that is not material at this stage.
+Fact	It will be noted that the warrants were not dated.
+Fact	The appellants were all arrested in Madras on the instructions of the Chief Presidency Magistrate, who is the second respondent in this appeal, on October 20, 1938.
+Fact	<ORG> was formed by the amalgamation of two banks and was incorporated in Travancore in September, 1937, though the head office was in Madras and the larger part of its business would appear to be carried on in the Madras Presidency.
+Fact	The appellants, who are Travancore subjects, had taken up residence in Madras in 1937,  in order to conduct the business there.
+Fact	The District Magistrate, Trivandrum, referred to in the warrants, is the first respondent in this appeal.
+Fact	4.
+Fact	Learning that the appellants were to be taken to Travancore by a train leaving at 11 a.m. on October 21, 1938, and having in view that <ORG> did not sit until 10-45 a.m., the sons of the first and second appellants presented a petition (No.
+Fact	985 of 1938) under Section 491 of the Code of Criminal Procedure for a writ of habeas corpus in respect of all the appellants early on the morning of that day to <NAME> a Judge of <ORG>, at his residence.
+Fact	This petition was supported by an affidavit by the son of the first appellant, and along with it a further petition (No.
+Fact	986 of 1938) was presented to the Judge asking for a stay of execution of the warrants.
+Fact	On the latter petition (No.
+Fact	986 of 1938), <NAME> made the following order, viz.
+Fact	:  As the matter is extremely urgent the Chief Presidency Magistrate, Egmore, should detain these pris oners in his custody and not send them away from Madras pending further orders of <ORG>.
+Fact	5.
+Fact	The appellants had meanwhile been produced before the Chief Presidency Magistrate, and made an application for a reference to <ORG> under Section 8(a) of the Indian Extradition Act.
+Fact	While this application was in course of being heard, the order passed by <NAME> was produced and the Magistrate thereupon remanded the appellants to custody.
+Fact	6.
+Fact	Subsequently on the same day, the Crown Prosecutor presented al petition ( No.
+Fact	990 of 1938 ), praying that the order of <NAME> on petition No.
+RulingByLowerCourt	986 be vacated, mainly on the ground that it was passed without jurisdiction, as, under Rule 2(a) of the Appellate Side Rules of <ORG>, jurisdiction under Section 491 of the Criminal Procedure Code could only be exercised by a bench of <ORG>, and not by a single Judge.
+Fact	This petition, No.
+Fact	990, was heard by <NAME> on October 22, 1938, and on October 24, the learned Judge mad e an order in petition No.
+Fact	990 refusing to vacate the order for stay in.
+Fact	petition No.
+Fact	986, and dismissing petition No.
+Argument	990.
+Argument	The learned Judge held himself to be bound by the decision of a full bench of <ORG> in In re Govindan Nair (1922) I.L.R.
+Argument	45 Mad.
+Argument	922, F.B., to the effect that <ORG> had jurisdiction at common law to issue a writ of habeas corpus, and he held that such jurisdiction was vested in each of the Judges of <ORG>, and could not be taken away by Rules.
+Argument	7.
+Fact	On the same day, October 24, 1038, the first of these petitions, No.
+Fact	985, came before a bench of <ORG> (<NAME> and <ORG>), who refused to proceed with the matter, as <ORG> was seized of it.
+Argument	In answer to the <ORG>, counsel for the applicants stated categorically that the application was for a common law writ of habeas corpus and not a petition to <ORG> to exercise its powers under Section 491 of the Criminal Procedure Code.
+Argument	On October 26, 1938, <ORG> heard petition No .
+Argument	985, and made an order that a writ of habeas corpus should issue to the Chief Presidency Magistrate, returnable before himself on October 28, 1938, and a writ nisi was accordingly issued.
+Argument	8.
+Argument	On the same day, October 26, 1938, the District Magistrate, Trivandrum, the first respondent in this appeal, presented a petition (No.
+Argument	1,003 of 1938 ) to <ORG>, under Section 561A of the Code of Criminal Procedure and Section 223 of the Government of India Act, 1935, praying that the orders of <NAME>, dated October 21, 22, and 26, 1938, should be quashed as having been made without jurisdiction, and calling the present appellants as respondents.
+Argument	This petition was supported by an affidavit by <ORG> C.I.D., Travancore.
+Argument	9.
+Fact	This petition, No.
+Fact	1,003, came on for hearing on October 27 before <NAME> and <NAME>, who, as the hearing could not be completed on that day, made an order suspending the operation of the writ nisi, issued under the order of <NAME> dated October 26  and staying further proceedings on petition No.
+Fact	985 until the further orders of the <ORG> should be known, with a direction to the second respondent to keep the prisoners in his custody till further orders.
+Fact	10.
+Fact	After the further hearing on petition No.
+Fact	1,003, <NAME> and Stodart JJ., on November 2, 1938, referred the following questions of law to a full bench:-  (1) Can this High <ORG> or any Judge of it issue the common law writ of habeas corpus in any of the cases covered by Section 491 of the Criminal Procedure Code?
+Fact	(2) Can an application for a common law writ of habeas corpus or for directions under Section 491 of the Criminal Procedure Code be heard and disposed of by a single Judge of this <ORG>?
+Fact	In other words : Are Rules 2 and 2a of the Appellate Side Rules intra or ultra vires?
+Fact	(3) If a single Judge has power to issue the common law writ of habeas corpus, is the writ issued by our learned brother <NAME>, on October 26 liable to be quashed by this <ORG> for the reason that it has been issued  in contravention of the rules in force in <ORG> in England?
+Argument	11.
+Argument	In stating their reasons for the order of reference the learned Judges dealt with the contentions submitted to them as follows:-The petitioner, the first respondent in this appeal, submitted three contentions : in the first place, that <ORG> has no jurisdiction to issue the common law writ of habeas corpus in cases, which admittedly include the present case, covered by Section 491 of the Criminal Procedure Code; the learned Judges held themselves bound to reject this contention by reason of the decision of the full bench in <NAME> case, already referred to, but gave reasons why they thought that it should be reconsidered.
+Argument	In the second place, the petitioner maintained that even if <ORG> had still power to issue the common law writ of habeas corpus, nevertheless Rule 2 was intra vires and binding on all Judges of the Court, and that, accordingly, a single Judge had no power to deal with such proceedings; the le arned Judges held this to be well founded.
+Argument	In the third place, the petitioner maintained that even if a single Judge has jurisdiction to issue the common law writ of habeas corpus, the procedure in this case had not been proper in that <NAME> had made the writ returnable to himself and not to the <ORG>, during term time, which was in contravention of the rules in force in the High <ORG> in England, which would apply in the case of a common law writ in the High <ORG> of Madras ; the learned Judges agreed with this contention.
+Fact	The respondents-the present appellants-maintained two arguments : first, that in a criminal matter, such as this one, there was no right of appeal; but the learned Judges held that the <ORG> was entitled to entertain the petition by virtue of Section 561A of the Criminal Procedure Code.
+Fact	In the second place, the respondents objected to the locus stand of the petitioner, who had not been a party to the application for a writ; the learned Judges rejected this objection.
+Fact	Having regar d to the importance of three of the questions argued before them, the learned Judges made the reference already mentioned.
+RulingByLowerCourt	12.
+RulingByLowerCourt	On November 4, 1938, the full bench (Sir <NAME>, <NAME>, <NAME>, <NAME> and <NAME>) having heard arguments, made an order in which the questions were answered as follows:-  (1) The common law writ of habeas corpus does not run in British India in a case like this.
+RulingByLowerCourt	Assuming that the <ORG> formerly had the power to issue a writ of habeas corpus in a case like this, that power has been taken away and the powers conferred by Section 491 of the Code of Criminal Procedure substituted.
+RulingByLowerCourt	(2) Rules 2 and 2a of the Appellate Side of this <ORG> are intra vires the <ORG>'s powers.
+RulingByLowerCourt	(3) Mr. Justice <NAME>'s order issuing a rule nisi was passed without jurisdiction and is consequently null and void.
+RulingByLowerCourt	(4) The position therefore is that the application filed by the respondents under Section 491 of the Code of Criminal Procedure must be dealt with in accor dance with the rules of the <ORG> which means that it must be dealt with by <ORG>.
+RulingByLowerCourt	13.
+RulingByLowerCourt	In the same order the learned Chief Justice directed that the application under Section 491 (No.
+RulingByLowerCourt	985) should be placed before the criminal bench on the following Monday, November 7.
+Fact	The reasons of the full bench for their judgment were subsequently given on November 8 in a judgment delivered by the Chief Justice.
+Fact	14.
+Fact	The proceedings in petition No.
+Fact	1,003 were resumed by <NAME> and <NAME> JJ.
+Fact	on November 7, 1938, when they made an order in accordance with the answer of the full bench, setting aside the order of <NAME> in petition No.
+Fact	985, dated October 26, 1938, which directed the issue of the writ nisi already referred to.
+Fact	15.
+Fact	On the same day, November 7, 1938, <NAME> and <NAME> JJ.
+Fact	dealt with petition No.
+Fact	985, which came before them under the direction of the Chief Justice.
+Fact	After hearing arguments and considering the affidavits, the learned Judges delivered judgment and made an order dismissing the pe tition.
+Fact	16.
+Fact	This appeal is taken against (1) the judgment of the full bench, dated November 4, 1938, on the questions referred to them in petition No.
+Fact	1,003, (2) the judgment of <ORG>, dated November 7, 1938, in petition No.
+Fact	1,003, and (3) the judgment of <ORG>, dated November 7, 1938, dismissing petition No.
+Precedent	985.
+Precedent	17.
+Fact	Counsel for the appellants submitted four contentions, viz.
+Fact	:  1.
+Fact	That the first respondent had no locus standi in the matter raised in the appellants' petition No.
+Argument	985, and that, for the same reason, his petition No.
+Argument	1,003 was incompetent and should not have been entertained.
+Argument	2.
+Argument	That Rules 2 and 2 A of the Appellate Side Rules were ultra vines, or, in any event, were not applicable to the present case.
+Argument	3.
+Fact	That the warrants were illegal and invalid for the following reasons, (a) that there is definite jurisdiction in <ORG> to examine, on evidence, whether the conditions laid down by the Extradition Act and the rules made thereunder for issue of the warrants  have been complied with, (b) that, when thus examined, it would be found that such conditions had not been complied with, (c) that, in any event, the warrants were ex facie invalid, in respect that  (i) they did not show that the conditions had been complied with,  (ii) that they did not show sufficiently with what offences the appellants were charged, or when they were committed,  (iii) that they did not sufficiently show where and to whom the appellants were to be delivered up, and  (iv) that they were undated.
+Fact	4.
+Fact	That jurisdiction to issue the common law writ of habeas corpus in a case such as the present still subsisted, and that <NAME> had jurisdiction to order the issue of the writ nisi.
+Argument	18.
+Argument	On the first contention, their Lordships are clearly of opinion that the first, respondent was entitled to intervene in the appellants' petition No.
+Argument	985, and that the petition No.
+Argument	1,003 was competently presented by him.
+Argument	Counsel for the appellants referred to the rules made by the Governor-General in Coun cil, under Section 22 of the Indian Extradition Act, 1903, as to the Procedure of Political Agents for Surrender of Accused Persons to Native States (No.
+Argument	1862 I.A., dated May 13, 1904), and in particular Rule 2, which provides as follows : 2.
+Argument	The Political Agent shall not issue a warrant under Section 7 of the said Act except on a request preferred to him in writing either by or by the authority of the person for the time being administering <ORG> for which he is a Political Agent, or by any Court within such State which has been specified in this behalf by the Governor General in Council, or by the Governor of Madras or Bombay in Council, as the case may be, by notification in the official <ORG>.
+Argument	19.
+Argument	He maintained that the only parties who were entitled to take part in the proceedings relative to the warrants in the present case were (a) the appellants, (b) the second respondent, the Chief Presidency Magistrate, (c) the British Resident for the Madras States, and (d) the Go vernment of Travan-core.
+Argument	But their Lordships are of opinion that the terms of the warrants show that the authority to whom, in terms of Section 7 of the Act, the appellants are to be delivered, is truly the first respondent, who will control their custody, though the police of Travancore at the frontier station will receive the delivery on his behalf.
+RatioOfTheDecision	Rule 7 of the rules above referred to makes this sufficiently clear ; it provides as follows:-  '7.
+Precedent	In the case of an accused person made over for trial to <ORG>, the Political Agent shall satisfy himself that the accused receives a fair trial, and that the punishment inflicted on conviction is not excessive or barbarous; and if he is not so satisfied he shall demand the restoration of the prisoner to his custody, pending the orders of the Governor General in Council.
+Precedent	20.
+Precedent	It is dear that, if occasion arose for such an application in the present case, it would fall to be made to the Court of the first respondent.
+Precedent	Their Lordships are of opinion t hat the first respondent is entitled to vindicate his right to obtain the custody of the appellants, and that this contention of the appellants fails.
+Precedent	21.
+Precedent	It will be convenient to dispose next of the fourth contention of the appellants.
+Precedent	On this point their Lordships agree with the conclusions of the full bench in the present case which are stated in the judgment delivered by the learned Chief Justice as follows :  The High <ORG>s Act of 1861 authorised the <ORG> if it thought fit to take away the powers which this <ORG> obtained as the successor of the Supreme <ORG>, and Acts of the <ORG> lawfully passed in 1875 and subsequent years leave no doubt in my mind that the <ORG> has taken away the power to issue the prerogative writ of habeas corpus in matters contemplated by Section 491 of the Code of Criminal Procedure of 1898.
+Precedent	22.
+Precedent	Indeed counsel for the appellants stated that he found difficulty in pressing this contention, and the reasoning of the learned Chief Justice, on which he based the  above conclusion, is so clear and convincing, including his narration of the legislative Acts referred to in his conclusion, that their Lordships are content to adopt it, as also to state that, like the learned Chief Justice, they are in entire agreement with the judgment of <NAME> in <CITATION_1788368> (1927) I.L.R.
+Precedent	54 Cal 227.
+Precedent	Accordingly the appellants' fourth contention also fails.
+Precedent	It follows that the appellants' petition No.
+Precedent	985 must be treated as an application under Section 491 of the Code of Criminal Procedure.
+Precedent	The second contention of the appellants related to the Appellate Side Rules of the Madras High Court.
+Precedent	Section 491 of the Code of Criminal Procedure, so far as material, provides:  491.
+Precedent	(1) Any High.
+Precedent	Court may, whenever it thinks fit, direct  (b) that a person illegally or improperly detained in public or private custody within such limits" (i.e.
+Precedent	the limits of its appellate criminal jurisdiction) "be set at liberty ;  (2) <ORG> may, from time to time, frame rules to regulate the p rocedure in cases under this Section.
+Precedent	23.
+Precedent	The material rules of the Appellate Side Rules are as follows :  2.
+Precedent	The following matters may be heard and determined by a Bench of two Judges provided that if both Judges agree that the determination involves a question of law they may order that the matter, or question of law, be referred to <ORG> :  (4)(c) for issue of a writ of habeas corpus, 2a.
+Precedent	All applications for writ of habeas corpus shall go before a Bench of Judges dealing with criminal work.
+Precedent	24.
+Precedent	In view of their Lordships' opinion, already expressed, as to the incompetence of the issue of a common law writ in the present case, the appellants' contention, that these rules are ultra vires so far as they affect the issue of such a writ, does not arise, but the appellants maintain that, on proper construction, these rules do not apply to an application for directions under Section 491 , which they maintain is not covered by the words " all applications for writ of habeas corpus".
+Precedent	Their Lordships are u nable to accept this contention, and their view is confirmed by the terms of the statutory notifications in <ORG> as to Rule 2A, which first appeared in a somewhat different form in the <ORG>, 1925, Part II, p. 307, under date January 3, 1925, in which it is expressly described as an amendment to the rules regulating proceedings under Section 491(1) of the Code of Criminal Procedure, and it was as follows, " All applications for writ of habeas corpus shall go before a Bench of three Judges, of which the Chief Justice, unless otherwise ordered, shall be one."
+Precedent	The alteration of the rule to its present form appeared in the <ORG>, 1929, Part II, p. 1309, under date August 17, 1929, and the description of the amendment is identical with that in the earlier notification.
+Precedent	Accordingly, <NAME>, as a single Judge, had no jurisdiction to deal with petition No.
+Precedent	985.
+Precedent	25.
+Argument	It only remains to deal with the appellants' contentions as to the warrants :In the first place, they maintained that  the <ORG> is entitled to examine, on evidence, whether the conditions laid down by the Extradition Act and the rules made under Section 22 of the Act have been complied with, and that the appellants were entitled to an opportunity to satisfy the <ORG> (a) that the offences must have been committed in Madras, and (b) that, in reality, the Travancore authorities desired to get the appellants into their jurisdiction in order to charge them with political offences, which would not be extraditable offences.
+RatioOfTheDecision	It must be remembered that the warrants are issued by the agent of <ORG>, and not by an agent of the Travan-core State, and this executive act is safeguarded in various ways by the Act and by the rules.
+RatioOfTheDecision	For instance, Rule 4 provides that the Political Agent shall, in all cases before issuing a warrant under Section 7 of the Act, satisfy himself, by preliminary inquiry or otherwise, that there is, prima facie, a case against the accused person.
+Argument	The appellants do not suggest that the Resident d id not so satisfy himself in the present case.
+Argument	But, if such a suggestion were to be made, their Lordships are of opinion that it would not be properly the subject of inquiry by the Court, but should be stated to the Magistrate on an application to him to report to <ORG> under Section 8A of the Extradition Act.
+Argument	Their Lordships see no reason why the offences charged cannot have been committed in Travancore, and what they have stated above directly applies to the suggestion that the true object of the extradition is to enable the appellants to be charged with political offences.
+Precedent	It may be added that a bogus trial of the offences, in respect of which the extradition is made, would appear to fall within Rule 7, and to make it the duty of the Political Agent, in such an event, to demand the restoration of the prisoners to his custody.
+Precedent	26.
+Precedent	Lastly, the appellants contend that the warrants are illegal ex facie in respect (a) that they do not sufficiently show with what offences the appellants were char ged or when they were committed, (b) that they do not sufficiently identify the place where, and the person to whom, the appellants were to be delivered up, and (c) that they are undated.
+Precedent	27.
+Precedent	As regards (a), no form of warrant is prescribed by the Extradition Act or the rules, and the warrants clearly describe the offences with which the appellants are charged, which is all that is required by the ordinary form of warrant of arrest prescribed by Section 75 and form II of Schedule V of the Code of Criminal Procedure.
+Precedent	Their Lordships may also refer to the explanation to Section 477A of the Indian Penal Code.
+Argument	This objection fails.
+Argument	As regards (b), Section 7(1) of the Extradition Act uses the words, "for his arrest and delivery at a place and to a person or authority indicated in the warrant," and their Lordships are of opinion that all that is required is that the place and person shall be sufficiently indicated to enable the Chief Presidency Magistrate, to whom the warrants are addressed, to act in pursuance of  such warrants and to give directions accordingly.
+Argument	It is clear that the second respondent has no difficulty in this regard, and, if there were any doubt on the warrants taken by themselves, which their Lordships are not prepared to assume, the matter is placed beyond doubt by <ORG> (<ORG>) Order No.
+Fact	1,293, March 10, 1938, under which the Government direct that in future all persons extradited should be handed over at " the nearest frontier police station in the Travancore State".
+Fact	That order was addressed, among others, to the second respondent.
+RatioOfTheDecision	There can be no difficulty in identifying the nearest frontier police station of the Travancore State for production before the District Magistrate, Trivandrum, and, in their Lordships' opinion, a police station is a perfectly lucid description of the authority to whom the surrender is to be made.
+RatioOfTheDecision	Contention (c) as to the absence of date also fails, in their Lordships' opinion.
+RatioOfTheDecision	While it undoubtedly would be the usual and better practice to  date the warrants, no provision in the Act or the rules appears to require directly or implicitly that the warrants must be dated ; no period is expressed as running from the date of the warrants.
+RatioOfTheDecision	This disposes of all the appellants' objections to the validity of the warrants.
+Precedent	28.
+RulingByPresentCourt	Their Lordships have now stated the reasons which led them on April 3, 1939, humbly to advise His Majesty that the appeal should be dismissed.

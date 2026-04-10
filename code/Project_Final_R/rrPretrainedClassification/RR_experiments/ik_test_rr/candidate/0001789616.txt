@@ -1,0 +1,107 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	These four revision petitions are by the Deputy Commissioner of <ORG>, and raise common legal issues.
+Fact	They together seek to vary the orders by <ORG>, that have sustained the dealers' objections to being assessed to sales tax.
+Fact	The facts in these petitions are that for the assessment year 1953-54, the dealers had been held under the Madras General Sales Tax Act, IX of 1939, liable to pay sales tax on rubber sold at Fort Cochin, that then formed, part of the Madras State, and the appeals by the dealers were rejected.
+Argument	<ORG> has upheld the objection against the tax on the ground of the commodity being agricultural produce and sales by the plantation owners being excluded from the definition of turnover under the Act.
+Argument	2.
+Argument	In T.R.C.
+Argument	8/58 the respondent is Messrs <ORG> and <ORG>, Ayalur, which was then within the Travancore-Cochin State, and the turnover determined by the assessing authority fo r the purposes of the tax is Rs.
+Fact	69,122-7-4.
+Fact	In this petition the tax disputed is on the entire turnover.
+Fact	In T.R.C.
+Fact	9/58 the respondent is Messrs <ORG>, Kuzhithurai, now at Nagercoil, which also was then part of the Travancore-Cochin State and the turnover amounts to Rs.
+Fact	3,26,921, on which the disputed tax amounts to Rs.
+Fact	5,108-2-3.
+Fact	In T.R.C.
+Fact	11/58 the respondent is Messrs <ORG>, Trivandrum, whose estate was outside the Madras State and the turnover on which the tax had been levied, comes to Rs.
+Fact	2,80,682-7-4, the tax amount being Rs.
+Fact	4,385-10-8.
+Fact	In T.R.C.
+Fact	12/58 the respondent is Messrs Kamadhenu Estate, Kuzhithurai, and the turnover, on which this dealer has been assessed, is Rs.
+Fact	29,121-1-11, the tax levied being Rs.
+Fact	455-0-3.
+Fact	The aforesaid turnovers are prices of rubber sold by the dealers at Fort Cochin during 1953-54, which the Deputy Commercial Tax Officer discovered in the first petition, from the accounts of <ORG>, and in the other three from the ac counts of Messrs <ORG>  3.
+Argument	The objection to the assessments rests on Section 2(i) of the Madras General Sales Tax Act, whereby the sales by persons of their agricultural or horticultural produce are excluded from the definition of the word "turnover" and it was urged that rubber being the agricultural produce of the several respondents, they cannot be charged to sales tax under Section 3 (1) (a) of the Act.
+Statute	The aforesaid two provisions in detail are :-  Section 2.
+Statute	(i) 'turnover' means the aggregate amount for which goods are either bought by or sold by a dealer, whether for cash or for deferred payment or other valuable consideration provided that the proceeds of the sale by a person of agricultural or horticultural produce grown by himself or grown on any land in which he has an interest whether as owner, usufructuary mortgagee, tenant or otherwise, shall be excluded from his turnover;  Section 3.
+Statute	(1) Subject to the provisions of this Act, (a) every dealer shall pay for each year a tax on h is total turnover for such year ; and (b) the tax shall be calculated at the rate of three pies for every rupee on such turnover :-  * * * *  4.
+Argument	<ORG> has held that as rubber was agricultural produce and the sales had been by the estates that had grown the commodity from which the rubber had been got, the price obtained from such sales at Fort Cochin would not constitute the dealers' "turnover" and therefore would not attract the liability under Section 3(1).
+Argument	Before us, the correctness of the aforesaid conclusion is challenged on the ground that the Act having been passed by a State <ORG>, and, having regard to the territorial limits of the enacting authority, the word "land" in Section 2(i) would mean land within the Madras State, so that produces from rubber estates beyond the boundaries of the enacting State would not be of the land that the State <ORG> intended to save from the sales tax.
+Argument	The next reason urged against the <ORG>'s order is that rubber, having been got by the  produce from land being put to manufacturing process, cannot be agricultural produce and would thus not be covered by the exception under Section 2(i).
+Argument	5.
+Argument	The learned Advocate-General has in support of the first ground relied on In re Hindu Women's Rights to Properly Act, A.I.R.
+Argument	1941 F.G. 72 at p. 75.
+Argument	There, the provisions of the Hindu Women's Rights to Property Act were challenged on the ground of its extending to agricultural properties as well, of being a Central Act , to be beyond the competence of the <ORG> and, being therefore, void.
+Argument	Rejecting the argument <NAME>, <NAME>, observes as follows :-  No doubt if the, Act does affect agricultural land in the Governors' Provinces, it was beyond the competence of the <ORG> to enact it; and whether or not it does so must depend upon the meaning which is to be given to the word 'property' in the Act.
+Argument	If that word necessarily and inevitably comprises all forms of property, including agricultural land, then clearly the Act went beyond the powers of the L egislature ; but when a <ORG> with limited and restricted powers makes use of a word of such wide and general import, the presumption must surely be that it is using it with reference to that kind of property with respect to which it is competent to legislate, and to no other.
+Argument	The question is thus one of construction, and unless the Act is to be regarded as wholly meaningless and ineffective, the court is bound to construe the word 'property' as referring only to those forms of property with respect to which the <ORG> which enacted the Act was competent to legislate; that is to say, property other than agricultural land.
+Argument	On this view of the matter, the so-called question of severability, on which a number of <ORG> decisions, as well as decisions of <ORG>, were cited in the course of the argument, does not arise.
+Argument	6.
+Argument	The learned Advocate-General has further relied on the following observation of <NAME> J., in <CITATION_634206> A.I.R.
+Argument	1959 S.C. 1002 at p. 1010.:  It is now we ll settled that there is a general presumption that the <ORG> does not intend to exceed its jurisdiction, and it is a sound principle of construction that the Act of a sovereign <ORG> should, if possible, receive such an interpretation as will make it operative and not inoperative.
+Argument	7.
+Argument	Support was also sought from <NAME> v. Attorney-General for New South Wales [1891] A.C. 455 where Section 54 of the Criminal Law Amendment Act of New South Wales, Australia was construed as applying to only those acts that were actually committed within the territorial jurisdiction of the <ORG>, with the result there being no jurisdiction in the aforesaid Colony to try the appellant for bigamy alleged to have been committed in the United States of America.
+RatioOfTheDecision	The legal proposition, therefore, is well settled that the presumption is in favour of the enactments being within the constitutional limits of the enacting authority.
+RatioOfTheDecision	8.
+RatioOfTheDecision	But the revision petitioners' learned Advocate overlooks that the presumption is about  the enactment being within all constitutional limitations on <ORG> and such limitations would cover Article 304(a) as well.
+RatioOfTheDecision	There under, <ORG>s may, by law, impose on goods imported from other States or the Union territories, any tax, to which similar goods manufactured or produced in that State are subject, so, however, as not to discriminate between goods so imported and goods so manufactured or produced.
+RatioOfTheDecision	It is therefore clear that <ORG>, in passing <CITATION_8778749> of the Act, cannot be presumed to have enacted something that would be violative of Article 304(a) ; and yet that would exactly be the position we are asked to place on the word "land" in <CITATION_8778749> ; for, the produces from rubber estates within the Madras State would not be charged to sales tax if sold at Fort Cochin ; but the produces from the rubber estates within Travancore-Cochin area would be liable, because they would not be produces of land that had been intended to be excluded.
+Argument	Indeed the same owner would get the benefit under the provision if the produce be from plantations within the Madras State, but would be liable should his goods from estates in the adjoining Travancore-Cochin State come to be sold at Fort Cochin.
+Argument	When confronted with such a position and the presumption of the constitutionality precluding the <ORG> having such an intention, the petitioners' Advocate was compelled to argue that the restriction under Article 304(a) is against levying tax at the point of import, and not when the imported goods are being sold in the market.
+Argument	We are afraid that such an interpretation is not justified; and, there are overwhelming decisions declining to place such a restricted interpretation on Article 304(a).
+Argument	9.
+Argument	The petitioners in <CITATION_1319737> A.I.R.
+Argument	1956 M.B.
+Argument	214 at p. 218 were carrying on the business of sale and purchase of pugrees, which were mainly manufactured in Uttar Pradesh and Rajasthan ; and the complaint was that the State of Madhya Bharat, having exempted  similar goods under a notification, pugrees manufactured by similar process in other <ORG>s cannot be subjected to a tax, as that would offend Article 304.
+Argument	<NAME>, J., upholding the objection, observes as follows:-  The wording of Article 304 of the Constitution indicates that the taxing power of the <ORG> is only valid so far as it does not work discrimination as against similar goods coming from other <ORG>s.
+Argument	The moment it begins to work discrimination, the taxing power is rendered invalid to the extent of discrimination.
+Argument	Learned Advocate-General contended that the law imposing sales tax is valid.
+RatioOfTheDecision	What is invalid is the discriminatory nature of exemption granted.
+RatioOfTheDecision	The result will be that the exemption will cease to operate and the similar goods made at the aforesaid places in Madhya Bharat will be subjected to tax.
+RatioOfTheDecision	The tax on pugrees imported from Uttar Pradesh or Rajasthan will not be free from taxation.
+RatioOfTheDecision	I am unable to agree with this contention.
+RatioOfTheDecision	The Constitution permits taxation upon goods imported fro m <ORG>s other than taxing <ORG>s within certain defined limits as laid down in Article 304 of the Constitution.
+RatioOfTheDecision	The moment the limits are crossed by whatever means, whether by the provision of the <ORG> law passed by the <ORG>, or under any power vesting in an authority by reason of power delegated to it the taxing power is gone.
+RatioOfTheDecision	And when the taxing power to the extent of discrimination is gone, the tax becomes invalid and cannot be recovered.
+Precedent	10.
+Precedent	<ORG> in <CITATION_111221>  11 S.T.C.
+Precedent	173. has held that the words "manufactured or produced" in Article 304(a) do exhaust all categories of goods that can be found in a <ORG> other than the goods imported and should be understood as contra-distinguished from goods imported from outside the <ORG>.
+Precedent	It was further held that having regard to the object of Articles 301 and 304, no discriminatory power of taxation is vested in a <ORG>, either at the point of import or at a later time ; and it would not, therefore, be open to any <ORG> to levy a ta x on goods having its origin in a different State at any stage of its existence in the former State so as to discriminate it from goods of a similar kind manufactured or produced therein.
+Precedent	The imposition of tax on sales of imported "bura sugar" was in <CITATION_1903667>  11 S.T.C.
+Precedent	337. held discriminatory and unconstitutional.
+Precedent	Again in <CITATION_651471> .
+Precedent	11 S.T.C.
+Precedent	511 at p. 517 the imposition of sales tax on the petitioner in respect of sales of tobacco imported into Madhya Pradesh was held illegal, being in violation of Article 304(a) of the Constitution, and that the petitioner was entitled to refund of the amount paid by him as tax.
+Precedent	The learned Chief Justice observes as follows :-  We are not prepared to adopt the construction suggested by the learned Advocate-General, namely, that Article 304 does not deal with the imposition of taxes on purchase or sale of goods and that it refers to tax on imported goods in the act of import.
+RatioOfTheDecision	Such a construction is not warranted at all by the language of Article 304(a) .
+RatioOfTheDecision	That article, as it is worded, gives to <ORG> the power to impose on goods imported from other States any tax to which similar goods manufactured or produced in that State are subject, so, however, as not to discriminate between goods so imported and similar goods of local origin.
+RatioOfTheDecision	Its object is to maintain freedom of <ORG> trade and to ensure that no special tax on the act of import or on the imported goods as such is levied.
+RatioOfTheDecision	The discrimination spoken of in that article is not discrimination as between the import of goods from outside the State and import of goods of local origin.
+RatioOfTheDecision	It is difficult to conceive of import into a State of goods manufactured in that State itself.... We do not read those observations as holding that a discriminatory sales tax on goods imported from other States is outside the purview of Article 304(a) of the Constitution.
+RatioOfTheDecision	That would have been an impossible finding on the clear language of Article 304(a) of the Constitution.
+RatioOfTheDecision	11.
+RatioOfTheDecision	<CITATION_1819123> A.I.R.
+RatioOfTheDecision	1957  Assam 1 it has been held that taxing goods, that the dealer has obtained for sale from outside the State of Assam, when otherwise they would not have been liable to tax for sale of similar goods, is discriminatory and not permissible under the Constitution, nor under Section 297 , Government of India Act, 1935.
+RatioOfTheDecision	It follows that the first ground taken against the order of <ORG> and for sustaining the tax levied on the sales of rubber at Fort Cochin from the rubber estates situated in the then Travancore-Cochin area, is not sufficient.
+RatioOfTheDecision	The words "produce of the land" in the definition of "turnover" in <CITATION_8778749> of the Act, because of the constitutional provision not to discriminate, cannot therefore be construed as referring only to lands situated within the Madras State, but, having regard to the proposition that the <ORG> must be presumed to observe the constitutional limits, must be interpreted as covering lands situated beyond the boundaries of the Madras State as well.
+Precedent	In an y case, the levy of tax on the sales of rubber produced from lands situated outside Madras State would be discriminatory and void, as rubber sold from the estates within the Madras State would not be liable to tax on the ground of being agricultural produce ; and this brings us to the next ground urged for reversing the decision of the lower <ORG>.
+Precedent	12.
+RatioOfTheDecision	The <ORG> has held rubber to be a produce for two reasons.
+RatioOfTheDecision	One is that though the aforesaid term has not been defined by the Madras General Sales Tax Act, yet the Madras Plantations Agricultural Income-tax Act, 1955, in defining what is agricultural income included that from rubber as well by second Explanation to Section 2 (2) (ii) which reads as follows :-  Agricultural income derived from such plantation by the cultivation of coffee, rubber, cinchona or cardamom means that portion of the income derived from the cultivation, manufacture and sale of coffee, rubber, cinchona, or cardamom, as the case may be, as may be defined to be agricultural income fo r the purposes of the enactments relating to Indian income-tax.
+RatioOfTheDecision	13.
+RatioOfTheDecision	It is clear that what is treated by the same <ORG> as a source of agricultural income cannot be treated for purposes of another Act not to be agricultural produce.
+RatioOfTheDecision	That apart, one of us in Deputy Commissioner of A.I.T.
+Fact	& S.T.
+RatioOfTheDecision	v. <ORG> Ker.
+RatioOfTheDecision	624 had held that whether a particular process alters the character of the agricultural or horticultural produce to that, of manufactured article, is a question of fact, but as a general guiding principle of law it can be safely laid down that if an agriculturist puts the produce gathered from his lands to certain minimum processes ordinarily employed by an agriculturist to make it really marketable or more marketable or to make it fit to be taken to market, it cannot be said the produce ceases to be an agricultural or horticultural produce.
+RatioOfTheDecision	Applying the aforesaid test to the cases before us it is clear that latex is hardened by the application of sulphuric acid, shaped in the form of she ets and dried with the help of smoke.
+RatioOfTheDecision	This is done for purposes of preserving the latex, and making it fit for marketing.
+RatioOfTheDecision	It follows that rubber is still produce from land and not liable to the sales tax.
+RatioOfTheDecision	We are fortified in this view by the observation in <CITATION_563752>  9 S.T.C.
+Precedent	769 at p. 772 where the decision of a learned single Judge, holding rubber to be agricultural produce, was not reversed, and indeed conceded by the Government Pleader.
+Precedent	The relevant passage in the case reads as follows:-  The learned Judge after considering the several authorities on the subject, held that tea and rubber would be agricultural produce....
+Precedent	The learned Government Pleader conceded that rubber would be an agricultural produce.
+Precedent	14.
+RulingByPresentCourt	It follows that rubber is an agricultural produce and this ground for reversing the order sustaining the dealer's objection also fails.
+RulingByPresentCourt	Accordingly all the four revision petitions are dismissed, but without costs.

@@ -1,0 +1,86 @@
+Fact	<NAME>, C.J.
+Fact	1.
+Fact	The question for determination in these appeals is whether, in the circumstances to be presently stated, the plaintiffs, who were formerly co-sharer landlords with the defendants and others in Mauza Sawas Khurd, are entitled to a raiyati interest in certain lands in that village, they having purchased an occupancy holding from the tenants, many years ago before 1885, and having remained in possession thereof paying to their co-sharers their proportionate amount of the rent up to the year 1913, when they sold their proprietary interest to other co-sharers pending partition proceedings which were finally completed in 1918.
+Fact	Four suits in all were instituted, two by <NAME> whose <NAME> <NAME>, deceased, sometime before 1885 had purchased the raiyati jote in the lands now claimed by him, and two by <NAME>, who had himself purchased a similar raiyati jote at about the same time.
+Fact	2.
+Fact	On partition of the mauza in 1918, the lands in question in each case were all otted to the takhtas of two other sets of co-sharers who are the defendants in the respective suits and who contend that the lands in question were the bakasht of all the co-sharers and that the tenancy interest of the plaintiffs came to an end on partition.
+Fact	As the lands claimed by each of the plaintiffs fell partly to the share of one set of co-sharers on partition and partly to the shara of another, each plaintiff brought two suits.
+Fact	The facts in each case are precisely similar and the cases were heard together in the trial Court, and in the lower <ORG>, and the further appeals to this Court have also been heard together.
+Fact	In referring to the plaintiffs and defendants the reference will be to each of them unless otherwise indicated.
+RulingByLowerCourt	3.
+RulingByLowerCourt	The <ORG>f of Jamui before whom the suits came for trial found in favour of the plaintiffs and passed a decree for possession in each case.
+RulingByLowerCourt	4.
+RulingByLowerCourt	On appeal the Subordinate Judge of Monghyr agreed with the conclusions of the <ORG> and dismissed the appeals.
+RulingByLowerCourt	The defendan ts have preferred these second appeals to this Court.
+RulingByLowerCourt	5.
+Fact	The material facts found by the lower <ORG> are that some time before 1885, the ancestor of the plaintiffs in the one case and the plaintiff himself in the other purchased the raiyati jote of certain tenants, the purchaser being at that time co-sharer proprietors in the village.
+Fact	The plaintiffs, or their predecessors, remained in possession paying a proportionate part of the rent to their co-sharers from the date of the purchase until 1913, when a suit for partition was instituted before the Subordinate Judge of Monghyr by some of the co-sharers.
+Fact	The final partition was made in 1918, and separate possession of their interests was directed to be given to the respective co-sharers according to their takhtas.
+Fact	Before that date, however, namely, in 1913, shortly after the partition proceedings were instituted, the plaintiffs sold their proprietary interest to other co-sharers, who are not parties to this suit and whose names are immaterial.
+Fact	By the  partition made in 1918, the lands in question were included in the takhtas of the defendants who endeavoured to obtain khas possession but found the plaintiffs still in possession with the result that proceedings under Section 145 of the Criminal Procedure Code were instituted and, in January, 1922, terminated in favour of the defendants who dispossessed the plaintiffs.
+Fact	6.
+Fact	When the plaintiffs transferred their proprietary interest to other co-sharers in 1913, by an agreement then come to between them and their transferees, they were permitted to remain in cultivating possession of the lands in suit as formerly, and they were not in fact dispossessed until 1922.
+Fact	It has been found as a fact in the <ORG> below that the lands were not the bakasht of the co-sharers originally but raiyati jote land acquired by the plaintiffs or their predecessors, and this is corroborated by the Record of Rights published in 1909 which, whilst describing the lands as bakasht of the plaintiffs or their predecessors, states that th ey were formerly an occupancy raiyati jote acquired by them as share-holding proprietors and gives the amount of rent which the other co-sharers were entitled to under Section 22(2) of the Bengal Tenancy Act.
+Argument	It was argued on behalf of the appellants that the plaintiffs having been parties to the partition suit originally were bound by the decision in that suit in But far as it treated the land as bakasht.
+Argument	But even if they are to be treated as parties to the partition suit, notwithstanding that they sold their proprietary interest shortly after the suit was instituted and ceased to be interested any longer as proprietors, still it has not been shown that there was any issue in the suit as to the nature of the land in question.
+Precedent	In any case if the lands were treated as bakasht in the partition, the sense in which that term was used must be explained by reference to the Record of Rights on which the partition was founded, and this clearly shows that the lands were subject to the plaintiffs' possessory right unde r Section 22(2) of the Bengal Tenancy Act: see <CITATION_301493> 65 Ind.
+Precedent	Cas.
+Precedent	586 : 3 P.L.T.
+Precedent	13; A.I.R.
+Precedent	1922 Pat.
+Precedent	193.
+Fact	Moreover a new situation arose when the plaintiffs sold their proprietary interest to other co-sharers in 1913 and took a subordinate interest from them.
+Fact	It is not shown that they took any further part in the partition proceedings, and in their absence their successors could not by their action deprive them of the rights, if any, which they acquired at the time when they sold their proprietary interest, In my opinion <ORG> was right in holding that the lands were not the bakasht of the joint body of maliks but were originally a raiyati jote purchased by the plaintiffs or their predecessors and subject to the plaintiffs' right to hold the same on paying rent to their co-sharer and they did not by the partition cease to be lands of this nature.
+Fact	7.
+Fact	The question then arises whether by the transfer of their proprietary interest to other co-sharers the plaintiffs lost their ten ancy right in the land.
+Precedent	If one regards the rights of the parties as governed by the Bengal Tenancy Act, as amended in 1907, then the interest of the plaintiffs, being a peculiar tenancy right of a co-proprietor, as pointed out in the judgment of <NAME>, J., in <CITATION_884309> 89 Ind.
+Precedent	Cas.
+Precedent	232 : 7 P.L.T.
+Precedent	87 : 3 Pat.
+Precedent	L.R.
+Precedent	138; A.I.R.
+Precedent	1925 Pat.
+RatioOfTheDecision	547 would pass to the purchasers on transfer of the proprietary right.
+RatioOfTheDecision	The purchasers, however, allowed the plaintiffs to remain in possession as cultivators by an arrangement come to at the time of the transfer.
+RatioOfTheDecision	That transaction was, in my opinion, tantamount to a sub-lease within the meaning of Section 22(2) of the Bengal Tenancy Act and the plaintiffs thereupon became raiyats of the holding.
+RatioOfTheDecision	Under the Act as it now exists merger of interest no doubt takes place where the entire interest of the raiyat and his immediate landlord, who is either a proprietor or a permanent tenure-holder, become united in the same person but it is quite different where the occupanc y right of a tenant is transferred to a fractional proprietor.
+RatioOfTheDecision	In the latter case, although no occupancy right can vest in the fractional proprietor, he still acquires a separate interest in the raiyati holding paying to his co-proprietors their share of the rent.
+RatioOfTheDecision	This interest passes to his transferee with the transfer of the proprietary interest and the holder can sub-let the same to another who thereupon becomes a raiyat of the holding.
+RatioOfTheDecision	8.
+RatioOfTheDecision	It is contended, however, that the Bengal Tenancy Act has no application to the present case as the interest of the plaintiffs was originally acquired before 1885 when the first Bengal Tenancy Act was passed, and that we must consider the law then existing.
+Precedent	Even so I am clearly of opinion that the doctrine of merger had no application in Bengal in such a case under the old law before 1885: see <NAME> v. <NAME> (3); <NAME> v. <NAME> 25 W.R. 503 and <CITATION_1827662> 2 Ind.
+Precedent	Cas.
+Precedent	654 : 13 C.W.N.
+RatioOfTheDecision	913 and in fact it is not disputed that th e plaintiffs for many years, both before and after 1885, although co-proprietors, remained in possession of the holding on payment of proportionate rent to their co-owners.
+RatioOfTheDecision	It is clear, therefore, that even if the occupancy right ceased to exist the holding did not merge in the larger interest.
+Precedent	This is also in accordance with the decisions under the Act of 1885: see <CITATION_185481> 21 C. 869 : 10 Ind.
+Precedent	Dec.
+Precedent	(N.S.)
+Precedent	1211; <NAME> v. <NAME> 24 C. 143 : 1 C.W.N.
+Precedent	166 : 12 Ind.
+Precedent	Dec.
+Precedent	(N.S.)
+Precedent	761 and <CITATION_1474532> 65 Ind.
+Precedent	Cas.
+Precedent	281 : 3 P.L.T.
+Precedent	22; (1922) Pat.
+Precedent	55; A.L.R.
+Precedent	1822 Pat.
+Precedent	62.
+RatioOfTheDecision	It follows then that if the interest acquired before 1885 did not merge it remained alive at all events up to 1913 when the plaintiffs sold their proprietary interest.
+RatioOfTheDecision	I can see no reason why under the old law any more than under the present Bengal Tenancy Act this right should cease to exist because the co-sharer transfers his interest to another proprietor.
+RatioOfTheDecision	It would pass, in my opinion, even before the Act of 1885 to the t ransferee of the (3) 10 w. R. 5. proprietary interest.
+Precedent	Whether before the amending Act of 1907 the co-owner or his transferee could sever the interest by subletting to a tenant may be a question of some difficulty and no authority has been drawn to our attention on the subject but in my opinion, it is unnecessary to determine this point; for whatever may be said as to the retrospective effect of the first Sub-section of Section 22 , which limits the rights of a proprietor, the second sub-section, in so far as it refers to the rights of a sublessee which come into operation after the Act must, I think, apply to all cases where such a sub-lease is effected after the passing of the amending Act, whether the occupancy right was acquired before or after the passing of that Act, or the Act of 1885.
+RatioOfTheDecision	The language of the sub-section seems to me to demand this construction.
+RatioOfTheDecision	No vested rights are interfered with.
+RatioOfTheDecision	The sub-section merely gives the holder of such a right power to sub-let his interest and defines the nature  of the interest of the sub-lessee as that of a raiyat.
+RatioOfTheDecision	The plaintiffs are, in my opinion, raiyats of the land claimed and were improperly dispossessed and should be restored to possession.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Whether the sub-lessee in such a case can acquire by twelve years' occupation an occupancy right it is unnecessary to determine.
+RatioOfTheDecision	He is clearly not an under raiyat as he does not hold under a raiyat and there seems to be no reason why he should not in the course of time acquire an occupancy right.
+RatioOfTheDecision	The point, however, does not arise for decision for such a right had not matured by twelve years' possession when the suit was instituted, and I prefer to reserve my decision on this point until the question arises.
+RatioOfTheDecision	10.
+Precedent	In my opinion the conclusion arrived at by the lower <ORG> was right in the particular circumstances of the case and these appeals should be dismissed with costs to the contesting respondents together with interest at the usual rate.
+Precedent	Foster, J.
+Precedent	11.
+RatioOfTheDecision	I agree.

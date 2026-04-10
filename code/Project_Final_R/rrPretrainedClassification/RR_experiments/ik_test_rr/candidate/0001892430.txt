@@ -1,0 +1,74 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+Fact	Rule, by consent returnable forthwith.
+Fact	Counsel appearing on behalf of the Respondents waives service.
+RulingByLowerCourt	By consent of Counsel and at their request taken up for hearing and final disposal.
+RulingByLowerCourt	2.
+Fact	In this batch of petitions, a decision arrived at by <ORG> on 10th June 2005 of declining to enhance the management quota for admissions at professional institutions established and administered by minorities, from 50% to 100% of the total intake has been called into question.
+Fact	The <ORG> was set up by <ORG> in pursuance of the decision of <ORG> in <CITATION_1978528> , .
+Fact	The three institutions in question in the three petitions before the Court, provide instruction in Architecture, Pharmacy and Management Sciences.
+Fact	None of the institutions is in receipt of grant-in-aid from <ORG> or <ORG>.
+Fact	There is no dispute before the Court about the position that these three institutions have been established and a re being administered by a religious minority consisting of persons who practice and profess <ORG>.
+Fact	3.
+Fact	The judgment of <ORG> in <CITATION_512761> ,  was delivered on 31st October 2002.
+Fact	<ORG> of <ORG> delivered judgment in <CITATION_1978528> ,  on 14th August 2003.
+Fact	On 16th February 2004, <ORG> issued a resolution by which the management quota for all minority run educational institutions in the State was fixed at 50%.
+Fact	4.
+Fact	Upon the constitution of the <ORG>, the Petitioners filed appeals in order to press their claim for the enhancement of the management quota to cover all the admissions at these institutions.
+Fact	On 19th August 2004, the <ORG> maintained the quota for the Academic Year 2004-05 since the admissions process had reached an advanced stage, reserving liberty to the institutions to apply for an enhancement of the quota during the next Academic Year.
+Fact	Accordingly, appeals were filed on 30th November 2004 in order to challenge the <ORG> nt Resolution of 16th February 2004.
+Fact	On 19th March 2005, the <ORG> rejected appeals filed by the <ORG> and reiterated that the management quota for the Academic Year 2005-06 shall continue to remain at 50%.
+Fact	The <ORG> was of the view that since the issue was pending before a Bench of seven Learned Judges of <ORG>, it should not intervene at that stage.
+Fact	Subsequently, on 25th April 2005, the <ORG> decided to have a fresh look at the management quota for minority institutions and allowed the institutions to submit data regarding (i) the number of seats or the strength of admissions during the previous two years; (ii) the number of applications received; (iii) the number of admissions granted; (iv) allotment of students received from the <ORG>; and (v) information in respect of local needs.
+Fact	The Petitioners thereupon submitted by a letter dated 27th April 2005, data reflecting the seats which were filled up against the management quota during the Academic Years 2003-04 and 2004-05, the na mes of candidates who had applied for admissions and the candidates who could not be eventually admitted.
+Fact	This data was submitted to the <ORG> in support of the contention of the Petitioners that the management quota was inadequate to meet the needs and requirements of these minority institutions and the religious minorities concerned.
+Fact	By a decision arrived at on 10th June 2005, the <ORG> declined to revise the quota and maintained the management quota at 50% for minority institutions.
+Argument	5.
+Argument	The submission which has been urged in support of these petitions is that the <ORG> has furnished no reason whatsoever for declining to accede to the request made by the managements for the enhancement of the management quota.
+Argument	It has been submitted that though data was produced by all the three institutions, demonstrating that the quota which had been allowed was inadequate to meet the needs of the institutions and of the Muslim minorities, leaving out in the process a number of unaccepted applicants, the <ORG> has n ot applied its mind to the data produced before it on the record.
+Argument	Moreover, it was urged that the committee has not had regard to the principles which were laid down by <ORG> in its decisions in <ORG> (supra) and in <ORG> (supra).
+Argument	6.
+Argument	In <ORG> v <ORG> of Karnataka, (supra) <ORG> held that unaided professional institutions are entitled to autonomy in their administration but, at the same time, they must not forgo or discard the principle of merit.
+Argument	<ORG> held that it was open to the <ORG> or <ORG> while granting recognition to require a private unaided institution to provide for meritbased selection while giving the management a sufficient discretion in admitting students.
+Fact	For instance, a certain percentage of the seats can be reserved for admission by the management out of those students who have passed the Common Entrance Test held by itself or by the <ORG> or <ORG> and have applied to the college con cerned for admission while the rest of the seats may be filled up on the basis of counseling by the <ORG> agency.
+Fact	The <ORG> held that the prescription of percentage for this purpose has to be done by <ORG> according to local needs and different percentages can be fixed for minority unaided and non-minority unaided and professional colleges.
+Fact	In the concluding part of the judgment of the majority delivered by the Hon'ble the Chief Justice, Mr. Justice <NAME>, one of the questions that was framed for determination was thus:  "Q.4.
+Fact	Whether the admission of students to minority educational institution, whether aided or unaided can be regulated by the <ORG> <ORG> or by the university to which the institution is affiliated?"
+Precedent	While deciding upon this issue, the Supreme <ORG> held that the right to admit students being an essential facet of the right of religious and linguistic minorities to administer educational institutions of their choice under Article 30 of the Constitution, the <ORG> <ORG> o r the <ORG> may not be entitled to interfere with that right so long as admissions to unaided educational institutions are on a transparent basis and merit is adequately taken care of.
+Precedent	<ORG> held that even an aided minority institution does not cease to be a minority institution upon the receipt of aid and it would be entitled to admit students belonging to its own minority while at the same time being required to admit a reasonable extent of non-minority students.
+Precedent	What would constitute a reasonable extent would vary, having regard to the type of the institution, the course of education for which admission is sought and other factors like educational needs.
+Argument	7.
+Argument	The judgment of <ORG> in <ORG> was thereafter, considered in the subsequent decision of <ORG> in <CITATION_1978528> , .
+Argument	<ORG> held that the observation in para 68 of the majority judgment in <ORG> made it clear that the same yardstick cannot be applied to mino rity and non-minority professional colleges.
+Fact	The <ORG> noted that in the case of non-minority professional colleges, a "certain percentage of seats" can be reserved for admission by the management.
+Fact	However, in the case of minority run professional institutions, the expression "different percentage" had been used.
+Fact	The two expressions did not have the same connotation.
+Fact	The Supreme <ORG> held thus:  "The expression "different percentage for minority professional institutions" carries a different meaning than the expression "certain percentage for unaided professional colleges".
+Fact	In fixing the percentage for unaided minority professional colleges the <ORG> must keep in mind, apart from local needs, the interest/need of that community in the <ORG>.
+Fact	The need of that community, in the <ORG>, would be paramount vis-a-vis the local needs.
+Fact	8.
+Fact	The attention of the <ORG> has also been drawn to a subsequent order of the Supreme <ORG> dated 15th July 2004 in <NAME> and Ors.
+Fact	v. <ORG> of Maharashtra and Ors.
+Fact	(<ORG> (Civi l) No.
+Fact	9932 of 2004 and connected matters).
+Fact	A Bench of <ORG> consisting of Mrs.Justice <NAME> and Mr. Justice <NAME> has observed that prima facie, the phrase "their need" in the decision in <ORG> referred to the need of the institutions and not of the <ORG>.
+Fact	9.
+Fact	We have adverted to these binding principles which have been laid down by <ORG> since, it is on the basis of these principles that the prescription of the management quota must be arrived at by <ORG>.
+Fact	The <ORG> has been set up in pursuance of the directions issued by <ORG> in para 19 of its decision in <ORG> of Education.
+Fact	Para 19 of the judgment contains the following observations which must govern the decision making process of the <ORG>:  "It is clarified that different percentage of quota for students to be admitted by the management in each minority or nonminority unaided professional college(s) shall be separately fixed on the basis of their need by the respe ctive State Governments and in case of any dispute as regards fixation of percentage of quota, it will be open o the management to approach the <ORG>."
+RulingByLowerCourt	10.
+RulingByLowerCourt	There is merit in the submission which has been urged on behalf of the Petitioners that the <ORG> having not furnished any indication of reasons in its decision should be requested to reconsider its decision in the light of the principles of law which have been laid down by <ORG>.
+RulingByLowerCourt	Each of the institutions before the Court has submitted data in support of its application for enhancement of the percentage in the management quota.
+RulingByLowerCourt	This data will have to be considered by the <ORG> in the light of the principles enunciated by <ORG>.
+RulingByLowerCourt	We, therefore, request the <ORG> to reconsider the matter and in order to facilitate a fresh determination, we set aside the impugned decision dated 10th June 2005.
+RulingByLowerCourt	Having regard to the urgency of the matter, we request the <ORG> to expedite its decision.
+RulingByLowerCourt	Since admissions have to be completed at an e arly date, the <ORG> is requested to render its decision by 19th July 2005.
+RulingByLowerCourt	In the meantime, having regard to the fact that <ORG> has on 15th July 2004 in its order passed in P.A.
+RulingByLowerCourt	<NAME> and Ors.
+Fact	v. State of Maharashtra and Ors.
+Fact	(SLP (Civil) No.
+RatioOfTheDecision	9932 of 2004 together with connected matters), allowed a management quota of 75%, we direct the State of Maharashtra at the present stage to fill up 25% of the total seats in the three institutions before the <ORG>.
+RulingByPresentCourt	The final distribution of the quota shall abide by the order that may be passed by the <ORG> on reconsideration in the light of this judgment.
+RulingByPresentCourt	11.
+RulingByPresentCourt	The petitions are accordingly disposed of.
+RulingByPresentCourt	In the circumstances of the case, there shall be no order as to costs.

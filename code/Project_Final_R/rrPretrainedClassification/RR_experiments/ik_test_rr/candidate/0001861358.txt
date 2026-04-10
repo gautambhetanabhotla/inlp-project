@@ -1,0 +1,75 @@
+Fact	ORDER <NAME>, Vice-President  1.
+Fact	This is an appeal filed against the order of the Collector (Appeals), <ORG>, New Delhi.
+Fact	2.
+Fact	Learned Consultant for the appellants submitted that on 25.1.1994, <ORG>, Delhi submitted shipping bill No.
+Fact	010454 dated 25.1.1994 to the <ORG> Authorities at IGI Airport Unit, New Delhi for examination of one consignment containing 167 packages of ayurvedic herbal mineral product named TAB LIV-52 (on every pack of which is clearly written <ORG> manufactured by <ORG>, Bangalore for export to Russia, on behalf of <ORG>.
+Fact	Inadvertently, the ignorant clerk of the <ORG> inserted in the body of the said shipping bill, DBK Rs.
+Fact	16621.35, which was actually not admissible as the said ayurvedic drugs were not chargeable to <ORG> duty.
+Fact	On examination the concerned Supdt.
+Fact	of <ORG>, scored out 'DBK 6 No.
+Fact	1202(B) 2% on the front page of shipping bill No.
+Fact	010454 dt 25.1.1994: 'No objection to the e xport of the drug/cosmetic insofar as Drug Cosmetic Act & Rules are concerned.'
+Fact	3.
+Fact	The impugned order mentioned that "During the course of examination it was found that on every bottle containing the tablets, it was written that liv-52 a ayurvedic <ORG> medicine.
+RulingByLowerCourt	Therefore, the drawback under Sr. No.
+RulingByLowerCourt	1202(b) is not applicable to the goods being exported."
+Argument	"Therefore, for not mentioning LIV-52 tablets as ayurvedic drugs on the shipping bills the party has wilfully concealed the facts and wrongly claimed drawback amounting to Rs.
+Argument	16621.35 which was otherwise not admissible.
+Argument	4 It may be submitted that although admitting that 'on every bottle containing the tablets, it was written that LIV-52 a ayurvedic <ORG> medicine' the pleas mat 'for not mentioning LIV-52 tablets as ayurvedic drugs on the shipping bills the party has wilfully concealed the facts' does not stand to reason.
+Argument	He submitted that in the facts and circumstances of the ground realities of the case the export-consignment was not liable for confiscation un der Section 113(d) of the <ORG> Act, 1962 as done by the learned Addl.
+Argument	Collector, <ORG>, <ORG>, New Delhi.
+Argument	5.
+Argument	It was his contention that there was no prohibition for the export of ayurvedic medicines to Russia has been imposed under C. Ex.
+Argument	Act or under any other law for the time being in force, as such confiscation by the ld.
+Precedent	Addl.
+Precedent	Collector of <ORG>, of ayurvedic medicines was without the authority of law and had no legal sanctity.
+Argument	6.
+Argument	He further stated that when the goods under export were neither prohibited goods nor were liable to excise duty, and when the provisions of Section 113(d) were not applicable to the facts and circumstances of the instant case; there was no plausible ground for imposition of personal penalty.
+Argument	7.
+Argument	Before the Authorities below the appellants did not lay any stress on the drawback claim but pleaded that this insertion in the relevant shipping bill as a typographical error, and there was no misdeclaration.
+RatioOfTheDecision	As such the case comes under the purview of a bona fide erro r.  8.
+Argument	Learned Consultant further contended that (i) The benefit of doubt is the right of the charged person (ii) No penalty or even redemption fine can be imposed when there is no <NAME> fides on the part of the appellants, as held by <ORG> in <CITATION_1506149> as reported in 1978 ELT J-159 : ECR C 321 (SC) (iii) The claim for drawback having been withdrawn at the time of personal hearing before the Additional Collector of <ORG>, there was no ground for the Collector (Appeals) to consider it in her order-in-appeal.
+Argument	He also submitted that no Section of the <ORG> Act, 1962 was cited on the relative Note Sheet on 27.1.1994 nor was any section of <ORG> Act , 1962 cited in respect of imposition of redemption and for personal penalty.
+Argument	9.
+Argument	Learned DR stated that the appellants, acting through the customs house agent <ORG>, had filed shipping bill seeking to export a shipment of 167 Kgs.
+RulingByLowerCourt	of liv-52 tablets on behalf of the appellants and described the goods as tablet liv-52 ( herbal mineral product) and claimed drawback on the goods under Sl.
+RulingByLowerCourt	No.
+RulingByLowerCourt	1202(b) at the rate of 2% of FOB value.
+RulingByLowerCourt	As the drawback rates against Sl.
+RulingByLowerCourt	No.
+RulingByLowerCourt	1202(b) were not applicable to ayurvedic drugs as per note incorporated below entry at Sl.
+RulingByLowerCourt	No.
+RulingByLowerCourt	1203, whereas the liv-52 tablets are ayurvedic drugs which fact is clearly indicated even on the labels, it is apparent that the fact of the tablets ayurvedic medicine was deliberately not declared by the appellant when claiming drawback on the shipping bill.
+RulingByLowerCourt	The appellants had claimed wrong drawback amount of Rs.
+RulingByLowerCourt	16221.75 (which was otherwise not admissible to them) and this has not been disputed by them.
+RulingByLowerCourt	During personal hearing, they had submitted inter alia that 'mistake' occurred due to a typing error and there was no mis-declaration is unacceptable.
+RulingByLowerCourt	The appellants had filed a green shipping bill which is only meant for export of goods under claim of duty drawback, and had deliberately not mentioned the fact that the tablets were ayurvedic medicines; And they had c alculated the drawback amount and incorporated the same on the shipping bill in accordance with entry at Sl.
+RulingByLowerCourt	No.
+RulingByLowerCourt	1202(b) of the Public Notice specifying drawback rates whereas below the same entry it was indicated that drawback was not admissible under this entry to ayurvedic drugs.
+RatioOfTheDecision	It was therefore, apparent that the appellants' intention was to avail of drawback in respect of the aforesaid consignment of ayurvedic drugs, knowing fully well that drawback as claimed was not admissible.
+RatioOfTheDecision	Their contention that this was due to a typing error cannot be accepted.
+RatioOfTheDecision	The appellants had apparently sought to export goods under claim for drawback in contravention of the provisions of Section 113(i) inasmuch as the goods were not eligible for drawback with reference to entry at Sl.
+RatioOfTheDecision	No.
+RatioOfTheDecision	1202(b) of the Public Notice, the appellants' arguments that they had not concealed this fact that medicine was ayurvedic medicine carries no force.
+RatioOfTheDecision	The intention of the appellants to claim false drawback was evident from their having filed  the green shipping bill and not indicating therein the goods were ayurvedic medicines, but calculating and indicating the rate of drawback as it was admissible on it and claiming the same.
+RatioOfTheDecision	Hence it is apparent that the charge of wilful concealment of facts and claiming wrong drawback was fully justified.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Insofar as submissions made with regard to the adjudicating authority invoking Section 113(d) of the Customs Act for confiscation is concerned, it was his contention that Sub-section (d) of Section 113 appears to have been wrongly indicated in those of Sub-section (i) of Section 113 .
+RatioOfTheDecision	However, keeping in view the clear facts of the case, quoting of the wrong sub-section of Section 113 by mistake due to a typing error would not in the instant case vitiate the order.
+RatioOfTheDecision	The charge against the appellants had been clearly explained to them and was understood by the exporter who waived the issue of the show cause notice and it is apparent that the goods in question were clearly liable for confiscation in terms o f the provisions of Section 113(i) of the Customs Act and the appellant was liable to penalty in terms of Section 114 of the Cus.
+RatioOfTheDecision	Act, 1962.
+RatioOfTheDecision	11.
+RatioOfTheDecision	I have considered the above submissions I observe that the learned <ORG>'s contentions have a lot of force.
+RatioOfTheDecision	12.
+RatioOfTheDecision	The fact that the drawback had been claimed with reference to the goods in respect of which the drawback was not admissible is not even in dispute.
+Precedent	The appellants' contention that it was due to some clerical or typographical error is not acceptable as for the purpose of claiming drawback a distinctly coloured document (green shipping bill) has been prescribed to easily distinguish such cases from other cases of export; And in the present case, a green shipping bill has been filed; Not only that, the claim has actually been made with reference to an entry which prescribed drawback rates for goods excluding ayurvedic LIV-52 tablets were ayurvedic drugs; Moreover drawback amount has been calculated and claimed on the basis of an explicitly inapplicable entry; T he fact-that the entry referred to by the ld.
+Precedent	D.R.
+RatioOfTheDecision	did not cover ayurvedic medicines and the drawback was not admissible on such goods is not even in dispute.
+RatioOfTheDecision	The plea that each pack indicated that it contained LIV-52 is of no avail as what is material is the fact that no drawback was admissible on ayurvedic medicine and yet it was claimed; And it is only on scrutiny by <ORG>.
+RatioOfTheDecision	that all this came to light; hence the plea that the appellants did not thereafter press the claim does not advance their cause.
+RatioOfTheDecision	As such, I consider that the officers were justified in not accepting the argument of the typographical or clerical error or mistake at that stage and were right in not accepting the exporter's request.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The <ORG> contention that the exporter had understood the charges and therefore, waived the show cause notice is also correct; in the circumstances, the error in indicating Sub-section (d) instead of (i) of Section 113 in show cause notice does not make any substantial difference and does not make the o rder illegal or improper.
+RatioOfTheDecision	14.
+RatioOfTheDecision	Looking to the totality of the facts and circumstances of the case, the officers were justified in imposing redemption fine and personal penalty.
+RulingByPresentCourt	The impugned order is, therefore, upheld and the appeal is dismissed as already announced in the open <ORG>.

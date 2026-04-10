@@ -1,0 +1,114 @@
+Fact	PETITIONER: <NAME> & <NAME>.
+Fact	Vs. RESPONDENT: THE STAE OF MADHYA PRADESH DATE OF JUDGMENT20/11/1975 BENCH: <NAME>, Y.V.
+Fact	BENCH: <NAME>, <NAME>, A.C. CITATION: 1976 AIR 2199 1976 SCR (2) 764 1976 SCC (3) 104 CITATOR INFO : F 1979 SC1173 (8) F 1980 SC 559 (11) RF 1986 SC 250 (27) R 1988 SC2013 (23) RF 1992 SC1817 (17) ACT: I.P.C .
+Fact	Section 302 r/w Section 34-Dying declaration- Whether F.I.R.
+Fact	can be treated as dying declaration- Appreciation of dying declaration -Wehther dying declaration must cover the whole incident.
+Fact	Section 32(1) of Evidence Act-Dying declaration made before investigating officer in presence of a doctor but in the absence of a Magistrate-Evidentary value of the testimony of hostile eye witnesses-Powers of <ORG> in appeal against acquittal.
+Fact	HEADNOTE: The appellants were tried by the Sessions Judge on the charge of committing murder of <NAME>.
+Fact	The prosecution relied on the evidence of two eye witnesses and three dying declarations made by the deceased.
+Fact	The two eye witnes ses supported the prosecution case only partly and were, therefor, permitted to be cross-examined by the Public Prosecutor.
+Fact	The Sessions Judge thought it unsafe to rely on the testimony of the two eye witnesses and was also not impressed by and of the dying declarations.
+Fact	Consequently he acquitted the appellants.
+Fact	<ORG> in appeal did not discard the evidence of the eye witnesses but utilised it by way of corroboration to the dying declarations.
+Fact	<ORG> set aside the order of acquittal and convicted the appellants under section 30 read with section 34 I.P.C.
+Fact	and sentenced each of them to imprisonment for life.
+Fact	In an appeal under section 2(1) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970.
+Fact	^ HELD: 1.
+Fact	<ORG> rightly discarded the evidence of the hostile eye witnesses.
+Fact	They resiled from their Police, Statements and it is evident that they have no regard for truth.
+Fact	Their evidence cannot be used to corroborate the dying declarations.
+Fact	[766-C] 2.
+Fact	In regard to  the dying declarations <ORG> wholly overlooked the earliest dying declaration which was made by the deceased soon after the incident.
+Fact	The second dying declaration was the first information report lodged by the deceased at the Police Station.
+Fact	The Sessions Judge was clearly in error in holding that the first information report cannot be treated as a dying declamation.
+Fact	After making the statements before the police the deceased succumbed to his injuries and, therefore, the statement can be treated as a dying declaration, and is admissible under section 32(1) of the Evidence Act, The maker of tho statement is dead and the statement relates to the cause of his death.
+Fact	[766DF] 3.
+Fact	It is, well settled that though a dying declaration must be approached with caution for the reason that the maker of the statement cannot be subjected to cross examination, there is neither a rule of law nor a rule of prudence that a dying declaration cannot be acted upon unless it is corroborated.
+Fact	[766G] 4.
+Fact	Law does not requir e that the maker of the dying declaration must cover the whole incident or narrate the case history.
+Fact	What is necessary is that the whole of the statement made by the deceased must be laid before the court without tampering with its terms or its tenor.
+Fact	[767-C] 5.
+Fact	The deceased did not bear any enmity or hostility towards the appellants nor did any other persons who were in the company of the deceased after the assault were shown to have any animus for implicating the appellants false.
+Fact	[767E] 765 6.
+Fact	The second dying declaration was not made to the Investigating officer.
+Fact	It was made by way of First Information Report and it was only after the information was recorded that the investigation commenced.
+Fact	<ORG> was right in relying on the first and second dying declarations.
+Fact	Considering the facts and circumstances of the case these two dying declarations can be accepted without corroboration.
+Fact	[767F, 768C] 7.
+Fact	<ORG> ought not to have relied on the third dying declaration which is said to have been made  by the deceased in the hospital.
+Fact	The Investigating officer ought to have requisitioned the services of a Magistrate for re- cording that dying declaration, Investigating officers are naturally integrated in the success of the investigation and the practice of the Investigating Officer himself recording a dying declaration during the course of investigation ought not to be encouraged.
+Fact	[768CD] 8.
+Fact	<ORG> in reversing the order of acquittal passed by the <NAME> rt did not violate any of the principles governing appeals against acquittal.
+Fact	[768E] JUDGMENT:  CRIMINAL APPELLATE JURISDICTION: Criminal Appeal No.
+Fact	227 of 1972 From the Judgment and order dated the 8th September, 1972 of <ORG> in Criminal Appeal No.
+Fact	927/69.
+Fact	<NAME> for the Appellant.
+Fact	<NAME>, Dy.
+Fact	Advocate General for the State of M.P., <NAME> and <NAME> for the Respondent.
+Fact	ORDER CHANDRACHUD, J.-The appellants, <NAME> and <NAME>, were tried by the learned <NAME> Judge, Chatarpur on th e charge that at about 10 a.m. On April 30, 1969 they committed the murder of one <NAME>.
+Fact	In support of its case, the prosecution relied upon the evidence of <NAME> (P.W.
+Fact	1 ) and <NAME> (P.W.
+Fact	4) who claimed to be eye witnesses and on three dying declarations alleged to have been made by the deceased.
+Fact	The two eye witnesses were permitted to be cross-examined by the Public Prosecutor as they supported the case of the prosecution only partly.
+Fact	<NAME> stated that he saw <NAME> assaulting <NAME> with a spear but that he did not see <NAME> at all.
+Fact	On the other hand, <NAME> stated that it was <NAME> and not <NAME> who assaulted the deceased.
+Fact	Since the two principal witnesses turned hostile, the learned <ORG> Judge thought it unsafe to rely on their testimony and, in our opinion, rightly.
+Fact	The learned Judge was also not impressed by any of the dying declarations with the result that he came to the conclusion that the prosecution had failed to establish its case beyond  a reasonable doubt.
+Fact	In that view of the matter, the appellants were acquitted by the learned Judge.
+Fact	Being aggrieved by the order of acquittal, <ORG> filed an appeal in <ORG>, which was allowed by <ORG> of that Court by its judgment dated September 8, 1972.
+Fact	<ORG> did not discard the evidence of the eye witnesses but utilised it by way of corroboration to the dying declarations alleged to have been made by the deceased.
+Fact	Setting aside the order of acquittal, <ORG> has convicted the appellants under s: 302 read with s. 34 of the Penal Code and has sentenced each of them to imprisonment for life.
+Fact	The appellants have filed this appeal under s. 2(1) of the Supreme Court (Enlargement of Criminal Appellate Jurisdiction) Act, 1970.
+Fact	We have heard Mr. <NAME> on behalf of the appellants at some length and we have considered each of his submissions care fully.
+RatioOfTheDecision	It is however unnecessary to discuss every one of the points made by him because,  basically, the scope of this appeal-not for getting that the appellants had a right to file this appeal in this <ORG>-lies within a narrow compass.
+RatioOfTheDecision	As we have indicated earlier, no exception can be taken to the view taken by the learned Sessions Judge that it is not safe to place reliance on the testimony of <NAME> and Mst.
+RatioOfTheDecision	<NAME>.
+RatioOfTheDecision	They resiled from their police statements and it is evident that they have no regard for truth.
+RatioOfTheDecision	Their evidence cannot be used to corroborate-the dying declarations either.
+RatioOfTheDecision	We are thus left with the three dying declarations made by <NAME> and since the prosecution has placed great reliance on them, we thought it necessary to hear the learned counsel fully on the facts and circumstances leading to the dying declarations.
+RatioOfTheDecision	In regard to these dying declarations, the judgment of the Sessions <ORG> suffers from a patent infirmity in that it wholly overlooks the earliest of these dying declarations, which was made by the deceased soon after the incident in the house of one B <NAME>.
+RatioOfTheDecision	The second statement which has been treated by <ORG> as a dying declaration is Ex.
+RatioOfTheDecision	P-14, being the first information report which was lodged by the deceased at the police station.
+RatioOfTheDecision	The learned Sessions Judge probably assumed that since the statement was recorded as a first information report, it could not be treated as a dying declaration.
+RatioOfTheDecision	In this assumption, he was clearly in error.
+RatioOfTheDecision	After making the statement before the police, <NAME> succumbed to his injuries and therefore the statement can be treated as a dying declaration and is admissible under section 32(1) of the Evidence Act.
+RatioOfTheDecision	The maker of the statement is dead and the statement relates to the cause of his death.
+Precedent	<ORG> has held that these statements are essentially true and do not suffer from any infirmity.
+Precedent	It is well settled that though a dying declaration must be approached with caution for the reason that the maker of the statement cannot be subject to cross-examination, there is neither a rule of law nor a rule  of prudence which has hardened into a rule of law that a dying declaration cannot be acted upon unless it is corroborated: [see <CITATION_1428689> ].
+Precedent	<ORG>, it is true, has held that the evidence of the two eye witnesses corroborated the dying declarations but it did not come to the conclusion that the dying declarations suffered from any infirmity by reason of which it was necessary to look out for corroboration.
+Precedent	It was contended by the learned counsel for the appellants that the oral statement which <NAME> made cannot, in the eye of law, constitute a dying declaration because he did not give a full account of the incident or of the transaction which resulted in his death There is no substance in this contention because in order that the <ORG> may be in a position to assess the evidentiary value of a dying declaration, what is necessary is that the whole of the statement made by the deceased must be laid before the <ORG>, without tampering with its terms or its tenor.
+RatioOfTheDecision	Law does not require t hat the maker of the dying declaration must cover the whole incident or narrate the case history.
+RatioOfTheDecision	Indeed, quite often, all that the victim may be able to say is that he was beaten by a certain person or persons.
+RatioOfTheDecision	That may either be due to the suddenness of the attack or the conditions of visibility or because the victim is not in a physical condition to recapitulate the entire incident or to narrate it at length.
+RatioOfTheDecision	In fact, many a time, dying declarations which are copiously worded or neatly structured excite suspicion for the reason that they bear traces of tutoring.
+RatioOfTheDecision	It was urged by the learned counsel that after the attack, the deceased was all along accompanied by a large number of persons and one cannot therefore exclude the possibility that he was tutored into involving the appellants falsely.
+RatioOfTheDecision	We see no basis for this submission because not even a suggestion was made to any of the witnesses that the deceased was tutored into making the statement.
+RatioOfTheDecision	The deceased, on his own, did not bear any enmity or hostili ty to the appellants and had therefore no reason to implicate them falsely.
+RatioOfTheDecision	Indeed, none of the persons who were in the company of the deceased after he was assaulted, is shown to have any particular animus for implicating the appellants falsely.
+Precedent	In regard to the second dying declaration, Ex.
+Precedent	P-14, the main objection of the learned counsel is that it was made to the investigating officer himself and ought therefore be treated as suspect.
+Precedent	In support of this submission, reliance was placed on a Judgment of this Court in <CITATION_1892414> error of this argument consists in the assumption that the dying declaration was made to an investigating officer.
+Precedent	The statement, Ex.
+Precedent	P.14, was made by <NAME> at the police station by way of a first information report.
+Precedent	It is after the information was recorded, and indeed because of its that the investigation commenced and therefore it is wrong to say that the statement was made to an investigating officer.
+Precedent	The Station House officer who recorded the statement did not po ssess the capacity of an investigating officer at the time when he recorded the statement.
+RatioOfTheDecision	The judgment on which the counsel relies has therefore no application.
+RatioOfTheDecision	768  We are in full agreement with <ORG> that both of these dying declarations are true.
+RatioOfTheDecision	We are further of the opinion that considering the facts and circumstances of the case, these two statements can be accepted without corroboration.
+RatioOfTheDecision	<NAME> was assaulted in broad day light and he knew the appellants.
+RatioOfTheDecision	He did not bear any grudge towards them and had therefore no reason to implicate them falsely.
+RatioOfTheDecision	Those who were in the constant company of <NAME> after the assault, had also no reason to implicate the appellants falsely.
+RatioOfTheDecision	They bore no ill-will or malice towards the appellants.
+RatioOfTheDecision	We see no infirmity attaching to the two dying declarations which would make it necessary to look out for corroboration.
+RatioOfTheDecision	We might, however, mention before we close that <ORG> ought not to have placed any reliance on the third dying declaration.
+Precedent	Ex.
+Precedent	P-2, which is said to have been made by the deceased in the hospital.
+Precedent	The investigating officer who recorded that statement had undoubtedly taken the precaution of keeping a doctor present and it appears that some of the friends and relations of the deceased were also present at the time when the statement was recorded.
+Precedent	But, if the investigating officer thought that <NAME> was in a precarious condition, he ought to have requisitioned the services of a Magistrate for recording the dying declaration.
+Precedent	Investigating officers are naturally interested in the success of the investigation and the practice of the investigating officer himself recording a dying declaration during the course of investigation ought not to be encouraged.
+Precedent	We have therefore excluded from our consideration the dying declaration, Ex.
+Precedent	P-2, recorded in the hospital.
+Precedent	<ORG> was, therefore, justified in reversing the order of acquittal passed by <ORG> and in convicting the appellants of the offence of which they were  charged.
+Precedent	In so doing, <ORG> did not violate any of the principles governing appeals against acquittal, to which our attention was drawn by the appellants' counsel from time to time In the result, we confirm the judgment of <ORG> and dismiss the appeal.
+Precedent	P.H.P.
+RulingByPresentCourt	Appeal dismissed.

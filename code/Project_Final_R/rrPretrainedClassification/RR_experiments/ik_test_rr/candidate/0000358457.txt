@@ -1,0 +1,270 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	The question referred to <ORG> arises under Article 180 of the Limitation Act .
+Fact	2.
+Fact	A person, who purchased certain properties at a <ORG> auction in execution of his own decree on the 25th of March 1913, applied for delivery of possession on the 19th of February 1917.
+Fact	An order confirming the sale was made on the 26th of April 1913, but on the 3rd of January 1914, that is more than 30 days afterwards, an application was made on behalf of the judgment-debtor for the setting aside of the sale.
+Fact	That application was disposed of by the <ORG> of First Instance on the 25th of June 1915, the <ORG> setting aside the sale in respect of some of the items and upholding it as regards the other items.
+Fact	That order was appealed from and the Appellate <ORG> dismissed the appeal on the 13th of May 1916.
+Fact	3.
+Fact	It will thus be seen that the application for delivery of possession of the property would be barred under Article 180 if the time of 3 years allowed by the second column be reckoned fr om the 26th of April 1913 when the sale was confirmed under Rule 92 of Order XXI of the Civil Procedure Code no application for setting aside the sale having been made by that time; but it would be within time if the period of limitation commenced on the 25th June 1915, the date of the order adjudicating upon the application made under Rule 90 to set aside the sale on the ground of irregularity or fraud by which the sale as regards some of the items was set aside and the sale as regards the other items was upheld.
+Fact	4.
+Fact	There can be no doubt that Article 180 applies to cases where the sale is confirmed and thereupon becomes absolute under the provisions of Rule 92.
+Fact	That rule contemplates that such an order is not to be made until the application to set aside the sale under Rule 89 or 90 or 91 if any, has been disposed of and disallowed.
+Fact	The question under reference would hardly arise in cases where the application to set aside the sale is made in the ordinary way within the period of 30 days under Article 166.
+RatioOfTheDecision	The difficulty has evidently arisen because, no application to set aside the sale having been made within 30 days, the <ORG> had in the usual course made the order confirming the sale.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The question then is, when the <ORG> entertains an application to set aside the sale after the order confirming the sale had been made but before the period of 3 years allowed to the purchaser for applying for delivery of possession has expired, whether time must be reckoned against the applicant from the date of the order of confirmation of sale, or whether that order should be treated as not having the effect of making the sale absolute within the meaning of Article 180 but that the sale should be deemed to have so become absolute from the date when the application for setting it aside was disposed of.
+RatioOfTheDecision	I do not think the fact that the sale was set aside in respect of some of the items included therein and upheld as regards the other items should make any difference as to the application of Article 180 for we are not conce rned with the properties the sale of which has been set aside and as regards the rest possession of which alone is sought, the point for decision is whether the entertainment of the application to set aside the sale had or had not the effect of preventing the sale becoming absolute within the intendment of Article 180.
+RatioOfTheDecision	Even without the help of the <ORG> rulings which I shall presently notice, I should answer, that in the given circumstances, the sale did not become absolute until the petition made to set it aside had been disallowed.
+RatioOfTheDecision	Rule 92 has primarily in contemplation cases where the application to set aside the sale is made within the limit of 30 days allowed by the law so that any order confirming the sale would be ordinarily made after the disposal of such applications.
+RatioOfTheDecision	But if the <ORG> in this case was justified--and I take it that it was--in entertaining the application to set aside the sale after it had made the order confirming the same, can it be said that, whatever be the result of the ap plication, the order confirming the sale remained effective so as to make the sale absolute from the date on which it was drawn up?
+RatioOfTheDecision	To my mind, obviously not.
+RatioOfTheDecision	The effect of entertainment of the application to set aside the sale after the order of confirmation must, having regard to the intention of the legislature as disclosed in this rule and quite apart from any general theory in such connections, be to render the order ineffective so as to make the sale absolute.
+RatioOfTheDecision	If we were to proceed upon an absolutely literal interpretation of the language of Rule 92 without paying due regard to the intention of the legislature, this case would have to be treated as lying outside that rule, for it requires that the order of confirmation should be made after the disposal of any application to set aside the sale.
+RatioOfTheDecision	If so treated there would be no difficulty in the application of Article 180.
+RatioOfTheDecision	Whether it is the practice to issue a second certificate on the disposal of such an application or not cannot, to my mind, affect the a pplication of Article 180; but I should suggest that a fresh certificate ought to be issued, if not in all cases, at least in those cases where the sale is only partly upheld as the result of an application made to set it aside after the passing of the order confirming the sale.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Upon a proper interpretation, therefore, of Article 180 read with Rule 92 of Order XXI, Civil Procedure Code, I should hold that, where an application is made for delivery of possession of property sold in execution of a decree, the sale does not become absolute within the meaning of the third column of Article 180 until the application made to set aside the sale under Rule 89 or 90 or 91 has been disallowed and the sale upheld, although an order confirming the sale had been passed before the application to set aside the sale was made.
+RatioOfTheDecision	The question referred to <ORG>, I may mention, is framed in the form as it is, apparently with a view to ascertain the scope and effect of certain rulings of <ORG> which ha ve latterly been the subject of much discussion in this Court.
+RatioOfTheDecision	But I do not feel myself bound by the frame of the question to state my conclusion as to the application of the Article 180 to circumstances such as arose in this case with reference only to the mode of computation mentioned in the question.
+RatioOfTheDecision	7.
+Precedent	Of the <ORG> rulings, the one that has the closest application to the facts of this case is that of <CITATION_543526> (1896) I.L.R.
+Precedent	23 C. 775.
+Precedent	There stating shortly the effect of the judgment of <ORG> as given in the head note, <ORG>, discharged an order of the Commissioner, dated January 25th, 1884, which had confirmed a sale by the Collector in 1882, but afterwards on August 21st, 1886, discharged its own order and revived that of the Commissioner.
+Precedent	It was held that the confirmation of sale dated only from the last order of August 21st, 1886, within the meaning of Article 12 of Act XV of 1877, which provides one year, for a suit to set aside a sale for arr ears of Government Revenue, or for any demand recoverable as such arrears, from the date on which the sale is confirmed, or would otherwise have become final and conclusive had no such suit been brought.
+Precedent	At page 785 their Lordships say that they did not base their decision on the provision of Section 14 of the Limitation Act which provides for the exclusion of the time of proceeding bona tide in Court without jurisdiction, but because they were of opinion "that there was no final, conclusive and definitive order confirming the sale, while the question whether the sale should be confirmed was in litigation, or until the order of the Commissioner of the 25th January 1884 became definitive and opera-tive by the final judgment of <ORG> on the 21st August 1886, or (in other words) that for the purpose of the law of limitation there was no final or definitive confirmation of the sale until that date."
+Precedent	8.
+Precedent	I do not think that much light would be obtained over the present question by discussing in 'det ail the other rulings of <ORG> cited before us a summary of which is set out in the Order of Reference and which I also had the occasion to discuss previously in Secretary of <ORG> v. <NAME> A.S. Nos.
+Precedent	113 and 402 of 1917.
+Precedent	No doubt there are general observations in some of the cases such as <NAME> v. <NAME> (1888) I.L.R.
+Precedent	11 A.
+Precedent	47 at 56 where it is stated, "It would be an inconvenient state of the law if it were found necessary for a man to institute a perfectly vain litigation under peril of losing his property if he does not, or that the right of plaintiffs to bring an action to recover certain property would be suspended because of certain intermediate litigation (See <NAME> v. <NAME> (1907) I.L.R.
+Precedent	35 C. 209 and <NAME> v. <NAME> (1916) I.L.R.
+Precedent	43 C. 660) in which his title to the property happened to be under investigation.
+RatioOfTheDecision	But it is hardly to be inferred from such observations that <ORG> intended to lay down any rul e or rules for exclusion of time other than "those mentioned in various sections of the Limitation Act , such as 12, 14 etc.
+RatioOfTheDecision	Or that when time has once begun to run, it will be, suspended otherwise than according to the provisions of Section 9 or any other similar provision of the Limitation Act itself.
+RatioOfTheDecision	In Mussumat Ranee Sumo Moyee v. <NAME> 12 M.I.A.
+RatioOfTheDecision	244 their Lordships had to determine when the cause of action accrued with reference to Section 32 of Act.
+RatioOfTheDecision	X of 1859 whether at the end of each fasli year when the rent became due or on the date of the decree reversing the auction sale of the Putnee Talook belonging to the plaintiff <NAME>, and they decided in favour of the date of the decree reversing the auction sale.
+RatioOfTheDecision	I do not see that any general principle of interpretation or application of the Limitation Act can be deduced from this decision which would be of any guidance in the present case.
+Fact	In <NAME> v. <NAME> (1888) I.L.R.
+Fact	11 A.
+Fact	47 in a suit for specific performance for sale of  land, it was ruled that the plaintiff's cause of action for recovering the debt which was the consideration for the agreement for sale which failed, arose on the date the decree refusing specific performance was passed, because a new obligation was imposed on the defendant by that decree.
+Precedent	The cases in <ORG> v. <NAME> (1903) I.L.R.
+Precedent	25.
+Precedent	A.
+Precedent	618 and <CITATION_115652057> (1906) I.L.R.
+Precedent	28 A.
+Precedent	466 were also of a similar nature.
+Precedent	And in all these cases the article tinder consideration was No.
+Precedent	97 of Act 1877 which was applicable to suits for money paid upon an existing consideration which afterwards failed.
+Precedent	In Rangayya Appa Row v. <NAME> (1903) I.L.R.
+Precedent	27.
+Precedent	M. 143 <ORG> held that until the puttah was settled under the special provision of the Local Act VIII of 1865, time did not run, but that limitation was to be computed only from the date of the final decree determining the rent.
+Precedent	I must however observe that it would almost look that in my judgment in Secretary of <ORG>  v. <NAME> Ranganayakamma A.S. Nos.
+Argument	113 and 402 of 1917.
+Argument	I tried to deduce from these cases a principle of general and unlimited application to the effect that where the rights of the parties have been subjected to determination by the <ORG>, it is from the date of the determination of such rights the limitation should be computed.
+RatioOfTheDecision	But on further consideration I am persuaded that any such deduction would be unjustified, if it be meant thereby to introduce a rule of exclusion or suspension of time covering a larger ground than that traversed by Sections 12 , 14 , 15 , 16 , 19 and other similar provisions of the Limitation Act .
+RatioOfTheDecision	I need hardly say that I do not desire to express any opinion on the question of limitation involved in the Appeals Nos.
+RatioOfTheDecision	113 and 402 of 1917 as a Letters Patent Appeal is now pending from my judgment.
+RatioOfTheDecision	But as I have already suggested, it is not necessary to attempt to deduce any rule of general application in order to answer the question which arises in this case and that the answe r, as I have stated, should be that time should be computed from the date of the order disallowing the petition to set aside the sale and not from the date of confirmation passed before the application to set aside the sale was made.
+Precedent	<NAME>, J.
+Argument	9.
+RatioOfTheDecision	The question I propose to answer is that which has been referred and not any other, which may appear to afford a ground of disposal in the appeal, in which the reference has been made.
+RatioOfTheDecision	10.
+RatioOfTheDecision	That question is whether the existence of the cause of action for an application for delivery is suspended during the pendency of proceedings for the setting aside of the sale and I do not understand it as raising the distinct question whether the order of confirmation, which had been passed in the case before the referring Judges, had been deprived of the finality which it originally possessed.
+RatioOfTheDecision	The distinction is clearly marked in my referring order by the reference to the judgment of <NAME>, in <CITATION_1601440> (1917) 33 M.L.J.
+RatioOfTheDecision	46 and I propose to adhere to i t.  11.
+RatioOfTheDecision	The conflict we have to resolve is between, on the one hand the unrestricted language of Sections 3 and 9 , Limitation Act , which has more than once, as the referring order of <NAME>, shows, been regarded as subject only to the exceptions allowed by some specific provision of law, and on the other certain decisions of <ORG> and the language used in them, which are relied on as involving the existence of an equitable power to relax the provisions of the Act in such cases as the one before us.
+RatioOfTheDecision	12.
+RatioOfTheDecision	It is unnecessary to extract the sections of the Act or to insist on their unrestricted character except by pointing out, what will be material in the sequel, that Section 3 is affected by Section 14 in the case of an application, only when the applicant has been prosecuting, not when, as in the case under reference, he has been on his defence, in another proceeding.
+RatioOfTheDecision	That is involved by the reference in Section 14 for prosecution in good faith, by the terms of explanation II and  by the absence of any reason for supposing that a change in the law was intended when the clear language in the corresponding Section of the former Act XV of 1877 Vas abandoned.
+RatioOfTheDecision	Subject however to this, Sections 3 and 9 are comprehensive.
+RatioOfTheDecision	In order to evade them, reliance has been placed on decisions of <ORG>, the effect of which was stated in the recent judgment in <NAME> v. <ORG>.
+RatioOfTheDecision	355 of 1915. to which <ORG>, was a party, as being that " if circumstances exist, which would render a suit or application infructuous, a party should not be compelled to institute it, until the impediment in the way is removed."
+RatioOfTheDecision	It is for us to decide whether this general principle can be deduced from the cases relied on.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Those cases have been referred to in my order of reference as falling into three classes; and I adhere to that classification in supporting the conclusion, which the fuller argument we have now heard in my opinion entails, that the proceedings  in each case were really regarded as in time with reference, not to any extension of the period available for taking them, but to the adoption of a starting point for limitation, which was discovered, either where none had been available before or in supersession of one already in existence.
+RatioOfTheDecision	This is, if I understand the opinion to be given by <NAME>, correctly, in accordance with the view which he would take although I should respectfully describe it as putting a more accurate, not a more liberal, construction on column 3 of the schedule.
+RatioOfTheDecision	14.
+RatioOfTheDecision	Thus in the first class of cases referred to, those in which the plaintiff, after claiming one remedy in good faith, but unsuccessfully, sought another to which his right was ascertained in his previous proceedings, the decision in <NAME> v. <NAME> (1888) I.L.R.
+RatioOfTheDecision	11 A.
+RatioOfTheDecision	47 was based statedly on the fact that from the date, on which an agreement to convey property in satisfaction of a debt was held unenforceable, a new liability for money paid on a con sideration which failed was imposed on the debtor in supersession of his liability under the agreement or for the debt; and the dictum relied on here, " It would be an inconvenient state of the law if it were found necessary for a man to institute a perfectly vain litigation on pain of losing his property " can be fairly applied, as stating not any general principle, but merely an argumentum ab inconvenient in connection with the reference immediately preceding it to the period during which the decree of <ORG> upholding the agreement was in force.
+Fact	This is in fact the explanation of the decision, which was given in <NAME> v. <NAME> (1906) I.L.R.
+Precedent	28 A.
+Precedent	466 and approved by <ORG> in <NAME> v. <NAME> (1903) I.L.R.
+Precedent	25 A.
+Precedent	618 and <NAME> v. <NAME> (1908) I.L.R.
+Precedent	31 A.
+Precedent	68.
+Argument	15.
+Fact	The next class of cases comprised those in which the plaintiff, having obtained all he wanted in previous proceedings, had, when those proceedings were  set aside, to take fresh ones in connection with which limitation was pleaded; and the decisions in his favour are easily intelligible with reference to the date of his deprivation of the relief he had secured.
+Fact	Thus in Mussumat Ranee Sumo Moyee v. <NAME> (1868) 12 M.I.A.
+Argument	244 the plaintiffs claim having, as the <ORG> pointed out, once been satisfied by the sale, which was afterwards set aside, it was only when it ceased to be satisfied that the cause of action afterwards sued on became available; and, although Sir <NAME> in <CITATION_360352> (1882) I.L.R.
+Argument	9 C. 255 referred to this case, as establishing an exception to the operation of the statute, and in explaining it spoke of the "period of time in which the statute might not run" he described the exception as "rather apparent than real" and the whole tenor of his Judgment was consistent with the view I am taking.
+Argument	Another case in this class <NAME> v. <NAME> (1907) I.L.R.
+Argument	35 C. 209 calls for notice, because there i s no doubt that the judgments in it contain language, in which a suspension of the running of time is referred to.
+RatioOfTheDecision	The facts however need cause no difficulty.
+RatioOfTheDecision	For they were that certain defendants in a suit for possession and account in respect of a share, from which the plaintiff's alleged dispossession, succeeded in obtaining a decree for ascertainment of their own share; and the suit for such ascertainment; which they had to bring when the decree in their favour was set aside, was held to be in time, as it might be consistently with the principle under discussion, on the ground that their cause of action arose, only when they were deprived of the relief they had once obtained.
+RatioOfTheDecision	In <ORG> however, although the judgment mentions the inability of these parties, so long as the decree in their favour subsisted, " to institute a fresh suit for the object, which had been successfully attained, " their case is described as having been that their rights were suspended; and <NAME> v. <NAME> m (1859) 7 M.I.A.
+RatioOfTheDecision	323and the observations of Lord <NAME> in <NAME> v. <NAME> (1801) 6 Ves.
+RatioOfTheDecision	73 are referred to the former dealing with the existence of sufficient cause within the meaning of Bengal Reg.
+Fact	III of 1873, Section 14 and the latter with the English principle reproduced in our Section 15(1) .
+Fact	<ORG> also, in shortly approving <ORG> decision, referred to the suspension of limitation and the deduction of the period spent in the previous litigation.
+Fact	<ORG> however had relied on <NAME> case (1868) 12 M.I.A.
+RatioOfTheDecision	244 and <ORG> had also referred to the existence of an effective decree, which was capable of being enforced until set aside; and in these circumstances these judgments indicate only that, although the existence of alternative grounds for their conclusions was present to the minds of the <ORG> concerned, it was not thought worth while to maintain the distinction between them for the purpose in hand.
+Fact	In the last case of this kin d to which I need refer <CITATION_543526> (1896)I.L.R.
+Fact	23 C. 775 the ground of decision is clearly not any suspension of the right to sue.
+Fact	For the Judgment statedly expresses no opinion on the applicability of Section 11 of the Act and is based on the absence of any sale, which the plaintiff could have sued to have set aside, until the cancellation order obtained by him in good faith had been displaced.
+RatioOfTheDecision	16.
+RatioOfTheDecision	In the remaining classes of cases the plaintiff's claim depended on the principle stated in the judgment of <NAME>, J. in <NAME> v. <NAME> (1877) I.L.R.
+RatioOfTheDecision	3 C. 30 as deducible from <NAME> case (1865) 10 M.I.A.
+RatioOfTheDecision	203 that on the reversal of the main decree, which was the basis of subsequent decrees, the latter are superseded and a suit lies to recover what has been wrongfully paid under them.
+RatioOfTheDecision	This principle is of course not one of limitation and its exact scope may come under discussion in another case now pending, to which the reference is made in the judgment of the learne d Chief Justice.
+RatioOfTheDecision	But <NAME> v. <NAME> (1877) I.L.R.
+RatioOfTheDecision	3 C. 30 is material at present, because consistently with it when the limitation applicable to the suit it authorises was considered in <NAME> v. <NAME> (1878) 2 C.L.R.
+RulingByLowerCourt	354 (it was held that time ran from the date of the superseding judgment under Article 120 , not from the erroneous receipt of the payment under Article 62 ) and no provision relating to suspension was relied on.
+RulingByLowerCourt	The decision in <CITATION_406639> (1889) I.L.R.
+RulingByLowerCourt	13 M. 437 proceeded on similar grounds; and both authorities exemplified the conclusion reached in connection with the first class of cases already dealt with, that an accurate application of the third column of schedule 1 rather than reliance on suspension of the running of time, is the means by which apparent hardship to plaintiffs should be avoided.
+RulingByLowerCourt	17.
+Fact	In the foregoing representative instances from each of the classes of cases referred to in argument have been dealt with and the result is that  none supports the general equitable principle, for which the respondents before us contend.
+Fact	It has been pointed out that Section 14 of the Limitation Act is inapplicable to the case submitted to us and no other positive provision has been relied on.
+Fact	I would therefore answer the question referred in the negative, that in the circumstances stated, if time has begun to run, its running is not suspended <NAME>, J.
+Precedent	18.
+Precedent	The question referred to the Full Bench is whether the existence of the cause of action for an application for delivery to which Article 180 of schedule 1 of the Limitation Act applies, is suspended during the pendency of the proceedings for the setting aside of the sale.
+Precedent	19.
+Precedent	The relevant dates are as follows:  (a) the court auction sale took place in March 1913;  (b) the sale was confirmed on the 26th April 1913;  (c) application to set aside the sale was made on the 3rd January 1914;  (d) the sale was set aside as regards the interest of some of the judgment-debtors, and it was upheld as  regards the others on 25-6-1915;  (e) the application for possession of the interests of the judgment debtors the sale of whose interests was finally confirmed on 25-6-1915 was made on 19-2-1917.
+Precedent	If the time between 3-1-1914 (when the application to set aside the whole sale was made) and 25-6-1915 (when the final order confirming part of the sale was made) is deducted, then the application of 19-2-1917 is within the period of three years from the date when the sale became absolute, which is, the date mentioned in column 3 of Article 180.
+Precedent	20.
+Precedent	The matter in controversy was argued in two aspects on behalf of the decree-holder-purchaser (1) that even if the cause of action for the application for possession as made arose when the sale of the interests of all the judgment-debtors was confirmed on 26-4-1913; in other words, that even if the application for possession dated 19-2-1917 is based on the cause of action for possession of the entire interests which arose on 26-4-1913 (the date when the first order of  confirmation was made); to put it again differently, even if the time of three years began to run From 26-4-1913 itself notwithstanding that the application was for possession of a fraction of the interests sold on that date, the running of time, was suspended between 3-1-1914 and 25-6-1915 (2) that a new cause of action arose on 25-6-1915 when the final order confirming the sale of the interests of some only of the Judgment-debtors was made and that the time for calculation of the period of limitation for the application of 19-2-1917 arose only on 25-6-1915.
+Precedent	21.
+Precedent	Section 9 of the Limitation Act says "When once time has begun to run, no subsequent disability or inability to sue stops it."
+Precedent	Though this section, in terms, relates only to a suit and not to an application, in <NAME> v. <NAME> (1904) I.L.R.
+Precedent	29 B.
+Precedent	68 and <CITATION_197636> (1912) I.L.R.
+Precedent	36 B.
+Precedent	498 the words "to sue" have been taken as including " to apply in execution."
+RulingByLowerCourt	Further the <ORG> auction-purchaser who has made the application for possession ca n hardly be said to rely on any "subsequent disability or inability," (that is, subsequent to the date of sale), to make the application as" disability " and " inability to sue " are not the same as "inconvenience" or "futility" of suing--one of the two branches of his contention is that his right to apply for possession of those interests whose sale was finally confirmed, arose only on the date of that final confirmation and that as the original confirmation of 1913 was modified by the final confirmation of 25-6-1915, he obtained a new cause of action for the application making in conformity with that final order.
+RulingByLowerCourt	<CITATION_841670> (1896) I.L.R.
+RulingByLowerCourt	23 C. 775 their Lordships of the Privy Council held that a suit for setting aside a sale made on the 25th September 1882 by the District Collector and confirmed by the Commissioner on 25-1-1884, though brought in July 1887 more than one year from the date of such confirmation, was not barred by Article 12 of Act 15 of 1877, because <ORG> whether with o r without jurisdiction, had set aside the Commissioner's order though it afterwards discharged its own order on 21-8-1866.
+RulingByLowerCourt	Their Lordships held that limitation for the suit commenced only from the final order of the <ORG> dated 21-8-1886, because there was no "conclusive and definitive order " confirming the sale while the question whether the sale should be confirmed was under litigation, and until the order of the Commissioner on 25-1-1881 became' definitive and operative by the final judgment of the <ORG> of Revenue on 21-8-1886; in other words, that for the purposes of the law of limitation, there was no final or definitive confirmation of the sale until that date.
+RulingByLowerCourt	Their Lordships do not rely upon Section 14 of the Limitation Act which relates to the exclusion of time during which proceedings in Court without jurisdiction are being prosecuted; but put it on the broad ground that the sale itself became " confirmed" within the meaning of the expression in the third column of Article 12 of the Limitation Act  only on the date when the proceedings closed before <ORG>, that is in August 1886, though there had been a confirmation by the Commissioner in 1884 itself.
+Precedent	1 think the present case is a stronger case for the purchaser than the case reported in <CITATION_841670> (1896) I.L.R.
+Precedent	23 Cal.
+Precedent	775.
+Precedent	Whereas Article 12 uses the expression "when the sale is confirmed," Article 180 uses the expression "when the sale becomes absolute.
+Precedent	"lf, on an application made to set aside the sale, an order setting aside the sale in part is passed as it has been passed in this case, the sale as made cannot be said to have become "absolute," though a formal confirmation after the expiry of;30 days had taken place.
+Precedent	Further, whereas in <CITATION_841670> (1896) I.L.R.
+Precedent	23 Cal.
+Precedent	775 the 'Commissioner's confirmation order of 1884 was ultimately upheld by the final order of <ORG> in 1886, the confirmation order of 1913 in this case was modified ultimately by the final order of 1915.
+Precedent	I think the principle underlying t he decision of their Lordships both in <NAME> v. <NAME> (1868) 12 M.I.A.
+Precedent	244 and <CITATION_841670> (1896) I.L.R.
+Precedent	23 Cal.
+RatioOfTheDecision	775 might be invoked in favour of the applicant in this case.
+RatioOfTheDecision	That Principle (as I understand it is that whenever proceedings are being conducted between the parties bona fide in order to have their mutual rights and obligations in respect of a matter finally settled, the cause of action for an application or for a suit the relief claimable wherein follows naturally on the result of such proceedings, should be held to arise only on the date when those proceedings finally settle such rights and liabilities.
+RatioOfTheDecision	(The case where the proceedings are by way of appeal is specially provided for by statute law and the decisions based on those special provisions are irrelevant and merely confuse the mind in its analysis of the relevant precedents).
+RatioOfTheDecision	22.
+RatioOfTheDecision	I shall refer to only one more authority.
+Precedent	<CITATION_1214750> (1916) I.L.R.
+Precedent	43 C. 660 their Lordships of the Privy Counci l confirmed the <ORG> decision of <ORG> in <NAME>, <NAME> v. Madhusadan <NAME> (1907) I.L.R.
+Precedent	35 Cal.
+Precedent	209.
+Precedent	The judgment of their Lordships on the question of law involved begins by saying "Their Lordships concur generally with the reasons given by <ORG> for overruling the plea of limitation".
+Precedent	In the judgment in <NAME> <NAME> v. Madhusadan <NAME> (1907) I.L.R.
+Precedent	35 Cal.
+Fact	209 the learned judges of <ORG> (<ORG>) not only do not rely upon Section 14 of the Limitation Act, but expressly say "We feel grave doubt whether the case falls within that section".
+Fact	But they reiy upon the principle of the <ORG> decision in <ORG> v. <ORG> (1868) 12 M.I.A.
+Fact	244 and hold that the right of the plaintiffs to bring an action to recover the.
+Fact	property was suspended Between the 20th of April 1903 and the 22nd of February 1904, because on the 20th April 1903 they had, as defendants, in a former suit, obtained a decree for the sam e relief as was claimed in their present action which decree however was reversed on the appeal filed by the plaintiffs of that suit on 22-4-1904.
+Fact	Thus the suspension was not by reason of Section 14 of the Limitation Act but by reason of the principle that a person is not bound to bring an unnecessary suit or to make futile and unnecessary applications during the course of other litigation proceedings in which he and his opponent had been bona fide engaged for the ascertainment and settlement of the same rights.
+RatioOfTheDecision	The rule of law derivable from the decisions of their Lordships seems to have thus two applications according to circumstances (a) creating a fresh cause of action under some circumstances (b) suspending the running of time in other circumstances.
+RatioOfTheDecision	In <NAME> v. Madhusudan Sen (1907) I.L.R.
+Precedent	35 Cal 209 affirmed by <ORG> in Nrityamoni Dossi v. <NAME> (1916) I.L.R.
+Precedent	43 Cal.
+Precedent	660 the "suspension" principle was applied in the case of a suit also.
+Precedent	Mr. <NAME> in his book on  Limitation published in 1915 (after I.L.R.
+Precedent	35 Cal.
+Precedent	and before I.L.R.
+Precedent	43 Cal.)
+Precedent	remarks as follows at page 44 (under Section 9 ) about the decision in <NAME> v. <NAME> (1907) I.L.R.
+Precedent	35 Cal.
+Precedent	209: "It is difficult to see under what provision of the Limitation Act , the Court held that there was a suspension of the right of suit".
+Precedent	But as their Lordships of <ORG> have confirmed <NAME> v. <NAME> (1907) I.L.R.
+Precedent	35 Cal 209 approving generally the ratio of its decision, we must hold that notwithstanding Section 9 of the Limitation Act there are exceptional cases where such suspension, even as regards the running of time on the cause of action for a suit can take place.
+Precedent	I think that, in either aspect (I am myself inclined to think that in the present case, a new cause of action for this special application for possession of the interests in respect of which alone the sale was finally confirmed arose in 1915), the application for possession in 1917 in this case is not ba rred by limitation.
+Precedent	<NAME>, J.
+Precedent	23.
+RatioOfTheDecision	I had to consider the <ORG> decisions quoted before us on a number of occasions.
+RatioOfTheDecision	I was therefore at first disinclined to write a separate judgment in this case.
+RatioOfTheDecision	But as in a case depending upon this judgment and which was posted before <NAME> and <NAME>, and myself the subject matter is of a value which will enable the parties to go before <ORG>, and as I think that some of my observations in the previous judgments have been expressed more broadly than they need have been, I have resolved to give expression to my views on the present occasion.
+RatioOfTheDecision	By common consent of both parties, notwithstanding the somewhat limited scope of the question referred, arguments were addressed to ascertain the exact scope of the pronouncements of <ORG> on the point, whether in addition to the exception enumerated in the Limitation Act it is open to <ORG> to import a new principle of equity regarding the articles in the first schedule to that  Act.
+Precedent	24.
+Precedent	Mr. <NAME> contended that the decision in the case which led to the reference is governed by <CITATION_841670> (1896) I.L.R.
+Precedent	23 Cal.
+Precedent	775.
+RatioOfTheDecision	In my opinion this contention is right.
+RatioOfTheDecision	But I base that conclusion not on the ground that there is a general principle of equity apart from the statute, but because in the present case, the construction to be placed on the third column of Article 180 of the first schedule is concluded by that decision.
+RatioOfTheDecision	25.
+RatioOfTheDecision	It was suggested in the course of the argument that the decisions of <ORG> on this subject are not reconcilable with each other.
+RatioOfTheDecision	After giving my best consideration to this argument, I do not think that this argument is well founded.
+Fact	Broadly speaking the decisions of the <ORG> fall under two heads, Under the first head, come <CITATION_422363> (1896) I.L.R.
+Fact	23 Cal.
+Fact	775 Mussammat Sumo Mooyee v. <NAME> (1868) 12 M.I.A.
+Fact	244 Basu Kuar v. <NAME> (1888) I.L.R.
+Fact	11 All.
+Fact	47 <NAME> v. <NAME> (1903) I.L.R.
+Fact	27 Mad.
+Fact	143 Amma Bibi v. <NAME> (1908) I.L.R.
+Fact	31 All.
+Precedent	68 Nrityamani Dossi v. <NAME> (1916) I.L.R.
+Precedent	43 Cal.
+Precedent	660.
+Precedent	Under the second, <CITATION_360352> (1882) I.L.R.
+Precedent	9 Cal.
+Precedent	259 <CITATION_1089643> (1913) I.L.R.
+Precedent	35 All.
+Precedent	227 and <CITATION_1176312> (1918) 36 M.L.J.
+Precedent	210.
+Argument	It was argued, not without some plausiblity, that the first class of cases recognises the doctrine that where a party in whose favour a cause of action has arisen cannot usefully pursue a remedy at the time, his right of action is postponed to a subsequent date.
+Argument	It was next argued that the second class of cases takes a too literal view of the provisions of the Act, and ignores the above principle of equity.
+Argument	This ingenious suggestion of a conflict between law and equity is not borne out by a close examination of the authorities.
+Argument	26.
+Argument	In the cases coming under the second head <ORG> have laid down that there can be no saving of limitation apart from the provisions of the Limitation Act .
+Argument	They have drawn attention to  Sections 9 and 14 of the Act and have held that exemptions not covered by these and the other sections should not be imported by <ORG>, to relieve a party from the bar of limitation.
+RatioOfTheDecision	I do not think in the first class of cases this principle is overlooked.
+RatioOfTheDecision	What has been done is to put a liberal (rather in (he language of Oldfield, J., an accurate) construction on the somewhat loosely expressed words in col. 3 of the first schedule.
+RatioOfTheDecision	The sections have been more clearly worded than the third column of the first schedule.
+Precedent	In a case decided by five Judges of this Court to which I was a party, almost every one of us pointed this out with reference to Article 134 of the Limitation Act .
+Precedent	There are other instances of a similar kind.
+Precedent	<ORG> have, therefore, placed a liberal construction upon the words in the third column to the schedule.
+Precedent	Let us take for example <CITATION_422363> (1896) I.L.R.
+Precedent	23 Cal.
+Precedent	775 and the present case.
+Precedent	<CITATION_422363> (1896) I.L.R.23 Cal.
+Argument	775. the party through no fault of his  found himself in this unfortunate position.
+Argument	The only authority which could confirm the <ORG> sale was the Commissioner; no appeal is allowed from his decision.
+Argument	But an appeal was taken to the Board of <ORG> against his order and that body admittedly set aside the order though it had no jurisdiction to do so.
+Argument	Both parties were not aware of this defect of jurisdiction.
+Argument	Both of them submitted to the interference by the Board of <ORG>.
+Argument	At a subsequent stage the Board of <ORG> confessed that their orders were ultra vires and passed proceedings to the effect that the confirmation by the Commissioner was right.
+Argument	In these circumstances <ORG> pointed, out that the cause of action arose only when the Board of <ORG> vacated their former order and ruled that the order of the Commissioner was valid.
+Argument	This decision does not ignore either Section 9 of the Limitation Act or import a theory of suspension not sanctioned by Section 14 .
+Argument	In the view of <ORG>, the cause of action should n ot be regarded as having taken place on a date when no step could be taken to obtain delivery owing to the interference by the <ORG> with the order of confirmation.
+Argument	That is to say, they held that the third column of the schedule should be constructed as if it said that the cause of action arose only when a remedy based on it was available.
+Precedent	I shall now examine the case before us.
+Precedent	The decision in <CITATION_422363> (1896) I.L.R.23 Cal.
+Precedent	775. would apply word for word to the facts of the present case.
+RatioOfTheDecision	Here there was a confirmation, of sale.
+RatioOfTheDecision	But the Civil Procedure Code has provided the procedure for that confirmation being challenged; it was in fact challenged; and although one might think that the challenge came after the time allowed by law, it was allowed to be agitated; the <ORG> upheld the challenge to some extent.
+RatioOfTheDecision	The third column of Article 180 ignores these considerations, and insists upon a party, if it is literally interpreted, filing a petition for delivery which owing to the pendency of the petition ch allenging confirmation could not be granted.
+RatioOfTheDecision	If this case were before <ORG>, I make bold to say to that they would hold that the cause of action really arose only when there was a final decision on the challenge, Similar explanation can be given with regard to every one of the cases which are catalogued under the first head.
+RatioOfTheDecision	None of them contravenes the provisions of the Limitation Act as embodied in Sections 4 to 31 .
+RatioOfTheDecision	All of them may be said to go to some extent, behind the actual words of the third column and to import into the decision considerations based on the intention of the legislature: but none of them introduce a principle which adds to or subtracts from the statutory exemptions.
+RatioOfTheDecision	That is my view of the decisions of <ORG>.
+RatioOfTheDecision	Therefore in my opinion the true rule deducible from these various decisions of <ORG> is this: that subject to the exemptions, exclusion, mode of computation and the excusing of delay etc., which are provided in the Limitation Act  , the language of the third column of the first schedule should be so interpreted as to carry out the true intention of the legislature, that is to say, by dating the cause of action from a date when the remedy is available to the party.
+RatioOfTheDecision	This is a rule of construction and not a rule of law.
+Precedent	I would answer the reference as above leaving each case to be dealt with in the light of these observations.
+Precedent	<NAME>, J.
+Precedent	27.
+RulingByPresentCourt	I agree with the conclusions come to by the learned Officiating Chief Justice in the Judgment just pronounced.

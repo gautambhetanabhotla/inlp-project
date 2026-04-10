@@ -1,0 +1,256 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <ORG> & ANR.
+Fact	DATE OF JUDGMENT: 28/10/1966 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, K. <NAME>, R.S.
+Fact	CITATION: 1967 AIR 829 1967 SCR (1)1012 CITATOR INFO : D 1972 SC1816 (16) D 1974 SC1489 (16) RF 1978 SC1457 (62) RF 1980 SC1789 (36) R 1981 SC1829 (115) RF 1985 SC 613 (5) ACT: Lushai Hills District (Trading by non-Tribals) Regulation (2 of 1963), s. 3-Trading licence to non-Tribal-If violative of Art.
+RatioOfTheDecision	19 of the Constitution-Constitution of India, Art.
+RatioOfTheDecision	19(1)(g)- If hits s. 3 of Lushai Hills District Regulation.
+RatioOfTheDecision	HEADNOTE: <ORG> refused to further renew the temporary licence issued to the appellant, a non-trader, for trading in Mizo District.
+RatioOfTheDecision	The licence could be issued for one year only and the appellant was trading after applying and obtaining its renewal from time to time.
+RatioOfTheDecision	The appellant filed a writ petition, contending, that the order was <NAME> fide in the sense that though the reason given fo r refusal was that the number of non-Tribal traders had reached the maximum, the <ORG> had in fact granted licences to new traders, and that the said order and s. 3 of the Lushai Hills District (Trading by non-Tribals) Regulation, 1953 was invalid being violative of Art.
+RatioOfTheDecision	19(1) (g) of the Constitution.
+RatioOfTheDecision	<ORG> maintained the order.
+RatioOfTheDecision	In appeal to this <ORG>.
+RatioOfTheDecision	HELD : (Per <NAME>, <NAME> and <NAME>, J.)
+RatioOfTheDecision	: Section 3 of the Regulation is violative of Art.
+RatioOfTheDecision	19(1)(g) of the Constitution.
+RatioOfTheDecision	Even if the Sixth Schedule can be said to contain a policy and the Regulation may be said to have been enacted in pursuance of such a policy an analysis of the Regulation shows that that is not sufficient.
+RatioOfTheDecision	Even if a statute lays down' a policy it is conceivable that its implementation may be left in such an arbitrary manner that the statute providing for such implementation would -amount to an unreasonable restriction.
+RatioOfTheDecision	A provision which leaves an unbridled power to an authority cannot in any sense be characterised as reason able.
+RatioOfTheDecision	Section 3 of the Regulation is one such provision'.
+RatioOfTheDecision	The Regulation contains no principle or criterion on which <ORG> should grant or refuse to grant a licence or its renewal; nor does it provide any machinery under which an applicant can show cause why his application for a licence or its renewal should not be rejected; nor does it provide any superior authority before whom such an applicant can establish that the refusal by the <ORG> is arbitrary or without any proper cause; and it leaves the trader not only at the mercy of the <ORG> but also without any remedy.
+RatioOfTheDecision	In the present case, the <ORG> had given the reason for refusal to renew the licence, but the order did not state what that maximum was or who prescribed such a number and under what authority or what was the criterion for fixing any particular maximum.
+Precedent	[1020 D; 1021 A-F] (Per <NAME>, J. dissenting) : Section 3 of the Regulation is not violative of Arts.
+Precedent	14 and 19(1)(g) of the Constitution.
+Precedent	If paragraph 10 of the  Sixth Schedule of the Constitution cannot be regarded as violative of any provision in the Constitution, it is impossible to say that s. 3 of the Regulation which is in strict conformity with paragraph 10 is violative of Arts.
+Precedent	14 and 19(1)(g).
+Precedent	The protection of the 1013. interests of the Scheduled Tribes is to be the guiding policy regulating the exercise of the discretion of <ORG>.
+Precedent	in.
+Precedent	the matter of granting or withholding trading licences to non-tribal traders.
+Precedent	In the present case, <ORG> found that the maximum limit of non-tribal traders had been reached, and in the interest of the tribal it was not desirable to issue licence to more non-tribal traders.
+Precedent	It was neither alleged nor shown that the <ORG> discriminated between similarly situated persons.
+Precedent	[1023 G; 1024 C-D; 1025 H ], JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Precedent	648 of 1964.
+Precedent	Appeal by special leave from the judgment and.
+Precedent	order dated, November 23, 1960 of <ORG>.
+Precedent	in Civil Ru le No.
+Precedent	88 of 1960.
+Precedent	<NAME>, for the appellant.
+Precedent	The respondent did not appear.
+Precedent	The Judgment Of <NAME>, <NAME> and <NAME>, J. was delive- red by <NAME>., <NAME>, J. delivered a dissenting Opinion.
+Precedent	<NAME>, J.
+Fact	We regret our inability to agree with the conclusion reached by <NAME>  The appellant, a non-tribal, started trading at Aijal, Mizo, District, in 1957 under a temporary licence issued by <ORG> investing about Rs.
+Fact	50,000/- therein.
+Fact	The temporary licence could be issued at a time for a year only and therefore he applied for and obtained its renewal from time to time upto May 31, 1960.
+Fact	He applied for a further renewal whereupon <ORG> passed an order dated July 11, 1960 refusing any further renewal and -directing him to.
+Fact	remove his properties from the District by the end of July 1960, and imposed a fine of Rs.
+Fact	5001- in case he failed to comply with it.
+Fact	The appellant filed a petition under Art.
+Argument	226 of the Constitution in the Hig h Court of Assam against the said order contending, that the said order was malafide in the sense that though the reason given for refusal was that the number of non-tribal traders had.
+Argument	reached the maximum the <ORG> had in fact granted licences to new traders, and that the said order and section 3 of the Lushai Hills District (Trading by non-Tribals) Regulation, 2 of 1953 were invalid being violative of Art.
+Argument	19(1)(e) and (g) of the Constitution.
+Argument	<ORG> struck down that part of the said order which directed him to remove his properties from the District and which imposed fine but dismissed the rest of the petition, firstly, on the ground of delay and secondly on the ground that the said order was a valid order and was not discriminatory.
+Argument	<ORG> also repelled the contention that the power of the <ORG> was unrestricted or arbitrary.
+Argument	<ORG> observed "The power cannot be said to be unrestricted.
+Argument	The licence is to be granted or refused having regard to the underlying object (if the ena ctment.
+Argument	This Regulation was passed in pursuance of the provisions of the Sixth Schedule of the Constitution which gives specific power to <ORG> to pass regulations affecting the right of non-Tribals to trade within the tribal areas and in order to effect the purpose underlying the provision of the Sixth Schedule this Regulation was enacted.
+Argument	If having regard to the scope of trade in that locality the number of licences is restricted by the authorities, it cannot be said that the exercise of such a power is discriminatory."
+Argument	This appeal by special leave challenges the correctness of this order by which <ORG> dismissed the petition.
+Argument	The appellant's contention before us was that the said order was invalid as it was based on an invalid provision of law which infringed his fundamental right to carry on business at Aijal under Art.
+Argument	19(1)(g) that the refusal to allow him to carry on his business amounted to an unreasonable restriction and that section 3 of the Regulation which empowers the Cou ncil to refuse to permit him to carry on business was invalid as it conferred on the <ORG> an arbitrary and uncanalized power enabling it to refuse to grant a licence or its renewal according to its sweet will.
+Argument	The Sixth Schedule to the Constitution constitutes the Mizo District, formerly known as the Lushai Hills District, as an autonomous district.
+Statute	Paragraph 10 of that Schedule provides for the power of the District <ORG> to make Regulation for the control of money-lending and trading by non-tribals.
+Statute	Clauses 1 and 2 of that paragraph read as under --  (1) The District <ORG> of an autonomous district may make regulations for the regulation and control of money-lending or trading within the district by persons other than Scheduled Tribes resident in the District.
+Statute	(2) In particular and without prejudice to the generality of the foregoing power, such regulations may  (a)prescribe that no one except the holder of a licence issued in that behalf shall carry on the business of money landing  (b) (C)  (d)pre scribe that no person who is not a member of the Scheduled Tribes resident in the District shall carry on wholesale or retail business in any commodity except under a licence issued in that behalf by <ORG>.
+Statute	Paragraph 10 thus empowers <ORG> to make Regulations for regulating and controlling money-lending and trading by non-tribals in the District and in particular to provide by such Regulations that no non-tribal shall carry on any trade without a licence.
+Argument	In pursuance of this power <ORG>s enacted the Lushai Hills District (Trading by non-Tribal) Regulation, 2 of 1953 the preamble of which merely states that it was expedient to provide for the regulation and control of trading within the Lushai Hills District by persons other than scheduled tribes resident in the District.
+Argument	Section 3 of the Regulation provides that no person other than a Tribal resident in the District shall carry on wholesale or retail business in any commodities except under and in accordance with  the terms of a licence issued by <ORG>.
+Argument	The first proviso to this section does not concern us as it deals with perma- nent licences to be issued to persons who were carrying on business prior to the enactment of the Regulation.
+Argument	But the second proviso seems to apply to both permanent and temporary licences and lays down that if a licence is refused, the grounds of refusal should be recorded by <ORG>.
+Statute	Sections 4 and 5 prescribe that a licensee should maintain accounts in prescribed forms and such accounts should be open to inspection by an authorised officer.
+Statute	Section 6 empowers <ORG> to make rules for carrying out the purposes of the Regulation and in particular to provide the form and conditions of the licence, the fees therefor, the procedure for applying for a licence, the forms of accounts to be maintained by the licensee and for any other matter connected with or ancillary to the matters aforesaid.
+Statute	Section authorises <ORG> to cancel the lic ence of a trader if he were convicted for contravention of any of the provisions of the Regulation.
+Statute	In exercise of the aforesaid power <ORG> framed the Lushai Hills District (Trading by non-Tribals) Rules, 1954.
+Statute	Rule 5(2)(a) provides that the terms and conditions of the licence shall be strictly adhered to by the licensee, a contravention thereof being punishable under the law for the time being in force.
+Statute	The Rule also provides that no temporary licence shall be granted for a period exceeding one year at one time.
+RatioOfTheDecision	Rules 6 and 7 deal with permanent licences, that is, licences granted to non-tribals carrying on business before the enactment of the said Regulation.
+RatioOfTheDecision	We are not concerned with those Rules as the appellant is not one of those persons entitled to a permanent licence.
+RatioOfTheDecision	The appellant being a citizen of India and the Mizo District being part of the Union Territory he has undoubtedly a fundamental right under Art.
+RatioOfTheDecision	19(1)(g) to carry on trade in any part of the country including the Mizo  District.
+RatioOfTheDecision	Any restriction infringing such a right can only be sustained if it is a reasonable restriction imposed in the interest of the general public as envisaged by Art.
+Precedent	19(6).
+Precedent	<CITATION_554839> (1) this Court laid down an elaborate test of reasonableness which has since been accepted in several subsequent decisions.
+Precedent	<NAME> in that decision observed :-  "In considering the reasonableness of laws imposing restrictions on fundamental rights both the substantive and procedural aspects of the impugned law should be examined from the point of view of reasonableness and the test of reasonableness, wherever prescribed should be applied to each individual statute impugned and no abstract -standard or general pattern of reasonableness can be laid down as applicable to all cases.
+Precedent	The nature of the right alleged to have been infringed, the underlying purpose of the restriction imposed, the extent or urgency of the evil sought to be remedied thereby, the disproportion of imposition, the prevailing con ditions at the time should enter into the judicial verdict. "
+Precedent	<CITATION_866> (2) clause 25 of the Rajasthan Foodgrains Control Order, 1949 empowered certain specified officers to freeze any stocks of foodgrains held by any person and further provided that such stocks were liable to be requisitioned or disposed of under orders of the said authority at the rate fixed for the purpose of <ORG> procurement.
+Precedent	The clause was struck down by this Court on the ground that while the authorities may fix the ceiling price at which foodgrains should be sold in the market by the dealers there was no such limitation on the power of the <ORG> to acquire the stocks.
+RatioOfTheDecision	It would therefore be open to the <ORG> to requisition the stocks at a price lower than the ceiling price thus causing loss to the persons whose stocks are freezed, while at the same time the <ORG> would be free to sell the same stocks at a higher price and make profit.
+RatioOfTheDecision	No dealer would therefore be prepared to buy foodgrains at the market price  when he knew that he was exposed to the risk of his stocks being freezed any moment and the same being requisitioned at the procurement rate.
+RatioOfTheDecision	The clause thus left it entirely to the discretion of the executive to fix any compensation it liked.
+RulingByLowerCourt	The decision held that clause 25 placed an unreasonable restriction upon the carrying on of trade or business, was thus an infringement of the right under Art.
+RulingByLowerCourt	19(1)(g) and was therefore to that extent void.
+RulingByLowerCourt	<CITATION_293896> (3) two conditions subject to which the appellant was granted a licence and which compelled a licensee to exhibit in his cinema theatre at each performance (1) S. C. R. 597.
+RulingByLowerCourt	(3)  1 S. C. R. 686.
+Fact	(2)  S. C. R. 982.
+Argument	1017  one or more approved films of such length and for such length of time, as the <ORG> or <ORG> may direct and which also compelled the licensee to exhibit at the commencement of each performance not less than 2000 feet of one or more approved films were struck down as imposing unreasonable restrictions on the ri ght of the licensee to carry on his business.
+Argument	At page 689 of the Report the Court observed :-  "Neither the length of the film nor the period of time for which it may be shown is specified in the condition and the Government is vested with an unregulated discretion to compel a licensee to exhibit a film of any length at its discretion which may consume the whole or the greater part of the time for which each performance is given.... As the condition stands, there can be no doubt that there is no principle to guide the licensing authority and a condition such as the above may lead to the loss- or total extinction of the business itself.
+RatioOfTheDecision	A condition couched in such wide language is bound to operate harshly upon the cinema business and cannot be regarded as a reasonable restriction.
+RatioOfTheDecision	It savours more of the nature of an imposition than a restriction."
+RatioOfTheDecision	<CITATION_111109> (1) this Court on the other hand upheld the validity of S. 25 ()(c) of the Bihar Mica Act, 1947 on the ground that the provisions of that section  did not impose any unreasonable restriction.
+RatioOfTheDecision	In upholding the validity of the said provisions the court observed that the section clearly provided ascertainable standards for <ORG> to apply to the facts of each case.
+RatioOfTheDecision	Clauses (a), (b), (c) and (d) of section 25(1) described with sufficient particularity the nature of the defaults to be committed and the abuses to be guilty of by the licensee in order to attract the penal provisions.
+RatioOfTheDecision	Clause (c) with which the Court was concerned embodied the last step that could be resorted to by <ORG> to eliminate a recalcitrant operator from the field of mining industry provided he was guilty of repeated failures to comply with any of the provisions of the Act or the rules made thereunder.
+RatioOfTheDecision	The discretion of <ORG> under cl.
+RatioOfTheDecision	(c) of s. 25 (1) was hedged in by important restrictions, viz., the repeated failure on the part of the licensee and the necessity for <ORG> to afford reasonable opportunity to him to show cause wh y his licence should not be cancelled.
+RatioOfTheDecision	<CITATION_621247> (2) the majority judgment observed that in order to decide whether a provision in a pre- Constitution statute like the one in question there satisfied the test of constitutionality laid down by Art.
+RatioOfTheDecision	19(1)(g) read with Art.
+RatioOfTheDecision	19(6) the impugned section must be read (1)  2 S.C.R.
+Precedent	609.
+Precedent	M17Sup.CI/66-20 (2) [1961] 3 S. C. R. 135.
+RatioOfTheDecision	1018  as a whole and in a fair and reasonable manner and should not be declared void simply because considerations relevant to those articles are not immediately apparent from its language.
+RatioOfTheDecision	These observations were made in connection with a pre-Constitution enactment.
+RatioOfTheDecision	Even then <NAME> (as he then was) with whom <NAME> agreed uttered a note of caution saying that it was not the function of the court to search for an undisclosed policy in the crevices of the statute, for by doing so "this court will not only be finding an excuse to resuscitate an invalid law but also be encouraging the making of laws by appropriate authoriti es in derogation of fundamental rights."
+RatioOfTheDecision	Even according to the majority decision, there must be disclosed in the statute apparently or otherwise, a policy guiding the exercise of power conferred thereunder by the concerned authority.
+RatioOfTheDecision	These authorities clearly demonstrate that the fundamental right of a citizen to carry on trade can be restricted only by making a law imposing in the interest of the general public reasonable restrictions on the exercise of such a right, that such restrictions should not be arbitrary or excessive or beyond what is required in the interest of the general public and that an uncontrolled and uncanalized power conferred on the authority would be an unreasonable restriction on such right.
+RatioOfTheDecision	Though a legislative policy may be expressed in a statute, it must provide a suitable machinery for implementing that policy in such a manner that such implementation does not result in undue or excessive hardship and arbitrariness.
+RatioOfTheDecision	The question whether a restriction is reasonable or not is clearly  a justiciable concept and it is for the court to come to one conclusion or the other having regard to the considerations laid down in <CITATION_554839> .
+RatioOfTheDecision	(1) It is also well established that where a provision restricts any one of the fundamental rights it is for the <ORG> to establish the reasonableness of such restriction and for the court to decide in the light of the circumstances in each case, the policy and the object of the impugned legislation and the mischief it seeks to prevent.
+RatioOfTheDecision	With this background we now proceed to examine the provi- sions of the Regulation and consider whether the power granted under section 3 amounts to a reasonable restriction so as to save it under Art.
+RatioOfTheDecision	19(6).
+RatioOfTheDecision	As already stated, under Paragraph 10 of the Sixth Schedule <ORG> has the power to enact Regulations for regulating and controlling money-lending or trading by non-Tribals in the District.
+RatioOfTheDecision	Clause 1 empowers the <ORG> in general terms to make Regulations and Clause 2 empowers it in particular to make Regul ations prescribing that a non-tribal after the enactment of such a Regulation shall not carry on trade except under a licence.
+RatioOfTheDecision	Reading Paragraph 10 fairly and as a (1)  S.C.R.
+RatioOfTheDecision	597.
+RatioOfTheDecision	1019  whole it would seem that the Constitution-makers were anxious that the tribals should be safeguarded from unfair exploitation by non-tribals entering the District and carrying on money-lending and other activities.
+RatioOfTheDecision	It appears that Regulation 2 of 1953 was passed for the avowed object set out in Paragraph 10 of the Sixth Schedule though its preamble merely states that it was expedient to regulate and control trade by non-tribals.
+RatioOfTheDecision	Section 3 of the Regulation lays down a prohibition against any one carrying on trade without a licence and except in accordance with the terms of such licence.
+RatioOfTheDecision	The effect of this section is that if a non- tribal wishes to carry on trade in the District but is refused the licence, such refusal would result in a total prohibition against him from carrying on any trade.
+RatioOfTheDecision	Even if a licence is issued it c an only be a temporary licence for one year only.
+RatioOfTheDecision	If <ORG> to which this power is delegated by the <ORG> were to refuse to renew it such refusal would mean that he has to stop the trade which he was until then carrying on.
+RatioOfTheDecision	In the first case it is a prohibition and in the other a total extinction of his trade.
+RatioOfTheDecision	It is clear from the Regulation and the <ORG> made thereunder that there is no right of appeal to any superior authority against a refusal to grant or renew a licence.
+RatioOfTheDecision	There is also no provision either in the Regulation or in the <ORG> empowering any civil court to adjudicate against any such order of <ORG>.
+RatioOfTheDecision	A nontribal trader therefore has no remedy whatsoever against such an order though the refusal to grant or renew a licence amounts to his being totally barred from trading in one case and his business or trade being destroyed in the other.
+RatioOfTheDecision	Even if a non-Tribal obtains a licence and starts a trade investing therein a large, capital, there would be no security for su ch trade as the licence would be for one year only.
+RatioOfTheDecision	<ORG> can refuse to renew his licence and such refusal would as aforesaid result in the total extinction of his trade.
+RatioOfTheDecision	Under the second proviso to section 3 the <ORG> no doubt has to record the grounds for refusal but that is hardly a safeguard against an arbitrary refusal, for, the Regulation does not constitute any superior authority with power to revise such an order or to% examine whether the grounds are legal or proper.
+RatioOfTheDecision	Though the Regulation provides that no non-tribal can carry on any trade without a licence issued by the <ORG> it is the Executive <ORG> under the Rules to which an application has to be made for such a licence or for a renewal thereof and in the event of the <ORG> refusing to grant such a licence or refusing to renew it the applicant is left without any remedy whatsoever.
+RatioOfTheDecision	A perusal of the Regulation shows that it nowhere provides any principles or standards on which the Executive <ORG> has to act in g ranting or refusing to grant the licence.
+RatioOfTheDecision	The non-tribal trader either wishing to start a trade or continue his trade started on a grant of licence is entirely at the mercy of <ORG> for the grant or the renewal of a licence.
+RatioOfTheDecision	1020  There being no principles or standards laid down in the' Regulation there are obviously no restraints or limits within which the power of <ORG> to refuse to grant or renew a licence is to be exercised.
+RatioOfTheDecision	This situation is clearly seen from the fact that though section 9 of the Regulation authorises <ORG> to cancel a licence-presumably both permanent and temporary-if the licensee is convicted of contravention of any of the provisions of the Regulation, the power of refusal under section 3 is not limited or circumscribed by any such provision or any other criterion.
+RatioOfTheDecision	The power of refusal is thus left entirely unguided and untrammelled.
+RatioOfTheDecision	How arbitrary the exercise of such unguided power can be is seen from the fact that the Executive C ommittee not only refused to renew the appellant's licence but also directed him to remove his property by the end of July 1960 and imposed a fine if he failed to do so.
+RatioOfTheDecision	It is true that <ORG> in the present case has given the reason for refusal to renew the licence, viz., that the number of licensees had reached the maximum.
+RatioOfTheDecision	But the order does not state what that maximum is or who prescribed such a number and under what authority or what is the criterion for fixing any particular maximum.
+RatioOfTheDecision	Indeed there is nothing in the Regulation empowering the <ORG> much less <ORG> to lay down any such maximum number nor does the Regulation prescribe any principles on which such a maximum number is to be fixed.
+RatioOfTheDecision	<ORG> can at any time and on its whim arbitrarily fix a maximum number and refuse to grant or renew a licence.
+RatioOfTheDecision	Such a maximum number may also vary from time to time.
+RatioOfTheDecision	The result would be to prevent any newcomer to trade in the District or to destroy the trade of  a licensee carrying on his business under a licence.
+RatioOfTheDecision	At the end of each year every nontribal trader would be at the mercy of <ORG> and would not even know whether he would be permitted to continue his trade.
+RatioOfTheDecision	Even the Rules made under section 6 do not lay down any principles or standards.
+RatioOfTheDecision	Rule 7 is couched in general terms and provides that <ORG> may refuse to renew any licence granted to a non-tribal trader after the commencement of the Regulation.
+RatioOfTheDecision	Rule 4 empowers the <ORG> to make such enquiry as it deems proper into the antecedents and character of any new applicant and then reject or accept his application.
+RatioOfTheDecision	The Rule, however, does not lay down any standards on the basis of which the <ORG> has to decide whether the antecedents or the character are such that the application should be rejected.
+RatioOfTheDecision	The <ORG> therefore can in any given case reject an application merely stating that the antecedents of an applicant are not good or proper without the applicant knowing w hat standards of character or antecedents he has to conform to.
+RatioOfTheDecision	1021  Even though it may perhaps be said that the Sixth Schedule to the Constitution shows a policy to safeguard the tribals from being exploited and the Regulation was enacted in exercise of the power conferred thereunder that is not enough to save the restriction from the vice of being unreasonable.
+RatioOfTheDecision	It provides no principles on which such a policy is to be implemented.
+RatioOfTheDecision	As already stated, the Regulation contains no principle or criterion on which <ORG> should grant or refuse to grant a licence or its renewal.
+RatioOfTheDecision	It does not provide any machinery under which an applicant can show cause why Ms application for a licence or its renewal should not be rejected.
+RatioOfTheDecision	It does not also provide any superior authority before whom such an applicant can establish that the refusal by the <ORG> is arbitrary or without any proper cause.
+RatioOfTheDecision	Indeed the Regulation does not contain any provision laying down what is and what is not a proper cause for ref usal.
+RatioOfTheDecision	Equally it does not show any guiding criterion on which the <ORG> should decide to grant or refuse a licence or its renewal.
+RatioOfTheDecision	The Regulation contains no provisions on the basis of which an applicant would know what he has to satisfy in order to entitle him to a licence.
+RatioOfTheDecision	The power to grant or not to grant is thus entirely unrestrained and unguided.
+RatioOfTheDecision	The Regulation leaves a trader not only at the mercy of the <ORG> but also without any remedy.
+RatioOfTheDecision	Therefore even if the Sixth Schedule can be said to contain a policy and the Regulation may be said to have been enacted in pursuance of such a policy the analysis of the Regulation shows that that is not sufficient.
+RatioOfTheDecision	Even if a statute lays down a policy it is conceivable that its implementation may be left in such an arbitrary manner that the statute providing for such implementation would amount to an unreasonable restriction.
+RatioOfTheDecision	A provision which leaves an unbridled power to an authority cannot in any sense be characterised as reasonable.
+RatioOfTheDecision	Section 3 of the Regul ation is one such provision and is therefore liable to be struck down as violative of Art.
+Precedent	19(1)(g).
+RulingByLowerCourt	For the reasons aforesaid, we would declare that section 3 of the Regulation is an unreasonable restriction on the fundamental right guaranteed under Art.
+RulingByLowerCourt	19(1)(g) and therefore void.
+RulingByLowerCourt	The said order dated July 11, 1960 having been made under such a void provision is illegal and void.
+RulingByLowerCourt	We would therefore set aside the said order as having been made under an illegal provision of law and allow the appeal with costs.
+Precedent	<NAME>, J.
+Fact	The appellant is a non-tribal trader.
+Fact	Since 1957 he carried on business at Aijal in Mizo District under temporary licenses issued on behalf of <ORG>.
+Fact	The license was renewed from time to time.
+Fact	In 1959, a license valid till December 31, 1959 was issued, and at the appellant's request, the period of the license was extended from time to time up to May 3 1, 1960.
+Fact	By his letter dated July 11, 1960, the Revenue Officer, <ORG> informed the appellant that the Execu tive Committee of <ORG> had decided that his license could not be extended as the number of the license- holders had reached its maximum limit, and the appellant was directed to shift all his properties outside the Mizo District within July 1960, failing which a fine of Rs.
+Fact	400/- would be imposed upon him.
+Fact	The appellant filed a writ application in <ORG> asking for the issue of a writ setting aside this order and directing <ORG> to renew his license.
+Fact	<ORG> quashed the order in so far as it imposed a fine of Rs.
+Fact	500/-, and directed the appellant to remove his goods.
+Fact	<ORG>, however, maintained the order in so far as it refused to renew the license.
+Fact	The appellant now appeals to this Court by special leave.
+Fact	The Mizo District formerly known as the Lushai Hills District is a tribal area in Assam, and is one of the autonomous districts constituted by paragraph 1 of the Sixth Schedule to the Constitution of India.
+Fact	Paragraph 10 of the Sixth  Schedule gives power to <ORG> to make regulations for the control of money lending and trading by non-tribals.
+Fact	The material part of paragraph 10 is in these terms;  "10.
+Fact	Power of <ORG> to make regulations for the control of money-lending and trading by non-tribals.-  (1)The <ORG> of an autonomous district may make regulations for the regulation and control of money-lending or trading within the district by persons other than Scheduled Tribes resident in the district.
+Fact	(2)In particular and without prejudice to the generality of the foregoing power, such regulations may.
+Fact	(d)Prescribe that no person who is not a member of the Scheduled Tribes resident in the district shall carry on wholesale or retail business in any commodity except under a licence issued in that behalf by <ORG> :  Provided that no regulations may be made under this paragraph unless they are passed by a majority of not less than three-fourths of the total membership of <ORG> :  Provided further that it shall not be competent under any such.
+Fact	regulations to refuse the grant of a licence to a money- lender or a trader who has "been carrying on business within the district since before the time of the making of such regulations."
+Fact	On March 17, 1953 <ORG> with the assent of the Governor of Assam and in exercise of its powers under paragraph 10 of the Sixth Schedule to the Constitution made and promulgated the Lushai Hills District (Trading by non- Tribals) Regulation, 1953 (Regulation No.
+Fact	2 of 1953).
+Fact	Section 3 of the Regulation reads:  "3.
+Fact	No person, other than a Tribal resident in the District shall carry on wholesale or retail business in any commodities in this District except under and in accordance with the -terms of a license issued in that behalf by <ORG> under the provisions of this Regulation:  Provided that such a license shall not be refused to a person who has been carrying on such business within the district since before the comme ncement of this Regulation : Provided further that if such a license is refused, the grounds of refusal shall be recorded in writing by <ORG>."
+Fact	The contention of the appellant is that s. 3 of the Regulation gives to <ORG> an arbitrary power of issuing and withholding licenses to a non-tribal and is repugnant to Arts.
+Fact	14 and 19(1)(g) of the Constitution.
+Fact	<ORG> held that the section is not violative of Art.
+Fact	14.
+Fact	The point that the section infringes Art.
+Fact	19(1)(g) was not argued in <ORG>.
+Fact	However, on the merits the attack on s. 3 based on both Arts.
+Fact	14 and 19(1)(g) must fail.
+Precedent	Paragraph 10(2)(d) of the Sixth Schedule to the Constitution of India specifically empowers <ORG> of an autonomous district to make regulations prescribing that a nontribal resident of the District shall not carry on business in any commodity except under a license issued in that behalf by <ORG>.
+Precedent	The Sixth Schedule to the Constitution lays down the policy for the  administration of the tribal areas in the <ORG> of Assam.
+RatioOfTheDecision	Paragraph 10 is an integral part of this Schedule.
+RatioOfTheDecision	This paragraph is not violative of Arts.
+RatioOfTheDecision	14 and 19(1)(g), nor is it so contended.
+RatioOfTheDecision	Section 3 of the Regulation is in strict conformity with this paragraph.
+RatioOfTheDecision	If paragraph 10 of the Sixth Schedule cannot be regarded as violative of any provision in the Constitution, it is impossible to say that s. 3 of the Regulation which is in strict conformity with paragraph 10 is violative of Arts.
+Precedent	14 and 19 (1)(g) of the Constitution.
+Precedent	This conclusion is sufficient to dispose of the argument based on Arts.
+Precedent	14 and 19(1)(g).
+Precedent	The attack based on Arts.
+Precedent	14 and 19(1)(g) must fail on other grounds also.
+Precedent	For economic and political reasons, our Constitution has taken special care of the Scheduled Tribes.
+RatioOfTheDecision	One of the guiding principles of <ORG> policy embodied in Art.
+RatioOfTheDecision	46 of the Constitution is that the <ORG> shall promote with special care the edu-  1024  cational and economic interests of the weaker sections of the people and,  in particular, the Scheduled Tribes, and shall protect them from social injustice and all forms of exploitation.
+RatioOfTheDecision	Pursuant to this policy, the Constitution itself has made numerous provisions for the protection of the Scheduled Tribes.
+RatioOfTheDecision	Paragraph 10(2)(d) of the Sixth Schedule is one of such provisions.
+RatioOfTheDecision	Section 3 of the Regulation has been enacted pursuant to the power conferred by paragraph 10(2)(d)of the Sixth Schedule with the object of preventing exploitation of the Scheduled Tribes by non- tribal traders and protecting the interests of the Scheduled Tribes.
+RatioOfTheDecision	The licensing power is vested in <ORG> which is a high ranking body with legislative, judicial and executive functions.
+RatioOfTheDecision	It is apparent on the face of the Constitution of which paragraph 10(2)(d) of the Sixth Schedule forms an intergral part and on a fair reading of s. 3 of the Regulation read in the light of paragraph 10(2)(d) that the protection of the interests of the Scheduled Tribes is to be the guiding policy regulating the exercise  of the discretion of <ORG> in the matter of granting or withholding trading licenses to non- tribal traders.
+RatioOfTheDecision	It is left to <ORG> to decide in each individual case whether the grant of the license would best promote the interests of the Scheduled Tribes.
+RatioOfTheDecision	The restriction imposed by s. 3 on the right of a non-tribal to carry on business in a tribal area is not arbitrary or unreasonable and is not violative of Arts.
+RatioOfTheDecision	14 and 19(1)(g).
+RatioOfTheDecision	Another contention of the appellant is that the licensing authority could refuse to issue license only if it found that the appellant did not show good conduct and behaviour while in the Mizo Hills, as stated in condition No.
+RatioOfTheDecision	1 of the temporary trading license.
+RatioOfTheDecision	I am unable to accept this contention.
+RatioOfTheDecision	Rules 2 (a), 4, 5 and 7 of the Lushai Hills District (Trading by non-Tribals) Rules, 1954 made by the Executive Committee of <ORG> with the previous approval of the the Governor of Assam in exercise of the powers conferred by s. 6 of the Regul ation are as follows :  "2.
+Fact	Definition.-In these rules, unless there is anything repugnant or the context otherwise requires :-  (a)'Executive Committee' means <ORG> constituted under the Assam Autonomous Districts (Constitution of the District Councils) Rules, 1951.
+Fact	"4.
+Statute	Verification of applicant's antecedents and character.--The Executive Committee may after making such enquiries as it deems proper into the antecedents and character of any new applicant, reject or accept any application,   5.Grant of License.-(1) When application is accepted a license to trade shall be issued to the applicant (hereinafter called 'Licensed Trader') after receipt of the fee as specified in these rules.
+Statute	Temporary trade License.-(2)(a).
+Statute	The terms and conditions of the license as entered on the face of the license as in Appendix 'A' shall be strictly adhered to by the licensee, and any contravention thereof shall be punishable under the law for the time being in force.
+Statute	(b) No temporary License shall be granted for a period exceeding one year at any one time.
+Statute	7.Provision for refusal to renew permanent license.-Subject to the provisions of section 3 of the Lushai Hills District (Trading by Non-Tribals) Regulation, 1953, <ORG> may refuse to renew any license granted to the Non-Tribal Traders after the commencement of the Regulation."
+RatioOfTheDecision	The standard terms and conditions of the temporary license in Form 'T' are as follows : "1.
+RatioOfTheDecision	This license is cancellable or renewable by <ORG> as and when thought fit contingent on good conduct and behaviour while in Lushai Hills.
+RatioOfTheDecision	2.
+RatioOfTheDecision	Trading should be done on cash basis only.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The License holder should report without fail to <ORG> on the expiry of the validity of this license, and submit this license."
+RatioOfTheDecision	<ORG> is constituted under r. 19 of the Assam Autonomous District (Constitution of District Councils) Rules, 1951 framed by the Governor of Assam in exe rcise of the powers conferred by sub-paragraph (6) of paragraph 2 of the Sixth Schedule to the Constitution, and is vested, inter alia, with the executive functions of <ORG>.
+RatioOfTheDecision	The validity of the Rules is not in issue.
+RatioOfTheDecision	It is not contended that the Rules are ultra vires the Regulation.
+RatioOfTheDecision	The discretion vested in the licensing authority by Rules 4, 5 and 7 is not restricted by condition No.
+RatioOfTheDecision	1 of the license.
+RatioOfTheDecision	The licensing authority may refuse to renew or to issue the license if it finds that such a course would promote the interests of the Scheduled Tribes.
+Fact	In the present case, <ORG> found that the maximum limit of non- tribal traders had been reached, and in the interest of the tribals it was not desirable to issue license to more non-tribal traders.
+RatioOfTheDecision	It is neither alleged nor shown that <ORG> discriminated between similarly situated persons.
+RulingByPresentCourt	In the result, the appeal is dismissed.
+RulingByPresentCourt	ORDER In accordance with the Opinion of the majority, the appeal is allowed with  costs.
+RulingByPresentCourt	Y.P.
+RulingByPresentCourt	M17Sup.cl/66-2,500-14-6-67-GIPF.
+RulingByPresentCourt	1

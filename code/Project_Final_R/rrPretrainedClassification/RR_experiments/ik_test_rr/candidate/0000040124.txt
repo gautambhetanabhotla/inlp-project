@@ -1,0 +1,58 @@
+Fact	JUDGMENT G.G.
+Fact	<NAME>, J.
+Argument	1.
+Argument	By this reference under Section 256(1) of the Income-tax Act, 1961 (hereinafter referred to as "the Act"), <ORG>, <ORG>, has referred the following questions of law to this court for its opinion :  "(1) Whether, on the facts and in the circumstances of the case, the <ORG> was right in upholding the disallowance of Rs.
+Argument	13,714, being penalty for late payment of provident fund ?
+Argument	(2) Whether, on the facts and in the circumstances of the case, the <ORG> was right in disallowing a sum of Rs.
+Argument	25,960 being penalties of sales tax for filing the delayed returns, which were in the nature of interest ?
+Argument	(3) Whether, on the facts and in the circumstances of the case, the <ORG> was right in upholding the disallowance of Rs.
+Argument	11,973, being the payment of penalty on estate duty ?
+Argument	(4) Whether, on the facts and in the circumstances of the case, the <ORG> was justified in upholding the disallowance of Rs.
+Argument	55,679, being the bank charges debited by the b ank to the assessee's account during the relevant previous year ?"
+Argument	2.
+Argument	The material facts giving rise to this reference, briefly, are as follows:  The assessee is a public limited company.
+Fact	The assessment year in question is 1978-79.
+Fact	During that year, the assessee had to pay certain amounts on account of penalties imposed on the assessee due to delay in payment of provident fund, delay in filing the return of sales tax and delay in payment of excise duty.
+Argument	The assessee contended before the <ORG>ting Assistant Commissioner that the amount of penalty paid by the assessee as aforesaid was allowable expenditure.
+Precedent	The <ORG>ting Assistant Commissioner rejected that claim and also disallowed the claim for bank charges amounting to Rs.
+Precedent	55,679 debited by the bank to the assessee's account during the relevant accounting year.
+Precedent	The <ORG>ting Assistant Commissioner held that these charges related to earlier years and hence the claim of the assessee in that behalf could not be allowed.
+Precedent	On appeal, the findings of the <ORG> ting Assistant Commissioner were upheld by the Commissioner of Income-tax (Appeals) and the <ORG>.
+Precedent	Hence, at the instance of the assessee, the aforesaid questions of law have been referred to this court for its opinion.
+Precedent	3.
+Precedent	As regards the first three questions, the matter, in our opinion, is covered by the decision of this court in <CITATION_1418805> .
+Precedent	135 ITR 221.
+Precedent	Following the decision of <ORG> in <CITATION_1177726>  41 ITR 350, <ORG> of this court has held in <ORG> case  135 ITR 221, that penalties imposed on an assessee for contravention of statutory provisions could not be held to be expenditure wholly and exclusively laid out for the purpose of the business.
+Precedent	Learned counsel for the assessee was unable to point out any reason for taking a view different from that taken by this court in <ORG> case  135 ITR 221.
+Precedent	Following that decision, therefore, our answers to questions Nos.
+RatioOfTheDecision	(1), (2) and (3) referred to this court  are in the affirmative and against the assessee.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Before we proceed to answer question No.
+RatioOfTheDecision	(4), it is necessary to refer to certain facts which are relevant.
+Fact	The assessee had a cash credit (hypothecation) account with <ORG>.
+Fact	In accordance with the terms and conditions of the agreement entered into by the assessee with the bank, the assessee had to bear the expenditure on salary of the godown-keeper and watchman employed by the bank.
+Fact	On March 11, 1978, the bank informed the assessee that the assessee had become liable to pay an amount of Rs.
+Fact	63,813.46 incurred by the bank in connection with the salary of the godown-keeper and watchman from October, 1973, to December, 1977, and that amount was accordingly debited to the cash credit account of the assessee.
+Fact	Out of these charges, the amount of Rs.
+Fact	55,679 pertaining to the years earlier to the assessment year in question was disallowed.
+Fact	On behalf of the <ORG>, it was contended by <NAME> that the original agreement entered into by the  assessee with the bank was not produced by the assessee, But from a perusal of the order of the <ORG>, it is clear that it was not disputed before the <ORG> on behalf of the <ORG> that the bank had, during the assessment year in question, debited the amount of Rs.
+Fact	63,813.46 which included the amount of Rs.
+Fact	55,679 pertaining to earlier years to the cash credit account of the assessee on account of salary paid by the bank to the godown-keeper and the watchman and that due to heavy work, the payment could not be debited by the bank during the earlier years.
+RulingByLowerCourt	The contention advanced on behalf of the <ORG> before the <ORG> was that the assessee was maintaining accounts on mercantile basis, that the salary of the godown-keeper and the watchman had become payable at the end of the month and hence the claim on that account should have been made by the assessee in the month or year when the salary had become payable.
+RulingByLowerCourt	Upholding this contention, the <ORG> observed as follows :  "The salary to the godown- keeper and watchman became payable in the month in which the work was done.
+RulingByLowerCourt	Under the circumstances, such salary should have been claimed in the year when the services were rendered by those employees.
+Fact	Simply because debit entries by the bank could not be made in those years, the claim cannot be allowed in the year of account."
+Argument	5.
+Argument	It is thus clear that the fact that the assessee had a cash credit account with <ORG>, that the goods were pledged with the bank to secure that account and that the bank had debited the account in question to the cash credit account of the assessee during the assessment year in question, were not in dispute before the <ORG>.
+RulingByLowerCourt	The <ORG> observed that no material was produced before it to show as to how the said salary was allowable in the year of account.
+RulingByLowerCourt	In our opinion, in view of the fact that the amount of salary to the godown-keeper and watchman was paid by the bank which sought to recover that amount from the assessee during the assessment year in questio n, by debiting it to the cash credit account of the assessee, the <ORG> was not justified in holding that claim for payment of salary should have been made in the year when the services were rendered by the godown-keeper and the watchman.
+RulingByLowerCourt	The <ORG> erred in assuming that the godown-keeper and the watchman employed by the bank for preservation of goods pledged by the assessee with the bank were employees of the assessee.
+RulingByLowerCourt	The <ORG> failed to appreciate that what was claimed by the assessee was not salary paid to its employees, but the amount recovered by the bank from the assessee during the assessment year on account of expenditure incurred by the bank for the preservation of goods pledged with the bank.
+RulingByLowerCourt	The bank was entitled to recover that amount from the assessee and was also entitled to retain the goods pledged for expenses incurred by the bank in respect of the possession or for the preservation of the goods pledged, as provided by Section 173 of the Contract Act.
+RulingByLowerCourt	In the circumstances of the case , therefore, the <ORG>, in our opinion, was not justified in upholding the disallowance of Rs.
+RulingByLowerCourt	55,679, being the amount of bank charges debited by the bank to the assessee's account during the relevant previous year.
+RatioOfTheDecision	Our answer to question No.
+RatioOfTheDecision	(4) referred to this court, is, therefore, in the negative and in favour of the assessee.
+RatioOfTheDecision	6.
+RulingByPresentCourt	Reference answered accordingly.
+RulingByPresentCourt	In the circumstances of the case, parties shall bear their own costs of this reference.

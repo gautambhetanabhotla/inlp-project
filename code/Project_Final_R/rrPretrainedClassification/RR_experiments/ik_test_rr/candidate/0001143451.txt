@@ -1,0 +1,22 @@
+Fact	JUDGMENT  1.
+Fact	No doubt in <NAME> v. <ORG> All.
+Precedent	452 OLDFIELD J., observed that the word representative in Section 244, Civil Procedure Code, has no more extended meaning than heir, devisee or executor.
+Precedent	But in <NAME> v. <NAME> 16 All.
+Precedent	483 EDGE, C.J., and <ORG>, give strong reasons for holding that the term in question has in the contest a wider signification.
+Precedent	Accordingly when a person purchased mortgaged property from the mortgagor after a decree had been obtained against him by the mortgagee for the enforcement of the latter's right such purchaser was held by the Calcutta and Allahabad Courts to be within the meaning of Section 244 (a) ' representative ' of the mortgagor, defendant <NAME> v. <NAME> 16 CAL.
+Precedent	355 and <NAME> v. Ulfat Ali I.L.R.
+Precedent	16 All.
+Precedent	284.
+Precedent	2.
+Fact	This being so, it is difficult to distinguish on principle the case of the respondent here from the decisions just cited.
+Fact	For, though, in the present instance, the appellant' s decree against the <ORG>, in execution of which the questions in dispute have arisen, was for money only, yet as at the time the respondent obtained from the <ORG> the taluk on mortgage, the property had been attached on account of the appellants' decree; the respondent who holds the mortgage which is subject to the said lien, must be held to stand in a position substantially similar to that occupied by the purchasers of the equity of redemption after the mortgage decrees in the Calcutta and Allahabad cases referred to above.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The contention, therefore, that the respondent is not a representative of the judgment-debtor, the <ORG>, within the meaning of Section 244 and the preliminary objection founded thereon that no appeal lies are, in our opinion, unsustainable.
+RatioOfTheDecision	4.
+Fact	The next question argued is whether <ORG> had power to sanction agreements of the kind referred to in Section 257 (a) of the Civil Procedure Code.
+RulingByLowerCourt	Clearly it had not, inasmuch as it was not the <ORG> which passed the d ecree.
+RulingByLowerCourt	The words of the Section absolutely confine the power to grant the sanction to Courts which pass the decree.
+RulingByLowerCourt	5.
+RulingByLowerCourt	The view taken by the District Judge on this point is right.
+RulingByLowerCourt	6.
+RulingByPresentCourt	The appeal fails and is dismissed with costs.

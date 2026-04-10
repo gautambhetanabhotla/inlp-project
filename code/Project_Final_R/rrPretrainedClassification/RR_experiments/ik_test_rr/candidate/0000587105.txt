@@ -1,0 +1,138 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This suit was brought to recover possession of certain properties which the plaintiff alleged to be partly brohmuttur and partly debuttur, the latter being dedicated to certain deities of the names of <NAME>, &c, and also for the possession of the deities themselves from the hands of the first defendant, <NAME>.
+Fact	Although the plaintiff described a part of the claim as her own brohmuttur properties, which have devolved upon her by right of inheritance, yet it appears from the judgment of the Court below that it was admitted by both parties that the whole of the claim consisted of properties which, without a single exception, belong to the aforesaid deities.
+RulingByLowerCourt	The witnesses of the plaintiff also described them as debutter properties belonging to those deities.
+Fact	We shall, therefore, consider that the plaintiff in the Court below abandoned her claim upon her own title, and was satisfied to rest the whole suit upon her right to recover possession of the disputed properties  as shebait, or manager, on behalf of the aforesaid idols.
+Fact	2.
+Fact	It was alleged that the properties were in the possession of one <NAME> as shebait of those idols; that <NAME> having no son of his body, took the plaintiff's <NAME>, <NAME>, in adoption, and died in the month of Kartick 1266 (October--November, 1859); the plaintiff's <NAME> being then a minor, her mother-in-law took possession of the properties on behalf of her minor son, the right of shebaitship having devolved upon him in the same way as any other property of the deceased would have devolved upon him by right of inheritance.
+Fact	The plaintiff's case was that the idols were established by a remote ancestor of her <NAME>, and the right of shebait had devolved from one person to another following the same rule of succession as that which governs the succession of an ordinary heritable property.
+Fact	3.
+Fact	It was further alleged that her mother-in-law thus remained in possession of the properties in suit on b ehalf of her minor son up to the 24th Bhadro, 1270 (8th September, 1863), when her <NAME> died and the right of shebait devolved upon her as his widow.
+Fact	But she being then a minor, her mother-in-law managed the sbeba for her till the time of the death of her mother-in-law, which event occurred in the month of Falgoon (March, 1864) of the same year.
+Fact	4.
+Fact	Upon the death of her mother-in-law the defendant No.
+Fact	1, the <NAME> of her <NAME>, attempted to take possession of the disputed properties along with the <NAME>.
+Fact	He was opposed on her behalf by her maternal uncle and <NAME>, the second and third defendants.
+Fact	5.
+Fact	At this time, there having been a number of documents relating to some of the <NAME> properties in <ORG> of the district, the first defendant, as the shebait of the idols, applied to get them back.
+Fact	This application was opposed by a counter-petition by the plaintiff's <NAME> on behalf of the plaintiff.
+Fact	While this matter was pending decision by the Income Tax authorities, a compromise  was effected between the plaintiff's <NAME> and maternal uncle on her behalf on the one side, and defendant No.
+Fact	1 on the other.
+Fact	By this compromise a portion of the disputed properties, yielding an annual profit of Rs.
+Fact	3,000, was set apart and made over to the plaintiff for the purpose of defraying the expenses of morning sheba of the deities, which by the terms of the ruffanamah she would be hound to perform; the remaining properties were to he in the possession of defendant No.
+Fact	1, who was to be considered the chief shebait.
+Fact	6.
+Fact	The plaintiff, on attaining majority, demanded from the first defendant restoration of the properties left in his possession, and on his refusal to restore them the present suit has been brought.
+Fact	7.
+Fact	The first defendant alleged that the plaintiff's suit was barred by the law of limitation, and that the plaintiff's <NAME>'s adoption was not valid according to the Hindu law; first, because he was the eldest son of the defendant; secondly, because, the relationship between him and the a doptive <NAME> was such as would vender an adoption invalid in him (law?
+Fact	); thirdly, because the necessary ceremonies of adoption were not duly performed; and fourthly, because the adoptive <NAME> was afflicted with certain incurable diseases which rendered his body impure, and made him incompetent to perform the necessary ceremonies of adoption.
+Fact	8.
+Fact	The defendant further alleged that the plaintiff, being a female, was not competent to perform those duties which ordinarily devolve upon a shebait; and that the succession of a female to shebaitship was opposed to the custom of their family; that the plaintiff, therefore, being not entitled to succeed as a shebait, he, the defendant, as the nearest male cognate relation of the last shebait, was entitled to succeed; that originally this debsheba was founded by an ancestor of the present <NAME> <NAME>, and that the title of a shebait was not complete unless confirmed in his appointment by the <NAME> of <NAME> for the time being; that <NAME>,  the present <NAME>, had made the necessary confirmation in his favour.
+Fact	<NAME> Nilmoney Singh Deo, who has been added as a defendant, put in a written statement in support of the defendant's allegations.
+Fact	9.
+Fact	The lower Court overruled the plea of limitation, finding that the present suit had been brought within twelve years from the death of the last shebait, who was admittedly in possession, and through whom the plaintiff professes to make her title.
+Fact	10.
+Argument	The lower Court further found that the plaintiff's <NAME> was duly adopted by <NAME>, and that the necessary ceremonies of adoption were performed; but that the plaintiff's <NAME> was the eldest son of <NAME>, and that, according to the Hindi; law, the adoption of the eldest son being not legal, his adoption by <NAME> was invalid.
+Fact	As regards the rule of succession to this estate, the lower Court found that it was admittedly a debuttur property; that the ordinary law of inheritance did not regulate the succession of one shebait to  another; that the object for which the sheba was established, and the duties devolving upon the shebait, wore such that a Hindu widow under the law would be incompetent to fulfil; that the ruffanamah, far from being injurious, was highly benedficial to the interests of the plaintiff; that although the defendant had in a petition admitted that the plaintiff's <NAME> was the adopted son, yet he was not estopped from questioning the validity of the adoption.
+Fact	11.
+Fact	Upon these grounds the lower Court dismissed the plaintiff's suit with costs.
+Fact	12.
+Fact	In appeal the first question raised before us is, whether the decision of the lower Court upon the validity of the plaintiff's <NAME>'s adoption is correct in law, or not.
+Argument	13.
+Argument	That Dattaka Chandrika and <ORG> are works of paramount authority on the Hindu law of adoption, is admitted on all hands.
+Precedent	Referring to them we find the contention of the appellant is fully borne out.
+Precedent	Paras.
+Precedent	29 and 30, Section 1 of Dattaka Chandrika are to the following effect: "29.
+Precedent	In  answer to the question by whom is a son to be given, <NAME> declares: 'By no man having an only son is the gift of a son to be ever made.
+Precedent	By a man having several sons such gift is to be anxiously made.'
+Precedent	30.
+Precedent	The author, apprehending an extinction of lineage in case of the gift of a son by one even having two sons, says--By one having several sons.'"
+Precedent	14.
+Precedent	On the same subject the following rules are laid down in Dattaka Mimansa (Para 1.
+Precedent	Section iv.
+Precedent	); "1.
+Precedent	Next, in reply to the question as to the qualification of the person to be affiliated, <NAME> declares: 'By no man having an only son (ekaputra) is the gift of a son to be ever made.
+Precedent	By a man having several sons (bahuputra) such gift is to be made on account of difficulty (prayatnatos).'
+Precedent	2.
+Precedent	Pie who has one son only, is ekaputra, or one having an only son; by such a one the gift of that son must not be made; for a text of Vasishtha declares, 'an only son let no man.
+Precedent	give,' Ac.
+RatioOfTheDecision	3.
+RatioOfTheDecision	Since the word gift' means the establishing another's property after the previous  extinction of one's own, and another's property cannot be established without his acceptance, the author (<NAME>) implies this also in his text in question.
+RatioOfTheDecision	Therefore, prohibition likewise against acceptance is established by that very text.
+RatioOfTheDecision	Accordingly <NAME>: 'An only son let no man give or accept,' &c., &c. 4.
+RatioOfTheDecision	To this he subjoins a reason, 'for lie is (destined) to continue the line of his ancestors.'
+RatioOfTheDecision	His being intended for lineage, being thus ordained, in the gift of an only son, the offence of extinction of lineage is implied.
+RatioOfTheDecision	Now this is incurred by both the giver and adopter also.
+RatioOfTheDecision	For the (reason in question) is subjoined after both (verbs, viz., 'give and accept').
+RatioOfTheDecision	5.
+RatioOfTheDecision	As for another text of recorded law: 'In instruction, the <NAME> is absolute over a son and sons' wives, but not so with respect to the son in sale and gift;' and the text of the holy saint, 'Except a wife and a son other things may be given.'
+RatioOfTheDecision	These texts regard the case of an only son.
+RatioOfTheDecision	6.
+RatioOfTheDecision	('Ever') in a time of calamity, accordingly,  <NAME> says: 'A deposit, a son, and a wife, the whole estate of a man who has issue living, the sages have declared unalienable, even by a man oppressed by grievous calamities, although the property be solely that of the man himself.'
+RatioOfTheDecision	This text also regards an only son, for it is declaratory of the same import as the texts of <NAME> and <NAME>.
+RatioOfTheDecision	7.
+Precedent	Next, the author replies to the question--By whom is a son to be given?
+Precedent	By one having several sons.'
+Precedent	He who has several sons, is 'bahuputra,' or 'one having several sons.'
+Precedent	8.
+Precedent	'By no man having an only son.'
+RatioOfTheDecision	From this prohibition, the gift by one having two sons being inferrible.
+Precedent	This part of the text ('by one having several sons, &c.') is subjoined to prohibit the same by one having two sons also; for the speech of <NAME> to <NAME> expresses : He who has only one son is considered by me as one destitute of male issue,' oh !
+Precedent	descendant of <NAME>, one who has only one eye is as one destitute of both; should his only eye he lost he is absolutely blind."
+RatioOfTheDecision	15.
+RatioOfTheDecision	From  these passages it is clear that the gift and acceptance of an only son are strictly prohibited, but there is no prohibition against the gift of the eldest son.
+RatioOfTheDecision	On the other hand, the text--"by a man having several sons such gift is to be anxiously made,"--clearly implies the validity of the adoption of the oldest out of several sons.
+RatioOfTheDecision	16.
+RatioOfTheDecision	The only authority relied upon by the other side is to be found in paragraphs II and 12 of Section 11, Chapter I, Mitakshara, which are to the following effect: '11.
+RatioOfTheDecision	So an only son must not be given (nor accepted,) for Vasishfcha ordains 'Let no man give or accept an only son.'
+RatioOfTheDecision	12.
+RatioOfTheDecision	Nor, though a numerous progeny exist, should an oldest son be given; for he chiefly fulfils the office of a son as is shown by the following text: 'By the eldest son, as soon as born, a man becomes the <NAME> of male issue.'"
+RatioOfTheDecision	17.
+RatioOfTheDecision	Comparing these paragraphs with the rules laid down in Dattaka Chandrika and <ORG> quoted above, we do not think that paragraph 12 of Chapter I, Section 11 of  the Mitakshara ought to be construed so as to render an adoption of the eldest son out of several sons invalid in law.
+RatioOfTheDecision	It only repeats a doctrine well established amongst the Hindu lawyers that amongst several sons of a Hindu <NAME>, the eldest born occupies the first rank.
+RatioOfTheDecision	The prohibition is only admonitory, if I may so express myself, and not mandatory : that this is the correct construction of the paragraph in question is also clear from the preceding verse, There the prohibition is clear, the text quoted distinctly declaring--"Let no man give or accept an only son."
+RatioOfTheDecision	It is not so in paragraph 12, which, on the other hand, has a tendency to indicate that the prohibition as to the gift of the eldest son is not intended to be regarded as a legal prohibition.
+Precedent	18.
+Precedent	Only two decided cases from Bengal have been quoted before us--<NAME> v. <NAME>'s Rep. 260 and <NAME> v. <NAME> 2 S.D.A.
+Precedent	1859 p. 1556; p. see 1560.--the former supporting the contention of the  appellant, and the latter taking an opposite view.
+RatioOfTheDecision	For the reasons given above, we are inclined to follow the <ORG> ruling, which, as far as we have been able to ascertain, is fully supported by decisions of the Bombay and Madras Courts.
+RatioOfTheDecision	We are, therefore, of opinion that the lower Court was not right in holding that the adoption of the plaintiff's <NAME> was invalid by reason of his having been the eldest son of his natural <NAME>.
+RatioOfTheDecision	19.
+RatioOfTheDecision	Another contention has boon made in this Court on behalf of the respondent regarding the invalidity of the plaintiff's <NAME>'s adoption, which was not raised in the Court below.
+RatioOfTheDecision	It has been argued that at the time of the adoption, the plaintiff's <NAME> was one of two sons of his natural <NAME>, and that the texts from <NAME> and <NAME>, quoted above, established that an adoption under such circumstances is invalid in law.
+RatioOfTheDecision	20.
+RatioOfTheDecision	We do not think that we ought to entertain this objection.
+RatioOfTheDecision	This question of law can only arise upon the establishment of a partic ular fact, which was neither alleged in the Court below nor any issue raised upon it.
+Precedent	We, therefore, abstain from discussing it any further.
+Precedent	21.
+Precedent	Then we come to the most important question in the case,--namely, who, upon the death of the plaintiff's <NAME>, was entitled to succeed as shebait to the <ORG> properties in dispute in this case.
+Precedent	22.
+RatioOfTheDecision	There are certain peculiarities in the history of this office which render it necessary to approach the consideration of this question with very great caution.
+RatioOfTheDecision	But finding as we do the defendant <NAME> in possession of the office, and the objects of the endowment being carried out under an arrangement undoubtedly made in good faith by the members of the family for that purpose, we feel the greatest unwillingness to disturb that arrangement.
+RatioOfTheDecision	Without, therefore, saying that there is anything in the nature of this office which would prevent its being confined to the members of a particular family and being regulated by the ordinary rules of inheritance, and without a ccepting the view taken by the Subordinate Judge that females would by reason of their sex be excluded from the succession, we still think that the plaintiff ought to make out clearly that (as she asserts) she is entitled as heiress of her <NAME> to succeed to the office, and to turn out the defendant <NAME>, The presumption in her favour from her <NAME> having boon in possession would not apply in this case in the same way and with the same force as if the question were--who was to succeed to her <NAME>'s private estate.
+RatioOfTheDecision	There the ordinary rule of inheritance must prevail unless displaced by some special rule.
+RatioOfTheDecision	Here the very question at issue is whether the rule of inheritance prevails at all.
+RatioOfTheDecision	It is, therefore, necessary to look into the history of the endowment since its establishment to see how the office of shebait has in fact devolved from one holder to the other.
+RatioOfTheDecision	We may say at once that there is, in our opinion, no satisfactory evidence before is that the appointments.
+RatioOfTheDecision	Have been made by the <NAME> of P auchkote.
+RatioOfTheDecision	The attempt, to base the claim of the defendant <NAME> to be shebait upon his appointment by the <NAME>, and the claim of the <NAME> to the right to appoint, have therefore failed, Then what is the evidence that the office descends in the family of the plaintiff's <NAME> according to the rules of inheritance under Hindu law?
+Fact	The first shebait, <NAME>, left only a daughter, <NAME>, who married, and the issue was again an only daughter, <NAME>.
+Fact	This daughter also married, and a third time the only issue was a daughter, <NAME>, And, according to the plaintiffs case, this curious coincidence was again repeated by <NAME> having an only daughter called <NAME>, who married <NAME>, the great grandfather of the plaintiffs <NAME>.
+Fact	There has been much contention whether (as the plaintiff asserts) these four daughters succeeded each other as shebaits, or whether, as the defendant <NAME> asserts, their husbands were the shebaits.
+RatioOfTheDecision	The Subordinate Judge takes the latter view.
+RatioOfTheDecision	<NAME> thinks that , in each case, the <NAME> for the time selected his successor, and married his daughter to him.
+RatioOfTheDecision	On the other hand, there is, undoubtedly, evidence that the daughters in some cases continued to hold possession of the guddee after the death of their husbands.
+RatioOfTheDecision	This was certainly so in the case of <NAME>, who is said to have held the guddee nearly 60 years; and this seems inconsistent with the notion that the daughters had no independent title.
+RatioOfTheDecision	But this at least is certain that the succession has not followed the ordinary rules of inheritance undoHindu law.
+RatioOfTheDecision	W bother the husbands or the wives were <NAME>s, neither after the first generation could claim by inheritance.
+RatioOfTheDecision	There is no pretence that the husbands were heirs to each other or to <NAME>, and the daughter of a daughter is not an heir except in certain classes of stridhun.
+RatioOfTheDecision	<NAME> herself was no heiress; nor was her mother <NAME>; nor was her daughter <NAME> <NAME>.
+RatioOfTheDecision	The Hindu law of inheritance, for which the plaintiff contends, does not explain the  devolution of the office in either of the two lives contended for.
+RatioOfTheDecision	23.
+RatioOfTheDecision	There is no doubt very considerable difficulty in ascertaining what is the true rule of succession to this office.
+RatioOfTheDecision	Probably it has hitherto been disposed of in a manner which has been generally approved of by all parties concerned.
+RatioOfTheDecision	It is sufficient for us to say that the evidence does not, in our opinion, establish the plaintiffs right to succeed under the Hindu law of inheritance.
+RatioOfTheDecision	24.
+RulingByPresentCourt	The decree of the lower Court was, therefore, right, and this appeal must be dismissed.
+RulingByPresentCourt	The plaintiff, appellant, will pay the costs of the defendant, respondent, <NAME>: the <ORG> will pay his own costs.

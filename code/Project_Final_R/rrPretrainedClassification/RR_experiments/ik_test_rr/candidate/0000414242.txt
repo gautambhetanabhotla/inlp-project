@@ -1,0 +1,53 @@
+Fact	JUDGMENT  1.
+Fact	The present appeal arises out of a suit brought by the plaintiffs as zemindars of plot Chanak against the defendants Nos.
+Fact	1 and 2, the putnidars of 9 mouzahs included in that towzi.
+Fact	The plaintiffs sought to recover khas possession of 201 bighas odd of resumed chowkidari chakran lands lying within those 9 mouzahs and for wasilat, of, in he alternative, if the defendants should be found entitled to retain possession of the lands, to recover fair and equitable rents of the lauds from the defendants.
+Fact	The rent they claimed was Rs.
+Fact	500 for the 201 bighas of land.
+Fact	The defendants Nos.
+Fact	1 and 2, the putnidars, contended that they were by law entitled to the possession of the chaukidari chakran lands after their resumption by the Collector, and that the plaintiffs, as zemindars, could not demand a higher rent from them than the amount which was assessed by the Collector under Section 49 of Bengal Act VI of 1870.
+RulingByLowerCourt	The lower Court has dismissed the plaintiffs' claim for khas possession of the lands, holding th at, under the condition of the putni lease, the putnidars are entitled to settlement of those lands from the landlords in preference to any body else.
+RulingByLowerCourt	The Subordinate Judge, however, held that the plaintiffs were entitled to recover from the defendants a fair and equitable rent, and he fixed the same at Rs.
+RulingByLowerCourt	408-8 for the 201 bighas of land.
+RulingByLowerCourt	We may observe that that was the total rent which was fixed by the Collector, half of which he assessed, under Section 49 of Bengal Act VI of 1870, as the amount to be paid by the zemindars to the chaukidari fund.
+RulingByLowerCourt	It has not been seriously contested before us that the lower Court is not right in its conclusion that the putnidars, under the terms of the lease, are entitled to a settlement of the resumed chaukidari chakran lands; but the points which have been urged in support of the appeal are (i) that the plaintiffs are not entitled to demand a higher rent from the putnidars than the amount assessed by the Collector under Section 49 of Bengal Act VI of 1870, and (ii) that,  even if the plaintiffs are entitled to more, the amount assessed by the lower Court is excessive.
+RatioOfTheDecision	It is admitted that the decision on these points must to a considerable extent depend on the construction of the putni lease or <ORG>.
+RatioOfTheDecision	The present defendants are the purchasers of the rights of the original putnidar The putni <ORG>, dated the 18th Jaistha 1280 (30th May 1873) was originally executed by one <NAME> in favour of the predecessor-in-interest of the present plaintiff.
+RatioOfTheDecision	That <ORG> has been produced in evidence, and <NAME>, son of <NAME>, the original lessee, has been examined on behalf of the defendants.
+RatioOfTheDecision	The clause in this <ORG>, which is construed differently by the appellants and the respondents, runs as follows:  Chaukidari chakran jama kimba zelar tapshil thanar chakran jama sadar bajeyapta oilay jay jamnyre sarkar bahadur hoitay <NAME> kariya loiya amahay jay <NAME> karibeu shay jamaye ami bandobisba kariya loitay <NAME>, <NAME>  <NAME>, <NAME> konao ojar apatli chalibay na.u On behalf of the appellants, it has been contended that the meaning of this passage is that, if the putnidar refused to take settlement of the chaukidari chakran lands from the zemindar at the same jama as that at which settlement of the same was made with the zemindar by the <ORG>, then the zimindar would be entitled to settle the lands with other persons: and it has been argued that from this clause it is clear that the putnidars are entitled to a settlement from the landlords at the same rent as the amount which was fixed by the Collector under Section 49.
+RatioOfTheDecision	On behalf of the respondents, this page has been translated differently, and it is said to mean that if the chaukidari chakran lands be resumed by <ORG>, and if the <ORG> settles the lands with the zemindar, then, if the zemindar offers to settle the same with the putnidar at a given rental, and the putnidar refuses to accept that rental, the zemindar may set tle the lands with other persons, it is argued that this means that, if the <ORG> after taking settlement makes an offer to the putnidar of a settlement of the lands at a certain rent, and the putnidar refuses to accept that rent, then the <ORG> may settle the lands with other persons; that is to say, that under this clause in the lease, the landlords have the option of fixing the amount of rent, and if the defendants do not accept it, the landlords would be able to settle the lands with other persons.
+RatioOfTheDecision	Of course, this right of the landlords to settle the lands with other persons would be subject to the right of the plaintiffs to have the settlement concluded on fair and reasonable terms.
+RatioOfTheDecision	We have given our best consideration to the passage in question in the <ORG>, and we think that the view taken by the lower <ORG> is correct, and that it does not bind the landlords to settle the resumed chaukidari chakran lands with putnidars at the same amount at which the assessment for the purpose of the chaukida ri tax has been made on the land under the provisions of Section 49 of Bengal Act VI of ?
+RatioOfTheDecision	1870.
+RatioOfTheDecision	Apart from this construction which we place on the terms of the lease, we have to add that we have lately held in the case of <NAME>.
+Precedent	<NAME> C.W.N.
+Precedent	995 : 7 Ind.
+Precedent	Cas.
+Precedent	554, that the rent which a landlord is entitled to claim when making a settlement of resumed chaukidari chakran lands with a putnidar, is not restricted to the amount of the assessment made by the Collector under Section 49 of Bengal Act VI of 1870, and we have pointed out that this view is supported by principle and by authority.
+Precedent	In particular, we referred to the decisions of this <ORG> in the cases of <NAME> v. <NAME> 4 C.W.N.
+Precedent	814. and <CITATION_95299> 34 C. 109 : 5 C.L.J.
+Precedent	33 : 11 C.W.N.
+Precedent	201.
+Argument	The learned pleads for the appellants has made a calculation on the basis of the principle suggested in the former of these two cases, with the result that the extra rent to which the landlords would thus be  entitled in the present-case comes to Rs.
+Argument	392-11-2, which is only Rs.
+RatioOfTheDecision	15 less than the rent fixed by the lower <ORG>.
+RatioOfTheDecision	2.
+RatioOfTheDecision	The learned pleader, however, contends that the determination of the, question of the amount of rent, which the zemindars are entitled to demand on the settlement, must depend mainly on the terms of the contract between the parties as evidenced by the <ORG> lease or <ORG>.
+RatioOfTheDecision	We have already given our reasons for holding that the passage in the <ORG>, relied on by both parties, cannot fairly be construed to mean that the rent must not exceed the assessment made by the Collector.
+RatioOfTheDecision	But the learned pleader for the appellants has argued that it is clear, from the terms of the <ORG>, that the <ORG>dars were to have the full benefit of any increase to the profits of the lands covered by the <ORG> lease which might accrue subsequently to the lease, because the zemindars, under the terms of the lease, settled the <ORG> rent at the full amount of the then profits, and- in addition took a bonus  of Rs.
+RatioOfTheDecision	4,000 from the putnidars.
+RatioOfTheDecision	Now, it is clear that the profits from the chaukidari chakran lands were not taken into consideration in determining the rent at the time when the putni was created, and the fact that in respect of the other lands the putnidars agreed to pay as rent the full amount they then were entitled to collect goes rather to support the view contrary to that advanced for the appellants, and to suggest that, if these profits had been included, the full profits would have been demanded as rent.
+RatioOfTheDecision	We agree with the lower Court that the evidence of <NAME>, the son of the original <NAME>, is not true, and is worthless.
+Argument	It is impossible to believe him when he says "we took the said putni settlement without any profit on payment of the said sum of Rs.
+Argument	4,000 as salami, considering that, on the resumption of the chaukidari lauds, we would get the said lands."
+Argument	The <ORG> lease was given in 1874, and the chaukidari lands were, not resumed till twenty-five years afterwards.
+Argument	It seems to us per fectly clear that, at the time the lease was granted, it was well-known that the nominal rents did not represent the actual profits of the putnidars, and this, indeed, is supported by the evidence given by the plaintiffs to prove that no less than Rs.
+RatioOfTheDecision	1,360 has been realized by the putnidars as salami for settling a portion only of the resumed lands since their resumption.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The lower <ORG>, in fixing a fair and equitable rent which the zemindars are entitled to demand from the putnidars, has accepted the rent as determined by the Collector at the time of resumption.
+RatioOfTheDecision	We have already noticed that, that sum exceeds by Rs.
+RatioOfTheDecision	15 only the rental arrived at on the basis of the principle suggested in the case of <NAME> v. <NAME> 4 C.W.N.
+RatioOfTheDecision	814, and, in the circumstances of the case, we see no reason to differ from the lower <ORG> that Rs.
+RatioOfTheDecision	404-8 is a fair and equitable rent which the zemindars, the plaintiffs, are entitled to receive from the defendants for the 201 bighas 14 cottas of resumed c <NAME>.
+RatioOfTheDecision	4.
+RulingByPresentCourt	We, therefore, confirm the judgment and decree of the lower Court and dismiss the appeal with costs.

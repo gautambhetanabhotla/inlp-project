@@ -1,0 +1,181 @@
+Fact	PETITIONER: <NAME> & <ORG>.
+Fact	Vs. RESPONDENT: <NAME> & <ORG>.
+Fact	DATE OF JUDGMENT: 08/09/1969 BENCH: <NAME>, V. BENCH: <NAME>, V. <NAME>, J.C. CITATION: 1970 AIR 2062 1970 SCR (2) 213 1969 SCC (2) 716 ACT: The Trade and Merchandise Act , 1958, ss.
+Fact	12(1) and 9(1) --Vitamin preparations--'DROPOVIT" whether a trade mark deceptively similar to 'PROTOVIT' so as to offened s. 12(1) --'DROPOVIT' whether a descriptive word or an invented word for the purpose of s. 9(1) --Tests.
+Fact	HEADNOTE: In 1946 the trade mark 'PROTOVIT' was registered for one of the vitamin preparations manufactured by the appellant company.
+Fact	In 1957 the respondent company applied for registration of its mark 'DROPOVIT' in respect of "medical and pharmaceutical preparations and substances".
+Fact	The application was granted.
+Fact	When the appellant came to know about this trade mark it asked the respondent to alter it.
+Fact	On the respondent's refusal to do so, the appellant in 1959, applied to the Registrar for rectification of the R egister of Trade Marks by removal thereform of the respondent's trade mark.
+Fact	Later the appellant amended its application by adding the ground that DROPOVIT' was not an invented word.
+Fact	The Joint Registrar by letter dated August 5, 1961 rejected the appellant's application for rectification.
+Fact	The appellant went in appeal to <ORG>.
+Fact	During the hearing of the appeal the respondent restricted the designation of goods covered by the mark 'DROPOVIT' to "medical preparations and, substances containing principally vitamins."
+Fact	The Single Judge as well as <ORG> decided in favour of the respondent.
+Fact	The appellant came to this Court with certificate.
+Fact	The questions that fell for consideration were: (i) whether the word 'DROPOVIT' was deceptively similar to the word 'PROTOVIT' and thus offended the provision of s. 12(1) of the Trade and Merchandise Act , 1958; (ii) whether the word 'DROPOVIT' was an invented or a descriptive word for the purpose of s. 9(1) of the Act.
+Fact	HELD: The appeal must be dismisse d. (i) In order that a trade mark may be found deceptively similar to another it is not necessary that it 'should be intended to deceive or intended to cause confusion.
+Fact	It is its probable effect o.n the ordinary kind of customers that one has to consider.
+Fact	For this purpose it is necessary to apply both the visual and phonetic tests.
+Fact	It is also important that the marks should be compared as wholes.
+RatioOfTheDecision	It is not right to take a portion of the word and say that because that portion of the word differs from the corresponding portion of the word in the other case there is no sufficient similarity to cause confusion.
+RatioOfTheDecision	The true test is whether the totality of the trade mark is such that it is likely to cause deception or confusion or mistake in the minds of the persons accustomed to the existing trade mark.
+RatioOfTheDecision	[216 H; 217 G--H; 218 E] <ORG> v. <ORG>,  R.P.C.
+Precedent	265 at 274, <ORG> application 23 R.P.C.
+Precedent	774, 777, <CITATION_653417> ., 62 R.P.C.
+Precedent	65 at 72 and <ORG> v. <ORG> ., 32 R.P.C.
+Precedent	133 at 136, applied.
+Precedent	The terminal syllable 'VIT' in the two marks 'DROPOVIT' and 'PROTOVIT' was both descriptive and, as the evidence showed.
+Precedent	common to the trade.
+Precedent	If greater regard was paid to the uncommon ejement in Jp CI/70--2 214 the two words it was difficult to, hold that one would be mistaken for or confused with the other.
+Precedent	The letters 'D' and 'P' in DROPOVIT' and.
+Argument	the corresponding letters 'P' and 'T' in 'PROTOVIT' could not possibly be slurred over in pronunciation and the words were so dissimilar that there was no reasonable probability of confusion between the words either from the visual or phonetic point of view.
+Argument	This was all the more so because the preparations from their very nature were likely to be purchased on the prescription of doctors, and under r. 61(2) of Drug Rules, 1945 could be sold only by licensed' dealers SO that the possibility of confusion would be reduced to a considerable extent.
+Argument	[219 A--C, E] (ii) It could not be accepted that the Word 'DROPOVIT' would strike an o rdinary person knowing English as meaning 'DROP OF VITAMINS'.
+Argument	The appellant's original application for rectification did not contain the ground that the word 'DROPOVIT' was descriptive.
+Argument	It was therefore reasonable to presume that it did not strike even the legal advisers of the appellant as descriptive.
+Argument	It was true that the word 'DROPOVIT' was coined out of words commonly used by and known to ordinary persons knowing English.
+Argument	But the resulting combination produced a new word, a newly coined word which did not remind an ordinary person knowing English of the original words out of which it was coined unless he was so told or unless at least he devoted some thought to it.
+Argument	It followed that the word 'DROPOVIT' being an invented word was entitled to be registered as a trade mark and was not liable 'to be removed from the Register on which it already existed.
+Fact	[220 H-221 D] JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	1330 Of 1966.
+Fact	Appeal from the judgment and order dated August 4, 7, 1964 of <ORG>  <ORG> in Appeal No.
+Fact	65 of 1962.
+Fact	<NAME>, <NAME>, <NAME> and <NAME>, for the appellant.
+RulingByLowerCourt	<NAME>, 1.
+RulingByLowerCourt	<NAME>.<NAME>, <NAME>, for  1.
+Statute	<NAME>, for the respondent.
+Argument	The Judgment of the Court was delivered by <NAME>, J.
+Argument	This appeal is brought by certificate from the judgment of the Bombay <ORG> dated August 17, 1964 in application no.
+Argument	65 of 1962 upholding in part the judgment of Mr. Justice <NAME> dated December 7, 1962 in Miscellaneous Petition No.
+Precedent	358 of 1961.
+Fact	The appellant is a limited liability company incorporated under the laws of Switzerland and carries on business in the manufacture and sale of pharmaceutical and chemical products.
+Fact	The respondent is a company incorporated under the Companies Act in India and also carries on business in the manufacture 'and sale of pharmaceutical products.
+Fact	On December 2, 1946 the ,appellant applied for registration of its trade mark "PROTOVIT".
+Fact	The application Was granted and the appellants mark was registered  in Class V in respect of "Pharmaceutical preparations for human use and for veterinary use, infants' and invalids' foods".
+Fact	The appellant thereafter used that mark on multi-vitamin preparations in liquid tablet forms and its goods are being sold under that mark at least since the year 1951.
+Fact	On January 28, 1957 the respondent applied for registration of its mark "DROPOVIT" in respect of "medicinal and pharmaceutical preparations and substances".
+Fact	The application was registered but the advertisement of the respondent's application escaped the notice of the appellant who did not hence oppose the registration.
+Fact	By a letter dated March 4, 1958 <ORG>, the appellant's 'agents, drew the attention of the appellant to the respondent's mark "DROPOVIT".
+Fact	There was negotiation between the parties but on March 19, 1958 the respondents wrote to the appellant refusing to alter its trade mark.
+Fact	On January 21, 1959 the appellant applied for rectification of the Register by removal therefrom of the respondent's trade m ark.
+Fact	The ground urged in support of the application was that the respondent's mark so nearly resembled the appellant's mark as to.
+Fact	be likely to deceive or cause confusion.
+Fact	On March 9, 1960 the appellant applied for amendment of the application and an additional ground was taken that "DROPOVIT" was not an invented word.
+Fact	The application for amendment was allowed by the Registrar.
+Fact	The amended application was opposed by the respondent.
+Fact	.
+Fact	By his judgment dated August 5, 1961 the Joint Registrar rejected the application for rectification holding that "DROPOVIT" was not deceptively similar to "PROTOVIT" and that the word "DROPOVIT" considered as a whole was not descriptive.
+Fact	The appellant took the matter in appeal to <ORG>.
+RulingByLowerCourt	On December 7, 1962 Mr. Justice <NAME> dismissed the appeal.
+RulingByLowerCourt	The appellant preferred an appeal under Letters Patent but the appeal was dismissed by <ORG> consisting of Chief Justice <NAME> and <NAME>, J. on August 17, 1964.
+RulingByLowerCourt	During the hearing of.
+RulingByLowerCourt	the appeal the respond ent restricted the designation of goods to "'medicinal and pharmaceutical preparations and substances containing principally vitamins.
+Fact	The application for rectification' was made on January 21, 1959 be/ore the Trade and Merchandise Marks Act .
+Fact	1958 (Act no.
+Statute	43 of 1958) came into operation.
+Statute	But it is not disputed that under s. 136(3) of this Act the decision of this case is governed by the provisions of Act no.
+Statute	43 of 1958 (hereinafter called the Act).
+Statute	Section 11 of the Act states: "A 'mark--  (a) the use of which would be likely to deceive or cause confusion; or   (b)the use Of WhiCh would be contrary to any law for the time being in force; or  (c) which comprises or contains scandalous or obscene matter; or  (d) which comprises or.contains any matter likely to hurt the religious susceptibilities of any class or section of the citizens of India; or .
+Statute	(e) which would.otherwise be disentitled to protection in a court;  shall not be registered as a trade mark".
+Statute	Section 12 ( 1 ) provides "Save as provided in  sub-section (3 ), no trade mark.
+Statute	shall be registered in respect.
+Statute	of any goods or description of goods which is identical with or deceptively similar to a trade mark which is already registered in the name of a different proprietor in respect of the same goods.
+Statute	or descriptive of goods."
+Statute	Section 56(1) reads:  "On application made in the prescribed manner to '<ORG> or to the Registrar by any person aggrieved, the tribunal may make such order as it may think fit for cancelling or varying the registration of a trade mark on the ground of any contravention, or failure to observe a condition entered on the register in relation thereto."
+Statute	Section 2(1)(d) defines the phrase "deceptively similar" as follows:  "A mark shall be deemed to.
+RatioOfTheDecision	be deceptively similar 'to another mark if it so nearly resembles that other mark as to be likely to deceive or cause confusion;"  The first question to be considered in this appeal is whether the word "DROPOVIT" is deceptively similar to the word "PROTOVIT" and offends the prov ision of s. 12 (1 ) of the Act.
+RatioOfTheDecision	In other words the question is whether the respondent's mark so nearly resembles the registered m,ark aS to be "likely to deceive or cause confusion."
+RatioOfTheDecision	It is not necessary that it should be intended to deceive or intended to cause' confusion.
+RatioOfTheDecision	It is its probable effect on the ordinary kind of customers that one has to consider.
+RatioOfTheDecision	217  In <ORG>, v. <ORG>, (1) Lord <NAME> explained the words "to deceive,' and the phrase "to cause confusion" as follows 1:  .
+RatioOfTheDecision	"Secondly, 'to deceive' is one thing.
+RatioOfTheDecision	To 'Cause confusion' is another.
+RatioOfTheDecision	The difference is this: When you deceive a man, you tell him a lie.
+RatioOfTheDecision	You make a false representation to him and thereby cause him to believe a thing to be true.
+Precedent	which is false.
+Precedent	You may not do it knowingly, or intentionally, but still you do it, and so you deceive him.
+Precedent	But you may cause confusion without telling him 'a lie at all, and without making any false representation to him.
+Precedent	You may indeed tell him the truth, the whole truth  and nothing but the truth, but still you may cause confusion in his mind, not by any ,fault of yours, but because he has not the knowledge or ability to.
+Precedent	distinguish it from the other pieces of truth known to him.
+Precedent	or because he may not even take the trouble to do so."
+Precedent	The tests for comparison of the two word marks were formulated by Lord <NAME> in <ORG>'s application(2) as follows:  "You must take the two words.
+RatioOfTheDecision	You must judge of them, both by their look and by their sound.
+RatioOfTheDecision	You must consider the goods to which they are to be applied.
+RatioOfTheDecision	You must consider the nature and kind of customer who would be likely to buy those goods.
+RatioOfTheDecision	In fact, you must' consider all the surrounding circumstances; and' you must further consider what is likely to happen if each of those trade marks is used in a normal way as a trade mark for the goods of the respective owners of the marks.
+Precedent	If, considering all those circumstances, you come to the conclusion that there will be a confusion--that is to say, not necessarily that o ne man will be injured and the other will gain illicit benefit, but that there will be 'a confusion in the mind of the public which will lead 'to confusion in the goods--then you may refuse the registration, or rather you must refuse the registration 'in that case."
+Precedent	It is necessary to apply both the visual and phonetic tests.
+Precedent	<CITATION_653417> .
+Precedent	(a) <ORG> was considering the resemblance between the two words "<NAME>" and "<NAME>".
+Precedent	The view taken was that considering the way the words were pronounced in English, the one was likely to be mistaken for the other.
+Precedent	(1) 1962 R.P.C.
+Precedent	265 at 274 (2) 23 R.P.C.
+Precedent	774 at 777 (3) 62 R.P.C.
+Precedent	65 at 72.
+Precedent	218  Viscount <NAME> cited the following passage of.
+Precedent	Lord Justice <NAME> in.
+Precedent	<ORG>, which passage, he said, he completely accepted as the correct exposition of the law :.
+Precedent	"The answer to the question whether the sound of one word resembles too nearly the sound of another so as to bring the former within the limits of section 12 of the Trade Marks A ct, 1938, must nearly always depend on first impression, for obviously a person who is familiar with both words will neither be deceived nor confused; It is the person who only knows.
+Precedent	the one word and has perhaps an imperfect recollection of it who is likely to be deceived or confused.
+Precedent	.Little assistance, therefore, is to be obtained from a meticulous comparison of the two words, letter by letter .and syllable by syllable, pronounced with the clarity to be expected from a teacher of elocution.
+Precedent	The <ORG> must be careful to.
+Precedent	make' allowance for imperfect recollection .and the effect of careless pronunciation and speech on the part not only of the person seeking to.
+Precedent	buy under the trade description, but also of the shop.
+Precedent	assistant ministering to that person's wants".
+Precedent	It is also important that the marks must be compared as wholes.
+Precedent	It is not right to take a portion of the word and say that because that portion of the word differs from the corresponding portion of the word in the other case there is no sufficient s imilarity to cause confusion.
+Precedent	The true test is whether the totality of the proposed trade mark is such that it is likely to cause deception or confusion or mistake in the minds of persons accustomed to the existing trade mark.
+Precedent	Thus in <NAME> case(1).
+Precedent	Lord <NAME> said': ".'
+Precedent	..... we are not bound to scan the words as we would in a question of comparatio literarum.
+Precedent	It is not a matter for microscopic inspection, but to be taken from the general and even casual point of view of a customer walking into a shop."
+Precedent	In order to decide whether the word "DIROPOVIT" is deceptively similar to the word "PROTOVIT" each of the two words must, therefore, be taken as a whole word.
+Precedent	Each of the two words consists of eight letters, the last three letters are common, and in the uncommon part the first two are consonants, the next is the same vowel '0', the next is a consonant and the fifth is again a common vowel '0'.
+Precedent	The combined effect is to produce an alliteration.
+Precedent	The affidavits of the .appellant indicate that the last thre e letters "VIT" is a well known common abbreviation used in the pharmaceutical trade to denote Vitamin preparations.
+Precedent	(1) <ORG> v. <ORG>, 32 R.P.C.
+Precedent	133 at 136.
+Fact	219  his affidavit dated January 11, 1961 <NAME>, has referred to the existence on the Register of about 57 trade marks which have the common suffix "VIT" indicating that the goods are vitamin preparationS.
+RatioOfTheDecision	It is apparent that the terminal syllable "VIT" in the two marks is both descriptive and common to the trade.
+RatioOfTheDecision	If greater regard is paid to the 'uncommon element in these two words, it is difficult to hold that one will be mistaken for or confused with the other.
+RatioOfTheDecision	The letters 'D' and 'P' in "DROPOVIT" and the corresponding letters 'P' and 'T' in "PROTOVIT" cannot possibly be slurred over in pronunciation and the words are so dissimilar that there is no reasonable probability of confusion between the words either from the visual or phonetic point of view.
+RatioOfTheDecision	In <ORG>, counsel for the respondent made a statement that the re spondent was willing that the <ORG> should direct in exercise of its powers under s. 56(2) that the Registrar should limit the respondent's trade mark "DROPOVIT" to medicinal and pharmaceutical preparations and substances containing principally vitamins and that the appeal should be decided on this basis.
+RatioOfTheDecision	The question o,f deceptive similarity must therefore be decided o.n the basis of the class of goods to which the two trade marks apply subject to the limitation agreed to by the respondent.
+RatioOfTheDecision	From the nature of the goods it is likely that most of the customers would obtain a prescription.
+RatioOfTheDecision	from a doctor and show it to the chemist before the purchase.
+RatioOfTheDecision	In such a case, except in the event of the handwriting of the doctor being very bad or illegible the chance of confusion is remote.
+RatioOfTheDecision	As we have already observed the evidence shows that there are as many as 57 trade marks in <ORG> with the suffix "VIT".
+RatioOfTheDecision	Therefore, even an average customer would know that in respect of Vitamin preparations the wo rd "VIT" occurs in large number of trade marks and because of this he would naturally be on his guard and' take special care against making a mistake.
+RatioOfTheDecision	In this connection the provisions of the Drug Rules, 1945 are also relevant.
+RatioOfTheDecision	Under r, 61(2) vitamin preparations would be covered by item 5 in Schedule C-( 1 ) to the Rules and a licence would be required to stock such vitamin preparations and to sell them retail.
+RatioOfTheDecision	The question of confusion must hence be determined on the basis that the goods with one of the two rival trade marks would be sold only by such 'a licensed dealer and would not be available in any other shop.
+RatioOfTheDecision	The fact that the vendor would be a licensed dealer also reduces the possibility of confusion to a considerable extent.
+RatioOfTheDecision	Having taken into account all circumstances of the present case we are of the opinion that <ORG> and <ORG> were right in holding that there was no real tangible danger of confusion if respondent's trade mark was allowed to continue to remai n on the <ORG> and the application' for rectification made by the appellant should be dismissed.
+Precedent	The question was also.
+Precedent	argued in the appeal whether the word "DROPOVIT" was not an invented word and whether it was a descriptive WOrd.
+Precedent	.
+Precedent	Section 9 (1 ) of the Act states-  .
+Precedent	"A trade mark shall not be registered in Part A of the register unless it contains or consists of at least one the following essential particulars, namely--  (c) one or more invented words;  (d) one or more words having no direct reference to the character or quality of the goods and not being according to its ordinary signification, a geographical name or a surname or a personal name or any common abbreviation thereof or the name of a sect, caste or tribe in India;"  It is contended on behalf of the .appellant that "DROPOVIT" meant only "DROP OF VITAMIN" with the word 'of' being mis-spelled as 'O' 'VIT' being used to denote "Vitamins", and the three separate words are joined together to make "DROPOVIT" as one word.'
+Precedent	It was said that the  word "DROPOVIT" was simply a combination of three common words in English language and cannot, therefore, be said to.
+Precedent	be an invented .word.
+Precedent	In <NAME> case(1) <ORG> has explained the meaning of "invented word" as follows:  "To be an invented word within the meaning of the Act a word must not only be newly coined, in the sense of not being 'already current in the English language, but must be such as not to convey an, meaning, or, at any rate, any obvious meaning to ordinary Englishmen.
+Precedent	It must be a word having no meaning or no obvious meaning until one has been assigned to it."
+Precedent	In the case of <NAME> and others v. <ORG>) <ORG> referred to that interpretation of <ORG> as "the best standing interpretation".
+Precedent	The question arising in this case is whether the word "DROPOVIT" would strike an ordinary person' knowing English as meaning.
+Precedent	"DROP OF VITAMIN".
+Precedent	In this connection <ORG> has pointed out that the original application for rectification did not contain the ground  that the word of "DROPOVIT" was descriptive.
+Precedent	It was, therefore, legitimate to draw the inference that the word (1) 25 R.P.C.
+Precedent	565 (2) 68.
+Precedent	R.P.C.
+Precedent	103.
+Precedent	221  "DROPOVIT" did: not strike even Messrs <NAME> and <NAME> the legal advisers of the appellant as being descriptive.
+Precedent	It was also pointed out that in his judgment Mr. Justice <NAME> has remarked that when the case was opened before, him he did not understand that the word "DROPOVIT" meant "DROP OF VITAMIN" till the explanation of that word was given to.
+Precedent	him.
+RatioOfTheDecision	We see no reason, therefore, to differ from the reasoning of the <ORG> on this 'aspect of the case.
+RatioOfTheDecision	If the word "DROPOVIT" is not a descriptive word it must be held to be an invented word.
+RatioOfTheDecision	It is true that the word "DROPOVIT" is coined out of words commonly used by and known to ordinary persons knowing English.
+RatioOfTheDecision	But the resulting combination produces a new word, a newly coined word which does not remind an ordinary person knowing English of the original words out of which it is coined unless he  is so told or unless at least he devotes some thought to it.
+RatioOfTheDecision	It follows that the word "DROPOVIT" being an invented word was entitled to be registered as 'a trade mark and is not liable to be removed from the <ORG> on which it already exists.
+RulingByPresentCourt	For the reasons expressed we hold that this appeal fails and must be dismissed with costs.
+RulingByPresentCourt	<ORG> dismissed.

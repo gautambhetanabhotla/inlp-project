@@ -1,0 +1,70 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	These two appeals arise out of an order passed by the Additional Subordinate Judge of Coimbatore on the 23rd November, 1942.
+Fact	No.
+Fact	269 of 1943 is an appeal against the order itself.
+Fact	No.
+Fact	213 of 1943 it against the deceree which followed the order and has been filed by the appellant ex abundanti cautela.
+Fact	For reasons which we shall state both the appeals must be dismissed.
+Fact	2.
+Fact	The appellant is the seventh defendant in a suit for partition of joint family property.
+Fact	The plaintiff is the first respondent.
+Fact	There are altogether fifteen defendants, but only defendants 1 to 8 are really concerned with the suit.
+Fact	The plaint was filed on the 22nd Novemb3r, 1940.
+Fact	In 1942 a settlement was contemplated and in order that it might be brought about, the Court granted several adjournments.
+Fact	On the 31st August, 1942, it was reported that the seventh defendant had consented 'to settle matters" and at his request the case was adjourned until the 7th September, 1942.
+Fact	After the two further ad journments, it was reported to the Court that Sir <NAME> was "settling the matter".
+Fact	On the 5th September, 1942, the plaintiff and defendants 1 to 8 had in writing agreed to refer the matters in dispute to the arbitration of Sir <NAME>.
+Fact	the agreement contained thease statements:  In this suit we consented before the Sub-Judge to abide by the decision or award to be passed by you.
+Fact	Therefore we all of us agreed to abide by the decision or award to be passed by you in this matter and we bind ourselves to file the award in the suit in Court and to obtain a decree in terms thereof.
+Fact	The document was in Tamil.
+Fact	The translation given here is that made by the Sub-ordinate Judge.
+Fact	The translation to be found in the printed documents is not accurate.
+Fact	3.
+Fact	In accordance with the agreement, the arbitrator embarked upon the inquiry and on the 7th November, 1942, after hearing the parties, he gave his decision, whereupon the plaintiff and the third defendant applied to the Court to pass a de cree in terms of the award.
+Fact	The second and seventh defendants objected.
+Fact	They did not contend that the arbitrator had acted in any way improperly or that the award was invalid.
+Fact	They objected to certain of the directions given and wanted them to be changed.
+RulingByLowerCourt	The Subordinate Judge held that the parties ware bound by their agreement and passed a decree in terms of the award.
+RulingByLowerCourt	The second defendant was apparently satisfied with this decision as he has not appeared to support the appeal filed by the seventh defendant  4.
+RulingByLowerCourt	In <NAME> v. <NAME> (1928) 55 M.L.J.
+Fact	429 : I.L.R.
+Fact	51 Mad.
+Fact	800 (F.B.
+Argument	), <ORG> of his Court held that an award made in a private arbitration during the tendency of the suit could be treated as an agreement for compromise and on that basis a decree could be passed in the term of the award Mr. <NAME> At on behaIf of the appellant, concedes that if the Arbitration Act of 1940 has not effected an alteration in the law, the judgment of <ORG> will govern this case, which m eans the dismissal of the appeals.
+Argument	He says, however, that Section 47 of the Arbitration Act precludes an award in a private arbitration being made a decree of the Court unless all the being passed in the terms ther of.
+Statute	Section47 reads as follows:  Subject to the provisions of Section 46 , and save in so far as is otherwise provided by any law for the time being in force, the provisions of this Act shall apply to all arbitrations and to all proceedings thereunder;  Providing that an arbitration award otherwise obtained may with the consent of all the parties interested be taken into consideration as a compromise or adjustment of a suit by any court before which the suit is pending.
+RatioOfTheDecision	Section 46 has no application here and therefore we do not need to set out its pro visions.
+RatioOfTheDecision	We are merely concerned with the proviso in Section 47 which plainly indicates that an arbitration award obtained otherwise than under the Act may with the consent of the parties interested in it be regarded as a compromise of a pending suit .
+RatioOfTheDecision	There is nothing in the proviso which precludes antecedent consent.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Order 23, Rule 3 says that Where it is proved to the satisfaction of the <NAME> that a suit has been adjusted wholly or in part by a lawful agreement or compromise, or whefe the defendant satisfies the plaintiff in respect of the whole or a, part of the subject-matter of the suit, the <ORG> shall order the agreement, compromise or satisfaction to be recorded, and shall pass a decree in accordance therewith so far as it relates to the suit.
+RatioOfTheDecision	The proviso to Section 47 leaves this provision of law untouched.
+RatioOfTheDecision	In fact it would appear to be likely that it was inserted by the <ORG> in order to allow the <ORG> unfettered action under Order 23, Rule 3.
+RatioOfTheDecision	6.
+Precedent	The judgment in <NAME> v. <NAME> (1928) 55 M.L.J.
+Precedent	429 : I.L.R.
+Precedent	51 Mad 800 (F.B.)
+RatioOfTheDecision	itself gives the answer to Mr. <NAME>'s argument.
+RatioOfTheDecision	It contains this statement:  If an agreement to abide by the decision of an arbitrator can be held to be a compromise, the section is cl early applicable.
+RatioOfTheDecision	It has been suggested that a mere agreement to he bound by a future award is not a compromise, whereas an agreement to accept an award that has been made is a compromise.
+RatioOfTheDecision	It is difficult to see on what principle parties who agree to accept a certain fixed sum in satisfaction of a claim can be said to compromise that claim, whereas if they agreed to accept a sum whieh is to be fixed by some one else that does not amount to a compromise.
+RatioOfTheDecision	7.
+RatioOfTheDecision	There is here clear indication that an agreement to accept a future award can be treated as a compromise in the suit, and in our judgment the Arbitration Act of 1940 in no way alters the position.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The appellant was a party to all that happened before the Subordinate Judge.
+RatioOfTheDecision	He was a party to the agreement under which Sir <NAME> was to settle the differences between himself and the other members of the family and he does not suggest that the award is in any respect unlawful.
+Precedent	He agreed to compromise the suit on the terms of the award to  be given by Sir <NAME> and as the case falls within the decision of <ORG> in <NAME> v. <NAME> (1928) 55 M.L.J.
+Precedent	429 : I.L.R.
+Precedent	51 Mad.
+Precedent	800 (F.B.)
+RatioOfTheDecision	he must be held to his agreement.
+RatioOfTheDecision	Of course, a party cannot be compelled to accept an award which is unlawful.
+RatioOfTheDecision	The agreement to accept an award yet to be made presupposes that it will be a lawful award.
+RatioOfTheDecision	Here the award is a lawful one.
+RatioOfTheDecision	9.
+RulingByPresentCourt	The appeals are dismissed with costs in C.M.A.
+RulingByPresentCourt	No.
+RulingByPresentCourt	269 of 1943.
+RulingByPresentCourt	We fix the Advocate's fee at Rs.
+RulingByPresentCourt	100.

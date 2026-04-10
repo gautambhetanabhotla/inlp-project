@@ -1,0 +1,265 @@
+Argument	1 "REPORTABLE" IN THE SUPREME COURT OF INDIA CIVIL APPELLATE JURISDICTION CIVIL APPEAL NO.
+Argument	482-483 OF 2003 Commissioner of Income Tax, Ahmedabad .... Appellant Versus <ORG> .... Respondent JUDGMENT  <NAME>, J.
+Argument	1.
+Fact	This Judgment will dispose of two Appeals, they being Civil Appeal Nos.
+Fact	482 of 2003 and 483 of 2003.
+Fact	These Appeals are filed by the Commissioner of Income Tax, Ahmedabad (hereinafter referred to as "<ORG>").
+Fact	In both the Appeals, the <ORG> challenges the common judgment passed by <ORG>, wherein, <ORG> was considering Income Tax Reference (ITR) Nos.
+RatioOfTheDecision	56 of 1986, 58 of 1993, 220 of 1995 and 75 of 1987.
+RatioOfTheDecision	These References were made out of the order of <ORG> (hereinafter referred to as "the <ORG>").
+RatioOfTheDecision	2.
+RatioOfTheDecision	It is agreed before us that presently we would be concerned only with two References, they being Reference No.
+RatioOfTheDecision	56 of 1986 and Reference No.
+Precedent	220 of 1995.
+Precedent	Insofar as Reference No.
+Precedent	75 of 1987 is concerned, though <ORG> <ORG> had answered in favour of <ORG> and against the assessee, the assessee did not file any appeal and, therefore, that part of the High C<ORG> Judgment dealing with Income Tax Reference No.
+Precedent	75 of 1987 becomes final.
+RatioOfTheDecision	The learned Counsel for the assessee very fairly agreed with the same.
+Fact	As regards the Income Tax Reference No.
+Fact	58 of 1993, the <ORG> had filed an appeal against the impugned judgment dealing with the same, however, this C<ORG> had dismissed the appeal filed by the <ORG> on the grounds of limitation.
+RatioOfTheDecision	The learned Senior Counsel Mr. <NAME>, appearing on behalf of the <ORG> very fairly admitted this position.
+RatioOfTheDecision	We are, therefore, left with only two References, which are as under:-  Income Tax Reference No.
+Fact	56 of 1986 (which emanated from the quantum proceedings in respect of the Assessment Years 1979-80 and 1980-81):-  For the Assessment year 1979-80 - at the instance of the assessee:-  (i) Whether on facts and in the circumstances of the case, the <ORG> was right in law in holding that  the interest of Rs.66,29,236/- being the amount of interest as determined by the Income Tax Officer on a notional basis from 1.7.1977 to 30.6.1978 was liable to tax on accrual basis for the Assessment Year 1979-80?
+Fact	(ii) Whether on the facts and in the circumstances of the case, the <ORG> was justified in law in holding that the interest accrued from day-to-day as a result of supplementary agreement and as such, the same was eligible to tax as income for Assessment Year 1979-80?
+Fact	(iii) Whether on the facts and in the circumstances of the case, the Income Tax Appellate <ORG> was justified in law in holding that giving up of interest on the ground of commercial expediency was not justified as no direct or indirect benefit had accrued to the assessee?
+Fact	For the Assessment Year 1980-81 - at the instance of the Revenue:-  (i) Whether the Appellate <ORG> has not erred in law and on facts in holding that no income could be said to be accrued to the assessee as the interest would start accruing from 1.7.1979,  i.e., after the end of the accounting year?
+Fact	(ii) Whether the finding of the <ORG> that the interest could not be said to be accrued to the assessee during the accounting period in question and hence, question of relinquishment of any right does not arise is correct in law?
+Fact	Income Tax Reference No.
+Fact	220 of 1995:-  Income Tax Reference No.
+Fact	220 of 1995 was filed at the instance of the assessee in respect of the penalty levied under Section 273 (2)  (a) of the Income Tax Act , 1961 (hereinafter referred to as "the Act") and the Reference was worded as under:-  4    "Whether on facts and in the circumstances of the case, the <ORG> was justified in law in confirming the penalty of Rs.
+Fact	4 lakhs levied under Section 273 (2)(a) of the Act?"
+Fact	3.
+Fact	Before we go further, it must be clarified that insofar as Assessment Year 1979-80 is concerned, <ORG> answered the Reference No.
+Fact	56 of 1986 in favour of the <ORG>, while insofar as Assessment Year 1980-81 is concerned, <ORG> answered it in favour of  the assessee and against the <ORG>.
+RatioOfTheDecision	The assessee has not challenged the judgment of <ORG> insofar as Assessment Year 1979-80 is concerned, therefore, we need not consider that part of <ORG> judgment, though we might be required to incidentally refer to the same.
+RatioOfTheDecision	Thus, we are left with Reference No.
+RatioOfTheDecision	56 of 1986 insofar as it pertains to Assessment Year 1980-81 and the Reference No.
+RatioOfTheDecision	220 of 1995.
+RatioOfTheDecision	We must again clarify that though in Reference No.
+RatioOfTheDecision	220 of 1995, <ORG> found against the assessee in respect of Assessment Year 1979-80, the penalty, however, of Rs.4 lakhs was set aside.
+RatioOfTheDecision	We are, therefore, concerned in Reference No.
+RatioOfTheDecision	220 of 1995, only with Assessment Year 1979-80.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Following factual panorama would have to be considered for properly considering the background.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The assessee herein indisputably, follows <ORG>.
+RatioOfTheDecision	5    6.
+RatioOfTheDecision	For Assessment Year 1979-80, the Accounting Year is 1.7.1977 to 30.6.1978, while for the Assessment Year 1980-81, the Accounti ng Year is 1.7.1978 to 30.6.1979.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The assessee, which was previously known as <ORG> has now become <ORG> They would be referred to as "assessee" for short.
+RatioOfTheDecision	8.
+RatioOfTheDecision	There was an agreement on 28.2.1977, whereby, the assessee agreed to transfer its industrial undertaking and business activity known as <ORG>, which was its unit.
+RatioOfTheDecision	This was to take place with effect from 1.3.1977.
+Fact	The unit was sold as going concern in favour of assessee's own subsidiary <ORG> for a total consideration of Rs.11,44,10,253/-.
+Fact	9.
+Fact	Under this agreement, the amount of Rs.49 lakhs was to be paid by way of deposit/earnest money and Rs.4.41 crores was to be set off against the due amount from the respondent-assessee to <ORG> as consideration for equity shares in <ORG> held by the respondent- assessee.
+Fact	The balance sale consideration (approx.
+Fact	Rs.6.55 crores) was to be paid in eight equal annual installments, starting with 1.10.1979.
+Fact	Suc h installment was to become payable on the 1st of October each year.
+Fact	10.
+Fact	A further agreement was entered into between the assessee and <ORG> on 4.3.1977.
+Fact	This agreement provided for an interest clause, which was agreed at the rate of 11% per annum and that it would be payable on balance sale consideration which would remain unpaid from time to time.
+Fact	In short, the earlier agreement dt.
+Fact	28.2.1977 was varied/altered.
+Fact	The interest clause was as under:-  "The purchaser shall pay simple interest at the rate of 11% per annum on the balance of the unpaid purchase consideration remaining outstanding from time to time and, if the purchaser commits any default or delay in paying any installment or installments on the due date, the purchaser shall pay interest at such rate as is equal to the rate of interest which the vendor pays to its bankers in the ordinary course or business from the due date of payment of installment until the date of payment thereof."
+Fact	There were some other changes made in the payment terms.
+Fact	How ever, it is again admitted that the amount covered by the installments was going to be Rs.4.54 crores approximately.
+Fact	11.
+Fact	It may be incidentally mentioned here that <ORG>, in turn, transferred this industrial undertaking, purchased by it to its subsidiary <ORG> on 25.4.1978 vide the Assignment Deed of the even date.
+Fact	On 15.6.1978, <ORG> wrote to the respondent- assessee proposing modification in terms of payment and requested, inter alia, that the interest be charged on deferred sale consideration from 1.7.1979 instead of 1.3.1977.
+Fact	It was proposed by this letter, firstly, Rs.1.84 crores (approx.)
+Fact	will be payable as and when demanded by the respondent-assessee and will not carry any interest and secondly, Rs.4.7 crores will be payable in 5 annual installments, the first installment becoming payable on 1.3.1987 and the said amount shall carry simple interest at the rate of 11% per annum with effect from 1.7.1979.
+Fact	The <ORG> also offered to secure the amount of 4.7 crores to the s atisfaction of the respondent-assessee.
+Fact	12.
+Fact	On 30.6.1978, the proposal sent by <ORG> vide letter dt.
+Fact	15.6.1978 was decided to be accepted by the assessee and a Resolution to that effect was passed in the meeting of <ORG>.
+Fact	The said Resolution is on record and the relevant portion reads as under:-  "....the Company doth hereby approve, accept and adopt the following revised mode of payment as contained in letter No.
+Fact	ELSCOPE/MC dt.
+Fact	15th June, 1978 received from <ORG> Pvt.
+Fact	Ltd."  It must be noted here that firstly, in keeping with its proposal, <ORG> furnished to the respondent-assessee secured bonds of <ORG> Secondly, it must be noted that as proposed in the letter dt.
+Fact	15.6.1978, the interest was to start from 1.7.1979.
+Fact	While, before this interest was to start, the Resolution dt.
+Fact	30.6.1978 was passed, doing away with the requirement of payment of interest in terms of the earlier agreement dt.
+Fact	4.3.1977.
+Fact	So far so good.
+Fact	13.
+Fact	The assessee received a notice under S ection 210 of the Act on 17.10.1978, requiring it to pay the advance tax of Rs.1,22,22,757/-, while the second notice was served on 8.12.1978, asking the respondent- assessee to pay the advance tax of Rs.1,28,74,172/-.
+Fact	14.
+Fact	On 14.12.1978, however, the respondent-assessee filed an estimate, showing NIL amount of advance tax payable for the Assessment Year 1979-80.
+Fact	It further filed the returns on 29.6.1979, declaring the total income of Rs.772/- for the Assessment Year 1979-80.
+Fact	Insofar as the Assessment Year 1980-81 is concerned, the assessee filed the returns on 27.6.1980, declaring a loss of Rs.17,345/-.
+Fact	The Assessing Officer passed an assessment order dt.
+Fact	20.9.1982, determining the total income to be Rs.68,99,202/-, which included the amount of interest accrued on deferred sale consideration, receivable from <ORG>.
+Fact	The Assessing Officer also levied interest under Section 215 of the Act on a finding that the assessee had failed to pay advance tax.
+Fact	The Assessing Officer also directed that the penalty proceed ings under Section 273(2)(a) and 271(1)(c) of the Act should be initiated against the assessee.
+Fact	15.
+Fact	Insofar as Assessment Year 1980-81 was concerned, an addition of income by way of interest on the deferred sale consideration was taken into account and the amount of Rs.55 lakhs (approximately) was added to the taxable income of the assessee.
+Fact	16.
+Fact	Two separate appeals came to be filed at the instance of the assessee before Commissioner of Income Tax (Appeals) [CIT (Appeals)] in relation to the Assessment Years 1979-80 and 1980-81.
+Fact	The CIT(Appeals) upheld the assessment orders in both the Assessment Years and also confirmed the addition of interest amount to the income of the assessee.
+Fact	<ORG> refused to accept the plea of the assessee regarding the waiver of interest by the Resolution dt.
+Fact	30.6.1978.
+Fact	Two appeals came to be filed before the <ORG>, they being ITA No.
+Fact	1137/Ahd/84 concerning the Assessment Year 1979-80 and ITA No.
+Fact	1138/Ahd/84 concerning the Assessment Year 1980-81 respectively.
+RulingByLowerCourt	17.
+RulingByLowerCourt	The appeals were heard together and disposed of by a common order dated 15.2.1985.
+RulingByLowerCourt	Insofar as Assessment Year 1979-80 is concerned, the <ORG> held that the interest had already accrued vide further agreement dt.
+RulingByLowerCourt	4.3.1977 and as such, the Resolution dt.
+RulingByLowerCourt	30.6.1978 was of no consequence, as there was no commercial expediency for making it retrospectively operative.
+RulingByLowerCourt	However, it accepted the plea as regards the interest under Section 215 of the Act.
+RulingByLowerCourt	The <ORG> viewed the question involved to be a highly complex issue and held that the mere fact that the decision had gone against the assessee could not be viewed as being determinative of the assessee's liability to pay advance tax.
+RulingByLowerCourt	The <ORG> relied on <ORG> for that purpose.
+RulingByLowerCourt	18.
+RulingByLowerCourt	However, insofar as the Assessment Year 1980-81 is concerned, the <ORG> held that the amount of interest could not be included in income of assessee, since the Resolution dt.
+RulingByLowerCourt	30.6.1978 was passed prior to the commencement of the relevant Accounting Ye ar, which was 1.7.1978 to 30.6.1979 and, therefore, it could not be said that the interest income had acrrued.
+RulingByLowerCourt	19.
+RulingByLowerCourt	The <ORG> also held that it was permissible for the parties to alter the agreement regarding the charging of interest in the wake of the fact that the said Resolution was found to be a genuine Resolution.
+Fact	The <ORG> came to the finding that the interest could not have accrued insofar as Assessment Year 1980-81 was concerned.
+RulingByLowerCourt	20.
+RulingByLowerCourt	However, in 1988, the show Cause Notice came to be issued under Section 274 read with Section 273 (2)(a) of the Act as to why the penalty should not be levied for furnishing an untrue estimate of advance tax.
+RulingByLowerCourt	Replies were given to this Notice.
+RulingByLowerCourt	However, by order dt.
+RulingByLowerCourt	9.8.1988, the Assessing Officer imposed a penalty of Rs.4 lakhs upon the respondent- assessee under Section 273(2)(a) of the Act for knowingly furnishing wrong estimate of advance tax on 14.12.1978, which it had reason to believe to be untrue.
+RulingByLowerCourt	An appeal came to be filed being Appeal No.
+RulingByLowerCourt	CAB/IV-14/88-89,  which appeal was dismissed by the CIT (Appeals), which confirmed the levy of Rs.4 lakhs as penalty.
+RulingByLowerCourt	This order was challenged by way of an appeal before the <ORG> being ITA No.
+RulingByLowerCourt	2572/Ahd/1989.
+RulingByLowerCourt	That appeal also came to be dismissed by the order of <ORG>.
+Fact	However, as stated earlier, four References came to be filed before <ORG>, arising from various orders of <ORG> with respect to the respondent- assessee for the Assessment Year 1979-80.
+Fact	In the earlier part of the judgment, we have already shown that there will be no question of considering the part of Reference No.
+Fact	56 of 1986 relating to the Assessment Year 1979-80 and Reference No.
+Fact	75 of 1987, which was at the instance of the <ORG>, as also the Reference No.
+Precedent	58 of 1993 for the reasons stated earlier.
+Precedent	<ORG> heard four References together and delivered a common judgment dt.
+Precedent	6.2.2002.
+Precedent	In Income Tax Reference No.
+Precedent	56 of 1986, insofar as it pertains to Assessment Year 1979-80, <ORG> held in favour of <ORG> and since  there is no appeal by the assessee, we need not go into that aspect.
+Precedent	Insofar as the said Reference pertains to Assessment Year 1980-81, <ORG> held in favour of the assessee and against <ORG>, which finding is in challenge by the <ORG>.
+Precedent	Insofar as Income Tax Reference No.
+Precedent	75 of 1987 is concerned, that pertains to the levy of interest under Section 215 of the Act for the Assessment Year 1979-80, <ORG> held in favour of <ORG>.
+RatioOfTheDecision	Again, we need not go into that question in this appeal.
+RatioOfTheDecision	So also in Income Tax Reference No.
+RatioOfTheDecision	58 of 1993, the finding of <ORG> was in favour of the assessee, whereby, <ORG> did away with the penalty under Section 271(1)(c) of the Act for the Assessment Year 1979-80, the appeal against which is, dismissed by this <ORG> on the ground of limitation on 4.10.2004 in SLP(C) No.
+RatioOfTheDecision	CC 8632 of 2004.
+RatioOfTheDecision	Therefore, even that need not deter us.
+Fact	The only remaining issue was in Income Tax Reference No.
+RatioOfTheDecision	220 of 1995, wherein, <ORG> held that though the finding  was against the assessee for the Assessment Year 1979-80, still there would be no penalty under Section 273(2)(a) of the Act, was not justified.
+RatioOfTheDecision	We would have to deal with that issue in this appeal.
+RatioOfTheDecision	21.
+RatioOfTheDecision	The Learned Senior Counsel, appearing on behalf of the <ORG> very painstakingly, took us through all the findings of <ORG>, as well as the <ORG> and urged that both the <ORG> as well as <ORG> had erred in holding that there was no accrual of interest insofar as the Assessment Year 1980-81 was concerned.
+RatioOfTheDecision	The learned Senior Counsel invited our attention to the basic agreement of transfer dt.
+RulingByLowerCourt	28.2.1977, as also to the subsequent agreement dt.
+RulingByLowerCourt	4.3.1977.
+RulingByLowerCourt	We were also taken through the letter dt.
+RulingByLowerCourt	15.6.1978, as also the Resolution dt.
+RulingByLowerCourt	30.6.1978 and on that basis, the Ld.
+Argument	Senior Counsel urged that this was nothing, but an attempt on the part of the assessee to avoid payment of tax on the interest which it was bound to pay.
+Argument	The learned Senior Counsel urged that considering the whole transact ion and the relations between the assessee Company and the transferee Company, the assessee Company tried to wriggle out the liability to pay the tax.
+Argument	The ld.
+Argument	Senior Counsel also urged that ordinarily the assessee Company could not be expected to defer the interest as it did vide Resolution dt.
+Argument	30.6.1978.
+Argument	The Learned Senior Counsel, therefore, urged that <ORG> erred in confirming the order of the <ORG>, insofar as the tax liability pertaining to the Assessment Year 1980-81 is concerned.
+Argument	The Learned Senior Counsel, secondly, argued that at any rate, the <ORG> and <ORG> had erred in absolving the assessee of the penalty, when it was clear that the assessee had failed to furnish the true returns and also failed to pay the due advance tax.
+Argument	22.
+RulingByLowerCourt	As against this, <NAME>, learned counsel for the assessee, assisted by <NAME> and Ms. <NAME>, Advocates supported the judgment of <ORG> and urged that the finding in respect of the Assessment Year 1980-81 was co rrect finding, as in commercial transaction, the parties were free to negotiate to vary the terms of the commercial transactions.
+RulingByLowerCourt	The learned counsel pointed out that the Resolution dt.
+RulingByLowerCourt	30.6.1978 was indisputably a genuine Resolution and though the said Resolution could not wipe out the interest already accrued for the Assessment Year 1979-80, it could defer the future liability of interest in the manner it did.
+RulingByLowerCourt	The learned Counsel, therefore, supported the impugned judgment.
+RulingByLowerCourt	It was further urged that once it was held that the assessee was justified in acting on the basis of the Resolution dt.
+RulingByLowerCourt	30.6.1978 and once it was held that there would be no liability on account of the interest as the interest had been accrued after that date, there would be no question of proceeding under the penalty provisions of Section 273 (2)(a) and 271(1)(c) of the Act.
+RatioOfTheDecision	The learned Counsel also supported the finding of the <ORG> as confirmed by <ORG> in respect of the penalty under Section 271(1)(c) of the Act, being wa ived and pointed out that the reasons given by the <ORG> and <ORG> were absolutely justified.
+RatioOfTheDecision	23.
+RatioOfTheDecision	We cannot understand the criticism of learned Senior Counsel appearing on behalf of the <ORG> that by Resolution dt.
+RatioOfTheDecision	30.6.1978, the assessee was avoiding the payment of tax on the interest which had accrued.
+RatioOfTheDecision	The genuine nature of the Resolution was not and could not be disputed.
+RatioOfTheDecision	When we see the letter dt.
+RatioOfTheDecision	15.6.1978 and also note that the letter was complied with by <ORG> in providing adequate security of the payable amounts, there is nothing to dispute or suspect the genuineness of the transaction.
+RatioOfTheDecision	The whole transaction would have to be viewed on that backdrop.
+RatioOfTheDecision	In the commercial world, the parties are always free to vary the terms of contract.
+Precedent	Merely because by Resolution dt.
+Precedent	30.6.1978, the assessee agreed to defer the payment of interest, would not mean that it tried to evade the tax.
+Precedent	What is material in the tax jurisprudence is the evasion of the tax, not the beneficial lawful adjustment theref or.
+Precedent	Considering the genuine nature of the transaction based on the letter dt.
+Precedent	15.6.1978 and the Resolution dt.
+Precedent	30.6.1978, it cannot be said that the whole transaction was in order to evade the tax.
+Precedent	24.
+RatioOfTheDecision	There is also no dispute that the assessee was following <ORG> and that the Accounting Year for the Assessment Year 1980-81 was 1.7.1978 to 30.6.1979.
+RatioOfTheDecision	<ORG> has correctly held and confirmed the <ORG>'s finding that insofar as the accrued interest for the Assessment Year 1979-80 was concerned, since the interest had already accrued to the assessee, it cannot be wiped out later on by passing a Resolution dt.
+RatioOfTheDecision	30.6.1978.
+RatioOfTheDecision	The interest, indeed had accrued in the Accounting Year which began from 1.7.1977 to 30.6.1978 and as such, the subsequent passing of the Resolution could not result into wiping out that accrual.
+RatioOfTheDecision	The assessee could not have refused to pay tax on that.
+RatioOfTheDecision	We are indeed not concerned with Assessment Year 1979-80, but insofar as the Assessment Year 1980-81 is co ncerned, the interest had not accrued and before it accrued, the assessee deferred the same by passing Resolution dt.
+Fact	30.6.1978.
+RatioOfTheDecision	Thus, there was a full scope to the assessee to adjust the interest or as the case may be to defer the same which it did.
+RatioOfTheDecision	We, therefore, do not find any ill-intention on the part of the assessee to evade the tax.
+RatioOfTheDecision	25.
+RatioOfTheDecision	At this juncture, we cannot forget that the assessment for the Assessment Year 1980-81 was finalized by the <ORG> by holding that the interest could not be included.
+RatioOfTheDecision	We, therefore, fail to follow, as to how, the said interest could be treated as an income, so as to compel the assessee to pay advance tax on the same.
+RatioOfTheDecision	We, therefore, do not see any justification for a Show Cause Notice under Section 274 read with Section 273 (2)(a) of the Act on the ground that the assessee had deliberately filed an untrue estimate of the advance tax which he had known or reason to believe to be untrue.
+RatioOfTheDecision	In our opinion, the <ORG> as well as <ORG> were right in holding the tr ansaction to be genuine.
+RatioOfTheDecision	26.
+RatioOfTheDecision	We agree with <ORG> finding that the law permits the contracting parties to lawfully change their stipulations by mutual agreement and, therefore, the assessee and the vendee had no legal impediment in modifying the terms of their contract.
+RatioOfTheDecision	We also agree with the further finding of <ORG> that the Resolution could not be given any retrospective effect so as to facilitate evasion of tax liability that had already arisen for the Assessment Year 1979-80.
+RatioOfTheDecision	We further agree with <ORG> finding that it being a valid stipulation, changed the mode of payment from the date of the Resolution and, therefore, under the changed mode of payment adopted under the Resolution dt.
+RatioOfTheDecision	30.6.1978, no interest was to accrue during the Accounting period from 1.7.1978 up to 30.6.1979 and, therefore, the reasoning of the <ORG> on that count appeared to be correct as regards the Assessment Year 1980-81 is concerned.
+RatioOfTheDecision	We further confirm the finding that since no interest had accr ued in the Accounting Year 1.7.1978 to 30.6.1979, there could arise no question of relinquishment of interest for any commercial expediency.
+RatioOfTheDecision	There was no such question because a party cannot relinquish income that has not accrued at all.
+RatioOfTheDecision	We, therefore, accept the judgment of <ORG> insofar as it pertains to the Reference No.
+RatioOfTheDecision	56 of 1986.
+RatioOfTheDecision	<ORG> has correctly found that in view of the categorical stipulation that interest will be payable on the deferred consideration amount in respect of the sale, which became effective from 1.3.1977, the interest started accruing on that time basis, from 1.3.1977 determined by the amount outstanding from time to time and the rate applicable which both were stipulated in clearest possible terms in the Deed of Assignment dt.
+RulingByLowerCourt	28.6.1977 and the agreements which preceded it.
+RulingByLowerCourt	<ORG> has assessed the facts correctly and has further observed in para 14.7 that what already accrued during the Accounting Year 1.7.1977 to 30.6.1978 could not be nullified by the Res olution dt.
+RulingByLowerCourt	30.6.1978, however, the same rule could not be applicable to the subsequent Accounting Year, when the interest had not accrued.
+RatioOfTheDecision	We, therefore, confirm the finding of <ORG> insofar as Reference No.
+RatioOfTheDecision	56 of 1986 is concerned and hold that <ORG> had correctly decided the Reference No.
+RatioOfTheDecision	56 of 1986 insofar as it pertains to Assessment Year 1980-81.
+RatioOfTheDecision	24.
+RatioOfTheDecision	This takes us to the finding of <ORG> insofar as the Reference No.
+RatioOfTheDecision	220 of 1995 is concerned.
+RatioOfTheDecision	In this case, the authorities below and the <ORG> had held that while filing the Nil estimate of advance tax on 14.12.1978, the appellant had full knowledge of the interest income of Rs.66,29,236/- which had accrued and though all this was known to the assessee, he had filed the Nil estimate knowingly or it had reason to believe that the Nil estimate was untrue.
+RatioOfTheDecision	<ORG> while dealing with the issue, took the view that the burden was on <ORG> to establish under Section 273 (2)(a) of the Act that the assessee, when it filed the  <NAME> estimate, knew or had reason to believe that it was not genuine and was spurious.
+RatioOfTheDecision	<ORG>, however, took the view that the Resolution dt.
+RatioOfTheDecision	30.6.1978 was not doubted by the authorities to be spurious and under that Resolution, the date of accrual of interest was shifted to 1.7.1979 by substituting the mode of payment as was incorporated in the agreement and the Deed of Assignment.
+RatioOfTheDecision	It was pointed out by <ORG> further that the <NAME> estimate, was filed on 14.12.1978, i.e., much after the said Resolution was passed.
+RatioOfTheDecision	<ORG>, therefore, took the view that in the background of the said Resolution, by which the assessee intended to shift the accrual of interest to 1.7.1979, it is difficult to accept that the assessee had reason to believe that the <NAME> estimate was untrue.
+RatioOfTheDecision	<ORG> further holds the possibility that the assessee reasonably believed that in view of the Resolution dt.
+RatioOfTheDecision	30.6.1978, it could legitimately file the <NAME> estimate, cannot be ruled out.
+RatioOfTheDecision	Further, in view of the natur e of the change in stipulation of mode of payment made by Resolution dt.
+RatioOfTheDecision	30.6.1978, no definite conclusion can be drawn that the assessee had reason to believe that the Nil estimate filed was untrue.
+RatioOfTheDecision	Merely because on assessment, the assessee's stand that the Resolution which was passed on the last day of its Accounting Year, i.e., on 30.6.1978, was not accepted on the ground that the interest that had already accrued during the Accounting Year on the strength of the contractual terms, cannot be made `not to accrue after its actual accrual, it cannot be inferred with any certainty that the assessee had reason to believe that its Nil estimate was untrue'.
+RatioOfTheDecision	<ORG> has then held that the penalty under Section 273  (2)(a) of the Act is not an automatic outcome of the addition of such income.
+RatioOfTheDecision	It is on this ground that <ORG> has set aside the finding of the <ORG> confirming the penalty of Rs.4 lakhs levied under Section 273 (2)(a) of the Act on the assessee.
+RatioOfTheDecision	25.
+RatioOfTheDecision	We must clarify here that insofar  as Assessment Year 1980-81 is concerned, there will be no question of any penalty whatsoever and it had to go as it has been found on facts and law that the Resolution dt.
+RatioOfTheDecision	30.6.1978 had become effective and under the same, the interest was already deferred and, therefore, there was no accrual of interest in that year.
+RatioOfTheDecision	However, the question is as to whether <ORG> was right in absolving the assessee of the penalty, which was inflicted even for the year 1979-80.
+RatioOfTheDecision	The learned Senior Counsel, appearing on behalf of <ORG> very earnestly argued that once the interest was found to have been accrued for the Assessment Year 1979-80 and once on that count, the income of the assessee was held to be Rs.66,29,236/-, then the penalty under Section 273(2)(a) of the Act was a natural consequence and that <ORG> should not have put a specific burden on <ORG> to prove that the estimate of advance tax payable by it was not only untrue, but the assessee also knew and had reason to believe it to be untrue.
+RatioOfTheDecision	26 .
+RatioOfTheDecision	We do not agree, considering the specific language of the Section squarely.
+Statute	The Section runs as under:  "273(2) If the Assessing Officer, in the course of any proceedings in connection with the regular assessment for the assessment year commencing on the 1st day of April, 1970, or any subsequent assessment year, is satisfied that any assessee- (a) has furnished under sub-section (1) or sub-section (2) or sub-section (3) or sub-section (5) of  Section 209A , or under sub-section (1) or sub-section (2) of Section 212 , an estimate of the advance tax payable by him which he knew or had reason to believe to be untrue."
+Statute	(b)..............................................................................  (c).............................................................................."  The specific wording would signify that there has to be a satisfaction of the Assessing Officer that the estimate of advance tax furnished by the assessee was not only untrue, but the assessee also knew or had reason to believe the  same to be untrue.
+RatioOfTheDecision	In the present case, there can be no dispute that the claim of the assessee in respect of the Assessment Year 1979-80 was not accepted.
+RatioOfTheDecision	However, in our opinion, in the peculiar facts of this case, it cannot be said that the assessee had knowledge of its estimate of advance tax to be untrue or had reason to believe the same to be untrue.
+RatioOfTheDecision	The assessee had, undoubtedly, claimed the waiving of that interest as a natural corollary of the Resolution dt.
+RatioOfTheDecision	30.6.1978.
+RatioOfTheDecision	It was also claimed that the assessee had commercial expediency for doing the same.
+RatioOfTheDecision	It was tried to show that such commercial expediency arose by the subsequent agreement, whereby, the <ORG> had agreed to provide the security for the amount due from it.
+RatioOfTheDecision	Assessee had, therefore, furnished its estimate for the advance tax as Nil, as it claimed that it had the income of only about Rs.800/-.
+RatioOfTheDecision	In the subsequent year, the assessee claimed the loss of about Rs.17,000/-.
+RatioOfTheDecision	Though the attempt on the part of the assessee was to give up the accrue d interest in the name of commercial expediency, there was no valid justification to relinquish the same, as has been found by <ORG>.
+RatioOfTheDecision	<ORG> has also specifically found that the only aim was to avoid payment of tax which had become due on the basis of the accrual of interest and commercial expediency was only a dignified guard in which the arrangement made to evade the tax was sought to be covered.
+RatioOfTheDecision	However, it was shown to <ORG> that the penalties levied under Section 273(2)(a) of the Act were determined in case of two companies of the same Group, they being, <ORG> and <ORG>, wherein, it was held that the Resolution passed on 30.06.1978 for the foregoing interest had become applicable from 1.7.1978.
+RatioOfTheDecision	<ORG> took the view that the levy of interest under Section 215 of the Act and the levy of penalty under Section 273(2)(a) of the Act stand on different footings.
+RatioOfTheDecision	We have no hesitation to accept this view of <ORG>.
+RatioOfTheDecision	Indeed, while the levy of inte rest under Section 215 of the Act is automatic, that is not the case with the penalty under Section 273(2)(a) of the Act, where the mensrea on the part of the assessee would have to be shown to the extent, it has been indicated in the language of the Section, where, therefore, there was some scope for the assessee to justify the estimate given by it and that the penalty could not be inflicted.
+RulingByLowerCourt	Indeed, if the assessee in this case proceeded on the basis of Resolution dt.
+RulingByLowerCourt	30.6.1978, it has to be held that the assessee had reasonably believed that the income of interest which was written off by the Resolution, could not be added to its income.
+RatioOfTheDecision	If it genuinely proceeded under that bonafide impression, then in our opinion, <ORG> was right in writing off the penalty and upsetting the view of the <ORG>.
+RatioOfTheDecision	We accept the finding of <ORG>, which is in the following words:  "....no definite conclusion can be drawn that the assesse had reason to belive that the <NAME> estimate filed by it was untrue....."    26.
+RatioOfTheDecision	Considering the overall facts in this case, we are of the clear opinion that <ORG> was right in setting aside the penalty of Rs.4 lakhs inflicted against the assessee under Section 273(2)(a) of the Act.
+RulingByPresentCourt	We answer the issue accordingly.
+RulingByLowerCourt	In the result, the appeals filed by the <ORG> fail and the judgment of <ORG> is confirmed without any costs.
+RulingByLowerCourt	..................................J.
+RulingByLowerCourt	( <NAME> ) ..................................J.
+RulingByLowerCourt	( <NAME> ) New Delhi;  October 21, 2008

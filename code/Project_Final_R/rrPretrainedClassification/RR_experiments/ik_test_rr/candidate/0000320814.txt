@@ -1,0 +1,116 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: STATE OF ANDHRA PRADESH DATE OF JUDGMENT: 15/09/1964 BENCH: <NAME>, M. BENCH: <NAME>, <NAME>, K. <NAME>, J.R. CITATION: 1965 AIR 1185 1965 SCR (1) 269 CITATOR INFO : R 1969 SC 355 (10) R 1979 SC 339 (9) R 1980 SC 506 (7) F 1987 SC1167 (9) ACT: Essential Commodities Act , s. 7- -Offence under- Report under s. 11 .-Whether amounts to Police Report requisite under s. 251-A and s. 190(l) (b) of Code of Criminal Procedure -Whether triable under s. 251- A or s. 252 of the Code.
+Fact	HEADNOTE: The appellant was being tried before a Magistrate for offences under s. 420 of the Indian Penal Code and s. 7 of the Essential Commodities Act, 1955.
+Fact	The offences arose out of the same set of parts and were investigated together under Chapter XIV of the Code of Criminal Procedure.
+Fact	At the end of the investigation the police officer filed in respect of the offence of cheating a charge-sheet against the appellant under s. 173 of the Code which was intended to serve al so as a report in writing of a public servant as required by s. 11 of the Essential Commodities Act.
+Fact	At the trial the appellant objected that as the police had filed a report under s. 11 of the Essential Commodities Act, the trial of the offence under s. 7 could not be under s. 251-A but should be under s. 252 of the Code of Criminal Procedure.
+RulingByLowerCourt	The Magistrate overruled his objection, and in revision the Sessions Judge and <ORG> upheld the Magistrate's order.
+RulingByLowerCourt	Thereupon, the appellant came to <ORG>.
+RulingByLowerCourt	The appellant's contention in the appeal was that under s. 251-A as well as under el.
+RulingByLowerCourt	(b) of s. 190(1) the report must be a report of a police officer under s. 173 after investigation under Chapter XIV of the Code of Criminal Procedure, that the report in the appellant's case being under s. 11 of the Essential Commodities Act, and not a report under s. 173 it could only be treated as a complaint under s. 190(1)(a) , and that the procedure applicable was that under s. 252 .
+RulingByLowerCourt	HELD : (i) Cases falli ng under cls.
+RulingByLowerCourt	(a) and (c) of s. 190(l) are triable according to the procedure in s. 252 while those falling under el.
+RulingByLowerCourt	(b) of that section are triable under s. 251-A of the Code of Criminal Procedure.
+Precedent	As the report in the present case was made by a police officer it could not be taken cognizance of under cls.
+Precedent	(a) and (c) which expressly exclude report or information given by a police officer.
+Precedent	The offences mentioned in such a report could therefore not be tried under s. 252.
+Precedent	[272H; 273C-D] (ii) A report under s. I 1 is not a charge-sheet, but a report made under s. 173 satisfies the provisions of s. I I as the police officer who makes it is also a public servant.
+Fact	The report regarding the offence under s. 7 was rightly included in the charge-sheet under s. 173 because both the offences were investigated under Chapter XIV.
+Fact	The case therefore was one instituted on a police report under s. 173 and s. 251-A was applicable.
+Precedent	[273G; 274D-E; 275C- <CITATION_1311858> .
+Precedent	3 S.C.R.
+Precedent	563, <CITATION_57000> A.I.R.
+Precedent	1958 Punj.
+Precedent	17 2 and <CITATION_1233507> A.I.R.
+Fact	1958 Cal.
+Fact	213, referred to.
+Fact	JUDGMENT:  CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No.
+Fact	49 of 1964.
+Fact	270  Appeal by special leave from the judgment and order dated September 3, 1963 of <ORG> in Criminal Revision Case No, 132 of 1963 and Cr.
+Fact	R. Petition No.
+Fact	118 of 1963.
+Fact	<NAME>, <NAME>, for <NAME>, for the appellant.
+Fact	<NAME> and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <NAME> The appellant is being prosecuted under s. 420 , Indian Penal Code and under S. 7 of the Essential Com- modities Act, 1955 for contravention of cls.
+Fact	(4) and (5) of the Iron an-,I Steel Control Order.
+Fact	The prosecution was commenced by the Inspector of Police, <ORG>, Hyderabad by filing against him a charge-sheet tinder S. 173 of the Code of Criminal Procedure in respect of the offence of cheating which was intended to serve also as a report in writing of a public servant as required by S. 11 of  the Essential Commodities Act, 1955.
+Fact	Learned City Magistrate of Secunderabad framed a charge against him under s. 251A(3) of the Code of Criminal Procedure in respect of both the offences.
+Fact	The appellant then raised two preliminary objections : the first was that as the commodity was obtained and disposed of at Bombay, the <ORG> at Secunderabad had no jurisdiction to try him.
+Fact	This objection, which would have necessitated the recital of facts, has not been raised before us and it is not necessary to mention it again.
+Fact	The second objection was that as the police had filed a report under s. I 1 of the Essential Commodities Act , a trial of the offence under s. 7 could not be under s. 251A but under s. 252 of the Code of Criminal Procedure.
+RulingByLowerCourt	He, therefore, asked that the charge framed against him should be quashed.
+RulingByLowerCourt	This objection was rejected.
+RulingByLowerCourt	The appellant thereupon moved the Sessions Judge in revision who declined to interfere.
+RulingByLowerCourt	He filed a second revision in the High <ORG> of Andhra Pradesh but it was dismissed by  the order which is now underappeal.
+Fact	In so far as the trial of the alleged offence under s. 420 , Indian Penal Code is concerned there is no objection to its trial under S. 251A , Code of Criminal Procedure.
+Fact	That provision is made for the procedure to be adopted in cases "instituted on a police report".
+Fact	Under that procedure the Magistrate has to satisfy himself, at the commencement of the trial, that the documents referred to in s. 173 have been furnished to the accused and if they have not been furnished to cause them to be so furnished.
+Fact	271  The Magistrate must then consider all the documents and after making such examination, if any, of the accused, as the Magistrate thinks necessary and after giving the prosecution and the accused' in opportunity of being heard, the Magistrate must consider whether a charge should be framed against the accused or not.
+Argument	If he comes to the conclusion that the charge is groundless he must discharge him.
+Argument	On the other hand, if he is of the opinion that there is ground for pres uming that the accused has committed an offence triable under this Chapter, which he is competent to try and which, in his opinion, could be adequately punished by him, he must frame a charge in writing against the accused and after explaining it to him record his plea and proceed according to it.
+Statute	Under s. 252 , Criminal Procedure Code , it is provided as follows :-  "252(1) In any case instituted otherwise than on a police report,, when the accused appears or is brought before a, Magistrate, such Magistrate shall proceed to hear the complainant (if any) and take all such evidence as may be produced in support of the prosecution Provided that the Magistrate shall not be bound to, hear any person as complainant in any case in which the complaint.
+Statute	has been made by a Court.
+Statute	(2) The Magistrate shall ascertain, from the complaint or otherwise, the names of any persons likely to be acquainted with the facts of the case and to be able to give evidence, for the .prosecution, and shall summon to give evidence before  himself such of them as he think necessary."
+RatioOfTheDecision	Under s. 253 , Criminal Procedure Code , if, upon taking all the evidence referred to in the section just quoted and making such examination, if any, of the accused as the Magistrate thinks necessary, he finds that no case against the accused has been made out which, if unrebutted, would warrant his conviction, the Magistrate can discharge him.
+RatioOfTheDecision	On the other hand, if it appears to the Magistrate that there are grounds for presuming that the accused has committed an offence which the Magistrate is competent to try and which, in his opinion, could be adequately punished by him, he frames a charge against him and records a plea.
+RatioOfTheDecision	If the accused does not plead guilty the Magistrate gives him time to state which of the prosecution witnesses be wishes to cross-examine, if any, and if he says that he does so, the witnesses are recalled and are allowed to be cross- examined.
+RatioOfTheDecision	272  Contention of the appellant.
+RatioOfTheDecision	is that by the words 'police report' in s. 25  1A of the Code of  Criminal Procedure, is meant the report mentioned in S. 173 which the police officer makes to a Magistrate in respect of offences investigated by him under Chapter XIV.
+RatioOfTheDecision	The investigation is in respect of cognizable offences because noncognizable offences may only be investigated by police officers after being authorised in that behalf by a competent Magistrate.
+RatioOfTheDecision	-It is pointed out that under S. 190 , cognizance of an offence is taken in different ways : (a) upon receiving a complaint of facts which constitute an offence; (b) upon a report in writing of such facts made by any police officer; and (c) upon information received from any person other than a police officer, or upon the Magistrate's own knowledge or suspicion that such offence has been committed.
+Argument	It is argued on the basis of this threefold distinction that by the 'police report' in s. 190 (1 ) (b) is meant the charge- sheet of the police officer under S. 173 of the Code, and since the report in writing which the police officer makes under s. I I of  the Essential Commodities Act, 1955 is not a chargesheet under S. 173 of the Code it must be equated to a complaint of facts under s. 190(l) (a).
+Argument	In view of this distinction it is contended that while the offence under S. 420 , Indian Penal Code is triable under the procedure laid down in S. 251A , Criminal Procedure Code , the offence under S. 7 of the Essential Commodities Act is triable under the procedure laid down under S. 252 , 'Criminal Procedure Code .
+Argument	The appellant submits that either the two charges should be split up or the two offences should be tried under the procedure laid down by S. 252 of the Code of Criminal Procedure as the procedure under S. 251A , Criminal Procedure 'Code, does not afford the accused the chance of a second crossexamination which S. 252 of the Code gives, and there is prejudice 'to him in the trial of the offence under S. 7 of the Essential Commodities Act.
+RatioOfTheDecision	In our judgment the meaning which is sought to be given to a police report' is not correct.
+RatioOfTheDecision	In S. 190, a distinction  is made between the classes of persons who can start a criminal prosecution.
+RatioOfTheDecision	Under the three clauses of S. 190(l) , to which we have already referred, criminal prosecution can be initiated (i) by a police officer by a report in writing, (ii) upon information received from any person other than a police officer or upon the Magistrate's own knowledge or suspicion, and (iii) upon receiving a complaint of facts.
+RatioOfTheDecision	If the report in this case falls within  (i) above, then the procedure under S. 251A , Criminal Procedure 'Code, must be followed.
+RatioOfTheDecision	If it falls in (ii) or  (iii) then the pro-  273  cedure under s. 252 , Criminal Procedure Code , must-be followed.
+RatioOfTheDecision	We are thus concerned to find out whether the report of the police officer in writing in this case can be described as a "complaint of facts" or as "information received from any person other than a police officer".
+RatioOfTheDecision	That it cannot be the latter is obvious enough because the information is from a police officer.
+RatioOfTheDecision	The term "complaint" in this connection has been de fined by the Code of Criminal Procedure and it "means the allegation made orally or in writing to a Magistrate, with a view to his taking action under this Code, that some person, whether known or unknown, has committed an offence, but it does not include the report of a police officer".
+RatioOfTheDecision	[See s. 4 (1) (h) ].
+RatioOfTheDecision	It, therefore, follows that s. 252 , Criminal Procedure Code , can only apply to those cases which are instituted otherwise than on a police report, that is to say, upon complaints which are not reports of a police officer or upon information received from persons other than a police officer.
+RatioOfTheDecision	The initiation of the prosecution in this case was upon a report in writing by the police officer.
+Precedent	Section 1  1 of the Essential Commodities Act, 1955 reads as follows " 11.
+Precedent	Cognizance of offences.--No Court shall take cognizance of any offence punishable under this Act except on a report in writing of the facts constituting such offence made by a person who is a public servant as defined in section 21 of the Indian  Penal Code."
+RatioOfTheDecision	<CITATION_1311858> .
+RatioOfTheDecision	(1) this Court explained the nature of a report under S. 11 of the Essential Supplies (Temporary Powers) Act, 1946 which was a provision in the same words.
+RatioOfTheDecision	This Court has held that the function of the report under s. 1  1 is not to serve as a charge-sbeet against the accused, and that the purpose of s. 11 is to eliminate private individuals such as rival traders or general public from initiating the prosecution and to insist that before cognizance is taken the complaint must emanate from a public servant.
+RatioOfTheDecision	The police officer is a public servant and this was not denied before us.
+RatioOfTheDecision	The requirements of s. 11 are, therefore, satisfied, though s. I 1 does not make the report, if filed by a police officer, into a charge-sheet.
+RatioOfTheDecision	It is then contended that the report under s. II cannot be treated as a report under s. 173 but only as a complaint under s. 190(l) (a).
+Fact	The police officer was investigating under S. 156(1) of the Code of Criminal Proce- dure an offence under s. 420 , Indian  Penal Code which was based on the same facts as the offence under s. 7 of the Essential Commodities Act.
+Fact	He investigated the latter offence along with the (1)  3 S.C.R.
+Fact	563.
+Fact	274  former and joined it with the former in the charge-sheet which presented.
+Fact	Section 156(2) provides that where a police officer enquire into an offence under S. 156(1) his action cannot be called into question on the ground that he was not empowered to investigate the offence.
+RatioOfTheDecision	The enquiry was an integrated one, being based on the same set of facts.
+RatioOfTheDecision	Even if the offence under the Essential Commodities Act may not be cognizablo- though it is not alleged by the appellant that it is non- cognizable-the police officer would be competent to include it in the charge-sheet under S. 173 with respect to a cognizable offence.
+RatioOfTheDecision	<CITATION_647229> (1), <NAME> (as he then was) observed that the provisions of s. 155(1), Criminal Procedure Code , must be regarded as applicable to those cases where the information given to the police is solely about  a non-cognizable offence.
+RatioOfTheDecision	Where the information discloses a cognizable as well as a non- cognizable offence the police officer is not debarred from investigating any non-cogniz,able offence which may arise out of the same facts.
+RatioOfTheDecision	He can include that non-cognizable offence in the charge-sheet which he presents for a cognizable offence.
+RatioOfTheDecision	We entirely agree.
+RatioOfTheDecision	Both the offences if cognizable could be investigated together under Chapter XIV of the Code and also if one of them was a non, cognizable offence.
+RulingByLowerCourt	It was contended before us on the authority of <CITATION_1233507> (2) that a prosecution under S. 25 1 A, Criminal Procedure Code can only commence on a report under S. 173 of the Code of Criminal Procedure.
+RulingByLowerCourt	It is submitted that the report of the police officer cannot be regarded as a charge-sheet for purposes of S. 173 , Criminal Procedure Code .
+RulingByLowerCourt	In that case the learned Judges of <ORG> went elaborately into the meaning of the expression 'police report' in S. 190(1)(b) and held that those words  were confined to a charge-sheet under S. 173 of the Code.
+RatioOfTheDecision	We have pointed out above that in all those cases where the law requires a report in writing by a public servant the requirements of the law are satisfied when a report is filed by a public servant who is also a police officer.
+RatioOfTheDecision	We have also pointed out that even in cases where the police office cannot investigate a non-cognizable offence without the permission of a Magistrate he is not prevented by anything in the Code from investigating a non-cognizable offence along with a cognizable offence when the two arise from the same facts.
+Precedent	In the Calcutta (1) A.T.R.
+Precedent	1958 Punj.
+Precedent	172.
+Precedent	(2) A.I.R.
+Precedent	1958 Cal.
+Precedent	213.
+Precedent	275  case to which we have last referred, there was a provision (s. 20G) in the Opium Act , as amended in Bengal, which provided that a report in writing by an officer of the <ORG>, <ORG> or <ORG> shall be enquired into and tried as if such report was a report in writing made by police officer under cl.
+Precedent	(b) of s. 190 (1) of the Code of  Criminal Procedure, 1898.
+Precedent	<ORG> in <ORG> held that the section created a fiction by which the report of an <ORG> or <ORG> officer was to be regarded as the report of a police officer but only for the purpose of s. 190(l) (b), that it did not make the report a charge-sheet under s. 173 of the Code, and that s. 251,A, Criminal Procedure Code , was not applicable because it contemplated a report under s. 173 of the Code.
+RatioOfTheDecision	We invited counsel to tell us that if the effect of the fiction did not make it a report under s. 173 , Criminal Pro- cedure Code, what other purpose could the <ORG> have had in mind in saying that it was a police officer's report ?
+RatioOfTheDecision	He could suggest none, and we cannot also see what other purpose was intended.
+RatioOfTheDecision	In our opinion, the position is clear that such reports, if they are regarded as made under s. 190(1) (b), must attract the provisions of s. 251A of the Code, because if the fiction is given full effect they cannot be regarded as falling within 'c omplaints' under s. 190(1) (a) or within s. 190(1)(c) .
+RatioOfTheDecision	In any case, <ORG> also said that s. 251A is applicable to the trial of a case which is initiated on a police report under s. 173 if the investigation is one to which s. 173 , Criminal Procedure Code may be applied, and both the conditions are fulfilled in this case <ORG> was right in not interfering in revision with the trial of the case.
+RulingByPresentCourt	We dismiss the appeal.
+RulingByPresentCourt	The appellant has succeeded in delaying this trial for a considerable time.
+RulingByPresentCourt	We direct that the trial shall take place from day to day till the case is disposed of according to law.
+RulingByPresentCourt	Appeal dismissed.
+RulingByPresentCourt	276

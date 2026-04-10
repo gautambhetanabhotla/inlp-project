@@ -1,0 +1,391 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The parties to these appeals invite the <ORG> to evaluate life, which is priceless, by the negative device of assessing the loss inflicted by death on those who lived on the deceased's longevity.
+RulingByLowerCourt	In this mundane world, even the irreparable can be repaired somewhat by money and the law computes compensation for loss of life as "a hard matter of pounds, shillings and pence", based not on "sentimental damage, bereavement or pain or suffering" but on "a reasonable expectation of pecuniary benefit as of right or otherwise, from the continuance of the life".
+RulingByLowerCourt	2.
+Fact	A stage carriage, belonging to the 1st defendant-company, was plying, with lethal rashness, on the Vypeen-Pallipuram road on the ill-starred day, the 12th December, 1959.
+Fact	This lovely island has but rugged roads and the working-class denizens, who make a livelihood by employment outside the island, depend largely on buses for their daily journeys.
+Fact	Three such workmen by name <NAME>, <NAME> and <NAME>, all e mployed in <ORG>, were on their way to their work-place in the morning that day.
+Fact	According to the plaintiffs, the 1st defendant's overloaded bus, propelled recklessly by its driver, barged against a 'waterpipe pillar,' turned turtle and, as a result, several persons sustained serious injuries of whom the three men later succumbed to their injuries and died.
+Fact	All the three were the breadwinners of their poor families and on their death the dependants were cut adrift and so, they claimed compensation under the Fatal Accidents Act , Act 13 of 1855 --for short, called the Act --by way of pauper suits, which were duly resisted by the owner of the bus, the 1st defendant company, both regarding culpability and quantum of compensation.
+Fact	<ORG> overruled the pleas of the defendant on both heads and decreed damages to each set of defendants in substantial sums of Rs.
+Fact	13,110 in O.S.
+Fact	No.
+Fact	20 of 1955 of <ORG>, Ernakulam (O.S.
+Fact	No.
+Fact	46 of 1961 of <ORG>, Cochin) (Chouro), of Rs.
+Fact	21,040  in O.S.
+Fact	No.
+Fact	21 of 1965 of <ORG>, Ernakulam O.S.
+Fact	No.
+Fact	48 of 1961 of <ORG>, Cochin (Sylvian) and of Rs.
+Fact	23,001 in O.S.
+Fact	No.
+Fact	22 of 1965 of <ORG>, Ernakulam (O.S.
+Fact	No.
+Fact	47 of 1961 of <ORG>, Cochin) (Raphael).
+Argument	The owner of the bus, held vicariously liable by the Court below, has come up in appeal challenging the decree, by raising contentions, frivolous and serious, in a desparate effort, may be, to escape all liability under the Act.
+Argument	The recklessness of the driving is matched only by the recklessness of his pleas about culpability.
+Argument	For instance, in his written statement, the mishap is blamed on the bad condition of the road and in the appeal memorandum an audacious but confessional contention of volenti non fit injuria is seen raised.
+Argument	The dangerous and treacherous state of Vypeen roads, it is pleaded, almost induces accidents.
+RatioOfTheDecision	If that be so and perhaps it is Government is lucky that few people are conscious of their right to claim damages from it where the injury is  reasonably occasioned by its misfeasance.
+RatioOfTheDecision	However, such lamentable neglect of the maintainance of the highway must make a prudent motorist, driving in broad day light on a familiar route, more circumspect and it can never be an excuse for releasing him from legal duty to take care.
+RatioOfTheDecision	The greater the danger, the greater the care, should be the guideline of the motorist.
+RatioOfTheDecision	In this case, the evidence is clear, and the circumstances speak for themselves, that the 'fifth act' of the tragic drama which took the toll of three lives was brought about by the gross negligence of the driver.
+RatioOfTheDecision	The defendant has taken up a ground in appeal that the plaintiffs should be non-suited on the principle of volenti non fit injuria.
+RatioOfTheDecision	Scienti and therefore volenti may, perhaps, be the basis of the argument.
+RatioOfTheDecision	In other words, the plea of the owner is that the reckless driving of his buses is so chronic and notorious that any one who steps into them must be deemed knowingly and willingly to be walking into a death-trapl Now that the plea ha s been unhesitatingly abandoned by counsel who realised the implication, I can only remark "Father, forgive them, for they know not what they do".
+RatioOfTheDecision	This preposterous plea of the operator is perhaps bottomed upon the painful phenomena frequently found in Kerala of bad roads, absence of effective cautionary signals and safety measures, frequent and callous violation of traffic regulations and failure of concerned authorities to take prophylactic action against recurrence, at least after major road tragedies, thanks to the anaesthetised attitude of the public and government to road safety.
+RatioOfTheDecision	But I have no doubt that the negligence of the defendant's driver is the causa causans of the accident under consideration.
+RatioOfTheDecision	In fairness to counsel for the appellant, it must be said that, at the time of arguments, he did but feebly challenge his client's liability.
+RatioOfTheDecision	However, he rightly stressed his case that the quantum of compensation award-able under the Act was far less than the excessive award made by the trial Court and on  this part of the case we found consideraable force in his submission.
+RatioOfTheDecision	3.
+RatioOfTheDecision	All the three suits have been tried together and a common judgment has been delivered, since the claims spring from the same accident.
+RatioOfTheDecision	But we find a curious and indefensible procedure in drawing up a common decree for all the three suits; each suit must have a separate decree and even where there is a joint trial there cannot be 11 joint decree.
+RatioOfTheDecision	The Fatal Accidents Act , placed on the statute book as early as 1855, is a trifle archaic in form and somewhat obsolescent in content, but Courts are called upon to enforce the statute as it is.
+RatioOfTheDecision	Under the Indian Act , which is largely modelled on the English statute of 1846, brothers and sisters are not entitled to rank as dependants, although in England, the mother country (I mean, of the statute), by Section 2 of the Fatal Accidents Act, 1959, brother, sister, uncle and aunt of the deceased and the issue of such relatives have been inducted into the area of statutory dependency.
+RatioOfTheDecision	The other pr ogressive amenaments to the English statute also have not been copied in our country.
+Precedent	In one of the three suits we are concerned with viz., O.S.
+Precedent	No.
+Precedent	22 of 1965, plaintiffs 3, 4 and 5 are the two brothers and sister of the deceased who, under the Indian Act , are not entitled to claim compensation.
+Precedent	Again, the Fatal Accidents Act , 1855, states that "every such action or suit shall be for benefit of the wife, <NAME>, parent and child, if any, of the person whose death shall have been so caused, and shall be brought by and in the name of the executor, administrator or representative of the person deceased".
+Precedent	The Act also requires all the dependants to be named in the plaint.
+Precedent	What happens, if all these dependants are not on record, although they are alive or the suit is brought by some but not for the benefit of the others also ?
+Precedent	Strictly speaking, the section visualises some sort of a representative action, but, where the suit is brought, not by the executor or administrator, but by some of the beneficiaries th emselves, should the suit be dismissed because the others are not on record ?
+Precedent	That would be taking an extremely technical view and therefore an objection in that form, taken in two suits where the parents are alive, but not impleaded (nor claim made on their behalf), has been rightly overruled by the trial Court, although that does not mean that the plaintiffs should get the benefit of the compensation which should have gone to the parents had they also claimed.
+Precedent	There was evidence led regarding funeral expenses, presumably on the footing that a claim could be put forward in that behalf; but the Indian Act does not provide for it, while the amended English Act provides for award of damages in respect of the funeral expenses of the deceased if such expenses have been incurred by the parties for whoso benefit the action is brought.
+Precedent	In India the reasoning in <NAME> v. <ORG>, (1858) 4 CB (N.S.)
+Precedent	296 still holds good that "the subject-matter of the statute is compensation for injury by reason of the relative no t being alive" which is a narrower concept than compensation for injury by reason of a relative's death.
+Precedent	The former embraces only what the deceased had he lived, would have done for the dependant; the latter includes in addition to this what the dependant would do and does, reasonably and necessarily, for the deceased as a result of his death, such as a son's expenses of travelling thousands of miles by air to his <NAME>'s funeral, or a wife's expenses dealing with personal correspondence of sympathy and condolence on her Husband's death" (Mayne's Damages, 12th Edition page 689, para 810).
+Precedent	4.
+Precedent	We are, therefore, concerned only with assessing the amount of damages awardable to such of the plaintiffs as come within die scope of Section 1-A of the Act, measured by the loss occasioned to them by the death of the one on whom they depended, although a claim under Section 2 of the Act, available to the legal representatives by way of loss caused to the estate of the deceased, has not been put forward, by a serious o mission in the pleading.
+Precedent	Facts material to issue under Section 1-A are set out below:  A. S. No.
+Precedent	404 of 1966 O. S. 20 / 1965   1.
+Precedent	Name of the deceased:  <NAME> -- Aged 45  2.
+Precedent	Relatives specified in Section (1) (a) who figure as plaintiffs:  1.
+Precedent	Widow -- <NAME> -- aged 35  2.
+Precedent	Son -- <NAME> -- aged 14  3.
+Precedent	Daughter -- <NAME> -- aged 12  4.
+Precedent	Son -- <NAME> -- aged 9  3.
+Precedent	Relatives not specified in Sec.
+Fact	1 (a)but figuring as plaintiffs:  Nil  4.
+Fact	Relatives specified in Section 1 (a) but not figuring as plaintiffs:  Father and mother of the deceased 4 (a).
+Fact	Relatives not specified in Section 1 (a) who were dependants of the deceased:  2 Brothers and 2 sisters (P. W. 1page 4)  5.
+Fact	The age of each relation who is plaintiff:  1.
+Fact	Widow -- 35 years  2.
+Fact	Son -- 14 years  3.
+Fact	Daughter -- 12 years  4.
+Fact	Son -- 9 years  6.
+Fact	The longevity in the region for persons of the respective ages of the relatives:  1.
+Fact	Widow -- 35 years -- 30.03  2.
+Fact	Son -- 14 years -- 43.01 at 15  3.
+Fact	Daughter -- 12 years -- 47.11 at 15  4.
+Fact	Son -- 9 years  -- (about 50)  7.
+Fact	The average income of the deceased:  Rs.
+Fact	1,552,01 gross per year  9.
+Fact	The multiplier to be adopted and the circumstances relevant to fixing the multiplier:  The evidence is that the deceased who was 45 years "could have worked in <ORG> upto his 60th year"  Decrease in multiplier due to:  1. for contingency of death of parties,  2. daughter getting married,  3. son getting employed and becoming independent of parents etc.
+Fact	A. S. No.
+Fact	405 of 1966 O. S. 22 / 1965   1.
+Fact	Name of the deceased:  <NAME> -- aged 27 l  2.
+Fact	Relatives specified in Section 1 (a) who figure as plaintiffs:  1st Plaintiff: Father <NAME> -- aged 70 2nd Plaintiff Mother <NAME> -- aged 57  3.
+Fact	Relatives not specified in Sec.
+Fact	1 (a) but figuring as plaintiffs:  3rd Plaintiff -- Brother Antony 4th Plaintiff -- Sister Divind 5th Plaintiff -- Sister <NAME>  4.
+Fact	Relatives specified in Section 1 (a) but not figuring as plaintiffs:  Nil 4(a).
+Fact	Relatives not specified in Sec.
+Fact	1 (a) who were dependants of the deceased:  3rd, 4th a nd 5th plaintiffs (brother and sinters)  5.
+Fact	The age of each relative who is plaintiff:  1.
+Fact	Father -- Aged 702.
+Fact	Mother -- aged 573.
+Fact	Brother -- Aged 234.
+Fact	Sister -- aged 195.
+Fact	Sister -- aged 16  6.
+Fact	The longevity in the region for persons of the respective ages of the relatives Father -- aged 70 -- <NAME> died on 28-1-1968Mother -- aged 57 -- 14.34 at 60  7.
+Fact	The average income of the deceased:  Rs.
+Fact	1,424.34 gross per year  9.
+Fact	The multiplier to be adopted and the circumstances relevant to fixing the multiplier:  The evidence is that the deceased aged 27 could have worked up to 60thyear, i.e., 33 years Decrease in multiplier due to.
+Fact	:  1.
+Fact	Contingency of the death of parties including the dependants,  2.
+Fact	Deceased likely to get married,  3.
+Fact	Benefit accrued to the dependants due to death of deceased (Plaintiffs 1 and 2 alone are entitled for damages)1st plaintiff died on 28-1-68, i.e., 8 yrs.
+Fact	after the death of his son.
+Fact	He wasaged 70.
+Fact	Mother aged 57 A. S. No.
+Fact	406 of 1966 O. S. 21 / 1965   1.
+Fact	Name of the deceased:  <NAME>  -- aged 40  2.
+Fact	Relatives specified in Section 1 (a) who figure as plaintiffs:  Plaintiffs  1.
+Fact	Widow <NAME> -- aged 24  2.
+Fact	Son -- <NAME> -- aged 6  3.
+Fact	Daughter <NAME> -- aged 4  4.
+Fact	Daughter <NAME> -- aged 1  3.
+Fact	Relatives not specified in Section 1 (a) but figuring as plaintiffs:  Nil  4.
+Fact	Relatives specified in Section 1 (a) but not figuring as plaintiffs:  Mother of the deceased 4(a) Relatives not specified in Sec.
+Fact	1 (a) who were dependants of the deceased:  One brother and 2 sisters who were residing with the deceased  5.
+Fact	The age of each relative who is plaintiff:  1.
+Fact	Widow -- aged 24  2.
+Fact	Son -- aged 6  3.
+Fact	Daughter -- aged 4  4.
+Fact	Daughter  -- aged 1  6.
+Fact	The longevity in the region for persons of the respective ages of the relatives.
+Fact	Widow -- - 24 years -- 38.11 at 25 died 28-3-1968 Son -- 6 years -- 50.80 at 5 Daughter -- 4 years 55.33 at 5  7.
+Fact	The average income of the deceased:  Daughter -- 1 year -- 55.78 Rs.
+Fact	1, 679.12 Gross per year.
+Fact	9.
+Fact	The multiplier to be adopted and the circumstances relevant to fixi ng the multiplier:  As in the case of A. S. 404 / 66 taking into account the decrease in multiplier.
+Fact	1st Plaintiff widow died on 28-3-1968 2nd Plaintiff son, aged 6.
+Fact	3rd Plaintiff daughter, aged 4.
+Fact	4th Plaintiff daughter, aged 1.
+Fact	5.
+Fact	How do we ascertain the loss of the pecuniary benefit arising from the relationship, which would have been derived from the continuance of the life and which may consist of money, property or services: in other words, the value of the dependency ?
+Fact	This amount would depend largely upon how long the deceased would have lived and earned, had he not been killed by the accident and how long the dependants would live; in other words, on how long the dependency would last ?
+Fact	What would the deceased have contributed, on an average, to the dependant's well-being over the years; in other words, what is the basic figure ?
+Fact	In a world where imponderable forces operate and unexpected changes occur, a peep into the future and prediction with precision of things dependant on varying human and  social factors, may be cynically called an exercise in the art of pretense.
+Fact	In such an uncertain situation, Judges can only make intelligent guesses grounding themselves on existing realities, general probabilities and broad trends, making allowance for individual factors and freak possibilities.
+Fact	That is why the golden rule of 'reasonable expectations' has been accepted by Courts for want of a better.
+Fact	Standardised methods have also been devised for calculating the value of the dependency or the present value of the pecuniary benefit that the deceased would have conferred upon the dependant in the future.
+Fact	The annual value of the dependency is first arrived at, i.e., the basic figure, and this is multiplied by the number of years the dependency is expected to last, called the multiplier and the product is scaled down to reach the present value, because when a lump sum is being given, two considerations must weigh with us.
+Fact	The compensation packet is not what the dependant gets if his prop were alive.
+Fact	Had he bee n alive, he would have given various small sums over the months and the years and to-pay the aggregate in one lump is to help the dependant benefit by the death!
+Precedent	Similarly, there are contingencies which might cut off the benefit prematurely.
+Precedent	The formula works this way in practice.
+Precedent	Estimate the average income of the deceased (I am ignoring the cases where the deceased has not begun to earn, although in such cases prospective earning and therefore prospective loss can be taken into account), take the various expenditure factors affecting the individual, from the point of view of his own habits, family circumstances and social conditions and derive, after appropriate deductions, the normal contribution that the deceased was making, about the time of the accident, in favour of the dependant in a year.
+RatioOfTheDecision	This is the basic datum viz., the annual value of the dependency.
+RatioOfTheDecision	This is not very scientific because this annual figure may vary from time to time and for a number of reasons but effect is given to these uncertaint ies while choosing the multiplier, as is the practice in <ORG>.
+RatioOfTheDecision	The defence of this forensic procedure is not that it is the most rational but that it is the most practical in drawing up the balance-sheet based on a maze of factors.
+Precedent	A familier quotation in this branch of the law is to be found in Lord <NAME>'s speech in <NAME> v. <ORG>, 1942 AC 601, dealing with the case of the death of a working <NAME>.
+Precedent	He said:  "The starting point is the amount of wages which the deceased was earning, the ascertainment of which to some extent may depend on the regularity of his employment.
+Fact	Then there is an estimate of how much was required or expended for his own personal and living expenses.
+Fact	The balance will give a datum or basic figure which will generally be turned into a lump sum by taking a certain number of years' purchase.
+Fact	That sum, however, has to be taxed down by having due regard to uncertainties, for instance, that the widow might have again married and thus ceased to be depend ant, and other like matters of speculation and doubt."
+Precedent	The expectation of life, not merely of the deceased, but also of the dependant, is a matter to be taken into account, particularly when we are dealing with aged parents as dependants, for e.g., in O.S.
+Precedent	No.
+Precedent	48 of 1961.
+Precedent	Bad health certainly may affect expectation of a particular life; hazardous employment of another and so on.
+Precedent	Fortunately, in this case we are not called upon to consider these variables as no evidence has been led on those lines.
+Precedent	Similarly, the prospect of marriage of the deceased or the dependant has an important impact on the issue.
+Precedent	Unmarried <NAME>, the deceased, was just 27, an extremely marriageable age.
+Precedent	The widow of <NAME> was in her twenties, still a vernal age when the prospect of a re-marriage is not pale.
+Precedent	Among the many matters urged on this part of the case, there is one which has been the subject of much debate.
+Precedent	The widow of <NAME> had actually died when the appeal in this <ORG> was pending and so counsel for the appellant con tended that we are not in order in assuming a notional longevity for her, confronted as we were with the stark fact of her death.
+Precedent	Not so important; yet <NAME>'s aged <NAME> also died during the pendency of the appeal.
+Precedent	The argument is that the dependency snaps when the beneficiary dies and when that has happened, speculation about it is silenced.
+Precedent	But the matter is not that easy of solution.
+Precedent	Damages begin to run from the time of the death of the victim of the fatal accident and are, therefore, normally assessed in relation to the facts then existing.
+RatioOfTheDecision	Yet, subsequent events surely must be taken into account when they throw light on the actualities of the case, and the latest data should be made available to the <ORG> at the time of the trial.
+RatioOfTheDecision	Logically, therefore, if one of the contingencies that would end the dependency, namely, the death of the dependant, has materialised before the trial, this must be taken into account and damages assessed accordingly.
+Precedent	<NAME>, <NAME>, observed in <NAME> v. <NAME>, 1 940-2 KB 658:  "It is quite true that the measure of damages has to be assessed as at that date (i.e., the <NAME>'s death), but <ORG> in assessing damages are entitled to inform their minds of circumstances which have arisen since the cause of action accrued and throw light upon the reality of the case.
+Precedent	It seems to me wholly wrong to say that where a death which involves the liability of a third party has occurred, as in the case, some years before the assessment of damages by the <ORG>, the <ORG> ought to shut its eyes to the fact that one dependant has had only a short tenure of life before death put an end to her dependence."
+Precedent	Subsequent events may either augment or cut down the quantum of damages, but it is a moot point when they can be taken note of and if so, subject to what restrictions and conditions.
+Precedent	6.
+Precedent	Every material event which affects the result of an action and occurs before the <ORG> take final leave of the lis should be taken into account, if the unreality gap between forensic findings and  the facts of life is to be narrowed down and if dispensing justice is not to be confused with the cult of the occult.
+Precedent	What would you think of a system of justice, when a <ORG> deliberates at length, hears long arguments, takes considerable evidence and holds that a plaintiff-claimant will have another fifty years' span of life even if an hour before this judicial astrology is articulated, the plaintiff dies of heart failure in the <ORG> hall ?
+Precedent	Justice is blind ?
+Precedent	I venture to suggest that justice is not, and ought not to be, blind to up-to-date facts, and Judges must see with their eyes and discern with their mind's eye to arrive at the truth.
+RatioOfTheDecision	But there is another side to the question.
+RatioOfTheDecision	On principle, a <ORG> grants relief as on the date of the plaint and, strictly speaking, even events occurring up to the close of the trial may be considered only in exceptional cases.
+RatioOfTheDecision	For, a perfect administration of justice gives a decree at least immediately the two parties appear in <ORG> and all further protraction is often  blamable on the 'law's delays'; similarly, it is quite conceivable that if the plaintiff has demanded only a prudent sum a sensible defendant may admit the claim.
+RatioOfTheDecision	And so, if a decree is passed on a reasonable estimate made by the plaintiff of the expectation of his life, the defendant consents to it and files no appeal, and some days later the claimant dies, can the defendant get the award of compensation upset on that ground or has he to accept it as a decree of fate what if the man lives longer ?
+RatioOfTheDecision	If the decree can be amended on this ground, can it be done years later or on the score that other similar material factors have altered ?
+RatioOfTheDecision	That would be introducing hobgoblins into the administration of law and un-doing finality of decisions for every Such illustrations bring home the necessity for drawing the line somewhere and the futility of endeavouring to avoid injustice by looking into later happenings --apart from procedural complications of pleading and evidence.
+RatioOfTheDecision	But, all things considered, the compelling  logic of <NAME>, L.J., persuades me to include in the judicial algebra all things that occur, beyond the control of the parties, up to the close of the trial.
+RatioOfTheDecision	But, comes the argument, then why not events subsequent to <ORG> decree but precedent to the disposal of the appeal ?
+RatioOfTheDecision	Can we not classify the death of a dependant in a fatal accident case as of such special significance as to pass the barrier of exclusion of events subsequent to the trial ?
+RatioOfTheDecision	I am disposed to say 'yes'.
+Precedent	So long as there is a comprehensive legal proceeding pending, e.g., an appeal, in which the subject-matter of compensation is legitimately available for judicial scrutiny, light on the decisive facts, beyond the manipulation of parties, may be received and reliefs moulded accordingly.
+Precedent	If no appeal is pending, you can't recall the verdict or seek review on account of later events.
+Precedent	This may itself lead to anomalies.
+Precedent	But our imperfect instruments have pragmatic limits in the search for perfection!
+Precedent	The view I have taken can be jus tified by traditional judicial thought also, For brevity's sake, I shall refer to but one <ORG> decision of <ORG>, reported in <CITATION_1538295> , 1962 Ker LT 446 = (AIR 1962 Ker 341) (FB).
+Precedent	The learned Chief Justice observed in that case --which was one relating to the grant of a permit to one among many competing applicants, under the Motor Vehicles Act , having regard to development between the disposal by the <ORG> and the hearing of the appeal by the S.T.A.T.
+Precedent	"If the duty of <ORG> is to decide --as we think it is --whether <ORG> was wrong or not, it must naturally follow that the appellate decision must be on the basis of the facts and circumstances which formed the foundation of the order under appeal.
+Precedent	An appeal, no doubt, is in the nature of a rehearing.
+Precedent	But that does not mean that it is in the nature of a fresh trial, with freedom to the parties to press into service every event that has occurred since the decision un der appeal.
+Precedent	All that an appellate power spells is a power to consider on the merits the decision of a lower Court or tribunal.
+Precedent	There is of course a type of subsequent events which <ORG> has to take into account in moulding the relief to be granted: the death of a party, a change of law, AIR 1941 FC 5, a judgment in rem AIR 1957 SC 875.
+Precedent	This is a restricted category, and all that we need say is that neither a qualification obtained on the basis of a permit subsequently set aside in appeal nor one acquired by an applicant's endeavours during the interval between the decision of <ORG> and the hearing before <ORG> should be taken into account as a subsequent event which is material for the disposal of an appeal."
+Precedent	The rule is that subsequent events cannot be considered at the appellate stage, since an appeal, though a continuation of the suit for purposes of hearing the entire matter, is not a continuation of the trial where fresh evidence c an also be introduced.
+Precedent	There are certain exceptions engrafted upon this rule, as pointed out by My Lord the Chief Justice.
+Precedent	Such subsequent events must possess a decisive bearing on the issues in the case, must have occurred independently of the exertions of parties and must be such as would stultify the decree if not taken into account.
+Precedent	I am inclined to the view that the death of a principal or sole dependant has a deadly effect on the compensation claimable in many cases and in such cases Courts will be in order in having due regard to them while deciding the appeal, provided the pleadings are got amended, the opposite party afforded an opportunity to answer and other procedural prescriptions complied with.
+Precedent	7.
+Precedent	In the present case, this legal controversy cannot loom large, because where there are many dependants, all below the poverty line, as in this case, one or two deaths among them may not affect the gross sum set apart by the wage-earner for the family upkeep and, therefore, the compensation payable by  the defendant, although inter se shares may be changed.
+Precedent	In O.S.
+Precedent	No.
+Precedent	48 of 1961 the death of the wife may be a material circumstance to reduce the budgetary provisions which the deceased would have made for the circle of dependants, but even this should not be exaggerated because he would have had to bring in some elderly lady to look after the children and incur extra expenditure on several small items which the presence of the wife might have obviated.
+RatioOfTheDecision	Nor has any amendment of the pleading been sought at the appellate stage so as to enable the Court to rely on the circumstance of death of the 1st plaintiff and the opposite party to rebut the intensity of its impact on the complex of compensation factors.
+RatioOfTheDecision	Moreover, she died only after 10 years after <NAME>'s death and we are adopting not a much greater multiplier.
+Precedent	The case of the 1st plaintiff in O.S.
+RatioOfTheDecision	No.
+RatioOfTheDecision	22 of 1965 (<NAME>'s <NAME>) is no better because the multiplier adopted by us more or less accords with his death and neither party can have a grievance.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The table furnished earlier gives us approximately a gross annual income of Rupees 1,552/- for Chauro, Rs.
+RatioOfTheDecision	1,679/- for <ORG> and of Rs.
+RatioOfTheDecision	1,425/- for <NAME>.
+RatioOfTheDecision	There are many factors, material and minute, which affect the fixing up of the annual value of the dependency.
+RatioOfTheDecision	While the learned Subordinate Judge has palpably erred in the matter of computation, the deduction he made on account of what would have been spent on the deceased himself being only the cost of transport and "outside meals" on working days, there is a broad fairness in adopting as the basic figure Rs.
+RatioOfTheDecision	800/- in the case of <ORG>, Rs.
+RatioOfTheDecision	850/- in the case of <ORG> and of Rs.
+RatioOfTheDecision	800/- in the case of <NAME>.
+RatioOfTheDecision	While neither counsel wanted it to be understood that they accepted these figures they did not call them unfair, having due regard to the many factors which cannot be very clearly articulated but can certainly be felt and appreciated and were thoroughly examined at the hearing before us.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The real controversy rages round fixing the multi plier.
+RatioOfTheDecision	A great deal of argument and reference to precedents has been our pleasure to listen to, but I am not much the wiser for all that because, essentially, this is a question which has to be resolved on the specific facts and circumstances of each case, the broad guidelines of judicial pronouncements being helpful only to a limited degree.
+Precedent	In <NAME> v. <ORG>, 1 956-1 WLR 51 Singleton, L. J., observed:  "One point of law is raised, Mr. <NAME> .......... asked that he might be allowed to refer the judge to decisions of other judges and of this <ORG> in cases of a like nature in order to give some guidance as to the amount of damages which should be awarded.
+Precedent	Mr. <NAME>, ........ objected to any such material being placed before the judge, and the judge, ....... gave judgment upon that question.
+Precedent	He said -that Mr. <NAME> had referred him to the decision of this <ORG> in Rushton v. <ORG>, 1953-1 QB 495 and in particular to certain words of <NAME>, <NAME> said: 'A s I understand the language, it is in main directed to a consideration of those cases in <ORG>, and, indeed, the language of Birkett, L.J., in which he says 'when, therefore, a particular matter comes for review one of the questions is, how does this accord with the general run of assessments made over the years in comparable cases ?
+Precedent	', is to my mind apt to indicate the practice in <ORG> itself ........
+Precedent	The Judge's decision is in these words; 'I do decide that in the circumstances it would not be right for me to permit Mr. <NAME> to refer to the quantum of damages awarded in similar cases.
+Precedent	If I am wrong about that, he will be able to get the matter put right hereafter.'
+Precedent	..........
+Precedent	The decision of <ORG> to which reference was made drew attention to the desirability of approaching, as far as possible, something in the nature of a standard in certain classes of injury so as to help judges of first instance as much as possible.
+Precedent	No one knows what is the right sum of damag es in any particular case, and no two cases are alike ......
+Precedent	I do not consider that a Judge is bound to hear such evidence fof compensation awarded in other comparable cases).
+Precedent	If counsel on one side or the other tenders such evidence or such material, it is for the Judge to say whether, in his discretion, he thinks it will be of help to him or not ......  'The danger of such material is that it is apt to take the mind of the tribunal from the particular facts of the case on which it is to give a decision.
+Precedent	It would not be right that a claim for damages for personal injuries should open by counsel for the plaintiff saying: 'My Lord, I have here fifteen decisions of Judges in the last five years upon an injury like this one,' say the loss of a leg; and for counsel on the other side to say: 'I have twenty-five similar decisions,' the one quoting the high ones and the other quoting the low ones.
+Precedent	That would not be of help to any Judge.
+Precedent	A Judge in assessing damages draws upon his own experience.
+Precedent	Where does he get th at experience ?
+Precedent	From knowledge of other Judges decisions as to amount; from knowledge of what is said in this <ORG> and in <ORG>; and from his ordinary experience in life.
+Precedent	It would not be wrong for counsel appearing in such a case to say to a Judge: 'I have here the report of a decision in the <ORG> of Appeal on an appeal on damages in a case very like this one; and I have another case, a decision of Mr. Justice <NAME>, a case again very like this one.
+Precedent	Would your Lordship like to have them ?
+Precedent	The Judge could not be wrong if he said: 'Yes, I should like that information, I should like to know what the <ORG> of Appeal said and I should like to know how Mr. Justice <NAME> dealt with this subject, for it is one of which no one has great experience."
+Precedent	In this context, I may also notice the observations of the Punjab High <ORG> in Dr. <NAME> v. <NAME>, AIR 1961 Punj 400.
+Precedent	At page 463 their Lordships have observed:  "It may, however, not be forgotten that no case is exactly like another, nor is  it possible to extract from decided cases any precise principle of law on this point.
+Precedent	The "question of negligence in the present case is, as it is in all cases, essentially one of fact, and it must not be confused by importing into it.
+Precedent	as principle of law, the reasoning applied in other cases for determining the issue of negligence on other sets or facts.
+Precedent	The circumstances of each case are almost always peculiar and unique, with the result that the conclusion in one case can hardly constitute a safe or helpful illuminating guide for another."
+Precedent	10.
+Precedent	A judge in a compensation case cannot be led by the nose by other holdings but he may permit himself to be guided by the expression of the wisdom and experience of his compeers.
+Precedent	11.
+Precedent	Two rulings of <ORG> reported in AIR 1962 SC 1 and AIR 1966 SC 1750 and a host of <ORG> rulings have been pressed before us by counsel.
+RatioOfTheDecision	The multiplier in each case is different from the other for obvious reasons; and circumstances, such as, fall in money value, loss of  society of the <NAME> or wife, have been taken note of in some cases.
+RatioOfTheDecision	It is difficult to derive direct benefit from these rulings; for, there exists no fool-proof formula regarding compensation.
+RatioOfTheDecision	I can only observe --and that does not make any one the wiser --that the <ORG> should be realistic and have due regard to the risks and the prospects and those other vicissitudes and changes hidden by the thick veil of time.
+RatioOfTheDecision	But all these 'mystic may-bes' must he in the background only, while 'beaten-track' probabilities of the work-a-day world must occupy the foreground of the judicial mind.
+RatioOfTheDecision	I have attempted to arrive at a figure avoiding exaggerations on either side and come to the conclusion that in the case of <NAME> a multiplier of 10 (ten) and in the case of <NAME> a multiplier of 12 (twelve) may be adopted safely.
+RatioOfTheDecision	So far as <NAME> is concerned, the old age of his parents is a weighty factor depressing the multiplier and the great likelihood of his marrying shortly, had he been alive, also works in the same  direction.
+RatioOfTheDecision	A multiplier of ten will be fair to the aged parents in his case.
+RatioOfTheDecision	<NAME> had around 1.5 years of working life while <NAME> had about 20.
+RatioOfTheDecision	Life might snap before this, for many chancy reasons.
+RatioOfTheDecision	They may be thrown out of employment.
+Precedent	Working capacity may be impaired due to ill-health.
+Precedent	The rupee may lose its purchasing power with inflationary trends.
+Precedent	Among their present dependants, the sons may begin to earn and daughters marry, ceasing to depend or depend to the same extent.
+Precedent	The lay-out on the family includes the expenses on the parents which have not been claimed in O.S.
+Precedent	20 of 1965 (<NAME>) and to a lesser extent, on the brothers and sisters, who cannot claim, and these entail a deduction.
+Precedent	O.S.
+Precedent	21 of 1965 also shows similar features.
+Precedent	<NAME>'s family burden is slightly heavier than <NAME>'s and the reduction in the multiplier induced by the factor of some members attaining self-dependence is greater in <NAME>'s case.
+Precedent	<NAME>'s widow, still in her twenties, might well re-marry, unlike <NAME>'s middle-a ged widow.
+Precedent	In the case of <NAME>, his youth leaves a long working life ahead; but his parents, the only dependants figuring as claimants, are perilously near exit, going by longevity forecasts -- one has died by now -- and he himself might marry and spend much more on his spouse and children and much less on his parents.
+Precedent	In the case of <NAME> it has been mentioned by the Court below that there was some property belonging to him which would be inherited by the claimants in the present suit and that income should be deducted when working out the annual value of the dependency.
+RatioOfTheDecision	Technically that is correct, but all things considered, there are many factors which might push up the value of the dependency in future and we do not have details about the improvements in the property so as to ascertain the period during which the income would be available.
+RatioOfTheDecision	Being negligible even otherwise, I am inclined to ignore it in arriving at the basic figure.
+RatioOfTheDecision	Many other plus and minus factors have to be looked into, acturial ope rations figured out and movements up and down made on the mental vernier of the Judge, before reaching a multiplier, the nearest to a safe approximation of reasonable expectations, crystallising vaporous possibilities.
+RatioOfTheDecision	The intangible ana complex mechanics of quantifying compensation demands personalised prediction in each individual case and cannot be substituted by wooden rules of thumb to which the learned Subordinate Judge has succumbed.
+RatioOfTheDecision	We cannot but take exception to the curious but artificial calculations he has made.
+Precedent	After all, as <NAME>, J., recently observed, in a different context:  "The Judges are not computers.
+Precedent	In assessing the value to be attached to oral evidence, they are bound to call into aid their experience of life.
+Precedent	As Judges of fact, it was open to the appellate Judges to test the evidence placed before them on the basis of probabilities."
+Precedent	(C.A.
+Precedent	No.
+Precedent	667 of 1965 decided on July 23, 1968).
+Precedent	As I mentioned earlier, there are two ways in which the present value of the dependency can be worked o ut; either you fix (he multiplier, disregarding the fact of lump sum payment now, and then, with reference to the relevant annuity tables, read down that figure into the present value; or alternatively, you reduce the multiplier, having in mind the thought that a lump sum is being paid now in the place of staggered payments over the years.
+Precedent	Courts in England have leaned towards the latter method, and in arriving at the multipliers mentioned above I have adopted the same course.
+Precedent	12.
+Precedent	A minor point.
+Precedent	Section 1-A speaks of 'child' as a qualifying dependant.
+Precedent	It was' argued that a child ceases to be one on.
+Precedent	attaining 18 years of age and so in calculating the benefit of a son or daughter, one must stop at 18, the age of majority.
+Precedent	I disagree.
+Precedent	In this context, child merely means offspring, being correlative to parent.
+Precedent	We should not confuse between child and infant or child and minor.
+Precedent	The accent is on the biological bond and not the tender years.
+Precedent	It may well be that in our socio-economic conditions a child may begin to  earn only in his twenties, while in the U.S.A. or the Scandinavian countries many teenagers cease to be dependants.
+Precedent	13.
+RatioOfTheDecision	Interest has been decreed by the trial <ORG> from the date of the institution of the suit.
+Argument	Counsel for the appellant contended that interest should not be allowed in claims for unliquidated damages till the date of quantification i.e.. till the date of the decree.
+Argument	In this case, the suits have been pending for a long time and the arithmetical impact of the submission is obvious but Section 34 of the Civil Procedure Code governs the situation.
+Precedent	This question was considered in a ruling reported in <CITATION_1820665> ., 51 Mad LJ 243 = (AIR 1926 Mad 1021).
+Precedent	"I see no reason why a successful party should be made to suffer because his claim is not decided soon after the filing of his plaint.
+Precedent	When he files his plaint he puts the matter in the hands of the <ORG> for decision.
+Precedent	If it be held that the plaintiff cannot get interest from the date of his filing his plaint, it is equivalent to saying that  the plaintiff must be deprived of the fruits of his success to the extent of losing interest from day to day during the pendency of his suit on the sum that he was entitled to at the date of his going to Court.
+Precedent	The date of instituting the suit is the date upon which the rights of parties are ordinarily determined, and when the decree fixes the amount of damages due I think that they may be taken as fixed as on the date of the suit, and interest allowed upon that sum."
+Precedent	Mr. Justice <NAME>, J., observed on the same question:  "It is however contended for the defendant that if at the time of the suit the damages were unliquidated, interest cannot be awarded under the section.
+RatioOfTheDecision	No distinction is made in the section between an ascertained sum of money and unliquidated damages.
+RatioOfTheDecision	As a question of construction.
+RatioOfTheDecision	I find it difficult to accept the suggestion that the word 'money' in the section should be understood in the limited sense of an ascertained sum.
+RatioOfTheDecision	The expression 'decree for the payment of money' is ve ry general and to give it due effect, it must be construed as including a claim to unliquidated damages ..........
+RatioOfTheDecision	The mere fact that the decree is for the payment of damages cannot by itself be a bar to the plaintiff being awarded interest".
+RatioOfTheDecision	I adopt this view and award interest to the plaintiffs from the date of the suit at 6% per annum on the claim decreed.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The action having been instituted by paupers, the <ORG> should calculate the amount of court-fees which would have been paid by the plaintiff if he had not been permitted to sue as a pauper; such amount shall be recoverable by <ORG> from any party ordered by the decree to pay the same.
+RatioOfTheDecision	Had the plaintiff brought the suit in the ordinary course, he would have had to pay <ORG>-fee on the full amount claimed in the plaint.
+RatioOfTheDecision	However, it is surprising that the Subordinate Judge has ordered the plaintiffs to pay <ORG>-fee "on the amount decreed" and not on the amount claimed.
+RatioOfTheDecision	This is patently wrong, Another obvious error in the costs portion  of the decree consists in awarding costs to <ORG>, the 'why' of which no one could explain at the bar and which the Government Pleader himself neither could nor did support.
+RatioOfTheDecision	The direction regarding court-fee has not been challenged before us by any party and it is not part of the subject-matter in appeal and so we leave it as it is.
+RatioOfTheDecision	The direction regarding costs to the insurer has been challenged and has to be cancelled.
+RatioOfTheDecision	We do so.
+RatioOfTheDecision	15.
+RatioOfTheDecision	Another anomaly or self-contradiction in the judgment of the trial Court deserves mention before closing the judgment.
+Argument	In one part of the judgment i.e., at the close of paragraph 8 the learned Subordinate Judge rightly observed:  "It is therefore clear that the plaintiffs have sought their remedies only under Section 1-A in the plaint and they cannot at this stage assert any claim under Section 2 ."
+Argument	Somewhat curiously, what he said in paragraph 8 swam out of his ken as he reached paragraph 10, for he concludes:  "Taking all these facts into considerat ion, considering the pain and sufferings and mental agnoy the deceased persons had till their death and the loss of expectations of life and considering the age of the persons, it seems to me that it will be reasonable to fix Rs.
+Argument	l,000/- on this account to the plain tiff in each of the suits."
+RatioOfTheDecision	_ We find that the Subordinate Judge was right in paragraph 8 and wrong in para graph.
+RatioOfTheDecision	10.
+RatioOfTheDecision	And what is stranger still, all the three plaints allege not the pain and suffering of the deceased which alone are compensable under Section 2 of the Act but "the great mental pain and shock due to this tragedy" to the plaintiffs for which there is no remedy except words of sympathy.
+RatioOfTheDecision	The observation of the lower Court in para graph 10 that "the plaintiffs have claimed in all these cases a further amount of Rs.
+RatioOfTheDecision	5000/-  for the value of pain and suffering for each party under Section 2 of the Act" is either ambiguous or a misreading of the averments.
+RatioOfTheDecision	We disallow the award of Rs.
+RatioOfTheDecision	1,000/- each, made by the trial Court under the head  pro vided for in Section 2 of the Act.
+RatioOfTheDecision	16.
+RatioOfTheDecision	The Act contemplates not merely the award of a gross sum by way of compensation payable by the defendant, but also its division among the dependants "proportioned to the loss resulting from such death to the parties respectively".
+RatioOfTheDecision	An unhappy feature of this case, relevant to the present aspect, needs mention.
+RatioOfTheDecision	The parents of <NAME> are alive and are entitled under Section 1-A of the Act to some compensation but are neither impleaded nor represented in the circle of beneficiaries on whose behalf the present action has been brought.
+RatioOfTheDecision	While, in the circumstances of this case, this factor does not make any material change in the quantum of compensation payable by.
+Precedent	the defendant to the widow and children, there is the melancholy thought that it must have been ignorance or financial inability that has kept them back from putting forward their claim, emphasising the need not merely for legal, aid to the poor but also for education of the backward sections of the people in t heir right, systematically, through some competent professional agency.
+Precedent	17.
+Precedent	In O.S.
+Precedent	No 46 of 1961 the claimants are only the widow and her three young children, and having due regard to the needs of the education for the sons and the daughter and the provision for marriage of the latter, it may be just to apportion the total amount awarded among the 4 plaintiffs equally.
+Fact	Three of the plaintiffs are minors and Order 32, Rule 6 (2) requires the guardian or next friend to furnish security sufficient to protect the property of the minors.
+RatioOfTheDecision	But, under the proviso to Sub-rule (2) where the next friend or guardian happens to be the parent, the <ORG> may dispense with security.
+RatioOfTheDecision	Considering that the 3 children are living with the mother, have to be sent to school and maintained by her and since the prospects of her re-marrying are remote, we think it reasonable to dispense with security in this case and direct that the 1st plaintiff be allowed to withdraw the money awarded to the plaintiffs 2 to 4 without conditions,  but to be used only on them.
+RatioOfTheDecision	18.
+Fact	<NAME>'s dependants, again, consist of the widow and three tiny kids.
+Fact	Unfortunately, the three children are orphans, now that the widow has also died.
+Fact	Having due regard to the totality of the circumstances of the case it is fair to award equal shares to the widow and each of the three children.
+Fact	They are stated to be under the care and protection of the grand-mother who has other children i.e., the brothers of <NAME>.
+RatioOfTheDecision	We do not think it proper to allow this old lady to withdraw the money of the children who, by the way, will be entitled to their mother's share also, without some kind of security.
+RatioOfTheDecision	We consider it sufficient safeguard if the grand-mother and the priest of the <ORG> to which the plaintiffs are attached, give personal bonds, undertaking to account for the sums withdrawn, to the <ORG>.
+RatioOfTheDecision	If the priest declines, some other alternative safeguard should be insisted on by the <ORG>.
+RatioOfTheDecision	It may be in the interests of the minors to have the amount invested profitably in some  landed property.
+RatioOfTheDecision	The executing <ORG> also can take proper steps in this behalf under Order 21, Rule 15 (2) of the Civil Procedure Code, when the decree is sought to be executed.
+RatioOfTheDecision	No further directions are deemed necessary by us.
+RatioOfTheDecision	19.
+RatioOfTheDecision	The suit is decreed in each of the above cases in the following manner, with proportionate costs here and in the <ORG> below.
+Precedent	In O.S.
+Precedent	No.
+Precedent	46 of 1961 of <ORG> <ORG> (renumbered as O.S.
+Precedent	No, 20 of 1965 of <ORG><ORG>) (by <NAME>'s dependants) there will be a decree for Rs.
+Precedent	10,000A with interest at 6% from date of suit and proportionate costs.
+Precedent	In O.S.
+Precedent	No.
+Precedent	48 of 1961 of <ORG>-<ORG> (renumbered as O.S.
+RatioOfTheDecision	No.
+RatioOfTheDecision	21 of 1965 of <ORG><ORG>) (by <NAME>'s defendants) there will be a decree for Rs.
+RatioOfTheDecision	10,000/- with 6% interest from the date of suit and proportionate costs, and in O.S.
+RatioOfTheDecision	No.
+RatioOfTheDecision	47 of 1961 of <ORG>-<ORG> (renumbered as O.S.
+RatioOfTheDecision	No.
+RatioOfTheDecision	22 of 1965 of <ORG><ORG>) (by <NAME>'s dependants) there will be a decree for Rs.
+RatioOfTheDecision	8,000/-with 6% i nterest from the date of suit and proportionate costs.
+RatioOfTheDecision	This sum should be divided between the <NAME> and mother (Plaintiffs 1 and 2) in equal shares.
+RatioOfTheDecision	The <NAME>'s needs are more, but the mother's life is likely to be longer and hence the justification for the equal division.
+RatioOfTheDecision	<ORG>, under Section 95 (2) (b) of the Motor Vehicles Act , is bound to pay a maximum of Rs.
+RatioOfTheDecision	2,000/- per passenger killed and this has already been deposited in deduction of the decree passed, it is sad that an Indian life should be so devalued by an Indian law as to costs only Rs.
+RatioOfTheDecision	2,000/-, apart from the fact that the value of the Indian rupee has been eroded and Indian life has become dearer since the time the statute was enacted, and the consciousness of the comforts and amenities of life in the Indian community has arisen, it would have been quite appropriate to revise this fossil figure of Rs.
+Fact	2,000/- per individual, involved in an accident, to make it more realistic and humane, but that is a matter for the l egislature; and the observation that I have made is calculated to remind the law-makers that humanism is the basis of law and justice,  20.
+Fact	The appeals are allowed to the extent set out above.
+Precedent	<NAME>, Ag.
+Precedent	C.J.
+Precedent	21.
+RulingByPresentCourt	I have read the Judgment prepared by my learned brother and I unreservedly agree with the conclusions reached by him and with the reasoning germane thereto.

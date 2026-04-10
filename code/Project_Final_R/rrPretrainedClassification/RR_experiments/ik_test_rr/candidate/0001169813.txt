@@ -1,0 +1,105 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The question involved in this petition is whether certain reliefs in the plaint should be valued for <ORG>-fee purposes under Section 7(iv) A as for cancellation of an instrument.
+Fact	The matter was considered by the lower <ORG> on an objection raised by the <ORG>-fee examiner and it was found that the valuation had to be made under the aforementioned provision and an additional <ORG>-fee should be paid ad valorem on the amount of the mortgages and the value of the properties comprised in the sale deeds, in favour of defendants 5 and 6, mentioned in the plaint.
+Fact	2.
+Fact	The suit is on a mortgage bond executed by the first defendant in plaintiff's favour on the 17th January, 1931, for Rs.
+Fact	2,000.
+Fact	The first defendant at the time of the execution of the mortgage was the manager of a joint Hindu family consisting of himself and his brothers, defendants 2, 3 and 4.
+Fact	They are the sons of one <NAME>, who died shortlybefore the execution of the suit mortgage.
+Fact	During the lifetime of <NAME>  <NAME> he had executed on the 9th May, 1928, a mortgage in favour of the fifth defendant of item 4 in the plaint schedule.
+Fact	The fifth defendant is the son-in-law of Muthu <NAME>.
+Fact	He had also executed in favour of the sixth defendant on the 16th August, 1928, a mortgage of items 1 to 5.
+Fact	On the 29th March, 1938, item 4 was sold by defendants 1 and 2 after the, death of their <NAME> to the sixth defendant.
+Fact	The fifth defendant filed O.S.
+Fact	No.
+Fact	54 of 1938 on the basis of the mortgage in his favour dated the 9th May, 1928, concerning item 4 and impleaded the sixth defendant therein.
+Argument	He impeached the validity of the mortgage and sale in favour of the sixth defendant and that suit was decreed in favour of the fifth defendant holding that those transactions were of a nominal character.
+Argument	3.
+Argument	In paragraphs 7 and 11 of the plaint in this suit these facts have been recited and it is averred that the respective transactions referred to above, being nominal and never intended to be given effect to, were not bin ding on the plaintiff.
+Argument	It was also alleged that no consideration passed under the said documents and the recitals of consideration contained therein are false and fraudulent.
+Argument	It was urged that the fifth and sixth defendants were not entitled to any rights in respect of the respective items under these instruments.
+Argument	The decree obtained by the fifth defendant in O.S.
+Argument	No.
+Argument	54 of 1938 was also attacked as not being valid or binding on the plaintiff.
+Argument	As an alternative remedy it was urged that if the hypothecation was deemed to be valid and binding on the plaintiff, the plaintiff was willing and ready to redeem item 4 by paying a proportionate share of the sum due on the hypothecation bond in favour of the fifth defendant.
+Argument	In paragraph 15 it was stated that as the decree should be binding on all the defendants therein, they were all impleaded as parties to the suit.
+Argument	Lastly in paragraph 18, the relief that was asked for was a preliminary decree directing the defendants to pay the amount due under the mortgage bond and  " in default to sell the properties free from the claims of defendants 5 and 6, or if the Court finds that the claims of defendants 5 and 6 are in any way binding on the plaintiff to give <ORG> directions to redeem items 1 to 5 of the undermentioned properties on payment of the proportionate amount due on them" With reference to the alternative relief concerning the redemption of items 1 to 5 on payment of the proportionate sum due to defendants 5 and 6, it appears that the order of the lower Court that it was admitted by the plaintiff that in addition to the court-fee paid for the suit mortgage debt, he was liable to pay court-fee in respect of the relief for redemption of the mortgage in favour of defendants 5 and 6.
+Argument	So the only question that remains is whether in view of the relief asked for--the sale of the suit properties free from the claims of defendants 5 and 6 in the event of default in payment of the mortgage money the court-fee paid is correct or whether, as contended by the court-fee exami ner, the plaintiff is bound to pay court-fee under Section 7(iv) A on the basis of relief for the cancellation of the respective documents.
+Argument	4.
+Argument	It is contended by the learned Counsel for the petitioner that the principle has been well settled that where the plaintiff is not a party to an instrument, he need not ask for its cancellation; and, where he contends that the same is not valid or binding on him he is entitled to ignore it or merely state that it is not valid and binding on him.
+Argument	The respondent was not represented before me and since the question was of some importance, notice was ordered to the learned Government Pleader who has appeared and argued in support of the position taken up by the court-fee examiner.
+Argument	5.
+Argument	The contention put forward by the learned Government Pleader are two-fold.
+Argument	He says that a Relief of, the nature asked for, namely, the sale of the hypotheca, in default of payment by the judgment-debtor of the decree amount, free from all claims, was wholly unnecessary in the suit; and as th at relief was over and above the relief necessary in this case, additional court-fee should be paid in respect thereof.
+Argument	The second contention is that the mortgagee-plaintiff f's for all practical purposes a representative in interest of the mortgagor and all the transactions binding upon him or to which he was a party are binding upon the mortgagee, and hence the mortgagee should be deemed to be a party to all these transactions; and in that view he must avoid these various documents by getting them cancelled before he can get any relief free from these encumbrances.
+Argument	6.
+Argument	With reference to the first contention of the learned Government Pleader, it is stated by the learned advocate for the petitioner that where the relief is merely incidental or ancillary to the claim for the recovery of mortgage money, no additional court-fee need be paid, and much less where the relief is, as conceded by the Government Pleader, wholly unnecessary.
+RatioOfTheDecision	But apart from this answer, I am not impressed by the argument that this relief  is wholly unnecessary.
+RatioOfTheDecision	The plaintiff has set out the various transactions and the circumstances in which, according to him, they were brought about and he wanted to clear up certain clouds that may arise when at a later stage he seeks to execute the decree which he hopes to obtain in the present suit.
+RatioOfTheDecision	Such a relief cannot be said to be entirely otiose or irrelevant in the suit.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The more serious contention is the second one, namely, that the mortgagee is virtually a party to those transactions.
+RatioOfTheDecision	I am not impressed by this argument either.
+RatioOfTheDecision	The essential relationship between a mortgagee and mortgagor in a simple mortgage is that of a creditor and debtor.
+RatioOfTheDecision	While in certain matters the mortgagee may be bound by certain equities binding on the mortgagor, it cannot be said in general that he is for all purposes a successor or representative in interest of the mortgagor.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Turning to the main point in the case as to whether in the circumstances it was necessary for the plaintiff to ask for the cancellation of th e various mortgages and sales referred to in the plaint and whether, even in the absence of any such express relief asked for, the plaint should be construed as one asking in substance for such relief, the matter is covered by a series of decisions of various <ORG>.
+Precedent	As early as in <CITATION_75783> (1890) I.L.R.
+Precedent	14 Mad.
+Precedent	26, it was held that if a person not having authority to execute a deed, or having such authority under certain circumstances which did not exist, executes a deed, it is not necessary for persons who are not bound by it to sue to set it aside; they may treat it as non-existent and sue for their right as if it did not exist.
+Precedent	The same principle was distinctly laid down by <ORG> in <CITATION_71904> (1907) 17 M.L.J.
+Precedent	154 : L.R.
+Precedent	34 I.A.
+Precedent	87 : I.L.R.
+Precedent	34 Cal.
+Precedent	329 (P.C.).
+Precedent	That was an action brought by a reversionary heir to set aside certain alienations made by a limited owner.
+Precedent	The facts of that case no doubt were entirely different, but the jural basis of the principle contended for on beha lf of the petitioner has been laid down in that case.
+Precedent	Their Lordships said :;  It is true that the appellants prayed by their plaint a declaration that the <ORG> was inoperative as against them, as leading up to their prayer for delivery to them of <ORG> possession.
+Precedent	But it was not necessary for them to do so, and they might have merely claimed possession, leaving it to the defendants to plead and (if they could) prove the circumstances, which they relied on, for shewing that the <ORG> or any derivative dealings with the property were not in fact voidable, but were binding on the reversionary heirs.
+Precedent	9.
+Precedent	These two cases were referred to by <ORG> of this Court in <NAME> v. <NAME> (1940) 1 M.L.J.
+Precedent	32 : I.L.R.
+Precedent	(1940) Mad, where, after adverting to the observations of <ORG> referred to above, the learned Chief Justice said:  In such cases even if the plaint contains a prayer for a declaration or cancellation, there is good reason for holding it to be one for a purely incidental but unne cessary, relief.
+Precedent	As I have indicated, (here is no such prayer in the plaint and in the light of the principles explained there is no justification for implying them and then demanding a fee for it.
+Precedent	10.
+Precedent	I may point out here that in the present plaint there is no prayer for a declaration or cancellation and on the basis of the observations of the learned Chief Justice, it has to be said that there is no justification for implying those prayers in the plaint and then demanding a fee for them.
+Precedent	11.
+Precedent	Two more decisions of this <ORG> may be referred to in this connection.
+Precedent	<CITATION_816818> (1939) 2 M.L.J.
+Precedent	40 : I.L.R.
+Precedent	(1940) Mad.
+Precedent	73, Wadsworth, J., had to consider the case of a creditor who brought a suit under Section 53 of the Transfer of Property Act for a declaration that an alienation made by a debtor was void against the creditors.
+Precedent	It was held that-that was not a suit for the cancellation of a document securing money or property falling under Section 7(iv) A of the, <ORG>-Fees Act but that it was a suit for a  declaration where no consequential relief was prayed.
+Precedent	In that decision the learned Judge drew a clear distinction between a suit for the cancellation of an instrument and a suit for a declaration that an instrument was not binding on the plaintiff and made the following observation:  When the plaintiff seeks to establish a title in himself and cannot establish that title without removing an insuperable obstruction such as a decree to which he has been a party or a deed to which he has been a party, then quite clearly he must get that decree or deed cancelled or declared void in to to and his suit is in substance a suit for the cancellation of the decree or deed even though it be framed as a suit for a declaration.
+Precedent	But when he is seeking to establish a title and finds himself threatened by a decree or a transaction between third parties, he is not in a position to get that degree or that deed cancelled in toto.
+Precedent	That is a thing which can only be done by parties to the decree or deed or their representatives.
+Precedent	Hi s proper remedy, therefore, in order to clear the way with a view to establish his title, is to get a declaration, that the decree or deed is invalid so far as he himself is concerned and he must therefore sue for such a declaration and not for the cancellation of the decree or deed.
+Precedent	12.
+Precedent	The next is the decision of <NAME>, J., in <CITATION_42756> (1944) 1 M.L.J.
+Precedent	497.
+Precedent	That was a case of a gift which was attacked as a sham and inoperative transaction and it was held that where such a deed had no legal effect, Section 7(iv) A of the Court-Fees Act which deals with a suit for cancellation of a document securing money or other property cannot have any application.
+Precedent	In the course of the judgment the learned judge referred to some of the decisions referred to above including Unni v. Kuncki Ammal (1890) I.L.R.
+Precedent	14 Mad.
+Precedent	26, the <ORG> decision in <CITATION_71904> (1907) 17 M.L.J.
+Precedent	154 : L.R.
+Precedent	34 I.A.
+Precedent	87 : I.I.P.
+Precedent	34 Cal.
+Precedent	329 (P.C.
+Precedent	), the decision of <ORG> in <NAME> v. <NAME> (1940) 1 M.L.J.
+Precedent	32 : I.L .R.
+Precedent	(1940) Mad.
+Precedent	259 (F.B.)
+Precedent	and the decision of Wadsworth, J., in <CITATION_816818> (1940) 1 M.L.J.
+Precedent	32 : I.L.R.
+Precedent	(1940) Mad.
+Precedent	259 (F.B.).
+Precedent	Referring to a certain part of the judgment of Wadsworth, J., it was pointed out by <NAME>, J., that in all cases of decrees or voidable deeds it may be proper to hold that those are sought to be avoided and the suit is in substance a suit for cancellation of the decree or deeds, even though it may be framed as a suit for a declaration; but there is an exception to the general rule with regard to deeds which were intended to be inoperative and were not intended to be anything more than scraps of paper and as such had no legal effect.
+Argument	13.
+Argument	The trend of decisions is therefore clearly to the effect that unless the plaintiff is a party to a particular document and he cannot get the relief he seeks without avoiding that document, it being an insuperable obstacle in his way, it is unnecessary for him to seek the cancellation of the document; and any relief he may otherwise ask for  on the basis that the document was not intended to be acted upon and was inoperative cannot in substance and in effect be treated as a relief for cancellation within the meaning of Section 7(iv) A of the Court-Fees Act.
+RulingByPresentCourt	Having regard to this position the finding of the learned District <NAME> cannot be upheld.
+RulingByPresentCourt	The petition is allowed.
+RulingByPresentCourt	14.
+RulingByPresentCourt	The costs of this petition will abide the result of the suit.

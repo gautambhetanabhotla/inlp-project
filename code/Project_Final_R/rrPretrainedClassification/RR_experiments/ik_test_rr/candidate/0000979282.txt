@@ -1,0 +1,86 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal by <NAME>, second judgment-debtor in E. P. No, 234 of 1951, against an order by the Principal Subordinate Judge of Kozhikode directing his arrest and commitment to prison, on findings that he dishonestly transferred, concealed or removed assets after the institution of the suit and furthermore, that he had means to pay at any rate a substantial portion of the decretal amount since the date of the decree.
+Fact	2.
+Fact	The antecedent history is briefly this.
+Fact	The decree-holder is <ORG>, who gave financial accommodation to a concern called <ORG> which commenced in 1948 and did business in timber, banking and soon.
+Fact	It fell into difficulties and the managing partner committed suicide in March 1949.
+Fact	The appellant who was one of the partners filed an application, Ex.
+Fact	A.
+Fact	1, for overdraft accommodation to <ORG> to the extent of Rs.
+Fact	50,000 on the strength of which the <ORG> manager of the local branch gave the firm financ ial accommodation.
+Fact	According to the evidence of the Secretary of the <ORG>, <NAME>, the head office took exception to this and dismissed the Branch manager from service.
+Fact	The decree under execution by the bank in E. P. No.
+Fact	234 of.
+Fact	1951 was in O. S. No.
+Fact	7 of 1949 for the recovery of Rs.
+Fact	9,000 which with interest had increased to Rs.
+Fact	12,600.
+Fact	The bank filed another suit, shortly afterwards, O. S. No.
+Fact	14 of 1949, for the recovery of Rs.
+Fact	36,000 and obtained a decree against the partners.
+Fact	In E. P. No.
+Fact	420 of 1950 in O. S. No.
+Fact	14 of 1949 they first sought to arrest three of the partners including the appellant.
+Fact	That petition was dismissed by the same learned Subordinate Judge on 31 (sic)-G-1951, as he was satisfied on the material placed before him, that none of the respondents had means to pay off the decree debt or even a substantial portion of it.
+Fact	Despite the dismissal of that execution petition, the bank pressed for the arrest of the appellant in execution of the smaller decree in O. S. No.
+Fact	7 of 1949 and placed m ore material before the Court.
+Fact	The learned Subordinate Judge quite rightly held that the previous order in E. P. No.
+Fact	420 of 1951 did not operate as 'res judicata'.
+Fact	3.
+Fact	The appellant in an application to the bank, Ex.
+Fact	A.
+Fact	1 dated 21-2-1948 said he belonged to a <ORG> owning property worth 21/2 lakhs to 3 lakhs.
+Fact	The value of this <ORG> property was not disputed, but it was contended that he cannot get a separate share or enforce any partition during his mother's lifetime.
+Fact	But under the Madras Marumakatayam Act he was entitled to separate maintenance from the <ORG>.
+Fact	The amount, if any, of such separate maintenance, he did not disclose.
+Fact	He was admittedly living at Kozhikode, away from his <ORG>, working as an insurance agent and said that he was earning about Rs.
+Fact	110 a month by way of commission.
+Fact	Then in his own application, Ex.
+Fact	A.
+Fact	1, ho gave particulars of assets valued at Rs.
+Fact	50,000.
+Fact	They included fixed deposit in <ORG> of Rs.
+Fact	15,000, Rs.
+Fact	14,500 in <ORG> 'kuri' or chit fund and so on.
+Fact	His exp lanation for the disappearance of the assets in Ex.
+Fact	A.
+Fact	1 is merely to the effect that they were withdrawn by him and invested in the business of <ORG>.
+Fact	<NAME> was not able, however, to prove by the production of any voucher, receipt or account the fact that he invested these moneys in this business.
+Argument	The learned Subordinate Judge appears to have quite rightly rejected this unsatisfactory explanation.
+Argument	4.
+Argument	The appellant then further admitted that he had his own banking business till the end of 1948 and that the annual outturn was about Rs.
+Argument	25,000, but he said that he had never maintained accounts either for this or for a timber business he had previously.
+Argument	Finally the appellant admitted that he discharged an overdraft account with <ORG> upto Rs.
+Argument	75,000 before March 1948.
+Argument	The teamed Judge made a note in the examination of the appellant that his demeanour was highly questionable and substantially disbelieved his evidence.
+Argument	In Ex.
+Argument	A.
+Argument	1 he described himself as Managing partner of the firm of <ORG>  Merchants and said that this was correct, belying his previous assertion that he was only a figure head and that the real management was with one <NAME> who, it is said, committed suicide.
+Argument	These were the main circumstances from which the learned Subordinate Judge arrived at his two findings on which he directed the arrest and detention of the appellant in prison.
+Argument	5.
+Argument	Mr. <NAME> has strenuously urged that the decree-holder bank has not discharged the onus placed upon them under Section 51 proviso (a)(2) that after the institution of the suit the judgment-debtor has dishonestly transferred, concealed or removed any part of his property, and under proviso (b) that he has or has had since the date of the decree the means to pay the amount of decree or some substantial" part thereof and refuses or neglects to do so.
+RatioOfTheDecision	It is true that in this case the decree-holder has not been able to point precisely to any particular dishonest transfer or concealment, or to specific money in possession of the judgment-debtor ou t of which he could have paid the decretal amount since the date of the decree.
+RatioOfTheDecision	If Courts were to insist on specific evidence of this description, which amounts to positive proof, it would mean that judgment-debtors by skilful concealment of their assets and resourceful evasion will defeat decrees against them.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The liberal provisions of Section 51 in favour of the judgment-debtor were enacted in Act 9 of 1935.
+RatioOfTheDecision	As stated in the Objects and Reasons, that Bill was the outcome of the recommendations, of <ORG> to the effect that in the case of industrial workers in receipt of less than Rs.
+RatioOfTheDecision	100 a month, arrest and imprisonment for debt should be abolished, except where the debtor has been proved to be both able and unwilling to pay.
+RatioOfTheDecision	The Bill sought to amend the Civil Procedure Code of 1908 so as to protect honest debtors of all classes, and not of the industrial worker class only, from detention in civil prison and to confine such provision to debtors proved to be recalcitrant  or fraudulent.
+RatioOfTheDecision	The Act therefore applied to all judgment-debtors; nor was the protection restricted only to small debtors.
+RatioOfTheDecision	If the extreme view urged by Mr. <NAME> is to be accepted that before a judgment-debtor can be committed to prison a decree-holder is bound to establish by strict evidence and proof that there has been a dishonest transfer by a registered document, or a concealment of assets in some other manner, or that the judgment-debtor had in his actual possession in his own house a sum of money out of which he could have paid or discharged a substantial portion of the decree, a premium would be put on evasion by judgment-debtors, rendering decrees obtained at great cost and expense nullified, and the pendulum will so swing in a direction in favour of judgment-debtors that legislation for the protection of decree-holders may have to be introduced.
+RatioOfTheDecision	7.
+RatioOfTheDecision	In my view it is perfectly open to a <ORG> to apply a judicial corrective to the extreme lengths to which the onus which Act 9 of 1935 casts on decree -holders is sought to be taken by adopting the view that it is perfectly open to an executing <ORG>-on all the material placed before it to come to an inference as regards the statutory findings required by provisos (a)(2) and (b) of Section 51, Civil P. C. It is no doubt true that the onus rests on the creditor to -prove the debtor's ability to pay, and mere disbelief of the latter's statement that he had no means to pay is not sufficient.
+RatioOfTheDecision	Where, however, there, is sufficient material shown to warrant an inference, as in the present case, that the judgment-debtor has actually been in the possession of substantial assets a few months prior to suit, an inference is perfectly justifiable that he has since the institution of the suit dishonestly concealed them, and furthermore, that he has since the date of the decree means to pay a substantial portion of it from assets he is concealing from the <ORG>.
+RatioOfTheDecision	This is a case in which the appellant appears to be the only partner in this business venture which failed who  appears to be in a position to pay something towards this decree.
+RatioOfTheDecision	We can find no real grounds for setting aside the findings of the learned Subordinate Judge on the material placed before him.
+RatioOfTheDecision	8.
+Precedent	The recognised practice in England in appropriate cases, as laid down in -- 'Barefoot v. Clark', 1949-2 KB 97 (A) and -- 'In re a Judgment-debtor', 1935) 51 TLR 524 (B) is not to make an order of committal to prison on the first application but to order payment by installments.
+RatioOfTheDecision	I can see no impediment in this practice being adopted, in suitable cases under Section 51, Civil P. C. read with Order 21, Rules 39 and 40, although they do not specifically direct an order for installments first.
+RatioOfTheDecision	The fixation of installments after an enquiry into the means and the ability of the judgment-debtor to pay in many cases is much fairer to the judgment-debtor who, whilst not being in a position to discharge the decree in full, can certainly pay something towards its discharge.
+RatioOfTheDecision	The fixation of installments helps to sridge the wide  gulf between the dismissal of an execution petition for arrest on a decree-holder failing strictly to discharge the onus resting on him under the proviso to Section 51, and the commitment to prison of a judgment-debtor who while in a position to pay something simply, cannot discharge the decree in full as he has no immediate means to do it.
+RatioOfTheDecision	After the installments have been fixed by the <ORG>, then a failure to comply with the court order would immediately justify arrest and commitment to prison.
+RatioOfTheDecision	In our view this procedure would be perfectly admissible under proviso (b) to Section 51.
+RatioOfTheDecision	It is equitable both to decree-holder and judgment-debtor and only sends to prison a judgment-debtor who refuses or neglects to pay towards the decree something which the <ORG> has found after, hearing him to be within his means to pay.
+RatioOfTheDecision	9.
+RatioOfTheDecision	We do not however think this a suitable case in which this equitable procedure can or should be adopted and confirming the findings of the learned Sub-Judge dismiss the appeal with costs.

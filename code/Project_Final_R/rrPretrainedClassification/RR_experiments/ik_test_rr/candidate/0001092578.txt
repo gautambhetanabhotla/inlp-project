@@ -1,0 +1,215 @@
+Fact	PETITIONER: THE COMMISSIONER OF INCOME TAX,BOMBAY Vs. RESPONDENT: <ORG>.
+Fact	DATE OF JUDGMENT: 04/05/1960 BENCH: <NAME>, M. BENCH: <NAME>, M. <NAME>, <NAME>, <NAME> CITATION: 1960 AIR 1016 CITATOR INFO : R 1960 SC1022 (6) R 1960 SC1182 (8) D 1961 SC 699 (8) R 1968 SC 623 (26) R 1975 SC1282 (17) R 1979 SC1495 (12) RF 1989 SC 516 (40) ACT: Income-tax-Assessee incurring loss but paying dividends- Additional income-tax, liability to pay-Construction of taxing statute- Income-tax Act , 1922 (XI of 1922), s. 3- Finance Act, 1951 (23 Of 1951), First Schedule, Paragraph B. HEADNOTE: The assesses had made profits during the assessment year 1951-52 but after deduction of the depreciation allowance it was found to have incurred a loss for income-tax purposes.
+Fact	In the same year the assesses declared dividends.
+Fact	The Income-tax Officer treated this amount as 'excess dividend' and levied additional income-tax as provided in paragraph B of Part I of the First Schedule to the India n Finance Act , 1951.
+Fact	The assesses contended that inasmuch as there was no income at all which was 954 taxable the words " on the total income " in paragraph B did not apply to it and no additional income-tax could be levied.
+Fact	The appellant, relying on the proviso to paragraph B, contended that additional income-tax was imposed on excess dividend and if excess dividend was paid out, the liability to tax arose: Held, that the assessee was not liable to pay additional incometax.
+Fact	The liability to tax was imposed by S. 3 of the Income-tax Act and the Finance Act merely laid down the rates at which tax was to be levied on the total income.
+Fact	If there was no income there was no question of applying a rate to the " total income " and no income-tax or super-tax could possibly result.
+Fact	The word " additional " in the expression "additional income-tax " implied that there was a tax before.
+Fact	The expressions " charge on the total income " and " profits liable to tax " in paragraph B contemplated only those cases where there wa s income and not cases where there was loss.
+Fact	Consequently the expression " dividends payable out of such profits " could only apply when there were profits and not when there were no profits.
+Fact	The imposition of additional income-tax was conditioned by the existence of income and profits.
+Fact	The legislature used language appropriate to income and applied the rate to the " total income ".
+Fact	Where there was no total income the law could not apply and the courts could not be asked to supply the omission made by the legislature or to delete or to modify any words.
+Fact	If the words of a taxing statute failed then so did the tax.
+Fact	The courts could not, except rarely and in clear cases, help the draftsman by a favourable construc- tion.
+Fact	<NAME> v. <NAME>, (1889) 22 Q.B.
+Fact	513, Commissioner of Incometax v. <NAME>,  35 I.T.R.
+Fact	408 S.C., <NAME> v. <ORG>, (1925) 10 I.C.
+Fact	88, <CITATION_1203520> ., (1958) 37 T.C.
+Fact	677 and <CITATION_708040> .
+Fact	(1958) 37 T.C.
+Fact	725, distinguished.
+Fact	<ORG> v. The  <ORG>) 12 T.C.
+Fact	358 and <NAME> v. <ORG>) 31 T.C.
+Fact	141, referred to.
+Fact	The proviso to paragraph B prescribed varying rates for varying circumstances; it dealt with rates alone and not with the chargeability to tax.
+Fact	There were no words in this proviso making the excess dividend into income or subjecting it to tax independently of the charge to tax on the total income.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	427 of 1957.
+Fact	Appeal from the judgment and order dated September 9, 1955, of <ORG> in Income-tax Reference No.
+Fact	31/X of 1954.
+Fact	<NAME> and <NAME>, for the appellant.
+Fact	<NAME> <NAME> and <NAME>, for the respondents and intervener.
+Fact	955  1960.
+Fact	May 4.
+Fact	The Judgment of the Court was delivered by <NAME> of Bombay in a reference under s. 66(1) of the Indian Income-tax Act by <ORG>, Bombay, was referred the following two questions  for decision:  (1) Whether <ORG> was liable to pay additional income-tax ?
+Fact	and (2) If the answer to question No.
+Fact	1 is in the affirmative, whether the levy of the additional income-tax is ultra vires <ORG> answered the first question in the negative and in the circumstances, left the second question unanswered.
+Fact	This appeal is against the judgment and order of <ORG> on a certificate granted by it.
+RatioOfTheDecision	The Commissioner of Income-tax is the appellant, and <ORG>, Bombay (<ORG>) is the respondent.
+RatioOfTheDecision	The facts may now be stated briefly.
+Argument	For the assessment year 1951-52 (the previous year being the calendar year 1950), <ORG> was found to have incurred a loss of Rs.
+Argument	2,19,848 and was thus adjudged to be not liable to income-tax.
+Argument	In that year, <ORG> had made profits, but the depreciation allowance under the Income-tax Act came to Rs.
+Argument	7,84,063, thus converting the profit into loss for income-tax purposes .
+Argument	In the same year, the assessee Company declared dividends &mounting to Rs.
+Argument	3,29,062.
+Argument	The Income-tax Officer treated this amount as 'excess dividend' and levied additional income-tax as provided in Paragraph B of Part I of the First Schedule to the Indian Finance Act , 1951.
+Argument	This additional income-tax was computed to be Rs.
+Fact	41,132-12-0.
+Fact	The contention of the assessee Company that it was not liable to pay additional incometax was not accepted by the <ORG>, but <ORG>, on an examination of the relevant provisions and the scheme of the Indian Income-tax Act and the Finance Act , 1951, held that it was sound.
+Fact	Hence this appeal by the Commissioner of Income-tax.
+Statute	We are concerned with the Finance Act , 1951, -and Paragraph B of the First Schedule reads:  956  B.
+Statute	In the case of every company-  Rate Surcharge On the whole of Four annas one-twentieth total income in the of the rate rupee specified in the preceding column:  Provided that in the case of a company which, in respect of its profits liable to t ax under the Income-tax Act for the year ending on the 31st day of March, 1952, has made the prescribed arrangements for the declaration and payment within the territory of India excluding the State of Jammu and Kashmir, of the dividends payable out of such profits, and has deducted super-tax from the dividends in accordance with the provisions of subsection (3D) or (3E) of section 18 of the Act-  (i) Where the total income, as reduced by seven annas in the rupee and by the amount, if any, exempt from income-tax, exceeds the amount of any dividends (including dividends payable at a fixed rate) declared in respect of the whole or part of the previous year for the assessment for the year ending on the 31st day of March, 1952, and no order has been made under sub-section (1) of section 23A of the Income-tax Act, a rebate shall be allowed at the rate of one anna per rupee on the amount of such excess;  (ii) Where the amount of dividends referred to in clause (1) above exceeds the total income as reduced by seven  annas in the rupee and by the amount, if any, exempt from income-tax, there shall be charged on the total income an additional income-tax equal to the sum, if any, by which the aggregate amount of income-tax actually borne by such excess (hereinafter referred to as 'the excess dividend') falls short of the amount calculated at the rate of five annas per rupee on the excess dividend.
+Statute	For the purposes of the above proviso, the expression ' dividend' shall have the meaning assign ed to it in clause (6A) of section 2 of the Income-tax Act, but any distribution included- in that expression, made during the year ending on the 31st day of March, 1952, shall be deemed to be a dividend declared in respect of the whole or part of the previous year.
+Statute	For the purposes of clause (ii) of the above proviso, the aggregate amount of income-tax actually borne by the excess dividend shall be determined as We, follows:-  (i) the excess dividend shall be deemed to be out of the whole or such portion of the undistributed profits  of one or more years immediately preceding the previous year as would be just sufficient to cover the amount of the excess dividend and as have not likewise been taken into account to cover an excess dividend of a preceding year;  (ii) such portion of the excess dividend as is deemed to be out of the undistributed profits of each of the said years shall be deemed to have borne tax,-  (a) if an order has been made under sub-section (1) of section 23A of the Income-tax Act, in respect of the undistributed profits of that year, at the rate of five annas in the rupee, and  (b) in respect of any other year, at the rate applicable to the total income of the company for that year reduced by the rate at which rebate, if any, was allowed on the undistributed profits."
+Argument	The contention of the assessee Company was that inasmuch as there was no income at all which was taxable, the words "OD the total income" (lid not apply to it and no additional income-tax could be charged.
+Argument	The <ORG> interpreted the Paragraph to cover  even a case where there was a loss holding that even a loss may be a total income', because if total income had to be computed in the manner laid down in the Indian Income-tax Act , the total income might, be a negative figure.
+Argument	The <ORG> also held that inasmuch as excess dividend,,; were to be deemed to have come out of the undistributed profits of the preceding year or years and such undistributed profits ",ere available,, the assessee Company was liable.
+Argument	<ORG> did not accept those reasons, and reluctantly held, for reasons which may not be detailed at the present  moment, that the assessee Company did not come (If within the letter of the law, however much the intention might have been to impose an additional income-tax under such circumstances.
+Argument	The Commissioner now contends that, <ORG> ought to have read the Paragraph B as modified by the intention or to have treated it as an independent charging Section.
+RatioOfTheDecision	The liability to tax is imposed not by the Finance Act but by the Indian Income -tax Act .
+Statute	Section 3 of the latter Act is the charging section, and it provides that the tax should be collected at such rate or rates on the total income as laid down in any Central Act .
+Statute	The Finance Act is an annual Act prescribing the rate or rates.
+Statute	We are concerned with the Finance Act , 1951.
+Statute	Section 2 of the Finance Act prescribes the rates of income-tax by its First, Schedule, and by the seventh subsection of that section provides: "For the purposes of this section and of the rates of tax imposed thereby, the expression 'total income' means total income as determined for the purposes of income-tax or super--tax, as the case may be, in accordance with the provisions of the Income-tax Act ... "  It is thus clear from this that if there is no income, there is no question of applying a rate to the ' total income' and no income-tax or super-tax can possibly result.
+RatioOfTheDecision	The Commissioner, however, relies upon the proviso to Paragraph B of the First Schedule, and says that the tax is imposed on excess dividend and  if excess dividend is paid out, the liability to tax must arise.
+RatioOfTheDecision	The proviso was framed to discourage the paying of large dividends quite disproportionate to the income.
+RatioOfTheDecision	For this purpose, A ceiling was laid down.
+RatioOfTheDecision	That ceiling was nine annas in the rupee of the total income reduced by any portion of that income which was exempt from income-tax.
+RatioOfTheDecision	If only nine annas in the rupee from the income were paid as dividend, there were no consequences in law.
+RatioOfTheDecision	If, however, the dividends paid amounted to less, a rebate of one anna in the rupee in the tax was given.
+RatioOfTheDecision	This was provided by the first part of the proviso.
+RatioOfTheDecision	There was, however, a provision for enhanced tax.
+RatioOfTheDecision	in the second part, which worked the other way round.
+RatioOfTheDecision	Where the dividend distributed exceeded the total income as reduced by seven annas in the rupee, there was charged on the total income an additional, income-tax equal to the sum, if any, by which the aggregate amount of income-tax actually borne by such excess We.
+RatioOfTheDecision	(hereinafter referred to as the " excess di vidend ") falls short of the amount calculated at the rate of five annas per rupee on the excess dividend.
+RatioOfTheDecision	In simpler language, there was a rebate of one anna on anything saved from 9/16th of the total income, and there was an extra payment of one anna on the amount paid in excess of it.
+RatioOfTheDecision	The income-tax, in either event, was payable on the total income and the additional incometax on the excess dividends.
+RatioOfTheDecision	Now, the difficulty arises in applying this proviso.
+RatioOfTheDecision	Where there is a total income and there is a payment of dividend either more or less than the limit fixed, one can easily find the figures by which the total income as reduced exceeds or falls short of the dividends and the additional tax that has to be paid.
+RatioOfTheDecision	But when the total income is a negative figure and no tax on the total income is levied, the words of the second part of the Paragraph 'total income ', 'profits liable to tax', 'dividends payable out of such profits' and ' an additional income-tax', cease to have the meaning they were intended to conve y.
+RatioOfTheDecision	The Commissioner contends that some of these words may be ignored as being surplusage or a drafting error, and refers to rulings in which such a course was adopted.
+RatioOfTheDecision	The first case he relies on is <NAME> v. <NAME> (1).
+RatioOfTheDecision	In that case, the words of the statute were:  " It shall be lawful for either party to the action... to apply to a judge of <ORG> ... to order such action to be tried in any court in which the action might have been commenced, or in any court convenient thereto... " The word " court " was defined as " county court " in that statute.
+Precedent	Lord <NAME>, M.R., held that the words should be extended to mean " in any county court in which, if it had been a county court action, the action (1) (1889) 22 Q.
+Precedent	B.
+Precedent	513.
+Precedent	960  might have commenced".
+Precedent	The ambiguity which would have otherwise arisen was removed by taking aid from the alternative clause " or in any court convenient there-to" which referred to locality, and it was said that the first clause meant a county court in the district of which the pa rties resided, or in which one of them resided.
+Precedent	In that case, however, there were determinative words helping construction.
+Precedent	It is to be noticed that Lord <NAME>, M. R., also warned against doing by construction what only a legislature could do by enactment, in the following words: " It is, no doubt, very easy for a judge to say that be is introducing words into an Act only by way of construing it, while he is really making a new Act. "
+Precedent	The words " if it had been a county court action " which were read as implicit in the section were necessary to give a sensible meaning consistent with the intention expressed by other clear words.
+Precedent	The above case was applied and followed in <CITATION_185550> (1), which is next relied upon.
+Precedent	In that case, the construction, if literally made, was apt to make one section nugatory.
+Precedent	This Court laid down that "a construction which leads to such a result must, if that is possible, be avoided ".
+Precedent	It, however, quoted also the observations of Lord <NAME> in <NAME> v. Commissioners of Inl and Revenue (2) that:  " A statute is designed to be workable, and the interpretation thereof by a court should be to secure that object, unless crucial omission or clear direction makes that end unattainable. "
+Precedent	The next case relied upon is <CITATION_1203520> .
+Precedent	(3).
+RatioOfTheDecision	It dealt with an obvious drafting error.
+Precedent	Section 68(2) of the English Finance Act,1952, contained a reference to Paragraph(a) of the proviso to sub-s. (2) of s. 262 of the Incometax Act, 1952, and the section went on to say of that Paragraph parenthetically " which relates to the deductions allowable in computing the actual income from all sources of an investment company in relation to which a direction is in force under sub-section I of (1)  35 I.T.R.
+Precedent	408 S.C. (2) (1925) 10 T.C.
+Precedent	88, 11o.
+Precedent	(3) (1958) 37 T. C. 677.
+Precedent	961  that section".
+RatioOfTheDecision	As a summary of Paragraph (a), it was entirely wrong and misleading.
+RatioOfTheDecision	Since the Paragraph was there for every one to read, the draftsman's summary of it in the brackets was not accepted.
+RatioOfTheDecision	Lord <NAME> observed: " The di fficulty does not arise from the enacting words but from the words in brackets which purport to describe the proviso to Section 262(2) of the Income Tax Act, 1952.
+RatioOfTheDecision	Those words could well be held to support the view of <ORG>, but they seem to me to be a misdescription of the proviso to Section 262(2) .
+RatioOfTheDecision	This is one of the places where 1 think that obscurity has resulted from a; failure of the draftsman to anticipate a case like the present-as I have said, a very natural failure.
+RatioOfTheDecision	In fact the proviso merely deals with the deductions to be allowed in computing actual income.
+RatioOfTheDecision	But the words in brackets in Section 88(2) refer to deductions in computing actual income of a company in relation to which a direction is in force' under Section 262(1) .
+RatioOfTheDecision	It would seem that these words have crept in because the draftsman assumed that a direction would always be given automatically in the case of an investment company and did not realise that a computation must first be made to determine whether the company has i n fact any actual income.
+RatioOfTheDecision	Whether that be the true explanation or not, I cannot regard the presence of these words in brackets, which are mere description, as of much weight in comparison with the other considerations to which I have referred."
+RatioOfTheDecision	If the section was there, its meaning could be taken from the words used there and not from a description of what it enacted, put parenthetically in another statute.
+Precedent	The case cited is hardly in point.
+Precedent	The last case cited is <CITATION_708040> .
+Precedent	(1).
+Precedent	The words of a: proviso there construed, ran as follows:  " Provided that where the said gross relevant distributions exceed the profits computed without abatement and including franked investment income, (1) (1958) 37 T.C.
+Precedent	725.
+Statute	962  the net relevant distributions shall be..." (S. 34(2) of the English Finance Act, 1947).
+Statute	The word " including "gave some difficulty.
+Argument	In <ORG>, the word was equated to " adding " correcting, as it was felt, a drafting inaccuracy.
+Argument	In <ORG>, however, this change was n ot accepted and a meaning was found.
+Argument	The learned counsel for the respondent, on the other hand, relies upon the observations of <NAME>, J., in <ORG> v. <ORG> (1) to the effect that in a taxing measure one can only look at the language since there is no room for an intendment.
+Argument	He also refers to the speech of Lord <NAME> in <NAME> v. Commissioners of Inland Revenue (2), where the following passage occurs at p. 169:  " It was urged that the construction that I favour leaves an easy loophole through which the evasive taxpayer may find escape.
+RatioOfTheDecision	That may be so; but I will repeat what has been said before.
+RatioOfTheDecision	It is not the function of a court of law to give to words a strained and unnatural meaning because only thus will a taxing section apply to a transaction which, had the <ORG> thought of it, would have been covered by appropriate words.
+RatioOfTheDecision	It is the duty of the <ORG> to give to the words of this Sub-section their reasonable meaning and I must decline on any gr ound of policy to give to them a meaning which, with all respect to the dissentient Lord Justice, I regard as little short of extravagant.
+RatioOfTheDecision	It cannot even be urged that unless this meaning is given to the <ORG> it can have no operation.
+RatioOfTheDecision	On the contrary, given its natural meaning it will bring within the area of taxation a number of cases in which by a familiar device tax had formerly been avoided."
+RatioOfTheDecision	The learned counsel contends that the artificial construction should not be resorted to in this case.
+RatioOfTheDecision	There is no doubt that if the words of a taxing statute fail, then so must the tax.
+RatioOfTheDecision	The <ORG> cannot, except rarely and in clear cases, help the draftsman by a favourable construction.
+RatioOfTheDecision	Here, the difficulty is not one of inaccurate language only.
+Precedent	It is really this (1) (1920) 12 T.C.
+Precedent	358, 366, (2) (1949) 31 T.C.
+Precedent	141, 169.
+Precedent	963  that a very large number of taxpayers are within the words but some of them are not.
+RatioOfTheDecision	Whether the enactment might fail in the former case on some other ground (as has happened in another cas e decided to-day) is not a matter we are dealing with at the moment.
+RatioOfTheDecision	It is sufficient to say here that the words do not take in the modifications which the learned counsel for the appellant suggests.
+RatioOfTheDecision	The word ' additional ' in the expression 'additional income-tax' must refer to a state of affairs in which there has been a tax before.
+RatioOfTheDecision	The words 'charge on the total income' are not appropriate to describe a case in which there is no income or there is loss.
+RatioOfTheDecision	The same is the case with the expression 'profits liable to tax'.
+RatioOfTheDecision	The last expression ' dividends payable out of such profits' can only apply when there are profits and not when there are no profits..
+RatioOfTheDecision	It is clear that the legislature had in mind the case of persons paying dividends beyond a reasonable portion of their income.
+RatioOfTheDecision	A rebate was intended to be given to those who kept within the limit and an enhanced rate was to be imposed on those who exceeded it.
+RatioOfTheDecision	The law was calculated to reach those persons who did the latter even if they resorted to the device  of keeping profits back in one year to earn rebate to pay out the same profits in the next.
+RatioOfTheDecision	For this purpose, the profits of the earlier years were deemed to be profits of the succeeding years.
+RatioOfTheDecision	So far so good.
+Precedent	But the legislature failed to fit in the law in the scheme of the Indian Income-tax Act under which and to effectuate which the Finance Act is passed.
+Precedent	The legislature used language appropriate to income, and applied the rate to the ' total income'.
+RatioOfTheDecision	Obviously, therefore, the law must fail in those cases where there is no total income at all, and the <ORG> cannot be invited to supply the omission made by the legislature.
+RatioOfTheDecision	It is quite possible that the legislature did not con- template the imposition of tax in circumstances such as these, and we are not prepared to read the proviso without the words on the total income' or after modifying this and other expressions.
+RatioOfTheDecision	<ORG> has given adequate reasons to show that these words are quite inappropriate, where the total income, if it can be described a s income at all, is a loss.
+RatioOfTheDecision	The imposition of the additional.
+RatioOfTheDecision	income-tax is conditioned by the existence of income and profits, to the total of which income the rate is made applicable.
+RatioOfTheDecision	Unless some other amount, not strictly income, is by law deemed to be income (see for example, <CITATION_1436056> (1)), we cannot improve the existing law by deeming it to be so by our interpretation.
+Argument	The Commissioner next contends that the proviso speaks of excess dividends, which means that dividends in excess of the permissible limits have been paid.
+Argument	He sayS that where the income is nit or a negative figure, whatever is paid is excess dividend, and indeed, the <ORG> also felt that the excess dividends in this case were more because of the loss sustained.
+RatioOfTheDecision	This argument has a familiar ring, It is really that " you can have more than nothing ".
+RatioOfTheDecision	Reference was made in this connection to <CITATION_708040> .
+Argument	(2) where Lord <NAME> observed at p. 736:  " Upon this proviso, interpreted in the light of Paragraph "of the Schedule  as amended, the Crown makes a very simple case: upon the undisputed figures the gross relevant distributions were pound 181,000, and the profits including franked investment income were nil (I may interpolate that the reference to abatement may throughout be disregarded) : therefore the net relevant distribution must be the excess of pound 181,000 over nil, i.e., pound 181,000: nothing has to be brought in under (a' of the proviso, for there were no profits."
+Precedent	Reliance was also placed upon the observations at p. 737 (ibid) where it was observed :  ,,The learned Dean of <ORG> on behalf of the Respondents urged, in support of the construction that he invited your Lordships to adopt, that it was really meaningless to speak of a nil profit or of adding something to it, and this plea found favour with the Lord President.
+Precedent	As I understood it, this was only relevant if the view was accepted that there were two separate operations and not a single (1) (1950] 36 I.T.R.
+Precedent	65 S.C.  (2) [[1958] 37 T.C.
+Precedent	725 computation.
+Precedent	I n the view which I take, therefore, it does not arise, but I think it right to say that I see no impropriety of language in ,;peaking of a nil profit where the question is whether any or what profit has been made.
+Argument	And the answer would be equally valid in the case of an exact balance or of a loss."
+Argument	These passages were used in the other case decided today, in which there were no profits of the previous years.
+Argument	There is, however, this difficulty that there the tax was laid on the net relevant distribution, and it was conceded that no charge could be imposed if the proviso was inapplicable (see p. 736).
+RatioOfTheDecision	The provisions of Paragraph 7 of the Schedule as amended by s. 32 of the English Finance Act, 1947, were entirely different, and the proviso to s. 34(2) of the English Act was held applicable.
+RatioOfTheDecision	The scheme of the provisions we are interpreting is entirely different.
+RatioOfTheDecision	Reliance was also placed upon <CITATION_258796> (1), but we find nothing there to support the appellant's case.
+RatioOfTheDecision	Similarly, in <CITATION_1436056> (1), th e words were held to be apt ' to impose a charge'.
+RatioOfTheDecision	It is obvious enough that unless they were so or unless the Act covered the instant cases, the tax must fail.
+RatioOfTheDecision	The gist of the matter is not the possibility of an arithmetical calculation as in the English case.
+RatioOfTheDecision	The rate in the proviso is applicable to the 'total income ' though after the application of a simple arithmetical calculation.
+Statute	The 'total income', however, is still the total income as determined for the purpose of incometax, and in the case of businesses, the rules require that the total income shall not include the depreciation allowance.
+RatioOfTheDecision	By the application of those rules if the total income ceases to exist, the second paragraph of the proviso, as it is worded, ceases to be workable.
+RatioOfTheDecision	All the four expressions to which we have referred earlier cease to have natural meaning, and the Com- missioner is again driven to contend that we must delete the offending words or suitably modify them.
+RatioOfTheDecision	This we are not prepared to do, because the intention might well  have been not to comprehend such cases.
+Precedent	(1) [1959] 35 I.T.R.
+Precedent	168.
+Precedent	125  (2) [1959] 36 I.T.R.
+Argument	65 S.C.  966  The Commissioner next contends that we may treat this as an independent charging section and give effect to it.
+Argument	The proviso is to Paragraph B in the First Schedule of the Finance Act, and the Schedule only imposes a rate of tax and this rate, either by itself or with rebate or with additional tax at a higher rate, has to be applied to the total income.
+Argument	The extra tax under the second part of the proviso, though called an additional tax, is only the difference between the tax charged at one rate and the tax subsequently chargeable at another rate.
+RatioOfTheDecision	The function of the proviso is thus to prescribe varying rates for varying circumstances, and it deals with rate or rates, first and last, and not with chargeability to tax, which is the subjectmatter of s. 3 of the Income-tax Act.
+RatioOfTheDecision	There are no words here making the excess dividend into income or subjecting it to tax independently of the charge to tax on the to tal income.
+RatioOfTheDecision	We are thus unable to treat the proviso as an independent charging section.
+RatioOfTheDecision	In this view of the matter, no useful purpose will be served by referring to those cases noted by this <ORG> in <CITATION_1203520> .
+RatioOfTheDecision	(1), where a schedule which went beyond the purpose for which it was enacted was given effect to.
+RatioOfTheDecision	The proviso here was framed to lay down the rates, and has done no more.
+RatioOfTheDecision	It remains to consider two other arguments, which were addressed to us on behalf of the Commissioner.
+RatioOfTheDecision	The first pointed out an anomaly that if there was a total income of even one rupee, the proviso could be made applicable according to its terms but not if the income was nil or negative.
+RatioOfTheDecision	The Commissioner contended that such an anomaly should be avoided, and that the proviso should be interpreted in such a way as to take in all the kinds of cases.
+RatioOfTheDecision	Our answer to this is much the same as was given by the learned Chief Justice of the Bombay High <ORG>.
+Precedent	The learned Chief Justice observes:  " There seems to be no logic, there se ems to be no reason nor principle why a distinction should be made between the cases of two such companies.
+Precedent	But if life is not logic, income-tax is much less so, (1) [1959] 37 I.T.R.
+Precedent	171.
+Precedent	967  and it is clear that we cannot impose tax upon a subject by implication or because we think that the object of the legislature was a particular object."
+RatioOfTheDecision	We respectfully agree with the learned Chief Justice that though the interpretation we have placed upon the proviso might lead to some anomalies, it is for the legislature to avoid the anomalies which, according to us, spring not from our interpretation but from the language employed.
+Argument	The second argumeint is that the proviso itself states that the excess dividend shall be deemed to be out of the undistributed profits of one or more years immediately preceding the previous year, and that the fiction makes the profits take the place of total income for purposes of tax.
+RatioOfTheDecision	In our opinion, the fiction cannot be carried further than the purpose for which it has been put in the  statute.
+RatioOfTheDecision	The Income-tax Act creates an assessment year and a corresponding previous year.
+RatioOfTheDecision	Assessment to tax in any assessment year can only be in respect of the profits of the immediately preceding previous year.
+RatioOfTheDecision	All that the fiction does is to bring profits of back years into the immediately preceding previous years, so that the requirements of the Income-tax law may be complied with.
+RatioOfTheDecision	As we have already stated, this fiction cannot be carried further than what it is intended for; it cannot be used to make these profits take the place of total income, which did not exist in the previous year and to which the rate is to be applied under the terms of the proviso.
+RulingByPresentCourt	We do not accept both the arguments, and agree with <ORG> in the answer given to the first question.
+RulingByPresentCourt	As pointed out by <ORG>, the second question does not survive, after the first question is answered against the <ORG>.
+RulingByPresentCourt	In the result, the appeal fails, and will be dismissed width costs.
+RulingByPresentCourt	Appeal dismissed.
+RulingByPresentCourt	968

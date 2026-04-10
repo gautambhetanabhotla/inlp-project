@@ -1,0 +1,463 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	In this reference, under Sub-section (1) of Section 256 of the I.T.
+Fact	Act, 1961, for the assessment year 1967-68, the following questions have been referred to this court for answer ;  "1.
+Fact	Whether, on the facts and in the circumstances of the case, <ORG> was justified in holding that the increase in liability of Rs.
+Fact	1,75,99,854 due to devaluation was not deductible in computing the assessee's business income ?
+Fact	2.
+Fact	If the answer to question No.
+Fact	1 is in the affirmative, whether, on the facts and in the circumstances of the case, <ORG> was justified in holding that the alternative claim of the assessee-company for development rebate under section 33 of the ' Income-tax Act , 1961, on Rs.
+Fact	1,09,24,832 was not admissible under the provisions of the Act ?"
+Fact	2.
+Fact	In order to appreciate these questions, it is necessary to state certain facts.
+Fact	The assessee is a limited company and, as mentioned hereinbefore, the reference relates to the assessment year  1967-68.
+Fact	The assessee-company under an agreement dated August 16, 1963, had taken a loan from <ORG> for making payment in the United States of America of the price of capital plant and machinery purchased for the new project, viz., a petrochemical undertaking.
+Fact	The loan was taken and repayable in dollars.
+Fact	This is an important fact which is to be borne in mind.
+Fact	Out of this loan, which the assessee-company took from <ORG>, payment was made for capital plant and machinery purchased from the various suppliers in the United States of America and the plant and machinery so purchased were shipped to India for installation in the petrochemical undertaking.
+Fact	On June 6, 1966, there was devaluation of the Indian rupee and, therefore, the liability of the assessee-company for repayment of loan to <ORG> in dollars increased in terms of rupees to Rs.
+Fact	1,75,99,854.
+Fact	This increased liability was accounted for by the assessee-company by crediting <ORG> ank and debiting Rs.
+Fact	1,09,24,932 to the plant and machinery account, Rs.
+Fact	98,766 to the building account and Rs.
+Fact	65,74,256 to the capital work-in-progress.
+Fact	The assessee-company claimed before the <ORG> that the increased liability of Rs.
+Fact	1,75,99,854 arising out of devaluation of the Indian rupee on June 6, 1966, should be allowed as deduction in computing the business income.
+Fact	Alternatively, it was claimed by the assessee-company that the amount of Rs.
+Fact	1,09,24,832, attributable to the plant and machinery account, development rebate should be allowed.
+Fact	The <ORG> rejected both these claims.
+Fact	The assessee-company thereafter preferred an appeal before the <ORG>.
+Fact	The <ORG>, relying on some other point, upheld the findings of the <ORG> on these two aspects.
+Fact	The assessee-company thereafter preferred a further appeal before the <ORG>.
+Fact	The <ORG>, on a consideration of the rival contentions made before it, had held as follows:  "5.
+Fact	We have considered the rival submissions.
+Fact	On the first issue whether the loss arising out of dev aluation on account of loan from <ORG> was an allowable deduction in computing the business income, even though a number of case law have been cited before us by both the sides, the answer to the question is self-evident from the ruling of the hon'ble <ORG> in the case of <CITATION_1627481> .
+RatioOfTheDecision	.
+RatioOfTheDecision	In that case, the hon'ble <ORG> has laid down that where profit or loss arising from change in exchange rate of foreign currency was on the balance outstanding in connection with the purchase of capital goods, the profit or loss is of the nature of capital.
+RatioOfTheDecision	Viewed in this context, it was not under dispute in the present case that the loan from <ORG> was taken for the purchase in the USA of capital plant and machinery in the new project of petrochemical undertaking.
+RatioOfTheDecision	The loan outstanding to <ORG> on the devaluation date was thus for a capital purpose, i.e., purchase of capital plant and machinery in the new project of petrochem ical undertaking.
+RatioOfTheDecision	It follows, therefore, that if there was any profit or loss on account of devaluation in respect of this liability it was on capital account.
+RatioOfTheDecision	We, therefore, following the ruling of the hon'ble <ORG> in the case of <ORG> , which is a binding authority for us and with which we are in respectful agreement, hold that the loss arising from devaluation attributable to <ORG> was of the nature of capital loss.
+Argument	This could not, therefore, be allowed as a deduction in computing the business profit and was rightly disallowed by the revenue authorities.
+Argument	We will now deal with the alternative issue raised by the assessee-company that even if the loss on devaluation was considered to be capital loss, development rebate should have been allowed on the increased liability arising out of devaluation attributable to plant and machinery installed during the previous year amounting to Rs.
+RatioOfTheDecision	1,09,24,832.
+RatioOfTheDecision	Here again, it is not under dispute that out of the l oan taken from <ORG> payments were made to suppliers of capital plant and machinery in the USA and the plant and machinery which were installed during the previous year were those items of plant and machinery in respect of which payments had already been made by the assessee-company before the date of devaluation.
+RatioOfTheDecision	This means that the actual amount which the assessee-company had to pay for the plant and machinery which was installed during the previous year was at the pre-devaluation rates and the increased liability on account of devaluation was in respect of loan taken in the USA which was outstanding on the devaluation date, and not in respect of purchase of capital plant and machinery.
+RatioOfTheDecision	In these circumstances, even according to the criterion of actual cost as submitted before us by the assessee's learned counsel, <NAME>, the increased liability on account of devaluation will have nothing to do with what the assessee company had to pay for acquiring capital plant and/or machinery or fo r bringing them into working condition.
+RatioOfTheDecision	No part of the increased liability on account of devaluation can, therefore, be included in the actual cost of plant or machinery which was installed during the previous year.
+Precedent	The judgment of <ORG> in I.T.
+Argument	A, No.
+RatioOfTheDecision	2027 of 1971-72 will, therefore, not be applicable here.
+RatioOfTheDecision	If resort is had to the provisions of Section 43A , Sub-section (2) of Section 43A clearly lays down that the variation in actual cost worked out under this section, will have no effect of development rebate admissible under Section 33 of the Income-tax Act, 1961.
+RatioOfTheDecision	Thus, the alternative plea of the assessee also fails and the revenue authorities, in our view, were justified in not allowing development rebate on the increased liability arising out of devaluation which was debited by the assessee to the plant and machinery account on both the issues.
+RatioOfTheDecision	Therefore, the appeal of the assessee-company fails."
+RatioOfTheDecision	3.
+RatioOfTheDecision	Upon this, the aforesaid questions have been referred to us.
+RatioOfTheDecision	4.
+Precedent	The first  aspect of the question, therefore, is whether the <ORG> was justified in holding that the increased liability of Rs.
+Precedent	1,75,99,854 due to devaluation was not deductible in computing the assessee's business income.
+Precedent	The <ORG> held that, inasmuch as the increased liability was on account of the plant and machinery, this was on account of capital and as such could not be deducted in computing the income of the assessee.
+Precedent	A large number of decisions were cited at the bar in support of the rival contentions.
+Precedent	The question is whether the increased liability due to devaluation which had to be discharged by the assessee by borrowing, say, assets or liability which could be considered to be capital.
+Precedent	As mentioned hereinbefore, a large number of decisions were cited and we shall note the decisions before we come to our conclusion.
+Precedent	5.
+Precedent	Reliance was placed on the observations of <ORG> in the case of <CITATION_590011>  55 ITR 736.
+Argument	There, the assessee-company which had been carrying on business of <ORG> <ORG>, pursuant to the authority under its memorandum of association to invest its funds in loans to others, resolved to invest its surplus funds with its managing agents at 6 per cent, interest.
+Argument	The managing agents on behalf of the company borrowed large sums of money from outsiders, entered them in the company's books of account, withdrew the sums and utilized those for their own purposes.
+Argument	The managing agents went into liquidation in 1933.
+Argument	In computing its profits for the purpose of industrial tax under the Indore Industrial Tax Rules, 1927, for the assessment year 1941, the assessee-company had claimed deduction of the sums which could not be recovered from the managing agents as bad debts and as trading loss.
+Argument	It was held by <ORG> that the money borrowed by the managing agents which would become irrecoverable was a trading loss deductible in computing the profits of the managing company for the assessment year ; it was a loss incidental to the company's business.
+Argument	The fact that the managing ag ents brought into the company's till larger amounts than what the company's business demanded at a particular moment of time did not make the dealing or lending of money themselves any the less incidental to the sanctioned business operation.
+Argument	There, Mr. Justice <NAME>, learned Chief Justice as he then was, at page 740 of the report, observed that the question was not whether the managing agents committed a fraud on the company, but whether the amounts borrowed were the funds of the company.
+Precedent	If the creditors had filed a suit against the company, could it have resisted the suit on the ground that the managing agents had no power to borrow the amounts for the reason that at the time they had borrowed the money they were in excess of the requirements of the business ?
+Precedent	The learned judge further observed that the answer was in the negative.
+Precedent	There would not have been any defence to such a suit.
+Precedent	Thereafter the learned judge observed, "after the borrowing the money became the company's money".
+Argument	6.
+Argument	<ORG> was plac ed on behalf of the revenue in aid of the submission that borrowed money after borrowing would become the assessee's money and if the principle of law was that the assessee's money, if utilised for capital purposes and in respect of the same there was any increased liability due to devolution, then such increased liability was on capital account and not on revenue account.
+RatioOfTheDecision	In the case of <CITATION_55612426> , where, sitting singly, I had an occasion to rely on this observation of <ORG>, but it will be necessary to refer to the context of such reliance.
+RatioOfTheDecision	Under Section 295 of the I.T.
+RatioOfTheDecision	Act, 1961, the <ORG> was only authorised, it was held, to make rules to carry out the purposes of the Act.
+RatioOfTheDecision	The rules so framed could only be for carrying out the provisions of the Act and could not take away what was conferred by the Act or whittle down its effect.
+RatioOfTheDecision	Section 296 of the Act, no doubt, enjoined that the Rules framed by the Central <ORG>.
+RatioOfTheDecision	should be placed before <ORG> and the same might be modified by Par <ORG>.
+RatioOfTheDecision	However, by this process, the Rules framed by the delegate did not become legislation of Par<ORG>.
+RatioOfTheDecision	There, the court was considering Rule 19A(3) of the I.T.
+RulingByLowerCourt	Rules, 1962, which provided that the borrowed capital employed in the new industrial undertaking except to the extent indicated in Sub-rules (a) and (b) could not be taken into consideration in computing the capital employed for the purpose of granting any relief as contemplated under Section 80J .
+RulingByLowerCourt	But Section 80J of the I.T.
+RulingByLowerCourt	Act, 1961, it was held, did not provide that the capital employed should be out of the money belonging to the assessee.
+RatioOfTheDecision	Therefore, it was held, borrowed money, if it was employed as capital in a new industrial undertaking, was entitled to be taken into computation.
+RatioOfTheDecision	In so holding, reliance was placed on the observations of <ORG> in the case of <CITATION_590011> .
+RatioOfTheDecision	.
+RatioOfTheDecision	But it has to be emphasised that it was so held in considering whether the borrowed capital become capital of the company for certain purpose.
+RatioOfTheDecision	In neit her of these two cases, however, the question whether a loan as such could become an asset of enduring nature or an expense for a loan either in the shape of either procuring or for the purpose of repayment of it would be capital expenditure or revenue expenditure fell for consideration.
+RatioOfTheDecision	The expression that " after borrowing the money became company's money", as mentioned by <ORG>, in the passage quoted, was made--it must be emphasised--entirely in a different context.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The next case which requires consideration is the decision of <ORG> in the case of <ORG> (1953} <CITATION_1208473>  56 ITR 52.
+RatioOfTheDecision	There, Mr. Justice <NAME> and Mr. Justice <NAME>, in a Bench of three, held that the expression " capital " used in Section 10(2)(iii) of the Indian I.T.
+RatioOfTheDecision	Act, 1922, in the context in which it occured, meant money and not any other assets.
+RatioOfTheDecision	There was in truth no capital borrowed by the assessee in that case.
+RatioOfTheDecision	The agreement to pay the balance of consideration due by the purchas er did not, according to the majority of the judges, give rise to a loan.
+RatioOfTheDecision	Therefore, the claim for deduction of the amount of interest under Section 10(2)(iii) was not admissible.
+Argument	It was further held by the full court that interest paid by the assessee was business expenditure and was allowable as a deduction under Section 10(2)(xv) .
+Argument	The transaction of acquisition of assets was closely related to the commencement and carrying on of the assessee's business and interest paid on the unpaid balance of the consideration for the assets acquired, in the facts of that case, was held, in the normal course, had to be regarded as expenses for the purpose of business which was carried on in the accounting period.
+Argument	The expenditure might indicate a transaction which was so closely related to the business, as was found by <ORG> in that case, that it should be viewed as an integral part of the conduct of the business, might be regarded as revenue expenditure laid out wholly and exclusively for the purpose of busi ness.
+Argument	The expenditure for satisfying liability unrelated to the business even if incurred for avoiding danger, apprehended or real, to the conduct of the business could not be said to be a revenue expenditure.
+Argument	<ORG> reiterated that in consideration whether the expenditure was revenue expenditure, the court had to consider the nature and the ordinary course of business and the object for which the expenditure was incurred.
+RatioOfTheDecision	The question was whether a particular expenditure was a revenue expenditure incurred for the purpose of business must be viewed in the particular context of business interest or expediency.
+RatioOfTheDecision	If the outgoing or an expenditure was so related to the carrying on or conduct of the business that it might be regarded as an integral part of the profit-earning process and not for acquisition of an asset or a right of a permanent character, the possession of which was a condition to the carrying on of the' business, the expenditure might be regarded as revenue expenditure.
+RatioOfTheDecision	Similar provision  like Section 10(2)(iii) of the Indian I.T.
+RatioOfTheDecision	Act, 1922, has been provided under Section 33 of the I.T.
+RatioOfTheDecision	Act, 1961.
+RatioOfTheDecision	8.
+RatioOfTheDecision	But mainly reliance was placed on behalf of the assessee on a decision of <ORG> in the case of <ORG> v. <ORG> v. CIT [1966] 60 ITR 52 CIT [1966] 60 ITR 52.
+Argument	There the assessee had obtained a loan of Rs.
+Argument	40 lakhs from <ORG> secured by a charge on its fixed assets.
+Argument	In connection therewith, it spent a sum of Rs.
+Argument	84,633 towards stamp duty, registration fees, lawyer's fees, etc., and claimed this amount as business expenditure.
+Argument	But <ORG> held that the amount spent was not in the nature of capital expenditure and was laid out or expended wholly and exclusively for the purpose of the assessee's business and was, therefore, allowable as a deduction under Section 10(2)(xv) of the Indian I.T.
+Argument	Act, 1922.
+Argument	The act of borrowing money was incidental to the carrying on of business, the loan obtained was not an asset or an advantage o f enduring nature, the expenditure was made for securing the use of money for a certain period, and it was irrelevant to consider the object with which the loan was obtained.
+Argument	There at page 62 of the report, <ORG> has referred to various decisions.
+Argument	<ORG> referred to the decision of this court in the case of <ORG> v. CIT  54 ITR 592, where Mr. Justice <NAME> held that the loan of Rs.
+Argument	10 lakhs obtained by the company was an asset or advantage for the enduring benefit of the business of the assessee.
+Argument	The learned judge placed reliance on a number of cases, some of which were also discussed by <ORG>.
+Argument	But <ORG> observed that it was unable to agree that a loan obtained could be treated as an asset or advantage for the enduring benefit of the business of the assessee.
+Argument	A loan, according to <ORG>, was a liability and had to be repaid and, in their opinion, it was erroneous to consider a liability as an asset or an advantage within th e test laid down by <NAME> and approved and applied by <ORG> in several decisions.
+Precedent	<ORG> further noted that Justice <NAME>, after referring to a number of cases, felt that the raising of capital by issue of debentures was a recognised mode of raising capital and he further held that the decided cases had laid down the proposition that borrowing money by the issue of debentures was an acquisition of capital asset and that any commission or expenditure incurred in respect thereof was of a capital nature and not to be considered as in the nature of revenue.
+Precedent	<ORG> referred to the decision in the case of <CITATION_184401603>  57 ITR 455 (Bom), in view of the fact that strong reliance was placed by the assessee on that decision.
+Precedent	It is relevant to refer to the material portion of the judgment there at page 62.
+Precedent	<ORG> observed as follows :  " <CITATION_184401603>  57 ITR 455, <ORG> held that the expenditure incurred for raising loan for the carry ing on of a business cannot in all cases be regarded as an expenditure of a capital nature.
+Precedent	On the facts of the case, they held that as construction and sale of the building was the sole business of the firm and the building was its stock-in-trade, and the loan was raised and used wholly for the purpose of acquiring this stock-in-trade and not for obtaining any fixed assets or raising any initial capital or for expansion of the assessee's business, the expenditure incurred for the raising of loan was not an expenditure of capital nature but revenue expenditure.
+Precedent	Although the conclusion of <ORG> was correct, we are not able to agree with the principle that the nature of the expenditure incurred in raising a loan would depend upon the nature and purpose of the loan.
+Precedent	A loan may be intended to be used for the purchase of raw material when it is negotiated, but the company may, after raising the loan, change its mind and spend it on securing capital assets.
+Precedent	Is the purpose at the time 'the loan is negotiate d to be taken into consideration or the purpose for which it is actually used ?
+Precedent	Further, suppose that in the accounting year the purpose is to borrow and buy raw material but in the assessment year the company finds it unnecessary to buy raw material and spends it on capital assets.
+Precedent	Will the Income-tax Officer decide the case with reference to what happened in the accounting year or what happened in the assessment year ?
+Precedent	In our opinion, it was rightly held by the Nagpur Judicial Commissioner in <CITATION_1133699>  6 ITC 28 (Nag), that the purpose for which the new loan was required was irrelevant to the consideration of the question whether the expenditure for obtaining the loan was revenue expenditure or capital expenditure.
+Precedent	9.
+Precedent	To summarise this part of the case, we are of the opinion that, (a) the loan obtained is not an asset or advantage of an enduring nature; (b) that the expenditure was made for securing the use of money for a certain period; and (c) that it is irrelevant to consider the object with wh ich the loan was obtained.
+Precedent	Consequently, in the circumstances of the case, the expenditure was revenue expenditure within Section 10(2)(xv) . "
+Argument	9.
+Argument	It was emphasised by the learned advocate for the assessee that <ORG> had held that the loan could never be an asset and if that was so, the purpose of which loan was utilised, namely, whether it was for acquisition of the capital asset or for revenue purpose was irrelevant.
+Argument	Therefore, any increased liability of the assessee for repayment of the loan would never be on the capital account and must always be considered on the revenue account.
+RatioOfTheDecision	It has, however, to be emphasised in view of the several subsequent decisions of <ORG> that there <ORG> was not concerned actually with any interest to be paid on account of borrowed money.
+RatioOfTheDecision	There <ORG> was concerned with the act of borrowing and the incidental acts thereto, that is to say, that the acts incidental to the obtaining of the loan and in that context it is material to  emphasise that in the third test <ORG> has significantly used the expression" it is irrelevant to consider the object with which the loan was obtained".
+RatioOfTheDecision	Therefore, the object for which the loan was obtained was irrelevant for consideration in view of the fact that the loan was, when obtained, a liability for the purpose of consideration of the incidental expenses relating thereto as revenue expenses.
+RatioOfTheDecision	But <ORG> was not considering the position as to the manner after the loan was obtained whether the user of the loan in a particular fashion not for the purpose of which the loan was obtained in any way materially altered or affected the position.
+RatioOfTheDecision	This distinction has to be borne in mind, in our opinion, in the order to reconcile this observation with those of several other subsequent observations with which we shall presently deal with.
+Precedent	But before we do so, we may note that this court had occasion to consider the ratio of this decision by <ORG> of this court in the case of <C ITATION_907847>  Tax LR 395, where the court was concerned with whether the expenditure incurred for obtaining the overdraft facility of a loan was allowable under Section 10(2)(xv) of the Indian I.T.
+RatioOfTheDecision	Act, 1922.
+RatioOfTheDecision	There, it has to be emphasised, the court was considering the question of expenditure incurred in obtaining the loan.
+RatioOfTheDecision	In that context, reference was made to the observations of <ORG> that the ratio of the aforesaid decision of <ORG> was that the loan was a liability and the loan obtained had to be repaid though the period of repayment might be either long or short.
+RatioOfTheDecision	The loan was, therefore, not an asset or advantage having regard to the observations of <ORG> and having regard to the facts found by the Tribunal that by incurring the expenditure the company had only obtained an overdraft facility for loan.
+Precedent	Then the court came to the opinion that this was an expenditure which was allowable under Section 10(2)(xv) of the Indian I.T.
+Precedent	Act, 1922.
+Precedent	10.
+Precedent	In the case of <CITATI ON_1627481> .
+Argument	, a decision upon which the learned advocate for the revenue strongly relied on, was that the assessee which carried on business in the manufacture of locomotive boilers and locomotives for the purpose of its manufacturing activity had to make purchases of plant and machinery in the U.S.A. with the sanction of the exchange control authorities, It had remitted to its agent in the U.S.A. $33,850 for the purpose of purchasing capital goods and other expenses.
+Argument	As selling agent of <ORG> for the sale of their products in India, the assessee incurred expenses on their behalf in India and also earned commission of $36,123.
+Argument	With the sanction of the exchange control authorities the amounts paid by <ORG> in reimbursement of the expenses and towards commission were retained with its agent in the U.S.A. for the purchase of capital goods there.
+Argument	The pound sterling and with it the Indian rupee were devalued on September 16, 1949.
+Argument	Thereafter, the assessee found it  more expensive to buy American goods and, as <ORG> also imposed some restrictions on imports from the U.S.A., the assessee, with the permission of <ORG>, repatriated $49,500.
+Argument	This resulted in a surplus and the <ORG> assessed it as profit arising to the assessee and incidental to its carrying on business.
+Argument	<ORG>, however, held that only that part of the surplus which was attributable to $36,123 received from <ORG> was a trading profit.
+Argument	On a reference, <ORG> held that the surplus attributable to $36,123 was an accretion to the assessee's fixed <ORG>al and was not liable to tax.
+Argument	It was held by <ORG> that the Act of retaining the monies in the U.S.A. for <ORG>al purposes after obtaining the sanction of <ORG> was not a trading transaction in the business of manufacture of locomotive boilers and locomotives.
+Argument	It was clearly a transaction of accumulating dollars to pay for <ORG>al goods, the first step in the acquisition of <ORG> al goods.
+Argument	The surplus attributable to $36,123 was capital accretion and not profit taxable in the hands of the assessee.
+Argument	It was emphasised on behalf of the revenue that this was an authority for the proposition that any accretion of dollar in foreign country due to devaluation was on a capital account.
+Argument	It is sought to be distinguished by the learned advocate for the assessee on the ground that there <ORG> was not concerned with borrowed money or loan.
+Argument	There <ORG> was concerned with the accretion accruing to an assessee in respect of his own money held in a foreign country which was utilised for the purpose of buying capital goods.
+Fact	In this connection, reference was also made to the decision in <ORG> in England in the case of <NAME> (H. M. Inspector of Taxes) v. <ORG>  22 ITR (Supp) 1 (CA).
+Fact	There, what had happened was that the assessee-company was a British company carrying on the business of sale and distribution of petroleum products in China and it  employed a number of Chinese agents to whom petroleum products were consigned for which the payments were not made beforehand.
+Fact	They were, however, required by the terms of the contract to deposit with the company certain sums in Chinese dollars and the company was empowered to take out of the deposit any amounts which might become due from the agents in the event of their default.
+Fact	The deposit was repayable at the determination of the agency by the company and it was to carry interest at a fixed rate per cent.
+Fact	per annum.
+Fact	The company was empowered to use the deposit in any way it liked; but it kept in Shanghai banks Chinese dollars deposits of an amount equivalent roughly to the sum which the company had acquired from these agents at any given time.
+Fact	When war broke out between China and Japan the company sold the Chinese dollars for sterling at the then current rate of exchange, transferred the resultant sterling amount to the bank and placed the amount of deposit with its parent company.
+Fact	Subsequently, the comp any closed down its operations through its agents in China.
+Fact	There was then a depreciation of the Chinese dollars with respect to sterling and the amounts required to repay the deposits of the agents in Chinese dollars were much less than the amounts held by the company to meet their claims.
+Fact	The question was whether the profit thus made by the company was assessable to income-tax.
+Fact	<ORG> in England held that it was a capital profit and not subject to income-tax.
+Argument	<ORG> held that the question was whether it was a trading profit or a merely capital profit was a question of fact on which there was evidence to support the conclusion of the Special Commissioners arid that he was, therefore, not entitled to interfere with their finding.
+Argument	On appeal, it went to <ORG>.
+Argument	<ORG> was of the view that the question whether the Special Commissioners were right in holding that the exchange profit was a capital profit not subject to income-tax was properly fr amed by them as a question of law and that it was open to the court to go into that question.
+Argument	It further held, and it is important for us, that it was not a trading profit but it was simply the equivalent of an appreciation in a capital asset not forming part of the assets employed as a circulating capital in the trade and it was, therefore, not assessable to tax.
+Argument	Now, in this case, strong reliance was placed by the learned advocate for the assessee on the observations of Lord Justice <NAME> of <ORG>, at page 18 of the report, where he had set out the relevant facts and thereupon observed as follows:  "As regards the law to be applied there is a considerable measure of agreement between the parties.
+Argument	Mr. <NAME> for the company does not dispute that where a British company in the course of its trade engages in a trading transaction such as the purchase of goods abroad, which involves, as a necessary incident of the transaction itself, the purchase of currency of the foreign country concerned, then  any profit resulting from an appreciation or loss resulting from a depreciation of the foreign currency embarked in the transactions compared with sterling will prima facie be a trading profit or a trading loss for income tax purposes as an integral part of the trading transaction.
+RatioOfTheDecision	That concession or admission by Mr. <NAME> is amply justified by the cases to which we have been referred.
+Fact	There is the case of <ORG> [1934] 19 TC 62 (KB), which is a decision of my brother <NAME> as a judge of first instance.
+Fact	There the appellants, who carried on business as fur and skin merchants and as agents, were appointed sole commission agents of a company for the sale in Britain and elsewhere of furs exported from Russia on the terms, inter alia, that they should advance to the company a part of the value of each consignment.
+Fact	All the transactions between the appellants and the company were conducted on a dollar basis and owing to fluctuations in the rate of exchange between the dates when advances in  dollars were made by the appellants to the company against goods consigned and the dates when the appellants recouped themselves for the advances on the sales of the goods, a profit accrued to the appellants on the conversion of repaid advances into sterling.
+Fact	The decision was that the exchange profits arose directly in the course of the appellants' business with the company and formed part of the appellants' trading receipts for the purpose of computing their profits assessable to income tax under Case I of Schedule D. My brother <NAME>, on page 69 of the report, cited the case of <ORG> [1926] 10 TC 372 (KB), to which I will refer in a moment, and then made this comment upon it: 'I pause there to say that in my view the profit which arises in the present case is a profit arising directly from the business which had to be done, because, as is found in paragraph 6 of the case, the business was conducted on a dollar basis and the appellants had, therefore, to buy dollars in or der to make the advances against the goods as prescribed by the agreements.
+Precedent	The profit accrued in this case because they had to do that, thereafter as a trading concern in this country re-transferring or re-exchanging into sterling.'
+Precedent	That is accepted by both parties as correctly stating the law, and if I may say so in my view it was clearly a right decision on the facts of that case.
+Precedent	The question is whether it can be said to have any bearing on the very different facts of the present case."
+Argument	11.
+Argument	<ORG>, thereafter, referred to the cases of <ORG> v. <NAME> [1943] 25 TC 292 (CA), <ORG> v. <ORG> [1926] 10 TC 372 (KB), <ORG> v. <NAME> [1921] 12 TC 266 (HL) and, dealing with the arguments of Sir <NAME>, observed as follows (pp.
+Argument	25 & 26):  "'Next', Sir <NAME> says, ' look at the character of the agent's deposit itself and the terms of the agreement under which it was, made'.
+Argument	He points out that on the face of the agreement the deposit was made to secu re the due performance by the agent of his obligations ; to secure, in other words, the due discharge of the liabilities which might arise from time to time from the agent to the company as a result of the agent carrying on business as agent for the company, selling the company's petroleum and so forth.
+Argument	Sir <NAME> argued that a deposit so closely linked with the actual trading operations to be carried on by the agent must itself be regarded as a trading receipt.
+RatioOfTheDecision	In that I venture to differ from him.
+RatioOfTheDecision	If the agent's deposit had in truth been a payment in advance to be applied by the company in discharging the sums from time to time due from the agent in respect of the petroleum products transferred to the agent and sold by him, the case might well be different and might well fall within the ratio decidendi of <ORG> [1934] 19 TC 62 (KB) and <ORG> v. <NAME> [1943] 25 TC 292 (CA).
+RatioOfTheDecision	But that is not the character of the deposits here in question.
+RatioOfTheDecision	The intention manifested by the terms o f the agreement is that the deposit should be retained by the company carrying interest for the benefit of the depositor throughout the terms of the agency.
+RatioOfTheDecision	It is to be available during the period of the agency for making good the agent's defaults in the event of any default by him : but otherwise it remains, as I see it, simply as a loan owing by the company to the agent and repayable on the termination of the agency ; and I do not see how the fact that the purpose for which it is given is to provide a security against any possible default by the agent can invest it with the character of a trading receipt.
+RatioOfTheDecision	Mr. <NAME> described the agent's deposits as part of the company's trading structure, not trade receipts but anterior to the stage of trade receipts, and I think that is a fair description of them.
+RatioOfTheDecision	It seems to me that it would be an abuse of language to describe one of these agents, after he had made a deposit, as a trade creditor of the company ; he is a creditor of the company in respect of the deposit,  not on account of any goods supplied or services rendered by him in the course of its trade, but simply by virtue of the fact that he has been appointed an agent of the company with a view to his trading on its behalf, and as a condition of his appointment has deposited with or, in other words, lent to the company the amount of his stipulated deposit.
+RatioOfTheDecision	After paying the best attention I can to the arguments for the <ORG> and those for the respondent company, I find nothing in the facts of this case to divest those deposits of the character which it seems to me they originally bore, that is to say, the character of loans by the agents to the company, given no doubt to provide the company with a security, but nevertheless loans.
+RatioOfTheDecision	As loans it seems to me they must prima facie be loans on capital not revenue account; which perhaps is only another way of saying that they must prima facie be considered as part of the company's fixed and not of its circulating capital.
+RatioOfTheDecision	As appears from what I have said above, the evide nce does not show that there was anything in the company's mode of dealing with the deposits when received to displace this prima facie conclusion.
+RatioOfTheDecision	In my view, therefore, the conversion of the company's balances of Chinese dollars into sterling and the subsequent repurchase of Chinese dollars at a lower rate, which enabled the company to pay off its agent's deposits at a smaller cost in sterling than the amount it had realised by converting the deposits into sterling, was not a trading profit, but it was simply the equivalent of an appreciation in a capital asset not forming part of the assets employed as circulating capital in the trade.
+RatioOfTheDecision	That being so it was a profit of the nature not properly taxable under Schedule D, and <ORG> in my view came to a right conclusion, which was rightly affirmed by the learned judge, and I would, therefore, dismiss the appeal. "
+RatioOfTheDecision	12.
+RatioOfTheDecision	Here also though, as I have said before, subsequent decisions had dealt with this case, the actual distinction is sought to  be urged before us, whether the user of the assessee's own money or user of the borrowed money of the assessee was for capital or for revenue purpose made any difference does not seem to have been stressed.
+RatioOfTheDecision	But this decision, as we shall indicate, has been later on followed.
+RatioOfTheDecision	If this decision is understood in the light of the expression "when any cost or expenses incurred for obtaining a loan before it was used" then it could be treated as a capital, then the principle of this decision is absolutely irreconcilable with the observations of <ORG> in the case of <CITATION_12637>  60 ITR 52.
+Precedent	Reliance was also placed on the decision of <ORG>, where the observations in the case of <ORG>  22 ITR (Supp) 1 (CA) were approved in the case of <CITATION_1904485> , the Chief Justice, <NAME>, had referred to the case of <NAME> v. <ORG> of China  22 ITR (Supp) 1 (CA) with approval and quoted the observations of <ORG>, as mentioned hereinbefore.
+Precedent	13.
+Precedent	Reliance was also pl aced on the case of <NAME> (1929} <CITATION_416340> on behalf of the asseesee.
+Fact	There, the assessee-company had incurred an expenditure to secure overdraft facilities with the bank for the purpose of its business.
+RulingByLowerCourt	It was held that the expenditure was of a revenue nature allowable under Section 10(2)(xv) of the Indian I.T.
+RulingByLowerCourt	Act, 1922.
+RulingByLowerCourt	It was held that the absence of any finding regarding the extent of the overdraft facility the period for which it was granted and the terms on which the overdraft facilities were secured did not affect the position.
+RulingByLowerCourt	There the observations of <ORG> in the case of <CITATION_12637>  60 ITR 52 was also referred to in aid of its conclusion reached by the court.
+Fact	As we have mentioned before that was a case where the question was about the expenditure for securing overdraft facilities for the purpose of its business and in that connection it had incurred an expenditure.
+Fact	Reliance was also placed on the case of <CITATION_1693454> .
+Fact	There, the assessee-company had been carryin g on a business as distiller of country liquor and sold the produce of its distillery to licensed wholesalers.
+Fact	After the war started the difficulty was felt in finding the bottles in which the liquor was to be sold.
+Fact	To relieve the scarcity the <ORG> devised a scheme whereby the distiller was entitled to charge the wholesaler a price for the bottles in which the liquor was supplied, at rates fixed by the <ORG>, which they were bound to repay when the bottles were returned..
+Fact	In addition to the price fixed under the <ORG> scheme, the assessee took from the wholesalers certain further amounts described as security deposits without the <ORG>'s sanction and entirely as a condition imposed by the assessee itself for the sale of its liquor.
+Fact	The moneys described as security deposits were also returned as and when the bottles were returned.
+Fact	But in this case, the entire sum taken in one transaction was refunded when 99 per cent.
+Fact	of the bottles covered by it were returned.
+Fact	The price of the bottles rec eived by the assessee was entered in it in its general trading account while the additional sum was entered in the general ledger under the heading "Empty bottles return security deposit account".
+Fact	The question was whether the assessee could be assessed to tax on the balance of the amounts of these additional sums left after the refunds made.
+Fact	It was held that in realising the additional amount described as security deposit the assessee was charging extra prices for the bottles.
+Fact	Therefore, the additional amounts taken were an integral part of the commercial transaction of the sale of liquor in bottles and when they were paid were the moneys of the assessee and remained thereafter the moneys of the assessee, they were the assessee's trading receipts and, therefore, the balance of these additional sums left after the refunds made thereout were assessable to tax.
+RatioOfTheDecision	In the context of this case, this decision will not be of much assistance to us.
+Fact	Reliance was also placed on the case of <CITATION_1738247> .
+Fact	46 ITR 590  (Bom).
+Argument	There, it was held that the foreign fund of the assessee was allowed to remain unused where it lies the mere circumstance that there had been fluctuation in the currency resulting in appreciation of the fund in terms of the coin of another country would not result in profit to the owner of the fund.
+Argument	But, if the fund was utilised in the course of business for a trading purpose there would be realisation of the profit arising out of devaluation and the profit would be taxable.
+Argument	If, on the other hand, the fund was not utilised for a business operation or for the purposes of trade but for a common business operation like payment of income-tax in the foreign country there was no profit and the difference in exchange could not be assessed to income-  tax.
+Argument	The matter of taxability could not be decided on the basis of the entries which the assessee might choose to make in his accounts but had to be decided in accordance with the provisions of law.
+Argument	What would determine the taxability was not whether the assesse e had shown a particular item as profit or loss in the accounting year but whether such an item could be regarded as a profit or loss under the provisions of the I.T.
+Argument	Act .
+Argument	14.
+Argument	Next reliance was placed on a <ORG> decision in the case of <ORG> v. CIT [1979] 116 ITR 1.
+Argument	There the <ORG> observed that where profit or loss arises to an assessee on account of appreciation or depreciation in the value of foreign currency held by him, on conversion into another currency, such profit or loss would ordinarily be trading profit or loss, if the foreign currency is held by the assessee on revenue account or as a trading asset or as part of circulating capital embarked in the business.
+Argument	But, if on the other hand, the foreign currency is held as a capital asset or as fixed capital, such profit or loss would be of a capital nature.
+Argument	The <ORG> further held that it is now well settled that the way in which entries are made by an assessee in his books of account is not determinative of t he question whether the assessee has earned any profit or suffered any loss.
+RatioOfTheDecision	The assessee may, by making entries which are not in conformity with the proper principles of accountancy, conceal profit or show loss and the entries made by him cannot, therefore, be regarded as conclusive one way or the other.
+RatioOfTheDecision	What is necessary to be considered is the true nature of the transaction and whether in fact it has resulted in profit or loss to the assessee.
+RatioOfTheDecision	The assessee had a cotton mill in West Pakistan where it manufactured and sold cotton fabrics.
+Fact	During the financial year ending 31st March, 1954, relevant to the assessment year 1954-55, the assessee had made large profits amounting to Indian Rs.
+Fact	1,68,97,232 converted at the then prevailing rate of exchange of 100 Pakistani rupees to 144 Indian rupees.
+Fact	On 8th August, 1955, Pakistan devalued is rupee restoring the parity between in Indian rupee and the Pakistani rupee.
+Fact	Thereafter, during the accounting periods relevant to the assessment years 1957-58 and 1959-60, the  assessee obtained permission of <ORG> and remitted to India Rs.
+Fact	25 lakhs and Rs.
+Fact	12 1/2 lakhs, respectively.
+Fact	The assessee had claimed that on remittance the assessee had suffered respectively a loss of Rs.
+Fact	11 lakhs and Rs.
+Fact	5 1/2 lakhs, but the claim was rejected by the department and the <ORG> sustained the disallowance.
+RulingByLowerCourt	On a reference, this court held that no loss was sustained by the assessee on remittance of the amounts from West Pakistan and that, in any event, the loss could not be said to be a business loss because it was not a loss arising in the course of the business of the assessee, but it was one caused by devaluation which was an act of State.
+RulingByLowerCourt	<ORG>, on appeal, setting aside the decision of <ORG> and remanding the case to the <ORG>, held that, (i) the assessee suffered a loss of Rs.
+RulingByLowerCourt	11 lakhs and Rs.
+RulingByLowerCourt	5 1/2 lakhs in the process of conversion on account of alteration in the rate of exchange ; and (ii) the question whether the loss suffered by the asse ssee was a trading loss or a capital loss could not be answered unless it was first determined whether the two amounts of Rs.
+RulingByLowerCourt	25 lakhs and Rs.
+RulingByLowerCourt	12 1/2 lakhs were held by the assessee on capital account or on revenue account and, since the <ORG> had not enquired into this, the matter had to be remanded to the <ORG> to determine whether the amounts were held in West Pakistan as capital asset or as trading asset and then whether the loss suffered by the assessee was a trading loss or a capital loss.
+RulingByLowerCourt	Therefore, it was emphasised on behalf of the revenue that, in this case, <ORG> held that this user of the money either on capital account or revenue account on the loss gained on devaluation would be taxable or non-taxable would depend on that question.
+RulingByLowerCourt	There Mr. Justice <NAME>, while delivering the judgment of the court, at page 6 of the report, had discussed the relevant authorities and then, at page 13 of [1979] 116 ITR observed as follows :  "The law may, therefore, now be taken to be well set tled that where profit or loss arises to an assessee on account of appreciation or depreciation in the value of foreign currency held by it, on conversion into another currency, such profit or loss would ordinarily be trading profit or loss if the foreign currency is held by the assessee on revenue account or as a trading asset or as part of circulating capital embarked in the business.
+RulingByLowerCourt	But, if on the other hand, the foreign currency is held as a capital asset or as fixed capital, such profit or loss would be of a capital nature.
+RulingByLowerCourt	Now, in the present case, no finding appears to have been given by the <ORG> as to whether the sums of Rs.
+RulingByLowerCourt	25 lakhs and Rs.
+RulingByLowerCourt	12,50,000 were held by the assessee in West Pakistan on capital account or revenue account and whether they were part of fixed capital or of circulating capital embarked and adventured in the business in West Pakistan.
+RulingByLowerCourt	If these two amounts were employed in the business in West Pakistan and formed part of the circulating capital of that business, the loss of R s. 11 lakhs and Rs.
+RulingByLowerCourt	5,50,000 resulting to the assessee on remission of those two amounts to India, on account of alteration in the rate of exchange, would be a trading loss, but if, instead, these two amounts were held on capital account and were part of fixed capital the loss would plainly be a capital loss.
+RulingByLowerCourt	The question whether the loss suffered by the assessee was a trading loss or a capital loss cannot, therefore, be answered unless it is first determined whether these two amounts were held by the assessee on capital account or on revenue account or, to put it differently, as part of fixed capital or of circulating capital.
+RulingByLowerCourt	We would have ordinarily, in these circumstances, called for a supplementary statement of case from the <ORG> giving its finding on this question, but both the parties agreed before us that their attention was not directed to this aspect of the matter when the case was heard before the revenue authorities and the <ORG> and hence it would be desirable that the matter should go bac k to the <ORG> with a direction to the <ORG> either to take additional evidence itself or to direct the <ORG> to take additional evidence and make a report to it, on the question whether the sums of Rs.
+RulingByLowerCourt	25 lakhs and Rs.
+RulingByLowerCourt	12,50,000 were held in West Pakistan as capital asset or as trading asset or, in other words, as part of fixed capital or part of circulating capital in the business.
+RulingByLowerCourt	The <ORG> will, on the basis of this additional evidence and in the light of the law laid down by us in this judgment, determine whether the loss suffered by the assessee on remittance of the two sums of Rs.
+Fact	25 lakhs and Rs.
+Fact	12,50,000 was a trading loss or a capital loss."
+Argument	15.
+Argument	The aforesaid passage was emphasised on behalf of the revenue representing the settled law that when profit or loss arises to an assessee on account of appreciation or depreciation in the value of foreign currency held by it, such profit or loss would ordinarily be trading profit or loss if the foreign currency is held by the assessee on revenue acc ount or as a trading asset or as part of circulating capital embarked in the business.
+Argument	But if, on the other hand, the foreign currency is held as a capital- asset or as fixed capital, such profit or loss would be of capital nature.
+Argument	It was, in this connection, emphasised that where it was sustenance money or borrowed money, after borrowing it becomes its own money.
+Argument	The learned advocate for the assessee also emphasized that there <ORG> was dealing essentially with the assessee's own money.
+Argument	Therefore, according to him, <ORG> had no occasion to advert to this aspect of the matter, where in a case the assessee was dealing with borrowed money.
+Argument	16.
+Fact	Perhaps, in this light, <ORG> of this court decided this question in the case of <CITATION_676779> .
+Fact	There, what happened was that the assessee, an Indian subsidiary of a nonresident company incorporated in the United Kingdom, was engaged in executing a contract awarded by a <ORG> undertaking.
+Fact	In executing the said contract,  the funds of the assessee to the extent of over Rs.
+Fact	24 lakhs became blocked.
+Fact	The assessee, therefore, approached its parent company for a loan of 37,500, being about Rs.
+Fact	5 lakhs in Indian currency at that time.
+Fact	The foreign principal company agreed to advance the amount to the assessee and the assessoe by its letter dated January 18, 1965, sought the approval of <ORG> for the loan of Rs.
+Fact	5 lakhs ( 37,500) from the parent company with permission to repatriate the amount when required after one year or earlier if funds would become available.
+Fact	The permission was granted by <ORG> for the loan and the assessee received the loan on February 25, 1965.
+Fact	The loan was not repaid at the expiry of one year and remained outstanding in the books of the assessee up to 6th June, 1966, on which date the Indian rupee was devalued.
+Fact	As a result of the devaluation, the assessee had to arrange for a sum of Rs.
+Fact	7,87,692 to repay the original loan of 37,500, and, consequently, an extra amount of Rs.
+Fact	2,87 ,692 was necessary to repay the original loan of Rs.
+Fact	5 lakhs.
+Fact	After deducting a gain of about Rs.
+Fact	4,078 on the assessee's sterling deposit in the London bank, the assessee debited its profit and loss account with a sum of Rs.
+Fact	2,83,614 for the assessment year 1967-68, and claimed deduction of this amount.
+Argument	The <ORG> rejected the claim of the assessee on the ground that the increase of liability arising from devaluation on account of sterling loan was of a capital nature and could not be allowed as a revenue expense.
+Argument	On appeal, the <ORG> also held that the loss on account of devaluation in connection with a loan could not, under any circumstances, be considered to be revenue loss, that accretion in the amount of the borrowing was not admissible as a deduction, that the assessee not being a dealer in foreign exchange, the loss was not incidental to its business or in carrying on the same, and confirmed the disallowance of the loss.
+Argument	On further appeal to the <ORG>, the assessee contended that the amount should be al lowed as business expenditure under Section 37(1) of the, I.T.
+Precedent	Act , 1961, as a loss incidental to the business, that although the loan had not been repaid during the relevant year, as the assessee's accounts were kept on the mercantile system, the liability having arisen in the relevant year by reason of the devaluation, it was in the nature of an expenditure incurred by the assessee and allowable under Section 37 , that the expenditure for the purpose of business included the payment of the assessee's statutory dues and taxes and that the loan had been taken by the assessee for the purpose of its business and the loss occasioned by devaluation was suffered in the business.
+Precedent	It was held by this court that the contention of the revenue that notionally the expenditure, if any, incurred by any loss accruing to the assessee by reason of the devaluation did not arise in the year of assessment could not be accepted.
+RatioOfTheDecision	The assessee maintained its accounts on mercantile basis.
+RatioOfTheDecision	On devaluation of the Indian currency, the  liability of the assessee immediately increased to the extent the rupee was devalued and the assessee became liable to pay and/or spend an extra amount in the rupee in order to pay its dues.
+RatioOfTheDecision	The liability of the assessee arose during the assessment year and could not be said to be a contingent liability or an anticipated future loss.
+RatioOfTheDecision	However, the extra expenditure, deemed or otherwise, or the loss, was inextricably connected with the assessee's indebtedness and did not arise de liors the indebtedness.
+RatioOfTheDecision	Therefore, the extra amount which the assessee had to provide for as a result of devaluation cannot be considered as extra expenditure to be incurred for meeting the debt like postal expenses or bank charges or as extra expenditure resulting in a business loss of a revenue nature.
+RatioOfTheDecision	If there was a devaluation in favour of the rupee as a result of which the assessee had to pay less to its creditors, the surplus arising would have been of capital nature and could not have been assessed in the hands of the assessee  as a business profit.
+RatioOfTheDecision	Conversely, as a result of the exchange rate going against the assessee, the loss which the assessee incurred cannot be held to be a revenue loss.
+RatioOfTheDecision	In that case, it was not the contention of the assessee that it had incurred the extra expenditure in order to secure the loan.
+RatioOfTheDecision	The loan had already been obtained.
+RatioOfTheDecision	It was at the point of repayment that the assessee had to provide an extra amount in rupees by reason of the devaluation.
+RatioOfTheDecision	Hence, it was not expenditure incurred for securing the use of money for a certain period which could be treated as revenue expenditure.
+RatioOfTheDecision	Therefore, the <ORG> was right in holding that the amount of Rs.
+RatioOfTheDecision	2,83,614 was not deductible in computing the assessee's profits and gains of business.
+RatioOfTheDecision	There the <ORG> was also right in holding that the amount of Rs.
+Fact	2,83,614 was not deductible in computing the chargeable profits for the purposes of the surtax assessment for the assessment year 1967-68.
+Fact	There the two questions with which the court was concerned were as fol lows ;  "1.
+Fact	Whether, on the facts and in the circumstances of the case, and on a proper construction of the assessee's letter of 18th January, 1965, the <ORG> was right in holding that the assessee's major requirement for its loan was to meet its taxation liabilities ?
+Precedent	2.
+Precedent	Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that the amount of Rs.
+Precedent	2,83,614 was not deductible in computing the assessee's profits and gains of business ? "
+Precedent	17.
+Argument	The learned advocate for the assessee contended that the taxation liability had always been considered as a class by itself.
+RatioOfTheDecision	There the principle whether it was revenue or capital was not very material.
+RatioOfTheDecision	It was further held that the observation on this aspect was obiter in nature.
+RatioOfTheDecision	We are, however, unable to agree with this contention.
+RatioOfTheDecision	It is true that <ORG> in the case of <CITATION_12637>  60 ITR 52, referred to hereinbefore, held that a loan was not liability and, in that context, the purpose with which the loan was obt ained was immaterial in considering whether the expenses in connection with the loan should be considered as revenue expenses.
+RatioOfTheDecision	But apart from that, the purpose for which, after obtaining the loan, it is used and if during the user there is an accretion of liability because of the devaluation then the full money would be held on capital account.
+RatioOfTheDecision	In view of the consistent view of <ORG> and in view of the decision of this court in the last mentioned case, the assessce's contention cannot be accepted by us.
+RatioOfTheDecision	In that view of the matter, we answer question No.
+RatioOfTheDecision	1 in the affirmative and in favour of the revenue.
+RatioOfTheDecision	18.
+RatioOfTheDecision	This brings us to the consideration of the second question, that is to say, whether the <ORG> was justified in holding that the alternative claim of the assessee-company for development rebate under Section 33 of the I.T.
+Precedent	Act, 1961, on Rs.
+Precedent	1,09,24, 832 was not admissible under the provisions of the Act.
+Precedent	19.
+Statute	In this connection, reference may be made to the provisions of Section 33 of the I. T. Act, 1961, which deals with "development rebate" and provides that, "In respect of a new ship or new machinery or plant (other than office appliances or road transport vehicles) which is owned by the assessee and is wholly used for the purposes of the business carried on by him, there shall, in accordance with and subject to the provisions of this section and of Section 34 , be allowed a deduction, in respect of the previous year in which the ship was acquired or the machinery or plant was installed or, if the ship, machinery or plant is first put to use in the immediately succeeding previous year, then, in respect of the previous year, a sum by way of development rebate as specified in Clause (b) ".
+RatioOfTheDecision	Then certain percentage is mentioned under Clause (b) of Sub-section (1) of Section 33 with which we are not concerned.
+RatioOfTheDecision	The figures are also not in dispute before us.
+RatioOfTheDecision	20.
+RatioOfTheDecision	We may also incidentally refer to Section 32 of the I.T.
+RatioOfTheDecision	Act, 1961, which deals with the " depreciation ", also to Section 43(1) which defi nes "actual cost " and also to Sub-section (6) of Section 43 which provides the " written down value ".
+RatioOfTheDecision	Section 43A is a section upon which the <ORG> has repelled the assessee's claim.
+Statute	Section 43A provides as follows :  " 43A.
+Statute	Special provisions consequential to changes in rate of exchange of currency.--(1) Notwithstanding anything" contained in any other provision of this Act, where an assessee has acquired any asset from a country outside India for the purposes of his business or profession and, in consequence of a change in the rate of exchange at any time after the acquisition of such asset, there is an increase or reduction in the liability of the assessee as expressed in Indian currency for making payment towards the whole or a part of the cost of the asset or for repayment of the whole or a part of the moneys borrowed by him from any person, directly or indirectly, in any foreign currency specifically for the purpose of acquiring the asset (being in either case the liability existing immediately bef ore the date on which the change in the rate of exchange takes effect), the amount by which the liability aforesaid is so increased or reduced during the 'previous year shall be added to, or, as the case may be, deducted from, the actual cost of the asset as defined in Clause (1) of Section 43 or the amount of expenditure of a capital nature referred to in Clause (iv) of Sub-section (1) of Section 35 or in Section 35A or in Clause (ix) of Sub-section (1) of Section 36 , or, in the case of a capital asset (not being a capital asset referred to in Section 50 ), the cost of acquisition thereof for the purposes of Section 48 , and the amount arrived at after such addition or deduction shall be taken to be the actual cost of the asset or the amount of expenditure of a capital nature or, as the case may be, the cost of acquisition of the capital asset as aforesaid.
+Statute	Explanation I.--In this sub-section, unless the context otherwise requires,--  (a) 'rate of exchange' means the rate of exchange determined or recognis ed by <ORG> for the conversion of Indian currency into foreign currency or foreign currency into Indian currency;  (b) 'foreign currency' and 'Indian currency' have the meanings respectively assigned to them in Section 2 of the Foreign Exchange Regulation Act, 1947 (VII of 1947).
+Statute	Explanation 2.--Where the whole or any part of the liability aforesaid is met, not by the assessee, but, directly or indirectly, by any other person or authority, the liability so met shall not be taken into account for the purposes of this sub-section.
+Statute	Explanation 3.--Where the assessee has entered into a contract with an authorised dealer as defined in Section 2 of the Foreign Exchange Regulation Act, 1947 (VII of 1947), for providing him with a specified sum in a foreign currency on or after a stipulated future date at the rate of exchange specified in the contract to enable him to meet the whole or any part of the liability aforesaid, the amount, if any, to be added to, or deducted from, the actual cost of the a sset or the amount of expenditure of a capital nature or, as the case may be, the cost of acquisition of the capital asset under this sub-section shall, in respect of so much of the sum specified in the contract as is available for discharging the liability aforesaid, be computed with reference to the rate of exchange specified therein.
+Statute	(2) The provisions of Sub-section (1) shall not be taken into account in computing the actual cost of an asset for the purpose of the deduction on account of development rebate under Section 33 ."
+Statute	21.
+Statute	In the Finance (No.
+Statute	2) Bill, 1967, which introduced Section 43A , Clause 17 of the Notes on Clauses, sought to explain the purpose of such insertion, which reads as follows ( 64 ITR (St.) 109, 169):  "Clause 17 seeks to insert a new section 43A in the Income-tax Act .
+Statute	The proposed Section 43A , in substance, secures that where an assessee had acquired any capital asset from a country outside India for the purposes of his business, or profession on deferred payment terms or agai nst a foreign loan, before the date of devaluation of the rupee, the additional rupee liability incurred by him in meeting the instalments of the cost of the asset or of the foreign loan, as the case may be, falling due for payment after the date of devaluation, will be allowed to be added to the original actual cost of the asset for the purpose of calculating the allowance on account of depreciation in computing the profits for the assessment year 1967-68 and subsequent assessment years.
+Statute	Similar increase in the original actual cost will be allowed to be made in respect of the capital assets acquired by the assessee to be used in scientific research related to the class of business carried on by him or patent rights or copyrights acquired from abroad or any capital asset acquired by a company for the purpose of promoting family planning amongst its employees.
+Statute	Further, in computing the capital gains arising to the assessee on the sale or transfer of a capital asset acquired by him from abroad on deferred payme nt terms or against a foreign loan, the additional rupee liability incurred by him in repaying the instalments of the cost or the foreign loan, as the case may be, after the date of devaluation of the rupee, will be added to the original actual cost of the asset.
+Statute	The proposed section also secures that where there is a decrease in the rupee liability of the assessee in respect of assets acquired by him from abroad due to a change in the exchange value of the rupee, the original actual cost of the asset will be correspondingly reduced.
+Statute	The additional rupee liability incurred on imported capital assets or, as the case may be, any decrease in such liability, in the circumstances stated in the earlier paragraph, will not, however, be taken into account in computing the actual cost of the asset for the purpose of deduction on account of development rebate."
+Statute	22.
+Argument	Basing on the aforesaid notes, on behalf of the revenue, it was contended mainly that the purpose of Section 43A was to deal with all devaluation cases.
+Statute	T herefore, any appreciation or depreciation in value of assets, as a result of devaluation in profit or loss arising therefrom, must be governed by the special provisions of Section 43A .
+RatioOfTheDecision	A special provision has been made that this is the only provision to guide the matter.
+RatioOfTheDecision	Before we deal with that aspect of the matter, we must refer to Section 43(a) which uses a non obstante clause.
+RatioOfTheDecision	<ORG> had observed in the case of <ORG> (P.) <CITATION_1101230> , explaining the purpose of such a clause at page 215 dealing with Article 372 of the Constitution of India (p. 89 of 15 STC):  " That apart, even if Article 372 continues the pre-Constitution laws of taxation, that provision is expressly made subject to the other provisions of the Constitution.
+RatioOfTheDecision	The expression 'subject to' conveys the idea of a provision yielding place to another provision or other provisions to which it is made subject.
+RatioOfTheDecision	Further, Article 278 opens out with a non obstante clause.
+RatioOfTheDecision	The phrase ' notwithstanding anything in th e Constitution', is equivalent to saying that in spite of the other articles of the Constitution, or that the other articles shall not be an impediment to the operation of Article 278.
+RatioOfTheDecision	While Article 372 is subject to Article 278 , Article 278 operates in its own sphere in spite of Article 372.
+RatioOfTheDecision	The result is that Article 278 overrides Article 372; that is to say, notwithstanding the fact that a pre-Constitution taxation law continues in force under Article 372 , the <ORG> and the State Governments can enter into an agreement in terms of Article 278 in respect of Part B States depriving the State law of its efficacy.
+RatioOfTheDecision	In one view, Article 277 excludes the operation of Article 372 , and in the other view, an agreement in terms of Article 278 overrides Article 372.
+RatioOfTheDecision	In either view, the result is the same, namely, that at any rate during the period covered by the agreement the States ceased to have any power to impose the tax in respect of ' works contracts'."
+RatioOfTheDecision	23.
+RatioOfTheDecision	It states in essence that in spite of what is conta ined previously this clause would be operative.
+RatioOfTheDecision	Another significant fact has to be borne in mind that Sub-section (1) of Section 43A deals with the expression " acquisition " which deals with the situation where there is a change in the valuation of foreign currency after acquisition.
+RatioOfTheDecision	But in the case of development rebate, it has to be emphasized that acquisition is not relevant on the material date, but the date of installation is the most material date.
+RatioOfTheDecision	24.
+RatioOfTheDecision	In the case of <CITATION_1289506>  98 ITR 167 <ORG> had the occasion to deal with the expression "actual cost".
+RatioOfTheDecision	There <ORG> had observed that interest paid before the commencement of production on amounts borrowed by the assessee for the acquisition and installation of plant and machinery forms part of the " actual cost" of the assets to the assessee within the meaning of the expression in Section 10(5) of the Indian I.T.
+RatioOfTheDecision	Act, 1922, and the assessee will be entitled to depreciation allowance and development rebate with reference  to such interest also.
+RatioOfTheDecision	As the expression "actual cost" had not been defined, it should be construed in the sense which no commercial man would misunderstand.
+RatioOfTheDecision	For this purpose, it should be necessary to ascertain the connotation of the expression in accordance with the normal rules of accountancy prevailing in commerce and industry.
+RatioOfTheDecision	The accepted accountancy rule for determining cost of fixed assets was to include all expenditure necessary to bring such assets into existence and to put them in working condition.
+RatioOfTheDecision	In case money was borrowed by a newly started company which was in the process of constructing and erecting its plant, the interest incurred before the commencement of production on such borrowed money could be capitalised and added to the cost of the fixed assets created as a result of such exenditure.
+RatioOfTheDecision	25.
+RatioOfTheDecision	Though that meaning was given in the background of the old Act, the same principle would be applicable in the instant case.
+RatioOfTheDecision	There <ORG> had observed that for determining the cost of expe nditure, question of depreciation would be taken into the written down value;  and the question was again considered from different aspects by <ORG> in the case of <ORG>  109 ITR 646, where the assessee had claimed development rebate on the value of newly added plant and machinery.
+RatioOfTheDecision	The <ORG> had found that on account of the devaluation of Indian currency, there was an increase of Rs.
+RatioOfTheDecision	48,342 in the actual cost of the acquisition of certain Russian machinery.
+Argument	He negatived the claim for development rebate on the increase in cost due to change in rate of exchange as, in his view, Section 43A(2) of the I.T.
+Argument	Act, 1961, excluded such changes in actual cost for the purpose of granting development rebate under Section 33 .
+Argument	This was upheld by the <ORG>.
+Argument	The <ORG>, however, held that the expression "actual cost" as denned in Section 43(1) applied to the present case and, hence, the assessee was entitled to include the sum of Rs.
+Argument	48,342 as part of the actual cost for claiming deve lopment rebate.
+Argument	On a reference to <ORG>, at the instance of the department, <ORG> held that as the effect of Sub-section (2) of Section 43A of the I.T.
+Argument	Act, 1961, was only to exclude the applicability of Sub-section (1) thereof to the computation of the actual cost for determining the development rebate allowable under Section 33 , in computing the actual cost of an asset for the purpose of development rebate, the only statutory provision relevant was Section 43(1) denning "actual cost" which, admittedly, included the sum of Rs.
+Argument	48,342.
+Argument	Therefore, the assessee was entitled to development rebate on the amount of Rs.
+Argument	48,342 also, which was payable as a result of change in the rate of exchange of currency.
+RatioOfTheDecision	26.
+RatioOfTheDecision	In the instant case before us, the contract stipulated repayment in dollars.
+RatioOfTheDecision	Therefore, the actual cost of the assessee must be computed on the dollar value.
+RatioOfTheDecision	Therefore, anything which went into that repayment, that is to say, any cost which actually went in repaying the debt, must  be, in our opinion, on the principle of computation of the actual cost, which, irrespective of Section 43A , would be entitled to development rebate under Section 33A and inasmuch as Sub-section (2) of Section 43A only excludes the portion of Sub-section (1) of Section 43A , in our opinion, this position would not be inadmissible that the assessee would be entitled to obtain the development rebate.
+RatioOfTheDecision	In the instant case, we are concerned with the question whether Section 43 was at all meant for dealing with the case where there is no question of installation involved, but only acquisition was the relevant fact.
+RatioOfTheDecision	We are unable to find any support for the argument on behalf of the revenue that in all the devaluation cases, whether of increase or decrease, the result of devaluation must be guided by Section 43A and under Section 43A alone.
+RatioOfTheDecision	The same view was reiterated by <ORG> in the case of <CITATION_1207302>  112 ITR 64, There, the expression "actual cost" in the context of the statutory provisi ons, Sections 33(1) and 43A of the I.T.
+RatioOfTheDecision	Act, 1961, it was held must be understood in the sense in which no commercial man would misunderstand.
+RatioOfTheDecision	The word "cost" was not synonymous with "price".
+RatioOfTheDecision	Besides the price of machinery or plant, "cost" took in many other items of expenditure such as for instance freight, warehouse or insurance charges, legal expenses, etc., incurred in connection with its acquisition and interest incurred before the commencement of production on the capital contributed or borrowed to acquire such asset.
+RatioOfTheDecision	In other words, in determining the "actual cost" of a fixed asset, all expenditure necessary to bring such asset into existence and to put it in working condition might legitimately be taken into account.
+RatioOfTheDecision	There, - <ORG>, a public limited company, proposed to expand its capacity and, for that pupose, negotiated to import machineries from various foreign countries.
+Fact	The assessee entered into an agreement with <ORG> on June 25, 1965, where-under the latter agreed to lend mo neys to the assessee in foreign currencies to pay the price of the imported machinery and the assessee agreed to pay back the moneys in the same currencies in which they were borrowed.
+Fact	Besides, the assessee also agreed to pay interest, redemption premium, commitment charges, etc., in foreign currency.
+Fact	Even if <ORG> exercised the option to accept payment in rupees in lieu of foreign currencies, the rupee sum was to be determined by actual cost to <ORG> of purchasing with rupees the respective amounts of the foreign currencies becoming due and payable.
+RulingByLowerCourt	27.
+RulingByLowerCourt	Now, in that case, on behalf of the revenue, it was conceded that the contract was for payment in the foreign currency and it was further stipulated that in determining the valuation it must be paid for by the buyer.
+RulingByLowerCourt	Even though there was no specific clause signifying the payment of difference, the payment of the money had to be made according to the facts found by the <ORG> in terms of dollars.
+RulingByLowerCourt	In aid of the submission, the counsel for the revenue drew o ur attention to Schedule 6, the form of balance-sheet, of the Companies Act , 1956, where Expln.
+RulingByLowerCourt	2 has dealt with this question.
+RulingByLowerCourt	The point of the learned advocate of the revenue was that these amendments as well as other amendments to the I.T.
+RulingByLowerCourt	Act , 1961, were brought simultaneously in order to deal with all the devaluation cases.
+RatioOfTheDecision	In this light, the subsequent decision of <ORG> understood the section, viz., Section 43A of the Act.
+RatioOfTheDecision	Reference may be made to the decision of <ORG> in the case of <CITATION_1085477> .
+Precedent	CIT  116 ITR 819.
+Precedent	28.
+RulingByLowerCourt	There, the assessee entered into an agreement on August 6, 1964, with a foreign ship building yard for the construction and supply of two ships.
+RulingByLowerCourt	The agreement provided for payment of 15% of the cost of the ships on the signing of the agreement and the balance of 85% in equal half yearly instalments, the first of them to commence six months after the delivery of the ships.
+RulingByLowerCourt	The agreement further provided for the ship building yard to negotiate with  a German bank to have credit for the 85% extended to it subject to the approval of the assessee.
+Fact	In accordance with this clause in the agreement, a loan agreement was entered into between the assessee and the consortium of West German banks with whom the ship building yard had entered into an agreement and the consortium disbursed the 85% to the ship building yard.
+Fact	Subsequent to such disbursement, the Indian rupee was devalued so that the assessee's liability to the consortium increased.
+Fact	The assessee's claim that the extra amount which it had to pay consequent on the devaluation would have to be included as an addition to the cost of the vessels acquired for purposes of grant of development rebate under Section 33 of the I.T.
+Fact	Act, 1961, was negatived by the departmental authorities and the <ORG>.
+Precedent	29.
+Precedent	<ORG> held that in view of the specific provisions contained in Sub-section (2) of Section 43A which specifically provided that variations in the cost of acquisition of an asset arising out of devalu ation of the rupee should not be taken into consideration for the purpose of grant of development rebate under Section 33 , the general principle that the additional liability arising out of the devaluation of the Indian rupee would become part of the cost of the ships, cannot be applied for purpose of granting development rebate under Section 33 .
+RatioOfTheDecision	Accordingly, the conclusion of the <ORG> was upheld.
+RatioOfTheDecision	30.
+RatioOfTheDecision	In so far as this case dealt with the question of ships, different considerations might apply.
+RatioOfTheDecision	In so far as the decision took the view that in respect of all devaluation cases irrespective of whether the stipulated payment in the matter of foreign currency should be made under Section 43A alone, with great respect we are unable to agree and we prefer to adhere to the former view of <ORG> and the other view of <ORG> as mentioned hereinbefore.
+Argument	On behalf of the assessee, it was contended that Section 43A has been introduced to meet with the situation of computing depreciation  year after year where the price in terms of Indian rupee fluctuates on account of change in the rate of exchange.
+RatioOfTheDecision	But since no such situation arises in the cases of development rebate which is granted once and for all, the said provision has not been made applicable to the computation of development rebate.
+RatioOfTheDecision	The development rebate continues to be computed on the basis of the provisions of Section 33 as before.
+RatioOfTheDecision	It was linked with the actual cost of the machinery or plant to the assessee.
+RatioOfTheDecision	The actual cost of the machinery or plant should be the cost on the relevant date.
+RatioOfTheDecision	Therefore, on the relevant date, when the contract was entered into it was entered into with the direction to pay back in dollars and whatever was necessary to pay back must be treated as actual cost to the assessee.
+RatioOfTheDecision	31.
+RatioOfTheDecision	In that view of the matter, we are of the opinion that the assessee was entitled to development rebate in accordance with Section 33 of the Act on the sum of Rs.
+RatioOfTheDecision	1,09,00,000 and the <ORG> was wrong in rejecting this contenti on.
+RulingByPresentCourt	This question is answered in the negative and in favour of the assessee.
+RulingByPresentCourt	In the facts and circumstances of the case, each party will pay and bear its own costs.
+RulingByPresentCourt	<NAME>, J.
+RulingByPresentCourt	32.
+RulingByPresentCourt	I agree.

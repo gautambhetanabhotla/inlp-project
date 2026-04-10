@@ -1,0 +1,93 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal from a judgment of <ORG> at Calcutta delivered on a reference made to it under Section 66 of the Indian Income-tax Act, XI of 1922 The reference arose out of an assessment to income tax upon the respondents for the year 1929-30, in respect of an item of Rs.
+Fact	9,88,361, part of a larger euro of Rs.
+Fact	15,25,000 received by them in 1928 as compensation for the termination of certain agencies.
+Fact	2.
+Fact	The respondents carry on business in Calcutta as merchants and agents of various companies, and have branch offices in different parts of India.
+Fact	For a number of years prior to 1928 they acted as distributing agents in India of <ORG> and <ORG>, but had no formal agreement with either company.
+Fact	In or about the year 1927 the two companies combined and decided to make other arrangements for the distribution of their products, The respondents' agency of <ORG> was accordingly terminated on December 81,1927, and that of th e <ORG> on June 30 following, Some time in the early part of 1928 <ORG> paid to the respondents a sum of Rs.
+Fact	12,00,000 " as full compensation for cessation of the agency," and in August of the same year the <ORG> paid them another sum of Rs.
+Fact	3,25,000 as "compensation for the loss of your office as agents to the <ORG>" The quotations are from letters by which the payments were recorded, and are accepted on both sides as correctly expressing the nature of the transactions.
+Fact	3.
+Fact	The income tax officer, in computing the assessable income of the respondents for the relevant year, took these two receipts into account as profits or gains of their business in the year ending December 31, 1928, but allowed certain deductions therefrom in respect of compensation paid by the respondents to various employees, leaving a balance of Rs.
+Fact	9,83,861 which he included in the total income of the respondents found assessable for the year 1929-30.
+Fact	4.
+Fact	The respondents objected to the asse ssment, and appealed to the Assistant Commissioner, who confirmed the assessment.
+Fact	Thereafter, on the requisition of the respondents, the Commissioner drew up a statement of the case, and referred the questions of law therein set out to <ORG> with his own opinion thereon, which was against the contentions of the respondents.
+RulingByLowerCourt	5.
+RulingByLowerCourt	The questions so formulated were as follows:-  (a) Was not the sum of Rs.
+RulingByLowerCourt	9,83,361 which had been included in the total in.
+Fact	come of the assessees for purposes of assessment for 1924-30, in the nature of ft capital receipt and therefore not income, profits or gains within the meaning of the Income-tax Act ?
+Fact	(b) If it could be said to be income, profits or gains within the meaning of the Act, was it liable to be assessed under either of the Sections 10 and 12 of the Act, fasmuch as (I) it was not the profits, or gains of any business Carried on by the aasessees within the meaning of Section 10 of the Act, nor (2) income, profits or gains from other sources within the meaning of  Section 12 of the Act.
+Fact	(c) In the alternative, was not the payment of Rs.
+Fact	9,13,361 an ex gratia payment in the nature of a present from the oil companies in question and was it not therefore exempt under Section 4 (3)(vii) of the Act?
+Argument	6.
+Argument	The reference was heard by the Chief Justice sitting with <NAME> and <NAME>.
+Argument	The judgment of <ORG> was delivered by the Chief Justice, his colleagues concurring.
+Argument	7.
+Argument	The learned Judges appear to have returned a formal answer only to question (a) which the Chief Justice stated to be "the real question in the case."
+Argument	He thought that if the respondents could not escape by reason of the contention raised by this question they must fail.
+Precedent	The other questions, he thought, fell within a recent decision of the <ORG> in the case of <ORG>, In re (1928) I.L.R.
+Precedent	56 Cal.
+Precedent	211; he had nothing to add to what was then said on these points.
+Argument	8.
+Argument	Their Lordships agree that the real matter for decision falls under (a), but they think that this question is not hap pily worded, as it seems to sugarest that it was only if the sum there referred to was " in the nature of a capital receipt" that it would be exempt from assessment, whereas the more correct proposition would seem to be that it was only if it was in the nature of an income receipt that it would fall to be assessed to the tax, The question was, however, re-stated by the learned Chief Justice in more precise terms, viz., "whether these sums are income, profits or gains within the meaning of the Act at all," and for the reasons stated in his judgment he came to the conclusion that they were not.
+Argument	Their Lordships think that his conclusion was right though they arrive at this result by a slightly different road.
+Argument	9.
+Argument	In one part of his judgment the Chief Justice seems to hold that the " compensation for loss of these agencies is a receipt in respect of a capital asset in the nature of goodwill," but it has been objected with some force that there is nothing upon which this finding can be based.
+RatioOfTheDecision	There was, so far as  the facts disclose, no transfer of the goodwill of the respondents, and no agreement by them not to compete with the new selling agency of the companies.
+RatioOfTheDecision	10.
+RatioOfTheDecision	In another part of the judgment the payment seems to be regarded as in the nature of compensation in lieu of notice.
+RatioOfTheDecision	But here again their Lordships think that there are no facts to support such a conclusion, and they doubt if Section 2C6 of the Indian Contract Act, upon which reliance is placed, has any application.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Again their Lordships would discard altogether the case law which has been so painfully evolved in the construction of the English Income Tax Statutes-both the cases upon which <ORG> relied and the flood of other decisions which has been let loose in this <ORG>.
+RatioOfTheDecision	The Indian Act is not in pari materia; it is less elaborate in many ways, subject to fewer refinements, and in arrangement and language it differs greatly from the provisions with which the <ORG> in this country have had to deal.
+RatioOfTheDecision	Under such conditions their Lordships t hink that little can be gained by attempting to reason from one to the other, at all events in the present case in which they think that the solution of the problem lies very near the surface of the Act, and depends mainly on general considerations.
+RatioOfTheDecision	12.
+RatioOfTheDecision	The object of the Indian Act is to tax "income," a term which it does not define.
+RatioOfTheDecision	It is expanded, no doubt, into "income, profits and gains," but the expansion is more a matter of words than of substance.
+RatioOfTheDecision	Income, their Lordships think, in this Act connotes a periodical monetary return " coming in" with some sort of regularity, or expected regularity, from definite sources.
+RatioOfTheDecision	The source is not necessarily one which is expected to be continuously productive, but it must be one whose object is the production of a definite return, excluding anything in the nature of a mere windfall.
+RatioOfTheDecision	Thus income has been likened pictorially to the fruit of a tree, or the crop of a field.
+RatioOfTheDecision	It is essentially the produce of something, which is often loosely spoken, of as " capital."
+RatioOfTheDecision	But  capital, though possibly the source in the case of income from securities, is in most cases hardly more than an element in the process of production.
+RatioOfTheDecision	13.
+Statute	The sources from which the taxable income under the Act are to be derived are enumerated in Section 6 , which runs as follows:--  Save as otherwise provided by this Act, the following heads of income, profits and gains, shall be chargeable to income-tax in the manner hereinafter appearing, namely :-  (i) Salaries.
+Statute	(ii) Interest on securities.
+Statute	(in) Property.
+RatioOfTheDecision	(iv) Business.
+RatioOfTheDecision	(v) Professional earnings.
+RatioOfTheDecision	(vi) Other sources.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The claim of the taxing authorities is that the sum in question is chargeable under head (iv) business, By Section 2 (4) business "includes any trade, commerce or manufacture, or any adventure or concern in the nature of trade, commerce or manufacture".
+RatioOfTheDecision	The words used are no doubt wide, but underlying each of them is the fundamental idea of the continuous exercite of an activity.
+RatioOfTheDecision	Under Section 10 the tax is to be payable by an asses see under the head business " in respect of the profits or gains of any business carried on by him."
+RatioOfTheDecision	Again, their Lordships think, the same central idea : the words italicised are an essential constituent of that which is to produce the taxable income : it is to be the profit earned by a process of production, And this is borne out by the provision for allowances which follows.
+RatioOfTheDecision	They include rent paid for the premises where the business is carried on ; the cost of current repairs in respect of such premises; interest on money borrowed for carrying on the business, etc.
+RatioOfTheDecision	15.
+RatioOfTheDecision	Some reliance has been placed in argument upon Section 4 (3)(v) which appears to suggest that the word " income " in this Act may have a wider significance than would ordinarily be attributed to it.
+Statute	The Sub-section says that the Act " shall not apply to the following classes of income," and in the category that follows, Clause (v) runs:-  Any capital sum received in commutation of the whole or a portion of a pension, or in the nature of con solidated compensation for death or injuries, or in payment of any insurance policy, or as the accumulated balance at the credit of a subscriber to any such Provident Fund.
+Statute	16.
+RatioOfTheDecision	Their Lordships do not think that any of these sums, apart from their exemption, could be regarded in any scheme of taxation of income, and they think that the clause must be due to the over anxiety of the draftsman- to make this clear beyond possibility of doubt.
+RatioOfTheDecision	They cannot construe it as enlarging the word "income " so as to include receipts of any kind'-, which are not specially exempted.
+RatioOfTheDecision	They do not think that the clause is of any assistance to the appellant.
+RatioOfTheDecision	17.
+RatioOfTheDecision	Following the line of reasoning above indicated, the sums which the appellant seeks to charge can, in their lordships' opinion, only be taxable if they are the produce, or the result, of carrying on the agencies of the oil companies in the year in which they were received by the respondents.
+RatioOfTheDecision	But when once it (Sic) this business but as some sort of solatium for it compul sory cessation, the answer seems fairly plain.
+RatioOfTheDecision	18.
+RatioOfTheDecision	If the business had been sold-even if that somewhat indeterminate asset known as the " goodwill" had been assigned to the employing companies, as <ORG> seems to have thought it had-it is conceded that the price paid would not have been taxable, But why ?
+RatioOfTheDecision	Plainly because it could not be regarded as profit or gain from carrying on the business, and their Lordships think that the same reasoning must apply when the sum recived is in the nature of a solatium for cessation.
+RatioOfTheDecision	19.
+RatioOfTheDecision	It is contended for the appellant that the "business" of the respondent did in fact go on throughout the year, and this is no doubt true in a sense.
+RatioOfTheDecision	They had other independent commercial interests which they continued to pursue, and the profits of which have been taxed in the ordinary course without objection on their part.
+RatioOfTheDecision	But it is clear that the sum in question in this appeal had no connection with the continuance of the respondents' other business.
+RatioOfTheDecision	The profits earned by them i n 1928 were the fruit of a different tree, the crop of a different field.
+RatioOfTheDecision	20.
+RatioOfTheDecision	For the reasons given their Lordships are of opinion that question (a) was rightly answered by <ORG> in favour of the assessee.
+RatioOfTheDecision	No objection has been taken to the form of the answer or to its sufficiency, and it would seem unnecessary therefore to deal with the other two questions, Their Lordships will only add that the reasoning of this judgment would apply equally if the appellant based his claim on head (vi) "other sources' and the Corresponding provisions of Section 12 .
+RatioOfTheDecision	21.
+RatioOfTheDecision	With regard to the claim to exemption under Section 4(3)(vii) , their Lordships think that the decision in the case of <ORG>, In re, to which reference has been made above, may need re-consideration in the light of this judgment.
+RatioOfTheDecision	In their Lordships' view the expression "receipts arising from business" in that clause must mean receipts arising from the carrying on of business.
+RatioOfTheDecision	22.
+RulingByPresentCourt	Their Lordships will humbly advise His Majesty that  this appeal should be dismissed with costs.

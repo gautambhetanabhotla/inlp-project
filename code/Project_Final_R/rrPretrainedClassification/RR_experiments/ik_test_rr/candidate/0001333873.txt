@@ -1,0 +1,41 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The two questions that were referred to us by <ORG> under Section 66(1) of the Indian income tax Act are as follows:  "1.
+Fact	Whether, on the facts and in the circumstances of the case, the film hire derived by the assessee under agreements which provided for fixed hire charges in respect of exhibition of films in Indian States is not exempt from Excess Profits Tax as profits accruing or arising in the Indian States within the meaning of the third proviso to Section 5 of the Excess Profits Tax Act.
+RulingByLowerCourt	"2.
+RulingByLowerCourt	Whether, on the facts and in the circumstances of the case, the films hire derived by the assessee under agreements which provided for hire at a percentage of the collections in respect of the exhibition of films in Indian.
+Fact	States is not exempt from Excess Profits Tax, as profit accruing or arising in the Indian States within the meaning of the third proviso to Section 5 of the Excess Profits Tax Act."
+Fact	2.
+Fact	The assessee is a public limited company whose  registered office is at Salem and is incorporated in British India.
+Fact	It carried on the business of producing and distributing aims.
+Fact	The films are distributed to exhibitors within, and also without, British India under two classes of contracts, specimen copies of which are annexed to the case stated by <ORG> as A and B.
+Fact	The films are given on hire for exhibition either for a fixed sum agreed to be paid by the exhibitor, or for a percentage of the collections made by the-exhibitor at the time of the exhibition of the picture.
+Fact	The assessee claimed that under the third proviso to Section 5 of the Excess Profits Tax Act, the income he received by exhibiting films in the Indian States under both the types of contracts was exempt from liability to pay excess profits tax.
+Fact	This, contention was upheld by the <ORG>, differing from the Appellate Assistant Commissioner.
+Fact	Hence this reference.
+Fact	The crucial question that falls to be determined is whether the whole of the profits accrued, or arose, in an In dian State or not.
+RatioOfTheDecision	3.
+RatioOfTheDecision	It is obvious, as found by <ORG>, that in respect of contracts entered into on percentage basis the share of the profits due to the assessee was not payable until the picture was exhibited and collections were made in the presence of a representative of the assessee.
+RatioOfTheDecision	The percentage was then paid to the representative of the assessee at the place where the picture was exhibited, i.e., in the native state.
+RatioOfTheDecision	So far as the lump sum contracts are concerned, it is also found that the assessee did not part with the picture until the amount was paid to him at the time of the delivery of the picture in the native State, either by sending the railway receipt by <ORG> or by tendering the film directly to the exhibitor, or perhaps even by sending the railway receipt to a bank for collection.
+RatioOfTheDecision	Whichever method was adopted by the assessee, it leaves no room for doubt that until the picture was delivered to the exhibitor, the exhibitor did not pay a single pie to the assessee.
+RatioOfTheDecision	On these  facts it was contended strenuously on behalf of the department by Mr. <NAME>,, the learned counsel for the Income-tax Commissioner, that, as the contracts which are the source of the profit were entered into In British India, it must be held that in respect of both the types of contracts, the profits accrued in British India and not in a native State.
+RatioOfTheDecision	Having regard to the-terms of the contracts and the findings of <ORG>, it is difficult, If not impossible, to accept this contention.
+RatioOfTheDecision	Under the contract, the assessee gets practically nothing except an obligation on the part of the exhibitor to receive the film when tendered to him and to exhibit it subject to the conditions of the contract.
+RatioOfTheDecision	Money does not become payable and the assessee had no right to demand any payment before the film was actually delivered to the exhibitor, in these circumstances nothing accrues to the assessee until the film was put in the possession of the exhibitor with a view to exploit the same, and that was do ne wholly in a native State.
+RatioOfTheDecision	It therefore follows that in respect of both the types of contracts the profits of the business accrued wholly in a native State, and they are therefore exempt under the third proviso to Section 5 of the Excess Profits Tax Act.
+RatioOfTheDecision	It is unnecessary for us to consider whether really the second question was, or was not, pending before the Income-tax Commissioner at the time of the reference, a question which was attempted to be argued by Mr. <NAME>, the learned counsel for the respondent, as in our view under both the types of contract the profits accrued entirely in a native state.
+RatioOfTheDecision	4.
+Argument	Mr. <NAME> then attempted to raise the further question, that in any event the profits should be apportioned between British India and the native Suite under the third proviso to Section 5 of the Excess Profits Tax Act.
+Argument	We searched in vain to find any trace of this argument before any of the Income-tax authorities who had to deal with this matter, it is not a question which has been referre d to us by <ORG>, nor did the Income-tax Commissioner ask for a reference of this question to this <ORG>.
+RatioOfTheDecision	It is further Claimed by the learned counsel for the In come-tax Commissioner that the questions actually referred to us are wide enough to cover the question of apportionment, for it is said that it is open to us to and that not the whole of the profits but only a part of the profits accrued and arose in a native State.
+RatioOfTheDecision	That may be so; but we have to understand the questions referred to us in the light of the statement of facts and the statement of the case which have been the basis of the reference to this <ORG>.
+RatioOfTheDecision	As pointed out by this <ORG> in 'Abboy Chetty v .Com missioner of Income-tax, Madras', 1947-2 Mad LJ 215 the question must arise out of the order of <ORG>.
+RatioOfTheDecision	It can arise out of the order of <ORG> only if the order of <ORG> discloses that the question was raised before it.
+RatioOfTheDecision	In the present case a perusal of the order of <ORG> te <ORG> discloses that the only question that was argued was with reference to the place of accrual of the profits, whether they were wholly in a native state or they accrued in British India.
+Fact	The question of apportionment was not raised before the Appellate <ORG>, not to speak of the Appellate Assistant Commissioner.
+RatioOfTheDecision	In these circumstances it is impossible to hold that it is a question which arises out of the order of the Appellate <ORG> and which is covered by the questions that are actually referred to us.
+RatioOfTheDecision	It will be wholly inconvenient to allow such a question to be raised for the first time before us without "an investigation of the facts and also without an apportionment of the profits by the department.
+RatioOfTheDecision	In these circumstances we must answer the questions referred to us by the <ORG> in favour of the assessee and in the affirmative.
+RatioOfTheDecision	As the commissioner of <ORG> has failed in this reference, he must pay the costs of the assessee which we fix at Rs.
+Precedent	250.

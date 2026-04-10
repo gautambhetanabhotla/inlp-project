@@ -1,0 +1,82 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The suit out of which this appeal arises was one for ejectment after service of notice to quit on the defendants.
+RulingByLowerCourt	The Court of first instance found that the defendants were permanent tenure-holders and in that view dismissed the plaintiff's suit.
+RulingByLowerCourt	The plaintiff appealed and the lower <ORG> was invited by both the parties to try the propriety and legality of the service of notice before going into the question of the status of the defendants.
+RulingByLowerCourt	The learned Subordinate Judge found that the notices were not duly served and dismissed the suit on that ground.
+RulingByLowerCourt	2.
+RulingByLowerCourt	The plaintiff has appealed to this Court and the only ground taken before us is that in the circumstances of this case it should have been held that the notices-were legally served.
+RulingByLowerCourt	On this point three grounds were taken before the lower <ORG>.
+RulingByLowerCourt	The first is that the defendant No.
+RulingByLowerCourt	1 was the <NAME> of the joint; family and the service of notice on him was sufficient in respect of all the members of the family incl uding the defendant No.
+RulingByLowerCourt	9 on whom notice was not proved to have been served.
+RulingByLowerCourt	The second ground is that defendant No.
+RulingByLowerCourt	1 being the registered tenant service on him alone was sufficient, and the third is that the defendants being; all tenants-in common service of notice on-one of them should be taken as service on all.
+RulingByLowerCourt	The first two grounds have been finally disposed of by the learned Subordinate Judge by coming to certain findings of fact which cannot be challenged in second appeal.
+RulingByLowerCourt	The learned Judge has found that defendant No.
+RatioOfTheDecision	1 was not the karta of the family and that he was not the sole registered tenant in the plaintiff's sherista.
+RatioOfTheDecision	The ground which is pressed before us is the third ground namely, that all the defendants being tenants-in-common, or more properly, joint tenants, service of notice on any one of them is good in law.
+RatioOfTheDecision	The learned Subordinate Judge observes that it was virtually admitted and was proved, that no notice to quit was ever served on defendant No.
+RatioOfTheDecision	9 who was all along ignored though his  brothers-were treated as tenants and that he was subsequently added as a defendant in the suit.
+RatioOfTheDecision	In support of the view urged by the appellant reliance has been placed on the decision of <ORG> in the case of <CITATION_572376> A.I.R.
+Precedent	1918 P.C.
+Precedent	102.
+Argument	The facts of that case are that the plaintiff's gomosta had sent to each of the defendants by registered letters addressed to them at their addresses duplicates of the notices signed by all the plaintiffs.
+Argument	For this he received receipts of registration.
+Argument	The peon of <ORG> knew all their houses and got from all of them receipts for the letters delivered.
+RatioOfTheDecision	The <NAME>, however, held upon the evidence that there was no proof of service of notice to quit on any of the defendants other than defendants Nos.
+RatioOfTheDecision	1, 4 and 5.
+RatioOfTheDecision	Their Lordships of <ORG> examined the evidence on the point on the record and in their Lordships' view the evidence of delivery of notice to quit on all the principal defendants was adequately proved and constituted g ood service on them within the meaning of Section 106, Transfer of Property Act .
+RatioOfTheDecision	In the course of their judgment their Lordships observe that " a notice under Section 106 , Transfer of Property Act , may be served either personally or to one of the family or servants of the person intended to be bound by it at his residence or if such tender or delivery be not practicable, affixed to a conspicuous part of the property.
+RatioOfTheDecision	The personal tender or delivery may take place anywhere, the vicarious tender or delivery must take place at the residence of the person intended to be bound by the notice.
+RatioOfTheDecision	The procedure in the case of joint tenants is that each is intended to be bound, and it has long ago been decided that service of a notice to quit upon one joint tenant is prima facie evidence that it has reached the other joint tenants."
+RatioOfTheDecision	Their Lordships relied upon some of the English cases which will be considered later on.
+RatioOfTheDecision	In this case it has been found by the learned Subordinate Judge that the place of residence of defe ndant No.
+RatioOfTheDecision	9 was in Calcutta and not at the place where the notice was served.
+RatioOfTheDecision	The only question therefore for consideration is whether service of notice upon defendant No.
+RatioOfTheDecision	1 or any other defendant can be taken in law as good service on defendant No.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Section 106 , Transfer of Property Act , requires that every notice under that section must be in writing and tendered or delivered over personally to the party who is intended to be bound by it or to one of the family or servants at the residence, or if such tender or delivery is not practicable it can be affixed to a conspicuous part of the property.
+RatioOfTheDecision	Reading the section as it stands without any help of the comments upon it by decided cases, it is manifest that it was the intention of the legislature that the notice must be served on the person who is intended to be bound by it.
+RatioOfTheDecision	The notice must be addressed to and served on the person intended to be bound by it in any one of the modes suggested by the section.
+RatioOfTheDecision	The section does not make any exception or lay dow n any special or peculiar procedure in the case of joint tenants.
+RatioOfTheDecision	The law as to notice to quit is contained in Section 106 , Transfer of Property Act and it is not necessary to travel beyond it.
+Precedent	Great stress has been laid upon the observation of <ORG> in Harihar's case A.I.R.
+Precedent	1918 P.C.
+Precedent	102 and on the oases referred to therein for the view that in the case of joint tenants it is sufficient to serve the notice to quit) on one of them alone and the service of notice on one of them is binding on the other tenants.
+RatioOfTheDecision	We do not think that this contention can be sustained in view of the law laid down in those oases.
+RatioOfTheDecision	In the <ORG> case, as we have observed, the notices were addressed to all the defendants and their Lordships found that it was served on all of them.
+RatioOfTheDecision	In the case of <NAME> v. <NAME> (1805) 5 Esp.
+RatioOfTheDecision	196, one of the oases referred to by <ORG>, an oral notice to quit was given by the landlord to one of the two brothers who were joint tenants.
+RatioOfTheDecision	This was followed by a wr itten notice, dated the 8th April, served on both the tenants.
+RatioOfTheDecision	The suit in ejectment was resisted by the defendants on the ground that the time allowed by law was not observed and that parol notice on one was not binding on the other.
+RatioOfTheDecision	Lord <NAME> held that the written notice was not necessary and with regard to the oral notice, as the two defendants appeared to hold the lands jointly, service of notice to quit on one was sufficient and that the notice given on the 8th April, was within the statutory period.
+RatioOfTheDecision	This case proceeded upon the English law then in force according to which oral notice was sufficient, but the law under the Transfer of Property Act is different.
+RatioOfTheDecision	That case is therefore no authority for the view that if no notice is addressed to one of the joint tenants, the mere service of notice upon the other joint tenant is a sufficient notice according to law.
+Precedent	The next case to which reference is made in the judgment of <ORG> in the case of <CITATION_572376> A.I.R.
+Precedent	1918 P.C.
+Precedent	102  is the case of <NAME> v. <NAME> (1826) 7 East 551.
+RatioOfTheDecision	In that ease also it appears that the notices to quit were addressed to both the defendants who were joint tenants and partners of the business.
+RatioOfTheDecision	The notices, however, were served through one of the tenants living on the premises.
+RatioOfTheDecision	On these facts it was held that the notice to quit served on one of the two joint tenants on the premises, who held under a joint demise, is evidence that the notice reached the other who lived elsewhere.
+RatioOfTheDecision	That case also is no authority for the view that it is not necessary to address a notice to a joint tenant and that service on any one of them is sufficient in law.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The case of <NAME> v. <NAME> (1826) 7 East 551 is interesting in that it has been held in it that the question whether service of notice on one of the joint tenants was sufficient notice on the other tenant, who was not served, is a question of fact and must be left to the jury.
+RatioOfTheDecision	In the present case the learned Subordinate Judge has come to a finding of fact on evidence t hat there was no service or tender of notice to defendant No.
+RatioOfTheDecision	9, nor was any notice addressed to him.
+Precedent	The view we take is not supported by any reported authority in a direct form; but it is indirectly supported by the decision in the case of <CITATION_1966624> (1900) 4 C.W.N.
+Precedent	572.
+Precedent	In that case a notice containing the names of all the joint tenants was delivered to one of the defendants and the objection taken was that there ought to have been as many copies of the notice as there were tenants.
+Precedent	This objection was overruled in the view that the notice was addressed to and contained the names of all the tenants, though it was served on one of them.
+RatioOfTheDecision	On a plain reading of Section 106 , Transfer of Property Act , and on the consideration of the authorities on this point, we are of opinion that it is necessary in order to bind even a joint tenant that the notice must be addressed to and served on him in one of the ways mentioned in the second clause of that section.
+RatioOfTheDecision	It should be addressed to him and may be served ei ther on him personally or to one of the family or servants or affixed to a conspicuous part of the property.
+RatioOfTheDecision	It is difficult to hold that a person whose tenancy or existence is ignored and not recognised, as was defendant No.
+RatioOfTheDecision	9 in the present case.
+RatioOfTheDecision	is a party to be intended to be bound," by the notice under Section 106 , Transfer of Property Act .
+RatioOfTheDecision	The notice in this case on defendant No.
+RatioOfTheDecision	9 not having been thus served, <ORG> was justified in holding that the service of the notice was not good and sufficient in law to determine the tenancy.
+RatioOfTheDecision	4.
+RulingByPresentCourt	In this view of the law the appeal fails and is dismissed with costs.
+RulingByPresentCourt	<NAME>, J.
+RulingByPresentCourt	5.
+RulingByPresentCourt	I agree.

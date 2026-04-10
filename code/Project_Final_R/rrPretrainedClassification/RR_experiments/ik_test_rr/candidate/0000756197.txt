@@ -1,0 +1,683 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: THEIR WORKMEN DATE OF JUDGMENT: 20/08/1968 BENCH: <NAME>, <NAME>: <NAME>, J.M.
+Fact	VAIDYIALINGAM, C.A.
+Fact	CITATION: 1969 AIR 612 1969 SCR (1) 750 CITATOR INFO : R 1974 SC 136 (9) R 1971 SC1821 (8,9) R 1972 SC 299 (12) F 1972 SC 471 (24,27,28,29,30) R 1972 SC2195 (16) E 1975 SC 756 (2,3) E&R 1981 SC2105 (9,20,21,42) RF 1986 SC 484 (17,26) F 1986 SC1746 (6) RF 1986 SC1938 (11,15,16) RF 1987 SC1143 (4) ACT: Bonus Acr, 1965 ss.
+Fact	4, 6, 7-Scope of-Computation of bonus-Principles for deduction from gross profits on account of depreciation, development rebate, and estimated liability for gratuity-Treatment of interest on capital reserve attributable to revaluation of assets-Principles for determining allowance for direct taxes that employer "is liable to pay".
+Fact	HEADNOTE: In a dispute between the appellant and its workmen relating to the computation of bonus under the Payment of Bonus Act , 1965, the Company contended that the available surplus came to Rs.
+Fact	49.96 lakh s sixty pet cent of which, namely, Rs.
+Fact	29.98 lakhs was the allocable surplus.
+Fact	The employees disputed the computation claiming that the <ORG> had wrongly reduced the gross profits and the available surplus and contended, inter alia, that certain amounts deducted on account of provisions for gratuity and for doubtful debts should be added back; they challenged a deduction of interest on reserves on the ground that the capital reserve was artificially arrived at by a mere revaluation of the company's fixed assets as on April 1, 1956; and also disputed the figures of depreciation, development rebate and direct taxes deducted by the company while working out the available surplus.
+Fact	The <ORG> disputed the amount of Rs.
+Fact	28.82 lakhs worked out by the <ORG>'s auditors as depreciation in accordance with the Income-tax Act , 1961 on the ground (1) that there was no evidence that the amount of depreciation came to Rs.
+Fact	28.82 lakhs; and (2) that since the profit and loss account mentioned Rs.
+Fact	23.48 lakhs as depreciatio n, the <ORG> could only claim that amount.
+Fact	In its award the <ORG> allowed Rs.
+Fact	23.48 lakhs instead of Its.
+Fact	28.82 lakhs claimed by the company as depreciation.
+Fact	Similarly it allowed only Rs.
+Fact	7 lakhs instead of Rs.
+Fact	8.8 lakhs claimed by the company as development rebate.
+Fact	The <ORG> held that the amount of Rs.
+Fact	18.38 lakhs claimed under the head of gratuity was not a reserve but a provision and therefore, was not liable to be added back, but it held that the company could deduct only about Rs.
+Fact	10 lakhs as also Rs.
+Fact	1.31 lakhs and Rs.
+Fact	87,000/- actually paid during the year to employees who retired during that year and added back the balance of Rs.
+Fact	6 lakhs to the gross profits.
+Fact	Except for these amounts, the <ORG> accepted the rest of the company's computation.
+Fact	Both the <ORG> and the <ORG> obtained special leave and fled appeals challenging the correctness of the <ORG>'s award.
+Fact	In their appeal it was also contended by the <ORG> that the <ORG> had wrongly allowed a deduction of Rs.
+Fact	145 lakhs as direct  taxes under sec.
+RulingByLowerCourt	6(c); all that the employer could deduct was direct taxes which he "is liable to pay" for the accounting year in respect of "his income, profits and gains during that year", i.e., the employer is entitled to deduct only his actual tax liability.
+RulingByLowerCourt	Such liability.
+RulingByLowerCourt	therefore, has to be worked out in accordance with the provisions of the Income-tax Act and other relevant Acts by first arriving at the actual taxable income, gains and profits under those Acts and then compute the taxes at rates provided by them for that particular accounting year.
+RulingByLowerCourt	751 HELD:The appellant.company contentions on the questions of development rebate and the provisions for gratuity must be upheld; the amount of depreciation must be ascertained afresh by the <ORG> after giving the parties opportunity to lead such evidence as they desired.
+RulingByLowerCourt	The' workmen's appeal must be dismissed.
+RulingByLowerCourt	(1) The depreciation deducted in the expenditure column in the Profit and Loss Account was the depreciation worked out under s. 205(2) of the  Companies Act, but under section 6 of the Bonus Act, the <ORG> is entitled to deduct from its gross profits depreciation admissible under Section 32(1) of the.
+RulingByLowerCourt	Income-tax Act , i.e., such percentage on the' written down value as may, in the case of each of the classes of assets, be prescribed.
+Fact	It was for this reason that Rs.
+Fact	23.48 lakhs were shown as depreciation in the Profit and Loss Account by the <ORG> while in the computation for bonus the company claimed Rs.
+Fact	28.82 lakhs as.
+Fact	depreciation.
+Argument	[755 H--756 B] Since the <ORG> claimed the deduction of depreciation, the burden of proof that the amount claimed was in accordance with the Income-tax Act was on the <ORG> and that burden the company must discharge once its figures were challenged.
+Argument	It was not sufficient for it to produce its auditors' certificates.
+Argument	The question as to the correct amount of depreciation must therefore go back to the <ORG> for a further decision.
+RatioOfTheDecision	The <ORG> must give an opportunity to the <ORG> to prove its claim for deprec iation by reasonable proof and to the <ORG> to test such, evidence by cross-examination or otherwise.
+Fact	[757 <CITATION_1512358> ,  2 S.C.R.
+Fact	841, 847, <CITATION_625198>  2 S.C.R.
+Fact	906, 909, referred to.
+Fact	(2) Under s. 6(b) of the Bonus Act the Company is entitled to deduct out of the gross profits arrived at under s. 4 the whole of the development rebate admissible under the Income- tax Act, i.e., the amount, 75 per cent of which comes to Rs.
+Fact	7 lakhs in the present case.
+Fact	The <ORG> was in error in mixing up the development rebate reserve to which the Company had to appropriate Rs.
+Fact	7 lakhs in the Profit and Loss Account and the development rebate of Rs.
+Fact	8.87 lakhs allowable to it under s. 6 .
+Fact	of the Act.
+Fact	There was therefore no justification for the <ORG> to allow' Rs.
+Fact	7 lakhs only instead of Rs.
+Fact	8.87 lakhs as development rebate.
+Fact	[759D-F] (3) An estimated liability under gratuity schemes as in the present case, even if it amounts to a contingent liability and is not a debt under the Wealth Tax Act , if properly  ascertainable and its present value is fairly discounted, is deductible from the gross receipts while preparing the Profit and Loss Account.
+RatioOfTheDecision	This is in accordance with accepted principles of commercial practice and is also the position under the Income-tax Act .
+RatioOfTheDecision	There is no rule or direction in the Bonus Act which prohibits such a practice.
+Precedent	[766 C; 767 D] The <ORG> in allowing Rs.
+Precedent	10 lakhs out of the estimated liability of Rs.
+Precedent	16 lakhs impliedly accepted the same principle but allowed only Rs.
+Precedent	10 lakhs because it thought the estimate to be excessive.
+Precedent	This was not done on the ground that the estimate of Rs.
+Precedent	16 lakhs was not warranted on any valuation.
+RatioOfTheDecision	In the absence of any challenge as to the correctness of the valuation and in the absence of any challenge that such iiability cannot be estimated on any fair standard.
+RulingByLowerCourt	the <ORG> ought to have allowed the whole of Rs.
+RulingByLowerCourt	16 lakhs to be deducted while arriving at the net profits in the Profit and Loss Account.
+RulingByLowerCourt	[767 E] 752 <ORG> v.C.I.T.,  1 S.C .R.
+RulingByLowerCourt	185; <CITATION_124855> .,  2 S.C.R.
+Argument	327; <ORG> v.<ORG>,  2 S.C.R.
+Argument	688; <CITATION_804107> ,  1 S.C.R.
+Argument	768; <ORG> v. <NAME>,  A.C. 334 and <ORG> v. <NAME>,  A.C. 443; referred to.
+Argument	(4) There was no justification for the contention that revaluation of company's assets in 1956 was fictitious and that the difference of Rs.
+Argument	57 lakhs was a mere hook adjustment and did not add to the wealth of the company so that no deduction by way of interest was permissible on such an artificial amount.
+RatioOfTheDecision	[767 H] In the present case the revaluation was made as early as 1956 and did not appear to have been objected to at any time either by the Company's auditors or by any one else concerned with the Company's management.
+RatioOfTheDecision	It cannot, therefore, be legitimately said that it was done for any oblique purpose, much less with a view to defeat the labour's claim to bonus.
+RatioOfTheDecision	It is true that such revaluation does not bring in any tangible additional amount into the compan y's coffers which it can use for its business.
+RatioOfTheDecision	But under sec.
+RatioOfTheDecision	211 of the Companies Act , every balance-sheet of a company must give a true and fair view of the state of affairs of the company as at the end of the financial year.
+RatioOfTheDecision	Sch.
+RatioOfTheDecision	VI to the Companies Act also provides that where sums have been written off on a reduction of capital or a re- valuation of -assets, the balance sheet, subsequent to such reduction or revaluation must show the reduced or the increased figures as the case may be.
+RatioOfTheDecision	Apart from the provisions of the Companies Act , it is a recognised principle of accountancy to transfer the increased value of assets on revaluation to a capital reserve account.
+RatioOfTheDecision	Such an increased figure is an unrealised accretion in the value of a fixed asset.
+RatioOfTheDecision	The fact that such an increased figure does not actually bring in any additional amount to the company does not make the capital reserve any the less a reserve.
+RatioOfTheDecision	[768 C-G] The <ORG> was therefore right in accepting the figure of Rs.
+RatioOfTheDecision	57 lakhs and deducting intere st thereon from the gross profits.
+RatioOfTheDecision	(5) Bonus being payable within eight months after the close of the accounting year in cases where there is no dispute pending before an authority under s. 22 of the Act as provided by s. 19 , it is hardly possible, except in rare cases, that assessment under <ORG> Act and other such Acts would be completed by the time bonus has to be paid.
+RatioOfTheDecision	Therefore, the <ORG> would not have before it the taxable income assessed by <ORG> and other such officers.
+RatioOfTheDecision	If the <ORG>'s contention were to he right, there would be two or more parallel authorities working under the Bonus Act and <ORG> Act and other such Acts who would have to assess taxable income and the tax payable them, before all of whom the employer would have to prove his taxable income.
+RatioOfTheDecision	In each bonus dispute, the <ORG>, not equipped with the detailed knowledge of all such Acts, would have to undertake an enquiry into various deductions, rebates, reliefs, etc.
+RatioOfTheDecision	claimable by the employer under those  Acts.
+RatioOfTheDecision	The fact that payment of bonus cannot broke delay without causing hardship to labour would seem to militate against the possibility of such prolonged enquiries.
+RatioOfTheDecision	[774 E- 775 A] An examination of the provisions of the Bonus Act shows that the '<ORG> must estimate the amount of direct taxes on the balance of gross profits as worked out under ss.
+RatioOfTheDecision	4 and 6 , but without deducting the bonus, then work out the quantum of taxes thereon at rates applicable ,during that year to the income, gains and profits of the employer and 753 after deducting the amount of taxes so worked out arrive at the available surplus.
+RatioOfTheDecision	Section 6(c) being subject to s. 7 the computation has to be done without taking into account the items specified in s. 7(a) and in the manner prescribed by the remaining clauses of that section.
+RatioOfTheDecision	This interpretation is commendable because; (1) it is consistent with the words "is liable to pay" in s. 6(c) , (2) it is in harmony with the provisions of ss.
+RatioOfTheDecision	4 and 6 and Sch.
+RatioOfTheDecision	H, and (3) it is consistent with  the intention of <ORG> apparent from the scheme of computation of available surplus in the Act.
+RatioOfTheDecision	Furthermore, if <ORG> intended to make a departure from the rule laid down by courts and tribunals that the bonus amount should be calculated after provision for tax was made and not before, it would have made an express provision to that effect either in the Act or in the Schedules.
+Precedent	[776 B-D; <CITATION_290317> ,  S.C.R.
+Precedent	925 at 974; <CITATION_207697>  Supp.
+Precedent	2 S.C.R.
+Fact	936; and Workmen o!
+Fact	<ORG> <ORG>,  2 L.L.I.
+Fact	313, referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeals Nos.
+Fact	2138 and 2196 of 1966.
+Fact	Appeals by special leave from the Award dated June 27, 1966 of <ORG>, West Bengal in Case No.
+Fact	VIII-251 of 1965.
+Fact	<NAME>, <NAME>, <NAME> and <NAME>, for the appellant (in C.A.
+Fact	No.
+Fact	2138 of 1966) and the respondent (in C.A.
+Precedent	No.
+Precedent	2196 of 1966).
+Precedent	<NAME>, <NAME> and <NAME>, for the respondents ( in C.A.
+Precedent	No.
+Precedent	2138 of 1966) and the appellants (in C.A.
+Precedent	No.
+Precedent	2196 of 1966).
+Precedent	<NAME>, <NAME> and <NAME>, for intervener No.
+Precedent	1.
+Precedent	<NAME> and <NAME>, for intervener No.
+Precedent	2.
+Argument	<NAME>, <NAME> and <NAME>, for intervener No.
+Argument	3.
+Argument	<NAME> and <NAME>, for intervener No.
+Argument	4.
+Argument	<NAME> and <NAME>, for Intervener No.
+Argument	5.
+Argument	<NAME> and <NAME>, for intervener No.
+Argument	6.
+Argument	The Judgment of the Court was delivered by <NAME>, J.
+Argument	By a reference dated September 17, 1965, <ORG> referred to <ORG> the following question for adjudication:  "Whether computation of bonus in respect of the accounting year ending 31st March 1965 payable to the employees is in accordance with the payment of Bonus Ordinance ?
+Fact	If not, what should be the quantum of bonus for the employees ?"
+Fact	754  The dispute between the appellant company and its employees arose in the following manner.
+Fact	The company's accounting yearis from 1s t April to 31st March of the following year and its books of account are maintained on the mercantile system of accounting.
+Fact	The company computed the amount of bonus payable to its employees under the Payment of Bonus Ordinance which was promulgated on May 29, 1965 and furnished on July 5, 1965 copies of its this computation to the three respondent <ORG> representing its employees.
+Fact	The available surplus and allocable surplus, according to this computation, were Rs.
+Fact	49.96 lacs and Rs.
+Fact	29.98 lacs respectively.
+Fact	On this basis the company declared the bonus at 13.28 per cent of the total wages paid to the employees.According to this computation, the gross profits came to Rs.
+Fact	2,70,61,234/-.
+Fact	Out of this the company deducted the following amounts allowed under the Ordinance, namely:  Rs.
+Fact	28,64,000/- as depreciation admissible under the Income Tax Act , 1961;  Rs.
+Fact	9,00,000/- as development rebate.
+Fact	Rs.
+Fact	1,36,33,000/- as direct taxes.
+Fact	Rs.
+Fact	1,50,000/- as dividend on preference shares;  Rs.
+Fact	23,37,000/- as interest at 8.5 p. c. on paid up capital;  Rs.
+Fact	17,80,358/- as interest at 6 p.c.
+Fact	on reserves.
+Fact	Thus the available surplus came to Rs.
+Fact	49,96,876/-, sixty per cent of which, namely, Rs.
+Fact	29,98,125/- was the allocable surplus.
+Fact	The employees disputed the computation contending that the company had wrongly reduced the gross profits and the available surplus and that the following amounts should be added back, viz.,provision for gratuity Rs.
+Fact	18,38,605/- and provision for doubtful debts Rs.
+Fact	50,000/-.
+Fact	They also challenged deduction of interest on the reserves on the ground that the capital reserve of Rs.
+Fact	57,00,151/- was artificially arrived at by a mere revaluation of the company's fixed assets as on April 1, 1956.
+Fact	They also disputed the figures of depreciation, development rebate and direct taxes deducted by the company while working out the available surplus.
+Fact	<ORG> in the meantime passed the Payment of Bonus Act , 1965 which by sec.
+Fact	40 repealed the Ordinance but which saved all things done and action taken under the 'Ordinance a s having been done or taken under the Act.
+Fact	On September 27, 1965 company paid, subject to the result of the reference, bonus at the rate of 13.28 percent of the wages including dearness allowance to its employees.
+Fact	In its award the <ORG> allowed Rs.
+Fact	23,48,226/- instead of Rs.
+Fact	28,82,261/- claimed by the company as depreciation.
+Fact	Simiearly it allowed only Rs.
+Fact	7 lacs instead of Rs.
+Fact	8,87,371/- claimed by the company as development rebate.
+Fact	As regards Rs.
+Fact	18.38 lacs claimed under the head of gratuity, the <ORG> held that amount was not a reserve but a provision and, therefore, was not liable to be added 'back.
+Fact	But it held that the company could deduct only Rs.
+Fact	10 lacs and odd as also Rs.
+Fact	1.31 lacs and Rs.
+Fact	87,000/- and odd actually paid during the year to employees who retired during that year and added back the balance of Rs.
+Fact	6 lacs to the gross profits.
+Fact	Except for these amounts, the <ORG> accepted the rest of the company's computation.
+Fact	In the result the <ORG> found the available surplus and the allocabl e surplus to be 54 lakhs and odd and Rs.
+Fact	32.42 lacs respectively and directed payment of bonus at 14.55 per cent of the total wages.
+Fact	Both the <ORG> and the company obtained special leave and filed appeals challenging the correctness of the Award.
+Fact	In the profit and loss account for the year 1964-65, the <ORG> had shown Rs.
+Fact	17 chores and odd as gross receipts and out of that amount had deducted diverse amounts as expenditure including the sum of Rs.
+Fact	23,48,226/- by way of depreciation.
+Fact	In its computation filed before the <ORG>, the <ORG>, however, claimed depreciation at Rs.
+Fact	28.82 lacs worked out by its auditors in accordance with the provisions of the Income Tax Act , 1961.
+Fact	The <ORG> disputed this amount on the ground (1 ) that there was no evidence that the amount of depreciation came to Rs.
+Fact	28.82 lacs and (2) that since the profit and loss account mentioned Rs.
+Fact	23.48 lacs as depreciation, the company could claim that amount only.
+Fact	The <ORG> accepted the <ORG>' contention stating that there was no thing to show that the company through mistake had shown Rs.
+Fact	23.48 lacs as depreciation in the profit and loss account and that subsequently on finding out the mistake it had revised in its computation depreciation at Rs.
+Fact	28.82 lacs.
+Fact	The <ORG>, as we shall presently show, was in error in confusing depreciation claimed by it as a deduction under sec.
+Fact	6 of the Act and in thinking that the company had made or claimed to have made a mistake and was trying to correct such mistake.
+Fact	Under sec.
+Fact	205( 1 ) of the Companies Act , 1956, no dividend can be declared or paid by a company for any financial year except out of profits arrived at after providing for depreciation in accordance with sub-sec.
+Fact	(2).
+Fact	Sub-sec.
+Fact	(2) provides different methods of calculating depreciation, one of which is to calculate it by dividing 95 per cent of the original cost of each of the depreciable asset by a specified period in respect of each such asset.
+RulingByLowerCourt	The depreciation deducted in the expenditure column in the P&L account therefore was th e depreciation worked out under sec.
+RulingByLowerCourt	205 ( 2 ) of the Companies 'Act.
+RulingByLowerCourt	Under sec.
+RulingByLowerCourt	2 ( 18 ) of the Bonus Act , gross profits mean gross profits calculated under sec.
+RulingByLowerCourt	4.
+RulingByLowerCourt	In the case of companies other than a banking company, gross profits under Sec.
+RulingByLowerCourt	4 are to be computed in the manner laid down in the 2nd Schedule.
+RulingByLowerCourt	That Schedule requires adding back to the net profit shown in the P & L account of depreciation deducted in that account while computing gross profits.
+RulingByLowerCourt	Obviously, the depreciation so to be added back is the one worked out by the company under sec.
+RulingByLowerCourt	205 (2 ) of the Companies Act .
+RulingByLowerCourt	Section 6 of the Bonus Act provides that having arrived at the gross profits under sec.
+RulingByLowerCourt	4 read with the 2nd Schedule, the <ORG> is entitled to deduct therefrom depreciation admissible under sec.
+RulingByLowerCourt	32( 1 ) of the Income Tax Act , that is, such percentage on the written down value as may, in the case of each of the classes of assets, be prescribed.
+RulingByLowerCourt	The fact that the company while preparing its P & L Account and its computation ( Ex.
+RulingByLowerCourt	6) produced before the <ORG>, had kept the distinction between depreciation worked out under the Companies Act and the one to be worked out under the Income-tax Act for the purposes of the Bonus Act is clear from the evidence of its witness, <ORG>.
+RulingByLowerCourt	It was for this reason that Rs.
+Fact	23 lacs and odd were shown as depreciation in <ORG> while in the computation (Ex.
+Fact	6) the company claimed Rs.
+Fact	28.64 lacs as depreciation.
+Fact	There was, therefore, no question of the company having made any mistake in calculating depreciation in <ORG> or its trying to amend that mistake as erroneously thought by the <ORG>.
+Fact	The only mistake, the company claimed it had made, was that the true figure of depreciation deductible under sec.
+Fact	6(a) of the Bonus Act was Rs.
+Fact	28.82 lacs and not Rs.
+Fact	28.64 lacs.
+Fact	The Company produced a certificate of its auditors (Ex.
+Fact	U 2) dated December 20, 1965 wherein the auditors certified that on the records produced before them the true figure of depreciation would be the revised  figure of Rs.
+Fact	28.82 lacs and not Rs.
+Fact	28.64 lacs.
+Fact	But the controversy between the parties was not confined to the difference between these two figures.
+Fact	There were three figures for depreciation before the <ORG>, Rs.
+Fact	23 lacs and odd shown in the P & L Account, Rs.
+Fact	28.64 lacs shown in the computation and Rs.
+Fact	28.82 lacs subsequently claimed by the company as the revised figure of depreciation.
+Fact	The last two figures were taken by the company from its auditors' certificate certifying first Rs.
+Fact	28.64 lacs and, latex on, revising that figure to Rs.
+Fact	28.82 lacs on certain further records and information produced before them.
+Fact	The evidence of <ORG> shows clearly that the <ORG> disputed the Company's calculations of depreciation.
+Fact	When questioned by them, <ORG> could only say that the calculations were done not by him but by <ORG> and, therefore, was not in a position to answer questions in that regard.
+Fact	No witness from <ORG> was produced.
+Fact	As regards their books and records produ ced before the auditors, his only answer was:  757  "So far as books and records mentioned in the first part of Ext.
+Fact	U 2 are concerned, the books and record relating to the branches were produced before the representatives of the, auditors' firm there, and the other books and records were produced there before the auditors' firm.
+Fact	So far as the record mentioned in the second part of the certificate are concerned, they are different records.
+Fact	The informations and explanations given to the auditors were given verbally after consulting our books of accounts".
+Fact	These books and records not having been produced or disclosed, there was obviously no opportunity to the <ORG> to verify either of the two figures, viz., Rs.
+Fact	28.64 lacs or Rs.
+Fact	28.82 lacs.
+Argument	It is true that <NAME> said that the calculations shown to the auditors could be produced but he qualified the offer by saying that would be done if the <ORG> required.
+Argument	Since the company claimed the deduction of depreciation, it stands to reason that the burden of proof  that the depreciation claimed by it was the correct amount in accordance with the Income Tax Act was on the <ORG> and that burden the company must discharge once its figures were challenged.
+Argument	But it was; contended that once the company produced its auditors' certificate.
+Argument	that should be sufficient and must be accepted and that the <ORG> should not insist either on the auditors proving their certificate or on the company proving depreciation on each and every item of depreciable asset.
+Argument	Such an enquiry before the <ORG>, it was argued, would be a harassing and prolonged enquiry, not contemplated in industrial adjudication and, therefore, the <ORG> ought to have accepted as correct Rs.
+Fact	28.82 lacs certified by the auditors.
+Fact	Under sec.
+Fact	23 of the Act the presumption of accuracy is allowed only to the balance sheet and the P & L Account of companies.
+RatioOfTheDecision	No such presumption is provided for by the Act to auditors' certificates.
+Precedent	Speaking of rehabilitation amount deductible as a prior charge under the Full Bench f ormula while working out the available surplus this Court in Khandesh Spg.
+Precedent	ana <CITATION_1512358> (1) observed at page 847 as follows:  "The importance of this question (the procedure to be followed for ascertaining facts) in the context of fixing the amount required for rehabilitation cannot be over-  estimated.
+Precedent	The item of rehabilitation is generally a major item that enters.
+Precedent	into the calculations for the purpose of ascertaining the surplus and, therefore, the amount of bonus.
+Precedent	So, there would be a tendency on the part of the employer to inflate this figure and the (1) [1960] 2 S.C.R.
+Precedent	841,847. ap.
+RatioOfTheDecision	C. 1./69-2 employees to deflate it.
+RatioOfTheDecision	The accounts of a company are prepared by the management.
+Fact	The balance-sheet and the profit and loss account are also prepared by the company's officers.
+Fact	The labour have no concern in it.
+Fact	When so much depends on this item, the principles of equity and justice demand that <ORG> should insist upon a clear proof of the same and also give a real and adequate opportunity  to the labour to canvass the correctness of the particulars furnished by the employer."
+Fact	The necessity of proper proof of the correctness of statements in the balance-sheet was repeated in <CITATION_625198> (1).
+Fact	These observations made with regard to balance- sheets and P & L accounts would equally apply to statements made in ,the auditors' certificates 'prepared on the instructions and information supplied to them by employers.
+RatioOfTheDecision	Mere production of auditors' certificate, especially when it is not admitted by labour, not by the auditors but by the employees of the company who admitted not to have been concerned with its preparation or the calculations on which it was based.
+RatioOfTheDecision	would not be conclusive.
+RatioOfTheDecision	We do not say that in such a case the <ORG> should insist upon proof of depreciation on each and every item of the assets.
+RatioOfTheDecision	It should, however, insist on some reasonable proof of the correctness of the figure of depreciation claimed by the employer either by examining the auditors who calculated and certified it or  by some other proper proof.
+RatioOfTheDecision	Depreciation in some cases would be of a large amount affecting materially the available surplus.
+RatioOfTheDecision	Fairness, therefore, requires that an opportunity must be given 'to the employees to verify such figures by cross-examination of the employer or his witnesses who have calculated depreciation amount.
+RatioOfTheDecision	Notwithstanding the <ORG>' challenge to the figure of depreciation claimed by the company, the only thing that the company did was to examine <NAME>, who admittedly had nothing to do with its calculation, and to produce through him the said certificate.
+RatioOfTheDecision	In our view, that was neither proper nor sufficient.
+Precedent	The proper course for the <ORG> in such a case was to insist upon the company adducing legal evidence in support of its claim instead of taking the figure of depreciation from the P & L account which was not worked out in accordance with the Income Tax Act but under sec.
+RatioOfTheDecision	205 of the Companies Act , and saying that the <ORG> had failed to prove that it was a mistaken figure.
+RatioOfTheDecision	In our vi ew, the question as to the correct amount of depreciation must go back to the <ORG> for a fresh decision.
+RatioOfTheDecision	The <ORG> should give opportunity to the <ORG> to prove its claim for depreciation by reasonable proof and to the <ORG> to test such evidence by cross-examination or otherwise.
+Precedent	(1)  2 S.C.R.
+Precedent	906, 909.
+Precedent	759  An error of the same type seems to have been committed by the <ORG> in the matter of development rebate.
+Precedent	It allowed Rs.
+Precedent	7 lacs as development rebate.
+Precedent	instead of Rs.
+Argument	8.87 lacs.
+Argument	claimed by the <ORG>.
+Fact	Under sec.
+Statute	33 of the Income Tax Act , an assessee is allowed by way of development rebate a certain percentage of the cost of machinery or plant depending on the date of its installation.
+Statute	Section 34(3) of that Act provides, however, that the said allowance shall not be given unless an amount equal to 75 per cent of the development rebate to be allowed is debited to the P & L account of the relevant previous year and credited to a reserve account to be utilised by the assessee in the 8 years nex t following for the purposes of the undertaking.
+Precedent	Accordingly, the <ORG> appropriated Rs.
+Precedent	7 lacs to the development rebate reserve as it was bound to do if it wanted to claim development rebate.
+Precedent	The <ORG> took the round figure Rs.
+Precedent	9 lacs instead of Rs.
+Precedent	8.87 lacs for development rebate and credited Rs.
+RulingByLowerCourt	7 lacs, being 75 per cent thereof to the development rebate reserve.
+RulingByLowerCourt	Under the Second Schedule to the Bonus Act , read with sec.
+RulingByLowerCourt	4 thereof the <ORG> is required while computing its gross profit to add the development rebate and as footnote 1 in that Schedule shows "to the extent charged to profit and loss account", that is, Rs.
+RulingByLowerCourt	7 lacs.
+RulingByLowerCourt	Under sec.
+RulingByLowerCourt	6(b) of the Bonus Act , the <ORG> is entitled, however, to deduct out of the gross profits arrived at under sec.
+Fact	4, the whole of the development rebate admissible under the Income Tax Act , i.e., the amount, 75 per cent of which comes to Rs.
+Fact	7 lacs.
+Fact	The error which the Tribunal fell into was in mixing up the development rebate reserve to which the <ORG> had to  appropriate Rs.
+Fact	7 lacs in <ORG> account and the development rebate of Rs.
+Fact	8.87 lacs allowable to it under sec.
+RulingByLowerCourt	6 of the Act.
+RulingByLowerCourt	Mr. <NAME> for the <ORG> fairly conceded that he could not challenge this position.
+RatioOfTheDecision	There was, therfore, no justification for the <ORG> to allow Rs.
+RatioOfTheDecision	7 lacs only instead of Rs.
+RatioOfTheDecision	8.87 lacs as development rebate.
+RatioOfTheDecision	The next question relates to a sum of Rs.
+RatioOfTheDecision	18.38 lacs, being the estimated liability under two gratuity schemes framed by the <ORG>, which was deducted from the gross receipts in the <ORG> account.
+RatioOfTheDecision	In 1960 the <ORG> introduced a gratuity scheme for its employees other than its officers.
+RatioOfTheDecision	Under that scheme gratuity was payable on the termination of an employees's service either due to retirement, death or termination of service, the amount of gratuity payable being dependent on his wages at that time and the number of years of service put in by him.
+RatioOfTheDecision	The <ORG> had worked out on an actuarial valuation its estimated liability and made provision for such liability not all at once  but spread over a number of years.
+RatioOfTheDecision	Thus in 1959-60, 1960-61 and 1961-62 the <ORG> allocated towards this liability Rs.
+Fact	5 lacs.
+Fact	Rs.
+Fact	10 lacs and Rs.
+Fact	5 lacs respectively from out of the profits, debiting these amounts in the profits and loss account.
+Fact	In all Rs.
+Argument	40 lacs have so far been provided in the aforesaid manner against the said liability.
+Argument	The practice followed by the <ORG> is that every year the <ORG> works out the additional liability incurred by it on the employees putting in every additional year of service.
+Argument	Whenever an employee retires, the amount of gratuity payable to him is debited against the amount provided for as aforesaid.
+RatioOfTheDecision	The amount so paid is not debited in the P & L account as an outgoing or expenditure but against the estimated liability provided as aforesaid.
+RatioOfTheDecision	In 1964-65 the, <ORG> introduced a similar gratuity scheme for its officers.
+Fact	According to the <ORG>, the estimated liability under this scheme was worked out at Rs.
+Fact	20 lacs.
+Fact	But instead of providing the whole for it provide d only Rs.
+Fact	11.31 lacs.
+Fact	It also provided Rs.
+Fact	7 lacs under the scheme for its non-officers against the liability for service put in by them in that year.
+Fact	Out of Rs.
+Fact	18.38 lacs so provided, the <ORG> paid as gratuity Rs.
+Fact	1,31,585/- and Rs.
+Fact	87,295/to officers and other employees who retired during 1964-65, debiting as aforesaid, these amounts not as an outgoing or expenditure but against the said amounts of Rs.
+Fact	11 lacs and Rs.
+Fact	7 lacs.
+Fact	The <ORG> claimed that it was entitled to.
+Fact	deduct the balance of Rs.
+Fact	16 lacs from the gross receipts in the P & L account while working out its net profit.
+Fact	The <ORG> contended that the <ORG> could deduct from the gross receipts only Rs.
+Fact	1.31 lacs and Rs.
+Fact	87,000/- and odd actually paid during the year.
+Fact	The <ORG>, on the other hand, maintained that what it had 'done was legitimate and was warranted by the principles of accountancy and, therefore, the whole amount of Rs.
+Fact	18.38 lacs was deductible in arriving at its net profits.
+Fact	What the <ORG> did, however, was that instead  of squarely facing this controversy, it held that as the <ORG> had in the former years debited Rs.
+Fact	5 lacs e.g., in 1959-60 and 1961-62, it would allow only Rs.
+Fact	5 lacs for each of the two schemes.
+Fact	Thus it allowed Rs.
+Fact	10 lacs as dubitable in the P & L account in addition to the said Rs.
+Fact	1.31 lacs and Rs.
+Fact	87,000/- and disallowing the balance of Rs.
+Fact	6 lacs added back that amount in the net profits shown in the P & L account.
+RulingByLowerCourt	The contention of Mr. <NAME> was two fold: (1 ) that the amount which could be debited was that which was actually paid and the <ORG> was not entitled to debit in the P & L account any amount worked out by it as estimated liability.
+RulingByLowerCourt	The <ORG>.
+RulingByLowerCourt	therefore, was not justified in allowing the <ORG> to debit any such amount and that the <ORG> arbitrarily fixed Rs.
+RulingByLowerCourt	10 lacs and allowed wrongly that amount to be deducted; and (2) even if such estimated liability was debitable, the appropriation amounted to a reserve and under the Bonus Act such a reserve had to be added back while working  out the gross profits under the 2nd Schedule to the Act.
+Fact	Two questions, therefore, arise: (1) whether it is legitimate in such a scheme of gratuity to estimate the liability on an actuarial valuation and deduct such estimated liability in the P & L account while working out its net profits; and (2).i.f it is, whether such appropriation amounts to a reserve or a provision.
+RatioOfTheDecision	If it is a reserve, obviously the amount has to be added back while computing the gross profits.
+RatioOfTheDecision	But in that event the Company would be entitled to interest thereon at 6 per cent per annum under Item 1 (iii) of the Third Schedule to the Act.
+RatioOfTheDecision	In the case of an assessee maintaining his accounts on mercantile system, a liability already accrued, though to 'be discharged at a future date, would be a proper deduction while working out the profits and gains of his business, regard being had to the accepted principles of commercial practice and accountancy.
+RatioOfTheDecision	It is not as if such deduction is permissible only in case of amounts actually expended or  paid.
+RatioOfTheDecision	Just as receipts, though not actual receipts but accrued due or brought in for income tax assessment, so also liabilities accrued due would be taken into account while working out the profits and gains of the business.
+RatioOfTheDecision	A Company carrying on business of buying land and selling it after development sold certain plots, received a part of the price but entered the whole of the price receivable as it maintained its books of accounts on mercantile method.
+RatioOfTheDecision	It also debited a certain sum, being the estimated expenditure for the developments it undertook to carry out within six months from the execution of the sale deeds although no part of such expenditure was actually incurred during that year.
+RulingByLowerCourt	It was held that having regard to the accepted commercial practice and trading principles and there 'being no prohibition against it in the Income Tax Act , deduction of such estimated liability even though it did not come under any specific provisions of sec.
+Fact	10(2) of the Income Tax Act , 1922 was permissible; (see <ORG> <ORG> v.
+Precedent	CJ.T.
+Statute	(1) Such a deduction of an accrued liability though not actually paid is not confined to the Income Tax Act only but is also perrnissible under the Wealth Tax Act , 1957.
+Statute	<CITATION_124855> .
+Statute	(-2) demands in respect of payment of tax under sec.
+Fact	18 A of the Income Tax Act , 1922 were made against the 'assessee company for 1956-57.
+Fact	The final installment of Rs.
+Fact	47 lacs and odd for each of the two years was outstanding on the respective valuation dates.
+Fact	The question was whether the demand ,for such tax could be deducted while determining the net wealth of the <ORG>.
+RulingByLowerCourt	This Court held that a debt is "owed' when an order is passed under sec.
+RulingByLowerCourt	18A and a notice of demand is sent.
+Fact	The amount mentioned in the notice begins to be 'owed' till a new figure is (1) 1 S.C.R.
+Precedent	185.
+Precedent	(2)  2 S.C.R.
+Precedent	317.
+Precedent	762  substituted by the assessee under sec.
+RulingByLowerCourt	18A(2) of the Income Tax Act .
+RulingByLowerCourt	But till that is done, the amount is ascertained and there is a statutory liability to pay the amounts mentioned in the order under  sec.
+RulingByLowerCourt	18A(1) and were debts on the valuation dates and, therefore, deductible for the purpose of arriving 'at the Company's net wealth.
+RulingByLowerCourt	The <ORG> also held that a condition subsequent, the fulfilment of which may result in the reduction or even extinction of the liability, would not have the effect of converting that liability into a contingent liability.
+RulingByLowerCourt	The decision, no doubt, turned on the meaning of 'debt' as defined by sec.
+RulingByLowerCourt	2(m) of the Wealth Tax Act , the.<ORG> there holding that the statutory liability to pay the amount mentioned in the order commenced when the demand notice was served and, therefore, the liability did exist in present.
+Fact	In <ORG> v.
+Fact	C.W.T.
+Fact	(1) also a case under the Wealth Tax Act , the appellant company showed in its P & L account two amounts: (1 ) the amount of dividend proposed to be distributed for that year and (2) another sum as a provision for tax liability under the income Tax Act , 1922.
+Fact	The question was whether these two sums were debts and cou ld be deducted while computing the Company's net wealth.
+Fact	It was held that the dividend amount was not a debt as on the valuation date nothing more than a recommendation by the Directors had taken place.
+Fact	But as regards the estimated tax liability, it was held that it was a debt inasmuch as the liability to pay the tax was in present though payable in future and was in respect of an ascertainable sum of money.
+RulingByLowerCourt	<CITATION_804107> (2) the decision turned on the question whether an estimated liability under gratuity schemes framed under <ORG> awards amounted t0 debts and could be deducted while computing the net wealth.
+RulingByLowerCourt	On reliance having been placed on <ORG> v. Owen(a) a decision to which we shall presently come the Court observed' at page 773 that decision had no relevance to the question before it as <ORG> in that decision was concerned in determining the deductibility of the present value of a liability which may arise in future in the computation of taxable income for  the relevant year under the Income Tax laws-The <ORG> held, in view of the terms of sec.
+Argument	2(m) of the Wealth Tax Act , that as the liability to pay gratuity was not in presents but would arise in future on the termination of service i.e.
+RatioOfTheDecision	on retirement, death or termination; the estimated liability under the schemes would not be a debt and, therefore, could not be deducted while computing the net wealth.
+RatioOfTheDecision	These observations show that the <ORG> was of the view that though such a liability is a contingent liability and therefore not a 'debt' under sec.
+Fact	2(m) of the Wealth Tax Act , it would be deductible under the Income Tax Act while (1)  2 S.C.R.
+Precedent	688.
+Precedent	(2) [1967] 1 S.C.R.
+Precedent	768.
+Fact	(3) [1957] A.C. 334.
+Fact	763  computing the taxable profits.
+Fact	In the instant case, the question is not whether such estimated liability arising under the gratuity schemes amounts to a debt or not.
+Fact	The question that concerns us is whether while working out the net profits a trader can provide from his gross receipts his liability to pay a certai n sum for every additional year of service which he receives from his employees.
+RatioOfTheDecision	This, in our view, he can do, if such liability is properly ascertainable and it is possible to arrive at a proper discounted present value.
+RatioOfTheDecision	Even if the liability is a contingent liability, provided its discounted-present value is ascertainable, it can be taken into account.
+RatioOfTheDecision	Contingent liabilities discounted and valued as necessary can be taken into account as trading expenses if they are sufficiently certain to be capable of valuation and if profits cannot be properly estimated without taking them into account.
+Precedent	Contingent rights, if capable of valuation, can similarly be taken into account as trading receipts where it is necessary to do so in order to ascertain the true profits: (see <NAME> Elements the Law of Income and Capital Gains Taxation 8th ed.
+Precedent	54).
+Precedent	In <ORG> v. Owen(1), <ORG> was concerned with the problem similar to.
+RatioOfTheDecision	the one before us and, therefore, the observations made ther e would be of assistance.
+RatioOfTheDecision	An English Company operating a railway in Peru was under the laws of that country liable to pay its.
+RatioOfTheDecision	employees compensation on the termination' of their services either by dismissal or on termination of service by notice or on such termination by death or affluence of contractual time.
+RatioOfTheDecision	The compensation so paid was an amount equivalent to one month's salary at the rate in force at the date of determination of every year of service.
+Argument	The Company claimed to be entitled to charge against each years receipts the cost of making provision for the retirement payments which would ultimately be thrown on it, calculating the sum required to be paid to each employee if he retired without feature at the close of the year and setting' aside the aggregate of what was required insofar as the year had contributed to the aggregate.
+Argument	<ORG> rejected the deductions on the ground that in calculating the deduction the company had ignored the factor of discount.
+RatioOfTheDecision	But their Lordships recognised the  principle that the company was entitled to charge against each year's receipts the cost of making provision for the retirement payments which would ultimately be payable as the company had the benefit of the employees' services during the year provided the present value of the future payments could be fairly estimated.
+RatioOfTheDecision	The contention on behalf of the <ORG> was very nearly the same as the one before us.
+Statute	Counsel conceded, that a trader computing his taxable profits for a particular year may properly deduct not only the payments actually made to his employees but (1) [1957] A.C. 334.
+Statute	764  also the present value of any payments in respect of their services in that year to be made in a subsequent year if it can be satisfactorily estimated.
+RulingByLowerCourt	But it was argued that proposition would not apply to that case as the company was not in any year under a definite obligation to pay its employees lump sums on the termination of their employment as in each case the right to a lump sum was contingent on certain conditions bei ng fulfilled and' so the prospective liability remained contingent until the service was actually ended.
+RulingByLowerCourt	The lump sum could not be regarded as earned or payable in respect of a particular year of service and, therefore, the whole sum should be debited in the account of the last year of service.
+RulingByLowerCourt	This contention was not upheld.
+Argument	In the course of his opinion, Lord <NAME> cited with approval the dictum of Lord <NAME> in <ORG> v. Clark(1) at p. 455, namely:  "It is plain that the question of what ,is or is not profit or gain must primarily be one of fact, and of fact to be ascertained by the tests applied in ordinary business.
+Argument	Questions of law can only arise when (as was not the case here) some express statutory direction applies and excludes ordinary commercial practice, or where, by reason of its being impracticable to ascertain the facts sufficiently, some presumption has to be invoked to fill the gap.
+Argument	"-  Holding that there was no such statutory rule prohibiting the commercial practice of prov iding for such an estimated liability for each year, he compared the: two systems and observed at pp.
+Argument	351-352 as follows:  "Now the question is how ought the effects of this statutory scheme to be reflected in the appellant's accounts of the annual profits arising from its trade ?
+RatioOfTheDecision	One way, which is certainly the simplest one, is to let the payments made fall entirely as expenses of the year of payment and ignore any question of making provision for the maturing obligation during the years of service that precede it ............
+RatioOfTheDecision	It has one considerable advantage; no element of estimate or valuation appears in the profit assessment and nothing is charged to profits except the actual cash outgoing.
+RatioOfTheDecision	But, when this has been conceded, I think that there is the very serious disadvantage to be set against the inefficient method of arriving at the true profits of any one year.
+RatioOfTheDecision	The retirement benefit is not obviously paid to obtain the services given in the year of retirement.
+RatioOfTheDecision	The incident of retirement payments must b e variable from year to year, and (1) [1912] A.C. 443.
+RatioOfTheDecision	765  they may inordinately depress the profits of one year just as they may inordinately inflate the profits of another.
+RatioOfTheDecision	It is true that the company carries on business from one year to another, but it is not charged on the average of its annual profits.
+RatioOfTheDecision	Tax rates and allowances themselves vary and, apart from that, to charge tax on a profit unduly accelerated or unduly deferred is, in my opinion, no more respectable an achievement than to admit that the annual accounts of business do in some cases require the introduction of estimates or valuations if a true statement of profit i,s to be secured.
+RatioOfTheDecision	Another method is that which the appellant is seeking to establish with regard to its assessments for the four years 1947- 1950 ..... What the appellant claims the right to do is to charge against each year's receipts the cost of making provision for the retirement payments that will ultimately be thrown upon it by virtue of the fact that it has had the benefit  of its employees' services during that year.
+RatioOfTheDecision	As a corollary it will not make any charge to cover the actual payments made in the year in respect of retirement benefits.
+RatioOfTheDecision	Only by such a method, it is said, can it bring against the receipts of the year the true cost of the services that it has used to earn those receipts.
+RatioOfTheDecision	Generally speaking, this must, I think, be true.
+Argument	For, whereas it is possible that any one of its many employees may forfeit his benefits and so never require a payment, the substantial facts of the situation are that when the company has paid every salary and wage 'that is due for current remuneration of the year it has not by any means wholly discharged itself of the pecuniary burden which fails upon it in respect of the year's employment."
+Argument	Agreeing with the company's claim he observed that provision for retirement payments would give an accurate reflection of the true costs of earning the year's receipts than merely charging against them the year's payment to employees who retired in the ye ar.
+Argument	That there is no rule against providing for any such contingent liability but on the contrary such a provision is permissible can be seen from the form of balance-sheet in Schedule VI to the Companies Act , 1956 where provisions for taxation, dividends.
+Argument	provident fund schemes, staff benefit schemes and other items for which a company is contingently liable are to be treated as current liabilities and, therefore, dubitable against the gross receipts.
+Argument	Schedule VI, Part 2, lays down the requirements of profit and loss account and el.
+Argument	3 (ix) of it provides that a profit and loss account shall set out amongst other things the aggregate of amounts set aside or provisions made for meeting.
+RatioOfTheDecision	specific liabili-  766  ties, contingencies or commitments.
+Precedent	But the contention was that though Schedule VI to the Companies Act may permit a provision for contingent liabilities, the Income-tax Act , 1961 does not, for under sec.
+RatioOfTheDecision	36(v) the only deduction from profits and gains permissible is of a sum paid by an assessee as an  employer by way of his contribution towards an' approved gratuity fund created by him for the exclusive benefits of his employees under an irrevocable trust This argument is plainly incorrect because sec.
+RatioOfTheDecision	36 deals with expenditure deductible from out of the taxable income already assessed and not with deductions which are to be made while making the P & L account.
+RatioOfTheDecision	In our view, an estimated liability under gratuity schemes such as the ones before us, even if it amounts to a contingent liability and is not a debt under the Wealth Tax Act if properly ascertainable and its present value is fairly discounted is deductible from the gross receipts while preparing the P & L account.
+RatioOfTheDecision	It is recognised in trading circles and we find no rule or direction in the Bonus Act which prohibits such a practice.
+RatioOfTheDecision	The next question is whether the amount so provided is a provision or a reserve.
+RatioOfTheDecision	The distinction between a provision and a reserve is in commercial accountancy fairly well- known.
+RatioOfTheDecision	Provisions made against anticipated los ses and contingencies are charges against profits and, therefore, to be taken into account against gross receipts in the P & L account and the balance-sheet.
+RatioOfTheDecision	On the other hand, reserves are appropriations of profits, the assets by which they are represented being retained to form part of the capital employed in the business.
+Precedent	Provisions are usually shown in the balance-sheet by way of deductions from the assets in respect of which they are made whereas general reserves and reserve funds are shown as part of the proprietor's interest: (See <NAME> and Peglar's Book-keeping and Accounts, 15th ed.
+Precedent	p. 42).
+Precedent	An amount set aside out of profit and other surpluses, not designed to meet a liability contingency commitment or diminution in value of assets known to exist at the date of the balance-sheet is a reserve but an amount set aside out of profits and other surpluses to provide for any known liability of which the amount cannot be determined with substantial accuracy is a provision, (see <ORG>,  Second Edn., 192, Part III, cl.
+Precedent	7, Sch.
+Precedent	VI to the Companies Act , 1956 which defines provision and reserve).
+Precedent	Under sec.
+Precedent	23 of the Bonus Act , there is 'a presumption of the genuineness of the P & L account produced by the company unless it is challenged in the manner provided therein.
+Precedent	The Company's case was that the estimated liability under the gratuity schemes in respect of the accounting year was ascertainable with fair accuracy under the actuarial valuation and Rs.
+Precedent	16 lacs which it took into account while making it P & L account was the present discounted liability.
+RatioOfTheDecision	This position does not seem to have been disputed before the <ORG>.
+RatioOfTheDecision	The principal contention urged against that figure was not that the estimated liability was not ascertainable or as in the case of <ORG>) that it did not represent the present discounted value, but that the Bonus Act permits only the deduction of the amount actually paid during the accounting year.
+Argument	This was also the principal contention of Mr. <NAME> be fore us.
+Argument	Mr. <NAME>, appearing for one of the interveners, argued that though it may be possible to take into account such a contingent liability in arriving at the true profits and gains under the Income-tax Act , it would not be so under the Bonus Act as the scheme of the Act treats the accounting year as a unit and, therefore, reserves or provisions on the footing of estimated liabilities to be paid in future cannot be taken into account.
+RatioOfTheDecision	But under the Income-tax Act also the previous year is a unit and it is only the profits and gains during that year which are taxable.
+RatioOfTheDecision	If under the Income-tax Act an estimated liability ascertainable with substantial accuracy can be taken into account for arriving at the true profits and gains, there is no reason why the same cannot be done under the Bonus Act unless 'there is any provision therein forbidding such a practice recognised by commercial accountancy.
+RatioOfTheDecision	No such provision was shown to exist in the Bonus Act .
+RatioOfTheDecision	The <ORG> in allowing Rs.
+RatioOfTheDecision	10 lacs out of the es timated 'Rs.
+RatioOfTheDecision	16 lacs impliedly accepted the principle canvassed by the company.
+RatioOfTheDecision	It, however, allowed only Rs.
+Argument	10 lacs because it thought it to be excessive as in some prior years the <ORG> had deducted Rs.
+Argument	5 lacs.
+Argument	But this was not done on the ground that the estimate of Rs.
+Argument	16 Iacs was not warranted on any valuation.
+Argument	In our view, in the absence of any challenge as to the correctness of the valuation and in the absence of any challenge that such liability cannot be estimated on any fair standard, the <ORG> ought to have allowed the whole of Rs.
+Argument	16 lacs to be deducted while arriving at the net profits in the P & L account.
+Argument	Turning now to the appeal filed by the employees two question besides those already disposed of were raised: one dealing with interest on capital reserve and the other relating to the amount of direct taxes to be deducted from the gross profits.
+Argument	As regards the first question, <ORG>'s evidence was that the <ORG> had revalued its fixed assets in 1956.and credited the difference of Rs.
+Argument	5 7 lacs between its cost and the value fixed on such revaluation, to the capital reserve.
+RulingByLowerCourt	The <ORG> accepted the valuation as bona fide and allowed interest on the said reserve at 6 per cent in accordance with sec.
+Fact	6(d) and el.
+RatioOfTheDecision	1 (iii) of the 3rd Schedule.
+RatioOfTheDecision	Mr. <NAME>'s contention was that the revaluation (1) [1957] A.C. 334.
+Argument	768  by the director in 1956 was fictitious; that the difference of Rs.
+Argument	57 lacs was a mere book adjustment and did not add to the wealth of the <ORG> and though that amount was transferred to the capital reserve it was not as if any additional amount became available for the <ORG>'s business and therefore, no interest was permissible on such an artificial amount.
+RatioOfTheDecision	At first blush it would seem as if there is some force in this contention, for it would be possible for a company to deflate its gross profits by fictitiously revaluing its fixed assets at regular intervals red claiming interest on the excess by carrying such excess to capital reserve and to reduce thus labor's claim to bon us.
+RatioOfTheDecision	In the present case the revaluation was made as early as in 1956 and it does not appear that it was ever objected to either by 'the Company's auditors or by any one else concerned with the Company's management.
+RatioOfTheDecision	It cannot, therefore, be legitimately said that it was done for any oblique purpose, much less with a view to defeat the labor's claim to bonus.
+RatioOfTheDecision	It is true that such revaluation does not bring in any tangible additional amount into the company's coffers which it can use for its business.
+RatioOfTheDecision	But under sec.
+RatioOfTheDecision	211 of the Companies Act every balance-sheet of a company must give a true and fair view of the state of affairs of the company as at the end of the financial year.
+RatioOfTheDecision	Sch.
+RatioOfTheDecision	VI to the Companies Act also provides that where sums have been written off on a reduction of capital or a revaluation of assets the balance-sheet subsequent to such reduction or revaluation must show the reduced or the increased figures as the case may be.
+RatioOfTheDecision	Apart from the provisions of the Companies Act , it is a recognised principle  of accountancy to transfer the increased value of assets on revaluation to a capital reserve account.
+RatioOfTheDecision	Such an increased figure is an unrrealised accretion in the value of a fixed asset.
+Argument	(see <ORG> pp.
+Argument	103 and 935).
+Argument	So that the fact such an increased figure does not actually bring in any additional amount to the Company does not make the capital reserve any the less a reserve.
+Argument	Nor is it possible to postulate that if such a claim is allowed to be deducted, the management would go on artificially inflating the value of the fixed assets with a view 'to claim interest.
+RatioOfTheDecision	In the first place, if such an inflation is made <NAME> fide, the <ORG> can always reject it.
+RatioOfTheDecision	In the second place, it is hardly profitable for a company to resort to such a practice for under the Wealth Tax Act the company would be liable to an increased assessment.
+RatioOfTheDecision	Section 7(2) of that Act provides that where an assessee is carrying on a business for which accounts are maintained regularly, the Wealth Tax Officer may instea d of determining separate the value of each asset held by the assessee determine the net value of the asset of the business as a whole having regard to the balance sheet of such business as on the valuation date.
+RatioOfTheDecision	<CITATION_530481> (1) the assessee sought (1)  2 S.C.R.
+RatioOfTheDecision	688.
+RatioOfTheDecision	769  to argue exactly what Mr. <NAME> contended, namely, that the revaluation of the assets made by him did not represent the true value of the assets.
+RatioOfTheDecision	That contention was rejected and this Court held that the <ORG> was entitled to rely on such revaluation and proceed to assess on the basis of the net wealth shown as a result of such revaluation.
+RatioOfTheDecision	We do not, therefore, see any justification for the apprehension felt by Mr. <NAME>, for, by trying to reduce the gross profits, the <ORG> would land itself into being assessed on a higher net wealth.
+RatioOfTheDecision	The <ORG> was, in our view, right in accepting the figure of Rs.
+RatioOfTheDecision	57 lacs and deducting interest thereon from the gross profits.
+RatioOfTheDecision	There remains now the question regarding computation of  direct taxes.
+Statute	Section 6(c) of the Act provides:  "subject to the provisions of section 7 , any direct tax which the employer is liable to pay for the accounting year in respect of his income, profits and gains during that year;" Section 7 inter alia provides:  "For the purpose of clause (c) of section 6 , any direct tax payable by the employer for any accounting year shall, subject to the following provisions.
+Statute	be calculated at the rates applicable to the income of the employer for that year, ..........
+Argument	The Company claim a deduction from the gross profits of Rs, 145 lacs as direct taxes.
+Argument	It had made provision, however; for Rs.
+Argument	130 lacs for direct taxes in the P & L account.
+Argument	In its computation it had made a provision for Rs.
+Argument	136 Iacs.
+Argument	At the stage of the evidence and arguments it contended however that the proper amount would be Rs.
+Argument	145 lacs.
+RulingByLowerCourt	It claimed that direct taxes are to be worked out under sec.
+RulingByLowerCourt	6(c) on the gross profits worked out under sec.
+RulingByLowerCourt	4 less the prior charges allowable under sec, 6, namely, dep reciation and development rebate, but without deducting from such balance the bonus payable by the <ORG> in the particular accounting year.
+RulingByLowerCourt	The <ORG> accepted the contention and allowed Rs.
+Argument	145 lacs.
+Argument	as direct taxes to be deducted under s. 6 (c).
+Argument	This conclusion has been seriously disputed by the <ORG>.
+Argument	Mr. <NAME>'s argument was that the Act lays down its own statutory formula for working out available surplus and allocable surplus, that the deduction from gross profits allowable are those permissible under the Act, namely, depreciation admissible in accordance with the provisions' of sec.
+Argument	32(1) of the Income-tax Act , the development rebate and subject to the provisions of sec.
+RulingByLowerCourt	7 of the Act, the amount of direct taxes which the employer "is liable to pay" for the accounting year in respect of "his income, profits and gains during that year".
+RulingByLowerCourt	Mr. <NAME> laid stress on the words "is liable to pay"' and "in respect of his income, gains and profits during that year" and argued that inasmuch as cl.
+RulingByLowerCourt	(c) incor porates 'the language of the Income-tax Act , it contemplates that the employer is entitled to deduct his actual tax liability.
+RulingByLowerCourt	Such liability, therefore, is to be worked out in accordance with the provisions of the Income- tax Act and other relevant <ORG> by first arriving at the actual taxable income, gains and profits under those <ORG> and then computing the taxes at rates provided by them for that particular accounting year.
+RulingByLowerCourt	He argued that since cl.
+RulingByLowerCourt	(c) is subject to the provisions of s. 7 , the only departure permissible under the Act is that which is provided in s. 7 .
+RulingByLowerCourt	His contention thus was that the <ORG> must start its calculations from the net profit shown in the P & L account which would have made provision for direct taxes and then deduct from the gross profits calculated under s. 4 the prior charges permissible under s. 6 .
+RulingByLowerCourt	The provision for direct taxes made in the P & L account would be computed after deducting from the gross receipts such deductions, allowances, reliefs, rebates, credits etc .
+RulingByLowerCourt	as are permissible under the Income-tax Act which would include the bonus amount payable during the year, for, without such deduction the P & L account cannot reflect the true net profit of the employer.
+RulingByLowerCourt	The Company's contention, on the other hand, was that the employer is entitled to compute his tax liability without deducting first the amount of bonus he would be liable to pay from out of the amount computed under s. 4 and s. 6 .
+RulingByLowerCourt	Mr. <NAME> submitted from the different provisions of the Act that the concept of actual tax liability under the Income-tax Act is foreign to the Bonus Act inasmuch as the Bonus Act is concerned with gross profits calculated in accordance with s. 4 and Sch.
+RulingByLowerCourt	II, and that s. 7 to which s. 6(c) is made subject, militates against the concept of actual tax liability as worked out under the Income-tax Act .
+RulingByLowerCourt	The contention was that prior to the enactment of the Act when available surplus was worked out under the Full Bench Formula bonus was not deducted while arriving at.
+RulingByLowerCourt	the amount  of income-tax deductible from gross profits, that <ORG> could not possibly have contemplated a departure from the course followed in a number of decisions both of courts and tribunals and suddenly decided to incorporate into this Act the complicated and elaborate provisions of the Income-tax Act and throw the burden on <ORG> to work out deductions, allowances, reliefs, rebates etc.
+RulingByLowerCourt	under the Income-tax Act and then finally to assess the actual tax liability.
+RulingByLowerCourt	It was submitted that what has to be done by the <ORG> is first to work out gross profits under s. 4 and Sch.
+RulingByLowerCourt	II and then to deduct therefrom the prior charges under s. 6 (a ) and (b) and estimate direct taxes on the balance and thus arrive at the available surplus.
+RulingByLowerCourt	The controversy thus is one of principle rather than on the amount deducted by the <ORG> by way of direct taxes.
+RulingByLowerCourt	771  Before we attempt to resolve this controversy, it will be worth our while to recount the principle consistently follow before the passing of this Ac t, not with a view to interpret s. 6(c), but to ascertain whether <ORG> has made a departure from that principle and laid down a new procedure on which direct taxes are to be computed.
+RulingByLowerCourt	Mr. <NAME>'s contention was that the Bonus Act is drafted on a clean slate giving a go-bye to the earlier principle of working out bonus, and, therefore, we must proceed on the footing of the language used in s. 6(c) .
+RulingByLowerCourt	At first sight it would appear that the language of el.
+RulingByLowerCourt	(c) lends support to his contention.
+RatioOfTheDecision	But acceptance of that contention would mean incorporating into the Bonus Act the elaborate and complicated provisions of not only the Income-tax Act but other Acts levying direct taxes and throwing a considerable burden on Tribunals, least equipped with working out the provisions of those Acts entailing inevitably prolonged enquiries.
+RatioOfTheDecision	Therefore, we must proceed cautiously in examining the scheme of.
+RatioOfTheDecision	the Act before we conclude on the interpretation to be given to s. 6(c) and s. 7 .
+RatioOfTheDecision	Calculating the avail.
+RatioOfTheDecision	able surplus  under the Full Bench Formula used to work out nationally the amount of bonus which they thought would be awarded and deducted that amount from the gross profits, on the remaining balance of which, income tax payable by the employer would be determined.
+RatioOfTheDecision	The result of this procedure was that the amount of tax so worked out was proportionately less.
+Argument	Deprecating this procedure, <NAME>, J., (as he then was) observed in <CITATION_290317> (1) as follows:  "Logically it is only after all the prior charges have been determined and deducted from the gross profits that available surplus can be ascertained; and it is only after the available surplus is ascertained that the question of awarding bonus can be considered.
+Argument	Some tribunals seem 'to work out nationally the amount of bonus which they think can be awarded and placed that amount higher up in the process of making, calculations before the income-tax payable is determined .... We wish the make it clear that this procedure should not be followed."
+Argument	<CITATION_2 07697> (2) disapproval of the said procedure was once again voiced, <NAME>, C.J.
+Argument	observing that such a procedure is certainly not giving effect to the bonus formula "but amounts to ad hoc determination which may vary according to the length of the proverbial foot of the Lord Chancellor and is bound to lead to chaos and industrial unrest."
+Precedent	In <ORG> v. <ORG> (1)  S.C.R 925at974.
+Precedent	(2)  Supp.
+Precedent	2S.C.R.
+Fact	<ORG>) the labour relied on the report of the Directors which was to the effect that no income tax was payable on the year's result and a total of Rs.
+Fact	62.39 lacs made up of income tax and development rebate was being carried forward.
+RulingByLowerCourt	On this report it was argued that no.
+RulingByLowerCourt	deduction should be made for income tax.
+RulingByLowerCourt	Negativing 'the contention it was held that in the application of the Full Bench Formula the deduction of income tax is notional, the gross profits are arrived at by adding back certain items to the net profits and then the gross profits are reduced by making certain n otional deductions, one such deduction is under the head of income tax.
+RulingByLowerCourt	It was held that this deduction is not made on the actual amount payable, but what would be nationally payable on the profits determined under the Full Bench Formula and that if the argument on behalf of the labour were to be accepted the <ORG> would in effect not be applying the formula.
+RulingByLowerCourt	Similar observations are to be found in several other decisions but we need not add them here.
+RulingByLowerCourt	The question is whether the concept of notional tax liability which was adopted so long was laid aside by <ORG> when it enacted s. 6(c) and s. 7 and replaced the concept of actual tax liability.
+RulingByLowerCourt	To answer this question we must examine the scheme of the Act and Sch.
+RulingByLowerCourt	II.
+RulingByLowerCourt	Broadly speaking, it can be safely said that <ORG> has retained the main outlines of the Full Bench Formula in the Act.
+RulingByLowerCourt	It maintained, for instance, the accounting year as the unit, the principle that the employer, and where it happens to be a company, the company and its shareholder s and labour as are each entitled as contributories to the profits to a share therein, the deductions of certain prior charges, the concept of gross profits etc.
+RulingByLowerCourt	which were the features of the Formula.
+RulingByLowerCourt	The principal change it introduced was the statutory formula of minimum and maximum bonus and the corollary flowing therefrom of "set on" and "set off" and the doing away of rehabilitation as a prior charge against which labour had clamored long.
+Fact	But do these changes envisage the doing away of the concept of notional tax liability which the Tribunals used to work out and substituting actual tax liability by first working out the taxable income of, the employer under the Income Tax Act and other Acts ?
+RatioOfTheDecision	The answer of course, must be found from the provisions of the Act and not from what used to be done before its enactment.
+RatioOfTheDecision	Sections 4 , 5 , 6 and 7 together with the Schedules deal with computation of gross profits and available surplus out of which 67% in cases falling under el.
+RulingByLowerCourt	(a) of sec.
+RulingByLowerCourt	2(4) and 60% in cases  falling under cl.
+RulingByLowerCourt	(b) of that sub-section would be the allocable surplus.
+Precedent	Under Sch.
+Precedent	II, which applies to establishments which are not banking companies, the starting point is the net profit (1)  2 L.L.J; 313.
+Argument	773  shown by the employer in his P & L account.
+Argument	The reason for doing so seems to be that the <ORG> is not expected ordinarily to reopen the P & L account, verify the accounts from which it is worked out or find.
+Argument	out for itself 'the true net.
+Argument	profit.
+Argument	<ORG> was award that <ORG>s which would adjudicate disputes under the Act would be the least efficacious for such a purpose, apart from the fact that such enquiries would be prolonged and bitter enquiries.
+Argument	That is why s. 23 was enacted to raise a presumption about the correctness of 'the P & L account and balance-sheets of companies duly certified by auditors qualified under s. 226 of the Companies Act, 1956.
+Argument	Since the P & L account would have taken into account, besides expenditure allowable under the Income Tax Act , bonus payable to labour,  provisions for tax, development rebate or development allowance and reserves, Item 2 of Sch.
+Argument	II requires these amounts to be added back.
+RatioOfTheDecision	Similarly, the amounts set out in Items 3 & 4 in Sch.
+RatioOfTheDecision	II are also to be added back.
+RatioOfTheDecision	Item 5 provides for certain deductions' such as capital receipts, capital profits, profit and receipts relating to business outside India, income of foreign concerns from investments outside India etc.
+RatioOfTheDecision	It is clear from the nature of these deductible items that they are items in which generally labour would not have made any contribution.
+RatioOfTheDecision	Having thus arrived at the gross profits, s. 6 provides for deduction of prior charges Set out in cls.
+RatioOfTheDecision	(a), (b), (c) and (d).
+Statute	Clause  (a) allows the deduction of depreciation admissible under s. 32 ( 1 ) of the Income Tax Act or a similar provision under other Acts charging direct taxes, but not depreciation unabsorbed in any earlier previous year by reason of there being no profits or gains chargeable for that year or of such profits or gains being less than  the allowance allowable under s. 32(2) of the Income Tax Act.
+RulingByLowerCourt	The result is that while making his P & L account the employer would deduct both 'the depreciation allowable under s. 32(1) as.
+RulingByLowerCourt	also the depreciation unabsorbed during the earlier years.
+RulingByLowerCourt	The whole of Such depreciation, however, has to be added back under item 2(b)of Sch.
+RulingByLowerCourt	II while computing the gross profits.
+RulingByLowerCourt	Notwithstanding such adding back of depreciation allowable under both sub-secs.
+Fact	1 & 2 of s. 32 of the Income Tax Act, the depreciation deductible under s.6(a) of the Act is the one allowed under s. 32(1) , that is, the depreciation relating to the accounting year only and not the depreciation unabsorbed in any earlier accounting year.
+RatioOfTheDecision	Similar is the position regarding bonus paid during the accounting year but which relates to the earlier accounting years.
+RatioOfTheDecision	Even in the case of an employer keeping his accounts on mercantile basis, he would not get a deduction of bonus though payable but not actually paid during the accounting year.
+RulingByPresentCourt	He would, howe ver, be entitled to deduct such bonus from his taxable profits and gains as expenditure incurred wholly for the business.
+Fact	Under Sch.
+Fact	II Item 3(a) bonus, even though paid during the accounting year, has to be added back if it is deducted in-the P & L account.
+RatioOfTheDecision	The net profit in the P & L account: would thus not be the same as the available surplus worked out under 'the Act, The same is the position of losses and expenditure relating to a foreign business which though allowable under' the Income Tax Act have to be added back to the net profit shown in the P & L account.
+RatioOfTheDecision	As already stated deductions permissible under Sch.
+RatioOfTheDecision	11 are those items in which it can be said that labour -could have made no contribution in earning them So far as development rebate is concerned, s. 6(b) allows the whole of such rebate allowable under the Income 'Fax Act and, therefore, there would be no difficulty in working out the development rebate under this head and the Income Tax Act .
+RatioOfTheDecision	Coming now to cl.
+RatioOfTheDecision	(c) of s. 6 , is it the actual t axable income, the direct tax on which is a prior charge, which is to be worked out, or the tax' on the estimated balance of gross profits after deducting depreciation and development charges but without deducting the bonus payable during the year ?
+RatioOfTheDecision	In other words, when the <ORG>.
+RatioOfTheDecision	reaches the stage' of cl.
+RatioOfTheDecision	(c), does it have to assess the taxable income in accordance with the various provisions of the Income Tax Act just as an Income Tax Officer would do and assess the liability of income tax on such taxable income according to the rates applicable during the particular accounting year, or should it compute the balance of gross profits and as stated above and apply the said rates and estimate the amount of direct tax and deduct them from the remain gross profits?
+RatioOfTheDecision	Bonus being payable within eight months after the close of the accounting year in cases.where there is no dispute pending before an authority under s. ,22 of the Act as provided by s. 19 , it is hardly possible, except in rare cases, that assessmen t under <ORG> Act and other such Acts would be completed by the time bonus has to be paid; Therefore, the <ORG> would not have before it the taxable income assessed by <ORG> and other such officers.
+RatioOfTheDecision	If the <ORG>' contention were to be right, there would be two or more parallel authorities working under this Act and <ORG> Act and other such Acts who would have to assess taxable income and the tax payable thereon, before all of whom the employer would have to prove his taxable income.
+RatioOfTheDecision	Prima facie, it would seem that the Bonus Act could not intend an enquiry into the actual taxable income worked out under all the elaborate provisions relating to deductions, allowances, reliefs, rebates etc.
+RatioOfTheDecision	provided by <ORG> Act and other such Acts.
+RatioOfTheDecision	This is particularly so as in each bonus dispute the <ORG> not equipped with the detailed knowledge of all such Acts would have to undertake an.
+Statute	enquiry into the various deductions, rebates.
+Statute	reliefs etc.
+RatioOfTheDecision	claimable by the employer under those  Acts.
+RatioOfTheDecision	The fact that payment of bonus cannot brooke delay without causing hardship to labour would seem to militate against the possibility of such prolonged enquiries.
+RatioOfTheDecision	The key to the words in s. 6(c) , namely, "is liable to pay" emphasised on behalf of the unions and some of the interveners lies in the opening words "subject to the provisions of section 7 " in cl.
+RatioOfTheDecision	(c).
+RatioOfTheDecision	These words are used, whether the tax liability is to be calculated on actual taxable income or on the notional amount worked out under ss.
+RatioOfTheDecision	4 and 6 and Sch.
+RatioOfTheDecision	II, because the direct taxes payable by the employer are to be calculated at the rates applicable during that year as provided by s. 7 .
+RatioOfTheDecision	That both such amounts cannot be the same is clear because s. 7 in express terms prohibits taking into account unabsorbed losses and arrears of depreciation allowable under s. 32(2) , the exemption allowed under s. 84 and the deduction allowed under s. 101(1) of the Income Tax Act.
+RatioOfTheDecision	Similarly, where an assessee is a religious or charitable institution and  its income either wholly or partially, as the case may be, is exempt under the Income Tax Act , such an employer to whom s. 32 of the Act does not apply is treated as a company in which the public are substantially interested and its income is to be assessed accordingly by the <ORG> and compute its liability for direct taxes.
+RatioOfTheDecision	Clause (c) of s. 7 does away for the purposes of ss.
+RatioOfTheDecision	6 and 7 , the distinction between the liability of an individual and a Hindu Undivided Family under the Income Tax Act and provides that the income derived by such a Hindu Undivided Family is to be treated as the income of that employer as an individual.
+RatioOfTheDecision	Likewise, where profits and gains of an employer include profits from export, a rebate allowed under the Income Tax Act on such profits is not to be taken into account while working out the tax.
+RatioOfTheDecision	liability under s. 6(c) .
+RatioOfTheDecision	Also, the rebate allowed under any of the Acts levying direct taxes on sums spent on development of an industry is also not to be taken into account while computing  the tax liability.
+Argument	It was, however, argued that the provisions of s. 7 lay down the only departure from the Income Tax Act and that except for that departure the <ORG> must assess the actual taxable income and arrive at the tax liability thereon at rates prevailing during the accounting year in question.
+RatioOfTheDecision	In our view this submission is not correct.
+RatioOfTheDecision	What s. 7 really means is that the <ORG> has to compute the direct taxes at the rates at which the income, gains and profits of the employer are taxed under the Income Tax Act and other such Acts during the accounting year in question.
+RatioOfTheDecision	That is the reason why s. 6(c) has the words "is liable for" and the words "income, gains and profits".
+RatioOfTheDecision	These words do.
+RatioOfTheDecision	not, however, mean that the <ORG> while computing direct taxes as a prior charge has to assess the actual taxable income and the taxes thereon.
+RatioOfTheDecision	How can the <ORG> arrive at the amount of bonus to be paid to labour without first estimating the amount of taxes and deducting it from the gross profits and thu s ascertaining the available surplus ?
+RatioOfTheDecision	If it were to reverse the process and first deduct bonus and ascertain the tax amount, it would have to do so on a somewhat ad hoc figure thus bringing about the same result deprecated by this <ORG> in decisions referred to above.
+RatioOfTheDecision	This and the other difficulties already pointed out must deal to the result that the <ORG> must estimate the amount of direct taxes on the balance of gross profits as worked out under ss.
+RatioOfTheDecision	4 & 6 , but without deducting the bonus, then work out the quantum of taxes thereon at rates applicable during that year to the income, gains and profits of the employer and after deducting the amount of taxes so worked out arrive at the available surplus.
+RatioOfTheDecision	Section 6(c) being subject to s. 7 the computation has to be done without taking into account the items specified in s. 7(a) and in the manner prescribed by the remaining clauses of that section.
+RatioOfTheDecision	This interpretation is commendable because: (1 ) it is consistent with the words "is liable to pay" in s. 6(c)  , (2) it is in harmony with the provisions of ss.
+RatioOfTheDecision	4 and 6 and Sch.
+RatioOfTheDecision	11, and (3) it is consistent with the intention of <ORG> apparent from the scheme of computation of available surplus in the Act.
+RatioOfTheDecision	The Act recognises the principle laid down in the Full Bench Formula that both labour and capital are entitled to a share in the profits.
+RatioOfTheDecision	That is why 40 p.o.
+RatioOfTheDecision	of the available surplus is left to the capital and interest is allowed to the employer on paid up and working capitals while working out the gross profits.
+RatioOfTheDecision	<ORG> besides was or at any rate is presumed to have been aware that depreciation allowed under the Income Tax Act would not be sufficient for rehabilitation purposes.
+RatioOfTheDecision	It did away with rehabilitation as a prior charge partly became there were complaints that it was being ill-used, but partly also because it knew that the rebate in Income Tax Act on bonus paid would go to the employer with which he could recoup the depreciation which would be larger than the one allowed under s. 32 of the Income T ax Act.
+RatioOfTheDecision	In our view it was for that reason that it did not lay down that bonus is to be deducted before computing the amount on which direct taxes are to be calculated under s. 6(c) .
+RatioOfTheDecision	If <ORG> intended to make a departure from the rule laid down by courts and tribunals that the bonus amount should be calculated after provision for tax was made and not before, we would have.
+RatioOfTheDecision	expected an express provision to that effect either in the Act or in the Schedules.
+RatioOfTheDecision	'In our view the contention urged by the <ORG> that the tax liability is to be worked out by first working out the gross profits and deducting therefrom the prior charges under s. 6 but not the bonus payable to the employees is right.
+RulingByPresentCourt	In the result, the appellant <ORG> succeeds on the questions of development rebate and the provision for gratuity amount.
+RulingByPresentCourt	Its appeal on those questions is therefore allowed and to that extent the award is set aside.
+RulingByPresentCourt	As regards the question of depreciation amount the <ORG> will ascertain the amount afresh after giv ing the parties opportunity to lead such evidence as they desire and taking that amount and the amounts of development rebate and' of the provision for gratuity in the light of this judgment, the <ORG> will adjust it award and arrive at the quantum of bonus payable to the workmen.
+RulingByPresentCourt	Appeal by workmen is dismissed.
+RulingByPresentCourt	There will be no order as to costs.
+RulingByPresentCourt	R.K.P.S.
+RulingByPresentCourt	Appeal by Company allowed in part.
+RulingByPresentCourt	Appeal by <ORG> dismissed.
+RulingByPresentCourt	778

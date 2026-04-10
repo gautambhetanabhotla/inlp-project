@@ -1,0 +1,50 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This is a Rule obtained on behalf of <NAME>, on the 23rd of April 1925, calling upon the District Magistrate and the opposite party to show cause why the order complained of should not be set aside, or such other order passed in the matter as to this Court might seem fit and proper.
+Fact	2.
+Fact	The order complained of was made by the learned District Judge of Chittagong, on the 31st of January 1925, whereby the learned Judge directed that criminal proceedings should be instituted against <NAME> and <NAME> for offences under Sections 209 and 466 of the Indian Penal Code, and for abetment of these offences.
+Fact	3.
+Fact	This Rule deals with the case of <NAME> only.
+Fact	I think it is necessary to mention certain dates.
+Fact	It appears that an application was made to the learned Subordinate Judge for filing a complaint against the petitioner <NAME>.
+Fact	That application was disposed of on the 1st of October 1923.
+Fact	By that time the amendment of the Criminal Pro cedure Code , created by the Act of 1923, had come into force, and the learned Subordinate Judge declined to make a complaint under Section 476 of the Code of Criminal Procedure as amended.
+Fact	4.
+Fact	There was an appeal to the District Judge by the complainant.
+Fact	That was filed on the 7th of August 1924.
+Fact	It was not disposed of until the 31st of January 1925, by the learned District Judge, when, as I have already stated, the appeal was allowed, and the learned Judge decided that criminal proceedings should be instituted against <NAME> for the offences which I have already mentioned.
+Fact	5.
+Fact	The point upon which the learned Advocate, who appeared for the petitioner, relied was that the appeal, to the learned Judge was out of time, and the learned Judge had no jurisdiction to entertain the appeal and to make the order.
+Fact	This point was taken before the learned Judge apparently, for he said as follows: "It is urged in his case" (that is the case of <NAME>) "that the appeal is barred by time as the Subordi nate Judge passed orders, on the 1st of October 1923, that he would not proceed against respondents 2 and 3.
+RatioOfTheDecision	I do not think that I am bound by any rule of limitation in a case of this kind.
+Argument	When an offence in connection with the administration of civil justice comes to the notice of the District Judge, it is open to him to lodge a complaint in <ORG> although a subordinate <ORG> may not have thought it necessary to take "action".
+Argument	The learned Judge then proceeded to say that the case was of such gravity that he would be failing in his duty if he did not institute a complaints  6.
+Argument	With much respect to the learned Judge I am of opinion that the provisions of the material sections do not support the conclusion at which he arrived.
+Argument	7.
+Statute	Section 476 of the Code of Criminal Procedure .
+Statute	deals with the procedure which is to be adopted in cases referred to in Section 195 , Sub-section (a) Clause (b) or Clause (c), by a Court, with regard to offences which appear to have been committed in or in relatio n to a proceeding in that <ORG>; and Section 476A confers certain powers upon a Superior <ORG>, where the Subordinate <ORG> has omitted to take action.
+Statute	It is desirable to refer to the terms of the section, which are as follows:  476A.
+Statute	"Superior <ORG> may complain where Subordinate <ORG> has" omitted to do so.---The power conferred on Civil, Revenue and Criminal "<ORG>s by Section 476 , Sub-section (1), may be exercised, in respect of any "offence referred to therein and alleged to have been committed in or in relation to any proceeding in any such <ORG>, by the <ORG> to which 41 such former <ORG> is subordinate within the meaning of Section 195 , Sub-section (3), in any case in which such former <ORG> has neither made a complaint under Section 476 in respect of such offence, nor rejected and application for the making of such complaint; and, where the Superior <ORG> makes such complaint, the provisions of Section 476 shall apply accordingly."
+Argument	8.
+Argument	In my judgment that section does not apply to this case, becaus e there was an application made to the learned Subordinate Judge, and the learned Subordinate Judge rejected the application for the making of the complaint.
+Argument	9.
+Statute	The next Section 476B gives certain rights of appeal not only to the person against whom a complaint has been directed, but also to the person whose application for a complaint has been rejected.
+Statute	The words of the section are as follows:  476-B.
+Statute	"Appeals.---Any person on whose application any Civil, Revenue or Criminal <ORG> has refused to make a complaint under Section 476 or Section 476A , or against whom such a complaint has been made, may appeal to the <ORG> to which such former <ORG> is subordinate within the meaning of Section 195 , Sub-section (3), and the Superior <ORG> may thereupon, after notice to the parties concerned, direct the withdrawal of the complaint or, as the case may he, itself make the complaint which the Subordinate <ORG> might have made under Section 476 , and if it makes such complaint, the provisions of that section shall ap ply accordingly.
+Argument	10.
+Argument	Therefore, it appears to me that the scheme of the sections is that, if <ORG> has neither made a complaint under Section 476 nor rejected an application for the making of a complaint, then <ORG> may take action and make a complaint.
+Argument	But where, as in this case, <ORG> has rejected the application for the making of such complaint, then the procedure, which is contemplated by the Code , is by way of an appeal to <ORG>.
+Argument	11.
+Argument	This matter came before the learned District Judge by way of appeal, and, in view of the abovementioned sections, the learned District Judge, in my judgment, should have considered whether the appeal was filed within the time specified.
+Argument	12.
+Argument	The article in the Limitation Act which applies to this matter is Article 154 , and the material section of the Act is Section 3 , which provides that "subject to" the provisions contained in Sections 4 to 25 (inclusive), every suit instituted, appeal preferred, and application  made, after the period of limitation prescribed therefor by the first schedule., shall be dismissed, although limitation has not been set up as a defence".
+Argument	13.
+Argument	Under Article 154 the period of limitation for an "appeal under the Code of Criminal Procedure, 1898 to any Court other than <ORG>" is "thirty days", and the time from which the period begins to-run is the date of the sentence or order appealed "from ".
+Argument	14.
+Argument	It is, therefore, clear that, as the order appealed from was made on the 1st of October 1923, and the appeal was not filed till the 7th of August 1924, the appeal was out of time.
+Argument	15.
+Argument	This Rule, therefore, must be made absolute, and the order of the learned District Judge of the 31st January 1925, directing criminal proceedings to be instituted against <NAME>, must be set aside.
+Argument	16.
+Argument	No order need be made as regards the appeal (No.
+Argument	210 of 1925) in connection with the same matter.
+RulingByPresentCourt	<NAME> I agree.

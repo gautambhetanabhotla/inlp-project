@@ -1,0 +1,59 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an originating summons taken out by the Administrator-General of Bengal in the matter of the will of <NAME>, deceased.
+Fact	2.
+Fact	The testator died on 3rd January 1928 leaving a will and a codicil of which the Administrator-General of Bengal was appointed solo executor and trustee.
+Fact	3.
+Fact	Probate was obtained on 4th September 1928 and the Administrator-General has since that date been in possession of the estate.
+Fact	The difficulty arises with regard to a religions endowment for the benefit of certain deities which was created by the testator.
+Fact	The endowment contemplates shebaits and the will appoints four persons relations of the testator as shebaits, and provides for their places being filled on their decease or on their ceasing to act.
+Fact	4.
+Fact	In addition to these four parsons the will appoints as shebait the Secretary for the time being of <NAME>.
+Fact	5.
+Fact	In Clause 12 of the will the testator directs that the number of shebaits shall always be five including the Secret ary of <ORG>.
+Fact	The question is whether this appointment is void for uncertainty, and if it is not void for uncertainty how it should be construed ?
+Argument	6.
+Fact	<ORG> is a religious body incorporated under the Companies Act , and I have before me its Memorandum of Association and its rules and regulations which correspond to the Articles of Association in a company incorporated for gain.
+Fact	Regns.
+Fact	15 to 22 (inclusive) deal with the executive committee of the <ORG>.
+Fact	Article 15 provides that the executive committee shall consist of a President, five Vice-Presidents, two Secretaries, two Assistant Secretaries, one Treasurer, one Auditor and 26 other members.
+Fact	By Article 57 there is power given to the <ORG> to alter any of the rules at the annual general meeting.
+Argument	7.
+Argument	There are two Secretaries who in fact hold the office as contemplated by Regn.
+Argument	15.
+Argument	Two cases have bean cited to me where <ORG> have had to consider language in some degree resembling the language of the will which is  the subject-matter of this summons.
+Fact	In the Goods of <NAME> (decd.)
+Fact	[1862] 2 Sw. & Tr.
+Fact	613 where A was appointed executor with any two of the testator's sons.
+Fact	When two of such sons applied for probate their application was rejected, the Court holding the appointment to be void for uncertainty.
+Fact	Similarly, In the Goods of Blackwell [1877] 2 P.D.
+Fact	72 the testator appointed one of his sisters sole executrix.
+Fact	At the time of the will the testator had three sisters living but two of them predeceased him.
+Precedent	The President following In the Goods of Baylis [1862] 2 Sw. & Tr.
+Precedent	613 held that probate could not be granted to the surviving sister as the appointment was void for uncertainty.
+Precedent	8.
+Precedent	I have been referred to various sections in the Succession Act , and it is pointed out that undoubtedly the scheme of the testator's will was that among the shabaits should be some one who was unconnected with the family but was connected with the Subarnabanik Samaj, and it is suggested that either both the Secretaries should be she baits or that one of them to be selected by the association should be <NAME>.
+RulingByLowerCourt	It is unfortunate, the testator must have been under the mistaken impre3sion that there was only one Secretary of the association but I do not think that I can speculate as to what directions he would have given in his will had he realized the true state of affairs and given directions accordingly.
+RulingByLowerCourt	9.
+RulingByLowerCourt	It is true that the effect of excluding the Secretaries from the office of <NAME> will be to render that part of the will that provides, that "there shall always be five shabaits including the Secretary," impossible of performance, but that I think is inevitable; if any particular number of persons are appointed in a will to fill certain offices, it is inevitable that that number must be reduced if for any reason the appointment of any one or more of such persons is void.
+RulingByLowerCourt	On the face of it there is no ambiguity in the language of the will but it is impossible to apply that language to existing facts, and though I regret that it is n ot possible to reader effective the general scheme of the testator's bequests with regard to the shebaits, I do not think I should be justified in, as it ware, framing a scheme to carry out the administration of the endowment on lines which I think would have commended themselves to the testator had ha known there were two Secretaries of the institution.
+RulingByLowerCourt	In the circumstances I think I must follow the principle laid down in the two cases to which I have been referred.
+RulingByLowerCourt	The answer to the questions will therefore be as follows:  Q.
+RulingByLowerCourt	(1) The appointment is void for uncertainty.
+RulingByLowerCourt	Q.
+RulingByLowerCourt	(2) Neither of the Secretaries is a shebait either jointly with his co-secretary or secretaries.
+RulingByLowerCourt	Q.
+RulingByLowerCourt	(3) Does not arise.
+RulingByLowerCourt	Q.
+RulingByLowerCourt	(4) (i) No.
+RulingByLowerCourt	Q.
+RatioOfTheDecision	(i) (ii) No answer is required to the question.
+RatioOfTheDecision	Q.
+RatioOfTheDecision	(5) The subject-matter of the Administrator-General's question is already provided for by the will.
+RatioOfTheDecision	Q.
+RatioOfTheDecision	(6) It appears to ma this question can only properly be answered when such a disagreement as is contemplated by the question has actually arisen  and that the matter is not one which should be dealt with in anticipation.
+RatioOfTheDecision	10.
+RatioOfTheDecision	That concludes the consideration of the questions raised by the summons.
+RatioOfTheDecision	In the circumstances all parties may have their costs out of the trust funds.
+RatioOfTheDecision	The Administrator-General will have his 303ts as between attorney and client including fee actually paid to counsel.
+RatioOfTheDecision	Costs allowed as of one day's hearing.

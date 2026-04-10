@@ -1,0 +1,207 @@
+Fact	PETITIONER: COMMISSIONER OF INCOME TAX, <NAME> Vs. RESPONDENT: MESSRS. <NAME> & CO.
+Fact	DATE OF JUDGMENT: 02/11/1965 BENCH: <NAME>, K. BENCH: <NAME>, K. <NAME>, J.C. <NAME>, S.M.
+Fact	CITATION: 1966 AIR 1325 1966 SCR (2) 430 CITATOR INFO : R 1971 SC1590 (9) RF 1980 SC 793 (4,8) R 1986 SC1821 (32) D 1992 SC 959 (17) ACT: Income-tax Act , s. 10- -Assessee a multi-agency concern-One of the agencies terminated with a restrictive covenant not to carry on business--compensation, whether capital or revenue receipt.
+Fact	HEADNOTE: The respondent was a multi-agency concern.
+Fact	The principal of one of the agencies terminated that agency and paid the respondent certain amounts.
+Fact	When the amounts were sought to be assessed to Income-tax, the respondent objected on the ground that the amounts represented only compensation received for termination of the agency business and as consideration for the restrictive covenant not to do business in the same line for a prescribed period.
+Fact	The Income-tax Officer, the Appellate Assistant Commissioner.
+Fact	a nd <ORG> held against the respondent, but <ORG> on a reference, held that by the termination of the agency, the respondent lost an earning asset and that the compensation paid for the destruction of such an asset was a capital receipt not liable to tax.
+RulingByLowerCourt	In appeal to this Court, HELD : While the income-tax authorities have to gather the relevant material to establish that the compensation given for the loss of the agency was a taxable income, an adverse inference could be drawn against the assessee if he had not produced evidence which was in his exclusive knowledge and keeping.
+RulingByLowerCourt	The 'respondent gave up one of its innumerable agencies in different lines without any protest presumably because it was in the normal course of its business, and continued to do business without any mishap.
+RulingByLowerCourt	it did not place any material before the <ORG> to establish the relative importance of the said agency in the frame work of the earning apparatus of its business.
+RulingByLowerCourt	The loss of - the agency would theref ore only be -a normal trading loss, and the amount of compensation attributable to it would be a revenue receipt assessable under S. 10 of the Income-tax Act, 1922.
+RulingByLowerCourt	[486 H; 487 A, C; 488 B-C] The restrictive covenant was one of the terms of the agreement relating to consideration, and therefore the compensation paid was not only in lieu of the giving up of the agency but also for the respondent accepting a restrictive covenant for a specific period.
+RulingByLowerCourt	Since the covenant was an independent obligation which came into operation only after the agency was terminated and was wholly unconnected with it, that part of the compensation attributable to the restrictive covenant was a capital receipt not assessable, to tax.
+Fact	[491 B, C, H; 492 <CITATION_431938> - tax, Calcutta,  8 S.C.R.
+Fact	121 and <CITATION_205239>  3 S.C.R.
+Fact	692, followed.
+Fact	The apportionment of the compensation has to be made on a reasonable basis between the loss of the agency in the usual course of business and the restrictive covenant by the assessing authori ty.
+Fact	The compensation was severable and any difficulty in apportionment cannot be a 481 ground for rejecting the claim by the revenue and the assessee for apportionment.
+Fact	[492 B-D] <NAME> (H. M. Inspector of Taxes) v. <NAME>, (1942) 25 T.C.
+Fact	136 <NAME> v. <NAME> (H. M. Inspector of Taxes) (1946) 28 T.C.
+Fact	41 and <CITATION_1003665> , (1954) 28 I.T.R.
+Fact	435, referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeals Nos.
+Fact	682 and 683 of 1964.
+Fact	Appeals from the judgment and order dated July 24, 1961 of <ORG> in Case Referred No.
+Fact	29 of 1957.
+Fact	A.
+Fact	<NAME>, <NAME>, <NAME> and <NAME>, for the appellant.
+Fact	<NAME>, <NAME>, <NAME> and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <NAME>, J. Messrs. Best & Co., Ltd., Madras, the respon- dent herein, hereinafter called <ORG>, is a private limited company carrying -on business in innumerable lines.
+Fact	It is doing the business of importers, exporters , agents and subagents of various shipping, insurance, and manufacturing companies, in the course of which it acquired numerous agencies from manufacturers both in India and outside for sale in India of textiles, dairy products, engineering equipments, soaps., paints, toilet goods, etc.
+Fact	One of such agencies was from <ORG>, Glasgow, hereinafter called the "<ORG>", for distribution and marketing in certain territories in South India of its ammunition, blasting explosives and accessories.
+Fact	The said agency came into existence in 1900.
+Fact	The terms of the agency were not reduced to writing.
+Fact	The rates of commission were paid on terms agreed upon from time to time.
+Fact	The agency was terminable at will; but, because of their mutual confidence, it continued without break till the year 1947 when the <ORG> decided to transfer all its agencies in India and Ceylon to <ORG>.
+Fact	By its letter dated March 11, 1947, the <ORG> gave notice to  <ORG> terminating its agency from April 1, 1948.
+Fact	After some correspondence, the agency was terminated on March 31, 1948, and the <ORG> paid certain amounts in three instalments calculated on the basis of the income earned by <ORG>, which took over the business from that date.
+Fact	Pursuant to that agreement, the Prin-  Sup.CI/66-18 cipal paid on September 30, 1949, a sum of Rs.
+Fact	34,100 as commission on sales during the year ended March 31, 1949, on September 30, 1950, a commission of Rs.
+Fact	66,790 on sales during the year ended March 31, 1950, and on September' 30, '1951, a commission of Rs.
+Fact	3,35,371 on sales during the year, ended March 31, 1951.
+Fact	During the assessment year 1950-51, the first amount was brought to tax and the assessment had become final and nothing turns upon it in these appeals.
+Fact	But in respect of the other two assessment years, namely, 1951-52 and 1952-53, <ORG> objected to the inclusion of the said amounts in its taxable incom e on the ground that the said amounts represented only compensation received for termination of the agency business and also as consideration for the restrictive covenant not to do business in the same line for a prescribed period.
+RulingByLowerCourt	The Income-tax Officer, in the first instance, and, on appeals, the Appellate Assistant Commissioner held that the termination of the said agency did not alter the structure of the respondent's business and that they represented only remuneration paid voluntarily by the Principal to the agent in appreciation of its past services.
+RulingByLowerCourt	On further appeals by <ORG>, <ORG> held that, as the three annual instalments were based on future sales in the same territory as before, they were of the same nature as the normal commission receipts of the respondent.
+RulingByLowerCourt	On that ground, both the appeals were dismissed.
+Fact	At the instance of the assessee, the following question was referred by the <ORG> to <ORG> for its opinion under  s. 66(1) of the Indian Income- tax Act, 1922, hereinafter called the Act "Whether the aforesaid sum of Rs.
+Fact	66,790 and Rs.
+Fact	3 ' 35,371 are assessable under Section 10 for the assessment years 1951-52- and 1952-53."
+Argument	<ORG> of the said <ORG>, having regard to the circumstances of the case, came to the conclusion that by the termination of the agency the assessee lost an earning asset and the compensation paid for the destruction of such an asset was a capital receipt and, therefore, not liable to tax.
+Argument	The <ORG>, on obtaining the necessary certificate from the <ORG>, has preferred the present two appeals to this Court..  Mr. <NAME>, learned counsel for <ORG>, contended that the assessee had innumerable agencies, that it was a normal incident in the course of its business to give up agencies and acquire new ones, that the termination of the agency in question was a normal occurrence in the course of its business, that it had no impact on the earning assets or the stru cture of the business, that the alleged restrictive covenant was only an act of grace on the part of the agent in view of the long standing relationship between the parties and that it did not enter into the calculation of the, compensation paid to the assessee.
+Argument	In short, his argument was that the said compensation only represented the taxable income of the assessee should the <ORG> hold that the compensation was in part capital and in part revenue income, the argument proceeded, the said compensation would have to be apportioned reasonably between the said parts.
+Argument	Mr. <NAME>, learned counsel for the assessee, advanced the argument that on a true construction of the agreement disclosed by the correspondence it should be held that the amount received by the assessee was wholly as a consideration for.
+Argument	the restrictive covenant and, therefore, was of a capital nature.
+Argument	Alternatively he contended that even if the amount was wholly paid as compensation for the loss of the agency, it was a capital receipt,  as the assessee lost a substantial source of income in relation to the totality of its business.
+Argument	On the assumption that the payment partook of a composite character, the learned counsel would say that an appointment should be made in proportion of the value to the assessee of the loss incurred under both the heads, namely, the loss of the agency and the restrictive covenant not to do business for a specified period in the same field.
+Fact	These appeals raise the familiar question, namely, whether a particular income arising from the termination of one of the agencies of a multi-agency concern is a capital receipt or a revenue receipt.
+RatioOfTheDecision	The decisions on this question are legion.
+RatioOfTheDecision	Eminent judges in India as well as in England expressed their inability to lay down a precise principle of universal application but were able to evolve some workable rules of guidance.
+RatioOfTheDecision	The difficulty is inherent in the problem itself.
+RatioOfTheDecision	This <ORG> in a recent decision has surveyed the entire field and, therefore, no useful purpose will be se rved to cover the ground over again.
+RatioOfTheDecision	That case is <CITATION_95288> (1).
+Precedent	There, this <ORG>, speaking through <NAME>, J., expressed its conclusion thus:  "'Where, on a consideration of the circumstances, payment is made to compensate a person for cancel-  (1) [1964] 8 S.C.R.
+Precedent	93 lation of a contract which does not affect the trading structure of his business, nor deprive him of what in substance is his source of income, termination of the contract being a normal incident of the business, and such cancellation leaves him free to carry on his trade (freed from the contract terminated) the receipt is revenue: where by the cancellation of an agency the trading structure of the assessee is impaired, or such cancellation results in loss of what may be regarded as the source of the assessee's income, the payment made to compensate for cancellation of the agency agreement is normally a capital receipt."
+Precedent	But the difficulty still remains in the application of the said principle to the facts of each case.
+Precedent	<CITATION_431938>  of income-tax, Calcutta(1) this Court applied the said rules to the facts of that case, which, by and large, are similar to, the facts in the present case.
+Fact	It would, therefore, be useful to notice briefly the facts of that case.
+Fact	There, the appellant company carried an business in diverse lines : acting as managing agents, shipping agents, purchasing agents, and secretaries, the company also acted as importers and distributors on behalf of foreign principals and bought and sold on its own account.
+Fact	Under an unwritten agreement which was terminable at will the appellant acted as sole agents and distributors of explosives manufactured by <ORG> That agency was terminated and by way of compensation <ORG> paid for the first three years after the termination of the agency two-fifths of the commission accrued on its sales in the territory of the appellant's agency computed at the rates at which the appellant had formerly been paid and i n addition in the third year full commission for the sales effected in that year at the same rates.
+Fact	<ORG> had intended to take a formal undertaking from the appellant to refrain from selling or accepting any agency for explosives or other competitive commodities, but no such agreement in writing was taken or insisted upon.
+Fact	The question was whether the amounts received by the appellant for those three years were of the nature of capital or revenue.
+Fact	This Court held that the amounts paid were of the nature of income and, therefore, assessable to tax.
+RatioOfTheDecision	The reason given for that conclusion was that, having regard to the vast array of business done (1)  8 S.C.R.
+RatioOfTheDecision	121 by the appellant as agents, the acquisition of agencies was in the normal course of business and determination of individual agencies a normal incident not affecting or impairing its trading structure.
+RatioOfTheDecision	The material facts of that case are on all fours with the present case.
+RatioOfTheDecision	Indeed, the Principal in both the cases  was the same and the agency terminated was also a similar one.
+RatioOfTheDecision	The compensation given was worked out on the same lines.
+RatioOfTheDecision	The only difference is that in that case it was not found that the restrictive covenant entered into the bargain.
+RatioOfTheDecision	This <ORG> again reiterated the same principle in Commis- sioner of Income-tax, Madras v. <ORG>).
+RatioOfTheDecision	But, on the facts of that case, it came to the conclusion that the compensation paid for the loss of agency was.
+RatioOfTheDecision	a capital asset.
+Argument	There, <NAME>, J., speaking for the <ORG>, said "In <ORG> case(1) this <ORG> pointed out that ordinarily compensation for loss of office or agency is regarded as a capital receipt, but the rule is subject to an exception that payment received even for termination of an agency agreement, where the agency is one of many which the assessee holds, and the termination of the agency does not impair the profit making structure of the assessee, but is within the framework of the business, it being a necessary incident of the bus iness that existing agencies may be ter- minated, and fresh agencies may be taken, is revenue and not capital, <ORG>'s case(8) falls within the excepti on to the ordinary rule, and circumstances which brought the case of the respondent within the exception must be clearly established."
+RatioOfTheDecision	As we have observed earlier, in view of the judgments of this Court, no further citation is called for.
+RatioOfTheDecision	Whether the compensation received by an assessee for the loss of agency is a capital receipt or a revenue receipt depends upon the circumstances of each case.
+RatioOfTheDecision	Before coming to a conclusion one way or the other, many questions have to be asked and answered : what was the scope of the earning apparatus or structure, from physical, financial, commercial and administrative standpoints ?
+RatioOfTheDecision	If it was a business of taking agencies, how many agencies it had, what was their nature and variety ?
+Fact	How were they acquired, how one or some of them were lost and what was the total income they were (1) [1965] 3 S.C.R.
+Fact	692 (2) [ 1964] 8 S.C.R.
+Fact	93 (3) [1938] 21 T.C.
+Fact	608 C.I./66-19 yielding ?
+Fact	If one of them was given up what was the average income of the agency lost ?
+Fact	What was its proportion in relation to the total income of the company ?
+Fact	What was the impact of giving it up on the structure of the entire business ?
+Fact	Did it amount to a loss of enduring asset causing an unabsorbed shock dislocating the entire or a part of the earning apparatus or structure ?
+Fact	or was it a loss due to an ordinary incident in the course of the business ?
+Fact	The answers to these questions would enable one to come to a conclusion whether the loss of a particular agency was incidental to the business or whether it amounted to a loss of an enduring asset.
+Fact	If it was the former, the compensation paid would be a revenue receipt; if it was the latter, it would be a capital receipt.
+Fact	But these questions can only be answered satisfactorily if the relevant material is available to the income-tax authorities.
+Fact	The evidence, of witnesses in charge of the business, the relevan t accounts and balance sheets of the assessee before and after the loss, other evidence disclosing the previous history of the total business and the relative importance of the agency lost and the present position of the business after the loss of the said agency have to be scrutinized by the <ORG>.
+RatioOfTheDecision	At this stage the question of burden of proof raised at the <ORG> may be noted.
+RatioOfTheDecision	<CITATION_205239> .
+RatioOfTheDecision	(1), this <ORG> observed :  it must in the first instance be observed that it is for the revenue to establish that a particular receipt is income liable to tax................ ".
+RatioOfTheDecision	We may point out, as some argument was advanced on the ques- tion of burden of proof, that this <ORG> did not lay down that the burden to establish that an income was taxable was on the <ORG> was immutable in the sense that it never shifted to the assessee.
+RatioOfTheDecision	The expression "in the first instance" clearly indicates that it did not say so.
+RatioOfTheDecision	When sufficient evidence, either direct or circumstantial, in respect of its contention was disclose d by the <ORG>, adverse inference could be drawn against the assessee if he failed to put before the <ORG> material which was in his exclusive possession.
+RatioOfTheDecision	The process is described in the law of evidence as shifting of the onus in the course of a proceeding from one party to the other.
+RatioOfTheDecision	There is no reason why the said doctrine is not applicable to income-tax proceedings.
+RatioOfTheDecision	While the Income-tax authorities have to gather the relevant material to establish that the compensation given for the loss of agency was (1) [1965] 3 S.C.R.
+RatioOfTheDecision	692 a taxable income, adverse inference could be drawn against the assessee if he had suppressed documents and evidence, which were exclusively within his knowledge and keeping.
+RatioOfTheDecision	With this background let us scrutinize the evidence in the present case.
+RatioOfTheDecision	As we have stated earlier, the assessee is a well established and long standing company in South India.
+RatioOfTheDecision	It has taken innumerable agencies in different lines.
+RatioOfTheDecision	One of such agencies was the agency it had taken from <ORG> <ORG>, Glasgow.
+RatioOfTheDecision	Though the said agency had been with the assessee for over 47 years, it was an agency terminable at will.
+RatioOfTheDecision	The assessee did not place any material before the <ORG> to establish the relative importance of the said agency in the framework of the earning apparatus of its business; it did not adduce any evidence to prove that the said agency was a pivot of its structure and that it had closed any branch or part of the establishment in consequence of the said loss.
+RatioOfTheDecision	It could have placed material before the <ORG> to show that the average income from the said agency compared with the total income from all the agencies was so large that by this loss the entire business was dislocated.
+RatioOfTheDecision	But it did not do so.
+RatioOfTheDecision	The only evidence on which <ORG> relied and on which the learned counsel for the assessee laid emphasis was the fact that the income returned by the assessee for the year 1952-53 was very nearly the same as that it received by way of compensation from the <NAME> pal during the accounting year corresponding to the said assessment year.
+RatioOfTheDecision	On that basis <ORG> held that the income from the source which had been taken away from the assessee by reason of the termination of the agency would be very nearly half of its total income and, therefore, it lost an enduring asset.
+RatioOfTheDecision	This reasoning does not appeal to us.
+RulingByLowerCourt	Firstly, the compensation paid for the third year did not represent only the commission on the sales effected in respect of that agency during that year, but it represented not only the commission on the said sales but also in addition two-fifths of that commission; secondly, the figures for the earlier two years show that during (he year ending March 31, 1949, if the whole commission had, been paid, the figures would have been Rs.
+Fact	85,250 for the first year and Rs.
+Fact	1,66,975 for the second year.
+Fact	The second year's figures was about one-fourth of the total income and the first year's would be one-eighth of it.
+RatioOfTheDecision	There is another fallacy in this line of reasoning.
+RatioOfTheDecision	The  sales effected during the said three years were the sales effected by the agency.
+RatioOfTheDecision	It is not possible to predicate that the assessee would have effected the same sales during that period if it had continued the agency.
+RatioOfTheDecision	The real facts could have been brought out if only the average total commission earned by the assessee for a reasonable period of time before the transfer was disclosed.
+RatioOfTheDecision	In the absence of such material it is not possible to arrive at any conclusion one way or the other, on the line of enquiry pursued by <ORG>.
+RatioOfTheDecision	What remains, therefore, is only the fact that the assessee had innumerable agencies in different lines and that it only gave up one of them and continued to do business without any apparent mishap.
+RatioOfTheDecision	The correspondence between the parties shows that the assessee gave up the agency without any protest presumably because such termina- tion of agencies was part of the normal course of its business.
+RatioOfTheDecision	We, therefore, hold on the facts of the present case that the loss of the said agency  by the assessee was only a normal trading loss and that the income it received was a revenue receipt.
+RatioOfTheDecision	Mr. <NAME>'s next contention is that on a fair reading of the correspondence that passed between the parties it should be held that the compensation given to the assessee was only in lieu of a restrictive covenant and, therefore, it was a capital receipt.
+RatioOfTheDecision	To appreciate this contention it is necessary to read the relevant correspondence.
+Fact	On March 11, 1947, the Principal wrote a letter to the assessee.
+RatioOfTheDecision	As the argument mainly turned upon the contents of this letter, it is necessary to extract it in full.
+Precedent	It reads :  IMPERIAL CHEMICAL INDUSTRIES (EXPORT) LIMITED Explosives Branch, Nobel House, 25, Bothwell Street, Glasgow C-2.
+Precedent	lath March 1947.
+Precedent	Our Ref.
+Precedent	: Export sales Section GIL/NR.
+Precedent	Messrs. Best and Company Limited, P.O.
+Fact	Box 63, Madras, India.
+Fact	Dear Sirs, Agency arrangements.
+Fact	We refer to the interview which Mr. <NAME> had with your Mr. <NAME> in May 1945, when it was intimated that as a m atter of long term policy, our agencies in India and Ceylon would ultimately be taken over by <ORG>.
+Fact	It was indicated at that time that a period of two to three years might elapse before any steps were taken as regards this transfer.
+Fact	We now have to advise you that the matter has been receiving further consideration, and <ORG> desire to take over the various agencies as from the first April 1948.
+Fact	It is with regret, therefore, that we have to intimate our intention of transferring your agency, as from the above date, to <ORG>, and would take this opportunity of expressing to you our sincere appreciation of the valuable services you have rendered to us over a period of many years.
+Fact	As a result of the transfer of your agency to <ORG>, we propose that compensation should be paid to you on the following basis :- (1) For the first three post-transfer years, w e shall pay you two-fifths of the commission accruing on annual sales in the territory of your Agency taken over by, <ORG>, such commission to be computed at the commission rates formerly paid to you.
+Fact	(2)In the third post-transfer year we shall pay you, in addition, a sum equivalent to the full commission on sales for that year effected by <ORG> in your territory, calculated at the same rates.
+Fact	(3) Payment will be made to you after the end of each year as soon as the amount is ascertained.
+Fact	For the purposes of calculating the commission due to you, the post-transfer years will be deemed to run as from the date of the transfer of your agency to <ORG>.
+RatioOfTheDecision	We trust that you will find these proposals acceptable.
+RatioOfTheDecision	As a condition of our paying compensation on the basis outlined above, we would request you to be good enough to give us a formal undertaking to refrain from 4 90 selling or accepting any ag ency for explosives or other commodities competitive with those covered by the agency agreement now being terminated.
+Fact	In this connection, we are asking our legal department to prepare a formal agreement which we will submit to you for your signature as soon as possible.
+Fact	Yours faithfully, for <ORG>.
+Argument	Mr. <NAME> contended that for the past valuable services the <ORG> expressed only sincere appreciation and for the termination of the agency and thus putting an end to the assessee's future benefits it proposed to give the assessee compensation measured by the sales effected by the new agent.
+Argument	But his main argument is that whatever terminology was used, commission or compensation, the amount agreed to be paid was wholly as compensation for the assessee agreeing to refrain from selling or accepting any agency for selling explosives.
+Argument	That conclusion was sought to be arrived at on the ground that the said restrictive covenant was a condition for the payment of co mpensation.
+RatioOfTheDecision	We find it difficult to accept this construction of the document.
+RatioOfTheDecision	The scope of this document cannot be appreciated ignoring the circumstances under which it came into existence.
+RatioOfTheDecision	As we have stated earlier, the agency, which is the subject-matter of this agreement, was only one of many other agencies the assessee had.
+RatioOfTheDecision	We cannot agree with the learned counsel that the compensa- tion was given wholly for the restrictive covenant.
+RatioOfTheDecision	Indeed, the compensation was given expressly for giving up the agency.
+RatioOfTheDecision	In the last paragraph of the letter a request was made to the assessee to agree to a restrictive covenant as a condition for paying compensation.
+RatioOfTheDecision	The letter dated April 8, 1947, written by the Principal to <ORG> makes the position clear.
+RatioOfTheDecision	Therein it was stated "With regard to the point you raise concerning the period during which you would undertake not to take any competitive agency, we would like you to understand that it was never our intention that you should be tied down on this Point for  all time.
+RatioOfTheDecision	We had felt that the, limiting period should be one of five years and we are pleased to note, from your letter that this <NAME>-  491  rently is in accordance with your own ideas.
+RatioOfTheDecision	It is suggested that the five years should date from the termination of the agency, namely, 1st April, 1948."
+RatioOfTheDecision	The letter written by the assessee to the Principal is not on the file.
+RatioOfTheDecision	But it is clear from this letter that the restrictive covenant was one of the terms of the agreement relating to consideration.
+RatioOfTheDecision	It was a part of the consideration that passed from the assessee for receiving the compensation.
+RatioOfTheDecision	We cannot also agree with Mr. <NAME>, who went to the other extreme and contended that the restrictive covenant was only an act of grace on the part of the Agent and that it did not enter into the bargain.
+RatioOfTheDecision	We, therefore, hold that the compensation agreed to be paid was not only in lieu of the giving up of the agency but also for the assessee accepting a restrictive covenant for a specific period.
+RatioOfTheDecision	The next questi on is whether that part of the compensation attributable to the restrictive covenant is a capital receipt or a revenue receipt.
+RatioOfTheDecision	<ORG> in <NAME> (H.M.
+Argument	Inspector of Taxes) v. Robson(1), had to consider, whether compensation paid for a restrictive covenant was a capital receipt or a revenue receipt.
+Argument	Under a service agreement the respondent therein covenanted in consideration of the payment to him of &-7,000 on the execution of the agreement, that if the agreement were determined by notice given by him or by his breach of its Provisions he would not compete directly or indirectly with the company within a radius of fifty miles of its place of business untill the five years had expired.
+Argument	<ORG> held that the said amount was a payment for giving up a right wholly unconnected with his office and operative only after he ceased to hold that office and, therefore, it was not taxable under Schedule E of the <ORG>e-tax Acts.
+Precedent	This Court in <ORG> v. Commis- sioner of <ORG> e-tax, Calcutta(1) accepted the said principle and held that the compensation paid for agreeing to refrain from carrying on competitive business in the commodities in respect of the agency terminated or for loss of goodwill was prima facie of the nature of a capital receipt.
+Precedent	In the present case, the covenant was an independent obliga- tion undertaken by the assessee not to compete with the new agents in the same field for a specified period.
+Precedent	It came into operation only after the agency was terminated.
+Precedent	It was wholly un-  (1) [1942] 25 T.C.
+Precedent	33.
+Precedent	(2) [1964] 8 S.C.R.
+Argument	121 4 9 2 connected with the assessee's agency terminated.
+RatioOfTheDecision	We, therefore, hold that that part of the compensation attributable to the restrictive covenant was a capital receipt and hence not assessable to tax.
+RatioOfTheDecision	The next question is whether the compensation paid is sever- able.
+RatioOfTheDecision	If the compensation paid was in respect of two distinct matters, one taking the character of a capital receipt and the other of a revenue receipt, we do not see any principle  which prevents the apportionment of the income between the two matters.
+RatioOfTheDecision	The difficulty in apportionment cannot be a ground for rejecting the claim either of the <ORG> or of the assessee.
+Precedent	Such an apportionment was sanctioned by courts in Wales (H.M.
+Precedent	Inspector of, Taxes v. Tilley(1), <NAME> v. <NAME> (H.M.
+Precedent	Inspector of Taxes (2 ) , and <CITATION_1003665> (1).
+RatioOfTheDecision	In the present case apportionment of the compensation has to be made on a reasonable basis between the loss of the agency in the usual course of business and the restrictive cove- nant.
+RatioOfTheDecision	The manner of such apportionment has perforce to be left to the assessing authorities.
+RatioOfTheDecision	The answer to the question referred to <ORG> is that only such part of the sums of Rs.
+RatioOfTheDecision	66,790 and Rs.
+RulingByPresentCourt	3,35,371 as is attributable to the loss of the agency is assessable under S. 10 of the Act for the assessment years 1951-52 and 1952-53.
+RulingByPresentCourt	We accordingly modify the answer given by <ORG> in that regard.
+RulingByPresentCourt	In the result, the appeals are partly allowed.
+Fact	As both the partie s failed in part and succeeded in part, they will bear their respective costs here and in <ORG>.
+Fact	Appeals allowed in part.
+Fact	(1) [1942] 25 T.C.
+Fact	136 (3) [1955] 28 I.T.R.
+Fact	435 (2) [1946] 28T.C.
+Fact	41

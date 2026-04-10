@@ -1,0 +1,88 @@
+Fact	JUDGMENT B.K.
+Fact	<NAME>, J.
+Fact	1.
+Fact	In all these references, the following question has been referred to this court under Section 24(1) of the Orissa Sales Tax Act, 1947, by the Member, <ORG>:  Whether on the facts and circumstances of the case, the petitioner-society is a 'dealer' within the meaning of Section 2(c) of the Orissa Sales Tax Act, 1947, liable to be assessed to sales tax for the quarter in question ?
+Fact	2.
+Fact	<ORG>, which is the assessee herein, is a society registered under the Orissa Co-operative Societies Act , 1951.
+Fact	It consists of weaver members and deals in silk and tussore goods and is governed by its registered bye-laws.
+Fact	Bye-law 4 which deals with the objects of the society so far as is relevant may be quoted.
+Fact	Bye-law 4.-The object of the society is the development of handloom silk industry and the improvement of the economic condition of the weavers residing in the area of operation.
+Fact	For the purpose of attaining this object, it shall be  competent....  (c) To purchase silk yarn and other raw materials and advance the same to the weaver members who shall convert them into finished goods and deliver them to the society, to pay wages for such conversion....  (e) To act as an agent for marketing the finished products of weaver members to their best advantage.
+Fact	To open branches of sale depots for this purpose....
+Fact	The society purchases the yarn and other raw materials and supplies the same to the members for conversion into finished goods.
+Fact	These goods are thereafter delivered to the society which pays wages for such conversion to the weavers.
+Fact	When the fabrics are delivered to the society, these are credited to the account of the member concerned and when the fabrics are sold, the sale price is debited to his account.
+Fact	At regular intervals, the sale proceeds of the fabrics delivered by a particular member are made over to him by the society after deducting therefrom the price of the yarn and a certain percentage of the sale amount towards incidental  charges.
+Fact	3.
+Fact	On its application, the society has been registered as a "dealer" under the Orissa Sales Tax Act, 1947 (Act 14 of 1947) (hereinafter referred to as the Act).
+Fact	For the quarters covered by the financial years 1959-60 to 1962-63, the assessee filed nil returns for all the quarters since according to it, it was not a "dealer" under the Act.
+Fact	On demand of the Sales Tax Officer, Berhampur, under Section 12(2)(a) of the Act, the society produced its account and contended that it was not a "dealer" but was only acting on behalf of the weaver members for marketing of fabrics and finished goods manufactured by them.
+Fact	It was further contended that the society did not make any profit whatsoever and whatever profits were earned were distributed amongst the members themselves in accordance with the bye-laws.
+Fact	The assessing officer did not accept this contention and held that the society is a "dealer" and assessed it to tax.
+Fact	The order was upheld in appeal by the appellate authority and also the <ORG>.
+Fact	Being mov ed by the assessee, the <ORG> has referred the above question to this court.
+Argument	4.
+Argument	It is contended by Mr. <NAME> appearing for the petitioner that the petitioner-society is not a "dealer" and that it neither "carries on any business" within the meaning of Section 2(c) of the Act nor does it "purchase goods from its members or supply goods to its members" within the meaning of the latter part of that section.
+Argument	According to him "carrying on business" refers to an activity or activities designed to earn a profit and when there is no element of profit-making in the business, the society cannot be said to be a "dealer".
+Argument	He argues that on proper construction of bye-law 4, it would be apparent that it is the individual members who constitute the society who are actually selling the goods, no doubt through the instrumentality of the society, and that this is apparent from the fact that in the receipts that are issued to the purchasers the name of the weaver member who has manufactured that particular fabric finds mentio n.  In support of his submissions, he relies on a Bench decision of this court in <CITATION_719361>  13 S.T.C.
+Argument	412.
+Argument	5.
+Argument	To bring a "transaction" within the purview of the Act, there must be a "sale" and such sale must be made by a "dealer" in the course of his business.
+Statute	The expression "dealer" is defined in Section 2(c) of the Act as follows :  2.
+Statute	Definitions.-In this Act, unless there is anything repugnant in the subject or context....  (c) 'Dealer' means any person who carries on the business of purchasing or selling or supplying goods in Orissa, whether for commission, remuneration or otherwise and includes a department of Government which carries on such business and any firm or Hindu joint family, and any society, club or association which purchases goods from or sells or supplies goods to its members and also includes a casual dealer as hereinbefore denned.
+Statute	Explanation.-The manager or agent of a dealer who resides outside Orissa and who carries on the business of purchasing or selling or supplying good s in Orissa shall, in respect of such business, be deemed to be a dealer for the purpose of this Act.
+RatioOfTheDecision	As the definition itself shows, a co-operative society can also be a dealer provided the other conditions are satisfied.
+RatioOfTheDecision	Carrying on own business of buying or selling goods is essential for a person to be a dealer.
+RatioOfTheDecision	It may be that he is selling somebody else's goods, but the business which he carries on must be his own.
+RatioOfTheDecision	The fact that such a person would be receiving commission or remuneration for selling somebody else's goods would not make any difference provided that the business of selling belongs to him.
+RatioOfTheDecision	Unless, therefore, the assessee can be said to have carried on such business of selling goods, whether as principal or as agent, he cannot be termed as a "dealer".
+RatioOfTheDecision	Two questions, therefore, arise for determination in this case, namely, (1) whether the goods that are sold by the petitioner are its own, and (2) assuming that the goods do not belong to it whether the business of selling belongs to it.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Th e admitted facts in this case are these : The petitioner-society purchases the yarn and other raw materials and supplies the same to the weaver members for conversion into finished goods.
+RatioOfTheDecision	The society purchases the same on its own responsibility.
+RatioOfTheDecision	The raw materials after purchase by the society are given to the members for conversion into finished goods and it is not disputed that this transfer does not constitute a "sale" to the members.
+RatioOfTheDecision	As such the raw materials, namely, the yarn so long as they are in possession of the weavers legally remain the goods of the society.
+RatioOfTheDecision	It is not disputed that wages are paid to the weaver members for converting the yarn into finished goods.
+RatioOfTheDecision	If title in the yarn had ever passed to the weavers and the legal title of the finished goods vested with these members, the question of paying any wages to them for converting the yarn into finished goods would never have arisen.
+RatioOfTheDecision	It is conceded that after the finished products are handed over to the society, the weavers concerned exercise n o further control over the disposal thereof; they have no voice in the fixation of the price; they do not select the buyers, and there is no contact between them and the buyers.
+RatioOfTheDecision	The mere fact that in the receipts given to the buyers at the time of purchase by them of the fabrics the name of the weaver who manufactured that particular fabric is mentioned does not in the circumstances of the case, alter the situation or constitute that particular weaver the seller of the goods.
+RatioOfTheDecision	The main plank of Mr. <NAME>'s argument is that the society itself does not derive any profit by the transaction of sale and whatever profits are made are diverted to the weaver members.
+RatioOfTheDecision	We are not concerned here with the fact whether the society retains such profits out of the transaction or whether it diverts the entire profit to the members.
+RatioOfTheDecision	The transaction of sale with which we are concerned is the one between the society and the purchasers.
+RatioOfTheDecision	In that transaction, the society undoubtedly aims to make a profit and that is what determines t he nature of the transaction.
+RatioOfTheDecision	We thus find in this case that the yarn before it is made over to the members remains the property of the society and after the yarn is converted into finished goods, these finished goods remain the property of the society, and it is the society which has absolute control over the goods till they are sold.
+RatioOfTheDecision	The entire transaction of sale is arranged and carried on by the society.
+RatioOfTheDecision	It is the society which makes the profit on these sales.
+RatioOfTheDecision	How it deals with the profit thereafter is not relevant.
+RatioOfTheDecision	On a consideration, therefore, of the objects of the society and the manner in which the transactions take place, we feel that the courts below were right in holding that the petitioner is a dealer.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The facts of the Orissa case cited above, <CITATION_719361>  13 S.T.C.
+RatioOfTheDecision	412, are clearly distinguishable.
+RatioOfTheDecision	The facts in that case are these : <ORG> used to supply the goods to the assessee from time to time.
+RatioOfTheDecision	That organisation maintained a separate personal ledger acco unt in the name of the assessee in which the goods supplied to him and the moneys received by him, were debited and credited.
+Argument	The cash memos of <ORG> were also supplied to the assessee who used to issue them to the various purchasers of the goods from his shop known as <ORG>.
+Argument	But the labels of <ORG>, pasted on the goods, were taken out by him and he affixed his own labels, describing himself as "<ORG>, agent of <ORG>".
+Argument	The sale prices actually received by the assessee from the various purchasers were remitted by him at regular intervals to <ORG> who used to send a supervisor periodically to verify the stock of goods in the assessee's possession and report about the same.
+Argument	After annual audit the assessee was given 5 per cent, commission on the total sales effected by him, on behalf of <ORG>.
+Argument	On these facts, their Lordships posed the question whether the  business of selling the goods was the assessee's own business or the business of <ORG>, and held, having regard to the facts stated above, that in selling the goods of the organisation the assessee was not carrying on his own business, but the business of the organisation.
+RatioOfTheDecision	Their Lordships were of the view that the position of the assessee was somewhat akin to that of an ordinary agent or employee who was remunerated on a commission basis.
+RatioOfTheDecision	Other circumstances which prevailed with the <ORG> in arriving at the conclusion are that the prices at which the goods were to be sold were marked on the goods, that they were sold for the same price to the customers using cash memos supplied by the organisation, that the assessee had absolutely no discretion in the matter, that the goods stocked in the shop of the assessee were being inspected at intervals by the officials of the organisation and that for stocking the goods in his shop, the assessee also charged rent, lighting charges etc.
+RatioOfTheDecision	fro m that organisation.
+RatioOfTheDecision	It would be noticed that none of these incidents is present in the present case.
+RatioOfTheDecision	To put it briefly, the weavers had absolutely no discretion in the matter of sale of the finished goods which was controlled and carried on exclusively by the society.
+RatioOfTheDecision	The argument of Mr. <NAME> that the society itself is composed of weaver members and, therefore, what is done by the society must be deemed to have been done by the members themselves is clearly unacceptable, because the society is, in the eye of law, a separate entity of its own as distinguished from the members who constitute it.
+RatioOfTheDecision	To us, it appears, that the facts and circumstances of this case are more akin to <CITATION_1009711> decided by a Bench of <ORG> and reported in 5 S.T.C.
+RatioOfTheDecision	292.
+Argument	Under the Coffee Market Expansion Act  a Coffee Board was constituted.
+Argument	Under that Act, the coffee produced by a registered owner is divisible into two parts : (1) the internal quota which the registered owner is empowered to deal with, and (2) the  excess over the internal quota which he is required to surrender and is not free to sell in the market.
+Argument	The effect of surrendering to the pool is to place the coffee at the absolute disposal of the <ORG>, and thereafter the owner has no right except to share the sale proceeds of the pool as provided by the Act after the coffee is marketed by the <ORG>.
+Argument	The <ORG> has, therefore, absolute control over the coffee surrendered to the pool and is treated practically as the owner of the coffee for purposes of sale and for distributing the sale proceeds to the registered owners in proportion to the value of the quantity surrendered by them to the pool.
+Argument	In respect of the coffee so sold by the <ORG>, the question arose whether the sales are liable to be taxed.
+Argument	It was argued on behalf of the <ORG> that it was merely an agent of the producer and as the sale by the producer of his produce is excluded from the "turnover" definition in the Act, there is no justification for imposing the tax on the assessee.
+Argument	Their Lordships  repelled this contention and held :  The collective marketing activity or sale by the <ORG> of the coffee which is under its control and custody of which it becomes the absolute owner under the provisions of the Act is undoubtedly the business of the <ORG> of selling goods and, therefore, the transactions of the <ORG> now under consideration are clearly transactions of the dealer within the meaning of the General Sales Tax Act .
+Precedent	Referring to the contention advanced on behalf of the <ORG>, as has been done by the petitioner in this case, that the <ORG> makes over the profits to the producer, their Lordships held :  The <ORG>, when it sells the coffee of the pool, does undoubtedly aim to make a profit though not for itself.
+Precedent	8.
+RulingByPresentCourt	For the reasons aforesaid, we answer the question in the affirmative.
+RulingByPresentCourt	In the circumstances, there shall be no order as to costs.
+Precedent	<NAME>, C.J.
+RulingByPresentCourt	I agree.

@@ -1,0 +1,100 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: UNION Of INDIA & ORS.
+Fact	DATE OF JUDGMENT04/03/1986 BENCH: <NAME>, E.S.
+Fact	(J) BENCH: <NAME>, <NAME>, M.P.
+Fact	(J) CITATION: 1986 AIR 856 1986 SCR (1) 440 1986 SCC (2) 288 1986 SCALE (1)293 ACT: Central Excise & Salt Act , 1944, s.4 - Excise Duty Wholesale Cost price forming basis of assessment - Determination of - Maximum price of commodity fixed statutorily under Control Order - Whether conclusive.
+Fact	HEADNOTE: During the period between May 4, 1971 ant July 22, 1971 owing to the depression in the market, the appellant had to sell on wholesale basis its vegetable products known as "Panghat" and "Roshni" brands at Rs.78.66 and Rs.71.62 per tin in order to clear the accumulated stock and to avoid huge loss.
+Fact	These prices were lower than the maximum prices prescribed by the Notification issued under the Vegetable Oil Products Central Order, 1947.
+Fact	The appellant submitted a price list containing the aforesaid wholesale cash price in respec t of these two products to the Superintendent, <ORG>, Delhi as required by rule 173-C of the <ORG> Rules, 1974 and sought his approval therefor.
+Fact	me Superintendent, <ORG> rejected the prayer of the appellant and directed that the central excise duty under 8.4 of the <ORG> JUDGMENT:  prices fixed under the above Notification.
+Fact	me appellant's appeal before the deputy Collector (Technical), <ORG> also failed.
+Fact	Aggrieved by the decision of the Deputy Collector (Technical), the appellant filed a writ petition before <ORG> on the ground that the maximum price fixed by <ORG> should not be taken as the basis for levying excise duty under the Act when the appellant had to sell the goods In question at a lower rate owing to bona fide commercial reasons.
+Fact	<ORG> dismissed the petition in limine.
+Fact	441  Allowing the appeal, ^ HELD : 1.
+RatioOfTheDecision	The Order of <ORG> and the orders passed by the <ORG> Authorities are set aside and the case i s remanded to the Superintendent of Central Excise to redetermine the wholesale cash price in respect of the goods in question on the basis of the relevant principles.
+Statute	[447 A-B] 2.1 Section 4 of the Central Excise & Salt Act 1944 toes not refer to any notification issued under the Essential Commodities Act , 1955 fixing the maximum price of any essential commodity.
+RatioOfTheDecision	Hence the maximum price fixed thereunder cannot control the determination of the value of the goods under 8.4 of the Act for the purpose of levy of excise duty.
+RatioOfTheDecision	In appropriate cases the assessing authorities may while determining the wholesale cash price under section 4 of the Act take into consideration the maximum price fixed under the Essential Commodities Act , 1955 to decide whether the goods are sold by a dealer bona fide at the prices quoted by him.
+RatioOfTheDecision	It cannot.
+RatioOfTheDecision	however, be conclusive.
+RatioOfTheDecision	[446 B-D] 2.2 The provisions contained in 8.4 of the Act are intended for the purpose of determining the excise duty payable by a manufacturer.
+RatioOfTheDecision	They are intende d for ascertaining the wholesale cash price realised or realisable by the manufacturer in respect of the goods in question.
+RatioOfTheDecision	Such price should ordinarily be fixed at arms length and in the usual course of business.
+RatioOfTheDecision	It should be fixed bonafide without showing any kind of favour to the buyer.
+RatioOfTheDecision	[445 F-G] In the instant case, the excise authorities have not made any attempt to determine the whole-sale cash price of the goods in question in accordance with law.
+RatioOfTheDecision	It appears that both the authorities felt that they were bound by the maximum prices notified by <ORG> and the excise duty was payable on that basis of the wholesale prices fetched by the goods even if they were lower than the controlled prices.
+RatioOfTheDecision	They have not given any valid reason for rejecting the price list submitted by the appellant.
+RatioOfTheDecision	[446 G- H]  3.
+RatioOfTheDecision	The purpose of fixing the maximum price beyond which essential commodities cannot be sold is different from the purpose of the provisions contained in 8.4 of the Act.
+RatioOfTheDecision	Under the provisions of t he Essential Commodities Act 1955 and the various orders and notifications issued thereunder when a maximum price of an essential commodity is fixed, a dealer is prohibited from selling the commodity beyond that price.
+RatioOfTheDecision	The said restriction is imposed in the interest of the consumers.
+RatioOfTheDecision	The object of such notifications is to see that the prices of essential commodities do not go beyond the maximum price fixed thereunder.
+RatioOfTheDecision	Those notifications do not prohibit a manufacturer or a dealer from selling the essential commodities in question at rates lower than the maximum rates fixed under the notifications and such sales would not be contrary to the provisions of the Essential Commodities Act , 1955 or orders and notifications issued thereunder.
+Fact	[445 D-F] & CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Fact	626 of 1972.
+Fact	From the Judgment and Order dated 4.11.1971 of <ORG> in Civil Writ No.
+Fact	1159 of 1971.
+Fact	<NAME> for the Appellant.
+Fact	<NAME>, Additional Solicitor General, <NAME>, <NAME>  and <NAME> for the Respondents.
+Fact	The Judgment of the Court was delivered by <NAME> This is an appeal by special leave filed against the order dated November 4, 1971 in Civil Writ No.
+Fact	1159 of 1971 on the file of <ORG> dismissing the said petition in limine.
+Fact	The appellant is a manufacturer engaged in the business of manufacturing certain vegetable oil products (hydrogenated oil) at its factory in Delhi.
+Fact	Vegetable oil product was an essential commodity under <CITATION_99820229> of the Essential Commodities Act, 1955.
+Fact	On February 22, 1971 the Director (Vanaspati), who had been authorised by the Vegetable Oil Products Controller of India under sub-clause (a) of clause (ii) of the Vegetable Oil Products Control Order, 1947 to exercise the powers of the Controller under the said Order issued a notification in exercise of the powers conferred by subclause (i) of clause 6 thereof read with the notification of <ORG> in <ORG> dated Sep tember 24, 1958 and in supersession of the notification of <ORG> issued on the above subject earlier fixing maximum prices at which the vegetable oil products might be sold in the various zones specified therein with effect from February 23, 1971.
+Fact	Delhi cane within zone 'A'.
+Fact	Under that notification the maximum price at which the appellant might sell its vegetable product known as '<ORG>' in bulk pack was Rs.81.04 per tin of 16.5 Kilograms and the maximum price at which it could sell the vegetable product manufactured by it known as '<ORG>' in bulk pack was Rs.
+Fact	74.00 per tin of 15 Kilograms.
+Fact	The excise duty payable on the said products under the provisions of Central Excise and Salt Act , 1944 (hereinafter referred to as 'the Act') was 5 per cent ad valorem, but during the period between May 4, 1971 and July 22, 1971 owing to the depression in the market the appellant had to sell on wholesale basis '<ORG>' brand vegetable product at Rs.
+Fact	78.66 per tin and '<ORG>' brand vegetable product  at Rs.
+Fact	71.62 per tin in order to clear the accumulated stock and to avoid huge loss These prices were lower than the maximum prices prescribed by the notification, referred to above.
+Fact	On May 4, 1971 the appellant submitted a price list in respect of 'Panghat' and 'Roshni' bulk packs showing the wholesale cash price of these products at Rs.78.66 and Rs.
+Argument	71.62 per tin respectively as stated above to the Superintendent, <ORG>, Sabzi Mandi, Delhi as required by rule 173-C of the <ORG> Rules, 1944 and sought his approval therefor.
+Argument	The Superintendent, <ORG> rejected the prayer of the appellant and directed that the <ORG> duty was payable on the basis of the maximum prices fixed by <ORG> under the notification referred to above.
+Argument	Aggrieved by the said order, the appellant filed an appeal under section 35 of the Act before the Deputy Collector (Technical) of <ORG>, Bahadurshah Zafar Marg, New Delhi which was rejected by him.
+Argument	The short order dat ed August 28, 1971 passed by the Deputy Collector (Technical) on that appeal read as follows:  "I have carefully considered all the points raised by the appellants in their appeal and those made by them at the time of personal hearing.
+Argument	2.
+Argument	The appellant's main contention is that the price of the vegetable product fixed by the <ORG> in <ORG> would form the basis of assessment of <ORG> duty only if the statutory price and their wholesale price at which the goods are sold are the same, but if their wholesale price is less than the statutorily fixed price, it was not justifiable to assess <ORG> duty on the <ORG> fixed price.
+Argument	3.
+RatioOfTheDecision	I do not accept the above contention of the appellants.
+RatioOfTheDecision	Since in the case of Vegetable Product, the wholesale price is controlled under Vegetable Oil Control Order by the <ORG>.
+RatioOfTheDecision	in <ORG>, only such controlled price should be made the basis of assessment of duty for the purpose of section 4 of the Cent ral Excise and Salt Act , 1944.
+Argument	I, therefore, do not see any reason to interfere with the price approved by the Superintendent of Central Excise."
+Argument	Aggrieved by the decision of the Deputy Collector (Technical) the appellant filed the writ petition before <ORG> out of which this appeal arises contending that the maximum price fixed by <ORG> above which the goods in question could not be sold should not be taken as the basis for levying excise duty under the Act when the appellant had to sell the goods in question at a lower rate owing to bona fide commercial reasons.
+Argument	That petition was rejected in limine by <ORG> and this appeal is filed against the order of <ORG>.
+Argument	The material part of section 4 of the Act, as it stood at the relevant time, read as follows:  "Determination of value for the purpose of duty: Where under this Act, any article is chargeable with duty at a rate dependent on the value of the article, such value shall be deemed to be -  (a) the wholesale c ash price for which an article of the like kind and quality is sold or is capable of being sold at the time of removal of the article chargeable with duty from the factory or any other premises of manufacture or production for delivery at the place of manufacture or production, or if a wholesale market does not exist for such article at such place, at the nearest place where such market exists, or............... "  Neither the Superintendent of <ORG> nor the Deputy Collector (Technical) has recorded a finding in this case that the appellant had sold the goods in question during the relevant period at a price higher than the prices mentioned by the appellant in the price list.
+RatioOfTheDecision	The Excise authorities were guided mainly by the maximum price fixed by <ORG> by its notification in arriving at the 'wholesale cash price' which formed the basis of assessment of excise duty in respect of the two types of vegetable oil products with which we are concerned in this case.
+RatioOfTheDecision	me purpose of fixing  the maximum price beyond which essential commodities cannot be sold is different from the purpose of the provisions contained in section 4 of the Act.
+RatioOfTheDecision	Under the provisions of the Essential Commodities Act , 1955 and the various Orders and Notifications issued thereunder when a maximum price of an essential commodity is fixed a dealer is prohibited from selling the commodity beyond that price.
+RatioOfTheDecision	The said restriction is imposed in the interests of the consumers.
+RatioOfTheDecision	me object of such notifications is to see that the prices of essential commodities do not go beyond the maximum price fixed thereunder.
+RatioOfTheDecision	A contravention of that rule would expose a dealer to penal consequences.
+RatioOfTheDecision	Those notifications do not prohibit a manufacturer or a dealer from selling the essential commodities in question at rates lower than the maximum rates fixed under the notifications and such sales would not be contrary to the provisions of the Essential Commodities Act , 1955 or Orders and Notifications issued thereunder.
+RatioOfTheDecision	me provisions contained in  section 4 of the Act are intended for the purpose of determining the excise duty payable by a manufacturer.
+RatioOfTheDecision	They are intended for ascertaining the wholesale cash price realised or realisable by the manufacturer in respect of the goods in question.
+RatioOfTheDecision	Such price should ordinarily be fixed at arms length and in the usual course of business.
+RatioOfTheDecision	It should be fixed bona fide without showing any kind of favour to the buyer.
+RatioOfTheDecision	me wholesale cash prices of goods are bound to vary depending upon various economic factors such as supply, demand etc.
+RatioOfTheDecision	etc.
+RatioOfTheDecision	m ere is no guarantee that the goods in respect of which the maximum price is fixed under a notification issued under the Essential Commodities Act , 1955 and Orders made thereunder would actually be sold at the maximum price mentioned in the notification.
+RatioOfTheDecision	The wholesale cash price realised by the manufacturers may fall below such maximum price on many occasions as it has happened in the instant case.
+RatioOfTheDecision	Section 4 of the Act does not refer to any notification issued under the Essen tial Commodities Act , 1955 fixing the maximum price of any essential commodity.
+RatioOfTheDecision	Hence the maximum price fixed thereunder cannot control the determination of the value of the goods under section 4 of the Act for the purpose of levy of excise duty.
+RatioOfTheDecision	In appropriate cases the assessing authority may while determining the wholesale cash price under section 4 of the Act take into consideration the maximum price fixed under the Essential Commodities Act , 1955 to decide whether the goods are sold by a dealer bona fide at the prices quoted by him.
+RatioOfTheDecision	It cannot, however, be conclusive.
+RatioOfTheDecision	The proposition becomes clear if a converse case is taken.
+RatioOfTheDecision	Let us assume that the manufacturer taking advantage of conditions of scarcity of certain goods sells the goods for which maximum price is fixed at wholesale cash prices which are higher than the maximum price.
+RatioOfTheDecision	In that event he would suffer the penal consequences under the Essential Commodities Act , 1955 and also would be liable to pay excise duty on the basis of the higher wholes ale cash price realised by him.
+RatioOfTheDecision	He would not be taxed under the Act on the basis of the maximum price which is lower but on the actual price at which the goods were sold.
+RatioOfTheDecision	Hence it is the duty of the authorities under the Act to determine the wholesale cash price in accordance with the well-settled principles, of course, keeping also in view the maximum price fixed by <ORG> under the Essential Commodities Act , 1955.
+RatioOfTheDecision	But in the orders of the excise authorities which are impugned in this appeal we find that they have not made any attempt to determine the wholesale cash price of the goods in question in accordance with law.
+RatioOfTheDecision	It appears that both the authorities felt that they were bound by the maximum prices notified by <ORG> and the excise duty was payable on that basis and not on the basis of the wholesale prices fetched by the goods even if they were lower than the controlled prices.
+RatioOfTheDecision	They have not given any valid reason for rejecting the price list submitted by the appellant .
+RulingByPresentCourt	The decisions of the Superintendent of <ORG> and the Deputy Collector (Technical) which are impugned in these proceedings are, therefore, liable to be set aside.
+RulingByPresentCourt	We accordingly set aside the order of <ORG> and the orders passed by the <ORG> authorities and remand the case to the Superintendent of <ORG> (Respondent No.2 herein) to re-determine the wholesale cash price in respect of the goods in question on the basis of the relevant principles and in the light of the above decision again and to pass a fresh order of assessment for the period in question.
+RulingByPresentCourt	We direct that the fresh assessment proceedings shall be concluded by the assessing authorities within three months from today.
+RulingByPresentCourt	We are informed that the appellant has paid excise duty on the basis of the orders of the <ORG> authorities which are set aside by this judgment.
+RulingByPresentCourt	If on reassessment it is found that the appellant is entitled to the refund of any excess amount paid by it the <ORG> authorities shall  refund such excess amount within two months from the date of reassessment.
+RulingByPresentCourt	This appeal is accordingly allowed.
+RulingByPresentCourt	No costs.
+RulingByPresentCourt	M.L.A.
+RulingByPresentCourt	Appeal allowed.

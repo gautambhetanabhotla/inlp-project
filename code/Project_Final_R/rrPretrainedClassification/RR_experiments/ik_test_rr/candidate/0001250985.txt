@@ -1,0 +1,29 @@
+RatioOfTheDecision	<NAME>, J.
+RatioOfTheDecision	1.
+Precedent	The question in this case which arose before both the lower <ORG> was, whether, when there is an unregistered mortgage, the registration of which is not compulsory, a purchaser of the property who has registered his deed of sale, but who has bought with notice of the unregistered mortgage, purchases subject to the mortgage: the <ORG> below held that such notice is immaterial, taking that view in consequence of what they understood to be the effect of the judgment of Mr. Justice <NAME> in <CITATION_782785> .
+Precedent	10 Cal.
+Precedent	424.
+Precedent	In that case Mr. <NAME> expressed the opinion that the effect of the decisions in the cases of <CITATION_342568> .
+Precedent	5 Cal.
+Precedent	336 and of <NAME> v. <ORG> 8 Cal.
+Precedent	597 was not, in his opinion, to decide the point, the observations in those decisions being no more than obiter dicta; and the case of <CITATION_921516> .
+Precedent	7 Cal.
+Precedent	753 not having been decided by both members of the <ORG> on the ground of notice.
+Precedent	2.
+Precedent	Now, it is to be observed that Mr. Ju <NAME>, in <NAME> case I.L.R.
+Precedent	10 Cal.
+Precedent	424 says, at the bottom of page 427 * * * : "We think that in the present case the question does not really arise."
+Precedent	The learned Judge's decision, therefore, does not amount, in our opinion, to a decision upon the effect of the judgments in the other cases; the learned Judge was careful to point out that there was no proof or reasonable presumption of notice in the case; and that, therefore, the question did not arise--see again at page 428.
+Precedent	In the recent case of <NAME> v. <NAME> I.L.R.
+Precedent	11 Cal.
+Precedent	667 the question was raised and expressly decided, that in such a case as the present, the purchaser with notice takes subject to the mortgage.
+Precedent	We think that that principle must be taken to be the principle of this <ORG>, having regard to the cases referred to by <NAME>, J., and further to the case of <NAME> v. <ORG> where Mr. Justice <NAME> followed the case of <ORG> v. <ORG>.
+RatioOfTheDecision	Accord ing to these cases a person who purchases with notice of a contract for the sale of property, not requiring registration, and unregistered, purchases subject to the rights of the person with whom the contract has been entered into.
+RatioOfTheDecision	We see no difference between the principle in the one case and that in the other; and we may add that the passage from Lord <NAME>' judgment in <ORG> v. <ORG> cited in the Bombay case is one to which attention may well be invited.
+RatioOfTheDecision	It lays down the principles applicable to a question of this sort.
+RatioOfTheDecision	The decision of Lord <NAME> is upon the Irish Act, one very similar in terms to the Indian Registration Act, and identical in principle with it.
+RatioOfTheDecision	3.
+RatioOfTheDecision	We must remand this case, therefore, for we cannot find that the learned Subordinate Judge has come to a definite finding, aye or no, whether <NAME> had notice of the mortgage.
+RatioOfTheDecision	We express no opinion ourselves upon the evidence as to this question.
+RulingByPresentCourt	We remand the case to the Subordinate Judge for a finding upon that question .
+RulingByPresentCourt	The case will be kept on the file, and the record will be sent down with this judgment, and the Subordinate Judge will return his finding within three weeks from the receipt of this order.

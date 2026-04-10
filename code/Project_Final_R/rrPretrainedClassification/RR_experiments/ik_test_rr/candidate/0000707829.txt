@@ -1,0 +1,115 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These appeals arise out of Sessions Case No.
+Fact	11/8 of 1958 on the file of the Sessions Judge, Khammam division.
+Fact	As two of the appellants have been sentenced to death, the sentences have been submitted to us by that <ORG> for confirmation.
+RatioOfTheDecision	We have not heard these appeals on the merits because in our opinion, an objection taken by the learned counsel for the appellants as to the manner in which the trial was conducted must prevail and there should be a retrial of the case.
+RatioOfTheDecision	2.
+RatioOfTheDecision	We may state however that our decision to direct a re-trial has not been reached without reluctance.
+RatioOfTheDecision	A re-trial does not only involve fresh expenditure of public time and money; it also oc-  casions considerable hardship to the accused by prolonging the period of uncertainty as to their fate and entailing, at least in cases where they retain counsel of their own, extra expenditure of money for them too.
+RatioOfTheDecision	There will be, besides, considerable inconvenience caused to the witnesses, an inconvenience so graphically  described by <NAME>, in <CITATION_1224706> , .
+RatioOfTheDecision	Fully aware as we are of these undesirable consequences, we need hardly state that we are ordering a re-trial of the case because we are convinced that it is the only course to adopt in the interests of justice.
+RatioOfTheDecision	3.
+RatioOfTheDecision	Mr. <NAME>'s objection shortly stated is that contrary to the relevant provisions of the Code of Criminal Procedure, the Public Prosecutor abdicated his duty to conduct the prosecution and that a pleader, privately briefed and instructed, took complete charge of the case and effectively determined its course and that, as a consequence, there was grave prejudice to the appellants.
+RatioOfTheDecision	It is frankly conceded by him that no objection to the procedure adopted was taken by his clients in the trial Court.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Before we take up the question of prejudice, we shall consider what the requirements of the Code are in regard to this matter.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Under Section 270, Cr.
+RatioOfTheDecision	P. C., "in every trial before <ORG> the prosecution shall be conducted by a Pu blic Prosecutor", who is defined in Section 4(I)(t) of the Code.
+RatioOfTheDecision	According to that part of the definition which is relevant to our purpose, he is "only person appointed under Section 492 and includes any person acting under the directions of a Public Prosecutor".
+RatioOfTheDecision	Section 492, Cr.
+RatioOfTheDecision	P. C., empowers <ORG> to appoint, generally, or in any case, or for any specified class of cases, in any local area, one or more officers to be called Public Prosecutors.
+RatioOfTheDecision	It is also necessary to refer to Section 493 of the Code which is in these terms:  "The Public Prosecutor may appear and plead without any written authority before any Court in which any case of which he has charge is under inquiry, trial or appeal; and, if any private person instructs a pleader to prosecute in any court any person in any such case, the Public Prosecutor shall conduct the prosecution, and the pleader so instructed shall act therein under his directions."
+RatioOfTheDecision	The last section, in our opinion, while it does not interfere with the generally  recognised right of a counsel to depute another professional gentleman with instructions to plead and act in a case of which he is in charge, provides for the special case-where a pleader is appointed by a private party.
+RatioOfTheDecision	Such pleader, it says, may act therein, subject to the superintendence and control of the Public Prosecutor.
+RatioOfTheDecision	The mere fact therefore that a, pleader privately instructed has acted for the prosecution in a <NAME> Case does not involve the violation of Section 270 if the conduct of the prosecution could be said to have been in the hands of the Public Prosecutor.
+RatioOfTheDecision	Now what is the meaning of the words "conduct the prosecution" and how is it to be distinguished from what is meant by 'act therein'?
+RatioOfTheDecision	Is the word 'act' in the section used in contradistinction to the word 'plead' earlier used?
+RatioOfTheDecision	At the first blush one is apt to think that the <ORG> used the words 'plead' and 'act' in their technical connotation.
+RatioOfTheDecision	We are, however, persuaded after careful consideration that the words are not so used .
+RatioOfTheDecision	In <NAME> v. <NAME>,, 1930 Mad WN 769, <NAME> of <ORG> pointed out that the word 'act' is not to be understood in the technical sense as meaning something distinct and different from the word 'plead'.
+RatioOfTheDecision	To quote the exact words of the head-note in that case;  "The word 'act' in the end of Section 493, Cr.
+RatioOfTheDecision	P. C., does not mean something other than examining or cross-examining witnesses or addressing the court and is not used in any technical sense in distinction from the words 'appear and plead' in the opening part of the section."
+RatioOfTheDecision	It seems to us that having regard to the object and purpose underlying the section and understood with reference to the word 'acting' used in the definition of 'Public Prosecutor', the learned Judge's interpretation is right.
+RatioOfTheDecision	A person "acting under the directions of the Public Prosecutor" may, in our opinion, do everything that a pleader may do in any criminal case.
+RatioOfTheDecision	He can appear, plead and act: he can examine witnesses, raise and answer objections, and address ar guments.
+RatioOfTheDecision	So, when Section 493 authorizes a privately engaged pleader to act in the case under the directions of the Public Prosecutor, he may do everything in the case provided that it is done under the control and direction of the Public Prosecutor.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Our attention has been drawn in this connection to the decision of our learned brethren <NAME> and <NAME> in In re <NAME>, It.
+Precedent	T. No.
+Precedent	40 of 1958: .
+Argument	In that case, it was urged on behalf of the accused that the counsel for the complainant had, at the trial, interrupted the cross-examination of the prosecution witnesses by the accused frequently and unfairly so as to nullify the very object of cross-examination and that the procedure adopted by <ORG> had resulted in irreparable prejudice to the accused.
+Argument	<NAME>, who wrote the leading judgment observed "that the procedure followed by the learned <ORG> Judge in allowing the prosecution to be conducted by a counsel engaged and briefed by the complainant  in the case and not by the Public Prosecutor is in violation of the express and mandatory provisions of the Code contained in Section 270".
+Argument	The learned Judge referred to Sections 492 and 493 of the Criminal Procedure Code also and proceeded to remark:  "It is clear from these sections that the pleader engaged by the private persons cannot plead although he can act under the directions of the Public Prosecutor."
+Argument	The learned Judge then referred to the definition of "Public Prosecutor" in Section 4(I)(t) and went on to say:  "This clause has to be read with Section 493 , Cr.
+Argument	P. C., which leads us to the inevitable conclusion that any person engaged and briefed by a private person in the case, to instruct the Public Prosecutor can only so instruct, and act under the directions of the Public Prosecutor and in such a case the prosecution shall be conducted by the Public Pro-secutor himself".
+RatioOfTheDecision	There is, therefore, no substance in the contention that Section 4(1) ft) enables the Public Prosecutor to abdicate his fu nctions and allow a person briefed by a private party interested in the result of the case, to take over charge of the case and conduct the prosecution.
+RatioOfTheDecision	If such a contention were to be accepted we can even say that a Public Prosecutor can engage even an incompetent and unqualified person to conduct the cases by merely giving him directions.
+RatioOfTheDecision	A situation so absurd as this calls for no comment.
+RatioOfTheDecision	We wish to impress on <ORG> that it is the duty of the Public Prosecutors of the district appointed under Section 492 , Cr.
+RatioOfTheDecision	P. C., to conduct the prosecutions in <ORG>.
+RatioOfTheDecision	If such a Public Prosecutor is disabled or sick and is unable to carry on his functions, it would be his plain duty to obtain the necessary orders of the District Magistrate under Section 492(2) , Cr.
+RatioOfTheDecision	P. C., to appoint a suitable person to act as Public Prosecutor for the purpose of the case in question.
+Precedent	We would like to make it very clear that it is extremely undesirable and quite improper that a Public Prosecutor should be  allowed to sit back, handing over the conduct of the case to a counsel, however eminent he may be, briefed by the complainant in the case."
+Precedent	7.
+Precedent	<NAME>, who concurred in the conclusion, made the following observations upon this aspect of the case:  "On the general question whether a complainant's counsel may be allowed to conduct the prosecution under the Public Prosecutor's directions, I think that no exception can he taken to it under the provisions of the Criminal Procedure Code ."
+Precedent	The referred then to the decision of <NAME>, in 1930 Mad WN 769 and the decision of <NAME>, in <CITATION_914058> , AIR 1951 Madh-B 84.
+Precedent	Then the learned Judge remarked:  "I do not think that any legal principle or purpose of criminal administration is involved in excluding a counsel, merely on the ground that the complainant has briefed him, if he conforms to the normal standards of advocacy.
+Precedent	But on practical considerations, obviously, the office of Public Prosecutor is not & sinecure appointment and it is an undesi rable practice to allow him unless it be on grounds of personal inconvenience or other necessity to get his duties performed by a proxy whenever a private person engages a pleader for that purpose."
+RatioOfTheDecision	Both the learned Judges were of opinion that apart from the above objection which they thus dealt with, there was also in the case before them another ground for directing a re-trial.
+RatioOfTheDecision	The dicta above-quoted cannot be treated as the Ratio Decidendi in view of the fact that the learned Judges do not speak in one voice.
+RatioOfTheDecision	<NAME>, in our opinion, has not kept the distinction in mind between the conduct of a case and the acting therein under another's directions.
+RatioOfTheDecision	The learned Judge's observation that the plea-der briefed by a private person cannot plead although he can act seems to us, with due deference, to be erroneous, as we arc in agreement with the interpretation put upon Section 493 by <NAME> As observed in <CITATION_1441311> , AIR 1.949 All 213 at p. 214 "the rights of a complainant are only su bordinate to the rights of the Crown" and to use the words of <NAME> in the case already cited "an advocate engaged by the complainant when desired by the Public Prosecutor to address the Magistrate for the prosecution, is entitled to do so."
+RatioOfTheDecision	The fact that <NAME> was dealing with a case before a Magistrate does not for the present purposes make any difference because he was interpreting Section 493 and that section governs cases before Magis-trates as well as before <ORG>.
+RatioOfTheDecision	8.
+RatioOfTheDecision	We desire to add that the view of <NAME>, that there is no statutory interdiction against a complainant's counsel acting under the Public Prosecutor's directions, appears to us to be correct.
+RatioOfTheDecision	However, the learned Judge's observation: "On the general question whether a complainant's counsel may be allowed to conduct the prosecution under the Public Prosecutor's directions, I think that no exception can be taken to it under the provisions' of the Criminal Procedure Code ", has to be understood only to mean that  the complainant's counsel shall function under the directions of the Public Prosecutor hut the conduct of the prosecution shall be in the hands of the Public Prosecutor, as enjoined by Section 493 .
+RatioOfTheDecision	9.
+RatioOfTheDecision	But what exactly does the word 'conduct' import?
+RatioOfTheDecision	It conveys the idea of leading and guid-ing; that is to say, the person who conducts the prosecution determines all important questions of policy involved in the course of the trial and the attitude to be adopted by the prosecution towards material objections raised or demands made by the accused with respect to the evidence.
+RatioOfTheDecision	So long, therefore, as the Public Prosecutor leads and guides, in the above sense, the pleader for the private party, no objection to such a procedure could be entertained.
+RatioOfTheDecision	But if in a particular case it happens that the very conduct of the prosecution is completely left in the hands of such a pleader, then the provisions of the Code must be held to have been violated.
+RatioOfTheDecision	10.
+RatioOfTheDecision	To sum up, the conduct of all prosecutions before <ORG> on shall be in the hands of a Public Prosecutor appointed under Section 492 subject to his power to instruct a duly qualified person acting under his directions, and where either before a Magistrate or before <ORG>, a pleader is instructed by a private individual to prosecute any person in a case before any court, the pleader so instructed may act in that case subject to the over-all supervision of the Public Prosecutor.
+RatioOfTheDecision	Such a pleader can conduct the examination, cross-examination and re-examination o witnesses as also address arguments to the court.
+RatioOfTheDecision	These provisions do not, however, authorise the abdication of his functions by the Public Prosecutor; he should continue to be in charge of the case and to issue directions on all important matters.
+RatioOfTheDecision	These provisions are clearly conceived in the public interest as well as in the interest of the accused because the position of the Public Prosecutor is, it must be borne in mind, unlike that of any advocate appearing for a private party.
+RatioOfTheDecision	It is well-rec ognised, to use the words of <NAME> J., in <ORG>, (1865) 4 F and F 497 at p. 499, Public Prosecutors "should regard themselves rather as Ministers of Justice assisting in its administration than as advocates"--an observation which was adopted by <ORG> in <CITATION_1831258> , 1916-2 KB 621.
+RatioOfTheDecision	Unless, therefore, the control of the Public Prosecutor is there, the prosecution by a pleader for a private party may degenerate into a legalized means for wreaking private vengeance.
+RatioOfTheDecision	The pro-secution instead of being a fair and dispassionate presentation of the facts of the case for the deter-mination of the <ORG>, would he transformed into a battle between two parties in which one was trying to get better of the other, by whatever means available.
+RatioOfTheDecision	It is true that in every case there is the over-all control of the court in regard to the conduct of the case by either party.
+RatioOfTheDecision	But it cannot extend to the point of ensuring that in all matters one party is fair to the other.
+RatioOfTheDecision	A prosecution, to  use a familiar phrase, ought not to be a persecution.
+RatioOfTheDecision	The principle that the Public Prosecutor should be scrupulously fair to the licensed and present his case with detachment and without evincing any anxiety to secure a conviction, is based upon high policy and as such courts should be astute to suffer no inroad upon its integrity.
+RatioOfTheDecision	Otherwise there will be no guarantee that the trial will be as fair to the accused as a criminal trial ought to be.
+RatioOfTheDecision	The <ORG> and the Public Prosecutor acting for it are only supposed to be putting all the facts of the case before the Court to obtain its decision thereon and not to obtain a conviction by any means fair or foul.
+RatioOfTheDecision	Therefore, it is right and proper that courts should be zealous to see that the prosecution of an offender is not handed over completely to a professional gentleman instructed by a private party.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The question then in the present case is whether the circumstances indicate that the Public Prosecutor effaced himself and gave up his charge of the case to M r. <NAME>, who appeared for a private party.
+RatioOfTheDecision	12.
+RatioOfTheDecision	Now, it is common ground that at the trial before the Sessions Judge, the Public Prosecutor did not examine the most important witnesses for the prosecution; nor did he address arguments upon the case.
+RatioOfTheDecision	Mr. <NAME> who was instructed by a private party did both.
+RatioOfTheDecision	But that was not all.
+Precedent	A demand made on behalf of the accused for the examination of certain persons--whose names were mentioned in the charge-sheet as having been present at the time of the offence and who had even been served with summonses--as witnesses for the prosecution, was turned down by the court at the instance of that pleader.
+Precedent	Further, certain objections raised by the accused to the order in which the most important witnesses for the prosecution were examined, were met by the same pleader and overruled by the <ORG>; as a result, two out of four such principal witnesses were examined after an interval of twenty days from the date of the examination of the other two.
+Precedent	It was the same plead er again who raised objections successfully to certain questions sought to be put by counsel for the accused during the cross-examination of the 10th witness for the prosecution.
+Precedent	13.
+RatioOfTheDecision	After a careful consideration of the various facts put before us, we have reached the conclusion that Mr. <NAME> not only did the case for the Public Prosecutor but be determined, alone and without any restraint, the course which the prosecution pursued every time a choice was presented between two alternative courses.
+RatioOfTheDecision	The Public Prosecutor on all such, occasions would seem to have not taken any part; in truth he did not conduct the prosecution.
+RatioOfTheDecision	It is no wonder therefore that no accommodation was made to the point of view urged on behalf of the accused.
+RatioOfTheDecision	The trial involved a large number of accused and according to the prosecution there was quite a good number of persons available who could give evidence as to the occurrence.
+RatioOfTheDecision	A case such as this calls for more than the usual vigilance on the part of the prosecution in the exer cise of its duty to be fair.
+RatioOfTheDecision	14.
+RatioOfTheDecision	When a private prosecutor is in complete charge, assurance will be lacking that even material witnesses, the effect of whose testimony may be against the case for the prosecution, are likely to be called.
+RatioOfTheDecision	In the present case, the complaint is made that as many as nine witnesses referred to in the charge-sheet have been withheld although all of them, had been served with summonses and many of them were attending the court during the trial.
+RatioOfTheDecision	15.
+RulingByPresentCourt	The result therefore is that in our opinion the irregularity in the conduct of the trial has caused prejudice to the accused and has occasioned a failure of justice.
+RulingByPresentCourt	The convictions and sentences are therefore set aside and the appellants will be re-tried on charges properly framed.
+RulingByPresentCourt	The appellants will be kept in remand pending the trial.
+RulingByPresentCourt	The accused who have been acquitted by the Sessions Judge will not be tried again.
+RulingByPresentCourt	The appeals are accordingly allowed with the above direction.
+Fact	The case will go on the file of <ORG>, Wa-r angal.
+Fact	16.
+RatioOfTheDecision	Before parting with this case, we should like to impress upon all public Prosecutors that they are the representatives of the <ORG> and their office is one of trust and responsibility.
+RulingByPresentCourt	That being so, they should do nothing to lower the dignity of the office by effacing themselves or by being con tent to play second fiddle in the trial of <NAME> Cases.

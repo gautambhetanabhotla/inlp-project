@@ -1,0 +1,89 @@
+Fact	CASE NO.
+Fact	: Appeal (civil) 5478 of 2004 PETITIONER: <ORG> RESPONDENT: <NAME> & Ors.
+Fact	DATE OF JUDGMENT: 25/08/2004 BENCH: <NAME>,<NAME> & <NAME> JUDGMENT:  J U D G M E N T (Arising out of S.L.P. )
+Fact	No.
+Fact	12019 of 2003) S.B.
+Fact	SINHA, J:  Leave granted.
+Fact	The Appellant  Insurance Company aggrieved by and dissatisfied with a judgment and order dated 28th March, 2002 passed by <ORG> at Hyderabad in AAO No.
+Fact	216 of 1997 is in appeal before us.
+Fact	The respondents herein are heirs and legal representatives of one V. <NAME>.
+Fact	The said V. <NAME> (the deceased) used to carry on business in vegetables.
+Fact	He purchased 5 bags of vegetables on 24.11.1991 in a village known as Ayyapareddipalem and loaded the same in a trailer of a tractor bearing No.
+Fact	MH33-8109.
+Fact	He was traveling therein.
+Fact	He wanted to buy some more vegetables at a village known as Peddapadu.
+Fact	While the tractor approached the said village, a bus was seen coming from opposite direction.
+Fact	Because  of rash and negligent driving on the part of the driver of the said tractor, and which was driven at a very high speed, it went to the extreme left side of road margin and because of heavy jerks, the deceased fell down and received serious injuries.
+Fact	He was immediately shifted to Peddapadu where he breathed his last.
+Fact	A claim petition was filed by the respondents herein before <ORG>, Nellore claiming a sum of Rs.
+Fact	1,00,000/-.
+Fact	The Appellant herein denied and disputed its liability to pay any amount to the Respondents by way of compensation inter alia on the ground that the deceased was traveling in the said tractor as a 'paid passenger'.
+Fact	The learned <ORG> inter alia held that carrying the goods, i.e., vegetables, by the deceased as owner thereof would entitle the Applicants to receive compensation from the Appellant.
+RulingByLowerCourt	The learned Tribunal observing that a person who is not a party to contract of insurance would be the 'third party' and in that  view of the matter the respondents would be entitled to the amount of compensation even if the vehicle was only having third party insurance (Act policy).
+RulingByLowerCourt	It was further held that the Tribunal was empowered to grant compensation over and above the amount claimed.
+RulingByLowerCourt	A sum of Rs.
+Fact	1,53,000/- was awarded by way of compensation in favour of the Respondents.
+Fact	<ORG> by reason of the impugned judgment has dismissed the appeal preferred by the Appellant herein from the said judgment and award holding that as the deceased was traveling in the trailer alongwith his goods being vegetables, it was liable to pay compensation.
+Argument	Mr. <NAME>, learned counsel appearing on behalf of the appellant would submit that as this Court in <ORG> Vs. <ORG> [(2003) 2 SCC 223] overruled its earlier decision in <ORG> Vs. <NAME> [(2000) 1 SCC 237] holding that the insurance company would not be liable for paying compensation to a passenger in a goods vehicle, whether he wa s travelling as an owner of the goods when that vehicle meets with an accident, the impugned judgment is not sustainable.
+Argument	Mrs. <NAME>, learned counsel appearing on behalf of the respondents, on the other hand, would submit that a tractor is not a 'goods carriage' vehicle and as carrying of vegetables in a tractor would be for agricultural purpose, the appellant cannot be absolved from its liability to pay the amount of compensation.
+RatioOfTheDecision	Section 147(1) of the Motor Vehicles Act, 1988 is in pari materia with the provisions of Section 95(1) of the Motor Vehicles Act, 1939.
+Statute	In the year, 1994, Section 147 was amended by reason of Act 54 of 1994 with effect from 14.11.1994 in terms whereof the words "including owner of the goods or his authorized representative carried in the vehicle" were added after the words "against any liability which may be incurred by him in respect of the death of or bodily injury to any person".
+Precedent	In <NAME> (supra), this Court overruling its earlier decision in <NAME> (supra ) observed:  "9.
+Precedent	In <NAME> case (supra) the Court assumed that the provisions of section 95(1) of Motor Vehicles Act, 1939 are identical with section 147(1) of the Motor Vehicles Act, 1988, as it stood prior to its amendment.
+RatioOfTheDecision	But a careful scrutiny of the provisions would make it clear that prior to the amendment of 1994 it was not necessary for the insurer to insure against the owner of the goods or his authorised representative being carried in a goods vehicle.
+RatioOfTheDecision	On an erroneous impression this Court came to the conclusion that the insurer would be liable to pay compensation in respect of the death or bodily injury caused to either the owner of the goods or his authorised representative when being carried in a goods vehicle the accident occurred."
+RatioOfTheDecision	One of us in a supplemental judgment in <ORG> (supra) opined:  "25.
+RatioOfTheDecision	Section 147 of 1988 Act, inter alia, prescribes compulsory coverage against the death of or bodily injury to any passenger of "public service vehicle".
+RatioOfTheDecision	Proviso appended thereto categori cally states that compulsory coverage in respect of drivers and conductors of public service vehicle and employees carried in a goods vehicle would be limited to the liability under the Workmen's Compensation Act .
+RatioOfTheDecision	It does not speak of any passenger in a 'goods carriage'.
+RatioOfTheDecision	26.
+RatioOfTheDecision	In view of the changes in the relevant provisions in the 1988 Act vis-a-vis the 1939 Act, we are of the opinion that the meaning of the words "any person" must also be attributed having regard to the context in which they have been used i.e.
+RatioOfTheDecision	'a third party'.
+RatioOfTheDecision	Keeping in view the provisions of the 1988 Act, we are of the opinion that as the provisions thereof do not enjoin any statutory liability on the owner of a vehicle to get his vehicle insured for any passenger travelling in a goods vehicle, the insurers would not be liable therefor.
+Precedent	27.
+Precedent	Furthermore, sub-clause (i) of clause (b) of sub-section (1) of section 147 speaks of liability which may be incurred by the owner of a vehicle in respect of death of or bodily injury to any person  or damage to any property of a third party caused by or arising out of the use of the vehicle in a public place, whereas sub-clause (ii) thereof deals with liability which may be incurred by the owner of a vehicle against the death of or bodily injury to any passenger of a public service vehicle caused by or arising out of the use of the vehicle in a public place.
+Precedent	28.
+Precedent	An owner of a passenger carrying vehicle must pay premium for covering the risks of the passengers.
+Precedent	If a liability other than the limited liability provided for under the Act is to be en- hanced under an insurance policy, additional premium is required to be paid.
+Precedent	But if the ratio of this Court's decision in <CITATION_887114>  1 SCC 237 is taken to its logical conclusion, although for such passengers, the owner of a goods carriage need not take out an insurance policy, they would be deemed to have been covered under the policy wherefor even no premium is required to be paid.
+Precedent	29.
+Precedent	We may consider the matter from another angle.
+Precedent	Section 149(2) of  the 1988 Act enables the insurers to raise defences against the claim of the claimants.
+Precedent	In terms of clause (c) of sub-section (2) of section 149 of the Act one of the defences which is available to the insurer is that the vehicle in question has been used for a purpose not allowed by the permit under which the vehicle was used.
+Precedent	Such a statutory defence available to the insurer would be obliterated in view of the decision of this <ORG> in <NAME> case (supra)."
+Precedent	<NAME> (supra) was followed by this <ORG> in <ORG> Vs. <NAME> and Others [(2003) 2 SCC 339] holding:  "10.
+Precedent	The inevitable conclusion, therefore, is that provisions of the Act do not enjoin any statutory liability on the owner of a vehicle to get his vehicle insured for any passenger travelling in a goods carriage and the insurer would have no liability therefore."
+Precedent	Yet again in <ORG> Vs. <NAME> and <ORG>.
+Precedent	[JT 2003 (7) SC 520] this <ORG> held:  "11.
+Precedent	The difference in the language of  "goods vehicle" as appearing in the old <ORG> and "goods carriage" in the <ORG> is of significance.
+RatioOfTheDecision	A bare reading of the provisions makes it clear that the legislative intent was to prohibit goods vehicle from carrying any passenger.
+RatioOfTheDecision	This is clear from the expression "in addition to passenger" as contained in definition of "goods vehicle" in the old <ORG>.
+RatioOfTheDecision	The position becomes further clear because the expres- sion used is "goods carriage" is solely for the "carriage of goods".
+RatioOfTheDecision	Carrying of passengers in a goods carriage is not contemplated in the <ORG>.
+RatioOfTheDecision	There is no provision similar to clause (ii) of the proviso appended to section 95 of the old <ORG> prescribing requirement of insurance policy.
+RatioOfTheDecision	Even section 147 of the <ORG> mandates compulsory coverage against death of or bodily injury to any passenger of "public service vehicle".
+RatioOfTheDecision	The proviso makes it further clear that compulsory coverage in respect of drivers and conductors of public service vehicle and employees carried in goods vehicle would be limited to liability  under the Workmen's Compensation Act , 1923 (in short 'WC Act').
+RatioOfTheDecision	There is no reference to any passenger in "goods carriage"."
+Precedent	The effect of 1994 amendment came up for consideration before a 3- Judge Bench of this Court in <ORG> [(2004) 2 SCC 1] wherein again it was held:  "19.
+Precedent	In <NAME> (supra), it has been noticed that sub-clause (i) of clause (b) of sub-section (1) of Section 147 of the 1988 Act speaks of liability which may be incurred by the owner of a vehicle in respect of death of or bodily injury to any person or damage to any property of a third party caused by or arising out of the use of the vehicle in a public place.
+Precedent	Furthermore, an owner of a passenger-carrying vehicle must pay premium for covering the risks of the passengers travelling in the vehicle.
+Precedent	The premium in view of the 1994 Amendment would only cover a third party as also the owner of the goods or his authorised representative and not any passenger carried in a goods vehicle whether f or hire or reward or otherwise.
+Precedent	20.
+Precedent	It is therefore, manifest that in spite of the amendment of 1994, the effect of the provision contained in Section 147 with respect to persons other than the owner of the goods or his authorized representative remains the same.
+Precedent	Although the owner of the goods or his authorized representative would now be covered by the policy of insurance in respect of a goods vehicle, it was not the intention of the legislature to provide for the liability of the insurer with respect to passengers, especially gratuitous passengers, who were neither contemplated at the time the contract of insurance was entered into, nor was any premium paid to the extent of the benefit of insurance to such category of people."
+Statute	(Emphasis supplied) An insurance for an owner of the goods or his authorized representative travelling in a vehicle became compulsory only with effect from 14.11.1994, i.e., from the date of coming into force of Amending Act 54 of 1994.
+Statute	Furthermore, a tractor is not even a goods c arriage.
+Statute	The "goods carriage" has been defined in Section 2(14) to mean "any motor vehicle constructed or adapted for use solely for the carriage of goods, or any motor vehicle not so constructed or adapted when used for the carriage of goods" whereas "tractor" has been defined in Section 2(44) to mean "a motor vehicle which is not itself constructed to carry any load (other than equipment used for the purpose of propulsion); but excludes a road-roller".
+Statute	The "trailer" has been defined in Section 2(46) to mean "any vehicle, other than a semi-trailer and a side-car, drawn or intended to be drawn by a motor vehicle".
+RatioOfTheDecision	A tractor fitted with a trailer may or may not answer the definition of goods carriage contained in Section 2(14) of the Motor Vehicles Act.
+RatioOfTheDecision	The tractor was meant to be used for agricultural purposes.
+RatioOfTheDecision	The trailer attached to the tractor, thus, necessarily is required to be used for agricultural purposes, unless registered otherwise.
+RatioOfTheDecision	It may be, as has been contended by Mrs. <NAME>, that carr iage of vegetables being agricultural produce would lead to an inference that the tractor was being used for agricultural purposes but the same by itself would not be construed to mean that the tractor and trailer can be used for carriage of goods by another person for his business activities.
+RatioOfTheDecision	The deceased was a businessman.
+Argument	He used to deal in vegetables.
+Argument	After he purchased the vegetables, he was to transport the same to market for the purpose of sale thereof and not for any agricultural purpose.
+Argument	The tractor and trailer, therefore, were not being used for agricultural purposes.
+Argument	However, even if it be assumed that the trailer would answer the description of the "goods carriage" as contained in Section 2(14) of the Motor Vehicles Act, the case would be covered by the decisions of this <ORG> in Asha Rani (supra) and other decisions following the same, as the accident had taken place on 24.11.1991, i.e., much prior to coming into force of 1994 amendment.
+RulingByPresentCourt	For the reasons aforementioned, the impugned judgments can not be sustained which are set aside accordingly.
+RulingByPresentCourt	This appeal is allowed.
+RulingByPresentCourt	In the facts and circumstances of this case, there shall be no order as to costs.

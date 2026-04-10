@@ -1,0 +1,99 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: <NAME> AND ANR.
+Fact	DATE OF JUDGMENT18/08/1992 BENCH: <NAME>, L.M.
+Fact	(J) BENCH: <NAME>, L.M.
+Fact	(J) ANAND, A.S. (J) CITATION: 1993 AIR 1222 1992 SCR (3) 892 1992 SCC (4) 196 JT 1992 (4) 590 1992 SCALE (2)209 ACT: Bihar and Orissa cooperative societies Act, 1935- sections 40 and 48-Whether remedy under a specific provision excludes remedy under a general provision-held, where two remedies are available, both continue till the election of one of them, and action commenced accordingly-Section 40 does not therefore exclude section 48-Plurality of Remedies- Principle of election.
+Fact	HEADNOTE: During the tenure of respondent 1 as Depot Manager of <ORG>, a shortage of coal was detected.
+Fact	The appellant-Cooperative Union made a claim for the loss, and a reference was made to the Assistant Registrar, cooperative societies under section 48 of the Bihar and Orissa Cooperative Societies Act 1935. section 48( 1)(c) deals with disputes between the <ORG>.
+Fact	and a past or present officer or agent of the <ORG>.
+Fact	Section 40 provides for investigation by the Registrar where upon an audit or enquiry such officer has been found guilty of misappropriation or similar acts.
+Fact	The Assistant Registrar in an enquiry under Section 48 absolved respondent 1.
+Fact	This was reversed by the Joint Registrar and an award made accordingly.
+Fact	<ORG> in a writ application under Article 226 by respondent 1 held that since the matter was covered by Section 40 , Section 48 could not apply and set aside the award.
+Fact	<ORG> relied on the maxim generalia specialibus non derogant.
+Fact	The claim under section 40 was rejected on the ground of limitation under second proviso to Section 40 which prescribe a period of six years.
+Fact	Allowing the appeal, this <ORG>, HELD : 1.
+RatioOfTheDecision	Validity of plural remedies, if available under the law, cannot be doubted.
+RatioOfTheDecision	Even if the two remedies are inconsistent, they continue for the person concerned to choose from,  until he elects one of them, commencing an action accordingly.
+RatioOfTheDecision	A matter which may attract Section 40 will continue to be governed by Section 48 also if the necessary conditions 893 are fulfilled.
+RatioOfTheDecision	In the present case no steps under Section 40 were ever taken by the appellant.
+RatioOfTheDecision	The provisions of Section 48 are available to the appellant for the recovery of the loss.
+Precedent	[896C- <CITATION_1063842> .,  Supp.
+Precedent	2 SCC 215 and <CITATION_971550> .,  1 SCR 186, followed.
+Precedent	2.
+Fact	The claim of the appellant against respondent 1 is clearly covered by Section 48(1)(c) and therefore was validly referred to the Registrar under Section 48 .
+Fact	[895G] 3.
+Fact	The six year rule of limitation in Proviso under Section 40(1) is limited for the purpose of Section 40 , and cannot govern a reference under Section 48 .
+Fact	Even otherwise, on facts the claim is not barred by limitation.
+Fact	[897B] <ORG> v. <NAME>, (1969) 11 BLJR 969, distinguished.
+Fact	Matter remitted to <ORG> for decision on  the remaining issues.
+Fact	[897F] JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	3047 of 1992.
+Fact	From the Judgement and Order dated 30.7.1984 of <ORG> in Civil Writ Jurisdiction Case No.
+Precedent	373 of 1977.
+Precedent	<NAME> and <NAME> for the Appellant.
+Precedent	<NAME> for the Respondents.
+Precedent	The Judgement of the Court was delivered by <NAME>, J.
+Precedent	The question arising in this case is whether a matter, if it comes within the scope of section 40 of the Bihar and Orissa <ORG> Act , 1935 (hereinafter referred to as the Act) has to be excluded from the purview of Section 48 of the Act.
+RulingByLowerCourt	2.
+RulingByLowerCourt	Special leave is granted..  3.
+RulingByLowerCourt	The facts relevant for the decision of this appeal are in a short compass.
+RulingByLowerCourt	The respondent No.1 was Depot Manager under the appellant <ORG> and during his tenure as such, a shortage of coal was detected.
+Fact	A claim was accordingly made for the said loss by the appellant and a reference was made to the Assistant Registrar, <ORG> respondent No.
+Fact	3, under Section 48 of the Act.
+Fact	The Assistant Registrar absolved the respondent No.1 from the alleged liability and an appeal was filed by the appellant under Section 48(6) of the Act before the Joint Registrar, Co-operative Societies, respondent No.2, who are accepted the appellant's case, rejected the defence and made an award accordingly.
+Fact	This was challenged before <ORG> by a writ application under Article 226 of the Constitution of India.
+RulingByLowerCourt	<ORG> held that since the matter was covered by the provisions of Section 40 , Section 48 could not apply.
+RulingByLowerCourt	Consequently the award was held to be illegal.
+Argument	So far section 40 was concerned, it was pointed out that the claim had to be rejected on the ground of limitation.
+Argument	Thus without considering the other questions raised by the parties, <ORG> allowed the writ petition by the impugned judgement which is under challenge in the present appeal.
+Argument	4.
+Argument	It has been contended on behalf of the appellant that the provisions of Section 48 are wide enoug h to embrace the dispute which has been the subject matter of the present case and they cannot be given a narrow interpretation so as to exclude their application to cases which may also be covered by Section 40 .
+Argument	In reply reliance has been placed on behalf of the respondent No.1 on the decision in <ORG>1969) B.L.J.R.
+Argument	Vol.
+Argument	11 969 which has found favour with <ORG>.
+Argument	5.
+Statute	Section 40 pertaining to surcharge, provides that if as a result of an audit or inquiry it appears to the Registrar that any person who has taken part in the organisation or management of the society or any past or present officer of the society has either made a payment contrary to law or has been guilty of misappropriation or of having committed similar acts detailed therein, the Registrar may inquire into the matter and make an order requiring him to contribute an appropriate sum by way of compensation to the assets of the society.
+Statute	The second Proviso to sub -section (1) of the said section says that no such order shall be passed in respect of any act or ommission which had occurred more than six years earlier.
+Precedent	The provisions of sub-section (1) of Section 48 (omitting the explanations which are not relevant for the present issue) dealing with Disputes are in the following terms:  "(1) If any dispute touching the business of a registered society (other than a dispute regarding disciplinary action taken by the society or its managing committee against a paid servant of the society) arises-  (a) amongst members, past members, persons claiming through members, past members or deceased members, and sureties of members, past members or deceased members, whether such sureties are members or non-members; or  (b) between a member, past member, persons claiming through a member, past member or deceased member, or sureties of members, past members or deceased members, whether such sureties are members or non- members and the society, its managing committee or any officer, a gent or servant of the society; or  (c) between the society or its managing committee and any past or present officer, agent or servant of the society; or  (d) between the society and any other registered society; or  (e) between a financing bank authorised under the provisions of sub-section (1) of Sec.
+Precedent	16 and a person who is not a member of a registered society; such dispute shall be referred to the Registrar: Provided that no claim against a past member or the estate of a deceased member shall be treated as a dispute if the liability of the past member or of the estate of the deceased member has been extinguished by virtue of Sec.
+Precedent	32 or Sec.
+Precedent	63".
+RatioOfTheDecision	The claim of the appellant against the respondent No.1 is clearly covered by clause (c) of sub-section (1) above and, therefore, could have been validly referred to the Registrar under Section 48 .
+RatioOfTheDecision	The argument, however, is that since the matter is covered by Section 40 , Section 48 should be held to be inapplicable.
+RatioOfTheDecision	<ORG> agreed and made the following ob servations:-  896  "It is well-known proposition of law that when a matter falls under any specific provision then if must be governed by that provision and not by general provisions (Generalia specialibus non- derogant)".
+RatioOfTheDecision	<ORG> has in its judgement assumed that whenever a specific remedy is made available in law the other remedy, more general in nature, necessarily gets excluded.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Validity of plural remedies, if available under the law, cannot be doubted.
+RatioOfTheDecision	If any standard book on the subject is examined, it will be found that the debate is directed to the application of the principle of election, where two or more remedies are available to a person.
+RatioOfTheDecision	Even if the two remedies happen to be inconsistent,they continue for the person concerned to choose from, until he elects one of them, commencing an action accordingly.
+RatioOfTheDecision	In the present case there is no such problem as no steps under Section 40 were ever taken by the appellant.
+RatioOfTheDecision	The provisions of Section 48 must, therefore, be held to be available to the  appellant for recovery of the loss.
+RatioOfTheDecision	7.Our view that a matter which may attract Section 40 of the Act will continue to be governed by Section 48 also if the necessary conditions are fulfilled, is consistent with the decision of this Court in <CITATION_1063842> ,  Supp.
+RatioOfTheDecision	2 S.C.C.
+RatioOfTheDecision	215, arising under the Delhi Co-operative Societies Act , 1972.
+RatioOfTheDecision	The two Acts are similar and Sections 40 and 48 of the Bihar Act and Sections 59 and 60 of the Delhi Act are in pari materia.
+Precedent	The reported judgement followed an earlier decision of this Court in <CITATION_971550> - operative <ORG>,  1 S.C.R.
+Precedent	186.
+RatioOfTheDecision	We accordingly hold that the <ORG> was in error in assuming that the application of provisions of Section 48 of the Bihar Act could not be applied to the present case for the reason that Section 40 was attracted.
+RatioOfTheDecision	8.
+RatioOfTheDecision	So far the question of limitation is concerned it is true that as in the Delhi Act , a period of six years was fixed under the Bihar Act also by second Proviso under Section 40 (1), which reads  thus:-  "Provided further that no order shall be passed under this sub-section in respect of any act or omission mentioned in clauses (a), (b), (c) or (d) except within six years of the date on which such act or omission occurred."
+RatioOfTheDecision	It will be observed that the six years rule of limitation, however, is limited for the purpose of section 40 , and cannot govern the reference under section 48 .
+RatioOfTheDecision	The relevant provision of section 48 is to be found in the Proviso to section 48(1) which has been quoted above.
+RatioOfTheDecision	For determining its impact on the present case it is necessary to examine the Proviso closely.
+RatioOfTheDecision	Firstly, both the Proviso and section 63 of the Act are concerned only where the claim is against a member.
+RatioOfTheDecision	Even if the Proviso be assumed to govern a dispute between the society and its past or present officer or servant it cannot come to the aid of the present respondent No.1 because he was dismissed from service on 15.10.1966 and he was directed to deposit the disputed amount within 30 days therefrom.
+Fact	The dispute w as referred for adjudication under section 48 on 12.12.1966 and the reference was registered as Award Case No.
+Fact	25 of 1968 on 03.08.1968.
+Fact	Thus all these steps were taken within a period of two years.
+RatioOfTheDecision	No reliance, therefore, can be placed on either section 32 or 63.
+RatioOfTheDecision	The case of <ORG> (<ORG>) is clearly distinguishable.
+Argument	The respondent there was a member of the <ORG> in question and had taken a loan which was the subject matter of the dispute.
+Argument	As was pointed out by <ORG> the claim had stood barred by limitation and, therefore, it was held that the reference was incompetent in view of the Proviso to section 48(1) .
+RatioOfTheDecision	<ORG> in the present case was, in the circumstances, not entitled to rely on this decision and its conclusions must be set aside as being erroneous in law.
+RatioOfTheDecision	9.
+RatioOfTheDecision	However, since in the judgement it is stated that several other questions were also raised on behalf of the respondent No.1 (who was the writ petitioner) which remain ed undecided, the case requires reconsideration by <ORG> on the remaining points.
+RulingByPresentCourt	Accordingly the impugned judgement is set aside and the writ petition is remitted to <ORG> for fresh decision in accordance with the observations in the present judgement.
+RulingByPresentCourt	The appeal is allowed but in the circumstances without costs.
+Precedent	U.R.
+RulingByPresentCourt	Appeal allowed.

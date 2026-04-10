@@ -1,0 +1,50 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This reference is made by <ORG> under Section 66 (I) of the Indian Income-tax Act of 1922.
+Fact	The material facts are not controverted.
+Fact	The assessee carries on several business activities.
+Fact	He had purchased a piece of land measuring about 13 bighas for the alleged business of setting up a market and making profit.
+Fact	The plot was requisitioned by the military authorities under the Defence of India Rules.
+Fact	There was an agreement between the assessee and the 'military authorities that a sum of Rs.
+Fact	1,100 per month will be paid to the assessee as compensation for the use of the land.
+Fact	It should be added that the military authorities used the land as a store-yard.
+Fact	For the year 1946-47 the assessee received & total sum of Rs.
+Fact	13,200 as compensation.
+Fact	After making statutory deductions, the Income-tax Officer held that the net sum of Rs.
+Fact	9,699 received by the assessee from the military authorities was liable to be taxed.
+Fact	The assessee preferred an appeal to <ORG> istant Commissioner and argued that the amount was not liable to be taxed since it was merely compensation from the military authorities for preventing the assessee from making use of his capital asset.
+Fact	This argument was accepted by the Appellate Assistant Commissioner.
+Argument	An appeal was preferred by the Income-tax Officer to <ORG> who reversed the decision of the Appellate Assistant Commissioner and held that the amount was in substance profit derived from the land and so liable to be taxed.
+Argument	2.
+Argument	At the instance of the assessee <ORG> has referred the following question for being determined by <ORG>, viz., "Whether in view of the facts and the circumstances of the case, the sum of Rs.
+Argument	9,699 received by the assessee from the military authorities is taxable ? ''
+Argument	3.
+Argument	On behalf of the assessee Mr. <NAME> stressed the argument that upon the facts of this case it should be held that the amount of Rs.
+Argument	9,699 was compensation made for sterilisation of capital as set and was therefore not liable to be taxed.
+Argument	In support of his contention the learned Counsel referred to <ORG> v. <ORG> (1922) 12 Tax Cas 427 in which the appellant company carried on business as manufacturers of fireclay goods and as merchants of raw fireclay, and was lessee of certain fireclay fields over part of which ran the lines of <ORG>.
+Argument	In 1908 the railway company, to whom the lands belonged, though not the minerals beneath, instituted an action to restrain the appellant company from working the fireclay under the railway, contending that the fireclay was not a mineral and consequently formed part of the railway company's property.
+Argument	While the action was pending the appellant company was interdicted from working under the railway.
+Fact	In 1911 <ORG> decided against the railway company, which thereupon exercised its statutory powers to require part of the fireclay to be left unworked on payment of compensation.
+Fact	The amount of  compensation was settled by arbitration and duly paid to the appellant company in 1913.
+Fact	The question debated before the <ORG> wag whether the amount received for compensation in respect of the fireclay left unworked was profit earned in the course of the company's trade.
+Precedent	Upon the facts of the case the <ORG> of Lords held that the amount received as compensation was not a profit earned in the course of the company's trade but was a capital receipt, being a payment made for the sterilisation of a capital asset.
+Precedent	In the present case the facts are manifestly different and it is impossible to hold that on account of requisition made by the military authorities "the capita!
+Precedent	asset" of the assessee has been "sterilised", to borrow the language used in the decision of the <ORG> of Lords.
+Precedent	Reference was also made by <CITATION_213656> (1940) I.L.R.
+Precedent	1940 Pat.
+Precedent	186 : 8 I.T.R.
+Precedent	25, in which the assessee had in pursuance of a decree received a certain sum of money as damages for wrongful detention of her movable property and a  <ORG> of <ORG> held that such receipt was not " income " within the meaning of the Income-tax Act , 1922, and was not therefore liable to assessment.
+Precedent	In my opinion the principle of this case is not of much assistance to the assessee in the present case.
+Precedent	<NAME>, J. who pronounced the opinion of the <ORG> pointed out that there was a distinction between a case where damages, pure and simple have been awarded and a case where there is receipt of damages or compensation in the course of business or trade carried on by a trader.
+Precedent	Upon the facts of that case the learned Judge held that the receipt of the decretal amount for damages by the assessee for wrongful detention of her movable property was not income within the meaning of the Income-tax Act and was therefore not liable to assessment.
+RatioOfTheDecision	It is manifest that the facts are not in any way parallel to the facts of the present case.
+RatioOfTheDecision	On the contrary it would seem that the amount of compensation received by the assessed is really a  profit derived from the land and it was rightly held by <ORG> that the assessee was liable to be taxed under the Act.
+RatioOfTheDecision	4.
+Fact	Upon these grounds I hold that, in the circumstances of the case the sum of Rs.
+Fact	9,699 received by the assessee from the military authorities is taxable.
+Fact	The assessee must pay the cost of this reference to the Commissioner of Income-tax.
+Fact	Hearing fee Rs.
+Precedent	250.
+Precedent	<NAME>, J.
+Precedent	5.
+RulingByPresentCourt	I agree.

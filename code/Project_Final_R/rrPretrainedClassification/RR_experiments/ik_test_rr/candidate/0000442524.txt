@@ -1,0 +1,85 @@
+RulingByLowerCourt	PETITIONER: <NAME> Vs. RESPONDENT: <NAME> AND <NAME> DATE OF JUDGMENT: 19/09/2000 BENCH: <NAME> & <NAME> JUDGMENT:  <NAME>, J.
+RulingByLowerCourt	Leave granted.
+Fact	L...I...T.......T.......T.......T.......T.......T.......T..J When a plaintiff rushed to the civil court for an ex- parte interim order of injunction against some of the defendants and obtained it, those defendants rushed to <ORG> to get that order quashed.
+Fact	Both parties succeeded in their respective endeavour and now both of them accuse each other for the course adopted by the other.
+Fact	This appeal is by special leave at the instance of the plaintiff.
+Fact	The subject matter of the litigation is a property bearing Door No.177 to 182 on the Big Street at Triplicane in Madras (now Chennai).
+Fact	At this stage and in this appeal it is unnecessary to narrate the facts pleaded by the plaintiff in the plaint nor by the contesting first defendant in answer thereto regarding the right to the suit property.
+Fact	Suffice it to say that plaintiff claims to  be a lessee under one S. <NAME> (who is arrayed as 6th defendant in the suit) in respect of the property and on that strength he claimed to be in possession of the property.
+Fact	He alleged that the defendants 1 to 5 have been threatening to dispossess him.
+Fact	Appellant-plaintiff filed the suit on 25.6.1999 for a decree of permanent injunction restraining defendant Nos.1 to 5 from dispossessing him.
+Fact	Along with the institution of the suit he moved an application under Order 39 Rule 1 and 2 of the Code of Civil Procedure (for short the Code) to pass an ad interim injunction restraining respondents 1 to 5 or their men or agents, or their representatives or any person claiming through them or under them from evicting the petitioner from the suit property other than by due process of law and to pass such further or other order or orders.
+Fact	On 29.6.1999 the Assistant Judge of <ORG>, Chennai passed the following ex-parte order on the said application: Heard.
+Fact	Documents perused.
+Fact	Rental receipt Document 11 to Doc ument 47 proves that the petitioner is the statutory tenant and prima facie possession of the suit property.
+Fact	Though the property was leased out by R.6 on the basis of mortgage document 3, the petition is now in continuous possession of the property as tenant.
+Fact	Hence the balance of convenience is in favour of the petitioner.
+Fact	In the interest of justice, it appears that R.1 to R.5 are restrained from evicting the petitioner from the suit property, except under due process of law.
+RulingByLowerCourt	Notice by 25.8.99.
+RulingByLowerCourt	Ad interim injunction till then.
+RulingByLowerCourt	Order 39 Rule 3 to be complied with."
+Fact	The first respondent, on behalf of himself and respondent Nos.2 to 5, filed a revision petition invoking Article 227 of the Constitution before <ORG> alleging that they purchased the property from the owners thereof as per different sale documents executed on 15.3.1996, and they were in possession and enjoyment of the property.
+Fact	They further alleged that one <NAME>, MLA and one <NAME> together expressed a wish to purch ase the property from the respondents, but it was not agreed to and then those two persons exerted threat and pressure on them to capitulate to their demand.
+Fact	As they did not yield to such threats a suit was filed in 1998 by some parties who are now supporting the present plaintiff.
+Fact	The respondents further alleged that the said suit was filed at the instance and instigation of those two named persons.
+Fact	When they failed to get any relief therefrom another suit was caused to be filed through one <NAME> on the strength of some concocted documents.
+Fact	As no relief was obtained in that suit also the present suit, which is the third one in the series, has been filed at the behest of the above named persons, according to the respondents.
+Argument	Learned Single Judge of <ORG> who disposed of the revision made the observation that the trial court ought not have granted an order of injunction at the first stage itself which could operate beyond thirty days as the court had then no occasion to know of  what the affected party has to say about it.
+Argument	Such a course is impermissible under Order 39 Rule 3A of the Code, according to the learned single judge.
+Argument	He, therefore, set aside the injunction order for the clear transgression of the provisions of law and noted that this is the third suit filed in reference to the suit property and hence deprecated the grant of ex-parte injunction without notice.
+Argument	Though learned single judge further declined to go into the other allegations, he has chosen to make the following observations also: However, prima facie, I am satisfied that these materials are relevant for consideration before granting ad interim injunction.
+Argument	As per the plaint and affidavit averments admit that the first respondent is occupying a vacant portion of 1670 sq.
+Argument	ft. and running paper business and charcoal.
+RatioOfTheDecision	But there is no document to show that the first respondent is actually in possession and running such a business except the lease deed.
+RatioOfTheDecision	Hence the ex-parte order is unsustainable.
+RatioOfTheDecision	For all these reasons, I  am of the view that the order passed by the learned Judge is liable to be set aside and it is accordingly set aside.
+RatioOfTheDecision	After holding thus learned Single Judge directed the trial court to take up the interlocutory application for injunction and pass orders on merits and in accordance with law expeditiously.
+Argument	<NAME>, learned Senior Counsel contended that <ORG> should not have entertained a petition under Article 227 of the Constitution when the respondent had two remedies statutorily available to him.
+Argument	First is that the respondent could have approached the trial court for vacating, if not for any modification, of the interim ex-parte order passed.
+Argument	Second is that an appeal could have been preferred by him against the said order.
+Argument	It is open to respondent to opt either of the two remedies, contended the Senior Counsel.
+Statute	Section 104 of the Code says that an appeal shall lie from the following orders, and save as otherwise expressly provided in the body of this Code or by any law for the time bei ng in force, from no other orders:  (i) any order made under rules from which an appeal is expressly allowed by rules.
+Statute	Order 43 Rule 1 says that: An appeal shall lie from the following orders under the provisions of Section 104 namely;  (r) An order under Rule 1, Rule 2, Rule 2A, Rule 4 or Rule 10 of Order 39.
+Statute	Order 39 Rule 1 says thus: 1.
+Statute	Where in any suit it is proved by affidavit or otherwise -  (a) that any property in dispute in a suit is in danger of being wasted, damaged or alienated by any party to the suit, or wrongfully sold in execution of a decree or (b) that the defendant threatens, or intends to remove or dispose of his property with a view to defrauding his creditors, (c) that the defendant threatens to dispossess the plaintiff or otherwise cause injury to the plaintiff in relation to any property in dispute in the suit, the Court may by order grant a temporary injunction to restrain such act, or make such other order for the purpose of staying and preventing the wasting, damaging, alienation , sale, removal or disposition of the property or disposition of the plaintiff, or otherwise causing injury to the plaintiff in relation to any property in dispute in the suit as the Court thinks fit, until the disposal of the suit or until further orders.
+RatioOfTheDecision	It cannot be contended that the power to pass interim ex parte orders of injunction does not emanate from the said Rule.
+RatioOfTheDecision	In fact, the said rule is the repository of the power to grant orders of temporary injunction with or without notice, interim or temporary, or till further orders or till the disposal of the suit.
+RatioOfTheDecision	Hence, any order passed in exercise of the aforesaid powers in Rule 1 would be applicable as indicated in Order 43 Rule 1 of the Code.
+RatioOfTheDecision	The choice is for the party affected by the order either to move the appellate court or to approach the same court which passed the ex parte order for any relief.
+RatioOfTheDecision	Learned Senior Counsel for the respondents then contended that an order granting injunction without complying with the requisites envisaged in Rule 3  of Order 39 be void.
+RatioOfTheDecision	Rule 3 reads thus: The <ORG> shall in cases, except where it appears that the object of granting the injunction would be defeated by the delay, before granting an injunction direct notice of the application for the same to be given to the opposite party:  [Provided that, where it is proposed to grant an injunction without giving notice of the application to the opposite-party, the <ORG> shall record the reasons for its opinion that the object of granting the injunction would be defeated by delay, and require the applicant  (a) to deliver to the opposite-party, or to send to him by registered post, immediately after the order granting the injunction has been made, a copy of the application for injunction together with-  (i) a copy of the affidavit filed in support of the application; (ii) a copy of the plaint; and (iii) copies of documents on which the applicant relies, and  (b) to file, on the day on which such injunction is granted or on the day immediately following that day, an affida vit stating that the copies aforesaid have been so delivered or sent.
+RatioOfTheDecision	What would be the position if a court which passed the order granting interim ex parte injunction did not record reasons thereof or did not require the applicant to perform the duties enumerated in clauses (a) & (b) of Rule 3 of Order 39.
+RatioOfTheDecision	In our view such an Order can be deemed to contain such requirements at least by implication even if they are not stated in so many words.
+RatioOfTheDecision	But if a party, in whose favour an order was passed ex parte, fails to comply with the duties which he has to perform as required by the proviso quoted above, he must take the risk.
+RatioOfTheDecision	Non-compliance with such requisites on his part cannot be allowed to go without any consequence and to enable him to have only the advantage of it.
+RatioOfTheDecision	The consequence of the party (who secured the order) for not complying with the duties he is required to perform is that he cannot be allowed to take advantage of such order if the order is not obeyed by the other party.
+RatioOfTheDecision	A disobedient beneficiar y of an order cannot be heard to complain against any disobedience alleged against another party.
+RatioOfTheDecision	Learned Single Judge stated that the trial court ought not to have granted ex parte injunction beyond thirty days to be in force.
+RatioOfTheDecision	The said observation is based on the language contained in Order 39 Rule 3-A of the Code which reads thus: Where an injunction has been granted without giving notice to the opposite-party, the <ORG> shall make an endeavour to finally dispose of the application within thirty days from the date on which the injunction was granted; and where it is unable so to do, it shall record its reasons for such inability.
+RatioOfTheDecision	The Rule does not say that the period of the injunction order should be restricted by the <ORG> to thirty days at the first instance, but the <ORG> should pass final order on it within thirty days from the day on which the injunction was granted.
+RatioOfTheDecision	Hence, the order does not ipso facto become illegal merely because it was not restricted to a period of thirty days or less.
+RatioOfTheDecision	Nonethele ss, we have to consider the consequence, if any, on account of the <ORG> failing to pass the final orders within thirty days as enjoined by Rule3-A.
+RulingByPresentCourt	The aforesaid Rule casts a three-pronged protection to the party against whom the ex parte injunction order was passed.
+RulingByPresentCourt	First is the legal obligation that the <ORG> shall make an endeavour to finally dispose of the application of injunction within the period of thirty days.
+RatioOfTheDecision	Second is, the legal obligation that if for any valid reasons the <ORG> could not finally dispose of the application within the aforesaid time the <ORG> has to record the reasons thereof in writing.
+RatioOfTheDecision	What would happen if a <ORG> does not do either of the courses?
+RatioOfTheDecision	We have to bear in mind that in such a case the <ORG> would have by-passed the three protective humps which the legislature has provided for the safety of the person against whom the order was passed without affording him an opportunity to have a say in the matter.
+RatioOfTheDecision	First is that the <ORG> is obliged to give him notice before passing  the order.
+RatioOfTheDecision	It is only by way of a very exceptional contingency that the <ORG> is empowered to by-pass the said protective measure.
+RatioOfTheDecision	Second is the statutory obligation cast on the <ORG> to pass final orders on the application within the period of thirty days.
+RatioOfTheDecision	Here also it is only in very exceptional cases that the <ORG> can by-pass such a rule in which cases the legislature mandates on the court to have adequate reasons for such bypassing and to record those reasons in writing.
+RatioOfTheDecision	If that hump is also bypassed by the <ORG> it is difficult to hold that the party affected by the order should necessarily be the sole sufferer.
+RatioOfTheDecision	It is the acknowledged position of law that no party can be forced to suffer for the inaction of the court or its omissions to act according to the procedure established by law.
+RatioOfTheDecision	Under the normal circumstances the aggrieved party can prefer an appeal only against an order passed under Rules 1,2,2A, 4 or 10 of Order 39 of the Code in terms of Order 43 Rule 1 of the Code.
+RulingByPresentCourt	He cannot approach the ap pellate or revisional court during the pendency of the application for grant or vacation of temporary injunction.
+RatioOfTheDecision	In such circumstances the party who does not get justice due to the inaction of the court in following the mandate of law must have a remedy.
+RatioOfTheDecision	So we are of the view that in a case where the mandate of Order 39 Rule 3A of the Code is flouted, the aggrieved party, shall be entitled to the right of appeal notwithstanding the pendency of the application for grant or vacation of a temporary injunction, against the order remaining in force.
+RatioOfTheDecision	In such appeal, if preferred, the appellate court shall be obliged to entertain the appeal and further to take note of the omission of the subordinate court in complying with the provisions of Rule 3A.
+RatioOfTheDecision	In appropriate cases the appellate court, apart from granting or vacating or modifying the order of such injunction, may suggest suitable action against the erring judicial officer, including recommendation to take steps for making adverse entry in his ACRs.
+RatioOfTheDecision	Failure to  decide the application or vacate the ex-parte temporary injunction shall, for the purposes of the appeal, be deemed to be the final order passed on the application for temporary injunction, on the date of expiry of thirty days mentioned in the Rule.
+RatioOfTheDecision	Now what remains is the question whether <ORG> should have entertained the petition under Article 227 of the Constitution when the party had two other alternative remedies.
+RatioOfTheDecision	Though no hurdle can be put against the exercise of the constitutional powers of <ORG> it is a well recognized principle which gained judicial recognition that <ORG> should direct the party to avail himself of such remedies one or the other before he resorts to a constitutional remedy.
+RatioOfTheDecision	Learned single judge need not have entertained the revision petition at all and the party affected by the interim ex parte order should have been directed to resort to one of the other remedies.
+RatioOfTheDecision	Be that as it may, now it is idle to embark on that aspect as <ORG> had chosen to  entertain the revision petition.
+RulingByPresentCourt	In the light of the direction issued by <ORG> that the trial court should pass final orders on the interlocutory application filed by the plaintiff on merits and in accordance with law, we may further add that till such orders are passed by the trial court, status-quo as it prevailed immediately preceding the institution of the suit would be maintained by the parties.
+RulingByPresentCourt	This appeal is disposed of with the above observations and directions.

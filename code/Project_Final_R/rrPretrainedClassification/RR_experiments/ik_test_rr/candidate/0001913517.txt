@@ -1,0 +1,389 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: <ORG>.
+Fact	DATE OF JUDGMENT09/03/1972 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME> CITATION: 1972 AIR 1311 1972 SCR (3) 711 1972 SCC (1) 857 CITATOR INFO : RF 1979 SC 621 (26,29) RF 1980 SC1285 (36,38) ACT: Estoppel--Promissory estoppel--Scope of--Applicability of doctrine.
+Fact	Company Law--Incorporated Companies--Residence of--Ultra Vires--Company authorised by resolution to discharge tax liability of holding company to which dividends due not distributed--If ultra vires the company's powers.
+Fact	Limitation Act , 1963-- Section 15(5) --Applicability to incorporated companies--Company--When can be said to be residing in India and consequently no "absent" from the country.
+Fact	HEADNOTE: The rule of estopple has gained new dimensions in recent years and a new class of estoppel, viz., promissory estoppel has come to be recognised by <ORG>.
+Statute	Where parties enter into an agreement which is intended to create local relations between  them and in pursuance of such arrangement on a party makes a promise to the other which he knows will be acted on and which is in fact acted on by the promise, the <ORG> will treat the promise at finding on the promiser to the extent that it will not allow him to act inconsistently with it even although the promise may not be supported by consideration in the strict sense.
+Fact	[721D, 723C] <ORG> owned hundred per cent shares in <ORG> During the assessment years 1939-1940 to 1955-1956 the latter did not distribute dividends and the undistributed dividends were utilised by it as working capital.
+Fact	In all those years, the income-tax authorities took proceedings under s. 23-A of the Income Tax Act, 1922, and the deemed dividends were assessed in the bands of <ORG>.
+Fact	But.
+Fact	year after year, from 1939 to 1954, the Directors of <ORG> passed a resolution to the effect that it would be in-equitable to ask <ORG> to pay the tax levied and that <ORG> itself should  discharge that liability.
+Fact	The resolutions were implemented by <ORG> by playing all the, taxes due from <ORG>.
+Fact	If the dividends had been declared <ORG> would have got more than two and a half times the tax paid on its behalf.
+Fact	The payments were not debited to the account of <ORG>; nor were they shown as debts due from <ORG> in the balance sheets.
+Fact	At no time <ORG> made any demand on <ORG> to reimburse the money paid.
+Fact	In 1955 the control of <ORG> changed hands and, thereafter, by agreement, <ORG> under- took to discharge the tax liability of <ORG> to the extent of Rs.
+Fact	46 lakhs.
+Fact	In 1965 <ORG> filed a suit against <ORG> for recovery of the tax paid.
+Fact	The suit was dismissed.
+Fact	In the appeal to this Court <ORG> raised the plea of promissory estoppel.
+Fact	<ORG> urged that its resolutions were mere promises to do something in future; they were not representations of any and as those promises were not supported by any considerat ion, they afforded no legal basis to resist the claim.
+Fact	<ORG> argued that the promises made under those resolutions were supported by consideration 712 in as much as <ORG>, in response to those promises, refrained from enforcing the right to have the profits distributed as dividends.
+Fact	Held, that by acting on the basis of.
+Fact	the representation made by <ORG> <ORG> placed itself in a disadvantageous position, and therefore, the pleas of promissory estoppel had to be sustained.
+Fact	[122B- <CITATION_1882267> .,  2 S.C.R.
+Fact	366, <ORG> v. <ORG>,  1 K.B.
+Fact	130, <NAME> v. <NAME>,  2 K.B.
+Fact	215, <ORG> v. <ORG>,  2 All E.R.
+Fact	657 and Roberton V. Minister of Pensions  1 K.B.
+Fact	227, referred to.
+Argument	It was urged on behalf of <ORG> that the authority given to it to discharge the tax liabilities of <ORG> were ultra vires its powers and, therefore, provided no legal basis to resist the plain, claim, Held, that <ORG>  had not acted ultra vires its powers.
+Argument	The nondistribution of the dividends had augmented the working capital of the company thus affording it facility to earn more profits.
+Argument	Any step taken to augment the working capital of the company was undoubtedly inci- dental to the business of the company and, further, the same was not for the attainment of the objects mentioned in the memorandum.
+Argument	When <ORG> paid the tax due from <ORG>, in substance, though not in form, it was distributing a portion of its assets to the 100 per cent share holder of the company, but without reducing its capital.
+Argument	[726H] Even on the assumption that the suit claim was otherwise good, <ORG> urged, it was barred by limitation.
+Argument	It was contended on behalf of <ORG> that in view of s. 15(5) of the limitation Act,, 1963, the claim made, leaving aside the claim made in respect of the assessment for the assessment years 1955-1956, was not barred, because, <ORG> was a non resident company never present in India, and  therefore, under the section the time during which "the defendant has been absent from India" had to be excluded for the purpose of computing the period of limitation.
+Fact	Held, that the suit was barred by limitation : (a) <ORG> had waived the lien it might have had over the shares.
+Fact	held by <ORG>.
+Fact	Hence the only claim that <ORG> could have made against <ORG> was a money claim.
+Fact	(b) The suit was governed by the Limitation Act 1963, which fixed a period of three years for money payable.
+Fact	The amounts claimed, except those in respect of the assessment for the assessment year 1955-1956, were all paid before November 15, 1962.
+Fact	Therefore, they were barred by limitation.
+Fact	So far as the payment made in respect of the assessment year 1955-56 was concerned, <ORG> had no claim against <ORG>, because, under the amended s. 23A of the Income Tax Act, 1922, that liability was of the <ORG> itself.
+Fact	(c) Section 15(5) of the share holders of <ORG>.
+Fact	Under these circumstanc es, it that the provision does not apply to incorporated companies at all or, alternatively, that the incorporated companies must be held to reside in places where they carry on their activities and thus be present in all those places' Factually a company cannot either be DM-sent in India or absent from India.
+Fact	But it may have a domicile or residence in India.
+Fact	<ORG> of <ORG> used to meet in India now and then.
+Fact	It was, through its representatives, attending the general meeting of the share holders of <ORG>.
+Fact	Under these circumstances, it must be held to have been residing in' this country and consequently not absent from this country.
+Fact	Hence s. 15(5) cannot afford any assistance to <ORG> to save the bar of limitation.
+Fact	[727H-728C-730C] 713 Dicey's Conflict of Laws, <ORG> v. Public Trustee,  2 Ch.
+Fact	201, <ORG>, 5 H.L.C.
+Fact	416 and <CITATION_472872> , A.I.R.
+Fact	1929 Bom.
+Fact	14, referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : C.A.
+Fact	N o.
+Fact	1223 of 1970.
+Fact	Appeal from the judgment and decree dated June 23rd/24th, 1969 of <ORG> in Appeal from Original Decree ,No.
+Fact	203 of 1968.
+Fact	<NAME>, <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, for the appellant.
+Fact	<NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <ORG> This appeal by certificate is by the plaintiff- appellant, <ORG> (to be hereinafter referred to as <ORG>) from the decision of <ORG> of <ORG>.
+Fact	<ORG> affirmed the decision of the trial court dismissing the plaintiff's suit.
+Fact	In the suit <ORG> claimed a decree for a sum of Rs.
+Fact	1,27,67,052/16 P. The claim was made on the ground that the plaintiff had paid either as an agent or on behalf of the defendant <ORG> (in voluntary liquidation) (to be hereinafter referred to as <ORG> <ORG>) a sum of Rs.
+Fact	79,70,802/- as super-tax which it was entitled to be reimbursed.
+Fact	To that sum a sum of Rs.
+Fact	47,96,250/16 P. was added as interest in the shape of damages.
+Fact	In respect of that claim the appellant claimed a paramount lien on the 2295 shares owned by H<ORG> in the plaintiff-company.
+Fact	The defendant resisted the suit on Various grounds.
+Fact	It denied that the plaintiff had paid the amounts shown in the plaint-schedule or it was liable to be reimbursed the payments made, if any.
+RulingByLowerCourt	It also denied its liability to pay interest on the amounts that might have been paid.
+Fact	Further' it pleaded that the suit was barred by estoppel, waiver and acquiescence.
+Fact	It also pleaded the bar of limitation.
+Fact	In addition it pleaded that the lien claimed had been waived and that the suit was not properly instituted.
+Fact	According to the defendant, the .suit was not a bona fide one.
+Fact	It was one of the manipulations of <NAME> to get at the defendants' 2295 shares the plaintiff- company without paying for them.
+Fact	The tria l court dismissed the plaintiff's suit holding that the claim in question was barred by estoppel, waiver or acquiescence".
+RulingByLowerCourt	It held that it was also barred by limitation.
+RulingByLowerCourt	It opined that the liability to pay the tax in question was the joint liability of <NAME> as well as <ORG> and the same having been discharged by the former, it had no claim on <ORG>.
+RulingByLowerCourt	It opined that the suit was a dishonest attempt on the part of <NAME> to absolve his liability for paying for the 221-95 shares in respect of which he had obtained a decree for specific performance.'
+RulingByLowerCourt	The appellate court affirmed some of the findings of the trial court.
+Fact	In order to appreciate the various contentions advanced before this <ORG>, it is necessary briefly to refer to the history of the case.
+Fact	<ORG> was the owner of 100 per cent shares of <NAME>.
+Fact	<NAME> and <NAME> (both since deceased) were the owners of the 100 per cent shares of <ORG>.
+Fact	As can be seen from the records, <ORG>  <ORG> was a prosperous company.
+Fact	Though that company was making enormous profits every year, it did not distribute any portion of those profits as dividends during the assessment years 1939-1940 to 1955-56.
+Fact	The profits that should have been available for distributing as dividends were kept back by the company and used as working capital.
+Fact	In all those years the, income-tax authorities took proceedings under s. 23-A of the Indian Income-tax- Act, 1922.
+Fact	Thereafter the "deemed dividends" were assessed in the hands of <ORG>.
+Fact	But year after year the Directors of Turner <ORG> passed a resolution to the effect that it would be inequitable to ask <ORG> to pay the tax levied and that Turner <ORG> itself should discharge that liability.
+Fact	Those resolutions were duly implemented by Turner <ORG> by paying all the taxes due from <ORG>.
+Fact	In about the middle cf 1955, <NAME> entered into negotiation with <NAME> for purchasing all the shares of Turner <ORG>.
+Fact	By exchange of letters in No vember and December of 1955, <ORG> agreed to sell and <ORG> agreed to purchase 49 per cent shares of <ORG>.
+Fact	The agreement also provided for an option to <ORG> to purchase from <ORG> the balance of 51 per cent shares of <ORG> within five years for the price agreed upon.
+Fact	A formal agreement in that regard was entered between <ORG>, <NAME>, <NAME>, <ORG> (a nominee of <ORG>) and <ORG> on October 30, 1956.
+Fact	In pursuance of that agreement <ORG>.
+Fact	purchased 49 per cent shares of <ORG>.
+Fact	Thereafter as- contemplated in that agreement <ORG> went into voluntary liqui-dation.
+Fact	On October 31, 1957 two documents came to be executed.
+Fact	One is a deed of guarantee and indemnity.
+Fact	That was a tripartite agreement.
+Fact	The, first party to, that deed was <ORG>.
+Fact	The second party was <NAME> and <NAME> and the third party was <ORG>.
+Fact	In that deed after setting out the agreement between <ORG> and <NAME> hra, it was stated :  "NOW THIS DEED WITNESSETH that in consi- deration of the liquidator$ having at the request of the <ORG> (<ORG>) the said <NAME> and <NAME>Turner agreed (as is testified by their being parties to and executing these presents) to distribute the assets of <ORG> in specie amongst the contributories of <ORG> (such contributories being the said <NAME> and <NAME>) and in consideration of , the premises.
+Fact	1.
+Fact	The <ORG> and the said <NAME> and <NAME> hereby jointly and severally undertake to pay and/or satisfy all claims for or in respect of Income-tax and Super-tax which is or are not payable or recoverable or may at any time be payable or recoverable under the Indian Income-tax Act by or from <ORG> and which payments are in fact legally enforced and made.
+Fact	2.
+Fact	The <ORG> and the said <NAME> and <NAME> hereby jointly and severally covenant with the <ORG> idators and' 'each of them that the company and the said <NAME> and the said <NAME> will jointly and severally at all times hereinafter keep indemnified the <NAME> and each of them from all actions, proceedings, claims or demands in respect of or in connection with any liability of <ORG> to Income-tax or Super-tax under the Indian Income-tax Act and also against all costs, damage or expenses which the <ORG> or any of them may pay, incur or sustain in connection therewith or arising therefrom or otherwise in relation to the premises."
+Fact	The second document was a deed of indemnity between the <NAME> brothers and <NAME> Morrison.
+Fact	That deed provided that in the event of <NAME> Morrison "Paying in terms of the deed of guarantees and indemnity any sum in excess of 46 lakhs in satisfaction of the income-tax and super-tax which may at any time be payable or recoverable, payment of which are in fact legally enforced and made under the Indian Income-tax Act by or from <NAME> ford the Guarantors and each of them in consideration of the premises undertake to pay to the company (,<ORG>) the amount of such excess as aforesaid".
+Fact	716  At this stage, it may be mentioned that in accordance with the agreement entered into between <ORG> and <ORG> <ORG> was to discharge the tax liability of <ORG> to the extent of Rupees 46 lakhs.
+Fact	After the sale of the 49 per cent shares referred to earlier, some dispute appears to have arisen between <ORG> and <ORG> in regard to his option to purchase the remaining 51 per cent shares of the later.
+Fact	Consequently <ORG> filed a suit in <ORG> on its original side for the specific performance of the agreement entered into between him and the <ORG>.
+Fact	The suit was resisted by <ORG>.
+Fact	But it was decreed.
+Fact	It appears that when the learned trial judge was about to conclude his judgment, in that case the Counsel for <ORG> requested the court to issue an injunction requiring <ORG> to exercise its  voting rights in respect of the 51 per cent shares which was the subject matter of the suit in accordance with the directions of <ORG> until the implementation of the decree for specific performance.
+RulingByLowerCourt	The learned trial judge accepted that prayer and issued the injunction asked for.
+Fact	This led to serious consequences, some of which we have dealt with in our judgment in Civil Appeal No.
+Fact	488 of 1971 which we have just now pronounced.
+Fact	This case appears to be an off-shoot of that unfortunate injunction.
+Fact	In the suit for specific performance, though <ORG> was a party, it did not plead that it had any lien over the shares with which we are concerned in this case.
+Fact	By agreement between <ORG> and <ORG>, the later was removed from the array of defendants and the suit, proceeded against the remaining defendants.
+Fact	After obtaining the decree for specific performance and the ,injunction mentioned above, <ORG> appears to have not been interested in purchasing the 51 per cent shares by paying for the sam e evidently because he was in a position to have an absolute control over <NAME> as a result of the injunction issued.
+Fact	Though <NAME> filed an appeal against the decree in that suit, that appeal was withdrawn for reasons which are not clear.
+Fact	After the withdrawal of the appeal, by a Master's summons dated August 30, 1965 <NAME> moved the trial court for fixing a time within which <ORG> should purchase the 51 per cent shares by paying for the same.
+Fact	That application was rejected ,on September 1965 on the ground that the application being one for execution, it must be in a tabular form and "that any imposition of time limit would be to engraft something on the decree which does not exist in the decree".
+Fact	The appeal against that ,order was also unsuccessful.
+Fact	After the suit for specific performance was, decreed, <ORG> by himself or through <NAME> appears to have made various attempts to see that <NAME> is placed in such a position as not to be able to implement its part of the agreem ent.
+Fact	We have had to deal with some of those aspects in Civil Appeal 488 of 1971.
+Fact	Suffice it to say that according to <NAME>, the suit from which this appeal arises is one of the attempts of Mundhra in that direction.
+Fact	One other circumstance that is necessary to be mentioned before proceeding to consider the points in controversy is that despite the various resolutions passed by <ORG> of <ORG> as well as by the shareholders of that company at the general meeting, the present suit was filed by the Secretary of <ORG> even without obtaining the sanction of <ORG>.
+Fact	<ORG> sanction was sought only after the defendants' objected to the maintainability of the suit.
+Fact	From the Proceedings of <ORG>, it is clear that they were not even aware of the company against whom the suit was filed.
+Argument	From the two resolutions passed by <ORG> ratifying the action taken by the Secretary, it is obvious that either they were callous  or they were mere tools in the hands of <ORG>.
+Argument	It is not denied on behalf of <ORG> that the tax due from that company for the assessment years 1939-40 to 1955- 56 had been discharged by <ORG>.
+Argument	<ORG>'s liability to pay tax arose because of the' dividends it was deemed to have received from <ORG> as a result of s. 23-A proceedings.
+Argument	But there is dispute between the parties as to the exact amount paid by <ORG>.
+RatioOfTheDecision	We have not thought it necessary to go into that controversy as we have, agreeing with <ORG>, come to the conclusion that the suit is not maintainable for the reasons to be presently stated.
+Argument	A great deal of controversy centers round the question whether when an assessment is made on the shareholders of a company as a result of an order under s. 23-A , the company's liability to pay that tax is primary or secondary.
+Argument	It was contended on behalf of <ORG> that liability is a joint liability of both the company's as well as that of the shareholders.
+Argument	But a ccording to the appellant that liability is primarily that of the shareholders and if the company is compelled to discharge that liability, it is entitled to be reimbursed by its shareholders.
+Argument	Both the trial judge as well as the appellate bench have upheld the contention of <ORG> and have come to the conclusion that When <ORG> paid the tax due from <ORG>, it was discharging its own liability under law and that being so, it was not entitled to seek reimbursement from <ORG>.
+Statute	718  Section 23-A empowers the Income-tax Officer to order in writing if the conditions prescribed in that section are satisfied that the undistributed portion of the assessable income of a company earned 'in the previous year as computed for income-tax purposes and reduced by the amount of income- tax and super-tax payable by the company in respect thereof, shall be deemed to have been distributed as dividends amongst the shareholders as on the date of the concerned general meeting.
+RatioOfTheDecision	That deemed income has to be as sessed in the hands of the, shareholders either under s.23 or under s. 34 of the Indian Income-tax Act, 1922.
+RatioOfTheDecision	The two provisos to s. 23-A that are important for our present purpose are found in cls.
+RatioOfTheDecision	(ii) and (iii) of sub-s. (2) of s. 23-A .
+Statute	Clause (ii) says :  "Where the proportionate share of any member of a company in the undistributed,profits and gains of the, company has been included in his total income under the provisions of sub- section (1) the tax payable in respect thereof shall be recoverable from the company, if it cannot be recovered from such member."
+Statute	Clause (iii) reads :  " Where tax is recoverable from a company under this sub-section, a notice of demand shall be served upon it in the prescribed form showing the sum so, payable, and such company shall be deemed to be the assessee in respect of such sum, for the purposes of Chapter VI."
+Argument	It was urged on behalf of <ORG> that the income that can be brought to tax as a result of an 'order under s. 23-A is not a real income; it is only a dee med income; that income came to be taxed because of the failure of the company to declare dividends., It is only for the purpose of convenience that income is taxed in the hands of the shareholders; hence the liability to pay that tax in equity must be that of the company and it is for that reason s. 23- A has provided for the realisation of the tax due from the shareholders from the company.
+Argument	The fact that before passing an order under s. 23-A the shareholders are not even required to be heard was emphasised.
+Argument	In this connection our attention was invited to the amendment of s. 23-A in 1955 as a result of which now the tax liable to be paid as a result of an order under s. 23-A is payable exclusively by the company.
+Argument	In this connection reliance was also placed on the language of s. 42 which empowers the <ORG> to assess the income of a nonresident assessee in the hands of his agent, but at the same time that section empowers that agent to retain in his hands a sum equal to his estimated liability under that sec tion from out of the.
+Argument	non-resident's monies in his hands.
+Argument	It was lastly urged that if dividends were deemed to have been declared, those deemed dividends remained in the hands of the company and when the company paid tax in respect of the same, it must be held to have paid the same out of the dividends of the shareholders that remained in its hands.
+Argument	On the other hand, it was contended on behalf of <ORG> that any assessment made in pursuance of an order under s. 23-A is an assessment on- the shareholders and not on the company; The dividends deemed to have been distributed under s. 23-A is considered to be the income of the shareholders and not that of the company.
+Argument	It is added on to the other income of the shareholder for the purpose of assessment.
+Argument	It is recoverable from the shareholder.
+Argument	It is recoverable from the _company only if it cannot be recovered from the shareholders and the company is deemed to be an assessee in respect of such sum for the purposes of Chapter VT only and not for all purposes .
+Argument	Further the deemed distribution of dividends as a result of an order under s. 23-A is in no sense a real distribution of dividends which can be done only by the shareholders at the general meeting of the company.
+Argument	We do not propose to pronounce on this controversy firstly because this appeal can be decided on other grounds and secondly for the reason that that controversy has now become more or less academic in view of the amendment of S. 23-A in 1955.
+Argument	For the assessment years 1940-41 to 1952-53, <ORG> was assessed as the, agent of <ORG> as could be seen from the assessment orders.
+Argument	For that reason it was contended on behalf of <ORG> that it is entitled to be reimbursed in respect of the tax paid by it.
+Argument	<ORG> denies that <ORG> was its agent.
+Argument	According to <ORG>, the payments in question were made by <ORG> voluntarily and therefore it is not entitled to claim any reimbursement.
+Argument	Section 43 of the Indian Income-tax Act, 1922 prescribes as to who could be ass essed as an agent under s. 42 .
+Argument	That section says "Any person employed by or on behalf of a person residing out of the taxable territories or having any business connection with such person, or through whom such person is in the receipt of any income, profits or gains upon whom the Income-tax Officer has caused a notice to be, served of his intention treating him as the agent of the non-resident person shall for all the purposes of this Act, be deemed to be such agent."
+Argument	It was contended on behalf of <ORG> that it was not, residing out of the taxable, territories; it is a private, limited company:hence it must be held to be residing in all places where it-  720  eams or deemed to earn any income.
+Argument	It was further urged that <NAME> was not a person employed by or on behalf of <ORG> nor did <ORG> have any business connections with <NAME>.
+Argument	It was also the contention of <ORG> that it did not receive any income, profits or gains through <NAME>.
+Argument	Lastly it was urged that  the Income-tax Officer had not caused any notice to be served upon <ORG> intending to treat that company as the agent of <ORG>.
+RatioOfTheDecision	On the other hand it was <ORG> which had volunteered to be assessed on behalf of <ORG>.
+RatioOfTheDecision	For all these reasons it was said that <ORG> cannot be held to have been taxed as the agent of <ORG>.
+RatioOfTheDecision	All these contentions were taken for the first time in this Court.
+RatioOfTheDecision	They do not appear to have been taken either before the trial court or before the appellate court.
+RatioOfTheDecision	The contentions raised involve determina- tion of questions of fact.
+RatioOfTheDecision	In the plaint, it was specifically averred that the payments in question were made by <ORG> as the agent of <ORG>.
+RatioOfTheDecision	That averment has not been specifically denied.
+RatioOfTheDecision	In that view, we are not called upon to go into the various submissions noted above.
+RatioOfTheDecision	Before going into the other contentions, we may briefly deal with the contention that the suit was not properly instituted.
+RatioOfTheDecision	There appears to be basis for <ORG> <ORG>'s contention that this suit was inspired by <NAME> and A<ORG>eshir Jivanji <NAME>, the Secretary of <ORG>, who signed the plaint on behalf of <ORG> was a mere tool in his hands.
+RatioOfTheDecision	There is also reason to believe that when the Directors of <ORG> ratified the action taken by <NAME>, they behaved in an irresponsible manner as seen earlier.
+RatioOfTheDecision	But all the same it cannot be said, the suit is not maintainable.
+RatioOfTheDecision	It is true that under the Articles of Association of <ORG>, a suit on.
+RatioOfTheDecision	behalf of that company has to be filed with the consent of the Directors.
+RatioOfTheDecision	But the Secretary of the company held a general power of attorney from the Directors and the action taken by him was approved by the Directors.
+RatioOfTheDecision	Hence there can be no valid objection to the maintainability of the suit.
+RatioOfTheDecision	Three important questions remain to be considered.
+RatioOfTheDecision	They .are  1.
+RatioOfTheDecision	Whether the claim made by <ORG> is barredby the rule of estoppel, or waiver or abandonment ?
+RatioOfTheDecision	2.
+RatioOfTheDecision	Whether the decision of <ORG> to  take (over the liability of <ORG> either with or without any guarantee from <ORG> brothers was ultra vires its powers and .lm15  3.
+RatioOfTheDecision	Whether the claim made in the, suit or any portion thereof is barred by limitation ?
+RatioOfTheDecision	The judgments of the trial court.
+RatioOfTheDecision	and the appellate court have not made any distinction between estoppel, waiver and abandonment.
+RatioOfTheDecision	The distinction between those three concepts is fine but real.
+RatioOfTheDecision	In this case, there was no plea of any release under s. 63 of the Contract Act.
+RatioOfTheDecision	Hence the argument of Mr. <NAME>, learned Counsel for <ORG> Morrison on the scope of that section is irrelevant and we shall not go into the same.
+RatioOfTheDecision	The essential question to be considered is whether the facts established in this case support the plea of estoppel put forward by <ORG>.
+RatioOfTheDecision	If the answer to that question is in the affirmative then there is no need to examine whether there was any waiver or abandonment as pleaded by <ORG>.
+RatioOfTheDecision	'Estoppel' is a rule of equity.
+RatioOfTheDecision	That rule has gained new dimensions in recen t years.
+RatioOfTheDecision	A new class of estoppel i.e.
+RatioOfTheDecision	promissory estoppel has come to be recognised by the courts in this country as well as in England.
+RatioOfTheDecision	The full implication of 'promissory estoppel' is yet to be spelled out.
+RatioOfTheDecision	We shall presently refer to decisions bearing on that topic but before doing so, let us examine whether <ORG> made any representation to <ORG>, if so, what is that representation.
+RatioOfTheDecision	Further, whether <ORG> acted on the basis of that representation to its disadvantage.
+RatioOfTheDecision	It is not denied that year after year from 1941 to 1954 <ORG> passed resolutions undertaking to discharge the tax liability of <ORG>.
+RatioOfTheDecision	In pursuance of those resolutions taxes due from <ORG> were paid.
+Argument	There can be no doubt that the steps taken by <ORG> were within the knowledge of <ORG> as it held 100,per cent shares of <ORG>.
+Argument	The Directors of <ORG> must have been its nominees.
+Argument	The profit and loss accounts of <ORG> must have been approved by <ORG> year aft er year at the general meeting of that company.
+Argument	In reality the <NAME> brothers were the owners of <ORG> as well as <NAME> Morrison though each of those companies was a separate legal entity.
+Argument	It may be that <NAME> Morrison did not declare dividends so that <ORG> may avoid paying tax at a high rate.
+Argument	But at the same time <ORG> would not have agreed for not distributing dividends unless <NAME> Morrison took over the responsibility of paying the tax on the dividends deemed to have been distributed.
+Argument	It is established that if dividends had been declared <ORG> would have got more than two and half times the tax paid on its behalf.
+Argument	The undistributed dividends were available to <NAME> Morrison to be utilised as working capital and thereby earn more profits.
+Argument	The arrangement regarding the nondistribution of dividends as well as the payment for the tax due from <ORG> by <NAME> Morrison must have been with the consent of <ORG> as well as <NAME> ,brothers.
+Argument	Those arrangements had clearly benefit ed all the parties.
+Argument	Till <NAME> entered the scene, there could not have been ,any conflict of interest between <ORG> and <ORG>.
+Argument	When <ORG> paid the tax due from <ORG>, legal fiction apart, it was really paying from the monies belonging to <ORG>.
+Argument	If for any reason, <ORG> had not undertaken the responsibility to discharge the tax liability of <ORG>, the latter could have taken steps to compel the former to declare dividends or even compel it to go into voluntary liquidation.
+Argument	Hence there can be no doubt that by acting on the basis of the representation made by <ORG>, <ORG> had placed itself in a disadvantageous position.
+Argument	But it was urged on behalf of <ORG> that the resolutions in question were mere promises to do something in the future : They were not representations of any fact and as those promises were not supported by any consideration, they afford no legal basis to resist the claim made in the plaint.
+Argument	<ORG>'s answers to these  contentions are, that firstly those resolutions afford a good basis for raising a plea of promissory estoppel; secondly those representations became representation of fact as soon as the tax liability of <ORG> was discharged by <ORG> in pursuance of its resolutions and lastly the promises made under those resolutions were supported by consideration inasmuch as <ORG> in response to those promises refrained from enforcing its right to have the profits distributed as dividends.
+Argument	Now coming to the payments made after 1955, it is seen that according to the agreement between <ORG>, <ORG> and <ORG>, <ORG> was required to set apart a sum of Rupees 46 lakhs to discharge the tax liability of <ORG>.
+Argument	Accordingly <ORG> transferred Rupees 46 lakh from its general reserve to a special reserve.
+Argument	Further by the agreements dated October 31, 1957 set out earlier <ORG> took over the entire tax liability of <ORG> and t he <NAME> brothers agreed to reimburs e <ORG> any payment made on behalf of <ORG> in excess of Rupees 46 lakhs.
+Argument	All these arrangements clearly enured to the benefit of <ORG> inasmuch as it allowed that company to refrain from declaring dividends and utilise that money for business purposes.
+RatioOfTheDecision	There can be no doubt that it was done in the best interest of that company and with a view to further its business interests.
+RatioOfTheDecision	It is necessary to note that despite <ORG> paying the tax due from <ORG> from 1941 uptill 1953, those payments were not debited to the account of <ORG>; nor were they shown as debts due from <ORG> in the balance sheets placed before the general meeting.
+RatioOfTheDecision	Those, balance sheets were approved by the general meeting.
+RatioOfTheDecision	It was plainly admitted by the witnesses examined/ on behalf of <ORG> that the ,amounts paid on behalf of <ORG> were not considered as debts due from that company till about the time of filing the suit.
+Precedent	,In the general meeting of <ORG> held on March 29,  1956, the recommendation of <ORG> to transfer Rupees 46 lakhs from the general reserve to a special reserve for The purpose mentioned earlier was approved.
+Precedent	Thereafter <ORG> paid the tax due from <ORG> for the assessment year 1952-53 and debited the same to that special reserve.
+Argument	While <ORG> was keeping <ORG> informed of the assessments made on it and the refunds ordered, at no time it made any ,demand on <ORG> to reimburse the moneys paid.
+Argument	On several occasions <ORG> entered into agreements with the .President of India undertaking to discharge the tax liabilities of <ORG> upto an agreed maximum.
+Argument	<ORG> was representing <ORG> in all the assessment proceedings It used to file appeals on behalf of <ORG> against the orders of the Income-tax Officers.
+Argument	It had received all the amounts ordered to be refunded.
+Argument	It was keeping <ORG> informed of the various orders passed by the Income-tax authorities, but yet without making any dema nd for the payment of tax paid by it.
+RatioOfTheDecision	The documents produced in the case and the admissions made by the witnesses examined on behalf of <ORG> make it abundantly clear that the idea of claiming back the tax paid on behalf of <ORG> came to be entertained by <ORG> only after <NAME> came to control that company.
+RatioOfTheDecision	With this background let us now consider whether <ORG> is estopped from making the claim in question.
+RatioOfTheDecision	In support of its case <ORG> relies primarily on the doctrine of Promissory Estoppel.
+RatioOfTheDecision	This doctrine has assumed importance in recent years though it was dimly noticed in some of the earlier cases.
+Fact	The leading case on the subject is <ORG> v. <ORG>).
+Fact	The facts of that case are as follows : <ORG> let to <ORG>, a subsidiary of the former a block of flats for a term of 99 years from September 29, 1937 at a ground rent of pound 2500 a year.
+Fact	In the early part of 1940, owing to  war conditions then prevailing only a few of the flats in the block were let to tenants and it became apparent that <ORG> would be unable to pay the rent reserved by the lease out of the rent of the flats.
+Fact	Discussions took place between the 'Directors of the two companies and as a result on January 3, 1940, a letter was sent by the lessor to the lessee confirming that the ground rent of the (1) [1947] 1 K.B.
+Fact	130.
+Fact	724  premises would be reduced from X- 2500 to X- 1250 as from the beginning of the term.
+Fact	The lessee thereafter paid the reduced rent.
+Fact	By the beginning of 1945, all flats were let but the lessee continued to pay only the reduced rent.
+Fact	In September 1945, the lessor wrote to the lessee demanding rent at the rate of pounds 2500 per year.
+Fact	It also claimed at that rate for the quarters ending September 29 and December 25, 1945.
+Fact	The lessee repudiated that claim.
+Fact	The question for decision was whether the lessor was bound by the concession that it had agreed to show as the same was not su pported by any consideration.
+Argument	Answering that question <NAME> (as he then was) held that where parties enter into an agreement which is intended to create legal relations between them and in pursuance of such arrangement one party makes a promise to the other which he knows will be acted on and which is in fact acted on by the promise, the court will treat the promise as binding on the promiser to the extent that it will not allow him to act inconsistently with it even although the promise may not be supported by consideration in the strict sense.
+Argument	Therein the court divided the claim made in the suit into two categories one for the period prior to the end of 1945 and the other for the period thereafter.
+RulingByLowerCourt	It disallowed the claim of the lessor in respect of the former and allowed the claim relating to the later period.
+RulingByLowerCourt	The rule laid down in High Trees case(1) again came up for consideration before <ORG> in <NAME> v. <NAME>(2).
+RulingByLowerCourt	Therein the court ruled that the principle.
+RulingByLowerCourt	stated in High Trees' case(1)  is that, where one party has,, by his words or conduct, made to the other a promise or assurance which was intended to affect the legal relations between them and to be acted on accordingly, then, once the other party has taken him at his word and acted on it, the party who gave the promise or assurance cannot afterwards be allowed to revert to the previous legal relationship as if no such promise or assurance had been made by him, but he must accept their legal relations subject- to the qualification which he himself has so introduced, even though it is not supported in point of law by any consideration, but only by his word.
+RulingByLowerCourt	But that principle does not create any cause of action which did not exist before; so that, where a promise is made which is not supported by any consideration, the promises cannot bring an action on the basis of that promise.- The principle enunciated in <NAME> case(1) was also recognised by <ORG> in <ORG> v. <ORG>( 3).
+Precedent	That principle was adopted by this <ORG> in <CITATION_1882267> (4).
+Precedent	The facts of that case, in brief, are as follows (2)  2 K.B.
+Precedent	215.
+Precedent	(1) [1947] 1 K.B.130 (3) [1955] 2 All E.R.657 (4) [1968] 2.
+Precedent	S.C.R.
+Precedent	366.
+RulingByLowerCourt	725  In exercise of its powers under S. 3 of the Imports and Exports (Control) Act, 1947, <ORG> issued the Imports (Control) Order, 1955 and other orders setting out the policy ,governing the grant of import and export licences.
+RulingByLowerCourt	The <ORG> also evolved an Import Trade Policy, to facilitate the mechanism of the Act and the orders issued thereunder, and it was modified from time to time by issuing fresh Schemes in respect of new commodities.
+RulingByLowerCourt	In 1962, the <ORG> promulgated the Export Promotion Scheme providing incentives to exporters of woolen textiles and goods.
+RulingByLowerCourt	It provided for the grant to an exporter certificates to import raw materials of a total amount equal to 100% of the F.O.B.
+RulingByLowerCourt	value of his exports.
+RulingByLowerCourt	Clause 10 of the scheme provided that <ORG> r could grant an import certificate for a lesser amount if he is satisfied, after holding an enquiry, that the-declared value of the goods exported is higher than the real value of the goods.
+RulingByLowerCourt	The <ORG> was extended to exports of woolen textiles and goods to Afghanistan.
+RulingByLowerCourt	<ORG> exported woolen goods to Afghanistan and were issued an Export Entitlement Certificate by the Textile Commissioner not for the full F.O.B.
+RulingByLowerCourt	value of the goods exported but for a reduced amount on the basis of some private enquiry supposed to have been held by him but not after holding an enquiry as contemplated by the <ORG>.
+RulingByLowerCourt	The representation made by <ORG> in that con- nection to <ORG> was rejected.
+RulingByLowerCourt	Thereafter <ORG> moved <ORG> to set aside the order of the Textile Commissioner and the government and to issue a direction to them to grant licences for an amount equal to 100% of the F.O.B.
+RulingByLowerCourt	value of their exports.
+RulingByLowerCourt	That prayer was resisted by th e government on various grounds, inter alia, that the Export Promotion Scheme was administrative in character, that it contained mere executive instructions issued by the <ORG> to the Textile Commissioner and created no enforceable rights in the exporters who exported their goods in pursuance of the scheme and it imposed no obligation on the government to issue import certificates.
+RulingByLowerCourt	<ORG> and later this <ORG> in appeal rejected that contention.
+RulingByLowerCourt	This <ORG> held that the government is not exempt from liability to carry out the representation made by it as to its future conduct.
+RulingByLowerCourt	In arriving at that conclusion this <ORG> placed reliance on the decision of <NAME> in <NAME> v. <ORG>).
+Fact	<NAME> (<NAME>) was dealing with a case of, serving army officer who wrote to <ORG> regarding a disability and received a reply that his: disability had been accepted as attributable to "military service".
+RatioOfTheDecision	Relying on that assurance he forbore to obtain an independent medical opinion.
+Precedent	The Minister of Pensions later decided that his (1) [1949] 1 K.B.
+Precedent	227.
+Precedent	726  disability could not be attributed to War Service.
+Precedent	Therein the court held that as between the subjects such an assurance would be enforceable because it was intended to be binding, intended to be acted upon and was in fact acted upon,.
+RatioOfTheDecision	and the assurance was also binding on the ground because no term could be implied that the <ORG> was at liberty to revoke.
+RatioOfTheDecision	The rule laid down in these decisions undoubtedly advance the cause of justice and hence we have no hesitation in accepting it.
+RatioOfTheDecision	It was urged on behalf of <ORG> that the authority given to it to discharge the tax liabilities of <ORG> as well as the agreements entered into by it with <ORG> and the <NAME> brothers were ultra vires its powers, and consequently they provide no legal basis to resist the plaint claim.
+RatioOfTheDecision	It is true that a <ORG> company cannot exceed the powers conferred on it under its Memorandum of Association.
+RatioOfTheDecision	Therefore, for considering whether  <ORG> was competent to undertake the liability it did, we have to look to the provisions in the Memorandum.
+RatioOfTheDecision	Clause 3(b) of the Memorandum empowers the <ORG> to carry on business in India and elsewhere as merchants, general merchants, agents and traders etc.
+RatioOfTheDecision	Sub-clause (q) of that clause gives power to , the company "to receive money on deposit at interest or otherwise and lend money to such per- sons, with or without security and on such terms as may seem expedient and in particular to customers of and other persons having dealing with the company and to give any guarantee or indemnity as may seem expedient."
+RulingByPresentCourt	Sub-cl.
+RulingByPresentCourt	(x) authorises the company "to distribute among the members of the company in specie any property of the Company, but no distribution amounting to a reduction of capital shall be made without the sanction, if any, for the time being required by law."
+RulingByPresentCourt	Sub-cl.
+RulingByPresentCourt	(z) authorises the company to do all such other things as are incidental or conducive to the attainment of objects men-  tioned in Memorandum.
+RatioOfTheDecision	As seen earlier the non-distribution of the dividends had augmented the working capital of the company thus affording it facility to earn more profits.
+RatioOfTheDecision	Any step taken to augment the working capital of the company is undoubtedly incidental to the business of the company and further the same was conducive to the attainment of the objects mentioned in the Memorandum.
+RatioOfTheDecision	When <ORG> paid the tax due from <ORG> in substance, though not in form, it was distributing a portion of its assets to the 100 per cent shareholder of the company but without reducing its capital.
+RatioOfTheDecision	Hence we are unable to see how it can be said that <ORG> had acted ultra vires its powers.
+RatioOfTheDecision	Mr. <NAME>, learned Counsel for <ORG> invited our attention to several decisions wherein the courts had taken the view that the actions taken by the companies concerned were ultra vires their powers.
+RatioOfTheDecision	Those decisions were rendered on the facts of those cases.
+RatioOfTheDecision	Whether a transaction entered into by a company  can be said to be within its powers or not has to be decided on the basis of the facts established and the provisions in its Memorandum and not on the basis of any abstract rule.
+RatioOfTheDecision	The only other question that remains to be considered is whether the suit claim is barred by limitation even on the assumption that claim is otherwise in order.
+RatioOfTheDecision	For pronouncing on this question, it is first necessary to decide whether <ORG> had waived its lien over the shares held by <ORG>.
+RatioOfTheDecision	There can be no doubt that <ORG> has the power to waive the paramount lien it has upon all the shares registered in the name of each member, for his debts or liabilities to the company.
+RatioOfTheDecision	That much is clear from art.
+RatioOfTheDecision	22 of the Articles of Association.
+RatioOfTheDecision	That article provides that "Unless otherwise agreed the registration of transfer of shares shall operate as a waiver of the <ORG>'s lien (if any) upon such shares."
+Argument	In Buckley on Companies Act s (13th Edn.
+Argument	at p. 797) dealing with the question of lien, it is observed "...... .For such a provision is for the prote ction of the company, and is capable of being waived by the company. "
+RatioOfTheDecision	We have to see whether the company in fact had waived the lien it had in respect of the suit claim, assuming that the said claim is otherwise good.
+RatioOfTheDecision	As seen earlier at all stages <ORG> took over the responsibility of paying the tax due on behalf of <ORG>.
+Argument	There was no idea of recovering the amount paid as tax, from <ORG>.
+Argument	When <ORG> sold 49 per cent of its shares to <ORG>, the same was registered without any objection.
+Argument	It was clearly admitted by the Secretary of <ORG> and other witnesses examined on behalf of that company that the idea of suing <ORG> for recovering the tax paid was con- ceived for the first time after <ORG> obtained the decree for specific performance.
+RatioOfTheDecision	Under these circumstances, it is.clear that <ORG> had waived the lien that it might have had over the shares held by <ORG>.
+RatioOfTheDecision	Hence the only claim that <ORG> could have  made against <NAME> was a money claim.
+RatioOfTheDecision	The present suit was filed on November 15, 1965.
+RatioOfTheDecision	Hence it is governed by the provisions of the ' Limitation Act , 1963 which came into force on April 1, 1964.
+RatioOfTheDecision	Article 23 of that Act fixes a period of three years for instituting a suit "for money payable to, the plaintiff for money paid for the defendant" and the cause of action for the same comme nces when the money is paid.
+RatioOfTheDecision	To the same effect was Art.
+RatioOfTheDecision	63 of the Limitation Act , 1908.
+Argument	The amounts claimed in the present suit except those in respect of the assessment for the assessment year 1955-56 were all admittedly paid before November 15, 1962.
+Argument	Hence they are prima facie barred by limitation.
+Argument	So far as the payments made in respect of the assessment for the assessment year 1955-56 is concerned, <ORG> can have no, claim against <NAME> because under the amended s. 23-A of the Income-tax Act, 1922, that liability was that of <ORG> itself.
+Argument	But it was urged on behalf of <ORG> that in vie w of s. 15 (5) of the Limitation Act , 1963, the claim made, leaving aside the claim made in respect of the assessment for the assessment year 1955-56, is not barred.
+Argument	Section 15(5) prescribes :  "In computing the period of limitation for any suit the time during which the defendant has been absent from India and from the territories outside India under the administration of <ORG> shall be excluded."
+Argument	It was urged on behalf of <ORG> that <ORG> is a non-resident company.
+RatioOfTheDecision	Therefore it cannot be said that at any time it was present in India.
+RatioOfTheDecision	Hence the suit is not barred.
+RatioOfTheDecision	If this argument is correct then there can be no period of limitation for filing a suit against a non- resident company a proposition which is prima facie startling.
+RatioOfTheDecision	Can we hold 'that s. 15(15) applies to a suit of the type with which we are concerned ?
+RatioOfTheDecision	That provision contemplates the case of a defendant who has been absent from India.
+RatioOfTheDecision	That article presupposes that defendant was at one time present in India and lat er he has been absent from India.
+RatioOfTheDecision	A person who was never in India cannot be considered ,is having been absent from India.
+RatioOfTheDecision	Factually a company cannot either be present in India or absent from India.
+RatioOfTheDecision	But it may have a domicile or residence in India.
+RatioOfTheDecision	Sometime questions have arisen as to what is the place of residence of an incorporated company.
+RatioOfTheDecision	<NAME> in his Conflict of Laws (4th Edn.
+RatioOfTheDecision	p. 152 rule 19) pointing out the difference between the domicile of a natural person and that of a corporation, says :  "The domicil of a human 'being is a fact which on certain points,, subjects him to the law of a particular country.
+RatioOfTheDecision	The domicil of a corporation is a fiction suggested by the fact that a corporation is, on certain points, e.g., the jurisdiction of the <ORG>, subject to, the law of a particular country.
+RatioOfTheDecision	A man, that is to say, is in some respects subject to the law of England because he has in fact an English domicil; a corporation is by a fiction supposed to have an English residence or domicil because it is in cer tain respects subject to the law of England.
+RatioOfTheDecision	Hence a corporation may very well be, considered domiciled or resident, in a country for one purpose and not for another, and hence, too, the great uncertainty as to the facts which determine the domicil, or residence of a corporation.
+Precedent	In each case the particular question is not, at bottom, whether a corporation has in reality a permanent residence in a particular country, but whether, for certain purposes (e.g.
+Precedent	submission to the jurisdiction of the Courts or liability to taxation), a corporation is to be c onsidered as resident in England or in some other country."
+Precedent	The question of residence of an insurance company registered and having its registered office in a foreign country came up for consideration before <ORG> in <ORG> v. <ORG>).
+Precedent	There in <NAME> <ORG> quoted with approval the following passage from the judgment of Lord <NAME> in <ORG> v. Maclaren(2).
+Precedent	"I think that this company may properl y be deemed both Scotch and English.
+Precedent	It may, for the purposes of jurisdiction, be deemed to have two domiciles.
+Precedent	Its business is necessarily carried on by agents, and I do not know why its domicile should be considered to be confined to the place where the goods are manufactured...
+Precedent	There may be two domiciles and two jurisdictions; and in this case there are, as I conceive, two domiciles and a double sort of jurisdiction, one in Scotland and one in England; and for the purpose of carrying on their business, one is just as much a domicile of the corporation as the other."
+Precedent	The same view was expressed in that case by <ORG> <ORG> division bench of <ORG> in <CITATION_472872> (3) dealing with the scope of s. 13 of the Limitation Act 1908 which is identical with the resent s. 15(5) held that s. 13 must be read so, as to avoid the obvious absurdity that arises if such corporate bodies (1)  2.
+Precedent	Ch.
+Precedent	201.
+Precedent	(3) A.I.R.
+Precedent	1929 Bom.
+Precedent	p. 14.
+Precedent	(2) 5, H.L.C.
+Precedent	416.
+RatioOfTheDecision	730  are deemed to reside out  of British India so that suits against them can never be barred at all.
+RatioOfTheDecision	And this can be done by treating them as defendants, who by reason of their special character, are not absent from British India within the meaning of the section, because they have not got the same liberty as private individuals to reside personally in British India and attend to their affairs and they must do so through agents or representatives.
+RatioOfTheDecision	Under those circumstances, they can be held to reside in British India in so far as they actually carry on business through their representatives in British India.
+RatioOfTheDecision	Section 15(5) of the Limitation Act, 1963 can be viewed in one o f the two ways i.e.
+RatioOfTheDecision	that that provision does not apply to incorporated companies at all or alternatively that the incorporated companies must be held to-reside in places where they carry on their activities and thus being present in all those places.
+Precedent	<ORG> is an Investment company.
+Precedent	It had invested large sums of monies in <ORG>.
+Precedent	Its Board of Directors use d to meet in India now and then.
+Precedent	It was, (through its representatives) attending the general meeting of the shareholders of <ORG>.
+Precedent	Under these circumstances, it must be held to-have been residing in this country and consequently was not absent from this country.
+RatioOfTheDecision	Hence s. 15(5) cannot afford any assistance to <ORG> to save the bar of limitation.
+RulingByPresentCourt	For the reasons mentioned above, this appeal fails and it is dismissed.
+RatioOfTheDecision	Turning to the question of costs, 'from what we have said earlier, it is clear that there was no justification for bringing the suit.
+RatioOfTheDecision	The suit was clearly engineered by <ORG> to attain certain ulterior purposes of his.
+RatioOfTheDecision	But unfortunately neither he no his likely collaborators the Directors, of <ORG>, are before us.
+RatioOfTheDecision	The only accessory of <ORG> who is before us is the Secretary of <ORG>, <NAME>.
+RatioOfTheDecision	There is no justification to make <ORG> in which <ORG> has only 49 per cent shares to bear the costs.
+RatioOfTheDecision	In the circumstances, we think it proper to dire ct Hormasji to bear the costs of both the parties in this Court.
+RatioOfTheDecision	The order made by <ORG> as regards costs will stand.
+Precedent	K.B.N.
+Precedent	Appeal dismissed.
+Precedent	731

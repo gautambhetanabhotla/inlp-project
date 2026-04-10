@@ -1,0 +1,113 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	These four separate appeals under Clause 10 of the Letters Patent raise a common question of law, namely whether the learned Single Judge from whose orders the appeals have been preferred was justified in sending for the record and restraining <ORG> from going ahead with the removal proceedings.
+Fact	2.
+Fact	A <ORG> set up to enquire into the conduct of one Major <NAME>, Garrison Engineer of Secunderabad, recorded the statements of a large number of persons, including those of the four petitioners who happened to be serving as officiating Assistant Garrison Engineers.
+Fact	As the petitioners appear to have made statements in which they incriminated themselves, they were placed under suspension and written statements of charges were handed over to them.
+Fact	No oral enquiry was held but the explanations furnished by them were considered and the Enquiry Officer submitted his report on the basis of which <ORG> called upon the petitioners to show cause why their services  should not be terminated.
+Fact	The petitioners thereupon presented four separate petitions under Art.
+Argument	226 of the Constitution in which they complained that the enquiry hart been conducted without notice or hearing and requested that the records of the case should be sent for and examined, that appropriate directions be issued, to the Enquiring Officer requiring him to comply with the provisions of law, and that Government should be prohibited from taking any action against the petitioners on the basis of the said report.
+Argument	3.
+Argument	The learned Judge of this Court before whom these petitions came up for hearing came to the conclusion that the provisions of Rule 6 of the Rules Regarding Discipline which correspond to Rule 55 of the Civil Services (Classification, Control and Appeal) Rules were not complied with, that the request of the petitioners for an oral hearing was not acceded to, that they were not permitted to cross-examine the witnesses on whose evidence the prosecution proposed to rely and in short that they wer e not afforded a reasonable opportunity of defending themselves.
+Argument	He accordingly declared the findings of the Enquiry Officer to be void and of no effect and directed the respondent to afford the petitioners a proper opportunity for producing their defence.
+Argument	<ORG> is dissatisfied with the order and has preferred four separate appeals under Clause 10 of the Letters Patent.
+Argument	4.
+Argument	Mr. <NAME>, who has argued the case for the petitioners with conspicuous ability, contends that an enquiry into the conduct of a <ORG> servant is completed in two stages.
+Argument	The first stage is concerned with the ascertaining of facts, the existence of which alone can furnish the basis for the proposed action.
+Fact	It consists of the formulation of charges, notice thereof, a hearing and a report.
+RatioOfTheDecision	If the report is unfavourable to the officer concerned and if <ORG> comes to a provisional decision as to the punishment that should be awarded to him, the enquiry enters upon the second stage.
+RatioOfTheDecision	A copy of the report submitted b y the Enquiry Officer is sent to the Officer whose conduct is under investigation and is required to how cause why he should not be dismissed or removed or reduced in rank.
+RatioOfTheDecision	In the present case, it is contended, proceedings have been instituted against the petitioners without hearing when they are entitled to be heard and a report has been submitted which presents only one side of the picture.
+RatioOfTheDecision	If the factual basis on which action is proposed to be taken is wrong and misleading, no explanations furnished by the petitioners are likely to induce Government to exonerate them from blame or to impel it to alter the provisional decision at which it has already arrived.
+Argument	The petitioners, it is contended, are entitled to defend themselves at two stages and as their right to defend themselves at the first stage has been violated, they are entitled to claim the protection of the <ORG>.
+Argument	They accordingly pray that this Court should send for the records of the proceedings and review the action of the Enquiry Officer on ce rtiorari so that it should be in a position to determine for itself, from the contents of the record, whether the Enquiry Officer has exceeded his jurisdiction or has not proceeded according to the essential requirements of law.
+Argument	In the alternative, it is prayed that a writ of prohibition should issue to the appropriate officer restraining him from proceeding further without complying with the statutory and other formalities.
+Argument	5.
+RatioOfTheDecision	There can be no question of a writ of prohibition being issued in this case, for it has not been alleged or proved that there has been any wrongful adjudication by an unauthorised body.
+RatioOfTheDecision	6.
+RatioOfTheDecision	A writ of certiorari lies when the inferior <ORG> or tribunal has exceeded its jurisdiction or when such <ORG> on tribunal has proceeded illegally and no appeal lies.
+RatioOfTheDecision	It can be issued, only to restrain the exercise of judicial functions as distinguished from ministerial and executive acts.
+Precedent	It can be issued to <ORG>s and to officers, boards and tribunals who possess judicial or quasi-judicial power s and have to act judicially -- 'Rex v. Electricity Commissioners', (1924) 1 KB 171 (A), and in extreme cases also to purely ministerial bodies when they usurp judicial functions--'Braizie V. Fayettee County', (1884) 25 W Va 213 (B).
+Precedent	It cannot extend to the Questioning of annulling of acts which are ministerial, executive or legislative.
+Precedent	It is the nature of the act sought to be restrained and not the general character of the tribunal or officer proceeded against which determines the propriety of this writ.,  7.
+Precedent	Two questions at once arise for decision, namely--  (1) Whether an officer conducting a removal proceeding in accordance with the provisions of Art.
+Precedent	311 acts in an executive or administrative capacity, and (2) Whether the statutory rules by which the 'conditions of service of the petitioners are regulated have provided another adequate remedy by way of appeal or revision or other appropriate proceeding.
+RatioOfTheDecision	8.
+RatioOfTheDecision	If both these questions are answered in the affirmative, it is obvious that the Enquiry Officer  is not amenable to the writ of certiorari and it is not within the competence of this <ORG> to intervene at this stage.
+RatioOfTheDecision	9.
+Precedent	'Prima facie' the power to remove from office is an executive function, (In re.
+Precedent	Opinion of Justices, 118 Am LR 166 at p. 169 (C)), for if a public servant holds office at the pleasure of the <ORG>, it is open to the appointing power to remove him arbitrarily without cause, or to remove him for cause, or to remove him for such cause as it may think fit or proper or upon such enquiries as it may think fit to make or in the absence of any enquiry whatever.
+RatioOfTheDecision	In such a case <ORG>s are powerless to interfere.
+RatioOfTheDecision	10.
+RatioOfTheDecision	If, however, the Constitution declares --as has been declared in Article 311 -- that no person shall be dismissed or removed or reduced in rank unless he has been afforded a reasonable opportunity of being heard, the question arises whether the officer who conducts a removal proceeding against a public servant who cannot be removed without notice and hearing acts in a ministerial or  Judicial capacity.
+RatioOfTheDecision	Two different views, which are diametrically opposed to each other, have been expressed.
+RatioOfTheDecision	According to one view this function is purely executive or administrative containing no element of judicial power.
+RatioOfTheDecision	11.
+RatioOfTheDecision	In 'People ex rel.
+Precedent	<NAME> v. <ORG>', (1383) 6 Colo 534 (D), holding that prohibition would not lie against <ORG> to prevent it from hearing charges and continuing proceedings for the removal of a city solicitor, the <ORG> said:--  "It will be observed that the tribunal to which the writ Issues must be acting in a judicial and not merely an administrative or ministerial capacity .............. <ORG> is not a judicial body; and it is doubtful if the legislature, under the constitution, could invest it with judicial authority.
+Precedent	In the case under consideration it was not acting or attempting to act in a judicial capacity.
+RatioOfTheDecision	The examination of charges preferred to the city solicitor, finding him guilty of malfeasance in office and removing him therefrom, by the <ORG> y Council was not the exercise of judicial power.
+RatioOfTheDecision	And this is true though the offences charged may constitute cause of action cognizable by the <ORG>."
+RatioOfTheDecision	12.
+RatioOfTheDecision	According to the other view the function is judicial or quasi-judicial.
+Precedent	In -- '<NAME> v. Detroit', (1894) 39 Am St. Rep. 555 (E), holding that prohibition would lie to prevent a common council from proceeding to investigate charges preferred against a City Counsellor, the Court said:  "Under the Constitution, the legislature may provide for the removal of municipal officers.
+Precedent	It certainly has never been regarded in this State that the officer or body upon whom this power is conferred acts in a purely political, administrative or legislative capacity.
+Precedent	Such officer or body acts, and must of necessity act, in a quasi-judicial capacity, and the method of procedure must be of a quasi-judicial character ..............
+Precedent	Such officer or body then becomes an inferior tribunal, amenable to the writ of prohibition when acting In excess of the jurisdiction conferred.
+Precedent	In such cases it is of little consequence what name is given to the power conferred.
+Precedent	The name cannot relieve it of its essential character."
+Precedent	13.
+Precedent	While the cases cannot be reconciled, the weight of judicial opinion in America, appears to favour the proposition that where the law indicates that the power of removal shall be exercised for cause only and declares that the officers whose conduct is under investigation shall be entitled to have a written statement of the charges against him, and to be heard in his defence, then the proceeding is judicial in character because the power to hear and determine is to be exercised, as in <ORG>s, only after notice and a hearing on the merits.
+Precedent	It needs no argument" observed the <ORG> 'In matter of <NAME>', 6 Abb NO 474 (P), "to prove that any proceeding Initiated to remove a person from a public office before a person or body having jurisdiction to decide upon the existence of cause for removal is judicial in its character and the tribunal to which it is presented is a C ourt for that purpose."
+Precedent	The same <ORG> proceeded to draw a distinction between removal for cause and arbitrary removal and to hold that the power to remove a person from office for cause means that a reason, must exist which is personal to the individual sought to be removed, which the law and a sound, public opinion will recognise as a good cause for his no longer occupying the place.
+RatioOfTheDecision	14.
+RatioOfTheDecision	It will be seen from the above that a removal proceeding acquires the character of a judicial proceeding only if the power of removal can be exercised for cause and only if the officer is entitled to notice and hearing as a condition precedent to his removal.
+RatioOfTheDecision	15.
+RatioOfTheDecision	But what is to happen if the law declares that a public servant may be removed at the will and caprice of the appointing power but at the same time requires that his services should not be terminated unless he has been afforded a reasonable opportunity of being heard.
+RatioOfTheDecision	I have not been able to discover any direct authority on this point, but I entertain no doubt i n my mind that the proceeding would be executive or ministerial in character.
+Precedent	<CITATION_31582945> of state', AIR 1937 PC 31 (G), their Lordships who were called upon to construe the provisions of S.240 of the Government of India Act expressed the view that this section merely contained a statutory and solemn assurance that the tenure of office though at pleasure will not be subject to capricious or arbitrary action but will be regulated by rule and that the remedy of the person aggrieved did not lie by a suit in <ORG> but by way of appeal of official kind.
+Precedent	In 'R.
+Precedent	v. Metropolitan Police Commrs; ex parte <NAME>', (1953) 2 All ER 717 (H), it was held that where a person whether he is a military officer, a police officer, or any other person, whose duty it is to act in matters of discipline is exercising disciplinary powers, it is most undesirable that he should be fettered by threats of orders of certiorari and so fourth, because that interferes with the free and proper exercise of the disciplinary powers whic h he has.
+Precedent	In 'Ex Parte Fry', 1954-2 All ER 118 (I), a fireman was charged under the Fire Services Discipline Regulations, 1948, with disobedience to orders inasmuch as he had failed to carry out a lawful order given to him to clear the fire uniform of an officer attached to the station.
+Precedent	The fireman appeared before the Enquiry Officer but the hearing was conducted in such a way that he was denied a fair trial.
+Precedent	The fireman accordingly applied to the Court for the issue of a writ of certiorari.
+Precedent	Lord <NAME> dismissed this application with the following observations:--  "It seems to me impossible to say, whether a chief officer of a force which is governed by discipline as <ORG> is exercising disciplinary authority over a member of the force that he is acting either judicially or quasi judicially.
+Precedent	It seems to me that he is no more acting judicially or quasi-judicially than a schoolmaster who is exercising disciplinary powers over his pupils.''
+Precedent	<ORG> upheld this order on the ground th at as the remedy by way of certiorari which was sought was discretionary in the <ORG> and as the <ORG> had exercised its discretion against the fireman there was no occasion for the appellate <ORG> to interfere.
+Precedent	It refrained from expressing an opinion as to whether the chief officer of a force who is exercising disciplinary authority is acting in a judicial or a quasi-judicial capacity.
+Precedent	I find myself in respectful agreement with the view expressed by the learned Chief Justice of England.
+RatioOfTheDecision	As the petitioners have not been able to show that the officers who have had occassion to deal with their cases in the removal proceedings were acting in a judicial or quasi-judicial capacity, it is obvious that they cannot invoke the aid of the writ of certiorari.
+RatioOfTheDecision	The rules by which their conditions of service are regulated clearly provide a method for reviewing adverse decisions by administrative appeals.
+RatioOfTheDecision	16.
+RatioOfTheDecision	Even if a writ of certiorari were to lie in a case of this kind, I would be extremely reluctant jto issue one, for  I am of the opinion that interference with interlocutory orders passed in the course of removal proceedings would be productive of nothing but mischief.
+RatioOfTheDecision	17.
+RatioOfTheDecision	This case can, I think, be decided on another ground.
+RatioOfTheDecision	Let us assume for the sake of argument that the Enquiry Officer in the present case has failed to comply with the statutory rules and has in substance denied a hearing to which the petitioners were entitled.
+RatioOfTheDecision	A notice has now been issued to them to show cause why their services should not be dispensed with.
+RatioOfTheDecision	Surely it is open to them, in response to the said notice, to inform Government that they have been denied an opportunity of having their say and that a decision given without affording them an 6pportunity of being heard would be wholly ineffectual.
+RatioOfTheDecision	One is entitled to presume that if there is substance in the protest the appropriate authority will set aside the proceedings and order a fresh enquiry.
+Precedent	It has been held repeatedly that if a reasonable opportunity is not afforded to a public officer a t the first stage a reasonable opportunity may be afforded him at the second stage.
+Precedent	Indeed it was pointed out by their Lordships of the privy Council in <NAME> case that no action is proposed Within the meaning of Sub-section (3) of Section 240' of the Government of India Act (which corresponds to Article 311 ) until a definite conclusion has been come to on the charges and the actual punishment to follow is provisionally determined on.
+Precedent	It is on that stage being reached that the statute gives the civil servant the opportunity for which Sub-section (3) makes provision -- 'High Commr.
+Precedent	for <CITATION_134248> '.
+Precedent	AIR 1948 PC 121 (J); --' <CITATION_1707850> ) AIR 1955 SC 160 (K).
+Argument	18.
+Argument	A subsidiary point has also been raised namely that two of the petitioners have been reduced in rank without having been afforded an opportunity of showing cause against the action which was proposed to be taken against them.
+Argument	It is common ground that these two petitioners were working as Assistant Garrison Engineers in an officia ting, capacity and reverted to their substantive rank of Superintendent.
+Argument	In Purshotam Lal v. Union of India', LPA No.
+Precedent	28 of 1955: (AIR 1956 Pimj 207) (L), I gave detailed reasons for holding that a Government servant who is holding a post in an officiating capacity is not within the protection of the law which declares that no person shall be reduced in rank unless he has been afforded a reasonable opportunity of being heard.
+Precedent	A similar view has been taken in -- 'Laxminarayanan Chironjilal Bhargava v. Union of India', AIR 1956 Nag 113 (M).
+Precedent	19.
+Precedent	For these reasons I am of the opinion that an officer conducting a removal proceeding under Article 311 of the Constitution is not acting in a judicial or quasi-judicial capacity, that the orders passed by him cannot be reviewed on certiorari, that there has been no breach of Article 311 so far as it is still open to Government to afford the petitioners a reasonable opportunity of defending themselves and that the Enquiring Officer did not act illegally or improperly i n ordering the reduction of two of the petitioners without affording them a reasonable opportunity of being heard.
+Precedent	I would accordingly allow the appeal but, having regard to the peculiar circumstances of the case, leave the parties to bear their own costs.
+Precedent	<NAME>, J.
+Precedent	20.
+RatioOfTheDecision	I have had the advantage of reading the judgment of my Lord the Chief Justice and I agree that these appeals should be allowed and the respondents' petitions under Article 226 of the Constitution should be dismissed.
+RatioOfTheDecision	I however prefer to base my judgment on the ground that in these cases there has been no contravention of the provisions of Article 311 of the Constitution for the reasons given by Hon'able the Chief Justice in his Judgment.
+RatioOfTheDecision	I further agree that the orders reverting two of the petitions to their substantive ranks were neither illegal nor improper.
+RatioOfTheDecision	(Vide LPA No.
+RatioOfTheDecision	28 of 1955: (AIR 1956 Punj 207) (L).
+RatioOfTheDecision	These grounds are sufficient to dispose of these appeals and it appears unnecessary to express any final opinion on the othe r questions raised before us.
+RatioOfTheDecision	I am however in entire agreement with Hon'ble the Chief Justice that the orders in the present cases were made in the exercise of administrative powers but I feel doubtful if the exercise of administrative powers of this nature necessarily precludes an aggrieved person from seeking redress from this court in a fit and proper case by invoking Article 226 of the Constitution.
+RatioOfTheDecision	In any case, as I have already stated this question need not be decided in these appeals.
+RulingByPresentCourt	I would therefore also accept these appeals, leaving the parties to bear their own costs.

@@ -1,0 +1,257 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: THE STATE OF MAHARASHTRA DATE OF JUDGMENT31/10/1977 BENCH: UNTWALIA, N.L.
+Fact	BENCH: UNTWALIA, N.L.
+Fact	GOSWAMI, P.K.
+Fact	DESAI, D.A.
+Fact	CITATION: 1978 AIR 47 1978 SCR (1) 749 1977 SCC (4) 551 CITATOR INFO : F 1980 SC 258 (10) E 1980 SC 962 (6,21,23,34,44,67,103,105,114) F 1983 SC 67 (5) RF 1992 SC 604 (97) ACT: Code of Criminal Procedure, ( Act 11 1974), 1973 Ss.
+Fact	397 (2) & 482-Scope of-Whether the bar in s. 397(2) refers to revisional powers of <ORG> in all cases or only refers to revisional powers against interlocutory orders.
+Fact	HEADNOTE: The appellant was prosecuted for having made statements dafamatory to the then Law Minister of <ORG>.
+Fact	The Government decided to prosecute the appellant for an offence tinder Section 500 of Indian Penal Code on the ground that the Law Minister was defamed in respect of his conduct in the discharge of his public functions.
+Fact	Sanction was purported to have been accorded under section 199(4)(a) .
+Fact	Thereafter, the public pro secutor filed a complaint in the court of the Sessions Judge.
+Fact	Process was issued against the appellant upon the said complaint.
+Fact	The appellant filed an application to dismiss the complaint on the ground that the court had no jurisdiction to entertain the complaint.
+Fact	The appellant contended that the allegations were made against <NAME> in relation to what he had done in his personal capacity and not in his capacity as a Minister.
+Fact	The appellant challenged the jurisdiction of the court on some other grounds, also challenging the validity of the sanction.
+Fact	The Sessions Judge rejected the contentions of the appellant and framed a charge against the appellant under section 500 of the Penal Code.
+Fact	The appellant, thereupon, filed a revision application in <ORG>.
+Fact	<ORG> without going into the merits held that the revision application was not maintainable in view of provisions of section 397(2) .
+RulingByLowerCourt	Allowing the appeal by special leave, HELD : 1.
+RulingByLowerCourt	On a plain reading of section 482 it would follow that no thing in the code which would include section 397(2) shall be deemed to limit or affect the inherent powers of <ORG>.
+RulingByLowerCourt	However, it cannot be said that the said bar is not to operate in the exercise of the inherent power at all because it would be setting at naught one of the limitation imposed upon the exercise of revisional powers.
+RulingByLowerCourt	A happy and harmonious solution would be to say that the bar provided in section 397(2) operates only in, exercise of the revisional power of <ORG> meaning thereby that <ORG> will have no power of revision in relation to any interlocutory order.
+RulingByLowerCourt	The inherent power would come into play there being no other provision in the code for the redress of the grievance of the aggrieved party.
+RulingByLowerCourt	in case the impugned order brings about a situation which is an abuse of the process of the court or for the purpose of securing the ends of justice interference by <ORG> is absolutely necessary, then nothing contained in section 397(2) can limit of affect the exercis e of the inherent power by <ORG>.
+RulingByLowerCourt	Such cases would be few and far between.
+RulingByLowerCourt	<ORG> must exercise the inherent power very sparingly.
+RulingByLowerCourt	[753 H; 754 A-D] <NAME> and <NAME>,.
+Precedent	v. State of Haryana & Anr.
+Precedent	Crl.
+Precedent	A.
+Precedent	No.
+Precedent	124 of 1977 decided on 29th July, 1977; modified & reiterated.
+Precedent	<CITATION_1033301> ,  3 S.C.R.
+Argument	388, referred to.
+Argument	2.
+Argument	Even if it is assumed that an order of the <ORG> taking cognisance or issuing process is an interlocutory order, the bar created by section 397(2) will not prevent <ORG> from exercising its inherent power for stopping the criminal proceeding as early as possible instead of harassing the accused upto the end.
+Argument	[754 E] 3.
+Argument	Ordinarily and generally the expression "Interlocutory Order" has been understood and taken to mean as a converse of the term final order.
+Argument	[735 H] 750 <NAME> v. The King,  Federal <ORG> <NAME>, (1881) 1 C.B.
+Argument	734 referred to.
+Argument	The strict test for interpreting the.
+Argument	words 'Interlocutory Order' cannot be applied while interpreting it as  appearing in section 397(2) ..
+Argument	The interpretation that what is not a final order must be an interlocutory order is neither warranted nor justified.
+Argument	If it were so, it would render almost nugatory the revisional power of <ORG> or <ORG> conferred by section 397(1) .
+RatioOfTheDecision	Although the words occurring in a Particular statute are plain and unambiguous they have to be interpreted in a 'manner which would fit in the context of the other provisions of the Statute and bring about the real intention of the legislature.
+RatioOfTheDecision	There may be an order passed during the course of a proceeding which may be not final but yet it may not be interlocutory order pure or simple.
+RatioOfTheDecision	Some kinds of orders may fall in between the two.
+RatioOfTheDecision	The bar of section 397(2) is not meant to be attracted to such kind of intermediate orders.
+RatioOfTheDecision	They may not be final orders for the purposes of Article 134 of the Constitution yet it would not be correct to characterise them as merely interlocutory within the meaning of section 397(2) .
+Precedent	[756 F-H, 757 A-- F, 759 <CITATION_1417015> and Sons, (1933) 60 Indian Appeals, 76, <CITATION_595622> ., A.I.R.
+Fact	1970 S.C. 406 and <CITATION_627930> .
+Fact	2 S.C.R.
+Fact	160 and <CITATION_1502845> .,  2 S.C.R.
+Fact	405 referred to.
+RulingByLowerCourt	4.If a complaint is dismissed under section 203 or 204(4) or the court holds the proceedings to be void or discharge the accused, a revision to <ORG> at the instance of the complainant or the prosecutor would be competent.
+RulingByLowerCourt	It.
+RulingByLowerCourt	therefore, does not stand to reason why an accused will have no remedy to move <ORG> in revision or invoke its inherent power for the quashing of criminal proceedings initiated on a complaint or otherwise.
+RulingByLowerCourt	[760 C-E] The court allowed the appeal, set aside <ORG> Judgment and remitted the case back to <ORG> to dispose of on merits.
+Fact	1760 F] JUDGMENT:  CRIMINAL APPELLATE JURISDICTION : Criminal Appeal No.
+Fact	81 of 1977.
+Fact	Appeal by Special Leave from the Judgment and Order dated 10-1 1-75 of <ORG> in Criminal Revision Application No.
+Fact	: 180 of 1975.
+Fact	<NAME> and Mrs. <NAME> for the appellant.
+Fact	<NAME> and <NAME> for the Respondent.
+Fact	The Judgment of the Court was delivered by <NAME> is an appeal by special leave from the order of <ORG> rejecting the application in revision filed by the appellant under section 397(1) of the Code of Criminal Procedure, 1973 hereinafter to be referred to as the 1973 Code or the new Code, on the ground that it was not maintainable in view of the provision contained in subsection (2) of section 397 .
+Fact	<ORG> has not gone into its merits.
+Fact	It is not necessary to state the facts of the case in any detail for the disposal of.
+Fact	this appeal.
+Fact	A bare skeleton of them will suffice.
+Fact	In a press conference held at New Delhi on the 27th September, 1974 the appellant is said to have made certain statements and handed over a press hand-out" containing allegedly some defamatory statements concerning <NAME>, the then Law Minister of <ORG>.
+Fact	Th e said statements were published in various newspapers.
+Fact	<ORG> decided to prosecute the appellant for an offence under section 500 of the Indian Penal Code as it was of the view that the Law Minister was defamed in respect of his conduct in the discharge of his public functions.
+Fact	Sanction in accordance with section 199 (4) (a) of the 1973 Code was purported to have been accorded by <ORG>.
+Fact	Thereupon the Public Prosecutor filed a complaint in <ORG>, Greater Bombay.
+Fact	Cognizance of the offence alleged to have been committed by the appellant was taken by <ORG> without the case being committed to it as permissible under sub-section (2) of section 199 .
+Fact	Process was issued against the appellant upon the said complaint.
+Fact	The Chief Secretary to <ORG> was examined on the 17th February, 1975 as a witness in <ORG> to prove the sanction order of <ORG>.
+Fact	Thereafter on tile 24th February, 1975 <NAME> <NAME>, the appellant, filed an application to dismiss the complaint on the ground that the <ORG> had no jurisdiction to entertain the complaint.
+Argument	The stand taken on behalf of the appellant was that allegations were made against <NAME> in relation to what he had done in his personal capacity and not in his capacity of discharging his functions as a Minister.
+Argument	Chiefly on that ground and on some others, the jurisdiction of the <ORG> to proceed with the trial was challenged by the appellant.
+Argument	The appellant raised three contentions in the Sessions <ORG> and later in the High <ORG> assailing the validity and the legality of the trial in question.
+Argument	They are :-  (1) That even assuming the allegations made against <NAME> were defamatory, they were not in respect of his conduct in the discharge of his public functions and hence the aggrieved person could file a complaint in the <ORG> of a competent Magistrate who after taking cognizance could try the case or commit it to the <ORG> of Sessions if so warranted in  law.
+Argument	<ORG> could not take cognizance without the committal of the case to it.
+Argument	(2) The sanction given was bad in as much as it was not given by <ORG> but was given by the Chief Secretary.
+Argument	(3) The Chief Secretary had not applied his mind to the entire conspectus of the facts and had given the sanction in a mechanical manner.
+Fact	The sanction was bad on that account too.
+Fact	The Sessions Judge rejected all these contentions and framed a charge against the appellant under section 500 of the Penal Code.
+Fact	The appellant, thereupon, challenged- the order of the Sessions Judge in the revision filed by him in <ORG>.
+Fact	As already 'stated, without entering into the merits of any of the contentions raised by the appellant, it upheld the preliminary objection as to the maintainability of the revision application.
+Fact	Hence this appeal.
+RulingByLowerCourt	The point which falls for determination in this appeal is squarely covered by a decision of this Court to which one of us (Untwalia was a party in <CITATION_1546 207> on a careful consideration of the matter and on hearing learned counsel for the parties in this appeal we thought it advisable to enunciate and reiterate the view taken by two learned judges of this <ORG> in <NAME> case but in a somewhat modified and modulated form.
+RulingByLowerCourt	In <NAME> case, as in this, the order of the Trial <ORG> issuing process against the accused was challenged and the High <ORG> was asked to quash the criminal proceeding either in exercise of its inherent power under section 482 of the 1973 Code corresponding to section 561A of' the Code of Criminal Procedure, 1898-hereinafter called the 1898 Code or the old Code, or under section 397(1) of the new Code corresponding to section 435 of the old Code.
+RulingByLowerCourt	Two points were decided in <NAME> case in the following terms :-  (1) "While we fully agree with-the view taken by the learned Judge that where a revision to the High <ORG> against the order of the Subordinate Judge is expressly barred under sub-s. (2) of s. 397 of the 1973 Code the  inherent powers contained in s. 482 would not be available to defeat the bar contained in s. 397(2) ."
+RulingByLowerCourt	(2 The impugned order of the Magistrate, however, was not an interlocutory order.
+RatioOfTheDecision	For the reasons stated hereinafter we think that the statement of the law apropos point no.
+RatioOfTheDecision	1 is not quite accurate and needs some modulation.
+RatioOfTheDecision	But we are-going to reaffirm the decision of the <ORG> on the second point.
+Statute	Under section 435 of the 1898 Code the High <ORG> had the power to "call for and examine the record of any proceeding before any inferior Criminal <ORG> 'situate within the local limits of its jurisdiction for the purpose of satisfying itself as to the correctness, legality or propriety of any finding, sentence or order recorded or passed.
+RatioOfTheDecision	and as to the regularity of any proceedings of such inferior <ORG>", and then to pass the necessary orders in accordance with the law engrafted in any of the sections following section 435 .
+RatioOfTheDecision	Apart from the revisional power, the High <ORG> possessed and possesses the inherent  powers to be exercised ex debito justitiae to do the real and the substantial 'justice for the administration of which alone <ORG>s exist.
+RatioOfTheDecision	In express language this power was recognized and saved in section 561A of the old Code.
+RatioOfTheDecision	Under section 397(1) of the 1973 Code, revisional power has been conferred on <ORG> in terms which are identical to those found in section 435 of the 1898 Code.
+RatioOfTheDecision	Similar is the position apropos the inherent powers of <ORG>.
+Precedent	We may read the language (1) Criminal Appeal No.
+Precedent	124 of 1977 decided on the 29th July, 1977.
+Precedent	753  of section 482 (corresponding to section 561A of the old Code) of the, 1973 Code.
+Precedent	It says "Nothing in this Code shall be deemed to limit or affect the inherent powers of <ORG> to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any <ORG> or otherwise to secure the ends of justice."
+RatioOfTheDecision	At the outset the following principles may be noticed in relation to the exercise of the inh erent power of <ORG> which have been followed ordinarily and generally, almost invariably, barring a few exceptions :-  (1) That the power is not to be resorted to if there is a specific provision in the Code for the redress of the grievance of the aggrieved party ;  (2) That it should be exercised very sparingly to prevent abuse of process of any <ORG> or otherwise to secure the ends of justice;  (3) That it should not be exercised as against the express bar of law engrafted in any other provision of the Code .
+RatioOfTheDecision	In most of the cases decided during several decades the inherent power of <ORG> has been invoked for the quashing of a criminal proceeding on one ground or the other.
+RatioOfTheDecision	Sometimes the revisional jurisdiction of <ORG> has also been resorted to for the same kind of relief by challenging the order taking cognizance or issuing processes or framing charge on the grounds that the <ORG> had no jurisdiction to take cognizance and proceed with the trial, that the issuance of process wa s wholly illegal or void, or that no charge could be framed as no offence was made out on the allegations made or the evidence adduced in Court.
+RatioOfTheDecision	In the background aforesaid we proceed to examine as to what is the correct position of law after the introduc- tion of a provision like sub section (2) of section 397 in, the 1973 Code.
+RatioOfTheDecision	As pointed out in <NAME> case (supra) the purpose of putting a bar on the power of revision in relation to any interlocutory order passed in an appeal, inquiry, trial or other proceeding is to bring about expeditious disposal of the cases finally, More often than not, the revisional power of <ORG> was resorted to in relation to inter- locutory orders delaying the final disposal of the proceedings.
+RatioOfTheDecision	The <ORG> in its wisdom decided to check this delay by introducing sub-section (2), in section 397 .
+RatioOfTheDecision	On the one hand, a bar has been put in the way of <ORG> (as also of the Sessions Judge) for exercise of the revisional power in relation to any interlocutory or der, on the other, the power has been conferred in almost the same terms as it was in the 1898 Code.
+RatioOfTheDecision	On a plain reading of section 482 , however, it would follow that nothing in the Code , which would include subsection (2) of section 397 also, "shall be deemed to limit or affect the inherent powers of <ORG>".
+RatioOfTheDecision	But, if we were to say that the said bar is not to operate in the exercise of the inherent power at all, it will be setting at naught one of the limitations imposed upon the exercise of the revisional powers.
+RatioOfTheDecision	In such a situation, what is-the harmonious way out ?
+RatioOfTheDecision	In our opinion, a happy solution of this problem would be to say that the bar provided in sub-section (2) of section 397 operates only in exercise of the revisional power of <ORG>, meaning thereby that <ORG> will have no power of revision in relation to any interlocutory order.
+RatioOfTheDecision	Then in accordance with one of the other principles enunciated above, the inherent power will come into play, there being no other provision in  the Code for the redress of the grievance of the aggrieved party.
+RatioOfTheDecision	But then, if the order assailed is purely of an interlocutory character which could be corrected in exercise of the revisional power of <ORG> under the 1898 Code.
+RatioOfTheDecision	<ORG> will refuse to exercise its inherent power.
+RatioOfTheDecision	But in case the impugned order clearly brings about a situation which is an abuse of the process of the <ORG> or for the purpose of securing the ends of justice interference by <ORG> is absolutely necessary, then nothing contained in section 397(2) can limit or affect the exercise of the inherent power by <ORG>.
+RatioOfTheDecision	But such cases would be few and far between.
+RatioOfTheDecision	The High <ORG> must exercise the inherent power very sparingly.
+RatioOfTheDecision	One such case would be the desirability of the quashing of, a criminal proceeding initiated illegally, vexatiously or as being without jurisdiction.
+RatioOfTheDecision	Take for example a case where a prosecution is launched under the Prevention of Corruption Act without a sanction.
+RatioOfTheDecision	then the trial of the  accused will be without jurisdiction and even after his acquittal a second trial after proper sanction will not be barred on the doctrine of Autrefois Acquit.
+RatioOfTheDecision	Even assuming, although we shall presently show that it is not so, that in such a case an order of the <ORG> taking cognizance or issuing processes is an interlocutory order.
+RatioOfTheDecision	does it stand to reason to say that inherent power of the High <ORG> cannot be exercised for stopping the criminal proceeding as early as possible, instead of harassing the accused upto the end ?
+RatioOfTheDecision	The answer is obvious that the bar will not operate to prevent the abuse of the process of the <ORG> and/or to secure, the ends of justice.
+RatioOfTheDecision	The label of the petition filed by an aggrieved party is immaterial.
+RatioOfTheDecision	The High <ORG> can examine the matter in an appropriate case under its inherent powers.
+RatioOfTheDecision	The present case undoubtedly falls for exercise of the power of the High <ORG> in accordance with section 482 of the 1973 Code.
+RatioOfTheDecision	even assuming.
+RatioOfTheDecision	although not accepting, that invoking the revisional  power of <ORG> is impermissible.
+RatioOfTheDecision	<CITATION_1033301> (1) <NAME>.. as he then was, delivering the judgment of this <ORG> pointed out, if we may say so with respect, very succinctly the scope of the inherent power of <ORG> for the purpose of quashing a criminal proceeding.
+Precedent	Says the learned Judge at pages 392-93 :--  "Ordinarily criminal proceedings instituted against an accused person must be tried under the provisions of the Code , and <ORG> would be reluctant to interfere with the said proceedings at an interlocutory stage.
+Precedent	It is not possi-  (1) [1960] 3 SCR.
+Precedent	388.
+Precedent	755  ble, desirable or expedient to lay down any inflexible rule which would govern the exercise of this inherent jurisdiction.
+Precedent	However, we may indicate some categories of cases where the inherent jurisdiction can and should be exercised for quashing the proceedings.
+RatioOfTheDecision	There may be cases where it may be possible for <ORG> to take the view that the institution or continuance of criminal proceedings against  an accused person may amount to the abuse of the process of the court or that the quashing of the impugned proceedings would secure the ends of justice.
+RatioOfTheDecision	If the criminal proceeding in question is in respect of an offence alleged to have been committed by an accused person and it manifestly appears that there is a legal bar against the institution or continuance of the said proceeding <ORG> would be justified in quashing the proceeding on that ground.
+RatioOfTheDecision	Absence of the requisite sanction may, for instance, furnish cases under this category.
+RatioOfTheDecision	Cases may also arise where the allegations in the First Information Report or the complaint, even if they are taken at their face value and accepted in their entirety, do not constitute the offence alleged; in such cases no question of appreciating evidence arises; it is a matter merely of looking at the complaint or the First Information Report to decide whether the offence alleged is disclosed or not.
+RatioOfTheDecision	In such cases it would be legitimate for <ORG> to hold th at it would be manifestly unjust to allow the process of the criminal court to be issued against the accused person.
+RatioOfTheDecision	A third category of cases in which the inherent jurisdiction of <ORG> can be successfully invoked may also arise.
+RatioOfTheDecision	In cases falling under this category the allegations made against the accused person do constitute an offence alleged but there is either no legal evidence adduced in support of the case or evidence adduced clearly or manifestly fails to.
+RatioOfTheDecision	prove the charge'.
+RatioOfTheDecision	In dealing with this class of cases it is important to bear in- mind the distinction between a case where there is no legal evidence or where there is evidence which is manifestly and clearly inconsistent with the accusation made and cases where there is legal evidence which on its appreciation may not support the accusation in question.
+RatioOfTheDecision	In exercising its jurisdiction under s. 561-A <ORG> would not embark upon an enquiry as to whether the evidence in question is reliable or not.
+RatioOfTheDecision	That is the function of the trial  magistrate, and ordinarily it would not be open to any party to invoke <ORG> inherent Jurisdiction and contend that on a reasonable appreciation of the evidence the accusation made against the accused would not be sustained."
+RatioOfTheDecision	We think the law as stated above is not affected by section 397(2) of the new Code.
+Precedent	It still holds good in accordance with '.
+Precedent	section 482 .
+Precedent	Ordinarily and generally the expression 'interlocutory order' has been understood and taken to mean as a converse of the term 'final order'.
+Precedent	In volume 22 of the third edition of <ORG> at page 742, however, it has been stated in para 1606 "....... a judgment or order may be final for one purpose and interlocutory for another, or final as to part and interlocutory as to part.
+Precedent	The meaning of two words must therefore be considered separately in relation to the particular purpose for which it is required."
+Precedent	In para 1607 it is said :  "In general a judgment or order which determines the principal matter in question is term ed "final"."
+Precedent	In para 1608 at pages 744 and 745 we find the words "An order which does not deal with the final rights of the parties, but either (1) is made before judgment, and gives no final decision on the matters in dispute, but is merely on a matter of procedure, or (2) is made after judgment, and merely directs how the declarations of right already given in the- final judgment are to be worked out, is termed "interlocutory".
+Precedent	An interlocutory order, though not conclusive of the main dispute, may be conclusive as to the subordinate matter with which it deals."
+Precedent	In S. <NAME> v. The King(1) <NAME>, delivering the judgment of the <ORG> has referred to some English decisions at pages 185 and 186.
+Precedent	Lord <NAME> said in <NAME> v. Warner(2) "If their decision, whichever way it is given, will, if it stands, finally dispose of the matter in dispute, I think that for the purposes of these rules it is final.
+Precedent	On the other hand, if their decision, if given in one way, will finally dispose of the matte r in dispute, but, if given in the other, will allow the action to go on, then I think it is not final, but interlocutory."
+Precedent	To the same effect are the observations quoted from the judgments of <NAME> <NAME> and Lopes <NAME> Applying the said test, almost on facts similar to the ones in the instant case, it was held that the order in revision passed by <ORG> (at that time, there was no bar like section 397 (2) was not a "final order" within the meaning of section 205 (1) of the Government of India Act, 1935.
+RatioOfTheDecision	It is to be noticed that the test laid down therein was that if the objection of the accused succeeded, the proceeding could have ended but not vice versa.
+RatioOfTheDecision	The order can be said to be a final order only if, in either event, the action will be determined.
+RatioOfTheDecision	In our opinion if this strict test were to be applied in interpreting the words 'interlocutory order" occurring in section 397(2) , then the order taking cognizance of an offence by a <ORG>, whether it is so done illegally or without jurisdiction, will  not be a final order and hence will be an interlocutory one.
+RatioOfTheDecision	Even so, as we have said above, the inherent power of <ORG> can be invoked for quashing such a criminal proceeding.
+RatioOfTheDecision	But in our judgment such an interpretation and the universal application of the principle that what is not a final order must be an interlocutory order is neither warranted nor justified If it were so it will render almost nugatory the revisional power of <ORG> or <ORG> conferred on it by section 397(1) .
+Precedent	On such a 'strict interpretation,.
+Precedent	(1)[1947] <ORG> Reports, 180.
+Precedent	(2) [1891] 1 Q.B.
+Precedent	734.
+Precedent	757  only those orders would be revisable which are orders passed on the final determination of the action but are not appealable under Chapter XXIX of the Code.
+RatioOfTheDecision	This does not seem to be the intention of the <ORG> when it retained the revisional power of <ORG> in terms identical to the one in the, 1898 Code.
+RatioOfTheDecision	In what cases then <ORG> will examine the legality or the propriety of an o rder or the legality of any proceeding of an inferior Criminal court ?
+RatioOfTheDecision	Is it circumscribed to examine only such proceeding which is brought for its examination after the final determination and wherein no appeal lies ?
+RatioOfTheDecision	Such cases will be very few and far between.
+RatioOfTheDecision	It has been pointed out repeatedly, vide, for example, <ORG> v. <NAME>) and <CITATION_725224> ( 2) that although the word occurring in a particular statute are plain and unambiguous, they have to be interpreted in a manner which would fit in the context of the other provisions of the statute and bring about the real intention of the legislature.
+RatioOfTheDecision	On the one hand, the legislature kept intact the revisional power of <ORG> and, on the other, it put a bar on the exercise of that power in relation to any interlocutory order.
+RatioOfTheDecision	In such a situation it appears to us that the real intention of the legislature was not to equate the expression "interlocutory order" as invariably being converse of the words "final order".
+RatioOfTheDecision	There may be an order passed during the course of a proceeding which may not be final in the sense noticed in <NAME>'s case (supra), but, yet it may not be an interlocutory order-pure or simple.
+RatioOfTheDecision	Some kinds of order may fall in between the two.
+RatioOfTheDecision	By a rule of harmonious construction, we, think that the bar in sub-section (2) of section 397 is not meant to be attracted to such kinds of intermediate orders.
+RatioOfTheDecision	They may not be final orders for the purposes of Article 134 of the Constitution, yet it would not be correct to characterise them as merely interlocutory orders within the meaning of section 397(2) .
+RatioOfTheDecision	It is neither advisable, nor possible, to make a catalogue of orders to demonstrate which kinds of orders would be merely, purely or simply interlocutory and which kinds of orders would be final, and then to prepare an exhaustive list of those types of orders which will fall in between the two.
+RatioOfTheDecision	The first two kinds are well-known and can be culled out from many decided cases.
+RatioOfTheDecision	We may, however, indicate that the  type of order with which we are concerned in this case, even though it may not be final in one sense, is surely not interlocutory so as to attract the bar of subsection (2) of section 397 .
+RatioOfTheDecision	In our opinion it must be taken to be an order of the type falling in the middle course.
+RatioOfTheDecision	In passing, for the sake of explaining ourselves, we may refer to what has been said by <NAME> in <NAME>'s case at page 187 by quoting a few words from Sir <NAME> in the case of <CITATION_1417015> (3).
+Precedent	The learned law Lord said with reference to the order under consideration in that case : "The effect of the order from which it is here sought to appeal was not to dispose finally of the rights of the parties.
+Precedent	It no doubt decided an important, and even a vital, issue in the case, but it left the suit alive, and provided for its trial in the ordinary way.
+Precedent	Many a time a question (1) [1876-77] 2 A.C. 743.
+Precedent	(3) [1933] 60 Indian Appeals, 76.
+Precedent	(2) [1957] S.C.R.
+Precedent	930.
+Precedent	758  arose in India as to what is the exact meaning of the  phrase "case decided" occurring in section 1 1 5 of the Code of Civil Procedure.
+Precedent	<ORG> had taken the view that it meant the final order passed on final determination of the action.
+Precedent	Many others had however, opined that even interlocutory orders were covered by the said term.
+Precedent	This <ORG> struck a mean and it did not approve of either of the two extreme lines.
+Precedent	<CITATION_595622> .
+Precedent	(1) it has been pointed out :  "A case may be said to be decided, if the <ORG> adjudicates for the purposes of the suit some right or obligation of the parties in controversy :"  We may give a clear example of an order in a civil case which may not be a final order within the meaning of Article 133 (1) of the Constitution, yet it will not be purely or simply of an interlocutory character.
+RatioOfTheDecision	Suppose for example, a defendant raises the plea of jurisdiction of a particular <ORG> to try the suit or the bar of limitation and succeeds, then the action is determined finally in that <ORG>.
+RatioOfTheDecision	But if the point is decided against him the suit  proceeds.
+RatioOfTheDecision	Of course, in a given case the point raised may be such that it is interwoven and interconnected with the other issues in the case, and that it may not be possible to decide it under Order 14 Rule 2 of the Code of Civil Procedure as I preliminary point of law.
+RatioOfTheDecision	But, if it is a pure point of law and is decided one way or the other, then the order deciding such a point may not be interlocutory, albeit-may not be final either.
+RatioOfTheDecision	Surely, it will be a case decided, as pointed out by this <ORG> in some decisions, within the meaning of section 115 of the Code of Civil Procedure.
+RatioOfTheDecision	We think it would be just and proper to apply the same kind to test for finding out the real meaning of the expression 'interlocutory order' occurring in section 397(2) .
+RatioOfTheDecision	In <NAME> case, reference has been made to the decision of this <ORG> in <CITATION_277167> (2) After an enquiry under section 476 of the 1898 Code an order was made directing the filing of a complaint against the appellant.
+RatioOfTheDecision	It was affirmed by the High <ORG>.
+Precedent	T he matter came to this Court on grant of a certificate under Article 134(1) (c).
+Precedent	A question arose whether the order was a "final order" within the meaning of the said constitutional provision.
+Precedent	<NAME>, delivering the judgment on behalf of himself and two other learned Judges, said that it was a final order.
+Precedent	The dissenting judgment was given by <NAME>, on behalf of himself find one other learned Judge.
+Precedent	In the majority decision four tests were culled out from some English decisions.
+Precedent	'they are found enumerated at page 688.
+Precedent	One of the tests is "If the order in question is reversed would the action have to go on ?"
+Precedent	Applying that test to the facts of the instant case it would be noticed that if the plea of the appellant succeeds and the order of the Sessions Judge is reversed, the criminal proceeding as initiated and instituted against him cannot go on.
+Precedent	If, however, he loses on the merits of the preliminary point the proceeding will go on.
+Precedent	Applying the test of <NAME> case such an order will (1) <NAME>  1970 S.C. 406.
+Precedent	(2) [1968] 2 S.C.R.
+Precedent	685.
+Precedent	759  not be a final order.
+Precedent	But applying the fourth test noted at page 688 in <NAME> case it would be a final order.
+Precedent	The real point of distinction, however, is to be found at page 693 in the judgment of <NAME>, J.The passage runs thus :  "As observed in <CITATION_2154> - 3 S.C.R.
+Precedent	198 the finality of that order was not to be judged by correlating that order with the controversy in the complaint,viz.
+Precedent	whether the appellant had committed the offence charged against him therein.
+Precedent	The fact that that controversy still remained alive is irrelevant."
+RatioOfTheDecision	The majority view is based upon the distinction pointed out in the above passage and concluding that it is a final order within the meaning of Article 134(1) (c).
+RatioOfTheDecision	While <NAME> said at page 695 : "It is merely a preliminary step in the prosecution and therefore an interlocutory orders."
+RatioOfTheDecision	Even though there may be a scope for expressing different opinions apropos the nature of the order which was under consideration in Mohan  Lars case, in our judgment, undoubtedly, an order directing the filing of a complaint after enquiry made under a provision of the 1973 Code, similar to section 476 of the 1898 Code will not be an interlocutory order within the meaning of ' section 397(2) .
+RatioOfTheDecision	The order will be clearly revisable by <ORG>.
+RatioOfTheDecision	We must, however, hasten to add that the majority decision in <NAME> case treats such an order as an order finally concluding the enquiry started to find out whether a complaint should be lodged or not, taking the prosecution launched on the filing of the complaint as a separate proceeding.
+RatioOfTheDecision	From that point of view the matter under discussion may not be said to be squarely covered by the decision of this <ORG> in <NAME> case.
+RatioOfTheDecision	Yet for the reasons already alluded to, we feel no difficulty in coming to the conclusion, after due consideration, that an order rejecting the plea of the accused on a point which, when accepted, will conclude the particular proceeding, will surely be not an interlocutor y order within the meaning of section 397(2) .
+RatioOfTheDecision	We may also refer to the decision of this <ORG> in <CITATION_627930> .
+Precedent	(1) that an order made in a criminal proceeding against a person who is not a party to the enquiry or trial and which adversely affected him is not an interlocutory order within the meaning of section 397 (2).
+Precedent	Referring to a passage from the decision of this <ORG> in <NAME> case- the passage which is to be found in Halsbury's Laws of England, Volume 22, it has been said by <NAME>, delivering the judgment of the <ORG>, at page 164 :  "It may thus be conclusive with reference to the stage at which it is made, and it may also be conclusive as to a person who is not a party to the enquiry or trial, against whom it is directed."
+RatioOfTheDecision	As already mentioned, the view expressed in <NAME> case may be open to debate or difference.
+Precedent	One such example is to be found in the (1) [1977] 2 S.C.R.
+Precedent	160.
+Precedent	760  decision of this <ORG> in <CITATION_1502845> .
+Precedent	(1) wherein it was held that an order of the High  Court setting aside an ex-parte decree in the suit and restoring the suit to the file of <ORG> is not a final order within the meaning of Article  133.
+RatioOfTheDecision	It is to be noticed that if <ORG> would have refused to set aside the ex-parte decree, the proceeding for setting it aside would have finally ended and on some of the principles culled out by the majority in <NAME> case, such an order would have been a final order.
+RatioOfTheDecision	We are, however, not under any necessity to enter into this controversial arena.
+RatioOfTheDecision	In our opinion whether the type of the order aforesaid would be a final order or not, surely it will not be an interlocutory order within the meaning of sub-section (2) of section 397 of the 1973 Code.
+RatioOfTheDecision	Before we conclude we may point out an obvious, almost insurmountable, difficulty in the way of applying literally the test laid down in <NAME> case and in holding that an order of the kind under consideration being not a final order must necessarily be an interlocutory one.
+RatioOfTheDecision	If a complaint  is dismissed under section 203 or under section 204(4) , or the <ORG> holds the proceeding to be void or discharges the accused, a revision to the High <ORG> at the instance of the complainant or the prosecutor would be competent, otherwise it will make section 398 of the new Code otiose.
+RatioOfTheDecision	Does it stand to reason, then, that an accused will have no remedy to move the High <ORG> in revision or invoke its inherent power for the quashing of the criminal proceeding initiated upon a complaint or otherwise and which is fit to be quashed on the face of it ?
+RatioOfTheDecision	The legislature left the power to order further inquiry intact in 'section  398.
+RulingByPresentCourt	Is it not, then, in consonance with the sense of justice to leave intact the remedy of the accused to move the High <ORG> for setting aside the order adversely made against him in similar circumstances and to quash the proceeding ?
+RulingByPresentCourt	The answer must be given in favour of the just and reasonable view expressed by us above.
+RulingByPresentCourt	For the reasons stated above, we allow this appeal, set aside th e judgment and order of <ORG> and remit the case back to it to dispose of the appellant's petition on merits, in the manner it may think fit and proper to do in accordance with the law and in the light of this judgment.
+Precedent	P.H.P.
+Precedent	Appeal allowed.
+Precedent	(1) [1971] 2 S.C.R.
+Precedent	504.

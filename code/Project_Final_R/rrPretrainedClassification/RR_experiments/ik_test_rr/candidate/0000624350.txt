@@ -1,0 +1,110 @@
+Precedent	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	The following questions have been referred to this court at the instance of the <ORG> under section 256 of the Income-tax Act, 1961:  "For the assessment year 1968-69:  (1) Whether, on the facts and in the circumstances of the case, the <ORG> was justified in allowing the deduction for expenditure of Rs.
+Fact	8,400 being the rent of the guest house, under section 30 of the Income-tax Act, 1961, for the assessment year 1968-69 ?
+Fact	(2) Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that the assessee was entitled to deduct the expenditure of Rs.
+Fact	6,060 for the maintenance of the guest house under section 37(3) of the Income-tax Act, 1961, for the assessment year 1968-69 ?
+Fact	For the assessment year 1969-70:  (1) Whether, on the facts and in the circumstances of the case, the <ORG> was justified in allowing the deduction for expenditure of Rs.
+Fact	4,200 being the rent of the guest house, under section 30 of the Income-tax Act, 1961, for the asses sment year 1969-70 ?
+Fact	(2) Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that the assessee was entitled to deduct the expenditure of Rs.
+Fact	2,770 for the maintenance of the guest house under section v of the Income-tax Act , 1961, for the assessment year 1969-70 ?
+Fact	(3) Whether, on the facts and in the circumstances of the case, the <ORG> erred in law in holding that the sum of Rs.
+Fact	22,275 was not assessable under section 41(1) for the previous year relevant to the assessment year 1969-70 ?"
+Fact	2.
+Fact	The first two questions raised for the assessment year 1969-70 are identical to those raised for the assessment year 1968-69 except for the amounts mentioned therein.
+Fact	Counsel are agreed that the two common questions are covered by this court's judgment in the assessee's own case for the assessment year 1967-68 in Income-tax Reference No.
+Fact	99 of 1976, dated November 18, 1988 (see [1989] 177 ITR 124) and that following the said judgment both the common questions have to be ans wered in the affirmative and in favour of the assessee.
+Fact	3.
+Fact	Accordingly, the common questions are so answered.
+Argument	4.
+Fact	Facts pertaining to the third question relating to the assessment year 1968-70 are: The assessee-company credited a sum of Rs.
+Fact	79,492 to its profit and loss appropriation account.
+Fact	Out of this amount, the assessee conceded that it was liability to pay tax on Rs.
+Fact	49,959.
+Fact	As regards the balance amount of Rs.
+Fact	22,275 the assessee-company admitted that this amount represented commission payable to BE Shri G. D. Modi in an earlier year, the amount was allowed as deduction.
+Fact	The commission was not claimed by <NAME> for the past many years.
+Fact	During the previous year, the assessee-company debited <NAME>'s account and credited its profit and loss appropriation account.
+Argument	Yet, the assessee-company claimed that the amount was not taxable despite the fact that it was written off in the aforesaid manner.
+RulingByLowerCourt	The assessee's contention that the act of writing off on its part did not amount to remission or cessation  of its liability which was the requirement of section 41(1) of the Income-tax Act, 1961, was rejected by the Income-tax Officer who brought the aforesaid amount of Rs.
+RulingByLowerCourt	22,275 to tax under section 41(1) .
+RulingByLowerCourt	The Appellate Assistant Commissioner confirmed the inclusion of the amount under section 41(1) .
+RulingByLowerCourt	On further appeal, however following its earlier order in the assessee's won case for assessment year 1967-68, the <ORG> accepted the assessee's case that the amount of Rs.
+RulingByLowerCourt	22,275 was not taxable as its income under section 41(1) of the Income-tax Act, 1961.
+RulingByLowerCourt	According to the <ORG>, its conclusion was fortified by this court's decisions in <CITATION_1512520>  49 ITR 578, <CITATION_27111889>  54 ITR 167 and <CITATION_1856511>  62 ITR 34.
+Argument	5.
+Argument	<NAME>, learned counsel for the <ORG>, submitted that the <ORG> had not appreciated the decision of this court properly.
+RatioOfTheDecision	When certain expenses were allowed as deduction in the past, such amount of expenses is deemed to be the assessee's income under section 4 1(1) of the Income-tax Act as soon as and to the extent there is remission or cessation of liability in respect thereof.
+Fact	The only question requiring consideration was whether the assessee's liability still continued.
+RatioOfTheDecision	In this context, he stated that the assessee's conduct in written off the liability by debiting the account of <NAME> and crediting correspondingly the profit and loss appropriation account clearly indicated that it had no intention of making payment to <NAME> even if it was demanded.
+RatioOfTheDecision	6.
+RatioOfTheDecision	According to <NAME>, the legislative intention as regards this provisions was clear.
+RatioOfTheDecision	It was to tax such amounts which were allowed as deductions and which were ultimately not paid and were not to be paid by the assessee.
+RatioOfTheDecision	Assuming there was some lacuna in the provisions of section 41(1) , he submitted, this court should fill up the lacuna by supplying necessary words in the provisons.
+RatioOfTheDecision	In support of his contention, <NAME> relied on number of decisions of this court and other <ORG> to which we  propose to refer in the course of our judgment.
+RatioOfTheDecision	7.
+Argument	<NAME>, learned counsel for the assessee, on the other hand, reiterated the reasons given in support of the conclusion.
+Argument	In particular, he urged that the question was squarely covered by the decision of this court referred to by the <ORG> in its order in the assessee's favour.
+RatioOfTheDecision	He brought to our notice other decisions of this court and other decisions of this court and other <ORG> which, accordingly to him, supported the <ORG>'s order.
+RatioOfTheDecision	We shall make reference to those judgments also to the extent necessary in the course of the judgment.
+RatioOfTheDecision	8.
+Statute	Section 41(1) of the Income-tax Act, 1961, reads thus:  "41(1) Where an allowance or deduction has been made in the assessment for any year in respect of loss, expenditure or trading liability incurred by the assessee, and subsequently during any previous year the assessee has obtained, whether in cash or in any other manner whatsoever, any amount in respect of such loss or expenditure or some benefit in r espect of such trading liability by way of remission or cessation thereof the amount obtained by him or the value of benefit accruing to him, shall be deemed to the profits and gains of business or profession and accordingly chargeable to income-tax as the income of that previous year, whether the business or profession in respect of which the allowance or deduction has been made is in existence in that year or not."
+RatioOfTheDecision	9.
+RatioOfTheDecision	Broadly speaking, the sub-section applies only if, (i) an allowance or deduction had been made in the assessment for any year in respect of the loss.
+RatioOfTheDecision	Expenditure or trading liability incurred by the assessee and (ii) in subsequent years, the assessee had obtained any benefit in respect of the amount so allowed as deduction by way of remission or cessation.
+RatioOfTheDecision	As regards the first condition, admittedly, the amount of Rs.
+RatioOfTheDecision	22,275 represented commission claimed as payable by the assessee to <NAME> in one of the past assessment years and the assessee's claim for deduction was allowed went a credit  entry was made in favour of <NAME>.
+RatioOfTheDecision	As regards the second condition, there is, of course, a dispute between the parties.
+RatioOfTheDecision	According to the <ORG>, the liability being barred by limitation and the assessee having written it off by correspondingly crediting its profit and loss appropriation account, ceased or got remitted within the meaning of section 41(1) of the Act.
+RatioOfTheDecision	The assessee contends that it is not so.
+RatioOfTheDecision	When a liability is barred by limitation, what happens is that the remedy of the creditor is barred.
+RatioOfTheDecision	The liability of the debtor (in this case the assessee) is never barred so long as he had the intention of honoring the liability.
+RatioOfTheDecision	10.
+RatioOfTheDecision	For appreciation of the rival contentions in this regard, it is desirable to first refer to the judgments of this court railed upon before us.
+RatioOfTheDecision	The first judgment cited is in the case of <CITATION_1512520>  49 ITR 578.
+RatioOfTheDecision	In that case, the income-tax authorities had concluded the amount of Rs.
+RatioOfTheDecision	30,190 in the income of the assessee on the ground that the liability pay had  ceased by reasons of the expiry of the period of three years.
+RatioOfTheDecision	The assessee had not written off the liability in its accounts.
+RatioOfTheDecision	It was on these facts that this court held that merely because the remedy of the creditors to recover the amount is barred, the assessee's liability did not cease and that, therefore, the amount was not taxable under the provision of section 10(2A) of the Income-tax Act, 1922, corresponding to section 41(1) of the Income-tax Act, 1961.
+RatioOfTheDecision	The second decision is <CITATION_1856511>  62 ITR 34.
+RatioOfTheDecision	In this case, certain amounts were add owed as deduction in the past in respect wages, salary an bonus payable to the employees.
+RatioOfTheDecision	The liabilities in respect thereof were written off during the previous year, the remedy was apparently barred by limitation.
+RatioOfTheDecision	The <ORG>'s contention that the liabilities had ceased and section 10(2A) of the 1922 Act (corresponding to section 41(1) of the new Act) was applicable was rejected by this court observing at page 41 as under:  ".......
+RatioOfTheDecision	The question to be consid ered is whether the transfer of these entries about a remission cessation of its liability.
+RatioOfTheDecision	The transfer of an entry is a unilateral act of the assessee, who is a debtor to its employees, we fail to see how a debtor, by his own unilateral act, can bring about the cessation or remission of his liability.
+RatioOfTheDecision	Remission has to be granted by the creditor.
+RatioOfTheDecision	It is not in dispute, and it indeed cannot be disputed, that it is not a case of remission of liability.
+RatioOfTheDecision	Similarly, a unilateral act on the part of the debtor cannot bring about a cessation of his liability.
+RatioOfTheDecision	The cessation of the liability may occur either by reason of the operation of law, i.e., on the liability becoming unenforceable at law by the creditor and the debtor declaring unequivocally his intention not to honor his liability when payment is demanded by the creditor, or a contract between the parties, or by discharge of the debt - the debtor making payment thereof his creditor.
+RatioOfTheDecision	Transfer of an entry is neither an agreement between the parties not payment of  the liability."
+RatioOfTheDecision	11.
+RatioOfTheDecision	Thus, this court, in its above judgment, held that the cessation of the liability may occur either (i) by reason of operation of law, i.e., on the liability being unenforceably at law by the are creditor and the debtor declaring unequivocally his intention not to honour his liability when payment is demanded by the creditor, or (ii) by contract between the parties, or (iii) by discharge of the debt - the debtor making payment thereof his creditor.
+RatioOfTheDecision	There are, thus, three alternative situations contemplated in this decision which would result in the cessation of the liability.
+RatioOfTheDecision	However, in that case, the liability pertained to wages, salaries and bonus due by an employer to his employees in an industry so much so that the provisions of the Industrial Disputes Act were attracted and consequently the bar of limitation did not come in the way of the employees.
+RatioOfTheDecision	In these circumstances, this court held that there was no cessation of the liabilities and, therefore the amounts could not be treated  as income of the assessee under section 10(2A) of the Indian Income-tax Act, 1922.
+RatioOfTheDecision	12.
+Precedent	<CITATION_920645>  102 ITR 428, this court held that neither remission not cessation of liability could take place by unilateral act on the part of the debtor and, therefore, merely because the amount was transferred from "unclaimed balances account" to "reserve for taxation account" it will not become taxable under section 10(2A) of the Act of 1922.
+RatioOfTheDecision	That the decision was given on the facts of that case is evident from the emphasis laid on the fact that some payments were made out of these accounts as and when demanded by the parties and for this reasons the transfer of amounts from "unclaimed balances account" to "reserve for taxation account" did not mean cessation of liability.
+RatioOfTheDecision	The question involved in the case of <CITATION_264004> .
+Precedent	149 ITR 604, was not regarding the remission or cessation of liability at all.
+Fact	It was whether the surplus deposits made by the customers were trading receipts in the hands of the assessee.
+Fact	It was held that the excess deposit were to held by the assessee for the benefit of the depositors.
+RatioOfTheDecision	The deposits were in respect of specific transactions of sales and were adjusted towards the purchase price of the machinery sold.
+RatioOfTheDecision	It had close connection with the transactions of sales.
+RatioOfTheDecision	Since the assessee transferred the excess deposits remaining in its hands to the profit and loss account during the previous year, such excess amounts were assessable to tax as trading receipts in the hands of the assessee.
+RatioOfTheDecision	The provisions of section 10(2A) of the old Act of 1922 and section 41(1) of the new Act of 1961 were not even referred to and/or examined in this decision.
+RatioOfTheDecision	13.
+RatioOfTheDecision	To sum up, so far as these court is concerned, the settled legal position appears to be what was stated by this court in its judgment in <ORG> case [1966] 62 ITR 34.
+RatioOfTheDecision	The liability of an assessee does not cease merely because the liability has become barred by limitation and the assessee has unequivocally expressed it intention not t o honour the liability even when demanded.
+RatioOfTheDecision	Essentially, therefore, it will always be a question of fact whether or not the assessee has expressed unequivocally his intention not to honour the liability after it has become barred by limitation.
+RatioOfTheDecision	In a given set of facts, a finding either way may be possible.
+RatioOfTheDecision	In the instant case, the departmental authorities have assumed that the assessee has not intention of honoring the liability on demand from the mere fact of the assessee's writing off the liability and crediting the amount to the profit and loss appropriation account.
+RatioOfTheDecision	The <ORG> has held that the liability did not cease.
+RatioOfTheDecision	We have to answer the question on the basis of the facts found.
+RatioOfTheDecision	In the circumstances, so far as this case is concerned, it will not be possible for this court of interfere.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The decisions of other <ORG> cited before us do not carry the matter further, because they followed the earlier decisions of this court.
+RatioOfTheDecision	15.
+RatioOfTheDecision	Accordingly, the third question relating to the assessment year 19 69-70 also is, on the facts, found answered in the affirmative and in favour of the assessee.
+RatioOfTheDecision	16.
+RulingByPresentCourt	No order as to costs.

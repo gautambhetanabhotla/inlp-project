@@ -1,0 +1,245 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This appeal by the State of Kerala is against the order dt.
+Fact	14-8-1986 made in O.P.
+Argument	(ARB) No.
+Argument	332/85 by the Principal Sub Judge, Thiruvananthapuram.
+Argument	By the impugned order, the learned trial Judge (a) dismissed the appellant's petition No.
+Argument	332/85 for setting aside the award in favour of the respondent Contractor and (b) made a decree in terms of the award of the Arbitrator which granted to the respondent a sum of Rs.
+Argument	3,64,986.00 under various claims made by him.
+Argument	2.
+Argument	The appellant awarded to the respondent contract for the construction of <ORG> --RBC formation of Sasthamkotta branch canal.
+Fact	Under this contract dt.
+Fact	26-2-1982, the work was to be completed within 12 months from 17-4-1982.
+Fact	Certian differences arose between the parties.
+Fact	The disputes in the terms of claims made by the respondent were referred to the arbitration of <NAME>, retired Chief Engineer, <ORG> The appointment of the Arbitrator was made in accordance with Clause 52 of the contract styled as "local competitive  bidding" in respect of "<ORG>."
+Fact	3.
+Fact	Clause 52 of the contract provides, inter alia, the mode of appointment of the sole arbitrator.
+Fact	Mr. <NAME>, Chief Engineer, <ORG>, was appointed the sole arbitrator in accordance with Clause 52 of the contract.
+RulingByLowerCourt	However, Mr. <NAME> subsequently retired from service of the <ORG>.
+RulingByLowerCourt	Nevertheless the parties proceeded with the arbitration, the Arbitrator completed the proceedings and made the award.
+Argument	An important stipulation in Clause 52 relevant to this appeal is this :  "All awards shall be in writing and in the case of awards amounting to Rs.
+Argument	1 lakh and above, such awards shall State the reasons for the amount awarded".
+Argument	4.
+Argument	The appellant wants us to set aside the award.
+Precedent	Therefore, it is necessary to bear in mind the grounds on which a court can set aside awards made by arbitrators.
+Precedent	Section 30 of the Arbitration Act provides the grounds on which an award of the Arbitrator can be set aside.
+Precedent	It lays down that an award shall not be set  aside except on one or more of the grounds set out therein.
+Precedent	One of such grounds is that the arbitrator or umpire has "misconducted himself of the proceedings".
+Argument	The appellant urged that the arbitrator "misconducted ............ the proceedings".
+Argument	An arbitrator misconducts the proceedings (i) when there is a defect in the procedure followed by him (ii) commits breach and neglect of duty and responsibility (iii) acts contrary to the principles of equity and good conscience (iv) acts beyond the reference (vi) proceeds on extraneous circumstances (vii) ignores material documents (viii) bases the award on no evidence.
+Argument	While it is difficult to give an exhaustive list of acts which constitute misconduct of the proceedings, the above stated grounds broadly cover such grounds.
+Argument	These acts constitute legal misconduct.
+Argument	5.
+Argument	According to learned counsel for the appellant the misconduct of the proceedings has occurred for this reason.
+RatioOfTheDecision	The contract between the parties enjoins the Arbitrator to "state the reasons for the amoun t awarded."
+RatioOfTheDecision	The award of various amounts under Items Nos.
+RatioOfTheDecision	17(a), 17(b), 17(c), 17(g), 170 and 17(1) of the statement of claims are not based on proper and adequate reasons.
+RatioOfTheDecision	In other words, the grounds stated in support of the award do not constitute reasons.
+RatioOfTheDecision	It is true that under Clause 52 of the contract the Arbitrator is bound to state reasons, not generally, but "for the amount awarded".
+RatioOfTheDecision	The literal meaning of "reason" is "a ground or motive for a belief or a course of action, a statement in justification or explanation of belief or action"'.
+RatioOfTheDecision	It is in this sense that the award must state reasons for the amount awarded.
+RatioOfTheDecision	The rationale of the requirement of reasons is that reasons assure that the Arbitrator has not acted capriciously.
+Precedent	Reasons reveal the grounds on which the Arbitrator reached the conclusion which adversely affects the interests of a party; The contractual stipulation of reasons means, as held in <NAME> and <NAME>' Arbitration In Re (1963) 2 QB 467 "proper, adequate reasons".
+Precedent	Such reasons shal l not only be intelligible but shall be "a reason connected with the case which the court can see is a proper".
+Precedent	While the court is empowered to set aside the award on the ground of misconduct of proceedings, the limitations of this power should not be lost sight of.
+Precedent	In the context of clause 52 of the contract, failure to state reasons for the amount awarded does constitute misconduct of the proceedings .
+Precedent	It follows that if reasons are unconnected with the case they are not reasons.
+RulingByPresentCourt	We will in the course of this judgment analyse the award and consider whether the award furnishes reasons for the amount awarded.
+RulingByPresentCourt	But before we do so, we wish to remind ourselves of the basic limitations of the judicial interference in arbitration award.
+Precedent	The need to confine to the limitations was placed in perspective by <ORG> in <CITATION_1337022> AIR 1989 SC 1263 and <CITATION_1873931> AIR 1989 SC 268.
+Precedent	The propositions emerging from these decisisons are summarised below :  (i) While the functions of the courts of la w is to oversee that the arbirators act within the norms of justice, the courts should as far is possible give effect to the award, and if the arbitrator acts within the norms of justice, the courts should compel obedience to the decision of the chosen adjudicator.
+Precedent	(ii) Where reasons have been given for the award, the challenge to the award cannot be sustained unless, the arbitrator has taken a view of the matter which could not be sustained on any view of the matter.
+Precedent	iii) judicial interference with the arbitrator's award is justified only if it is shown that the arbitrator has reached a decision which no reasonable arbitrator could have done.
+Precedent	iv) If the conclusion of the arbitrator is based on a possible view of the matter the court should not interfere with the award.
+Precedent	6.
+Precedent	The limits of judicial interference were highlighted again in <CITATION_1069282> ., AIR 1989 SC 973, where it was laid down this :  i) even where the arbitrator is required to assign reasons, he is not bound to deliver a detailed judgme nt  ii) the award should be read reasonably as a whole and it is enough if short intelligible indications of the grounds in the mind of the arbitrator are discernible,  iii) the <ORG> does not sit in appeal over the award and review the reasons.
+RatioOfTheDecision	7.
+RatioOfTheDecision	In the light of the principles enunciated by the Supreme <ORG>, we will now endeavour to discover whether the award is based on a possible view of the matter, whether a reasonable arbitrator could have reached the decision impugned in the appeal and whether the view of the arbitrator could not be sustained on any view of the matter.
+RatioOfTheDecision	The arbitrator has examined in a span of five pages the grounds on which compensation was sought by the respondent.
+RatioOfTheDecision	We will examine each item of the claim granted by the award.
+RatioOfTheDecision	8.
+RatioOfTheDecision	In paragraph 17 of the claim petition, claims have been made under Clauses (a) to (p).
+RatioOfTheDecision	But in view of the fact that certain claims were rejected and therefore the award in respect of them not appealed from and also the fact that certain claims have been conc eded before us, the scope of this appeal is considerably narrow one.
+RatioOfTheDecision	There is no controversy about the award in respect of items 17(d), 17(i), 17(h), 17(i), 17(k), 17(m), 17(o) and 17(p) because these claims were rejected by the Arbitrator.
+RatioOfTheDecision	The claims in respect of 17(e) relates to the grant of Rs.
+RatioOfTheDecision	13,800/-to the claimants towards excess costs of gelatine.
+RatioOfTheDecision	Mr. <NAME>, counsel for the appellant conceded this claim.
+RatioOfTheDecision	Therefore, the appeal in regard to this claim is hereby dismissed.
+RatioOfTheDecision	The claim under 17(g) is for compensation at the rate of 300 per day of 132 days, during which period, the respondent's workers were on strike.
+RatioOfTheDecision	Learned counsel for the respondent, Mr. <NAME>, rightly did not press this claim because the appellant could not be responsible for a strike by the respondent's workers.
+RatioOfTheDecision	Therefore, to this extent we allow the appeal and dismiss the respondent's claim under Clause 17(g) of the claim petition.
+Argument	The claims under Clause 17(1) of the claim petition was for compensation of Rupees 1,20,136/- for lo ss due to enhanced cost and labour charges resulting from the delay by the appellants in handing over possession of the site.
+Argument	The Arbitrator has awarded Rupees 1,20,136/- on this account.
+Argument	Learned counsel for the respondent Mr. <NAME> did not press this claim also.
+Argument	We, therefore, allow the appeal so far as the claim No.
+Argument	17(1) is concerned.
+Argument	9.
+RatioOfTheDecision	In view of what we have stated in the last paragraph this appeal is confined to claims under Clauses 17(a), 17(b), 17(c), 17(j) and 17(n).
+RatioOfTheDecision	10.
+RatioOfTheDecision	The claim under Clause 17 (a) arises in this manner: The respondent-contractor, hired a bull dozer for the purpose of carrying out the work.
+RatioOfTheDecision	The bull dozer remained idle for 40 days from 30-4-1982 to 28-5-1982, and from 14-9-1982 to 6-10-1982.
+RatioOfTheDecision	The local workers unconnected with the work of the contractor, prevented the use of the bull dozer.
+Argument	The appellant could not provide the site free from obstruction for carrying out the work.
+Argument	Therefore, compensation for loss caused by payment of hire charges of Rs.
+Argument	3,500/ - per day for 40 d ays was claimed.
+Fact	The arbitrator awarded Rs.
+Fact	1 lakh at the rate of Rs.
+Fact	2,500/- per day.
+Precedent	11.
+Precedent	The reason for the grant of compensation on account of idling of the bull dozer is this :  The work had to be performed within 12 months which necessarily implied the use of the bull dozer.
+Precedent	The correspondence with the Government and the discussions held in regard to the obstruction of the work caused by the local people proved that only the police protection by the appellant could enable the respondent to carry out the contract.
+Argument	Since the appellant could not provide the site free of hindrance and obstruction, the contractor was prevented from using the bull dozer resulting in loss of money awarded as compensation.
+Argument	12.
+Argument	The Arbitrator knew that the work had to be completed within 12 months, necessarily implying the use of the bull dozer and exclusion of manual work.
+RatioOfTheDecision	The use of the bull dozer implies that conditions necessary for the use of the bull dozer existed.
+RatioOfTheDecision	In the circumstances of this case, the contractor alone c ould not have removed the obstruction caused by the local workers who did not approve of the use of the bull dozer.
+RatioOfTheDecision	For this purpose the fact that the appellant failed to remove the obstruction by use of police received importance in this thinking of the Arbitrator.
+RatioOfTheDecision	The correspondence between the parties, the discussions held and the request for police protection made by the respondent highlighted the need for assistance by police, so as to enable the contractor to use the bull dozer.
+RatioOfTheDecision	In the circumstances, the Arbitrator considered that the contractor had lost money for no fault of his.
+RatioOfTheDecision	The loss could have been avoided had the appellants taken steps to remove the obstruction.
+RatioOfTheDecision	Therefore, he concluded that the appellants were liable to pay compensation.
+RatioOfTheDecision	13.
+RatioOfTheDecision	It is an accepted principle of law of contracts that no man can complain of another's failure to do something which he himself made imposible.
+RatioOfTheDecision	It is implied in the contract that the contractor had to use the bull dozer if he was to complete the work within  12 months.
+RatioOfTheDecision	The implication follows not only from the stipulation of time limit but also from the magnitude of the work.
+RatioOfTheDecision	The prevention of work, envisaged by this principle need not be direct or forcible prevention.
+RatioOfTheDecision	It is enough if the appellant neglected doing or providing anything which he ought to do or provide and without which the respondent could not perform the part.
+RatioOfTheDecision	Section 53 of the Contract Act enacts the principle of English Law that prevention by one party is constructively tantamount to fulfilment of the contract by the other.
+RatioOfTheDecision	The party aggrieved by such prevention of fulfilment of one particular term is entitled to insist on payment.
+RatioOfTheDecision	If the award finds support from valid rules, of law, it cannot be impeached, as unreasonable.
+RatioOfTheDecision	Application of these principle to contracts of work is not unknown to case law.
+Precedent	At page 383 <NAME> and <NAME> refer to English cases where these principles were applied7.
+Precedent	14.
+Precedent	At this stage, a brief reference to the contents of the award which reveal the arbitrator's mind m ay be made.
+Precedent	He observes "the fact that the labourers object to the use of the bull dozer has been admitted by the respondent also".
+Precedent	Then he invites attention to the responsibility of the appellant in connection with the removal of the obstruction, in this sentence "..........that there was acute labour problem which could not be solved by the respondent himself".
+Precedent	Finally after referring to the documents, the arbitrator fixes the responsibility for the delay in these words.
+Precedent	"The respondent, alone is responsible for the delay  7.
+Precedent	<CITATION_146150560> (1869) L.R.
+Precedent	5 C.P.
+Precedent	300 <NAME> v. <NAME> (1881) 6 App Cas 251.  in creating an atmosphere for coming to a settlement".
+Argument	The conclusion of the arbitrator that the appellant was responsible for the situation, is founded on numerous letters in which the appellants, the State of Kerala, realising their responsibility insisted on assistance from the police -- their own wing ---which never come forth, to remove the impediment caused by local labour.
+RatioOfTheDecision	It is these reasons whic h bring into operation the principle of justice and fair play set out by us in paragraph 12 of this judgment.
+RatioOfTheDecision	The award is based on these reasons : (i) that the appellants were under an implied obligation to provide obstruction-free site (ii) that the appellant conceded this by repeatedly asking police help (iii) that they did not fulfil the implied obligation and (iv) were therefore bound to compensate the contractor.
+RatioOfTheDecision	In our opinion, the arbitrator's award finds support from the principles set out in paragraph No.
+RatioOfTheDecision	12 above and his reasons summarised above.
+RatioOfTheDecision	15.
+RatioOfTheDecision	The arbitrator has concluded that the appellants were responsible for the loss to the respondent.
+RatioOfTheDecision	The reason discernible from his award is that the appellants, armed with the <ORG>'s power, failed to create conditions in which the contractor could fulfil the contract.
+RatioOfTheDecision	This view of the matter is a possible view.
+RatioOfTheDecision	The conclusion that the appellants by their failure to remove obstruction by local workers caused the loss in a finding of fact based on evid ence.
+RatioOfTheDecision	Our jurisdiction is limited by considerations laid down in Section 30 of the Arbitration Act which have been amplified by <ORG> in the judgments referred to earlier.
+RatioOfTheDecision	We are of the opinion that the approach of the arbitrator was fair, just and based on common sense.
+RatioOfTheDecision	He has given reasons for the payments awarded by him.
+RatioOfTheDecision	It cannot be said that the view of the arbitrator is a view "which could not be sustained on any view of the matter" or that "no reasonable arbitrator could have taken such a view".
+RatioOfTheDecision	We hold that the arbitrator's view that the appellant was liable to compensate the respondent contra-tor, for the loss sustained by keeping the bull dozer idle, is a possible view of the matter.
+RatioOfTheDecision	The reasons given by him for the amounts awarded are connected with the claim and are adequate.
+RatioOfTheDecision	This applies to all items of the claim granted by the arbitrator.
+RatioOfTheDecision	We wish to caution that we should not be understood to have laid down as a general principle that in every case of the Government's contract, the  Government has the obligation to provide police assistance to create conditions in favour of the contractor.
+RatioOfTheDecision	We have discussed the general principles underlying Section 53 of the Contract Act for the limited purpose of ascertaining whether the award is reasonable and fair.
+Argument	16.
+Argument	The claim under item No.
+Argument	17(b) proceeds on the same basis as item No.
+Argument	17(a).
+Argument	During the 156 days between 3-4-1982 and 6-10-1982 when work under the contract was disrupted the respondent had to keep his supervisory staff in his employment.
+Argument	He could not discharge the staff as it would have been difficult to get the staff if and when the obstruction was removed.
+Argument	The inability of the appellant to create conditions in which the bull dozer could be used and the work under the contract proceeded with induced the arbitrator to award compensation at the rate of Rs.
+RatioOfTheDecision	150 per day for the loss caused.
+RatioOfTheDecision	The reason assigned by the arbitrator is the same as under Clause 17(a).
+RatioOfTheDecision	It is the appellant, State of Kerala who failed to create conditions necess ary for fulfilment of the contract.
+RatioOfTheDecision	The respondent could not have discharged the supervisory staff.
+RatioOfTheDecision	He expected that the negotiations which the appellant initiated would bring police help and the work would start.
+RatioOfTheDecision	These are the indications of the thinking of the arbitrator in this matter.
+RatioOfTheDecision	In the circumstances, the arbitrator chose to grant compensation to the respondent.
+RatioOfTheDecision	For the reasons stated while dealing with claim under item No.
+RatioOfTheDecision	17(a) we hold that the arbitrator was right.
+Precedent	17.
+Precedent	The award is right so far as claim No.
+Precedent	17(c) is concerned.
+RatioOfTheDecision	The amount of-work found to have been done at the stage of the final bill was much less than the amount of work measured and found at the stage of the third bill.
+RatioOfTheDecision	The claimant had been paid only in respect of 17,294 m3 whereas the work done by him was in the region of 23,000 m3.
+RatioOfTheDecision	He claimed at the rate of 25,000 m3.
+RatioOfTheDecision	The appellants act in withholding the payment is based on the final measurement taken without inviting the contractor to remain present when the work was measure d. The arbitrator considered that since the measurement up to the third bill were admitted and since the respondent was not invited to remain present, when the final measurement was taken, the contractor should be paid at the rate of the third bill.
+RatioOfTheDecision	While the appellants have the right to contest the award in this respect, we do not think that the view of the arbitrator is not based on reason.
+RatioOfTheDecision	We do not think that the arbitrator acted unreasonably.
+RatioOfTheDecision	Another arbitrator might have taken a different view.
+RatioOfTheDecision	But the decision of this arbitrator is based on reason and is a possible view of the matter.
+Precedent	18.
+RulingByLowerCourt	Item No.
+RulingByLowerCourt	17(j) relates to payment for excess work in respect of 13 items.
+RulingByLowerCourt	Out of these items, the contractor agreed to accept payment at agreed rates in respect of items 6 and 7.
+RulingByLowerCourt	There was no agreement as to the rates forexcess work in respect of items 1 --5and8 -- 13.
+Precedent	The arbitrator awarded payment in respect of excess work specified as items Nos.
+Precedent	1 -- 5 and 8 -- 13.
+Precedent	A sum of Rs.
+Argument	19,199/-was granted in respect of th ese items.
+Argument	The appellant urged under Clause 32 of the Contract, the rate of payment for extra work had to be fixed by mutual agreement.
+RatioOfTheDecision	This is no doubt true.
+RatioOfTheDecision	But the arbitrator decided it because there was dispute about these items.
+RatioOfTheDecision	But the submission of the appellant that since the rates had to be fixed by mutual agreement, the arbitrator had no authority to award the payment for excess work is unfounded.
+RatioOfTheDecision	It is not the case of the appellant that different rates for excess payment in respect of items Nos.
+RatioOfTheDecision	1 to 5 and 8 to 13 were agreed upon.
+RatioOfTheDecision	The arbitrator acted within his authority and has assigned reasons for the grant of Rs.
+Precedent	19,199/-.
+Precedent	No error justifying judicial interference is discernible.
+Precedent	19.
+Precedent	In respect of item No.
+Precedent	17(n) no error has been pointed out.
+Precedent	20.
+Precedent	The arbitrator has awarded interest at the rate of 6% p.a.
+Precedent	payable with effect from three months after the date of the award.
+Precedent	The correctness of this decision is challenged.
+Precedent	Having regard to the decision of <ORG> of this Court in <CITATI ON_274999> , (1990) 2 Ker LT 735, we hold that the arbitrator was in error in awarding interest for the period after the award.
+RatioOfTheDecision	To this extent the appellants are right.
+RatioOfTheDecision	Therefore, the award directing payment of the interest after the award by the arbitrator is set aside.
+RatioOfTheDecision	21.
+RatioOfTheDecision	It was argued by learned counsel for the respondent that the misconduct of the proceedings by the arbitrator has not been pleaded in the grounds of appeal.
+RatioOfTheDecision	We are urged to dismiss the appeal on this ground alone.
+RatioOfTheDecision	Having regard to the provisions of the Rule 2 of Order 41 of the Civil P.C.
+RatioOfTheDecision	this <ORG>'s authority is not confined to the grounds of objection set forth in the memorandum of appeal by taken by the leave of the <ORG> under that rule.
+RatioOfTheDecision	We have expressly granted to the appellants leave to urge the point of misconduct of the proceedings by the arbitrator.
+RatioOfTheDecision	The appeal was therefore argued on all points.
+RatioOfTheDecision	In view of this the judicial decisions in Chevalier Iyyappan v. The Dharmodayam Company, AIR 1966 SC 1017, <NAME> v. <NAME> a, AIR 1967 SC 1193, and <CITATION_1015348> , AIR 1966 Kerala 96 (FB), are of no assistance to the appellants.
+RatioOfTheDecision	22.
+RatioOfTheDecision	We set out below a summary of the amounts awarded by the arbitrator and confirmed by the trial Court item No.
+RatioOfTheDecision	17(a) ... Rs.
+RatioOfTheDecision	1,00,000.00 17(b) ... Rs.
+RatioOfTheDecision	23,400.00 17(c) ... Rs.
+Fact	68,651.00 17(d) ... rejected 17(e) ... Rs.
+RulingByLowerCourt	13,800.00 17(f) ... rejected 17(g) ... Rs.
+RulingByLowerCourt	19,800.00 17(h) ... rejected 17(i) ... rejected 17(j) ... Rs.
+RulingByLowerCourt	19,199.00 17(k) ... rejected 17(l) ... Rs.
+RulingByLowerCourt	1,20,136.00 17(m) ... rejected 17(n) ... security refund ordered 17(o) ... rejected 17(p) ... rejected _______________ Total ... Rs.
+RulingByLowerCourt	3,64,986.00 ________________  In view of what we have stated in paragraph 8 of the judgment, the claim in respect of item No.
+RulingByLowerCourt	17 (g) was erroneously allowed.
+RulingByLowerCourt	The amount of Rs.
+Fact	19,800/- representing this claim shall be deducted from the amount awarded.
+Fact	Similarly, the claim in respect of item No.
+Fact	17 (1) of Rs.
+Fact	1,20,136/- was erroneously allowed by the arbitrator.
+RulingByLowerCourt	This amount too will have to be deducted from  the total amount awarded.
+RulingByLowerCourt	Therefore, the appeal is allowed only in respect of item Nos.
+Fact	17(g) and 17 (1).
+Fact	The amounts awarded were respectively Rs.
+Fact	19,800/- and Rs.
+Fact	1,20,136/-which total up to Rs.
+Fact	1,39,936/-.
+Fact	Out of the total amount of Rs.
+Fact	3,64,986/- awarded, the sum of Rs.
+Fact	1,39,936/- will have to be deducted.
+Fact	The amount awarded shall now be Rs.2,25,050/-.
+Fact	23.
+RulingByLowerCourt	For the reasons stated in this judgment we make the following order.
+RulingByLowerCourt	The order of the Principal Sub Judge, Thiruvanathapuram is confirmed in so far as item Nos.
+Fact	17(a), 17(b), 17(c), 17(e), 17(j) and 17(n) are concerned.
+Fact	The award is set aside and the order of the learned Principal Sub Judge is reversed in respect of the amounts awarded under item Nos.
+Fact	17(g) Rs.
+Fact	19,800/- and 17(1) Rs.
+Fact	1,20,136/-.
+Fact	The award in favour of the respondents is confirmed only in respect of a sum of Rs.
+Fact	2,25,050/-subject to the modification of interest as stated in paragraph 20.
+Fact	The O.P.
+Fact	(Arb) 332/1985 made by the State of Kerala is allowed to the extent of the amount of Rs.
+Fact	1, 39,936/- is concerned.
+RulingByPresentCourt	Subject to this, the appeal is disposed of.

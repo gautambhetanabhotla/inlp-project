@@ -1,0 +1,69 @@
+Fact	JUDGMENT  1.
+Fact	This appeal has arisen out of suit which was instituted by the plaintiffs for recovery of possession on ejectment of the defendants.
+Fact	The trial Court decreed the suit on contest as against some of the defendants and ex parte against the others.
+RulingByLowerCourt	It declared the plaintiffs' title to the land and directed that they would recover khas possession on evicting the defendants therefrom.
+RulingByLowerCourt	The defendants thereupon preferred an appeal.
+RulingByLowerCourt	The learned Subordinate Judge who dealt with that appeal dismissed the plaintiffs' claim holding, that although he found in favour of the plaintiffs on the merits, the decree of the trial Court was to be reversed and the suit dismissed on the ground that notices under Section 106, T.P.
+RulingByLowerCourt	Act , were neither sufficient nor properly served.
+RulingByLowerCourt	2.
+RulingByLowerCourt	The plaintiffs have then preferred this second appeal and on their behalf the findings of the Subordinate Judge, both on the question of sufficiency of the notices as also on the question of their service, have been challenged in this appeal.
+RulingByLowerCourt	3.
+RulingByLowerCourt	As regards the sufficiency of the notices what has been found against the plaintiffs by the Subordinate Judge is that the notices purported to have been signed by certain persons as am-mukhtears on behalf of certain ladies and that it had not been proved in the case that the persons who purported to sign on behalf of the said ladies as such am-mukhtears had been duly authorized by the said ladies to issue the said notices.
+RulingByLowerCourt	The learned Subordinate Judge has found that upon the evidence in the case proper execution of the am-mukhtearnamas had not been duly proved, and further more that although in the am-mukhtearnamas power was given to the am-mukhtears to sue in ejectment there was nothing said conferring any authority to the am-mukhtears to issue notices to quit.
+RatioOfTheDecision	As regards this matter it is sufficient for us to say that in the written statement that was filed on behalf of the defendants no question as to the want of a power of this character in the am-mukhtearnamas or as to the am-mukhtearnamas not havi ng been duly executed by the ladies appears to have been raised.
+RatioOfTheDecision	If it was the defendants' desire to contest the validity of the notices upon grounds such as these, it was clearly their duty to put forward their objection on this head definitely and specifically in the written statement in order that the plaintiffs could have produced necessary evidence showing due and proper execution of the am-mukhtearnamas and the fact that the power to issue notices on behalf of the ladies was conferred thereby.
+RatioOfTheDecision	Moreover even if there was any defect in the am-mukhtearnamas as regards these matters the plaintiffs could have proved that the notices were issued under authority duly given by the ladies because the law does not say that such authority must necessarily be given in writing.
+RatioOfTheDecision	It may also be mentioned that the power to sue in ejectment should ordinarily be taken to include power to take up such action as may be necessary as preliminaries to the institution of such a suit.
+RatioOfTheDecision	In view of the fact that the objection was  not taken in the written statement and the matter did not form the subject matter of discussion in the trial Court and was not even mentioned in the grounds of appeal which the defendants preferred to the lower appellate Court, it was not right on the part of the learned Subordinate Judge to have gone into this question at all.
+RatioOfTheDecision	4.
+RatioOfTheDecision	As regards service of notices the learned Subordinate Judge has held that the notice that was meant for one <NAME> had not been duly served.
+RatioOfTheDecision	<NAME>, it appears, denied in the written statement that there was any service of notice on him.
+RatioOfTheDecision	But he did not appear as a witness and did not adduce any evidence to the effect that the notice meant for him was not received by him.
+RatioOfTheDecision	On behalf of the plaintiffs it was proved that notice was sent by registered post and an acknowledgment purporting to have been signed by <NAME> and received back through the post office was produced and proved in the case.
+Precedent	On these facts the learned Subordinate Judge should have held that the service of n otice upon <NAME> had been proved in view of the decision of <ORG> in the case of <CITATION_5565313> A.I.R.
+Precedent	1918 P.C.
+Precedent	102.
+Precedent	In that case their Lordships quoting the decision in the case of <ORG> v. <ORG>  W.N.
+Precedent	119 observed that if a letter properly directed containing a notice to quit is proved to have been put into the post office it is presumed that the letter reached its destination at the proper time according to the regular course of business in the post office and was received by the person to whom it was addressed.
+RatioOfTheDecision	That presumption would appear to their Lordships to apply with still greater force to letters which the sender has taken the precaution to register and is not rebutted but strengthened by the fact that a receipt for the letter is produced signed on behalf of the addressee by some person other than the addressee himself.
+RatioOfTheDecision	In this particular case as I have already stated <NAME> had not come forward to deny his signature on oath a nd in view of the presumption which arises upon the circumstances of the case it must be held that until that presumption is rebutted the service of notice upon <NAME> had been duly proved.
+RatioOfTheDecision	The learned Subordinate Judge in our opinion was wrong in not giving effect to this presumption.
+RatioOfTheDecision	5.
+RatioOfTheDecision	With regard to the service of notice again the second question that arises is with reference to the notice of <NAME>.
+RatioOfTheDecision	The notice meant for <NAME> was also sent per registered post and served on one <NAME>.
+Argument	<NAME> has been examined on behalf of the defendants and he has said that he forgot to make over the notice to <NAME>.
+Argument	The postal peon who delivered the letter to <NAME> was examined but he was unable to say that he made over the notice to <NAME> at the request of <NAME>.
+Argument	The learned Subordinate Judge thought that it was the duty of the plaintiffs to go further and to prove that the notice that was served on <NAME> had actually reached <NAME>.
+Argument	He held that her evidence to t hat effect was not forthcoming and it should be taken that the notice was not served on <NAME>.
+RatioOfTheDecision	The notices that were given in this case were addressed to all the joint tenants and copies of such notice are alleged to have been served upon the joint tenants severally.
+RatioOfTheDecision	<ORG> in the case of <CITATION_5565313> A.I.R.
+Precedent	1918 P.C.
+Argument	102 to which reference has already been made, pointed out that in the case of joint tenants each is intended to be bound and it has long been decided that service of notice to quit upon the joint tenant is prima facie evidence that it has reached the other joint tenants.
+RatioOfTheDecision	In view of the fact that we have found that service of notice to quit upon <NAME> had been established, applying to the case the dictum of <ORG> referred to above it follows as a matter of course that the other joint tenants including <NAME> had been served with notice.
+RatioOfTheDecision	Our attention has been drawn to the decision of this Court in the case of <CITATION_380642> in which, accord ing to the contention of the respondents, some observations have been made which may be taken to have detracted from the correctness or applicability of the dictum to circumstances such as arise in the present case.
+RatioOfTheDecision	On examination of the facts of that case, however, it appears that all that has been laid down in that case is that the notice in order to give rise to this presumption must be addressed to all the joint tenants and that where no notice was addressed to one of of the joint tenants the mere service of the notice on the other joint tenants is not sufficient notice to quit according to law.
+RatioOfTheDecision	In the present case the notices that were issued were addressed to all the joint tenants.
+RatioOfTheDecision	On the question of service of notice also therefore the decision of the Subordinate Judge is not correct.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The respondents have then drawn our attention to two passages in the judgment of the Subordinate Judge which are somewhat in conflict with each other and from a perusal of which the conclusion may not unreasonably be  arrived at to the effect that the notice as well as the suit excluded a portion of the tenancy which is in the occupation of the defendants.
+RatioOfTheDecision	One of the passages runs in these words:  <NAME>'s land must have been in regard to a portion of it on the north of the District Board Road....
+Argument	The suit is for eviction from the land lying to the south of District Board Road.
+Argument	The plaintiff's case is 2 bighas 12 cottahs of land lying in the south of the road was let out.
+RatioOfTheDecision	But this cannot be possibly true as I have seen that <NAME> had also some land to the north of the road and his brother <NAME>'s boitakhana was situated there.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The other passage runs in these words:  The plaintiffs have sued for all the lands in the possession of <NAME>'a hairs as appertaining to the jote but they have understated the area.
+RatioOfTheDecision	They have resorted to this understatement with two objects in view.
+RatioOfTheDecision	They would not admit that any land of <NAME> lay to the north of the District Board Road and had been acquired by <ORG>.
+RatioOfTheDecision	In  the next place they thought it necessary to minimise the area of the land to make it appear that the land could not have been let out for agricultural purposes.
+RatioOfTheDecision	8.
+RatioOfTheDecision	What exactly was the finding of fact of the Subordinate Judge on this question we are not in a position to appreciate.
+RatioOfTheDecision	If it was only an understatement in the area, the whole of the land forming the subject-matter of the tenancy having been included, the defect in the notice or in the suit would not be fatal to the plaintiff's case.
+Precedent	It has been held in the case of <NAME> v. <NAME> [1898] 26 Cal.
+Precedent	35 that where a notice to quit stated the area of the defendant's holding to be I bigha 5 chitaks but the true area was If cottahs less and no boundaries were given, it was not a defect which would make the notice bad in law.
+Precedent	But if it be a fact that a part of the land of this tenancy was excluded from the notice and from the suit and of such part the defendants are in possession as tenants under the plaintiff the plaintiff cannot p ossibly obtain a decree' in the suit.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The question whether the notice and the suit covered the entire tenancy or whether they have left out a part of it which is in the defendants' occupation will have to be re-investigated and in view of the fact that it was not specifically raised in the pleadings and there is not much indication in the judgment of <ORG> showing that it was canvassed there we think that while we shall make an order for remand to the lower appellate Court for proper investigation of that question and for a clear finding on it we shall give the parties an opportunity to adduce such further materials as they may desire to do in connexion with this question.
+RatioOfTheDecision	All other questions that arose in the suit have now been concluded and the question referred to above is f only question that will be left open for consideration by the learned Subordinate Judge.
+RulingByPresentCourt	On arriving at his finding on that question he will proceed to dispose of the appeal in accordance with law.
+RulingByPresentCourt	10.
+RulingByPresentCourt	Costs of this appe <ORG> will abide the result.

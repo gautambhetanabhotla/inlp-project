@@ -1,0 +1,63 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal against the order of the learned District Judge of Trichinopoly, who on appeal from the order of the Subordinate Judge allowed the plaintiff's application for removal of obstruction by the appellant in this civil miscellaneous second appeal and delivery of possession.
+Fact	2.
+Fact	The property in dispute and other properties belonged to one <NAME> who died on 17th December, 1912.
+Fact	After his death, there was a partition on the 15th January, 1916, between the two sons of <NAME>, i.e., <NAME> and <NAME> and in that partition <NAME> got for his share the suit property.
+Fact	On the 23rd June, 1921, <NAME> settled the property now in dispute on his wife <NAME>.
+Fact	On the nth September, 1922, <NAME> mortgaged the property to one <NAME>, the <NAME> pf the present appellant.
+Fact	In the year 1924, a suit for partition was filed by the two -daughters of <NAME> impleading the other sharers as defendants and <NAME> was  impleaded as the sixth defendant.
+Fact	There was a preliminary decree in that suit on the 15th August, 1929, which was confirmed on appeal on the 4th April, 1934, and a final decree was passed on the 6th January, 1937.
+Fact	While these partition proceedings were going on, Sikkandar, the mortgagee, instituted the suit (O.S.
+Fact	No.
+Fact	135 of 1929) on foot of his mortgage to which he impleaded as parties the original mortgagor and also the heirs of <NAME> who were subsequently given up as they claimed the suit property by a title paramount.
+Fact	There was a decree, however, against the mortgagor and ultimately after a final decree, the property was sold and was purchased on the 2nd November, 1932, by the decree-holder, the mortgagee, and the property was duly delivered to him through <ORG> on the 14th October, 1933.
+Fact	3.
+Fact	After all this, the person to whose share the property now in dispute fell in the partition in pursuance of the final decree in O.S.
+Fact	No.
+Fact	26 of 1925, applied in E.P.
+Fact	No.
+Fact	414 of 1944 for delivery of possession.
+Fact	It may be mentioned that in the partition in pursuance of the final decree in the present suit, the property was not allotted to <NAME> but to some other sharer.
+Fact	When this Execution Petition No.
+Fact	414 of 1944 was filed and the petitioner went to obtain delivery of possession of the property, there was obstruction by the present appellant to the delivery with the result the respondent filed an application in <ORG> for removing the obstruction and for delivery of possession of the property freed from the obstruction of the appellant.
+Fact	The petition was filed under Section 47, Civil Procedure Code.
+Fact	The present appellant, who was the respondent in the counter-statement filed by him raised various contentions the chief of which was that the application was not maintainable under Section 47, Civil Procedure Code, as he was not a party to the suit O.S.
+Fact	No.
+RulingByLowerCourt	26 of 1925, in which a partition decree was passed.
+RulingByLowerCourt	This objection was upheld by the learned Subordinate Judge and the application was d ismissed.
+RulingByLowerCourt	On appeal the learned District Judge reversed the decision of the Subordinate Judge and allowed the petition.
+Fact	Hence this second appeal.
+Fact	4.
+Fact	The only question that has to be considered in this civil miscellaneous second appeal is whether the application of the respondent under Section 47, Civil Procedure Code, is maintainable or not.
+Fact	The mortgage in favour of the appellant was long prior to the partition suit and he was not impleaded as a party to the partition suit.
+RatioOfTheDecision	<NAME> alone was impleaded as the sixth defendant in that sure and the purchase by the appellant in pursuance of his mortgage decree was no doubt during the pendency of the partition proceedings.
+RatioOfTheDecision	It was contended on behalf of the respondent here and also in the courts below that the purchase by the appellant is affected by the doctrine of lis pendens and that therefore he is not entitled to resist the application of the respondent for delivery of possession.
+Precedent	If the mortgage in favour of Sikkandar was during the pendency of the parti tion suit and the <ORG> sale was also during the pendency of that suit, no doubt, the principle of the decision of <ORG> in <CITATION_451820> (1937) 2 M.L.J.
+Precedent	359 (P.C.)
+Argument	would apply and the appellant would not be permitted to rely upon the rights which he had acquired under the <ORG> sale.
+Argument	This <ORG> has consistently taken the view that the doctrine of lis pendens should not be extended to cover an involuntary alienation in execution of a mortgage decree where the mortgage was prior to the suit relied on as operating to affect the rights of the parties under the provisions of Section 52 of the Transfer of Property Act.
+Precedent	It is needless to refer to all the cases on the point as they have been considered in <CITATION_1631935> (1944) 2 M.L.J.
+Precedent	374 : I.L.R.
+Fact	1945 Mad.
+Precedent	578 The effect of this line of decisions, in my opinion, is really to date back the rights of the purchaser in execution of the mortgage decree to the date of the mortgage.
+Precedent	The foundation of the decision of our <ORG> in <CITATION_1127301> (19 32) 63 M.L.J.
+Precedent	394 : I.L.R.
+Precedent	56 Mad.115 is the decision of <ORG> in <NAME> v. <NAME> (1905) I.L.R.
+Precedent	32 Cal.
+Precedent	891 At page 905 the principle is stated thus:  Much argument has been spent on the doctrine of lis pendens, the plaintiff's contention being that the defendants having purchased the property under a decree in a suit instituted subsequent to the suit by his assignor and during the pendency of the suit, are bound by its result.
+RatioOfTheDecision	It seems to me, however, the argument has not much force.
+RatioOfTheDecision	The defendants are not purchasers in ordinary execution.
+Fact	They purchased under a decree for sale on their own mortgage.
+Fact	They took the property in the same condition as it stood at the date of the mortgage to them.
+Fact	Their title, therefore, dated back.
+Fact	<NAME> v. <NAME> (1875) 23 W.R. 187.
+Fact	So did the plaintiff's title as regards the mortgage to his assignor.
+Fact	The title of each relates back to the date of the mortgage under which the claim is made.
+RatioOfTheDecision	If this is the c orrect principle on which the decisions of our <ORG> are based, I find it very difficult to conclude that the auction-purchaser is really a representative of <NAME>, the original mortgagor, and that this application falls within Section 47 , Civil Procedure Code.
+RatioOfTheDecision	In my opinion, the view taken by the learned Subordinate Judge on this question is correct though he was not justified in dismissing the application altogether.
+RatioOfTheDecision	He ought to have given permission to the petitioner to convert the application into a suit and should have proceeded with the trial of the suit.
+RatioOfTheDecision	5.
+RulingByPresentCourt	The result is, the appeal should be allowed, the orders of the <ORG>s below should be set aside and the application remanded to the first <ORG> with a liberty to the respondent in this appeal to pay the court-fee payable on this application treating it as a plaint and for converting it into a plaint within one month after the date of the receipt of the records by the lower <ORG>.
+RulingByPresentCourt	The appellant is entitled to his costs throughout.
+RulingByPresentCourt	No leave.

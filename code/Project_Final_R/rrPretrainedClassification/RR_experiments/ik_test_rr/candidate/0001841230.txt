@@ -1,0 +1,107 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	The facts of this case, so far as it is necessary to state them for the purposes of this appeal, are these:-- A decree for sale was passed under Section 88 of the Transfer of Property Act against several sets of defendants on the 12th of May, 1890, by <ORG> Allahabad.
+Fact	According to that decree a sum of Rs.
+Fact	11,751-15-9 was directed to be paid by the appellant <NAME>, one of the judgment-debtors.
+Fact	He appealed from this decree to this Court and his appeal was dismissed on the 8th of April, 1893 He applied for and obtained leave to appeal to Her Late Majesty in <ORG>.
+Fact	No steps, however, were taken to prosecute the appeal and it was dismissed for default of prosecution by <ORG> on the 13th of May, 1901.
+RulingByLowerCourt	The order of dismissal runs in these terms:--Their Lordships of the <ORG> in obedience to the said order in <ORG> have proceeded to take into consideration the appeal of Chaudhri <NAME>, appellant, and <NAME>, Kanhaiy a <NAME> and Jawahir <NAME> respondents from a decree of <ORG> and having called on the appellant to show cause why the said appeal should not be dismissed for non-prosecution, no effectual steps having' been taken to set down the same for hearing', their Lordships do this day humbly agree to recommend to Your Majesty the dismissal of this appeal for non-prosecution."
+RulingByLowerCourt	An order was subsequently passed in these terms: "His Majesty having taken the said report into consideration was pleased by and with the advice of His Privy Council to approve thereof and to order as it is hereby ordered that, the said appeal be and the same is hereby dismissed for non-prosecution, whereof the Judges of <ORG> at Allahabad fur the time being and all other persons whom it may concern are to take notice and govern themselves accordingly."
+Fact	On the 14th of November, 1904, an application was made to <ORG> by the decree-hold er, <NAME>, an order absolute against <NAME>.
+Fact	An objection was taken to this application by the judgment-debtor on the ground that it was barred by limitation and on the further ground that the procedure enjoined by Section 610 of the Code of Civil Procedure of 1882, had not been followed.
+RulingByLowerCourt	On the latter ground the objection was allowed.
+RulingByLowerCourt	The decree-holder then on the 11th of June, 1900, applied to this Court under Section 510 , and an order was passed to this effect: "Let the order be sent down to the Court below for necessary execution according to law," The decree-holder then applied for a decree absolute under Order XXXIV Rule 5 of Act V of 1908.
+RulingByLowerCourt	This application was met by the objection on behalf of the judgment-debtor that the application was barred by limitation; that the only decree which was capable of execution was the decree of <ORG> passed on the 8th of April, 1893; that the order of their Lordships of <ORG> did not affirm that decree but merely dismissed the appeal fo r want of prosecution; and that there was no order or decree of <ORG> which was capable of execution.
+RulingByLowerCourt	2.
+RulingByLowerCourt	If this contention be correct, then the application for execution is barred by Article 178 or 179 of the second Schedule to Act XV of 1877, corresponding to Article 181 or 182 of Act IX of 1908.
+RulingByLowerCourt	If, on the other hand, the order of <ORG> is an order which can be executed, the application of the decree-holder is governed by Article 180 of Act XV of 1877, corresponding to Article 183 of Act IX of 1908.
+RulingByLowerCourt	This last mentioned article provides a period of 12 years within which an order of His Majesty in Council may be enforced.
+RulingByLowerCourt	If the order of His Majesty of the 13th of May, 1901, is treated as an affirmance of the decree of this Court, it seems to me that it is the decree or order of the final <ORG> and is an order which can be executed, and as 12 years have not elapsed since the date of that order, the application of the creditor is not barred by limitation.
+RatioOfTheDecision	The question is not  without authority.
+Precedent	In <NAME> v. <NAME> (1881) L.R.
+Precedent	6 A.C. 482 : 50 L.J.P.C.
+Precedent	8 : 43 L.T.
+Argument	519, it was held by their Lordships of <ORG> that when a decision of the judicial <ORG> has been reported and sanctioned and embodied in an order of <ORG>, it becomes the decree or order of the final <ORG>, and it is the duty of every subordinate tribunal to whom the order is addressed to carry it into execution.
+Argument	3.
+Argument	<CITATION_768922> 8 C. 218 : 10 C.L.R.
+Argument	425, it was held by <ORG> of <ORG>, on a reference by <NAME> and <NAME>, JJ., that although an order of Her late Majesty in <ORG> only confirms a decree of the <ORG> below, that order is the paramount decision in the suit and any application to enforce it is in point of law an application to execute the order and not the decree which it confirmed.
+Argument	The question before the <ORG> in that case was whether Article 179 or Article 180 of Schedule II of Act XV of 1877 governed an application to enforce an order of Her M ajesty in <ORG>, affirming a decree of <ORG> on its appellate side.
+Argument	<NAME>, C.J., who delivered the judgment of the <ORG> observed: "Although an order of Her Majesty in <ORG> may confirm the decree of the <ORG> below that order is undoubtedly the paramount decision in the suit and any application to enforce it is in point of law an application to execute the order and not the decree which it confirmed."
+Argument	Then he observes that before the decree-holder can obtain execution he must apply to <ORG> under Section 610 of the Code to transmit the order of Her Majesty to the <ORG> whose duty it is to issue execution and it is clear from the language of that section that the <ORG> to which the order is transmitted has to execute not its own decree but the order itself, if this were not so, there would seem no necessity for applying to <ORG> at all."
+RatioOfTheDecision	4.
+RatioOfTheDecision	In that case, it will be observed, the order of the Privy <ORG> affirmed the decree of <ORG> and it may be said that there was n o such affirmance of the decree of <ORG> in the present case.
+RatioOfTheDecision	This I think is not so.
+RatioOfTheDecision	The dismissal of the judgment-debtor's appeal for want of prosecution must, I think, be treated as an affirmance of the decree of <ORG>.
+RatioOfTheDecision	5.
+Precedent	The question whether the dismissal of an appeal for want of prosecution was a decree affirming the decision of the <ORG> immediately below, within the meaning of Section 596 of the former Code of Civil Procedure was considered in the case of <CITATION_1640238> 20 A.
+Precedent	367.
+Precedent	That section falls within Chapter XLV which treats of appeals to His Majesty in Council, and it prescribes the requirements for such an appeal, and, amongst others, enjoins that where the decree appealed from affirms the decision of the <ORG> immediately below the <ORG> passing such decree, the appeal must involve some substantial question of law.
+Precedent	My brothers <NAME> and <NAME>, held that a decree dismissing an appeal for want of prosecution was a decree affirming the decision of the <ORG>' immediately b elow, within the meaning of Section 596 .
+Precedent	6.
+Precedent	The decision of <ORG> in <NAME> v. <NAME> 25 A.
+Precedent	109 : 5 Bom.
+Precedent	L.R.
+Precedent	300 : 30 I.A.
+Precedent	35 lends support to the view taken in the last mentioned case.
+Precedent	In that case a preliminary objection was taken on behalf of the respondents to the hearing of an appeal before their lordships on the ground that the order giving leave to appeal was not in accordance with the Code of Civil Procedure.
+RatioOfTheDecision	The suit in that case was for specific performance of an agreement and the <ORG> below had decreed specific performance.
+RatioOfTheDecision	On appeal the only order of the appellate <ORG> was in these terms: "It is ordered and decreed that this appeal be dismissed and the respondents' costs of this appeal are to be paid by appellant."
+RatioOfTheDecision	It was held that in order to "affirm the decision of the <ORG> below" within the meaning of Section 596 , it is sufficient for the appellate <ORG> to affirm the decree.
+RatioOfTheDecision	It need not also affirm the grounds of fact on which the judgment was passed, and tha t where the decree of the appellate <ORG> was that the appeal be dismissed, but the reasons given were not the same as those of the lower <ORG> in respect of some matters of fact, the appellate <ORG> by the dismissal affirmed the decision of the lower <ORG> within the meaning of the section.
+RatioOfTheDecision	This decision appears to me to lend strong support to the argument addressed to us on behalf of the respondent, that the dismissal of an appeal operates as an affirmance of the decree of the <ORG> from which the appeal is preferred, and it is immaterial on what grounds it is dismissed.
+RatioOfTheDecision	It seems to me, therefore, that we ought to treat the order of His Majesty in Council as the final order in the litigation and the order which alone in capable of enforcement.
+Precedent	7.
+Precedent	I would, therefore, dismiss the appeal.
+Precedent	<NAME>, J.
+Precedent	8.
+Fact	The question to be determined in this appeal is whether the application of the respondent for an order absolute for sale under Section 89 of the Transfer of Property Act is barred by limitation, as contended  by the appellant.
+Argument	9.
+RulingByLowerCourt	This decree under Section 83 of the Act was passed by the <ORG> of first instance on the 12th of May, 1890, and was affirmed by this <ORG> on the 8th of April, 1893.
+RulingByLowerCourt	The appellant preferred an appeal to His Majesty in Council, allowed it to remain pending till the 13th of May, 1901, when it was dismissed for "non-prosecution" no effectual steps having been taken by the appellant for its hearing.
+RulingByLowerCourt	After the disposal of the appeal to <ORG> the respondent applied for an order absolute for sale on the 14th of November, 1904, but it was dismissed on the objection of the appellant on the ground that the provisions of Section 610 of Act XIV of 1882, had not been complied with.
+RulingByLowerCourt	On the 11th of June, 1909, the application which has given rise to this appeal was presented.
+Precedent	It is urged that the application is time-barred under Article 178 of Schedule II to Act XV of 1877.
+Precedent	10.
+Precedent	It was held by <ORG> of this <ORG> in Oudh Behari Lal v. Nageshar Lal 13 A.
+Precedent	278 that an application for a n order absolute for sale under Section 89 of the Transfer of Property Act is an application in execution.
+RatioOfTheDecision	This will apparently not be so under Act No.
+RatioOfTheDecision	V of 1908 (the present Code of Civil Procedure) as Order XXXIV, Rule 5 declares that what was an order absolute for sale under Section 89 of the Transfer of Property Act is the final decree in the suit.
+RatioOfTheDecision	However, as Order XXXIV does not apply to this case, we must, in accordance with the ruling of <ORG>, hold the present application to be an application in execution, and we must consider what article of Schedule II of the Limitation Act applies to it.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Article 178 applies if there is no other article in the schedule which governs the application.
+RatioOfTheDecision	It is urged on behalf of the respondent that Article 180 of Schedule II to Act XV of 1877, to which Article 183 , Schedule I to Act IX of 1908 corresponds, is applicable.
+RatioOfTheDecision	Article 180 provides a limitation of 12 years for an application to enforce, among other orders etc., "an order of <NAME> l." We have to determine whether the order which the respondent seeks to enforce is an order of His Majesty in Council within the meaning and intention of the article.
+RatioOfTheDecision	When a decision of their Lordships of <ORG> "has been reported to His Majesty and has been sanctioned and embodied in an order of His Majesty in Council" it becomes the order of His Majesty and the final order in the case which a Court is to carry into effect.
+RatioOfTheDecision	This order is not a decree but it is the order of His Majesty and as such has to be enforced.
+RatioOfTheDecision	In this case their Lordships of <ORG> made a report to His Majesty and recommended "the dismissal of the appeal for non-prosecution."
+RatioOfTheDecision	This report was taken into consideration by His Majesty and was approved of and it was ordered that the "appeal be and the same is hereby dismissed for non-prosecution."
+RatioOfTheDecision	This order of His Majesty is the final order in the cause and is the order which must be enforced.
+RatioOfTheDecision	The necessary effect of an order dismissing an appeal from the decree of a  subordinate <ORG> is an affirmance of that decree.
+RatioOfTheDecision	Therefore, when an appeal to His Majesty in Council is dismissed, the necessary result is that the decree of the <ORG> below is affirmed, whatever the reason for the dismissal may be.
+RatioOfTheDecision	It was held in <CITATION_1640238> 20 A.
+RatioOfTheDecision	367. that a decree of <ORG> dismissing an appeal for want of prosecution was a decree affirming the decision of the <ORG> below.
+RatioOfTheDecision	I was a party to this ruling and I see no reason to alter the opinion therein expressed.
+Precedent	To the same effect is the decision of their Lordships of <ORG> in <NAME> v. <NAME> 25 A.
+Precedent	109 : 5 Bom.
+Precedent	L.R.
+Precedent	300 : 30 I.A.
+Precedent	35, referred to in the judgment of learned Chief Justice.
+Precedent	In that case the decree of the appellate <ORG> was, as the report of the case shows, "that the appeal should be dismissed with costs."
+Precedent	It was held that the appellate <ORG> affirmed the decision of the lower <ORG>.
+Precedent	The principle of these cases applies to the present case, and applying that principle, it cannot but  be held that the order of His Majesty dismissing the appellant's appeal affirmed the decree of this <ORG>.
+Precedent	The learned Advocate for the appellant placed groat reliance on certain observations made by Sir <NAME>, C.J., in his judgment in <ORG> v. <NAME> 7 W.R. 521 : B.L.R.
+Precedent	Supp.
+Precedent	Vol.
+Precedent	718 : 2 Ind.
+Precedent	Jnr.
+Precedent	(N.S.)
+Precedent	248.
+RatioOfTheDecision	That case is, in my opinion, distinguishable.
+RatioOfTheDecision	There the question was as to the meaning to be placed on the provision of Section 20 of Act XIV of 1859 and no question arose as to the effect of an order of His Majesty dismissing an appeal.
+RatioOfTheDecision	For the above reasons, I agree with the learned Chief Justice in holding that the respondent's application is governed by Article 180 of Schedule II, Act XV of 1877, and is not time-barred.
+RulingByPresentCourt	I also would dismiss the appeal.
+Precedent	<NAME>, J.
+Precedent	12.
+Precedent	I concur.
+Precedent	13.
+RulingByPresentCourt	The order of the <ORG> is that the appeal be dismissed with costs.

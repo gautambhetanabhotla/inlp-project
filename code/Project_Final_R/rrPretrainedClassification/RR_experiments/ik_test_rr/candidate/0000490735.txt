@@ -1,0 +1,41 @@
+Fact	JUDGMENT  1.
+Fact	This is an appeal from an award of the District Judge of Madura in certain Land Acquisition proceedings and the preliminary question is whether Article 156 of the Limitation Act applies.
+Fact	The court fees were paid on the memo of appeal one year and 149 days out of time, and if Article 156 applies the appeal would be barred, The question is of first impression and cannot be said to be quite free from difficulty The Land Acquisition Act gives a right to appeal by Section 54 which lays down," subject to the provisions of the Code of Civil Procedure applicable to appeals from original decrees, an appeal shall lie to the High court from the award or from any part of the award of the court in any proceedings under that act."
+Argument	There is no special period of limitation provided in the Land Acquisition Act , nor is there any allusion, unless it be by implication of this very section, to the Limitation Act .
+Argument	Article 156 of the Limitation Act provides a period of 90 days for ' Appeal under the Code of Civil Pro cedure, .1908, to <ORG>, except in the cases provided for by Article 151 and Article 153' the time to run from 'the date of decree or order appealed from.'
+Argument	The argument on behalf of the appellant is that you must read the 1st column of the article as meaning that the appeals provided for here are those the right to which is conferred by the Code of Civil Procedure, and it is contended that this interpretation is strengthened by the language of column 3.
+Argument	There is no direct authority on the point.
+Argument	There is however a ruling of the Calcutt<ORG> in <CITATION_278608> (1886) I.L.R 13 C. 221 the reasoning of the decision in which seems to apply to the present question.
+Argument	There the objection was raised with reference to an appeal provided for under the Burma Courts Act, XVII of 1875.
+Argument	Section 49 of that Act provided for an appeal to <ORG> in cases where the amount of value of the subject matter exceeded Rs.
+Argument	3000 and was less than Rs.
+Argument	10,000.
+Argument	<NAME> and Porter JJ., interpreted the words  'Appeals under the Code of Civil procedure' in Article 156 of the Limitation Act as meaning appeals the procedure in respect of which is governed by the Civil Procedure Code.
+Argument	They say, " The Limitation Act , Schedule II, Article 156 , when it speaks of the 'Civil Procedure Code is, on the face of it, speaking of a Code which relates to procedure and does not ordinarily deal with substantive rights; and the natural meaning of an appeal under the Civil Procedure Code appears to us to be an appeal governed by the Code of Civil Procedure so far as procedure is concerned.'
+RatioOfTheDecision	It seems to us that this is the correct interpretation of Article 156.
+RatioOfTheDecision	There seems to be no good reason for saying that an appeal under the Civil Procedure Code means only an appeal the right to prefer which is conferred by the Code itself.
+RatioOfTheDecision	On the other hand it would not be straining the language of the article too much to hold that an appeal the procedure with respect to which from its inception to its disposal is governed by the Civil Procedur e Code, may rightly be spoken of as an appeal under the Code : this interpretation seems to us to be strengthened by the reference, in Article 156 itself to Article 151 of the same schedule.
+RulingByLowerCourt	Article 15 , provides for appeals from a decree or order of <ORG> in the exercise of its original jurisdiction.
+RulingByLowerCourt	Now though the right to appeal from such decrees or orders is not given by the Code of Civil Procedure, but by the Letters Patent yet Article 166 speaks of such appeals as appeals under the Civil Procedure Code.
+RulingByLowerCourt	That also tends to show that what is meant by the legislature is appeals the hearing and disposal of which, is governed by the rules of procedure laid down in the Civil Procedure Code.
+RulingByLowerCourt	2.
+RulingByLowerCourt	As regards column 3 there can be no doubt after the decision of <ORG> in <ORG> v. The Collector <NAME> (1912) I.L.R.
+RulingByLowerCourt	40 C. 21 that an award under the Land Acquisition Act is not a decree passed in the ordinary jurisdiction of <ORG>.
+RulingByLowerCourt	But their Lordships themselves point  out in that case that appeals from awards as provided for in Section 54 of the Land Acquisition Act are governed as to their procedure from the date of the filing of the appeal to its disposal by the rules provided for in the Civil Procedure Code : and in a Letters Patent Appeal in this Court in <CITATION_373863> (1918) I.L.R.
+RulingByLowerCourt	41 M. 948 it has been held that Section 98 of the Civil Procedure Code applies.
+RulingByLowerCourt	Though the award of the Land Acquisition Judge is not a decree or order for purposes of further appeal from the decision of <ORG> in appeal nevertheless, the procedure laid down in the Civil Procedure Code with reference to appeals from original decrees which are also made applicable to appeals from Orders by Rule 2 of Order XLIII, Civil Procedure Code, governs appeals under Section 54 of the Land Acquisition Act, although in the rules the word "decree" is used.
+RatioOfTheDecision	It is to be pointed out that the provisions of the Civil Procedure Code regarding procedure to be followed in appeals from original decrees  are incorporated in the Land Acquisition Act by virtue of Section 54 .
+RatioOfTheDecision	If the 1st column of Article 156 includes, as we hold, appeals provided for by Section 54 of the Land Acquisition Act there is really no difficulty created by the use of the words "decree or order " in the 3rd column.
+Precedent	Then we think it rightly pointed out in <CITATION_935053> (1912) I.L.R.
+Precedent	34 A.
+RulingByLowerCourt	496 at 504 that there are several acts, for example, the Succession Act , the Probate and Administration Act and the Land Acquisition Act , which make the Code of Civil Procedure applicable to the proceedings under the Act, and give a right of appeal to <ORG>, but do not prescribe any period of limitation for the appeal.
+RulingByLowerCourt	It has always been assumed probably rightly, that such appeals are under the Code of Civil Procedure governed by what is now Article 156 of Schedule 1 to the Limitation Act and by the general provisions of the Act also.
+RulingByLowerCourt	3.
+RulingByLowerCourt	Our attention has been drawn by Mr. <NAME>, to certain especial Acts, such as, the Cal cutta Improvement Act and the Bombay Improvement Act, in which special rules of limitation are provided for.
+RulingByLowerCourt	That, to our mind, does not affect the question.
+RulingByLowerCourt	It might have been perhaps better if the legislature enacting the Land Acquisition Act had also provided some special provision or made an express and direct reference to the provisions of the Limitation Act .
+RulingByLowerCourt	But that is another question.
+RulingByLowerCourt	4.
+RulingByLowerCourt	We hold upon a proper construction of Article 156 that it applies to appeals provided for by Section 54 of the Land Acquisition Act.
+RulingByLowerCourt	5.
+RulingByPresentCourt	This appeal must be dismissed with costs.

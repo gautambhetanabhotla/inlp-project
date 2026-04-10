@@ -1,0 +1,89 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: COMMISSIONER OF INCOME-TAX, WEST BENGAL DATE OF JUDGMENT: 09/12/1969 BENCH: <NAME>, J.C. (CJ) BENCH: <NAME>, J.C. (CJ) <NAME>, K.S.
+Fact	CITATION: 1970 AIR 1076 1970 SCR (3) 314 1970 SCC (1) 112 ACT: Income-tax Act , s. 10(2)(xv) -Payment of remuneration by, employer to employee-Jurisdiction of tax officers to hold that expenditure was not laid wholly and exclusively for the purpose of business-Whether question of Law.
+Fact	HEADNOTE: The appellant, which was doing the business of manufacturing enamelled ware, appointed a technical adviser and <ORG> resolved to pay him 15% of the gross annual profits as his remuneration.
+Fact	.For the assessment years, 1951-52, 1952-53 and 1953-54, the appellant claimed the amounts paid to the technical adviser as admissible allowances under s. 10(2)(xv) of the Income-tax Act, 1922.
+Fact	The Income-tax Officer found, that the technical adviser was a doctor of medicine without any special qualification for the post, that he was not t rained in the technique of enamelled ware, that he and his <NAME>-in law, by the number of shares they held, were able to control the voting before <ORG>, that good technical experts in enamelling could have been secured for a smaller remuneration, that the remuneration agreed to be paid to the technical adviser was influenced by extra-commercial considerations and therefore, disallowed a part of the amount, holding that it was expenditure not incurred wholly and exclusively for the purpose of the business.
+Fact	The order was confirmed by the Appellant Assistant Commissioner, the <ORG> and <ORG>.
+Fact	In appeal to this Court.
+Fact	HELD : The question whether an amount claimed as expenditure was laid out or expended wholly and exclusively for the purpose of the business must be decided on the facts and circumstances of each case, and the inference drawn from the facts found is one of law.
+Fact	Ordinarily, an employer, in fixing the remuneration of his employee, is entitled to take into consideration t he extent of his business, the nature of duties to be performed, the special aptitude of the employee, the future prospects of the business and other related circumstances, and the taxing authorities cannot substitute their own view as to the reasonable remuneration which should have, been agreed to be paid to the employee.
+RulingByLowerCourt	But, the taxing authority may disallow an expenditure claimed, on the ground that the payment is not real or is not incured by the assessee in the course of his business or that it is not laid out wholly and exclusively for the pur- pose of the business.
+RulingByLowerCourt	In doing so, the authority does not substitute its own view of how the assessee's business affairs should be managed, but proceeds to disallow the expenditure, because, the condition of its admissibility is absent.
+RulingByLowerCourt	[316 B, D; 317 F-H', 318 <CITATION_325846> .
+Fact	63 I.T.R.
+Fact	57 (S.C.), followed.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeals Nos.
+Fact	2143 to 2145 of 1968.
+Fact	315  Appeals from the judgments and orders dated March 18, 1965 of th e Calcutta High Court in Income-tax References Nos.
+Fact	154, 155. and 156 of 1961.
+Fact	<NAME>, <NAME>, and <NAME>, for the appellant (in C.As.
+Fact	Nos.
+Fact	2143 and 2144 of 1968).
+Fact	<NAME>, <NAME> and <NAME>, for the appellant (in C.A.
+Fact	No.
+Fact	2145 of 1968).
+Fact	<NAME>, <NAME> and <NAME>, for the respondent (in all the appeals).
+Fact	The Judgment of the Court delivered by <NAME>, <NAME> These appeals relate to the assessment to tax of <ORG> public limited com- pany-for the assessment years 1951-52, 1952-53 and 1953-54.
+Fact	The <ORG> is doing business of manufacturing "enamelled- ware.
+Fact	It had originally employed a "technician' at a monthly salary of Rs.
+Fact	5001-.
+Fact	In June 1941 the technician was relieved, and one Col. <NAME> who was a director of the <ORG> was appointed its "Technical Adviser."
+Fact	He was to receive as remuneration 15% of the gross annual profits of the <ORG>.
+Fact	Col. <NAME> resigned his office and Dr. <NAME> (son-inlaw of Col. <NAME>)  was appointed to that office.
+Fact	<ORG> resolved on May 18, 1950 to pay to Dr. <NAME> 15% of the gross annual profits (without deducting depreciation) as his remuneration.
+Fact	In the assessment years 1951-52, 1952-53 and- 1953-54 the <ORG> claimed under s. 10(2) (xv) of the Income-tax Act , 1922, as admissible allowance, in computing its taxable income, Rs.
+Fact	52,947/-, Rs.
+Fact	64,356/- and Rs.
+Fact	79,227/- respectively, paid as remuneration to Dr. <NAME> under the terms of the resolution dated May 48, 1950.
+Fact	The Income-tax Officer, <ORG>, Calcutta, allowed for each of the years remuneration at the rate of Rs.
+Fact	42,000/- only as a permissible deduction.
+Fact	The order was confirmed in appeal to the Appellate Assistant Commissioner and by the <ORG>.
+Fact	The <ORG> referred in respect of each of the three years the following question:  "Whether on the facts and in the circumstances of the case, the disallowance of a part of the expenses incurred by the assessee 'for payment of remuneration to its  Technical Adviser is permissible under the Provisions of s. 10(2) (xv) of the Indian Income-tax Act )"  216  <ORG> answered the question in the affirmative, and  -disallowed the claim of the <ORG>.
+Fact	With certificate of fitness, these appeals are preferred against the order of <ORG>.
+Fact	In computing the taxable income of an assessee, whether an amount claimed as expenditure was laid out or expended wholly and exclusively for the purpose of the, business, profession or vocation of the assessee must be decided on the facts and in the light, of the circumstances of each case : <CITATION_325846> .
+Fact	(1).
+Fact	Resolution of the assessee fixing the remuneration to be paid to an employee and production of vouchers for payment together with proof of rendering service do not exclude an enquiry whether the expenditure was laid out wholly and exclusively for the purpose of the assessee's business.
+Fact	It is open to the Tax Officers to hold agreement to pay and payment notwithstanding-that the expenditure was not lai d out wholly and exclusively for the purpose of the business: <ORG> case(').
+Fact	But an inference from the facts found that the expenditure was, wholly and exclusively laid out for the purpose of the business is one of law and not of fact, and <ORG> in a reference under s. 66 of the Income-tax Act is competent to decide that the inference raised by the <ORG> is erroneous in law.
+Fact	In the present case, the facts found are these : Col. <NAME> and his son-in-law Dr. <NAME> were two of the directors of the <ORG> who between them held on January 1, 1950 49% of the total number of shares of the <ORG> and the other directors of the <ORG> held only I % of the shares.
+Fact	Dr. <NAME> had received no training in the technique of enamelling : he was a medical practitioner earning Rs.
+Fact	20,000/- per annum by the exercise of his profession.
+Fact	Apparently no applications were invited for the appointment of a Technical Adviser when Col. <NAME> resigned his office.
+Fact	In the resolution  passed by the Directors it was recorded that many "personal enquiries" regarding the post were made, but no candidate was found suitable The Board, it was recorded, considered the applications of <NAME> and <NAME> but the qualifications of these two candidates did not impress the directors: moreover the terms of service offered by <NAME> were not acceptable to the Board and therefore the only applicant Dr. <NAME> who was working on Probation in the post for some time past and had worked without remuneration up to December 31, 1949 was considered the applications of <NAME> and <NAME> though called for by the Incometax Officer were not produced by the Com- pany.
+Fact	At the relevant time "a good technical expert in enamelling"  (1) 63 I.T .
+Fact	R. 57.
+Fact	317  could be secured for a monthly remuneration of Rs.
+Fact	1,000/- or Rs.
+Fact	1,200/- provided that appointment was not for a short period.
+Fact	In the view of the Income-tax Officer, Dr. <NAME> came to be appointed to the post of Technical Adviser of the  Company as soon as, his <NAME>-in-law vacated the post and "the generous remuneration offered to him was influenced by factors other than commercial considerations, and considering that Dr. <NAME> was giving up his professional practice in allopathic medicine which yielded him an annual income of Rs.
+Fact	20,000/- to engage himself as a whole-time Adviser attending to the development of the industry a gross remuneration of Rs.
+Fact	3,500/- per month, beside the .remuneration of Rs.
+Fact	1,000/- per month that he obtained as Secretary of the Managing Agents of the Company, would be adequate."
+RulingByLowerCourt	With that view the Applicate Assistant Commissioner and <ORG> have substantially agreed.
+RulingByLowerCourt	The <ORG> observed that they were inclined to conclude that "extra-commercial considerations" had influenced the fixation of remuneration of Dr. <NAME> and that partial disallowance of the remuneration "so influenced seems quite fair".
+Fact	Counsel for the Company urged, relying upon the judgments of this Court in <CITA TION_1856414> .
+Fact	(1) and <CITATION_418471> .
+Fact	(') that in determining the admissibility of an allowance as expenditure laid out and expended wholly and exclusively for thee purpose of the business has to be adjudged from the point of view of the employer and not of the revenue, the Taxing authorities had no power to disallow the remuneration paid to its Technical Adviser, merely because they think that the Company may probably have secured the services of another Adviser for a smaller remuneration.
+RatioOfTheDecision	But these cases, in our judgment, have no bearing here.
+RatioOfTheDecision	The departmental authorities have not attempted to reduce the allowance on the ground that the remuneration paid to Dr. <NAME> was in their view excessive.
+RatioOfTheDecision	Indisputably an employer in fixing the remu- neration of his employee is entitled to take into consideration the extent of his business, the nature of duties to be performed, the special aptitude of the employee, the future prospects of the business and other related circumstances and the taxing authorities ca nnot substitute their own view as to the reasonable remuneration which should have been agreed to be paid to the employee.
+RatioOfTheDecision	But the taxing authority may disallow an expenditure claimed on the ground that the payment is not real or is not incurred by the assessee in the course of his business, or that it is not laid out wholly and exclusively for the purpose of the business (1) A.I.R.
+RatioOfTheDecision	1969.
+RatioOfTheDecision	S.C. 609.
+Fact	(2) 65 I.T.R.
+Fact	381.
+RulingByLowerCourt	318  of the assessee.
+RulingByLowerCourt	Thereby the authority does not substitute its own view of how, the assessee's business affairs should be managed, but proceeds to disallow the expenditure because the condition of its admissibility is absent.
+RulingByLowerCourt	It, has been uniformly found by all the authorities that the remuneration agreed to be paid to Dr. <NAME> was influenced by "extra-commercial considerations".
+RulingByLowerCourt	Dr. .
+Fact	<NAME> and Col. <NAME> were able to control the voting before <ORG>.
+Fact	Dr. <NAME> was not trained in the technique of .
+Fact	enamelled-ware," and had no special qualifications for the po st.
+Fact	The remuneration agreed to be paid was much in excess of what was normally payable, and also of what Dr. <NAME> was earning by practising his profession as a doctor of medicine.
+RatioOfTheDecision	The criticism that the <ORG>'s finding was based on no evidence or was based on irrelevant considerations cannot therefore be accepted.
+RulingByPresentCourt	Where an amount paid to an-employee pursuant to an agreement is excessive because of "extra-commercial considerations," the taxing authority has jurisdiction to disallow a part of the amount as expenditure not incurred wholly and "elusively for the purpose of the business : <ORG>  The appeals fail and are dismissed with costs.
+RulingByPresentCourt	One hearing fee.
+RulingByPresentCourt	<ORG> dismissed.
+RulingByPresentCourt	(1) 63 I.T.R.
+RulingByPresentCourt	57.

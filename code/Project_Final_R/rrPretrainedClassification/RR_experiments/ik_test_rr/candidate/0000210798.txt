@@ -1,0 +1,81 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These six appeals concern the assessment to supertax for the year 1931-32 of six of the seven partners of a firm known as <ORG> This firm was for the year in question registered under Section 26A of the Indian Income-tax Act, the instrument of partnership being a Gujarati deed dated September 11, 1930.
+Fact	Its business was that of dealers in Indian tobacco and cigarettes.
+Fact	The assessment to income-tax of the registered firm has been made in due course, and the present controversy is whether six of the partners should each be assessed to super-tax upon his share of the profits as an individual, or whether these six shares should each be assessed as income of a Hindu undivided family.
+Fact	The rates of super-tax imposed by the relevant Finance Act are less in the case of a Hindu undivided family than in the case of an individual.
+Fact	2.
+Fact	The problem has to be answered by applying to the facts of each case the language of Section 55 of the Act :  In addition to the income-tax charge d for any year, there shall be charged, levied and paid for that year in respect of the total income of the previous year of any individual, Hindu undivided family, company, unregistered firm or other association of individuals, not being a registered firm, an additional duty of income-tax (in this Act referred to as super-tax) at the rate or rates laid down for that year by Act of the Indian Legislature :  Provided that, where the profits and gains of an unregistered firm have been assessed to super-tax, super-tax shall not be payable by an individual having a share in the firm in respect of the amount of such profits and gains which is proportionate to his share.
+Fact	3.
+Fact	The two questions finally referred in each case by the Commissioner for the opinion of <ORG> at Calcutta are as follows :  (1) Whether the family of the assessee, as it now stands, is a Hindu undivided family within the meaning of the Income-tax Act ?
+Fact	(2) If the first question be answered in the affirmative, whether in the circumstanc es recorded in this case the income in question be treated as income of that family and assessed as such?
+Precedent	4.
+Precedent	<ORG> (<ORG> and <NAME>) have in each case answered the first question in the negative and held that the second question did not arise.
+Precedent	5.
+Precedent	The parties are governed by the Mitakshara and their pedigrees and families may be exhibited as under :  I Sicka | ________________________________________________ | | <NAME> (d. Dec. 1933) | | wife | | <NAME> (son) | | daughter __________________________ | | <NAME> wife wife daughter II <NAME> | _________________________________________________ | | | <NAME> <NAME> wife wife 3 sons daughter daughter The history of the firm according to the Commissioner is that in or about 1912 the business was begun by <NAME> and <NAME> (brothers who had separated) and <NAME> (who is not related to either), and that in no case were ancestral funds employed for the purpose.
+Precedent	That in 1919 <NAME> made gifts of capit al to each of his sons by his first wifeviz., <NAME> and <NAME>.
+Precedent	That at least since 1919 <NAME>, <NAME> and <NAME> have been separate from each other.
+Precedent	That in 1919 on the terms of a Gujarati deed dated May 1, <NAME> (son of <NAME>) and <NAME> (brother of <NAME>) were taken into the partnership.
+Fact	That in 1930 <NAME> and <NAME>'s brother <NAME> were taken into the firm on the terms of the deed of September 11, 1930, already mentioned.
+Fact	That the interest of <NAME> and of <NAME> was a gift from their <NAME> <NAME>, and that of <NAME> a gift from his brother <NAME>.
+RatioOfTheDecision	That in no case has it been proved that the individual partner has thrown his interest in the firm or his receipts there- from into the common stock, i.e., treated it as joint family property.
+RatioOfTheDecision	Their sionee op Lordships are of opinion that <ORG> was right in proceeding upon these findings of fact by the Commissioner.
+RatioOfTheDecision	6.
+RatioOfTheDecision	From these facts it clearly appears, so far as <NAME>, <NAME> and <NAME> are concerned, that they are each me mbers of a Hindu undivided family.
+RatioOfTheDecision	Each has a son or sons from whom so far as the evidence goes he is not divided.
+RatioOfTheDecision	But the income from the firm is clearly the separate and self-acquired property of the partner, and, as it has not been thrown into the common stock, it cannot be regarded as income of the family.
+RatioOfTheDecision	It is the income of an individual and assessable to super-tax as such under Section 55 of the Act.
+RatioOfTheDecision	In these three cases, therefore, <ORG> should have answered the first question in the affirmative and the second question in the negative.
+RatioOfTheDecision	7.
+Fact	The interest of <NAME> in the firm was obtained from his brother <NAME>.
+RatioOfTheDecision	It is self-acquired and not ancestral property : <NAME> has no son, but even if he had, the son would have taken by birth no interest in the income now in question.
+RatioOfTheDecision	<ORG> might well have answered the second question in the negative and said of the first question that it did not arise.
+RatioOfTheDecision	8.
+RatioOfTheDecision	In none of the four cases abovementionedviz., those of Moolji, <NAME>, <NAME> <NAME> and <NAME> the fact that the man has a wife and daughter (or more than one) affect the result.
+RatioOfTheDecision	The existence of a son does not make his <NAME>'s self-acquired property family property or joint property.
+RatioOfTheDecision	That the existence of a wife or daughter does so is untenable.
+RatioOfTheDecision	There remain the cases of K<NAME> and <NAME>.
+RatioOfTheDecision	Neither has a son, but, in the case of each, his interest in the firm was obtained by gift from his <NAME> <NAME>.
+Precedent	Without deciding the question which was left open in <NAME> v. Deputy Commissioner of Partapgarh (1923) L.R.
+Precedent	50 I.A.
+Precedent	265 their Lordships, for the purposes of the present case, will assume that their interest was ancestral property, so that, if either had had a son, the son would have taken an interest therein by birth.
+RatioOfTheDecision	But, no son having been born, no such interest has arisen to qualify or diminish the interest given by <NAME> to K<NAME> and to <NAME>.
+RatioOfTheDecision	Does then the existence of a wife, or of a wife and daughter, make it income of a Hindu undivided family rather than income  of the individual partner?
+RatioOfTheDecision	Their Lordships think not.
+RatioOfTheDecision	A man's wife and daughter are entitled to be maintained by him out of his separate property as well as out of property in which he has a coparcenary interest, but the mere existence of a wife or daughter does not make ancestral property joint.
+RatioOfTheDecision	"Interest" is a word of wide and vague significance, and no doubt it might be used of a wife's or daughter's right to be maintained, which right accrues in the daughter's case on birth; but if the <NAME>'s obligations are increased, his ownership is not divested, divided or impaired by marriage or the birth of a daughter.
+RatioOfTheDecision	This is equally true of ancestral property belonging to himself alone as of self-acquired property.
+RatioOfTheDecision	The cases of <NAME> and of <NAME> can be disposed of by answering the second question in the negative.
+RatioOfTheDecision	9.
+Fact	<ORG> approached the cases by considering first whether the assessee's family was a Hindu undivided family, and in the end left unanswered the question whether the income under assessmen t was the income of that family.
+RatioOfTheDecision	This is due no doubt to the way in which the Commissioner had stated the questions.
+RatioOfTheDecision	But, after all, if the relevant Hindu law had been that the income belonged, not to the assessee himself, but to the assessee, his wife and daughter jointly, it is difficult to see how that association of individuals could have been refused the description "Hindu joint family.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The phrase "Hindu undivided family" is used in the statute with reference, not to one school only of Hindu law, but to all schools; and their Lordships think it a mistake in method to begin by pasting over the wider phrase of the Act the words "Hindu coparcenary"all the more that it is not possible to say on the face of the Act that no female can be a member.
+Precedent	<ORG>, on the other hand, in <CITATION_1435941> (1935) I.L.R.
+Precedent	59 Bom.
+Precedent	618 : s.C. 37 Bom.
+Precedent	L.R.
+Precedent	692, having held that the assessee, his wife and mother were a Hindu undivided family, arrived too readily at the conclusion that the income was the inc ome of the family.
+RatioOfTheDecision	The phrase which has to be considered and applied to the facts is "the total income of the previous year of any individual, Hindu undivided family, company, unregistered firm or other association of individuals not being a registered firm."
+RatioOfTheDecision	The words "income of" are simple words and are capable of wider or narrower meaning; but for the present purpose the <ORG> are concerned with them as they appear in an Income-tax Act ; and under Section 3 or Section 55 income is not to be attributed to any one of the five classes of persons mentioned by any loose or extended interpretation of the words, but only where the application of the words is warranted by their ordinary legal meaning.
+RatioOfTheDecision	The relevant meaning in the present cases is the ordinary meaning in Hindu law according to the <NAME> school.
+RatioOfTheDecision	In an extra-legal sense, and even for some purposes of legal theory, ancestral property may perhaps be described, and usefully described, as family property; but it does not follow that in the eye of the H indu law it belongs, save in certain circumstances, to the family as distinct from the individual.
+RatioOfTheDecision	By reason of its origin a man's property may be liable to be divested wholly or in part on the happening of a particular event, or may be answerable for particular obligations, or may pass at his death in a particular way; but if, in spite of all such facts, his personal law regards him as the owner, the property as his property and the income therefrom as his income, it is chargeable to income-tax as his, i.e., as the income of an individual.
+RatioOfTheDecision	In their Lordships' view it would not be in consonance with ordinary notions or with a correct interpretation of the law of the Mitakshara to hold that property which a man has obtained from his <NAME> belongs to a Hindu undivided family by reason of his having a wife and daughters.
+RatioOfTheDecision	11.
+RulingByPresentCourt	The result is that in the cases of <NAME>, <NAME> and <NAME> the first question stated by the Commissioner should be answered Yes and the second No.
+RulingByPresentCourt	In the other cases the second que stion should be answered No.
+RulingByPresentCourt	1 and the first question need not be answered.
+RatioOfTheDecision	12.
+Precedent	Upon the reported decisions cited during argument their Lordships will only observe that the decision in <CITATION_1040423> (1932) I.L.R.
+Precedent	56 Mad.
+Precedent	1 : s.B, does not cover the present question which arises under Section 55 of the Act, and that they take no exception to the result arrived at in the case of <NAME> v. The Commissioner of Income-tax, United Provinces (1932) 6 I.T.C.
+Precedent	175, though they do not agree that a Hindu joint family necessarily consists of male members only.
+Precedent	Their Lordships will not here deal with the case of an impartible estate held by the senior of several male members of a family, as to which there have been conflicting decisions in India (cf.
+Precedent	<NAME> v. The Crown (1924) 1 I.T.C.
+Precedent	384, 388- <CITATION_60095244> (1932) I.L.R.
+Precedent	14 Lah.
+Precedent	255.)
+Precedent	13.
+RulingByPresentCourt	They will humbly advise His Majesty that the appeals should be dismissed with costs.

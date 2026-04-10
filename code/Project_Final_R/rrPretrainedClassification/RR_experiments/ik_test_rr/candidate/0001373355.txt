@@ -1,0 +1,30 @@
+RatioOfTheDecision	JUDGMENT <NAME> and <NAME>, JJ.
+Argument	1.
+Argument	In this case a rule was granted by <ORG> of this <ORG> calling upon the Magistrate to "show cause why the conviction of the petitioner should not be set aside."
+Argument	The rule goes on to say, and the case sent back for re-trial" upon such and such grounds.
+Argument	It is contended that the words of the rule prevent us from directing the discharge of the accused in case we set aside the conviction.
+RatioOfTheDecision	There would be no doubt that if the words if necessary "came after the word" and, "we could set aside the conviction and discharge the accused.
+RatioOfTheDecision	Although rules are frequently granted on particular grounds, it is very unusual to tie the hands of the <ORG> which is to hear a rule as to the action it should take in case the conviction is set aside.
+RatioOfTheDecision	That is a matter which should' be left to the discretion of the <ORG> which hears the rule.
+RatioOfTheDecision	Giving a reasonable construction to the words of the rule, we do not think that the learned Judges who granted the rule ever intended to say  that the <ORG> hearing the rule should have no power to discharge the accused person.
+RatioOfTheDecision	2.
+RatioOfTheDecision	In our opinion the conviction must be set aside.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The learned Magistrate, whose duty as an Appellate <ORG> was to come to a conclusion for himself upon the evidence on the record, assisted so far as it might be by such reasons or arguments as he might elicit from the conclusion and reasons contained in the judgment of the original <ORG>, has not, we consider, dealt with this case on that footing.
+RatioOfTheDecision	He has apparently considered that his duty as an Appellate <ORG> was similar to that of an Appellate <ORG> in civil cases, and that he could not set aside the order of the original <ORG><ORG>, unless the appellant satisfied him that that order was wrong.
+RatioOfTheDecision	The view that we take of the duty of a Criminal Appellate <ORG> is that which has been taken by this <ORG>, at any rate since the decision to which we have been referred in <NAME> v. Empress 1 C.L.R.
+Argument	25.
+Argument	The learned Magistrate, after saying that the question is p urely one of possession, and that the Assistant Magistrate came to the conclusion that the prosecution had proved their possession, goes on to say: "" I am not quite sure whether I should have arrived at the same conclusion, but nothing has been urged before me which justifies me in upsetting the finding on the question of fact."
+RatioOfTheDecision	We think that this must be read as meaning this: "I have how heard the evidence before me.
+RatioOfTheDecision	I should not have convicted on that evidence if I had heard the case as an original <ORG>.
+RatioOfTheDecision	The Assistant Magistrate has convicted, but I am not satisfied that he is wrong."
+RatioOfTheDecision	Having regard to the view that we take, if the Judge of <ORG> had any doubt that the conviction was a right one, and had any doubt as to whether the offence charged had been committed, whatever the original <ORG> did, he should have discharged the accused.
+RatioOfTheDecision	We think that no possible gain can be derived by sending the case back.
+RatioOfTheDecision	The Magistrate has expressed his own doubt as to whether the evidence is sufficient f or a conviction.
+RatioOfTheDecision	Moreover, it is clear in this case that this is merely a dispute between rival zemindars.
+RatioOfTheDecision	It is not a theft case in the ordinary sense of the term.
+RatioOfTheDecision	It is merely a charge of taking away crops the title to which is disputed.
+RatioOfTheDecision	There is evidence of possession apparently, which has been accepted by one <ORG>.
+RatioOfTheDecision	That this is not really a case where public justice requires any further proceedings, adds to our reasons for not directing a re-trial.
+RatioOfTheDecision	4.
+RulingByPresentCourt	We set aside the conviction and direct the discharge of the accused.

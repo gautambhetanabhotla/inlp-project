@@ -1,0 +1,418 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This appeal is directed against the order passed by learned Single Judge of the High Court of Karnataka at Bangalore whereby Learned Single Judge has set aside the order and decree passed by the Additional Civil Judge, <NAME> in O.S.
+Fact	No.
+Fact	160 of 1988 whereby learned trial court decreed the suit relating to family property i.e.
+Fact	Schedule -B, II, item No.
+Fact	2 T.M.
+Fact	C. No.
+Fact	(Old 1846A, New 2178 (<ORG>)), III, Item -1 M.H.
+Fact	No.
+Fact	202/235 Hindwadi Belgaum, item 2 M.H.
+Fact	No.
+Fact	687/1 (Raviwar Peth), Item -4 C.T.S.
+Fact	No.
+Argument	1551 (open space) (Hindwadi).
+Argument	The plaintiff also filed a cross-objection with reference to three business mentioned in IV (Schedule-B) namely <ORG>, <ORG> and <ORG>.
+Fact	The decree in respect of these companies has been granted and these companies have been held to be partnership concerned.
+Fact	So far as item -1 in VI Schedule, namely goods truck bearing No.
+Fact	MEI 7567, separate regular first appeal being RFA No.
+Fact	428 of 1993 was filed and the same  has been disposed of with which we are not concerned.
+Fact	The real dispute between the parties is whether the properties for which a decree was passed by the trial court was joint Hindu family property or those were self-acquired property of the defendants and their children.
+Fact	2.
+Fact	The case of the plaintiff- Appasaheb was that all the properties mentioned above were the joint family properties and therefore, he sought partition of the said properties.
+Fact	The following properties formed part of Schedule B which read as under.
+RulingByLowerCourt	SCHEDULE-'B'  (i) Agricultural lands situated within the village limits of Sadalaga, Taluka Chikodi.
+RulingByLowerCourt	_________________________________________________________________ Sl.
+RulingByLowerCourt	No.
+RulingByLowerCourt	Sy.
+RulingByLowerCourt	No.
+Fact	Area A-Gs Assessment Value Rs.
+Fact	Ps.
+Fact	Rs.
+Fact	_________________________________________________________________ 1.
+Fact	893/3 10-10 40-08 1,00,000-00 2.
+Fact	72/2 1-00 7-00 10,000-00 3.
+Fact	52/2 0-30 6-00 7,500-00 4.
+Fact	73/3 8-30 Out of this 11-30 20,000-00 2-07 45-23 _________________________________________________________________ (II)  The joint Hindu family house properties situated at Sadalaga Taluka Chikodi.
+Fact	_____________________________________________________________________ Sl.
+Fact	TMC No.
+Fact	Value No _____________________________________________________________________ 1.
+Fact	Old 1736 (<ORG>) New 2036 Rs.
+Fact	25,000-00 2.
+Fact	Old 1846A New 2178 (<ORG>) Rs.
+Fact	30,000-00 3.
+Fact	3130/2 (Open <ORG>) Rs.
+Fact	10,000-00 4.
+Fact	1986= 1644( <ORG>) Rs.
+Fact	8,000-00 5.
+Precedent	1923=1660 (<ORG>) Rs.
+Fact	9,000-00 6.
+Precedent	1367 = 1193 (<ORG>) Rs.
+Fact	10,000-00 7.
+Precedent	1935 = 1669(<ORG>) Rs.
+Fact	5,000-00 _____________________________________________________________________ (III) Properties situated at Belgaum 1.
+Fact	M.H.
+Fact	No.
+Fact	203/235 <ORG> Rs.
+Fact	2,00,000-00 2.
+Fact	M.H.
+Fact	No.
+Fact	687/1, Ravivarpeth Rs.
+Fact	1,00,000-00 3.
+Fact	M.H.
+Fact	No.
+Fact	764/8A (Angol Mal) Rs.
+Fact	1,50,000-00 4.
+Fact	M.H.
+Fact	No.
+Fact	CTS No.
+Fact	1551 Open Space <ORG>, Belgaum Rs.
+Fact	30,000-00 (IV) The suit undivided Hindu family business at Belgaum 1.
+Fact	<ORG>, firm in the Shop No.
+Fact	843 in Raviwarpeth, including Capital goods and turnover Rs.
+Fact	1000-00 2.
+Fact	<ORG> in  Shop No.
+Fact	677 firm Rs.
+Fact	1000-00 3.
+Fact	Trade in Oil in the name of <ORG> Rs.
+Fact	1000-00 (V) The suit undivided Hindu family business at Sadalaga, Taluk Chikodi, Dist.
+Fact	Belgaum 1.
+Fact	<ORG> Rs.
+Fact	1000-00 2.
+Fact	<ORG> in the name and style <ORG> Rs.
+Fact	1000-00 (VI) The suit undivided Hindu family movables: 1.
+Fact	Goods truck bearing Reg.
+Fact	No.
+Fact	MEI 7567 Rs.
+Fact	1,00,000-00 2.
+Fact	A car bearing Reg.
+Fact	No.
+Fact	MHH 30 Rs.
+Fact	60,000-00 3.
+Fact	Scooter bearing Reg.
+Fact	No.
+Fact	CTL 3597 Rs.
+Fact	12,000-00 4.
+Fact	Hero Honda Reg.
+Fact	No.
+Fact	CTS 7069 Rs.
+Fact	15,000-00 5.
+Fact	Ambassador Car bearing No.
+Fact	MZH 9453 Rs.
+Fact	50,000-00 6.
+Fact	Ambassador Car bearing No.
+Fact	4334 Rs.
+Fact	50,000-00 (VII) Share and Bank accounts.
+Fact	1.
+Fact	Two shares each worth Rs.
+Fact	1000/- in <ORG> Ichalkaranji Rs.
+Fact	2,000-00 2.
+Fact	One share in <ORG> worth Rs.
+Fact	1000/- Rs.
+Fact	1,000-00 3.
+Fact	Amount in Account No.
+Fact	in the <ORG>, <NAME> Rs.
+Fact	1,000-00 4.
+Fact	Amount in Account No.
+Fact	in <ORG> branch <ORG> galli, Belgaum Rs.
+Fact	1,000-00 5.
+Fact	Amount in Account No.
+Fact	Ratna <ORG> Branch, Belgaum Rs.
+Fact	1,000-00 (VIII) The family movables including the cooking apparatuses and utensils etc.
+Fact	in Belgaum and at Sadalaga family house Rs.
+Fact	10,000-00 (IX) (i) Four she-buffaloes Rs.
+Fact	6,000-00 (ii) Two bullocks Rs.
+Fact	2,000-00 (iii) Bullock card and Agricultural implements Rs.
+Fact	1,000-00 (iv) Motor pump set and pipeline Rs.
+Fact	10,000-00.
+Fact	The suit was contested by the defendants and they claimed that the properties mentioned in the suit Schedule are self-acquired properties and therefore, there was no question of partition.
+Fact	The trial court however, decreed the suit of the plaintiff as mentioned above.
+Fact	Aggrieved against that order the defendants filed an appeal and in the said appeal <ORG> reversed the finding of the trial court and dismissed the suit.
+Fact	3.
+Fact	In order to appreciate the controversy between the parties, it may be appropriate to reproduce the genealogy.
+Fact	The genealogy of the whole family is as under:  <NAME> (1975) | <NAME> (1965) | ____________________________________________ ____________________________________________ TAVANAPPA GANGUBAI SATUBAI BALAPPA DEVENDRA BABURAO ANNAPPA AKKAPPA APPASAHEB (D-4) (D-5) (D-8) (GONE IN (D-1) (D-9) (D-10) (D-11) (PLFF.)
+Fact	| ADOPTION) | SUBBARAO [DIED=1944] INDUBAI | (D-2) | | ___________________________________ | <NAME> @ CHANDRAKANTA | SHASHIKANTH | (D-2) (D6) (D-7) | | ___________________________________________ <NAME> (D-3) The propositus of the said family was one <NAME>.
+Fact	He died in the year 1975 and his wife <NAME> predeceased him in the year 1965.
+Fact	The plaintiff and defendant Nos.
+Fact	1,4,9 & 10 are sons and defendant Nos.
+Fact	5, 7 & 11 are the daughters of <NAME>.
+Fact	Defendant No.
+Fact	2 is the daughter and defendant Nos.
+Fact	6 & 7 are the sons of defendant No.
+Fact	5.
+Fact	Defendant Nos.
+Fact	1 & 2 are the <NAME> and wife and Defendant No.
+Fact	3 is their son.
+Fact	Another son of <NAME> by name <NAME> has gone in adoption outside the joint family.
+Fact	The plaintiff and Defendant Nos.
+Fact	1, 4, 9 & 10 formed co-parcenary along with their de ceased <NAME>.
+Fact	The co-parcenary family as well as the family properties given in Schedule B are said to be still undivided.
+Fact	The landed properties of the suit family is described in Item Nos.
+Fact	1 to 4 of Schedule B (I).
+Fact	The house and open space described at SI.
+Fact	No.
+Fact	1 of (II) of the B Schedule are the ancestral properties of the joint family.
+RulingByLowerCourt	The property at SI.
+RulingByLowerCourt	No.
+Fact	2 of Schedule B(II) was purchased in the name of Defendant No.
+Fact	5- Gangubai out of the joint family funds on or about 1964-65 which was an open space and subsequently it was got transferred in the name of Defendant No.
+Fact	2 after constructing <ORG> building thereon out of the joint family funds.
+Fact	In this building the plaintiff is running joint family shop in the name and style of "<ORG>" in the southern portion and in the northern portion has been leased out to <ORG> at <ORG>.
+Fact	The property at Sl.
+Fact	No.
+Fact	3- of Schedule B (II) was purchased in the name of Defendant No.
+Fact	7 in the year 1984-85.
+Precedent	Similarly, the suit properties at Sl.
+Precedent	Nos.
+Argument	4 to  7 of Schedule B (II) were purchased in the name of Defendant No.
+Argument	9 for the benefit of the said undivided family.
+Argument	The properties mentioned in SL No.
+Argument	(III) of Schedule B were purchased and acquired at Belgaum out of the joint family funds for joint family business described in Sl.
+Argument	No.
+RulingByLowerCourt	(IV) of the B Schedule.
+RulingByLowerCourt	Item No.
+Fact	(i) in Schedule B (III) was purchased in the name of Defendant No.
+Fact	1 and <ORG> double storeyed building was constructed for the purpose of joint family out of the joint family funds.
+Fact	Item No.
+Fact	2 of Schedule B(III) was acquired in the name of Defendant No.
+Fact	3 out of the joint family funds.
+Fact	Item No.
+Fact	4 of Schedule B (III) was purchased in the name of Defendant No.
+Fact	2 for the joint family.
+Fact	Out of the joint family funds Item No.
+Fact	3 of Schedule B (III) was purchased in the name of Defendant No.
+Fact	6 along with some other properties.
+Fact	The joint family during the life time of <NAME> started <ORG> business shop at Sadalaga in the year 1946 out of the joint family funds from various properties.
+Fact	The said business p rospered and gave good profit within a short period.
+Fact	Defendant No.
+Fact	1 during that period acquired experience in business and trade the family thought it better to expand the family business and seek fortune in addition to agriculture and kirana business in larger business centers.
+Fact	In the year 1960 a business shop was started for dealing in bhusari, oil and sugar by investing huge amount out of the joint family in the name of '<NAME>' in Chikodi town, the taluka place.
+Fact	That was kept upto 1967 and Chikodi was felt a small place and as such all the brothers and their <NAME> intended to shift the business to the vast business center.
+Fact	So the entire business was shifted to Belgaum in 1967 and established the business in Raviwar Peth, Belgaum.
+Fact	The <ORG> shop at Sadalaga was looked after by the plaintiff along with defendant No.
+Fact	9 and defendant No.
+Fact	6 upto 1967-68.
+Fact	The plaintiff then went to Belgaum along with Defendant No.
+Fact	1 in the year 1967.
+Fact	The business at Belgaum also prospered.
+Fact	The kirana shop at Sadalaga  was being looked after by Defendant Nos.
+Fact	6 & 9 up to 1974.
+Fact	As the business at Belgaum prospered being expanded, in the year 1976 a partnership business was floated in the name of "<ORG>" and thereafter, another partnership business in the name and style of "<ORG> was started by the plaintiff and defendant No.
+Fact	1.
+Fact	In the year 1967-68 another tobacoo company in the name and style of "<ORG> was managed by Defendant No.
+Fact	9 along with <ORG> with defendant No.
+Argument	7.
+Argument	The business further expanded and then the son of Defendant No.
+Argument	1 namely Defendant No.
+Fact	3 became an adult and therefore, he entered into business and then the business further expanded.
+Fact	As the family business expanded, Defendant Nos.
+Fact	1 & 2 wanted to corner the entire business including the interests of other defendants.
+Fact	Therefore, the plaintiff thought that it would not be proper to continue in a joint family business and demanded partition and separate possession and share in the family business and also  demanded rendition of accounts of the family business.
+Fact	The defendant No.
+Fact	1 in collusion with defendant Nos.
+Fact	2 to 11 avoided to have partition on some pretext or the other.
+Fact	Therefore, ultimately, no option was left to the plaintiff except to file a suit for partition and separate possession and taking accounts of the family business.
+Fact	Since the plaintiff's <NAME> <NAME> died after the Hindu Succession Act , 1956 came into force, therefore, the male and female both heirs of the deceased <NAME> were entitled to their share and accordingly, the plaintiff claimed that he has 9/48th share.
+Fact	The defendant No.
+Fact	1 being a shrewd businessman and expert in trade, though he was not the eldest member of the family, with the consent of all other members of the family managed the family as the manager of the joint family after the death of the <NAME>.
+Fact	Hence the present suit was filed along with the following prayers:  The plaintiff therefore prays that:  (A) A decree for partition by metes and bounds be passed by determin ing and awarding to plaintiff his 9/48th share in all the suit Schedule 'B' properties.
+Fact	(B) A decree for separate possession of the plaintiff's 9/48th share be passed directing the defendant No.
+Fact	1 or responsible defendants to put the plaintiff in separate possession of his share.
+Fact	(C) Accounts of the trade and business described in plaint Schedule 'B' (IV), B (V) and B(VII) taken and the plaintiff's 9/48th share in the profit to be determined and awarded to the plaintiff.
+Fact	(D) Future mesne profits be awarded to the plaintiff.
+Fact	(E) That the costs of the suit be awarded to the plaintiff.
+Fact	4.
+Fact	The suit was contested by the defendants and the allegations were denied that the family still continues to be undivided Hindu family.
+Fact	It was alleged that the co-parcenary family of defendant No.
+Argument	1 consists of the plaintiff and defendant Nos.
+Argument	1,4,9 and 10 and holds the family properties under 'B' Schedule till today as undivided properties.
+Argument	The defendants also denied that the family holds agricultural lands as described in  Schedule 'B' (I).
+Argument	It was also pointed out that <NAME> much earlier to the deed of memo of partition dated 19.5.1965 pertaining to the permanent tenancy right over 1/8th share in the lands at Sl.
+Argument	No.
+Precedent	52/3 measuring 6 acres 31 gunthas, Sl.
+Precedent	No.
+Precedent	72/2 measuring 6 acres and 5 gunthas, Sl.
+Precedent	No.
+Precedent	73/3 measuring 8 acres 30 gunthas at Sadalaga had effected partition and separation under the power of <NAME> by relinquishing his right, title and interest amongst his sons alone by allotting to his separated sons and estate of coparcenary in due course and the sons possessed and enjoyed separately, got the occupancy rights over these agricultural lands under the Karnataka Land Reforms Act.
+Precedent	The assertion that the family owns house and open scape described in Schedule 'B' (II) is false.
+Precedent	The allegations that the family owns ancestral house at Sadalaga was also denied.
+Fact	It was submitted that during the life time of <NAME>, partition was effected and each son was allotted his portion of share and this partition took place und er the authority of <NAME> and much earlier to the deed of memo of partition dated 19.5.1965 and the <NAME> also relinquished his right, title and interest in the house in favour of his sons.
+Fact	It was also submitted that the allegations that the family purchased a house in the name of Defendant No.
+Fact	5- Gangubai out of the joint family funds in or about 1964-65 and the family constructed RCC building for the joint family with the joint family funds and subsequently the property got transferred in the name of defendant No.
+Fact	2 were false and frivolous.
+Fact	That the property bearing No.
+Fact	1946 (New No.
+Fact	2178) at Sadalga is exclusively absolute separate individual property of defendant No.
+Fact	5.
+Fact	But now the property bearing old No.
+Fact	1846A bearing new No.
+Fact	2178 of Sadalga is absolutely separate individual property of defendant No.
+Fact	2.
+Argument	The allegation of joint family shop in the name and style of "<ORG>" and a portion of that building being given to <ORG> at Sadalaga as claimed by the plaintiff was also denied a nd the claim that "<ORG>" being joint family property was also denied.
+Argument	It was pointed out that the property belonged to Defendant No.
+Argument	2 and Defendant No.
+Argument	2 has leased out a portion to the <ORG> and there is execution proceedings against the <ORG>.
+Argument	Other allegations at various paragraphs of the plaint were all denied.
+Argument	On the basis of these pleadings the trial court framed originally the following ten issues which read as under.
+Argument	1.
+Fact	Whether the plaintiff proves that the suit properties are the joint family properties of plaintiff and defendants Nos.
+Fact	1,4,5,8,9,10 and 11?
+RatioOfTheDecision	2.
+RatioOfTheDecision	Whether the defendants prove that there was partition in their family prior to 19/5/1965?
+RatioOfTheDecision	3.
+RulingByLowerCourt	Whether the defendants prove that TMC No.
+RulingByLowerCourt	Old 1846A and new No.
+RatioOfTheDecision	2178 of <ORG> was exclusive property of the defendant No.
+RatioOfTheDecision	5 and now it is in the exclusive property of defendant No.
+RatioOfTheDecision	2?
+RatioOfTheDecision	4.
+RulingByLowerCourt	Whether the defendants prove that TMC No.
+RulingByLowerCourt	3130/2 of <ORG> is exclusive property of Defendant No.
+RulingByLowerCourt	7?
+RulingByLowerCourt	5.
+RulingByLowerCourt	Whether the defendants prove that M.H.
+RulingByLowerCourt	No.
+RulingByLowerCourt	2 02/235 of <ORG> i.e.
+RulingByLowerCourt	Schedule B-III(i) is the self-acquired property defendant No.
+RulingByLowerCourt	1?
+RulingByLowerCourt	6.
+Fact	Whether the defendants prove that CTS No.
+Fact	687/1 of <ORG> is the self-acquired property of defendant No.
+Fact	3?
+Fact	7.
+Fact	Whether defendants prove that suit Schedule B-III (a) property is the self acquired property of the defendant No.
+Fact	2?
+RatioOfTheDecision	8.
+RatioOfTheDecision	Whether the plaintiff is entitled for any share?
+RatioOfTheDecision	9.
+RatioOfTheDecision	If so, what is his share and in which properties?
+RatioOfTheDecision	10.
+RatioOfTheDecision	To what reliefs the parties are entitled?
+RatioOfTheDecision	Additional one issue was framed later which reads as under.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Whether the plaintiff proves that suit property bearing Municipal H. No.
+RatioOfTheDecision	764/8A-1 situated at Anagol-Mal (Bhagya Nagar) is also ancestral property?
+RatioOfTheDecision	5.
+RulingByLowerCourt	The learned trial Judge affirmed issue No.
+Precedent	1 partly and also answered No.
+Precedent	4 in favour of the plaintiff.
+Precedent	The trial Judge also answered issue No.
+Precedent	8 in favour of the plaintiff and granted a decree as aforesaid.
+Precedent	The trial court held that the acquisition of the property was from the joint family nucleus which was available with the jo int family propitious, all the parties i.e.
+Precedent	defendant Nos.
+Precedent	5, 8 and 11 and the sons i.e.
+Precedent	defendants Nos.
+Precedent	1,4,9 and 10 and the plaintiff were to share equally and as per principle it was incumbent on the part of defendant Nos.
+RulingByLowerCourt	1 to 3 to prove specifically that it was on account of self-acquired properties came to be purchased.
+RulingByLowerCourt	Learned trial Judge further held that there is absolutely no evidence to support the plea of defendant Nos.
+RulingByLowerCourt	1 to 3 and further held that the suit property acquired vide Ex.D 46 bearing <ORG> Old No.
+RulingByLowerCourt	1846A and new No.
+RulingByLowerCourt	2178 standing in the name of.
+RulingByLowerCourt	Defendant No.
+Fact	2 the suit property purchased vide Ex.D 48 dated 28.6.1971 standing in the name of Defendant No.
+Fact	1; the suit property Ex.
+Fact	D.49 dated 24.2.1983 standing in the name of Defendant No.
+Fact	3 and the suit property vide Ex.50 dated 11.8.1975 standing in the name of Defendant No.
+Fact	2 are joint family acquisition wherein plaintiff and Defendant No.
+RatioOfTheDecision	9 as co-parceners can seek partition of their specific share in them.
+RatioOfTheDecision	It may not be out of place to  mention here that Defendant No.
+Argument	1 is the brother of the plaintiff, defendant No.
+Argument	2 is the wife of defendant No.
+Argument	1 while defendant No.
+Argument	3 is the son of defendant Nos.
+Argument	1 & 2.
+Fact	Ultimately the trial Judge concluded as follows:  Consequently, each of the plaintiff and the defendant No.
+Fact	9 is entitled to 3/16th share in the suit properties at Sl.
+Precedent	Nos.
+Precedent	1 to 4 shown in para (I), and Sl.
+Precedent	No.
+Precedent	1 and 2 and 4 to 7 shown in para (II), and st Sl.
+Precedent	Nos.
+Precedent	1,2 and 4 shown in para (III), and at Sl.
+Precedent	Nos.
+Precedent	1 to 4 shown in para (VI) of the suit Schedule 'B' The net result is the plaintiff and Defendant No 9 were given 3/16th share by partition metes and bounds.
+Precedent	Aggrieved against this judgment and decree the defendant Nos.
+Precedent	1 to 3 preferred an appeal before <ORG>.
+Precedent	In the present appeal we are only concerned with the respondent Nos.
+Fact	1 to 3 who were the appellants before <ORG> who felt aggrieved by the order of the trial court.
+RatioOfTheDecision	On appreciation of evidence <ORG> observed that in the present appeal <ORG> wa s only concerned with Issue Nos.
+RatioOfTheDecision	3,5,6 & 7 and the grievance of the appellants before <ORG> was that all the properties mentioned in those issues were self-acquired properties of <NAME>, his wife and son and those properties were not purchased from the family nucleus.
+RatioOfTheDecision	<ORG> on appreciation of evidence set aside the order of the trial court so far as the appellants before it (i.e.
+RulingByLowerCourt	Defendant Nos.
+RulingByLowerCourt	1 to 3) were concerned and dismissed the suit qua them.
+Fact	Hence the present appeal.
+RatioOfTheDecision	6.
+RatioOfTheDecision	We have gone through the records and heard learned Counsel for the parties at length.
+RatioOfTheDecision	So far the legal proposition is concerned, there is no gain saying that whenever a suit for partition and determination of share and possession thereof is filed, then the initial burden is on the plaintiff to show that the entire property was a joint Hindu family property and after initial discharge of the burden, it shifts on the defendants to show that the property claimed by them was not purchased out of the joint family nucleu s and it was purchased independent of them.
+RatioOfTheDecision	This settled proposition emerges from various decisions of this <ORG> right from 1954 onwards.
+RatioOfTheDecision	7.
+RatioOfTheDecision	In the case of <CITATION_1089401> .
+Precedent	, their Lordships held that proof of the existence of a joint family does not lead to the presumption that property held by any member of the family is joint, and the burden rests upon anyone asserting that any item of property was joint to establish the fact.
+Precedent	But where it is established that the family possessed some joint property which from its nature and relative value may have formed the nucleus from which the property in question may have been acquired, the burden shifts to the party alleging self-acquisition to establish affirmatively that the property was acquired without the aid of the joint family property.
+Precedent	Therefore, so far as the proposition of law is concerned, the initial burden is on the person who claims that it was joint family property but after initial discharge of the burden, it shifts to the party who claims that  the property has been purchased by him through his own source and not from the joint family nucleus.
+Precedent	Same proposition has been followed in the case of Mst.
+Precedent	<CITATION_519726> .
+Precedent	wherein it was observed as follows:  There is a presumption in Hindu Law that a family is joint.
+Precedent	There can be a division in status among the members of a joint Hindu family by definement of shares which is technically called "division of status", or an actual division among them by allotment of specific property to each one of them which is described as "division by metes and bounds".
+Precedent	A member need not receive any share in the joint estate but may renounce his interest therein; his renunciation merely extinguishes his interest in the estate but does not affect that status of the remaining members vis-a-vis the family property.
+Precedent	A division in status can be effected by an unambiguous declaration to become divided from the others and that intention can be expressed by any process.
+RatioOfTheDecision	Though prima facie a document clearly expressing the intent ion to divide brings about a division in status, it is open to a party to prove that the said document was a sham or a nominal one not intended to be acted upon but was conceived and executed for an ulterior purpose.
+RatioOfTheDecision	But there is no presumption that any property, whether moveable or immoveable, held by a member of a joint Hindu family, is joint family property.
+RatioOfTheDecision	The burden lies upon the person who asserts that a particular property is joint family property to establish that fact.
+RatioOfTheDecision	But if he proves that there was sufficient joint family nucleus from and out of which the said property could have been acquired, the burden shifts to the member of the family setting up the claim that it is his personal property to establish that the said property has been acquired without any assistance from the joint family property.
+RatioOfTheDecision	Similarly, in the case of <CITATION_1583961> .
+Precedent	, their Lordships held as follows:  Under Hindu law, when a property stands in the name of a member of a joint family, it is incumbent upon those asserti ng that it is a joint family property to establish it.
+Precedent	When it is proved or admitted that a family possessed sufficient nucleus with the aid of which the member might have made the acquisition, the law raises a presumption that it is a joint family property and the onus is shifted to the individual member to establish that the property was acquired by him without the aid of the said nucleus.
+RatioOfTheDecision	This is a well settled proposition of law.
+RatioOfTheDecision	Similarly, in the case of <CITATION_1424462> .
+Precedent	, their Lordships have held that the character of any joint family property does not change with the severance of the status of the joint family and a joint family property continues to retain its joint family character so long as the joint family property is in existence and is not partitioned amongst the co-sharers.
+Precedent	By a unilateral act it is not open to any member of the joint family to convert any joint family property into his personal property.
+Precedent	8.
+Precedent	In the case of <CITATION_1589309> (dead) through LRs and Anr.
+Precedent	their Lordships he ld as follows:  It is no doubt true that there is no presumption that a family because it is joint possessed joint property and therefore the person alleging the property to be joint has to establish that the family was possessed of some property with the income of which the property could have been acquired.
+Precedent	But such a presumption is a presumption of fact which can be rebutted/ But where it is established or admitted that the family which possessed joint property which from its nature and relative value may have formed sufficient nucleus from which the property in question may have been acquired, the presumption arises that it was the joint property and the burden shifts to the party alleging self-acquisition to establish affirmatively that the property was acquired without the aid of the joint family.
+RatioOfTheDecision	Therefore, on survey of the aforesaid decisions what emerges is that there is no presumption of a joint Hindu family but on the evidence if it is established that the property was joint Hindu family property  and the other properties were acquired out of that nucleus, if the initial burden is discharged by the person who claims joint Hindu family, then the burden shifts to the party alleging self-acquisition to establish affirmatively that the property was acquired without the aid of the joint family property by cogent and necessary evidence.
+RatioOfTheDecision	9.
+RatioOfTheDecision	In this legal background, we have to examine what exactly has been proved in the present case.
+RatioOfTheDecision	As per the finding given by the trial court there is no two opinion that <NAME> was the main person who held various agricultural lands and out of that certain business started.
+RatioOfTheDecision	But the case of the defendant Nos.
+RatioOfTheDecision	1 to 3 was that the properties acquired by them were out of their own earnings and not out of the joint family nucleus.
+RatioOfTheDecision	The trial court has found that no evidence has been produced by the defendants to substantiate that Defendant Nos.
+RatioOfTheDecision	2 & 3 i.e.
+RatioOfTheDecision	wife and son of Defendant No.
+RatioOfTheDecision	1 had individual source to purchase the aforesaid properties.
+RatioOfTheDecision	Therefore, the learned trial Jud ge has held against them.
+RatioOfTheDecision	But <ORG> has reversed that finding.
+RatioOfTheDecision	We fail to see any justifiable reason for <ORG> to have taken a contrary view in the matter.
+RatioOfTheDecision	The trial court in extensive manner dealt with each subject and came to the conclusion that the properties acquired by defendant Nos.
+RatioOfTheDecision	1 to 3 were not self-acquired properties as neither defendant No.
+RatioOfTheDecision	2 nor Defendant No.
+RatioOfTheDecision	3 i.e.
+RatioOfTheDecision	the mother and son had any independent source of income for purchasing these properties.
+RatioOfTheDecision	The defendant Nos.
+RatioOfTheDecision	1 to 3 had not been able to establish from evidence that they had sufficient funds out of which such properties could be purchased.
+RatioOfTheDecision	The trial court in paragraph 69 of its judgment has definitely held against them.
+RatioOfTheDecision	But <ORG> has observed that the finding in paragraph 69 of the judgment is vague.
+RatioOfTheDecision	With great respect, we do not subscribe the view taken by <ORG>.
+RatioOfTheDecision	The finding of trial court is categorical & clear it was observed in paragraph 69 of its judgment which is reproduced below:  ... it was  incumbent on the part of the defendant Nos.
+RatioOfTheDecision	1,2 and 3 to prove specifically that it was on account of self acquisition the said properties came to be purchased.
+RatioOfTheDecision	Absolutely there is no evidence in this context to support plea of the defts.
+Precedent	Nos.
+RulingByLowerCourt	1 to 3.
+Fact	Therefore I am to state that the suit property acquired vide Ex.D 46, bearing new TMC No.
+Fact	2178 standing in the name of defendant No.
+Fact	2 and the suit property purchased vide Ex.
+Fact	D 48 dated 28.6.71 standing in the name of the defendant No.
+Fact	1, and the suit property vide Ex.
+Fact	D 49 dated 24.2.1983 standing in the name of defendant No.
+Fact	3, and the suit properties vide Ex.D.50 dated 11.8.75 standing in the name of defendant No.
+Fact	2 are joint family acquisitions wherein the plaintiff and the deft No.
+RatioOfTheDecision	9 as co-parceners can seek partition of their specific share in them.
+RatioOfTheDecision	Thus, the finding arrived at by the trial court appears to us to be categorical finding which cannot be termed to be vague.
+RatioOfTheDecision	Therefore, the view taken by the trial court appears to be justified and the findin g given by <ORG> is absolutely vague.
+RulingByPresentCourt	Hence, we affirm the finding of the trial court and set aside the order of <ORG>.
+RatioOfTheDecision	10.
+RatioOfTheDecision	As a result of our above discussion, we are of opinion since the defendants- respondents herein have failed to prove that the properties mentioned in the aforesaid transactions were acquired by them as self-acquired property, the judgment under appeal cannot be sustained.
+RulingByPresentCourt	We, therefore, allow this appeal and set aside the order of <ORG> and affirm the order of the trial court.
+RulingByPresentCourt	There would be no order as to costs.

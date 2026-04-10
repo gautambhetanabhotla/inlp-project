@@ -1,0 +1,265 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The defendant appeals from a decree awarding the plaintiff possession of 1 acre and 32 cents of land comprised in A schedule with mesne profits.
+Fact	The dispute is between rival purchasers of the same property, in mortgage suits brought by the first and second (simple) mortgagees, without impleading each other.
+Fact	The following are the material facts.
+Fact	<NAME>, the owner of properties in A and B schedules, mortgaged them to the defendant on 21st July, 1905.
+Fact	On 4th November, 1905, he mortgaged A schedule properties together with 19 cents of other land to one <NAME>.
+Fact	<NAME>'s(the second mortgagee's)heirs sued the mortgagor in O.S.
+Fact	No.
+Fact	601 of 1914.
+Fact	By Order 34, Rule 1 they were not required to join the first mortgagee'in his suit and he was not joined accordingly, though they must have known that there was a first mortgage on the A schedule property, as it was registered.
+Fact	The 19 cents of land which was not included in the first mortgage was sold first and a part of the debt  was realised.
+Fact	The decree-holders seem not to have taken any further steps to execute the decree for a considerable time against A schedule property owing probably to the fact it was subject to a prior mortgage.
+Fact	In this state of affairs the defendant brought his suit on the first mortgage in O.S.
+Fact	No.
+RulingByLowerCourt	274 of 1917 without impleading the second mortgagee and obtained a decree and in-execution bought the properties in A and B schedules himself on 21st October, 1918 and obtained possession in January, 1919.
+Fact	The plaintiff obtained a transfer of the decree in O.S.
+Fact	No.
+Fact	601 of 1914 from <NAME>'s heirs and brought the A schedule property again to sale and purchased it himself in January, 1924.
+Fact	As he could not get possession he brought this suit in 1924.
+Fact	Thus A schedule property is the only property common to both mortgages and in respect of it the plaintiff is a second mortgagee-purchaser who purchased in a suit first instituted, the purchase being later than that of the defendant; and the defendant is a first mortg agee-purchaser who purchased in a later instituted suit, the purchase being earlier than that of the plaintiff.
+Fact	2.
+Fact	The plaintiff prayed for unconditional possession of A schedule property or in the alternative for permission to redeem A and B schedule properties on payment of the first mortgage debt.
+Fact	The defendant offered to redeem the plaintiff's second mortgage and if the Court should hold that the plaintiff is entitled to retain the property on redeeming the first mortgage he claimed the value of improvements effected on A schedule property.
+Fact	As both parties wanted to keep their purchase and for that purpose were willing to redeem each other, the real question was which of them had the better title to the land and on what terms, if any, he should redeem the other.
+Fact	The second issue sufficiently covered this point and the third issue raised the question of defendant's improvements.
+Fact	3.
+Fact	At the trial the plaintiff, no doubt on advice, gave up the prayer for alternative relief, i.e., possession on condition of  redeeming the defendant's first mortgage debt and as the <NAME> says elected to proceed to trial on the footing that he is entitled to unconditional possession of the property.
+Fact	The second issue which raised the question whether the plaintiff or the defendant was entitled to redeem the other and keep the property was thus dropped and with it the third issue was also dropped.
+Fact	The only issue left was whether the plaintiff was entitled to unconditional possession.
+Fact	4.
+Fact	Both the <ORG> have answered this question in the affirmative on the authority mainly of <CITATION_287103> (1915) I.L.R.
+Fact	40 M. 77 at 86 and 87 : 30 M.L.J.
+Fact	347.
+Fact	The <NAME> held that the plaintiff has for the present become entitled to the property in A schedule subject of course to the mortgage in favour of the defendant, if any.
+Fact	The meaning and effect of this is that the defendant is not entitled to use his mortgage as a shield to protect his possession and that though the plaintiff as second mortgagee has only rights to the property subject  to the first mortgage, the latter must enforce such rights as he may still have by another suit and in the meanwhile give up possession.
+Fact	The learned Subordinate Judge relying on certain passages in <CITATION_287103> (1915) I.L.R.
+Fact	40 M. 77 at 86 and 87 : 30 M.L.J.
+Fact	347 took the same view.
+Fact	He concluded that the only right which the defendant as first mortgagee has now got is to again sue on his mortgage impleading the plaintiff and that he is not entitled to keep possession as against him.
+Fact	As any further suit on the first mortgage of 1905 would be time-barred after 12 years thereafter the result of the above decision is that the first mortgagee is totally deprived of all rights under his mortgage, notwithstanding their formal because futile reservation.
+Fact	And this for the single reason that he did not in his suit implead the second mortgagee.
+Precedent	5.
+Precedent	In view of the numerous decisions of this <ORG> on similar facts, V enkatanarasammah v. Ramiah (1879) I.L.R.
+Precedent	2 M. 108, <CITATION_1365507> (1900) I.L.R.
+Precedent	24 M. 171 : 10 M.L .J.
+Precedent	347, Akatti Moidin Kutty v. <NAME> (1902) I.L.R.
+Precedent	26 M. 486, <CITATION_495896> (1909) I.L.R.
+Precedent	32 M. 485 : 19 M.L.J.
+Precedent	728 as to the preferential title between competing purchasers in different mortgage suits I should have had no difficulty in deciding this case if it were not that opposite opinions have been expressed by two Benches of this Court as to the soundness of some of the above decisions by reason of the <ORG> decision in <CITATION_201041> (1911) 21 M.L.J.
+Precedent	213 (F.B.)
+Precedent	which laid down four general propositions as established by the decisions.
+Precedent	In <NAME> v. <NAME> (1911) 22 M.L.J.
+Precedent	129 a Bench consisting of <NAME> and <NAME>, JJ., considered that the <ORG> decision left untouched the principle of the above cases that the first purchaser is on a question of preferential title entitled to hold his possession against subsequent purchasers and the principle established by other cases that the right of puisne mortgagees who have been excluded from suits on prior mortgages  is just what it would have been if they had been included, i.e., to redeem the prior mortgage and then either to proceed to sale for the amount due on both mortgages or if the property has already been sold in their own suit to hold it unless the purchaser in the prior mortgagee's suit, if he is the earlier purchaser and wants to keep his purchase, pays off both mortgages.
+Precedent	<CITATION_287103> (1915) I.L.R.
+Precedent	40 Mad.
+Precedent	77 : 30 M.L.J.
+Precedent	347 another Bench consisting of <NAME> and <NAME>, JJ., dissented from <CITATION_1724035> (1911) 22 M.L.J.
+Fact	129 and considered that the <ORG> decision must be taken to have disapproved of <NAME> v. <NAME> (1879) I.L.R.
+Fact	2 Mad.
+Fact	108, <NAME> Row than v. <NAME> (1900) I.L.R.
+Fact	24 M. 1714 : 10 M.L.J.
+Fact	347 and <NAME> v. <NAME> (1902) I.L.R.
+Fact	26 M. 486 and that these decisions must not be followed and laid down seven rules to determine the rights of two simple mortgagees suing separately each on his own mortgage.
+Fact	The remarks at pages 86  and 87 of Justice <NAME>'s judgment are those relied on by <ORG> for their decision.
+Fact	I do not propose to enter, more than is necessary to decide this case, into the general aspects of this controversy about the right of puisne mortgagees who have not been impleaded in the prior mortgagee's suit to bring suits for sale subject to prior encumbrances.
+Fact	6.
+Fact	<CITATION_201041> (1911) 21 M.L.J.
+Fact	213 (F.B.)
+Fact	and <NAME> v. <NAME> (1915) I.L.R.
+Fact	40 Mad.
+Fact	77 : 30 M.L.J.
+Fact	347 the contest was between a mortgagee on one side and a purchaser on a prior mortgage on the other.
+Fact	<CITATION_201041> (1911) 21 M.L.J.
+Fact	213 (F.B.)
+Fact	the purchaser on a prior simple mortgage sued a subsequent usufructuary mortgagee for possession on default of the latter redeeming the prior mortgage.
+Fact	The opinion of <ORG> was that the usufructuary mortgagee could not be turned out of possession by a purchaser in a suit, to which he was not a party.
+Fact	The language of the reasoning and, of the four propositions e stablished was quite general and not limited to the facts of the case.
+Fact	7.
+Fact	In <NAME> v. <NAME> (1915) I.L.R.
+Fact	40 Mad.
+Fact	77 : 30 M.L.J.
+Fact	347 a third simple mortgagee sued the purchaser in a suit on a second simple mortgage who had paid off a first simple mortgage, for sale.
+Fact	The actual decree of <ORG> which was confirmed by <ORG> was for sale free of all encumbrances, unless the defendant (purchaser) redeemed the plaintiff (2nd mortgagee).
+Fact	But the discussion and opinions were not limited to the facts and in fact the judgment of <NAME> J., is mostly devoted to a criticism of the observations in <CITATION_1724035> (1911) 22 M.L.J.
+Fact	129 and the cases relied on in it.
+Fact	That case <CITATION_1724035> (1911) 22 M.L.J.
+Fact	129 however was not between mortgagees or between a mortgagee and a purchaser but like the present case a claim for undisturbed possession by an earlier first mortgagee-purchaser who had got possession against a later second mortgagee-purchaser.
+Fact	It was held  that the plaintiff as earlier purchaser who had been put into possession could not be disturbed by the later second mortgagee-purchaser whose only right was to redeem the prior mortgage and then to sell the property for the amount of both first and second mortgages.
+RatioOfTheDecision	Though the language employed in these three decisions and the criticism of the earlier by the later was perhaps unavoidably more general than the facts of each case necessarily demanded, each case is authority only for what it actually decides.
+Precedent	As <NAME>, J., said in <CITATION_904927> (1921) 41 M.L.J.
+Precedent	399 at 406:  They (the Vakils) naturally took full advantage of the general and broad expressions in favour of their respective contentions, found in the numerous cases quoted by them on the legal questions involved.
+Precedent	Even learned Judges (if I may say so with respect) have been naturally unable to lay down the rules of law governing these questions in judgments pronounced by them in particular cases with all the necessary qualifications and li mitations which would have to be applied to those rules if additional facts and circumstances of a special nature besides those appearing in the particular cases in which the decisions were given were involved therein.
+Precedent	8.
+Precedent	The present case is exactly similar in principle to <NAME> v. <NAME> (1879) I.L.R.
+Precedent	2 M. 108, <CITATION_1365507> (1900) I.L.R.
+Precedent	24 M. 171 : 10 M.L.J.
+Precedent	347 Akatti Moidin Kutty v. <NAME> (1902) I.L.R.
+Precedent	26 M. 486, <CITATION_495896> (1909) I.L.R.
+Precedent	32 M. 485 : 19 M.L.J.
+Precedent	728 and <CITATION_1724035> (1911) 22 M.L.J.
+Precedent	129.
+Fact	In all these cases the contest was for possession between rival purchasers of the mortgaged property in two successive mortgage suits from each of which the other mortgagee was excluded.
+Fact	In all of them the earlier purchaser was held entitled to the property whether he purchased in the prior mortgagee's or puisne mortgagee's suit.
+Fact	In <NAME> v. <NAME> (1879) I.L.R.
+Fact	2 M. 108 and <CITATION_1365507> (1900) I.L.R.
+Fact	24 M. 171 : 10 M.L.J.
+Fact	347 <CITATION_495896> (1909)  I.L.R.
+Fact	32 M. 485 : 19 M.L.J.
+Fact	728 and <CITATION_1724035> (1911) 22 M.L.J.
+Fact	129, the purchase in the prior mortgagee's suit was earlier.
+Fact	In Akatti Moidin Kutty v. <NAME> (1902) I.L.R.
+Fact	26 M. 486 the purchase in the puisne mortgagee's suit was earlier.
+Fact	In <NAME> than v. <NAME> (1900) I.L.R.
+Fact	24 M. 171 : 10 M.L.J.
+Fact	347 and <CITATION_1724035> (1911) 22 M.L.J.
+Fact	129 though the earlier mortgagee-purchaser had been nominally impleaded in the suit in the later mortgage, the purchase in the latter suit was subject to the rights of the prior mortgages which were not determined in that suit and hence the contest between the purchasers in the third suit.
+Fact	In the majority of cases even in the third suit the rights after purchase -on the footing of the rival mortgages were not determined but the question determined was confined to who had the better title by purchase.
+Fact	Only in one case, <CITATION_1365507> (1900) I.L.R.
+Fact	24 M. 171 : 10 M.L.J.
+Fact	347, was it held that though the earlier purchaser had the better title,  he could hold the property only on default of the later purchaser redeeming the earlier mortgage.
+Fact	In the other cases it was found that the form of the suit which was in ejectment precluded the real dispute between the parties being determined, i.e., as to the order of mutual redemption of the mortgages and the consequence of default.
+Fact	The present is another instance in which though the suit as originally framed might have been used to determine the rights of the parties on their several mortgages, the form has been deliberately so limited by the plaintiff as to make it impossible to decide anything beyond the question whether the plaintiff is entitled to unconditional possession.
+RatioOfTheDecision	9.
+Precedent	Having regard to the question before <ORG> and the language employed by the learned Judges with regard to the above decisions, I am unable to agree with the opinion expressed in <CITATION_287103> (1915) I.L.R.
+Precedent	40 M. 77 : 30 M.L.J.
+Precedent	347 that <NAME> v. <NAME> (1879) I.L.R.
+Precedent	2 M. 108 and <CITATION_1365507> (1900) I .L.R.
+Precedent	24 M. 171 : 10 M.L.J.
+Precedent	347 and similar cases were disapproved by <ORG> and ought not to be followed.
+Precedent	In fact <ORG> judgment at pages 230, 231 expressly refers to and approves of the principle of <NAME> v. <NAME> (1879) I.L.R.
+Precedent	2 M. 108 that the mortgagee who became first entitled to possession was awarded it against the other.
+Precedent	Similarly at page 233 the judgment refers with approval to <NAME> than v. <NAME> (1900) I.L.R.
+Precedent	24 M. 171 : 10 M.L.J.
+Precedent	347 pointing out that the first mortgagee being the first purchaser in possession could not be turned out in execution by the second mortgagee who had merely bought subject to the rights of the first purchaser.
+Argument	Referring to <NAME>, J.
+Argument	's judgment in that case <ORG> say that " the observation that the right of redemption and no other was all that remained to the second mortgagee in the circumstances of the case was perfectly right" and that no general proposition to that effect was laid down.
+RatioOfTheDecision	The learned Judges of the  <ORG> could not have forgotten that the question referred to them was not which of two rival purchasers under simple mortgage decrees was entitled to possession but whether a puisne mortgagee in possession under a usufructuary mortgage could be turned out of possession or be compelled to redeem a purchaser in a simple first mortgagee's suit to which he was not a party.
+RatioOfTheDecision	The principle that of two purchasers in successive mortgage suits, both mortgages being simple, the earlier purchaser is the one entitled to possession was therefore not only not disapproved but expressly approved by the <ORG>.
+RatioOfTheDecision	10.
+RatioOfTheDecision	In this view I am not called upon to enter into any lengthy discussion whether and in what circumstances a puisne mortgagee who has not been impleaded in a prior mortgagee's decree which has resulted in the sale of the property may maintain a suit for sale subject to the prior mortgage as if it ' had not been sued upon.
+RatioOfTheDecision	That is not the question in this case.
+Precedent	But the discussion in <CITATION_1724035> (1911)  22 M.L.J.
+Precedent	129 and <CITATION_287103> (1915) I.L.R.
+Precedent	40 M. 77 : 30 M.L.J.
+RatioOfTheDecision	347 reveals a difference of opinion on the effect of the <ORG> decision in this question.
+RatioOfTheDecision	The former case favours the view that such a suit by the puisne mortgagee is possible only till the first mortgagee lias obtained his own decree for sale.
+RatioOfTheDecision	The only result of the puisne mortgagee not being impleaded in the prior mortgagee's suit being to put him in the same position as he would have been if so impleaded, i.e., to give him an opportunity to redeem the prior mortgage.
+RatioOfTheDecision	But the latter case would appear to take the view that in such circumstances the puisne mortgagee has not merely the right to redeem but also the right to sell subject to the prior mortgage.
+RatioOfTheDecision	This view is based on the principle that as against the puisne mortgagee the prior mortgagee's suit being an improperly constituted suit has no legal effect whatever and may be treated as non-existent.
+RatioOfTheDecision	If so, the purchaser in the first mortgagee's suit got no title whatever against  the puisne mortgagee and the only course open to the first mortgagee is to sue again.
+Fact	That this is not necessary, and that the purchase is good at least to the extent of enabling the purchaser to redeem the puisne mortgagee in the character of the ultimate owner of the equity of redemption is stated at page 86 where it is said that If he (2nd defendant in the case who "was the purchaser in the prior mortgagee's suit) wants to keep the property as purchaser he can only do so by redeeming the plaintiffs.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The same result follows from the 7th proposition (page 92) where the purchaser in the first mortgagee's suit is described as the ultimate owner of the equity of redemption.
+Fact	The main thesis is however maintained at pages 86 and 87 that the later purchaser in the second mortgagee's suit is entitled to possession of the property from the previous purchaser in the first mortgagee's suit for the reason that the latter suit was not properly constituted whereas the former suit was.
+Fact	But what about the rights of t he earlier purchaser as first mortgagee?
+Fact	The answer is that in the second mortgagee's later suit for sale he may, if he is unwilling to redeem the second mortgage, get the balance of the sale proceeds after satisfying the second mortgage.
+Fact	That is to say, he becomes postponed to the second mortgagee who thus gets the advantage of becoming first mortgagee as a result of the improperly constituted suit brought by the original first mortgagee.
+Fact	It is difficult to see why the first mortgagee's suit which is not to affect the second mortgagee in any way should have the result of conferring a substantial advantage on him.
+Fact	And it is equally difficult to understand how if the sale in the first mortgagee's suit can, notwithstanding its improper constitution, convey to the purchaser the equity of redemption subject to the second mortgage and if the purchaser at that sale may still as plaintiff bring a suit as first mortgagee, impleading of course the purchaser in the second mortgagee's suit, he cannot successfully defend  the possession already obtained in exercise of that mortgage right.
+Fact	Starting from the principle that the first mortgagee's suit being improperly constituted should have no legal effect whatever against the second mortgagee, the result is arrived at somewhat inconsistently that while on the one hand the purchaser becomes the ultimate owner of the equity of redemption who is as such entitled to redeem the second mortgage, on the other he retains the character of the first mortgagee sufficiently to enable him to sue again on that mortgage but not sufficiently to retain his priority in the sale proceeds in case of a sale by the second mortgagee or to keep the possession which he has already got against the purchaser in that sale.
+Precedent	12.
+Precedent	I am not satisfied that this is the result of the <ORG> case, nor am I satisfied that the cases beginning with <CITATION_1381516> (1879) I.L.R.
+Precedent	2 M. 108 are overruled thereby.
+Precedent	If they are to be followed the suit must be dismissed.
+Precedent	13.
+Fact	The questions involved in contests betwee n rival purchasers in successive mortgage suits in which the other mortgagees were excluded were again elaborately considered by <ORG> of <ORG> in <CITATION_1869233> A.I.R.
+Fact	1931 All.
+Fact	466 (F.B.).
+Fact	There were two simple mortgages of 1911 and 1912.
+Fact	The second mortgagee sued the mortgagor first in March, 1922, without joining the first mortgagee and then the first mortgagee sued the mortgagor in August 23 without joining the second.
+Fact	One <ORG> purchased the property first in January, 1925, in the second mortgagee's suit but did not get actual possession.
+Fact	Then the first mortgagee purchased the property in his own suit in November, 1925 and got possession.
+Fact	<ORG> sued the first mortgagee-purchaser for possession.
+Fact	On a reference to <ORG>* four out of five Judges held:  1.
+Fact	If the purchaser in the first mortgagee's suit is suing as plaintiff-  A.
+Fact	(a) he can sue again for money if his suit is not barred.
+Fact	(b) he cannot sue for money if it is barred.
+Fact	B.
+Fact	(a) If he was the earlier purchaser  he can redeem the second mortgage and get possession even if a suit on the prior mortgage is barred.
+Fact	(b) If he was the later purchaser he cannot even redeem.
+Fact	2.
+Fact	If the purchaser in the second mortgagee's suit is suing as plaintiff-  (a) if the plaintiff was the earlier purchaser he must redeem the prior mortgage and the defendant cannot compel the plaintiff to be redeemed.
+Fact	(b) if the plaintiff was the later purchaser he must first redeem the prior mortgage but the defendant can then compel the plaintiff to be redeemed in respect of the second mortgage.
+Fact	14.
+Fact	It will be observed that according to this view the only case in which the first mortgagee-purchaser will be without remedy either to sue again for money or to compel the second mortgagee to redeem him is when a second suit for money has become barred and at the same time as purchaser he is later than the second mortgagee and not having possession is compelled to sue for it.
+Fact	In all other cases, the first mortgagee may have one or other of three remedie s: (1) either a second suit for money, or (2) recovery of possession from the later purchaser, or (3) retention of possession as against even an earlier purchaser till he is redeemed.
+RulingByLowerCourt	The other learned Judge gave his opinion separately but except on two points, viz., as to lis pendens and as to the right of the second mortgagee to sue again for sale subject to the first mortgage, he concurred with his colleagues.
+RulingByLowerCourt	He agreed that the auction purchaser in execution of a prior mortgagee's decree without impleading the subsequent mortgagee acquires the right of the mortgagor including the right of possession.
+RulingByLowerCourt	He also agreed that it is the first purchaser who gets the property without regard to the priority of the mortgage in enforcement of which the property is sold.
+RulingByLowerCourt	Thus all the five Judges concurred in the principle of the earlier <NAME> decisions that the title to the property beltings to the earlier purchaser though the suit in which that purchase took place was improperly constituted in the sense that the sub sequent mortgagee was not therein impleaded.
+RulingByLowerCourt	The difference of opinion was only on the question whether the excluded second mortgagee is affected by the earlier proceedings to the extent that he is thereafter bound to redeem the earlier mortgage and can no longer sue for sale subject to the earlier mortgage.
+Precedent	The majority in Allahabad approve the view taken in <CITATION_1724035> (1911) 22 M.L.J.
+Precedent	129 and <CITATION_1556199> (1908) I.L.R.
+Precedent	31 M. 425 : 18 M.L.J.
+Precedent	298 on this matter while <NAME>, J., took the view favoured in <CITATION_287103> (1915) I.L.R.
+Precedent	40 M. 77 : 30 M.L.J.
+Precedent	347.
+Precedent	15.
+Precedent	Quite apart from the title derived from the sale the right of the first mortgagee-purchaser to use his mortgage as a shield has recently been upheld by <ORG> in <CITATION_787414> (1921) L.R.
+Fact	48 I.A.
+Fact	465 : I.L.R.
+Fact	43 All.
+Fact	469 : 42 M.L.J.
+Fact	15 (P.C.
+Fact	), and by this Court in <CITATION_904927> (1921).
+Fact	In the former case there were two simple mortgages in 1874 and 1875 to K.R.
+Fact	and a third mortgage by conditional sale in 1883  to <NAME> In 1886 <NAME> brought a suit on the first two mortgages without making <NAME> a party and bought the property himself.
+Fact	After <NAME>'s death <NAME>, his widow, gave the property to <ORG> and <ORG> who in 1902 executed a fourth mortgage to her for securing an annuity.
+Fact	In 1909 <NAME> sued <ORG> and <ORG> on his mortgage without joining <NAME> and got a decree for foreclosure on payment to them of the mortgages of 1874 and 1875.
+Fact	In 1914 <NAME> sued <ORG>, <NAME> and <ORG> on the mortgage of 1902.
+Fact	From the above dates and facts it is seen that <NAME>, the plaintiff, occupied the position of fourth mortgagee.
+Fact	But her mortgagors were representatives in interest of <NAME> the 1st and 2nd mortgagee-purchaser in the suit of 1886 in which the 3rd mortgagee was not a party.
+Fact	Her security therefore included the right of <NAME> by that purchase which included the right of the 1st and 2nd mortgagees.
+Fact	The defendant <ORG> was the 3rdmortgagee who had foreclosed <ORG> and <ORG> as ultimate owner of the equity of redemption bu t without impleading the 4th mortgagee plaintiff.
+Fact	16.
+Fact	The plaintiff claimed as mortgagee from <ORG> and <ORG> the security of their rights to the first and second mortgages.
+Fact	Though <NAME> had in his own suit paid this amount and it had been taken away by <ORG> and <ORG> <ORG> held that that payment could not bind the plaintiff who was not impleaded.
+Fact	It was, therefore, ordered that <NAME> should, in the first instance, pay the amount of the first and second mortgages to <NAME>, that in case he did so, the plaintiff should pay to <NAME> the amount of his third mortgage of 1883 and if she did so she could have the usual mortgage decree for the entire sum of all the mortgages including her own.
+Fact	As to the principle on which the payment of the first and second mortgages which were 40 years old at the time of the suit was ordered <ORG> said that an owner of a property who is in the rights of a first mortgagee and of the original mortgagor as acquired at a sale under the first mortgage  is entitled at the suit of a subsequent mortgagee who is not bound by the sale or the decree on which it proceeded to set up the first mortgage as a shield.
+Fact	Applied to this case it shows that the defendant the first mortgagee-purchaser is entitled to retain his possession till he is paid off the amount of that mortgage and is not liable according to the observations in <CITATION_287103> (1915) I.L.R.
+Fact	40 M. 77 : 30 M.L.J.
+Fact	347 to be turned out of possession on the ground that the suit on the first mortgage was improperly constituted and to be relegated to a fresh suit long ago barred by limitation.
+Fact	The same view as to using a mortgage as a shield was taken in <CITATION_904927> (1921) 41 M.L.J.
+Fact	399.
+Fact	17.
+Fact	The only difference between the <ORG> case and the present is that there the purchase on the first two mortgages was before the suit on the third mortgage whereas in the present case the defendant's purchase was after execution had begun on the decree on the second mortgage.
+Fact	It was therefore argued on t he strength of some remarks in <CITATION_287103> (1915) I.L.R.
+Fact	40 M. 77 : 30 M.L.J.
+Fact	347 that the Court-sale in the defendant's suit was vitiated by <NAME>.
+RatioOfTheDecision	At p. 87 it is stated that if a first mortgagee who has first obtained a decree without joining the second mortgagee purchases the property in execution after the second mortgagee has brought his suit on his own mortgage such purchase would be affected by <NAME> and that such a purchaser would have to give up possession to the later purchaser in the second mortgagee's suit.
+RatioOfTheDecision	At p. 92 the same idea qf the proceedings in an earlier mortgage suit becoming affected by <NAME> by reason of the institution of a subsequent mortgage suit is repeated in the 5th and 7th propositions.
+RatioOfTheDecision	The 7th proposition contains a repetition of the statement in p. 87 and the 5th proposition is the converse case of the purchaser in a second mortgagee's suit being affected by <NAME> by reason of a subsequent suit by the first mortgagor making the second mortgagee and  mortgagor parties.
+RatioOfTheDecision	I confess to great difficulty in correctly describing the ground of these remarks (whether they are right or not) to be lis pendens.
+RatioOfTheDecision	With the greatest respect, I understand by lis pendens the rule by which by reason of a suit being pending about the rights to some property, subsequent dealings by the parties with that property so as to prejudicially afreet the determination of those rights in that suit are invalidated.
+RatioOfTheDecision	The proceedings in earlier instituted suits cannot be affected by lis pendens by suits subsequently instituted.
+RatioOfTheDecision	If earlier proceedings are affected or rendered ineffective by subsequent proceedings the reason must be not lis pendens but something else.
+RatioOfTheDecision	Not only so, but I find difficulty in understanding how a mortgage suit brought by a first mortgagee can be affected by lis pendens because some one else who does not claim from him, i.e., another mortgagee, has already sued to enforce his own rights.
+RatioOfTheDecision	Both have rights against the same property not derived from each other but f rom the same owner.
+Precedent	In my view the opinion expressed by <NAME>, J. in <CITATION_1869233> A.I.R.
+Precedent	1931 All.
+Precedent	466 at 485 to 487 (F.B.)
+RatioOfTheDecision	on the subject of lis pendens in mortgage suits is correct.
+RatioOfTheDecision	It is that the rule only applies to transfers by the plaintiff or defendant of their respective interests after the suit including transfers by Court-sale in money decrees against either party.
+RatioOfTheDecision	But it does not apply to previously existing transfers (including mortgages) or legal proceedings to enforce such transfers by those entitled.
+RatioOfTheDecision	On principle the sale in pursuance of a mortgage decree, the mortgage having been executed before the institution of the suit is not affected by the doctrine of lis pendens.
+Fact	(Cf.
+Precedent	per <NAME>, J. in <CITATION_98090> (1905) I.L.R.
+Precedent	32 Cal.
+Precedent	891, <CITATION_1705436> (1923) 46 M.L.J.
+Precedent	258 and <CITATION_128904> (1930) 33 L.W.
+Precedent	109.)
+Precedent	No other authority has been adduced for invalidating the defendant's purchase on the ground of lis pendens.
+Precedent	18.
+Precedent	For the above reasons the decrees of <ORG> are  reversed and the suit dismissed with costs throughout.
+Precedent	<NAME>, J.
+Precedent	19.
+Precedent	I agree and have nothing to add.
+Precedent	We have been asked to reconsider the order as to costs on the ground that the plaintiff and the Courts below were right in relying on the decision in <CITATION_287103> (1915) I.L.R.
+Fact	40 M. 77 : 30 M.L.J.
+Fact	347 We see no reason to do so.
+Fact	The trouble was started by the plaintiff himself in the first Court.
+RatioOfTheDecision	He has in this Court been given every opportunity of settling, but has not taken advantage of it.
+RatioOfTheDecision	We are asked further to say that, in our view, a further suit will not be barred by Order 2, Rule 2 of the Code of Civil Procedure.
+RulingByPresentCourt	On that point, we decline to express any opinion.

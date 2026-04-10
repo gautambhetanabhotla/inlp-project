@@ -1,0 +1,131 @@
+Argument	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	This appeal by special leave is directed against a judgment, dated October 3, 1968, of <ORG> and Haryana.
+Argument	2.
+Fact	The farts leading to this appeal are that the appellants are partners of a firm, <ORG> Chheharta  3.
+Fact	By a Notification, dated May 15, 1956, <ORG> levied a profession tax under Section 61(1)(b) of the Punjab Municipal Act, 1911.
+Fact	Initially, the tax was Rs.
+Fact	15/ per annum and was levied on all the partners of the said firm.
+Fact	4.
+Fact	By a Notification, dated July 4, 1958, the annual tax for trade, profession or calling for the owner of a factory registered under the Indian Factories Act , to Rs.
+Fact	200/- per annum and each of the six partners of the said firm were assessed to annual tax of Rs.
+Fact	200/- by <ORG>.
+Fact	5.
+Fact	On October 30, 1960, the appellants filed a suit for permanent injunction restraining the defendant <ORG> from realising the profession tax demanded by it per letters Nos.
+Fact	15 to 20, dated May 3 1, 1960, amounting to Rs.
+Fact	1,200/-.
+Fact	6.
+Fact	The appellants challenged the validity of the assessment contending that construed in the light of the definition given in Section 2(40) of the Punjab General Clauses Act, the term "person" occurring in Section 6(1)(b) of the Punjab Municipal Act, 1911, includes a 'firm' and since the trade carried on by the 'firm' is one, the tax could be levied only on the firm, and not on the partners individually.
+Fact	On these premises, it was pleaded that <ORG> in levying the tax on the individual partners had exceeded its statutory powers under Section 61(1)(b) of the Municipal Act.
+Fact	7.
+Fact	The trial court dismissed the suit.
+Fact	On appeal by the plaintiffs, the Additional District Judge, <NAME>, reversed the judgment of the trial court and decreed the suit.
+Fact	8.
+Fact	<ORG> carried a further appeal to <ORG>.
+Fact	The learned single Judge who heard the appeal, affirmed the judgment and decree of the first appellate court, on the reasoning which may be summed  up as under :  The term "person" in Section 61(1)(b) of the Municipal Act, interpreted in the light of the definition given in Section 2(40) of the Punjab General Clauses Act, includes a 'partnership'.
+Fact	Under Clause (b) of Section 61(1) of the Municipal Act, the basis on which the liability to pay tax arises, is the trade, profession or business; and if the trade and business is one carried on by several persons collectively in partnership, then the partnership alone, and not the individual partners, are liable to pay the tax; that the liability on the partners will fall twice which is not contemplated by the scheme and language of the Municipal Act, even though all the partners are jointly and severally liable to any tax for the partnership business.
+Argument	9.
+Argument	In support of his conclusion that the tax was on trade and not on persons, the learned Judge by way of analogy, referred to Clauses (a), (c), (d), (e) and (f) of Sub-section (1).
+Argument	He also referred to two Madras derision in <CITATION_1012381> 7 Mad 74 and Devie s v. President of <ORG> ILR 14 Mad 140; and fund himself in entire agreement with the reasoning of the learned Judges in those cases.
+Argument	10.
+Argument	Aggrieved, <ORG> preferred a Letters Patent Appeal The Appellate <ORG> of <ORG> held that to import the definition of the term "person" occurring in Section 2(40) of the Punjab General Clauses Act into Section 61(1)(b) of the Municipal Act, will be repugnant to the subject.
+Argument	In the opinion of the <ORG>, under the scheme of the statute in question, the tax cannot be levied on a firm or factory as such but only on the individual owners of the factory or of the firm.
+Argument	On this reasoning, the <ORG> reached the conclusion "that under Section 61(1)(b) of the Act, it is the individual who is to be assessed and is liable to pay the tax mentioned therein and so the assessment as well as the demand of the tax from each of the plaintiffs does not suffer from any legal infirmity".
+RulingByLowerCourt	The B;nch further he'd ' that since the <ORG> in im posing the tax on the appellants herein has not acted out side the provisions of the statute, it would, on the basis of the judgment of <ORG> in Firm <NAME> (deceased) represented by <CITATION_743342> , which also dealt with the provisions of the Municipal Act, fellow that the impugned assessment could only be questioned under the provisions of Sections 84 and 86 of the Act, and the jurisdiction of <ORG> in respect of tax levied or the assessment made in excluded".
+RulingByLowerCourt	In the result, the appeal was allowed and the trial court's dismissing the suit was restored.
+Argument	11.
+Argument	Before us, Mr. <NAME>, learned counsel for the plaintiff- appellants, has adopted the reasons given by the learned Single judge of <ORG>.
+Argument	In support of his contentions, he relied upon the aforesaid Madras decisions.
+Argument	His argument is that if the interpretation placed by <ORG> of <ORG> is allowed to stand, it will lead to anamolous and unconstitutional results.
+Argument	Mr. <NAME> concedes th at the individual partners are also 'persons' within the meaning of Clause (b) of Section 61(1) He, how ever, maintains that the firm, also, is a 'person' within the contemplation of this provision and as such, liable to be taxed; that if in respect of the une trade, which is being carried on by the firm, apart from each of the individual partners, the firm, also is separately assessed to Rs.
+Argument	200/- per annum, not only the incidence of the tax will fall twice, the total liability therefore will far exceed the ceiling of Rs.
+Argument	250/- per annum fixed by Article 276(2) of the Constitution.
+Argument	In these premises, it is contended that an interpretation of Section 61(1)(b) , which may lead to unconstitutional or irrational results should be eschewed.
+Argument	12.
+Argument	With regard to the question of jurisdiction, it is contended that since <ORG> had in the exercise of its powers clearly acted beyond its jurisdiction, the suit was maintainable in <ORG>.
+Argument	13.
+Statute	Section 61(1)(b) of the Municipal Act, so far as mat erial for this case, reads as under :  Subject to any general or special orders which <ORG> may make in this behalf, and the rules, any committee may, from time to time for the purposes of this Act, and in the manner directed by this Act, impose in the whole or any part of the municipality any of the following taxes, namely :  (1) (a) ...  (i) to (iii) ...  (b) a tax on persons practising any profession or art or carrying on any trade or calling in the municipality.
+Statute	Explanation -A person in the service or person holding an office under <ORG> or <ORG> or a local or other public authority shall be deemed to be practising a profession within the meaning of this sub section.
+Statute	14.
+RatioOfTheDecision	From a plan reading of the extracted provision, it is clear that a tax leviable under Clause (b) is, in terms, a tax on "persons".
+RatioOfTheDecision	The expression "persons" undoubtedly includes natural persons.
+RatioOfTheDecision	The class of such taxable persons has been indicated by the <ORG> with reference to their o ccupational activity.
+Statute	Thus, in order to be authorised a tax under Clause (b) of Section 61(1) must satisfy two conditions : First, it must be a tax on persons.
+Statute	Second, such persons must be practising any profession or act or carrying on any trade or calling in the municipality.
+RatioOfTheDecision	15.
+RatioOfTheDecision	There can be dispute that the appellants are "persons" and as such, satisfy the first condition.
+RatioOfTheDecision	Even the learned Counsel for the appellants has candidly conceded that the individual partners are also ''persons" within the meaning of the said Clause (b).
+RatioOfTheDecision	Controversy thus becomes narrowed down into the issue : Whether persons collectively doing business in partnership, in the municipality, fulfil the second condition ?
+RatioOfTheDecision	That is to say, such persons "carry on any trade or ceiling in the municipality" within the contemplation of Clause (b) ?
+RatioOfTheDecision	16.
+RatioOfTheDecision	In our opinion, for reasons that follow, the answer to this question must be in the affirmative.
+RatioOfTheDecision	17.
+RatioOfTheDecision	"Partnership" as defined in Section 4 of the Indian Partnership Act, 1932 is the relation  between persons who have agreed to share the profits of a business carried on by all or any of them for the benefit of all.
+RatioOfTheDecision	The Section further makes it clear that a firm or partnership is not a legal entity separate and distinct from the partners.
+RatioOfTheDecision	Firm is only a compendious description of the individuals who compose the firm.
+RatioOfTheDecision	The crucial words in the definition of 'partnership' are these that have been underlined.
+RatioOfTheDecision	They hold the key to the question posed above.
+RatioOfTheDecision	They show that the business is carried on by all or any of the partners In the instant case, admittedly, all the plaintiff appellants are carrying on the business in partnership.
+RatioOfTheDecision	All the six partners are sharing the profits and losses.
+RatioOfTheDecision	All the six partners are jointly and severally responsible for the liabilities incurred or obligations incurred in the course of the business Each partner is considered an agent of the other.
+RatioOfTheDecision	This being the position, it; Is not possible to hold that each of the six partners is not carrying on a trade or calling within t he purview of Clause (b) of Section 61(1) of the Municipal Act.
+RatioOfTheDecision	At the most it can be said that each of these six persons in severally as well as collectively carrying on a trade in the Municipality.
+RatioOfTheDecision	There is nothing in the language of Section 61 or the scheme of the Municipal Act which warrants the construction that persons who are carrying on a trade in association or partner ship with each other cannot be individually taxed under Clause (b) of Section 61(1) .
+RatioOfTheDecision	On the contrary, definite indication is available in the language and the scheme of this statute that such partners can be taxed as persons in their individual capacity.
+RatioOfTheDecision	As noticed already, Clause (b) makes it clear in no uncertain terms that this is a tax on 'persons'.
+RatioOfTheDecision	Its incidence falls on individuals, who belong to a clase practising any profession or art; on carrying on a trade or calling in the municipality.
+RatioOfTheDecision	To hold that persons who are collectively carrying on a trade in the municipality cannot be taxed individually, could be to read into the s tatute words which are not there.
+RatioOfTheDecision	There are no words in Clause (b) or elsewhere in the statute which expressly or by necessary implication, exclude or exempt persons carrying on a trade collectively in the municipality from being taxed as individuals.
+RatioOfTheDecision	To attract liability to a tax under this clause, it is sufficient that the person concerned is carrying on a trade in the municipality, irrespective of whether such trade is being carried on by him individually or in partnership with others.
+RatioOfTheDecision	Thus, both the conditions necessary for levying a tax under Clause (b) of Sub-section (1) of Section 61 of the Municipal Act existed in this case.
+RatioOfTheDecision	The appellants are 'persons' and they are carrying on a trade in Chheharta Municipality.
+RatioOfTheDecision	18.
+RatioOfTheDecision	In the view we take, we do not think it necessary to go further into the question whether the definition of person' given in Section 2(40) of the Punjab General Clauses Act, can be imported into the statute under consideration so as to include a contractual firm, also, within the purview  of the expression "persons" used in Clause (b) of Section 61(1) .
+RatioOfTheDecision	Indeed, the entire effort to import the definition of 'person' given in the General Clauses Act , into Section 61(1)(b) of the Municipal Act is directed to find a foundation for the argument, that the construction adopted by <ORG> could lead to double taxation and even unconstitutional results.
+RatioOfTheDecision	But in the instant case, nothing of this kind has happened.
+RatioOfTheDecision	The firm has not been assessed.
+RatioOfTheDecision	No question of double taxation or exceeding the Constitutional ceiling of Rs.
+RatioOfTheDecision	250/- fixed by Article 276(2) of the Constitution, arises on the facts of the present case.
+RatioOfTheDecision	The arguments advanced on behalf of the appellants on this aspect of the matter are merely hypothetical, and speculative.
+RatioOfTheDecision	19.
+RatioOfTheDecision	This takes us to the second question, whether <ORG> had jurisdiction to hear and determine the suit.
+RatioOfTheDecision	20.
+RatioOfTheDecision	Section 84(1) of the Punjab Municipal Act provides that "an appeal against the assessment or levy of any tax under this Act, shall lie to the Deputy  Commissioner or to such other officer as may be empowered by <ORG> in this behalf".
+Statute	Then, there is a proviso to this sub section which says (hat when the Deputy Commissioner or such other officer, as aforesaid, is or was, when the tax was imposed, a member of the <ORG>, the appeal shall lie to the Commissioner of the Division.
+Statute	Sub-section (2) is important.
+Statute	It provides :  84(2).
+Statute	If, on the hearing of an appeal under the section, any question as to the liability to, or the principle of assessment of, a tax arises, on which the officer hearing the appeal entertains reasonable doubt.
+Statute	He may, either of his own motion or on the application of any person interested, draw up a statement of the facts of the case and the point on which doubt is entertained, and refer the statement with his own opinion on the point for the decision of <ORG>.
+Precedent	21.
+Precedent	Section 84 mandates that "to objection shall be taken to any valuation or assessment, nor shall the liability of any person to be assessed or taxed  be questioned, in any other manner or by any other authority than is provided in this Act."
+Precedent	22.
+Precedent	From a conjoint reading of Sections 84 and 86 , it is plain that the Municipal Act, gives a special and particular remedy for the person aggrieved by an assessment of tax under this Act, irrespective of whether the grievance relates to the rate or quantum of tax or the principle of assessment.
+Precedent	The Act further provides a particular forum and a specific mode of having this remedy which is analogous to that provided in Section 66(2) of the Indian Income tax Act, 1922 Section 86 forbids in clear terms the person aggrieved by an assessment from seeking his remedy in any other forum or in any other manner than that provided in the Municipal Act.
+Precedent	23.
+RatioOfTheDecision	It is well-recognised that there a Revenue Statute provides for a person aggrieved by an assessment thereunder, a particular remedy to be sought in a particular forum, in a particular way, it must be sought in a particular form in a particular way it must be sought in that  form and in that manner, and all other forums and modes of seeking it are excluded.
+RatioOfTheDecision	Construed in the light of this principle, it is clear that Sections 84 and 86 of the Municipal Act bar, by inevitable implication, the jurisdiction of <ORG> where the grievance of the party relates to an assessment or the principle of assessment: under this Act.
+RatioOfTheDecision	24.
+RatioOfTheDecision	In the view we take, we are fortified by the decision of this Court; in <CITATION_743342> , wherein Sections 84 and 86 of this very Punjab Municipal Act, 1911 came up for consideration.
+RatioOfTheDecision	There in, <ORG>, Ludhiana, imposed a terminal tax on Sambbar salt and assessed the appellant, therein, to a sum of Rs.
+Fact	5,893/ towards that tax at the rate of Rs.
+Fact	10/- per maund under item 69 of the Government Notification by which the terminal tax was imposed.
+Argument	The assessee filed a suit against <ORG> in <ORG>, contending that <NAME> ought to have been assessed at the rate of 3 pies per maund under item 68, that he had be en illegally assessed under item 69 at the: higher rate, and claimed refund of the amount paid by him, with interest.
+Argument	The <ORG>, inter alia, contended that Sambhar salt was not common salt, and <ORG> had no jurisdiction to entertain the suit.
+Precedent	The trial court held that Sambhar salt was not common salt within the meaning of item 68 of the schedule, that the imposition of tax on it under item 69 of the Schedule,, was illegal, and, therefore, <ORG> had jurisdiction to hear and determine the suit by virtue of Section 9 of the CPC.
+Precedent	25.
+Precedent	On appeal, <ORG> held that <ORG> has as jurisdiction, and dismissed the suit.
+Precedent	26.
+Precedent	The assessee came in appeal to this <ORG> by certificate granted by <ORG>, and contended that since the impugned levy was not made: under the Municipal Act but in derogation thereof, <ORG> had jurisdiction to entertain and determine the suit.
+Precedent	27.
+Precedent	Delivering the judgment of the <ORG>, <NAME>, J.
+Precedent	(as he then was) repelled this contention,  observing that the rate of the tax to be levied depends upon the character of the salt, and it was not possible to say that in.
+Precedent	ascertaining this fact that the authorities concerned travelled outside the pro vision of the Municipal Act, even if they wrongly applied item 69 of the schedule that the mistake in applying the wrong item of the Schedule to the tax: could be corrected only in the manner prescribed by the Act, and the aggrieved person cannot file a suit in <ORG> in that regard, <ORG>'s jurisdiction having been excluded by the provisions of Sections 84 and 86 of the: Act.
+Precedent	28.
+Precedent	The Court distinguished that class of cases where <ORG> in levying a tax or committing an Act, clearly acts outside or in abuse of its powers under the Municipal Act, and explained that it is only in such cases, the bar to the jurisdiction of <ORG> would not apply Can the case before us be said to belong to that class of cases where <ORG> in levying a Tax Act s b eyond or in abuse of its powers under the Act ?
+RatioOfTheDecision	The answer to this question must be in the negative.
+RatioOfTheDecision	By no stretch of imagination, can it be said in the facts and circumstances of the case, that in assessing the appellants, individually, and not collectively, to the tax in question, <ORG> abused its powers under the Act.
+RatioOfTheDecision	We have already discussed and held that in levying this tax, <ORG> did not travel beyond or act contrary to the provisions of Section 6(1)(b) of the Act.
+RatioOfTheDecision	In short, the present case is one where <ORG> acted "under the Act".
+RatioOfTheDecision	It follows, therefore, that <ORG> jurisdiction to entertain and decide the suit was barred even if the dispute raised therein related to the principle of assessment to be followed.
+RatioOfTheDecision	29.
+RulingByPresentCourt	For the foregoing reasons, the appeal fails and is dismissed with costs.

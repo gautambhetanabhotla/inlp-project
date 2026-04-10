@@ -1,0 +1,110 @@
+Fact	PETITIONER: COMMISSIONER OF WEALTH TAX, <NAME> Vs. RESPONDENT: <ORG>.
+Fact	DATE OF JUDGMENT: 05/10/1966 BENCH: <NAME>, VISHISHTHA BENCH: <NAME>, <NAME>, <NAME>, V. CITATION: 1967 AIR 509 1967 SCR (1) 761 CITATOR INFO : R 1967 SC1534 (7) RF 1971 SC2447 (1) ACT: Wealth Tax Act , s. 5(1) (xxi)-Exemiption--Criteria for period-"Set up" and "established", meaning-Question not raised before <ORG>, if could be raised in <ORG>.
+Fact	HEADNOTE: The respondent--Company was assessed to wealth-tax for the assessment year 1957-58 and the respondent claimed deduction of -an amount laid out for setting up a new unit.
+Fact	The licence for setting up the new unit was granted in 1955; the construction of the factory building was completed by December 1957; the erection of the machinery and plant was completed in several stages commencing from June 1957; the licence for working the factory was obtained in June 1958; and time given to complete the project also was extended by <NAME> rnment up to March 17, 1959.
+RulingByLowerCourt	The Wealth Tax Officer disallowed the claim on the ground that the unit was, set up prior to the date on which the Wealth Tax Act came into force, ie., April 1, 1957.
+RulingByLowerCourt	This order was upheld in appeals.
+Fact	But in reference, <ORG> answered the question in favour of the assessee, for, it proceeded on the basis that the unit was completed and became ready to go into business after the Act had come into force.
+Fact	HELD : The assessee was entitled to the claim as it satisfied the condition laid down in cl.
+Fact	(xxi) of s. 5(1) of the Act.
+Fact	The criterion for determining the period of exemption is based on the commencement of the operations for establishment of the unit.
+RatioOfTheDecision	These operations for establishment of the unit cannot be simultaneous with the setting up of the unit, but must precede the actual setting up of the unit.
+RatioOfTheDecision	[1764 G-H] The word "set up" in clause (xxi) of s. 5(1) of the Act, is equivalent to the word "established" but operations for establishment cannot be equated with the esta blishment of the unit itself or its setting up.
+RatioOfTheDecision	The applicability of the, proviso has, therefore, to be decided by finding -out when the company commenced operations for establishment of the unit, which operations must be antecedent to the actual date on which the company is held to have been set up for purposes of the principal clause.
+Fact	[1764 <CITATION_902937> , 26 I.T.R.
+Fact	151 referred to.
+RatioOfTheDecision	In the present case, the <ORG> proceeded on the basis that whatever be the exact date of commencement of the operations for establishment of <ORG> unit,, it was certainly before April 1, 1957 and that fact by itself is sufficient to entitle the assessee to claim the exemption.
+RatioOfTheDecision	The Commissioner cannot be allowed to raise a new question and ask this <ORG> to decide that the date of commencement of the operation for establishment of the unit by the respondent was different from that accepted by the <ORG>.
+Precedent	That question was not raised and dealt with by the <ORG>, [766 <CITATION_1396529> ., 42 I.T.R.
+Precedent	589 relied on.
+Precedent	<NAME> T:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Precedent	674 of 1965.
+Precedent	Ml 7 Sup.
+Fact	C. I/66 761 Appeal by special leave from the judgment and order dated March 14, 1962 of <ORG> in T. C. No.
+Fact	209 of 1959.
+Fact	<NAME> and <NAME>, for the appellant.
+Fact	<NAME>, and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <ORG>.
+Precedent	J.
+Fact	The respondent is a public limited company incorporated under the Indian Companies, Act, 1913 in the year 1939 and was carrying on the business of manufacture of absorbent cotton wool.
+Fact	In March 1955, <ORG> resolved to establish a new spinning unit under the name of <ORG> for which a licence was obtained from <ORG> under the Industries (Development and Regulation) Act , 1951 in August 1955.
+Fact	The respondent placed orders for purchase of necessary spinning machinery and plant in the months of January and February, 1956.
+Fact	The construction of factory buildings was taken in hand in March, 1956, and thes e constructions were completed by December, 1957.
+Fact	The erection of the spinning machinery and the plant in the buildings was completed in several stages commencing from June, 1957.
+Fact	A licence from <ORG> for working the factory was obtained in June, 1958.
+Fact	The statement of the case further mentioned that the time given to complete the project was extended by the <ORG> up to 17th March, 1959.
+Fact	The respondent was assessed to wealth tax for the assessment year 1957-58, and in that year the respondent claimed that, in computing the wealth on the valuation date which was 30th September, 1956, an amount of Rs.
+Fact	1,43,727 should be deducted as being the amount laid out in setting up this new unit.
+Fact	The Wealth Tax Officer disallowed the claim on the ground that the unit was set up prior to the date on which the Wealth Tax Act (hereinafter referred to as "the Act") came into force, i.e., 1st April 1957.
+Fact	On the same basis, the Appellate Assistant Commissioner and <ORG> uphe ld that order.
+Fact	Thereupon, at the request of the respondent, the following question of law was referred for opinion of <ORG>  "Whether the aforesaid asset of Rs.
+Fact	1,43,727 is exempt under section 5(1)(xxi) read with the second proviso thereunder of the Wealth-tax Act ?"
+Argument	<ORG> answered the question in favour of the respondent, and consequently, this appeal has been brought up to this Court by the Commissioner of Wealth Tax, Madras, by special leave.
+Statute	The question that fell for determination depended on the interpretation of section 5(1)(xxi) of the Act read with the second proviso to that clause which are reproduced below:  763  .lm15 "5(1)(xxi) that portion of the net wealth of a company established with the object of carrying on an industrial undertaking in India within the meaning of the Explanation to clause (d) of section 45 , as is employed by it in a new and separate unit set up after the commencement of this Act by way of substantial expansion of its undertaking:- Provided  that-  (a)  (b) Provided further that this exemption shall apply to any such company only for a period of five successive assessment years commencing with the assessment year next following the date on which the company commences operations for the establishment of such unit."
+RatioOfTheDecision	It has been urged before us by learned counsel for the Commissioner that the main provision of clause (xxi) should be interpreted in conjunction with the second proviso so as to give a harmonious construction to both parts of the provision with which we are concerned.
+RatioOfTheDecision	Relying on this principle, he urged that we should hold that a new and separate unit is set up only when the company commences operations for the establishment of such unit.
+RatioOfTheDecision	He relied on the principle stated by <NAME> in his book 'On Inter- pretation of Statutes' 11th Edn.
+RatioOfTheDecision	at P. 155 that there is no rule that the first or enacting part is to be construed without reference to the proviso.
+RatioOfTheDecision	"The proper course is to apply the broad general rule of construction, which is that  a section or enactment must be construed as a whole, each portion throwing light, if need be, on the rest."
+RatioOfTheDecision	"The true principle undoubtedly is that the sound interpretation and meaning of the statute, on a view of the enacting clause, saving clause, and proviso, taken and construed together is to prevail."
+RatioOfTheDecision	The view taken by <ORG> was challenged on the ground that <ORG> had interpreted the principal clause without giving full effect to the language of the proviso.
+RatioOfTheDecision	<ORG> held that unless a factory is erected and the plants and machinery installed therein, it cannot be said to have been set up.
+RatioOfTheDecision	The resolution of <ORG>, the orders placed for purchasing machinery, licence obtained from the Government for constructing the machinery, are merely initial stages towards setting up, however necessary and essential they may be to further the achievement of the end.
+RatioOfTheDecision	It is not, however, the actual functioning of the factory or its going into production that can alone be called  setting up of the factory.
+RatioOfTheDecision	The setting up is perhaps a stage anterior to the commencement of the factory.
+RatioOfTheDecision	Thereafter, <ORG> referred to a decision of <ORG> in <CITATION_902937> ,(') and on its basis, concluded that the proper meaning to be assigned to the expression "set up" in section 5(1)(xxi) would be "ready to commence business."
+RatioOfTheDecision	We are unable to agree with the learned counsel for the Commissioner that in arriving at this view, <ORG> committed any error.
+RatioOfTheDecision	A unit cannot be said to have been set up unless it is ready to discharge the function for which it is being set up.
+RatioOfTheDecision	It is only when the unit has been put into such a shape that it can start functioning as a business or a manufacturing Organisation that it can be said that the unit has been set up.
+RatioOfTheDecision	The expression used in the proviso, under which the period for which the exemption is available is to be deter- mined, is not the same as used in the principal clause.
+RatioOfTheDecision	In the proviso, the period of five successive years of exem ption has to commence with the assessment year next following the date on which the company commences operations for the establishment of the unit.
+RatioOfTheDecision	Operations for the establishment of a unit, from the very nature of that expression, can only signify steps that have to be taken to establish the unit.
+RatioOfTheDecision	The word "set up" in the principal clause, in our opinion, is equivalent to the word "established", but operations for establishment cannot be equated with the establishment of the unit itself or its setting up.
+RatioOfTheDecision	The applicability of the proviso has, therefore, to be decided by finding out when the company commenced operations for establishment of the unit, which operations must be antecedent to the actual date on which the company is held to have been set up for purposes of the principal clause.
+RatioOfTheDecision	This is also the meaning that <ORG> derived in the case of <ORG>(,) where that Court was concerned with the interpretation of the expression "set up" as used in section 2(l1)  of the Income-tax Act.
+RatioOfTheDecision	That <ORG> held: "It seems to us that the expression 'settling up' means, as is defined in <ORG>, 'to place on foot" or 'to establish', and is contradistinction to 'commence.'
+RatioOfTheDecision	The distinction is this that when a business is established and is ready to commence business, then it can be said of that business that it is set up.
+RatioOfTheDecision	But before it is ready to commence business it is not set tip."
+RatioOfTheDecision	This view was expressed when that <ORG> was considering the difference between the meaning of the expression "setting up a business" and " commencing of a business."
+RatioOfTheDecision	In the case before us, the proviso does not even refer to commencement of the unit..
+RatioOfTheDecision	The criterion for determining the period of exemption is based on the commencement of the operations for the establishment of the unit.
+RatioOfTheDecision	These operations for establishment of the unit cannot be simultaneous with the setting up of the unit, as urged on behalf of the Commis- sioner, but must precede the actual setting up of the unit.
+RatioOfTheDecision	I n fact, (1)26 I.T.R 15 1.
+RatioOfTheDecision	765  it is the operations for establishment of a unit which ultimately culminate in the setting up of the unit.
+RatioOfTheDecision	On this interpretation, it is clear that in this case, the claim put forward by the respondent for exemption has been rightly held to be allowable by <ORG>.
+RatioOfTheDecision	In the statement of the case and in its appellate judgment, the <ORG> did not specifically record any finding as to the date when the unit was ready to go into business and to start production.
+RatioOfTheDecision	In the appellate order, it was mentioned that according to the respondent, the unit was set up only when <ORG> issued a licence to the respondent for working the factory, which was in June, 1958.
+RatioOfTheDecision	In the, statement of the case, the facts recited show that the construction of the factory buildings was completed by December, 1957 and the erection of the spinning machinery and plant was completed in several stages commencing from June, 1957.
+RatioOfTheDecision	On these facts, <ORG>, and we consider rightly, pr oceeded on the basis that the unit was completed and became ready to go into business only after 1st April, 1957, when the Act had already come into force.
+RatioOfTheDecision	Consequently, the condition laid down in the principal clause of s. 5(1)(xxi) was satisfied, and the company became entitled to exemption in respect of the value of the assets used up in setting up this unit.
+Argument	Learned counsel for the Commissioner, however, challenged the right of the respondent to claim this exemption on another ground, viz., that the exemption was claimed in respect of money laid out in a period which was not covered by the period envisaged in the second proviso.
+Argument	It was urged that if it be held that the unit was set up after the Act had come into force on the 1 st April, 1957, it must also be held that the operations for the establishment of the unit had been commenced by the company almost simultaneously with the unit having been set up, and that date would, therefore, be a date subsequent to the assessment year 1957-58 in which year the  exemption was claimed.
+RatioOfTheDecision	This is a question which we do not think can be legitimately raised on behalf of the Commissioner at this stage.
+RatioOfTheDecision	The only contention before the Tribunal on behalf of the Commissioner was that the operations for the establishment of the unit had been commenced by the respondent before the Act came into force, and that it should be held that the unit was also set ;up at the same time when those operations were commenced.
+RatioOfTheDecision	There was no contention at any stage that the operations for the establishment of the unit were commenced at a subsequent stage.
+RatioOfTheDecision	In fact, it was only for the purpose of urging that the principal clause was not applicable to the case of the respondent that the position was taken up on behalf of the Commissioner that the operations for establishment of the unit had been commenced before 1st April, 1957, and the unit must be held to have been set up at the same time when those operations were commenced.
+RatioOfTheDecision	That submission, as we have indicated above, has no force.
+RatioOfTheDecision	In any case , the judgments passed by all the Wealth-tax Authorities show that it was at no stage in dispute that the operations for establishment of the unit had been commenced by the respondent prior to 1 st April, 1957.
+RatioOfTheDecision	Para 5 of the statement of the case mentions that the the wealth-tax officer disallowed the claim on the ground that unit was set up prior to 1st April, 1957.
+RatioOfTheDecision	The Appellate Assistant Commissioner also in his judgment said: "In this view of the matter, the appellant set up the undertaking even prior to 1st April, 1957 as operations were carried out prior to that date for the establishment of the undertaking.
+RatioOfTheDecision	The operations consisted of the seeking of permission from the Government to install the unit, and placing of orders with manufacturers of machinery and advancing of moneys towards the purchase of machinery."
+RatioOfTheDecision	The <ORG> also disallowed the claim on the basis that the respondent commenced operations for setting up the unit earlier than 1st April, 1957.
+RatioOfTheDecision	It does not appear to be necessary for us to e xpress any opinion as to the particular stage at which it can be said that a company commences operations for the establishment of a unit.
+RatioOfTheDecision	In the present case, the <ORG> proceeded on the basis that, whatever be the exact date of commencement of the operations for establishment of this unit by the respondent, it was certainly before 1st April, 1957; and we consider that that fact, by itself, is sufficient to entitle the respondent to claim the exemption.
+RatioOfTheDecision	The Commissioner cannot, at this stage, be allowed to raise a new question and ask this Court to decide that the date of commencement of the operations for establishment of the unit by the respondent was different from that accepted by the <ORG>.
+RatioOfTheDecision	That question was not raised and dealt with by the <ORG>.
+RatioOfTheDecision	It is not even a question that might have been raised before the <ORG> and the <ORG> might have failed to deal with, nor is it a question which may not have been raised before the <ORG> and, yet, was dealt with by it.
+RatioOfTheDecision	On the principle laid dow n by this Court in <CITATION_1396529> .,(') such a question could not be canvassed before <ORG> and cannot be allowed to- be raised in this Court.
+RatioOfTheDecision	The question referred to <ORG> had to be answered on the basis that the respondent did commence operations for establishing this unit before 1st April, 1957; and the further finding of fact recorded by the <ORG> is that a sum of Rs.
+RatioOfTheDecision	1,43,727/- had been invested in setting up the unit by 30th September, 1956, which was the valuation date for the assessment year 1957-58.
+Precedent	The very first assessment year after the commencement of the operations for establishment of the unit was this assessment year 1957-58, In the Wealth Tax Act , assessment (1)  1 S.C.R 788:42 I.T.R.
+Precedent	589.
+Statute	767  year has been defined to mean the year for which tax is chargeable under s. 3 of that Act.
+Statute	Since the Act came into force on the 1st April, 1957, the financial year 1957-58 was the first assessment year for which tax became chargeable, and consequently, for purposes of the se cond proviso to section 5(1)(xxi) , the assessment year following the commencement of operations for establishment of the unit in the case of any company which commenced the operations any time before the 1st April, 1957, will be the assessment year 1957-58.
+Statute	Prior to the year 1957-58, there was no assessment year as defined under the Act, and consequently, the first assessment year for which exemption could be claimed was this assessment year 1957-58.
+RatioOfTheDecision	The respondent which had commenced operations for establishment of its new unit prior to 1st April, 1957, was rightly allowed exemption in respect of the amount that had been invested by it upto the relevant valuation date.
+RatioOfTheDecision	The answer returned by <ORG> was, therefore, correct.
+RulingByPresentCourt	The appeal fails and is <ORG> dismissed.
+RulingByPresentCourt	dismissed with costs.
+RulingByPresentCourt	Y.P.
+RulingByPresentCourt	768

@@ -1,0 +1,11 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+RulingByLowerCourt	Their Lordships are of opinion that in this case the decision of <ORG> cannot be supported.
+RulingByLowerCourt	There is, in their Lordships' view, an absolute gift of the <NAME> ship to the son <NAME> on his attaining majority and it is not cut down, as far as they can see, by anything that follows.
+RulingByLowerCourt	There are provisions in the case of his death as a minor, but no provision cutting down the absolute gift to him.
+Fact	The Words are : " My present begotten son <NAME> : Will be skebait for the performance of those ceremonies."
+RulingByPresentCourt	2.
+RulingByPresentCourt	Their Lordships will, therefore, humbly advise His Majesty .
+RulingByPresentCourt	that the appeal ought to be allowed, and the judgment of the Subordinate Judge restored.
+Argument	3.
+RulingByPresentCourt	There will be no order as to the costs incurred in <ORG>, except that any costs paid under the order appealed from must be returned, and there will be no costs Of this appeal.

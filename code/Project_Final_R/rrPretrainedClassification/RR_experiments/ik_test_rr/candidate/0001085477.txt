@@ -1,0 +1,90 @@
+Fact	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	The question referred by <ORG>, Bangalore Bench, for the opinion of this court, at the instance of the assessee is this:  "Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that in computing the actual cost for the purpose of calculating development rebate under Section 33 no upward adjustment of Rs.
+Argument	2,64,24,737 which the assessee had to bear as a result of devaluation of the rupee should be made ?"
+Argument	2.
+Fact	The assessee, a resident shipping company, returned a loss of Rs.
+Fact	13,31,088 for the assessment year 1967-68, claiming a development rebate of Rs.
+Fact	7,32,79,891 at the rate of 40 per cent.
+Argument	on the cost of two ships after taking into account the effect of devaluation of the rupee on June 6, 1966.
+Argument	The <ORG> allowed development rebate to the extent of only Rs.
+Argument	5,71,94,305 which alone, according to him, represented the development rebate on the actual cost of the imported ships on the ground that while Section 43A(1) of  the I.T.
+Argument	Act provides for extra depreciation allowance on account of the effect of devaluation, there is no provision in the Act for allowing development rebate on the increased liability arising out of devaluation, and Section 43A(2) expressly forbids such a provision.
+Argument	The <ORG> decided to allow the development rebate of Rs.
+Fact	5,71,94,305 in the year in which a reserve is created in view of the fact that in the year in question there was a loss.
+Fact	3.
+Fact	On the assessee's appeal to the <ORG>, it was found that the ships in respect of which development rebate was claimed by the assessee had been purchased from a foreign country on January 25, 1966, and April 21, 1966, during the accounting year ending December 31, 1966.
+Precedent	The original rupee cost of these two ships "Chennai Penimai" and "Chennai Ookkam" was Rs.
+Precedent	2,88,65,083 and Rs.
+Precedent	2,87,40,787, respectively.
+Precedent	Due to devaluation of the rupee on June 6, 1966, the revised rupee cost of the ships came to Rs.
+Precedent	4,21,17,856 and Rs.
+Precedent	4,19,12,751.
+Precedent	The <ORG> was of the view that Section 4 3A(1) applies where as a result of the change in the exchange rate there is an increase or reduction in the liability of the assessee in terms of the rupee to pay the price of any asset in foreign currency or to repay monies borrowed in foreign currency specially for the purpose of acquiring the asset, and that the section does not apply unless, (i) the asset is acquired, and (ii) the liability existed before the change in the exchange rate took effect, that Section 43A(1) restricts the allowance to depreciation, etc., and does not refer to Section 33 dealing with development rebate and that Sub-section (2) of Section 43A specifically excludes development rebate being allowed under Section 33 in cases where the cost of the assets has increased due to devaluation.
+Argument	The submission made on behalf of the assessee before the <ORG> was that even, apart from Section 43A , on general principles, extra liability incurred in respect of the capital assets has to be added to the cost of the assets.
+Argument	The <ORG> relied upon the d ecision in <CITATION_500094>  24 ITR 566 ( <CITATION_564491>  45 ITR 602 (Mad) and declined to accept the submission on the ground that general principles cannot be applied where special provisions are applicable.
+Fact	The agreement dated August 6, 1964, between the foreign ship building yard which built the two ships and the assessee provided for payment of 15 per cent.
+Fact	of the cost of the ships on the signing of the agreement and the balance of 85 per cent.
+RulingByLowerCourt	in equal half-yearly instalments, the first of them commencing six months after the delivery of the ships, and also for the ship building yard having a right to negotiate with a first class German bank and/or banking syndicate to have credit for the 85 per cent, extended to it subject to the approval of the purchaser of the ships.
+RulingByLowerCourt	In accordance with that clause in that agreement a loan agreement was entered into between the assessee and the consortium of <ORG>t German banks with whom the ship building yard had entered into an agreement, and the consortium of <ORG> t German banks disbursed the 85 per cent, of the cost of the two ships amounting to DM 94,095,000 to the ship building yard on January 25, 1966, and April 21, 1966, before the devaluation of the rupee took place.
+RulingByLowerCourt	The <ORG> was, therefore, of the view that what remained at the time of the devalution was only the liability of the assessee to discharge its debt due to the consortium of West German banks and not any portion of the price of the ships and that the increased liability due to devaluation of the rupee cannot be added to the original cost of the ships for the purpose of claiming development rebate.
+RulingByLowerCourt	In that view, the <ORG> dismissed the assessee's appeal.
+RulingByLowerCourt	4.
+Fact	In the assessee's further appeal to the <ORG> it was found that the assessee's system of accounting is mercantile.
+Fact	The cost of the fleet of ships of the assessee referable to the payment up to December 31, 1965, was shown in the balance-sheet of the assessee-company as on December 31, 1965, as Rs.
+Fact	2,76,71,863.
+Fact	But in the balance-sheet as at December  31, 1966, the additions to the fleet were shown as Rs.
+Fact	18,31,99,728 on the ground that due to the devaluation of the rupee the assessee's liability to the consortium of the West German banks for the ships acquired before the date of devaluation had gone up by Rs.
+Fact	3,92,16,681 and that the additional liability had been included as addition to the cost of the fleet.
+RulingByLowerCourt	The <ORG> held that the increased liability to the consortium of the West German banks due to devaluation of the rupee, which took place after the two vessels had been acquired by the assessee, cannot be considered to be indirect expenditure laid out for the purpose of acquiring the assets and that though the actual cost of the ships would include the excess payable due to the devaluation of the rupee, there is a specific prohibition in Section 43A(2) of the Act against adopting the adjusted actual cost due to the devaluation for the purpose of development rebate allowable under Section 33 of the Act, and accordingly dismissed the appeal.
+RulingByLowerCourt	5.
+RulingByLowerCourt	The  facts established are that 15 per cent.
+RulingByLowerCourt	of the total cost of the two ships had been paid by the assessee to <ORG> by the date of signing the agreement entered into between <ORG> and the assessee on 6th August, 1964, and credit for the balance of 85 per cent.
+RulingByLowerCourt	had been given to the ship building yard by the consortium of West German banks with whom the ship building yard had entered into an arrangement in pursuance of the arrangement entered into for that purpose between the assessee and the consortium of West German banks.
+RulingByLowerCourt	The payment of the entire cost of the two ships to the ship building yard had been completed on January 25, 1966, and April 21, 1966, and the ships had been acquired before the devaluation of the rupee took place on June 6, 1966.
+RulingByLowerCourt	The additional liability as a result of the devaluation had accrued to the assessee which had to discharge its debt to the consortium of West German banks incurred before the date of the devaluation for the purpose  of acquiring the ships.
+Fact	It was conceded by the learned counsel for the revenue that on general principles the additional liability arising out of the devaluation of the rupee would become part of the cost of the ships as it had been done by the assessee in revising the cost of the fleet in the balance-sheet as at December 31, 1966, as Rs.
+Fact	18,31,99,728 while it had been shewn in the balance-sheet as at December 31, 1965, as Rs.
+Fact	2,76,71,863 as being due to the devaluation of the rupee and the consequent increase in the assessee's liability to the consortium of West German banks incurred for the acquisition of the ships before the date of the devaluation of the rupee.
+Argument	6.
+Precedent	Our attention was drawn to the decision of a Bench of this court in Addl.
+RatioOfTheDecision	<CITATION_1205917> .
+RatioOfTheDecision	109 ITR 646 (Mad), where the assessee's claim for development rebate was based on the fact that the actual cost of the machinery had increased by Rs.
+RatioOfTheDecision	48,342 consequent on the increase in the rate of exchange on the devaluation of the rupee, as the ma chinery was acquired before the date of the devaluation.
+Argument	The learned judges have observed that the effect of Sub-section (2) of Section 43A is to exclude the applicability of Section 43A(1) and, therefore, for the purpose of computing the actual cost of an asset for the purpose of deduction on account of development rebate under Section 33 the only statutory provision relevant is Section 43A(1) , defining the expression "actual cost".
+Argument	The learned judges upheld the assessee's right to development rebate on the actual cost as defined in Section 43A(1) which admittedly included the sum of Rs.
+Argument	48,342.
+Argument	That decision will not apply to the facts of the present case for, in that case, the actual cost of the machinery had increased due to the devaluation of the rupee even before the date of the acquisition, unlike the present case.
+Argument	The learned counsel for the assessee invited our attention to the decision of a Bench of <ORG> in I.T.
+Argument	Ref.
+Argument	No.
+Precedent	30 of 1975 [ <CITATION_1207302> --since reported in  112 ITR  64], where the question was whether the additional liability which the assessee incurred on account of the devaluation of the rupee in the midst of the relevant previous year in.
+Precedent	relation to the repayment of the loan which it had borrowed for acquiring the imported machinery during the said year constituted an element in the actual cost of such machinery to the assessee for the purpose of allowing development rebate under Section 33 .
+Precedent	The learned judges answered that question in favour of the assessee.
+Precedent	This decision also will not apply to the facts of the present case for, in that case, the increased liability on account of devaluation was within the contemplation of the parties as an integral part of the original transaction and it was held by the learned judges that the assessee must be held to have incurred such liability in respect of each instalment, no sooner it started drawing upon the loan account, since the assessee maintained its accounts according to the mercantile system.
+Precedent	The learned judges have  observed in their judgment (pp.
+Precedent	84, 85) that cases like the one before them:  "where the increased liability is in fact incurred prior to acquisition of the asset and it, therefore, becomes part of the cost of acquisition in its ordinary signification, are not within the ambit of the said section.
+Precedent	The said section may be attracted in cases such as, for example, when an assessee maintains his accounts on cash receipt basis and the increased liability in respect of repayment of instalments of purchase price or loan accrues or arises for the first time after the acquisition and installation of the asset."
+Statute	7.
+Statute	Section 33(1)(a) provides that in respect of a new ship which is owned by the assessee and is wholly used for the purposes of the business carried on by him, there shall, in accordance with and subject to the provisions of this section and of Section 34 , be allowed a deduction in respect of the previous year in which the ship was acquired, a sum by way of development rebate as specified in Clause (b).
+Statute	Acco rding to Clause (b), in the case of a ship, the develop ment rebate shall be forty per cent, of the actual cost thereof to the assessee.
+Statute	According to Section 43 , in Sections 28 to 41 and in that section, "actual cost" means the actual cost of the assets to the assessee reduced by that portion of the cost thereof, if any, as has been met directly or indirectly by any other person or authority.
+Statute	Section 43A(1) lays down that:  "Notwithstanding anything contained in any other provision of this Act, where an assessee has acquired any asset from a country outside India for the purposes of his business or profession and, in consequence of a change in the rate of exchange at any time after the acquisition of such asset, there is an increase or reduction in the liability of the assessee as expressed in Indian currency for making payment towards the whole or a part of the cost of the asset or for repayment of the whole or a part of the moneys borrowed by him from any person, directly or indirectly, in any foreign curr ency specifically for the purpose of acquiring the asset (being in either case the liability existing immediately before the date on which the change in the rate of exchange takes effect), the amount by which the liability aforesaid is so increased or reduced during the previous year shall be added to, or, as the case may be, deducted from, the actual cost of the asset as defined in Clause (1) of section 43 or the amount of expenditure of a capital nature referred to in Clause (iv) of Sub-section (1) of section 35 or in Section 35A or in Clause (ix) of Sub-section (1) of Section 36 or, in the case of a capital asset (not being a capital asset referred to in Section 50 ), the cost of acquisition thereof for the purposes of Section 48 , and the amount arrived at after such addition or deduction shall be taken to be the actual cost of the asset or the amount of expenditure of a capital nature or, as the case may be, the cost of acquisition of the capital asset as aforesaid."
+Statute	The Sub-section restricts the effect  of devaluation to, (1) the expenditure of a capital nature on scientific research related to the business carried on by the assessee covered by Section 35(1)(iv) ; (2) expenditure on acquisition of patent rights or copyrights covered by Section 35A ; (3) expenditure bona fide incurred by a company for the purpose of promoting family planning amongst its employees covered by Section 36(1)(ix) ; and (4) capital asset (not being a capital asset referred to in Section 50 ) the cost of acquisition thereof for the purpose of Section 48 .
+Statute	Section 50 deals with a capital asset in respect of which a deduction on account of depreciation has been obtained by the assessce in any previous year either under the I.T.
+RatioOfTheDecision	Act , 1961, or the Indian I. T. Act, 1922, or under executive orders issued when the I.T.
+RatioOfTheDecision	Act (II of 1886) was in force.
+RatioOfTheDecision	Section 48 relates to the mode of computation of income chargeable under the head "Capital gains".
+RatioOfTheDecision	But Section 43A(2) speci fically lays down that:  .
+RatioOfTheDecision	"The provisions of Sub-section (1) shall  not be taken into account in computing the actual cost of an asset for the purpose of the deduction on.
+RatioOfTheDecision	account of development rebate under Section 33 ."
+RatioOfTheDecision	Therefore, it is clear that the legislature has clearly intended not to take the variation in the cost of acquisition of an asset arising out of the.
+RatioOfTheDecision	devaluation of the rupee for the purpose of granting development rebate under Section 33 of the Act.
+RatioOfTheDecision	In these circumstances, we are of the opinion that the general principles, according to which the increase in the cost of the asset arising out of devaluation of the rupee must be treated as part of the cost of the asset, cannot be applied for the purpose of granting develop- ment rebate under Section 33 of the Act in view of the definite provision against it in Section 43A(2) of the Act, referred to above. "
+RatioOfTheDecision	Accordingly, we hold that the <ORG> was right in holding that in computing the actual cost for the purpose of calculating development rebate under Section 33 no upward adjustment of Rs.
+Fact	2,64,24,737, w hich the assessee had to bear as a result of the devaluation of the rupee, should be made and answer the question in the affirmative and against the assessee and in favour of the revenue.
+Fact	The assessee will pay the costs of the revenue.
+Precedent	Advocate's fee Rs.
+Precedent	250.
+Precedent	8.
+RulingByPresentCourt	A copy of this judgment under the signature of the Registrar and the seal of this court shall be forwarded to <ORG> concerned.

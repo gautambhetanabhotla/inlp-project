@@ -1,0 +1,697 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: SUB-DIVISIONAL MAGISTRATE, <NAME> & <NAME>.
+Fact	DATE OF JUDGMENT: 28/10/1970 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, I.D.
+RulingByLowerCourt	CITATION: 1971 AIR 2486 1971 SCR (2) 711 ACT: Code of Criminal Procedure (5 of 1898), s. 144 and Chapter VIII-If violative of Art 19 of Constitution.
+RulingByLowerCourt	HEADNOTE: On the questions: (1) Whether s. 144 and, (2) Ch.
+RulingByLowerCourt	VIII of the Criminal Procedure Code , 1898, violated Art.
+RulingByLowerCourt	19(a ), (b ), (c) and (d) of the Constitution, HELD (By Full Court) : 1(a) Article 19(2) of the Constitution, which was substituted with retrospective effect by the Constitution (First Amendment) Act, 1951, must be held to have been in force from 26th January 1950.
+RatioOfTheDecision	[719 B] (b) The fiction in the amendment is to make the Constitution be read with the new clause and no other, and a law restricting the freedom in the interests of public order (among others , or in the interest of the general publi c, must be held to be saved, not as the result of the amendment but because of these available restrictions operating from the inception of the Constitution, that is, from January 26, 1950.
+RatioOfTheDecision	Whatever may be said of a law declared unconstitutional before the first Amendment, cannot be said of a law which is being considered today after the First Amendment.
+RatioOfTheDecision	[718 G-H; 719 A] (c) In this Court the doctrine of 'preferred position' for fundamental rights has never found ground.
+RatioOfTheDecision	All existing laws are continued till this 'Court declares them to be in conflict with a fundamental right and, the burden is on the person who contends that a particular law has become void after the coming into force of the Constitution by reason of Art.
+RatioOfTheDecision	13(1) read with any of the guaranteed freedoms.
+RatioOfTheDecision	The burden is not on the <ORG> to prove the reasonableness of the restriction.
+Precedent	[721 C-G] (d) The expression 'in the interest of public order, in Art.
+Precedent	19(2) of the Constitution is wider than 'maintenance of public order', because, a law may not h ave been designed to directly maintain public order and yet it may have been enacted in the interest of, public order; and 'public order, is capable of taking within itself not only the absence of those acts which disturb the security of the <ORG> or the absence of insurrection, riot, turbulence or crimes of violence, but also absence of certain acts, which disturb public tranquility or are breaches of peace.
+Precedent	it will not however take in any of the acts which disturb only the seniority of others.
+Precedent	[722-A-B; 124 E-H] <NAME> v. <ORG> of U.P.
+Precedent	S.C.R.
+Precedent	860, <CITATION_1475436> ,  S.C.R.
+Precedent	308 and <CITATION_1733535> ,  1 S.C.R.
+Precedent	709, followed.
+Precedent	<CITATION_1386353> ,  2 S.C.R.
+Precedent	821, referred to.
+Precedent	(e) The area of detention by a Magistrate under the Code of Criminal Procedure and the area under the laws relating to preventive detention are entirely different.
+Precedent	In the case of prevention detention of persons without 712 trial on the subjective determination of the executive this <ORG> has confined the meaning of the expres sion 'maintenance of public order' to graver ,episodes.
+Precedent	But that consideration need not always apply because local dis- turbances of the even tempo of life also affect 'public order' in the sense of a state of law abidingness vis-a-vis the safety of others.
+Precedent	[725 E-G; 726 A-B] (f) The gist of action under s. 144 is the urgency of the situation and its efficacy in the likelihood of being able to prevent some harmful consequences.
+Precedent	It is not an ordinary power.
+Precedent	flowing from administration but a power used in a judicial manner and which can stand 'further judicial scrutiny.
+Precedent	As it is possible to act under the section absolutely and even ex-parte the emergency must be sudden, and the consequences sufficiently grave.
+Precedent	Therefore, the matter falls within the restrictions which the Constitution itself visualises as permissible in the interest of public order or in the interest of general public.
+Precedent	[727 D-F; 728 A- B] (g) Ordinarily the order would 'be directed against a person found acting or likely to act in a particular,  way.
+Precedent	But the effect of the order being in the interest of public order and in the interests of general public, occasions may arise when it is not possible to distinguish between those whose conduct must be controlled and those whose conduct is clear.
+Precedent	A general order may be necessary when the number of persons is so large that the distinction between them and the general public cannot be made.
+Precedent	A general order is thus justified, but if the action is too general, the order may be questioned by appropriate reinedies for which there is ample provision in law.
+Precedent	A person affected by the order can ask the order to be vacated as against him, he can file a revision and even a petition for issue of a writ.
+Precedent	The restraint is temporary, the power is exercised by senior Magistrates who have to make a judicial enquiry and give reasons for the order with an opportunity to an aggrieved person to have it rescinded either by the Magistrate or by superior courts.
+Precedent	Therefore, the section is not unconstitutional if properly applied a nd the fact it may be abused is no ground for striking it down.
+Precedent	If it is abused, the remedy is to question the exercise of the power as being outside the grant of law.
+Precedent	[728 F-H; 729 <CITATION_749305> ,  3 S.C.R.
+Precedent	423 and <CITATION_1957417> ,  3 S.C.R.
+Precedent	423, referred to.
+Precedent	2(a) (Per <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, <NAME>.)
+Precedent	Both ss.
+Precedent	106 and 107 in Ch.
+RatioOfTheDecision	VIII of the Code, are counter parts of the same policy, the first applying when by 'reason of the conviction of the person, his past conduct leads to an apprehension for the future and the second applying where the Magistrate, on information, is of the opinion that unless prevented from so acting, a person is likely to act to the detriment of public peace and public tranquility.
+RatioOfTheDecision	Section 107 enables certain specified class es of Magistrates to make an order calling upon a person to show cause why he should not be ordered to execute a bond with or without sureties for keeping the peace for such period not exceeding one year as the Magistrate t hinks fit to fix.
+RatioOfTheDecision	The condition for taking action is that the Magistrate is informed and he is of the opinion that there is sufficient ground for proceeding that a person is likely to commit a breach of peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of peace or disturb the public tranquillity.
+RatioOfTheDecision	The section is aimed at persons who cause a reasonable apprehension of conduct likely to lead to a breach of the peace or disturbance to the public tranquillity.
+RatioOfTheDecision	[729 H; 730 A-B, F-G] The procedure for taking action is set out in the remaining sections of the <ORG>.
+RatioOfTheDecision	The gist of the <ORG> is the prevention of crimes and ,disturbances of public tranquillity and breaches of the peace.
+RatioOfTheDecision	The action 713 being preventive is not based on overt acts but on the potential danger to be averted.
+RatioOfTheDecision	But the provision is not a law for detention contemplated by Art.
+RatioOfTheDecision	22.
+RatioOfTheDecision	Primarily, the provisions enable the Magistrate to require the execution of a bond and not to detain a person.
+RatioOfTheDecision	D etention results only on default of the execution of a bond.
+RatioOfTheDecision	The person sought to be bound over has rights which the trial of a summons case confers on an accused.
+RatioOfTheDecision	The law requires the Magistrate to state his reasons and the order is capable of being questioned in superior courts.- These provisions are thus essentially conceived in the interest of public order and in the interest of the general public.
+RatioOfTheDecision	If the prevention of crimes and breach of peace and disturbance of public tranquillity are directed to the maintenance of the even tempo of community life they are in the interest of public order, and there is nothing contrary to Art.
+RatioOfTheDecision	19(1 ), (a ), (b ), (c) and (d ), because, the limits of the restrictions are well within cls.
+Precedent	(2), (3), (4) and (5) of the Article.
+Precedent	Therefore, the Chapter is constitutionally valid.
+Precedent	[729 G; 734 D-H; 735 H; 736 A-C] (b) Section 117(3) enables the Magistraite to ask for an interim bond pending the completion of inquiry by him.
+Precedent	Section 117(1) and (2) require the Magistrate to inquir e into the truth of the information that the person brought before him is likely to commit a breach of the peace or disturb the tranquillity.
+Precedent	Hence, the Magistrate must proceed to inquire into the truth of the information and it is only after Prima facie satisfying himself about the truth of the information and after recording his reasons in writing can the interim bond be asked for.
+Precedent	Therefore, it is not open to a Magistrate to adjourn the case without' entering upon an enquiry and in the interval send the person to jail if he fails to furnish a bond.
+Precedent	[732 H; 734 r)-F] As the liberty of a person is involved and that person is being proceeded against on information and suspicion, it is necessary to put a strict construction upon the powers of the Magistrate.
+Precedent	It would make the Magistrates action administrative if he were to pass an order for an interim bond without entering upon the inquiry and at least prima facie enquiry into the truth of the information on which the order calling upon the person to show caus e is based.
+Precedent	[733 G; 735 A-B] In re,: <NAME>, I.L.R.
+Precedent	Mad.
+Precedent	335 (F.B.
+Precedent	), In re : <NAME>, A.I.R.
+Precedent	1955 A.P.
+Precedent	96; <CITATION_1764148> , A.I.R.
+Precedent	1957 Pat.
+Precedent	106; <NAME> v. <ORG>, A.I.R.
+Precedent	1952 <ORG> 262, <CITATION_632592> ., A.I.R.
+Precedent	1957 All.
+Precedent	189, <CITATION_1664033> , A.I.R.
+Precedent	1960 Punj.
+Precedent	225; <CITATION_599701> , A.I.R.
+Precedent	1960 Mys.
+Precedent	259 and <NAME> v. <ORG>, I.L.R.
+Precedent	Bom.
+Precedent	385, approved.
+Precedent	<CITATION_837238> .
+Precedent	A.I.R.
+Precedent	1942 Sind 86, <CITATION_926235> , A.I.R.
+Precedent	1953 Cal.
+Precedent	238, <CITATION_1521345> , A.I.R.
+Precedent	1959 J.
+Precedent	& K. 125 and <ORG> v. Bherulal A.I.R.
+Precedent	1958 Raj.
+Precedent	349, overruled.
+Precedent	(c) There is no room for invocation of ss.
+Precedent	55 or 91 of the Code of Criminal Procedure in considering the effect of Chapter VII.
+Precedent	[736 D] <ORG> v. <ORG> of U.P.
+Precedent	A.I.R.
+Precedent	1958 All.
+Precedent	578, overruled.
+Precedent	(d) Bail is only for continued appearance of a person and not to prevent him from committing certain acts.
+Argument	To release a person being proceeded against under ss.
+Argument	107 / 112 of the Code is to frustrate the very purpose of the pro ceedings unless his good behavior is ensured by taking a bond in that behalf.
+Argument	[736 F-G] 714 Per <NAME>, J. : (a) Under s. 107 the Magistrate takes action when he is informed that any person is likely to commit a breach of peace or disturb the public tranquillity only after forming an opinion that there is sufficient ground for proceeding against him.
+Argument	He cannot start proceed- ings merely on information.
+RatioOfTheDecision	The Magistrate can form his opinion on the basis of the information supplied to him if he finds that the information given is in sufficient detail and reliable enough.
+RatioOfTheDecision	If the information is, not sufficient, it will be his duty to hold further inquiry and satisfy himself that it is a fit case where action should be taken because sufficient grounds exist.
+RatioOfTheDecision	It is after the Magistrate has taken these steps that he can proceed to make the order under s. 112 .
+RatioOfTheDecision	When making that order he has to record in it in writing the substance of the information received which necessarily means the part of the information which w as the basis.of his opinion that sufficient grounds exist for initiating the proceedings.
+RatioOfTheDecision	It is at this preliminary stage that the Magistrate is thus required to ensure that a prima facie case does exist for the purpose of initiating proceedings against the person who is to be called upon to furnish security for keeping the peace.
+RatioOfTheDecision	[737 C-H] After the order under s. 112 has been issued the procedure under ss.
+Argument	113 and 114 has to be followed.
+Argument	The proceedings to be taken thereafter are laid down in s. 117(1) which requires that as soon as the order under s. 112 has been read or explained to the person in court under s. 113 or to the person who is brought before the Magistrate under s. 114 , the Magistrate has to proceed to inquire into the truth of the information upon which the action has been taken and to take further evidence as may be necessary.
+Argument	This inquiry has to be held in the manner prescribed for trial of summons cases.
+Argument	Thus, s. 117(1) contains a mandatory direction to the Magistrate to start proceedings  of inquiry as soon as the person in respect of whom the order under s. 112 has been made appears before him.
+Argument	This provision cannot, however, be interpreted as requiring that the inquiry must begin immediately when the person appears in court, because, it is impracticable to do so.
+Argument	It is uncertain as to when a person will appear in court and the <ORG> could not have contemplated that in such contingencies witnesses must be kept in readiness in the court awaiting the appearance of the person concerned.
+Argument	Further, since the result of the inquiry may be that the person concerned has to execute a bond, with the risk of losing his liberty if he defaults, he is entitled to be represented by a lawyer and be can legitimately ask for a reasonable adjournment to enable him to engage a lawyer.
+Argument	Therefore, the proper interpretation of s. 117(1) is that the inquiry must begin as soon as it is practicable, and the Magistrate would be committing breach of the direction contained in this sub-section if he postpones the in quiry without sufficient reasons.
+Argument	In such a situation, the Magistrate can direct the person in respect of whom the order under s. 112 has been made to execute a bond pending completion of the inquiry under s. 117(1) .
+Argument	[738 A-B, C-D, E-H; 738 A-C] (b) This power under s. 117(3) is usually invoked in emergent cases where the Magistrate has at an earlier stage, issued the warrant under s. 144 , where breach of peace cannot be prevented otherwise than by immediate arrest.
+Argument	The <ORG>, having empowered a Magistrate to issue a warrant of arrest, naturally proceeded further to give him power in such cases to direct that bond for keeping peace be furnished pending completion of the inquiry.
+Precedent	The expression 'completion of the inquiry must be interpreted as the period covered from the beginning of the inquiry until its conclusion.
+Precedent	Such a power is obviously necessary where there, is immediate danger of breach of the peace and immediate measures are necessary for its prevention.
+Precedent	When the inquiry is held the correctnes s of the information and the tentative opinion formed ex parte under s. 107 will be 715 properly tested after going through the judicial procedure prescribed, and, if it is found that there was no justification, the order would be revoked.
+Precedent	Therefore, the grant of the power to the Magistrate is a reasonable restriction on the personal liberty of a citizen.
+Precedent	It is needed for prevention of crimes and it can only be effective if its exercise is permitted on the basis of opinion formed by a competent authority that immediate measures are required.
+Precedent	[739 G-H; 740 A-D] (c) A person may be detained in jail even prior to a court arriving at a judicial finding, but such a procedure is not only reasonable but essential.
+Precedent	The power is similar to that given to a Magistrate to order the detention, as an undertrial prisoner, of a person accused of a cognizable offence even though, in law, he is deemed to be innocent.
+Precedent	[740 E-F] (d) Further, the validity of the provision should not be judged from the likelihood of the abuse of t he power by the Magistrate.
+Precedent	If the hearing is unnecessarily delayed while keeping the person in detention, the proceedings are liable to be quashed on the ground that the Magistrate has not complied with the requirements of s. 117(1) .
+Precedent	[741 A-C] Therefore, the power under s. 117(3) can be exercised without the Magistrate recording evidence and finding a prima facie case after starting the inquiry under s. 117(1) .
+Precedent	But, even on this interpretation s. 117(3) is valid and is a reasonable restriction under Art.
+Precedent	19(2 ), (3 ), (4) and (5).
+Precedent	[741 E] JUDGMENT:  ORIGINAL JURISDICTION Writ Petitions Nos.
+Precedent	77 and 307 of 1970.
+Precedent	Petition under Art.
+Precedent	32 of the Constitution of India.
+Precedent	W.P.
+Precedent	No.
+Precedent	77 of 1970.
+Precedent	<NAME>,appeared in person.
+Precedent	<NAME>, <NAME> and <NAME>, for the respondents Nos.
+Precedent	1 to 4.
+Precedent	<NAME>, Attomey-General, <NAME>, <NAME> and <NAME>, for the Attorney-General for India.
+Precedent	W.P.
+Precedent	No.
+Precedent	307 of 1970.
+Precedent	<NAME>, 'appeared in person.
+Precedent	<NAME> and <NAME>, for peti tioner No.
+Precedent	2.
+Precedent	<NAME>, <NAME> and <NAME>, for the respondents.
+Precedent	<NAME>, Attorney-General for India, <NAME>, <NAME>, <NAME> and <NAME>, for the Attorney- General' for India and Union of India.
+Precedent	Interveners <NAME> and <NAME>, for interveners Nos.
+Precedent	I to  3.
+Fact	<NAME>, <NAME> and <NAME>, for intervener Nos.
+Fact	4 and 7.
+Fact	<NAME>, <NAME> and <NAME>, for intervener Nos.
+Fact	4 and 7.
+Fact	<NAME>, for intervener No.
+Fact	6.
+Fact	<NAME>, for intervener No.
+Fact	8.
+Fact	The Judgment of <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> and <NAME> , JJ., was delivered by <NAME> V. Bhargava J. delivered a partly dissenting opinion.
+Fact	<NAME> During the hearing of these petitions the constitutional validity of s. 144 and Chapter VIII of the Code of Criminal Procedure was challenged and <ORG> was nominated to consider the issue.
+Fact	Lengthy arguments were addressed to us by the petitioner and  several interveners.
+Fact	The matter, as we shall show later, lies in a narrow compass.
+RatioOfTheDecision	At the end of the arguments we announced our conclusion that the said provisions-of the Code , properly understood, were not in excess of the limits laid down in the Constitution, for restricting the freedoms guaranteed by Art.
+RatioOfTheDecision	19 (1) (a) (b) (c) and (d) We reservedour reasons and now we proceed to give them.
+RatioOfTheDecision	We are required to test the impugned provisions against the first four sub-clauses of the first clause of the nineteenth article.
+RatioOfTheDecision	We may accordingly begin by reading the sub- clauses  19.
+RatioOfTheDecision	(1) All citizens shall have the right-  (a) to freedom of speech and expression;  (b) to assemble Peaceably and without arms;  (c) to form associations or union;and  (d) to move freely throughout the territory of India;  These sub-clauses deal with four distinct but loosely related topics.
+RatioOfTheDecision	They preserve certain personal as well as group freedoms.
+RatioOfTheDecision	They allow an individual freedom of speech and movement and as a member of a group (and for  the group also) the same freedoms plus the right of assembly and formation of associations and unions.
+RatioOfTheDecision	Although the guarantees appear to be in absolute terms, in reality they are not so.
+RatioOfTheDecision	A number of restrictive exceptions are engrafted upon each of the freedom previously guaranteed.
+Fact	The restrictions are contained in cls.
+Fact	(2), (3), (4) and (5) and are related respectively to sub-cls.
+Fact	(a), (b), (c) and  (d) of the first clause.
+Fact	Clause (5) covers sub-cls.
+Fact	(e) and (f ) of the first clause also, but the additional fact does not concern us.
+Precedent	Of these, cl.
+Precedent	(2), as it stands today, was not originally in the Constitution but was substituted with retrospective effect by s. 3 of the Constitution (First Amendment) Act 1951.
+Precedent	Strictly speaking there never was any clause (2) other than the one we have before us today unless we were to hold that the first Amendment was either not valid or not retrospective.
+Precedent	We were invited to do so and to reconsider,, the decision in <CITATION_21266288> .
+RatioOfTheDecision	(1) but we declined because its valid ity was not doubted at any stage in that case.
+RatioOfTheDecision	The valdity of the Amendment therefore cannot now be questioned.
+RatioOfTheDecision	As a result we are not required to read the former cl.
+RatioOfTheDecision	(2) which never existed.
+RatioOfTheDecision	Clauses (2), (3) and (4) were further amended by the insertion of the words"The sovereignty and integrity of India" in each of them, by S. 2 of the Constitution (Sixteenth Amendment) Act 1963.
+Statute	The clauses as they exist today read "(2) Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law, or prevent the <ORG> from making any law, in so far as such law imposes reasonable restrictions on the exercise of the right conferred by the said sub-clause in the interests of the sovereignty and integrity of India the security of the <ORG>, friendly relations with foreign <ORG>s, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.
+Statute	(3) Nothing in sub-clause (b) of the said clause shall affect the operation of any existing law in so far as it  imposes, or prevent the <ORG> from making any law imposing, in the interests of the sovereignty and integrity of India or public order, reasonable restrictions on the exercise of the right conferred by the said sub-clause.
+Precedent	(4) Nothing in sub-clause (c) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the <ORG> from making any law imposing, in the interests of the sovereignty and integrity of India or public order or morality, reasonable restrictions on the exercise of the right conferred by the said sub-clause, and (5) Nothing in sub-clause (d), (e) and (f ) of the said clause shall affect the operation of any existing law in so far as it imposes, or prevent the <ORG> from making any law imposing, reasonable restrictions on the (1) (1967) 2 S.C.R.
+Precedent	762.
+Precedent	718  exercise of any of the rights conferred by the said subclauses either in the interests of the general public or for the protection of the interests of any Scheduled Tribe."
+RatioOfTheDecision	All that is necessary to be  decided by us is whether these clauses save the impugned provisions of the Code as reasonable, and valid restrictions upon the guaranteed freedoms.
+RatioOfTheDecision	Before we proceed to do so, we may dispose of a very ingenious argument by Mr. <NAME> which may be summarised thus:  "The original clause (2) had to be read on the commence- ment of the Constitutionand it was as follows (2) Nothing in sub-clause (a) of clause (1) shall affect the operation of any existing law in so far as it relates, or prevent the <ORG> from making any law ,relating to, libel, slander, defamation, contempt of 'Court or any matter which offends against decency or morality or which undermines the security of or tends to overthrow, the <ORG>.
+RatioOfTheDecision	This clause did not allow restrictions to be placed in the interests of public order on which the impugned provisions are justified today.
+RatioOfTheDecision	Admittedly the other parts of clause (2) are not relatable to the impugned provisions and cannot save them without the aid of power exercisable in the interests of  public order.
+RatioOfTheDecision	Therefore on the coming into force of the Con- stitution the impugned provisions of the Code became void, that is to say, were dead, and could not come to life, again when the Constitution was amended.
+Precedent	They had to be reenacted".
+Precedent	Parties joined issue on whether the provisions were dead, that 'is to say, were erased from the Statute Book and required re-enactment, or were merely eclipsed, that is to say, remained ineffective till the shadow of the original cl.
+Precedent	(2) was lifted.
+RatioOfTheDecision	We do not propose to enter into this debate.
+RatioOfTheDecision	Assuming that the Constitution could be amended with retrospective effect (a point not free altogether from difficulty), the purpose of the amendment is 'to create a fiction.
+RatioOfTheDecision	Whatever may be said of a law declared unconstitutional before the First Amendment, cannot be said of a 'law which is being considered today after the First Amendment.
+RatioOfTheDecision	'The fiction in the amendment is to make the Constitution be read with the new clause and no other and a law restricting the freedoms in the i nterests of public order (among others) or in ,the interests of the general public must be held to be saved, not as a result of the amendment, but because of these available restrictions operating from the inception of the Constitution.
+RatioOfTheDecision	Therefore, although we consider the matter today, after much history has been written and then unwritten by retrospective amendments of the Constitution (assuming this to be permissible), we read the protection of amended cl.
+RatioOfTheDecision	(2) as available from January 26, 1950 without a break.
+RatioOfTheDecision	The fiction, if given full effect leads to no other conclusion.
+RatioOfTheDecision	In this- view of the matter we do not find it necessary to refer to the rulings of this <ORG> where the doctrine of eclipse is considered in relation to provisions of laws declared void by <ORG>s in the interval.
+RatioOfTheDecision	That reasoning ex facie cannot apply to this case.
+RatioOfTheDecision	The result, therefore, is that we are only required to discuss whether the provisions of S. 144 and Chapter VIII of the Code can be said to be in the interests of public order i n so far as the rights of freedom of speech and expression, rights of assembly and formation of associations and unions are c oncerned and in the interests of the general public in so far as they curtail the freedom of movement throughout the territory of India.
+RatioOfTheDecision	In this connection only two topics arise for close study.
+RatioOfTheDecision	Firstly what is meant by the expressions "in the interest of public order" occurring in cls.
+RatioOfTheDecision	(2), (3) and (4) and "in the interests of the general public" occurring in cl.
+RatioOfTheDecision	(5).
+RatioOfTheDecision	Secondly to what extent the provisions of s. 144 and Chapter VIII come within the protection.
+RatioOfTheDecision	In so far as s. 144 of the Code is concerned this <ORG> in <CITATION_749305> ,(1) had held that the section was intra vires the Constitution but doubts were raised because the judgment of this <ORG> spoke in terms of in the interest of maintenance of public order' or 'duty of maintenance of law and order' when the second clause of Art.
+RatioOfTheDecision	19 speaks of 'in the interest of public order.
+RatioOfTheDecision	Differences between the import of these sever al expressions were pointed out in several cases from the time the earliest cases of this <ORG> <CITATION_456839> (2) and <NAME> v. State of Delhi(3) down to <CITATION_1733535> .
+RatioOfTheDecision	(4 ) and some later cases "lowing that case.
+RatioOfTheDecision	The effect of <NAME> case was claimed to be lost and it was submitted that the matter needed reconsideration.
+RatioOfTheDecision	Although the topic was once again before this <ORG> in <CITATION_1957417> .
+Precedent	(5) when the second part of sub-s. (6) of the section was declared invalid, the decision in <NAME> case was not considered in the light (1)(1961) 3 S.C.R.
+Precedent	423.
+Precedent	(2) (1950) S.C.R.
+Precedent	594.
+Precedent	(3) (1950) S.C.R.
+Precedent	605.
+Precedent	(4) (1966) 1.
+Precedent	S.C.R.
+Precedent	709.
+Precedent	(5) (1969) 3.
+Precedent	S.C.R.
+Precedent	337.
+Precedent	720  of other cases of this <ORG> mentioned above.
+RatioOfTheDecision	Therefore <ORG> was constituted to review the whole position in relation to s. 144 and Chapter VIII of the Code.
+RatioOfTheDecision	The petitioner and the interveners began arguments by invok- ing the doctrine of preferred-position for the Fundamental Rights.
+RatioOfTheDecision	particularly th e right to freedom of speech and expression.
+RatioOfTheDecision	Mr. <NAME>, an intervener, squarely based himself on the American doctrine.
+RatioOfTheDecision	Mr. <NAME> for another-intervener was indirect.
+RatioOfTheDecision	His submission is that the <ORG>, when faced with the question whether any legislative or executive action is constitutional or not, must range themselves on the side of the Fundamental Freedoms and consider whether the restrictions are reasonable or not.
+RatioOfTheDecision	In other words, <ORG> must place the burden on the <ORG> to prove the reasonableness of the restriction.
+RatioOfTheDecision	A word may, therefore, be said here about how the <ORG> must proceed to examine a challenge to the constitutional validity of laws vis-a-vis a fundamental freedom.
+RatioOfTheDecision	The preferred-position doctrine in America developed by the Roosevelt <ORG> through Justices <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, envisaged that any law restricting freedom of speech, press, religion or assembly must be taken on its face to be invalid till it was proved to be valid.
+RatioOfTheDecision	The doctrine was perhaps the result of  a remark by Justice <NAME> in United States v. <ORG>).
+Precedent	But it has most frequently been used by Justices <NAME> and <NAME> in recent) years after the deaths of Justices <NAME> and <NAME> in 1949.
+Precedent	Its history is given by Justice <NAME> in his concurring opinion in <NAME> v. Cooper(2), in which he rejected it.
+Precedent	Justice <NAME>, in <NAME> v. Collins(3) stated it in these words:  "This case confronts us again with the duty our system places on this <ORG> to say where the individual's freedom ends and the States' power begins Choice on that border, now as always delicate, is perhaps more so where the usual presumption supporting legislation is balanced by the preferred place given in our scheme to the great, the indispensable freedoms secured by the first Amendment.
+RatioOfTheDecision	That priority gives these liberties a sanctity and a sanction not permitting dubious intrusions.
+RatioOfTheDecision	For these reasons any attempt to restrict those liberties must be justified by clear public interest, threatened not doubtfully or r emotely, but by clear and present danger.
+Precedent	The rational connection between the remedy provided and the evil (1) (1938) 304 V.S.
+Precedent	144.
+Precedent	(2) (1949) 336 U.S. 77.
+Precedent	(3) (1944) 323 U.S. 516.
+RatioOfTheDecision	721  to be curbed, which in other contexts might support legislation against attack on due process grounds, will not suffice.
+RatioOfTheDecision	These rights rest on firmer foundation".
+RatioOfTheDecision	The result of the doctrine was to shift the burden of proof on the shoulders of those defending the legislation, without raising in their favour the presumption of the validity of legislation.
+Precedent	It, however, has been abandoned by the majority of Judges, after 1949 when Justices <NAME> and <NAME> replaced Justices <NAME> and <NAME>.
+Precedent	Justice <NAME> in the <NAME>'s case(1) described it as 'a complicated process of constitutional adjudication by a deceptive formula'.
+RatioOfTheDecision	It is sufficient to say that the preferred position doctrine has not the support of <ORG> and the unreasonableness of the law has to be established.
+RatioOfTheDecision	In this <ORG> the p referred-position doctrine has never found ground although vague expressions such as 'the most cherished rights', 'the inviolable freedoms' sometimes occur.
+RatioOfTheDecision	But this is not to say that any one Fundamental Right is superior to the other or that Art.
+RatioOfTheDecision	19 contains a hierarchy.
+RatioOfTheDecision	Pre-constitution laws are not to be regarded as unconstitutional.
+RatioOfTheDecision	We do not start with the presumption that, being a pre-constitution law, the burden is upon the <ORG> to establish its validity.
+RatioOfTheDecision	All existing laws are continued till this Court declares them to be in conflict with a fundamental right and, therefore,, void.
+RatioOfTheDecision	The burden must be placed on those who contend that a particular law has become void after the coming into force of the Constitution by reason of Art.
+RatioOfTheDecision	13(1) read with any of the guaranteed freedoms.
+RatioOfTheDecision	The present doubt has arisen With regard to <NAME> case(1), as stated earlier, by not adhering to the phraseology of Art.
+RatioOfTheDecision	19(2) where the words 'In the interest of public order' appear.
+RatioOfTheDecision	It is these words which need an  exposition and not the expression, in the interest of maintenance of law and order', which are not the words of the article.
+RatioOfTheDecision	To expound the meaning of the right expressions we are required to go over some earlier deci- sions of this <ORG>.
+RatioOfTheDecision	<CITATION_456839> (3) and <NAME> v. State of Delhi(4) were decided, the original clause (2) was there.
+RatioOfTheDecision	It did not include the phrase 'in the interest of public order'.
+RatioOfTheDecision	The validity of statutes was, therefore, tested against the words 'the security of the.State'.
+RatioOfTheDecision	After the retrospective amendment substituted a new clause, the matter fell to be considered in relation to 'public order.
+Precedent	In <NAME> v. State of Uttar Pradesh(1) it was pointed out that the language employed by the Constitu- (1) (1949) 336 U.S. 77.
+Precedent	-(2) (1961) 3 S.C.R.
+Precedent	423.
+Precedent	(3) (150) S.C.R.
+Precedent	594.
+Precedent	(4) (1950) S.C.R.
+Precedent	605.
+Precedent	(5)  S.C. R.860.
+Precedent	694 Supp.
+Precedent	CI/71 7 22 tion, that is to say, 'in the interest of' was wider than the expression 'for the maintenance of' and the former expression made the ambit of the pr otection very wide.
+Precedent	It was observed that 'a law may not have been designed to directly maintain public order and yet it may have been enacted in the interest of public order'.
+Precedent	This was , again reaffirmed in <CITATION_1475436> (1) distinguishing on the same ground the two cases before the First Amendment.
+Precedent	The following passage (p. 323) may be quoted:  "It will be remembered that Art.
+Precedent	19(2 ), as it was then worded, gave protection to a law relating to any matter which undermined the security of or tended to overthrow the <ORG>.
+Precedent	Section 9 (1-A) of the Madras Maintenance of Public Order was made 'for the purpose of securing public safety and the maintenance of public order'.
+Precedent	It was pointed out that whatever end the impugned Act might have been intended to subserve and whatever aim its framers might have had in view, its application and scope could not, in the absence of litniting words in the statute itself.
+Precedent	be restricted to the aggravated form of activities which were calculated to endanger the security of the S tate.
+Precedent	Nor was there any guarantee that those officers who exercised the Power under the Act, would, in using them, discriminate between those who acted prejudicially to the security of the <ORG> and those who did not.
+Precedent	This consideration cannot apply to the case now under consideration.
+Precedent	Article 19(2) has been amended so as to extend its protection to a law imposing reasonable restrictions in the interests of public order and the language used in the two sections of the impugned Act quite clearly and explicitly limits the exercise of the powersconferred by them to the purposes specifically mentioned in the sections and to no other purpose".
+Precedent	We may say at once that the distinction has our respectful concurrence.
+Precedent	Then came the decision in <CITATION_1386353> (2).
+Precedent	In that case, the expression 'in the interest of public order fell to be considered.
+Precedent	<NAME>, J.
+Precedent	('as he then was) traced the exposition of the phrase, particularly the expression 'public order.
+Precedent	He referred first to the observations of <NAME> , J.
+Precedent	(later C.J.)
+Precedent	in <NAME> case(") (supra) distinguishing offences involving disturbances of public tranquillity which the learned Judge said were in theory offences against public order of a purely local significance and other forms (11)  S.C.R.
+Precedent	308.
+Precedent	(12) (1960) 2 S.C.R.
+Precedent	821.
+Precedent	(3) (1950) S.C.R.
+Precedent	594.
+Argument	723  of public disorders of more serious and aggravated kind calculated to endanger the security of the <ORG>.
+Argument	<NAME>, J. also quoted the observation of <NAME>, J. in <NAME> case(1) :  "When we approach the matter in this way, we find that while 'public disorder' is wide enough to cover a small riot or an affray and other cases where peace is disturbed by or affects, a small group or persons, public unsafety' (or insecurity of the <ORG>) will usually be connected with serious internal disorders and such disturbances of public tranquillity was jeopardises the security of the <ORG>" (p. 612).
+Argument	<NAME>, J. on the strength of these observatinns concluded that public order' was the same as 'pu blic peace and safety' and went on to observe :  "Presumably in an attempt to get over the effect of these, two decisions, the expression 'Public order' was inserted in Art.
+Precedent	19 (2) of the Constitution by the Constitution (First Amendment) Act, 1951, with a view to bring in offences involving breach of purely local significance within the scope of permissible restrictions under cl.
+Precedent	(2) of Art.
+Precedent	19".
+Precedent	He quoted the observations of <ORG> in <NAME> v. Connecticut(1) to establish that offences against 'Public order' were also understood as offences against public safety and public peace.
+Argument	He referred to a passage in a text-book on the American Constitution which states :  "In the interests of public order the State may prohibit and punish the causing of 'loud and raucous noise, in streets and public places by means of sound amplifying instruments, regulate the hours and place of public discussion, and the use of the public streets.
+Argument	for the purpose of exercising freedom of speech;  provide for the expulsion of hecklers from meetings and assemblies, punish utterances tending to incite an immediate breach of the peace or riot as distinguished from utterances causing mere 'public inconvenience, annoyance or unrest'."
+Argument	He referred also to the Public Order Act 1936 in England.. <NAME>, J. however, distinguished the American and English precedents observing :  "But in India under Art.
+RatioOfTheDecision	19 (2) this wide concept of 'Public order' is split up under different heads.
+Precedent	It (1)  S.C.R.
+Precedent	605.
+Precedent	(2) (1940) 310 U.S. 296.
+RatioOfTheDecision	7 24 enables the imposition of reasonable  restrictions on the exercise of the right to freedom of speech and expression in the interests of the security of the <ORG>, friendly relations with foreign <ORG>s, public order, decency or morality, or in relation to contempt of court, defamation or incitement to an offence.
+RatioOfTheDecision	All the grounds mentioned therein can be brought under the general head 'public order' in its most comprehensive sense.
+RatioOfTheDecision	But the juxtaposition of the different grounds indic ates that, though sometimes they tend to overlap, they must be ordinarily intended to exclude each other.
+RatioOfTheDecision	'Public order' is there- fore something which is demarcated from the others.
+RatioOfTheDecision	In that limited sense, particularly in view of the history of the amendment, it can be postulated that 'public order' is synonymous with public peace, safety and tranquility".
+RatioOfTheDecision	His summary of his analysis of cases may be given in his own words "Public order" is synonymous with public safety and tranquillity : it is the absence of disorder involving breaches of local significance in contradistinction to national upheavals, such as revolution, civil strife, war, affecting the security of the <ORG>".
+RatioOfTheDecision	We may here observe that the overlap of public order and public tranquillity is only partial.
+RatioOfTheDecision	The terms are not always synonymous.
+RatioOfTheDecision	The latter is a much wider expression and takes in many things which cannot be described as public disorder.
+RatioOfTheDecision	The words 'public order and 'Public tranquillity overlap to a certain extent but there are matters  which disturb public tranquillity without being a disturbance of public order.
+RatioOfTheDecision	A person playing loud music in his own house in the middle of the night may disturb public tranquillity, but- he is not causing public disorder.
+RatioOfTheDecision	Public order' no doubt also requires absence of disturbance of a state of serenity in society but it goes further.
+RatioOfTheDecision	It means what the French designate order published, defined as an absence of insurrection, riot, turbulence, or cry of violence.
+RatioOfTheDecision	The expression 'public order' includes absence of all acts which are a danger to the security of the state and also acts which are comprehended.
+RatioOfTheDecision	by the expression 'order publique' explained above but not acts which disturb only the serenity of others.
+RatioOfTheDecision	The English and American precedents and legislation are not of much help_.
+RatioOfTheDecision	The Public Order Act 1936 was passed because in 1936 different political organisations marched in uniforms causing riots.
+RatioOfTheDecision	In America the First Amendment freedoms have no such qualifications as in India and the rulings are apt t o be misapplied to our Constitution.
+Precedent	In the next case of this Court reported in <CITATION_1733535> off Bihar & Ors.
+Precedent	(1) it was pointed out that for expounding the phrase 'maintenance of public order' "One has to imagine three concentric circles.
+RatioOfTheDecision	Law and order represents the largest circle within which is the next circle representing public order and the smallest circle represents the security of the <ORG>".
+RatioOfTheDecision	All cases of disturbances of public tranquillity fall in the largest circle but, some of them are outside 'public order' for the purpose of the phrase 'maintenance of public order', similarly every breach of public order is not necessarily a case of an act likely to endanger the security of the <ORG>.
+RatioOfTheDecision	Adopting this test we may say that the <ORG> is at the centre and society surrounds it.
+RatioOfTheDecision	Disturbances of society go in a broad spectrum from mere disturbance of the serenity of life to jeopardy of the <ORG>.
+RatioOfTheDecision	The acts become graver and graver as we journey from the periphery of the largest circle towards the  centre.
+RatioOfTheDecision	In this journey we travel first through public tranquillity, then through public order and lastly to the security of the <ORG>.
+RatioOfTheDecision	In dealing with the phrase 'maintenance of public order' in the context of preventive detention, we confined the expression in the relevant Act to what was included in the second circle and left out that which was in the largest circle.
+RatioOfTheDecision	But that consideration need not always apply because small local disturbances of the even tempo of life, may in a sense be said to affect 'public order' in a different sense, namely, in the sense of a state of law- abidingness vis-a-vis the safety of others.
+RatioOfTheDecision	In our judgment the expression 'in the interest of public order' in the Constitution is capable of taking within itself not only those acts which disturb the security of the <ORG> or are within ordre publique as dewribed but also certain acts which disturb public tranquillity or are breaches of the peace.
+RatioOfTheDecision	It is not necessary to give to the expression a narrow meaning because, as has been  observed, the expression 'in the interest of public order7 is very wide.
+RatioOfTheDecision	Whatever may be said of 'maintenance of public-order' in the context of special laws entailing detention of persons without a trial on the pure subjective determination of the Executive cannot be said in other circumstances.
+RatioOfTheDecision	In the former case this <ORG> confined the meaning to graver episodes not involving cases of law and order which are not disturbances of public tranquillity but of ordre publique.
+Precedent	(1) [1966] 1 S.C.R.
+Precedent	709.
+Precedent	726  it was argued that there cannot be two kinds of detention one by Magistrates under the Code of Criminal Procedure an another under laws made for preventive detention under Art.
+Precedent	2 of the Constitution.
+Precedent	In our opinion the area of the two is entitled rely different an there is, therefore, good classification.
+RatioOfTheDecision	We proceed to consider the impugned provisions of the Code in light of what we have said above.
+RatioOfTheDecision	We first take up for consideration s. 144 of the Code.
+RatioOfTheDecision	finds place in Chapter XI which contains one section only .
+Precedent	is headed 'Temporary Orders in urgent cases of nuisance apprehended danger'.
+Precedent	The section confers powers to issue order absolute at once in urgent cases of nuisance or apprehended danger.
+Precedent	Such orders may be made by specified classes Magistrates when in their opinion there is sufficient ground proceeding under the section and immediate prevention or speedy remedy is desirable.
+Precedent	It requires the Magistrate to issue his order in writing setting forth the material facts of the case the order is to be served in the manner provided by s. 134 of the Code.
+Precedent	The order may direct :  (A) Any person to abstain from a certain act, or (B) to take certain order with certain property in his possession or under his management.
+Precedent	The grounds for making the order are that in the opinion of the Magistrate such direction  (a)is likely to prevent or (b) tends to prevent,  (i)obstruction (ii) annoyance or (iii) injury, to any person law fully employed or (iv) danger to human life, health or safety o(v) a disturbance of the public tran quillity or  (vi) a riot o (vii) an affray.
+RatioOfTheDecision	Stated briefly the section provides for the making of an which is either prohibitory (A) or mandatory (B) as above.
+RatioOfTheDecision	Its efficacy is that (a) it is likely to prevent or (b) tends to prevent, some undesirable happenings.
+RatioOfTheDecision	The gist o these happenings are  (i) obstruction, annoyance or injury to any person lawfully employed; or  (ii) danger to human life, health or safety; or  (iii) a disturbance of the public tranquillity or a riot or an affray.
+RatioOfTheDecision	The procedure to be followed is next stated.
+RatioOfTheDecision	Under sub-s (2) if time does not permit or the order cannot be served, it can be made ex parte.
+RatioOfTheDecision	Under sub-s. (3) the order may be directed to a particular individual or to the public, generally when frequenting or visiting a particular place.
+Precedent	Under sub-s. (4) the Magistrate may either suo matu or on an application by an aggrieved person, rescind or alter the order whether his own or by a Magistrate subordinate to him or made by his predecessor in Office.
+Precedent	Under sub-s. (5) where the M agistrate is moved by a person aggrieved he must hear him so that.
+Precedent	he may show cause against the order and if the Magistrate rejects wholly or in part the application, he must record his reasons in writing.
+Precedent	This sub-section is mandatory.
+Precedent	An order by the Magistrate does not remain in force after two months from the making thereof but <ORG> may, however, extend the period by a notification in the <ORG> but, only in cases of danger to human life, health or safety or where there is a likelihood of a riot or an affray.
+Precedent	But the second portion of the subsection was declared violative of Art.
+Precedent	19 in <CITATION_1957417> (1).
+Precedent	It may be pointed out here that disobedience of an order lawfully promulgated is made an offence by S. 188 of the Indian Penal Code, if such disobedience causes obstruction, annoyance or injury to persons lawfuly employed.
+Precedent	It is punishable with simple imprisonment for one month or fine of Rs.
+Precedent	200 or both.
+Precedent	The gist of action under s. 144 Is the urgency of the siutation, its efficacy  in the likelihood of being able to prevent some harmful occurrences.
+RatioOfTheDecision	As it is possible to act absolutely and even exparte it is obvious that the emergency must be sudden and the consequences sufficiently grave.
+RatioOfTheDecision	Without it the exercise of power would have no justification.
+RatioOfTheDecision	It is not an ordinary power flowing from administration but a power used in a judicial manner and which can stand further judicial scrutiny in the need for the exercise of the power, in its efficacy and in the extent of its application.
+RatioOfTheDecision	There is no general proposition that an order under section 144 , Criminal Procedure Code cannot be passed without taking evidence : see Mst.
+RatioOfTheDecision	<NAME> v. <NAME> (2) which in our opinion is correct in laying down this proposition.
+RatioOfTheDecision	Tese fundamental facts emerge from the way the occasions for the exercise of the power are mentioned.
+RatioOfTheDecision	Disturbances of public tranquillity, riots and affray lead to subversion of public order unless they are prevented in time.
+RatioOfTheDecision	Nuisances dangerous to human fife, he alth or safety have no doubt to be abated and prevented.
+RatioOfTheDecision	We are, however, not concerned with this part of the section and the validity of thus part need not be decided here.
+RatioOfTheDecision	In so far as the other parts of the section are conceded the key-note of the power is to free society from menace of serious disturbances of a grave character.
+Precedent	The section is directed against those who attempt to prevent the exercise of (1)  S.C.R.
+Precedent	337.
+Precedent	(2) 37 Cr.
+Precedent	C.J.
+Precedent	95.
+Precedent	7 28 legal rights by others or imperil the public safety and health.
+Precedent	If that be so the matter must fall within the restrictions which the Constitution itself visualises as permissible in the, interest of public order, or in the interest of the general public.
+Precedent	We may say, however, that annoyance must assume sufficiently grave proportions to bring the matter within interests of public order.
+Precedent	The criticism, however.
+Precedent	is that the section suffers from over broadness and the words of the section are wide enough to give an absolute power which may be.
+Precedent	exercised in an unjustif iable case and then there would be no remedy except to ask the Magistrate to cancel the order which he may not do.
+Precedent	'Revision against his determination to <ORG> may prove illusory because before <ORG> can intervene the mischief will be done.
+Precedent	Therefore, it is submitted that an inquiry should precede the making of the order.
+Precedent	In other words, the burden should not be placed upon the person affected to clear his position.
+Precedent	Further the order may be so general as to affect not only a particular party but persons who are innocent, as for example when there is ,in order banning meetings, processions, playing of music etc, The effect of the order being in the interest of public order and the interests of the general public, occasions may arise when it is not possible to distinguish between those whose conduct must be controlled and those who conduct is clear.
+Precedent	As was pointed out in <NAME> case(1) where two rival trade unions clashed and it was difficult to say whether a person, belonged to one  of the unions or to the general public, an order restricting the activities of the general public in the particular area was justified.
+Precedent	It may be pointed out that mere disobedience of the order is not enough to constitute an offence.
+Precedent	There must be in addition obstruction.
+Precedent	annoyance, or danger to human life, health or safety or a riot or an affray before the offence under s. 188 , Indian Penal Code is constituted.
+Precedent	Thus the person affected has several remedies.
+Precedent	He can ask the order to be vacated as against him, lie can file a revision and even a petition for a writ.
+Precedent	But no person can ask to be considered free to do what he likes when there are grounds for 'thinking that his conduct would be of, the kind des- cribed in the section for purposes of preventive action.
+Precedent	Ordinarily the order would be directed against a person found acting or likely to act in a particular way.
+Precedent	A general order may be necessary when the number of persons is so large that distinction between them and the general public cannot be made with out the risks mentioned in the section.
+Precedent	A general order is thus justified but if the action is too general, the order may be questioned by appropriate remedies for which there is ample provision in the law.
+Precedent	(1) [1961] 3 S.C.R.
+Precedent	423.
+RatioOfTheDecision	729  All these matters were considered also by this <ORG> in <NAME> case(1).
+RatioOfTheDecision	In that case the <ORG> emphasised that the restraint is temporary, the power is exercised by senior Magis-trates who have to set down the material facts, in other words, tomake an inquiry in the exercise of judicial power with reasons for the order, with an opportunity to an aggrieved person to haveit rescinded either by the Magistrate or the superior <ORG>s.
+RatioOfTheDecision	We have reconsidered all these matters and are satisfied that there are sufficient safeguards available to person affected by the order and the restriction-, therefore are reasonable.
+RatioOfTheDecision	We are of opinions that s.144 is not unconstitutional if properly applied and the fact that it may be abused is no ground for striking it -down.
+RatioOfTheDecision	The remedy t hen is to question the exercise of power as being outside the grant of the law.
+RatioOfTheDecision	We next proceed to consider the constitutional validity of' Chapter VIII of the Code.
+RatioOfTheDecision	It finds place in Part IV which has the explanatory heading 'Prevention of Offences'.
+RatioOfTheDecision	The Chapter is divided into three divisions A, B and C. The purport of the Chapter can be gathered from its sub- heading of Security for keeping the Peace and for good behaviour.'
+RatioOfTheDecision	Division A is for security for keeping the peace on conviction.
+RatioOfTheDecision	It consists of only one section (S. 106) and it provides that on conviction for certain offences, the <ORG> may, at the time of passing sentence on the person convicted, if of opinion, that it is necessary to take a bond for future good behaviour, order him to execute a bond, with or without sureties, for keeping the peace' for a period not exceeding three years.
+RatioOfTheDecision	The sum for which the bond is taken is proportionate to the means of the person and it becomes void if the conviction ultimately fails.
+RatioOfTheDecision	The section is bed at per sons whose past conduct has proved dangerous to, the public and is intended to secure tranquillity and peace.
+RatioOfTheDecision	Division B then consists of 12 sections (ss.
+RatioOfTheDecision	107-110 and 112119) and applies to cases other than those mentioned in S. 106.
+RatioOfTheDecision	Of these, s. 107 is for taking security generally for keeping the, peace; S. 108 is for security for good behaviour from persons disseminating sedition: S. 109 for security for good behaviour from vagrants and suspected persons and S. 110 for security for good behaviour from habitual offenders.
+RatioOfTheDecision	Sections 112-119 lay down the procedure to be followed in these cases.
+RatioOfTheDecision	We are concerned in these cases with the provisions of S. 107 and therefore need not refer to ss.
+RatioOfTheDecision	108-110 .
+RatioOfTheDecision	The gist of S. 107 may now be given.
+Precedent	It enables certain- specified classes of Magistrates to make an order calling upon a person to show cause why he should not be ordered to execute a bond, with or without sureties for keeping the peace for such-  (1) (1961) 3 S.C.R.
+Precedent	423.
+Precedent	730  period not exceeding one year as  the Magistrate thinks fit to fix.
+Precedent	The condition of taking action is that the Magistrate is informed and he is of opinion that there is sufficient ground for proceeding that a person is likely to commit a breach of the peace or disturb the public tranquillity or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tran- quillity.
+Precedent	The Magistrate can proceed if the person is within his jurisdiction or the place of the apprehended breach of the peace or disturbance is within the local limits of his jurisdiction.
+Precedent	The section goes on to empower even a Magistrate not empowered to take action, to record his reason for acting, and then to order the arrest of the person (if not already in custody or before the court) with a view to sending him before a Magistrate empowered to deal with the case, together with a copy of his reasons.
+Precedent	The Magistrate before whom such a person is sent may in his discretion detain such person in custody pending further action by him.
+Precedent	The section is a imed at persons who cause a reasonable apprehension of conduct likely to lead to a breach of the peace or disturbance of the public tranquillity.
+RatioOfTheDecision	This is an instance of preventive justice which the courts are intended to administer.
+RatioOfTheDecision	This provision like the preceding one is in aid of orderly society and seeks to nip in the bud conduct subversive of the peace and public tranquillity.
+RatioOfTheDecision	For this purpose Magistrates are invested with large judicial discretionary powers for the preservation of public peace and order.
+RatioOfTheDecision	Therefore the justification for such provisions is claimed by the <ORG> to be in the function of the <ORG> which embraces not only the punishment of offenders 'but, as far as possible, the prevention of offences.
+RatioOfTheDecision	Both the sections are counter-parts of the same policy, the first applying when by reason of the conviction of a person, his past conduct leads to an apprehension for the future and the second applying where the Magistrate, on information, is of the opinion that unless prevented from so acting,  a person is likely to act to the detriment of the public peace and public tranquillity.
+RatioOfTheDecision	The argument is that these sections (more particularly s. 107 ) are destructive of freedom of the individual guaranteed by Art.
+RatioOfTheDecision	1 9 (1) (a) (b)   (c) and (d) and are not saved by the restrictions contemplated by cls.
+RatioOfTheDecision	(2) to (5) of the article.
+RatioOfTheDecision	It is also contended that there are no proper procedural safeguards in the sections that follow.
+RatioOfTheDecision	Before we deal with these contention it is necessary 'to glance briefly at ss.
+RatioOfTheDecision	112-119 of Division B and ss.
+RatioOfTheDecision	120-126A ,of Division C. We have seen the provision of s. 107 .
+RatioOfTheDecision	That section says that action is to be taken 'in the- manner hereinafter--provided and this ,clearly indicates that it is not open to a Magistrate in such a case to depart from the procedure to any substantial extent.
+RatioOfTheDecision	This is very salutary because the liberty of the person is involved and the law is rightly solicitous that this liberty should only be curtailed according to its own procedure and not according to the wh im of the Magistrate concerned.
+RatioOfTheDecision	It behoves us, therefore, to emphasise the safegurds built into the procedure because from there will arise the consideration of the reasonableness of the restrictions in the interest of public order or in the interest of the ,general public.
+RatioOfTheDecision	The Procedure begins with S. 112 .
+RatioOfTheDecision	It requires that the Magistrate acting under S. 107 shall make an order in writing setting forth the substance of the information received, the amount of the bond, the term for which it is to, be in force and the number, character and class of sureties (if any) required.
+RatioOfTheDecision	Since the person to be proceeded against has to show cause, it is but natural that he must know the grounds for apprehending a breach of the peace or disturbance of the public tranquillity at his hands.
+RatioOfTheDecision	Although the section speaks of the 'substance of the information' it does not mean that the order should not be full.
+RatioOfTheDecision	It may not repeat the information bodily but it must give proper notice of what has moved the Magistrate to take the act ion.
+RatioOfTheDecision	This order is the foundation of the jurisdiction and the word 'substance' means the essence of the most important parts of the information.
+RatioOfTheDecision	Next follow three sections-ss.
+RatioOfTheDecision	113-115.
+RatioOfTheDecision	They deal with the person's presence.
+RatioOfTheDecision	Section 113 deals with the situation when the person is present in court, then the order shall be read over to him and if he so desires, the substance of it shall be explained to him.
+RatioOfTheDecision	This is not a mere formality.
+RatioOfTheDecision	The intention is to explain to the person what the allegations against him are.
+RatioOfTheDecision	The next section (S. 114) deals with a situation when the person is not present in court.
+RatioOfTheDecision	There the options two-fold.
+RatioOfTheDecision	Ordinarily, a summons must issue to him but in cases where the immediate arrest of the person is necessary a warrant for his arrest may issue- This is however subject to the qualification that there must be a report of a Police Officer or other information in that behalf and the breach of the peace cannot otherwise be prevented.
+RatioOfTheDecision	The Magistrate must not act on an oral information but mus t record the substance of it before issuing a warrant.
+RatioOfTheDecision	The section also envisages a situation in which the person is already in custody.
+RatioOfTheDecision	In that case the Magistrate shall issue a warrant directing the Officer having the custody to produce that person.
+RatioOfTheDecision	The provisions of this section.
+RatioOfTheDecision	are quite clearly reasonable in the three circumstances it deals with.
+RatioOfTheDecision	If the presence of the person is to be secured, a summons to him is the normal course except in the other two cases.
+RatioOfTheDecision	732  Section 115 then provides that such summons or warrant under S. 1 14, as the case may be, must be accompanied by the order under S. 112 and the person serving or executing the summons or warrant must serve the order on the person.
+RatioOfTheDecision	There is enabling power in S. 116 under which the Magistrate may dispense with the presence of the person in Court and allow him to appear by a pleader., Then follows S. 117 .
+RatioOfTheDecision	That section (omitting the proviso to the third sub-section and omitting sub-ss.
+RatioOfTheDecision	(4) and (5) which do not concern us) may be read here :  "1 17.
+Statute	Inquiry as to truth of information-  (1) When an order under section 112 has been read or explained under section 113 to a person present in Court, or when any person appears or is brought before a Magistrate in compliance with, or in execution of, a summons or warrant issued under section 114 , the Magistrate shall proceed to inquire into the truth of the information upon which action has been taken, and to take such evidence as may appear necessary.
+Statute	(2) Such inquiry shall be made, as nearly as may be practicable, in the manner hereinafter prescribed for conducting trials and recording evidence in summons cases.
+Statute	(3) Pending the completion of the inquiry under subsection (1), the Magistrate, if he considers that immediate measures are necessary for the prevention of a breach of the peace or disturbance of the public tranquillity or the commission.
+Statute	of- any offence or for the public safety, may, for reasons to be recorded in writing, direct the person in respect of whom the order under section 1  12 has b een made to execute a bond, with or without sureties, for keeping the peace on maintaining good behaviour until the conclusion of the inquiry, and may detain him in custody until such bond is executed or, in default of execution, until the enquiry is coneluded".
+RatioOfTheDecision	The first sub-section read with the second requires the Magistrate to proceed to inquire into the truth of the information.
+RatioOfTheDecision	The third sub-section enables the Magistrate to ask for an interim bond pending the completion of the inquiry by him.
+RatioOfTheDecision	This is conditioned by the fact that immediate measures are necessary for the prevention of a breach of the peace or disturbance of the public tranquillity or the commission of any offence or for protection of public safety.
+RatioOfTheDecision	This is applicable where the person is not in custody and his being at large without a bond may endanger public safety etc.
+RatioOfTheDecision	'The Magistrate has to justify his action by reasons to be recorded in writing.
+RatioOfTheDecision	If the person fails to execute a bond, with or without sureties, the Magistrate is empowe red to detain him in custody.
+RatioOfTheDecision	A question was raised before us whether the Magistrate can defer the inquiry and yet ask for an interim bond.
+RatioOfTheDecision	There is a difference of opinion in <ORG>.
+RatioOfTheDecision	Some learned Judges are of opinion that this action can be taken as soon as the person appears because then the Magistrate may be said to have entered upon the inquiry.
+RatioOfTheDecision	Other learned Judges are of the opinion that sub-ss.
+RatioOfTheDecision	(1) and (2) envisage that the 'Magistrate must proceed to inquire into the truth of the information and only after prima facie satisfying himself about the truth 1 and after recording his reasons in writing can the interim bond be asked for.
+RatioOfTheDecision	Some of the cases on the previous view are- <CITATION_837238> .
+RatioOfTheDecision	(1), <CITATION_1187140> (1) <CITATION_1455388> (1) and <CITATION_243127> (1).
+RatioOfTheDecision	Those representing the other view ar-In re Muttuswami(5), In re <NAME>), <CITATION_1764148> (1), <CITATION_899475> (8), <CITATION_632592> , <ORG>), <NAME> v. The <ORG>("), <ORG> v.  State of Mysore(11) and <CITATION_1307370> (12).
+RatioOfTheDecision	In our opinion the words of the section are quite clear.
+RatioOfTheDecision	As said by <NAME> in Emperor v. Babua(13), the order under s. 112 is on hearsay but the inquiry under s. 117 is to ascertain the truth of the unnecessary information.
+RatioOfTheDecision	Sub- section (1) contemplates an immediate inquiry into the truth of the information.
+RatioOfTheDecision	It is pending the completion or the inquiry that an interim bond can be asked for if immediate measures are necessary, and in default it is necessary to put the persons in custody.
+RatioOfTheDecision	Therefore, as the liberty of a person is involved, and that person is being proceeded against on information and suspicion, it is necessary to put a strict construction upon the powers of Magistrate.
+RatioOfTheDecision	The facts must be of definite character.
+Precedent	In <NAME> v.  (1) A.I.R 1942 Sind 86.
+Precedent	(2) A ' I.R.
+Precedent	1953 Cal.
+Precedent	238.
+Precedent	(3), A.I.R.
+Precedent	1959 J & K 125.
+Precedent	(4) A.I.R 1958 Rai.
+Precedent	349 (5) I.L.R.
+Precedent	(1947) Mad.
+Precedent	335 (F.B.
+Precedent	)(6) A.I.R.
+Precedent	1955 A.P.
+Precedent	96.
+Precedent	(7) A I.R.
+Precedent	1957 Pat.
+Precedent	106.
+Precedent	(8) A.I.R.
+Precedent	1952 Tr & Co 26 2.
+Precedent	(9) A.I.R.
+Precedent	1957 All 189.
+Precedent	(10) A.I.R.
+Precedent	1960 Pun.
+Precedent	225.
+Precedent	(11) A.I.R.1960 Mysore 259.
+Precedent	(12) A.I.R.
+Precedent	1956 Boni.
+Precedent	385.. (13) I.I.R.
+Precedent	6 All.
+Precedent	132.
+Precedent	734  The King Emperor(1) there was only a petition and a report and these were not found sufficient material.
+Precedent	In some of the cases before us no effort was made by the Magistrate to inquire into the truth of the allegations.
+Precedent	The Magistrate adjourned the case from day to day and yet asked for an interim bond.
+Precedent	This makes the proceedings entirely one sided.
+RatioOfTheDecision	It cannot be described as an inquiry within an inquiry as has been said in some cases.
+RatioOfTheDecision	Some inquiry has to be made before the bond can be ordered.
+RatioOfTheDecision	We, therefore, approve of those cases in which it has been laid down that some, inquiry should be made before action is taken to ask for an interim bond or placing the person in custody in default In an old case reported in <NAME> v. <NAME>), <ORG> of <ORG> went into the matter.
+RatioOfTheDecision	The case arose before the present Code of Criminal Procedure and, the refore, there was no provision for an interim bond.
+RatioOfTheDecision	But what Sir <NAME> C.J.
+RatioOfTheDecision	said 'applies to the changed law also not only with regard to the ultimate order but also to the interim order for a bond.
+RatioOfTheDecision	The section even as it is drafted today is hedged in with proper safeguards and it would be moving too far away from the guarantee of freedom, if the view were allowed to prevail that without any inquiry into the truth of the information sufficient to make out a prima facie case a person is to be put in jeopardy of detention.
+RatioOfTheDecision	A definite finding is required that immediate steps are necessary.
+RatioOfTheDecision	The order must be one which can be made into a final order unless something to the contrary is established.
+RatioOfTheDecision	Therefore it is not open to a Magistrate to adjourn the case and in the interval to send a person to jail if he fails to furnish a bond.
+RatioOfTheDecision	If this were the law a bond could always be insisted upon before even the inquiry began and that is neither the sense of the law nor the wording or arrangement of the sections  already noticed.
+RatioOfTheDecision	The power which is conferred under this Chapter is distin- guished from the power of detention by executive action under Art.
+RatioOfTheDecision	22 of the Constitution.
+RatioOfTheDecision	Although the order to execute a, bond, issued before an offence is committed, has the appearance of an administrative order, in reality it is judicial in character Primarily the provision enables the Magistrate to require the execution of a bond and not to detain the person.
+RatioOfTheDecision	Detention results only on default of execution of such bond.
+RatioOfTheDecision	It is, therefore, not apposite to characterise the provision as a law for detention contemplated by Art.
+RatioOfTheDecision	22.
+RatioOfTheDecision	The safeguards are therefore different.
+RatioOfTheDecision	The person sought to be bound over has rights which the trial of summons case confers On an accused.
+RatioOfTheDecision	The order is also capable of being questioned in superior courts.
+Precedent	For this (1) 28 C.w.N.
+Precedent	23.
+Precedent	(2) (1869) 12 W.R.
+Precedent	(Cr.)
+Precedent	60.
+RatioOfTheDecision	735  reason, at every step the law requires the Magistrate to state his, reasons in writing.
+RatioOfTheDecision	It would make his action purely administrative if he  were to pass the order for an interim bond without entering upon the inquiry and at least prima facie inquiring into the truth of the information on which the order calling upon the person to show cause is based.
+RatioOfTheDecision	Neither the scheme of the chapter nor the scheme of S. 117 can bear such an interpretation.
+RatioOfTheDecision	We accordingly, held in the case of <NAME> (Writ Petition 307 of 1970- <CITATION_446363> .)
+RatioOfTheDecision	that as the case was simply adjourned from time to time and there was no inquiry before remanding him to custody his detention was illegal.
+RatioOfTheDecision	We may now briefly notice the remaining sections of the Chapter.
+Precedent	Section 118 then lays down that if upon inquiry it is proved that the person be called upon to execute a bond for keeping the peace, or maintaining good behavior the Magistrate may call upon him to execute a bond.
+Precedent	The security must not be more than that stated in the order under S. 112 , nor excessive.
+Precedent	Under s. 119 the Magistrate may discharge the person or release him from custody if the necessity for keeping  him bound over is not proved.
+Precedent	The last Division numbered C relates to proceedings subse- quent to s. 118 .
+Precedent	Section 120 fixes the terminus a quo for the period for which security is required.
+Precedent	Section 121 gives the contents of the bond and the conditions under which there is a breach of the bond.
+Precedent	Section 122 empowers the Magistrate to reject sureties but only after inquiry and recording the evidence and his teasons for rejection.
+Precedent	Section 123 gives power to commit a person to prison or to be detained in prison if already there for the duration mentioned in the bond.
+Precedent	If the period is more than a year then the proceeding-.
+RatioOfTheDecision	; have to be submitted to a superior court.
+RatioOfTheDecision	It also provides for ancillary matters.
+RatioOfTheDecision	Section 124 empowers the District Magistrate or a Chief Presidency Magistrate to release a person so detained when there is no longer any hazard to the community or to any other person.
+RatioOfTheDecision	There are other provisions for reducing security etc.
+RatioOfTheDecision	with which we are not conceded.
+RatioOfTheDecision	Section 125 enables the same Magistrates t o cancel any bond for sufficient reason and under s. 126 the sureties also stand discharged.
+RatioOfTheDecision	Section 126A deals with security for the unexpired period of bond to which no special reference is needed.
+RatioOfTheDecision	The gist of the Chapter is the prevention of crimes and dis turbances of public tranquillity and breaches of the peace.
+RatioOfTheDecision	There is no need to prove overt acts although if overt acts have taken place they will have to be considered The action being preventive is not based on overt act but on the potential danger to 7 36 be averted.
+RatioOfTheDecision	These provisions are thus essentially conceived in the interest of public order in the sense-defined by us.
+RatioOfTheDecision	They are ,also in the interest of the general public.
+RatioOfTheDecision	If prevention of crimes, and breaches of peace and disturbance of public tranquillity are directed to the maintenance of the even tempo of community life.
+RatioOfTheDecision	there can be no doubt that they are in the interest of public order.
+RatioOfTheDecision	As we have shown above 'Public order' is an elastic expression which takes within it various meanings acco rding to the context of the law and the existence of special circumstances.
+RatioOfTheDecision	This power was used in England for over 400 years and is not something which is needed only for administration of colonial empires.
+RatioOfTheDecision	Its need in our society today is as great as it was before the British left.
+RatioOfTheDecision	We find nothing contrary to article 19 (1 )(a) (b) (c) and (d) because the limits of the restrictions are well within cls.
+Precedent	(2) (3) (4) and (5).
+RatioOfTheDecision	We accordingly hold the Chapter as explainby us to be constitutionally valid.
+RatioOfTheDecision	Before we leave this topic it is necessary to emphasise that there is no room for invocation of other provisions of the Code such as s. 55 or 91.
+RatioOfTheDecision	In some of the cases of <ORG>, to which reference is not necessary, recourse has been taken to these provisions in aid of Chapter VIII.
+RatioOfTheDecision	Apart from the fact (which we have sufficiently emphasised above) that s. 107 itself speaks that the procedure of Chapter VII should be followed, s. 55 deals with special cases of arrest and cannot be made applicable 'where  ss.
+RatioOfTheDecision	112 , 113 and 114 of the Code prescribe their own pro- Similarly, s. 91 may be available till the order under s. 112 is drawn up.
+RatioOfTheDecision	After it is drawn up the Magistrate has to act under ss.
+RatioOfTheDecision	113 and 117(1) .
+RatioOfTheDecision	Then there is no room for S.  91.
+RatioOfTheDecision	The reasoning in some of the cases of which <NAME> and Ors.
+RatioOfTheDecision	v. State of Uttar Pradesh(1) is an example, is fallacious.
+RatioOfTheDecision	There is also no question of bail to the person because if instead.of an interim bond, bail for appearance was admissible Chapter VIII would undoubtedly have said so.
+RatioOfTheDecision	Further bail is only for the continued appearance of a person and not to prevent 'him from committing certain acts.
+Precedent	To release a person being proceeded against under ss.
+Precedent	107 / 112 of the Code is to frustrate the very purpose of the proceedings unless his good behaviour is ensured by taking a bond in that behalf.
+RatioOfTheDecision	We have said in our earlier order that we hold the provisions of s. 144 and Chapter VII, as interpreted by us, to be valid.
+RatioOfTheDecision	We have shown above bow these provisions have to b e Understood and applied.
+RatioOfTheDecision	So read, we are of opinion that they do not offend the provisions of Art.
+Precedent	1 9 (1)  (,a)   (b) (c) and (d).
+Precedent	(1) A.I.R.
+Precedent	1958 All.
+Precedent	578.
+Precedent	737  <NAME>, J. I agree with the judgement of my Lord the Chief Justice, with the exception that I am unable to subscribe to the view that, in proceedings started under section 107 of the Code of Criminal Procedure, the Magistrate can direct the person, in respect of Whom an order under Section 112 has been made, to execute a bond , with or without sureties, for keeping the peace pending completion of the enquiry and, in default, detain him in custody until such bond is executed, only after he has entered upon the enquiry under section 1  17 (1) and has found a prima facie case satisfying himself about the truth of the information on the basis of which the proceedings were started.
+RatioOfTheDecision	'This interpretation, in my opinion, will completely defeat the purpose of section 117(3) .
+RatioOfTheDecision	It has to be noticed that, when proceedings are contemplated under section 10 7 , the Magistrate takes action when he is informed that any person is likely to commit a breach of the peace or disturb the public tranquillity, only after forming an opinion that there is sufficient ground for proceeding against him.
+RatioOfTheDecision	The Magistrate cannot start the proceedings merely because of the information received by him.
+RatioOfTheDecision	Pursuant to the information, the Magistrate has to form his opinion that there is sufficient round for proceeding.
+RatioOfTheDecision	This opinion can be formed on the basis of the information supplied to him if he finds that the information is given in sufficient detail and is reliable enough to justify his acting on its basis.
+RatioOfTheDecision	In cases where the information given is not of such nature, it will be the duty of the Magistrate to hold further inquiry and satisfy himself that it is a fit case where action should be taken because sufficient grounds exist.
+RatioOfTheDecision	There may be cases where the information may be received from the <ORG> in which case the Magistrate may examine all the <ORG> papers and satisfy himsel f that there do exist sufficient grounds for him to take, the proceedings as requested by the <ORG>.
+RatioOfTheDecision	There may be cases where the proceedings may be instituted at the instance of a private complainant who may be apprehending breach of the peace by the person complained against.
+RatioOfTheDecision	In such cases, the Magistrate is bound either to hold some inquiry himself by examining witnesses on oath or to have an inquiry made through the <ORG>, so that he may be able to, form a correct opinion as to the existence of sufficient grounds for proceeding.
+RatioOfTheDecision	It is after the Magistrate has taken these steps that he can proceed to make the order under section  112.
+RatioOfTheDecision	When,making that order, he has to record in it in writing the substance of the information received which necessarily means the part of the information which was the basis of his opinion that sufficient ground exist for initiating the proceedings.
+RatioOfTheDecision	It is at this preliminary stage that the Magistrate is thus required to ensure that a prima facie case does exist for the purpos e of .
+RatioOfTheDecision	738  initiating proceedings against the person who is to be called upon to furnish security for keeping the peace.
+RatioOfTheDecision	After the order under section 112 has been issued, the procedure to be adopted is that contained in sections 113 and 114 .
+RatioOfTheDecision	If such person is present in <ORG>, the order under section 112 has to be read over to him and, if he so desires, the substance thereof has to be explained to him.
+RatioOfTheDecision	If ha is not present in <ORG>, the Magistrate has to issue a summons requiring him to appear, or, when such person is in custody, a warrant, directing the' officer in whose custody his, to bring him before the <ORG>.
+RatioOfTheDecision	Another alternative procedure is laid down for cases where it appears to the Magistrate that there is reason to fear the commission of a breach of the peace, and that such breach of the peace cannot be prevented otherwise than by the immediate arrest of such person; in such case-,, the Magistrate can issue a warrant for the arrest of that person.
+RatioOfTheDecision	It is under this procedure that the person appea rs or is brought before the <ORG>.
+RatioOfTheDecision	The proceedings to be take thereafter are laid down in section 117(1) which requires that, as soon as the order under s. 112 has been read or explained to the person present in <ORG> under s. 113 , or to the person who appears or is brought before a Magistrate under s. 114 , the Magistrate has to proceed to enquire into the truth of theinformation upon which action has been taken, and to take such further evidence as may appear necessary.
+RatioOfTheDecision	This inquiry under sub-s.(2) of s. 117 has to be held in the manner prescribed for conducting trials and recording evidence.
+Precedent	in summons cases.
+Precedent	Sub-s. (1) of section 117 , thus, contains a  -mandatory direction on the Magistrate to start proceedings of inquiry as soon as the person, in respect of whom the order under s. 112 has been made, appears before the Magistrate. '
+Precedent	Section 117(1) makes it clear that the Magistrate must institute the inquiry without any unnecessary delay.
+Precedent	This provision cannot, however, be interpreted as requiring that  the inquiry must begin immediately when the person appears in the Court.
+Precedent	Obviously, such a requirement would be impracticable.
+RatioOfTheDecision	In a case where a summons is issued to the person to appear in Court, or a warrant is issued under the proviso to s. 114 for his arrest, the date and time when the person will appear in <ORG> will always remain uncertain.
+RatioOfTheDecision	Some time will have to be taken in serving the summons and, depending on the distance and accessibility of the place where the persons happens to be, the time taken in serving the summons will vary.
+RatioOfTheDecision	Even in cases where a warrant.
+RatioOfTheDecision	is issued under the proviso to S. 1  14 , the person may not be produced in Court immediately because of the place of his arrest which may be miles away from <ORG> .
+RatioOfTheDecision	The Legislatures could not have contemplated that, in such contingencies, witnesses must be kept ready in <ORG> awaiting the appearance of the person concerned, so that the Magistrate can start the inquiry immedia tely.Further, the inquiry under s. 117(1) is directed in the manner prescribed for conducting trials in summons cases.
+RatioOfTheDecision	The result of the inquiry can be that the person concerned can be asked to execute bonds and give sureties for keeping the peace and, if he commits default in doing so, he can be detained in prison losing his personal liberty.
+RatioOfTheDecision	In such cases, the person concerned has a right to be represented by a lawyer in the inquiry.
+RatioOfTheDecision	Consequently, when he appears before the Magistrate, he can legitimately ask for a reasonable adjoumement to enable him to engage a lawyer of his choice and, thus, at his own request, he can ensure that the inquiry does not begin immediately.
+RatioOfTheDecision	The proper interpretation of sub--s. (1) of section 117 , in my opinion, is that the inquiry must be begun as soon as practicable and a Magistrate would be committing a breach of the direction contained in this sub-section if be postpones the inquiry without sufficient reasons.
+RatioOfTheDecision	It is in the light of these principles that, in my opinion, th e power granted to the Magistrate under section 117(3) should be interpreted.
+RatioOfTheDecision	That power is given for cases where immediate measures are necessary for the prevention of a breach of the peace.
+Precedent	In such a situation, the Magistrate can direct the person, in respect of whom the order under s. 112 has been made, to execute a bond, with Or without sureties, for keeping the peace pending completion of the inquiry under s. 117(1) and, if he fails to execute the bond, the Magistrate can direct his detention until the enquiry is concluded.
+Precedent	This power to be raised by the Magistrate in emergent cases has been conferred in the back- ground of the procedure which he has to adopt under section 107 of forming an opinion, after receipt of information, that there do exist sufficient grounds for taking proceedings.
+Precedent	At the first stage, when forming such opinion, the Magistrate naturally acts ex parte and has to rely on information supplied to him or other information obtained by him in the absence of the person againct whom proce edings are to be taken.
+Precedent	It is on the basis of that opinion that the Magistrate proceeds to make the order under s. 112 and is empowered even to issue a warrant of arrest under the proviso to section-114.
+Precedent	The power under s. 117(3) is most likely to be invoked in cases where the Magistrate has, at an earlier stage, issued the warrant under the, proviso to s. 114.
+Precedent	This is so because 'the warrant is issued in cases where breach of the peace cannot be prevented otherwise than by immediate arrest, and S. 117(3) also is to be invoked where the,Magistrate considers that immediate measures are necessary for prevention of breach of the peace.
+Precedent	The <ORG>, having empowered the Magistrate to issue warrant of arrest, naturally proceeded further to give power to the Magistrate in such cases to direct that bonds for keeping the peace be furnished pending completion of the inquiry.
+RatioOfTheDecision	The expression "completion at the inquiry" must be interpreted as the period covered from the beginning of the inquiry until its conclusion.
+RatioOfTheDecision	The bonds can, therefore, cover the period from the moment the inquiry is to begin.
+RatioOfTheDecision	Such a power for requiring that bonds be furnished pending inquiry is obviously necessary where there is immediate danger of breach of the peace and immediate measures are necessary for its prevention.
+RatioOfTheDecision	The order is made on the basis of the earlier opinion formed by the Magistrate under S. 107.
+RatioOfTheDecision	Subsequently, of course, when the inquiry is held under s. 117(1) , the correctness of the information and the tentative opinion formed ex parte under S. 107 will be pro- perly tested after going through the judicial procedure prescribed for the trial of summons cases and, thereupon, if it is found that there was no justification, the order would be revoked.
+RatioOfTheDecision	In my opinion, the grant of such a power to a Magistrate is a very reasonable restriction on the personal liberty of a citizen.
+RatioOfTheDecision	It is needed for prevention of crimes and it can only be effective if its exercise is permitted on the basis of opinion formed by tent authority that immedi ate measures are required.
+RatioOfTheDecision	that, under s. 117(3) , a person can be detained in prior to a Court arriving at a judicial finding against such a procedure is not only reasonable, but essential.
+RatioOfTheDecision	In this respect, the power of a Magis<ORG> in regard son accused of a cognizable offence is comparable.
+RatioOfTheDecision	If <ORG> has sufficiently reliable information to form an opinion that a person has committed a cognizable offence, the Magis<ORG> can ,order his detention as an undertrial prisoner.
+RatioOfTheDecision	At that stage, the law deems that person still to be innocent and, yet, his detention in prison is considered reasonable in order to ensure that a proper ,trial can be held and there is no repetition of the offence of which that person is accused.
+RatioOfTheDecision	This detention as an undertrial prisoner is also based on the ex parte opinion formed by the Magis<ORG> before the actual trial.
+RatioOfTheDecision	The power granted under S. 117(3) is very similar and is intended to ensure that the person, from whom breach of the peace is apprehended, is not at liberty to commit b reach of the peace and thus defeat the purpose of the proceedings by being allowed to remain at liberty without any undertaking during the pendency of the inquiry.
+Precedent	In this connection, it was urged by Mr. <NAME> that, if S. 117(3) is interpreted as permitting a Magistrate to direct furnishing of bonds for keeping the peace and to order detention in default without any evidence being obtained in the course of the inquiry, the Magistrate may keep on adjourning the hearing of the inquiry under s. 117(1) and thus, keep the person in detention for long periods without giving him the opportunity of showing that there is no justification for orders being made against him.
+Precedent	In my opinion, the validity of a provision of this nature is not to be judged from the likelihood of the abuse of the power by the Magistrate.
+Precedent	If the Magistrate.
+Precedent	rafter making orders under s. 117(3) , unnecessarily postpones the inquiry, he would, in my opinion, be not only abusing his powers, but will be acting contrary to the mandate of the law con tained in s. 117(1) itself which, as I have indicated above, requires that the Magistrate must proceed to enquire into the truth of the information without unnecessary delay.
+Precedent	In cases where the power is abused and the hearing is unnecessarily delayed, the proceedings would be liable to be quashed and the person set at liberty on the ground that the Magistrate has not complied with the requirements of s. 1  17 (1 ).
+Precedent	On the other hand, if the Magistrate does comply with s. 117 ( 1 ) by continuing the proceedings of inquiry expeditiously and without any delay, I do not think it can beaid that the detention of the person, against whom the proceeding are being taken, is not a reasonable restriction on his personal liberties when the Magistrate has already found that immediate, measures are necessary for prevention of breach of the peace and the person concerned has defaulted in furnishing bonds to keep the peace during the pendency of the inquiry.
+Precedent	These are the reasons why, in my opinion, the powers under section  117(3) can be exercised without the Magistrate recording evidence and finding a prima facie case after starting the inquiry under section 117(1) .
+Precedent	Even on this interpretation, section 117(3) is valid and is a reasonable restriction under Article 19(2).
+Precedent	(3).
+Precedent	(4) and (5) of the Constitution.
+Precedent	V.P.S.
+Precedent	Directions given.
+RulingByPresentCourt	7 42

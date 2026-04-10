@@ -1,0 +1,79 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: THE STATE OF MADHYA PRADESH AND OTHE DATE OF JUDGMENT: 16/03/1954 BENCH: <NAME>, <NAME> (CJ) BENCH: <NAME>, <NAME> (CJ) <NAME>, <NAME>, <NAME>, <NAME>, <NAME> CITATION: 1954 AIR 403 1954 SCR 1122 CITATOR INFO : F 1955 SC 661 (5,8,60,123,145) R 1955 SC 765 (5) R 1957 SC 397 (14) R 1957 SC 790 (10) RF 1958 SC 578 (228) RF 1959 SC 725 (10) D 1960 SC 424 (14) RF 1961 SC 65 (5) R 1961 SC1615 (11) R 1962 SC 123 (12) RF 1962 SC1006 (77) R 1962 SC1621 (10,12,39,44,45,46,110) R 1967 SC1401 (8) D 1971 SC2280 (11) F 1975 SC1443 (6) ACT: Constitution of India, arts, 19(1)(g), 226, 286(1)(a)- Central Provinces and Berar Sales Tax Act (Act XXI of 1947), as amended by, Act XVI of 1949-Explanation II to section 2(g)-Whether ultra vires the Constitution-Threat to use coercive machinery of Act for realising tax-whether infringement of fundamental rights under art.
+Fact	19(1)(g) of the Constitution.
+RulingByLowerCourt	HEADNOTE: Held, (i) that explanation II to s. 2( g) of the Central Provinces and Berar Sales Tax Act (Act XXI of 1947) as amended by Central Provinces and Berar Act (Act XVI of 1949) is ultra vires <ORG>.
+RulingByLowerCourt	(ii) A threat by the <ORG> to realize tax from the assesses without the authority of law by using the coercive machinery of the impugned Act is a sufficient infringement of his fundamental right under art.
+RulingByLowerCourt	19(1)(g) and gives him a right to seek relief under art.
+RulingByLowerCourt	226 of the Constitution.
+RulingByLowerCourt	The impugned Act, requiring the assesses to-deposit the whole of the tax before he can get the relief provided by it, cannot be said to provide an adequate alternative remedy.
+RulingByLowerCourt	<CITATION_424874> .
+Fact	( s C.R.
+Fact	1069); <CITATION_332955> in council (L.R.
+Fact	74 I.A.
+Fact	50); <CITATION_154519> ( S.C.R.
+Fact	572) referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No, 20 of 1952.
+Fact	Appeal under article 132(1) of the Constitution of India from the Judgment and Order dated the 25th April, 1952, of <ORG> in Miscellaneous Petition No.
+Fact	16 23 of 1951.
+Fact	<NAME> (<NAME> and <NAME> off, with him) for the appellant.
+Fact	<NAME>, Advocate-General of Madhya Pradesh, <NAME>, with him) for respondent No.
+Fact	1.
+Fact	1123  <NAME>, Advocate-General of Madras (<NAME>, with him) for the intervener.
+Fact	1954.
+Fact	MArch 16.
+Fact	The Judgment of, the Court was delivered by <NAME> an appeal by leave from a judgment of <ORG> at Nagpur dated the 25th of April, 1952, dismissing a petition under article 226 of the Constitution of India filed by the appellant questioning the vires of certain provisions of the Central Provinces and Berar Sales Tax Act 1947.
+Fact	The appellant represents a concern <ORG>, a company registered under' the Indian Companies Act , 1913, having its head office at Bombay, and several branches in .
+Fact	the State of Madhya Pradesh.
+Fact	The main business of the appellant company is that of cotton.
+Fact	The head-office of the appellant at Bombay sells cotton bales to several mills  and individuals under the control and the system regulated by the Textile Commissioner at Bombay, and upon a contract of sale being completed the goods after being ginned and pressed are sent from Khamgaon and other places in the State of Madhya Pradesh and are actually delivered in Bombay and such other places outside the State of Madhya Pradesh as directed by the head office.
+Fact	The cotton bales are sent by rail under an insurance in favour of the appellant, and are delivered to the buyer by tender of railway receipt against the payment of price in Bombay.
+Fact	Under the Central Provinces and Berar Sales Tax Act, 1947 (Act I XXI of 1947), cotton was declared liable to sales tax on the 11th of April, 1949, and since that date the appellant commenced paying the tax in respect of the purchases made by it, and continued to pay it till the 31st of December, 1950.
+Fact	For the quarter ending on the 31stof March, 1951, the appellant declined to pay the tax in respect of the purchases made during that quarter, realizing that i t could not be made legally liable for the payment of this tax in the <ORG> of Madhya, Pradesh, the transactions done or effected in Madhya Pradesh not being " sales" within that <ORG>.
+Fact	Apprehending that the company may be subjected to the payment of the tax without authority of law, an application was preferred in <ORG> at Nagpur praying for an appropriate writ or writs which may secure to the company protection from the impugned Act and its enforcement by the <ORG>.
+Fact	It was alleged that Explanation II to section 2(g) of the Central Provinces and Berar Sales Tax Act, 1947, as further amended by Act XVI of 1949 was ultra vires and illegal.
+Fact	This petition, along with a refer eence in another case (Miscellaneous Civil Case No.
+Fact	258 of 1951: A.I.R.
+Fact	1952 Nag.
+Argument	378), was heard by <ORG> of <ORG> and it was held that Explanation II to section 2(g) of the Act was not enforceable because under the Constitution sales tax could only be collected, in the <ORG> where the good s were delivered for consumption.
+Argument	It was further held that Explanation 11 as amended by the C.P.
+Argument	& Berar Act XVI of 1949 was not validly enacted because it made drastic changes in the rules of the Sale of Goods Act .
+Argument	Without obtaining the assent of the Governor-General as required by section 107 of the Government of India Act, 1935.
+Argument	'It was observed that the mere p reduction of the goods in a State is not enough to make the tax payable unless the goods are appropriated to a particular contract, and that to impose the tax at that stage would be tantamount to charging an excise duty and not a tax on the sale of goods.
+Argument	In spite of these findings <ORG> declined to issue a writ and dismissed.
+Argument	the petition made to it under article 226 of the Constitution on the ground that a mandamus issues only to compel an authority to do or abstain from doing some act, that it is seldom anticipatory and certainly never issues where the action of the authority is dependant on some action of the petitioner and that in the  present case the petitioner had not even made his return and no demand for the tax could be made from him.
+Argument	In this appeal it was argued, by <NAME>, learned counsel for the appellant, that an illegal and unjust imposition operates as an illegal restraint on trade and violates fundamental rights, that <ORG> having held that the Constitution by article 286 thereof made delivery of the goods for consumption the decisive factor for determining which State should have the right of taxing such sales, and having thus found the provision of the Explanation to the definition of "sale" unconstitutional, should have issued a writ of mandamus restraining the respondent State from enforcing that part of the Act.
+RatioOfTheDecision	To appreciate the contentions of the learned counsel it is necessary to set out the relevant provisions of the Act which, <ORG> has declared ultra vires the State Legislature.
+Statute	Act XXI of 1947 defines the expression "sale" in section 2(g) of the Act in these terms:- " 'Sale' wit h all its grammatical variations and cognate expressions means any transfer of property in goods for cash or deferred payments or other valuable consideration including transfer of property in goods made in the course of the execution of a contract, but does not include a mortgage, hypothecation, charge or pledge ". "
+Statute	Explanation.
+Statute	(I)-" A transfer of goods on hirepurchase or other instalment system of payment shall, notwithstanding that the seller retains a title to any goods as security for payment of the price, be deemed to be a sale. "
+Statute	Explanation (II)-" Notwithstanding anything to the contrary in the Indian Sale of Goods Act , 1930, the sale of any goods which are actually in the Central Provinces and Berar at the time when the contract of sale as defined in that Act in respect thereof is made, shall, wherever the said contract of sale is made, be deemed for the purpose of this Act to have taken place in the Central Provinces and Berar. "
+Statute	This provision was amended by the Central Provinces and Berar Act  XVI of 1949 which came into force on the 11th of ApriL 1949, by which Explanation II of section 2(g) was amended as follows:-  Explanation (II)-,' Notwithstanding anything to the contrary in the Indian Sale of Goods Act , 1930, the sale or purchase of any goods shall be deemed for the purposes of this Act, to have taken place in this Province-wherever the contract of sale or purchase might have been made  (a) If the goods were actually in this Province at the time when the contract of sale or purchase in respect thereof was made, or  (b) In case, the contract was for the sale or purchase of future goods by description, then, if the goods are actually produced or found in this Province at any time after the contract of sale or purchase in respect 'thereof was made. "
+Statute	Certain amendments were made in the Act, by Act IV of 1951 which came into force on the 1st of April.
+RatioOfTheDecision	1951, but these are not relevant to the present' inquiry.
+RatioOfTheDecision	As pointed out above, <ORG> held that the new Explanation II was ultra vires  <ORG> and that the mere production of goods was not enough to make the tax payable unless the goods were appropriated to a particular contract.
+RatioOfTheDecision	The correctness of this view can no longer be questioned by reason of the majority decision of this court in <CITATION_424874> .
+RatioOfTheDecision	(1), wherein it was held that article 286(1) (a) of the Constitution read with the Explanation thereto and construed in the light of article 301 and article 304 prohibits the taxation of sales or purchases involving inter-<ORG> elements, by all <ORG>s except the <ORG> in which the goods are delivered for the purpose of consumption therein and that the view that the Explanation does not deprive the <ORG>, in which the property in the goods passed, of its taxing power and that consequently both the <ORG> in which the property in the goods passes and the <ORG> i n which the goods are delivered for consumption have the power to tax, is not correct.
+RatioOfTheDecision	The learned Advocate-General of the <ORG> did not in this situation, and very prop erly, challenge the correctness of the decision of <ORG> on this point, and conceded that the Explanation was clearly ultra vires <ORG>.
+RatioOfTheDecision	He however contended that on the principle enunciated by the Privy (1) [1953] S.C.R.
+RatioOfTheDecision	1069.
+Argument	1127  Council in <CITATION_332955> in Council(1), jurisdiction to question assessment otherwise than by use of the machinery expressly provided by the Act, was inconsistent with the statutory obligation to pay, arising by virtue of the assessment and that the liability to pay the sales tax under the Act is a special liability created by the Act itself which at the same time gives a special and particular remedy which ought to be resorted to, and therefore the remedy by a writ ought not to be allowed to be used for evading the provisions of the Act, especially a fiscal Act.
+Argument	It was also said that the con- ditions requisite for the issue of a writ of mandamus were not present in the case and that it was not within the scope and purpose of article 226 of the Const itution to decide an academic question.
+RatioOfTheDecision	In our opinion, the contentions raised by the learned Advocate-General are not well founded.
+RatioOfTheDecision	It is plain that the <ORG> evinced an intention that it could certainly proceed to apply the penal provisions of the Act against the appellant if it failed to make the return or to meet the demand and in order to escape from such serious consequences threatened without authority of law, and infringing fundamental rights, relief by way of a writ of mandamus was clearly the appropriate relief.
+RatioOfTheDecision	<CITATION_154519> (2), it was held by this court that a licence fee on a business not only takes away the property of the licensee but also operates as a, restriction on his fundamental right to carry on his business and therefore if the imposition of a licence fee is without authority of law it can be challenged by way of an application under article 32 , a fortiori also, under article 226.
+RatioOfTheDecision	These observations have apposite application to the circumstances of the present case.
+RatioOfTheDecision	Explanation I I to section 2(g) of the Act having been declared ultra vires, any imposition of sales tax on the appellant in Madhya Pradesh is without the authority of law,, and that being so a threat by the <ORG> by using the coercive machinery of the impugned Act to (1) 74 I.A.
+RatioOfTheDecision	5o.
+RatioOfTheDecision	(2) [1952] S.C.R.
+RatioOfTheDecision	572, I46 realize it from the appellant is a sufficient infringement of his fundamental right under article 19(1) (g) and it was clearly entitled to relief under article 226 of the Constitution.
+RatioOfTheDecision	The contention that because a remedy under the impugned Act was available to the appellant it was disentitled to relief under article 226 stands negatived by the decision of this court in <CITATION_424874> .
+RatioOfTheDecision	(1), above referred to.
+RatioOfTheDecision	There it was held that the principle that a court will not issue a prerogative writ when an adequate alternative remedy was available could not apply where a party came to the court with an allegation that his fundamental right had been infringed and sought relief under article 226.
+RatioOfTheDecision	Moreover, the remedy prov ided by the Act is of an onerous and burdensome character.
+RatioOfTheDecision	Before the appellant can avail of it he has to deposit the whole amount of the tax.
+RatioOfTheDecision	Such a provision can hardly be described as an adequate alternative remedy.
+RatioOfTheDecision	For the reasons given above, we are of the opinion that <ORG>, having held that the Explanation II to section 2(g) of the Act was ultra vires, was in error in dismissing the application on the ground that it was not entitled to relief under the provisions of article 226 of the Constitution.
+RatioOfTheDecision	In the result therefore we &How this appeal with costs and direct an appropriate writ to issue restraining the first respondent from imposing or authorising imposition of a tax on the appellant in exercise of its authority under Explanation 11 held void.
+RulingByPresentCourt	Appeal allowed.
+Fact	(I) [1953] S.C.R.
+Fact	1069.
+Fact	1129

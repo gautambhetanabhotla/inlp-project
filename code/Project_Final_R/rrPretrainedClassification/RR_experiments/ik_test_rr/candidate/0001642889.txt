@@ -1,0 +1,115 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	(1) <ORG> Delhi Bench) (hereinafter referred to as Tribunal has referred the following two questions to this Court, under section 66(1) of the Indian Income-tax Act, 1922 (hereinafter referred to as the Act):- "1.
+Fact	Whether on the facts and in the circumstances of the case, the sum of Rs.
+Fact	5,349.00 paid by the <ORG> to <ORG>, Kanpur was a business expenditure of revenue nature ?
+Fact	2.
+Fact	Whether on the facts and in the circumstances of the case, the <ORG>'s business of printing and publishing books was a newly established industrial undertaking entitled to the exemption from tax under section 15C of the Income-tax Act, 1922 ?"
+Fact	(2) The facts relevant to the first question may briefly be stated : <ORG>, Delhi, (hereinafter referred to as the <ORG>) is a registered firm carrying on business of publishing books.
+Fact	The <ORG> wanted to obtain recognition of <ORG> for some of the textbooks published by it in o rder to enable the assessed to sell the text books in the territory of Himachal Pradesh.
+Fact	For this purpose, the assessed entered into an agreement with another firm, <ORG>, Kanpur, which, according to the assessed, was in a position to use its influence for obtaining recognition of the assessed's text books from <ORG> This agreement was entered into sometime in September, 1959.
+Fact	Under this agreement, the assessed agreed to pay 6"% royalty on the net sales of such approved books in consideration for the services of <ORG> for obtaining such recognition to the assessed's text books.
+Fact	The assessed did obtain recognition for its text books through the good offices of <ORG>, <ORG> and it paid to <ORG> a sum of 5,349.00 during the accounting period relevant to the assessment year 1961-62.
+Fact	The assessed claimed deduction of the said amount in computing its income for the said year.
+Argument	The assessed's claim was rejected by <ORG> x Officer on the ground that the amount represented capital expenditure and on the same ground, the disallowance was confirmed by the Appellate Assistant Commissioner.
+Argument	The <ORG>, however, allowed the assessed's claim holding that it was a revenue expenditure and directed the Income-tax Officer to delete the said amount from the income of the assessed.
+Argument	At the instance of the <ORG>, the <ORG> has, however, referred the first question to this Court under sections 66(1) of the Act.
+Argument	(3) The question, as framed by the <ORG>, would suggest that the <ORG> did not accept that the amount of Rs.
+Argument	5,349.00 was even a business expenditure in the sense that it was laid out wholly and.
+Argument	exclusively for the purpose of the business of the assessed.
+Argument	But <NAME>, learned counsel for the <ORG>, conceded that the amount in question was a business expendtiure in the sense that it was laid out wholly and exclusively for the purpose of the assessed's business.
+Argument	He, however, contended that, although the amou nt represented a business expenditure of the assessed, yet it was of the nature of capital expenditure which was not allowable under section 10(2) (xv) of the Act.
+RatioOfTheDecision	(4) The question whether a particular expenditure is of a capital or of a revenue nature is a vexed question.
+RatioOfTheDecision	The principles on which such a question has to be determined are very well known, having been laid down by the courts in England as well as in this country.
+RatioOfTheDecision	These principles have been summarised by <ORG> in the leading case on the subject, namely, <CITATION_923991> , (1955) 27 I.T.R.
+RatioOfTheDecision	34, (1) in the following terms:- "INcases where the expenditure is made for the initial outlay or for extension of a business or a substantial replacement of the equipment, there is no doubt that it is capital expenditure.
+RatioOfTheDecision	A capital asset of the business is either acquired or extended or substantially replaced and that outlay whatever be its sources whether it is drawn from the capital or the income of the concern is certainly in the nature of capi tal expenditure.
+RatioOfTheDecision	The question however arises for consideration where expenditure is incurred while the business is going on and is not incurred either for extension of the business or for the substantial replacement of its equipment.
+RatioOfTheDecision	Such expenditure can be looked at either from the point of view of what is acquired or from the point of view of what is the source from which the expenditure is incurred.
+RatioOfTheDecision	If the expenditure is made for acquiring or bringing into existence an asset or advantage for the enduring benefit of the business it is properly attributable to capital and is of the nature of capital expenditure.
+RatioOfTheDecision	If on the other hand it is made not for the purpose of bringing into existence any such asset or advantage but for running the business or working it with a view to produce the profits it is a revenue expenditure.
+RatioOfTheDecision	If any such asset or advantage for the enduring benefit of the business is thus acquired or brought into existence it would be immaterial whether the source of the payment was the capital o r the income of the concern or whether the payment was made once and for all or was made periodically.
+RatioOfTheDecision	The aim and object of the expenditure would determine the character of the expenditure whether it is a capital expenditure or a revenue expenditure.
+RatioOfTheDecision	The source or the manner of the payment would then be of no consequence.
+RatioOfTheDecision	It is only in those cases where this test is of no avail that one may go to the test of fixed or circulating capital and consider whether the expenditure incurred was part of the fixed capital of the business or part of its circulating capital.
+RatioOfTheDecision	It, it was part of the fixed capital of the business it would be of the nature of capital expenditure and if it was part of its circulating capital it would be of the nature of revenue expenditure.
+RatioOfTheDecision	These tests are thus mutually exclusive and have to be applied to the facts of each particular case in the manner above indicated.
+RatioOfTheDecision	It has been rightly observed that in the great diversity of human affairs and the complicated nature of business operations i t is difficult to lay down a test which would apply to all situations.
+RatioOfTheDecision	One has therefore got to apply these criteria one after the other from the business point of view and come to the conclusion whether on a fair appreciation of the whole situation the expenditure incurred in a particular case is of the nature of capital expenditure or revenue expenditure in which latter event only it would be a deductable allowance under section 10(2)(xv) of the Income-tax Act.
+RatioOfTheDecision	The question has all along been considered to be a question of fact to be determined by the Income- tax authorities on an application of the broad principles laid down above and <ORG> would not ordinarily interfere with such findings of fact if they have been arrived at on a proper application of those principles."
+RatioOfTheDecision	(5) Although these principles are well-settled, the difficulty arises in the application of such principles to the facts and circumstances of each case.
+RatioOfTheDecision	This difficulty has been recognised by <ORG> in <CITATION_113 5657> , (1962) 44 I.T.R, 689, (2) and the following caution has been administered with regard to the application of the general principles to the facts of each particular case :- "NONEof the tests laid down in various authorities is either exhaustive or universal.
+RatioOfTheDecision	Each case must depend on its own facts, and a close similarity between one case and another is not enough, because even a single significant detail may alter the entire aspect.
+RatioOfTheDecision	In deciding such cases, one should avoid the temptation to decide cases.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.by matching the colour of one case against the colour of another."
+Precedent	(6) This caution has been reiterated by <ORG> in a later case, namely, <CITATION_423695> , (1966) 59 I.T.R.
+Precedent	718.
+Argument	(3) (7) So far as the facts of the present case are concerned, although the assessed had been carrying on business of publishing books in the earlier years also, it had not obtained recognition of its text books in Himachal Pradesh and it was for the first time during the assessment year under reference that  the assessed obtained such recognition.
+Argument	As a result of obtaining such recognition, the assessed was able to sell its text books in the territory of Himachal Pradesh.
+Argument	Without obtaining such recognition, the assessed could not have sold its text books in the said territory.
+Fact	"This recognition resulted in the expansion of the assessed's .business in a new territory.
+RatioOfTheDecision	This recognition, therefore, brought to the asse-ssee an advantage of 'an enduring nature.
+RatioOfTheDecision	What is an advantage of an enduring nature has been explained by <NAME> in <ORG> & <ORG> v. <ORG>, 61 C.L.R.
+RatioOfTheDecision	337, (4) "WHENthe words 'permanent' or 'enduring' are used in this connection it is not meant that the advantage which will be obtained will last for ever.
+RatioOfTheDecision	The distinction which is drawn is that between more or less recurrent expenses involved in running a business and an expenditure for the benefit of the business as a whole" .... e.g.
+RatioOfTheDecision	..... "enlargement of the goodwill of a company" -"pe rmanent improvement in the material or immaterial assets of the concern."
+RatioOfTheDecision	(8) The fact that the consideration paid to <ORG> for obtaining this advantage for the assessed was not in the shape of a lump sum payment but was in the shape of royalty at 6"% on the net sales of the approved text books, will not alter the nature of the expenditure.
+RatioOfTheDecision	As observed in (1955) 27 I.T.R.
+RatioOfTheDecision	34 by <ORG>, the source and the manner of the payment would then be of no consequence.
+RatioOfTheDecision	The expenditure was not incurred for the purpose of running the business of the assessed but for the purpose of acquiring a valuable right.
+RatioOfTheDecision	We, therefore, hold that the amount in question was a capital expenditure and was not allowable under section 10(2) (xv) of the Act.
+RatioOfTheDecision	The first question, referred to us is, therefore, answered in the negative, i.e., in favor of the <ORG> and against the assessed.
+RatioOfTheDecision	(9) The facts relevant to the second question may now be stated.
+RatioOfTheDecision	In the years prior to the assessment year 1961-62, the assessed  was getting its books printed in some other printing press.
+RatioOfTheDecision	For the first time during the assessment year, the assessed started printing its books in its own printing press.
+RatioOfTheDecision	It would appear from the assessment order, Annexure 'A' to the statement of the case, that in the earlier year, the assessed had claimed type replacement expenses and also that the assessed's press had worked for 8 months in that year as against 12 months in the present year.
+RatioOfTheDecision	This would indicate that the assessed was already having a press of its own even in the earlier year, although it was getting its books printed else where.
+RatioOfTheDecision	But in the appellate order of the <ORG> as well as in the statement of the case, it has been stated that the assessed had established a printing press in this year and that the printing of books was a new venture for the first time.
+RatioOfTheDecision	We would have wished that the relevant facts necessary for the application of section 15C of the Act had been investigated in greater detail and a definite finding had been given w hether the <ORG> was already having a printing press in the earlier year as stated by the income-tax officer in his assessment order or whether the <ORG> had installed a printing press for the first time in this year and also whether the printing press installed by it was a new one or whether it was a secondhand one.
+RatioOfTheDecision	But we shall proceed on the basis of what is stated in the appellate order of the <ORG> and in the statement of the case and assume that the <ORG> had installed a new printing press for the first time in this year only and that the <ORG> printed its books in its own printing press.
+RatioOfTheDecision	On the basis of these facts, it cannot be seriously disputed that the business of the <ORG> is ill the nature of an industrial undertaking which manufacturs or produces articles, namely, books.
+RatioOfTheDecision	It is also not disputed that the <ORG> satisfies clause (iii) of sub-section (2) of section 15C of the Act inasmuch as it employs 10 or more workers in a manufacturing process carried on with the aid of powe r. The learned counsel for the <ORG>, <NAME>, however, conteads that the assessed does not satisfy clause (i) of sub-section (2) of this section which reads as follows :- "(2)This section applies to any industrial undertaking which - (i) is not formed by the splitting up, or the reconstruction of business already in existence or by the transfer to a new business of building, machinery or plant previously used in any other business."
+RatioOfTheDecision	(10) According to the learned counsel, the industrial undertaking of the assessed was formed by the reconstruction of business already in existence.
+RatioOfTheDecision	We find considerable force in this contention.
+RatioOfTheDecision	In <ORG>, 3rd Edition, the word 'reconstruction' has been explained thus at page 2491 :- 'WHATdoes 'reconstruction' mean ?
+RatioOfTheDecision	To my mind it means this-an Undertaking of some definite kind is being carried on, and the conclusion is arrived at that it is not desirable to kill that undertaking but that it is desirable to preserve it in some form, and to do so -not by selling it to an outsider who shall carry it on (that would be a mere sale) but, in some altered form, to continue the undertaking in such a manner as that the persons now carrying it on will substantially continue to carry it on.
+RatioOfTheDecision	It involves that substantially the same business shall be carried on, and substantially the same persons shall carry it on.
+RatioOfTheDecision	But it does not involve that all the assets shall pass to the new or resuscitated company, or that all the shareholders of the old company shall be shareholders in the new company, or resuscitated company.
+RatioOfTheDecision	Substantially the business and the the persons intrested must be the same.
+RatioOfTheDecision	Does it make any difference that the new company or resuscitated company does, or does not, take over the liabilities ?
+RatioOfTheDecision	I think not.
+RatioOfTheDecision	I think it is none the less a reconstruction because from the assets taken over some part is excepted,^ provided that substantially the business is taken; and it is immaterial whether the liabilities are taken over by the new or resuscitated compa ny or are provided for by excepting from the scheme of reconstruction a sufficient amount to answer them.
+RatioOfTheDecision	It is not, therefore, vital that either the whole assets should be taken over, or that the liabilities should be taken over.
+RatioOfTheDecision	You have to see whether substantially the same persons carry on the same business; and, if they do, that is a reconstruction."
+RatioOfTheDecision	(11) The meaning of this word 'reconstruction' has also been explained by <ORG> in <CITATION_797545> ., (1959) 35 I.T.R.
+RatioOfTheDecision	662(¯) in the following terms:- "THEreconstruction of a business or an industrial undertaking must necessarily involve the concept that the original business or undertaking is not to cease functioning, and its identity is not to be lost or abandoned.
+RatioOfTheDecision	The concept essentially rests on changes but the changes must be constructive and not destructive.
+RatioOfTheDecision	The underlying idea of a recons truction is of a "business already in existence" : there must be a continuation of the activities and business of the same industrial undertaking.
+RatioOfTheDecision	The undertaking must continue to carry on the same business though in some altered or varied form.
+RatioOfTheDecision	If the alterations and changes are substantial, there would be little scope for describing what emerges as a reconstruction of the business.
+RatioOfTheDecision	For instance, if the ownership of a business or an undertaking changes hands not ostensibly but in reality and effectively, that would not be reconstruction.
+RatioOfTheDecision	Or, if the very nature of the business is changed, that again would not be reconstruction.
+RatioOfTheDecision	On the other hand, reorganisation of the business on.
+RatioOfTheDecision	sounder lines or alterations in the mode or method or scope of the activities of the business or in its personnel or infusion of new blood in the management or control of the business which may even be by some changes in the constitution of persons interested in the undertaking would be no more than reconstruction of the business if it is substantially the same business carried on by substantially the same persons.
+RatioOfTheDecision	In these matters, we have to look at the substance of the tran saction and not the form.
+RatioOfTheDecision	If, looking at the substance of the transaction, it is a sale, then the concept of reconstruction must be ruled out for in such a case there is no scope for speaking about any reconstruction of an existing business."
+RatioOfTheDecision	(12) The assessed was already carrying on the business of publishing books in the earlier years.
+RatioOfTheDecision	The only change that took place in the present year is that instead of getting its books printed in some other press, it printed its books in its own press.
+RatioOfTheDecision	It was not an altogether new business which the assessed had established in the present year.
+RatioOfTheDecision	The business which the assessed was carrying on in the earlier years was the same business which the assessed carried on in the present year, namely, the publishing of books.
+RatioOfTheDecision	The business of the assessed in the earlier years may not amount to an industrial undertaking inasmuch as on the facts in the appellate order of the <ORG> and in the statement of the case, the assessed was not having a printing press of its own.
+RatioOfTheDecision	But non- the-less it was a business which the assessed was carrying on in the earlier years.
+RatioOfTheDecision	The benefit under section 15C was only available to an assessed who forms any industrial undertaking by the reconstruction of business already in existence.
+RatioOfTheDecision	It is significant that the word used in clause (i) of sub-section (2) of section 15C of the Act is 'business' and not 'industrial undertaking'.
+RatioOfTheDecision	Therefore, if an industrial undertaking is formed by the reconstruction of a business already in existence, the tax exemption under section 15C of the Act will not be available to the assessed.
+RatioOfTheDecision	We are.
+RatioOfTheDecision	therefore, of the view that the facts of the assessed's case come within the mischief of clause (i) of sub-section (2) of section 15C of the Act and the assessed is not entitled to the tax exemption under section 15C of .
+RatioOfTheDecision	.
+RatioOfTheDecision	the Act.
+RatioOfTheDecision	We, therefore, answer the second question also in the negative, i.e.
+RatioOfTheDecision	against the assessed and in favor of the <ORG>.
+RatioOfTheDecision	The assessed will pay the costs to the <ORG> Counsel's fee is fixed at Rs.
+RatioOfTheDecision	250.00

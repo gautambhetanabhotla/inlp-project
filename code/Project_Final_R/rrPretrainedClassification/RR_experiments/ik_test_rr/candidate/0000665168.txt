@@ -1,0 +1,59 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This appeal by special leave raises the question of the interpretation of Item No.
+Fact	39 of the Notification No.
+Fact	58, dated October 24, 1953, hereinafter called the 'Notification', issued by <ORG> under the Madhya Bharat Sales Tax Act, Samvat 2007 (Act No.
+Fact	30 of 1950), hereinafter called the Act.
+Fact	2.
+Fact	The facts are as follows : <NAME>, the respondent, is the manager of a joint Hindu family carrying on business in the name and style of "Messrs. <NAME>".
+Fact	The joint family owns a re-rolling mill situated in Indore City called <ORG>.
+Fact	The said family purchases scrap iron locally and imports iron plates from outside and after converting them into bars, flats and plates in the <ORG> sells them in the market.
+Fact	The respondent made a default in furnishing the returns prescribed by s. 7(i) of the Act for the period April 1, 1954, to March 31, 1955.
+Fact	On February 27, 1956, the Sales-tax Officer, Indore, determined the taxable tu rnover at Rs.
+Fact	2,26,000 and the sales-tax payable thereon at Rs.
+Fact	8,000; and he also imposed a penalty of Rs.
+Fact	1,000 under s. 14(1)(c) of the Act.
+Fact	On the same day he issued demand notices to the respondent for the payment of the said sales-tax and the penalty.
+Fact	On September 10, 1956, the respondent filed a petition in <ORG> of Madhya Bharat (afterwards Madhya Pradesh) under Arts.
+Fact	226 and 227 of the Constitution for the issue of appropriate writs quashing the assessment of tax and penalty and to restrain the State from giving effect to the said orders of the Sales-tax Officer.
+Fact	<ORG> of <ORG> held that the iron bars, flats and plates sold by the respondent were exempted from sales-tax under the Notification.
+Fact	In that view, the orders of the Sales-tax Officer were quashed.
+Fact	The state has filed the present appeal, by special leave.
+Fact	3.
+Fact	The only question in this appeal is whether the said iron bars, flats and plates are not iron and steel within the meaning of Item No.
+Fact	39 of the Notification .
+Argument	4.
+Statute	<ORG> enacted Essential Goods (Declaration and Regulation of Tax on Sales or Purchases) Act, 1952 (Act No.
+Statute	52 of 1952), which came into force on August 9, 1952.
+RatioOfTheDecision	In Schedule I of the said Act, iron and steel were declared essential for the life of the community.
+RatioOfTheDecision	Thereafter, <ORG>, in exercise of the powers conferred by s. 5 of the Act, issued the Notification as also Notification No.
+Statute	59, dated October 24, 1953.
+Statute	The material part of Schedule I of Notification 58 reads :  "No tax shall be payable on the sale of the following goods :-  ----------------------------------------------------------------------  S. No.
+Statute	Description of goods.
+Fact	--------------------------------------------------------------------- 39 Iron and steel.
+Fact	---------------------------------------------------------------------- 5.
+Fact	Notification No.
+Fact	59 described the goods sales of which were taxable at particular rates.
+Fact	Schedule IV thereof reads :  "List of articles under section 5 of the Madhya Bharat Sales Tax Ac t, 1950, on the assessable sale proceeds of which sales tax at the rate of Rs.
+Fact	3/2/- per cent.
+Fact	shall be payable, showing the nature of articles on which the tax is payable.
+Fact	----------------------------------------------------------------------  S. No.
+Fact	Name of article Stage of sale in Madhya Bharat at which the tax is payable.
+Fact	---------------------------------------------------------------------- 9 .... goods prepared from sale by importer or producer.
+RulingByLowerCourt	any metal other than gold and silver....... ----------------------------------------------------------------------  6.
+RulingByLowerCourt	Learned counsel for the <ORG> contends that the expression "iron and steel" means iron and steel in the original condition and not iron and steel in the shape of bars, flats and plates.
+RatioOfTheDecision	In our view, this contention is not sound.
+RatioOfTheDecision	A comparison of the said two Notifications brings out the distinction between raw-materials of iron and steel and the goods prepared from iron and steel : while the former is exempted from tax, the latter is taxed.
+RatioOfTheDecision	Ther efore, iron and steel used as raw-material for manufacturing other goods are exempted from taxation.
+RatioOfTheDecision	So long as iron and steel continue to be raw-materials, they enjoy the exemption.
+RatioOfTheDecision	Scrap iron purchased by the respondent was merely re-rolled into bars, flats and plates.
+RatioOfTheDecision	They were processed for convenience of sale.
+RatioOfTheDecision	The raw-materials were only re-rolled to give them attractive and acceptable forms.
+RatioOfTheDecision	They did not in the process lose their character as iron and steel.
+RatioOfTheDecision	The dealer sold "iron and steel" in the shape of bars, flats and plates and the customer purchased "iron and steel' in that shape.
+RatioOfTheDecision	We, therefore, hold that the bars, flats and plates sold by the assessee are iron and steel exempted under the Notification.
+RatioOfTheDecision	The conclusion arrived at by <ORG> is correct.
+RatioOfTheDecision	7.
+RulingByPresentCourt	In the result, the appeal fails and is dismissed with costs.
+RulingByPresentCourt	8.
+RulingByPresentCourt	Appeal dismissed.

@@ -1,0 +1,135 @@
+RulingByLowerCourt	PETITIONER: THE SENIOR ELECTRIC INSPECTORAND OTHERS Vs. RESPONDENT: <NAME> AND OTHERS DATE OF JUDGMENT: 16/08/1961 BENCH: <NAME>, K. BENCH: <NAME>, <NAME>, <NAME>, M. CITATION: 1962 AIR 159 1962 SCR (3) 146 CITATOR INFO : APL 1963 SC 445 (4) R 1964 SC 828 (18) E&R 1978 SC 548 (8) R 1988 SC 191 (45) RF 1992 SC 573 (33) ACT: Telegraphy-Wireless-Station-Expression "Telegraph line", Meaning of-If includes electric lines used for the purpose of wireless telegraph- Indian Electricity Act , 1910 , ss.2,34(2) (b) Indian Telegraph Act , 1885 , 3(4)- Electricity (Supply) Act  Statute- Construction-Maxim Contemporanea Expositio eat optima et fortissima in lege-If applicable to Acts comparatively modern-Mode of Interpretation.
+Fact	HEADNOTE: Severe electrical interference was observed in a <ORG> which was traced to the respondent No.
+Fact	1's factory where a number of motors,-were operated for the purpose of working electric drills.
+Argument	The Senior Electric Inspecto r issued a notice to the first res- pondent to show cause as to why an order under s.34(2) (b) of the Indian Electricity Act requiring discontinuance of the operation of the electric motors in the said factory should not be made.
+Argument	The first respondent challenged the said order by a writ petition contending inter alia that there was no "Telegraph Line" in <ORG> within the meaning of s.34(2)(b) of the Act.
+Argument	<ORG> held, firstly, that the word 'line' in the expression telegraph line' connotes the existence of a defined channel of communication which has got a physical existence and that wireless telegraphy is dependent upon transmission through space of electric waves and that is not a defined physical channel.
+Argument	Secondly, the expression "telegraph line", as used in s. 34  2 )(b) of the Indian Elec- tricity Act, has, in the absence of any new definition in that Act, to be given the same sense as the <ORG> had intended in 1885 by the definition of that expression in t he earlier Act.
+RatioOfTheDecision	This reason is based upon the maxim contemporaries exposition west optima et fortissima in lege (contemporaneous exposition is the best and strongest in law).
+RatioOfTheDecision	The appellants contended that the definition of "telegraph line" in the Indian Telegraph Act , 1885, was wide enough to take in electric lines used for the purpose of 147 wireless telegraph and <ORG> went wrong in invoking the old maxim contemporanea expositio est optima et fortisima in lege in construing the provisions of a modern statute.
+RatioOfTheDecision	Held, that the combined reading of the relevant, provisions of the Indian Electricity Act , 1910, and the Indian Telegraph Act , 1885, a "Telegraph line" is comprehensive enough and means a wire or wires used for the purpose of an appliance or apparatus for receiving telegraphic or other communications by means of electricity, and it need not be a continuous physical channel from the point of transmission to the point of reception.
+RatioOfTheDecision	A wireless transmitter transmits sound as electro-magnetic wa ves and the said waves are detected by the aerial and fed into the receiving apparatus by wires.
+RatioOfTheDecision	So the wires of the aerials well as of the apparatus are used for the purpose of the apparatus receiving communications.
+RatioOfTheDecision	Thus, the receivingapparatus employs "telegraph lines" within the meaning ofs.3 (4) of the Telegraph Act , 1885.
+RatioOfTheDecision	Held, further, that the maxim contemporanea expositio as laid down by <NAME> was applied to construing ancient statutes, but not to interpreting Acts which were comparatively modem: The fundamental rule of construction is the same whether the court is asked to construe a provision of an ancient statute or that of a modern one, namely what is the expressed, intention of the <ORG>.
+RatioOfTheDecision	In a modern progressive society it would be unreasonable to confine the intention of a <ORG>- to the meaning attributable to the word used at the time the law was made, and unless a contrary intention appeared, an interpretation should be given to the words used to take in new facts and situations,  if the words are capable of comprehending them.
+RatioOfTheDecision	The maxim "contemporanea expositio" could not be invoked in construing the word "telegraph line" in the Indian Electricity Act , 1910.
+RatioOfTheDecision	<ORG> v. <NAME>, (1906)1 Ch.
+Fact	179, Attorney- General v.. <ORG> of London, (1880)6 Q.
+Fact	B. D. 244 In re <ORG>, (1932) A. C. 304, <ORG>.Ex parte <NAME>, (1935) 54 C.L.R.
+Fact	262 and <NAME> v. <ORG> ,of Austratia, (1936) A.C. 578, referred to.
+Fact	<CITATION_1425329> .
+Fact	(1959) S.C.R.
+Fact	379, relied on., 148 JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	328,of 1958.
+Fact	Appeals from the judgment and order dated September 12, 1956, of <ORG> in Appeal from Original Order No.
+Fact	15 of 1955.
+Fact	<NAME> and <NAME>, for the appellants.
+Fact	<NAME> and <NAME>, for respondent No.
+Fact	2.
+RatioOfTheDecision	1961.
+RatioOfTheDecision	August 16.
+Fact	The Judgment of the Court was delivered by <NAME> appeal raises the question of construction of the  expression ,,telegraph line" in S. 34(2)(b) of the Indian Electricity Act, 1910 (Act 9 'of 1910), (hereinafter called the' Act).
+Fact	The first respondent, <NAME>, carries on business, as motor coach builder;, under the name and style of "<ORG>" having, his factory at 139, Regent Park, Tollygunge in the suburbs of Calcutta., In the said factory a number of "<ORG>" are operated for the purpose of working electric drills.
+Fact	Within a distance of 100 feet of the said factory, there is <ORG>, which, besides functioning as a coast station communicating with ships at sea, handles public messages in large volume from Darjeeling, Shillong, Gauhati, Agartala and New Delhi.
+Fact	In or about Aril, 1953 severe electrical interference was observed in the said station and experts attributed the same.
+Fact	to local induction from the first respondent's factory.
+Fact	On October 13, 1953, the Senior Electric Inspector issued a notice to the first respondent to show cause wri ting as to why an order under s. 34(2)(b) of the Act, read with notification No.
+Fact	4193-COM, dated August 1 14, 1929 requiring discontinuation of the operation of <ORG> in the said factory premises should' not be made.
+Fact	After some correspondence: on: December 1, 1953, the Senior Electric Inspector made an order under a.
+Fact	34(2)(b) of the Act requiring the first respondent to remedy the injuries affecting the lines used for wireless telegraphic communications at- the Wireless Receiving Centre.
+Fact	On January 12, 1954, the first respondent filed a petition in <ORG> at Calcutta under Art.
+Argument	226 of the Constitution pray for a writ of mandamus or any other appropriate mug writ directing the appellants to withdraw and cancel the said order and to forbear from giving effect to the same.
+Argument	The petition came up for hearing, in the first instance, before <NAME> of that <ORG>.
+Argument	It was contended, interalia, that there was no "telegraph line" in <ORG> within the mean ing of s.34(2)(b) of the Act, and, therefore, the notice issued by the Senior Electric Inspector was without jurisdiction.
+RulingByLowerCourt	<NAME> rejected the contention and dismissed the petition.
+RulingByLowerCourt	But on appeal, a division bench of <ORG>, consisting of <NAME>, <NAME>, and <NAME>, accepted the contention of the first respondent and issued a writ as prayed for.
+Fact	The present appeal is directed against the said order.
+Argument	Learned counsel for the appellants contends that the definition of ",'telegraph line" in the Indian Telegraph Act , (Act 13 of 1885), which is included by reference in the Act,- is wide, enough to take in electric lines used for the purpose of wire.
+RatioOfTheDecision	less telegraph and that <ORG> of <ORG> went wrong in invoking the old maxim contemporanea expositio est optima et fortissima in lege in construing the provisions of a modern state.
+RatioOfTheDecision	The first respondent is ex parte; but in this case hisviewpoint is forcibly expressed in the judgment of <ORG> under appeal.
+RatioOfTheDecision	To appr eciate the rival contentions, it is necessary at the outset.
+RatioOfTheDecision	to read I the relevant provisions of the Act and the Telegraph Act .
+Statute	150   The Indian Electricity Act , 1910 Section 34 .
+Statute	(2) If at any time it is estab- lished to the satisfaction of the appropriate Government-  (b)that any electric supply lines or other works for the generation, transmission, supply or use of energy are attended with danger to the public safety or to 'human life or injuriously affect any telegraph line, the appropriate Government may, by order in writing, specify the matter complained of and require the owner or user of such electric supply-lines or other works to remedy it in such manner as shall be specified in the order, and may also in like manner forbid the use of, and the supply of energy to, any electric supply-line or works 'until the order is complied with or for such time as is speci- fied in the order.
+Statute	Section 2 .
+Statute	In this Act, expression,.
+Statute	; defined in the Indian Telegraph Act , 1885, or in the Electricity (Supply) Ac t , 1948, have the meanings assigned to them in either of those Acts............
+Statute	The Indian Telegraph Act , 1885 Section 3 .
+Statute	(1) "telegraph" means an electric, galvanic or magnetic telegraph, and includes appliances and apparatus for making, transmitting or receiving telegraphic telephonic or other communications means of electricity, galvanism or magnetism.
+Statute	(4)"telegraph line" means a wire or wires used for the purpose of a telegraph with any casing, coating, tube or pipe enclosing the same and any appliances and apparatus con- nected therewith the purpose of fixing or insulating the same.
+Statute	A combined reading of the relevant provisions of the two Acts may-be expressed thus: "'Telegraph line" means a wire or wires used for the purpose of an appliance or apparatus for receiving telegraphic or other communications by means of electricity.
+Statute	If it is established to the satisfaction of the appropriate <ORG> that any works for the generation transmission supply, or use of electrical energy injuriously affec ts such a telegraph line the said Government is authorized to take appropriate action under.s.
+Argument	34 of the Act.
+Argument	It is not disputed that in the said factory a number of <ORG> are operated for the purpose of working electric drills and it is also established that the interference with the reception of messages at the Telegraph Wireless Station is, attributable to local induction from the said factory.
+Argument	But the, dispute between the parties centers round the question whether the said interference with the reception of messages at the said Station injuriously affects any telegraph line within the meaning of s. 34 of the Act.
+Statute	<ORG> clearly comes within the definition of "telegraph" in the Telegraph Act .
+Statute	The Telegraph Act was passed in 1885.
+RatioOfTheDecision	"Telegraph" then meant "an electric, galvanic or magnetic telegraph and appliance, and apparatus for telegraphic, telephonic or other communications by means of electricity, galvanism or magnetism".
+RatioOfTheDecision	At that time wireless teleg raphy or radio had not been developed.
+RatioOfTheDecision	In the year 1914,s.
+RatioOfTheDecision	3(1) of the said Act was amended and the following words were inserted after the words "apparatus for" : "'making transmitting or receiving".
+RatioOfTheDecision	With the result that, after the amendment, receiving of communications by means of electricity was included in the definition.
+RatioOfTheDecision	A <ORG> receiving station certainly receives communications by means of electricity, and therefore, it.
+RatioOfTheDecision	is "telegraph" within the meaning of said definition.
+RatioOfTheDecision	Though the., said station may be within the definition of "telegraph", the question still remains whether there is a "telegraph line", for, under the definition, to be a ',,telegraph line" there shall.be a wire or wires used for the purpose of an apparatus receiving communications by means of electricity Under the heading "wireless telegraphy" in.
+RulingByLowerCourt	the Encyclopedia Britannica, Vol.
+Argument	28, a brief but adequate description of a wireless telegraphy is given thus "A wireless transmitter is a device for producing rapid oscillatory motion  of electri- city which is the origin of electric waves.
+Argument	Such electric waves are detected at a wireless receiving station b 'the effects of the rapidly varying electric and magnetic forces Which constitute the electric wave- motion."
+RatioOfTheDecision	Are any wires used for the purpose of the apparatus receiving the said communications ?
+RatioOfTheDecision	In <ORG> some of the receiving stations ate described and 'it shows that wires are invariably used as aerials for receiving the said communications.
+RatioOfTheDecision	In the present case , the Senior Electric Inspector filed an affidavit wherein he stated "it was established to my satisfaction that the operation and use of the 'Universal drills during the working hours of the factory caused serious interference by induction to the existing lines as well as to the receiving apparatus containing wires which are/were expressly used for telegraphic communication at the said centre."
+RatioOfTheDecision	It is there- fore manifest that wires are used for the purpose of the apparatus receiving communications that is , wires are used not only for the aerial but &ISO inside the apparatus.
+RatioOfTheDecision	A 'wireless transmitter transmits sound as electromagnetic waves and the said waves are detected by the.
+RatioOfTheDecision	aerial and fed into the receiving apparatus by wires.
+RatioOfTheDecision	To put it shortly the wires of the aerial as well as of the apparatus are used for the purpose of the apparatus receiving communications.If so, it follows Chit the receiving appartus employs "telegraph lines" within the meaning of s. 3(4) of the Telegraph Act.
+RatioOfTheDecision	<ORG> gave two reasons for rejecting the appellants' contention.
+RatioOfTheDecision	The first reason is that the word line' in the expression 'telegraph line' connotes the existence of a defined channel of communication which has got a physical existence and that wireless telegraphy is dependent upon transmission through space of electric waves and that is not a defined physical channel.
+RatioOfTheDecision	We cannot accept this reasoning, for a telegraph line is not defined to mean a defined continuous physical channel from the point of transmission to t he point of reception.
+RatioOfTheDecision	The definition, as we have pointed out, is comprehensive enough to take in any wire used for the purpose of an apparatus for receiving communications by means of electricity.
+RatioOfTheDecision	The second reason given by the learned Judges is that the expression "'telegraph line", as used in s. 34(2)(b) of the Indian Electricity Act, has, in the absence of any new definition in that Act., to be given the same sense as the <ORG> had intended in 1885 by the definition of that expression in the earlier Act.
+RatioOfTheDecision	This reason is based upon the maxim contemporanea expositio est optima et fortissima in lege (contemporaneous exposition is the best and strongest in law).
+RatioOfTheDecision	To state it differently, in the year 1885 the <ORG> could not have dreamt of the future discovery of wireless telegraphy and, therefore, could not have intended to use the expression "telegraph line" in a comprehensive sense so as to take in electric wires of a receiving station of wireless telegraphy.
+RatioOfTheDecision	It is necessary to consider the scope  of the said maxim in its application to the interpretation of modem statutes.
+Precedent	In Craies on Statute Law, 5th edn., the said rule is explained in the words of <NAME> thus at p. 77.
+RatioOfTheDecision	154  "This and the like were the forms of ancient Acts and graunts, and,, the.
+RatioOfTheDecision	ancient Acts and graunts must.
+RatioOfTheDecision	be' 'construed and taken as the law was holden at that time when they were, made.
+Precedent	", The discussion ended with the following words at p. 79 "In <ORG> v. Owen(1), <ORG>, <NAME> said do not think that the doctrine of contenporanea exposition can be applied in construing Acts which are, comparatively modern and the <ORG> declined to apply the rule 1 to the interpretation of local Acts of 1793 and 1800."
+Precedent	In Halsbury's Laws of England, 2nd edn., Vol., 32, it is stated in the context of telegraph legislation thus at p. 4 The fact that new methods of telegraphy have been invented since the date of passing of the Acts containing the definition does not prevent the application of the Acts to such methods, provided that t hey answer the requirements and fall within the terms of the definition."
+Precedent	In <NAME>'s Statutory Construction, 3rd.
+Precedent	edn., Vol.
+Precedent	2, dealing with the said maxim,-the learned author states at p. 508 as follows "As a general rule it may be stated -that legislative intent should be determined as of the time the legislation goes into effect.
+Precedent	But surrounding circumstances and situations occurring after the enactment of the statute may be of great or even conclusive assistance in determining a meaning which was intended to be conveyed.
+Precedent	Legislative standards are generally couched ill terms which have, considerable breadth.
+Precedent	Therefore a. status may be interpreted to include., circumstances or (1) (1906) 1 Ch.
+Precedent	179, 213.
+Precedent	155  situations which were unknown or did not exist at the time of the enactment of the statute."
+Precedent	Decided cases accepted the said liberal approach in construing modern statutes.
+Precedent	In The Attorney-General v. <ORG> (1),a telephone was held to be a "telegraph" within the mea ning of the Telegraphs Acts, 1863 and 1869, although the telephone was not invented or contemplated in 1869.
+Precedent	<NAME>, T., observed at p. 254 :  "Of course no one supposes that the legislature intended to refer specifically to telephones many years before they were invented, but it is highly probable that they would, and it seems to us clear that they actually did, use language embracing future discoveries as to the use of electricity for the purpose of conveying intelligence."
+Precedent	<ORG> ( 2) held that broadcasting fell within the m eaning of the expression in s.92 of British North America Act,1867, though at the time when that Act was made broadcasting was not in vogue.
+Precedent	In The King V. Brislan ; ex parte Williams(3) the question was whether a law of <ORG> with respect to radio broadcasting was one with respect to "Postal, telegraphic telephonic and other like services" under s. 1(5) of the Australian Commonwealth Act,  and the <ORG> held that the words were wide enough to take in radio broadcasting.
+Precedent	In <NAME> v. <ORG> <NAME> has state the principle in felicitous language thus (1) (1880) 6 Q.
+Precedent	B. D. 244.. (2) (1932) A. C. 304.
+Precedent	(3) (1935) 54 C L.R.
+Precedent	262.
+Precedent	(4) (1936) A.C. 578, 641.
+RatioOfTheDecision	156  "...... the meaning of the words changes, but the changing circumstances illustrate and illuminate the full import of that meaning."
+RatioOfTheDecision	This <ORG> in construing the words "sale of goods" in Entry 48, List II of the Seventh Schedule to the Government of India Act, 1935, accepted the aforesaid principle in <CITATION_1425329> .
+RatioOfTheDecision	(1),and restated it at p. 416 thus "The principle of these decisions.
+RatioOfTheDecision	is that when, after the enactment of a legislation, new facts and situations arise which could not have been in its contemplation, the statutory provisions could properly be applied to them if the words thereof are in a broad sense capable- of containing them."
+RatioOfTheDecision	The legal position may be summarized thus: The maxim contemporanea expo sitio as laid down by <NAME> was applied to construing ancient statutes but not to interpreting Acts which are comparatively modern.
+RatioOfTheDecision	There is a good reason for this change in the mode of interpretation.
+RatioOfTheDecision	The fundamental rule of construction is the same whether the <ORG> is asked to construe a provision of an ancient statute or that of a modern one, namely, what is the expressed intention of the <ORG>.
+RatioOfTheDecision	It is perhaps difficult to attribute to a legislative body functioning in static society that its intention was couched in terms of considerable breadth so as to take within its sweep the future developments comprehended by the phraseology used.
+RatioOfTheDecision	It is more reasonable to confine its intention only to the circumstances obtaining at the time the law was made.
+RatioOfTheDecision	But in a modem progressive society it would be unreasonable to confine the intention of a <ORG> to the meaning attributable to the word used at the time the law was made, for a modern <ORG> making laws to govern a society which is fast moving mu st be presumed to be aware (1) [1959] S.C. R. 379.
+RatioOfTheDecision	157  of an enlarged meaning the same concept might attract with the march of time and with the revolutionary changes brought about in social, economic, political and scientific and other fields of human.
+RatioOfTheDecision	activity.
+RatioOfTheDecision	Indeed, unless a contrary intention appears, an interpretation should be given to the words used to take in new facts and situations, if the words are capable of comprehending them.
+RatioOfTheDecision	We cannot, therefore, agree with the learned Judges of <ORG> that the maxim contemporanea expositio could be invoked in construing the word "telegraph line" in the Act.
+RatioOfTheDecision	For the said reasons, we hold that the expression "'telegraph line" is sufficiently comprehensive to take in the wires used for the purpose of the apparatus of the <ORG> and <ORG>.
+RulingByPresentCourt	In the result, we set aside the order of <ORG> and dismiss the petition filed by the first respondent.
+RulingByPresentCourt	The appeal is allowed, but, in the circumstances of the case, without costs.
+RulingByPresentCourt	Appea l allowed.

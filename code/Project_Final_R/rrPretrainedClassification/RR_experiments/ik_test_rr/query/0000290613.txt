@@ -1,0 +1,191 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	These two tax revision cases give rise to a common question of law for our consideration and hence they are disposed of by a common order.
+Fact	2.
+Fact	The State of Andhra Pradesh is the revision-petitioner in both the cases.
+Fact	The respondents are dealers in iron and hardware goods.
+Fact	While assessing the dealers to sales tax, <ORG> exempted the sales of (i) galvanised plain or corrugated sheets and (ii) B. P. sheets, in both the cases and of wire-nails in the first case on the ground that those commodities fell within the ambit of entry No.
+Fact	2 in the Third Schedule to the Andhra Pradesh General Sales Tax Act (hereinafter called "the Act"), namely, "iron and steel" and those sales were not the first sales, but second sales.
+Fact	3.
+Fact	In the exercise of his revisional powers Under Section 20(2) of the Act, the Deputy Commissioner of Sales Tax, <NAME>, revised the assessments by withdrawing the exemption that was granted by <ORG> as, in his opinion, the view tak en by the Commercial Tax Officer that the corrugated and B.P.
+Fact	sheets and wire-nails fell under the entry "iron and steel", was erroneous in law.
+RatioOfTheDecision	4.
+RatioOfTheDecision	On appeals filed by the dealers, <ORG> held that galvanised plain or corrugated sheets and B.P.
+RatioOfTheDecision	sheets fell within "iron and steel", entry No.
+Argument	2 in the Third Schedule to the Act and as the sales effected by the dealers were not the first sales, those sales were exempted from payment of sales tax.
+Argument	The <ORG>, however, upheld the view of the Deputy Commissioner of Sales Tax that the commodity of wire-nails did not fall within the entry "iron and steel".
+Argument	In other words, <ORG> disagreed with the Deputy Commissioner's view in respect of the sales of the first two commodities and exempted the sales of those commodities from tax, but, with regard to the sales of wire-nails, <ORG> upheld the view of the Deputy Commissioner of Sales Tax that they were exigible to sales tax.
+Argument	5.
+Argument	Aggrieved by  the orders of <ORG>, the State of Andhra Pradesh has filed these tax revision cases, raising four questions of law for our consideration.
+Fact	These four questions can be reframed into one question and that question is:  Whether the commodities of galvanised plain or corrugated sheets and B.P.
+Fact	sheets fall within the ambit of 'iron and steel', i. e., entry No.
+Fact	2 in the Third Schedule to the Andhra Pradesh General Sales Tax Act ?
+Fact	6. Commodities mentioned in the Third Schedule to the Act are declared goods in respect of which a single point tax only is leviable Entry No.
+Fact	2 in that schedule is "iron and steel".
+Fact	The sales of iron and steel are made taxable at the point of first sale at 0.3 paise in a rupee.
+RatioOfTheDecision	The said entry defines "iron and steel" thus :  Iron and steel, that is to say,  (a) pig iron and iron scrap ;  (b) iron plates sold in the same form in which they are directly produced by the rolling mills;  (c) steel scraps, steel ingots, steel billets, steel bars and rods ;  (d)(i) st eel plates,  (ii) steel sheets,  (iii) steel bars and tin bars,  (iv) rolled steel Sections and  (v) tool alloy steel, sold in the same form in which they are directly produced by the rolling mills.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The learned Advocate appearing for the <ORG> contended that the real test that has to be applied for determining whether galvanised plain or corrugated sheets or B.P.
+RatioOfTheDecision	sheets fall within "iron and steel" within the meaning of entry No.
+RatioOfTheDecision	2 in the Third Schedule to the Act is the test of possibility of substitution of the one for the other, so far as the consumers are concerned.
+RatioOfTheDecision	If there is no such possibility, it would be a different commodity, but if there is such a possibility, it would be the same commodity.
+RatioOfTheDecision	For that purpose, the entries in the schedule to the Act must be construed or understood not in a technical sense but in a sense as understood in common parlance by persons who are conversant with the subject-matter with which the statute is dealing.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Corrugated and B.P.
+RatioOfTheDecision	sheets in the commercial field a re understood by business people, in ordinary parlance, as commodities different from iron and steel.
+RatioOfTheDecision	The use for which the corrugated sheets and B.P.
+RatioOfTheDecision	sheets are put by the consumers is something different from the use to which iron and steel are put.
+RatioOfTheDecision	The trade names under which corrugated sheets and B.P.
+RatioOfTheDecision	sheets and the iron and steel are sold, are different from one another.
+RatioOfTheDecision	Hence it was urged by the learned counsel appearing for the <ORG> that <ORG> erred in holding that the galvanised plain and corrugated sheets and B.P.
+Precedent	sheets fall within the entry "iron and steel".
+Precedent	In support of this argument, the learned counsel relied upon the decisions in <CITATION_1032892>  23 S.T.C.
+Precedent	288, <CITATION_1272035> .
+Precedent	12 S.T.C.
+Precedent	286 (S.C.) and the <CITATION_357142> .)
+Precedent	Ltd.  20 S.T.C.
+Precedent	409.
+Argument	9.
+Argument	The learned counsel <NAME>, appearing for the dealers, on the other hand, submitted that iron and steel are not sold as such, but are sold in acceptable forms and shapes and merely because iron a nd steel are put to some process for bringing them into acceptable forms and shapes for their sales, i. e., into galvanised or B. P. sheets, they do not cease to be iron and steel.
+Argument	In support of his argument, the learned counsel relied upon the following decisions :  (i) <CITATION_1270021>  19 S.T.C.
+Argument	24 (S.C) in which <ORG> held that patasa, hard a and alchidana fall within the definition of "sugar";  (ii) <CITATION_665168> A.I.R.
+Fact	1966 S.C. 1546, in which <ORG> held that bars, flats and plates fall within the definition of "iron and steel";  (iii) <CITATION_1876937>  26 S.T.C.
+Fact	416 in which <ORG> held that though mild steel rounds, flats and angles manufactured from "iron and steel" scraps maybe commercially different from iron and steel scraps, still they do not cease to be "iron and steel"; and  (iv) <CITATION_903306>  11 S.T.C.
+Precedent	827 (S.C.) in which <ORG> held that hydrogenated groundnut oil called "vanaspati" is "groundnut oil" within the meaning of Rule 18 (2) of the Madras General Sales Tax Rules.
+Precedent	10.
+Precedent	In order to decide the question referred to us, we must know the exact nature of the commodities known as galvanised plain or corrugated sheets and B.P.
+Precedent	sheets.
+Argument	11.
+Argument	Corrugated sheets are iron sheets with parallel ridges and furrows so that the cross-section is a continuous waved line.
+Argument	"Flat sheet metal", according to <ORG>, 1958 Edition, Volume 8, at page 21, "tends to buckle and get out of shape with every change in temperature.
+RatioOfTheDecision	The corrugations, made in one direction, give it greatly increased stiffness and adapt it to numerous purposes for which it would otherwise be less suitable.
+RatioOfTheDecision	The sheet metal is corrugated by passing between ridged rollers....
+RatioOfTheDecision	It comes out in the commercial form,and is frequently subjected to a process of coating with zinc to protect from oxidation and is then known as galvanised corrugated iron.
+RatioOfTheDecision	It is used widely for roofing and walling barns, sheds, warehouses and other buildings...."  12.
+RatioOfTheDecision	<ORG>, F ourteenth Edition, Volume 6, at page 471, points out that corrugating process enables much lighter gauges of sheets to be used because it makes them very rigid and portable.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Corrugated iron sheets are thus nothing but iron sheets-sheets of iron-corrugated, that is, wrinkled for the purpose of making them more rigid and giving them increased stiffness so that they become more suitable for roofing and walling than they would otherwise be as flat iron sheets.
+RatioOfTheDecision	They are merely iron sheets with their shapes altered to make them more adaptable and useful for being used as iron sheets for roofing and walling.
+RatioOfTheDecision	14.
+RatioOfTheDecision	On a difference of opinion expressed by two learned Judges, the learned Chief Justice of <ORG> in <CITATION_1032892>  23 S.T.C.
+RatioOfTheDecision	288 agreed with the view expressed by one of the differing Judges, Mr. <NAME>, that galvanised plain or corrugated sheets fall within the entry "iron and steel" under the Bombay Sales Tax Act.
+RatioOfTheDecision	The definition of "iron and steel" given by the Bombay Sales Tax Act  is exactly identical with its definition given in the Andhra Pradesh General Sales Tax Act.
+RatioOfTheDecision	15.
+RatioOfTheDecision	The test, of substitution of the one for the other, applied by Divan, J., was not accepted by the learned Chief Justice.
+RatioOfTheDecision	The learned Chief Justice observed that:  ...It is no doubt true that iron sheets when corrugated cease to be raw materials for manufacture or fabrication of goods and they can be used only as corrugated iron sheets for roofing and walling but on that account they do not cease to be iron sheets having the essential character of iron.
+RatioOfTheDecision	It may be that by reason of alteration of shape, iron sheets may cease to be usable for any purpose other than roofing or walling but they still remain iron sheets and do not lose the essential character of iron which they possessed as flat iron sheets before corrugation.
+RatioOfTheDecision	The process of corrugation is one of Alteration of shape and it does not make iron sheets a different or product of iron....  16.
+RatioOfTheDecision	The question as to when a commodity would lose its essential chara cter of the raw material and becomes a different or a product of the raw material, is one of degree and where precisely to draw the dividing line is a pretty difficult task.
+RatioOfTheDecision	However, the test of substitution or the user of the one for the other is not the sole criterion for holding the view that the galvanised corrugated or plain sheets are a commodity different from "iron and steel" as defined in entry No.
+RatioOfTheDecision	2 in the Third Schedule of the Andhra Pradesh General Sales Tax Act.
+RatioOfTheDecision	17.
+RatioOfTheDecision	Entry No.
+RatioOfTheDecision	2 in the Third Schedule to the Andhra Pradesh General Sales Tax Act begins with the words "iron and steel, that is to say...." Those words are of considerable importance.
+RatioOfTheDecision	They are explanatory of what iron and steel is.
+RatioOfTheDecision	All s enumerated under that head, either in their crude form or in their manufactured stage or in any of the forms listed under the sub-headings (a), (b), (c) and (d), are treated as various forms of iron and steel.
+RatioOfTheDecision	18.
+RatioOfTheDecision	The scope and meaning of the words "that is to say" following "land" in entry No.
+Precedent	21 of L ist II of the Seventh Schedule to the Government of India Act, 1935, has been expressed by <ORG> in <CITATION_571954> A.I.R.
+Precedent	1917 P.C.
+Precedent	72 as introducing the most general concept "rights in or over land".
+Precedent	19.
+Precedent	By a parity of reasoning, the words "that is to say" occurring immediately after "iron and steel" in entry No.
+Precedent	2 show that the <ORG> intended to adopt the most general concept of iron and steel and wanted all forms of iron and steel to be brought within that entry.
+Precedent	20.
+Precedent	<CITATION_1272035> .
+Precedent	12 S.T.C.
+Argument	286 (S.C.) the dealer claimed exemption from payment of sales tax on betel leaves, contending that betel leaves fell under the entry "vegetables" which was an exempted item.
+Precedent	<ORG> rejected the contention holding that :  this word must be construed not in any technical sense nor from the botanical point of view but as understood in common parlance.
+Precedent	It has not been defined in the Act and being a word of every day use it must be construed in its popular sense meaning 'that se nse which people conversant with the subject-matter with which the statute is dealing would attribute to it'  21.
+Precedent	<ORG> of this Court in the <CITATION_357142> .)
+Precedent	Ltd.  20 S.T.C.
+Precedent	409 held that:  'manganese' does not include 'manganese ore' in the popular sense of the term, though from the scientist's point of view manganese ore may contain manganese  22.
+Precedent	The learned Judges observed that:  in interpreting items in statutes like the Sales Tax Act ,resort should be had not to the scientific or technical meaning of such terms but to their popular meaning or the meaning attached to them by those dealing in them, that is to say, to their ordinary sense.
+Precedent	23.
+Fact	<CITATION_903306>  11 S.T.C.
+Fact	827 (S.C.), <ORG> had to consider whether the hydrogenated groundnut oil (commonly called "vanaspati") was "groundnut oil" within the meaning of the Rule 18(2) of the Madras General Sales Tax (Turnover and Assessment) Rules, 1939.
+Fact	24.
+Argument	Before <ORG>, the decision of which was the subject-matter of the a ppeal before <ORG>, the dealer had claimed deduction of the purchase price of the groundnuts from the proceeds of the sale of all oils by the company-raw, refined and hydrogenated.
+Argument	Both the <ORG> as well as the learned Judges of <ORG> upheld the dealer's contention in regard to the sale of refined oil, but rejected it in so far as it related to the sale of hydrogenated oil.
+Precedent	25.
+Precedent	The <ORG> as well as <ORG> held that the hydrogenated oil ceased to be groundnut oil by reason of the chemical changes which took place and which resulted in the acquisition of new properties including the loss of its fluidity.
+Precedent	In other words, <ORG> held that hydrogenated oil was not groundnut oil but a product of groundnut manufactured out of groundnut oil and, therefore, was not entitled to the benefit of deduction under Rule 18(2).
+Precedent	Before <ORG>, the question that was raised for their decision was, whether, if beyond the process of refinement of the oil, the oil was hardened a gain by the use of chemical processes, it was rendered any-the-less groundnut oil ?
+Precedent	In regard to that question, the Advocate-General, late <NAME>, laid stress on two facts: (i) while normally oil was a viscous liquid, the hydrogenated oil was semi-solid and that this change in its physical state was itself indicative of a substantial modification of the identity of the substance; and (ii) in the course of hydrogenation the oil absorbed two atoms of hydrogen and there was an inter-molecular change in the content of the substance.
+Precedent	<NAME> speaking for <ORG>, rejected the first submission and in regard to the second submission, stated that it was not decisive of the matter.
+Precedent	26.
+Precedent	The learned Judge observed that:  To be groundnut oil, two conditions have to be satisfied.
+Precedent	The oil in question must be from groundnuts and, secondly, the commodity must be 'oil' The addition of the hydrogen atoms was effected in order tosaturate a portion of the oleic and linoleic constituents of the  oil and render the oil more stable thus improving its quality and utility.
+Precedent	But neither mere absorption of other matter, nor inter-molecular changes necessarily affect the identity of a substance as ordinarily understood The change here is both additive and inter-molecular, but yet it could hardly be said that rancid groundnut oil is not groundnut oil.
+Precedent	It would undoubtedly be very bad groundnut oil but still it would be groundnut oil and if so it does not seem to accord with logic that when the quality of the oil is improved in that its resistance to the natural processes of deterioration through oxidation is increased, it should be held not to be oil There is no use to which the groundnut oil can be put for which the hydrogenated oil could not be used, nor is there any use to which the hydrogenated oil could be put for which the raw oil could not be used  27.
+Precedent	In the end, the learned Judge held that the hydrogenated oil will continue to be groundnut oil notwithstanding the processing which was merely for the  purpose of rendering the oil more stable thus improving its keeping qualities for those who desire to consume groundnut oil.
+Precedent	28.
+Precedent	<CITATION_1270021>  19 S.T.C.
+Precedent	24 (S.C.), the question that arose for the decision of <ORG> was whether patasa, harda and alchidana could be regarded as "sugar", which was defined as meaning "any form of sugar containing more than 90 per cent of sucrose".
+Precedent	29.
+Precedent	A small portion of hydrogen sulphide is passed through the sugar solution for bleaching purposes, after which patasas are prepared by splashing the solution on a piece of wood which converts the sugar into amorphous sugar; the hard as are prepared by pouring the solution into moulds which is then allowed to cool and the alchidanas are prepared by rapidly passing the solution of appropriate thickness through a sieve so as to convert it into granulated lumps of sugar.
+Precedent	30.
+Precedent	It was contended on behalf of the <ORG> that patasa, harda and alchidana bore a distinct and different name from sugar and were not commercially p urchased or sold as sugar and, therefore, they were commodities different from "sugar".
+Precedent	This argument was rejected.
+Precedent	It was held that they fell within the definition of "sugar".
+Precedent	31.
+Precedent	In Kapildeoram Baijnath Prosad v. <NAME> [1954] 5 S.T.C.
+Precedent	365, a question arose before <ORG>, whether chira and muri could be said to be covered by the words "all cereals and pulses including all forms of rice".
+Precedent	32.
+Precedent	Chira is parched beaten rice.
+Precedent	It involves the process of boiling paddy, its dehydration, frying and flattening.
+Precedent	Muri involves the process of soaking, boiling and dehydration of paddy and the removal of husks.
+Precedent	As a result of these processes, the rice became edible and could be taken as food without any more cooking.
+Precedent	33.
+Precedent	Although the , when so transformed, bore a different name and could not be commonly recognised as "rice", <NAME>, C.J., observed that it seemed to him that those commodities could be regarded more as forms of rice than products thereof and were, therefore, exempt from the payment  of tax under the Assam Sales Tax Act, 1947.
+Precedent	34.
+Precedent	<CITATION_547717>  19 S.T.C.
+Precedent	469 (S.C.) in considering whether charcoal was included in the word "coal" specified in entry 1 of Part III of Schedule II to the Madhya Pradesh General Sales Tax Act, 1958, <ORG> observed that :  while construing the word 'coal' in entry 1 of Part III of Schedule II to the Act, the test that would be applicable is, what is the meaning which persons dealing with coal and consumers purchasing it as fuel would give to that word.
+Precedent	A sales tax statute, being one levying a tax on goods, must, in the absence of a technical term or a term of science or art, be presumed to have used an ordinary term as 'coal' according to the meaning ascribed to it in common parlance.
+Precedent	Viewed from that angle, both the merchant dealing in coal and a consumer wanting to purchase it would regard coal not in its geological sense but in the sense as ordinarily understood and would include 'charcoal' in the term 'coal'....  35.
+Precedent	<ORG> also o bserved that:  ...While interpreting items in statutes like the Sales Tax Act s,resort should be had not to the scientific or technical meaning of such terms but to their popular meaning or the meaning attached to them by those dealing in them, that is to say, to their commercial sense....  36.
+Precedent	<CITATION_665168> A.I.R.
+Precedent	1966 S.C. 1546 <NAME>, J.
+Fact	(as he then was), speaking for <ORG>, observed that:  ...So long as iron and steel continued to be raw materials, they enjoyed the exemption.
+Fact	Scrap iron purchased was merely re-rolled into bars, flats and plates.
+Fact	They were processed for convenience of sale.
+Fact	The raw materials were only re-rolled to give them attractive and acceptable forms.
+Fact	They did not in the process lose their character as iron and steel.
+Fact	The dealer sold 'iron and steel' in the shape of bars, flats and plates and the customer purchased 'iron and steel' in that shape....  37.
+Precedent	<ORG> held that bars, flats and plates sold by the assessee were "iron and steel" which were exempted  under the notification.
+Precedent	38.
+Argument	<CITATION_1876937>  26 S.T.C.
+Argument	416, <ORG> of <ORG> held that:  ...Even though mild steel rounds, flats and angles manufactured from iron and steel scraps may be commercially different from iron and steel scraps, they do not cease to be 'iron and steel' and tax can be levied only at a single point in the series of sales from the stage of raw material till it is sold in the same form in which it has been produced by the rolling mills, that is, till the manufactured s have been converted into any other form of fabricated material....  39.
+Argument	From the aforesaid discussion it emerges that a taxing statute like the Sales Tax Act must, in the absence of a technical term or a term of science or art, be presumed to have used an ordinary term according to the meaning ascribed to it in common parlance.
+Fact	In interpreting items contained in those entries, resort should be had not to the scientific, geological or botanical sense, but to their popular meaning, or the meanin g that is attributed to them by those who are dealing in those commodities and the meaning in which their consumers or buyers understand them.
+Precedent	40.
+Precedent	The test of possibility of substitution of the one for the other, so far as the consumers or purchasers are concerned, cannot be said to be a decisive or the only test for determining whether the sold was the same or different from the s specified in the entry in the schedule to the Sales Tax Act .
+Precedent	41.
+Precedent	If the raw material is subjected to a processing by the application of chemical methods, either for the removal of impurities or for improving its quality or utility, the resulting does not lose its essential character as the raw material.
+Precedent	42.
+Precedent	Neither mere absorption of other matter, nor any inter-molecular changes effected in processing the raw material, necessarily affect the identity of the as ordinarily understood by the dealers or consumers.Mere change of physical form or shape of the raw material by the application of some process or the other, so as to prev ent it from oxidation or to increase its utility, the resulting from that process, although called by a different trade name in the commercial world, does not lose its essential character of the raw material.
+Precedent	The different uses to which the raw material and the resulting from it by reason of some process or the other, are put to, would not be decisive of the fact that the resulting is different from the raw material that was processed.
+Precedent	43.
+Precedent	It is in this background of decided cases and by applying the tests laid down by those cases, that we will now have to decide whether or not galvanised plain of corrugated sheets and B.P.
+Precedent	sheets are different from "iron and steel" specified in entry No.
+Precedent	2 in the Third Schedule to the Andhra Pradesh General Sales Tax Act.
+Precedent	44.
+Precedent	Galvanisation is nothing but coating the iron sheet with zinc by an electrical process, or some other processes, to prevent it from oxidation.
+Precedent	The galvanisation improves the utility of the raw material of iron.
+RatioOfTheDecision	Corrugation is merely wrinkling of the s heets in one direction for the purpose of making the sheets more rigid and for giving increased stiffness so as to be more suitable for roofing and walling.
+RatioOfTheDecision	Corrugation results merely in the alteration of the shape of the raw material, "iron and steel".
+RatioOfTheDecision	Both corrugation and galvanisation improve the utility of the raw material.
+RatioOfTheDecision	By the process of galvanisation and corrugation, the iron and steel do not lose their essential character as "iron and steel" when the resulting s are sold as galvanised plain or corrugated sheets.
+RatioOfTheDecision	The purposes for which the iron is used may be different from the purposes for which the galvanised plain or corrugated sheets are used, but for that mere reason it is difficult to hold that the essential character of iron has been lost.
+RatioOfTheDecision	Nor is the fact that the raw material and the s resulting on processing that are sold under different and distinct names in the commercial market, would be decisive of the fact that the galvanised plain or corrugated sheets are different from iron, the raw m aterial which still exists in them.
+Precedent	B.P.
+Precedent	sheets are mere sheets of steel and hence a fortiori they are forms of "iron and steel".
+Precedent	44.
+Precedent	Hence we agree with the <ORG> that galvanised plain or corrugated sheets and B.P.
+Precedent	sheets fall within entry No.
+Precedent	2 in the Third Schedule to the Andhra Pradesh General Sales Tax Act.
+Precedent	Since the sales of those s are not the first sales effected by the dealers but are the second sales, the dealers are not liable to pay the sales tax thereon.
+Precedent	45.
+RulingByPresentCourt	The references are accordingly answered.
+RulingByPresentCourt	The <ORG> shall pay the costs of these references to the dealers.
+RulingByPresentCourt	The tax revision cases are dismissed.

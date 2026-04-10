@@ -1,0 +1,123 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <ORG> DATE OF JUDGMENT: 15/02/1963 BENCH: <NAME>, K.N.
+Fact	BENCH: <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, J.C. CITATION: 1963 AIR 1756 1964 SCR (2) 104 CITATOR INFO : R 1972 SC 171 (13) R 1973 SC1404 (4) R 1976 SC1760 (8,10,12,13) R 1978 SC1004 (10) RF 1979 SC1022 (11) RF 1980 SC1896 (180) ACT: Industrial Dispute--Dismissal--lndustrial Disputes Act, 1947 (14 of 1947), s. 33.
+Fact	HEADNOTE: The appellant was 'Charged with gross dereliction of duty.
+Fact	The appellant in answer to the charge sheet admitted the mistakes and contended that he was over-worked and that it was the duty of others also to check the load sheet and balance chart prepared by him.
+Fact	Enquiry was held by the Station Manager to whom the Appellant objected on the ground of bias.
+Fact	On the findings of the enquiry the appellant was dismissed by the Regional Representative of the respondent company and was given one month's wages and was informed that the approval of th e action taken was being sought from <ORG> before whom some industrial disputes were pending.
+Fact	The order of dismissal was communicated to the appellant on May 30, and the application for approval was made the same day.
+Fact	An application under s. 33A was made on June 3, 1960, by the appellant challenging the order of dismissal.
+RulingByLowerCourt	The appellant objected to the maintainability of the application for approval but the <ORG> accorded approval to the action taken by the respondent and dismissed the application of the appellant under s. 33-A, on appeal by special leave.
+RulingByLowerCourt	Held, that the application for approval was in accordance with the proviso of s. 33 and properly made.
+Fact	105 The Straw Board Manufacturing Co. Ltd., Saharanpur v. <NAME>, [1962] Supp.
+Fact	3 S. C. R. 618, referred to.
+Fact	Held, further that in the absence of any positive action amounting to recognition of the appellant as a protected person by the respondent (and the appellant had produced no such evidence) he could not be held to be a protected w <NAME> for dismissing whom previous sanction was necessary under s. 3 3 (3).
+Fact	Held, further, that assuming that the Station Manager who held the enquiry was biased though the order of dismissal was passed by the Regional Representative against whom no such allegation was made, the <ORG> was entitled to go into the question whether the dismissal was justified on the evidence laid before it.
+Fact	<CITATION_1484981> .
+Fact	1 S.C.R.
+Fact	32, referred to.
+Fact	Held, further, that the dismissal of the appellant did not amount to victimisation Held, also that even if the domestic enquiry was defective provided that there is a prima facie case for dismissal and a bonafide conclusion is reached that the employee is guilty of misconduct, and if <ORG> in dealing with the application under s. 33 (2) and after considering for itself the evidence adduced before it gives its approval it would relate back to when the employer came to the conclusion after the enquiry that the dismissal is a proper punishment.
+Fact	<CITATION_544869> ,  S upp.
+Fact	2 S. C. R. 836, distinguished.
+Fact	<CITATION_562455> ,  Supp.
+Fact	2 S C. R. 719, referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Fact	419 of 1962.
+Fact	Appeal by special leave from the Award dated June 22, 1961, of' <ORG>, West Bengal in Case No.
+Fact	97/33A of 1960.
+Fact	<NAME>, for the appellant.
+Fact	106  <NAME>, Solicitor General of India and <NAME> for the respondent.
+Fact	1963.
+Fact	February 15.
+Fact	The judgment of the <ORG> was delivered by <NAME> appeal by special leave challenges the order of <ORG>, West Bengal, relating to the dismissal of the appellant, who was in the service of the respondent company.
+Fact	A charge-sheet was issued to the appe- llant on April 23, 1960 under the signature of the Station Manager of the respondent-company.
+Fact	The charge-sheet contained two charges of gross dereliction of duty inasmuch as the appellant.
+Fact	had made mistakes in the preparation of a load-sheet on one day and a balance chart on another day, which mistakes might have  led to a serious accident to the aircraft.
+Fact	The appellant gave his reply to the chargesheet on April 26 1960 in which he admitted the mistakes that had been made.
+Fact	He, however., contended that he was over-worked and further that it was the duty of others also to check the load-sheet and balance chart prepared by him.
+Fact	9th May 1960 was fixed for inquiry by the Station Manager.
+Fact	The appellant objected to the inquiry being held by Station Manager on the ground that the Station Manager was biased against him on account of the evidence which he had given against the Station Manager in a customs case which was partly responsi- ble for the infliction of a fine on the Station Manager.
+Fact	His objection was however over-ruled and the inquiry was held by the Station Manager and completed on May 10, 1960.
+Fact	Thereafter it appears that the Station Manager forwarded his findings and recommendations to the Regional Representative of the respondent-company.
+Fact	The appellant was dismissed on May 28, 1960 by the Regional Representative; t he order of dismissal provided for payment of one month's wages to the appellant and also stated that an application was being made before <ORG>, West Bengal, for approval of the action taken, apparently as some industrial dispute was pending before that tribunal.
+Fact	It appears that the order of dismissal was communicated to the appellant on May 30, and one month's wages were also tendered to him.
+Fact	The same day the respondent filed an application before <ORG>, West Bengal, seeking approval of the action.
+Fact	On June 3, 1960, the appellant made an application under s. 33-A of the Industrial Disputes Act NO.XIV of 1947, (hereinafter referred to as the Act), challenging the legality of the action taken on a large number of grounds.
+Fact	These grounds were considered by <ORG> and all of them were substantially decided against the appellant.
+Fact	<ORG> held that the dismissal of the appellant was justified and therefore accorded approval for such dismissal.
+RulingByLowerCourt	In p articular, dealing with the various points raised on behalf of the appellant, <ORG> held that the application under s. 33 (2) (b) of the Act was validly made even though it had been made after the order of dismissal had been passed.
+RulingByLowerCourt	It further held that the case was not covered by s. 33 (1) of the Act and it was not necessary to obtain the precious permission of the tribunal before dismissing the appellant.
+RulingByLowerCourt	It also held that the appellant was not a protected workman.
+RulingByLowerCourt	Further as to the charge that the Station Manager was biased and therefore there was violation of the principles of natural justice, <ORG> was of the view that the contention of the appellant that the Station Manager was biased against him because of the evidence he had given in the customs case could not be brushed aside lightly.
+RulingByLowerCourt	But it went on to hold that even if there was some violation of the principles of natural justice in as much as the Station Manager was biased against the appellant, the respondent had adduced all  the evidence before it in support of its action and it had to decide on that evidence whether the action was justified and approval should be granted.
+RulingByLowerCourt	In this connection.. <ORG> relied on the decision of this <ORG> in <ORG> v. Its workmen (1).
+RulingByLowerCourt	The Labour <ORG> then went in-to the evidence tendered before it.
+RulingByLowerCourt	It pointed out that the appellant had admitted the two mistakes which were the basis of the charge.
+RulingByLowerCourt	It also held that the mistakes were of a serious nature which might have resulted in 'an accident to the aircraft.
+Argument	It said that the fact that other people were also responsible for checking loadsheets and balance-charts would not mitigate the mistakes committed' by the appellant who was primarily responsible for preparing them.
+Argument	It also repelled the charge of victimisation raised on behalf of the appellant on account of the delay in giving him the charge- sheet.
+Argument	Finally, it came to the conclusion that the mistakes committed by the appellant were serious involving possible accident t o the aircraft and possible loss of human life.
+Argument	It was not prepared to accept the plea of over-work and other pleas raised on behalf of the appellant to mitigate the mistakes committed by him.
+RulingByLowerCourt	It pointed out that the mistakes being of a serious nature the punishment of dismissal inflicted by the respondent could not be said to be unconscionable or entirely out of proportion to the gravity of the offence.
+RulingByLowerCourt	It, therefore, dismissed the application of the appellant unders.
+RulingByLowerCourt	33- A of the Act and accorded approval to the action taken by the respondent.
+RulingByLowerCourt	This decision of <ORG> is being challenged by the present appeal by special leave.
+Precedent	The main point which was raised in this appeal is now concluded by the decision of this <ORG> in <ORG>, Saharanpur v. <NAME> (2 ).
+Precedent	This <ORG> has held in (1) [1960] 1 S.C.R.
+Precedent	32, (2) [1962] Supp.
+Precedent	8 S.C.R.
+Precedent	618 that case that the proviso to s.33 (2)(b)contemplates the three things mentioned therein, namely,(i) dismissal or discharges(ii) paym ent of wages, and (iii) making of an application for approval, to be simultaneous and to be part of the same transaction so that the employer when he takes the action under s. 33 (2) by dismissing or discharging an employee, should immediately pay him or offer to pay him wages for one month and also make an application to the tribunal for approval at the same time".
+Precedent	It was further held that "the employer's conduct should show that the three things contemplated under the proviso, are parts of the same transaction; and the question whether the application was made as part of the same transaction or at the same time when the action was taken would be a question of fact and will depend upon the circumstances of each case".
+RulingByLowerCourt	In the present case the order of dismissal was passed by the Regional Representative on May 28, 1960 and was communicated to the appellant on May 30th.
+RulingByLowerCourt	The wages were offered to the appellant at the same time when the order was communicated to him., though he did not accept them.
+RulingByLowerCourt	The respondent  also made the application under s. 33 (2) (b) to the industrial tribunal the same day.In these circumstances we are of opinion that <ORG> was right in holding that the application under s. 33 (2) (b) was in accordance with the proviso to that section and was properly made.
+Fact	Learned counsel for the appellant has further raised some points which were raised on behalf of the appellant before <ORG>.
+Argument	In the first place, he contends that the appellant was a protected workman and <ORG> was not right when it held that the appellant was not a protected workman.
+RatioOfTheDecision	We are of opinion that the question whether a particular workman is a protected workman or not is a question of fact, and the finding of <ORG> on such a question will generally be accepted by this <ORG> as conclusive.
+RatioOfTheDecision	Besides, <ORG> has pointed out that the mere fact that a letter was written to the Manager of the respondent company by the Vice-President of the union in which the name of the appellant was m entioned as a joint secretary of the union and the manager had been requested to recognise him along with others mentioned in the letter as protected workmen would not be enough.
+RatioOfTheDecision	The company had replied to that letter pointing out certain legal defects therein and there was no evidence to show what happened thereafter.
+RatioOfTheDecision	<ORG> has held that according to the rules framed by <ORG> as to the recognition of protected workmen, there must be some positive action on the part of the employer in regard to the recognition of an employee as a protected workman before he could claim to be a protected workman for the purpose of s. 33 .
+RatioOfTheDecision	Nothing has been shown to us against this view.
+RatioOfTheDecision	In the absence therefore of any evidence as to recognition, <ORG> rightly held that the appellant was not a protected workman and therefore previous permission under s. 33 (3) of the Act would not be necessary before his dismissal.
+RatioOfTheDecision	Then it is urged that after <ORG> held that the Station M anager who held the inquiry was baised and there had been violation of the principles of natural ..justice, it was not open to <ORG> to consider the question whether the appellant was rightly dismissed itself.
+RatioOfTheDecision	On the other hand it has been urged on behalf of the respondent that the Station Manager could not in the circumstances of this case be said to have violated the principles of natural justice because the mistakes were admitted by the appellant and the inquiry was really formal and_ all that the Station Manager had to do was to recommend what he considered suitable punishment for the misconduct, which had taken place.
+RatioOfTheDecision	It is also pointed out that the actual punishment was awarded by the Regional Representative and not by the Station Manager.
+RatioOfTheDecision	There is some force in these contentions on behalf of the respondent in the circumstances of the present case.
+RatioOfTheDecision	But we do not think it necessary to pronounce finally on the question whether in such circumstances there would be violation of natural justice.
+RatioOfTheDecision	I t is now well settled by a number of decisions of this <ORG> that it is open to the tribunal to go into the propriety of an order of dismissal itself, when there is a defect in the domestic inquiry.
+RatioOfTheDecision	In these circumstances even if it be held that the Station Manager was biased and therefore there was some violation of the principles of natural justice inasmuch as the inquiry was field by him, <ORG> would be entitled to go into the question whether the dismissal was justified on the evidence led before it and this is exactly what <ORG> did relying on the judgment of this <ORG> in <ORG> (1).
+RatioOfTheDecision	The contention therefore on behalf of the appellant that <ORG> was not entitled to go into the question whether the dismissal was justified once it held that the domestic inquiry was defective, must be rejected.
+RatioOfTheDecision	Then it is urged that <ORG> was wrong in holding that victimisation had not been proved.
+RatioOfTheDecision	We however find no reason to differ from the finding of <ORG> ourt on the question of victimisation, apart from the fact that a finding of victimisation is generally a question of fact and cannot be agitated in this Court.
+Argument	<ORG> has pointed out that the plea of victimisation on the ground that there was some delay in giving the charge-sheet to the appellant cannot be sustained, because the Station Manager came to know about the mistakes only a few days before the charge-sheet was given, though the mistakes had actually been committed in January and March, and also because the appellant admitted the mistakes and there could be no doubt therefore that he had committed them.
+Precedent	(1) [1960] 1 S. C R. 82.
+RatioOfTheDecision	112  We agree with <ORG> that in the face of the appellant's admission of the mistakes there could be no question of victimisation in this case.
+Argument	Finally it is urged that as the domestic inquiry was defective, there could be no approval of the action taken in consequence of such an inquiry and <ORG> even if it held that the dismissal was justi fied should have ordered the dismissal from the date its award would become operative.
+Argument	In this connection reliance was placed on the decision of this Court in Messrs. <CITATION_544869> , (1), where the following observations occur at p. 845 -.-  "...... as the management held no inquiry after suspending the workmen and proceedings under s. 33 were practically converted into the inquiry which normally the management should have held before applying to <ORG>, the management is bound to pay the wages of the workmen till a case for dismissal was made out in the proceedings under s.
+Argument	33."
+RatioOfTheDecision	We are of opinion that those observations cannot be taken advantage of by the appellant.
+RatioOfTheDecision	That was a case where an application had been made under s. 33 (1) of the Act for permission to dismiss the employees and such permission was asked for though no inquiry whatsoever had been held by the employer and no decision taken that the employees be dismissed.
+Precedent	It was in those circumstances that a case for dismissal was  made out only in the proceedings under s. 33 (1) and therefore the employees were held entitled to their wages till the decision of the application under s. 33 .
+Precedent	The matter would have been different if in that case an inquiry had been held and the employer had come, to the conclusion that dismissal was the proper punishment and then (1)  Supp.
+Precedent	2 S.C.R.
+Precedent	836, had applied under s. 33 (1) for permission to dismiss.
+Precedent	In those circumstances the permission would have related back to the date when the employer came to the conclusion after.
+Precedent	an inquiry that dismissal was the proper punishment and had' applied for removal of the ban by an application under s. 33 (1) : (see the <CITATION_562455> (1).
+Precedent	The present is a case where the employer has held an inquiry though it was defective and has passed an order of dismissal and seeks approval of that order.
+RatioOfTheDecision	If the inquiry is not defective, <ORG> has only to see whether there was a prima facie case for dismissal, and whether the employer had come to the bona fide co nclusion that the employee was guilty of misconduct.
+RatioOfTheDecision	Thereafter on coming to the conclusion that the employer had bona fide come to the conclusion that the employee was guilty i. e. there was no unfair labour practice and no victimisation, <ORG> would grant the approval which would relate back to the date from which the employer had ordered the dismissal.
+RatioOfTheDecision	If the inquiry is defective for any reason, <ORG> would also have to consider for itself on the evidence adduced before it whether the dismissal was justified.
+RatioOfTheDecision	However on coming to the conclusion on its own appraisal of evidence adduced before it that the dismissal was justified its approval of the order of dismissal made by the employer in a defective inquiry would still relate back to the date when the order was made.
+RatioOfTheDecision	The observations in Messrs. Sasa Musa Sugar Company's case (2), on which the appellant relies apply only to a case where the employer had neither dismissed the employee nor had come to the conclusion that a case for dism issal had been made out.
+RatioOfTheDecision	In' that case the dismissal of the employee takes effect from the date of the award and so until then the relation of employer and employee continues in law and in fact.
+Precedent	In the present case an inquiry has been held which is said to be defective in one respect and dismissal has been ordered.
+Precedent	The (1)  Supp.
+Precedent	2 S.C.R.
+Precedent	719.
+Precedent	(2)  Supp.
+Precedent	2 S.C.R.
+Argument	836. respondent had however to justify the order of dismissal before <ORG> in view of the defect in the inquiry.
+Argument	It has succeeded in doing so and therefore the approval of <ORG> will relate back to the date on which the respondent passed the order of dismissal.
+Argument	The contention of the appellant therefore that dismissal in this case should take effect from the date from which <ORG>'s award came into operation must fail.
+RulingByPresentCourt	There is no force in this appeal and it is hereby dismissed.
+RulingByPresentCourt	In the circumstances we pass no order as to costs.
+RulingByPresentCourt	Appeal dismissed.

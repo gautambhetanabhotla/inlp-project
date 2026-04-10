@@ -1,0 +1,88 @@
+Fact	ORDER <NAME>, J.
+RulingByLowerCourt	1.
+Fact	This application in revision arises out of a proceeding under Section 145 of the Code of Criminal Procedure.
+Fact	This proceeding was started at the instance of Mt.
+Fact	Pancho Gaunjhin, opposite first party.
+Fact	Notices were issued to the parties concerned in the dispute as provided in Section 145 of the Code, and both parties appeared, filed written statements, affidavits of evidence and documents in support of their respective claims.
+Fact	By his order dated 18-2-1958, the Sub-divisional Magistrate attached the properties in dispute under Section 146(1) of the Code of Criminal procedure, and forwarded the record of the proceedings to <ORG> having jurisdiction to decide the question whether any and which of the parties was in possession of the subject of the dispute.
+Fact	His order is in the following terms :  "There is no sufficient or reliable evidence before me to decide as to which party was in actual physical possession of the lands at the time this proceeding was started, I am, therefor e, unable to decide the issue of possession over the disputed lands.
+Fact	The lands are, therefore, attached under Section 146 (1) Cr.
+Fact	P. C. and the case is referred to <ORG> to decide the question of possession."
+Fact	The records were accordingly placed before the <NAME>, Ranchi but the parties did not appear before him on the date fixed.
+Fact	The learned Munsif gave them several adjournments but of no avail.
+Fact	The parties failed to appear before the learned <NAME>.
+Fact	In these circumstances, the learned Munsif returned the records to the Sub-divisional Magistrate on 17-3-1959, with the following observation :  "Neither party takes any steps even today.
+Fact	Several dates have been given to the parties but no one turns up on their behalf.
+Fact	I have no alternative but to return the record to the learned Magistrate concerned for the needful.
+Fact	The miscellaneous case is accordingly disposed of."
+Fact	Having come to know of the reference being returned to the learned Sub-divisional Magistrate, the petitioner made an application to t he learned Sub-divisional Magistrate on 30-5-1959, praying for appointment of a receiver till the decision of the case and also for suitable action for decision in accordance with law.
+Fact	The learned Sub-divisional Magistrate declined to pass any order and disposed of this application with the following observation:  "Heard.
+Fact	The party can go in revision if he so desires against the order of the <NAME>.
+Argument	File."
+Argument	It is this order for the revision of which the parties have moved this Court.
+Argument	2.
+Argument	Learned counsel appearing for the petitioner put forward the argument that after the receipt of the reference under Section 146(1) of the Code of Criminal Procedure, the <NAME> is bound to give a decision on the question of possession, and that it was incompetent for the <NAME> to return the records back to the Magistrate.
+Argument	Learned counsel pointed out that under Section 146 or for the matter of that under any other section of the Code of Criminal Procedure, there is no provision for return of the reference by the <NAME> to the  Magistrate concerned.
+Argument	His further contention was that if the parties did not choose to adduce any evidence in, spite cf the opportunity being afforded to them, the proper course for the <ORG> was to decide the question of possession on the materials already on the record, and deliberate refusal by the parties to contest before the <ORG>, or default of their appearance before him will not involve either rejection of the reference or its return to the Magistrate concerned.
+Argument	3.
+Argument	Mr. <NAME>, appearing for the opposite party, however, contended that in the circumstances the course adopted by the learned <ORG> was the only proper course that could have been adopted, and the Court should not be kept at the mercy of the parties.
+Argument	If the parties did not choose to adduce any evidence, it was not necessary for the <ORG> to record any decision on the reference made to him by the learned Magistrate.
+Argument	He further submitted that the primary object of the proceedings under Section 145 of the Code of Criminal Procedure  was prevention of the breach of the peace, and this object was amply fulfilled in view of the attachment of the disputed properties and accordingly the Magistrate should have left the parlies to seek their remedy in Civil Court.
+RatioOfTheDecision	On the plain language of Section 146 , the contention of Mr. <NAME> does not appear to be sustainable.
+Statute	Section 146 of the Code of Criminal Procedure is as follows :  "146(1) If the Magistrate is of opinion that none of the parties was then in such possession, or is unable to decide as to which of them was then in such possession, of the subject of dispute, he may attach it, and draw up a statement of the facts of the case and forward the record of the proceeding to <ORG> of competent jurisdiction to decide the question whether any and which of the parties was in possession of the subject of dispute at the date of the order as explained in Sub-section (4) of Section 145 ; and he shall direct the parties to appear before <ORG> on a date to be fixed by him :  Provided  that the District Magistrate or the Magistrate who has attached the subject of dispute may withdraw the attachment at any time, if he is satisfied that there is no longer any likelihood of a breach of the peace in regard to the subject of dispute.
+Statute	(1A) On receipt of any such reference, <ORG> shall peruse the evidence on record and take such further evidence as may be produced by the parties respectively, consider the effect of all such evidence, and after hearing the parties, decide the question of possession so referred to it.
+Statute	(1B) <ORG> shall, as far as may be practicable, within a period of three months from the date of the appearance of the parties before it, conclude the inquiry and transmit its finding together with the record of the proceeding to the Magistrate by whom the reference was made, and the Magis-trate shall, on receipt thereof, proceed to dispose of the proceeding under Section 145 in conformity with the decision of <ORG>.
+Statute	(1C) The costs, if any, consequent  on a reference for the decision of <ORG>, shall be costs in the proceedings under this section.
+Statute	(1D) No appeal shall lie from any finding of <ORG> given on a reference under this section nor shall any review or revision of any such finding be allowed, (1E) An order under this section shall be subject to any subsequent decision of a Court cf competent jurisdiction."
+RatioOfTheDecision	It would be observed that under the amended provision of Section 145 the parties are not required to adduce any oral evidence in support of their respective possessions unless the Magistrate wants it.
+RatioOfTheDecision	Subsection (1) of Section 145 requires the parties to put in such documents, or to adduce, by putting in affidavits, the evidence of such persons, as they rely upon in support of such claims.
+RatioOfTheDecision	Therefore, under the amended provision of Section 145 the decision may be given purely on evidence by means of affidavits and oral evidence is not absolutely essential.
+RatioOfTheDecision	Section 146 of the Code of Criminal Procedure provides for cases where t he Magistrate is of opinion that none of the parties wag in possession or is unable to decide as to which of them was in possession on the date of the initiation of the proceeding under Section 145 of the Code of Criminal Procedure.
+RatioOfTheDecision	In case of such uncertainty or 'inability of the Magistrate to come to any precise conclusion about possession, a reference to <ORG> for the limited purpose of deciding the question of possession becomes necessary.
+RatioOfTheDecision	In all cases where the Magistrate is unable to give any definite decision about possession on the evidence in the record or considers the evidence insufficient to establish the possession of either party, he will require the help of <ORG> in deciding the question of possession and refer the dispute for that limited purpose to <ORG> of competent jurisdiction.
+RulingByPresentCourt	Sub-section (1A) of Section 146 lays down the procedure which <ORG> will adopt on receipt of auy such reference from the Magistrate.
+RulingByPresentCourt	<ORG> on receipt of such referen ce shall peruse the evidence on record and take such further evidence as may be produced by ihe parties respectively.
+RulingByPresentCourt	Thereafter, it will hear the parties.
+RatioOfTheDecision	After hearing the parties the decision will be given upon the evidence that is on the record as also on the evidence that the parties adduce before the learned <NAME>.
+RatioOfTheDecision	The question that falls for consideration is--what <ORG> will do in case the parties do not appear before him.
+RulingByPresentCourt	It will be recalled that under Section 146 , while making a reference to <ORG>, the Magistrate shall fix a date for the appearance of the parties before <ORG>.
+RatioOfTheDecision	It is not necessary for <ORG> to issue any summons for the appearance of the parties or their witnesses.
+RatioOfTheDecision	That preliminary work has been done by the Magistrate himself and the date has already been fixed.
+RatioOfTheDecision	Now, on the date fixed by the Magistrate the parties do not appear.
+RatioOfTheDecision	What <ORG> in the circumstances will do?
+RatioOfTheDecision	Will <ORG> issue processes for the appearance of the p arties and their witnesses or <ORG> will decide the question of possession on the evidence on record.
+RatioOfTheDecision	The further question that arises in this connection is whether it is incumbent oh <ORG> to take fresh evidence before deciding the question, of possession.
+RatioOfTheDecision	The answer of these questions is in the negative.
+RatioOfTheDecision	Under Sub-section (1A) of Section 146 it is not open to <ORG> to call for further evidence.
+RatioOfTheDecision	The initiative under Section 146 (1A), after the reference has been received in <ORG> is with the parties and they have to decide whether or not they would adduce further evidence in support of their respective possessions.
+RatioOfTheDecision	If, however, they choose not to adduce any evidence, it is not necessary for the <NAME> to call for additional evidence, I do not mean to suggest that <ORG> is powerless and cannot call for further evidence, if it considers necessary in the interest of justice.
+RatioOfTheDecision	It is, however, not obligatory upon <ORG> to insist upon further evidence bei ng adduced in support of possession of the parties.
+RatioOfTheDecision	This position is made perfectly clear by the opening words of Section 146 (1A):  "On receipt of any such reference, <ORG> shall peruse the evidence on record and take such further evidence as may be produced by the parties respectively."
+RatioOfTheDecision	The production of further evidence, according to the above provision, is, therefore, discretionary.
+RatioOfTheDecision	It is obvious that after a reference is made to <ORG>, when the Magistrate finds it difficult to decide the question of possession on the materials as required by Section 145 of the Code of Criminal Procedure, there is always some evidence of possession before <ORG>.
+RatioOfTheDecision	In my judgment the provisions of Section 146 are clear.
+RatioOfTheDecision	On receipt of the reference <ORG> shall peruse the evidence on record and take such further evidence as may he produced by the parties.
+RatioOfTheDecision	If the parties do not choose to produce any evidence, there is no obligation upon <ORG> to take that evidence.
+RatioOfTheDecision	If the part ies, however, produce evidence and <ORG> refuses to accept the evidence, it will be an illegality.
+RatioOfTheDecision	Where, however, the parties do not choose to adduce any evidence, it is, in my opinion, competent for <ORG> to give a decision on possession on the evidence which is already on record after hearing the parties.
+RatioOfTheDecision	Here also the parties may choose not to address the <ORG> on the evidence on record.
+RatioOfTheDecision	All that is necessary under Section 146 is that the parties ittusl be given ample opportunity to place their respec-tive cases before <ORG>.
+RatioOfTheDecision	If, however, they do not avail of this opportunity and do not address the <ORG>, <ORG> is, in my opinion, within the jurisdiction in giving a decision upon the question of possession on the evidence that is already on the record.
+RatioOfTheDecision	I do not find any warrant for the contention that on failure of the parties to adduce evidence before <ORG>, the latter will return the record to the Magistrate concerned.
+RatioOfTheDecision	If that contention were to prevail,  the proceedings of the <ORG> will depend, therefore, on the sweet will of the parties which, in my opinion, could, not be in contemplation of the <ORG>.
+RatioOfTheDecision	The provisions of Section 146 make it rather obligatory upon the Civil <ORG> to give a decision on the evidence that is on record, and as will appear from Sub-section (1D) of Section 146 of the Code of Criminal Procedure, no appeal lies from any finding of the Civil <ORG> given on a reference under that section nor any review or revision of any such finding is allow-able under the law.
+RatioOfTheDecision	Therefore, it is obligatory on the Civil <ORG> to give a decision.
+RatioOfTheDecision	It is not obligatory to require further evidence.
+RatioOfTheDecision	The position is, therefore, perfectly clear on refusal of the parties to adduce further evidence, the Civil <ORG> must proceed at once to decide the question of possession on the evidence on record.
+RatioOfTheDecision	The course adopted by the learned <ORG> has no support either on principle or on merit.
+RatioOfTheDecision	The contention that the existence of the attachment excluded the pos sibility of a breach of the peace has no relevancy at all.
+RatioOfTheDecision	It is not required by Section 146 that after attachment no action should be taken either by the Magistrate or by the <NAME>, and the only course open to the parties was to take recourse to <ORG>.
+RatioOfTheDecision	Even after the attachment some decision about possession has to be given under the amended provisions of Section 146 .
+RatioOfTheDecision	If an attachment alone were sufficient to entitle the parties to seek the help of <ORG>, it was not at all necessary for the provision under Section 146 to seek the decision of <ORG> on the question of possession.
+RatioOfTheDecision	Therefore, this contention in my opinion is not tenable.
+RatioOfTheDecision	In my opinion, the contention of the learned counsel for the petitioner is right and must be accepted as correct.
+RatioOfTheDecision	It must be held, therefore, that the order of the learned <NAME> returning the record to the Magistrate concerned was wholly illegal and without jurisdiction.
+RatioOfTheDecision	The <NAME> has to decide the question of possession in accordance with the  provisions of Section 146 .
+RatioOfTheDecision	4.
+RulingByPresentCourt	In the result, this application is allowed, the order of the Magistrate dated 30-5-1959, and the order of the Munsif dated 17-3-1959, returning the record to the Magistrate are set aside.
+RulingByPresentCourt	The case will go back to <ORG> concerned for deci sion in accordance with law.

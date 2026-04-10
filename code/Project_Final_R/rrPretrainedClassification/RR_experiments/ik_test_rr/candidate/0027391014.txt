@@ -1,0 +1,842 @@
+Fact	COMPETITION COMMISSION OF INDIA Case No.
+Fact	52 of 2013 In Re: Financial Software and Systems Private Limited Informant And <ORG> ACI Worldwide Solutions Private Limited Opposite Party No.
+Fact	1 <ORG> <ORG>, Florida, USA Opposite Party No.
+Fact	2 <ORG> ACI Worldwide (Asia) Pvt.
+Fact	Limited, Singapore Opposite Party No.
+Fact	3 CORAM Mr. <NAME> Chairperson Mr. <NAME> Member Mr. <NAME> Member Mr. <NAME> Member Mr. <NAME> Member C. No.
+Fact	52 of 2013 Page 1 of 80 Appearances: For the Informant: <NAME>, Sr. Advocate <NAME>, Advocate <NAME>, Advocate Ms. <NAME>, Advocate Ms. <NAME>, Advocate For the Opposite Parties: <NAME>, Advocate <NAME>, Advocate Ms. <NAME>, Advocate Ms. <NAME>, Advocate Final Order 1.
+Fact	<ORG> Financial Software and Systems Private Limited (hereinafter, the 'Informant'/'FSS') has filed the information in the instant case, under section 19(1)(a) of the Competition Act, 2002 (hereinafter, the ' Act') against <ORG> <ORG> (hereinafter, the 'Opposite Party No.
+Fact	1'), <ORG> <ORG>, Florida, USA (hereinafter, the 'Opposite Party No.
+Fact	2') and <ORG> <ORG>, Singapore (hereinafter, the 'Opposite Party No.
+Fact	3') [collectively hereinafter, the 'Opposite Parties'/'ACI'], inter alia, alleging contravention of provisions of sections 3 and 4 of the Act in the matter.
+Fact	2.
+Fact	Facts  , in Brief 2.1 The <ORG> is stated to be a private limited company incorporated under the Companies Act , 1956 and operating in the areas of electronic payment, financial transaction processing solutions and services.
+Fact	It has been a technology partner, system integrator and co-innovator for several leading banks to transform their payment systems, increase operational efficiencies and launch new business processes.
+Fact	The <ORG> caters to the specific needs of the banks through its two business divisions i.e., <ORG> and <ORG> <ORG> provides serv ices to the clients including systems integration, offshore development, product sustenance, project management and implementation, upgrade and migration services, product testing and certification, application testing, onsite technical support and 24/7 global helpdesk support.
+Fact	<ORG> offers payment processing services across all delivery channels including Automated Teller Machine ('ATM'), Point of Sale ('POS') terminals, internet and mobile with authorization by the banks.
+Fact	It provides services such as card management, merchant management, internet payment gateway, mobile banking & mobile payment, reconciliation & settlement, financial inclusion, a bouquet of value added services and ATM management services on a pay-per-use model including leasing ATM and site management.
+Fact	2.2 <ORG> is a company incorporated under the Companies Act , 1956 and is a wholly owned subsidiary of <ORG>.
+Fact	2 (a <ORG> listed public company) engaged in the business of developing 'BASE24' software for  electronic payment solutions that enable card-based payment transactions.
+Fact	<ORG> is a company incorporated under the laws of Singapore.
+Fact	All the <ORG> have been described as affiliate/ group entities.
+Fact	The <ORG> are stated to be engaged in the business of developing BASE24, a transaction processing switch software ('Electronic Fund Transfer (EFT) Switch'), which according to the informant enables an ATM or POS terminal to communicate with the relevant bank's core banking network.
+Argument	2.3 As per the information, all banks and financial institutions which desire to provide ATM, POS, mobile banking and internet banking services require EFT Switch/ switch software and at present about 77% of ATMs and about 80% of POS terminals in India operate on BASE24 software.
+Argument	It is further submitted that BASE24 software (and other comparable software) requires modifications to enable banks to offer additional value added services through ATMs and POS devices.
+Argument	It is stated that the relationsh ip between <ORG> and the banks which are using BASE24 software ('<ORG> Banks') is governed by a license agreement that provides the right to <ORG> Banks to use and to customize the modules of the BASE24 software.
+Fact	2.4 The <ORG> provides software modification and customization services to <ORG> Banks.
+Fact	The <ORG> and <ORG> are stated to have had a long standing relationship, starting from <ORG> acting as a re-seller for <ORG> for BASE24 software in India in 1991, and then in 1998 becoming a distributor and service provider for BASE24 software in India through various <ORG> ('<ORG>').
+Fact	During the currency of distribution agreement, certain disputes arose between <ORG> and <ORG> sometime in 2007-08.
+Fact	On 16 June 2008, <ORG> proposed a new arrangement whereby <ORG> terminated the distribution agreements with <ORG>; <ORG> license agreements between <ORG> and existing <ORG> Banks in India were to be assigned to <ORG> India; and <ORG> was to endorse <ORG> as a provider of services in respect of BASE24 software to <ORG> B anks in India and <ORG> would be able to directly deal with <ORG> or via <ORG>.
+Fact	2.5 Thereafter, <ORG> and <ORG> initiated legal proceedings before <ORG> at Chennai and <ORG> ('<ORG>').
+Fact	Subsequently, the disputes were settled through negotiations leading to a Settlement and Release Agreement ('<ORG>') on 17th February 2010 between them whereby <ORG> and <ORG> agreed to settle all disputes; the distribution agreements between <ORG> and <ORG> stood terminated; from 01.04.2010, both <ORG> and <ORG> would have had the right to provide professional services, including implementation and customer modification services to all <ORG>; and till 31.03.2011, <ORG> was to serve as <ORG>'s 'preferred services partner' for <ORG> products i.e., BASE24.
+Fact	C. No.
+Fact	52 of 2013 Page 4 of 80  2.6 Pursuant to the terms of the <ORG>, <ORG> and <ORG> made a joint presentation to all <ORG> whereby <ORG> transitioned from a distributor to a system integrator; <ORG> continues to provide suppo rt on the core product i.e., BASE24 software through its helpdesk services and on-site documentation; <ORG> continues to provide support on such customization; BASE24 software and the services around the software are two different products/ services; and if a module license requires customization, then <ORG> would have the 'option to ask <ORG> or <ORG> to do it.
+Fact	2.7 It is the case of the <ORG> that during the period 2010-11, <ORG> took the position that it would not allow <ORG> to continue to provide system integration/ other services in respect of the BASE24 software.
+Fact	However, in a meeting held on 08.06.2011, <ORG> stressed that it was their prerogative to choose 'the production support (on-site support) and service partner'.
+Fact	On 21.06.2011, in a meeting of <ORG> and <ORG>, it was informed to <ORG> that <ORG> would allow the banks to take 'professional services (including implementation and customization)' only through <ORG> or their authorized third party provider excluding <ORG>.
+Fact	However, <ORG> oppos ed the said action stating that <ORG> has no capability to provide the support services and submitted that since 95% of ATMs in India are connected to BASE24 switch they cannot afford any risk to their operations.
+Fact	2.8 Subsequently, on 14.07.2011, a meeting between <ORG> Banks, <ORG> and <ORG> was held wherein <ORG> agreed to give its consent to <ORG> Banks to use <ORG> or third party for customers' specific modification to BASE24 software for a period of 6 months.
+Fact	Then, in August, 2011, <ORG> wrote to <ORG> Banks stating that it would provide consent to use <ORG> services for doing customizations on BASE24 software for a period of 24 months ending July 13, 2013.
+Fact	2.9 But, in February, 2013 <ORG> made a presentation before <ORG> Banks stating that after 13.07.2013 it would not provide consent to any third party to access, modify or customize the existing BASE24 application as it had launched <ORG> enhanced support program ('<ORG> ESP') under which it would provide services to <ORG> Banks similar to those being provided by <ORG>.
+Fact	In May, 201 3, <ORG> sent letters to each <ORG> Banks communicating its decision that it would not allow to banks to use <ORG> or any other third party to provide customizations services on BASE24 software beyond July, 2013.
+Fact	2.10 Based on the above averments and allegations, the Informant has alleged that <ORG> has abused its dominant position under section 4 of the Act by not allowing <ORG> Banks to choose a service provider of their choice; imposing unfair condition in the purchase or sale of goods or services through exclusive supply arrangements with <ORG> Banks; directing <ORG> Banks not to avail the integration services of <ORG>, thereby restricting the provision of services of customization and modification in respect of software for electronic payment systems i.e., the downstream market; using its dominance in the upstream market of software for electronic payment systems to gain entry in the downstream market of provision for services of customization and modification in respect of software for electronic payment systems; and  limiting and restricting the technical or scientific development in the market.
+Fact	2.11 The <ORG> has also alleged contravention of the provisions of section 3(4) of the Act by <ORG>.
+Fact	As per the <ORG>, <ORG> is restricting its customer banks from dealing with any third party in respect of providing services of customization and modification of <ORG> products amounting to refusal to deal.
+Fact	It is alleged that the restriction imposed by <ORG> causes or is likely to cause an appreciable adverse effect on competition ('AAEC') in the downstream market in India as it would lead to foreclosure of competition in the downstream market and also result in creation of entry barriers and driving existing competitors out of the downstream market.
+Fact	It is also alleged that <ORG> seeks to impose tie-in arrangements with <ORG> Banks by tying the upstream market of software with the downstream market of services.
+Fact	Hence, this arrangement by <ORG> causes or is likely to cause AAEC in the market.
+Fact	C. No.
+Fact	52 of 2013 Page 6 of 80  3.
+Fact	After giv ing a thoughtful consideration to the facts of the case as given in the information, the <ORG> vide its order under section 26(1) of the Act dated 04.09.2013 stated that prima facie the conduct of <ORG> was in contravention of provisions of sections 3 and 4 of the Act and needed investigation by the Director General ('DG').
+Fact	4.
+Fact	Further, after considering the application for interim relief, the <ORG> vide its order dated 11.02.2014, granted interim relief to the Informant under section 33 of the Act.
+Fact	Consequently, the Opposite Parties were restrained from implementing the condition imposed on <ORG> Banks that they would not take service of the Informant for customization of electronic software being supplied by the Opposite Parties, till the final disposal of the information.
+Fact	5.
+Fact	<ORG> filed an appeal before <ORG> ('<ORG>') against the said order of the <ORG> and the Hon'ble <ORG> vide its orders directed the DG to complete the investigation and the <ORG> to pas s the order within the time periods provided by the Hon'ble COMPAT.
+Fact	6.
+Fact	<ORG>'s Investigation 6.1 The <ORG> submitted the investigation report to the <ORG> on 20.06.2014.
+Fact	<ORG> has investigated the matter covering the alleged infraction of provisions of sections 3(4) and 4 of the Act in the matter.
+Fact	The following paragraphs briefly highlight the findings of <ORG>.
+Fact	6.2 Based on the analysis of the facts gathered during the course of investigation, the <ORG> identified 'the market for Electronic Fund Transfer (EFT) switch/ switch software in India (Upstream market)' and 'the market for provision of services in respect of customization and modification of EFT software (professional services) in India (Downstream market)' as the relevant markets in this case.
+Fact	C. No.
+Fact	52 of 2013 Page 7 of 80  6.3 The <ORG> has considered <ORG>, <ORG> and <ORG> as a 'group' in terms of Explanation (b) under section 5 of the Act.
+Fact	Accordingly, the position of dominance of <ORG> in the relevant market has been examined in the <ORG> report.
+Fact	<ORG> ing examined the factors under section 19(4) of the Act, the DG has found <ORG> to be in a dominant position in the relevant market for EFT Switch/ switch software in India i.e., in the upstream market.
+RulingByLowerCourt	6.4 Based on the analysis of the facts, evidences, submissions of the parties, DG found that <ORG> had imposed unfair and discriminatory conditions on <ORG> Banks in contravention of section 4(2)(a)(i) of the Act and had limited the provision of professional services in contravention of section 4(2)(b)(i) of the Act.
+RulingByLowerCourt	Further, it was found that the conduct of <ORG> resulted in denial of market access to <ORG> and other third party service providers in the downstream market in violation of section 4(2)(c) of the Act.
+RulingByLowerCourt	The DG also found that the alleged act of <ORG> making the contract subject to acceptance of supplementary conditions was in contravention of section 4(2)(d) of the Act.
+RulingByLowerCourt	Further, it is reported that due to the alleged act of <ORG>, technical and scientific development in the downstream market is likely to be adv ersely affected in violation of section 4(2)(b)(ii) of the Act.
+RulingByLowerCourt	The <ORG> also reported that <ORG> used its dominance in the upstream relevant market to enhance its presence in the downstream relevant market amounting to a violation of section 4(2)(e) of the Act.
+RulingByLowerCourt	6.5 Based on the analysis of the provisions of License Agreement and facts gathered during the investigation, the <ORG> found that the restrictions imposed by <ORG> do not satisfy the 'reasonable restrictions test' required to balance the conflicting interest in a business relationship.
+RulingByLowerCourt	It is observed in the <ORG> report that <ORG> under the garb of Intellectual Property Rights ('IPR') protection restricted its competitors in downstream market with the intention to reinforce its own position.
+RulingByLowerCourt	The <ORG> investigation also revealed that <ORG> entered into anti-competitive agreements viz., 'tie-in-arrangement', 'refusal to deal' and 'exclusive supply', with <ORG> Banks in terms of explanation (a), (b) and (d) to section 3(4) of the Act.
+RulingByLowerCourt	The <ORG> found that these agreements ha ve <ORG> in markets in India.
+RulingByLowerCourt	6.6 The <ORG> also identified and analysed the role of the employees of <ORG> persons responsible for the said anti-competitive conduct.
+RulingByLowerCourt	7.
+Fact	The <ORG> report was considered by the <ORG> in its ordinary meeting held on 30.07.2014 and the <ORG> decided to send a copy of the non- confidential version of the <ORG> report to the Informant, the Opposite Parties and the concerned employees for filing their replies/ objections.
+Fact	Accordingly, the parties filed their replies/ objections to the <ORG> report.
+Fact	8.
+Fact	Objections/ Replies of <ORG> 8.1.
+Argument	<ORG> has submitted that the <ORG> has erroneously concluded that the relevant product market to be the 'market for EFT Switch' without considering the substitutes available in the market, factors provided in section 19(7) of the Act, and universe of inter-connected electronic payment systems.
+Argument	While defining the relevant product market, without carrying out SSNIP test/ hypothetical monopolist test or questioning <ORG> Banks on substitutability, it has been repor ted by the DG that there are no substitutes for EFT Switch and customization thereof.
+Argument	Further, while defining the relevant product market DG has failed to evaluate transactions processed by <ORG> ('<ORG>'); mobile phone/ mobile banking transactions; transactions by hosted providers such as <ORG>, <ORG>, <ORG>, <ORG>, C- edge, <ORG>, <ORG>, <ORG>, <ORG>, etc.
+Fact	; transactions processed by leading card issuers such as <ORG>, <ORG>, <ORG>, etc.
+Fact	; transactions processed by <ORG> and <ORG>; e-commerce transactions processed for emerging players such as <ORG>, <ORG>, etc.
+Fact	As per <ORG>, the above said transactions pose sufficient competitive constraints in EFT Switch / switch software market.
+Fact	C. No.
+Fact	52 of 2013 Page 9 of 80  8.2.
+Fact	It has been submitted that 'electronic retail payments system' would be more appropriate representation of the narrowest relevant product market for conducting competition analysis in the present matter.
+RulingByLowerCourt	The DG erroneously concluded that t he relevant geographic market is restricted to India without considering the factors provided in section 19(6) of the Act, competition from imports, export potential, and international electronic payments.
+RulingByLowerCourt	It has been submitted that although the relevant geographic market for certain elements of services, typically the ones which require physical presence of the service provider, may be limited to India; the relevant geographic market for EFT Switches, which is essentially a software product capable of electronic transmission is global.
+RulingByLowerCourt	8.3.
+RulingByLowerCourt	Relying on the report of '<ORG>' it has been submitted by the Opposite Parties that the <ORG>'s report does not delineate the relevant market on the basis of a benchmark method for evaluating demand substitutability.
+RulingByLowerCourt	Consequently, important substitutes to EFT Switch / switch software are excluded.
+RulingByLowerCourt	Rather, the narrowest anti-trust product market definition would be the 'market for electronic retail payment systems'.
+RulingByLowerCourt	<NAME> hermore, the geographic scope of the relevant market is not limited to India since EFT Switch providers face competitive constraints from outside India.
+RulingByLowerCourt	8.4.
+RulingByLowerCourt	The erroneous market definition and reliance on unverified data furnished by the Informant has led the <ORG> to conclude that the Opposite Parties are dominant without considering the buyers (actual and potential) in the narrowly defined relevant market, inability of the Opposite Parties to act independent of its customers and ease of entry and switching evidenced by migration of customers from one switch to another.
+RulingByLowerCourt	8.5.
+RulingByLowerCourt	A correct delineation of the anti-trust market necessary for assessing the alleged conduct in this case would conclusively demonstrate that ACI is not dominant in the market and neither has market power to act independently of competitive forces nor has the ability to adversely affect competitors or consumers or the relevant market in its favour.
+RulingByLowerCourt	Even on the basis of the artificially narrow relevant market as defined by <ORG>, ACI is not do minant if transaction volumes of other users of EFT Switch (ignored in the market share calculations by the <ORG>) are taken into account.
+RulingByLowerCourt	8.6.
+RulingByLowerCourt	It has been submitted that a correct relevant market definition would have revealed that there is no issue of dominance in EFT Switch/ switch software market as defined by the <ORG>, given the fact that there is ongoing entry by competitors and migration to substitutable switches by customers.
+RulingByLowerCourt	For example, neither the role of <ORG> operating the National Financial Switch ('NFS') nor <ORG> (licensing of EFT Switch from <ORG> and considerable market share/ power in EFT Switch and related software) has been taken into account by the <ORG>.
+RulingByLowerCourt	In addition, it has been submitted that competition from established and viable firms/ entrants such as <ORG>, <ORG>, <ORG> ad FIS switches has not been analyzed by <ORG>.
+RulingByLowerCourt	The switching of <ORG>'s customers to other switch software suppliers and new contract between some of the aforementioned switch software suppliers and di fferent banks are but some of the developments that have/ and are continuing to take place in the market.
+RulingByLowerCourt	8.7.
+Fact	It has been submitted that the dynamics of competition prevailing in the market are further evidenced by the declining market share of <ORG> (even in terms of the over stated and incorrectly measured market shares attributed to <ORG> by <ORG>).
+Fact	In conducting competition assessment, especially in regard to market dominance, competition authorities worldwide attach considerable significance to the changes or trends in the market shares of the firm in question.
+Fact	Declining market shares are generally construed as being indicative of increased competition and lack of market power.
+Fact	C. No.
+Fact	52 of 2013 Page 11 of 80  8.8.
+Argument	It has been submitted that the <ORG> has without independent verification accepted the market analysis of the <ORG>.
+Argument	It has been further submitted that banks are not the only customers of <ORG>, and other financial and non-financial institutions also buy <ORG>.
+Argument	For example, <ORG>  has licensed its switch '<ORG>' to the <ORG> for operating the <ORG>.
+Argument	Further, it is submitted by <ORG> that the DG has failed to consider the transactions done through 'internet gateway' and 'mobile banking' while calculating its market share.
+Fact	The DG has relied merely on the <ORG>'s submission to conclude that internet gateway transactions constitute 2% of the total transactions and hence, such transactions have been excluded while undertaking the analysis.
+Fact	It has been submitted that not only has the DG blindly placed reliance on the submissions of the <ORG>, but has also not given an opportunity to <ORG> to rebut such evidence/ data.
+Fact	8.9.
+Fact	It has also been submitted that other segments of the payment and settlement systems such as ATM networks, card payment network, cross border money transfer, pre-paid payment instruments, white label ATM operators would also require EFT Switches and are a part of the actual/ potential customer base for EFT Switches.
+Fact	This has been entirely ignored by the DG resulting i n gross error in calculating market shares.
+Fact	<ORG> has stated that there is no regulatory restriction on sale of EFT Switches in India hence, there is no reason for ignoring buyers of EFT Switches while analysing the market power of EFT Switch suppliers in the relevant market.
+Fact	By placing reliance on incorrect/ insufficient information, the DG incorrectly determined the relevant market and wrongly concluded that the Opposite Parties are dominant.
+Fact	8.10.
+Fact	As per <ORG>, it has low market shares even if only few of the components of the market were to be considered.
+Fact	On the basis of available data, it is submitted that the market share of <ORG> during financial years 2011-12 to 2013-14 (upto Feb) is less than 40% and on the basis of source of spend, its market share in 2013 is less than 24%.
+Fact	C. No.
+Fact	52 of 2013 Page 12 of 80  8.11.
+Fact	<ORG> has claimed that it is a very small player in a broader relevant market which includes: card lifecycle management software; merchant life cycle management software; wholesale payment process ing software for NEFT and RTGS payments; payments initiation software through various channels like mobile internet and phone banking; retail payments switch software (such as BASE24); Interchange software including <ORG>, <ORG>, <ORG>; bill payments software; fraud monitoring software; and payments infrastructure monitoring software.
+Fact	It is stated that in the presence of giant players like <ORG> and <ORG> in the relevant product market, the question of <ORG> being dominant does not arise.
+Fact	Further, <ORG> is not dominant in terms of estimated business share in IT and switch software spends.
+Fact	It is submitted that transaction based market assessment is not appropriate given that license fee is bilaterally negotiated between switch owners and the customers.
+Fact	Banks report the number of transactions to <ORG> on the basis of which fee is calculated at the agreed rate per transaction.
+Fact	Therefore, it would be appropriate to arrive at the share of total business on the basis of revenue of the parties.
+Fact	8.12.
+Fact	It has been s ubmitted that assessing market power on the basis of number of banks licensed to or revenue earned by <ORG> is a better and accurate indicator of the market power and hence, the <ORG> erred in considering number of transactions to undertake market power assessment.
+Fact	Moreover, an EFT Switch like <ORG> software is installed on the bank server and not on ATMs and POS terminals.
+Fact	ATMs and POS terminal operate on their own software which allows them to communicate with banks.
+Fact	Hence, market power of EFT Switch developer like <ORG> can be assessed by the number of banks which take a license for or are connected to such EFT Switches.
+Fact	It has been submitted that as on July, 2014, while <ORG> was connected to 320 banks, <ORG> was connected to only 12 banks.
+Fact	C. No.
+Fact	52 of 2013 Page 13 of 80  8.13.
+Fact	As regards the number of ATMs, it has been submitted that <ORG> manages more than 90% of inter-bank ATM transactions in the country and was connected to 1,55,000 ATMs as of February 2014 whereas, as per the <ORG> report, <ORG>'s <ORG> was con nected to 98,670 ATMs by that time.
+Fact	The volume of transactions of banks using BASE24 software is significantly less compared to the <ORG> approved volume of transactions.
+Fact	In this context, it has been submitted that the DG has wrongly attributed 439 crore transactions to <ORG> for the period of 30.04.2013 to 28.02.2014 on account of the fact that not all <ORG> Banks used BASE24 for their POS transactions.
+Fact	As a matter of fact, only <ORG> and <ORG> use BASE24 for its POS operations.
+Fact	8.14.
+Fact	It has been stated by <ORG> that the DG has failed to analyse the downstream market where the <ORG> enjoyed monopoly from the time it became a distributor of <ORG> until 2013.
+Fact	The entry and increased competition in the downstream market was largely facilitated by <ORG> so as to provide its customers greater choice of alternative service providers.
+Fact	8.15.
+Fact	It has been submitted that the DG has ignored the fact that <ORG> has not been able to operate independent of competitors or consumers and wrongly concluded that banks do not have counte rvailing buying power.
+Fact	8.16.
+Fact	As per the Opposite Parties, the <ORG> has wrongly concluded that there are huge financial and technical constraints in migrating to other software.
+Fact	In order to arrive at this erroneous conclusion the <ORG> has relied on the statements of few banks while he ignored the responses of <ORG>, <ORG> and <ORG>.
+Fact	8.17.
+Fact	It is submitted that the <ORG> has ignored the nature and degree of vertical integration of competitors of <ORG> in the market.
+Fact	The Opposite Parties are the only EFT Switch suppliers who have outsourced the systems integration, customization and modification of its proprietary BASE24 EFT Switches to the Informant whereas all the other EFT Switch suppliers perform the same services in-house.
+Fact	8.18.
+Fact	<ORG> has submitted that since it is not dominant in the relevant market, even in the incorrectly narrow anti-trust market as delineated by the <ORG>, the issue of abuse of dominant position does not arise.
+Fact	8.19.
+Argument	On the findings of <ORG> in regar d to contravention of different provisions of sections 3(4) and 4 of the Act, it has been submitted that the DG has investigated the matter without appreciating the prevailing industry practice, the objective justification for <ORG>'s conduct, nature of dispute with the <ORG> and threat to the IPRs of <ORG>.
+Argument	It is submitted that the DG has erroneously accepted the allegation that <ORG> tried to foreclose the downstream market.
+Argument	On the contrary, its intention is to open up the downstream market to other players and break the monopoly of the <ORG>.
+Argument	8.20.
+Argument	As per <ORG>, the DG has erroneously concluded contravention of section 4(2)(a)(i) of the Act on the basis of <ORG>'s advice to its banks to refrain from using the <ORG> for customization services amounts to an unfair condition.
+Fact	Rather, many <ORG> Banks have continued to use the services of the <ORG> for customization for a period even after expiry of the deadline.
+Fact	Also, the DG has erroneously concluded that <ORG> has abused its dominant position by limiting  the access of third party service providers to downstream market by deterring new entry and thereby limiting technical and scientific development in contravention of sections 4(2)(c) and 4(2)(b)(i) of the Act.
+Fact	<ORG> has stated that <ORG>'s assessment in this regard is based on recycled arguments and untenable presumptions.
+Fact	The <ORG> has failed to analyze the downstream market of the vertical integrated service suppliers.
+Fact	It is stated that <ORG> is not only entering the market itself but is also sponsoring entry of several new entrants and creating competition for the benefit of customers.
+Fact	The willingness for entry by <ORG>, <ORG>, <ORG>, <ORG> indicates the prospect of greater competition on part of the third party professional services' market.
+RulingByLowerCourt	8.21.
+RulingByLowerCourt	It has been submitted that the <ORG> has erroneously concluded contravention of section 4(2)(e) of the Act as <ORG> seeks to leverage its dominant position in the upstream market to support itself in the downstream market.
+RulingByLowerCourt	Assuming the <ORG>'s finding that <ORG> is dominant in the u pstream market is correct; the finding suffers from the lack of concrete mechanism showing how <ORG> could leverage position from the upstream to downstream market.
+Argument	The Opposite Parties have submitted that the <ORG> has tried to foreclose the market by carrying out customization work without adequate documentation.
+Argument	In the absence of complete documentation of customization, it is extremely difficult for any other entity to provide such services to the banks.
+Argument	In light of the aforesaid, it has been submitted that it is the <ORG> which is trying to foreclose the market and not the Opposite Parties.
+Argument	8.22.
+Argument	It has been submitted that <ORG> has erroneously concluded that <ORG> has contravened section 3(4) read with Section 3(1) of the Act.
+Argument	It is submitted that <ORG> is not preventing any third party (other than the <ORG>) from providing customization services.
+Argument	Further, the requirement of prior consent of the Opposite Parties for third party customization is a reasonable restraint under section 3(5)(i) of the Act  and the same is de facto applied by other switch software suppliers in India.
+Argument	It has been further submitted that the <ORG> has concluded that there is <ORG> without even analyzing the factors provided in section 19(3) of the Act.
+Argument	This finding is not established even if it is assumed that ACI is dominant in the upstream market based on the facts considered by the <ORG>.
+Argument	8.23.
+Argument	The Opposite Parties have contended violation of IPRs and breach of contractual obligations by the <ORG>.
+Argument	It has been submitted that the <ORG> has stated that the issues related to the alleged violation of IPRs does not fall within the ambit of the examination of abusive conduct under the Act.
+Argument	C. No.
+Argument	52 of 2013 Page 16 of 80  However, the <ORG>, relying solely on the submissions made by <ORG>, concluded that the allegations of IPR violation as contended by the Opposite Parties do not stand established.
+Argument	9.
+Argument	Replies/ Objections of the <ORG> 9.1 The <ORG> in its response to <ORG> report has agreed with the findings of the <ORG> with regard to  delineation of the relevant markets as the market for the provision of EFT Switches/ switch software in India (upstream market) and the services provided in relation thereto (downstream market).
+Argument	9.2 The Informant in its rejoinder to the replies of <ORG> has submitted that while both <ORG> switch and EFT Switch are switch software, their functions vary significantly and as such cannot be considered as substitutable.
+Argument	It has been submitted that EFT Switch enables card-based transactions through various frontend devices (such as ATMs, POS devices, mobiles and internet payment gateways) deployed by a bank and acts as a middleware between the devices on the one side and the core banking host of the bank on the other.
+Argument	The customer transactions would emanate from the frontend devices deployed by the banks.
+Argument	When any transaction is attempted at a particular bank's device, EFT Switch relays the transaction to the core banking host of the bank to get the authorization for the transaction.
+Argument	9.3 An <ORG> or ATM  sharing network uses a switch merely to facilitate routing of transactions between EFT Switches of two banks.
+Argument	However, EFT Switch of a bank facilitates a card-based transaction between a bank and its customers through the frontend devices like ATM, POS and payment gateways and it also facilitates authentication of such customer transaction.
+Argument	Therefore, <ORG>s like, <ORG>, <ORG> or <ORG> and ATM sharing networks like <ORG>, <ORG> and <ORG> only route transactions between two banks and unlike EFT Switches, <ORG> switches do not authenticate the customer transactions.
+Argument	Thus, it is wrong to conclude that these <ORG>s and ATM Networks exercise any competitive constraints or even operate in the same relevant market.
+Argument	9.4 With respect to <ORG>, it has been submitted that <ORG> facilitates routing of ATM transactions through inter-connectivity between the banks' switches thereby enabling the bank customers to utilize any ATM of a connected bank.
+Argument	Thus, it is an <ORG> switch which enables inte r-bank ATM transaction enabling customers of one bank to use the ATM of another bank and is not the same as an EFT Switch and the same has been accepted by <ORG>.
+Argument	<ORG>, in the Report of <ORG> of <ORG>, has also recognized NFS as an Interchange switch used by banks.
+Argument	9.5 The <ORG> has submitted that the substitutability under the Act has to be determined from the demand perspective, keeping in mind the functional relation between the product characteristics and its end use.
+Argument	With respect to substitutability, the <ORG> has relied upon the decision of <ORG> ('<ORG>') in the case.
+Argument	<ORG> v. <ORG>.
+Argument	The <ORG> has submitted that products that have materially different characteristics and are not functionally interchangeable, cannot be regarded as a part of the same market.
+Argument	The end use of the product is the most important feature to determine the interchangeability and to examine whether t hey form a part of the same relevant market.
+Argument	As per the <ORG>, EFT Switch performs distinct functions and has no functional interchangeability with an <ORG> switch as contended by <ORG>.
+Argument	9.6 It has been submitted that the broader product market definition being suggested by <ORG> viz., market for electronic retail payment systems is erroneous both in law and on facts.
+Argument	It is submitted that the relevant product market has to be determined from the perspective of what is regarded as interchangeable by the customer i.e., the banks in the instant case.
+Argument	The functions being performed by EFT Switch cannot be performed by any other electronic retail payment system.
+Argument	In fact, the two are completely distinct products which cannot be taken to constitute the same relevant market.
+Argument	Since the services being provided by an <ORG> switch are not functionally interchangeable with an EFT Switch, the same cannot be stated to be substitutes.
+Fact	9.7 The <ORG> has submitted that mobile phone transactions processed throu gh <ORG>; transactions processed by leading card issuers such as <ORG>, <ORG>, and <ORG> processed by <ORG> of the relevant bank have been considered by the DG.
+Fact	Transactions through e- commerce portals (such as <ORG>, <ORG>, <ORG>, etc.)
+Argument	can be discharged through a payment gateway or internet banking.
+Argument	As per the <ORG>, such transactions are either already included in the assessment provided by the DG or wholly unconnected with <ORG>es.
+Argument	As regards the entry of <ORG>, the <ORG> has submitted that the entry of <ORG> is merely a proposed entry and thus cannot be said to have any impact on <ORG>'s market share during the period under investigation.
+Argument	9.8 The <ORG> has stated that the alternate market definition i.e., the market of software for electronic payment systems as provided by <ORG> is misplaced because different software are not substitutes, the suppliers of these different software are different and consumers do not necessarily de mand these software together.
+Argument	9.9 It is submitted that the submissions of <ORG> with respect to switching costs are grossly misplaced and counter intuitive.
+Argument	It has been submitted that the industry is characterized by relatively high costs for banks to migrate from one EFT Switch to the other, in addition to the risk involved in doing so.
+Fact	9.10 The <ORG> has submitted that hosted switch software is nothing but an EFT Switch like BASE24, <ORG> etc.
+Fact	and these have already been included in the definition of relevant product market as defined by the DG.
+Fact	C. No.
+Fact	52 of 2013 Page 19 of 80  9.11 It has been submitted that the DG's findings on the dominance of <ORG> are based on a comprehensive analysis of the factors mentioned in section 19(4) of the Act.
+Fact	As per the <ORG>, the DG's calculations of the market share are based on the correct indicators, including the volume of transactions and the number of ATMs/ POS devices serviced by <ORG>.
+RulingByLowerCourt	9.12 As per the <ORG>, the DG has correctly noted that <ORG>'s condu <ORG> contravened se<ORG>ion 4(2)(a)(i) of the A<ORG> since <ORG> imposed unfair conditions on <ORG> Banks by preventing them from obtaining professional services from parties other than <ORG> through the conditions included in its license agreement.
+RulingByLowerCourt	Further, it has been submitted that after due consideration of the evidence placed on record, the DG corre<ORG>ly concluded that <ORG>'s condu<ORG> contravened se<ORG>ion 4(2)(b)(i) of the A<ORG> by preventing the <ORG> and other third parties from providing professional services and thereby limiting the availability of services from parties other than <ORG>.
+RulingByLowerCourt	As per the <ORG>, the DG has corre<ORG>ly concluded that <ORG>'s condu<ORG> contravened se<ORG>ion 4(2)(b)(ii) of the A<ORG> by limiting the technical or scientific development relating to services in downstream market to the prejudice of the consumers.
+RulingByLowerCourt	In addition to above, the <ORG> is in agreement with the findings of DG report that <ORG> has contravened the provisions of se<ORG>ion 4(2)(c) of the A<ORG> because it effe<ORG>ively denied access to t he downstream market to all of its competitors through the onerous conditions imposed through its license agreements with <ORG>.
+RulingByLowerCourt	It has been submitted that the DG correctly concluded that <ORG>'s conduct contravened section 4(2)(d) of the Act as <ORG> imposed supplementary obligations through the license agreements.
+RulingByLowerCourt	The <ORG> also agreed with the findings of DG that the conduct of <ORG> is in contravention of the provision of section 4(2)(e) of the Act as it is leveraging its dominance in the upstream market to enter the downstream market.
+RulingByLowerCourt	9.13 As per the <ORG>, the DG has correctly concluded that by compelling <ORG> using BASE24 software to necessarily procure services in relation thereto from <ORG>, <ORG> imposed a tie-in arrangement on consumers which is in violation of section 3(4)(a) of the Act.
+RulingByLowerCourt	It has been contended that the DG rightly noted that this condition amounts to an exclusive supply agreement and thus falls within the mischief of section 3(4)(c) of the Act.
+RulingByLowerCourt	As per the <ORG>, the DG h as correctly concluded that such conduct of <ORG> is likely to cause AAEC in the relevant downstream market through the creation of entry barriers in the market, foreclosure of market and driving out existing competitors from the market.
+RulingByLowerCourt	It has been submitted that the <ORG>, after due consideration of the evidence provided, correctly concluded that <ORG> cannot avail the exemption under section 3(5) of the Act in relation to protection of its IPRs.
+RulingByLowerCourt	9.14 It has been stated by the <ORG> that the <ORG> considered the prevalent industry practices on the basis of the submissions made by third parties, including <ORG>'s competitor-suppliers of <ORG> and also the consumers of <ORG> and thereby defined the relevant market accordingly.
+Argument	The <ORG> has submitted that <ORG> has constantly attempted to hide behind the ongoing legal dispute between <ORG> and <ORG> even though the said legal dispute is purely contractual and has no bearing on the proceedings before the <ORG>.
+Argument	9.15 The <ORG> has denied that the  market share of <ORG> represents a downward trend.
+Argument	The analysis performed by the DG clearly demonstrates that <ORG>'s market share has more or less remained constant, further it is also apparent that <ORG> has retained all its customer banks.
+Argument	In any event, even if there is any fluctuation in the market share of <ORG>, it is negligible and does not impact <ORG>'s position in the market.
+Argument	It has been further submitted that the ongoing trends in the market clearly demonstrate that <ORG> continues to enjoy its position of strength in the market, since all its major customers, barring two banks with lesser transactions, have continued to avail services from <ORG> and have also upgraded their BASE24 software on a regular basis.
+Argument	It is stated that despite all of <ORG>'s claims about occupying a weak position in the market, customers are entirely dependent on it as evidenced by their continuance with BASE24 despite the software being in its sunset phase, the increase in the price of the services being offered by <ORG> in the downstream  market, the existence of alternative products, and <ORG>'s callous attitude towards its customers.
+Argument	9.16 The Informant has submitted that even for the sake of assumption that <ORG>'s argument is correct, the POS terminals deployed by <ORG> and <ORG> alone, constitute around 52% of the total number of POS terminals deployed in India.
+Argument	The Informant has denied that the DG has excluded any significant customer base from its analysis.
+Argument	9.17 It has been submitted that <ORG> has sought to mislead the <ORG> by stating that BASE24 software does not support internet payment gateway transactions and mobile payment transactions.
+Argument	The Informant has submitted that such transactions are processed through EFT Switches of the banks for authorization.
+Argument	For clarity, <ORG>'s and <ORG>'s, internet gateway transactions and mobile payment transactions are processed through their respective BASE24 Switch for authentication.
+Argument	Resultantly, these transactions belonging to <ORG> Banks would be attributed to BASE24.
+Argument	Therefore, even if one include s such transactions in the market share assessment, <ORG>'s market share would only increase since the transactions are routed through its BASE24 Switch.
+Argument	9.18 It has been submitted that <ORG> has calculated its market share wrongly by including number of transactions conducted through Interchange switches like <ORG> and <ORG> and <ORG>, transactions through <ORG>, internet banking transactions, mobile banking transactions, EFT/ NEFT transactions, electronic clearing services transactions, RTGS transactions, payment gateway transactions, phone banking and call centre transactions, <ORG> and <ORG> transactions due to <ORG>, etc.
+Argument	9.19 It has been submitted by the <ORG> that the total share of revenue spent by a customer on an EFT Switch is not a correct determinant of market share of an entity.
+Argument	The fee charged by different switches may vary and be based on different parameters, implying that the evaluation on the basis of the share of the revenue would fail to provide the correct picture.
+Argument	The <ORG> h as submitted that the transaction based model is in fact the most appropriate method to determine the market share.
+Argument	Further, even if the transaction based method is not found to be appropriate the DG has also calculated the market share based on the number of ATMs and POS devices powered by <ORG>'s BASE24 software.
+Argument	9.20 The <ORG> has submitted that in so far as <ORG> and other such <ORG> switches are concerned, taking them into account for the purposes of market share calculations is grossly incorrect.
+RatioOfTheDecision	Hence, the alleged reduction in the market share of <ORG> on account of greater prominence of <ORG> and other such <ORG> switches is without any merit and cannot be accepted.
+RatioOfTheDecision	9.21 It has been submitted that it would be incorrect to state that <ORG> has been attempting to inject competition in the market in as much as it has merely sub- contracted the services to other players who are in fact controlled by <ORG>.
+RatioOfTheDecision	9.22 In regards to switching cost, the <ORG> has submitted that <ORG>, desp ite being a small-sized bank with about 961 ATMs as on March 2013 took nearly a year to successfully switch from <ORG> to <ORG>.
+RatioOfTheDecision	Further, <ORG> could not successfully migrate from <ORG> to Opus successfully and thus is currently utilizing both switches.
+RatioOfTheDecision	Even <ORG> and <ORG> scraped their RFPs after <ORG>'s failure to migrate.
+Argument	9.23 The Informant has submitted that <ORG> has provided a list of services provided by the <ORG> such as the RuPay Scheme, <ORG>, <ORG> and <ORG> and argued that each of these services should be considered as independent transactions for the purpose of calculating the market share.
+Argument	The Informant has submitted that these services are not 'substitutes' of EFT Switches in any sense of the word.
+Argument	In addition, the Informant has submitted that IMPS transactions are inter-bank electronic instant mobile money transfer which is provided by the <ORG>.
+Argument	It has been submitted that such transactions are processed thro ugh EFT Switch of the relevant bank itself.
+Argument	9.24 The Informant has submitted that the submissions made by <ORG> that NFS/ IRCTC/ Flipkart and other transactions be included as EFT transactions is a deliberate attempt to mislead the <ORG>.
+Argument	9.25 The Informant has denied that <ORG> has been infusing competition in the market with intent to break monopoly enjoyed by <ORG>.
+Argument	The Informant has submitted that <ORG> categorically admitted that it has in fact restricted <ORG>'s access to downstream market by way of impositions on <ORG> Banks not to avail services from <ORG>.
+Argument	It has been submitted that <ORG> Banks only contracted with <ORG> for provision of services out of choice rather than any compulsion.
+Argument	The Informant has submitted that <ORG> outrightly prohibited <ORG> Banks from availing services from <ORG> through enforcement of consent clause in its license agreement with customer banks.
+Argument	It has been further submitted that <ORG> individually wrote to <ORG> Banks prohibiting them from availing any services from <ORG>.
+Argument	Additionally, <ORG> a lso threatened certain banks with termination of their license agreement for availing services from <ORG>.
+Argument	Thus, the downstream market has been fully foreclosed as far as the <ORG> is concerned.
+Argument	9.26 The <ORG> has submitted that <ORG>'s competitors, barring <ORG>, do not at all compel their customers to avail services only from them.
+Argument	<ORG> has misrepresented the facts by stating that <ORG> has been providing services to <ORG> since 2006.
+Argument	It has been submitted that <ORG> is merely a sub-contractor of <ORG> and can hardly be considered as a competitor in the market.
+Argument	C. No.
+Argument	52 of 2013 Page 24 of 80  9.27 The <ORG> has supported the finding of the DG holding <ORG> in contravention of section 3(4) read with section 3(1) of the Act.
+Argument	The downstream market stands effectively foreclosed to all third parties other than <ORG> and its subcontracted partners through the consent clause which bestows <ORG> with enormous discretion in deciding who may provide professional service.
+Argument	It has been submitted that the DG  correctly concluded that the restriction imposed by <ORG> can hardly be considered reasonable, given that it effectively ousts all competition from the downstream market.
+Argument	It has been contended that the unreasonableness of this restraint is particularly acute given the existence of other reasonable means to protect its IPRs, including technical measures such as SDKs and also contractual measures which vest the rights to the IPRs in <ORG>.
+Argument	10.
+Fact	Issues and Analysis 10.1 Having given due consideration to facts of the case, the investigation report of the DG, the detailed written and oral submissions made by the <ORG> and <ORG>, the <ORG> observes that the following issues need to be determined in order to arrive at a conclusion in the matter:  Issue No.
+Fact	I: Whether <ORG> has contravened the provisions of section 4 of the Act?
+Fact	Issue No.
+Fact	II: Whether <ORG> has contravened the provisions of section 3(4) read with section 3(1) of the Act?
+Fact	Determination of Issue No.
+Fact	I: Whether <ORG> has contravened provisions of section  4 of the Act?
+Fact	Determination of Issue No.
+Fact	I requires deliberation on the following sub-issues:  (i) Determination of the relevant market.
+Fact	(ii) Assessment of the position of dominance of <ORG> in the relevant market.
+Fact	C. No.
+Fact	52 of 2013 Page 25 of 80  (iii) Examination of the conduct of <ORG> in terms of section 4 of the Act, in case it is found to be in a dominant position in the relevant market.
+RatioOfTheDecision	10.2 Before discussing the specific issue at hand, it would be appropriate to briefly describe the process and technology involved in various card-based transactions.
+RatioOfTheDecision	For instance, ATM card-based transactions can be classified into the following two broad categories, based on the ATM being used and the cardholder's bank.
+RatioOfTheDecision	a) On-Us - When a card of the issuing bank (<ORG> 'A') is used on its own ATM, the EFT Switch of <ORG> 'A' authenticates the transaction after routing it to the core banking network of <ORG> 'A'.
+RatioOfTheDecision	b) Off-Us/ Remote-On-Us - When a card of <ORG> 'A' is used on an ATM of another bank i.e.
+RatioOfTheDecision	the acquiring bank  (<ORG> 'B'), EFT Switch of <ORG> 'B' routes it to <ORG>, whose EFT Switch in turn routes it to the EFT Switch of <ORG> 'A'.
+RatioOfTheDecision	The EFT Switch of <ORG> 'A' authenticates the transaction after routing it to its core banking network.
+RatioOfTheDecision	The transaction is then routed back by the EFT Switch of <ORG> 'A' to <ORG> EFT Switch which routes it to the EFT Switch of <ORG> 'B'.
+RatioOfTheDecision	In such transactions, multiple EFT Switches are activated to complete the transaction; those of the acquiring bank, <ORG> and of the issuing bank.
+RatioOfTheDecision	This transaction when viewed from the acquiring bank's perspective is called an Off-Us transaction and when viewed from the issuing bank's perspective is known as a Remote-On-Us transaction.
+RatioOfTheDecision	Therefore, while all such transactions utilize the core banking network of <ORG> 'A', in Off-Us/ Remote-On-Us transactions, the EFT Switches of <ORG> 'B' and <ORG> are also utilized.
+RatioOfTheDecision	Hence, each of these transactions use at least one EFT Swi tch and desirable feature(s) of the EFT Switch/ switch software may be used based on the specific operational requirement/ stage of the transaction.
+RatioOfTheDecision	(i) Relevant Market Determination 10.3 As per section 2(r) of the Act, 'relevant market' means the market, which may be determined by the <ORG> with reference to the relevant product market or the relevant geographic market or with reference to both.
+RatioOfTheDecision	Further, the term 'relevant product market' has been defined in section 2(t) of the Act as a market comprising all those products or services, which are regarded as interchangeable or substitutable by the consumer, by reason of characteristics of the products or services, their prices and intended use.
+RatioOfTheDecision	The term 'relevant geographic market' on the other hand has been defined in section 2(s) of the Act to mean a market comprising the area in which the conditions of competition for supply or demand of goods or provision of services are distinctly homogenous and can be distinguished from the conditions prevailing i n the neighboring areas.
+RatioOfTheDecision	10.4 In order to determine the relevant product market, the <ORG>, in terms of the factors contained in section 19(7) of the Act, is required to give due regard to all or any of the following factors viz., physical characteristics or end use of the goods, price of goods or service, consumer preferences, exclusion of in-house production, existence of specialized producers and classification of industrial products.
+RatioOfTheDecision	Similarly, in order to determine the relevant geographic market, the <ORG>, in terms of the factors contained in section 19(6) of the Act, is required to give due regard to all or any of the following factors viz., regulatory trade barriers, local specification requirements, national procurement policies, adequate distribution facilities, transport costs, language, consumer preferences and need for secure or regular supplies or rapid after sales services.
+RatioOfTheDecision	C. No.
+RatioOfTheDecision	52 of 2013 Page 27 of 80  10.5 The <ORG> in its investigation report has delineated two relevant markets v iz.
+RatioOfTheDecision	'the market for EFT Switch/ switch software in India (upstream market)' and 'the market for provision of services in respect of customization and modification of EFT software (professional services) in India (downstream market)'.
+RatioOfTheDecision	10.6 The <ORG> has distinguished the upstream market from the downstream market taking into account the different suppliers and different practices in these markets.
+RatioOfTheDecision	The relevant geographic market in case of both the upstream and downstream markets has been defined as India.
+RatioOfTheDecision	10.7 <ORG> in its submissions has contended that the relevant product and geographic markets as defined by the <ORG> are incorrect, stating that while defining the relevant market the <ORG> has not considered the substitutes available in the market, the benchmark method for evaluating demand substitutability (SSNIP Test), factors provided in section 19(7) of the Act and the universe of inter-connected electronic payments.
+RatioOfTheDecision	10.8 <ORG> has argued that the <ORG> has considered only banks as customers of EFT Switch and ignored  other customers of EFT Switches such as financial institutions and other payments and settlement systems.
+RatioOfTheDecision	<ORG> also contended that the DG failed to recognize other suppliers of EFT Switch such as <ORG> (<ORG> has licensed its EFT Switch Arkansys to <ORG> which operates the <ORG>).
+RatioOfTheDecision	10.9 Further, <ORG> also submitted that other segments of the payment and settlement systems such as ATM networks, card payment networks, cross border money transfer, prepaid payment instruments and white label ATM operators also require EFT Switches.
+RatioOfTheDecision	Also, transactions processed by <ORG>; mobile phone/ phone banking transactions; transactions by hosted service provider such as <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG> etc.
+RatioOfTheDecision	; transactions processed by leading card issuers such as <ORG>, <ORG>, <ORG> among others; transactions processed by <ORG> and <ORG>; e-commerce transactions processed for emerging players such as <ORG>, <ORG> and others are a part of the same relevant product market.
+RatioOfTheDecision	Accordingly, <ORG> contended that market for electronic retail payment systems should be considered as the relevant product market in this case.
+RatioOfTheDecision	10.10 With respect to the relevant geographical market, <ORG> argued that the <ORG> erroneously restricted the market to India instead of global, without considering the factors provided in section 19(6) of the Act, competition from imports, export potential and international electronic payments.
+RatioOfTheDecision	Furthermore, in doing so, the <ORG> has also erred in simultaneously analyzing both the upstream and the downstream markets and concluding that the relevant geographic market is restricted to India.
+RatioOfTheDecision	<ORG> based its arguments on factors such as absence of regulatory trade barriers, no local specification requirements, no national procurement policy, adequate distribution facilities across the world, no transport cost, no language change in the software in different geographies, consumer preference not being related to geographical area and the fact that significant amount of after sale  services can be provided online and the same do not require physical presence.
+RatioOfTheDecision	<ORG> has given examples of its competitors, <ORG> and <ORG>, which though located outside India, provide their software licenses to customers in India.
+Argument	<ORG> also contended that <ORG> and <ORG> payment systems provide services in India while their EFT Switches are based across the world and their services in India are not restricted to their switches in India, if any.
+Argument	Finally, <ORG> also argued that its own customers use their Indian switch for transactions taking place outside India.
+RatioOfTheDecision	10.11 The <ORG>, however, has agreed with the DG's findings on the relevant market, stating that the DG with sufficient clarity and rational justification has found that none of the services provided by <ORG> are interchangeable with peripheral services as such services cannot substitute an EFT Switch in terms of functionality.
+RatioOfTheDecision	According to the <ORG>, an EFT Switch enables card- based transactions through various frontend devices (such as <ORG>  devices, mobiles and internet payment gateways) deployed by a bank, whether directly or indirectly, and acts as a middleware between the devices on the one side and the core banking host of the bank on the other.
+RatioOfTheDecision	When any transaction is attempted at a particular bank's device, the EFT Switch relays the transaction to the core banking host of such bank to get the authorization for the transaction.
+RatioOfTheDecision	Further, <ORG>, <ORG>, <ORG> and ATM sharing networks like <ORG>, <ORG> and <ORG> are ATM Network/ Interchange switches which are used to route transactions between two banks and do not authenticate the customer transactions like <ORG>'s EFT Switch.
+RatioOfTheDecision	10.12 Further, as per the <ORG>, services provided by an ATM Network/ Interchange switch are functionally not interchangeable with an EFT Switch and hence the same cannot be regarded as a substitute.
+RatioOfTheDecision	Moreover, EFT Switches are not interchangeable with other electronic modes of payments such as internet banking, RTGS, NEFT etc.
+RatioOfTheDecision	The customer of EFT Switches are b y and large banks (mainly through ATMs and POS) and the relevant market of electronic retail payment system is taken from the perspective of end consumers' (i.e public in general) substitutability.
+RatioOfTheDecision	10.13 As per the <ORG>, mobile phone transactions and hosted services are processed through EFT Switches of the relevant bank and the same have been taken into account by the DG while defining the relevant market.
+RatioOfTheDecision	10.14 Also, on the aspect of the relevant geographic market, the <ORG> in agreement with the DG, refutes the contention of the Opposite Parties that the geographic spread of the market extends beyond the territory of India on the grounds that (a) the Indian regulatory framework is different than other countries; (b) banks demand EFT Switches for use in India only; and (c) the service providers have physical presence in India for installation and customization.
+RulingByLowerCourt	10.15 Having perused the findings contained in the DG report as well as the submissions of both <ORG> and the <ORG> with regard to the  relevant market definition, the <ORG>'s observations on this sub-issue are recorded in the following paragraphs.
+RulingByLowerCourt	10.16 The <ORG> notes that <ORG> in its submissions to the <ORG> as well as to the <ORG> has contended that 'the market for electronic retail payment systems' should be considered as the relevant product market in this matter.
+RulingByLowerCourt	The <ORG> in its findings notes that the function of an EFT Switch is to provide a communication mechanism amongst different components of an electronic fund transfer system such as ATMs, POS terminals and core banking systems.
+RulingByLowerCourt	The <ORG> considered <ORG>'s submissions with respect to other components of the electronic payment systems such as card lifecycle management software, fraud monitoring software etc.
+RulingByLowerCourt	and found that apart from the basic EFT Switch there are other complementary software modules used along with EFT Switch/ switch software for enabling card-based transactions.
+RulingByLowerCourt	For instance, life cycle management software helps to manage all aspects of the life of a car d from application to account closure; fraud monitoring software issues alerts after detecting suspicious account and transaction activity etc.
+RulingByLowerCourt	The DG found that none of these software can replace the switch software in terms of functionality, but provide additional features and complement the functions of an EFT Switch.
+RulingByLowerCourt	It was further observed by the DG that the presence of peripheral software as mentioned by <ORG> is not mandatory for banks to operate EFT Switch.
+RulingByLowerCourt	The DG concluded that an EFT Switch performs a specific function which cannot be performed by any of the other payment software mentioned by <ORG> as each of them performs a distinct function and cannot be used interchangeably.
+RulingByLowerCourt	10.17 The <ORG> is of the view that the DG has correctly found that the other components of the electronic payment systems/ peripheral software only complement an EFT Switch and cannot substitute the same.
+RulingByLowerCourt	The <ORG> as such rejects <ORG>'s market definition i.e., the market for electronic retail payment systems as elect ronic payment system is an umbrella term including different modes of payment which have different characteristics and different costs associated to the final consumers.
+RulingByLowerCourt	Therefore, the <ORG> is of the opinion that the market for EFT Switch/ switch software is the relevant upstream product market in this case.
+RulingByLowerCourt	10.18 Having said that, the <ORG> finds it imperative to point out that although the <ORG> has correctly found EFT Switch/ switch software to constitute a distinct relevant product, the <ORG> has limited the market analysis for EFT Switch/ switch software to the switch software used by banks for communicating with their core banking network alone.
+RatioOfTheDecision	On this count, the <ORG> differs from the <ORG>'s understanding of the relevant product market (upstream).
+RatioOfTheDecision	10.19 This is also evident from its analysis of market dominance wherein the <ORG> only investigates those competitors of <ORG>, which provide EFT Switch/ switch software to banks, as detailed in the later part of this order.
+RatioOfTheDecision	10.20 The <ORG> notes  that definitional clarity on what constitutes EFT Switch/ switch software is critical for the correct determination and understanding of the relevant market in the present case.
+RatioOfTheDecision	10.21 The <ORG> is of the view that EFT Switch/ switch software, such as BASE24 software of <ORG>, is an interface between card-based frontend systems such as an ATM, POS terminal, online payment gateways etc.
+RatioOfTheDecision	and the core banking network of the bank which issues the card.
+Fact	However, to complete card-based transactions of the Off-Us/ Remote On-Us kind described above, there are other interfaces that also use EFT Switches.
+Fact	10.22 In addition to the interface between the card-based frontend systems and the core banking network, EFT Switches also interface with national ATM networks (such as NFS operated by <ORG>, <ORG>, <ORG>, <ORG> etc.)
+Fact	and international card networks such as <ORG>, <ORG> etc.
+Fact	for ATM/ POS sharing arrangements.
+Fact	C. No.
+Fact	52 of 2013 Page 32 of 80  10.23 From the submissions made by non-<ORG> banks to the DG, the  <ORG> observes that Banks such as <ORG>, <ORG>, <ORG>, <ORG> and <ORG> use <ORG> switch provided by <ORG>.
+Fact	It is noted that <ORG> operated by <ORG> also uses the <ORG> switch licensed by <ORG>.
+Fact	It is evident from the above that EFT Switch/ switch software is capable of performing both (a) authenticating and (b) routing transactions.
+RulingByLowerCourt	In view of the above, the <ORG> is of the opinion that the DG has incorrectly analyzed the market to include only EFT Switch/ switch software used by banks for communicating with their core banking network for authenticating and not those used by <ORG> in the relevant market of EFT Switch/ switch software.
+RulingByLowerCourt	10.24 The <ORG> notes that EFT Switch/ switch software is capable of both authentication and routing and a bank/ ATM Network/ Interchange may choose to use either or both features depending on their requirements.
+RulingByLowerCourt	The <ORG> notes EFT Switch/ switch software used by banks to process various transaction s is capable of carrying out both routing (when it communicates with <ORG>) and authentication (when it communicates with the core banking network of the bank).
+RulingByLowerCourt	10.25 The <ORG> has sought to argue that an EFT Switch facilitates electronic retail transaction of a bank through ATMs, POS terminals, mobiles and internet payment gateways and authenticates the customer transactions whereas an ATM Network/ Interchange switch uses the switch to merely facilitate routing of transactions between EFT Switches of two banks and therefore the two are not substitutable.
+RulingByLowerCourt	10.26 The <ORG> observes that the <ORG> has tried to draw a specious distinction between EFT Switches used by banks (as an interface with the core banking network and ATM and POS etc.)
+RulingByLowerCourt	and EFT Switches used by <ORG> based purely on the features of an EFT Switch/ switch software that they choose to use i.e.
+RulingByLowerCourt	authenticating or routing or both.
+RulingByLowerCourt	10.27 <ORG> has also argued that the <ORG> has erroneously consid ered only banks as its customers of EFT Switch/ switch software and ignored other customers of EFT Switch/ switch software such as financial institutions, payment and settlement systems, and other suppliers such as <ORG>.
+RulingByLowerCourt	<ORG> has submitted that the <ORG> failed to include other segments of the payment and settlement systems would also require EFT Switches and would thereby form part of the actual/ potential customer base for EFT Switches, in the market definition of EFT Switch/ switch software.
+RulingByLowerCourt	10.28 The <ORG> has therefore, examined the submissions of the Parties to determine whether such components, which were not taken into consideration by the <ORG>, should be included as part of the relevant market:  ATM networks <ORG> has contended that ATM networks in India such as <ORG>, 'CashTree', '<ORG>' and 'Cashnet' amongst which <ORG> is the largest also require EFT Switches for processing transactions.
+RulingByLowerCourt	As discussed above, the <ORG> is of the view that the switch software employed by <ORG> w ould also be part of the said relevant market as both <ORG> and banks essentially use an EFT Switch for either routing or authenticating or both.
+RulingByLowerCourt	However, the relevant market analysis undertaken by the DG does not include the <ORG> switches.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 34 of 80  Cross Border Money Transfer <ORG> contended that cross border transfer service is an electronic transfer of funds from one bank account to another, where the beneficiary of the funds resides outside the payee's country and therefore these transactions should also be made a part of the relevant product market.
+RulingByLowerCourt	The <ORG> observes that there are multiple channels via which cross border money transfers may take place and an EFT Switch may or may not be used in each such channel.
+RulingByLowerCourt	Even if such transactions are processed through EFT Switches, such switches may reside outside India and would not be considered as part of the relevant market in the present case.
+RulingByLowerCourt	<ORG> apart from making a bald submission has  not provided any details to substantiate its claim.
+RulingByLowerCourt	Therefore, the <ORG> is not inclined to accept this contention of the Opposite Parties.
+RulingByLowerCourt	NEFT and RTGS Transaction The <ORG> accepts the submissions by the Informant that NEFT transactions are processed by the banks through the <ORG> settlement system which is similar to the cheque clearing mechanism.
+RulingByLowerCourt	The <ORG> observes that NEFT and RTGS transactions do not use EFT Switch/ switch software for processing such transactions.
+RulingByLowerCourt	Hence, NEFT and RTGS transactions are not relevant.
+RulingByLowerCourt	Therefore, the DG has correctly excluded NEFT and RTGS transactions from the relevant market of EFT Switch/ switch software market in India.
+RulingByLowerCourt	White Label ATM Operators The <ORG> notes that the <ORG> has permitted non-banking entities to set up, own and operate ATMs to accelerate the growth and penetration of ATMs in the country.
+RulingByLowerCourt	These ATMs would provide banking services to customers of banks in India, based on the cards issued by banks.
+RulingByLowerCourt	In view of the above, the <ORG> n observes that in order to process the transaction white label ATMs would also require EFT switch/ switch software to route the transaction to the respective shared ATM network of the banks.
+RulingByLowerCourt	However, while transactions processed through a white label ATM have been taken into account by the DG, the DG has failed to take into account the switch used by white label ATMs for routing the transactions to an issuing bank.
+RulingByLowerCourt	This is due to the fact that the understanding of the DG of the relevant market is restricted only to EFT Switch/ switch software used on the core banking network for authenticating only and all routing by EFT Switches in the white label ATM Network/ Interchange have been ignored.
+RulingByLowerCourt	Mobile phone/ mobile banking The <ORG> observes that these transactions are processed through EFT Switches of the concerned issuing bank only if the architecture of such banks' mobile banking system is based on the use of debit/ credit card.
+RulingByLowerCourt	The <ORG> further observes that such transactions processed through m obile banking would form part of the relevant market.
+RulingByLowerCourt	However, such transactions account for a small percentage of the total volume of transactions.
+RulingByLowerCourt	Transactions processed by leading card issuers such as <ORG>, <ORG>, <ORG> The <ORG> observes that these transactions are also carried out through EFT Switches of the relevant bank and in fact, the data on all such counts has been considered by the DG.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 36 of 80  Transactions by hosted service providers such as <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG>, <ORG> etc.
+RulingByLowerCourt	The <ORG> notes that these transactions also use an EFT Switch and have been taken into account by the DG.
+RulingByLowerCourt	Transactions processed by <ORG> and <ORG> The <ORG> is of the view that these transactions are routed through EFT Switches of the banks to the international switches of <ORG> and <ORG>, which are deployed outside the territory of India.
+RulingByLowerCourt	Therefore, the transactions on the international switches would not form part of the relevant mar ket.
+RulingByLowerCourt	Transactions through Internet Payment Gateways The <ORG> in its investigation report has found that transactions through internet gateways are also processed through EFT Switches.
+RulingByLowerCourt	However, such transactions account for only 2% of the total transactions served through switch software.
+RulingByLowerCourt	E-commerce transactions processed by emerging players such as <ORG>, <ORG> and others The <ORG> observes that these e-commerce portals are merchant establishments that do retailing on the Internet as opposed to physical merchants who have POS terminals of the banks at their establishments.
+RulingByLowerCourt	Therefore, the transactions carried on these e-commerce portals are routed through payment gateways, which have already been accounted for by the <ORG>.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 37 of 80  Card Payment Networks Payment card network consists of electronic payment systems, which is used to accept, transmit, or process transactions made by payment cards (debit or credit) in order to transfer information or funds among issuers, acquirers, m erchants and card users.
+RulingByLowerCourt	The <ORG> is of the view that a card payment network is an entire ecosystem whose components have been discussed above and therefore, have already been considered in the analysis of the relevant product market.
+RulingByLowerCourt	10.29 With respect to the relevant downstream market, the DG has reported that EFT Switches need to be customized/ modified in order to suit Indian buyers and to meet specific requirement of each bank for which many specialized firms such as <ORG>, <ORG>, <ORG>, <ORG> and <ORG> etc.
+RulingByLowerCourt	are engaged.
+RulingByLowerCourt	These services may be carried out either in-house by banks or could be provided by the developers of EFT Switch/ switch software themselves or by third parties.
+RulingByLowerCourt	Usually, the license agreements entered into by and between EFT Switch/ switch software developers and the buyers have provisions for the licensee to outsource the aforementioned services to third parties.
+RulingByLowerCourt	Such customization/ modification services are required throughout the entire life of switch software on an ongoing b asis depending on the value added services sought to be provided as well as the various regulatory requirements put in place from time to time.
+RulingByLowerCourt	10.30 <ORG> has argued that the <ORG> has ignored the nature and degree of vertical integration of competitors of <ORG> in this market.
+RulingByLowerCourt	It is submitted that <ORG> are the only EFT Switch suppliers who have outsourced the systems integration, customization and modification of its proprietary BASE24 EFT Switches to the <ORG> whereas all the other suppliers perform the same services in-house.
+RulingByLowerCourt	10.31 The <ORG> notes that <ORG>, a first mover in the upstream market, had allowed third party provisioning of customization and modification of EFT Switch/ switch software.
+RulingByLowerCourt	Competitors of <ORG> such as <ORG> and <ORG> are providing a vertically integrated product i.e.
+RulingByLowerCourt	EFT Switch/ switch software along with the associated customization and modification due to efficiency considerations.
+RulingByLowerCourt	However, as per the facts gathered during the course of the investigation and oral  hearings of the parties, a significant number of players exist in the relevant downstream market.
+RulingByLowerCourt	Therefore, presently, two separate markets do exist, with respect to EFT Switch/ switch software and provision of services of customization and modification of EFT Switch/ switch software.
+RulingByLowerCourt	10.32 The <ORG> further notes that even though EFT Switch suppliers other than <ORG> provide customization and modification of their software in-house, most have not restricted their buyers from procuring these customization and modification services from third parties.
+RulingByLowerCourt	Therefore, in view of the above, the <ORG> cannot accept the contention of the Opposite Parties with respect to EFT Switch/ switch software market and the customization and modification of EFT Switch/ switch software being part of one systems market.
+RulingByLowerCourt	Thus, the <ORG> is in consonance with the findings of the DG, that the relevant downstream product market would be 'the provision of services with respect to customization and modification of EFT Swit ch/ switch software'.
+RulingByLowerCourt	10.33 On the relevant geographic market, the <ORG> has found that the <ORG> entered into by between <ORG> and the <ORG> had defined the territory as India.
+RatioOfTheDecision	Further, it has been observed that the pricing policy and other terms and conditions of EFT Switch/ switch software suppliers also vary across countries depending on the market conditions, currency and the regulatory environment, etc.
+RatioOfTheDecision	Also, the entities from which the banks are licensing EFT Switch are required to provide product distribution installation, Annual Maintenance Contract (AMC) and product support services either directly or through other entities.
+RatioOfTheDecision	It is also revealed from the <ORG> report that the conditions of supply and demand for EFT Switch in India are distinct from those in other countries.
+RatioOfTheDecision	Moreover, the market conditions for provision of professional services for switch software vary in India vis-a-vis other countries.
+RatioOfTheDecision	10.34 The <ORG> notes that the pricing policies and the terms and conditions in various licensing  agreements differ from country to country.
+RatioOfTheDecision	Further, <ORG>'s competitors like <ORG>, <ORG> are present in the Indian market and provide licenses to their customers.
+RatioOfTheDecision	Therefore, the <ORG> cannot accept the Opposite Parties' contention that even though its competitors are located outside India, they provide their software licenses to customers in India.
+RatioOfTheDecision	Owing to the distinct regulatory requirements in different countries and the other factors discussed above, the <ORG> agrees with the DGs findings on the relevant geographic market.
+RatioOfTheDecision	In view of the above, the relevant geographic market in case of the upstream market as well as the downstream market is India.
+Fact	10.35 Based on the above discussion on the relevant products and relevant geographic market, the <ORG> observes that the relevant markets in the instant case are as follows:  i.
+Fact	The market for EFT switch/ switch software in India (relevant upstream market).
+Fact	ii.
+Fact	The provision of services with respect to customization and modification of EFT Switch/  switch software in India (relevant downstream market).
+Fact	(ii) Assessment of the position of Dominance of ACI in the Relevant Market 10.36 The <ORG> having determined the relevant markets proceeds to deal with the issue of dominance.
+Fact	Explanation (a) to section 4(2) provides that the underlying principle in assessing dominant position of an enterprise is linked with the concept of market strength, which allows an enterprise to operate independently of competitive forces prevailing in the relevant market and affect the competitors or consumers or the relevant market in its favour.
+Fact	10.37 While inquiring whether an enterprise enjoys a dominant position or not, the <ORG> is required to give due regard to all or any of the factors as provided under section 19(4) of the Act such as market share of the enterprise; its size and resources; size and importance of its competitors; its economic power including commercial advantages over competitors; vertical integration of the enterprise or sale or service netwo rk of such enterprise; dependence of consumers; whether monopoly or dominant position acquired as a result of any statute or by virtue of being a government company or a public sector undertaking or otherwise; entry barriers including barriers such as regulatory barriers, financial risk, high capital cost of entry, entry barriers, technical entry barriers, economies of scale, high cost of substitutable goods or services for consumers; countervailing buying power; market structure and size of market; social obligations and social costs; relative advantage by way of contribution to the economic development, by the enterprise enjoying a dominant position; and any other factor.
+Fact	10.38 Considering the aforementioned factors, the DG found <ORG> is in a dominant position in the relevant market of EFT Switch/ switch software in India as defined in the report.
+RulingByLowerCourt	As per the DG, since <ORG> was following a Transaction Based Pricing (TBP) for licensing of BASE24 software, under which the license fee is linked to the number of  transactions projected to be processed through the BASE24 software, the volume of transactions that take place through each EFT Switch/ switch software would be the most appropriate indicator for calculating the respective market strength/ share of the supplier of BASE24 software in the relevant market.
+RulingByLowerCourt	Furthermore, it was also observed by the <ORG> that a bank with a larger network of ATMs and POS would be processing more transactions through the switch software as compared to a bank with a smaller network and accordingly the number of ATMs and POS that are linked to switch software would be relevant while determining the market share.
+RulingByLowerCourt	10.39 <ORG> has argued that the erroneous market definition, reliance on unverified data/ information as furnished by the Informant and non-inclusion of all actual and potential buyers in the relevant market has led the <ORG> to reach the erroneous conclusion regarding <ORG>'s position of dominance.
+RulingByLowerCourt	<ORG>'s submissions essentially rest on the contention that dominance was found by the <ORG>  owing to an artificially narrow market defined in the report.
+RulingByLowerCourt	10.40 <ORG> has argued that even if the <ORG> were to accept the <ORG>'s narrow market definition, by taking the transaction volumes of other users of EFT Switch/ switch software into account, <ORG>'s market share would diminish.
+RulingByLowerCourt	<ORG> has contended that the <ORG> has not taken into account the other buyers of EFT Switch/ switch software such as <ORG> (operating the NFS by licensing EFT Switch of <ORG>), <ORG> (licensing EFT Switch of <ORG>), competition from viable firms such as <ORG>, <ORG>, <ORG>, <ORG> switches and the transactions done through the 'internet gateway' and 'mobile banking'.
+Argument	<ORG> has further contended that the <ORG> has also failed to note the declining market share of <ORG>, which is an indicator of increased competition in the relevant market.
+Argument	10.41 <ORG> has submitted that other segments of the payment and settlement systems such as ATM networks, card payment networks, cross border money transfer, pre-paid payment i nstruments and white label ATM operators also require EFT Switches and are part of the actual/ potential customer base for EFT Switches.
+Argument	However, this aspect has been ignored by the <ORG> resulting in wrong assessment of market shares of <ORG>.
+Argument	It is contended that major components of the relevant market include card lifecycle management software; merchant life cycle management software; wholesale payment processing software for NEFT, RTGS payments; payments initiation software through various channels like mobile internet and phone banking; retail payments switch software (such as BASE24);  C. No.
+Argument	52 of 2013 Page 42 of 80  <ORG> software including <ORG>, <ORG>, <ORG>; bill payments software; fraud monitoring software; and payments infrastructure monitoring software.
+Argument	10.42 As per <ORG>, in presence of giants like <ORG> and <ORG> in the relevant product market, the question of dominance does not arise.
+Argument	Further, it was submitted that <ORG> is not dominant in terms of estimated business share i n IT and switch software.
+Argument	10.43 <ORG> has further contended that the transaction based market assessment as adopted by the DG is not appropriate given that the license fees are bilaterally negotiated between switch owners and customers.
+Argument	Since, banks report the projected volume of transactions to <ORG> on the basis of which fee is calculated at an agreed rate per transaction, it would be appropriate to arrive at the share of total business on the basis of revenue of the parties.
+Argument	<ORG> submits that its market share during financial years 2011-12 to 2013- 14 (up to February) is less than 40% and from a source of spend perspective its market share would be less than 24% in 2013.
+Argument	<ORG> has suggested that assessing the market power on the basis of number of banks licensed to or revenue earned by <ORG> would be a better and accurate indicator of its market power.
+Argument	With regard to the number of banks licensed, it was submitted that as on July 2014 <ORG> was connected to 320 banks whereas <ORG> was connected to only 12 banks.
+Argument	The refore, it was argued that <ORG> would not be dominant either in terms of the revenue earned or in terms of the number of banks licensed by it.
+Argument	10.44 It was also argued that <ORG> was not in a position to function independently of customers and competitors and that the <ORG> has wrongly concluded that the banks do not have countervailing buying power and there are constraints for the banks to migrate to other EFT Switches.
+Argument	Further, it has been submitted that compared to <ORG>, <ORG> was found to be a much larger player in the relevant market defined by the <ORG> and a direct competitor of <ORG>.
+Fact	For instance, <ORG>, runs the largest electronic fund transfer system in India by the name of <ORG> (licensed by <ORG>), and is a master switch for all inter-bank ATM transactions.
+Fact	<ORG> manages more than 90% of inter-bank ATM transactions in the country and is connected to 1,55,000 ATMs as of February 2014 whereas, <ORG>'s BASE24 was connected to 98,670 ATMs by that time.
+Argument	It was also contended that <ORG> approved 170.5 crore transacti ons during January 2014-July 2014 whereas the banks directly using BASE24 software have recorded substantially lesser transactions when compared to <ORG> approved transactions during April 2013-February 2014.
+Argument	<ORG> has argued that the <ORG> has wrongly attributed 439 crore transactions to <ORG> for the period between 30.04.2013 to 28.02.2014 as not all <ORG> banks use BASE24 switch software for their transactions.
+Argument	As a matter of fact, only <ORG> and <ORG> use BASE24 for their POS transactions.
+Argument	<ORG> has claimed that there are numerous transactions on <ORG>, which are routed through the <ORG> (using <ORG>'s <ORG> switch).
+Argument	In case, all these transactions are considered, it is submitted that <ORG>/ <ORG> will be a larger player as compared to <ORG>.
+Argument	In addition, <ORG> has also argued that many banks in India use hosted EFT Switches, which are typically provided by third parties including the <ORG>.
+Argument	10.45 On the other hand, the <ORG> has agreed with the findings of the <ORG> on the issue of <ORG>'s dominance in the upstream  relevant market and has submitted that <ORG>'s calculations of market share are based on correct indicators such as volume of transactions and the number of ATM/ POS devices serviced by <ORG>.
+Argument	As per the <ORG>, the <ORG> has also taken into consideration other channels such as mobile phone transactions processed through the EFT Switch of the relevant bank; hosted services that use an EFT Switch; transactions processed by leading card issuers using the EFT Switch of the relevant bank such as <ORG>, <ORG> and <ORG>; and internet payment gateway transactions.
+Argument	It is stated by the <ORG> that e-commerce portals are not part of the relevant market and the substitutes for EFT Switch/ switch software alleged by <ORG> are in nature of delivery channels, which work through EFT Switch.
+Argument	ATM Network/ Interchange switches such as NFS, <ORG> and MasterCard are in no way functionally interchangeable with EFT Switches as used by <ORG> Banks.
+Argument	10.46 With respect to NFS, the <ORG> has submitted that it is an ATM Ne twork/ Interchange switch and its role is limited to connecting inter-bank transactions.
+Argument	Since the transaction itself passes through the EFT Switch of the relevant bank in any case, there is no question of counting these switches again.
+Argument	With regard to the inclusion of other channels such as internet gateway, mobile banking and payment gateway transactions while arriving at the market share, it has been submitted that such transactions are ultimately routed through and processed by the concerned bank's EFT Switch.
+Argument	With reference to <ORG>, it has been contended that the entry of <ORG> is merely a proposed entry and thus cannot be said to have any impact on <ORG>'s market share.
+Argument	It is contended by the <ORG> that there exists high switching cost for the banks to migrate from one EFT Switch to another EFT Switch.
+Argument	With respect to <ORG>'s contention regarding its declining market share, the <ORG> has stated that the market share of <ORG> has more or less remained constant as found  by the DG and its customers are entirely dependent on it.
+Argument	10.47 The Informant contended that EFT Switch and the various delivery channels, which use an EFT Switch, are different.
+Argument	ATM Networks such as <ORG>, Cashnet are similar to ATM Network/ Interchange switches, which provide ATM sharing services by interconnecting EFT Switches of different banks.
+Argument	It is submitted that all cross border money transfers need not necessarily be through an EFT Switch.
+Argument	Such transactions can also be facilitated through mobiles connected to an EFT Switch.
+Argument	The Informant has stated that a Pre-paid Instrument (PPI) is essentially a card with a specific economic value attached to it, which may be electronically encashed by its holder through an ATM/ POS/ payment gateway.
+Argument	It has to be used on any of the frontend devices of the banks such as ATM/ POS/ payment gateway and merely constitutes one of the delivery channels, which operates using EFT Switch.
+Argument	On white label ATMs, it is submitted that these are ATM devices operated by non-ba nking institutions.
+Argument	Since these ATMs are operated through third party vendors, they would need to establish technical connectivity with the existing bank network and the transaction would be facilitated through the EFT Switch of the bank whose debit card is being used.
+Argument	Hence, such transactions are captured in the <ORG>'s data on ATM transaction of the relevant bank whose card is used on the white label ATM as considered by the DG while calculating market share.
+Argument	Moreover, as of February 2014, the number of white label ATMs in India is around 2200 as compared to 1, 50,008 ATMs and would have little impact on the dominance of <ORG>.
+Argument	10.48 The <ORG> has argued that <ORG> has calculated its market share by wrongly expanding the relevant market by including the number of transactions being conducted through Interchange switches, IRCTC, internet banking, mobile banking, EFT/ NEFT, <ORG>, RTGS, payment gateway, phone banking and call centres, etc.
+Argument	10.49 The <ORG> has contended that the total  share of revenue spent by a customer on an EFT Switch is not a correct determinant of the market share of an entity.
+Argument	The fee charged by different switch vendors may vary and may be based on different parameters, implying that the evaluation on the basis of the share of the revenue will fail to provide the correct picture.
+Argument	It is stated that the transaction-based model is in fact the most appropriate method to determine the market share.
+Argument	10.50 The <ORG> has considered the submissions of both the <ORG> and <ORG> as well as the findings of the DG on the issue of <ORG>'s dominance.
+Argument	As mentioned above, the <ORG> is of the view that although the DG has delineated the relevant upstream market as the market for EFT Switch/ switch software in India it has failed to take into account the presence of other buyers of EFT Switch/ switch software in the relevant market for different transaction operations other than for core banking transaction requirements of the issuing bank, while examining <ORG>'s dominance in  the market.
+Argument	The DG has assessed dominance only with respect to EFT Switch/ switch software used by banks for the purpose of authentication, which is largely the segment of the market in which <ORG> has a presence.
+Argument	Further, by narrowing the market to EFT Switches used by banks' core banking network to authenticate alone in the assessment of dominance the DG has further sliced the market and pigeonholed it to the segment of the market in which the Opposite Parties operate.
+Argument	The <ORG> is of the view that the relevant market defined is wider than EFT Switch/ switch software used by banks alone.
+Argument	It is the market for EFT Switch/ switch software in India irrespective of the features of the EFT Switch that are used by the customer.
+Argument	The <ORG> believes that assessing dominance in such a narrow understanding of the relevant market, would be fallacious and lead to incorrect results.
+Fact	10.51 The DG's analysis of dominance in terms of the factors as provided under section 19(4) of the Act and the <ORG>'s observ ations on the same are recorded in the subsequent paragraphs.
+Fact	Market share of the enterprise While assessing the dominance of <ORG>, the <ORG> has looked into the market share of EFT Switch/ switch software manufacturers in the relevant upstream market.
+RulingByLowerCourt	In doing so, it has relied upon the volume of transactions processed by EFT Switch/ switch software of the issuing bank as the appropriate indicator.
+RulingByLowerCourt	The <ORG> was of the opinion that the volume of transactions processed by EFT Switch/ switch software and number of ATMs, POSs linked through an EFT Switch are the correct indicators of respective market shares.
+RulingByLowerCourt	The <ORG> report observes that <ORG> follows the <ORG> for the license fee determination.
+RulingByLowerCourt	In <ORG> license fee is linked to the number of transactions projected to be processed through BASE24 software.
+RulingByLowerCourt	Therefore, the <ORG> concluded that the volume of transactions that take place through each switch software would be the most appropriate indicator of the respective market share.
+RulingByLowerCourt	While computing the same, the <ORG> has relied u pon the volume of transactions as recorded by the <ORG>.
+RulingByLowerCourt	The <ORG> notes that the projected number of transactions that will be routed through the switch software, are utilized to determine the capacity of the switch software to be provided to the customer.
+RulingByLowerCourt	It is also observed that the license fee is not determined exclusively by projected transactions to be routed through EFT Switch/ software.
+RulingByLowerCourt	Further, the license fee is negotiated between ACI and ACI Banks even under the <ORG> model.
+RulingByLowerCourt	The <ORG> further observes that a significant volume of transactions constitute Off-Us card-based transactions through ATMs and POS terminals for the years 2011-12, 2012-13 and 2013-14.
+RulingByLowerCourt	However, the <ORG> data used by the DG does not classify the card-based transactions into On- Us, Remote On-Us and Off-Us.
+RulingByLowerCourt	Further, the said data also does not capture the process of routing of each transaction by the number of switches that needs to be activated to complete the transaction, all of which are EFT Switches.
+RulingByLowerCourt	The <ORG> ob serves that the said data has been compiled to arrive at the volume of transactions taking place in the payment and settlement system and is not indicative of the number of times an EFT Switch is actually activated during the course of one transaction, both for authentication and for routing.
+RulingByLowerCourt	This data would be an inadequate and incomplete measure of the market share and reliance on such data would lead to an erroneous assessment of <ORG>'s dominance.
+RulingByLowerCourt	The <ORG> further notes that to widen the retail electronic payment system, <ORG> has undertaken measures to interlink the network of one bank's ATM/ POS with others and in this process has facilitated the emergence of different inter-bank ATM networks such as CashTree, Cashnet, BANCS including the creation of a master switch, NFS maintained by <ORG>.
+RulingByLowerCourt	As noted earlier by the <ORG> EFT Switch/ switch software used by banks and ATM Network/ Interchanges is a part of the same relevant market.
+RulingByLowerCourt	Therefore, the use of an EFT Switch in an ATM Network/ Interchange  feature via the aforementioned inter-bank ATM networks should also be taken into account while assessing the dominance of the Opposite Parties.
+RulingByLowerCourt	Finally, the <ORG> also observes that the said data only covers financial transactions and as such does not include non-financial transactions provided by the banks through their ATMs and processed through their EFT Switch such as balance enquiry, mini-statement recovery etc.
+Fact	Furthermore, these transactions might be undertaken within the card issuing bank's own network or through other banks networks (i.e.
+Fact	Off-Us/ Remote-On-Us transactions) in which case, it would necessitate the activation of inter-bank switches such as of NFS using the <ORG> EFT Switch/ switch software.
+Fact	Size and importance of competitors The <ORG> notes that the <ORG> in its analysis has considered <ORG>, <ORG>, <ORG>, <ORG> and <ORG> as suppliers in the relevant market of EFT Switch/switch software in India apart from <ORG>.
+Fact	However, the <ORG> has failed to recognize other competitors such as those  supplying switch software to <ORG> etc.
+Fact	Furthermore, although the DG has noted <ORG> as <ORG>'s competitor, it has limited <ORG>'s market share analysis to EFT Switch/ switch software licensed/ hosted to banks and not to other consumers such as <ORG> and other ATM sharing networks.
+Fact	C. No.
+Fact	52 of 2013 Page 49 of 80  The economic power of the enterprise including commercial advantages over competitors It was noted by the DG that <ORG> has the advantage of the first mover into the relevant market and that there are huge financial and technical constraints in migrating to other software as submitted by various <ORG> Banks.
+Fact	The <ORG>, however, observes that at the point of sale of EFT Switch/ switch software there are enough competitive options such as Electra, <ORG> or <ORG>, available to the customers of EFT Switch/ switch software.
+Fact	Once any of the suppliers' EFT Switch/ switch software is purchased and customized/ modified, the buyer would face some migration issues.
+Fact	Thus, such constraint s are not peculiar to the BASE24 software and cannot by themselves be taken to give <ORG> a commercial advantage over its competitors.
+Fact	Further, it is evident from material on record that some banks have in fact changed their EFT Switch supplier.
+Fact	Dependence of consumer on the enterprise With respect to the dependence of customers of EFT Switch/ switch software on the suppliers of EFT Switch/ switch software, the <ORG> observes that the <ORG>, due to its erroneous understanding of the relevant market, has limited itself to the dependence of banks on EFT Switch/ switch software suppliers and has not considered the dependence of other buyers in the market such as <ORG> on their supplier.
+RulingByLowerCourt	With respect to dependence of <ORG> Banks on <ORG>, the <ORG> observes that although <ORG> Banks have been using the BASE24 software for several years and have made huge investment in this regard and do face limited constraints in migrating to other software, migration to other switch software is possible and  is happening in the industry.
+RulingByLowerCourt	This indicates that the present case involves a product which once purchased and further customised would take some planning before migration to another product.
+RulingByLowerCourt	The facts have also shown that switching and migration are happening in the industry through planned obsolescence.
+RulingByLowerCourt	In this regard, it is noted that as per the replies received by the DG from ACI Banks such as <ORG>, <ORG> (<ORG>), <ORG> and <ORG> have stated that there are no constraints in changing from one EFT Switch to another.
+RulingByLowerCourt	It is important to note that <ORG> has successfully shifted from <ORG> to <ORG>, Further, <ORG> has recently empanelled alternate vendor for providing EFT Switch, and the process of migration from existing switch has already begun.
+Fact	Furthermore, <ORG> successfully migrated to FIS switching solution from a hosted solution.
+Fact	In such a market, it may be appropriate to consider the inter-generational nature of competition that firms  in the relevant market face not only from the other players coming out with alternate products, but also from constant upgrade demands from their current installed base of customers.
+Fact	Countervailing buying power The DG noted that on account of commercial and risk considerations, most <ORG> Banks have minimal countervailing buying power and banks are apprehensive of shifting to alternate switch software due to commercial and risk considerations.
+Fact	Furthermore, the extent of bank's dependence is evident from the fact that despite having serious reservations with regard to the decision of <ORG> to not grant them consent to avail professional services of <ORG>, most of them did not migrate to other switch software.
+Fact	In this regard, it is noted that <ORG> Banks have continued to use the <ORG>'s services for customization in spite of <ORG>'s requests to refrain from doing so.
+Argument	Further, given that changing EFT Switch suppliers is feasible, the fact that <ORG> Banks chose to stay with <ORG> may not in itself show the lack of cou ntervailing buying power.
+Argument	Furthermore, given that <ORG>'s current customers include some of the largest banks in the country such as <ORG> and <ORG> it would be reasonable to expect that such customers may be able to exercise some amount countervailing power vis-a-vis EFT switch providers.
+Argument	10.52 It is also pertinent to point out that parties have submitted that BASE24 software has been declared to be in the 'sunset phase' and that no further research and development is being conducted vis-à-vis the BASE24 software.
+Argument	10.53 As already observed, the <ORG> while assessing the market share of <ORG> has limited itself to the volume of transactions processed through an EFT Switch using frontend devices such as ATMs, POS terminals, internet payment gateways.
+Argument	In doing so, the <ORG> has not taken into account the various users of EFT Switch/ switch software thereby limiting itself to a segment of the relevant market.
+RulingByLowerCourt	Further, the <ORG> has failed to recognize that in an Off-Us/ Remote-On-Us transaction, multiple switches get activat ed for one transaction i.e.
+RulingByLowerCourt	of the acquiring bank, <ORG> and the issuing bank.
+RulingByLowerCourt	Therefore, a market share analysis based on the volume of transactions, as captured in the <ORG> data, would not give a true picture of the number of times a switch gets activated.
+RulingByLowerCourt	10.54 Taking cognizance of the aforesaid discussion, the <ORG> observes that the material on record does not sufficiently establish that <ORG> operates independently of competitive forces prevailing in the relevant market or can affect competitors or consumers or the relevant market in its favour.
+RulingByLowerCourt	As the dominance of <ORG> has not been established, the issue of abuse of dominant position does not arise.
+RulingByLowerCourt	10.55 Resultantly, the <ORG> finds that based on the factual matrix of this case, the conduct of <ORG> need not be examined.
+RulingByLowerCourt	Accordingly, no case of contravention of the provisions of section 4 of the Act is made out against <ORG> in the present matter.
+Fact	Determination of Issue No.
+Fact	II: Whether <ORG> has contravened of the provisions  of section 3 (4) of the Act?
+Argument	10.56 The <ORG> has alleged that <ORG> was restricting <ORG> Banks from dealing with any third party in respect of providing services of customization and modification of BASE24 EFT switch which amounts to refusal to deal under section 3(4) of the Act and such arrangements cause or are likely to cause AAEC in the market for customization and modification in India as it would lead to foreclosure of competition in the market by creating barriers to entry and by driving existing competitors out of this market.
+Argument	It has been alleged that <ORG> seeks to impose tie-in arrangements with <ORG> Banks by tying the market of EFT switch/ switch software with the market of services.
+Argument	It is averred by the <ORG> that such an arrangement would result in definite foreclosure of the services market, ousting existing players and creating entry barriers hence causing appreciable adverse effect in the market.
+Argument	10.57 In its assessment under section 3(4) of the Act, the DG has examined the agreements betw een <ORG> and its customer banks and has found that the arrangement entered by <ORG> with <ORG> Banks would not be exempt from the applicability of section 3(4) of the Act.
+Argument	With specific clauses of section 3(4) the <ORG> found that:   The combined reading of clauses of the agreement (between <ORG> and <ORG> Banks) with <ORG>'s decision to not grant consent to third parties including <ORG> beyond July 2013 amounted to a refusal to deal agreement within the meaning of section 3(4)(d) of the Act.
+Argument	 <ORG>'s stipulation to its BASE24 customers to obtain professional services only from it or entities authorized by it amounted to a exclusive supply agreement as provided under section 3(4)(b) of the Act.
+Argument	 The agreement between <ORG> and its customers de facto amounted to a tie-in arrangement since it put a condition on the licensee to avail professional services from <ORG> along with the license for BASE24 software and this fell within the ambit of section 3(4)(a) of the Act.
+Argument	10.58 The <ORG> found that the agreement entered by <ORG> with <ORG> <ORG> had AAEC under section 3(4) after taking into account the factors given under section 19(3) of the Act.
+Argument	10.59 <ORG> has contended that the DG's conclusion in this regard is erroneous and has stated that it is not preventing any third party, other than the <ORG>, from providing customization services and the requirement of its prior consent for third party customization was a reasonable restraint under section 3(5)(i) of the Act.
+Argument	Further, such requirement for prior consent is de facto applied by other switch software suppliers in India.
+Argument	As per <ORG>, the <ORG> is not foreclosed from the market, but is active with a dominant position as a third party supplier of professional service, as a number of customer banks replied that there are no constraints felt by them with respect to discontinuation of customization services provided by <ORG>.
+Argument	Further, <ORG> has contended that the DG without analyzing the factors provided in section 19(3) of the Act has wrongly concluded that there will be 'appreciabl e adverse effect on competition'.
+Argument	10.60 <ORG> further submitted that customization services are only one part of the services market.
+Argument	A restriction on customization services can cause <ORG> only if customization services form substantial part of the market.
+Argument	It is contended that the market definition of the <ORG> does not actually evaluate whether the services market is segmented according to the part of services supplied by vertically integrated suppliers and that by third parties.
+Argument	<ORG> urged that the <ORG> has ignored the portion of the market supplied by vertically integrated switch software suppliers who de facto provide bulk of the customization and modification services to their customers.
+Argument	Further, the <ORG> has not provided anything about the revenues of all the competitors in the services market and factual basis for not considering progress and innovation in the said market supplied by third party services as well as in- house capacity to undertake customization and modification.
+Argument	10.61 The Informant on the other  hand has supported the findings of the DG in this regard.
+Argument	The <ORG> submitted that <ORG> has categorically admitted that it foreclosed the services market to <ORG> and <ORG> is not the only party to whom the market is foreclosed.
+Argument	The said market stands effectively foreclosed to all third parties other than <ORG> and its subcontracted partners, through the consent clause which bestows <ORG> with enormous discretion in deciding who may provide professional service.
+Argument	It was further submitted that <ORG> is incorrect in stating that other competitors' contracts contain similar consent obligations since the response of <ORG>'s competitors have clearly demonstrated otherwise.
+Argument	As per the <ORG>, the DG has correctly concluded that the restriction imposed by <ORG> can hardly be considered reasonable, given that it effectively ousts competition from the services market.
+Argument	10.62 The <ORG> has stated that it is only being able to provide services to <ORG> Banks currently because of the interim order passed by the <ORG> whic h is preventing <ORG> from foreclosing the downstream market to <ORG> and other third parties.
+Argument	Further, the Informant has stated that there is no merit to <ORG>'s claim that customer banks did not feel any constraints upon the discontinuation of <ORG>'s services.
+Argument	10.63 The Informant has put forth that the <ORG> was correct to reject <ORG>'s argument that its restriction to <ORG> Banks fell within the IPR exemption under section 3(5) of the Act.
+Argument	It is submitted that the <ORG> carefully considered the restriction and more reasonable alternatives, including technical and contractual safeguards that were available to <ORG>.
+Argument	It was further submitted that the rationale offered by <ORG> for imposing these restrictions was the protection of BASE24 source code.
+Argument	However, <ORG> already has access to BASE24 source code through its own BASE24 license for providing <ORG>Net services to banks.
+Argument	10.64 The Informant has contended that the <ORG>'s conclusions in relation to the <ORG> caused by <ORG>'s conduct were arrived on the basis of a well- rounded ana lysis of the impact of <ORG>'s conduct.
+Argument	The DG took into account the various factors used to determine AAEC including the effects on the consumers, who are tied down by <ORG>'s conduct because of the switching costs, and the effects on competitors wishing to enter the services market.
+Argument	It is submitted that the DG also considered the overall impact <ORG>'s conduct was likely to have on competition in the market and also the scientific and technical progress in the market.
+Argument	It was also submitted that services market is not marked by vertical integration in so far as <ORG>'s competitors are concerned.
+Argument	In any event, the market share assessment is limited to an analysis of the market share in the market of EFT Switch/ switch software, and not the market for services.
+Argument	10.65 Having considered the opposing contentions of both the Parties to the matter as well as the findings of the DG, the <ORG> observes that in order to determine whether the agreement as examined by the DG between <ORG> and its consumer banks would fall w ithin the ambit of section 3(4) of the Act, it would first have to analyze whether the parties to the agreement are in a vertical relationship or not.
+Argument	10.66 Section 3(4) of the Act lays down that any agreement amongst enterprises or persons at different stages or levels of the production chain in different markets, in respect of production, supply, distribution, storage, sale or price of, or trade in goods or provision of services, including- (a) tie-in arrangement; (b) exclusive supply agreement; (c) exclusive distribution agreement; (d) refusal to deal; (e) resale price maintenance, shall be an agreement in contravention of sub-section (1) if such agreement causes or is likely to cause AAEC in India.
+RulingByLowerCourt	10.67 The <ORG> examines each the violations found by the DG against <ORG> under section 3(4) below:   Refusal to deal under section 3(4)(d) : The DG has found that a combined reading of clauses of the agreement (between <ORG> and <ORG> Banks) with <ORG>'s decision to not grant consent to third parties includin g FSS beyond July 2013 amounted to a refusal to deal agreement within the meaning of section 3(4)(d) of the Act.
+RulingByLowerCourt	The Commission is of the view that the DG has examined the agreement between <ORG> and <ORG> Banks wherein <ORG> Banks are the buyers/ consumers and would not be part of the production chain.
+RulingByLowerCourt	Accordingly, this agreement does not fall within the purview of section 3(4) of the Act.
+RulingByLowerCourt	 Exclusive supply agreement under section 3(4)(b) : The DG has found that <ORG>'s stipulation to its <ORG> customers to obtain professional services only from it or entities authorized by it amounted to a exclusive supply agreement as provided under section 3(4)(b) of the Act.
+RulingByLowerCourt	As noted above, since <ORG> Banks are the buyers/ consumers and are part not of the production chain, this agreement also does not fall within the purview of section 3(4) of the Act.
+RulingByLowerCourt	 Tie-in arrangement under section 3(4)(a) : The DG has found that the agreement between <ORG> and its customers de facto amounted to a tie- in arrangement since it put a cond ition on the licensee to avail professional services from <ORG> along with the license for BASE24 software and this fell within the ambit of section 3(4)(a) of the Act.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 57 of 80  Given that <ORG> Banks are the buyers/ consumers and are not part of the production chain, the <ORG> is of the view that this agreement also does not fall within the purview of section 3(4) of the Act.
+RulingByLowerCourt	10.68 In view of the above, the <ORG> finds no contravention of section 3(4) read with section 3(1) of the Act is made out against <ORG> in the present matter.
+RulingByLowerCourt	10.69 Accordingly, the <ORG> concludes that no contravention of the provisions of section 3(4) read with section 3(1) and section 4 of the Act has been established in the present case.
+RulingByLowerCourt	10.70 The Secretary is directed to inform the parties accordingly.
+RulingByLowerCourt	Sd/-  (<NAME>) Chairperson Sd/-  (<NAME>) Member Sd/-  (<NAME>) Member Sd/-  (<NAME>) Member New Delhi Date: 13-1-2015 Dissenting Note Per Mr. <NAME>, Member  1.
+RulingByLowerCourt	I have perused the final order passed by the majority of members of the <ORG> in this matter, holding that <ORG> has not contravened any of the provisions of either section 3 or section 4 of the Act on the grounds detailed in the said order.
+RulingByLowerCourt	2.
+RulingByLowerCourt	While concurring with the findings of the majority order to the extent that the agreements between <ORG> and the customer banks may not fall within the ambit of agreements as provided in section 3(4) of the Act, I differ, for the reasons recorded in this note, with the majority decision that <ORG> is not dominant in the market for EFT Switch / switch software in India (upstream market) and no case of contravention of provisions of section 4 is made out.
+RulingByLowerCourt	3.
+RulingByLowerCourt	As the majority order records the facts related to the information, findings of the <ORG> investigation report and replies/ objections of the parties in response to the <ORG> report in detail, the same are not repeated here for the sake of brevity, unless context requires otherwise.
+RulingByLowerCourt	4.
+RulingByLowerCourt	In this case the following relevant  markets have been delineated by the DG in this matter:  (i) The market for Electronic Fund Transfer (EFT) switch/switch software in India (relevant upstream market).
+RulingByLowerCourt	(ii) The provision of services with respect to customization and modification of EFT Switch /switch software in India (relevant downstream market).
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 59 of 80  5.
+RulingByLowerCourt	The DG has rightly considered <ORG>, <ORG> and <ORG> as a 'group' in terms of explanation (b) under section 5 of the Act and has examined the position of dominance of <ORG> group in the relevant market.
+RulingByLowerCourt	Having examined the factors outlined under section 19(4) of the Act, the DG has found <ORG> to be in a dominant position in the relevant market for EFT Switch / switch software in India i.e., in the upstream market.
+RulingByLowerCourt	6.
+RulingByLowerCourt	It is further noted that having found <ORG> dominant in the relevant upstream market, the DG also found, after analysing the facts, evidence and submissions of the parties, that <ORG> had imposed certain unfair and discriminatory conditions on <ORG>  Banks in contravention of section 4(2)(a)(i) of the Act and has limited the provision of professional services, thereby amounting to violation of section 4(2)(b)(i) of the Act.
+RulingByLowerCourt	Further, it was found that the conduct of <ORG> resulted in denial of access to <ORG> and other third party service providers in the downstream market in violation of section 4(2)(c) of the Act.
+RulingByLowerCourt	The <ORG> also found that the alleged act of <ORG> amounts to making the contract subject to acceptance of supplementary conditions which is in contravention of section 4(2) (d) of the Act.
+RulingByLowerCourt	Further, <ORG> has concluded that due to the alleged act of <ORG>, technical and scientific development in the downstream market is likely to be adversely affected leading to infringement of section 4(2)(b)(ii) of the Act.
+RulingByLowerCourt	The <ORG> also reported that <ORG> used its dominance in the upstream relevant market to enhance its presence in the downstream relevant market amounting to violation of section 4(2)(e) of the Act.
+RulingByLowerCourt	7.
+RulingByLowerCourt	The majority order, disagreeing with the findings of <ORG> , held that in the relevant upstream market i.e., in the market for <ORG> / switch software in India <ORG> is not a dominant player and since <ORG> is not in a dominant position, its conduct is not liable to be examined under the provisions of section 4 of the Act.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 60 of 80  8.
+RatioOfTheDecision	It has been vehemently argued by <ORG> and agreed to in the majority order of the <ORG>, that <ORG> and <ORG> are substitutable products and they form part of the same relevant market.
+RatioOfTheDecision	This factor has been one of the key determinants in the analysis done in majority order in arriving at the conclusion that <ORG> is not dominant in the relevant market.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Keeping in mind the findings recorded by the DG and detailed submissions made by the parties in this regard, I am of the opinion that because of the reasons recorded below <ORG> and <ORG> constitute distinct product markets:  9.1 The relevant product market in the instant case, as defined by the DG, is the market of <ORG> tch / switch software.
+RatioOfTheDecision	As borne out from the analysis of the facts and material available in the <ORG> report, an EFT Switch is essentially central software which connects the core banking system of a bank on with various end devices or delivery channels such as ATM, POS, internet payment gateway.
+RatioOfTheDecision	However, an EFT Switch is primarily used by the banks for enabling transactions through their end devices and as such the customer base remains restricted to banks.
+RatioOfTheDecision	9.2 An Interchange Switch facilitates inter-bank transaction by recognizing the issuing bank (i.e., the bank which has issued the card to a customer) and routes the transactions accordingly to the issuing bank for authorization.
+RatioOfTheDecision	Interchange comes into operation only where the acquiring bank or the merchant bank (i.e., the Bank which has installed the POS terminal at a merchant location) and issuing bank are not the same and it enables identification of the host server.
+RatioOfTheDecision	The EFT Switch on the other hand facilitates authentication and authorization of card ba sed transactions including the transactions which are routed by the <ORG>.
+RatioOfTheDecision	The EFT Switch is hence involved in all card based transactions and enables the ATM/ POS terminal to connect with the host server.
+RulingByLowerCourt	Without the EFT Switch of a bank, the Interchange Switch does not serve any purpose.
+RulingByLowerCourt	As such, the functionality of an Interchange Switch is very different from that of an EFT Switch being used by the banks.
+RulingByLowerCourt	9.3 It may be noted that an Interchange Switch has limited involvement in certain circumstances, viz., where the acquiring bank/ merchant bank and issuing bank are not the same, and it would thus not be appropriate to equate it with an EFT Switch.
+RulingByLowerCourt	9.4 As regards the contention that since the same software is used in both EFT Switches and Interchange Switches, they form part of the same market it is relevant to note that:  (i).
+RulingByLowerCourt	End use of the product is necessary to determine the relevant market and when the same product being put to different end uses, it would constitute separate product market s. Hence, an Interchange Switch would be in a different market than an EFT Switch.
+RulingByLowerCourt	(ii).
+Fact	An EFT Switch is installed by individual banks for enabling card based transactions.
+Fact	An Interchange Switch on the other hand is used by a independent third party entity for e.g., <ORG> and <ORG> or governmental agency e.g., <ORG> or a network of banks e.g., <ORG> and <ORG>.
+Fact	The nature of demand and supply, pricing strategies, competitive scenario, functionality as well as the end use of the software differ completely in EFT and Interchange Switches, thereby indicating that even though an EFT Switch and an Interchange Switch might operate on similar software, they constitute two different relevant markets.
+Fact	From the above discussion, it is clear that these two different kinds of consumers would constitute two different relevant markets in the instant case.
+Fact	(iii).
+RatioOfTheDecision	The fact that despite the existence of <ORG> which uses an Interchange Switch, banks require EFT Switches indicates that the two switches are not interchan geable and there exists no demand side substitutability for the two.
+RatioOfTheDecision	Banks' demand for EFT Switches is clearly evidenced from the fact that banks specifically require EFT Switch/ Switch software which is compatible with Interchange interfaces.
+RatioOfTheDecision	This is also evidenced from the fact that various banks are upgrading their EFT Switch software to enhance their capability to process more ATM/ POS transactions despite the presence of various <ORG>.
+RatioOfTheDecision	9.5 In the context of defining the relevant product market it may also be noted that section 2(c) of the Payment and Settlement Act , 2007 defines, 'electronic funds transfer' as:  transfer of funds which is initiated by a person by a way of an instruction, authorization or order to a bank to debit or credit an account maintained with that bank through electronic means and includes point of sale transfers, automated teller machine transactions, direct deposits or withdrawals of funds....  9.6 In view of the above, an EFT Switch is one which receives instructions th rough the devices (e.g.
+RatioOfTheDecision	ATM, POS etc.
+Fact	), routes them to the core banking system of a bank, and then returns the response from the core banking systems to the devices.
+Fact	Hence, it performs the function of processing and authorizing transfer of funds, as directed by the end customer, through electronic means.
+Fact	C. No.
+Argument	52 of 2013 Page 63 of 80  9.7 An Interchange Switch merely enables identification of the host server and directs the transaction to the relevant EFT Switch.
+Argument	Given that it does not perform the function of transferring and authorizing funds, it is not an EFT Switch.
+Argument	9.8 Further, the DG has reported that under the present regulatory framework, the EFT Switch / switch software is beneficial only to those institutions which have been licensed by <ORG> to deploy ATMs and POSs.
+Argument	Further, if such an entity is not a banking institution licensed by <ORG> then it needs to connect their switch to any bank's switch for the purpose of settlement.
+Fact	9.9 In view of the regulatory regime, as discussed above, banks as users  of EFT Switch constitute a separate class and the market strength of the suppliers of EFT Switches need to be seen keeping this distinctive feature in view.
+Fact	Therefore, even if it is assumed for the sake of argument (as has been stated in the majority order) that entities like <ORG> and ATM sharing networks like <ORG> etc., are also using EFT Switches similar to those of banks, the analysis of market structure and consequently dominance of ACI as found by the DG will not be impacted in any manner.
+Fact	9.10 Different licensing models are followed in licensing of EFT Switches and Interchange Switches.
+Fact	The fact that Interchange Switch and EFT Switch belong to two separate product markets and are different products is also evidenced by licensing models of the two switches.
+Fact	<ORG> which has licensed its switch Arkansys to <ORG> for the NFS, in its reply to the DG dated 23.05.2014 has stated that license fee charged for licensing the software is a one-time license fee.
+Fact	This is different from an EFT Switch where the  license fee is usually determined on the basis of volume of transactions or number of devices.
+Fact	By way of illustration, <ORG>, <ORG> and <ORG> link their license fee to volume of transactions or number of devices.
+RulingByLowerCourt	This clearly demonstrates that even in the industry Interchange and EFT Switch are treated as different products.
+RulingByLowerCourt	In any event, since <ORG> operates as Interchange Switch for <ORG>, it would not be correct to include it within the customer base of an EFT Switch.
+RulingByLowerCourt	Therefore, market share calculations based upon inclusion of Interchange Switches in the relevant product market would provide a distorted view of the market.
+RulingByLowerCourt	9.11 <ORG> has contended that since <ORG> is connected to a large number of ATMs of banks and all inter-bank ATM transactions between these banks are routed through <ORG>, failure to take the same into account has led to an incorrect determination of <ORG>'s dominance.
+RulingByLowerCourt	In this regard it is relevant to note that not all banks are members of <ORG> and their transactions would be routed through <ORG> ard and/ or <ORG>.
+Fact	It is also relevant to note that NFS is involved only in ATM transactions and POS transactions are routed through <ORG> and <ORG> only which use BASE24.
+Fact	9.12 If <ORG> and <ORG> are considered to be in the same market, the calculation of market share would proceed on a different basis.
+Fact	The reason for <ORG> using the volume of transactions to indicate the market share is that the volume of transactions provides an appropriate indicator of market share for identical transactions.
+Fact	If <ORG> and <ORG> are considered to be a part of the same market, volume of transactions ceases to be an appropriate indicator in as much as the nature of the transaction processed by the <ORG> and the <ORG> Switches are not identical and resultantly have differing economic values.
+Fact	In this situation, it would be illogical to equate the value of the two transactions.
+Fact	Even if <ORG> Switch is involved for processing the inter-bank transactions, <ORG> for the purpose of assessing the transa ctions happening in the country, treats such transaction as a single transaction belonging to the bank whose card is used in the ATM/POS terminal of other bank.
+Fact	9.13 In any event, there is no available data to enable market share calculations when transactions are divided in this manner.
+RulingByLowerCourt	The DG adopted the volume of transactions/ number of devices connected to an EFT Switch as the appropriate indicator of market shares since the DG was considering equal and like transactions.
+RulingByLowerCourt	As explained earlier, Interchange Switches are not licensed on the same model as EFT Switches.
+RulingByLowerCourt	Since the licensing of Interchange Switches is not at all linked to the volume of transactions/number of connected devices, it would be inappropriate to calculate market share inclusive of Interchange Switches on this basis.
+RulingByLowerCourt	<ORG> has failed to furnish any viable methodology to determine market shares upon inclusion of Interchange Switches in the relevant market.
+RulingByLowerCourt	9.14 If the contention of <ORG> that Interchange Switches belong to the same relevan t product market as EFT Switch and market shares were calculated in the same manner are accepted, it would lead to an extremely unsound and imprecise market share calculation.
+RulingByLowerCourt	It would lead to invariably considering the same transaction twice sometimes (for instance, an inter-bank transaction would be incorrectly attributed to both the EFT Switch and the Interchange Switch) and provide skewed market share results with double counting of significant number of transactions.
+RulingByLowerCourt	9.15 Based on above discussion it is evident, in terms of section 2(t) of the Act, that on all three counts, viz., functionality, price and intended use, the EFT Switch and Interchange Switch cannot be termed as substitutable products.
+RulingByLowerCourt	9.16 Lastly, even on the website of <ORG> (http://www.aciworldwide.com) EFT Switch and Interchange Switch are shown as different products.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 66 of 80  While EFT Switch BASE24 is categorized as a product under the head 'payment processing', Interchange is placed under the head 'payment cle aring and settlement'.
+RulingByLowerCourt	10.
+RulingByLowerCourt	Accordingly, it is my view, the DG had correctly delineated the upstream relevant market and I differ with the understanding of the same as detailed in the majority order.
+RulingByLowerCourt	With respect to the relevant downstream market, I agree with the decision of the majority that there exists a separate market for customisation and modification services.
+RulingByLowerCourt	11.
+RulingByLowerCourt	However, I differ with the majority order in regards to the conclusion on the assessment of the position of dominance of <ORG> in the said upstream relevant market and the reasoning supplied thereof.
+RulingByLowerCourt	12.
+RulingByLowerCourt	To asses whether an enterprise enjoys a dominant position or not in the relevant market, due regard to all or any of the factors stated under section 19(4) of the Act is to be given.
+RulingByLowerCourt	Such factors include market share of the enterprise; size and resources of the enterprise; size and importance of the competitors; economic power of the enterprise including commercial advantages over competitors; vertical integration or sale or service network  of the enterprise; dependence of consumers on the enterprise; whether monopoly or dominant position acquired as a result of any statute or by virtue of being a <ORG> company or a public sector undertaking or otherwise; entry barriers including barriers such as regulatory barriers, financial risk, high capital cost of entry, marketing entry barriers, technical entry barriers, economies of scale, high cost of substitutable goods or service for consumers; countervailing buying power; market structure and size of market; social obligations and social costs; relative advantage, by way of contribution to the economic development, by the enterprise enjoying a dominant position; and any other factors.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 67 of 80  13.
+RulingByLowerCourt	I have considered the rival submissions and the views expressed in the majority order on the issue of dominance of <ORG> in the relevant upstream market.
+RulingByLowerCourt	Differing with the views expressed in the majority order, I am in agreement with the findings of the <ORG> that <ORG> is a dominant  player in the relevant upstream market of EFT Switch / switch software in India.
+RulingByLowerCourt	In the earlier part of the note I have already held that EFT Switch and Interchange Switch are two different products and cannot be part of the same relevant market.
+RulingByLowerCourt	14.
+RulingByLowerCourt	Considering the nature of the relevant market, the DG has appropriately assessed the market shares of the players on the basis of volume of transactions through each EFT Switch / switch software and the number of ATMs and POS terminals of the bank linked through each switch software.
+RulingByLowerCourt	Based on the number of transactions that took place through the switch software, it is reported by the DG that the annual market share of <ORG> in the relevant market during financial years 2011-14 was in the range of 67% -74%.
+RulingByLowerCourt	In terms of total number of ATMs and POSs that are linked through the switch software, during financial year 2011-14, the market share of <ORG> in the relevant market was in the range of 84% - 86%.
+RulingByLowerCourt	In regards to <ORG>'s contention that market share should be measu red on the basis of number of banks licensed to EFT Switch software or revenue earned, I observed that the market share calculated on the basis of number of banks does not represent the economies of business involved and also does not account for variations in the size of banks and the underlying devices as well as consumers that <ORG> serves thus, the contention is not tenable.
+RulingByLowerCourt	Further, it is observed from the <ORG> report that ATM and POS terminals that use EFT Switch / switch software to facilitate payments through internet gateway constitutes nearly 2% of total transactions served through switch software that does not affect the market share of <ORG> much in the relevant market.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 68 of 80  15.
+RulingByLowerCourt	In consonance with the <ORG> findings, I am of the view that Interchange Switches are not functionally interchangeable with an EFT Switch and the market shares assessment by the <ORG> are based on correct indicators such as volume of transactions and number of ATMs, POS devices serviced by <ORG>.
+RulingByLowerCourt	The <ORG> t ook into account all the transactions of users of EFT Switches.
+RulingByLowerCourt	The contention of <ORG> that volume of transactions conducted through <ORG> should have been considered by the DG while considering the volume of transactions ought to be rejected.
+RulingByLowerCourt	It may be noted that <ORG> is an Interchange Switch and the role of <ORG> is limited to connecting inter-bank transactions.
+RulingByLowerCourt	Since such transactions pass through the EFT Switch of the relevant bank, there is no point in counting these transactions twice and internet payment gateway transactions and mobile payment transactions are ultimately routed through and processed by concerned bank's EFT Switch.
+RulingByLowerCourt	Further, it is observed that submission of the <ORG> that the total share of revenue spent by a customer on an EFT Switch is not a correct determinant of market share of an entity is correct.
+RulingByLowerCourt	The fee charged by different switches may vary and be based on different parameters, implying that the evaluation on the basis of the share of the revenue will fail to provide the correct  picture.
+RulingByLowerCourt	Thus, in my view the transaction based model is the most appropriate method to determine the market share.
+RulingByLowerCourt	16.
+RulingByLowerCourt	While analysing the factor pertaining to size and resources of <ORG>, the <ORG> has reported that <ORG> is a multinational company having business in various jurisdictions with nearly 2596 customers and USD 1.68 billion assets and USD 864.9 million revenue as on 31.12.2013.
+RulingByLowerCourt	From the <ORG> investigation, it is revealed that though companies such as <ORG>, <ORG>, <ORG> (<ORG>), <ORG>, <ORG> and <ORG> (<ORG>) etc., are operating in the relevant market as competitors of <ORG>, their presence is insignificant compared to <ORG>.
+RulingByLowerCourt	<ORG> has not been able to show that the above findings of the <ORG> are not factually correct.
+RulingByLowerCourt	Therefore, I am in agreement with the findings of <ORG> in this regard.
+RulingByLowerCourt	17.
+RulingByLowerCourt	As regards, the factor relating to economic power of the enterprise including commercial advantages over competitors, it is noted that <ORG> has the ad vantage of the first entrant into the relevant market and presence of high switching cost restrict the licensee banks of <ORG> to move to the competitors of <ORG>.
+RulingByLowerCourt	The <ORG> correctly noted that the licensee banks of <ORG> have been using the BASE24 software for many years and BASE24 software is considered as robust and reliable software.
+RulingByLowerCourt	18.
+RulingByLowerCourt	I also concur with the findings of <ORG> with regard to dependence of consumers on <ORG>.
+RatioOfTheDecision	The licensee banks of <ORG> have been using the BASE24 software for several years and have made huge investment in this regard.
+RatioOfTheDecision	The licensee banks of <ORG> had submitted before the <ORG> that they are heavily dependent on the <ORG> for switch software and face technical and financial constraints in migrating to another software.
+RatioOfTheDecision	The relevant extracts of the responses of some of the banks before <ORG> may be note worthy:  (i) "Yes, there are challenges and risk in shifting from one payment platform which is already evolved over one decade.
+RatioOfTheDecision	Over one decade, payment system in India has grown in leaps and bound s. Starting with <ORG> and <ORG> gateway, <ORG> came into existence, the Indian financial switch setup by <ORG>.
+RatioOfTheDecision	With launch and deployment of <ORG> card and roll out of IMPS payments, all banks including us have done huge customization on <ORG> switch.
+RatioOfTheDecision	A substantial investment is already made by us in creating the payment system.
+RatioOfTheDecision	A change in the switch will require migration of customization to the new platform.
+RatioOfTheDecision	Porting the existing customization to a new platform will involve substantial cost which is a duplication of work & avoidable expenditure.
+RatioOfTheDecision	With a loaded customization, a migration will add to further complexity.
+RatioOfTheDecision	Further, large number of ATMs and card present (CP) and card not present transactions (CNP) happening on 24X7 basis, any scheduled or unscheduled downtime may lead to loss of transaction and reputational loss.
+RatioOfTheDecision	Shifting the existing setup & products from <ORG> switch into new switch may raise Migration risk, Operation risk, cost factor & performance issue".
+RatioOfTheDecision	- <ORG>  (ii) "Shifting  from one switch software to switch software requires customization in the new software for all the existing functionalities which is prone to commercial and business continuity risk".
+RatioOfTheDecision	- <ORG>  (iii) "Presently BASE24 switch is very critical application with a complex setup running.
+RulingByLowerCourt	ATM operations on 24 hours for our domestic and 8 international territories.
+RulingByLowerCourt	Shifting from BASE24 to any other switch application involves high time, efforts for migration and cost impact, risk of disruption of operations providing banking services in addition to reputation and regulatory risks".
+RulingByLowerCourt	- <ORG>  (iv) "BASE24 is a highly reliable switch with the facility/features to handle high volumes.
+RulingByLowerCourt	Other switches may not be capable of exhibiting such efficiency considering the transaction volumes.
+RulingByLowerCourt	Migration of customizations onto another switch will be an elaborate and time- consuming task lasting 12-18 months which may impact banking operations considering the extent of customizations required to bring it on p ar with our present set up".
+RulingByLowerCourt	- <ORG>  (v) "Data migration from BASE24 is a challenge since the whole debit card data resides in the switch.
+RulingByLowerCourt	This may even lead to re-issuing entire card base which would be very costly".
+RulingByLowerCourt	- <ORG>   19.
+Fact	On countervailing buying power, it is noted that EFT business of the leading banks in India has been developed on <ORG>'s BASE24 software.
+Fact	On account of the commercial and risk considerations, most of these banks are apprehensive of shifting to alternate switch software.
+Fact	I am also of the view that the factor of countervailing buying power is relatable to the consumers of an enterprise whose dominance is being inquired into.
+Fact	In this regard, I note that in the given facts and circumstances, <ORG> Banks do not possess sufficient countervailing buying power to support the finding of the majority.
+Fact	20.
+Fact	According to a new release dated 24.01.2014 on the website of <ORG>, <ORG> has been recognized as Industry Leader in <ORG>'s Payment Switching Vendor Assessment.
+Fact	All assertions of <ORG>  not being dominant are liable to be rejected in view of such apparent claims of dominance.
+Fact	(Available at:  http://investor.aciworldwide.com/releasedetail.cfm?ReleaseID=821014 )  21.
+Fact	Additionally, <ORG>'s contention that <ORG> is the largest player solely on the basis that it powers <ORG> is unsustainable.
+Fact	There are colossal levels of customer dependence on <ORG>, as established by the enormous switching costs which have made it impossible for existing <ORG> customers to shift to other switches due to the costs and technical complexities surrounding such a migration.
+Fact	Notably, <ORG> which floated a Request for Proposal to migrate to a different switch specifically required the proposers to have previously effected a switch from <ORG> to its own switching software.
+Fact	In view of this, it would be incorrect to conclude that customers (it is vital to note that <ORG> serves a large chunk of customers of <ORG>, including some of the larger banks operating in India) are able to operate independently  of <ORG>.
+Fact	C. No.
+Fact	52 of 2013 Page 72 of 80  22.
+Fact	Thus, I agree with findings of <ORG> in regards to assessment of the position of dominance of <ORG> and hold that <ORG> is in a dominant position in the relevant upstream market i.e., the market for EFT Switch / switch software in India as defined by the <ORG>.
+RatioOfTheDecision	23.
+RatioOfTheDecision	Having determined that <ORG> is in a dominant position in the relevant upstream market of EFT Switch / switch software in India, I now proceed to examine the alleged abusive conduct of <ORG> in terms of the provisions of section 4 of the Act.
+RatioOfTheDecision	Examination of the Alleged Abusive Conduct of <ORG>  24.
+RatioOfTheDecision	As stated above in this note, the <ORG> found that <ORG> had abused its dominant position in contravention of various provisions of section 4 of the Act.
+RatioOfTheDecision	25.
+RatioOfTheDecision	Section 4(1) states that no enterprise shall abuse its dominant position and section 4(2) , inter alia, states that there shall be an abuse of dominant position under sub-section (1), if an enterprise: (a) directly or indirectly, imposes unfair or discriminatory- (i) con dition in purchase or sale of goods or service; or (ii) price in purchase or sale (including predatory price) of goods or service; or (b) limits or restricts- (i) production of goods or provision of services or market therefore; or (ii) technical or scientific development relating to goods or services to the prejudice of consumers; or (c) indulges in practice or practices resulting in denial of market access in any manner; or (d) makes conclusion of contracts subject to acceptance by other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts; or (e) uses its dominant position in one relevant market to enter into, or protect, other relevant market.
+Fact	C. No.
+Statute	52 of 2013 Page 73 of 80  26.
+RatioOfTheDecision	The <ORG> has alleged that <ORG> has abused its dominant position by not allowing <ORG> banks to choose a service provider of their choice; imposing unfair conditions in the purchase or sale of goods or services through exclusive suppl y arrangements with <ORG> banks; by directing the <ORG> banks not to avail the integration services of <ORG>.
+RatioOfTheDecision	As per the <ORG>, <ORG> is restricting the provision of services of customization and modification in respect of software for electronic payment systems, using its dominance in the upstream market of software for electronic pament systems to gain entry in the downstream market of provision for services of customization and modification in respect of software for electronic payment systems, and limiting and restricting the technical or scientific development in the market.
+RatioOfTheDecision	The <ORG> is essentially aggrieved by the decision of <ORG> to restrict <ORG> Banks from dealing with <ORG> or any third party with respect to customization services beyond 13.07.2013.
+RulingByLowerCourt	27.
+RulingByLowerCourt	The DG found that <ORG> had imposed unfair and discriminatory conditions on the <ORG> banks in contravention of section 4(2)(a)(i) of the Act, and has limited the provisions of professional services, thereby amounting to violation of section 4(2)(b)(i) of t he Act.
+RulingByLowerCourt	It is also found that the conduct of <ORG> resulted in denial of access to <ORG> and other third party service providers in violation of section 4(2)(c) of the Act and the said act of <ORG> amounts to making the contract conditioned to acceptance of supplementary conditions in breach of section 4(2)(d) of the Act.
+RulingByLowerCourt	Further, the DG has found that due to the acts of <ORG>, the technical and scientific development in the downstream market is likely to be adversely affected, leading to infringement of section 4(2)(b)(ii) of the Act.
+RulingByLowerCourt	The DG also found that <ORG> used its dominance in the upstream relevant market to enhance its presence in the downstream relevant market amounting to violation of section 4(2)(e) of the Act.
+RulingByLowerCourt	C. No.
+RulingByLowerCourt	52 of 2013 Page 74 of 80  28.
+Argument	<ORG> controverted the above findings of the DG and argued that the DG has erroneously concluded that <ORG>'s advice to its customer banks to refrain from using the customization services of the <ORG> or others amounts to an unfair condition in contravention of  section 4(2)(a)(i) of the Act.
+Argument	As per <ORG>, many of its customer banks have continued to use the services of the <ORG> for customization even after expiry of the deadline date i.e., 13.07.2013.
+Argument	<ORG> contended that it has not limited the access to third party service providers in the downstream market by deterring new entry or limited the technical and scientific development in contravention of section 4(2)(b)(i) and 4(2)(c) of the Act.
+Precedent	29.
+Fact	It is contended by <ORG> that they are not only entering the market themselves but are also sponsoring entry of several new entrants and creating competition for the benefit of customers.
+Fact	The willingness to enter the downstream market by <ORG>, <ORG>, <ORG>, <ORG> and others is based on an economic evaluation that there is the prospect of greater competition for third party professional services in the downstream market.
+Fact	It was also urged by that the development of technology is accelerated rather than impeded and there is a greater scope for innovation, as more and more ent erprises gain expertise in this domain.
+Argument	30.
+Argument	As per <ORG>, the <ORG> has erroneously concluded that <ORG> seeks to leverage its dominant position in the upstream market to support itself in the downstream market.
+Argument	It was submitted that assuming that the <ORG>'s finding that <ORG> is dominant in the upstream market is correct; the finding suffers from the lack of concrete mechanism showing how <ORG> could leverage position from the upstream to downstream market.
+Argument	Further, <ORG> has argued that it is the <ORG> which tried to foreclose the market by carrying out customization work without adequate documentation.
+RatioOfTheDecision	In the absence of complete documentation of customization, it is extremely difficult for any other entity to provide such services to the banks.
+RatioOfTheDecision	31.
+RatioOfTheDecision	However, the <ORG> has accepted the <ORG> findings and stated that <ORG>'s conduct is in contravention of section 4(2)(a)(i) , 4(2)(b)(i) , 4(2)(b)(ii) , 4(2)(c) , 4(2)(d) and 4(2)(e) of the Act.
+RatioOfTheDecision	32.
+RatioOfTheDecision	I have perused the findings of the <ORG> and the objections of the <ORG> and  the <ORG> in this regard.
+RatioOfTheDecision	Having analyzed the provisions of the license agreement relating to professional services for BASE24 software customers, it is found that prior permission from <ORG> is necessary on the part of customer banks to obtain professional services from third parties.
+RatioOfTheDecision	It is observed that for several years till 2010-11, licensee banks of <ORG> were obtaining these professional services from the <ORG> which was also distributor of <ORG>.
+RatioOfTheDecision	However, in 2011, <ORG> gave notice to all its <ORG> banks that it would provide consent for obtaining these professional services from the <ORG> only till 13.07.2013.
+RatioOfTheDecision	33.
+RatioOfTheDecision	It is also noted that most of the licensee banks of <ORG> have been using BASE24 continuously for several years and during this time they were obtaining professional services for BASE24 software from the <ORG>.
+Fact	<ORG> then took the decision not to allow the <ORG> to continue to provide these services.
+Fact	From the submission of licensee banks of <ORG> before the DG, it is observed that thes e banks were aggrieved by the decision of <ORG> to not allow them to obtain professional services from the <ORG> and other third parties.
+Fact	On several occasions they expressed their apprehensions and concerns in this regard and the likely adverse effects.
+RatioOfTheDecision	34.
+RatioOfTheDecision	From the letter dated 04.08.2011, written by <ORG> to its licensee banks stating that "for upgrades, <ORG> would be willing to provide exceptional consent, after jointly (with the bank) evaluating the possibility of undertaking these services either directly or with another third party" and presentation made by <ORG> to its licensee banks in February, 2013, it is revealed that <ORG> intended to provide modification and customization services under its program named as Enhanced Support Program (<ORG> ESP).
+RatioOfTheDecision	Further, from the letter dated 21.05.2013 written by <ORG> to <ORG>, emails exchanged between <ORG> and <ORG>, emails exchanged between <ORG> and <ORG> etc., it is observed the intention of <ORG> is to undertake professional services for BASE24 services itself.
+RatioOfTheDecision	Also , it is observed that <ORG> sought to enter into the downstream market by using the provision in the license agreement, which requires the banks to seek its consent, and to exclude any third party service provider including the <ORG> from the market.
+RatioOfTheDecision	I am in agreement with the <ORG>'s findings in this regard and of the opinion that the said conduct of <ORG> amounts to abuse of its dominant position in violation of provisions of section 4(2)(e) of the Act i.e., use of its dominant position in the relevant market of EFT Switch / switch software in India to enter into and strengthen its position in the downstream market.
+RatioOfTheDecision	Further, <ORG> has found that <ORG> has made the license agreement for BASE24, subject to acceptance by banks of supplementary obligation of obtaining its professional services in infringement of the provisions of section 4(2)(d) of the Act.
+RatioOfTheDecision	On this count too, I am in agreement with the <ORG> report.
+RatioOfTheDecision	<ORG>, by denying its licensee banks the option of procuring modification and customisation services from the  <ORG> or any third parties, has compelled the said banks to avail such services from it along with the BASE24 software.
+RatioOfTheDecision	This is nothing but making the conclusion of contracts of <ORG> subject to acceptance by banks of a supplementary obligation which has no connection with the subject of the contract.
+RatioOfTheDecision	35.
+RatioOfTheDecision	It is noted from the <ORG> report that <ORG> has entered into independent contractor agreement with <ORG>, <ORG>, <ORG> and <ORG> for providing the modification and customisation services to its licensee banks with different terms and conditions for each agreement.
+RatioOfTheDecision	Under each of these agreements, these entities are providing services as sub-contractor of <ORG> for specific tasks and rates determined by <ORG>.
+RatioOfTheDecision	It is further observed from the <ORG> report that even though <ORG> allows certain sub-contractors to provide services in the downstream market, its licensee banks are left with no choice regarding selection o f vendor for providing professional services in the downstream market and have to rely on <ORG> only.
+RatioOfTheDecision	As such by denying its licensee banks of an option to avail professional services directly from the <ORG> or any other vendor, discriminatory conditions have been imposed by <ORG> leading to violation of section 4(a)(i) of the Act.
+RatioOfTheDecision	I am in agreement with <ORG> findings in this regard.
+RatioOfTheDecision	36.
+RatioOfTheDecision	It is also observed from the <ORG> report that the costs to be incurred by Banks for switching over to alternate software are very high.
+RatioOfTheDecision	In such a situation, licensee banks of <ORG> do not have any effective choice with respect to selection of vendor for professional services and have to rely on <ORG> for the same.
+RatioOfTheDecision	The contentions of <ORG> are not found to be convincing as <ORG> clearly communicated to <ORG> banks that post July, 2013, it would not allow third parties to provide these professional services.
+RatioOfTheDecision	Thus, under the garb of taking responsibility it deprived its licensee banks of any alternate choice.
+RatioOfTheDecision	I agree with the findings of <ORG>  that the said conduct of <ORG> is in contravention of section 4(2)(b)(ii) of the Act.
+RatioOfTheDecision	37.
+RatioOfTheDecision	It is observed that <ORG>'s decision to not grant consent to any third party including the <ORG> for provision of such services along with sub contracting arrangement entered with the providers of these services, has allowed <ORG> to enter and strengthen its position in the downstream market of provision of professional services.
+RulingByLowerCourt	Because of the said decision of <ORG>, the existing players like the <ORG> have been denied market access to the downstream market.
+RulingByLowerCourt	I am in agreement with the DG that the said conduct of <ORG> is in contravention of section 4(2)(c) of the Act.
+RulingByLowerCourt	Also, the said conduct of <ORG> would act as a hindrance for other service providers in the downstream market to invest and innovate.
+RulingByLowerCourt	Thus, the said conduct of <ORG> also amounts to limiting technical and scientific development relating to professional services in infringement of section 4(2)(b)(ii) of the Act.
+RulingByLowerCourt	38.
+RulingByLowerCourt	In this regard, I also note that the Commissi on vide its interim order restrained <ORG> after being satisfied that (a) <ORG> was dominant in the relevant market and (b) the conduct of <ORG> in restricting the choice of <ORG> Banks for availing the services of third parties including the <ORG> for customization and modification of BASE24 software appeared to be in contravention of section 4 of the Act.
+RulingByLowerCourt	Thereafter, the DG after conducting a detailed investigation reaffirmed the opinion of the <ORG> in its orders under section 26(1) and section 33 of the Act.
+RulingByLowerCourt	After perusing the submissions of the parties made before the <ORG>, I do not find any reason or additional facts that support a different conclusion in the final order.
+RulingByLowerCourt	39.
+RulingByLowerCourt	Accordingly, in agreement with the findings of DG, I am of the opinion that the <ORG>, through its conduct, has contravened the provisions of sections 4(2)(a)(ii) , 4(2)(b)(i) , 4(2)(b)(ii) , 4(2)(c) , 4(2)(d) and 4(2)(e) of the Act.
+RulingByLowerCourt	The first issue is decided accordingly.
+RulingByLowerCourt	40.
+Fact	Having regard to all these factors, a penalty on  <ORG> at the rate of 5% of its average turnover based on the financial statements filed by <ORG> (as shown in the table below) is to be imposed.
+Fact	S. No Name of Turnover/receipts Turnover/rec Turnover/re Avera 5% of the Party in year Ended on eipts in year ceipts in ge Average 31.03.2011 (Rs.
+Fact	in Ended on year Ended Turno turnover crore) 31.03.2012 on ver/rec (Rs.
+Fact	in (rounded off) (Rs.
+Fact	in crore) 31.03.2013 eipts crore) (rounded off) (Rs.
+Fact	in (Rs.
+Fact	(rounded crore) in off) (rounded crore) off) (roun ded off) 1 <ORG> 60.43 76.27 134.35 90.35 4.52 Sd/- (S. L. Bunker) Member New Delhi Date: 13-1-2015

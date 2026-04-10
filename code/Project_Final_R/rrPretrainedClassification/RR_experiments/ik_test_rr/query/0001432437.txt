@@ -1,0 +1,252 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This appeal is brought by leave of <ORG>, from a judgment of that <ORG> (Spens <NAME>, <NAME> and <NAME>.)
+Fact	dated August 31, 1943, dismissing eight appeals by the <ORG> against orders and judgments of a divisional bench of three Judges (<NAME> and Sen JJ., <NAME>, dissenting) of the High <ORG> of Judicature at Fort William in Bengal, dated June 3, 1943.
+Fact	2.
+Fact	The orders and judgments of the High <ORG> were made upon applications under Section 491 of the Criminal Procedure Code, 1898, for directions in the nature of habeas corpus on behalf of nine persons, detained in various jails in pursuance of orders made under Rule 26 of the Defence of India Rules, 1939, on various dates from October 24, 1940, to March 8, 1943.
+Fact	These orders and judgments directed the release of the applicants.
+Fact	Of the nine original applicants eight are called as respondents in the present appeal, but their Lordships were informed that two of the respondents had been released , namely, <NAME>, respondent No.
+Argument	4, on a date before the judgment of <ORG>, and <NAME>, respondent No.
+Argument	2, after the judgment of <ORG>.
+Argument	The remaining six respondents, with whom this appeal is now concerned, are under detention by virtue of orders made under Bengal Regulation III of 1818.
+Argument	3.
+Argument	Having regard to the known and well-settled principle of the English law that a discharge, or an order directing discharge, under a writ of habeas corpus, is final and not subject to appeal, and the importance of preserving safeguards of the liberty of the subject, their Lordships asked for arguments of counsel on the competency, in the present case, of the appeals by the <ORG> from <ORG> to <ORG>, which might equally affect the competency of this further appeal to this <ORG>.
+Precedent	It is sufficient to refer to the decision of <ORG> in <NAME> v. <NAME> (1890) 15 App.
+Precedent	Cas.
+Precedent	506 where the law of England on this matter is fully dealt with.
+Argument	4.
+Argument	In the p resent case, the appeals have proceeded under Sections 205 and 208 of the Government of India Act, 1935.
+Statute	Section 205 provides as follows:-  205.
+Statute	(1) An appeal shall lie to <ORG> from any judgment, decree or final order of <ORG> in British India, if <ORG> certifies that the case involves a substantial question of law as to the interpretation of this Act or any Order in Council made thereunder, and it shall be the duty of every High Court in British India to consider in every case whether or not any such question is involved and of its own motion to give or to withhold a certificate accordingly.
+Statute	(2) Where such a certificate is given, any party in the case may appeal to <ORG> on the ground that any such question as aforesaid has been wrongly decided, and on any ground on which that party could have appealed without special leave to His Majesty in Council if no such certificate has been given, and, with the leave of <ORG>, on any other ground, and no direct ap peal shall lie to His Majesty in Council, either with or without special leave.
+Fact	On the application of the Crown <ORG> granted certificates under Section 205(1) for leave to appeal to <ORG>.
+Fact	After the decision of <ORG>, leave was given by them under Section 208(b) to appeal to His Majesty in Council.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Their Lordships have come to the conclusion that, in view of the special terms of Section 205 , the appeals in the present case were competent.
+RatioOfTheDecision	6.
+Precedent	In <NAME> v. <NAME> it was held that the right of appeal given by Section 19 of the Judicature Act, 1873, did not include an appeal against an order of discharge made upon a writ of habeas corpus.
+Precedent	Lord <NAME> says (p. 517):  My Lords, I have insisted at some length upon the peculiarities of the procedure, because I think one cannot suppose that the <ORG> intended to alter all the procedure by mere general words without any specific provision as to the practice under the writ of habeas corpus or the statutes which from ti me; to time have regulated both its issue and its consequences.
+Precedent	My Lords, I do not deny that the words of sect.
+Precedent	19 literally construed are sufficient to comprehend the case of an order of discharge made upon an application for discharge upon a writ of habeas corpus; but it is impossible to contend that the mere fact of a general word being used in a statute precludes all enquiry into the object of the statute or the mischief which it was intended to remedy.
+Precedent	In their Lordships' opinion, the condition of the law of habeas corpus in India, and the purpose and express words of Section 205 of the Government of India Act, 1935, afford a contrast to the condition of the English law and the object and general terms of Section 19 of the Judicature Act of 1873.
+Precedent	The history of the matter is shortly stated by Sir <NAME>, then Chief Justice, in his admirable judgment in <CITATION_1788368> (1927) I.L.R.
+Precedent	54 Cal.
+Precedent	727 from which the following quotation may be made (p. 749):  I proceed therefore to enquire whether acco rding to the law in India as it now stands there is or is not power in <ORG> to grant the writ of Habeas Corpus at common Jaw independently of Section 491 of the Criminal Procedure Code.
+Precedent	Now in 1870 in the case of In the matter of <NAME> (1870) 6 Ben.
+Precedent	L.R.
+Precedent	392 Mr. Justice <NAME> held that <ORG> could issue the Habeas Carpus outside the orginal jurisdiction to the Superintendent of the jail at Ali-pore, In 1872 the Code of Criminal Procedure (Act X of 1872) was enacted which gave the right to European British subjects detained in custody whether within the limits of <ORG>'s original jurisdiction or outside those limits to apply for an order directing the person detaining him to bring him before <ORG>, in other words for an order under Section 81 in the nature of Habeas Corpus.
+Precedent	Section 82 provided that ' Neither <ORG>s nor any Judge of such <ORG> shall issue any writ of habeas corpus, mainprise, de homine replegiando, nor any other writ of the like nature b eyond the Presidency towns.'
+Precedent	This prohibition cannot in my opinion be confined to the case of European British subjects nor has this been contended before us.
+Precedent	In 1875, <ORG>' Criminal Procedure Act (X of 1875) in Section 148 set out various purposes for which an order in the nature (A Habeas Corpus might be made and it gave power to <ORG> to make5 such orders in the case of persons within the limits of their original jurisdiction.
+Precedent	It went on to say that 'neither the High Court nor any Judge thereof shall hereafter issue any writ of Habeas Corpus for any of the above purposes'.
+Precedent	Certain particular matters were excepted, it being stated that nothing in this section applies to a person detained under Bengal Regulation III of 1818 and certain other Regulations.
+Precedent	.
+RatioOfTheDecision	But it is quite clear that for the purposes provided for by Section 148 , the intention was that relief should be granted under the section arid recourse should not be had to the old prerogative writs...
+RatioOfTheDecision	The subsequent history of the m atter is shortly this that when the Code of Criminal Procedure was amended in 1882 the Acts of 1872 and 1875 were comprised in Schedule I as enactments repealed by Section 2 'but not so as to restore any jurisdiction or form of procedure not existing or followed' on the 1st January 188S (Act X of 1882).
+Fact	The matter remained very much in the same position until 1923, when a right was given to everybody within the appellate jurisdiction of this Court to make an application under Section 491 of the present Criminal Procedure Code .
+Fact	The question which arises is whether for any of the purposes mentioned in what is now Section 491 , it is open to an applicant still to say that he will make his application independently of that section altogether for the prerogative writ of Habeas Corpus on the civil side of <ORG>.
+RatioOfTheDecision	I observe that it has been stated in certain cases that if there is to be any question of the abolition of this right then the <ORG> must say so in the most specific terms.
+RatioOfTheDecision	Whether that be  a correct view in a matter of procedure of this kind need not be discussed for the.
+RatioOfTheDecision	Legislature has used the most specific terms; and it is plain that the Indian Legislature never intended that the <ORG> in giving relief of this character should for any of the purposes mentioned in Section 491 be at liberty to act under it or under the old procedure.
+Precedent	In the recent case of <CITATION_721271> (1939) L.R.
+Precedent	66 I.A.
+Precedent	222: s.c. 41 Bom.
+Precedent	L.R.
+Precedent	1119 this judgment was approved by the <ORG>, and it was held that, in cases covered by a 491, the power to issue a common law writ of habeas corpus in British India had been taken away by legislation, and the powers conferred by Section 491 substituted therefor.
+Precedent	The present applications were under Section 491 .
+Precedent	Under Section 404 of the Criminal Procedure Code no appeal lies from any judgment or order of a criminal Court except as provided for by the Code or by any other law for the time being in force.
+Precedent	There is no provision in the Code for an appeal from an order made under Sect ion 491 ; there is no conviction or acquittal in such proceedings, and Section 417 , which taken along with the new Section 411A (2) enacted by Section 2 of the Amending Act of 1943 (Act XXVI of 1943) allows an appeal on behalf of the Government only from an order of acquittal is equally inapplicable.
+RatioOfTheDecision	Accordingly, as regards appeal, the position under the Criminal Procedure Code as to proceedings under Section 491 is in effect the same as the position stated in <NAME> v. <NAME>.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Turning again to Section 205 of the Government of India Act of 1935, their Lordships are clearly of opinion that the section relates to both the civil and criminal jurisdiction of <ORG>; the terms of Sub-section (2) of Section 210 appear to put this beyond doubt, and their Lordships agree with the decision of <ORG> to this effect in <NAME> v. The Crown  F.C.R.
+RatioOfTheDecision	159.
+RatioOfTheDecision	Further, the width of the language used is striking, viz. "
+RatioOfTheDecision	any judgment, decree or final order of <ORG>," and " it shall be the duty o f <ORG> in British India to consider in every case."
+RatioOfTheDecision	The purpose of the provision is to confer a right of appeal in every case that involves a substantial question of law as to the interpretation of the Act or any Order in Council made thereunder.
+RatioOfTheDecision	The object is clearly to secure uniformity of decision in <ORG> by the determination of a <ORG> superior to them all.
+RatioOfTheDecision	On the most moderate view of the matter, the securing of that object is at least as important in cases of habeas corpus, in which such questions are very apt to arise, as in other cases.
+RatioOfTheDecision	In the absence of an express exception of habeas corpus cases, and having in view the terms and purpose of the section, their Lordships are unable to limit the terms of the section by mere construction so as to exclude these cases from its operation.
+RatioOfTheDecision	Accordingly Section 205 of the Act of 1935 provides one of the exceptions referred to in Section 404 of the Criminal Procedure Code.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Their Lordships are therefore of opinion that the appeals fro m <ORG> were competent, and it follows that the appeal to His Majesty in Council was also competent, and they will proceed to deal with the appeal on the merits.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The present applications under Section 491 of the Criminal Procedure Code were filed on April 24, 1943, two days after the decision of <ORG> in <NAME> v. King Emperor  F.C.R.
+Precedent	49: S.C. (1943) 46 Bom.
+Precedent	L.R.
+Precedent	22 under which it was held", reversing the decision of <ORG> refusing to make an order under Section 491 for release of the applicants, that Rule 26 of the Defence of India Rules was ultra vires, and was not warranted by the Defence of India Act, 1939.
+Precedent	10.
+Fact	On April 28, 1943, the Governor General made and promulgated Ordinance No.
+Fact	XIV of 1943 under Section 72 of the Ninth Schedule of the Government of India Act, 1935.
+Fact	By Section 2 of the Ordinance a new clause was substituted for Clause (x) of Section 2(2) of the Defence of India Act, 1939.
+Statute	Section 3 of the Ordinance provided:  that no order heretofore  made against any person under Rule 26 of the Defence of India Rules shall be deemed to be invalid or shall be called in question on the ground merely that the said rule purported to confer powers in excess of the powers that might at the time the said rule was made be lawfully conferred by a rule made or deemed to have been made under Section 2 of the Defence of India Act, 1939.
+Fact	The amendment effected by Section 2 of the Ordinance removed the grounds on which <ORG> had pronounced Rule 26 to be ultra vires.
+Fact	The terms of Rule 26 were not altered by the Ordinance.
+RatioOfTheDecision	11.
+RatioOfTheDecision	In the present applications, <NAME>'s case was taken as binding on them by both <ORG> and <ORG> and the new Ordinance No.
+RatioOfTheDecision	XIV was the main object of challenge by the applicants.
+RatioOfTheDecision	But before this <ORG>, the <ORG> has placed in the forefront a challenge of the correctness of the decision in <NAME>'s case, and success in that contention would vindicate the validity of Rule 26 and would supersede any consideration o f Ordinance No.
+Fact	XIV.
+RatioOfTheDecision	It is therefore necessary to dispose of this question first.
+RatioOfTheDecision	12.
+RatioOfTheDecision	The material portions of Section 2 of the Defence of India Act.
+Fact	1939 (Act XXXV of 1939), as amended by Section 2 of the Defence of India (Amendment) Act, 1940 (Act XIX of 1940), are as follows:-  "2.
+Statute	(i) <ORG> may, by notification in the official Gazette, make such rules as appear to it to be necessary or expedient for securing the defence of British India, the public safety, the maintenance of public order or the efficient prosecution of war, or for maintaining supplies and services essential to the life of the community.
+Statute	(2) Without prejudice to the generality of the powers conferred by subjection (i), the rules may provide for or may empower any authority to make orders providing for, all or any of the following matters, namely:-  * * * *  (v) preventing the spreading without lawful authority or excuse of false reports or the prosecution of any purpose likely to cause disaffection or alarm, or to prejud ice His Majesty's relations with foreign powers or with States in India or to prejudice the maintenance of peaceful conditions in the tribal areas,, or to promote feelings of enmity and hatred between different classes of His Majesty's subjects;  * * * *  (x) the apprehension and detention in custody of any person reasonably suspected of being of hostile origin or of having acted, acting or being about to act, in a manner prejudicial to the public safety or interest or to the defence of British India, the prohibition of such person from entering or residing or remaining in any area, and the compelling of such person to reside and remain in any area, or to do, or abstain from doing anything.
+Statute	The material part of Rule 26, as it has stood since 1940, is as follows:-  26.
+Statute	(J) The Central Government or <ORG>, if it is satisfied with respect to any particular person that with a view to prevent him from acting in any manner prejudicial to the defence of British India, the public safety, the main tenance of a public order, His Majesty's relations with foreign powers or Indian States, the maintenance of peaceful conditions in tribal areas or the/ efficient prosecution of the war it is necessary so to do, may make an order;  (a) ...  (b) directing that he be detained;  13.
+Fact	In <NAME>'s case the judgment of <ORG> was delivered by <NAME> who first dealt with the main argument of the appellant, which had been rejected by <ORG>, and proceeded (p. 61):  We, therefore, reject the main argument addressed to us on behalf of the appellant, and, if there were nothing more in the appeal, we should dismiss it without further discussion.
+RatioOfTheDecision	There) is however another aspect of the case, which was not argued until the <ORG> itself drew the attention of counsel to it; for it seemed to us that it was open to question whether rule 26 itself in its present form was within the rule-making powers conferred by the Defence of India Act.
+RatioOfTheDecision	If it is not within those powers, then it must be hold void arid ino perative, either in whole or in part; and orders made under it will be similarly open to challenge.''
+RatioOfTheDecision	The learned Judge then proceeded to discuss paragraphs (v) and (x) of Section 2(2) of the Act, and for reasons fully stated by him, he came to the conclusion that Rule 26 was not within the powers conferred by Sub-section (2) of Section 2 and he stated (p. 68):  The <ORG>, having set out in plain and unambiguous language in paragraph (x) the scope of the rules which may be made providing for apprehension and detention in custody it is not permissible to pray in aid the more general words in Section 2(1) in order to justify a rule which so plainly goes beyond the limits of paragraph (x); though if paragraph (x) were not in the Act at all, perhaps different considerations might apply... We are compelled therefore to hold that rule 26 in its present form goes beyond the rule-making powers which the <ORG> has thought fit to confer upon <ORG> and is for that reason invalid.
+RatioOfTheDecision	14.
+RatioOfTheDecision	Their  Lordships are unable to agree with the learned Chief Justice of <ORG> on his statement of the relative positions on Sub-sections (J) and (2) of Section 2 of the Defence of India Act, and counsel for the respondents in the present appeal was unable to support that statement, or to maintain that Rule 26 was invalid.
+RatioOfTheDecision	In the opinion of their Lordships, the function of Sub-section (2) is merely an illustrative one; the rule-making power is conferred by Sub-section (1), and "the rules" which are referred to in the opening sentence of Sub-section (2) are the rules which are authorised by, and made under, Sub-section (1); the provisions of Sub-section (2) are not restrictive of Sub-section (1), as indeed is expressly stated by the words "without prejudice to the generality of the powers-conferred by Sub-section (1)."
+RatioOfTheDecision	There can be no doubt-as the learned Judge himself appears to have thought-that the general language of Sub-section (J) amply justifies the terms of Rule 26, and avoids any of the criticisms  which the learned Judge expressed in relation to Sub-section (2).
+RatioOfTheDecision	15.
+RatioOfTheDecision	Their Lordships are therefore of opinion that <NAME>'s case was wrongly decided by <ORG>, and that Rule 26 was made in conformity with the powers conferred by Sub-section (J) of Section 2 of the Defence of India Act.
+RatioOfTheDecision	It is, accordingly, unnecessary for their Lordships to consider whether Rule 26 was not also within paragraphs (v) and (x) of Sub-section (2) of Section 2 , contrary to the opinion of <ORG>, and their Lordships express no opinion on the matter.
+RatioOfTheDecision	As already stated), their Lordships are also relieved from any consideration of Ordinance XIV of 1943.
+RatioOfTheDecision	16.
+RatioOfTheDecision	As regards the remaining questions, counsel for the <ORG> stated them under two main heads, viz.
+RatioOfTheDecision	first, whether the orders of detention can be questioned in view of the provisions of Section 59(2) of the Government of India Act and Section 16 of the Defence of India Act, and, secondly, assuming that they can be so questioned, whether there were materials o n which the Courts below could properly decide that the orders were not made in conformity with Rule 26.
+RatioOfTheDecision	17.
+RatioOfTheDecision	The order for detention of respondent No.
+Fact	1, which is typical of the other cases, is as follows:--  Calcutta, the 27th October, 1942.
+Fact	Whereas the person known as <NAME>, M.L.A., son of late <NAME> of 3|1 Kali Banerjee Lane, Howrah, is detained in the Howrah Jail under the provision in rule 129 of the Defence of India Rules;  And whereas the Governor is satisfied that, with a view to preventing the said person from acting in any manner prejudicial to the Defence of British India, the public safety, the maintenance of public order or the efficient prosecution of the war, it is necessary to make the following orders to continue his detention;  Now, therefore, in exercise of the powers conferred by Clause (6) of Sub-rule (1) and sub-rule (5) of rule 26 of the Defence of India Rules, the Governor is pleased to direct-  (a) that the said person shall until further orders be detained ;  (b) that until further orders the said person shall continue to be detained in the Howrah Jail; and  (c) that during such detention the said person shall be subject to the conditions laid down in the Bengal Security Prisoners Rules, 1940.
+Fact	By order of the Governor, <NAME>, <NAME>, to <ORG>.
+RatioOfTheDecision	18.
+RatioOfTheDecision	Except that in the case of respondent No.
+RatioOfTheDecision	6, <NAME>, there -was no previous arrest under Rule 129, and that in some cases the order was signed on behalf of the Governor by '" <NAME>, Addl.
+RatioOfTheDecision	Secy, to <ORG>" there is no material difference from the above order in the case of the remaining orders.
+RatioOfTheDecision	19.
+RatioOfTheDecision	The <ORG> maintained that the orders being on their face regular and in conformity with the language of the rule, it was not open to the Court to investigate their validity any further, and relied on the statutory provisions already referred to.
+RatioOfTheDecision	It should, however, be stated that Rule 3(i) of the Defence of India Rules provides that the General Clauses Act ,  1897, is to apply to the interpretation of these rules as it applies to the interpretation of a Central Act , and that, under <CITATION_174566148> of the General Clauses Act.
+RatioOfTheDecision	(43a) 'Provincial Government', as respects anything done or to be done by the ' Provincial Government' after the commencement of Part III of the Government of India Act, 1935, shall mean-  (a) in a Governor's Province, the Governor acting or not acting in his discretion, and exercising or not exercising his individual judgment, according to the provision in that behalf made by and under the said Act...  20.
+RatioOfTheDecision	Section 59 |(2) of the Government of India Act, on which the Crown relies, provides:  Orders and other instruments made and executed in the name of the Governor shall be authenticated in such manner as may be specified in rules to be made by the Governor, and the validity of an order or instrument which is so authenticated shall not be called in question on the ground that it is not an order or instrument made or executed by the Gov ernor.
+RatioOfTheDecision	21.
+RatioOfTheDecision	In the opinion of their Lordships, the contention of the <ORG> goes too far, as the sub-section only, relates to one specified ground of challenge, namely, that the order or instrument was not made or executed by the Governor.
+RatioOfTheDecision	Their Lordships agree with the statement by the learned Chief Justice of <ORG>, viz.
+RatioOfTheDecision	:  It is quite a different thing to .question the accuracy of a recital contained in a duly authenticated order, particularly where that recital purports to state as a fact the carrying: out of what I regard as a condition necessary to the valid making of that order.
+RatioOfTheDecision	In the normal case the existence of such a recital in a duly authenticated order will, in the absence of any evidence as to its inaccuracy, be accepted by a <ORG>: as establishing that the necessary condition was fulfilled.
+RatioOfTheDecision	The presence of the recital in the order will place a difficult burden on the detenue to produce admissible) evidence sufficient to establish even a prima facie case that the recital is not accurat e.  On this point <ORG> was unanimously against the <ORG>.
+RatioOfTheDecision	The other statutory provision relied on by the <ORG> before the Board was not, it appears, brought before <ORG>; it was Section 16 of the Defence of India Act, which provides as follows:  16.
+Statute	(1) No order made in exercise of any power conferred by or under this Act shall be called in question in any <ORG>.
+Statute	(2) Where an order purports to have been made and signed by any authority in exercise of any power conferred by or under this Act, a <ORG> shall, within the meaning of the Indian Evidence Act , 1872, presume that such order was so made by that authority.
+Precedent	22.
+Precedent	Sub-section (1) assumes that the order is made in exercise of the power, which clearly leaves it open to challenge on the ground that it was not made in conformity with the power conferred, heavily though the burden of proof may lie on the challenger, as stated by the Chief Justice in the passage just cited.
+RatioOfTheDecision	Sub-section (2) raises a presumption of fact, which may be dis placed, though here again the burden is likely to be heavy.
+RatioOfTheDecision	Section 4 of the Indian Evidence Act provides:  Whenever it is directed by this Act that the <ORG> shall presume a fact, it shall regard; such fact as proved unless and until it is disproved....
+RatioOfTheDecision	Accordingly, the contention of the <ORG> that the <ORG> has no jurisdiction to investigate the validity of the orders fails.
+RatioOfTheDecision	23.
+Precedent	On construction of Rule 26, the majority of the Judges of the Federal <ORG> held that the Governor must be personally satisfied as to the matters therein set out, and that, in view of the admission by the <ORG> that in none of the cases before them had the Governor himself considered the case, the orders for detention were not in conformity with the rule.
+Precedent	They based their conclusion mainly on the power of delegation (which has admittedly not been exercised in the present case) conferred by Sub-section (5) of Section 2 of the Defence of India Act, which provides as follows:  (5) A Provincial Government may by order direct that any  power or duty which by rule made under Sub-section (i) is conferred or imposed on <ORG> or which, being by such rule conferred or imposed on <ORG>, has been directed1 under Sub-section (4) to be exercised or 'discharged by <ORG>, shall, in such circumstances and under such conditions, if any, as may be specified in the direction be exercised or discharged by any officer or authority, not being (except in the case of a Chief Commissioner's Province) an officer or authority subordinate to <ORG>.
+Precedent	24.
+Precedent	The learned Chief Justice disagreed, holding that Sub-section (5) was merely supplementary, and afforded no ground for excluding the ordinary methods by which <ORG>'s executive business was authorised to be carried on by Chapter II of Part III of the Government of India Act, 1935.
+Precedent	25.
+Precedent	Their Lordships are of opinion that the learned Chief Justice was right.
+Precedent	26.
+Precedent	It will be remembered that the definition of Provincial Gover nment in <CITATION_174566148> of the General Clauses Act refers one to the provisions of the Government of India Act for the action or non-action of the Governor, and this takes one to Chapter II of Part III, which is headed " The Provincial Executive--The Governor".
+Statute	The material sections are as follows:-  49.-(I) The executive authority of a Province shall be exercised on behalf of His Majesty by the Governor, either directly or through officers subordinate to him, but nothing in this section shall prevent the <ORG> or <ORG> from conferring functions, upon subordinate authorities, or be deemed to transfer to the Governor any functions conferred by any existing Indian law or any court, judge, or officer or any local or other authority.
+Statute	(2) Subject to the provisions of this Act, the executive authority of each Province extends, to the matters with respect to which <ORG> has power to make laws.
+Statute	50-(1) There shall be a council of ministers to aid and advise the  Governor in the exercise of his functions, except in so far as he is by or under this Act required to exercise his functions or any of them in hi9 discretion;  Provided that nothing in this sub-section shall be construed as preventing' the Governor from exercising his individual judgment in any case where by or under this Act he is required so to do.
+Statute	(2) The Governor in his discretion may preside at meetings of the council of ministers.
+Statute	(3) If any question arises whether any matter is or is not a matter as respects which, the Governor is by or under this Act required to act in his discretion or to exercise his individual judgment, the decision of the Governor in his discretion shall be final, and the Validity of anything done by the Governor shall not be called in question on the ground that he ought or ought not to have acted in his discretion, or ought or ought not to have exercised' his individual judgment.
+Statute	52.- (1) In the exercise of his functions the Governor shall have the following special responsib ilities, that is to say:-  (a) the prevention of any grave menace to the peace or tranquillity of the Province or any part thereof...  (3) If and in so far as any special responsibility of the Governor is involved, he shall,, in the exercise of his functions, exercise his individual judgment as to the action to be taken.
+Statute	59.-{1) All executive action of <ORG> shall be expressed to be taken in the name of the Governor.
+Statute	(Sub-section (2) already quoted).
+Statute	(3) the Governor shall make rules for the more convenient transaction of the business of <ORG>, and for the allocation among ministers of the said business in so far as it is not business with respect to which the Governor is by or under,' this Act required to act in his discretion.
+Statute	(4) The rules shall include provisions requiring ministers and secretaries to Government to transmit to the Governor all such information with respect to the business of <ORG> as may be specified in the rules, or as th e Governor may otherwise require to be so transmitted, and in particular requiring a minister to bring to the notice of the Governor, and the appropriate secretary to bring to the notice of the minister concerned, and of the Governor, any matter under consideration by him which involves, or appears) to him likely to involve, any special responsibility of the Governor.
+Statute	(5) In the discharge of his functions under Sub-sections (2), (3) and (4) of this section the Governor shall act in his discretion after consultation with his ministers.
+Precedent	27.
+Precedent	Rules of business have been framed by the Governor of Bengal under Section 59 , under which it is not disputed that questions of detention fall to be transacted in <ORG>.
+Precedent	Under Rule 12 all orders or instruments made or executed by or on behalf of <ORG> are to be expressed to be made by or by order of the Governor of Bengal; and under Rule 13 save in cases of special authorisation, every order or instrument of <ORG> is to  be signed by either a Secretary (an Additional Secretary), a Joint Secretary, a Deputy Secretary, an Under-Secretary, or an Assistant Secretary to <ORG>, and such signatures are to be deemed to be the proper authentication of such orders or instruments.
+Precedent	28.
+Precedent	In the first place, their Lordships observe that the provisions of Chapter II of Part III of the Act of 1935 as to the Provincial Executive and its executive authority use the term " executive" in the broader sense as including both a decision as to action -and the carrying out of such decision.
+Precedent	29.
+Precedent	Counsel for the respondents submitted a contention, which the majority of the learned Judges in <ORG> had accepted, based on Sub-section (2) of Section 49 of the Act of 1935, to the effect that the sub-section limited the operation of the section to matters with respect to which <ORG> has power to make laws, and that the subject-matter of <ORG> was not within those powers.
+Precedent	The learned Judges,  in confirmation of this view, referred to Sub-section (2) of Section 124 , which provides that An Act of <ORG> may, notwithstanding that it relates to a matter with respect to which <ORG> has no power to make laws, confer powers and impose duties or authorise the conferring of powers and the imposition of duties upon a Province or officers and authorities thereof.
+RatioOfTheDecision	Their Lordships are unable to agree with such a narrow reading of these provisions, which would involve the necessity of <ORG> making provision in each case for the executive machinery to carry out the powers and duties so imposed, instead of using the existing Provincial machinery.
+RatioOfTheDecision	This view is supported by Sub-section (4) of Section 124 , which provides inter alia that where an Act; of <ORG>, by virtue of Sub-section (2), confers powers and imposes duties upon a Province or officers and authorities thereof in relation to a matter with respect to which a Provincial Legislatur e has no power to make laws, the <ORG> is to pay to the Province such sum as is agreed, or determined by arbitration, in respect of any extra costs of administration incurred by the Province in connection with exercise of those powers and duties.
+RatioOfTheDecision	This appears to contemplate extra costs incurred by the existing machinery of Provincial Administration.
+RatioOfTheDecision	Their Lordships construe Sub-section (2) of Section 49 as providing an extensible limit and not a maximum limit, and the provisions of Sub-section (2) of Section 124 as affording a means of such extension.
+RatioOfTheDecision	But, further, their Lordships construe the incorporation of the General Clauses Act , both: in the Defence of India Act, and in the.
+RatioOfTheDecision	Defence of India Rules, with its reference in <CITATION_174566148> to the provisions of Part III of the Act of 1935 as to the acting or non-acting of the Provincial Governor, as necessarily embodying the relevant provisions of Chapter II of Part III, including in particular Section 49 .
+RatioOfTheDecision	30.
+RatioOfTheDecision	It is for the same reasons that the ir Lordships are unable to accept the respondents' contention, also agreed to by the majority Judges in <ORG>, that the provision of Sub-section (5) of Section 2 of the Defence of India Act provides the only means by which the Governor can relieve himself of a strictly personal function.
+RatioOfTheDecision	Their Lordships would also add, on this contention, that Sub-section (5) of Section 2 provides a means of delegation in the strict sense of the word, namely, a transfer of the power or duty to the officer or authority defined in the sub-section, with a corresponding divestiture of the Governor of any responsibility in the matter, whereas under Section 40(1) of the Act of 1935 the Governor remains responsible for the action of his subordinates taken in his name.
+RatioOfTheDecision	31.
+RatioOfTheDecision	The respondents next contended that, assuming that a 49 did apply, this question was one which involved a special responsibility of the Governor within the meaning of Section 52(2) , (a) of the Act of 1935, and therefore required the individual judgmen t of the Governor.
+RatioOfTheDecision	In their Lordships' opinion, they are excluded from considering the somewhat debatable question whether the present matter does fall within head (a) of Section 52(2) , by the provisions of Section 50(3) , as the contention of the respondents is that the Governor should have exercised his individual judgment.
+RatioOfTheDecision	Nor is it necessary for their Lordships to consider whether " individual judgment" excludes the operation of Section 49(2) ..
+RatioOfTheDecision	So far as it is relevant in the present case, their Lordships are unable to accept a suggestion by counselor the respondents that the Home Minister is not an officer subordinate to the Governor within the meaning of Section 49(1) , and so far as the decision in <CITATION_1515320>  2 Cal.
+RatioOfTheDecision	411 decides that a minister is not such an officer their Lordships are unable to agree with it.
+RatioOfTheDecision	While a minister may have duties to the <ORG>, the provisions of Section 91 as to the appointment, payment and dismissal of ministers, and Section 59(3) and (4) of the Act of 193 5, and the business rules made by virtue of Section 59 , place beyond doubt that the Home Minister is an officer subordinate to the Governor.
+RatioOfTheDecision	32.
+RatioOfTheDecision	Their Lordships are therefore in agreement with the learned Chief Justice of <ORG> that such matters as those which fell to be dealt with by the Governor under Rule 26 could be dealt with by him in the normal manner in which the executive business of <ORG> was carried on under the provisions of Chapter II of Part III of the Act of 1935, and in particular, under the provisions of Section 49 and the rules of business made under Section 59 .
+RatioOfTheDecision	33.
+RatioOfTheDecision	There remain the criticisms on .the manner in which the individual cases of detention have been dealt with.
+RatioOfTheDecision	The six cases with which this appeal is concerned are the cases of respondents Nos.
+RatioOfTheDecision	1, 3, 5, 6, 7 and 8.
+RatioOfTheDecision	In view of the opinions already expressed by their Lordships, the orders for detention in each of these cases must be taken as ex facie regular and proper, and it follows, as already s tated, that there is a heavy burden on the respondents to displace the presumption enacted by Section 16(2) of the Defence of India Act.
+RatioOfTheDecision	The respondents were enabled to raise the question as to whether the Governor was bound to give his personal consideration to the matter, by reason of the <ORG>'s admission that he had not in fact done so in any of these cases.
+RatioOfTheDecision	They were also able to raise a question as to the so-called routine order of October 1, 1942, because of Mr. <NAME>'s admission in his affidavit.
+RatioOfTheDecision	The majority of <ORG> held all the detention orders to be bad because of the first of these admissions, though they also deal with the routine order, and criticise adversely the whole procedure.
+RatioOfTheDecision	The learned Chief Justice agreed with the majority as to the cases which were subject to the routine order; he disagreed as to the necessity for the personal satisfaction of the Governor, holding that the procedure authorised by Section 49 was available to the Governor, but he held that the routine order  vitiated the orders as to which it operated.
+RatioOfTheDecision	One of these three eases-that respondent No.
+RatioOfTheDecision	2, <NAME>, is not before the <ORG>, as he was released shortly after the judgment of <ORG>.
+RatioOfTheDecision	On the other hand, as regards the cases of the present respondents Nos.
+RatioOfTheDecision	3, 6, 7 and 8, he stated that he was unable to find in the evidence anything which established even a prima facie case that the orders under Rule 26 had been improperly made or to contradict the accuracy of the narrative of the orders.
+RatioOfTheDecision	Thereby he differed from the majority of the <ORG> as regards these cases.
+RatioOfTheDecision	34.
+RatioOfTheDecision	The evidence before <ORG> consisted of affidavits by the respondents, the counter-affidavit by Mr. <NAME>, Additional Home Secretary to <ORG>, and certain statements and answers regarding detention under Rule 26 given by the Home Minister, Bengal, in <ORG>.
+RatioOfTheDecision	In common with the Chief Justice of <ORG>, their Lordships have been unable to find anything-apart from the  routine order-in these statements and answers of the Home Minister which affords evidence of improper procedure in the individual cases before the Court, even assuming that such evidence was admissible, which, in the opinion of their Lordships, was at least open to doubt.
+RatioOfTheDecision	It is the evidence of Mr. <NAME> that establishes the application of the routine order in some of these individual cases.
+RatioOfTheDecision	Further, there is nothing in the affidavits filed by the respondents which establishes such a prima facie case, and they were not so founded on at the hearing before the Board.
+RatioOfTheDecision	The respondents' case was founded on the statements and answers by the Home Minister, as to which their Lordships have expressed their view above, and Mr. <NAME>'s counter-affidavit, which their Lordships will now consider.
+RatioOfTheDecision	35.
+Argument	In paragraph 8 of his affidavit Mr. <NAME> states that on October 1, 1942, the Home Minister directed that, on receipt of the report of arrest under Rule 129 of the .Defence of India Rules together with a recommendation by  the <ORG> for detention under Rule 26 in respect of persons arrested in connection with the disturbances or suspected of being so connected, orders of detention under Rule 26(I) (b), should at once be issued as a matter of course subject to review by <ORG> on receipt of further details to be supplied in each case by <ORG>.
+RatioOfTheDecision	That clearly meant the substitution of the recommendation by the <ORG> in place of the satisfaction of the Governor prescribed by Rule 26, and equally rendered any order under Rule 26 in conformity with the Home Minister's direction, to which their Lordships have already referred as the routine order, ab initio void and invalid as not being in conformity with the requirements of Rule 26.
+RatioOfTheDecision	Their Lordships now turn to the cases before them, to which the routine order applied, and they quote the statement of Mr. <NAME> with regard to the first of these two cases, that of respondent No.
+RatioOfTheDecision	1.
+RatioOfTheDecision	10.
+RatioOfTheDecision	<NAME>: He was arrested by the <ORG> under Rule 129 of the Defence  of India Rules on 20th October, ,1942.
+Precedent	On 27th October, 1942, I considered the materials before me and in accordance with the general order of Government directed the issue of an order of detention under Rule 26(1) (b) of the Defence of India Rules.
+Precedent	On receipt of fuller materials the case was later submitted for consideration of the Honourable Home Minister.. Bengal, from whom no order directing withdrawal or modification of the order of detention was received.
+Precedent	36.
+RatioOfTheDecision	Their Lordships are unable to read Mr. <NAME>'s statement that he had considered the materials before him as involving anything more than that he had considered the report of the arrest and the recommendation of the.
+RatioOfTheDecision	Police to see if there was material sufficient to justify the issue of an order under the routine order.
+RatioOfTheDecision	It cannot mean that, in spite of the direction of the Home Minister in the routine order, he considered the materials before him so as to satisfy himself, independently of the police recommendation, that an order under Rule 26 sho uld be issued.
+RatioOfTheDecision	That would not be in accordance with the requirement of the routine order that-the police having recommended it-the order of detention should be issued as a matter of course.
+RatioOfTheDecision	Further, the inaction of the Home Minister on the later submission of the fuller materials to him could not cure the invalidity of the order of October 27, 1942.
+RatioOfTheDecision	37.
+Precedent	The case of <NAME>, Despondent No.
+RatioOfTheDecision	5, is stated in paragraph II of Mr. <NAME>'s affidavit, and is substantially the same as that of respondent No.
+RatioOfTheDecision	1.
+RatioOfTheDecision	The order in his case was issued by Mr. <NAME> on March 8, 1943, and no further materials had been received at the date of the affidavit, May 24, 1943.
+RatioOfTheDecision	38.
+RatioOfTheDecision	Their Lordships agree with the unanimous conclusion of <ORG> that the orders of detention in the cases of the present respondents Nos.
+RatioOfTheDecision	1 and 5 are invalid.
+RatioOfTheDecision	39.
+RatioOfTheDecision	There remain the cases of respondents Nos.
+RatioOfTheDecision	3, 6, 7 and 8.
+RatioOfTheDecision	The orders of detention in these cases were earlier in date than the routine order of October 1, 1942, and are not af fected thereby, As their Lordships have already stated, there is no evidence in these cases sufficient to rebut the presumption as to their regularity.
+RatioOfTheDecision	There is only one point on which their Lordships desire to add an observation.
+RatioOfTheDecision	In paragraphs 2, 3 and 4 of his affidavit Mr. <NAME> states that in the cases of <NAME>, present respondent No.
+RatioOfTheDecision	3, <NAME>, present respondent No.
+RatioOfTheDecision	8, and <NAME>, present respondent No.
+RatioOfTheDecision	7, he himself considered the materials supplied and, in fact, the orders of detention were signed by him.
+RatioOfTheDecision	In the case of <NAME>, present respondent No.
+RatioOfTheDecision	6, Mr. <NAME>, in paragraph 6 of his affidavit, does not say by whom the case was considered.
+RatioOfTheDecision	The order of detention is signed by <NAME>, Deputy Secretary to <ORG>.
+RatioOfTheDecision	This is a case typical -of the application of the presumption, and, if the respondents had wished to probe the matter, in case the consideration might have been by someone not qualified as an officer subordinate to the  Governor within the terms of 9.
+RatioOfTheDecision	49 of the Act of 1935, they should not have let the matter rest there, but proceeded either by counter affidavit or by cross-examination of Mr. <NAME> on his affidavit.
+RatioOfTheDecision	As they did not take such a course, the presumption remains; undisturbed.
+RatioOfTheDecision	40.
+RatioOfTheDecision	Accordingly, their Lordships agree with the Chief Justice of <ORG> that the orders of detention in the cases of respondents Nos.
+RatioOfTheDecision	3, 6, 7 and 8 were valid, and the appeal of the <ORG> will be allowed in the case of these four respondents.
+Argument	Counsel for the <ORG> stated to their Lordships that, without prejudice to any further action under Rule 26 that the <ORG> may find it expedient or necessary to take, it was not intended that any further action should be taken against these four respondents under the particular orders which are before the <ORG> in this appeal.
+Argument	41.
+Argument	Their Lordships will therefore humbly advise His Majesty that the appeal should be allowed as respects respondents Nos.
+Argument	3, 6, 7 and 8, and the judgments and or ders of the Courts below should be set aside, and that it should be declared that the order of detention under Rule 26 of the Defence of India Rules in each of these cases was a valid and proper order; that in the case of respondents Nos.
+RulingByPresentCourt	1 and 5 the appeal should be dismissed and the judgments and orders of the Courts below should be affirmed.
+RulingByPresentCourt	There will be no order as to costs.

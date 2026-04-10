@@ -1,0 +1,810 @@
+Fact	PETITIONER: <ORG> & <ORG>.
+Fact	Vs. RESPONDENT: UNION OF INDIA DATE OF JUDGMENT24/11/1971 BENCH: <NAME>, A.N.
+Fact	BENCH: <NAME>, A.N.
+Fact	<NAME>, <NAME>, <NAME> CITATION: 1972 AIR 1690 1972 SCR (2) 526 CITATOR INFO : E 1973 SC 734 (34,38,41) E&D 1974 SC 366 (63,64) RF 1975 SC 460 (14) RF 1978 SC1296 (34,65,69) RF 1986 SC1999 (11) F 1987 SC1802 (9) R 1990 SC1851 (36) RF 1992 SC1033 (33) ACT: Motor Car (Distribution and Sale) Control (Amendment) Order 1969 passed under s. 18G Industries (Development and Regulation) Act , 1951--Fixation of ex factory prices of motor cars produced in India-Recommendations of <ORG>-Production capacity determination of-Expenses relating to warranty and bonus whether to be excluded from the ex-works cost-Adoption of 'historical method' by commission for fixing cost for September 1969, propriety of- Escalation clause, necessity of-Fair return, what is- Depreciation of plant and machinery whether to be allowed on basis of original cost or replacement, va lue.
+Fact	HEADNOTE: On the basis of the recommendation of <ORG> <ORG> promulgated the Motor Car (Distribution and Sale) Control (Amendment) Order 1969 under s. 18G of the Industries (Development and Regulation) Act , 1951.
+Fact	By this order the Government fixed the exfactory prices of the three cars manufactured in India namely <ORG> Ambassador, <ORG> 1100-D and Standard Herald 4 Door.
+Fact	These prices were inclusive of dealers' commission but did not include the excise duties, Central Sales-tax and local taxes, if any, and transport charges.
+Fact	The manufacturers or dealers were prohibited from selling or offering for sale or otherwise transferring or disposing of the motor cars for a price exceeding the price given in the order.
+Fact	The manufacturers of these vehicles and two of their dealers filed writ petitions in this <ORG> under Art.
+Fact	32 of the Constitution challenging the price fixed.
+Fact	On May 5, 1970 this <ORG> after partly hearing the petitioners recommended to the Government to appoint  a commission for the purpose of suggesting a fair price for the three cars by taking into consideration all the relevant matters.
+Fact	The Government accordingly appointed a <ORG> of three members headed by a retired <ORG> Judge and by a notification dated June 5, 1970 all the provisions of the <ORG> of Enquiry Act 1952 were made applicable to the <ORG>.
+Fact	The <ORG>, decided to recommend a fair price for two periods, (1) as in September 1969 and (2) as in July 1970.
+Fact	It was considered necessary to determine the price in September 1969 because the impugned order was promulgated at that time.
+Fact	For the September 1969 prices the computation was done according to the 'historical method', which meant that not only the prices in September 1969 were kept in view but also the value of pending stocks of raw materials and the average of the price at which purchases had been effected at that time were taken into account.
+RulingByLowerCourt	The prices for July 1970 were computed on the basis of the actual cost obtaining in t he month of July 1970.
+RulingByLowerCourt	The report of the <ORG> suggesting fair prices for the three cars in question was filed before the court.
+RulingByLowerCourt	The findings of the <ORG> were criticised by the writ petitioners on the following grounds : (1) That the <ORG> had taken the production capacity at an excessive figure and had thus artificially reduced the cost; (ii) that cost and expenses on account of warranty and statutory bonus had been wrongly excluded from the ex-works cost; (iii) that in fixing the cost for September 1969 even the actual admitted cost found by the <ORG> had not been taken into account and the price had been fixed on the historical cost, whereas in.
+RulingByLowerCourt	fixing the price for July 1970 the projected and estimated cost for July 1970 had been ignored; (iv) that no pro-vision had 527 been made for an escalation clause in order to ensure that the prices fixed would ensure for a reasonable period of time; (v) that the return which bad been allowed was wholly inadequate on the admitted and proved fact s, and (vi) that the depreciation of plant and machinery had been allowed on the basis of original cost whereas it should have been allowed on the replacement value or on the peculiar facts of the case.
+RulingByLowerCourt	It was common ground that deviation from the report of the <ORG> which was an expert body presided over by a former judge of <ORG> should be directed only when it was shown that there had been a departure from established principles or the conclusions of the <ORG> were shown to be demonstrably wrong or erroneous.
+RulingByLowerCourt	HELD : (By the Court) (i) The very concept of fair price vhich can be fixed under s. 18 G of the Act takes in all the elements, which make it 'fair' for the consumer leaving a reasonable margin of profit to the manufacturcr without which no one will engage in any manufacturing activity Capacity utilisation of a manufacturing unit, the quality oil its product, and the maintenance of proper standards at various levels of production are all relevant factors for the determination of the p rice.
+RulingByLowerCourt	Capacity utilisation, has to be on the basis of what can be reasonably achieved keeping in view always the practical side.
+RulingByLowerCourt	[549 H-550 A] Within regard to <ORG> at no stage except for the second half of the year April 1970 to March 1971 import licences had been granted for production of more than 1200 cars.
+RulingByLowerCourt	It was only in that year that for the first half it was granted for 6050 cars and for the second half for 7000 cars.
+RulingByLowerCourt	From the practical point of view therefore the achievable capacity for September 1969 could not have been fixed for more than 12000 cars a year The <ORG> was right in fixing the achievable capacity for July 1970 at the figure of 14000 cats per year.
+RulingByLowerCourt	In regard to <ORG> that <ORG> was not justified in departing from the recommendations of its technical committee and fixing the production capacity at 4000 cars, and 1000 commercial vehicles per annum.
+RulingByLowerCourt	, On an overall consideration the capacity of <ORG> would be 3400. cars and 1000 trucks as  found by the technical team.
+RulingByLowerCourt	[552 B-C; 553 A-B; 555 G] As regards <ORG> the production capacity should have been assessed at the figure given by the technical team namely 30000 cars, and 5000 trucks per year.
+RulingByLowerCourt	The <ORG> was wrong in relying on the applications for import licences made by <ORG> and on their basis assessing the production capacity for trucks at 10500.
+RulingByLowerCourt	In such applications the estimates given are likely to be Mated.
+RulingByLowerCourt	The technical committee had proceeded on the basis of independent physical checking and verification in all respects.
+RulingByLowerCourt	There was no justification for rejecting the opinion of the experts especially when no member of the team was examined as a witness for finding out those facts and data which the <ORG> had sought to use for rejecting the technical team's report.
+RulingByLowerCourt	[557 H-558 D] (ii) (a) As laid down in the order promulgated by the <ORG> in March 1968 under s. 16 of the Act all defects due to faulty manufacture of workmanship shall be rectified and def ective parts replaced during the warranty period without passing any part of the burden including incidental charges to the consumer.
+RulingByLowerCourt	The effect of the above direction cannot be ignored although it may not be conclusive in the matter of fixing a fair price.
+RulingByLowerCourt	The statement of the <ORG> that if the warranty was to be made out of the profits every manufacturer would try to minimise warranty cost by improving the quality: of his product was unexceptionable.
+RulingByLowerCourt	If it is to be included in the ex-works cost it would 528 mean virtually passing it on to the consumer.
+RulingByLowerCourt	[538 G-539 Al (b) The question whether bonus is linked with profit or cost stands concluded by the provisions of the Bonus Act itself as also the decision of this Court in <ORG> case.
+RulingByLowerCourt	The object of the Bonus Act as observed in that case is to make an equitable distribution of the surplus profits of the establishment with a view to maintain peace and harmony between the three agencies (capital, management and labour) which contribute to the  earning of profits.
+RulingByLowerCourt	The <ORG> came to the correct conclusion that bonus is connected with profits and it cannot be included in ex-works cost.
+RulingByLowerCourt	[540 E; 541 <CITATION_493792> ,  1 S.C.R.
+RulingByLowerCourt	15, referred to.
+RulingByLowerCourt	(iii) There was no authority or principle on which the method of calculating the ex-works cost on historical basis could be justifiably adopted for September 1969 when a different method was adopted for July 1970 cost.
+RulingByLowerCourt	The ex- works cost for September 1969 should have been determined according to the current prices as was done with regard to July 1970.
+RulingByLowerCourt	[541 H] (iv) In view of the rising prices of components provision for escalation and de-escalation of car prices was_necessary, [Directions given] [543 A-D; 562 H] (v) The quantum of return has essentially to vary from industry to industry.
+RulingByLowerCourt	The <ORG> took figures from authentic sources i.e.
+Fact	the report of <ORG> and an analysis carried out by <ORG> with regard to the return which was being earne d by the various companies on the capital employed.
+Fact	After taking the maximum return which an investor can expect from fixed deposits and other relevant factors into consideration the commission was of the view that a dividend of 10% to the equity shareholder after providing for the tax liability of the company and other outgoing would be fair and reasonable..
+Fact	The outgoing which are to be met out of the return are (1) the actual interest on borrowings; (2) the minimum bonus; (3) other financial charges; (4) warranty charges and in case of <ORG> the guarantee commission paid on loans obtained from foreign sources and differences in exchange.
+Fact	After making provision for these outgoing the dividends on preference shares, if any, the tax liability of the company and a return of 10% on the equity share capital, the total profit of the company as a whole was calculated which when related to the capital employed of the respective companies worked out to 15.43% in the case of <ORG>, 16.22% in t hat of <ORG> and 17.36% in <ORG>.
+Fact	Considering the above and taking an over all view of the car industry 16% return on capital employed was considered to give a reasonable return to the car manufacturer.
+Fact	[545 E546 A] At first sight it may appear that return of 16% on the capital employed is a very large return but this return includes numerous items which reduce the return to the equity shareholder to a percentage which, even according to the <ORG>, on an average cannot exceed 10%.
+Fact	The plea of the car manufacturers for exclusion of warranty and bonus charges from the return and for their inclusion in the ex- works cost could not be accepted.
+Fact	At the same time the return of 12% recommended by the Tariff <ORG> was wholly inadequate when all the items that the Car Price <ORG> had mentioned had to be paid out of it.
+RatioOfTheDecision	529 The return of 16% granted by the <ORG> was a reasonable one keeping in view the entire circumstances.
+RatioOfTheDecision	A total return of 16% will leave some margin if prop er economies are effected by the manufacturers for replacement and rehabilitation and improvement of the plant and machinery.
+RatioOfTheDecision	The main objective is to project the interest of the consumer while at the same time provide a reasonable margin of profit to the producers.
+RatioOfTheDecision	The general approach has to be to determine the ex-works cost and then to arrive at the fair price after examining other claims of the industry and providing a reasonable return.
+RatioOfTheDecision	There was no principle which had been demonstrated to be wrong in the report of <ORG> so far as the fixation of the return was concerned.
+RatioOfTheDecision	[546 D-H] Even though the return to the equity shareholders of all the there companies may not be uniformly 10% it was not possible to make any distinction or discrimination between the three manufacturers.
+RatioOfTheDecision	A separate rate of return for each could not be fixed when dealing with the automobile car industry as a whole.
+RatioOfTheDecision	[546 B-C] (vi) The Commission was right in allowing depreciation on the actual cost and not on the replacement  value.
+RatioOfTheDecision	The depreciation which is allowed under the tax laws is very liberal and there is no reason to pass on the burden to the present consumer who is not likely to get any benefit out of the replacement proposed to be provided for by the manufacturers.
+RatioOfTheDecision	There was no serious infirmity or flaw in the reasoning or the conclusion of the <ORG> on the question of depreciation.
+RulingByLowerCourt	[548 A-C] ALSO HELD : (1) The amount payable on account of royalty per car in the case of <ORG> pursuant to the collaboration agreement the renewal of which had been approved by <ORG> must be included in the ex-works cost for July 1970 [562 E-F] (2) The conclusion of the <ORG> relating to the percentage of the local steel sheets by <ORG> was correct.
+RulingByLowerCourt	[562 F] (3) The dealers, shall, for the present, be entitled only to the mark up in terms of the recommendations of the <ORG>.
+RulingByLowerCourt	[562 G] On the relationship between taxation and the high prices of cars the <ORG> observed : It will not be o ut of place to notice a few observations of expert bodies about taxation which forms at least one third part of the price of a car.
+RulingByLowerCourt	<ORG> in its third report published in 1968 recorded that high prices of the vehicles were due mostly to the existing multiple taxes on the automobiles at different stages of production and sale.
+RulingByLowerCourt	It had recommended a reduction in the burden of taxation which would lead to reduction in the prices of cars.
+RulingByLowerCourt	<ORG> bad emphasized the same in 1960 and had pointed out that taxation was a burden on the consumer rather than on the producer.
+RulingByLowerCourt	<ORG> has said in its main report at page 292 :"The incidence of tax on a car is very heavy inasmuch as it constitutes46% of the ex- factory price.
+RulingByLowerCourt	The car is no longer an item of luxuryand under the existing conditions it is fast becoming an item of necessity.
+RulingByLowerCourt	That being so, there is a case for giving some relief out of the excise duties and other levies which are by their nature multi-point taxes  causing hardship."
+RulingByLowerCourt	[436 F--537 A] Per <NAME>, J.
+Fact	(Partly dissenting) The production capacity which has to be taken into account is the achievable capacity of a plant run in a reasonably efficient manner.
+Fact	Concerted effort has to be made to attain a high level of production for two obvious reasons : (1) supply of new cars falls considerably short of the demand and the intending purchasers have to be kept on the waiting list 530 for inordinate length of time and (2) increased production would bring down the ex-works costs of the car.
+RatioOfTheDecision	Although it would not be practicable and realistic to insist upon the highest or absolute efficiency, it would be equally unjust and inequitable to throw the burden of inefficiency of a manufacturer on the consumer in working out the figure of 'fair price' of the article manufactured.
+RatioOfTheDecision	To put it differently, the authority concerned in determining fair price should not demand from the manufacturer the paragon of excellence in the matter of volume of production but at the same time th e authority should not make the consumer bear the margin of high cost resulting from avoiding low production.
+RatioOfTheDecision	It is, of course, implicit in that that reasonable facilities would be afforded to the manufacturer for procuring material like imported parts and steel which is under the <ORG> control so as to be in a position to manufacture the requisite number of cars.
+RatioOfTheDecision	The concept of 'fair price' postulates that the price should be fair not only to the producer but also to the consumer; the goal should be to arrive at just and reasonable rates.
+RatioOfTheDecision	[566 E-H] No case had been made for interfering with the July 1970 price of <ORG> as found by the <ORG> on the ground that the production capacity of that company from July onwards was 3400 and riot 4000 cars.
+RatioOfTheDecision	The latter estimate made by the <ORG> was not excessive considering the admissions made by the company in its applications dated 19-6-1968 and 20-12-1969 in which the company had estimated its production at 4200 cars.
+RatioOfTheDecision	It is wellknown that admi ssions constitute a strong piece of evidence against the party making the admissions and it is for that party to show that the admissions are mistaken or are not true.
+RatioOfTheDecision	On the material on record the company had failed to discharge that onus.
+RatioOfTheDecision	The argument that the petitioner in order to obtain import licence had to give a bloated figure of estimated production did not appear to be convincing because the excess of the imported material had to be adjusted in the subsequent import licences.
+RatioOfTheDecision	[570 H-571 D, F] From <ORG> own report it was clear that neither any physical verification could be made by <ORG> nor could it make a systematic study and it had to content itself with the materials supplied by the petitioner-company.
+RatioOfTheDecision	<ORG> no doubt dealt with the question of capacity but in a rather general way.
+RatioOfTheDecision	There was nothing to indicate that any attempt was made before the <ORG> to show that the achievable capacity of the petitioner company was more than what was stated on behalf  of the petitioner.
+RatioOfTheDecision	In these circumstances there was no reason to rely on the recommendations of <ORG> or <ORG> in preference to the findings of the <ORG>.
+RatioOfTheDecision	[568 E, 569 A-B] JUDGMENT:  ORIGINAL JURISDICTION : Writ Petitions Nos.
+RatioOfTheDecision	327, 330, 331, 486 and 487 of 1969.
+RulingByLowerCourt	<NAME>, <NAME>, <NAME> and <NAME>, for the petitioners (in W.P.
+RulingByLowerCourt	No.
+RulingByLowerCourt	330 of 1969).
+RulingByLowerCourt	<NAME>, <NAME>, <NAME> and <NAME>, for the petitioners (in W.P.
+RulingByLowerCourt	No.
+RulingByLowerCourt	330 of 1969).
+Fact	<NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, for the petitioners (in W.P.
+Fact	No.
+Fact	331 of 1969).
+Fact	<NAME> and <NAME>, for the petitioners (in W.P.
+Fact	No.
+Fact	486 of 1969).
+Fact	531  <NAME> and <NAME>, for the petitioners (in W.P.
+Fact	No.
+Fact	487 of 1969).
+Fact	<NAME>, Attorney-General for India, <NAME>, Solicitor-General of India, <NAME>, <NAME> Ram Panjwani and <NAME>, for the respond ent (in W.P.
+Fact	No.
+Fact	327 of 1969).
+Fact	<NAME>, Attorney-General for India, <NAME>, Solicitor-General of India, <NAME> and <NAME>, for the respondent (in W.Ps.
+Fact	Nos.
+Fact	330, 331, 386 and 487 of 1969).
+Fact	<NAME>, J.
+Fact	These petitions under Art.
+Fact	32 of the Constitution were filed by <ORG>, <ORG> and <ORG>, manufacturers of <ORG>, Ambassador and Standard motor cars respectively and two of the dealers of such cars.
+Fact	The petitioners challenged the fixation of fair price of the said three passenger cars by <ORG> by the Motor Car (Distribution and Sale) Control (Amendment) Order 1969 promulgated under S. 18G of the Industries (Development and Regulation) Act 1951, hereinafter called the "Order" and the "Act" respectively.
+Fact	The ex-factory prices of the three cars were fixedas follows :  HINDUSTAN AMBASSADOR Rs.
+Fact	15,316.00 FIAT 1100-D Rs.
+Fact	14,325.00 STANDARD HERALD 4 Door Rs.
+Fact	14,003.00  These prices were inclusive of dealer's commi ssion but did not include the excise duties, Central Sales tax and local taxes, if any, and transport charges.
+Fact	The manufacturers or dealers were prohibited from selling or offering for sale or otherwise transferring or disposing of the motor cars for a price exceeding the price given in the Order.
+RulingByLowerCourt	The order was made after taking into consideration the recommendations of <ORG> to whom the question of determination of a fair price of motor cars had been referred by <ORG> under clause (d) of s. 12 of <ORG> Act 1951.
+Fact	On May 5, 1970 after hearing the, petitions for some days this <ORG> recommended to the Government to appoint a Com- mission for the purpose of suggesting a fair price for the three cars by taking into consideration all relevant matters.
+Fact	On May consisting of <NAME> a retired Judge of the Patna High <ORG> as Chairman, <NAME> and Brig.
+Fact	<NAME> Director of Inspection (Vehicles), <ORG> on as Members.
+Fact	By a notifica- tion dated June 5, 1970 all the provisions of the <ORG> of Enquiry Act 1952 were made applicable to the <ORG>.
+Fact	The Car Price Enquiry <ORG>, hereinafter called the '<ORG>' devoted a good deal of labour and attention to the matter of fixing a fair price of the three cars.
+Fact	Its report consists of two volumes.
+Fact	The first volume contains the main report and the second volume, contains the appendices.
+Fact	The <ORG> in its report has adverted to the historical background in which the car industry came to be controlled in our country.
+Fact	it will be useful to notice the salient facts.
+Fact	Till the year 1928 motor vehicles were purchased directly from abroad or through agents and dealers in India.
+Fact	From 1928 till the early forties <ORG> and <ORG> used to assemble trucks and cars from components imported from United States in completely knocked down condition called C.K.D.
+Fact	by way of abbreviation.
+Fact	<ORG> Calcutta and t he Premier Automobiles Ltd., Bombay, two of the petitioners before us, were established in 1942 and 1944 respectively with a programme for progressive manufacture of complete automobiles.
+Fact	These companies entered into technical collaboration with foreign manufacturers as did <ORG> In the industrial Policy Resolution of 1949 of <ORG> automobiles and trucks were classed among industries of importance which would be subject to regulation and control by <ORG>.
+Fact	In 1949 the Government decided that the import of vehicles should be allowed only in C.K.D.
+Fact	condition.
+Fact	In March 1952 the Government asked <ORG> to enquire into the question of grant of protection to the automobile industry in India.
+Fact	<ORG> submitted its report in 1953 recommending that only those companies which had an approved manufacturing programme should be allowed to continue their operations which recommendation was accepted by the Government.
+Fact	In Augus t 1955 <ORG> asked <ORG> to enquire into and recommend the fair ex-works and selling prices of the automobiles.
+Fact	<ORG> submitted its report in October 1956.
+Fact	According to that report the margin between the current net dealer's price and ex-works cost of the cars and trucks produced by the approved manufacturers could not be regarded as excessive.
+Fact	it considered that a rigid system of price control was not likely to have a healthy effect on the development of the industry.
+Fact	The interest of the consumers could be properly protected if investigations were held after certain intervals in order to see that excessive prices were not actually charged although the manufacturers were left free to charge prices at their discretion.
+Fact	The Government took a decision to enforce an "informal price control" on automobiles which was accepted by the manufacturers.
+Fact	The manufacturer was free to revise the price from time to time according to the variation in the cost but had to give a  month's notice of any variation to the Government so that if the change proposed was prima facie unreasonable the Government could intervene.
+Fact	The net dealer's price was not to exceed the ex-works cost by more than 10%.
+Fact	Within a few years of the imposition of the informal price control the situation in the country changed owing to the scarcity of foreign exchange.
+Fact	The Government had to curtail foreign exchange allocation for the import of automobile components with the result that only three out of the then existing six models of passenger cars were left in regular production.
+Fact	The Government considered it necessary to introduce a Distribution Control Order which required the dealer to deliver vehicles in the order of registration and without discrimination.
+Fact	A committee was appointed consisting of <NAME> as Chairman and other experts to review the progress of the automobile industry and to.
+Fact	recommend measures in the matter of reduction of cost etc.
+Fact	<ORG> submitted its report in January 1960 .
+Fact	According to the findings of that <ORG> there had been neglect and inefficiency in production owing to there being hardly any competition.
+Fact	The <ORG> felt that greater discipline was called for both so far as ancillary and the main producers were concerned.
+Fact	As regards the taxation policy the <ORG> felt that "lower level of taxation per vehicle would stimulate more demand for them".
+Fact	The Government in May 1966 remitted the question of further continuance of protection being accorded to the automobile industry to <ORG> and also directed that <ORG> to enquire into the cost structure and the fair selling price of different types of automobiles.
+Fact	The Tariff <ORG> made comprehensive recommendations and it was on the basis of its recommendations that the Order was issued in September 1969 fixing the prices of the three cars.
+Fact	In July 1967 the Government had also directed an investigation under s. 15 of the Act into the quality of the three cars by a <ORG> headed by <NAME> nde.
+Fact	The <ORG> was to look into the complaints relating to deterioration in quality and other allied matters including the part.
+Fact	played by the ancillary and other industries.
+Fact	<ORG> submitted its report in December 1967.
+Fact	It recommended inter alia that there should be a separate <ORG> and that components carrying <ORG> certification marks should be preferred.
+Fact	In November 1968 the <ORG> set up a team of experts headed by Dr. <NAME> the then Director-General of <ORG>.
+Fact	534  This team was required to examine the "internal experts organisation" of the three car makers and to make recommendations for strengthening them.
+Fact	<ORG> endorsed the view of the earlier <ORG> with regard to the establishment of technical audit cells.
+Fact	These cells were to be established for watching the interest of the consumers and ensuring improvement in quality of cars which were being manufactured by the, three petitioners.
+Fact	The pr ocedure followed by the <ORG> may be briefly noticed.
+Fact	It invited by means of a detailed questionnaire full information from the car manufacturers, dealers, consumers and others interested in the inquiry.
+Fact	It appointed a team of Cost Accountants and another team of technical experts besides a Chartered Accountant.
+Fact	These teams studied and collected data from each of the three manufacturing units and examined their manufacturing processes.
+Fact	The cost structure and activities of some of the ancillary producers and dealers of automobiles were also studied apart from visits to the manufacturing units.
+Fact	The <ORG> examined witnesses who were produced by <ORG>, the consumers, the dealers and the manufacturers.
+Fact	We may next refer to the principles and methods of costing which were followed by the <ORG>.
+Fact	The cost of a commo- dity consists of these elements : direct material, direct wages, services, depreciation and manufacturing, administrative and selling overheads.
+Fact	In case of an automobile a lar ge number of components which undergo different manufacturing processes have also to be taken into account.
+Fact	The <ORG> decided to recommend a fair price for two periods, (1) as in September 1969 and (2) as in July 1970.
+Fact	It was considered necessary to determine the price in September 1969 because the impugned order was promulgated at that time.
+Fact	It,, however, adopted two different principles in the matter of computing the cost on the aforesaid two dates.
+Fact	For the September 1969 prices the computation was done according to what may be called the historical method.
+Fact	This meant that not only the prices in September 1969 were kept in view but also the value of pending stocks of raw materials and the average of the price at which purchases had been effected at that time were taken into, account.
+Fact	The prices for July 1970 were computed on the basis of the actual cost obtaining in the month of July 1970.
+Fact	The following principal factors were considered relevant for the fixing of a fair selling price :  (1) capacity of  production.
+Fact	(2) quality.
+Fact	(3) norms of rejection.
+Fact	535  (4) depreciation.
+Fact	(5) bonus.
+Fact	(6) warranty.
+Fact	(7) interest on borrowings.
+Fact	(8) return.
+Fact	The <ORG> finally came to the conclusion that the fair prices of the three cars should be the following.
+Fact	FIAT September 1969 July 1970 Ex-works cost Rs.12,283.00 13,564.00 Return Rs.1,168.00 Rs.1,223.00  -------------------------------------  Ex-factory Rs.13,451.00 Rs.14,787.00 Price STANDARD HERALD September 1969 July 1970 Ex-works cost Rs.13,236.00 Rs.13,989.00 Return Rs.1,274.00 Rs.1,231.00  -------------------------------------  ex-factory Rs.14,510.00 Rs.15,220.00 price AMBASSADOR.
+Fact	September 1969 July 1970 Ex-works cost Rs.12,152.00 Rs.14,299 00 return Rs.1,364.00 Rs.1,470.00  Total ex-factory price Rs.13,516 .00 Rs.
+Fact	15,769 .00  We may at this stage state certain preliminary matters which will facilitate the comprehension of our discussion on various points.
+Fact	Firstly, certain terms may be explained.
+Fact	'Ex-workS' cost means the cost incurred in the factory o f the manufacturer including all materials, parts and components.
+Fact	'Return' means the total return to the manufacturer on the capital employed.
+Fact	'Ex-factory Price' consists of the ex-works cost plus the return.
+Fact	'Retail Price' would be the price arrived at by adding the dealer's commission or what is called 'mark up'.
+Fact	The consumer has further to pay excise duty, surcharge and sales tax.
+Fact	Counsel for all the parties and the learned Attorney General are agreed that irrespective of the technical or leGal points that may be involved we should base our judgment on examination of correct and rational principles and should direct deviation from the report of the <ORG> which was an expert body presided over by a former judge of <ORG> only when it is, shown that there has been a departure from established principles or the conclusions of the <ORG> are shown to be demonstrably wrong or erroneous.
+Fact	536  The following table will illustrate the price of <ORG> car in Bombay based on July 1970 figure payable by  a consumer as also the comparison with the prices contended for by <ORG> and the government.
+Fact	----------------------------------------------------------- Description As recommen- As per As contended ded by the submissions by the <ORG> made by the government Petitioner <ORG>)  -----------------------------------------------------------  Ex-factory price Rs.14,787.00 Rs.15,793.00 Rs.14,017.00 dealer's mark-up Rs.900.00 Rs.900.00 Rs.900.00 Retail price Rs.15,687.00 Rs.16,693.00 Rs.14,917.00 excise duty on built-up car Rs.1,478.70 Rs.1,579.00 Rs.1,401.70 Surcharge on excise duty Rs.492.90 Rs.526.00 Rs.467.23 Maharashtra sales  tax on built-up car Rs.2,011.03 Rs.2,147.84 Rs.1,906.31  --------------------------------------- PRICE TO THE CONSUMER Rs.19,669.63 Rs.20,946.57 Rs.18,692.24  -------------------------------------------- It has not been disputed that 46% of the ex-works (ex- factory, according to the <ORG>) cost payable by the consumer is accounted for by excise duties  and taxes levied by the <ORG> and the State Governments including those on the components.
+Fact	Out of the total price payable by the consumer 30% goes into duties and taxes.
+RulingByLowerCourt	There is also a general impression that it is the car manu- facturers that are responsible for the seemingly exorbitant prices of the cars.
+RulingByLowerCourt	It will not be out of place to notice a few observations of expert bodies about taxation which, as noticed above, forms at least one third part of the price of a car.
+RulingByLowerCourt	<ORG> in its third report published in 1968 recorded that high prices of the vehicles were due mostly to the existing multiple taxes on the automobiles at different stages of production and sale.
+RulingByLowerCourt	It had recommended a reduction in the burden of taxation which would lead to reduction in the prices of cars.
+RulingByLowerCourt	<ORG> had emphasized the same in 1960 and had pointed out that taxation was a burden on the consumer rather than on the producer.
+RulingByLowerCourt	The <ORG> has said in its main report at page 292 :  "The incidence of tax  on a car is very heavy inasmuch as it constitutes 46% of the ex- factory price.
+RulingByLowerCourt	The car is no longer an item of luxury and under the existing conditions it is fast becoming an item of necessity.
+RulingByLowerCourt	537  That being so, there is a case for giving some relief out of the excise duties and other levies which are by their nature, multi-point taxes causing hardship".
+RulingByLowerCourt	The following main points have been raised by Mr. <NAME> and have been adopted by the counsel for the other petitioners.
+RulingByLowerCourt	The figures etc.
+RulingByLowerCourt	as given by the <ORG> have not been disputed.
+RulingByLowerCourt	1.The <ORG> has taken the production capacity at an excessive figure and has thus artificially reduced the cost.
+RulingByLowerCourt	2.
+RulingByLowerCourt	Cost and expenses on account of warranty and statutory bonus have been wrongly excluded from the ex-works cost.
+RulingByLowerCourt	3.
+Fact	In fixing the cost for September 1969 even the actual admitted cost found by the <ORG> has not been taken into account and the price has been fixed on the historical cost.
+Fact	In fixing the price for July 1970 the projected  and estimated cost for the future has been ignored.
+RatioOfTheDecision	4.
+RatioOfTheDecision	No provision has been made for an escalation clause in order to ensure that the prices fixed will ensure for a reasonable period of time.
+RatioOfTheDecision	5.The return which has been allowed is wholly inadequate on the admitted and proved facts.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Depreciation of plant and machinery has been allowed on the basis of original cost whereas it should have been allowed on the replacement value or on the peculiar facts of the case.
+RatioOfTheDecision	We propose to deal with the first point relating to produc- tion capacity last.
+RatioOfTheDecision	On point no.
+RatioOfTheDecision	2 the <ORG> was of the view that warranty expenses and bonus should appropriately be included in the return and not in the ex- works cost.
+RatioOfTheDecision	It is well known that the car manufacturers in India as elsewhere furnish a warranty covering the cars sold.
+RatioOfTheDecision	Under the warranty all defects on account of faulty manufacture in workmanship have to be set right and the defective parts have to be replaced, free of cost by the manufacturer or his dealer Within a spe cified period or a given distance traveled by the car.
+RatioOfTheDecision	During the period of warranty which is now for one year three free services have to be rendered.
+RatioOfTheDecision	The car owner has to pay the cost of consumable items like oil, grease, packing etc.
+RatioOfTheDecision	during those free services.
+RatioOfTheDecision	The car manufacturers enter into an agreement with the manufacturers of components providing for a warranty so far as the components 538 .
+RatioOfTheDecision	supplied are concerned.
+RatioOfTheDecision	As has been rightly observed by the <ORG> the whole object behind the warranty is that the consumer who has to make a heavy investment should be assured of a proper performance of the vehicle "in a trouble-free manner for a reasonable length of time."
+Fact	On behalf of the petitioners it has been urged that according to various experts on costing including the Costing team appointed by the <ORG> the expenses which 'are to be incurred on account of the warranty should appropriately be included in the ex-works cost.
+Fact	(<NAME>, Professor and Chairman of <ORG> , <ORG>, <ORG> in "The Accountants' Hand Book', and <NAME> in "Principles and Practice of Cost Accounting" as also <NAME>, Lecturer in Cost Accountancy, <ORG> in "Cost Accounting Methods & Problems").
+Fact	The <ORG> was of the view that many of the ancillary manufacturers cover their supplies to the car manufacturers with a warranty and are liable to replace the defective parts free of cost.
+Fact	The manufacturers are expected to use only those components which are of a standard quality.
+Fact	By improving the method of quality control and incidence of expense on account of warranty can be reduced and.
+Fact	can, be absorbed in the return.
+Fact	According to the learned Attorney General the matter relating to inclusion of warranty charges in the ex-works cost is no longer res-integra.
+Fact	The report, of <ORG> (known as <ORG>), made a recommendation that the warranty should be made un iform for all the three motor cars and no cost of replacement including incidentals should be passed on to the customer.
+RulingByLowerCourt	This Committee was appointed by a resolution of <ORG> dated February 12, 1968 in exercise of the powers conferred by s. 15 of the Act.
+RulingByLowerCourt	Pursuant to the recommendation of this Committee an order was promulgated by <ORG> in March 1968 under S. 16 of the Act which was to the following effect "The warranty with which cars are sold shall be, uniformly valid for a- period of, 12, months or, a distance covered.
+RulingByLowerCourt	of 16,000 kms., whichever occurs earlier.
+RulingByLowerCourt	All defects, due to faulty manufacture of workmanship shall be rectified and defective parts replaced during this period without passing any part of the burden including incident charges to the customer".
+RulingByLowerCourt	The effect of the above direction cannot be ignored although it may not be conclusive in the matter of fixing a fair price.
+Argument	We find the statement of the <ORG> unexceptionable that if the warranty is to be mad e out of the profits every manufacturer will try to minimise warranty cost by improving the quality of his product.
+Argument	If it is to be included in the ex-works cost it means virtually passing it on to the consumer.
+Argument	A good deal has been said on behalf of <ORG> with regard to figures taken by the <ORG> as warranty charges.
+Argument	It has been pointed out that although the cost of parts amounting to Rs.
+Argument	80/- or 81/- per car has been taken into account in the return but the labour charges which would amount to Rs.
+Argument	120/- per car and which, according to the <ORG>'s report, have to be borne by the manufacturer have not been taken into account even in the return.
+Argument	It has been urged that if the manufacturers have to bear the labour charges the amount of Rs, 120/- per car should have.
+Argument	been taken into account.
+Argument	The position is much simpler about <ORG> because there the cost as well as the labour charges amount to Rs.
+Fact	80/-per car.
+Fact	As regards the Ambassador it was claimed that a sum of Rs.
+Fact	17 6/- per car was the cost of the parts alone but the was being supplied by the dealers.
+Fact	As we agree, with the <ORG> that the entire cost on account of warranty in.
+Fact	elusive of labour charges should be borne by the manufacturers, it is wholly unnecessary for us to refer to any specific figures except that while considering the question of return the general idea relating to cost to the manufacturers would certainly be borne in mind and taken into consideration.
+Fact	We shall next deal with the, question of bonus payable to the employees which has been included in the return by the <ORG>.
+Fact	The case of the manufacturers is that bonus is an expense which is necessarily incurred in the manufacture and it should be treated as part of, the ex-works cost.
+Fact	It has been so treated under the Income tax Act 1961 as well as under the Companies Act 1956.
+Fact	Even if the 'entire amount of bonus is not allowed as part of the cost the manufacturers' claim that the minimum bonus which, at present, is compulsorily payable at the  rate of 4% under s. 10 of the Payment of Bonus Act 1965 should be allowed as a part of the cost because the manufacturers have to pay the same even when they do not make any profits.
+Fact	<ORG> in its recent report on the Price Structure of Man-Made Fibre and Yarn Industry has accepted the view that entire bonus upto the limits prescribed should form part of the ex-works cost.
+Fact	<ORG> have made a settlement with the workmen regarding the payment of bonus for the years 1969- 70, 1970-71.
+Fact	In the year 1969-70 the amount payable to the workmen under that settlement comes: to 8 % of the wages and salaries and for the year 1970-71 it works out to 9%.The bonus, it has been pointed out, in the present context is an integral part of the wage structure and must be treated as part of the cost of production.
+Fact	Reliance has been placed on the working of the <ORG>'s Cost Accounting Team itself according to which bonus was included as item no.
+Fact	7 in the various items which made up the ex-works cos t. In the study prepared in collaboration with <ORG> called "Price Fixation In Indian Industry" it is stated that bonus to employees is in practice regarded both by them and by <ORG> as additional emoluments legitimately forming part of the wage structure.
+Fact	According to the <ORG> in the past bonus was never Allowed as a part of the cost of manufacture.
+Fact	In the previous <ORG> 1968, bonus was included in the return.
+Fact	<ORG> has been dealing with various industries according to the circumstances peculiar to that industry.
+Fact	It accepted minimum bonus as part of cost in the Fibre and Rayon industry.
+Fact	But it included it in the return in its report on alcohol and catguts.
+Fact	It is said that if bonus is added to the cost it will be a part of the working capital and so the manufacturer will get the benefit twice over.
+Fact	In our judgment the question whether bonus is linked with profits or  cost stands concluded by the, provisions of the Bonus Act itself as also the decision of this court in <CITATION_493792> (1).
+Statute	According to s. 10 of that Act every employer shall be bound to pay to every employee in an accounting year a minimum bonus which shall be 4 % of the .salary or the wage earned by the employee during the accounting year or forty rupees whichever is higher whether there are profits in the accounting year or not.
+Statute	Under s. 1  1 where allocable surplus exceeds the minimum amount payable under s. 10 it is payable in proportion to the salary or wage earned by the employee during the accounting- year, the maximum limit being 20%.
+Statute	In computing the allocable surplus the amount set on ,or the amount set off under the provisions of s. 15 has to be taken into account.
+Statute	According to s. 2(b)  60 % of the available .surplus falls within the allocable surplus.
+Statute	Available surplus has to be computed under s. 5 .
+Statute	Under that section the available surplus in respect of any accounting year shall be the gross  profit for that year after deducting therefrom the sums referred to in s. 6 .
+Statute	Section 6 provides for the deduction from the gross profits as prior charges.
+Fact	These deductions consist mainly of depreciation, development rebate and such.
+Fact	sums as are specified in respect of the employer in the third schedule.
+Fact	The companies are further entitled to deduct dividends payable to preference (1)  1 S.C.R.
+Fact	15.
+Fact	541  shareholders and a specified percentage of reserves from the gross profits.
+Statute	Section 15 deals with set off and set on.
+Statute	Where allocable surplus exceeds the maximum amount payable under s. 11 the excess has to be carried forward for being set on in the succeeding year upto the fourth accounting year.
+Statute	Where there is no available surplus in an accounting year or the allocable surplus falls short of the minimum bonus payable (4%) and there is no sufficient amount carried forward and set on from which minimum bonus can be paid, the same shall be carried forward for being set off in the succeeding year according to th e fourth schedule.
+Statute	Section 10 of the Bonus Act at first sight may appear to be a provision for granting additional wage to employees but that section is an integral part of a scheme for payment of bonus at rates which do not widely fluctuate from year to year.
+Statute	This Act has thus provided that bonus in a given year shall not exceed one-fifth and shall not be less than 1/25th of the total earning of an employee.
+Statute	It has been ensured that the excess share shall be carried forward to the next year and that the amount paid by way of minimum bonus not absorbed by the available profits shall be carried to the next year and shall be set off against the profits of the succeeding year.
+Statute	The object of the Bonus Act is to make an equitable distribution of the surplus profits of the establishment with a view to maintain peace and harmony bet- ween the three agencies, (capital management and labour) which contribute to the earning of profits ( <CITATION_493792> (1).
+Fact	The <ORG> came to the correct conclusion that bonus is  connected with profits and it cannot be included in the ex- works cost.
+Fact	A good deal of criticism has been levelled on behalf of the manufacturers on the method followed by the <ORG> for determining the ex-works cost in September 1969 and July 1970.
+Fact	It has been submitted that for September 1969 the cost has been worked out on what may be called the historical method and for July 1970 the actual prices have been taken into account but the projected and estimated cost for the future has been ignored.
+Fact	It has been pointed out that historical costs are determined on the basis of the material which is already in the pipeline and which has been acquired at cheaper rates.
+Fact	Such a method has never been adopted and there is absolutely no justification for making a discrimination between the methods to be adopted for ascertaining the ex-works cost in September 1969 and in July 1970.
+Fact	The method which has always been adopted is of either taking the current prices or the projected prices.
+Fact	We have not been shown any aut hority or principle on which the method of calculating the ex-works cost on historical basis could be justifiably adopted for September 1969 when a different method was adopted for July (1) [1967] 1 S.C.R.
+Fact	15.
+Fact	L643SupCI/72 1970 cost.
+RatioOfTheDecision	We are of the view that the ex-works cost for September 1969 should have, been determined according to the current prices as was done with regard to July 1970.
+RatioOfTheDecision	As regards the projected cost which means a reasonable esti- mate of the rising cost in the minimum future (roughly 3 to 6 months) over and above the cost existing on a certain date a lot of criticism has been made on behalf of the manufacturers with regard to the <ORG> having totally ignored this principle.
+RatioOfTheDecision	We have not been shown anything from the reports of the Tariff <ORG> nor does it appear that it was seriously pressed before the <ORG> itself that the principle of projected costs should be applied while determining the ex-works cost of the cars in question.
+RatioOfTheDecision	In view of the provisions which we shall be m aking for fixing the price and also for escalation the principle canvassed for on the basis of the projected cost becomes immaterial and even otherwise in the circumstances of the case it cannot be applied.
+RatioOfTheDecision	We shall now deal with the necessity for an escalation clause.
+Argument	It has been pointed out by Mr. <NAME> that the prices of direct materials alone rose by Rs.
+Argument	140/- per <ORG> car in a couple of months.
+Argument	A comparison of the prices fixed for September 1969 and July 1970 further reveal how steeply the prices rose during the short period of nine months.
+Argument	According to Mr. <NAME> price fixation of the cars will be wholly futile unless there is a provision for escalation which means that the prices should be increased or decreased periodically according to the rise or decrease in the cost as also the various other factors which enter into price fixation.
+RulingByLowerCourt	For instance, in the <ORG> report 1965 on the revision of ceiling price of alcohol it has been observed that future estimates of costs of receified  spirit has been prepared for a period of the next three years on the basis of the actual cost.
+RulingByLowerCourt	In the <ORG> report on the fair selling price on Antimony provision was stated to have been made for enhancement in respect of wages and salary as also for anticipated increase in Dearness Allowance.
+RulingByLowerCourt	Similar provision for escalation was made in the <ORG> report 1966 on the price structure of catgut ball bearing and several other industries.
+RulingByLowerCourt	There are a number of increases, according to the manufacturer,,;, over which they have absolutely no control.
+RulingByLowerCourt	Mostly these consist of increases in excise duties, taxes, increase in the cost of imported and indigenous steel, in wages, dearness allowance, contributions to the provident fund, gratuity, employees State insurance and other emoluments to the employees who are governed by the Industrial law.
+RulingByLowerCourt	In addition to the increases in the cost of materials the cost of bought out components electricity, income tax etc.
+RulingByLowerCourt	have also to be taken into considerati on.
+RulingByLowerCourt	The manufacturers have pointed out with a good deal of force that they have -no control whatsoever over the increase in the prices of components which they have to buy from the ancillary manufacturers as the same are not subject to price control.
+RulingByLowerCourt	<ORG> which was appointed under s. 15 of the Act for investigation into the working of <ORG> observed in its report that general price level has been increasing in recent years and therefore the control of car prices without a matching control of the prices of the components would squeeze the manufacturers out unless they are compensated substantially by an enhancement of the car price.
+RulingByLowerCourt	Indeed it has not been disputed on behalf of the Government and the Attorney General quite properly and fairly accepts that some proper method should be devised for escalation or de-escalation, as the case may be.
+RulingByLowerCourt	We have been suggested a number of formulae on behalf of the manufacturers as also the government but we shall indicate at a later stage w hat, in our opinion, is the best and the simplest method of providing for escalation and de- escalation.
+RulingByLowerCourt	We are satisfied, however, that a provision should be made and ought to have been made by the <ORG> in this behalf.
+RulingByLowerCourt	The next point which is fairly controversial relates to the return which has been allowed by the <ORG>.
+RulingByLowerCourt	The manu- facturers are unanimous in saying that the return suggested by the <ORG> is wholly inadequate for the survival of the industry leaving aside its development.
+RulingByLowerCourt	The case of <ORG> is that the return does not permit any margin for repaying the heavy indebtedness of the company.
+Fact	Owing to the inadequate price fixed by the government even under the informal price control the company has been running into losses.
+Fact	Its total indebtedness on June 30.
+Fact	1970 came to Rs.
+Fact	7.29 crores.
+RatioOfTheDecision	This indebtedness has to be paid or at least provision made for it by the creation of reserves.
+RatioOfTheDecision	Unless reserves are created and the financial position of the company improves it may  not be possible for it to get any further loans because up till now it has been carrying on its business mainly on the borrowings.
+Fact	The return leaves no margin for wiping out the depreciation which comes to Rs.
+Fact	750.74 lakhs according to income tax rates and Rs.
+Argument	583.64 lakhs according to book depreciation.
+Argument	The <ORG> has not taken into consideration any provision for a cushion for the proposed increase in the rate of minimum bonus for which a persistent dialogue is going on all the time between the trade unions and the government.
+Argument	This will leave no return on the equity capital and would result in the company getting a net dealer price which would be less than its actual cost of production.
+Argument	Since <ORG> will have to pay the warranty charges there will be an additional liability of Rs.
+Argument	120/- per car on account of labour charges which when taken out of the return will reduce it substantially.
+Argument	The calculation made, according to the company on the figures worked out by the <ORG>, was that  the surplus left will provide a dividend of approximately 7% on the equity capital.
+Argument	The additional argument on behalf of <ORG> is that in computing the return the <ORG> has accepted the position that the following outgoing should go out therefrom : (a) interest on borrowings; (b) minimum bonus of 4%; (c) other financial charges; (d) warranty claims; (e) dividend on preference shares; (f) tax liability.
+Argument	According to the <ORG> if a return of 16% on the capital employed is given the corresponding dividend to the equity shareholders will work out at 10%.
+Argument	<ORG> has to pay total bonus for the years 1969-70 at the rate of 8%.
+Argument	It is essential that the company sets aside a minimum of 3% on the capital employed for the purpose of replacement and rehabilitation for which no provision has been made.
+Argument	After taking out all these items it will be impossible to give a 10% dividend to the equity shareholders.
+Argument	<ORG> have put in a chart showing that after ,deducting all the  items in accordance with the method laid down by the <ORG> for working out the return only such amount will be left as will enable the payment of dividend at the rate of 9.2% on the equity capital allocable to the car activity.
+Fact	This statement, however, has been arrived at on the basis of the capacity of 4,000 cars and 1,000 trucks as determined by the <ORG>.
+Fact	If, however, the capacity is reduced to 3,400 cars and 1,000 trucks as claimed by the company the dividend payable to the equity shareholder will be at the rate of 12% but then there will be no provision for development and future expansion or for wiping off the arrears of depreciation which amount to Rs.
+Fact	42.32 lacs.
+Fact	The learned Attorney General while agreeing that a reason- able return must be allowed to the manufacturers has submitted that the entire background in which the automobile industry in India came to receive protection and the way it has developed as also the defects which have been found in its working together with the unsatisfact ory nature of the quality of cars produced and the gradual deterioration of their performance must be taken into account while fixing the return.
+Fact	The main outlines of the special historical background are : (a) protection-external and internal resulting in monopoly of the three cars manufacturers; (b) government policy to develop the automobile industry as a whole relating to the three car manufacturers including cars, trucks, components and spare parts.
+Fact	All these involve large outlay of 5 45 foreign exchange and the object must be to conserve the same in the interest of the country; (c) necessity of efficiency and economy in the production and control over prices in that behalf; (d) necessity of improvement of the quality of product and of services to the consumers.
+Fact	According to the informal price control the factory price charged to the dealers could not exceed the ex-works cost by more than 10%.
+RulingByLowerCourt	This necessarily included all the items which are to be found as constituting the return in the report of the <ORG> mmission.
+RulingByLowerCourt	Our attention has been drawn to reports of various <ORG> according to which there were defects in production and there was neglect of economy and efficiency.
+RulingByLowerCourt	The accounts were also not being maintained by all the manufacturers on a proper basis from which costs could be worked out satisfactorily.
+RulingByLowerCourt	A large number of unskilled workers were being employed.
+RulingByLowerCourt	<ORG> in its report of 1968 in respect of fair selling price of automobiles considered that a return of 12% of the capital employed would be reasonable and fair.
+RulingByLowerCourt	The <ORG> was of the view that profit margin to be allowed to an industry has little or no direct relation to the cost of the product.
+RulingByLowerCourt	If the profit is determined as a percentage on the ex-works cost the higher the cost the higher will be the profit.
+RulingByLowerCourt	This will leave little or no incentive to manufacturer to effect economies in the cost of production or exercise control over the manufacturer's expense.
+RulingByLowerCourt	In determining a fair margin of profit consideration has to be gi ven to the capital employed and a fair return for such capital including a provision for outgoing like interest on loans, minimum bonus etc.
+RulingByLowerCourt	must be assured.
+RulingByLowerCourt	The quantum of return has essentially to vary from industry to industry.
+RulingByLowerCourt	This would require ascertainment of capital employed with regard to production of cars.
+RulingByLowerCourt	The <ORG> took the figures from authentic sources i.e.
+RulingByLowerCourt	the report of <ORG> and an analysis carried out by <ORG> with regard to the return which was being earned by the various public companies on the capital employed.
+RulingByLowerCourt	After taking the maximum return which an investor can expect from fixed deposits and other relevant factors into consideration the <ORG> was of the view that a dividend of 10% to the equity shareholder after providing for the tax liability of the company and other outgoing would be fair and reasonable.
+RulingByLowerCourt	The outgoing which are to be met out of the return are (1) the actual interest on borrowings; (2) the minimum b onus; (3) other financial charges; (4) warranty charges and in case of <ORG> the guarantee commission paid on loans obtained from foreign sources and difference in exchange.
+RulingByLowerCourt	After making provision for these outgoing, the dividends on preference shares, if any the tax liability of the company and a return of 10% on equity share capital, the total profit of the company as a whole was calculated which when related to the capital employed of the respective companies worked out to 15.43% in the case of <ORG>, 16.22% in that of <ORG> and 17-36% in <ORG>.
+RulingByLowerCourt	Considering the above and taking an over all view of the car industry 16% return on capital employed was considered to give a reasonable return to the car manufacturer.
+RulingByLowerCourt	We have already referred to the criticism of the car manu- facturers with regard to the manner in which the return has been worked out.
+RulingByLowerCourt	It is true that the return to the equity shareholders of all the three companies may not be uniformally 10% and ma y be considerably less in the case of <ORG> but it is not possible to make any distinction or discrimination between the three manufacturers.
+RulingByLowerCourt	We do not consider that a separate rate of return should be fixed when dealing with the automobile car industry as a whole.
+RulingByLowerCourt	At first sight it may appear that a return of 16% on the capital employed is a very large return but as we have pointed out, this return includes numerous items which reduce the ultimate return to the equity shareholder to a percentage which, even according to the <ORG>, on an average cannot exceed 10%.
+RulingByLowerCourt	Learned counsel appearing for the car manufacturers have vehemently pressed for exclusion of warranty and bonus charges from the return and for their inclusion in the ex-works cost.
+RulingByLowerCourt	It was ultimately stated at the bar that if that was done the return as fixed by the <ORG> would be acceptable.
+RulingByLowerCourt	We are, however, unable to accede to this submission.
+RatioOfTheDecision	We have given our careful thought to the principles which the <ORG> has fol lowed in fixing the return and in our judgment the return granted is a reasonable one keeping in view the entire circums- tances.
+RatioOfTheDecision	At the same time we consider return at 12% wholly inadequate when all the items that the <ORG> has mentioned have to be paid out of it.
+RatioOfTheDecision	Moreover a total return at 16% will leave some margin if proper economies are effected by the manufacturers for replacement and rehabilitation and improvement of the plant and machinery.
+RatioOfTheDecision	According to the principles discussed or to be discussed in the matter of fixing of a fair price the main objective is to protect the interest of the consumer while at the same time provide a reasonable margin of profit to the producer.
+RatioOfTheDecision	The general approach has to be to determine the ex-works cost and then to arrive at the fair price after examining other claims of the industry and providing a reasonable return.
+RatioOfTheDecision	We, therefore, find no such principle which has been demonstrated to be wrong in the report of the <ORG> so far as the fixation of the return is  concerned.
+RatioOfTheDecision	The next question is whether the <ORG> has erred in allowing depreciation on the actual cost and not on the replace-  547  ment value.
+RatioOfTheDecision	Depreciation, it has been pointed out, has been allowed in accordance with the formula laid down in the Indian Income tax Act 1961 but the provisions of the Act are inadequate to provide funds for replacement of the assets.
+RatioOfTheDecision	Since the provision of depreciation is intended to enable replacement of the worn out assets it is argued on behalf of the car manufacturers that the <ORG> ought to have allowed depreciation at the rate which would have enabled the replacement of the assets.
+RatioOfTheDecision	This is particularly so when prices are rising.
+RatioOfTheDecision	The Tariff <ORG> has in certain cases allowed special depreciation in lieu of replacement cost.
+RatioOfTheDecision	In "Price Fixation in Indian Industry" to which reference has already been made at an earlier stage it has been mentioned that special depreciation was allowed in addition to the normal depreciation in case of pig iron, steel, cement a nd rubber tyre and tubes by <ORG>; (see pages 179, 180, 183 and 190).
+RatioOfTheDecision	<ORG> in its report made in August 1967 dealt with the topic of calculation of deprecia- tion on the basis of replacement cost particularly in view of the rising prices.
+RatioOfTheDecision	It was pointed out that there are practical difficulties in adopting the principle of replacement cost.
+RatioOfTheDecision	One of these is the absence of reliable and accurate indices of changes in the replacement cost of machinery and plant.
+RatioOfTheDecision	That <ORG>, therefore, generally did not favour deviating from the practice adopted by the.
+RatioOfTheDecision	income tax authorities in calculation of depreciation.
+RatioOfTheDecision	The <ORG> was of the view that depreciation on account of the use of the assets in any undertaking is quite distinct and separate from rehabilitation replacement.
+RatioOfTheDecision	The whole question, according to the <ORG>, has to be determined with reference to the context or the purpose for which the deprecation is being computed.
+RatioOfTheDecision	For working out the fair price  of the car the expenses incurred by the manufacturers in producing their products have to be taken into account and therefore only the actual cost and not the estimated replacement cost can be considered.
+RatioOfTheDecision	The <ORG> was not satisfied that on account of rise in the prices of assets the manufacturers would not be in a position to replace the plant and machinery with funds available to them.
+RatioOfTheDecision	The <ORG> said "if the manufacturers were to keep apart not only the amount of depreciation but also the development rebate and other reserves to which they are entitled under the various tax and other laws and invest them separately or even in their business the question of there being any difficulty later on does not arise.
+RatioOfTheDecision	Depreciation funds with the amount thus provided for can be built up and these can be invested whether inside or outside the business"; (main report p. 65).
+RatioOfTheDecision	The <ORG> referred to the opinion of <ORG> in England which was against the proposal to base the cha rge for depreciation on replacement cost.
+RatioOfTheDecision	<ORG> had also not accepted the contention of the manufacturers that depreciation allowance should be calculated on replacement cost.
+RatioOfTheDecision	The depreciation which is allowed under the tax laws is very liberal and we see no reason to pass on the burden to the present consumer who is not likely to get any benefit out of the replacement proposed to be provided for by the manufacturers.
+RatioOfTheDecision	Moreover capital reserves with <ORG> and <ORG> are substantial.
+RatioOfTheDecision	Although the position of <ORG> is different and it can hardly draw upon its reserves but the <ORG> was an expert body and it did not choose rightly to make any distinction between the three manufacturers as the principles should be such as are applicable to the car industry as a whole.
+RatioOfTheDecision	We are unable to find any serious infirmity or flaw in the reasoning or the conclusion of the <ORG> on the question of depreciation.
+RatioOfTheDecision	We shall now proceed to consider the question  of the capacity of production.
+RatioOfTheDecision	Two rival views have been put forward on this point.
+RatioOfTheDecision	On behalf of the car manufacturers it has been maintained that for the purpose of fixing the fair price under s. 18G of the Act the actual figures of production should alone be taken into consideration and the optimum capacity for production must be disregarded as an irrelevant factor.
+RatioOfTheDecision	On the other hand it has been maintained on behalf of the government that it is always essential in the matter of fixation of fair price to determine the capacity of production which must mean at least achievable capacity even if not the maximum capacity.
+RatioOfTheDecision	Section 15 of the Act empowers <ORG> to cause investigation to be made into the scheduled industries, automobile industry being one of them.
+Statute	Clause (a) (i) of s. 15 provides for full investigation to be made where <ORG> is of the opinion that there has been or is likely to be a substantial fall in the volume of production for which, having regard to the econom ic conditions prevailing, there is no justification.
+Statute	Under s. 16 <ORG> on completion of investigation under s. 15 can issue such directions to the industrial undertakings as may be appropriate in the circumstances.
+Statute	Clause (a) of sub-s. (1) relates to directions which can be issued for regulating the production of any article or class of articles by the industrial undertaking and fixing the standard of production.
+Argument	According to Mr. <NAME> if <ORG> was of the view that there has been substantial fall in the volume of production investigation could be caused to be made under s. 15 and directions could be issued under s. 16 .
+Argument	Section 18G confers power in the matter of control, supply, distribution, fair price etc.
+Argument	of articles relatable to any scheduled industry.
+Statute	Under sub-s. (2) a notified order may provide for controlling the price at which any such article or class thereof may be bought or sold.
+RatioOfTheDecision	While fixing a fair price under S. 18G no question can arise about the optimum o r achievable capacity of production which would be relevant only for the purpose of ss.
+RatioOfTheDecision	15 and 16 of the Act.
+RatioOfTheDecision	A lot of emphasis has been placed on the different objects and purposes for which ss.
+RatioOfTheDecision	15 , 16 and 18G respectively have been enacted.
+RatioOfTheDecision	This provision, it is said, is meant to prevent profiteering and what is intended is that the actual production and the quality of articles which are being produced have alone to be taken into consideration and a fair price has to be fixed accordingly.
+RatioOfTheDecision	The learned Attorney General says that s. 18G does not contain any limitations which have been suggested on behalf of the car manufacturers.
+RatioOfTheDecision	It is to be found as the first section in Chapter III-B which is headed "control of supply, distribution, price etc.
+RatioOfTheDecision	of certain articles".
+RatioOfTheDecision	In a free market the position is quite different but when fair price has to be fixed the cost of production has to be taken into account and the price should be such that a fair return is provided for.
+RatioOfTheDecision	The cost of production must be with a view to  economy and efficiency.
+RatioOfTheDecision	Moreover the non-obstante clause in s. 18G(1) shows that this section stands by itself.
+RatioOfTheDecision	The history of price fixation in India is now new.
+RatioOfTheDecision	The Defence of India Rules provided for it Rule 8 1 (2) (b) as far back as 1939.
+RatioOfTheDecision	These rules ceased to have effect on September 30, 1946.
+RatioOfTheDecision	The Essential Supplies (Temporary powers) Ordinance 1946 was enacted on September 25, 1946 which was followed by the Act of 1946.
+RatioOfTheDecision	There are numerous Acts which were enacted for the purpose of fixation of prices, e.g., Supply and Prices of Goods Act 1950, Tariff Commission Act 1951 and the Act.
+RatioOfTheDecision	The Essential Commodities Act 1955 was enacted containing the provisions in which under s. 3(2) the prices of essential commodities could be controlled.
+RatioOfTheDecision	The function of ss.
+RatioOfTheDecision	15 and 16 of the Act is different from that of s. 18G .
+RatioOfTheDecision	Those sections deal with specific matters on which the government can cause investigation to be made for the purpose of issuing appropriate directions including control of prices and those two secti ons are meant primarily for development and regulation of an industry.
+RatioOfTheDecision	There is a good deal of force in what the Attorney General says.
+RatioOfTheDecision	But in our opinion it is unnecessary to express our view in any great detail in the matter.
+RatioOfTheDecision	In our judgment the very concept of fair price which can be fixed under s. 18G takes in all the elements which make it 'fair' for the consumer leaving a reasonable margin of profit to the manufacturer without which no one will engage in any manufacturing activity.
+RatioOfTheDecision	Capacity utilisation of a manufacturing unit, the quality of its product and the maintenance of proper standards at various levels of production are all relevant factors for the determination of the price.
+RatioOfTheDecision	Capacity utilisation, however, has to be on the basis of what can be reasonably achieved keeping in view always the practical side.
+RatioOfTheDecision	it is common ground that the achievable capacity for production will be an important factor in the matter of fixation of fair price.
+RatioOfTheDecision	The larger the production the less the cost and vice versa.
+RatioOfTheDecision	We shall, therefore, have to determine whether the conclusions of the <ORG> with regard to the capacity of the three manu- facturing units for production are based on a correct appraisal of material facts and principles.
+RatioOfTheDecision	As regards <ORG> the <ORG> has assumed, erroneously, accordingly to Mr. <NAME>, an achievable capacity for production of 13,300 cars per year in September 1969 and 14,000 cars in July 1970.
+RatioOfTheDecision	It is claimed that the cost has been reduced by the above process by Rs.
+RatioOfTheDecision	301/- per car for July 1970.
+RatioOfTheDecision	On behalf of <ORG> it had been urged before the <ORG> that its average level of production per year was 12,000 cars and 5,000 commercial vehicles and this was likely to be the future capacity so long as there was no expansion of plant and machinery.
+RatioOfTheDecision	According to the government, however, the existing capacity of <ORG> was not less than 15,000 to 16,000 cars and 7,000 commercial vehicles per year.
+RatioOfTheDecision	The <ORG> relied mainly on certain let ters and applications addressed by <ORG> in the matter of obtaining licenses for import etc.
+RatioOfTheDecision	from September 1969 to October 1970 as also the evidence of Brigadier <NAME> the General Manager of the <ORG>.
+RatioOfTheDecision	<ORG> fixed the capacity of production of commercial vehicles at 6,000 and that of cars at 14,000 for July 1970.
+RatioOfTheDecision	As regards September 1969 it considered that the capacity should be fixed at the level which was 5% less than the level determined for July 1970.
+RatioOfTheDecision	The figures thus came to 13,300 cars and 5.700 commercial vehicles per annum.
+RatioOfTheDecision	It appears to us that the <ORG> ignored material facts and circumstances in arriving at the conclusion relating to the capacity for September 1969.
+RatioOfTheDecision	In matters of such nature the figures given in the applications for grant of import licence etc.
+RatioOfTheDecision	can hardly be decisive.
+RatioOfTheDecision	There is a good deal of force in the suggestion of Mr. <NAME> that when such applications are made the applicant is prone to give higher figures in order to obtain the m aximum permissible quantity of the material sought to be imported.
+RatioOfTheDecision	The figures are sometimes exaggerated as it is anticipated that they are not likely to be accepted and the license would be issued only for a lesser quantity.
+RatioOfTheDecision	For the purpose of determining the capacity it is essential that for the material period it should be ascertained for how many cars import licenses were granted.
+RatioOfTheDecision	If they were granted for only 12,000 cars per year it will be futile to assess the capacity at a higher figure because in the very nature of things it would be impossible for the manufacturer to produce more cars.
+RatioOfTheDecision	From the statements which have been produced under our directions relating to the applications which were made and the import licenses which were granted the position appears to be as follows :  <ORG> asked for the material on the basis of production of 4,500 cars for the first half year from April 1966 March 1967.
+Fact	This application was made on May 13, 1966.
+Fact	Later on in the course of correspondence the  Director General, <ORG>, was informed that it was pro- posed to raise the production of cars to 1,000 per month from February 1967.
+Fact	The import licenses are admittedly granted on the basis of the recommendation made by <ORG> of the aforesaid department.
+Fact	The recommendation by <ORG> was that the license should be granted for production of a minimum of 4,500 cars in six months.
+Fact	On July 14, 1967 an application was submitted for grant of certain components for production of 18,000 cars.
+Fact	This was for the second half year 1966-67.
+Fact	It has been submitted and that explanation in the circumstances appears to be correct that the Italian collaborators had offered a special credit and in order to avail of that credit licence for import had been sought for 18,000 cars.
+Fact	But it was stated in the application that production was being planned at 1,000 cars per month.
+Fact	This application was granted.
+Fact	During the first half of April 1968 to March 1969 an application was made on July 23, 19 68.
+Fact	It was confined only to those components and raw materials which were not covered by the components imported for 18,000 cars under the special credit scheme.
+Fact	The production, it was stated, was again being planned at 1,000 cars per month.
+Fact	This application was also granted.
+Fact	On February 28, 1969 an application was made for the second half of the year April 1968 to March 1969 for 7,200 cars on the basis of 1,200 cars per month.
+Fact	<ORG> recommended grant for 6,000 cars only, the total minimum being 12,000 cars.
+Fact	On November 28, 1969 an application was made for the first half of the year April 1969 to March 1970.
+Fact	This is stated to be a balancing application for 6,000 cars.
+Fact	On July 28, 1970 an application was made for the production of 7,000 cars in six months for the first half year April 1970 to March 1971.
+Fact	The recommendation of <ORG> was only for 6,050 cars and the license was apparently granted for the same.
+Fact	On October 28, 1970 an application was made for the second half of the yea r April 1970 to March 1971 for produc-  552  tion of 7,000 cars in six months.
+Fact	This time the recommenda- tion was accepted for 7,000 cars and licence for components was granted on August 28, 1971.
+Fact	It is quite apparent from the above statement of facts and figures that at no stage except for the second half of the year April 1970 to March 1971 import license had been granted for production of more than 12,000 cars.
+Fact	It was only in that year that for the first half it was granted for 6,050 cars and for the second half for 7,000 cars.
+Fact	In this situation it is wholly incomprehensible how <ORG> could have actually produced more than 12,000 cars per year even if the achievable capacity was more.
+Fact	As has been observed before the achievable capacity does not mean a capacity which should be completely divorced from existing and admitted facts.
+Fact	It has to be achievable from the practical point of view.
+Fact	We have no manner of doubt that for the above reason alone the achievable capacity for September 1969 c ould not have been fixed for more than 12,000 cars per year.
+Fact	In para 3 of the affidavit of Mr. <NAME>, Under Secre- tary to the Government of India, made on June 27, 1970 it was stated that in the report of <ORG> on the fair selling prices of automobiles it had originally recommended prices on the basis of annual production of 9,000 cars by <ORG>.
+Fact	In May 1969, however, the Government requested <ORG> to rework the prices on the basis of annual production of 12,000 <ORG>.
+Fact	The technical team appointed by <ORG> had come to the conclusion that the company had an annual potential capacity to manufacture 12,300 cars and 5,000 commercial vehicles.
+Fact	As we have already held that the <ORG> were not in a position to manufacture more than 12,000 cars owing to the grant of import licence being confined to that figure we do not consider that it would be fair to take the capacity for production for the purpose of working out the ex-works  cost in September 1969 at a figure higher than 12,000 cars per year.
+Fact	The next question is the capacity for the production for computing the ex-works cost in July 1970.
+RulingByLowerCourt	According to the technical team the achievable capacity was 12,300 cars per year.
+RulingByLowerCourt	But as pointed out by the <ORG> the latest figures given by the company in October 1970 were for production of 7,000 cars in six months and these figures were accepted as correct by <ORG> and licence for components was admittedly granted on that basis.
+RulingByLowerCourt	The license for steel has still not been issued and we are informed that it is likely to be issued very shortly.
+RulingByLowerCourt	These figures were furnished by the company at a time when hearing of the proceedings before the <ORG> was taking place and all relevant matters including the question of capacity were under active consideration.
+RulingByLowerCourt	It is difficult to understand why its achievable capacity for July 1970 should not be fixed at the figure of 14,000 cars per year.
+RulingByLowerCourt	Even if the license for steel had not  yet been issued <ORG> had enough stock.
+RulingByLowerCourt	As we stated in the application dated October 28, 1970 the stock position on the date of the application was for production of 4,000 cars.
+RulingByLowerCourt	The firm principle which we have all along followed is that the report of an expert body like the <ORG> should be accepted except where it has been shown to have demonstrably fallen in err-or on a question of principle or has completely ignored vital and material facts which, if taken into consideration, would have led to a different conclusion.
+RulingByLowerCourt	We are not satisfied that with regard to July 1970 taking an over all and general view apart from the material on the record the <ORG> was wrong in assessing the capacity of production with regard to July 1970 although its conclusion in respect of production for the purpose of assessing ex-works cost in September 1969 has been shown to be demonstrably erroneous and cannot be accepted.
+RulingByLowerCourt	We shall next deal with the capacity of production of <ORG> and <ORG> <ORG>.
+RulingByLowerCourt	It is common ground that so far as these two manufacturers are concerned the prices for September 1969 need not have been determined.
+RulingByLowerCourt	The case of <ORG> stands on a different footing because it had taken certain undertakings from the dealers and the customers with regard to the payment of the difference in price which will be determined after the judgment of this <ORG> and the one fixed in the order.
+RulingByLowerCourt	The other two manufacturers have not taken any such undertakings.
+RulingByLowerCourt	It is common ground that it is wholly unnecessary to determine the price for September 1969 in their case.
+RulingByLowerCourt	The price fixed in July 1970, however, will form the base for fixing a fair price by the Government by a fresh order after our judgment.
+Fact	As regards <ORG> it has been submitted by Mr. <NAME>, learned counsel for that company that upto the beginning of 1968 it was manufacturing a two door saloon.
+Fact	It suffered losses from 1968 onwards and no dividend was paid even to the preference shareholders.
+Fact	There wa s a strike from September 12, 1969 to November 6, 1969 which was declared illegal, followed by a tool-down strike in February 1970.
+Fact	The factory had to be closed down on May 22, 1970.
+Fact	It was reopened on February 22, 1971.
+Fact	When the factory was closed a committee which we have already called <ORG> was appointed under s. 15 of the Act for investigation.
+Fact	It submitted its report on October 16, 1970.
+Fact	It made a full investigation and also looked into the complaint that the associated concerns of this company which were producing the components had been shown undue favour at the expense of the parent firm.
+Fact	According to <ORG> the transactions with the subsidiaries appeared to be in the normal course of business and the allegation of unfairness was not justified.
+Fact	<ORG> while considering the question of viability of the company had made a detailed examination of the capacity and had held that the maximum capacity of the plant was for production of 3,000 <ORG> cars apart  from 1,000 trucks based on six days working week.
+Fact	The technical committee of the <ORG> found that based on a six day working week of two shifts of 8 hours each the capacity of the factory at the present level of indigenisation was 3,400 cars and 1,000 trucks.
+Fact	In the matter of assessing capacity it has been pointed out that the car production is bound to be less if the production of other parts is increased and that is what has been done from 1965 onwards.
+Fact	According to the observations of the technical team of the <ORG> the drop in the installed capacity from 1968 (3400 cars to 2500 cars) in 1970 was due to the increased depletion in the Press Shops.
+Fact	After going into the matter fully the technical team indicated its revised calculations which were that working on a two shift 5 day working week (nine hours per shift) the machine shop had an annual capacity for 3400 <ORG> cars and 1,000 trucks.
+Fact	It was suggested that the company should operate on a six day working week with daily shifts of 8 hours eac h. In that way it was concluded that the capacity of <ORG> would be 3,400 cars and 1,000 trucks.
+Fact	Mr. <NAME> has emphasised that if the production has to be achieved at the figure suggested by the technical team it would be necessary to import certain machinery which will involve, an additional cost and for which import licence would be necessary.
+Fact	It must not also be overlooked, according to Mr. <NAME>, that the car which is now being produced is no longer a two door model and that also involves a decrease in the rate of production.
+Fact	The <ORG> relied mostly on the letters which the <ORG> had been writing claiming that its production capacity was for 4,000 cars or more.
+Fact	Before the <ORG> it had been contended on behalf of the Government that the capacity of the company on a five day working week should be taken at 3,400 cars and 1,000 trucks and if this capacity was converted to a six day working week the company's capacity could be rounded off at the level of 4,000 cars and 1,000  trucks.
+Fact	The <ORG> was inclined to accept this contention broadly and observed that since the company had decided on a six day working week the figures on that basis would work out to 3,630 cars and 1070 trucks annually.
+Fact	There was some scope for an increase which could be estimated at 5% and after allowing a capital addition of 2.5 lacs towards tooling it was reasonable to assume that the company could easily reach the level of production of 4,000 cars and 1,000 commercial vehicles per annum.
+Fact	The report of the technical team was not accepted on the ground that when the technical team made the assessment the factory was closed and all the relevant data were not available.
+Fact	There is an obvious error in the working out of the figures by the <ORG>.
+Fact	It is not disputed that a five day working week meant 45 hours at the rate of 9 hours per day; whereas six day working week meant 48 hours per week at the rate of 8 hours a day.
+Fact	The increase would be of 3 hours only during the week.
+RulingByLowerCourt	It has not been demonstrate d how this would justify the conclusion of the <ORG>.
+RulingByLowerCourt	<ORG> in its report was of the view that with a 48 hours week, the capacity of the heat treatment shops would go upto 3200 cars and 1062 trucks.
+RulingByLowerCourt	But <ORG> with a limited capacity of 3000 cars and 1000 trucks would still be a limiting factor.
+RulingByLowerCourt	If some of the pressed components were farmed out to the ancillaries an extra capacity of 200 cars could be realised in the press shop.
+RulingByLowerCourt	But as Standard 20 trucks are not being manufactured in U.K. the imported components would have to be progressively indigenised.
+RulingByLowerCourt	This is what <ORG> finally concluded "On an overall assessment we felt it safe to estimate the installed capacity of the factory at 3000 Herald and 1000 Standard 20s".
+RulingByLowerCourt	(pages 76-77 of <ORG> Report dated 16th October 1970) It is true that owing to the closure of the factory the technical team could not make verification on the spot and tried to depend largely on the data supplied by the <ORG>.
+RulingByLowerCourt	But in the background of the report of <ORG> which had made full and thorough investigation we are unable to uphold the <ORG>'s view.
+RulingByLowerCourt	On an overall consideration, however, we would hold that the capacity of <ORG> would be 3400 cars and 1000 trucks as found by the technical team.
+RulingByLowerCourt	The Car Prices Inquiry <ORG> has excluded the incidence of Royalty from July 1970 cost in view of the fact that the collaboration agreement between the company and its foreign collaborators expired in 1970.
+RulingByLowerCourt	It has been brought to our notice by Mr. <NAME> that since then <ORG> have given their approval to renew the collaboration agreement on the basis of Royalty at pound 6.00 per car (i.e.
+RulingByLowerCourt	Rs.
+Fact	112 per car at the current rate of exchange).
+Argument	It is submitted that this amount of Rs.
+Argument	112/- being royalty payable per vehicle which has been recognised by the <ORG> as an element of cost, be ordered to be included while computing the cost of the vehicle for future price fixation."
+Argument	This  is correct and the amount on account of royalty must be included in the ex- works cost for July 1970.
+Argument	As regards <ORG> it was stated on its behalf before the <ORG> that the present installed capacity was for 38,400 cars and 10,500 commercial vehicles per year.
+Argument	In respect of cars, however, it was stated that due to rapid indigenisation undertaken by the company its original installed capacity had become imbalanced and at present it could not manufacture more than 24,000 cars per annum.
+Fact	In order to balance this capacity once again at the level of 38,400 cars per annum it would require additional plant and machinery costing 5.75 crores and replacement of existing dies at the cost of Rs.
+Fact	4.05 crores.
+Fact	The <ORG> referred to the estimates furnished by the <ORG> and the Tariff <ORG> in 1966 and to the evidence of <NAME> who was produced as witness no.
+Fact	7 by it.
+Fact	According to him the company expected to produce 30,000 cars in 1967-68, 36,000 cars in 1968-69 and 40,000 cars in  1969-  70.
+Fact	The technical officers of the Director General of Technical Development, namely <NAME> and <NAME>, Development Officer had also visited the plant of <ORG> from time to time between February 1969 and January 1970 and during this period various data were furnished by the <ORG> relating to its capacity which were contained in a "Brown Folder".
+Fact	From the information given to these experts the manufacturing capacity came to 38,400 cars per year.
+Fact	The letters and applications which were written in the matter of licenses also unmistakably pointed to the conclusion that the achievable capacity was not less than 30,000 cars.
+Fact	The technical team had made an assessment on the spot and according to it the existing capacity was 30,000 cars and 5,000 commercial vehicles after providing some balancing equipment worth about Rs.
+Fact	74 lakhs.
+Fact	The <ORG> was of the view that the data regarding the standard timing furnished to technical team was different from that provided to t he experts, namely, Messrs. <NAME> and <NAME>.
+Fact	The <ORG> felt it was safer to rely on the manufacturer's own statement made from time to time.
+Fact	It was considered fair and equitable to fix the production capacity at 30,000 cars per annum and that of trucks at 10,500 per annum.
+Fact	Mr. <NAME> on behalf of <ORG> has rightly stressed the point that in a matter of technical assessment the report of the technical team and the experts should be accepted and should not be rejected unless the members of the technical team had been examined by the <ORG> and called upon to explain any facts or circumstances which have been used by the <ORG> for rejecting their report.
+Fact	It is pointed out that the Third Tariff <ORG> in its report on August 1968 came to the conclusion that the costing in respect of the company should be done on the basis of 22,000 and 13,600 trucks per year.
+Fact	This estimate of capacity was not accepted by the government who, by a letter dated May 12, 1969 suggested to <ORG> mission to rework the ex-works cost of Ambassador cars on the basis of an annual production figure of 24,000 cars and 12,000 trucks.
+Fact	<ORG> then reworked the cost on that basis.
+Fact	Messrs. <NAME> and <NAME> had visited the plant of the company in view of the observations of <ORG> in its report in 1968 on the continuance of protection to the automobile industry that it was necessary that the company's capacity should be technically assessed.
+Fact	It is submitted by Mr. <NAME> that although the <ORG> took into consideration the information and data supplied by <ORG> contained in what is called the "Brown Folder" but the <ORG> failed to ask the Government to produce the report made by those experts.
+Fact	The Attorney General has produced that report before us which is dated January 29, 1970.
+Fact	It was mentioned in that report or note that the capacity of <ORG> for production of passenger cars might be assessed at the level of about 25,000 per annum on double shift  working which was based on the norms and the standard referred to in the note.
+RulingByLowerCourt	There were certain factors by which the position could be improved and a higher order of production could be reached by about 10 to 15%.
+RulingByLowerCourt	The technical team went into the matter in great detail and its findings were:  (a) The capacity of the company's plant was 24,000 cars and 14,400 trucks subject to installation of new equipment then being done.
+RulingByLowerCourt	(b) for the purpose of costing the number of trucks might be taken at 5,000 trucks per annum.
+RulingByLowerCourt	(c) some of the spare capacity, due to non-production, of the plant 9,400 trucks could be diverted for car production.
+RulingByLowerCourt	(d) by acquiring certain machine tools and jigs (of the value of 81 lakhs) and by working the third shift for a few operations the production could be increased to 30,000 cars and 5,000 trucks per year.
+RulingByLowerCourt	The technical team had proceeded on the basis of the independent physical checking and verification in all respects.
+RulingByLowerCourt	It has been stated and that statement has not been challeng ed that the technical team stayed in the company's plant for L4543 Sup CI/72 a little over two months.
+RulingByLowerCourt	With regard to the Standard timing required for various parts which were directly relevant to the question of capacity the technical team is stated to have made actual test checks and their findings are to be found in its report.
+RulingByLowerCourt	We are unable to concur in the reasoning or the approach of the <ORG> in the matter of assessing capacity.
+RulingByLowerCourt	We have already observed that much reliance cannot be placed on any figures supplied for applications for the import licence or mentioned in letters to the government for the purpose of obtaining additional facilities because the estimates which are given are likely to be inflated.
+RulingByLowerCourt	We see no reason or justification for rejecting the opinion of the experts, namely, M/s <NAME> and <NAME> and the technical team especially when no member of that team was examined as a witness for finding out those facts and data which the <ORG> has sought to use for rejecting the technical  team's report.
+RulingByLowerCourt	We are, therefore satisfied that the capacity for production of <ORG> should have been assessed at the figure given by the technical team, namely, 30,000 cars and 5,000 trucks per year.
+RulingByLowerCourt	Import licenses, which were granted have also not been shown to have been given on the basis of the figures of production determined by the <ORG>.
+RulingByLowerCourt	For the first half year 1970-71 the recommendation was for the grant of 11,075 cars although in the application the estimated production was stated to be 15,000 cars.
+RulingByLowerCourt	It was only for the second half year 1970-71 that the import license was recommended and granted for 15,000 cars.
+RulingByLowerCourt	There is no difficulty, therefore, in arriving at the figure of production of cars, namely, 30,000 cars but the departure which the <ORG> made in the matter of production of trucks has been seriously disputed on behalf of the <ORG>.
+RulingByLowerCourt	For the reasons that have been stated the correct figures would be those- which were determined by the technical team of the <ORG> ission, namely, 30,000 cars and 5,000 trucks.
+RatioOfTheDecision	There are a few minor matters which Mr. <NAME> has argued relating to <ORG>.
+RatioOfTheDecision	The only one worth considering relates to the consumption of local steel sheets.
+RatioOfTheDecision	The <ORG> in its report has taken that consumption at 20% as against 6% by reason of the total requirements adopted earlier by the <ORG>'s <ORG> and has thereby deducted a sum of Rs.
+Argument	88/- per car for July 1970 cost.
+Argument	It is stated the company had informed the <ORG>'s Cost Accounting Team that the consumption of local steel sheets purchases could be taken at 50 kg.
+RulingByLowerCourt	per car.
+RulingByLowerCourt	This figure which works out to a total of 12,000 tons in a year had been rejected by the <ORG> on the ground that the company had, in the year 1968-69, purchased 4149 tons of steel locally and that <NAME>, who appeared as one of its, witnesses, could not give any satisfactory explanation regarding the same.
+RulingByLowerCourt	According to Mr. <NAME> this finding of the <ORG> is based on no evidence and has been arr ived at in disregard of material evidence placed by the company before the <ORG>.
+RulingByLowerCourt	It is pointed out that <NAME> had stated in his deposition that the figure of 4149 tons might include locally purchased imported steel and this had to be checked up.
+RulingByLowerCourt	On checking it found that the said quantity included 1954 tons of imported steel purchased locally.
+RulingByLowerCourt	A statement showing reconciliation of figures is said to have been submitted by the company to the <ORG> as also the original documents relating to imported steel purchased locally.
+RulingByLowerCourt	It is submitted that the <ORG>'s conclusions taking 20% as utilisation of local steel merely on the basis that this is utilised in the case of <ORG> cars is arbitrary.
+RatioOfTheDecision	The <ORG> has pointed out that <ORG> had neither kept any regular day to day record of issue of its raw material nor had any quality wise record in this regard been kept.
+RatioOfTheDecision	In fact steel, both imported as well as locally purchased, had been put under one category and consumption had been show n on the standard adopted by the company.
+RatioOfTheDecision	In view of the fact that the company had not kept any regular record of data it was not possible to determine accurately the use of locally purchased and imported steel separately.
+RatioOfTheDecision	In these circumstances we do not consider that the conclusion arrived at by the <ORG> has been shown to be demonstrably erroneous or wrong.
+Fact	Writ petitions 486 and 487 of 1969 have been filed by <ORG> and <ORG> respec- tively.
+Fact	They are dealers of the cars the prices of which are under consideration.
+Fact	The case of the dealers is that before 1955 the dealer's margin was 20 to 25% of the ex- factory price.
+Fact	In 1956 the First Tariff <ORG> recommended a reduction i.e., Rs.
+Fact	1,000 per car or 10% of the ex-factory price whichever was less.
+Fact	In 1957 the Government accepted that the dealer's margin should be on the basis of 10% ex-factory price.
+Fact	This has remained unchanged during all these, years whereas the operational costs have increased.
+Fact	The existing m ark-up or margin of profit of the dealer on ex-factory price of cars is as follows <ORG> : Rs.
+Fact	891.00 Standard : Rs.
+Fact	859.00 Ambassador : Rs.
+Fact	1044.00 The various duties and responsibilities of the dealers are  (a) to promote sales of vehicles concerned; (b) to arrange for after-sale service; (e) to arrange for the stocking of spare parts; (d) to arrange for periodical service and maintenance.
+Fact	Apart from these a dealer has to make advance payment for the cars before taking them over at the factory and make his own arrangement for transporting them.
+Fact	He is to carry out a detailed pre- delivery inspection before handing over the car to the customer.
+Fact	The agreement between the car manufacturer and the dealer is such that any part needing replacement during the warranty period due to manufacturing defect will be changed by the dealer.
+Fact	The car manufacturer reimburses the dealer's cost of the component but the labour cost for replacement of the part is borne by the dealer except in the case of <ORG>.
+Fact	It is sub mitted that the dealer's cost of operation has also increased owing to higher wages, salaries and other contributions, increase in rents, bank charges, power and water rates and higher outlay on equip- ment.
+Fact	The, <ORG> referred to all the above facts and the evidence of a number of witnesses examined on behalf of the consumers according to whom the service and repair facilities offered by the present day dealers were not satisfactory.
+Fact	The <ORG> examined the profit and loss account of a few dealers to see the trading results of passenger cars.
+Fact	It found it impossible to segregate the automobile account as the trading accounts covered other activities also.
+Fact	In certain cases, however, where analysis was made it appeared that no one had suffered any loss.
+Fact	The <ORG> has observed that spare parts are not stocked in adequate quantities in various places by the dealers with the result that the customers have sometimes to wait for long period for replacement.
+Fact	<ORG> in 1967 had deprecated t he fall in the standard of after-sale service.
+Fact	<ORG> in its third Report published in 1968 did not accept the dealers' claim for an upward revision of profit margin.
+Fact	The <ORG> felt that the workshops of the dealers of <ORG> cars, namely, one in South (<ORG>), one in Bombay (<ORG>) and another in Delhi (<ORG>) had well equipped workshops with requisite type of plant and machinery but there was nothing to indicate that they were suffering any loss.
+Fact	The evidence of <NAME> the Managing Director of <ORG>, was not accepted.
+Fact	The <ORG> considered the desirability of classifying dealers in 2 or 3 categories according to the standard of equipment and service facilities and fixing the amount of mark-up accordingly but it was realised that in the very nature of things this was not feasible.
+Fact	It was, however, noticed that <ORG> charged a sum of Rs.
+Fact	50/- out of the latter's commission on account of adve rtising charges and <ORG> also charged Rs.
+Fact	10/- from each dealer for service facilities.
+Fact	These deductions, in the opinion of the <ORG>, were un- warranted and should not be allowed to continue.
+Fact	The other additional factors that have been brought to our notice are that the <ORG> has now held that the labour charges borne by the dealers in doing warranty jobs should be met by the manufacturer.
+Fact	This will give an additional benefit to the dealers.
+Fact	Taking into consideration all these facts the <ORG> was of the view that the existing margin should remain at the existing level except for marginal adjustment.It arrived at the following figures for the dealer's mark-up <ORG> : Rs.
+Fact	900.00 <ORG> : Rs.
+Fact	860.00 <ORG> : Rs.
+Fact	1050.00 On behalf of the dealers it has been stressed that for each car the cost of pre-delivery inspection is Rs.
+Fact	50/- of three free services Rs.
+Fact	125/- and the interest on investment would roughly come to Rs.
+Fact	150/-.
+RatioOfTheDecision	We are, however, unable to take these fig ures into account because from the data supplied to the <ORG> and the evidence that was produced before it there is nothing to indicate that the dealers are suffering any loss and are not making a reasonable margin of profit.
+RatioOfTheDecision	The responsibility of the manufacturers to reimburse the dealers for the labour charges on account of warranty is an additional benefit which would be derived by them now apart from the directions of the <ORG> relating to the advertisement and service charges.
+RatioOfTheDecision	In our opinion the conclusion of the <ORG> with regard to the dealer's margin or mark up has not been shown to be demonstrably wrong.
+Fact	The result of the discussion on the six points on which arguments had taken place before us may now be summarised :--  (1) the production capacity of the three car manufacturers per annum for the purpose of working out the ex-works cost will be as follows:-  (a) <ORG> September 1969 July 1970 12,000 cars 14,000 cars.
+Fact	5,700 commercial vehicles 6,000 commercial vehicles.
+Fact	(b) <ORG>.
+Fact	July 1970 3,400 cars.
+Fact	1,000 commercial vehicles.
+Fact	(c) HindustanMotors.
+Fact	July 1970.
+Fact	30,000 cars.
+Fact	5,000 commercial vehicles.
+Fact	562  .lm15 (2) Cost and expenses on account of warranty and bonus have been rightly included in the return and could not be included in the ex-works cost.
+Fact	(3) In fixing the cost for September 1969 which will now be relevant only in the case of <ORG> the same basis should have been adopted as for July 1970.
+Fact	In other words the actual cost and not the historical cost should have been taken into account.
+Fact	It was, however, unnecessary to take the projected and estimated cost for the future.
+Statute	(4) A provision should be made for an escalation clause.
+Statute	The lines on which such a clause should be formulated will be indicated hereafter.
+Statute	(5) The return which has been allowed is adequate on the facts proved before the <ORG>.
+Statute	(6) Depreciation on account of plant and machinery has been allowed on correct basis but for the purpose of allocation the capacities  indicated above will be taken into account.
+Statute	As regards the individual points raised on behalf of <ORG>, <ORG> and the dealers our decision is as follows :-  (i) The amount payable on account of royalty per car in the case of <ORG> pursuant to the collaboration agreement the renewal of which has been approved by <ORG> will be included in the ex-works cost for July 1970.
+RulingByLowerCourt	(ii) The conclusion of the <ORG> relating to the percentage of the local steel sheets by the <ORG> is correct.
+RulingByLowerCourt	(iii) The dealers shall, for the present, be entitled only to the mark-up in terms of the recommendation of the <ORG>.
+RulingByLowerCourt	We consider that the provision for the future relating to escalation and de-escalation should be in these terms.
+RulingByLowerCourt	The position will be reviewed by the government every six months in the beginning of the months of January and July.
+RulingByLowerCourt	Six weeks prior to first January and first July the car manufacturers shall submit all the necessary data and proo f for determining the increases claimed.
+Fact	The, government shall decide about the matter promptly by the first of January and first of July respectively and allow the increases, if found to be genuine and correct provided the total amount of such increases exceeds Rs.
+Fact	100/- per car in ex-works cost since the last fixation.
+Fact	If the government fails to do so the car manufacturers will be entitled to increase the prices to the extent of the actual increase if the total increase.
+Fact	is more than Rs.
+Fact	100/- per car in the ex-works cost comprising all the items mentioned in the <ORG>'s report which make up the ex-works cost since the last fixation.
+Fact	As regards the outgoings from the return which will be con- fined to the minimum bonus payable under the Bonus Act 1965, interest on borrowings and income tax if there is a significant increase in these items, the car manufacturers can submit their case with all the relevant data as well as proof to the government for claiming a corresponding increase in the return.
+RulingByLowerCourt	The g overnment shall give its decision within 10 weeks from the date the required data and proof are supplied.
+RulingByLowerCourt	The government will also be entitled to take into account any decreases which take place either in the items which make up the ex-works cost or the aforesaid outgoings from the return and the prices can be refixed accordingly.
+RulingByLowerCourt	All the car manufacturers have undertaken to furnish the necessary details and the relevant data to the government within a fortnight after the announcement of this judgment to enable it to promulgate a fresh Order under s. 18G of the Act refixing the prices of all the three cars in accordance with the recommendations of the <ORG> as modified by this Court.
+RulingByLowerCourt	The Order should indicate that the prices as fixed are liable to be increased ,or decreased in accordance with the provision relating to escalation and de-escalation contained in our judgment.
+RulingByLowerCourt	The goverment will take the cost as in July 1970 as the base and will take into account all increases and decreases since July 1970  upto the date, of the judgment in the ex-works cost and the three outgoings from the return mentioned above.
+Fact	Learned Attorney General on behalf of <ORG> has agreed to this course.
+Fact	It may be added that while furnishing the relevant information and data to the government the car manufacturers will give copies of the relevant purchase contracts including the escalation clause,if any.
+RulingByLowerCourt	The car manufacturers have given an undertaking that during the period of two months from the date of the announcement of this judgment they shall continue to charge the interim prices which were fixed by our Order dated April 16, 1971 which were the same as have been recommended by the <ORG>.
+RulingByLowerCourt	For the period September 1969 to the date of the interim order <ORG> have agreed that the maximum prices will be those which have been stipulated in the undertakings obtained by them from the dealers but these shall, in no case, exceed the price to be computed by the manufacturers in accordance with the Com mission's report as modified by our decision for the period September 1969 to the end of June 1970 and the price recommended for July 1970 by the <ORG> (this is same as fixed by our interim order) from first July 1970 till April 16, 1971 (the date of our interim order).
+RulingByPresentCourt	It is common ground and counsel for all the parties are agreed that as a result of our decision the impugned Order of September 1969 shall be inoperative and ineffective to the extent the prices fixed by it are not in accordance with our decision.
+RulingByPresentCourt	All the writ petitions shall stand disposed of accordingly.
+RulingByPresentCourt	The parties shall be left to bear their own costs.
+Fact	<NAME>, J. I agree except in two matters.
+Fact	One relates to the production capacity of <ORG>.
+Fact	The other relates to the value to be attached to the admissions regarding the production capacity contained in the manufacturers' applications for import licences.
+Fact	So far as the <ORG> are concerned, I have dealt with the second matter in, the discussion relating to production  capacity.
+RatioOfTheDecision	As regards the other two manufacturing companies, I need not dilate upon the question of admissions because there was sufficient other material, which has been referred to in the main judgment, in support of our conclusion regarding production capacity.
+Fact	Controversy has arisen about the July 1970 price of the Standard Herald (four door model) car.
+Fact	<ORG> in its Report submitted in August 1968 recommended the net dealer's price of the Standard Herald (two door model) as Rs.
+Fact	12,485/-.
+Fact	<ORG> in the impugned notification dated 21st of September, 1969 fixed the price of the Standard Herald (four door model) at Rs.
+Fact	14,003/--.
+Fact	The above, according to the notification, was ex-factory price inclusive of dealer's commission but did not include excise duty, central sales tax and local taxes, if any and transportation charges.
+Fact	<ORG> (hereinafter referred to as the <ORG>) worked out the ex-works cost for September 1969 of Standard Herald to be R s. 13.236/-.
+Fact	Adding a return of Rs.
+Fact	1,274/- to that amount, the ex-factory price of <ORG> was found to be Rs.
+Fact	14,510/-.
+Fact	For July 1970, the <ORG> worked out the ex-works cost of <ORG> to be Rs.
+Fact	13,989/-.
+Argument	Adding a return of Rs.
+Fact	1,231/- to the above amount, the ex-factory price of <ORG> for July 1970 was found by the <ORG> to be Rs.
+Fact	15,220/-.
+Fact	Rs.
+Fact	860/- were added on account of dealer's commission to the prices found for September 1969 and July 1970.
+Fact	Fair selling price of <ORG> for September 1969 was found by the <ORG> to be Rs.
+Fact	15,373/- and for July 1970 to be Rs.
+Fact	16,080/-.
+Fact	In working out the above prices for September 1969 and July 1970, the <ORG> took the production for September 1969 to be 3,400 cars and 1,000 commercial vehicles and for July 1970 to be 4,000 cars and 1,000 commercial vehicles.
+Fact	So far as the price fixed for September 1969 is concerned, the matter is now purely academic, as <ORG> cars after September 1969 till Ap ril 1971 were sold at the prices fixed in the <ORG> notification and no bonds were got executed from the purchasers of the said cars.
+Fact	The controversy has centered on the point as to whether the <ORG> should accept or not the price found by the <ORG> for <ORG> for July 1970.
+Fact	It would appear from the above that as against the price of Rs.
+Fact	14,003 notified in September 1969 by <ORG> for <ORG>, the <ORG> worked out the price of that car to be Rs.
+Fact	15,373/- for September 1969 and Rs.
+Fact	16,080/- for July 1970.
+Fact	Before arriving at the above conclusion, the <ORG> which had been appointed by the <ORG> under the <ORG>s of Inquiry Act at the instance of this <ORG> and which included a retired High <ORG> Judge, a chartered accountant and an automobile engineer visited the different manufacturing units.
+Fact	The <ORG> took into account various factors like manufacturing capacity, quality, norms of rejection, bonus, warranty, interest and return and expre ssed its view with regard to each of them.
+Fact	The <ORG> also took note of the various items of expenditure which have to be incurred by the manufacturer in the production of the car.
+RatioOfTheDecision	In view of the detailed inquiry made by the <ORG>, the approachadopted by this <ORG>, as mentioned in the main judgment, has been that we should direct deviation from the report of the <ORG> only when it is shown that there has been a departurefrom the established principles or the conclusions of the <ORG> are shown to be demonstrably wrong or erroneous.
+Argument	The main ground which has been taken on behalf of the- Standard Motor Products of India Ltd, hereinafter referred to as the petitioner-company, in assailing the findings of the <ORG> in regard to the July 1970 price of the Standard Herald car is that the <ORG> has worked out the price on the basis that the petitioner-company would be manufacturing 4,000 cars a year from July 1970.
+Argument	It is urged that the manufacturing capacity of the Standard Herald car s ince July 1970 by the petitioner's factory cannot be more than 3,400 cars a year.
+RatioOfTheDecision	The report of the <ORG> in this respect is stated to be vitiated by the above mentioned wrong assumption.
+RatioOfTheDecision	It cannot be disputed that in working out the fair price of a motor car, we have to take into account the manufacturing capacity or output of those cars by the manufacturer.
+RatioOfTheDecision	As observed by <NAME> in <ORG>, the term cost of production has meaning only when it is related to output.
+RatioOfTheDecision	The cost of producing a motor car depends on whether the manufacturer is turning out 50, 100, 500 cars per week.
+RatioOfTheDecision	The term "cost" is ambiguous since it has several different meanings.
+RatioOfTheDecision	For a given output it may be total cost, whereas for one unit of output-a single motor car, for example-it is clearly average cost that is being considered.
+RatioOfTheDecision	If a firm is already producing 500 motor cars per week and it decides to increase its weekly output to 501, the cost of producing one more motor car per week will probably be muc h less than the average cost, though in other ,cases it might be more than the average cost.
+RatioOfTheDecision	It is also manifest that the capacity which has to be taken into account is the achievable capacity of a plant run in a reasonably efficient manner.
+RatioOfTheDecision	Concerted effort has to be made to attain a high level of production for two obvious reasons : (1) supply of new cars falls considerably short of the demand and the intending purchasers have to be kept on the waiting list for inordinate length of time and (ii) increased production would bring down the exworks costs of the car.
+RatioOfTheDecision	Although it would not be practicable and realistic to insist upon the highest or absolute efficiency, it would be equally unjust and inequitable to throw the burden of inefficiency of a manufacturer on the consumer in working out the figure of 'fair price' of the article manufactured.
+RatioOfTheDecision	To put it differently, the authority concerned in determining fair price should not demand from the manufacturer the paragon of excellence in the matter of volume of p roduction but at the same time the authority should not make the consumer bear the margin of high cost resulting from avoidable low production.
+RatioOfTheDecision	It is, of course, implicit in that reasonable facilities would be afforded to the manufacturer for procuring material like imported parts and steel which is under the <ORG> control so as to be in a position to manufacture the requisite number of cars.
+RatioOfTheDecision	The ,-concept of 'fair price' postulates that the price should be fair not only to the producer but also to the consumer; the goal should be to arrive at just and reasonable rates.
+RatioOfTheDecision	To quote from <NAME>'s book referred to above :  "There is a popular idea that the price of a commodity should be fair, but to whom?
+RatioOfTheDecision	to consumers or producers ?
+RatioOfTheDecision	It is very difficult to define the meaning of fair in this connection.
+RatioOfTheDecision	If a service is deliberately run at a loss, it is clearly to the advantage of everyone making use of the service, but those who do not use it are having to subsidise those who do.
+RatioOfTheDecision	The free working of the price  mechanism, with sufficient restrictions on it as are in the interest of the whole community, has even so its disadvantages, but these are outweighed by the advantages where the <ORG> watches the interests of the community as a whole.
+Argument	It has been suggested that if the <ORG> intervenes in the market it should be to make a price as near as possible to the long- run normal price in a perfect market."
+Argument	According to the case of the petitioner-company, the original installed capacity of the petitioner's factory was for the manufacture of 5,000 <ORG> cars and 1,500 one-ton commercial vehicles.
+Argument	As a result of gradual deletions of imported components, there has been a steady decline in the petitioner-company's capacity with the result that the installed capacity has come down to 2,500 cars and 1,000 commercial vehicles annually.
+Argument	It was also maintained on behalf of the petitioner-company that it was not possible to increase the capacity for the manufacture of Standard <ORG> as <ORG> was a limiting factor.
+Argument	It  may be noted that the petitioner-company was previously working for 5 days in a week.
+Argument	In the course of the arguments before the <ORG>, the counsel for the petitioner-company stated that it could achieve a capacity of 3,400 cars and 1,000 commercial vehicles on a six day working week provided some components were transferred from one unit to the other and the petitioner company was allowed an additional tooling cost of Rs.
+Argument	2.5 lakhs.
+Argument	As against the above, the case set up on behalf of the respondent before the <ORG> was that the capacity of the petitioner company should be fixed at a level of 4,000 to 5,000 cars and 1,000 to 1,500 commercial trucks.
+Argument	The <ORG> took into account the statements made by the petitioner-company in its various communications and appli- cations to the <ORG> regarding its manufacturing capacity.
+Argument	It was observed that the decision of the petitioner-company to work for 6 days in a week would result in increased production.
+Argument	The <ORG> also expressed the view that in  the factory of the petitioner-company, there was scope for increasing productivity to the extent of 5%.
+Argument	The <ORG> accordingly concluded :  "Thus giving an allowance for this increase and after taking into account the transfer of some capacity from the commercial vehicles side to the car side, and after allowing a capital addition of Rs.
+Argument	2.5 lakhs towards tooling, it is reasonable to assume that the <ORG> can easily reach the level of production of 4,000 cars and 1,000 commercial vehicles per annum."
+Argument	Regarding the assessment made by the technical team, the <ORG> observed as under :- "The Technical team of the <ORG> had assessed the capacity of the <ORG> at 3,400 cars and 1,000 commercial vehicles per year on a six-day week but the assessment of <ORG> in case of this unit was made when the factory was closed and all the relevant data were not available.
+Argument	The Commis- sion has, therefore, tried to rely more on the assessment made by the <ORG> itself rather than on the estimates  of the team."
+Argument	It has been argued on behalf of the petitioner that the Com- mission should have accepted the report of its <ORG> and not excluded it from consideration.
+RatioOfTheDecision	In this respect, I find that according to the report of the <ORG>, it felt handicapped because it found at the time of its visit that the production in the petitioner's company had virtually come to a standstill on account of the complete closure of the factory and the discharge of the factory employees.
+RatioOfTheDecision	The <ORG> consequently carried out the investigations on the basis of available records.
+RatioOfTheDecision	Here too, the <ORG> faced considerable difficulties since due to the non-availability of the concerned staff, even relevant records could not be quickly traced and made available.
+RatioOfTheDecision	The visits to, the factory for study and collection of data were also rendered difficult because of demonstrations.
+RatioOfTheDecision	The <ORG> consequently found it welling impossible to make a systematic study and on the spot physical verification as is normally done in the case o f a functioning plant.
+RatioOfTheDecision	The <ORG> also mentioned that the matters had not been simplified because the petitioner-company had furnished its replies to the Questionnaire issued by the <ORG> at a very late stage when the <ORG> was due to complete its work.
+RatioOfTheDecision	The <ORG> in conclusion observed that its findings were based Purely on the records made available and the discussions with the petitioner-company's officers.
+RatioOfTheDecision	569  It would follow from the above that neither any physical verification could be made by the Technical <ORG> nor could it make a systematic study and it had to content itself with the material supplied by the petitioner-company.
+RatioOfTheDecision	It, therefore, cannot be said that any satisfactory technical assessment regarding the production capacity of the petitioner-factory was made by the Technical <ORG>.
+RatioOfTheDecision	In the circumstances, there was nothing wrong in the approach of the <ORG> which included a chartered accountant and an automobile engineer in relying upon its own assessment rather than that of the Technical  Team.
+RatioOfTheDecision	The other assessment of the manufacturing capacity of the petitioner-company upon which reliance has been placed on its behalf is that made by <ORG>.
+RatioOfTheDecision	The said <ORG> in its Report observed as under -  "The plant capacity as a whole could be balanced for a production of 3,200 <ORG> and 1,000 Standard 20 trucks.
+RatioOfTheDecision	Standard 20 trucks is not being manufactured in U.K. now and therefore the imported components will have to be progressively indigenised.
+RatioOfTheDecision	The Management felt that some capacity should be earmarked for this purpose.
+RatioOfTheDecision	On an overall assessment of all these factors, we felt it safe to estimate the installed capacity of the Factory at 3,000 <ORG> and 1,000 Standard 20 Trucks."
+RatioOfTheDecision	The above <ORG> presided over by <NAME>, Ex- Chief Secretary of <ORG> was appointed by <ORG> in exercise of the powers conferred by section 15 of the Industries (Development and Regulation) Act , 1951.
+RatioOfTheDecision	The material part of the order regarding the ap pointment of that Committee reads as under :-  "And whereas it has come to the notice of <ORG> that the volume, of production of the articles manufactured in the said industrial undertaking had been gradually going down and the production has now come to a standstill consequent upon the closure of the said industrial undertaking by the management;  And whereas <ORG> is of opinion that it is expedient to take urgent measures to remedy the situation arising out of the closure of the said industrial undertaking and to ensure that production in the said scheduled industry does not suffer to the detriment of the public interest;  570  Now, therefore, in exercise of the powers conferred by section 15 of the Industries (Development and Regulation) Act , 1951 , <ORG> hereby appoints for the purpose of making a full and complete investigation into the circumstances of the case, a body of persons.......... ....
+RatioOfTheDecision	It would thus appear that though <ORG> w as asked to inquire into the gradual fall in production in the petitioner's factory and its ultimate closure and to suggest remedial measures in that connection, the said <ORG> was not called upon to determine the achievable capacity of the factory of the petitioner-company.
+RatioOfTheDecision	The <ORG>, no doubt, dealt with the question of capacity but it was rather in a general way.
+RatioOfTheDecision	There is nothing to indicate that any attempt was made before the <ORG> to show that the achievable capacity of the petitioner company was more than what was stated on behalf of the petitioner.
+RatioOfTheDecision	As the fair selling price is linked with the achievable capacity of the manufacturer's factory, <ORG> while submitting its 1968 Report considered the question of production capacity of the petitioner-company for three years from 1968 to 1970 and came to the conclusion that the production capacity of the petitioner-company for Standard Herald cars was 5,000 and of commercial vehicles was 1,500.
+RatioOfTheDecision	The Report of <ORG>  shows that in arriving at the above figures, it got the matter adjudged by its Cost Accounts Officer and held discussions with the individual units and with <ORG>.
+RatioOfTheDecision	<ORG> also took into account the information conveyed to it at the public inquiry.
+RatioOfTheDecision	The above estimate of the production capacity of the petitioner company made by <ORG> as a result of inquiry and discussions with the Accounts Officer and technical officials, in my opinion, has a direct bearing on the case and would go to show that the conclusion of <ORG> that the petitioner-company's production capacity was 4,000 cars and 1,000 commercial vehicles was by no means vitiated by an excessive estimate.
+RatioOfTheDecision	Nothing on the record has been pointed out to indicate that there would be a fall in production capacity of the petitioner-company because of the manufacture of four door car as against the previous two door car.
+RulingByLowerCourt	There are a number of communications and applicati ons addressed by the petitioner-company which also go to show that the estimate formed by the <ORG> regarding the production capacity of the petitioner-company did not lean on the side of being excessive.
+RulingByLowerCourt	In its application dated 19-6-1968 addressed by the petitioner-company to <ORG>, the petitioner-company estimated its production for 1968 at 4,200 cars.
+RulingByLowerCourt	Again in its application dated 20th December, 1968, the petitioner-company estimated its production for 1969 at 4,200 cars.
+RulingByLowerCourt	The petitioner- company no doubt, showed its production capacity of cars as 3,400 in its letter dated 13-12-1969 but that was after the issue of the impugned notification and during the pendency of the present petition.
+RulingByLowerCourt	1, thus, find that even if the production figure as admitted in the applications dated 19-6-1968 and 20-12-1968 were to be taken into account, the estimate of the <ORG> regarding the production capacity of the petitioner-company cannot be considered to be excessive.
+RulingByLowerCourt	It  is well known that admissions constitute a strong piece of evidence against the party making the admissions and it is for that party to show that the admissions are mistaken or are not true.
+RulingByLowerCourt	On the material on record, the petitioner-company, in my opinion, has failed to discharge that onus.
+RulingByLowerCourt	The argument that the petitioner in order to obtain import licence had to give a bloated figure of estimated production does not appear to be convincing because the excess of the imported material had to be adjusted in the subsequent import licences.
+RulingByLowerCourt	The learned Solicitor General has argued that if the July 1970 price of <ORG> were to be worked out on the basis of a production capacity of 3,400 cars instead of 4,000 cars, the price of the <ORG> would be almost the same as that of the <NAME>.
+RulingByLowerCourt	The price of the <ORG> in the past has been considerably lower than that of <NAME> and any fixation of price of the <ORG> which would make it to be almost the same as that of <NAME>  would, in my opinion, be unrealistic.
+RulingByLowerCourt	I, therefore, am of the view that no case has been made for interfering with the July 1970 price of <ORG> as found by the <ORG> on the ground that the production capacity of the petitioner-company from July 1970 onwards was 3,400 and not 4,000 cars.
+RulingByLowerCourt	ORDER In all matters excepting the production capacity of <ORG> the conclusions and the decision of the <ORG> are unanimous.
+Fact	In the matter of production by <ORG> of the <ORG> cars the majority decision is the decision of the <ORG>.
+Fact	G.C.
+Fact	572

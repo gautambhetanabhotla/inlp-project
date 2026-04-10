@@ -1,0 +1,157 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The first civil revision petition raises a question in regard to the scope and effect of Order 1, Rule 10, Civil P.C.
+Fact	The suit was filed by the plaintiff in the Munsif's Court for a declaration that he was a duly elected member of <ORG>.
+Fact	He impleaded as defendants: (1) <ORG> and (2) the President of that Board.
+Fact	He prayed not only for a declaration as stated above but also for the issue of a mandatory injunction directing the defendants to recognize him as a duly elected member of <ORG>.
+Fact	The Government applied to the lower Court for being added as a party.
+Fact	That application was refused by the District Munsif and in this civil revision petition, his order is attacked by the Government.
+Fact	2.
+Fact	The allegations in the plaint are shortly summarised thus by the learned District Munsif:  On 30th March 1928 the President, <ORG>, <NAME>, convened a special meeting of the <ORG> for the election of a member to th <ORG>.
+Fact	When the meeting commenced, there were 24 members present besides the president.
+Fact	A motion for adjournment was supported and opposed equally and on the casting vote of the president, the motion for adjournment was carried.
+Fact	The president and the 12 members who voted for the adjournment went away.
+Fact	The 12 members who opposed the motion thought that the adjournment was illegal and invalid and convened a meeting and elected one of their own number as chairman and in such meeting, the plaintiff was declared elected as a member of th<ORG>.
+Fact	It is alleged that the adjournment was illegal because out of the 12 members who voted for the adjournment two members had ceased to be so, long before the date and they had no right to take part in the meeting at all and as such their votes were improperly received.
+Argument	The plaintiff learns that the notification of the election in the <ORG> has been withheld and a fresh meeting would be convened for the purpose.
+Argument	<NAME> asserts that he had been elected, wants  a declaration accordingly and an injunction directing the defendants, <ORG>, <ORG> and its President to recognize him as such and to transact all business of <ORG> in co-operation with and after due notice to him.
+Argument	3.
+Argument	In the plaint there are allegations impeaching the conduct of the President of <ORG> and questioning the legality of the notification in the <ORG> published by the Government.
+Fact	But there is not a single allegation made either against defendant 1 or 2.
+Fact	Why did the plaintiff then implead as defendants, those against whom he had no grievance and omit to join the parties, whose action, he alleges, prejudiced his right?
+Fact	This may, at first sight appear surprising; but the truth seems to be, that the President of <ORG> informed the Government that in his view the plaintiff's election was valid.
+Fact	This apparently led the plaintiff to believe that if he adopted this method he would easily succeed in the suit.
+Fact	The application of the Government was oppo sed both by the plaintiff and the defendants.
+Fact	The question is, is it proper, in the circumstances, to make the Government party?
+Fact	4.
+Fact	Section 47 (1), Madras <ORG> Act (1920) enacts that the members of <ORG> other than certain members, shall be elected by <ORG> "in the prescribed manner."
+Fact	It is under this section that the plaintiff claims to have been elected.
+Fact	The local Government has power under Section 199 (b) to make rules with reference to all matters relating to elections of members of <ORG>.
+Fact	Rules have been accordingly made for the election of members to <ORG> by Taluk Boards.
+Fact	The following are the relevant rules:  Rule 2.
+Fact	"The President of <ORG> shall thereupon summon a meeting of <ORG> for the purposes of proceeding with the election."
+Fact	Rale 6.
+Fact	"If there are more candidates than there are vacancies, the votes of the members present at the meeting shall be taken."
+Fact	Rule 8.
+Fact	"The candidate who obtains the largest number of votes... shall b e declared to have been duly elected....
+Fact	The election shall be notified in <ORG>.
+Fact	Rule 11.
+Fact	Immediately after the meeting, the president or the presiding member shall forward the names of the elected candidates to the Government for publication in <ORG>.
+Fact	5.
+Fact	Now, turning to the Act, Section 19 enacts that the election of a member of <ORG> shall be notified in the prescribed manner.
+Fact	6.
+Fact	The manner has been prescribed by Section 8 to which I have already referred.
+Fact	Section 11 says that every member of <ORG> shall hold office for a term of three years from the date of publication of the notification under Section 19.
+Fact	There are several sections in the Act vesting in the Government power of control over <ORG>.
+RatioOfTheDecision	Section 45 shows that the power extends even to dissolving the <ORG> for incompetence, for continued default or misconduct.
+RatioOfTheDecision	But the section with which we are most directly concerned is Section 38.
+RatioOfTheDecision	It empowers <ORG> inter  alia, to suspend by order in writing, the execution of any resolution of any Local Board.
+Argument	7.
+Argument	Presumably it was under this section that the Government acted, when it issued the notification to which the plaintiff takes exception in his plaint.
+Argument	In that notification, the Government declare that the motion for the adjournment of <ORG> was legally carried, that the continuation of the meeting by a section of the members and the election of the plaintiff as a member of <ORG> cannot be recognized and notified in <ORG>.
+Fact	The notification adds : " a fresh meeting of <ORG> should be convened for the election...of a member to <ORG>."
+RatioOfTheDecision	8.
+RatioOfTheDecision	Under Section 38, I have pointed out, that <ORG> may suspend the execution of any resolution of <ORG>, can it or can it not veto, the election of a member under this section?
+RatioOfTheDecision	It is at a meeting that the candidate is to be elected.
+RatioOfTheDecision	The name has to be proposed and seconded, the votes of the membe rs are to be taken and the candidate who obtains the largest number of votes is to be deemed to have been elected.
+RatioOfTheDecision	The procedure indicated shows that a member is elected by a resolution of <ORG>.
+RatioOfTheDecision	The word "resolution" is defined in <ORG> as a formal decision, determination or expression of opinion on the part of a deliberative assembly or other meeting.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Now then, if the decision of the meeting, that the plaintiff has been duly elected, amounts to a resolution, the right to suspend it undoubtedly vests in the <ORG>.
+RatioOfTheDecision	In this case, it has exercised that right and suspended the execution of the resolution.
+RatioOfTheDecision	The plaintiff has thus a grievance against the <ORG>.
+RatioOfTheDecision	It was their act that has interfered with his alleged right.
+RatioOfTheDecision	Is the <ORG> then not a proper party to the suit:  10.
+RatioOfTheDecision	The material portion of O.1, Rule 10, runs thus:  The Court may at any stage of the proceedings, either upon or without the application of either party, and on such terms as may appear to the Court t o be just, order..., that the name of any person who ought to have been joined, whether as plaintiff or defendant, or whose presence before the <ORG> may be necessary in order to enable the <ORG> effectually and completely to adjudicate upon and settle all the questions involved in the suit be added.
+RatioOfTheDecision	11.
+RatioOfTheDecision	As I observed in the course of the argument, If this application had been made to me as a trial Judge, I should, without a moment's hesitation, have allowed it.
+Precedent	A long argument became necessary on account of certain observations of <NAME>, J.. in <CITATION_142305> for Hindu Religious Endowments, Madras A.I.R.
+Precedent	1926 Mad.
+RatioOfTheDecision	886, which case, the lower <ORG> has purported to follow.
+RatioOfTheDecision	In an elaborate judgment, that learned Judge has formulated certain principles in regard to the addition of parties under Order 1, Rule 10.
+Argument	He thinks that the effectual and complete adjudication mentioned in the section, refers to a decision, only as between the parties to a suit,.
+Argument	The learned Judge, on that basis, argues,,  the judgment in a suit being only interpartes, a plaintiff cannot be compelled; to implead as a defendant a person against whom he seeks no relief.
+Precedent	I may quote his very words from the judgment:  The very basic principle of judgment interpartes is that the judgments are not judgements in rem, but declaratory and operative-only as between them.
+Precedent	The plaintiff being generally dominus litus, I fail to see on what principle of justice he can be compelled to fight against some other litigant not of his own choice unless such a process is required by a positive rule of law.
+Precedent	12.
+Precedent	This view seems to ignore the distinction which the section makes between two classes of persons:  (1) "Persons who ought to have been joined;  (2) persons whose presence is necessary to enable the <ORG> to completely and effectively adjudicate upon and settle all the questions involved in the suit.
+Precedent	13.
+Precedent	The first part deals with necessary parties, and the second, with proper parties.
+Precedent	True, a decision is binding only on the parties to the sui t; but does it follow that a <ORG> is bound to decide a dispute in the absence of those persons whom it most vitally concerns?
+Precedent	With greater respect, I find myself unable to follow the case relied upon by the lower <ORG>.
+Precedent	The view taken in that case is opposed not only to the plain wording of the section but also to a large body of authority.
+Precedent	<NAME> v. <NAME> [1882] 5 Mad.
+RatioOfTheDecision	52 is a direct ruling on the point.
+RatioOfTheDecision	That was a decision on the Code of 1877, but in this respect, there is no difference between that and the present code.
+Fact	The plaintiff in that case sued defendant 1, on a bond executed in his favour.
+Argument	Defendant 1 pleaded that the plaintiff and his uncle formed a joint Hindu family, that the bond was taken on behalf of that family and that he had made a part payment to the plaintiff's uncle.
+Argument	The latter, supporting the statement made by defendant 1, sought to intervene; and the plaintiff resisted his application.
+Precedent	The learned Judges (<NAME>, <NAME>, and <NAME>, J.,) thus deal with the q uestion : Is the effectual adjudication mentioned in the section only as between the parties to the suit?
+RatioOfTheDecision	Or does the section contemplate a final decision as between not only them, but also third parties interested in the dispute?
+RatioOfTheDecision	They state their answer in terms which leave no doubt on the paint.
+RatioOfTheDecision	To accept the more restricted interpretation involves the addition of words' which we do not find in the section, namely, " between the parties to the suit," and there can be few, if any, questions which cannot be determined between the parties to the suit one way or other, and of which the determination, if they be material, will, as between the parties to the suit not be final.
+RatioOfTheDecision	On the other hand, the interpretation warranted by the terms would enable the <ORG> to avoid conflicting decisions on the same question which would work injustice to a party to the suit, and finally and effectually to put an end to the litigation respecting them.
+RatioOfTheDecision	No better instance of wisdom of such a rule could be afforded than is present ed by the suit before the <ORG>.
+Precedent	14.
+Precedent	Another important ruling on the point is <CITATION_637542>  11 C.L.J.
+Precedent	426. which directly answers one of the questions raised by <NAME>, <NAME> was the plaintiff and <NAME>.
+Precedent	was the defendant.
+Precedent	The suit was to eject the defendant on the ground that the holding was non-transferable.
+Argument	<NAME> a third party, applied to be made a party to the suit, alleging that although he conveyed the holding in favour of the defendant, the conveyance was in reality a mortgage by conditional sale and that he himself was still in possession.
+RatioOfTheDecision	The learned Judges, reversing the order of the lower <ORG>, held that <NAME> should have been made a party.
+RatioOfTheDecision	<NAME>, J., after stating that the whole matter in controversy ought to be determined in one suit thus observes:  We must hold, therefore, that the petitioner is a proper party.
+RatioOfTheDecision	The question remains, whether he can be joined as a defendant although the plaintiff objects to or does not desire the joinder.
+RatioOfTheDecision	Now, as explaine d in the case of <NAME> v. <NAME> [1895] 2 Q.B.
+RatioOfTheDecision	321 the <ORG> has the power to add a person as defendant even though the plaintiff objects to such joinder.
+RatioOfTheDecision	15.
+Precedent	I may quote another paragraph from the judgment:  The object of the legislature is to avoid multiplicity of suits, and to ensure that the dispute may be finally determined at the same time in the presence of all the parties interested without the delay and expense of several actions and trials.
+Precedent	16.
+Precedent	It is rightly pointed out in the judgment, if serious embarrassment or inconvenience would be caused to the plaintiff by the addition of a new party, the <ORG> would be very reluctant to force an additional defendant into the action.
+Precedent	17.
+Precedent	The Indian authorities are thus decidedly opposed to the view expressed in <CITATION_142305> for <ORG>.
+Precedent	Do the English cases give countenance to a different rule?
+Precedent	<NAME> v. <NAME>  2 Q.B.
+Precedent	321 deals fully with the question.
+Precedent	The action was by a shipowner for a declaration that he is entitled t o freight against the consignee of the goods who had no property in the cargo.
+Precedent	It was held that the shippers of the cargo who applied to be added as defendants are proper parties and that they should be added in order that they might counter claim against the plaintiffs, damages for short delivery and injury to cargo.
+Precedent	Lord <NAME>, M.E.
+Precedent	says:  Then comes the question whether, for the purpose of preventing the useless and expensive formality of having two separate actions, the <ORG> may not add the owners of the cargo as defendants in the original action and so settle the whole matter in one action and by one trial.
+Precedent	18.
+Precedent	The learned Master of the Bolls explains that it was one of the great objects of the Judicature Acts, that where there is one subject-matter out of which several disputes arise all parties should be brought before the <ORG> and all disputes should be determined in one and the same action.
+Precedent	<NAME>, <ORG>, says that to refuse the application would amount to a frittering away the effect of the  rule.
+Precedent	19.
+Precedent	In <NAME> v. <ORG>, the learned Judge relies upon two cases : <NAME> v. <NAME> and <NAME> v. <NAME> [1892] 1 Ch.
+Precedent	487.
+Precedent	I may point out that both these cases were, in the arguments, brought to the notice of <ORG> which decided <NAME> v. <NAME>.
+Precedent	Referring to the first of them, Lord <NAME>, M.R.
+Precedent	says:  With regard to the case of <NAME> v. <NAME> [1877] 2.
+Precedent	C.P.D.
+Precedent	80 it is to be observed that it was decided at an early stage of the decisions with regard to the meaning of the Judicature Acts, and, though I do not say that the actual decision was wrong, I do not think that all the statements made in the judgments could now be supported.
+Precedent	20.
+Precedent	<NAME> and <ORG> [1920] A.C. 358, decided by <ORG> is another case which supports the view, I am taking.
+Precedent	The question there was, is the Attorney General a proper party?
+Precedent	Lord <NAME> in his judgment observes as follows:  With regard to the first of the se contentions their Lordships are clearly of opinion that the Attorney General ought to be before the <ORG>.
+RatioOfTheDecision	It is quite true that the title of the <ORG> to the land in question is not in controversy, nor is the <ORG> asked to do any act or grant any estate or privilege, but in the event of the plaintiff's success, the right existing in the <ORG> and consequent upon the grant to the respondents will cease.
+RatioOfTheDecision	If these interests lay in a third party, he ought certainly to be added as defendant, and that is the best means of tasting the necessity of the attendance of the <ORG>.
+Precedent	21.
+Precedent	These cases establish that even against the plaintiff's consent a new party may be impleaded as a defendant and that he may be so added though he may thereby be in a position to counter claim against the plaintiff.
+Precedent	22.
+RatioOfTheDecision	I am, therefore, satisfied both on principle and authority that the contention of the learned <ORG> Pleader is correct.
+Fact	I reverse the order of the lower <ORG> and direct that the <ORG> be added as defendant t o the suit.
+Fact	The plaintiff shall pay the costs of the petitioner in the lower Court and in this Court.
+Fact	I fix the fee of the Government Pleader at Rs.
+Fact	100.
+Fact	This disposes of C.R.P.
+Precedent	1215 of 1928.
+Precedent	23.
+Fact	I shall now deal with the second C.R.P.
+Fact	1259 of 1928.
+Fact	Ten members elected by <ORG> were serving on <ORG>.
+Fact	One of the ten seats became vacant and it was to fill up that seat, that the election which I have described was held.
+Fact	Subsequently by efflux of time, the remaining nine members also vacated their seats.
+Fact	This led to a fresh election by <ORG> who elected ten 'members, treating the election of the plaintiff as void.
+Fact	One of these ten also applied to the lower Court to be made a party and the lower Court refused his application.
+Fact	What the applicant says is; that he effectually represents all the ten members.
+Fact	It is said that they are the persons whom the result of the suit affects, for their election will be invalid, if the plaintiff is held to have been validly elected.
+RatioOfTheDecision	In my opinion,  the proper course is to direct that all of them should be brought on the record as defendants and that is the order I make on this petition.
+RulingByPresentCourt	I make no order as to costs.

@@ -1,0 +1,968 @@
+Fact	PETITIONER: <NAME> & <NAME>.
+Fact	Vs. RESPONDENT: <NAME> & ANR.
+Fact	DATE OF JUDGMENT: 22/11/1968 BENCH: <NAME>, M. (CJ) BENCH: <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, K.S.
+Fact	CITATION: 1970 AIR 898 CITATOR INFO : D 1973 SC1041 (16) F 1974 SC 259 (9) R 1974 SC 532 (11) F 1974 SC2077 (11) R 1975 SC 511 (10) RF 1975 SC 538 (18) R 1975 SC 813 (13,14,16,17) F 1979 SC1328 (10) RF 1981 SC1082 (15) R 1982 SC 101 (28) R 1988 SC1531 (126) F 1990 SC 313 (26) RF 1990 SC 415 (20) RF 1990 SC 772 (8,32) D 1991 SC1676 (72) ACT: Constitution of India, 1950, Art.
+Fact	32-- Laches--Fundamental right-Effect on.
+Fact	Petition under Art.
+Fact	226-- Contention raised that provision of law is ultra vires as violating fundamental rights--Contention not considered but petition dismissed in limine-Order of <ORG> if res judicata, in relation to petition under Art.
+Fact	32.
+Fact	HEADNOTE: The sales tax authorities directed that the sum realised as sales tax by the petitioners from their customers and paid over to the S tate should be refunded to the petitioners on condition that the petitioners passed on the amounts to their customers.
+Fact	Since the petitioners did not fulfil the condition, the sales tax officer 'forfeited the sum under s. 21(4) of .the Bombay Sales Tax Act, 1953, by order dated March 17, 1958.
+Fact	On March 28, the petitioners filed a writ petition in <ORG> and contended that s. 21(4) was ultra rites the powers of <ORG> and was violative of Arts.
+Fact	19(1)(f) and 265 of the Constitution and hence, they were not liable to repay the amount.
+Fact	The single Judge dismissed the petition on the ground that the petitioners defrauded their customers and so were not entitled to any relief even if there was a violation of fundamental rights.
+Fact	The appellate bench of <ORG> dismissed the appeal on the ground that it would not interfere with the discretionary order of the single Judge.
+Fact	On December 24, 1958, the Collector attached the properties of the petitioners for recovering the amount as arrears of l and revenue and the petitioners paid the amount in instalments between August 1959 and August 1960.
+Fact	On September 29, 1967 this <ORG> in <CITATION_1041943> , 21 S.T.C.
+RulingByLowerCourt	174 (S.C.) struck down s. 12A(4) of Bombay Sales Tax Act, 1946, corresponding to s. 2'1(4) of the 1953- Act, on the ground that it was violative of Art.
+RulingByLowerCourt	19(1)(f) inasmuch as the power conferred by the section was unguided, uncanalised and uncontrolled and so was not a reasonable restriction on the fundamental right guaranteed under the Article.
+RulingByLowerCourt	On the assumption that s. 21(4) of the 1953-Act is also liable to be struck down on the same ground, on February 9, 1968, the petitioners flied a writ petition under Art.
+Fact	32 claiming a refund of the amount.
+Fact	The petitioners contended that they did not know that the section was ultra vires on the particular ground on which this <ORG> struck it down, that they paid the amounts under coercion or mistake, that the mistake was discovered on September 29, 1967 (the date of the judgment of this <ORG>) and that th ey were entitled to the refund under s. 72 of the Indian Contract Act, 1872.
+Fact	On the questions: (1) Whether the petition is liable to be dismissed on the ground of Inches; and (2) Whether the petition is barred by res judicata in view of the decision of <ORG>.
+Fact	HELD: (Per <NAME>, C.J., <NAME> and <NAME>, JJ.
+Fact	): (1) The petition must be dismissed on the ground of Inches.
+Fact	825 Per <NAME> C.J.
+Fact	: Article 32 gives the right to move this <ORG> by appropriate proceedings for enforcement of fundamental rights and the <ORG> cannot place any hindrance in the way of an aggrieved person.
+Fact	But once the matter has reached this <ORG>, the extent or manner of interference is for this <ORG> to decide.
+Argument	This <ORG> has put itself in restraint in the matter of petitions under Art.
+Argument	32.
+Argument	For example, this <ORG> refrains from acting under the Article if the party had already moved <ORG> under Art.
+Argument	226 and if <ORG> had exercised its parallel jurisdiction.
+Argument	In such a case, this <ORG> would not allow fr esh proceedings to be started under Art.
+Argument	32 but would insist on the decision of <ORG> being brought before it on appeal.
+Argument	Similarly, in inquiring into belated and stale claims, this <ORG> should take note of evidence of neglect of the petitioner's own rights.
+Argument	for a long time or of the rights of innocent parties which might have emerged by reason of the delay.
+Argument	The party aggrieved must therefore move this <ORG> at the earliest possible time and explain satisfactorily all semblance of delay.
+RatioOfTheDecision	It is not possible for this <ORG> to lay down any specific period as the ultimate limit of action and each case will have to be considered on its own facts.
+Fact	A petition under Art.
+Fact	32 is neither a suit nor an application to which the Limitation Act applies.
+Precedent	Further, putting curbs in the way of enforcement of fundamental rights through such legislative action might be questioned under Art.
+Precedent	13(2).
+Precedent	for, if a short period of limitation is prescribed the fundamental right might be frustrated.
+Precedent	Therefore, this <ORG> has to ex ercise its discretion from case to case, and where there is appearance of an avoidable delay and this delay affects the merits of the claim, this Court will consider it, and in a proper case, hold the party disentitled to invoke its extraordinary jurisdiction.
+Precedent	[830C, DE.
+Precedent	G--H; 831 A--B.
+Precedent	C--E; 832 A--E] In the present case, the petitioners moved unsuccessfully <ORG> for relief on the.
+Precedent	ground that the recovery from them was unconstitutional, but did not come up in appeal to this Court.
+Precedent	There is thus no question of any mistake of law.
+Precedent	Having set the machinery of law in motion they cannot abandon it to resume it after a .number of years because another person got the statute declared unconstitutional.
+Precedent	They should have known the exact ground of unconstitutionality since every one is presumed to know the law; and pursued the ground in this Court.
+Precedent	Not having done so, and having abandoned his own litigation years ago.
+Precedent	this Court will not apply the analogy of the Article in the Limitation Act in cases of mist ake of law and give him relief.
+Precedent	[832 F--H; 833 A--B, C--E] Per <NAME>, J.: The normal remedy for recovery of money paid to the <ORG> under coercion or mistake of law is by suit.
+RatioOfTheDecision	The right to move this <ORG> for enforcement of fundamental rights is guaranteed by Art.
+RatioOfTheDecision	32 , and no period of limitation is prescribed for such a petition.
+RatioOfTheDecision	The writ issues as a matter of course if a breach of a 'fundamental right established, but this does not mean that in giving relief under the Article this <ORG> may ignore all laws of procedure.
+Precedent	The extraordinary remedies under Arts.
+Precedent	32 and 226 of the Constitution are not intended to enable a claimant to recover monies the recovery of which by suit is barred by limitation.
+RatioOfTheDecision	In the absence any roles of procedure under Art.
+RatioOfTheDecision	145(1)(c) this <ORG> may adopt any reasonable rule.
+RatioOfTheDecision	For example.
+RatioOfTheDecision	this <ORG> will not allow a petitioner to move this <ORG> under Art.
+RatioOfTheDecision	32 on a petition containing misleading and inaccurate statements.
+RatioOfTheDecision	Similarly, the general principles of res judicata are applied  where applicable on grounds of public policy.
+RatioOfTheDecision	Therefore, where the remedy in a writ application under Art.
+RatioOfTheDecision	32 or Art.
+RatioOfTheDecision	226 corresponds to a 'remedy in an ordinary suit and the latter remedy is subject to the bar of a statute of limitation, the <ORG> imposes on analogy the same limitation on the summary 826 remedy in the writ jurisdiction even though there is no express statutory bar of limitation, on grounds of public policy and on the principle that the laws aid the vigilant and not those who slumber.
+RatioOfTheDecision	[842 A--F; 843 A--F] In the present case, the petitioners were not labouring under any mistake of law when they made the payments, because, in their writ petition in the High <ORG>, they contended that the order was invalid and that s. 21(4) of the Bombay Sales Tax Act, 1953, was ultra vires and unconstitutional although they did not know the precise ground upon which this <ORG> subsequently struck down s. 12A(4) of the 1946-ACt.
+RatioOfTheDecision	Therefore, when they made the payments in 1959 and 1960 they were made under coerci on and not under a mistake of law in thinking that the money was due.
+RatioOfTheDecision	Hence the petitioners could not claim any relief on the ground of mistake.
+RulingByLowerCourt	They could rely on the ground of coercion but a suit for the recovery of money on the ground of coercion instituted in February 1968, would have been barred by limitation.
+RulingByLowerCourt	A suit for recovery of money on the ground of coercion instituted after January 1, 1964 would be governed by Art.
+RulingByLowerCourt	24 of the Limitation Act , 1963, and the period of limitation would be 3 years from the dates in 1959 and 1960 when the amounts were paid.
+RulingByLowerCourt	The petitioners could not obtain an extension of the period under s. 30(a) of the Limitation Act, 1963, as Art.
+RulingByLowerCourt	62 of the Limitation Act , 1908, which governs a suit for recovery of tax or other levy illegally collected, prescribed the same period of limitation.
+RulingByLowerCourt	[840 F--H; 841 <CITATION_18283> , (1949) L.R.
+Precedent	76 I.A.
+Precedent	244, 254, <CITATION_1263190>  S.C.R.
+Precedent	1350, 1361, 1362, <CITATION_1119697>  2 S.C.R.
+Precedent	577, 612--620, <CITATION_1204286> .
+Argument	6 S.C.R.
+Argument	261 274 , <NAME> v. <ORG> of U.P.
+Argument	1 S.C.R.
+Argument	574, <CITATION_1478888> ,  Supp.
+Argument	1 S.C.R.
+Argument	99, 111 and Her Highness <NAME> v. <NAME>, (185152) 5 M.I.A.
+Argument	234, 251, referred to.- Per <NAME>, J.: The Limitation Act does not in terms apply to proceedings against the <ORG> under Art.
+Argument	32 in respect of violation of fundamental rights.
+Argument	A person complaining of such infraction has.
+Argument	one of three courses open to him.
+Argument	He can file a suit, invoke Art.
+Fact	226 or Art.
+Fact	32Suits are governed by the Limitation Act .
+Fact	In the matter of the issue of a writ under Art.
+Fact	226 also, courts have refused to give relief in cases of long or unreasonable delay, although the Limitation Act does not apply, and the maximum period fixed by the <ORG> for filing a suit is ordinarily taken to be a reasonable standard by which delay in seeking the remedy under Art.
+Fact	226 can be measured.
+Precedent	There is no reason for applying a different test when a party comes to this <ORG> under Art.
+Precedent	32.
+Precedent	There is public policy behind all statutes of limitation and a  claim based on the infraction of fundamental rights ought not to be entertained if made beyond the period fixed by the Limitation Act for the enforcement of the right by way of suit, that is, although the Limitation Act does not apply, the period fixed by it should be taken to be a true measure of the time within which a person can be allowed to raise a plea successfully under Art.
+Precedent	32.
+Argument	[853 C--H; 854 A--B] The petitioners in this case had not made a mistake in thinking that the money paid was due when in fact it was not due.
+Argument	They not only opposed the claim of the sales tax authorities but filed a writ petition contending that there was a violation of Art.
+Argument	19(1)(f).
+Argument	They did not accept the decision of the single Judge but filed an appeal raising the same contention.
+Argument	They complained about the violation of their fundamental rights, the illegality of the order of forfeiture and the unreason- 827 able restriction on their fundamental rights under Art.
+Argument	19(1)(f).
+Argument	They protested against the order of forfeiture not o nly out of court but in court and only paid the amounts after the issue of legal process.
+Argument	They were never influenced by a mistake of law and never 'failed to 'appreciate the correct position in law.
+Argument	But the payments were made under coercion.
+Argument	The period of limitation for a suit against <ORG> to recover money paid under protest is governed either by Art.
+Fact	16 or Art.
+Fact	62 of the Limitation Act , 1908 that is one year or three years.
+Fact	But taking the most favourable view that the period of six years fixed by Art.
+RatioOfTheDecision	120 of Limitation Act , 1908, would apply, that period would have expired in 1966.
+RatioOfTheDecision	The position is not different even if the Limitation Act , 1963 is applied.
+RatioOfTheDecision	A claim for money paid under coercion would be covered by Art.
+RatioOfTheDecision	113 of the Limitation Act , 1963, giving a period of 3 years from January 1, 1964 the date of commencement of the 1963-Act.
+RulingByLowerCourt	Under s. 30(a) of the Limitation Act, 1963, the period of limitation for a suit which was formerly covered by Art.
+RulingByLowerCourt	120 of the Act of 1908; would be covered by Art.
+RulingByLowerCourt	113 of the 1963-Act.
+RulingByLowerCourt	Therefore, the suit in the present case would have to be filed by January 1, 1967.
+Fact	As the petitioners came to this <ORG> in February 1968 long after the date when they could have properly filed a suit, the application under Art.
+Fact	32 must be rejected.
+Precedent	[851 H; 852 A---D, G-H; 853 A--B; 854- B--H;, 855 A-B] <ORG> v.<NAME> 2.1 S.T,C.
+Precedent	174, Sri Sri <NAME>, deceased, now represented by <CITATION_18283> 76 I.A.
+Precedent	244, <CITATION_1263190> ,  S.C.R.
+Precedent	1350 at 1363, <CITATION_127667> jai Prakash,  1 S.C.R.
+Precedent	243, State o/ <CITATION_1204286>  6 S.C.R.
+Precedent	261, State of Kerala v. <ORG> 16 S.T.C.
+Precedent	689, and <NAME> v. The State of Andhra Pradesh  2 S.C.R.
+Argument	577, referred to.
+Argument	Per <NAME> and <NAME>, <ORG> (dissenting): The petition has to be allowed and the petitioners must be granted the relief prayed for.
+Argument	Per <NAME>, J.: Article 32(2) of the Constitution confers a judicial power on this <ORG>, and like all judicial powers, unless there is an express provision to  the contrary, it must be exercised in accordance with fundamental principles of administration of justice, and one such fundamental principle is that stale claims should not be given effect to.
+Argument	[833 F--G] The Limitation Act does not directly apply to a petition under Art.
+Argument	32 and to invoke the analogy of the Limitation Act is not appropriate when dealing with petitions under Art.
+Argument	32.
+Argument	If a claim is barred under the Limitation Act , prima facie it is a stale claim but even if it is not so barred, it may not' be entertained by this <ORG> if on the facts of the case there is unreasonable delay.
+RatioOfTheDecision	To issue a writ, direction or order in the nature of mandamus certiorari or prohibition after a delay of 12 years or 6 years would, except when there are exceptional circumstances, be strange.
+RatioOfTheDecision	It is difficult to lay down a precise period, but a period of one year may be taken as the period beyond which the claim would be a stale claim unless the delay is explained.
+RatioOfTheDecision	The time spent in making representations to higher authori ties may be taken as a good explanation for any delay.
+RatioOfTheDecision	Such a practice would not destroy the guarantee under Art.
+RatioOfTheDecision	32 , because, the article nowhere lays down that a petition, however late, should be entertained.
+RatioOfTheDecision	[833 G; 835 C-H] In the present case, the petitioners were mistaken in thinking that the money was liable to be paid under a valid law and hence under s. 72 of the Contract Act, the petitioners would be entitled to the relief claimed.
+RatioOfTheDecision	The grounds urged before <ORG> show that it never struck the petitioners that the provision could be challenged on the ground ulti- 828 mately accepted by this Court.
+RatioOfTheDecision	If the petitioners had not moved <ORG> but had paid on demand they would have been entitled to maintain the petition in this Court.
+RatioOfTheDecision	The position could not be worse became they exercised their right under Art.
+RatioOfTheDecision	226.
+RatioOfTheDecision	When a petitioner approaches <ORG> and fails, it could not be said that payments made by him thereafter were not under a mistake of law, even if the point on which this Co urt ultimately strikes down the provision under which the payments were made was never raised in <ORG>.
+RatioOfTheDecision	The petitioners discovered, like all assessees their mistake when this <ORG> struck down s. 12A(4) of the 1946-Act and they came to this <ORG> within 6 months of that date and hence there was no delay.
+RatioOfTheDecision	[837 G--H; 839 B---E] <NAME> v. State of U.P.
+Precedent	1 S.C.R.
+Precedent	574, <CITATION_996317> , A.I.R.
+Fact	1964 S.C. 1013, 1018, Sales Tax Officer v. <NAME>,  S.C.R.
+Fact	1350 and <CITATION_1041943> , 21 S.T.C.
+Fact	174, referred to.
+Fact	<NAME>, J.: In view of the decision of this <ORG> in <CITATION_1224032> , 21 S.T.C.
+Fact	174 which struck down s. 12A(4) or the 1946-Act, the impugned collection under s. 21(4) of the 1953-Act was without the authority of law and consequently the exaction infringed the fundamental right of the petitioners under Art.
+Fact	19(1)(f).
+Argument	Hence the petitioners have a fundamental right to approach this' <ORG> under Art.
+Argument	32 for relief and this <ORG> has a duty to afford them the appropriate relief.
+RatioOfTheDecision	Since the ri ght given to the petitioners under Art.
+RatioOfTheDecision	32 is itself a fundamental right and does not depend on the discretionary powers of this <ORG>, as in 1be case of Art.
+RatioOfTheDecision	226 , it is inappropriate to equate the duty imposed on this <ORG> to the powers of Chancery <ORG> in England or the equitable jurisdiction of <ORG>s in the United States.
+Precedent	The fact that the petitioners have no equity in their favour is an irrelevant circumstance in deciding the nature of the right available to an aggrieved party under Art.
+Precedent	32.
+Precedent	This <ORG> is charged by the Constitution with the special responsibility of protecting and enforcing the fundamental rights, and hence leaches on the part of an aggrieved party cannot deprive him of his right to get relief under Art.
+Precedent	32.
+RatioOfTheDecision	In fact, law reports do not show a single instance of this <ORG> refusing to grant relief on the ground of delay.
+RatioOfTheDecision	If this <ORG> could refuse relief on the ground of delay, the power of the <ORG> under Art.
+RatioOfTheDecision	32 would be a discretionary power and the right would cease to be a fundam ental right.
+RatioOfTheDecision	The provisions contained in the Limitation Act do not apply to proceedings under Arts.
+RatioOfTheDecision	226 and 32 and if these provisions of the Limitation Act are brought in indirectly to control the remedies conferred by the ConstitUtion, it would be a case of <ORG> indirectly abridging the fundamental rights which this <ORG>, in <NAME>'s case,  2 S.C.R.
+RatioOfTheDecision	762, held that <ORG> cannot do.
+RatioOfTheDecision	The 'fear.
+RatioOfTheDecision	that forgotten claims and discarded rights against Government may be sought to be enforced after the lapse of a number of years if fundamental rights are held to be enforceable without any time limit, is an exaggerated one, for, after all, a petitioner can only enforce an existing right.
+RatioOfTheDecision	[856 D. F--H; 857 A, B, D, G-H; 858 A, D--E, F--H; 859 H] In this case the petitioners have an existing right even if their remedy under the ordinary law is barred.
+RatioOfTheDecision	This <ORG> struck down s. 12A(4) of the 1946-Act on a ground not put forward by the petitioners in the High <ORG> but on a wholly different ground.
+RatioOfTheDecision	A mere imp ression of a party that a provision of law may be ultra vires cannot be equated to knowledge that the provision is invalid.
+RatioOfTheDecision	and the fact, that, after a futile attempt to get the provision in question declared invalid the petitioners gave up their fight and submitted to the law which was apparently valid is no proof of the fact that they knew that the provision in question was 829 invalid.
+RatioOfTheDecision	There is no reason for rejecting the plea of the petitioners that they became aware of the invalidity of the provision only after the decision of this <ORG> in <NAME>'s case, and since the petition was filed very soon thereafter, the petitioners were entitled to relief.
+RatioOfTheDecision	[860 <CITATION_1204286> ,  6 S.C.R.
+RatioOfTheDecision	261, referred to.
+RatioOfTheDecision	(2) (By Full <ORG>): The petition is not barred by res judicata.
+Precedent	Per <NAME>, C.J.
+Precedent	Where the order of the High <ORG> under Art.
+Precedent	22% is not a speaking order or the matter has been disposed of on some ground other than on merits, at the threshold, this <ORG>may entertain the application under Art.
+Precedent	32.
+Precedent	[831 B] <NAME> v. State of U.P.
+Precedent	1 S.C.R.
+Precedent	574, explained.
+Precedent	Per <NAME>, <NAME> and <NAME>, JJ.
+Precedent	: When a petition under Art.
+Precedent	226 is dismissed not on the merits but because of the laches on the party applying for ,the writ or because an alternative remedy was available to him, such dismissal is not a bar to a subsequent petition under Art.
+Precedent	32 , except in cases when the facts found by <ORG> might them selves be relevant under Art.
+Precedent	32.
+Precedent	[833 E--F; 839 F--G; 855 C--D,F-G] <NAME>'s case,  1 S.C.R.
+Precedent	574 and <CITATION_323835> , A.I.R.
+RatioOfTheDecision	1965 S.C. 1514, referred to.
+RatioOfTheDecision	<NAME> It is only when the right claimed by the petitioner in his petition under Art.
+RatioOfTheDecision	32 had been claimed in <ORG> under Art.
+Precedent	226 and negatived by <ORG> and that decision had become final as it was not appealed against, that the petitioner would not be able to agitate the right over again in this <ORG> under Art.
+Precedent	32.
+Precedent	[856 B--C] <NAME>'s case,  1 S.C.R.
+Precedent	574, explained.
+Precedent	JUDGMENT:  ORIGINAL JURISDICTION: Writ Petition No.
+Precedent	53 of 1 968.
+Precedent	Petition under Art.
+Precedent	32 of the Constitution of India for enforcement of the fundamental rights.
+Precedent	<NAME>, <NAME> and <NAME> for the petitioners.
+Precedent	<NAME>, Attorney-General, <NAME>, <NAME> and <NAME>, for the respondents.
+Precedent	<NAME>, <NAME>, <NAME> and <NAME>, JJ., delivered segarate judgments dismissing the petition.
+Precedent	<ORG> and <ORG> delivered separate dissenting opinions allowing the petition.
+Precedent	<NAME>, <NAME> This petition has led to a sharp division of opinion among my 'brethren: <NAME> and <NAME>, JJ.
+Precedent	would allow the petition and <NAME> and <NAME>, JJ.
+Precedent	would dismiss it.
+Precedent	They have differed on the question whether the petition deserves to be dismissed on the ground of delay.
+Precedent	I agree in the result reached by <NAME> and <NAME>, JJ.
+Precedent	and would also dismiss if I wish briefly to state my reasons.
+Precedent	At the threshold it appears to me that as there is no.
+RatioOfTheDecision	law which prescribes a period of limitation for such petitions, each of my brethren has really given expression  to the practice he follows or intends to follow.
+RatioOfTheDecision	I can do no more than state the views 1 hold on this subject and then give my decision on the merits of the petition in the light of those views.
+RatioOfTheDecision	The problem divides itself into two.
+RatioOfTheDecision	The first part is a general question to be considered in two aspects: (a) whether any limit of time at all can be imposed on petitions under Art.
+RatioOfTheDecision	32 , and (b) whether this <ORG> would apply by analogy an article of the Indian Limitation Act appropriate to the facts of the case or any other limit ?
+RatioOfTheDecision	The second is what is to be done in this case ?
+RatioOfTheDecision	I shall begin by stating my views on the first question.
+RatioOfTheDecision	There appears to be some confusion about the scope of Article 32.
+RatioOfTheDecision	That Article gives the fight to move the Supreme <ORG> by appropriate proceedings for enforcement of the rights conferred by Part III of the Constitution.
+RatioOfTheDecision	The provision merely keeps open the doors of this <ORG>, in much the same way, as it used to be said, the doors of the Chancery <ORG> were always open.
+RatioOfTheDecision	The <ORG> cann ot place any hindrance in the way of an aggrieved person seeking to approach this <ORG>.
+RatioOfTheDecision	This is logical enough for it is against State action that Fundamental Rights are claimed.
+RatioOfTheDecision	But the guarantee goes no further at least on the terms of Art.
+Precedent	32.
+RatioOfTheDecision	Having reached this <ORG>, the extent or manner of interference is for the <ORG> to decide.
+RatioOfTheDecision	It is clear that every case does not merit interference.
+RatioOfTheDecision	That must always depend upon the facts of the case.
+RatioOfTheDecision	In dealing with cases which have come before it, this <ORG> has ,already settled many principles on which it acts.
+RatioOfTheDecision	A few of them may be mentioned here.
+RatioOfTheDecision	This <ORG> does not take action in cases covered' by the ordinary jurisdiction of the civil courts, that is to say, it does not convert civil and criminal actions into proceedings for the obtainment of writs.
+RatioOfTheDecision	Although there is no rule or provision of law to prohibit the exercise of its extraordinary jurisdiction this <ORG> has always insisted upon recourse to ordinary remedies or the exhaustion of other remedies.
+RatioOfTheDecision	It is  in rare cases, where the ordinary process of law appears to be inefficacious, that this <ORG> interferes even where other remedies are available.
+RatioOfTheDecision	This attitude arises from the acceptance of 'a salutary principle that extraordinary remedies should not take the place of ordinary remedies.
+RatioOfTheDecision	Then again this <ORG> refrains from acting under Art.
+RatioOfTheDecision	32 if the party has already moved <ORG> under Art.
+RatioOfTheDecision	226.
+RatioOfTheDecision	This constitutes a comity between <ORG> and <ORG>.
+RatioOfTheDecision	Similarly, when a party had already moved <ORG> with a similar complaint and for the same relief and failed, this <ORG> insists on an appeal to be brought before it and does not allow fresh proceedings to be started.
+RatioOfTheDecision	In this connection the principle of res judicata has been applied, although the expression is somewhat inapt and unfortunate.
+RatioOfTheDecision	The reason of the rule no doubt is public.
+RatioOfTheDecision	policy which <ORG> summarised as "interest reipublicae res judicates non rescindi" but the motivating factor is the existence of another parallel ju risdiction in another <ORG> and that <ORG> having been moved, this <ORG> insists on bringing its decision 'before this <ORG> for review.
+RatioOfTheDecision	Again this <ORG> distinguishes between cases in which a speaking order on merits has been passed.
+RatioOfTheDecision	Where the order is not speaking or the matter has been disposed of on some other ground at the threshold, this <ORG> in a suitable case entertains the application before itself.
+RatioOfTheDecision	Another restraint which this <ORG> puts on itself is that it does not allow a new ground to be taken in appeal.
+RatioOfTheDecision	In the same way, this <ORG> has refrained from taking action when a better remedy is to move the High <ORG> under Art.
+RatioOfTheDecision	226 which can go into the controversy more comprehensively than this <ORG> can under Art.
+RatioOfTheDecision	32.
+RatioOfTheDecision	It follows, therefore, that this <ORG> puts itself in restraint in the matter of petition under Art.
+RatioOfTheDecision	32 and this practice has now become inveterate.
+RatioOfTheDecision	The question is whether this <ORG> will inquire into belated and stale claims or take note of evidence of neglect of one's own rights f or a long time?
+RatioOfTheDecision	I am of opinion that not only it would but also that it should.
+RatioOfTheDecision	The party claiming Fundamental Rights must move the <ORG> before other rights come into existence.
+Precedent	The action of courts cannot harm innocent parties if their rights emerge by reason of delay on the part of the person moving the <ORG>.
+Precedent	This principle is well-recognised and has been applied by <ORG>s in England 'and America.
+Precedent	The English and American practice has been outlined in Halsbury's Laws of England and Corpus Juris Secundum.
+Precedent	It has been mentioned by my brethren in their opinions and I need not traverse the same ground again except to say this that <ORG>s of Common Law in England were bound by the Law of Limitation but not the <ORG>s of Chancery.
+Precedent	Even so the Chancery <ORG>s insisted on expedition.
+Precedent	It is trite learning to refer to the maxim "delay defeats equity" or the Latin of it that the <ORG>s help those who .are vigilant and do not slumber over their rights.
+Precedent	The <ORG>s of Chancery, therefore, frequently applied to suits in  equity the analogy of the law of Limitation applicable to actions at law and equally frequently put a special limitation of their own if they thought that the suit was unduly delayed.
+Precedent	This was independently of the analogy of law relating to limitation.
+Precedent	The same practice has been followed in the United States.
+Precedent	In India we have the Limitation Act which prescribes different periods of limitation for suits, petitions or applications.
+Precedent	There are also residuary articles which prescribes limitation in those cases where no express period is provided.
+Precedent	If it were a matter of a suit or application, either an appropriate article or the residuary article L6Sup.C.I./69--2 would have applied.
+Precedent	But a petition under Art.
+Precedent	32 is not a suit and it is also not a petition or an application to which the Limitation Act applies.
+Precedent	To put curbs in the way of enforcement of Fundamental Rights through legislative action might well be questioned under Art.
+Precedent	13(2).
+RatioOfTheDecision	The reason is also quite clear.
+RatioOfTheDecision	If a short period of limitation were prescribe d the Fundamental Right might well be frustrated.
+RatioOfTheDecision	Prescribing too long a period might enable stale claims to be made to the detriment of other rights which might emerge.
+RatioOfTheDecision	If then there is no period prescribed what is the standard for this <ORG> to follow ?
+RatioOfTheDecision	I should say that utmost expedition is the sine qua non for such claims.
+RatioOfTheDecision	The party aggrieved must move the <ORG> at the earliest possible time and explain satisfactorily all semblance of delay.
+RatioOfTheDecision	I am not indicating any period which may be regarded as the ultimate limit of action for that would be taking upon myself legislative functions.
+RatioOfTheDecision	In England a period of 6 months has been provided statutorily, but that could be because there is no guaranteed remedy and the matter is one entirely of discretion.
+RatioOfTheDecision	In India I will only say that each case will have to be considered on its own facts.
+RatioOfTheDecision	Where there is appearance of avoidable delay and this delay affects the merits of the claim, this <ORG> will consider it and in a proper case hold the party disentitled to invoke  the extraordinary jurisdiction.
+RatioOfTheDecision	Therefore, the question is one of discretion for this <ORG> to follow from case to case.
+RatioOfTheDecision	There is no lower limit and there is no upper limit.
+Precedent	A case may be brought within Limitation Act by reason of some Article but this <ORG> need not necessarily give the total time to the litigant to move this <ORG> under Art.
+Precedent	32.
+Precedent	Similarly in a suitable case this <ORG> may entertain such a petition even after a lapse of time.
+Precedent	It will all depend on what the breach of the Fundamental Right and the remedy claimed ,are and how the delay arose.
+Precedent	Applying these principles to the present case what do I find ?
+Precedent	The petitioner moved the High <ORG> for relief on the ground that the recovery from him was unconstitutional.
+Precedent	He set out a number of grounds but did not set out the ground on which ultimately in another case recovery was struck down by this <ORG>.
+Precedent	That ground was that the provisions of the Act were unconstitutional.
+Precedent	The question is: can the petitioner in this case take advantage, after a lap se of a number of years, of the decision of this Court ?
+Argument	He moved <ORG> but did not come up in appeal to this Court.
+Argument	His contention is that the ground on which his petition was dismissed was different and the ground on which the statute was struck down was not within his knowledge and therefore he did not know of it and pursue it in this Court.
+RatioOfTheDecision	To that I answer that law will presume that he knew the exact ground of unconsti-  833  tutionality.
+RatioOfTheDecision	Everybody is presumed to know the law.
+RatioOfTheDecision	It was his duty to have brought the matter before this Court for consideration.
+RatioOfTheDecision	In any event, having set the machinery of law in motion he cannot abandon it to resume it after a number of years, because another person more adventurous than he in his turn got the statute declared unconstitutional, and got a favorable decision.
+RatioOfTheDecision	If I were to hold otherwise, then the decision of <ORG> in any case once adjudicated upon and acquiesced it may be questioned in a fresh litigation revived only with the 'argument, that the c orrect position was not known to the petitioner at the time when he abandoned his own litigation.
+RatioOfTheDecision	I ,agree with the opinion of my brethren <NAME> and <NAME>, JJ.
+RatioOfTheDecision	that there is no question here of a mistake of law entitling the petitioner to invoke analogy of the Article in the Limitation Act .
+RatioOfTheDecision	The grounds on which he moved the Court might well have impressed this Court which might have also have decided the question of the unconstitutionality of the Act as was done in the subsequent litigation by another party.
+RatioOfTheDecision	The present petitioner should have taken the right ground in <ORG> and taken it in appeal to this Court after <ORG> decided against it.
+RatioOfTheDecision	Not having done so and having abandoned his own litigation years ago, I do not think that this Court should apply the analogy of the Article in the Limitation Act and give him the relief now.
+RulingByPresentCourt	The petition, therefore, fails and is dismissed with costs.
+Precedent	<NAME>, J. I have had the advantage of reading the drafts of the judgments prepared by <NAME>, J., a nd <NAME>, J. I agree with <NAME>, J. in his conclusion that the rule laid down in Daryao v. State of U.P.
+Precedent	(1) is inapplicable to the facts of the case, but for the reasons I will presently give, in my opinion the petition should be allowed.
+Precedent	Art.
+Precedent	32(2) of the Constitution confers 'a judicial power on the <ORG>.
+Precedent	Like all judicial powers, unless there is an express provision to the contrary, it must be exercised in accordance with fundamental principles of administration of justice.
+Precedent	General principles of res judicata were accordingly applied by this <ORG> in Daryao v. State of U.P.
+Precedent	(1), and <CITATION_996317> (2).
+Precedent	I understand that one of the fundamental principles of administration of justice is that, apart from express provisions to the contrary, stale claims should not be given effect to But what is a stale claim ?
+Precedent	It is not denied that the Indian Limitation Act does not directly apply to a petition under Art.
+Precedent	32.
+Precedent	Both the English <ORG>s and the American <ORG>s were confronted with a similar problem.
+Precedent	In the  United States <ORG> solved the problem thus:  (1) [1962] 1 S.C.R.
+Precedent	574.
+Precedent	(2) A.I.R.
+Precedent	1964 S.C. 1013, 1018.
+Precedent	834  "Except, perhaps, where the-statute by its express terms applies to suits in equity as well as to actions at law, or where the jurisdiction of law and equity is concurrent, the rule appears to be that <ORG> courts sitting in equity are not bound by state statutes of limitation.
+Precedent	Nevertheless, except where unusual conditions or extraOrdinary circumstances render it equitable to do so, the <ORG> courts usually act in analogy to the state statutes of limitation applicable to cases of like character."
+Precedent	(Vol 34, American Jurisprudence, Limitation of Act ions, s 54.")
+Precedent	In <ORG>, where the statutes of limitation do not control proceedings, the analogy of such statutes is ordinarily followed unless there is something exceptional in the case.
+Precedent	(ibid) <ORG> states the legal position thus:  "It was, too, a most material ground, in all bills for an acc ount, to ascertain whether they were brought to open and correct 'errors in the account recenti facto; or whether the 'application was made after a great lapse of time.
+RatioOfTheDecision	In cases of this sort, where the demand was strictly of a legal nature, or might be cognizable at law, courts of equity governed themselves by the same limitations as to entertain such suits as were prescribed by the' Statute of Limitations in regard to suits in courts of common law in matters of account.
+RatioOfTheDecision	If, therefore, the ordinary limitation of such suits at law was six years, courts of equity would follow the same period of limitation.
+RatioOfTheDecision	In so doing, they did not act, in cases of this sort (that is, in matter of concurrent jurisdiction) so much upon the ground of analogy to the Statute of Limitations, as positively in obedience to such statute.
+RatioOfTheDecision	But where the demand was not of a legal nature, but was purely equitable; or where the bar of the statute was inapplicable; courts of equity had another rule, rounded sometimes upon the analogies of th e law, where such analogy existed, and sometimes upon its own inherent doctrine, not to entertain stale or antiquated demands, and not to encourage laches and negligence.
+RatioOfTheDecision	Hence, in matters of account, although not barred by the Statute of Limitations, courts of equity refused.
+RatioOfTheDecision	to interfere after a considerable lapse of time.
+RatioOfTheDecision	from considerations of public policy, from the difficulty of doing entire justice, when, the original transactions had become obscure by time, and the evidence might have been lost, and from the consciousness that the repose of' titles and the security of property are mainly promoted by a full en-  835  forcement of the maxim, Vigilantibus, non dormientibus jura subveniunt.
+Precedent	Under peculiar circumstances, however, excusing or justifying the delay, courts of equity would not refuse their aid in furtherance of the rights of the party; since in such cases there was no presence to insist upon laches or negligence, as a ground for dismissal of the suit; and in one case carried back the account o ver a period of fifty years."
+Precedent	(Third Edition, page 224, $529) In England, as pointed out by <NAME>, J., <ORG> acted on the analogy of Statute of Limitation (vide Halsbury, Vol.
+Precedent	14, p. 647, Art.
+RatioOfTheDecision	1190 ).
+RatioOfTheDecision	It seems to me, however, that the above solution is not quite appropriate for petitions under Art.
+RatioOfTheDecision	32.
+RatioOfTheDecision	A delay of 12 years or 6 years would make a strange bed-fellow with a direction or order or writ in the nature of mandamus, certiorari and prohibition.
+RatioOfTheDecision	Beating in mind the history of these writs I cannot believe that <ORG> had the intention that five Judges of this Court should sit together to enforce a fundamental right at the instance of a person, who had without any reasonable explanation slept over his rights for 6 or 12 years.
+RatioOfTheDecision	The history of these writs both in England and the U.S.A. convinces me that the underlying idea of the Constitution was to provide an expeditious and authoritative remedy against the inroads of the <ORG>.
+RatioOfTheDecision	If a claim is barred under the Limitatio n Act , unless there are exceptional circumstances, prima facie it is a stale claim and should not be entertained by this <ORG>.
+RatioOfTheDecision	But even if it is not barred under the/radian Limitation Act , it may not be entertained by this <ORG> if on the facts of the case there is unreasonable delay.
+RatioOfTheDecision	For instance, if the <ORG> had taken possession of property under a law alleged to be void, and if a petitioner comes to this <ORG> 11 years after the possession was taken by the <ORG>, I would dismiss the petition on the ground of delay, unless there is some reasonable explanation.
+RatioOfTheDecision	The fact that a suit for possession of land would still be in time would not be relevant at all.
+RatioOfTheDecision	It is difficult to lay down a precise period beyond which delay should be explained.
+RatioOfTheDecision	I favour one year because this <ORG> should not be approached lightly, and competent legal 'advice should be taken and pros and cons carefully weighed before coming to this <ORG>.
+RatioOfTheDecision	It is common knowledge that appeals and representations to the higher authorities take ti me; time spent in pursuing these remedies may not be excluded under the Limitation Act , but it may ordinarily be taken as a good explanation for the delay.
+RatioOfTheDecision	It is said that if this was the practice the guarantee of Art.
+RatioOfTheDecision	32 would be destroyed.
+RatioOfTheDecision	But the article no where says that a petition, howsoever late, should be entertained and a writ or order or direction granted, howsoever remote the date of infringement of the fundamental right.
+RatioOfTheDecision	In practice this <ORG> has not been entertaining stale claims by persons who have slept over their rights.
+RatioOfTheDecision	There is no need to depart from this practice ,and tie our hands completely with the shackles imposed by the Indian Limitation Act .
+RatioOfTheDecision	In the case of applications under Art.
+Statute	226 this <ORG> observed in <CITATION_1204286> (1):  "It may however be stated as a general rule that if there has been unreasonable delay the <ORG> ought not ordinarily to lend its aid to a party by this extraordinary remedy of mandamus.
+RatioOfTheDecision	Again, where even if there is no such delay the Government or the st atutory authority against whom the consequential relief is prayed for raises a prima facie triable issue as regards the availability of such relief on the merits on grounds like limitation, the <ORG> should ordinarily refuse to issue the writ of mandamus for such payment.
+RatioOfTheDecision	In both these kinds of cases it will be sound use of discretion to leave the party to seek his remedy by the ordinary mode of action in a civil court and to refuse to exercise in his favour the extraordinary remedy under Art.
+RatioOfTheDecision	226 of the Constitution."
+Precedent	In State of Kerala v.. <ORG>) <NAME>, J., speaking on behalf of a large Bench of this <ORG>, observed: "There is no doubt in view of the decision of this <ORG> in <ORG> v. Kanhaiyalal(3) that money paid under a mistake of law comes within the word 'mistake' in section 72 of the Contract Act and there is no question of estopped when the mistake of law is common to both the parties, which was the case here inasmuch as the respondent did not raise the question relatin g to Article 286 of the Constitution and the Sales Tax Officer had no occasion to consider it.
+Precedent	In such a case where tax is levied by mistake of law it is ordinarily the duty of the <ORG> subject to any provision in the law relating to sales tax (and no such provision has been brought to our notice) to refund the tax.
+Precedent	If refund is not made, remedy through court is open subject to the same restrictions and also to the period of limitation (see Article 96 of the Limitation Act , 1908), namely, three years from the date when the mistake becomes known to the person who has made the payment by mistake [see <CITATION_1204286> (1)].
+Precedent	In this view of the matter it was the duty of the <ORG> to (1)  6 S.C.R.
+Precedent	261,271-72.
+Precedent	(2) 16 S.T.C.
+Precedent	689, 692, (3) [1959] S.C.R.
+Precedent	1350.
+RatioOfTheDecision	837  investigate the facts when the mistake was brought to its notice and to make a refund if mistake was proved and the claim was made within the period of limitation."
+RatioOfTheDecision	But these cases cannot directly apply to petitions under Art.
+RatioOfTheDecision	32 because they proceed  from the premise that the remedy is discretionary under Art.
+RatioOfTheDecision	226.
+RatioOfTheDecision	Coming to the facts of this case, which have been stated in detail by <NAME>, J., it seems to me that the delay in coming to this Court has been adequately explained.
+Fact	In brief, the facts are these: The Sales Tax Officer, by his order dated March 17, 1958, forfeited a sum of Rs.
+Fact	26,563.50 under s. 21 (4) of the Bombay Sales Tax Act (Bombay Act III of 1953), which provision is similar to s. 12A(4) of the Bombay Sales Tax Act, 1946.
+Fact	The petitioner promptly filed a writ petition in <ORG> challenging this order.
+Fact	His petition was dismissed on November 28, 1958.
+Fact	He also failed in appeal before <ORG> on July 7, 1959.
+Fact	An order of attachment followed.
+Fact	The petitioner paid the sum of Rs.
+Fact	26,563.50 in various instalments from October 3, 1959, to August 8, 1960.
+Fact	By letter dated January 9, 1962, the petitioner was called upon to pay a penalty amounting to Rs.
+Fact	12,517/68 on account of late payment of sales tax dues but this order  of penalty was ultimately cancelled.
+Fact	<ORG> (Shelat, C.J., and Bhagwati, J.)
+Fact	in <CITATION_1041943> (x) held on December 2, 1963, that s. 12A(4) of the Bombay Sales Tax Act, 1946, was valid and did not violate Art.
+Fact	19(1) (f) as it was saved by Art.
+Fact	19(5).
+RulingByLowerCourt	On September 29, 1967, this <ORG>, on appeal, in <CITATION_1041943> (2) struck down this provision as it infringed Art.
+Fact	19(1)(f).
+Fact	On February 9, 1968, four petitioners--hereinafter compendiously referred to as the petitioner filed this petition praying that the order dated March 17, 1958, and the notice and order dated December 18, 1958, and December 24, 1958, be quashed.
+Fact	There is no doubt that under s. 72 of the Contract Act the petitioner would be entitled to the relief claimed and the refund of the amount if he paid the money under mistake of law.
+RatioOfTheDecision	I find it difficult to appreciate why the payment was not made under a mistake of law.
+RatioOfTheDecision	In my opinion the petitioner was mistaken in thinking that the money was liable to be refunded under a val id law.
+RatioOfTheDecision	Nobody has urged before us that the grounds which he had raised before <ORG> were sound.
+Precedent	The petitioner had 'attempted to raise before <ORG> the following grounds:  (1) 16 S.T.C.
+Precedent	973.
+Precedent	(2) 21 S.T.C.
+Precedent	174.
+Precedent	838  1.
+Precedent	Inasmuch as the sum of Rs.
+Precedent	26,563.50 was paid by way of refund under the Bombay Sales Tax Act 1946, the taxing authorities had exceeded their power under s. 21 (4) of the Act of 1953, in forfeiting the said sum of money.
+Precedent	2.
+Precedent	Assuming that the respondent had power to forreit the sum under the Act of 1953, it was strictly limited to taxes payable trader the provisions of the Act .and as no tax was payable on outside sale the authorities had no power to forfeit the sum of Rs.
+Precedent	26,563.50.
+Argument	3.
+Argument	4.
+Argument	Even assuming while denying that the respondent had power to forfeit the sum of Rs.
+Argument	26,563.50, the power to forfeit an amount as a tax presupposes a power to impose a tax and inasmuch as on a proper construction of the relevant provisions of the Constitution <ORG> h ad at any time a power to impose tax on the aforesaid transactions, the power to forfeit tax in respect of those transactions is ultra vires <ORG>."
+Argument	The learned Single Judge held:  "This appears to me to be a gross case where even if I was of the opinion that the order is invalid and involved violation of fundamental rights would not in my discretion interfere by way of issuing a writ.
+Argument	I 'am not depriving the petitioner of any other appropriate remedy.
+Argument	I have, therefore, decided to dismiss this petition on that single ground."
+Argument	<ORG>, on appeal, decided on the limited ground that "Mr. Justice <NAME> having exercised his discretion no Case is made out for interference with the exercise of that discretion."
+Argument	The petitioner rightly did not file an appeal to this <ORG> for he would have had little chance of succeeding.
+Argument	Suppose a petitioner challenges a provision of the Sales Tax Act before the High <ORG> on the ground that it does not fall within List II or List III of the Sevent h Schedule.
+Argument	He fails and pays the tax and does not appeal to <ORG>.
+Argument	Ultimately, in another petition, the provision is struck down under Art.
+Argument	14 or Art.
+Argument	19 , a point which he and his lawyers never thought of All assessees who had paid tax without challenging the provision would be entitled to approach this <ORG> under Art.
+RatioOfTheDecision	32 and claim a refund (see <CITATION_1263190> ) (1).
+RatioOfTheDecision	But why not the assessee who applied to (1)  S.C.R.
+RatioOfTheDecision	1350.
+RatioOfTheDecision	839  the High <ORG> ?
+RatioOfTheDecision	The answer given is that he had thought at one time that the law was bad, though on wrong grounds.
+RatioOfTheDecision	If a law were framed sanctioning the above discrimination, I believe, it would be difficult to sustain it under Art.
+RatioOfTheDecision	14 , but yet this is the discrimination which the respondent wants me to sanction.
+RatioOfTheDecision	The grounds extracted above show that it never struck the petitioner that the provision could be challenged on the ground ultimately accepted by this <ORG>.
+RatioOfTheDecision	If the petitioner had not thought of going to the Bombay High <ORG> on the points he did, and had  paid on demand, as most of the assessees do, he would, I imagine, have been entitled to maintain this petition.
+RatioOfTheDecision	But it is now said that the petitioner's position is worse because he exercised his right to approach <ORG> under Art.
+RatioOfTheDecision	226.
+RatioOfTheDecision	The contention seems to be that when a petitioner approaches <ORG> and fails, he can no longer suffer from any mistake of law even if the point on which this <ORG> ultimately strikes down the provision, never struck him or his lawyer or the <ORG>.
+RatioOfTheDecision	I cannot uphold this contention.
+RatioOfTheDecision	In my opinion the petitioner was under a mistake of law, when he paid up, the mistake being that he thought that s. 12A (4) was a valid provision in spite of its imposing unreasonable restrictions.
+Argument	This mistake he discovered like 'all assessees when this <ORG> struck down s. 12A(4) of the Bombay Sales Tax Act.
+Argument	He has come to this <ORG> within six months of that day and there is no delay.
+Argument	The petition is accordingly allowed and the impugned order dated March 17, 1958, quashed and the r espondent directed to refund the amount.
+RatioOfTheDecision	Under the circumstances there will be no order as to costs.
+RatioOfTheDecision	<NAME>, <NAME> have had the advantage of reading the judgment prepared by <NAME> J.
+RatioOfTheDecision	For the reasons given in this judgment, 1. agree with the order proposed by him.
+RatioOfTheDecision	As the earlier petition filed in <ORG> was not dismissed on the merits, the present petition is not barred by res judicata or principle analogous thereto.
+Fact	The petitioners realised Rs.
+Fact	26,563.50 P from their customers outside Bombay on account of sales tax.
+Fact	The Sales Tax Officer by his order dated March 17, 1958 forfeited this sum under s. 21 (4) of the Bombay Sales Tax Act 3 of 1953.
+Fact	On March 28, 1958 the petitioners filed a writ petition' in <ORG> seeking to restrain the Sales Tax Officer from recovering the amount.
+Fact	They pleaded that they were not liable to pay the amount, that s. 21 (4) was ultra vires the powers of the State legislature and that the order of forfeiture was violative of Arts.
+Fact	19(1)  (f) and 265 of  the Constitution and was invalid.
+Fact	On November 28, 1958, <NAME> dismissed the petition.
+Fact	He held that the petitioners having defrauded other persons were not entitled to any relief.
+Fact	The petitioners filed an appeal against the order.
+Fact	In the memorandum of appeal, they pleaded that the threatened levy was in violation of Arts.
+Fact	19(1)(f) and 31 of the Constitution.
+Fact	The appeal was dismissed on July 13, 1959.
+Fact	In the meantime on December 24, 1958 the Collector of Bombay attached the petitioners' properties.
+Fact	Between August 3, 1959 and August 8, 1960 the petitioners paid the sum of Rs.
+Fact	26,563.50 P to the Collector of Bombay.
+Fact	In Civil Appeal No.
+Fact	126 of 1966, <ORG> v.<NAME> decided on September 29, 1967 this <ORG> struck down s. 12(A)(4) of the Bombay Sales Tax Act, 1946 as unconstitutional and violative of Art.
+Fact	19 ( 1 )   (f).
+Fact	The arguments in the present 'appeal proceeded on the assumption that s. 21 (4) of the Bombay Sales Tax Act, 1953 is liable to be struck down on the same ground.
+Fact	On Fe bruary 9, 1968 the petitioners filed the present writ petition under Art.
+Fact	32 of the Constitution claiming refund of Rs.
+Fact	26,563.50 P under s. 72 of the Indian Contract Act 1872.
+Fact	They alleged that they paid this sum to the Collector under coercion and/or mistake of law, and that they discovered the mistake on September 29, 1967.
+Fact	Two points arise for decision in this writ petition: (1 ) Would the claim be barred by limitation if it were the subject-matter of a suit in February 1968 and (2) if so, are the petitioners entitled to any relief in this petition under Art.
+RatioOfTheDecision	32 of the Constitution.
+RatioOfTheDecision	Subject to questions of limitation, waiver and estoppel, money paid under mistake or coercion may be recovered under s. 72 of the Indian Contract Act .
+RatioOfTheDecision	The fight to relief under s. 72 extends to money paid under mistake of law, i.e., "mistake in thinking that the money paid was due when, in fact, it was not due."
+RatioOfTheDecision	<CITATION_18283> ( 1 ), <CITATION_1263190> (2).
+RatioOfTheDecision	In my opinion, the petitioners were' not labouring under any mist ake of law when they made the payments.
+RatioOfTheDecision	As early as March 1958 they filed a wait petition for restraining the levy under the order dated March 17, 1958 claiming that the order was invalid and that s. 21 (4) of the Bombay Sales Tax Act, 1953 was ultra vires and unconstitutional.
+RatioOfTheDecision	They might not have then known the precise ground upon which the <ORG> subsequently struck down a similar provision of law, but they had discovered presumably under legal advice that they were not legally bound to make any payment.
+Fact	After the writ petition was dismissed their properties were attached and they made the payments under coercion in 1959 and 1960.
+Fact	The payments were not made under a mistake of law or as pointed out in <NAME> Case(1) under a mistake in thinking that the money was due.
+Fact	They cannot claim any relief on the ground of mistake.
+Fact	(1) [1949] L.R.
+Precedent	76 I.A.
+Precedent	244, 254.
+Fact	(2) [1959] S.C.R.
+Fact	1350, 1361, 1362.
+Fact	841  As we are assuming in favour of the petitioners that s. 21 (4) of the Bombay Sales Tax Act 1953 as i nvalid, we must hold that they made the payments under coercion.
+RulingByLowerCourt	A suit for the recovery of the money on this ground instituted on January 1, 1964 would be governed by Article 24 of the Limitation Act , 1963 and the period of limitation would be three years from the dates in 1959 and 1960 when the money was received by <ORG> respondents.
+RulingByLowerCourt	The petitioners cannot obtain an extension of <ORG> period under s. 30(a) of the Limitation Act, 1963 as Art.
+Fact	62 of the Indian Limitation Act , 1908 prescribed <ORG> same period of limitation.
+Fact	A suit for recovery of tax or other levy illegally collected was governed by Art.
+RatioOfTheDecision	62 and not by Art.
+RatioOfTheDecision	120 , see A1.
+RatioOfTheDecision	<CITATION_1119697> (1).
+Statute	Accordingly a suit for the recovery of money instituted in February 1968 would be barred by limitation.
+Precedent	If the petitioners could claim relief on the ground of mistake the suit would be governed by Art.
+Precedent	96 of <ORG> Indian Limitation Act , 1908 and time would begin to run from the date when the mistake becomes known to the plaintiff.
+Precedent	In State of Madhya pr adesh v. <ORG>), and State of Kerala v. <ORG>) it was held that Art.
+Precedent	96 applied to a suit for recovery of money paid under a mistake of law.
+Precedent	Section 17(1)(c) of the Limitation Act 1963 now provides that in the case of a suit for relief from the consequences of a mistake the period of limitation does not begin to run until the plaintiff has discovered the mistake or could with reasonable diligence have discovered it.
+Precedent	Section 17(1)(c) corresponds to s. 26(c) of the Limitation Act, 1939 (2 & 3 Geo.
+Precedent	6, c. 21).
+Precedent	It was held in Re Diplock(4) that sec.
+Precedent	26(c) applied by analogy to a suit for recovery of money paid under mistake of law.
+Precedent	On appeal, <ORG> said that the section presented many problems and refrained from saying more about it, see <ORG> v. Simpson(5).
+Precedent	In some American States, it has been held that a mistake of law cannot be regarded as a mistake within a similar statute and time ran from the date of the accrual of the cause of action, see <ORG> s Juris Secundum, vol.
+Precedent	54, Limitation of Act ions, Article 198 , page 202, <NAME> v. Jasper County(6), and the cases referred to therein.
+RatioOfTheDecision	It is not necessary to pursue the matter any further as the petitioners cannot claim relief on the ground of mistake.
+RatioOfTheDecision	Accordingly, I express no opinion on the scope of s. 17(c) of the Limitation Act, 1963, For the reasons already stated a suit for the recovery of the money instituted in February 1968 would be barred by limitation.
+Precedent	(1)  2 S.C.R.
+Precedent	577, 612-620.
+Precedent	(2)  6 S.C.R.
+Precedent	261, 274.
+Precedent	(3) [1965] 16 S.T.C.
+Precedent	689, 692.
+Precedent	(4) [1948] Ch.
+Precedent	465, 515-516.
+Precedent	(5) [1951] A.C. 251,277.
+Precedent	(6) 11 A.L.R.
+Precedent	634:274 N.W.
+Precedent	310.
+Precedent	842  The next and the more fundamental question is whether in the circumstances the <ORG> should give relief in a writ petition under Art.
+Precedent	32 of the Constitution.
+Precedent	No period of limitation is prescribed for such a petition.
+Precedent	The right to move this <ORG> for enforcement of fundamental rights is guaranteed by Art.
+Precedent	32.
+Precedent	The writ under Art.
+Precedent	32 issues as a matter of course if a breach o f a fundamental right is established.
+Precedent	Technical rules applicable to suits like the provisions of s. 80 of the Code of Civil Procedure are not  -applicable to a proceeding, under Art.
+Precedent	32.
+Precedent	But this does not mean that in giving relief under Art.
+Precedent	32 the <ORG> must ignore and trample under foot all laws of procedure, evidence, limitation, res judicata and the like.
+Precedent	Under Art.
+Precedent	145 (1 ) (c) rules may be framed for regulating the practice and procedure in proceedings under Art.
+Precedent	32.
+RatioOfTheDecision	In the absence of such rules the <ORG> may adopt any reasonable rule of procedure.
+RatioOfTheDecision	Thus a petitioner has no right to move this <ORG> under Art.
+Argument	32 for enforcement of his fundamental right on 'a petition containing misleading and inaccurate statements and if he files such a petition the <ORG> will dismiss it, see W.P.
+Argument	No.
+Argument	183 of 1966, <ORG> v. <ORG> decided on March 12, 1968.
+Argument	On grounds of public policy it would be intolerable if the <ORG> were to entertain such a petition.
+Precedent	Likewise the <ORG> held in Dary ao v. The <ORG> of U.P.
+Precedent	(1) that the general principles of res judicata applied to a writ petition 'under Art.
+Precedent	32.
+Argument	Similarly, this <ORG> has summarily dismissed innumerable writ petitions on the ground that it was presented after unreasonable delay.
+Argument	The normal remedy for recovery of money paid to the <ORG> under coercion or mistake of law is by suit.
+Argument	Articles 32 and 226 of the Constitution provide concurrent remedy in respect of the same claim.
+Argument	The extraordinary remedies under the Constitution are not intended to enable the claimant to recover monies, the recovery of which by suit is barred by limitation.
+Precedent	Where the remedy in a writ application under Art.
+Precedent	32 or Art.
+Precedent	226 corresponds to a remedy in an ordinary suit and the latter remedy is subject to the bar of a statute of limitation, the <ORG> in its writ jurisdiction acts by analogy to the statue adopts the statute as its own rule of procedure and in the absence of special circumstances imposes the same limitation on the summary remedy in the writ jurisdiction .
+Precedent	'On similar grounds <ORG> acted on the analogy of the statutes of limitation in disposing of stale claims though the proceeding in a <ORG> was not subject to any express statutory bar, see Halsbury's Laws of England, vol.
+Precedent	14, page 647, Art.
+Precedent	1190 , <NAME> v. Gye(2).
+Precedent	Likewise <ORG> acts on the analogy of the statute of limitation in a proceeding under Art.
+Precedent	226 though the statute does not expressly apply to the proceeding.
+Precedent	The <ORG> will almost always refuse to give relief under Art.
+Precedent	226 if the  1 S.C.R.
+Precedent	574.
+Precedent	C2) L.R.
+Precedent	5 H.L.
+Argument	656,  674. delay is more than the statutory period of limitation, see <CITATION_1204286> (1).
+Argument	Similarly this <ORG> acts on the analogy of the statute of limitation in respect of a claim under Art.
+Argument	32 of the Constitution though such claim is not the subject of any express statutory bar of limitation.
+Argument	If the right to a property is extinguished by prescription under s. 27 of the Limitation Act, 1963 the petitioner has no subsisting right which can be enforced under A rt.
+RatioOfTheDecision	32 (see <CITATION_1478888> (2).
+RatioOfTheDecision	In other cases where the remedy only and not the right is extinguished by limitation, it is on grounds of public policy that the <ORG> refuses to entertain stale claims under Art.
+RatioOfTheDecision	32.
+RatioOfTheDecision	The statutes of limitation are rounded on sound principles of public policy.
+Precedent	As observed in <NAME> Anglo-Indian Codes, Vol.
+Precedent	11 p. '940: "The law is rounded on public policy, its aim being to secure the quiet of the community, to suppress fraud and perjury, to quicken diligence, and to prevent oppression."
+Precedent	In Her Highness <NAME> v. <NAME>) <ORG> observed that the object of the statutes of limitation was to give effect to the maxim, "interest reipublicae ut sit finis litium" (Co Litt 303)--the interest of the <ORG> requires that there should be a limit to litigation.
+Precedent	The rule of res judicata is rounded upon the same rule of public policy, see <NAME> v. <ORG> of U.P.
+Precedent	(4) at page 584.
+RatioOfTheDecision	The other ground of public policy upon which the statutes of limitation  are rounded is expressed in the maxim "vigilantibus non dormientibus jura subveniunt" (2 Co. Inst.
+RatioOfTheDecision	690)--the laws aid the vigilant and not those who slumber.
+RatioOfTheDecision	On grounds of public policy the <ORG>' applies the principles of res judicata to writ petitions under Art.
+Precedent	32.
+Precedent	On like grounds the <ORG> acts on the analogy of the statutes of limitation in the exercise of its jurisdiction under Art.
+Precedent	32.
+Precedent	It follows that the present petition must be dismissed.
+Precedent	<NAME>, J.
+Fact	The facts leading up to the filing of the petition under Art.
+Fact	32 of the Constitution are as follows.
+Fact	The first petitioner before us is a registered partnership firm (hereinafter referred to as 'the firm') carrying on business in Bombay and the other petitioners are partners of the said firm.
+Fact	The firm has been carrying on business as a dealer in and a trader of textiles and art silk etc.
+Fact	It was registered as a dealer 'and has held registration certificates under the various sales tax laws prevailing in the State of Bombay from 1946 onwards including the  Bombay Sales Tax Act 5 of 1946, the Bombay Sales Tax Act 3 of 1953 and the Bombay Sales Tax Act 51 of 1959.
+Fact	In the course of assessment for the assessment period commencing on April 1, 1949 and ending on 31st October 1952 the [1964] S.C.R.
+Precedent	261.
+Precedent	273-74.
+Precedent	(2) [1963] Supp.
+Precedent	1 S.C.R.
+Precedent	99, 111.
+Precedent	[1851-52] 5 M.I.A., 234.
+Precedent	251.
+Fact	(4) [1962] 1 S.C.R.
+Fact	574. firm contended that its sales of the value of Rs.
+Fact	13,42,165- 15-6 were not liable to be taxed under the provisions of the Bombay Sales Tax Act then in force as the goods were delivered as a direct result of such sales for purposes of consumption outside the State of Bombay.
+Fact	The firm claimed that it was entitled to a refund of the amount which it had collected from its customers and paid on account of the aforesaid sales at the time of submitting the returns of its turnover.
+Fact	The Sales Tax Officer did not accept this contention but on appeal the Assistant Collector of Sales Tax upheld the firm's contention after examining the details submitted by it and found that sales  involving the sum of Rs.
+Fact	26,563-8-0 realised by way of tax were protected under Art.
+Fact	286 of the Constitution.
+Fact	He therefore directed that the said sum be refunded to the firm on a proper application.
+Fact	This appellate order was passed on November 7, 1956.
+Fact	The firm preferred an application for refund of Rs.
+Fact	26,563.50 on November 13, 1956 whereupon the Assistant Collector (the appellate authority) simultaneously with the issue of 'a cheque for the above amount by way of refund wrote a letter dated May 11, 1957 to the effect that the petitioner should produce before him within one month of the date of the cheque receipts totalling Rs.
+Fact	26,563.50 from its customers outside Bombay State to show that the refund had been passed on to them.
+Fact	It appears that the petitioner did not fulfil this condition and a notice dated 28th January 1958 was issued calling upon the firm to show cause why the said sum of Rs.
+Fact	26,563.50 should not be forfeited under s. 21(4) of the Bombay Sales Tax Act, 1953.
+Fact	In reply thereto, the firm stated  by letter dated February 7, 1958 that it had collected from its customers outside the State of Bombay the said sum of money and "under an honest mistake of law had paid the same to the sales tax authorities."
+Argument	The firm went on to add that the order for refund had been made only when the authorities were satisfied that 'it was not liable to pay the said sum but the latter had insisted upon a condition that the firm should in its turn refund the said amount to its customers from whom the collection had been made.
+Argument	The letter records that the firm "had agreed to that condition under coercion even though in ,law the authorities were bound to refund the said ,amount without any such condition."
+Argument	Further the firm's case in that letter was that the authorities had "no right to forfeit any amount collected by a dealer under a mistake of law in respect of these transactions" and the threat to forfeit the amount on the ground that it had not been refunded to the firm's customers was without the authority of law.
+Fact	The orde r on the show cause notice passed on March 17, 1958 records that though given sufficient opportunity to produce stamped receipts from its customers the firm had failed to do so and had thereby contravened the provisions of s. 21(2) of the Bombay Sales Tax Act.
+Fact	The firm was directed to refund the said sum to <ORG> on or before April 1, 1958 failing which it would be recoverable as arrears of land revenue from the firm together with penalty.
+Fact	The order was purported to be passed under s. 21 (4) of the Bombay Sales Tax Act, 1953.
+Fact	Within a few days thereafter i.e.
+Fact	on March 28, 1958 the firm presented an application to <ORG> under Art.
+Argument	226 of the Constitution for the issue of a writ in the nature of certiorari quashing the above mentioned order of forfeiture and for incidental reliefs.
+Argument	In paragraph 4 of the petition it was stated that the order of forfeiture was "without the authority of law and therefore in violating of Art.
+Fact	19(1)(g) and Art.
+Fact	265 of the Constitution."
+Fact	It ap pears that a similar application had been presented on behalf of <NAME> and <ORG> to <ORG> and the application of the firm along with the first mentioned application were disposed of by a learned single Judge of <ORG> on November 28, 1958.
+Fact	The main judgment was delivered in <NAME> and Company's case.
+Argument	The learned Judge observed in the course of his judgment that there was no merit whatsoever in it and "justice did not lie in his (the petitioner's) side and this was a matter in which the court should not interfere by way of a writ and give relief to the petitioner company."
+Argument	The Judge further observed that the petitioner has not referred to fundamental rights of any kind in the petition and said:  "This appears to me to be a gross case where even if I was of the opinion that the order is invalid and involved violation of fundamental rights, I would not in my discretion interfere by way of issuing a writ.
+Fact	I am not depriving the petitioner of any other app ropriate remedy.
+Fact	I have therefore decided to dismiss this petition on that single ground."
+Fact	No copy of the petition in <NAME> case is before us but the present petitioner, as shown already, did complain of violation of Art.
+Fact	19(1)(g) and Art.
+Fact	265 of the Constitution besides contending that the order was "ultra vires, bad and inoperative in law."
+Fact	Dealing with the petition of the firm the learned Judge said that "there was no merit in the case and justice did not lie on the side of the petitioner" and for reasons given in <NAME> Co.'s case the petition was dismissed.
+Fact	The firm went up in appeal to the same <ORG>.
+Fact	A note may be taken of some of the grounds in the memorandum of appeal filed by the firm.
+Argument	They were inter alia :--  "(13) The learned Judge erred in not deciding the petition on merits even when there was a question of violation of fundamental rights.
+Argument	846  (16) The learned Judge erred in holding that this was a gross case where even if he had 'been of the opin ion that the order was invalid or that it involved violation of fundamental rights, he would not in his discretion interfere by way of issuing a writ.
+Argument	(30) The learned Judge failed to appreciate that the order of forfeiture was nothing but the deprivation of property without the authority of law and the action of the respondent was an unreasonable restriction on the fundamental rights of the petitioner under Art.
+Argument	19(1)(f) and Art.
+Argument	31 of the Constitution of India."
+Argument	In dismissing the appeal the learned Judges of <ORG> observed:  "The appellant claims to retain with himself amounts to which he has no claim and the appellant is seeking to come before this Court to retain with himself amount which he has obtained from the sales tax authorities on a representation that he is going to refund the same and which he has not refunded.
+Argument	Mr. Justice <NAME> was of the view that the claim made by the appellant was a gross claim and even if it involved violation of fundamental rights, in exercise of his dis cretion, he will not interfere by issuing a writ.
+RatioOfTheDecision	The learned Judge having exercised his discretion which he undoubtedly was entitled to exercise, we do not think sitting in appeal we would be justified in exercising our powers as an appellate court in interfering with the order under appeal.
+RatioOfTheDecision	We may observe that we are not dealing with this case on the merits at all.
+RatioOfTheDecision	We have not considered the question whether the appellant is entitled in law to retain the moneys which he has obtained from the sales tax department.
+RatioOfTheDecision	We have decided this 'appeal on the limited ground that Mr. Justice <NAME> having exercised his discretion, no case is made out for our interference with the exercise of that discretion."
+RatioOfTheDecision	It is therefore amply clear from the above that the learned <ORG> of <ORG> did not examine the merits of the firm's contention that the order of refund was without the authority of law or ultra' vires or in violation of an}, fundamental rights of the partners of the firm.
+RulingByLowerCourt	They merely exercise d their discretion on the question of issue of a writ under Art.
+RulingByLowerCourt	226 of the Constitution in view of the firm's conduct in obtaining an order for refund of the amount mentioned and later on refusing to fulfil the condition imposed.
+Fact	It does not appear that the firm took any further steps in the court of law for vindicating its position before filing the present writ petition.
+Fact	It received a notice dated December 18, 1958 under the Bombay City Land Revenue Act 2 of 1876 calling upon it to pay the said sum of Rs.
+Fact	26,563.50 to the State of Bombay failing which proceedings were threatened to be taken by attachment and sale of its property and by other remedies provided by s. 13 of the Land Revenue Act.
+Fact	It appears that the Collector of Bombay actually issued an order of attachment on the right, title and' interest of two of the partners of the firm including the goodwill and tenancy right in the premises where the business was carried on.
+Fact	The firm paid the sum of Rs.
+Fact	26,563.50 in various instalments beginning on Octo ber 3, 1959 and ending on August 8, 1960.
+Fact	In paragraph 8 of the present petition to this <ORG> it is submitted that the petitioners "paid the sum to the State of Bombay under coercion 'and/or mistake of law."
+Argument	The petitioners also state they "did not know that the sections of the Sales , Tax Act s under which the said sum was sought to be forfeited and/or recovered and/or retained were ultra vires."
+Argument	In paragraph 10 of the petition it is stated that the petitioners discovered their mistake in law when they came to know of the decision of this <ORG> dated September 29, 1967 that s. 12A(4) of the Bombay Sales Tax Act 5 of 1946 was ultra vires.
+Argument	In paragraph 14 of the petition the firm also states:  "that the said sum had been forfeited and/or recovered and/or retained by the respondents from the petitioners in violation of Art.
+Precedent	265 , Art.
+Precedent	31 and Art.
+Precedent	19 ( 1 ) (f) of the Constitution.
+RatioOfTheDecision	The fundamental rights of the petitioners have thus been violated.
+RatioOfTheDecision	The petitioners submit that they have been deprived of their pro perty, to wit, the said sum, by the respondents without any authority in law and contrary to the fundamental rights guaranteed to the petitioners by Arts.
+Precedent	19(1)(f) and 31 of the Constitution."
+Precedent	The grounds of law under which the firm claimed that the action of the State of Bombay and the respondents in recovering, retaining, forfeiting and not returning the said sum were void and invalid in law are set forth in paragraph 15 of the petition.
+Precedent	In the view which we take of the firm's claim and in view of the decision of this Court in <ORG> v. <ORG>) dated September 29, 1967, it is not necessary to examine the validity or otherwise of the provisions of s. 12A(4) of the Act of 1946 or the corresponding section of the Act of 1953 i.e.
+Precedent	s. 21 (4).
+Precedent	The appeal of <ORG> v.<ORG>) decided by this Court on September 29, 1967 was from a decision of <ORG> reported in 16 Sales Tax (1) 21 S.T.C.
+Precedent	174.
+Precedent	L6Sup.C.I./69-3 Cases 973.
+Argument	<ORG> had  held that s. 12A(4) was saved by Art, 19 (5) of the Constitution.
+RulingByLowerCourt	The appeal by the assessee was allowed by this <ORG> on the short ground that assuming that s. 12A(4) was a penal provision within the legislative competence of the legislature, it was violative of Art.
+RulingByLowerCourt	19(1) (f)' inasmuch as it did not lay down any procedure for ascertaining whether in fact the dealer concerned had collected any amount by way of tax from his purchasers outside the State 'and if so what that amount was.
+RulingByLowerCourt	It was further observed that the section did not contemplate any adjudication nor did it provide for making any order and on a reasonable interpretation of the impugned provision.
+RulingByLowerCourt	it was observed "that the power conferred under s. 12A(4) was unguided, uncanalised and uncontrolled."
+RulingByLowerCourt	On the above reasoning the <ORG> held that the provisions in s. 12A(4) were not a reasonable restriction on the fundamental right guaranteed under Art.
+RatioOfTheDecision	19 ( 1 ) within the meaning of Art.
+RatioOfTheDecision	19 ( 5 ).
+RatioOfTheDecision	To establish that the payments totalling Rs.
+RatioOfTheDecision	26,56 3.50 made in the years 1959 and 1960 were under a mistake of law, the petitioners must satisfy the court that they paid the money under a genuine belief that the law allowed it but that they later discovered that they were under no legal obligation to pay.
+RatioOfTheDecision	Repayment of money paid under a mistake is provided for by s. 72 of the Indian Contract Act occurring in Chapter V of the said Act which deals with certain relations resembling those created by a contract.
+Precedent	It reads:  "A person to whom money has been paid, or anything delivered, by mistake or under coercion, must repay or return ""  It was laid down by <ORG> in Sri Sri Shiba Prasad Singh, deceased, now represented by <CITATION_18283> (x) that:  "Payment 'by mistake' in s. 72 must refer to a payment which was not legally due ,and which could not be enforced: the mistake is thinking that the money paid was due when in fact it was not due."
+Precedent	The above decision of <ORG> was relied on by this Court in <CITATI ON_1263190> (2) where it was said:  "The <ORG> decision has set the whole controversy at rest and if it is once established that the payment, even though it be of a tax, has been made by the party labouring under a mistake of law the party is entitled to recover the same and the party receiving the (1) 76 I.A.
+Precedent	244, 254.
+Precedent	(2) [1959] S.C.R.
+Precedent	1350, 1363.
+Argument	849  same is bound to repay or return it.
+Argument	No distinction can therefore be made in respect of a tax liability and any other liability on a plain reading of sec.
+Argument	72 of the Contract Act .........
+Argument	In <ORG>'s case(1) the respondent firm had paid sales tax in respect of its forward transactions in pursuance of the assessment orders passed by the Sales Tax Officer for the years 1949 to 1951.
+Argument	The levy of sales tax on forward transactions being held to be ultra vires by <ORG> by its judgment delivered on February 27, 1952 in the case of Budh Prakash Jai Prakash v.<NAME>, the respondent by its letter dated 8th July 1952 asked for a  refund of the amount of sales tax paid by it under assessment orders passed on May 31, 1949, October 30, 1950 and August 22, 1951.
+Argument	The Commissioner of Sales Tax U.P.
+Argument	refused to refund the ,amount claimed by letter dated July 19, 1952.
+RatioOfTheDecision	The above judgment of <ORG> was confirmed by this <ORG> on May 3, 1954 see <CITATION_127667> (2).
+RatioOfTheDecision	In the meanwhile the of 1952 in <ORG> for quashing the ,assessment orders which was allowed by an order of a single Judge on November 30, 1954.
+RatioOfTheDecision	The appellant's Special Appeal from the said order contending that money paid under a mistake of law was irrecoverable being dismissed, a further appeal was taken to this <ORG> under a certificate.
+RulingByLowerCourt	On the facts of that case the <ORG> held that both the parties were labouring under a mistake of law the legal position as established later as by the decision of <ORG> in Budh Prakash Jai Prakash v. <NAME> subsequently confirmed by this <ORG> in <CITATION_127667> (2 ) not having been know n to the parties at the relevant time. '
+RulingByLowerCourt	This mistake of law had become apparent only on May 3, 1954 when this Court confirmed the decision of <ORG> in <CITATION_127667> (2) observing:  "on that position being established the respondent became entitled to recover back the said amounts which had been paid by mistake of law.
+Fact	The state of mind of the respondent would be the only thing relevant to consider in this context and once the respondent established that the payments were made by it under a mistake of law .... it was entitled to recover back the said amounts.
+Fact	and the State of U.P.
+Fact	was bound to repay or return the same to the respondent irrespective of any other consideration ...... On a true interpretation of s. 72 of the Indian Contract Act the only two circumstances there indicated as 'entitling the party to recover the money (1) S.C.R.
+Precedent	1350.
+Precedent	(2)  1 S.C.R.
+Argument	243. back are that the moneys must have been paid by mistake or under coercion."
+Argument	In State of Madhya pradesh v. <NAME>) t his Court had to deal with 31 appeals arising out of an equal number of applications filed before <ORG> contending that the taxing provisions under which the tax was assessed and collected from the petitioners (the Madhya Pradesh Sales Tax Act) infringed Art.
+Fact	301 of the Constitution and did not come within the special provision of Art.
+Fact	304(a).
+Fact	In all the petitions a prayer was made for refund of the taxes collected.
+Fact	<ORG> allowed the prayer for refund in 24 applications but rejected the same in the other applications.
+RulingByLowerCourt	This Court agreed with the decision of <ORG> that the imposition of the tax contravened the provisions of Art.
+RulingByLowerCourt	301 of the Constitution and was not within the saving provisions of Art.
+RulingByLowerCourt	304('a) and on that view observed that the payment was made under a mistake within s. 72 of the Indian Contract Act and so the Government to whom the payment had been made must repay it.
+Fact	The tax provisions under which these taxes had been assessed and paid were declared voi d by <ORG> in their decision in <CITATION_108219590> .
+Fact	on 17th January, 1956.The respondeats claimed to have discovered their mistake in making the payments after they came to know of these decisions.
+Fact	Sixteen of the applications out of 31 were made to <ORG> within three years from 17th January 1956 and <ORG> took the view that this was not an unreasonable delay and in that view ordered refund.
+Fact	<ORG> also ordered refund in seven other applications made more than three years eight months after the said 17th January 1956.
+RulingByLowerCourt	This Court although of opinion that <ORG> had power for the purpose of enforcement of fundamental rights and statutory rights to give consequential relief by ordering repayment of money realised by the <ORG> without the authority of law, observed:  "At the same time we cannot lose sight of the fact that the special remedy provided in Art.
+RatioOfTheDecision	226 is not in- tended to supersede completely the modes of obtaining relief by an action  in a civil court or to deny defenses legitimately open in such actions.
+RatioOfTheDecision	It has been made clear more than once that the power to give relief under Art.
+RatioOfTheDecision	226 is a discretionary power.
+RatioOfTheDecision	This is specially true in the case of power to issue writs in the nature of mandamus.
+RatioOfTheDecision	Among the several matters which the (<ORG> rightly take into consideration in the exercise of that discretion is the delay made by the aggrieved party (1) 6 S.C.R 261 in seeking this special remedy and what excuse there is for it.
+RatioOfTheDecision	Thus, where, as in these cases, a person comes to the <ORG> for relief under Art.
+Statute	226 on the allegation that he has been assessed to tax under a void legislation and having paid it under a mistake is entitled to get it back, the court, if it finds that the assessment was void, being made under a void provision of law, and the payment was made by mistake, is still not bound to exercise its discretion directing repayment.
+RatioOfTheDecision	Whether repayment should be ordered in the exercise of this discretion will depend in each case on it s own facts and circumstances.
+RatioOfTheDecision	It is not easy nor is it desirable to lay down any rule of universal application.
+RatioOfTheDecision	It may however be stated as a general rule that if there has been unreasonable delay the court ought not ordinarily to lend its aid to a party by this extraordinary remedy of mandamus.
+RatioOfTheDecision	Again, where even if there is no such delay the <ORG> or the statutory authority against whom the consequential relief is prayed for raises a prima facie triable issue as regards the availability of such relief on the merits on grounds like limitation, the <ORG> should ordinarily refuse to issue the writ of mandamus for such payment.
+RatioOfTheDecision	In both these kinds of cases it will be sound use of discretion to leave the party to seek his remedy by the ordinary mode of action in a civil court and to refuse to exercise in his favour the extraordinary remedy under Art.
+RatioOfTheDecision	226 of the Constitution."
+RatioOfTheDecision	In State of Kerala v. <ORG>) the respondents after submitting returns under the Sales Tax Act for the period M ay 30, 1950 to March 31, 1951 showing a net turnover exceeding Rs.
+RatioOfTheDecision	23 lakhs and depositing necessary sales tax claimed a refund on the ground of having discovered their mistake soon after March 7, 1951.
+Argument	The petition to <ORG> under Art.
+Argument	226 of the Constitution was opposed on behalf of the <ORG> on various grounds.
+Argument	Holding that money paid under a mistake of law was recoverable, this Court called for a finding from the Sales Tax Officer on the question whether the writ petition was within three years of the date on which the mistake first became known to the respondent so that a suit for refund on that date would not be barred under Art.
+Argument	96 of the Indian Limitation Act of 1908.
+Argument	Speaking for myself I am not satisfied that the petitioners in this case had made a mistake in thinking that the money paid was due when in fact it was not due.
+Argument	As already noted, in their reply to the show cause notice dated February 7, 1958 the petitioners ;case was that the threat of the sales tax authorities to forfeit  the amount was without the authority of law and that the firm had (1) 16 S.T.C.
+Argument	689.
+Argument	852  agreed to the condition of refunding the amount received to its own coustomers under coercion even though in law the authorities were bound to refund without any such condition.
+Argument	The petitioners did not content themselves merely by opposing the claim of the sales tax authorities to forfeit the amount but suited their action to their belief by presenting a writ petition to <ORG> describing the order of forfeiture as without the authority of law and in violation of Art.
+Argument	19(1)(g) and Art.
+Argument	265 of the Constitution 'and praying for the necessary reliefs.
+Argument	They did not accept the decision of the learned single Judge of :<ORG> under Art.
+Argument	226 of the Constitution but filed their appeal raising practically the same contentions as they have done in the present petition except that they did not state having discovered any mistake on 'a perusal of the decision of any court of law.
+Argument	The grounds of appeal  to the Divisional Bench of <ORG> are illustrative of the frame of mind and viewpoint of the petitioners then.
+Argument	They complained about the violation of their fundamental rights, the illegality of the order of forfeiture and in particular mentioned the unreasonable restriction on their fundamental rights enshrined in Art.
+Precedent	19(1)(f) of the Constitution.
+Argument	Further, they had the benefit of the judgment of the appeal Bench of <ORG> that the case was not being decided on the merits at all and even if there was any violation of the fundamental rights of the petitioners the exercise of discretion by the learned single Judge would not be interfered with in appeal.
+Argument	It was therefore clear to the petitioners that there was no adjudication as to their fundamental rights or the merits of their claim and there was nothing to prevent the petitioners then from coming up to this Court by preferring an appeal from the judgment of <ORG> or by instituting a suit for declaration of the ord er of forfeiture illegal and ultra vires and for an injunction restraining the <ORG> from giving effect thereto.
+Argument	Before <ORG> the petitioners questioned the legality of the order of forfeiture and prayed for quashing it on the ground of the threatened invasion of their fundamental rights.
+RatioOfTheDecision	On these facts it is idle to suggest that the petitioners ever entertained any belief or thought that the money was legally due from them.
+RatioOfTheDecision	The way they asserted their position under the law precludes any inference that they were ever influenced by a mistake of law or that they ever failed to appreciate the correct position under the law.
+Argument	Even after the decision of <ORG> they did not willingly pay up the amount forfeited but only made disbursements after an attachment had been levied on the business including the tenancy of the premises and its good will.
+Argument	They protested against the order of forfeiture not only out of court but in court and only paid after the issue of a legal process.
+RatioOfTheDecision	853  It  is therefore not possible to hold that the payments complained of following the order of forfeiture were made in mistake of law.
+RatioOfTheDecision	They were payments under compulsion or coercion A payment under coercion has to be treated in the same way for the purposes of a claim to refund 'as a payment under mistake of law, but there is an important distinction between the two.
+RatioOfTheDecision	A payment under mistake of law may be questioned only when the mistake is discovered but a person who is under no misapprehension as to his legal rights and complains about the illegality or the ultra vires nature of the order passed against him can immediately after payment formulate his cause of action as one of payment under coercion.
+RatioOfTheDecision	The Limitation Act s do not in terms apply to claims against the <ORG> in respect of violation of fundamental rights.
+RatioOfTheDecision	A person ',complaining of infraction of any such rights has one of three courses open to him.
+RatioOfTheDecision	He can either make an application under Art.
+RatioOfTheDecision	226 of the Constitution to <ORG> or he can make an app lication to this Court under Art.
+RatioOfTheDecision	32 of the Constitution, or he 'can file a suit asking for appropriate reliefs.
+RatioOfTheDecision	The decisions of various <ORG> in India have firmly laid down that in the matter of the issue of ,a writ under Art.
+RatioOfTheDecision	226 the courts have a discretion and may in suitable cases refuse to give relief to the person approaching it even though on the merits the applicant has a substantial complaint as regards violation of fundamental rights, Although the Limitation Act does not apply, the courts have refused to give relief in cases of long or unreasonable delay.
+RulingByLowerCourt	As noted above in <NAME> case(1), it was observed that the "maximum period fixed by the legislature as the time within Which the relief by a suit in a civil court must be brought may ordinarily be taken to be a reasonable standard by which delay in seeking remedy under Art.
+RulingByLowerCourt	226 can be measured."
+RulingByLowerCourt	On the question of delay we see no reason to hold that a different test ought to be applied when a party comes to this Court under Art.
+Precedent	32  from one applicable to applications under Art.
+Precedent	226.
+Precedent	There is a public policy behind all statutes of limitation and according to Halsbury's Laws of England (Third Edition, Vol.
+Precedent	24), Art.
+Precedent	330 at p. 181:  "The courts have expressed at least three different reasons supporting the existence of statutes of limitation, namely, (1) that long dorment claims have more of cruelty than justice in them, (2) that a defendant might have lost the evidence to disprove a stale claim and (3) that persons with good causes of action should pursue them with reasonable diligence."
+Precedent	In my view, a claim based on the infraction of fundamental rights ought not to be entertained if made beyond the period fixed (1) [1964] 6 S.C.R.
+Precedent	261.
+Precedent	854  by the Limitation Act for the enforcement of the right by way of suit.
+Precedent	While not holding that the Limitation Act applies in terms.
+Precedent	I am of the view that ordinarily the period fixed by the Limitation Act should be taken to be a true measure of the time within which a person can be allowed to raise a  plea successfully under Art.
+Precedent	32 of the Constitution.
+Precedent	Art.
+Precedent	16 of the Limitation Act of 1908 fixed a period of one year for a suit against <ORG> to recover money paid under protest in satisfaction of a claim made by the revenue authorities on account of arrears of revenue or on account of demands recoverable as such arrears, from the date when the payment was made.
+Precedent	As an attachment was levied under s. 13 of the Bombay City Land Revenue Act Ii of 1876 it is a moot question as to whether the payments made in 1959 and 1960 in this case would not attract the said article of the Limitation Act of 1908.
+Precedent	It was held by this <ORG> in A.V.
+Fact	Subbarao v. The State(1) that the period of limitation for a suit to recover taxes illegally collected was governed by Article 62 of the Limitation Act of 1908 providing a space of three years from the date of payment.
+Fact	But taking the most favourable view of the petitioners' case, Art.
+Fact	120 , of the Limitation Act of 1908 giving a period of six years for the filing of a suit would  apply to the petitioners' claim.
+Statute	The period of six years would have expired some time in 1966 but the Limitation Act of 1908 was repealed by the Limitation Act of 1963 and by s. 30(a) of the Act of 1963 it was provided that:  "Notwithstanding anything contained in this Act-  (a) any suit for which the period of limitation is shorter than the period of limitation prescribed by the Indian Limitation Act , 1908, may be instituted within a period of five years next after the commencement of this Act or within the period prescribed for such suit by the Indian Limitation Act , 1908, whichever period expires earlier:  A claim for money paid under coercion would be covered by Art.
+RatioOfTheDecision	113 of the Limitation Act , 1963 giving a period of three years from the first of January 1964 on which date the Act came into force.
+RatioOfTheDecision	The period of limitation for a suit which was formerly covered by Art.
+RatioOfTheDecision	120 of the Act of 1908 would in a case like this be covered by Art.
+RatioOfTheDecision	113 of the new Act and the suit in this case would have to be filed b y the 1st January, 1967.
+RatioOfTheDecision	As the petition to this Court was presented in February 1968 a suit, if filed, would have been barred and in my view the petitioners' claim in this case cannot be entertained having been preferred after the 1st of (1)  2 S.C.R.
+RatioOfTheDecision	577.
+RatioOfTheDecision	855  January, 1967.
+RatioOfTheDecision	The facts negative any claim of payment under a mistake of law and are only consistent with a claim for money paid under coercion.
+RatioOfTheDecision	As the petitioners have come to this Court long after the date when they could have properly filed a suit, the application must be rejected.
+RatioOfTheDecision	I may also note in brief another contention urged on behalf of the respondents that the present petition is barred by principles analogous to res judicata.
+Argument	It was contended by learned counsel for the respondents that the decisions of <ORG> were speaking orders and even if the petition to <ORG> had been dismissed in limine there would be a decision on the merits.
+RatioOfTheDecision	I am unable to uphold this contention.
+RatioOfTheDecision	It was ,held in <NAME> and others v.  <ORG> that when a petition 'under Art.
+RatioOfTheDecision	226 is dismissed not on the merits but because of laches on the party applying for the writ or because an alternative 'remedy is available to him, such dismissal is no bar to the subsequent petition under Art.
+RatioOfTheDecision	32 except in cases where the facts rouged by <ORG> might themselves be relevant under under Art.
+Argument	32.
+Argument	It was pointed out in <CITATION_323835> (2) that:  "Every citizen whose fundamental right is infringed by the <ORG> has a fundamental right to approach this <ORG> for enforcing his right.
+Argument	If by a final decision of a competent <ORG> his title to property has been negatived, he ceases to have the fundamental right in respect of that property and, therefore, he can no longer enforce it.
+RatioOfTheDecision	In that context the doctrine of res judicata may be invoked.
+RatioOfTheDecision	But where there is no such decision at all, there is no scope to call in its aid."
+RatioOfTheDecision	The judgment of the Bombay High <ORG> in 1958 clearly shows that the merits of the petitioners' claim were not being  examined.
+RatioOfTheDecision	I cannot however find no merit in the contention that because there is an invasion of a fundamental right of a citizen he can be allowed to come to this <ORG>, no matter how long after the infraction of his right he applies for relief.
+RatioOfTheDecision	The Constitution is silent on this point; nor is there any statute of limitation expressly applicable, but nevertheless, on grounds of public policy I would hold that this <ORG> should not lend its aid to a litigant even under Art.
+Precedent	32 of the Constitution in case of an inordinate delay in asking for relief and the question of delay ought normally to be measured by the periods fixed for the institution of suits under the Limitation The petition therefore fails and is dismissed with costs.
+Precedent	(1) [1962] 1 S.C.R.
+Precedent	574.
+Precedent	(2) A.I.R.
+Precedent	1965 S.C. 1514.
+Precedent	856  <NAME>, J. I had the advantage of studying the judgments just delivered by my brothers <NAME>, <NAME> and <NAME>, <NAME>.
+Precedent	The facts of the case are fully set out in those judgments.
+Precedent	I shall not restate them.
+Precedent	I agree with the decis ion of <ORG> that to the facts of this case the rule laid down by this <ORG> in Daryao and Ors.
+Precedent	v. The State of U.P.
+Precedent	and Ors.
+Precedent	(1) is inapplicable.
+Precedent	The principle underlying that decision as I understand, is that the right claimed by the petitioner therein had been negatived by a competent court and that decision having become final, as it was not appealed against, he could not agitate the same over again.
+Precedent	It is in that context the principle of res judicata was relied on.
+Precedent	A fundamental right can be sought to be enforced by a person who possesses that right.
+Precedent	If a competent court holds that he has no such right, that decision is binding on him.
+Precedent	The binding character of judgments of courts of competent jurisdiction is in essence a part of the rule of law on which administration of justice depends.
+Precedent	In view of the decision of this <ORG> in <ORG> v.<NAME>) that s. 12A(4) of the Bombay Sales Tax Act, 1946 is violative of Art.
+Precedent	19(1)(f) of the Constitution on the grounds that that section  did not lay down any procedure for ascertaining whether in fact the dealer concerned had collected any amount by way of tax from its purchasers outside the State and if so what that amount was; neither the section nor any rule framed under the Act contemplated any enquiry much less a reasonable enquiry in which the dealer complained of could plead and prove his case or satisfy the authorities that their assumptions were wholly or partly wrong and further the section also did not provide for any enquiry on disputed questions of fact or law or for making an order, it follows that the impugned collection was without the authority of law and consequently the same is an exaction resulting in the infringement of one of the proprietary rights of the petitioners guaranteed to them under Art.
+Precedent	19(1 )(f) of the Constitution.
+RatioOfTheDecision	Hence the petitioners have a fundamental right to approach this <ORG> under Art.
+RatioOfTheDecision	32 of our Constitution for appropriate relief and this <ORG> has a duty to afford them appropriate relief.
+RatioOfTheDecision	In <NAME>  <NAME> v. The <ORG> of UP and Ors.
+RatioOfTheDecision	(a) <NAME>.
+Precedent	speaking for the majority observed that once it is proved to the satisfaction of this <ORG> that by <ORG> action the fundamental right of a petitioner has been infringed it is not only the right but the duty of this <ORG> under Art.
+Precedent	32 to afford relief to him by passing appropriate orders in that behalf.
+Precedent	The right given to the citizens to move this <ORG> under Art.
+Precedent	32 is itself a fundamental right and the same cannot be circumscribed or curtailed except as provided by the Constitution.
+Precedent	It is in-  [1962] S.C.R.
+Precedent	574.
+Precedent	(2) 21 S.T.C.
+Precedent	174.
+Precedent	(3) [1964] 1 S.C.R.
+Precedent	332.
+Precedent	857  appropriate to equate the duty imposed on this <ORG> to the powers, of the Chancery <ORG> in England or the equitable jurisdiction of the American <ORG>s.
+Precedent	A duty imposed by the Constitution cannot be compared with discretionary powers.
+Precedent	Under Art.
+Precedent	32. the mandate of the Constitution is clear and unambiguous and that mandate has to be obeyed.
+Precedent	It must be remembered, as emphasized by several d ecisions of this <ORG> that this <ORG> is charged by the Constitution with the special responsibility of protecting and enforcing the fundamental rights under Part III of the Constitution.
+Precedent	If I may with respect, borrow the felicitous language employed by Chief Justice <NAME> in <CITATION_554839> (1) that as regards fundamental rights this' <ORG> has been assigned the role of a <ORG> on the qui vive.
+RatioOfTheDecision	The anxiety of this <ORG> not to whittle down the amplitude of the fundamental rights guaranteed has found expression in several of its judgments.
+RatioOfTheDecision	It has not allowed its vision to be blurred by the fact that some of the persons who invoked its powers had no equity in their favour.
+RatioOfTheDecision	It always took care to see that a bad case did not end in laying down a bad law.
+RatioOfTheDecision	I am not unaware of the fact that the petitioners before us have no equity in their favour but that circumstance is irrelevant in deciding the nature of the fight available to an aggrieved party under Art.
+RatioOfTheDecision	32 of the Constitution.
+RatioOfTheDecision	All of us are  unanimous on the question that the impugned collection amounts to an invasion of one of the fundamental rights guaranteed to the petitioners.
+RatioOfTheDecision	Our difference primarily centres round the question whether their fight to get relief under Art.
+RatioOfTheDecision	32 is subject to any limitation or to be more accurate whether this <ORG> has any discretion while exercising its jurisdiction under that Article ?
+RatioOfTheDecision	As mentioned earlier a right to approach this <ORG> under Art.
+RatioOfTheDecision	32 is itself a fundamental right.
+RatioOfTheDecision	In that 'respect our Constitution makes a Welcome departure from many other similar Constitutions.
+RatioOfTheDecision	As seen earlier a party aggrieved by the infringement of any of its fundamental rights has a right to get relief at the hands of this <ORG>, and this <ORG> has a duty to grant appropriate relief see <CITATION_323835> (2)'.
+RatioOfTheDecision	The power conferred on this <ORG> by that Article is not a discretionary power.
+RatioOfTheDecision	This power is not similar to the power conferred on the High <ORG>s under Art.
+RatioOfTheDecision	226 of the Constitution, Hence laches on the part of an agg rieved 'party cannot deprive him of the right to get relief from this Court under Art.
+Precedent	32.
+Precedent	A DiVision Bench of <ORG> in <CITATION_216003> (3) held that where a constitutionals to the validity of a legislation is taken in a petition under Art.
+Precedent	226 , the question of mere delay will not affect the (1)  S.C.R.
+Precedent	597.
+Precedent	(2) A.I.R.
+Precedent	1965 S.C. 1514.
+Precedent	(3) [1965] Vol.
+Precedent	67 B.L.R.p.
+Precedent	85.
+RatioOfTheDecision	858  maintainability of that petition.
+RatioOfTheDecision	Law reports do not show a single instance, where this Court had refused to grant relief to a petitioner in a petition under Art.
+RatioOfTheDecision	32 on the ground of delay.
+RatioOfTheDecision	There has been some controversy whether an aggrieved party can waive his fundamental right.
+RatioOfTheDecision	That question was elaborately considered in <CITATION_761967> and anr.
+RatioOfTheDecision	(1) by a Constitution Bench consisting of <NAME>, <NAME> <NAME>, <NAME>, <NAME> and <NAME>, JJ.
+RatioOfTheDecision	The learned Chief Justice and <NAME> that there could be no waiver of a fundamental right founded on Art.. 14.
+RatioOfTheDecision	<NAME> and <NAME> JJ.
+RatioOfTheDecision	held that no fundame ntal right can be waived and <NAME> held that only such fundamental rights which are intended to the benefit of a party can be waived.
+RatioOfTheDecision	I am mentioning all these aspects to show how jealously this <ORG> has been resisting every attempt to narrow down the scope of the rights guaranteed under Part 111 of our Constitution.
+RatioOfTheDecision	Admittedly the provisions contained in the Limitation Act do not apply to proceedings under Art.
+RatioOfTheDecision	226 or Art.
+Precedent	32.
+Precedent	The Constitution makers wisely, if I may say with respect, excluded the application of those provisions to proceedings under Art.
+Precedent	226 , 227 and 32 lest the efficacy of the constitutional remedies should be left to the tender mercies of the legislatures.
+Precedent	This <ORG> has laid down in <CITATION_120358> and anr.
+Precedent	(2) that the <ORG> cannot by amending the Constitution abridge the fundamental rights conferred under Part III of the Constitution.
+Precedent	If we are to bring in the provisions of Limitation Act by an indirect process to control the remedies conferred by the Constitution it woul d mean that what the <ORG> cannot do directly it can do indirectly by curtailing the period of limitation for suits against the Government.
+RatioOfTheDecision	We may console ourselves by saying that the provisions of the Limitation Act will have only persuasive value but they do not limit the power of this Court but the reality is bound to be otherwise.
+RatioOfTheDecision	Very soon the line that demarcates the rule of prudence and binding rule is bound to vanish as has happened in the past.
+RatioOfTheDecision	The fear that forgotten claims and discarded rights may be sought to be enforced against the Government after lapse of years, if the fundamental rights are held to be enforceable without 'any time limit appears to be an exaggerated one.
+RatioOfTheDecision	It is for the party who complains the infringement of any right to establish his right.
+Precedent	As years roll on his task is bound to become more and more difficult.
+Precedent	He can enforce only an existing right.
+Precedent	A right may be lost due to an earlier decision of a competent court or due to various other reasons.
+Precedent	If a right is lost for one  reason or the other there is no right to be enforced.
+Precedent	In this case we are dealing with an existing right even if it can be said that the petitioners' (1)  Supp.
+Precedent	1 S.C.R.
+Precedent	528.
+Precedent	(2)  2 S.C.R.
+Precedent	762.
+Precedent	859  remedy under the ordinary law is barred.
+Precedent	If the decision of <NAME> and <NAME>, JJ.
+Precedent	is correct, startling results are likely to follow.
+Precedent	Let us take for example a Case of a person who is convicted and sentenced to a long period of imprisonment on the basis of ,a statute which had been repealed long before the alleged offence was committed.
+Precedent	He comes to know of the repeal of the statute long after the period prescribed for filing.
+Precedent	appeal expires.
+Precedent	Under such a circumstance according to the decision of <NAME> and <NAME>, JJ.
+Precedent	he will have no right-the discretion of the <ORG> apart-to move this <ORG> for a writ of habeas corpus.
+Precedent	Our Constitution makers in their wisdom thought that no fetters should be placed on the right of an aggrieved party to seek relief from this <ORG> under Art.
+Precedent	32.
+Precedent	A comparison of the language  of Art.
+Precedent	226 with that of Art.
+Precedent	32 will show that while under Art.
+Precedent	226 a discretionary power is conferred on <ORG> the mandate of the Constitution is absolute so far as the exercise of this <ORG>'s power under Art.
+Precedent	32 is concerned.
+Precedent	Should this <ORG>, an institution primarily created for the purpose of safeguarding the fundamental rights guaranteed under Part III of the Constitution, narrow down those rights ?
+Precedent	The implications of this decision are bound to be far reaching.
+Precedent	It is likely to pull down from the high pedestal now occupied by the fundamental fights to the level of other civil rights.
+Precedent	I am apprehensive that this decision may mark an important turning point in down grading the fundamental rights guaranteed under the Constitution.
+Precedent	I am firmly of the view that a relief asked for under Art.
+Precedent	32 cannot be refused on the ground of laches.
+Precedent	The provisions of the Limitation Act have no relevance either directly or indirectly to proceedings under Art.
+Precedent	32.
+RatioOfTheDecision	Considerations which are relevant in proceeding s under Art.
+RatioOfTheDecision	226 are wholly out of place in a proceeding like the one before us.
+RatioOfTheDecision	The decision of this <ORG> referred to in the judgment of <NAME> and <NAME> JJ.
+RatioOfTheDecision	where this <ORG> has taken into consideration the laches on the part of the petitioners are not apposite for our present purpose.
+RatioOfTheDecision	None of those cases deal with proceed under Art.
+RatioOfTheDecision	32 of the Constitution- The rule enunciated by this court in the <CITATION_1204286> (1) is only applicable to proceedings under Art.
+RatioOfTheDecision	226.
+RatioOfTheDecision	At page 271 of the report <NAME>, 1. who spoke for the <ORG> specifically referred to this aspect when he says:  "that it has been made clear more than once that power to relief under Art.
+RatioOfTheDecision	226 is a discretionary power".
+RatioOfTheDecision	Therefore those decisions are of no assistance to us in deciding the present case.
+RatioOfTheDecision	Once it is held that the power of this <ORG> under Art.
+RatioOfTheDecision	32 is a discretionary power-that in nay opinion is the result of the decision of <NAME> and <NAME> JJ-then it follows that this <ORG> can refuse relief under Art 32 on any one of t he  6 S.C.R.
+RatioOfTheDecision	261.
+RatioOfTheDecision	860  grounds on which relief under Art.
+RatioOfTheDecision	226 can be refused.
+RatioOfTheDecision	Such a conclusion militates not only against the plain words of Art.
+RatioOfTheDecision	32 but also the lofty principle underlying that provision.
+RatioOfTheDecision	The resulting position is that the right guaranteed under that Article would cease to be a fundamental right.
+RatioOfTheDecision	Assuming that the rule enunciated by this <ORG> in <CITATION_1263190> (1) and further refined by this <ORG> in <CITATION_1204286> (") can apply to the facts of this case even then I am of opinion that the petitioners are entitled to the relief that they have asked for.
+RatioOfTheDecision	As could be gathered from the decision of <NAME> and <NAME>, JJ., the Bombay High <ORG> did not decide the merits of the case in the writ petition filed by the petitioners.
+Precedent	In that petition the <ORG> refused to exercise its discretion in favour of the petitioners.
+Precedent	The grounds on which the petitioners challenged the validity of s. 12A(4) of the Bombay Sales Tax Act, 1946 before the High <ORG> of Bombay have now been found to be uns ustainable by <ORG> in <ORG> and Bros. v.<NAME>).
+Precedent	In the appeal against that decision this <ORG> did not examine those grounds.
+Precedent	It struck down s. 12A(4) on a wholly different ground, a ground not put forward by the petitioners in their writ petition before the Bombay High <ORG>.
+Precedent	A mere impression of a party that a provision of law may be ultra vires the Constitution can not be equated' to knowledge that the provision is invalid.
+RatioOfTheDecision	Hope and desire are not the same things as knowledge.
+RatioOfTheDecision	A law passed by a competent legislature is bound to be presumed to be valid until it is struck down by a competent court.
+RatioOfTheDecision	The fact that after a futile attempt to get the provision in question declared invalid the petitioners gave up their right and submitted to the law which was apparently valid is no proof of the fact that they knew that the provision in question is invalid.
+RatioOfTheDecision	As seen earlier that none of the grounds urged by the petitioners in support of their contention that the provision in ques tion is invalid has been accepted by any court till now.
+Precedent	Under these circumstances I see no justification to reject the plea of the petitioners that they became aware of the invalidity of the provision only after the decision of this <ORG> in <NAME> case(4) which decision was rendered on September 29, 1967.
+Precedent	This petition was filed very soon thereafter.
+Precedent	Hence this case under any circumstance falls within the rule laid down by this <ORG> in <NAME> case(2).
+RulingByPresentCourt	For the reasons mentioned above I allow this petition and grant the relief prayed for by the petitioners.
+RulingByPresentCourt	ORDER In accordance with the opinion of the majority, the petition fails and is dismissed with costs.
+Precedent	V.P.S.
+Precedent	[1959] S.C.R.
+Precedent	1350.
+Precedent	(2) [1964] 6 S.C.R.
+Precedent	261.
+Precedent	(3) 16 S.T.C.
+Precedent	973.
+Precedent	(4) 21 S.T.C.
+Precedent	174.
+Precedent	861

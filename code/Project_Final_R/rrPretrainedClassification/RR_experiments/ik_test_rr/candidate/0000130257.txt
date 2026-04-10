@@ -1,0 +1,43 @@
+Fact	ORDER <NAME>, C.J.
+RulingByLowerCourt	1.
+Fact	Pursuant to directions given by this <ORG> in in ITC No.44/92 under Section 256(2) of the Income-tax Act, 1961 (in short the 'Act') following question has been referred for opinion of this <ORG> by <ORG>.
+Fact	Delhi Bench 'C' (in short the <ORG>):  "Whether on the facts and in the circumstances of the case, <ORG> was justified in holding that the Trust settled for the benefit of the sole beneficiary first son of <NAME> who was unborn at the time of creation of the Trust, is a valid trust?"
+Fact	2.
+Fact	Factual background in nutshell is as follows:  assessed settled 60,000 equity shares of <ORG> of the face value of Rs.5/- each for the benefit of first son of <NAME>.
+Fact	Son of late Col. <NAME>.
+Fact	For this purpose a trust was created on 2.5.1974.
+Fact	Income-tax Officer (in short the 'ITO') was of the view that the trust was not valid and effective as there was no existence of any beneficiary.
+Fact	Incom e arising out of the aforesaid shares was included in the income of the assessed.
+Fact	Matter was carried in appeal before the Commissioner of Income-tax (Appeals)(in short the 'CIT(A)').
+Fact	Adopting the view expressed earlier, in some cases the CIT(A) deleted the addition.
+Fact	Matter was carried in appeal before the <ORG> by the <ORG>.
+Fact	It was revenue's stand that in the absence of a definite or known beneficiary, creation of the trust itself was invalid.
+Fact	<ORG> did not accept the stand.
+Fact	A prayer for reference under Section 256(1) of the Act was turned down.
+Fact	Subsequently, pursuant to the directions of this <ORG>, the aforesaid question has been referred for opinion along with statement of case.
+Fact	3.
+Fact	We have heard learned counsel for the parties.
+Fact	Stand of learned counsel for <ORG> is that in the absence of known beneficiary, a trust is a misconceived idea.
+Fact	According to him, for constituting a valid trust there must be a definite and an existent beneficiary.
+Fact	According to learned counsel for the assessed, if the des cription of the beneficiary is there, it would be sufficient compliance with the requirements of law.
+Fact	4.
+Fact	In order to constitute a valid trust the author of the trust must indicate with reasonable certainty:  (a) the intention on his part to create a trust, (b) the purpose of the trust, (c) the beneficiaries, (d) the trust property and (e) transfer of property to the trust.
+Fact	According to learned counsel for the <ORG> except condition (c) all other conditions are present here.
+RatioOfTheDecision	We find that it is not a case where the beneficiary was unknown or indefinite.
+RatioOfTheDecision	In fact it was clearly stipulated that the beneficiary was the first son of <NAME>.
+RatioOfTheDecision	At this juncture, it would be also relevant to take note of Section 13 of the Transfer of Property Act, 1882 (in short 'T.P.Act').
+RulingByLowerCourt	Section 13 reads as follows:  "13.
+RulingByLowerCourt	Where, on a transfer of property, an interest therein is created for the benefit of a person not in existence at the date of the transfer, subject to a prior interest created by the same transfer, the i nterest created for the benefit of such person shall not take effect, unless it extends to the whole of the remaining interest of the transferor in the property."
+RulingByLowerCourt	<N<N<ORG>ME>ME>s per the illustration appended to the provision where <N<N<ORG>ME>ME> transfers his property to B in trust for <N<N<ORG>ME>ME> and his prospective wife successively for their life and after the death of the survivor, for the eldest son of the intended marriage for life and after his death for <N<N<ORG>ME>ME>'s second son, interest created for the benefit of the eldest son does not take effect for the reason that it does not extend to the whole of <N<N<ORG>ME>ME>'s remaining interest in the property.
+RatioOfTheDecision	5.
+RatioOfTheDecision	<N<N<ORG>ME>ME> transfer cannot be made directly to an unborn person, for the definition of transfer in Section 5 is limited to living persons.
+RatioOfTheDecision	Such transfer can only be made by the machinery of trusts.
+RatioOfTheDecision	Possibly, to express this distinction, the expression "for the benefit of" has been used, since trustees being the transferees hold the property for the benefit of the unborn person.
+RatioOfTheDecision	6.
+RatioOfTheDecision	In the case at hand the entir e interest in the property goes to the benefit of the child to be born to <NAME>.
+RatioOfTheDecision	As the facts go to show, in fact a child was born in August 1977, What would have happened if <NAME> did not get a male child is also spelt out in the trust deed.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Above being the position the <ORG> was justified in its conclusion.
+RulingByPresentCourt	The question referred is answered in the affirmative, in favor of the assessed and against the <ORG>.
+RulingByPresentCourt	8.
+RulingByPresentCourt	The reference stands disposed of.

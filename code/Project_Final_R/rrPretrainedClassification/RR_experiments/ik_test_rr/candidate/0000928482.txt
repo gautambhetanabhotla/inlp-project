@@ -1,0 +1,116 @@
+Fact	<NAME>, J.
+Fact	1.
+Fact	This appeal is brought by the Governor-General in Council from a decree made by <ORG> in its original jurisdiction on March 17, 1942.
+Fact	In proceedings commenced in that Court against the respondent, the Province of Madras, the appellant claimed that the Madras Act IX of 1939, known as the Madras General Sales Tax Act of 1939 and hereafter referred to as "the Madras Act," in so far as it purports to levy a1 tax on first sales in Madras1 of goods manufactured or produced in India is, except in respect of certain excepted goods, ultra vires and beyond the competence of the <ORG> of the respondent.
+Fact	<ORG> dismissed the appellant's suit following its previous decision in an appeal from <ORG> in a suit in which the present respondents were appellants and a firm called <ORG> were respondents and the validity of the same provisions of the same Act was in issue.
+Fact	This case will be referred to as the <ORG> case pro v. Of Mad.
+Fact	v. <NAME> (1942) 46 C.W.N.
+Fact	(F.R.)
+Fact	38  2.
+Fact	The legislative powers of the Federal and Provincial Legislatures respectively are defined in the Government of India Act, 1935, sometimes called " The Constitution Act ," and it will be convenient to refer to them before examining the provisions of the impugned Madras Act.
+Fact	3.
+Statute	Section 100 of the Constitution Act provides as follows :  (1) Notwithstanding anything in the two next succeeding subsections <ORG> has, and <ORG> has not, power to make laws with respect to any of the matters enumerated in List I in the Seventh Schedule to this Act (hereinafter called the 'Federal Legislative List').
+Fact	(2) Notwithstanding anything in the next succeeding subsections <ORG>, and, subject to the preceding subsection, <ORG> also, have power to make laws with respect to any of the matters enumerated in List III in the said Schedule (hereinafter called the 'Concurrent Legislative List').
+Fact	(3)  Subject to the two preceding subsections, <ORG> has, and <ORG> has not, power to make laws for a Province or any part thereof with respect to any of the matters enumerated in List II in the said Schedule (hereinafter called the 'Provincial Legislative List').
+Fact	(4) <ORG> has power to make laws with respect to matters enumerated in the Provincial Legislative List except for a Province or any part thereof.
+Fact	Entry No.
+Fact	45 of the Federal Legislative List is as follows:  45.
+Fact	Duties of excise on Tobacco and other goods manufactured or produced in India except there follow certain exceptions.
+Fact	Entry No.
+Fact	48 of the Provincial Legislative List is as follows:  48.
+Fact	Taxes on the sale of goods and on advertisements.
+Argument	4.
+Argument	It is upon these two entries respectively that the parties rely, the respondent contending that Entry No.
+Argument	48 of the Provincial Legislative List authorises and justifies the impugned provisions1 of the Madras Act, the appellant contending that so far as  those provisions purport to impose a tax on first sales they in effect impose a duty of excise and are therefore an encroachment upon the power given exclusively to the Federal <ORG> by Entry No.
+Argument	45 of the Federal Legislative List.
+Argument	5.
+RatioOfTheDecision	Before further considering the provisions of the Constitution Act it will be convenient to examine somewhat closely the Madras Act.
+RatioOfTheDecision	For in a Federal constitution, in which there is a division of legislative powers between <ORG>, it appears to be inevitable that controversy should arise whether one or other <ORG> is not exceeding its own, and encroaching on the others, constitutional legislative power, and in such a controversy it is a principle, which their Lordships do not hesitate to apply in the present case, that it is not the name of the tax but its real nature, its "pith and substance" as it has sometimes been said, which must determine into what category it falls.
+RatioOfTheDecision	6.
+Statute	The Madras Act which received the assent of the Governor of Ma dras on June 4, 1939, is entitled " An Act to provide for the levy of a general tax on the sale of goods in the Province of Madras."
+Statute	Its preamble recites that it is expedient to provide for the levy of a general tax on the sale of goods in the Province of Madras.
+Statute	By Section 1 it is provided that this Act may be called "The Madras General Sales Tax Act, 1939," and that it is to extend to the whole of the Province of Madras.
+Statute	The rest of the Act does not belie its title or its declared purpose.
+Statute	Section 2 contains a number of definitions of which it is necessary to refer only to the following:  (b) 'dealer' means any person who carries on the business of buying or selling goods,  (h) 'sale' with all its grammatical variations and cognate expressions means every transfer of the property in goods by one person to another in the course of trade or business for cash or for deferred payment or other valuable consideration but does not include a mortgage hypothecation charge or pledge.
+Statute	(i) 'Turnover' means the aggrega te amount for which goods are either bought or sold by a dealer whether for cash or for deferred payment, or other valuable consideration provided that the proceeds of the sale by a person of agricultural or horticultural produce grown by himself or grown on any land in which he has an interest whether as owner, usufructuary mortgagee, tenant or otherwise, shall be excluded from his turnover.
+Statute	7.
+Statute	ExplanationSubject to such conditions and restrictions, if any, as may be prescribed in this behalf:  (i) the amount for which goods are sold shall include any sums charged for anything done by the dealer in respect of the goods sold at the time of or before the delivery thereof;  (ii) any cash or other discount on the price allowed in respect of any sale and any amount refunded in respect of articles returned by customers shall not be included in the turnover.
+Statute	(iii) where for accommodating a particular customer a dealer obtaining goods from another dealer and immediately disposes of the same to the said customer, t he sale in respect of such goods shall be included in the turnover of the latter dealer but not in that of the former.
+Statute	8.
+Statute	Section 3 , the taxing section, provides as follows:  3.
+Statute	(1) Subject to the provisions of this Act, every dealer shall pay in each year a tax in accordance with the scale specified below:  (a) If his turnover does not exceed 20,000 rupees, 5 rupees per month.
+Statute	(b) If his turnover exceeds 20,000 rupees, one half of one per cent.
+Statute	of such turnover.
+Statute	Provided that any dealer whose turnover in any year is less than 10,000 rupees shall not be liable to pay the tax under this sub-section for that year.
+Statute	Provided further (1) that in respect of the same transaction of sale, the buyer and the sellers shall not both be taxed but only one of them, as shall be determined by the rules made in this behalf under sub- section 2 , shall be taxed thereon and (2) that when the amount for which any goods were bought by a dealer has been included in his turnover the amount for which the same goods were sold by  him shall not be included in his turnover for the purposes of this Act.
+Statute	(2) The turnover for all the purposes of this Act shall be determined in accordance with, and the tax shall be assessed, levied and collected in such manner and in such instalment as may be prescribed by the Rules made by <ORG> in this behalf.
+Statute	(3) Subject to any rules made under Sub-section (2) the assessing authority may fix the turnover of any dealer in any year at the amount of his turnover in the previous year.
+Statute	9.
+Statute	Sections 4 and 5 provide for exemption from the tax imposed by Section 3 of certain classes of goods, and Section 6 for taxation of the sale of hides and skins whether tanned or untanned only at such single point in the series of sales by successive dealers as might be prescribed.
+Statute	10.
+Statute	Section 7 provides for a rebate of one half of the tax levied on sales of certain goods for delivery outside the Province, Section 8 for the licensing and exemption of agents.
+Statute	Other sections provide the necessary adminis trative machinery for the assessment and collection of a tax on sales.
+Statute	Section 19 provides that <ORG> may make rules to carry out the purposes of the Act.
+Statute	11.
+Statute	Under Section 3 (2) of the Madras Act <ORG> made rules which are called "The Madras General Sales Tax (Turnover and Assessment) Rules, 1939," and; under Section 19 further rules which are called "The Madras General Sales Tax Rules, 1939."
+Statute	To these rules which are of an elaborate and comprehensive character it is unnecessary to refer except to note that under Rule 4 (1) of the first-mentioned rules the gross turnover of a dealer for the purposes of the rules is to be the amount for which the goods are sold by him except that under Rule 4(2) in the case of certain goods therein enumerated the gross turnover is to be the amount for which the goods are bought.
+Statute	12.
+RatioOfTheDecision	Their Lordships have thought it desirable to refer to the provisions of the Madras Act in this detail in order to emphasise its essential character.
+RatioOfTheDecision	Its r eal nature, its "pith and substance," is that it imposes a tax on the sale of goods.
+RatioOfTheDecision	No other succinct description could be given of it except that it is a "tax on the sale of goods."
+RatioOfTheDecision	It is in fact a tax which according to the ordinary canons of interpretation appears to fall precisely within Entry1 No.
+RatioOfTheDecision	48 of the Provincial Legislative List.
+RatioOfTheDecision	13.
+RatioOfTheDecision	It is necessary then to consider the contention, which in the Boddu Paidanna case [1942] 46 C.W.N.
+RatioOfTheDecision	(F.R.)
+RatioOfTheDecision	38 found favour with <ORG>, that the Madras Act so far as it imposes a tax on first sales of goods manufactured or produced in India is ultra vires <ORG>.
+Statute	This contention is thus clearly stated in the appellant's formal reasons on the present appeal : (1) a tax on the manufacturer or producer of goods on the first sale thereof is a duty of excise, (2) under the provisions of the Constitution Act the appellant has, and the respondent has not, power to impose a duty of excise, (3) the provisions of Entry No.
+Statute	48 in the Provinc ial Legislative List must be construed subject to the provisions of Entry No, 45 in the Federal Legislative List.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The third reason thus stated rests on the opening words of Section 100 (1) of the Constitution Act "Notwithstanding anything in the two next succeeding sub-sections" and the opening words of Section 100(3) "subject to the two preceding sub-sections."
+RatioOfTheDecision	Their Lordships do not doubt that the effect of these words is that, if the legislative powers of the Federal and Provincial Legislatures, which are enumerated in List I and List II of the Seventh Schedule, cannot [fairly be reconciled, the latter must give way to the former.
+RatioOfTheDecision	But it appears to them that it is right first to consider whether a fair reconciliation cannot be effected by giving to the language of the Federal Legislative List a meaning which, if less wide than it might in another context bear, is yet one that can properly be given to it, and equally giving to the language of <ORG> a meaning which it can prope rly bear.
+RatioOfTheDecision	In this connection it must in the first place be observed that the contention of the appellant involves doing violence to the language of Entry No.
+RatioOfTheDecision	48 of the Provincial Legislative List.
+RatioOfTheDecision	For if his contention is upheld, the plain words "Taxes on the sale of goods" must be read as if the words "other than the first sale of goods manufactured or produced in India" were added by way of qualification.
+RatioOfTheDecision	Bearing in mind first that the problem of the division of taxing power in a Federal Constitution was in general no new one and that the framers of the constitution!
+RatioOfTheDecision	must in particular have been well aware of the controversies that had arisen in regard to "excise" and taxes on first or other sales, and, secondly, that the contention of the appellant would remove from the range of Provincial taxation goods which had not been in the past, nor were likely in the future to be, the subject of an excise duty, their Lordships would be reluctant to adopt such a construction if any other was fairly open to them.
+RatioOfTheDecision	The  validity of the appellant's first reason must therefore be examined in order to see whether the Lists can be reconciled not by doing violence to the language of the Provincial List but by giving some other than the meaning and effect, for which the appellant contends, to the relevant words of the Federal List.
+RatioOfTheDecision	15.
+RatioOfTheDecision	Their Lordships would first observe (concurring herein in the cogent reasoning of <ORG> in the Boddu Paidanna case [1939] F.C.R.
+RatioOfTheDecision	18 that little assistance is to be derived from the consideration of other Federal Constitutions and of their judicial interpretations, Here there is no question of direct and indirect taxation nor of the definition of specific and residuary powers.
+RatioOfTheDecision	The Indian Constitution is unlike any that have been called to their Lordships' notice in that it contains what purports to be an exhaustive enumeration and division of legislative powers between the Federal and Provincial Legislatures.
+RatioOfTheDecision	Where there is such an enumeration, the language of the one list may be colour ed or qualified by that of the other.
+RatioOfTheDecision	The problem is different when on the one hand there are specific, and on the other residuary, powers.
+RatioOfTheDecision	16.
+RatioOfTheDecision	The appellant's fundamental contention is that the power to impose a duty of excise, which is given to <ORG> alone by Entry No.
+RatioOfTheDecision	45 of the Federal List, entitles that <ORG> and no other to impose a tax on first sales of goods manufactured or produced in India.
+RatioOfTheDecision	No other meaning, it is contended, can fairly be given to the words "duty of excise" than one which includes a tax on the first sales of such goods.
+RatioOfTheDecision	If such a construction involves that violence must be done to the plain meaning of Entry No.
+RatioOfTheDecision	48 of the Provincial List, that, it is said, is contemplated and safeguarded by the opening words of Section 100 (1).
+RatioOfTheDecision	17.
+RatioOfTheDecision	To their Lordships this contention does not appear well-founded.
+RatioOfTheDecision	The term "duty of excise" is a somewhat flexible one : it may, no doubt, cover a tax on first and perhaps on other sales : it may in a proper context have an even wi der meaning.
+RatioOfTheDecision	An exhaustive discussion of this subject, from which their Lordships have obtained valuable assistance, is to be found in the judgment of <ORG> in In re The Central Provinces and Berar Act No.
+RatioOfTheDecision	XIV of 1938.1 Consistently with this decision, their Lordships are of opinion that a duty of excise is primarily a duty levied upon a manufacturer or producer in respect of the commodity manufactured or produced.
+RatioOfTheDecision	It is a tax upon goods, not upon sales or the proceeds of sale of goods.
+RatioOfTheDecision	Here again their Lordships find themselves in complete accord with the reasoning and conclusions of <ORG> in the Boddu Paidanna case.
+RatioOfTheDecision	The two taxes, the one levied upon a manufacturer in respect of his goods, the other upon a vendor in respect of his sales, may, as is there pointed out, in one sense overlap.
+RatioOfTheDecision	But in law there is no overlapping.
+RatioOfTheDecision	The taxes are separate and distinct imposts.
+RatioOfTheDecision	If in fact they overlap, that may be because the taxing authority, imposing a duty of excise, finds it convenient to  impose that duty at the moment when the exciseable article leaves the factory or workshop for the first time upon the occasion of its sale.
+RatioOfTheDecision	But that method of collecting the tax is an accident of administration it is not of the essence of the duty of excise which is attracted by the manufacture itself.
+RatioOfTheDecision	That this is so is clearly exemplified in those excepted cases in which the <ORG>, not the Federal, <ORG> has power to impose a duty of excise.
+RatioOfTheDecision	In such cases there appears to be no reason why the <ORG> <ORG> should not impose a duty of excise in respect of the commodity manufactured and then a tax on first or other sales of the same commodity.
+RatioOfTheDecision	Whether or not such a course is followed appears to be merely a matter of administrative convenience.
+RatioOfTheDecision	So by parity of reasoning may the Federal <ORG> impose a duty of excise upon the manufacture of exciseable goods and the <ORG> <ORG> impose a tax upon the sale of the same goods when manufactured.
+RatioOfTheDecision	18.
+RatioOfTheDecision	It appears then to their Lordsh ips that the competing Entries No.
+RatioOfTheDecision	45 of the Federal List and No.
+RatioOfTheDecision	48 of the Provincial List may fairly be reconciled without adopting the contention of the appellant, and that the validity of the Madras Act cannot successfully be challenged.
+RatioOfTheDecision	19.
+RatioOfTheDecision	Their Lordships would again emphasise that in coming to this conclusion they have regarded substance not form.
+RatioOfTheDecision	The tax imposed by the Madras Act is not a duty of excise in the cloak of a tax on sales.
+RatioOfTheDecision	Lacking the characteristic features of a duty of excise such as uniformity of incidence and discrimination in subject-matter, it is in its general scope and in its detailed provisions a "tax on sales," Their Lordships must not be taken as expressing any view upon the validity of any measure upon the substance of (which a different opinion might be formed.
+RatioOfTheDecision	20.
+RulingByPresentCourt	For the reasons already stated their Lordships are of opinion that this appeal must be dismissed and they will humbly advise His Majesty accordingly.

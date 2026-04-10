@@ -1,0 +1,86 @@
+Fact	JUDGMENT C.S.P.
+Fact	<NAME>, J.
+Fact	1.
+Fact	The petitioner, a firm, runs an oil and tin factory.
+Fact	The financial year of the firm runs from Asarh Sudi 2 to Asarh Sudi 1.
+Fact	For the year 1965, the accounts were closed in July, 1965.
+Fact	In the accounts provision for payment of bonus was made and a reserve for bonus was created, and the amount debited to the profit and loss account.
+Fact	The amounts debited were to the extent of 20% for bonus and 20% as reserve for bonus.
+Fact	This method was followed from the accounting year 1966 to.1972-73.
+Fact	In accordance with the provisions of the Payment of Bonus Act , 1965, amounts credited to the bonus reserve account were transferred back to the profit and loss account after four years.
+Fact	The Income-tax Officer accepted the method of accounting aforesaid for the assessment years 1966-67 to 1973-74.
+Fact	2.
+Fact	By circular letter dated 18th August, 1973, <ORG> issued instructions to the effect that deduction for the bonus reserve should not be allowed.
+Fact	Subsequent to this circular letter,  the Income-tax Officer issued a notice under Section 154 of the Act on October 18, 1973, for the assessment years 1969-70 to 1972-73 requiring the petitioner to show cause why the assessment should not be rectified as double allowance for bonus had been allowed.
+Fact	Objections to this notice were filed by the petitioner on November 26, 1973.
+Fact	Another notice was sent by the Income-tax Officer stating that the balance-sheet filed by the firm disclosed that the bonus debited to the profit and loss account relevant for the assessment years 1969-70 to 1972-73 had not been paid, and consequently in exercise of powers under Section 154 of the Income-tax Act, he proposed to add these sums.
+Fact	By this letter, he also invited objections to the action proposed to be taken by him.
+Fact	The petitioner filed objections to these notices.
+Fact	Subsequently, the Income-tax Officer issued notice under Sections 148 / 147(b) of the Income-tax Act, 1961, dated February 18, 1974, for the assessment years 1969-70 to 1972-73.
+Argument	The petitioner filed ob jection to the aforesaid notice challenging the jurisdiction of <ORG> to reopen the assessment under Section 147(b) of the Act.
+Argument	The plea taken was that there was no subsequent information on the basis of which <ORG> could issue the impugned notices.
+Argument	The petitioner has now impugned these notices under Section 148 of the Act as also the <ORG>'s circular letter and has prayed for the quashing of both, and for a writ of prohibition restraining <ORG> from reassessing the petitioner-firm for the years 1969-70 to the assessment year 1972-73.
+Argument	3.
+Argument	The question that arises for decision in the present writ petition is as to whether <ORG> acting under Sections 147-148 of the Act could reopen the assessment on the basis of the circular issued by the Central <ORG> of Direct Taxes.
+Argument	Counsel for the petitioner has contended that the circular issued by the Central <ORG> of Direct Taxes was not information of such nature as warranted action under Sections 147-1 48 of the Act.
+Argument	It was urged that all relevant information in respect of the assessment years was already on the record and the present proceedings taken by the Income-tax Officer in effect are mere change of opinion formed by him on the matter, and as such the proceedings are without jurisdiction.
+Argument	4.
+Fact	It is well-settled that the Income-tax Officer cannot reopen an assessment only on a change of opinion.
+Fact	The assessment can be reopened under Section 147(b) of the Income-tax Act, 1961, only in case the Income-tax Officer has, in consequence of the information in his possession, reason to believe that the income chargeable to tax has escaped assessment.
+Fact	The question that arises is as to whether the circular sent bv <ORG> is information as contemplated by the statute.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Now, the circular sent by <ORG> was as respects the point of law.
+RatioOfTheDecision	It hardly admits of doubt after the decision of <ORG> in <CITATION_1886356>  35 ITR 1 ( <CITATION_491625> .
+RatioOfTheDecision	61 ITR 461  (SC) and <NAME> v.  Commissioner of Income-tax [1970] 75 ITR 373 (SC) and the recent decision in the case of <CITATION_170133>  102 ITR 287 (SC) that the word "information" as used in the Section embraces both information as to fact and information as to law.
+RatioOfTheDecision	We are tempted to quote here a passage from the decision of <ORG> in <NAME>'s case  102 ITR 287, 294 (SC) which is apposite to the present case:  "Another pertinent fact which may be mentioned here is that although Section 34 was the subject of several amendments, yet the word 'information' which was introduced in 1939 has not been defined at all.
+RatioOfTheDecision	Since the word 'information' has not been defined, it is difficult to lay down any rule of universal application.
+RatioOfTheDecision	At the same time it cannot be disputed that the object of the Act was to see that the tax collecting machinery is made as perfect and effective as possible so that the taxpayer is not allowed to get away with escaped income-tax.
+RatioOfTheDecision	The fact that the adjective 'definite' qualified  the word 'information' and the word 'discovers' which were introduced in the Income-tax (Amendment) Act 1939, were deleted by the Amendment Act of 1948, would lead to the irresistible inference that the word 'information' is of the widest amplitude and comprehends a variety of factors.
+RatioOfTheDecision	Nevertheless, the power under Section 34(1)(b) , however wide it may be, is not plenary, because the discretion of the Income-tax Officer is controlled by the words 'reason to believe'.
+RatioOfTheDecision	It was so held by this court in <CITATION_139843659>  41 ITR 221 (SC) while affirming the decision of <ORG> in <CITATION_139843659>  32 ITR 289 (Pat).
+RatioOfTheDecision	This legal proposition, however, is not disputed.
+RatioOfTheDecision	It, therefore, follows that information may come from external sources or even from materials already on the record or may be derived from the discovery of new and important matter or fresh facts.
+RatioOfTheDecision	The word 'information' will also include true and correct state of the law derived from relevant judicial decisions either of the income-t ax authorities or other courts of law which decide income-tax matters.
+RatioOfTheDecision	Where the ground on which the original assessment is based is held to be erroneous by a superior court in some other case, that will also amount to a fresh information which comes into existence subsequent to the original assessment.
+RatioOfTheDecision	A subsequent <ORG> decision is also included in the word 'information'.
+RatioOfTheDecision	Thus, it is very difficult to lay down any hard and fast rule."
+RatioOfTheDecision	6.
+RatioOfTheDecision	This being the correct position of law, we fail to see how a circular sent by <ORG> on a point of law would not constitute information as contemplated by the Section.
+RatioOfTheDecision	As we read the decision of <ORG>, the only restriction is that the information must be of such a nature that the Income-tax Officer must have reason to believe that the income has escaped assessment.
+RatioOfTheDecision	Now the belief which the Income-tax Officer has to form on the information received by him is the conviction which a reasonable and prudent man would form on the ba sis of the objective information received by him that the income has escaped assessment.
+RatioOfTheDecision	Inasmuch as the statute does not restrict the sources from which the information as to a question of law can be derived by the Income-tax Officer, we find it difficult to understand as to how any restriction as respects the source of information could be read into the statute.
+RatioOfTheDecision	The only restriction, as we have already indicated earlier, is that the information must be from such a source as would lead a prudent man to form the belief that the information is, prima facie, correct and, if believed, it will lead to the inference that the assessee has evaded payment of income-tax on some income.
+RatioOfTheDecision	Although, it is not feasible nor possible to lay down exhaustively the sources of such information, we may by way of illustration narrate some of these sources, e.g., treatise on law on the subject, articles on the subject by jurists or lawyers, information from other authoritative source, judicial decisions and the like.
+RatioOfTheDecision	Counsel for th e petitioner objects to such wide view of the source from which the information is received being taken.
+RatioOfTheDecision	It would, he contends, give unbridled power to the Income-tax Officer to change his view on a question of law, even if such information is received from some lay man.
+RatioOfTheDecision	The contention as put is not correct.
+RatioOfTheDecision	We have already seen that the word 'information' is controlled by the words 'reason to believe'.
+RatioOfTheDecision	This means that information must come from such source as would instil confidence in the Income-tax Officer and, as a prudent man, he would have reason to believe that the income has escaped assessment.
+RatioOfTheDecision	Information from a layman as respects the question of law, cannot lead a prudent man to form opinion that that information is, prima facie, correct, for the layman concerned not being versed in the law could hardly be in a position to give a correct exposition of the law.
+RatioOfTheDecision	This, however, cannot be said of <ORG> for the members constituting the Board are individuals who are well-versed  in the income-tax law.
+RatioOfTheDecision	If the Income-tax Officer, acting on the circular letter of <ORG>, entertains the belief that there has been a misapplication of the law as a result of which the income has escaped assessment, it cannot be said that he acted arbitrarily in the matter or without any subsequent information.
+Argument	Counsel for the petitioner contended by reference to certain decisions that <ORG> cannot issue directions in respect of a quasi-judicial function performed by the Income-tax Officer while making an assessment.
+RatioOfTheDecision	One cannot doubt this.
+RatioOfTheDecision	<ORG> does not have statutory authority to give directions to the Income-tax Officer to decide a particular matter in accordance with the view of law which it takes.
+RatioOfTheDecision	However, we see no impediment in <ORG> in issuing a circular informing the Income-  tax Officer of the correct position of law on a disputed matter.
+RatioOfTheDecision	Thus, the circular sent by <ORG> es constitutes information as contemplated by the statute, and the Income-tax Officer can form a prima facie belief that the income has escaped assessment on account of misapplication of law.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Counsel for both sides cited a large number of cases but we do not propose to refer to all of them except the following as, in our view, they do not help in resolving the controversy.
+RatioOfTheDecision	8.
+Argument	Counsel for the petitioner has strongly relied on a decision by <ORG> in <CITATION_525364>  80 ITR 188 (Guj).
+Argument	There the question arose as to whether information given on a question of law by the audit department would constitute information on which reassessment could be made.
+Argument	<ORG> took the view that, although it is not possible to formulate a precise definition as regards the source from which information on a question of law would entitle the Income-tax Officer to reopen an assessment, in their view opinion about the state of law must be from some person, body or authority competent and authorise d to pronounce upon the law so that the information was invested with some definiteness and authority.
+Argument	It took the view that the audit department was not the authority competent and authorised to declare the correct state of law or to pronounce upon it and as such the assessment could not be reopened on the information of the audit department.
+Precedent	A contrary view was taken by <ORG> in the case of <CITATION_319187>  84 ITR 584 (Delhi) as also by <ORG> in the case of <CITATION_1195692>  90 ITR 503 (Ker).
+Precedent	<ORG>, in the case of <CITATION_1065676>  99 ITR 148 (Delhi), after referring to the test laid down by <ORG>, held that the test laid down by that court was, if narrowly construed, not very appropriate.
+Precedent	It held that the information coming from the audit department or <ORG> would amount to "information "within the meaning of Section 147 .
+RatioOfTheDecision	We are in respectful agreement with that law.
+RatioOfTheDecision	There is nothing in the statute which curtails the source  of information to the effect that it must come from some person who was authorised to pronounce upon the law.
+RatioOfTheDecision	If such a test was applied then it might lead to the result that only judicial decisions would answer the test, We are not prepared to accept this test in view of the phraseology of the Section.
+RatioOfTheDecision	All that is required is that the information must come from some external source and must be of such a nature as would lead a prudent man to believe that it is correct.
+RatioOfTheDecision	We have already indicated some of the sources of information which could lead the Income-tax Officer to form the belief that the information was prima facie correct and that the income has escaped assessment.
+RatioOfTheDecision	<ORG> being an authority conversant with the tax laws, would be such a source.
+RatioOfTheDecision	9.
+RulingByPresentCourt	In view of these conclusions, the challenge to the notice issued under Sections 148 / 147 must fail.
+RulingByPresentCourt	The petition is accordingly dismissed with costs.
+RulingByPresentCourt	The stay order is discharged.

@@ -1,0 +1,269 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	(1) This is a defendants' appeal from the order of the Additional District Judge dated July 10, 1967.
+Fact	(2) The plaintiffs are a partnership firm carrying on business under the name and style of M/s.
+Fact	Banaras'i Dass and Brothers at Chandni Chowk, Delhi since the year 1949.
+Fact	They are the registered proprietors of the trade mark 'ELORA' registered under number 175751 in class 14 as of the date August Ii, 1956 in respect of watches, time-pieces, clocks and their parts.
+Fact	The trade mark has been renewed from time to time and is subsisting.
+Fact	The plaintiffs have been selling clocks with the trade mark 'ELORA' since 1955.
+Fact	(3) In October 1962 the plaintiffs found an advertisement issued by the defendants "<ORG>" with 'ELLORA' as the trade mark for time-pieces.
+Fact	By a notice in writing dated December 26, 1962 the plaintiffs called upon the defendants to desist from manufacturing, using, selling or offering for sale their goods under to mark 'ELLORA'.
+Fact	The defendants by their repl y dated January 9, 1963, assured the plaintiffs that they were newcomers in the industry and did not want to quarrel over a name.
+Fact	They said they were prepared to stop using the name '<ORG>' and had chosen a new name for their time-pieces.
+Fact	(4) But the defendants continued using business name "<ORG> Industries".
+Fact	The plaintiffs again called upon the defendants to desist from infringing their trade mark '<ORG>' by using the same as part of their trading style.
+Fact	Some correspondence was exchanged but the defendants did not give up their trading name.
+Fact	(5) The defendants having refused to discontinue the use of the word '<ORG>' in their business name, the plaintiffs on December 2, 1964 commenced an action in the court of the district judge to restrain them.
+Fact	Two allegations were made in the suit.
+Fact	Firstly, that the use of the trade mark '<ORG>' as the key portion of the trading style "<ORG> Industries" was an infringement of the registered trade mark '<ORG>' which was exclusive property of the plaintiffs, and seco ndly, that the use of the trade mark as a trading style was chosen deliberately and fraudulently in order to trade upon the reputation of the plaintiffs and to pass off the goods manufactured by the defendants as the goods of the plaintiffs.
+Fact	The plaintiffs asked for a decree for permanent Injunction to restrain the defendants from using the mark 'Elora' or any other similar mark which is an infringement of the plaintiffs' registered trade mark and to prevent them from passing off their goods as the goods of the plaintiffs.
+Fact	A decree for accounts of profits earned by the defendants was also sought.
+Fact	(6) The defendants contested the suit.
+Fact	They raised a number of pleas.
+Fact	On merits they contended that the use of the word "<ORG>" as their trading style 'did not amount to infringement of the plaintiffs' registered trade mark, that there had been no instance of deception or confusion in the mind of the public on account of the use of the words "<ORG>" in the course of trade, that the time-piece s manufactured by the defendants were being sold under the trade mark 'Gargon' which was a distinctive and conspicuous mark of the defendants' product.
+Fact	The allegations with regard to the passing-off were denied.
+Fact	(7) A number of issues were raised.
+Fact	After hearing evidence and arguments the Additional District Judge decreed the suit with costs.
+RulingByLowerCourt	He granted a permanent injunction in so far as infringement of the registered trade mark was concerned.
+RulingByLowerCourt	But the claim for passing off he dismissed.
+RulingByLowerCourt	Nor did he grant decree for accounts.
+RulingByLowerCourt	From his decision the defendants appeal to this court.
+Fact	The plaintiffs have filed cross-objections.
+Fact	(8) The plaintiffs registered trade mark is 'Eiora'.
+Fact	The defendants manufacture time-pieces with their distinctive mark 'Gargon'.
+Fact	'Gargon' is printed on the dial of the time-pieces.
+Fact	But on the card board container in which the time-piece is sold the following is printed on two sides in bold letters : "ELLORAINDUSTRIES Gargon (PUNJAB)".
+Fact	On one side there is in addition, to these words a visu al representation of a factoy with the words "<ORG>" written in small letters.
+Fact	The defendants adopted this as their trading style in 1962.
+Fact	(9) The plaintiffs' objection is mainly to the adoption of the word "<ORG>' by the defendants.
+Fact	That the defendants' business name is "<ORG>" under which they manufacture time-pieces is not denied.
+Fact	The word '<ORG>' is used conspicuously by them in advertisements etc.
+Fact	as part of their business name.
+Argument	(10) On the evidence produced, by the plaintiffs the learned judge came to the conclusion that the infringement of the trade mark is established.
+Argument	On the question of passing off he was of the view that the plaintiffs were not able to substantiate their case.
+Fact	(11) In the appeal and cross-objections three questions arise for decision.
+Fact	These are : 1.
+Fact	Passing off; II.
+Fact	Infringement of trade mark; and III.
+Fact	Enquiry into accounts of profits.
+Fact	(12) 1.
+RatioOfTheDecision	PASSING-OFF:The purpose of this tort is to protect commercial goodwill; to ensure that people's business reputatio ns are not exploited.
+RatioOfTheDecision	Since business "goodwill" is an asset, and therefore species of property, the law protects it against encroachment as such.
+RatioOfTheDecision	The tort is based on economic policy, the need to encourage enterprise and to ensure commercial stability.
+RatioOfTheDecision	It secures a reasonable area of monopoly to traders.
+RatioOfTheDecision	It is thus complimentary to trade mark law which is founded upon statute rather than common law.
+RatioOfTheDecision	But there is a difference between statute law relating to trade marks and the passing off action; for, while registration of relevant mark itself gives title to the registered owner, the onus in a passing off action lies upon the plaintiff to establish the existence of the business reputation which he seeks to protect.
+RatioOfTheDecision	The asset protected is the reputation the plaintiff's business has in the relevant market.
+RatioOfTheDecision	This is a complex thing.
+RatioOfTheDecision	It is manifested in the various indicia which lead the client or customer to associate the business with the plaintiff; such as the name of the business, whether real or adopted, the m ark, design, make-up or colour of the plaintiff's goods, the distinctive characteristics of services he supplies or the nature of his special processes.
+RatioOfTheDecision	And it is around encroachments upon such indicia that passing off actions arise.
+RatioOfTheDecision	What is protected is an economic asset.
+RatioOfTheDecision	(13) The plaintiff must establish that his business or goods have acquired the reputation he alleges; that, for example, "a particular name has become distinctive of his goods and that a reputation has attached to them under the name in question", and this can be done by showing that a substantial proportion of people who are likely to become purchasers of the goods of the kind in question associate the name with them.
+RatioOfTheDecision	The weight of this burden must vary according to the facts.
+RatioOfTheDecision	(14) Take the present case.
+RatioOfTheDecision	The words "<ORG>" which is the trading name of the dependents is likely to mislead the public as to source of manufacture and to create a likelihood that customer of the plaintiffs would be diverted to the defendants.
+RatioOfTheDecision	In a pa ssing off action all that need be proved is that the defendants goods are so marked, made up or described by them as to be calculated to mislead ordinary purchaser and to lead them to mistake the defendants' goods for those of the plaintiffs."
+RatioOfTheDecision	[<NAME> v. <NAME>, (1892) 2 Q.B.
+RatioOfTheDecision	639 (644)] (2), It is the tendency to mislead or confuse that thus forms the gist of action; and the plaintiff need not establish fraud, nor that any one was actually deceived, or that he actually suffered damage.
+RatioOfTheDecision	The tort is thus like libel) actionable per se.
+RatioOfTheDecision	Indeed the forms of passing off, like the forms of nuisances, are infinite.
+Precedent	As <NAME> puts it : "THEgist of the conception of passing off is that the goods are in effect telling a falsehood about themselves, are saying something about themselves which is calculated to mislead.
+Precedent	The law on this matter is designed to protect traders against that form of unfair competition which consists in acquiring for oneself, by means of false or misleading devices, the benefit of the reputatio n already achieved by rival traders."
+Precedent	(Law of torts 17th ed.
+Precedent	p. 401).
+Precedent	WINFIELDsays : "THElaw of passing off arose to prevent unfair trading and protects the property rights of a trader in his good will..." (tort 9th ed.
+Precedent	p. 485).
+Precedent	(15) The basic question in this tort turns upon whether the defendant's conduct is such as to tend to mislead the public to believe that the defendant's business is the plaintiff's or to cause confusion between the business activities of the two.
+RatioOfTheDecision	Whether such a tendency to mislead or confuse is established can only be decided by consideration of all the circumstances.
+RatioOfTheDecision	(16) Because the protection given is not for his reputation in general, but to the plaintiff's business goodwill, it must be established that the defendant's activities are likely to compete with the plaintiff's.
+RatioOfTheDecision	Where the parties are engaged in common or "overlapping" field of activity the competition will take place.
+RatioOfTheDecision	In this case this is a useful test to apply.
+RatioOfTheDecision	Both the plaintiffs and the defendants have a common f ield of activity.
+RatioOfTheDecision	They are business rivals.
+RatioOfTheDecision	Plaintiffs sell clocks under their registered trade mark 'Elora'.
+RatioOfTheDecision	The defendants manufacture timepieces under their trading style "<ORG>".
+RatioOfTheDecision	In fact the plaintiffs say that they intend to introduce time-pieces the the market shortly.
+RatioOfTheDecision	If the plaintiffs start manufacturing and marketing time-pieces under their registered trade mark 'Elora' the use of the word 'Ellora' as a trading style by the defendants is bound to introduce confusion in the trade.
+RatioOfTheDecision	(17) The element of confusion is essential.
+Precedent	As <ORG> said in <ORG> v. <ORG>, (1947), 2 All E.R.
+Precedent	845 (3) (851) : "Iam satisfied that 'there is discoverable in all those cases in which the court has intervened the factor that there was a "common field of activity in which, however, remotely.
+Precedent	both the plaintiff and the defendant were engaged and that it was the presence of that factor that grounded the jurisdiction of the court."
+Precedent	(18) The principal question revolves round the twin notions (1)that t he defendants misstatement must be one that would be taken as a reference to the plaintiff, and (2) that the plaintiff must be likely to suffer in consequence.
+RatioOfTheDecision	As to the first of these conditions the misstatement does not have to make out more than that the plaintiff has some connection with the defendant's goods or business.
+RatioOfTheDecision	And it is accepted that a reference to the plaintiff as a trade source may be inferred in some circumstances where he is not known by the name, as for instance where it is his trade mark that is known.
+RatioOfTheDecision	If the customer is misled into thinking about the trade origin or source of the goods it is a case of passing off.
+RatioOfTheDecision	The second condition is fulfillled by showing that direct competition will damage the plaintiffs goodwill by losing his customers.
+RatioOfTheDecision	Loss of sales is not the only form of probable injury that will suffice, loss of reputation among distributors has been accepted as sufficient.
+RatioOfTheDecision	(19) Where the plaintiff and the defendant are engaged in a common field of activity the probability of  damage is great.
+RatioOfTheDecision	There is risk of confusion because they occupy same areas of the trade in question, e.g.
+RatioOfTheDecision	watches, as in this case.
+RatioOfTheDecision	This is what was held in <ORG> (supra).
+Precedent	I am aware that this case was not approved of in Australia : <NAME> says: "TOdemand a 'common field of activity' would not only be incompatible with the growing trend towards diversification in business, but also foist an unwarranted limitation on a tort based simply on the prejudice to goodwill from practices that are actually calculated to confuse."
+Precedent	(FLEMINGThe Law of torts 5th ed.
+Precedent	p. 702-703).
+Precedent	(20) On the question whether there can be passing off if the fields of activity are different, opinions differ.
+Precedent	But everybody is agreed that if the line of business is same or allied there is an immense potential for confusion, deception and temporal harm.
+Precedent	The test of common field of activity comes handy.
+Argument	Both parties are in the same trade.
+Argument	The plaintiffs sell clocks.
+Argument	The defendants sell time-pieces.
+RatioOfTheDecision	And a time-piece is a portable  clock, after all.
+RatioOfTheDecision	(21) Another reason for injuncting the defendants in their use of the word '<ORG>' in business name is that the plaintiffs in their evidence said they wanted to introduce time-pieces.
+RatioOfTheDecision	In ("Kodak" for cycles), one reason given for protection was that the plaintiff company might want subsequently to extend their business into the defendant's field.
+RatioOfTheDecision	Same is the case here.
+RatioOfTheDecision	(22) The present case is one of 'cashing in' of the trade reputation of the plaintiffs.
+RatioOfTheDecision	It is an attempt to climb on another's goodwill.
+RatioOfTheDecision	Goodwill is the result of a person's own labour and merit.
+RatioOfTheDecision	One trader should not be allowed to usurp the fruits of a competitor's labour.
+RatioOfTheDecision	Law will protect against intrusion by the rival upon the goodwill and other business values of another.
+RatioOfTheDecision	This is "reaping without sowing".
+RatioOfTheDecision	The court will issue injunction in cases where the reaping without sowing element is most brazen and damaging.
+RatioOfTheDecision	One trader should not be expected to stand by and watch another reap the benefit of goodwill that he has bu ilt up or expenditure that he has made.
+RatioOfTheDecision	It takes years (sometimes generations) of patient and self-abnegating toil and investment to develop and gain the advantage of goodwill.
+RatioOfTheDecision	It is the invasion of this property right of goodwill that constitutes passing off.
+Argument	The true basis of the action is that the passing off injures the right of property in the plaintiff and that right of property being his right to the goodwill of his business.
+RatioOfTheDecision	(23) In recent times there have been extensions of passing off.
+RatioOfTheDecision	It is an expanding business tort.
+RatioOfTheDecision	The courts have developed the concept of misappropriation.
+RatioOfTheDecision	Law has thrown protection around all intangible elements of value.
+RatioOfTheDecision	The view of <NAME> and <ORG> were indeed minority opinions in which <ORG> laid foundations for a general tort of misappropriation of trade values.
+RatioOfTheDecision	These are "property rights" and injunction can be issued against the infringer.
+RatioOfTheDecision	Predatory business practices and piracy of business rights are denounced by commercial morality.
+RatioOfTheDecision	So does law.
+RatioOfTheDecision	Confusi ng customers as to source, as in this case, is an invasion of another's property rights.
+RatioOfTheDecision	The unfairness arises from the fact that the purchasing public are likely to be misled.
+RatioOfTheDecision	The protection is afforded not for the deceived customer but the rival trader.
+Precedent	It is to prevent "dishonest trading", to use a phrase of <NAME> The Australian court in <NAME>'s case recognised a form of wrongful appropriation of a "trade value".
+Precedent	<ORG> and <NAME> said : "THEwrongful appropriation of another's professional or business reputation is an injury in itself."
+Precedent	(24) In England <ORG> in the "Spanish Champagne" case opened new horizons for the common law.
+Precedent	<CITATION_1390540> .
+Fact	is a most forward looking case in recent times where <NAME> expanded the tort to protect misappropriation of business values.
+Fact	The champagne producers of France sought an injunction to prevent the defendants from marketing their sparkling wine under the name "Spanish Champagne".
+Fact	<NAME> granted an injunction.
+RatioOfTheDecision	Such a descripti on as "Spanish Champagne" could not be expected to deceive the connoisseurs or "lovers of wine" but it was found that there were many potential customers who were much vague about what champagne was, some knowing it only as "the wine with the great reputation".
+RatioOfTheDecision	What they would want was the "real thing" without knowing whether that meant the produce of a particular trade source or one having particular qualities.
+RatioOfTheDecision	Champagne properly means <NAME>, which is associated with being "drunk at the gayest parties and in distinguished circles" and it was.
+RatioOfTheDecision	therefore, wrong for the defendant to market his produce under the name "Spanish Champagne".
+RatioOfTheDecision	(25) The case related to the protection of a reputation which the word Champagne suggested.
+Precedent	It is a word that was valuable to a group of traders to preserve.
+Precedent	It was held that the traders engaged in a field of business activity had locus standi to obtain an injunction to restrain a competitive producer from making deceptive statements as to the place of origin or simi lar falsehood.
+Precedent	(26) <ORG> decision in <NAME>'s case was applied in ("<NAME>" case) and (Scotch Whisky).
+Precedent	In the later "<NAME>" case <ORG> said of the "champagne" case, "In truth the decision went beyond the well-trodden paths of passing off in the unmapped area of 'unfair trading' or 'unlawful competition' ".
+RatioOfTheDecision	(27) In the present case the fact that the plaintiffs and the defendants are direct competitors is the most obvious reason for inferring likelihood of injury.
+RatioOfTheDecision	'<NAME>' as a business name suggests associations with the plaintiff's registered trade mark.
+RatioOfTheDecision	It is suggestive of the fact that goods come from the same source.
+RatioOfTheDecision	It imports a reference to its 'origin' a trade connection with the registered proprietor '<NAME>'.
+RatioOfTheDecision	This is an untrue statement.
+RatioOfTheDecision	It is a false statement that is likely to mislead the public as to the origin of the goods.
+RatioOfTheDecision	It is a commercial benefit which is derived from usurpation of the fruits of a competitor's labour.
+RatioOfTheDecision	The present case illustrates the misuse of business names.
+RatioOfTheDecision	It is an action against an imitator who is "reaping without sowing".
+Fact	See the illuminating discussion in the article by <NAME> "Unfair Competition, A Progress Report" Vol.
+Fact	Xii, 1972-73 <ORG> p. 126 (28) The plaintiffs have produced watch dealers in evidence.
+Fact	They have also produced one <NAME> who purchased a time-piece manufactured by the defendants under the impression that it was a product of the plaintiffs.
+RatioOfTheDecision	The dealers have deposed that though (here is no confusion in their minds about the clocks of the plaintiffs and the time-pieces of the defendants the ordinary customer does enquire from them if the time-pieces complained of are manufactured by the same people who manufacture <ORG> clocks.
+RatioOfTheDecision	(29) Counsel for the defendants argued that there was no confusion amongst the dealers in the market as the evidence shows and, therefore, no case of passing off is made out.
+RatioOfTheDecision	I do not agree.
+RatioOfTheDecision	The mischief done by the misleading designation adopted by the defendant s is not merely that it is calculated to deceive immediate purchasers from (he infringers, but that it puts "a weapon calculated to be fraudulently used by the middlemen" into their hands, by which they may, intentionally or not, deceive the ultimate purchasers.
+RatioOfTheDecision	The dealers may not themselves be deceived but they can certainly use the instrument of deception to create confusion in the trade or to mislead the purchasers.
+RatioOfTheDecision	The representation need not deceive immediate purchasers ; the test is the likely impact on those members of the public who ultimately become purchasers.
+RatioOfTheDecision	(30) There is a misrepresentation for business purpose as to the origin of goods which the defendants manufacture in the course of their business.
+RatioOfTheDecision	This is passing off.
+RatioOfTheDecision	The defendants have no right to represent their business as the business of the plaintiffs.
+Precedent	(31) Lord <NAME> defined the tort of passing off in <NAME> v. <NAME>, 1896 A.C. 199(13).
+Argument	He said that the defendant shall not represent his goods or his business as the goods or bu siness of the plaintiff.
+Fact	How do we apply this principle here ?
+RatioOfTheDecision	The plaintiffs do not manufacture time-pieces though they are registered for them.
+RatioOfTheDecision	This is an admitted case.
+RatioOfTheDecision	How it is not always necessary that there must be in existence goods of that other man with which the defendant seeks to confuse his own.
+RatioOfTheDecision	As Lord <NAME> said : "PASSINGoff may occur in cases where the Plaintiffs do not in fact deal in the offending goods".
+RatioOfTheDecision	(PROPERTYin this context has received an extensive denotation.
+RatioOfTheDecision	Thus it includes not only property in the strict sense but also name, per <ORG> ; trade reputation, at 86-87, per <ORG>.
+RatioOfTheDecision	; and, not merely the exclusive right which in some cases the law may cc-nfer to engage in some further activity associated with one's present activity, , but also the potential capacity which one may have, although as yet unrealised, to engage in the future activities sufficiently closely associated and connected with those at present carried on, <ORG>.
+RatioOfTheDecision	Alternatively these las t mentioned cases may be viewed as cases in which the plaintiff's proprietory right to his name and trade reputation is invaded by conduct of the defendant which anticipates the plaintiff's exercise of that right in a field of activity which is sufficiently close to the plaintiff's present activities and which he may wish at some future time to enter; here there are both a common field of activity and a real and tangible risk of damage.
+RatioOfTheDecision	(32) In Farewell <NAME> said : "THEREmust be evidence either of damage already committed, or the circumstances must be such as that the court can properly come to the conclusion that there is a serious risk, a real tangible risk, of damage in the future."
+RatioOfTheDecision	(33) The action of passing off is essentially a cause of action arising out of confusion.
+RatioOfTheDecision	The plaintiff is identified by his personal name or some trade name or mark.
+RatioOfTheDecision	If a person minded to obtain vendible goods which are identified in his mind with certain definite commercial source is led by the false statement to accept goods  coming from a different commercial source the tort is established , Prof. <NAME> points out that the origin of passing off is lost in obscurity and that it is uncertain whether it had its origin as an action for deceit or as an action for defamation.
+RatioOfTheDecision	However, the action came to be regarded as an action for deceit, although it was a variety of deceit in which the action was not by the person who was deceived but by the person whose mark was used to deceive.
+Precedent	(See W. B.
+Precedent	<NAME> Unfair Competition and "Passing-Off" (1956) 2 Sydney Law Review 50).
+Precedent	(34) In the present case there is an untrue representation.
+Precedent	The plaintiffs' complaint in substance is that the supposition that the defendants are connected with the plaintiffs will injure the reputation of the plaintiffs in a way calculated to cause them financial loss.
+Precedent	The purchasers are likely to think that the time-pieces come from the same source or through the same channel as docks and wrist watches.
+Precedent	The purchasers are likely to be misled in thinking that the de fendants' firm has an "intimate connection" with the plaintiffs or that the defendants' business is a branch of the plaintiffs or "somehow mixed up" with the plaintiffs' business.
+Precedent	Even "any connection" with the plaintiffs is misrepresentation sufficient to constitute the tort.
+Precedent	(See <ORG>, (supra),.
+Precedent	The present case is an illustration of business misrepresentation and "unfair trading", to use an expression of <ORG>  (35) A typical commercial situation of business misrepresentation is neatly illustrated by <NAME> v. <NAME>, <ORG> 1932 Sind 222 (25), where it was held that the defendant represented his business as that of the plaintiff.
+Precedent	(36) On passing off my conclusion is that the use of the word 'Ellora' by the defendants is indicative of a warm intimacy with the plaintiffs.
+Precedent	There is trustworthy evidence that the registered trade mark 'Elora' of the plaintiffs is known to the trade and the word 'Elora' lurks and lingers in the mind of the customers minded to obtain goods of clause 14.
+Precedent	A word  appeals to the ear more than the eye.
+Precedent	There is a real and tangible risk of damage, the field of activity being common.
+Precedent	The wrongful appropriation of trade reputation is an injury to the plaintiffs.
+Precedent	That injury and the acknowledged intention to continue to inflict it, is ample justification for the injunction which was granted.
+Precedent	(37) II.
+Precedent	Infringement Of Registered Trade Mark :A trade mark is the most obvious means of referring to a trader's products.
+Precedent	Trade mark registration is povided to simplify and enhance common law protection against deception as to trade source.
+Precedent	The registered proprietor has the "exclusive right" to use the trade mark in relation the goods in respect of which it is registered.
+Precedent	(S. 28 of the Trade and Merchandise Marks Act 1958 (the Act).
+Precedent	(38) It is unnecessary to prove an intention to deceive, at least to obtain an injunction.
+RatioOfTheDecision	The representation must be calculated to deceive, though no deception need actually have taken place, because "the very life of a trade-mark depends upon the prom ptitude with which it is vindicated".
+RatioOfTheDecision	It is worth noting that words can be protected without proof of their distinctiveness if they have been registered as trade marks under s. 9 of the Act (39) A mark is infringed by another trader if, even without using the whole of it upon or in connection with his goods, he uses one or more of its essential features.
+RatioOfTheDecision	Thus it has long been accepted that if a word forming part of a mark has come in trade to be used to identify the goods of the owner of the mark, it is an infringement of the mark itself to use that word as the mark or part of the mark of another trader, for confusion is likely to result.
+RatioOfTheDecision	(40) The most common cases are those in which the defendant uses or imitates a trade mark under which the plaintiff's goods have become known to the public.
+RatioOfTheDecision	If the trade mark is registered for the goods concerned, any passing off is likely to involve infringement of the rights given by registration also.
+RatioOfTheDecision	Both the statute law and the common law employ a common conceptual dev ice.
+RatioOfTheDecision	The device is to find a "property right" in the plaintiff which has been infringed.
+RatioOfTheDecision	In this case the trade mark is registered for time-pieces also.
+RatioOfTheDecision	It is a dear case of infringement.
+RatioOfTheDecision	(41) The "exclusive right" is given by s. 28 of the Act.
+RatioOfTheDecision	S. 29 is an appendage to s. 28 , its function being to widen the definition of infringement.
+RatioOfTheDecision	The expression 'use of a mark in relation to goods' is defined in s. 2(2)(b) .
+RatioOfTheDecision	It includes the following types of cases: (1) use of the mark upon the goods, (2) use of the mark in other physical relation to the goods, such as, use on a container, tin or wrapper or ticket attached to the goods.
+RatioOfTheDecision	(42) The defendants have caused a part of the plaintiffs reputation to be filched.
+RatioOfTheDecision	They have annexed to their business name what is another men's property.
+RatioOfTheDecision	The plaintiffs' trade mark 'Elora' is the core or the essential part of the defendants' trading style, "<ORG>".
+RatioOfTheDecision	(43) One of the most common ways of unfair appropriation of the plaintiff's goodwill is by the imitation of  the plaintiff's trade mark to such an extent that the public is deceived thereby.
+RatioOfTheDecision	The interest in the "exclusive right" and use of trade marks is recognised by the law on grounds that are in part akin to the prevention of fraud and in part the protection of property right.
+RatioOfTheDecision	The law has provided for registration of trade marks and such registration is conclusive as to priority of use.
+RatioOfTheDecision	(44) The function of the trade marks is to identify the source of manufacture of goods.
+RatioOfTheDecision	It is an indicia of origin.
+RatioOfTheDecision	With the expansion of markets and the development of large scale advertising, trade marks began to perform the additional function of an advertising and selling device.
+RatioOfTheDecision	In the market the chief value of the trade-mark is its power to stimulate sales.
+RatioOfTheDecision	In law, the fundamental theory upon which the interest in the trade mark is protected is that a trade mark identifies the goods coming from a particular source, and that an infringing designation tends to divert customer from that source by falsely representing that othe r goods come from it.
+RatioOfTheDecision	This at any rate is the theory of sections 28 and 29 of the Act.
+RatioOfTheDecision	Thus "<ORG>" is an 'infringing designation', a misleading name and its use must be restrained by injunction so that the competitor is prohibited from gaining an unfair advantage by confusing potential customers.
+RatioOfTheDecision	"The tendency of the law, both legislative and common, has been in the direction of enforcing increasingly higher standards of fairness or commercial morality in trade."
+RatioOfTheDecision	(45) The appropriation of the plaintiffs' trade mark by the defendants as their own badge is as much a violation of the "exclusive right" of the rival trader as the actual copy of his device.
+RatioOfTheDecision	It is a misleading designation.
+RatioOfTheDecision	It creates a confusion as to source in the mind of the purchasing public.
+RatioOfTheDecision	The words in the defendants' trading style convey a misrepresentation that materially injures the registered proprietor of the trade mark.
+RatioOfTheDecision	Many and insidious are the ways of infringement.
+RatioOfTheDecision	Sometimes "the falsehood is a little more subtle, the inj ury a little more indirect", than in ordinary cases.
+RatioOfTheDecision	[<ORG> v. <ORG> (supra) per <NAME>].
+RatioOfTheDecision	(46) On this part of the case I endorse the finding of the learned judge.
+RatioOfTheDecision	(47) III.
+RatioOfTheDecision	Accounts Of Profits :Counsel for the plaintiffs relies on s. 106 of the Act and claims that at their option the plaintiffs have chosen to demand an enquiry into profits.
+RatioOfTheDecision	I do not think I should grant this relief to the plaintiffs.
+RatioOfTheDecision	My reasons are these.
+RatioOfTheDecision	(48) In the first place the plaintiffs have not so far manufactured time-pieces.
+RatioOfTheDecision	They have confined themselves to clocks and wrist watches.
+RatioOfTheDecision	(49) Secondly, the defendants' time-pieces are manufactured under the mark 'Gurgon' which is distinctly and conspicuously printed on the dial as well as the carton.
+RatioOfTheDecision	(50) Thirdly, the courts order an account of profits on the theory that the defendant was constructively an agent of the plaintiff in disposing of goods in a manner infringing the plaintiff's rights [Snell Principles of Equity (24th ed.
+Precedent	1954) p. 574].
+Precedent	The principle upon which the court grants an account of profits is that where one party owes a duty to another, the person to whom the duty is owed is entitled to recover from the other party every benefit which that other party has received by virtue of his fiduciary position if in fact he has obtained it without the knowledge or consent of the party to whom he owed the duty (<NAME> Law of Trade Marks 10th ed.
+Precedent	p. 344).
+Precedent	This principle does not apply here because the plaintiffs were not manufacturing time-pieces.
+RatioOfTheDecision	(51) Fourthly, there is no reasonable prospect that the inquiry would reach a positive result.
+RatioOfTheDecision	<NAME> says that account of profits is an equitable remedy and the court has a discretion whether or not to grant it.
+RatioOfTheDecision	Only in certain cases will the court grant an account of profits.
+RatioOfTheDecision	I do not think this is one of those cases where I ought to order an inquiry into profits.
+RatioOfTheDecision	(52) At the fag end of the case before me the defendants made an application (CM 962 of 1979) for additional evidence.
+RatioOfTheDecision	I do not think the re is any ground to allow the application as none of the conditions of 0.41 rule 27, Code of Civil Procedure is satisfied.
+RulingByPresentCourt	The application, is accordingly dismissed.
+RulingByPresentCourt	(53) For these reasons the appeal is dismissed.
+RulingByPresentCourt	Cross-objections are allowed to this extent that it is held that the defendants-appellants, in addition to infringement of registered trade mark, are also guilty of the tort of passing-off.
+RulingByPresentCourt	Cross-objections are dismissed in so far as the claim for accounts of profits is concerned.
+RulingByPresentCourt	The decree for injunction passed by the trial court is affirmed.
+RulingByPresentCourt	The defendants are ordered to deliver up the offending boxes, wrappers, letters heads for destruction.
+RulingByPresentCourt	The defendants shall pay the costs of the suit and the appeal.
+RulingByPresentCourt	On the cross objections I make no order as to costs.

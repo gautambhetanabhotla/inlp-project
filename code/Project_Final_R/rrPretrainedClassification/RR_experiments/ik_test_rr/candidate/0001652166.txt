@@ -1,0 +1,34 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This case has come before their lordships in the form of an appeal to <NAME> in Council from an order of <ORG>.
+Fact	On March 31, 1920, <ORG> certified that the appeal involved a substantial question of law and was otherwise a fit one for appeal to <NAME> in Council, and on July 26, 1920, <ORG> admitted the appeal and ordered notice to be given to the respondents.
+Fact	The question which their lordships have to consider is whether the appeal lay.
+RatioOfTheDecision	For that purpose it is necessary to refer as briefly as possible to the history of the case to see if any appeal in this case to <NAME> in Council arose or was admissible.
+RatioOfTheDecision	2.
+Fact	The case relates to the management of a public Hindu temple at the village of Dakore which is within the jurisdiction of <ORG> of Ahmedabad, In the temple is installed the Idol of Shri Ranchhod Raiji, which is much revered by Hindus.
+Fact	Disputes arose as to the management of the temple and at least two s uits were brought in respect of the management, one of which came on appeal to <NAME> in Council as to a scheme for the management which had been sanctioned by <ORG>.
+Fact	On May 14-, 1912, the <ORG>, having made some alterations in the scheme, and having advised that the scheme as altered should be affirmed, <NAME> with the advice of His Privy Council) confirmed the scheme, as altered by the <ORG>, and made an Order in Council accordingly.
+Fact	3.
+Fact	The Dakore Temple scheme so confirmed by <NAME>'s Order in Council of May 14, 1912, provided, amongst other things, for the appointment of the <ORG> to consist of five members who should be Hindus professing faith in <NAME>, and empowered the <ORG> to take the temple property into their custody and to make rules for the guidance of their business and for the management of the temple and for other purposes The purposes for which such rules might be made were specified in clause 12 of the scheme, and it was  provided that the rules, when sanctioned by <ORG>, should have the same force as if they were part of the scheme.
+Fact	4.
+Fact	Clause 20 of the scheme, as confirmed by His Majesty's Order in Council, is as follows:-  20.
+Fact	The provisions of this scheme may be altered, modified or added to by an application to His Majesty's <ORG> at Bombay.
+Fact	5.
+Fact	<ORG>, having been duly appointed, framed a body of rules, as the <ORG> was empowered to do, and those rules came before Mr. <NAME>, as the District Judge of Ahmedabad, for the sanction of his <ORG>, and he, on December 5, 1914, made certain alterations in the rules, and, as altered by him, sanctioned the rules.
+Fact	On March 23, 1915, certain members of the Trawadi Mewada Brahmin caste, who had exercised certain rights in the temple or were otherwise interested in the management of the temple, presented to the <ORG> at Bombay an " Application under clause 20 of the scheme for modification of the  rules sanctioned by the District Judge."
+Fact	To that application the managing member of <ORG> and another were made respondents, The sanction given by the District Judge to the rules was apparently considered in <ORG>, although erroneously, to be an order made under Section 47 of the Code of Civil Procedure, 1.908, and appeals from it were presented to <ORG> at Bombay, The appeals, and the application, came before a learned Judge of <ORG> for disposal, and he, obviously doubting that the appeals lay, said in his judgment of September 22, 1919, as follows :-  These appeals and applications relate to the rules which have been framed under clause 12 of this scheme and sanctioned in 1914 by Mr. <NAME>, the District Judge of Ahmedabad.
+Fact	The appeals have been filed as appeals from Orders in execration passed under clause 12 (7) of the scheme by the District Judge of Ahmedabad.
+Fact	We think we ought to deal with them as such as no objection has been taken.
+Argument	No orders need therefore b e passed on the applications filed ex majors cautela as applications under clause 20 of the scheme reserving general power of interference to <ORG>.
+Argument	6.
+Argument	Thereupon the learned Judge wrote and delivered a judgment in which he expressed his views as to the rules which had been sanctioned by the District Judge The appeals to <ORG> did not lie and should have been rejected.
+Argument	7.
+Argument	The learned Judge should have remembered that parties cannot by acquiescence or consent confer upon a <ORG> a jurisdiction which it has not got.
+Precedent	The High <ORG> at Bombay had power conferred upon it by clause 20 of the scheme confirmed by his Majesty's Order in Council upon an application made to it with that object to alter, modify or add to the rules sanctioned by the District Judge, but it had no other power, and that power it did not exercise; it may, however, still be exercised upon application properly made to it.
+RatioOfTheDecision	8.
+RatioOfTheDecision	There was no right of appeal to His Majesty in Council from the judgments of <ORG> of April  11, 1919, and September 22, 1919, or from any decrees which were drawn up, except on the sole ground that the judgments or decrees were incompetent.
+RatioOfTheDecision	The term "judgment" in the Letters Patent of the High Court means in civil cases a decree and not a judgment in the ordinary sense.
+RulingByPresentCourt	This appeal to His Majesty in Council should not have been admitted.
+Argument	9.
+RulingByPresentCourt	Their lordships will humbly advise His Majesty that this appeal should be allowed and the judgments or decrees beset aside, as these judgments appealed from were incompetent.
+RulingByPresentCourt	There will be no costs of this appeal.

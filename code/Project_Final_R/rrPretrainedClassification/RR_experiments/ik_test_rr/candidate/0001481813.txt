@@ -1,0 +1,83 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal against the judgment of a learned singal Judge of <ORG> convicting the <NAME> namely <NAME> and <NAME> of offences under Sections 306 and 498A of the Indian Penal Code.
+Fact	A few facts are necessary for the purpose of disposing of this appeal.
+Fact	2.
+Fact	Appellant No.
+Fact	1 <NAME> and Appellant No.
+Fact	2 his son <NAME>, are both residents of Faridabad.
+Fact	The deceased <NAME> was married to <NAME> on October 16, 1983 On June 10, 1984, within less than a year of her marriage, <NAME> died after having sustained burn injuries at the residence of her <NAME> <NAME> who was living with his <NAME> <NAME>.
+Fact	She sustained bum injuries at about 6/6.30 a.m. on June 10, 1984 and was takento the Geeta Nursing Home where she died at about 11am The case of the prosecution is that the <NAME> and <NAME> wife of <NAME>, not being satisfied with the dowry given at the time of <NAME>'s marriage were making demands for further arti cles of dowry from <NAME> and her relatives and were harassing, humiliating and insulting <NAME> and she was driven to commit suicide by setting herself on fire The case appears to be that she sprinkled kerosene on her clothe and set herself on fire.
+Fact	This incident occurred in the kitchen of <NAME> residence.
+Fact	It is also the case of the prosecution that, although <NAME> cried the noise of her cries were suppressed by someone In <NAME> family by putting on loudly a radio or television set and that the neighbours and outsiders whose attention was attracted by the cries of <NAME> were prevented from entering the residence as the doors were shut It was also alleged by the prosecution that there was deliberate delay in taking <NAME> to the <ORG> where she died, and that she was deliberately taken to <ORG> where adequate facilities for treatment of burn injuries were not avail able instead of <ORG>, which is also known as the Civil Hospital where better treatment  for burn injuries was available as known to the Appellants.
+Fact	The Appellants, <NAME> and <NAME> as well as <NAME>, the wife of <NAME> were charged and tried before the Court of the learned Additional Sessions Judge, Faridabad under Sections 306 and 498A respectively of the Indian Penal Code .
+Fact	The defence taken by the accused was tha veena did not commit suicide but her clothes accidentally caught fire when she was preparing tea for the family over a stove.
+Fact	The allegations regarding harassment of <NAME> for dowry were also denied The learned Additional Sessions Judge acquitted <NAME> but convicted <NAME> and <NAME> under the aforesaid sections of Indian Pen Code.
+Fact	<NAME> was sentenced to undergo rigorous imprisonment for a period of three years and to pay a fine of Rs.
+Fact	500/- for the conviction under Section 306 of the Indian Penal Code and was further sentenced to rigorous imprisonment for one year and the payment of a fine of Rs.
+Fact	100/- for the conviction under Section  498A of the Indian Penal Code.
+Fact	As far as <NAME> is concerned, it was held that he played the more important and active part in putting pressure on <NAME> for dowry articles and causing harassment to her.
+Fact	He was sentenced to undergo rigorous imprisonment for five years and payment of a fine of Rs.
+Fact	500/- for the offence under Section 306 of the Indian Penal Code and further sentenced to rigorous imprisonment for one year and a fine of Rs.
+Fact	100/- for the conviction under Section 498A of the Indian Penal Code.
+Fact	3.
+Fact	<NAME> and <NAME> preferred an appeal to <ORG> against the decision of learned Additional Sessions Judge.
+Fact	The learned Single Judge of <ORG> disposed of the said appeal confirming the conviction of both the accused i.e.
+Fact	<NAME> and <NAME> but reduced the sentence on <NAME> under Section 306 of the Indian Penal Code to a period of three years.
+Fact	In <ORG> as well as in <ORG> the sentences were directed to run concurren tly.
+Fact	It is this judgment of the learned Single Judge which is said to be impugned in this appeal before us.
+Argument	4.
+Argument	It was submitted by Mr. <NAME>, learned Counsel for the Appellants that there is no evidence to establish that the deceased <NAME> committed suicide.
+Argument	It was further submitted by learned Counsel that, as far as the demands for dowry articles are concerned, the evidence of witnesses is full of inconsistencies regarding the precise nature of the demands and the articles demanded and it was not possible to come to a conclusion of harassment to <NAME> on the basis of this evidence with the degree of certainly required in the criminal trial.
+Argument	5.
+Fact	We propose to discuss first the validity of conviction under Section 306 of the Indian Penal Code because that is the more serious offence alleged against <NAME> and <NAME>.
+Fact	Section 306 of the Indian Penal Code states inter alia that whoever abets the commission of suicide shall be punished with imprisonment and fine as set out in the said section.
+Fact	Section  307 of the Indian Penal Code defines abetment.
+Fact	Reading Sections 306 and 307 together it is clear that if any person instigates any other person to commit suicide and as a result of such instigation the other person commits suicide, the person causing the instigation is liable to be punished under Section 306 of the Indian Penal Code for abetting the commission of suicide.
+RatioOfTheDecision	A plain reading of this provision shows that before a person can be convicted of abetting the suicide of any other person, it must be established that such other person committed suicide.
+RatioOfTheDecision	We may mention here that commission of dowry death is now punishable under Section 304B of the Indian Penal Code and certain presumptions are prescribed under Sub-section (1) of that section, but it is pointed out to us that that section was not enacted at the time when the incident in question took place and hence can have no application to the case before us.
+RatioOfTheDecision	We must, therefore, first examine whether the evidence on record establishes with the degree of  certainty required in criminal law that <NAME> committed suicide.
+RatioOfTheDecision	In this regard it is pointed out by Mr. <NAME> that, in the present case, there is no such clear piece of evidence like a suicide note or statement had been made by <NAME> after the incident to the effect that she had taken her own life or set herself on fire.
+RatioOfTheDecision	Further there is no evidence that her clothes gave out a smell of kerosene which would indicate of suicide.
+RatioOfTheDecision	It is true that the post-mortem was performed after several hours and such smell might not have been detectable from <NAME>'s clothes at that time but it is significant that Dr. <NAME>, who treated <NAME> at <ORG> has not been asked any question regarding any smell given out by <NAME>'s clothes.
+RatioOfTheDecision	As far as the question of improbability of sustaining burns accidentally from the stove lighted for preparing tea is concerned, evidence was led by the prosecution to show that the stove was placed on the raised slab which would make it unlikely that burns were caused to <NAME>  by accident.
+RatioOfTheDecision	The evidence in this regard, however, is by no means satisfactory.
+RatioOfTheDecision	The evidence of the Investigating Officer, <NAME> undoubtedly is to the effect that when he went to the residence of <NAME> for the first time for investigation, the stove was lying on the slab.
+RatioOfTheDecision	However, the evidence of the photographer who went to the residence of <NAME> along with the investigating officer is to the effect that when he went there, the said stove was lying on the kitchen floor.
+RatioOfTheDecision	In view of this contradiction, it is not possible to hold that the stove was placed on the club when <NAME> was preparing tea for the family and hence an accident was highly unlikely.
+RatioOfTheDecision	6.
+Fact	The next circumstance sought to be relied upon by the prosecution to establish the case of suicide was that there was deliberate delay in taking <NAME> to a <ORG> or <ORG>.
+Fact	It was urged by the prosecution that although the accident occurred at about 6/6.30 a.m. it was only one and a half hours later that <NAME> was taken to th <ORG> and this would show that <NAME> committed suicide as a result of the harassment and instigation of <NAME> and <NAME> and his relatives and that delay was made in taking her to hospital so that she might become unconscious and unable to make any statement and further so that the chances of her recovery might be diminished or rendered nugatory.
+Fact	In this regard, again, there is no satisfactory evidence.
+Fact	Dr. <NAME>, a Private Practitioner has deposed that on June 10, 1984 <NAME> came to his house in Old Faridabad in the morning at about 6.30 a.m. or 6.45 a.m. and told him that his daughter-in-law has received some burns on account of catching fire from the stove and desired that Dr. <NAME> should accompany him to his residence for treatment.
+Fact	Dr. <NAME> told him that he would be opening his clinic within half an hour and that <NAME> should be brought there.
+Fact	Dr. <NAME> has stated that on that day, when she entered the Geeta Nursing Home which is her privat<ORG> between 7.45 o r 8.00 a m. in the morning, <NAME> was lying on a bed there with burn injuries on her body and in a semi-conscious stage.
+Fact	She was accompanied by one lady and two gentlemen, one of them was aged, apparently <NAME>.
+RatioOfTheDecision	In view of this evidence, it is not possible to come to a conclusion with the degree of certainty required in a criminal trial that there was any deliberate delay in taking <NAME> to the hospital.
+RatioOfTheDecision	As far as the question of not taking <NAME> to <ORG> is concerned, it is again difficult to base any conclusion on this circumstance.
+RatioOfTheDecision	It is true that better treatment would, in all probability, have been available at <ORG>.
+RatioOfTheDecision	The evidence, however, shows that <NAME> first went to Dr. <NAME> and thereafter took <NAME> to <ORG> and he was there by 7.45 a.m. to 8.00 a.m.
+RatioOfTheDecision	The evidence on record also shows that <ORG> was in the same Sector of Faridabad, namely, Sector No.
+RatioOfTheDecision	16 so that it was easier to take <NAME> to that <ORG>.
+RatioOfTheDecision	In these circumstances, it is di fficult to come a conclusion that <NAME> deliberately avoided taking <NAME> to the Civil Hospital.
+RatioOfTheDecision	As far as the question of suppressing the sounds of cries of <NAME> is concerned, it is again not possible to draw any inference from this circumstance as it has not been put to cither <NAME> or <NAME> with the inference sought to be drawn when their statements were recorded under Section 313 of the Criminal Procedure Code.
+RatioOfTheDecision	It is, therefore, not permissible to place any reliance on this circumstance in convicting them.
+RatioOfTheDecision	The result, therefore, is that there is no satisfactory evidence on the basis of which a conclusion could be reached with any reasonable certainty that <NAME> committed suicide and the conviction of <NAME> and <NAME> under Section 306 of the Indian Penal Code must be set aside.
+RatioOfTheDecision	7.
+RulingByLowerCourt	Coming next to conviction under Section 498A of the Indian Penal Code, a reading of the said section shows that whoever, being the <NAME> or relative of the <NAME> of a woman subjects such wom an to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine.
+RulingByLowerCourt	Clause (b) of the Explanation to that section shows that the harassment of the woman where such harassment is with a view to coercing her or any person related to her to meet any unlawful demand for property or valuable security or is on account of the failure by her or any person related to her to meet such demand would amount to cruelty for the purposes of Section 498A .
+RulingByLowerCourt	In the present case, as pointed out by the learned Additional Sessions Judge as well as the learned Judge of <ORG>, there is an ample evidence that repeated demands were made inter alia by <NAME> and <NAME> on <NAME>, her parents and her brother <NAME> for articles of dowry and money.
+RulingByLowerCourt	There is also evidence that <NAME> made statements after her marriage and right up to the time when she died that she and her parents were being harassed by <NAME>, <NAME> and his fa mily members for various dowry articles and also for money.
+RulingByLowerCourt	As pointed out by Mr. <NAME> that there are some inconsistencies regarding the precise nature of the articles demanded but we are of the view that these inconsistencies are of little importance, considering the volume of evidence showing that repeated demands were made for various articles of dowry and money on <NAME> and her parents.
+RulingByLowerCourt	In fact, what is the most telling circumstance is that after the death of <NAME> a large number of dowry articles seem to have been taken back by <NAME>'s family members from <NAME> residence which were admittedly being given as dowry.
+RulingByLowerCourt	There is also substantial evidence to show that an amount of Rs.
+RulingByLowerCourt	20,000 to 25,000 was demanded from <NAME>, the brother of <NAME> and her mother by <NAME> for setting up <NAME> in business and they were unable to satisfy these demands.
+RulingByLowerCourt	We, therefore, agree with the conclusion reached by the Additional Sessions Judge and confirmed by <ORG> in this connection an d confirm the conviction and sentence imposed on <NAME> and <NAME> under Section 498A of the Indian Penal Code.
+Argument	8.
+Argument	As far as the aforesaid Special Leave Petition is concerned, it has been preferred by the <ORG> for enhancement of the sentence under Section 306 of the Indian Penal Code.
+Argument	As the conviction of the accused under Section 306 of the Indian Penal Code is set aside, the said Petition must be dismissed and it is ordered accordingly.
+Fact	The notice of enhancement is also in respect of the conviction under Section 306 and the same is discharged.
+Fact	9.
+Fact	The appeal is partly allowed as set out earlier in so far as the conviction under Section 306 of the Indian Penal Code and the sentence imposed thereupon are concerned.
+Fact	The appeal against the conviction under Section 498A of the Indian Penal Code is dismissed.
+Fact	If the Appellants are on bail, they must surrender to the police and undergo the balance of their sentences, if any, and also pay the fine imposed on them for the conviction under Section 498A ,  if that has not already been paid.

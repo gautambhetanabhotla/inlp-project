@@ -1,0 +1,46 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The plaintiff's case was that he purchased the plaint house at a court sale for Rs.
+Fact	360, benami in the name of the defendants.
+Fact	He sued to recover possession from the defendant or, in the alternative, for the purchase-money paid by him for the house.
+Fact	The District Munsif gave the plaintiff a decree for possession.
+Argument	On appeal, the District Judge held that the plaintiff's suit for possession was barred by Section 317, C.P.C.
+Argument	He found, however, that the purchase-money had been paid by the plaintiff and gave him a decree for Rs.
+Argument	360.
+Argument	In second appeal by the defendant it is contended that he should not have granted the alternative felief inasmuch as the plaintiff did not put in any memorandum of objections under Section 561, C.P.C.
+Argument	In support of this contention <CITATION_1267207> (1904) I.L.R.
+Precedent	28 M. 229 is cited.
+Precedent	2.
+Precedent	I am of opinion that the decree of the District Judge is right.
+Precedent	The primary or major relief asked for.
+Precedent	by the plaintiff was delivery of the property.
+Precedent	Having obtained this relief in  the fifst Court he had no ground for appealing and therefore no ground for putting in a memorandum of objections under Section 561, C.P.C.
+Argument	The District Judge found that the plaintiff was not entitled to the major relief granted him by the District <NAME>.
+Argument	There was nothing my opinion, to prevent him from giving a decree for.
+Fact	the minor relief on finding that the plaintiff was entitled to it.
+Fact	The case would have been different if the District <NAME> had refused the prayer for possession and had given a decree for the purchase-money.
+Precedent	Had the defendant then appealed, the plaintiff, if he wished to have the decree altered to one for possession, would have been bound to put in a memorandum of objections regarding the refusal of his prayer for possession; for the rejection of that, his major prayer, gave him good ground for.
+Precedent	appealing.
+Precedent	3.
+Precedent	The case <CITATION_1267207> (1904) I.L.R.
+Precedent	28 M. 229 is clearly distinguishable.
+Fact	In that case the plaintiff claiming, title linger a sale from the 3rd defendant who was a vendee f rom the widow of a brother of the 1st and 2nd defendants sued all these defendants for possession and in the alternative for return by the 3rd defendant of the purchase-money.
+Fact	The District.
+Fact	<NAME> held that the claim for possession was barred by the adverse possession of the 1st and 2nd defendants, and gave a decree for the purchase money against the 3rd defendant.
+RulingByLowerCourt	The 3rd defendant appealed, making defendants Nos.
+RulingByLowerCourt	1 and 2 and the plaintiff, respondents.
+RulingByLowerCourt	The Subordinate Judge found that there was no bar by the adverse possession on the part of the defendants Nos.
+RulingByLowerCourt	1 and 2 and, although the plaintiff had put in no memorandum of objections, dismissed the suit for purchase-money against the 3rd defendant, and gave the plaintiff a decree for possession.
+Argument	The 1st and 2nd defendants then appealed to <ORG> objecting to the reversal of the decree of the District <NAME>, so far as it was in their favour.
+Argument	From the above it is clear that the plaintiff could have objected in appeal to the decree of <NAME> nsif in-as much as it refused him the major relief he had claimed, namely, possession.
+Argument	He was, therefore, bound if he wanted to obtain that relief in the appeal filed by the 3rd defendant to put in a memorandum of objections I, therefore, dismiss this second appeal with costs.
+Precedent	<NAME>, J.
+Precedent	4.
+Precedent	I think the contention of the appellant is untenable on the face of it.
+Argument	The plaintiff, who is the respondent in this second appeal obtained a decree in <ORG> for the delivery of possession of the property which he had knight, the very relief which he sought by his suit.
+Argument	He was quite content with what he got, but the defendant appealed, and the appellate Court held that the plaintiff was not entitled to recover the property but only its value as alternatively prayed for in the plaint.
+Argument	It seems difficult to comprehend that the plaintiff should be required by law, as contended for by the learned pleader for the appellant, to file a special memorandum of objections against a decree which he had sou ght and obtained.
+Argument	He did not relavant to take any objection to that decree, and, therefore, Section 561, C.P.C., can have no-application.
+Argument	The order of the appellate Court varying that decree was quite within its pompetence under Section 577, C.P.C.
+Argument	5.
+RulingByPresentCourt	I, therefore, agree that this appeal should be dismissed with costs.

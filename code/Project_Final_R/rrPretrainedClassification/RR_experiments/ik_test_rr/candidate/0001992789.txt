@@ -1,0 +1,69 @@
+Fact	<NAME>, J.
+RatioOfTheDecision	1.
+Fact	The question in this appeal is as to the right of inheritance to one <NAME> who is entitled under her <NAME>'s will to the property in suit.
+Fact	She died childless and intestate in November, 1909.
+Fact	There were various claims to her estate, but this appeal is concerned only with the claim of the first respondent, <NAME>, on the one hand, and two brothers, <NAME> and <NAME> (through whom the appellants claim) on the other.
+Fact	2.
+Fact	On the death of <NAME>, applications were made by both parties to <ORG> for grant of- letters of administration to her estate under Act V of 1881.
+Fact	The proceedings being contentious were tried as a suit by the Subordinate Judge to whom the ease was transferred under the provisions of Bengal Act XII of 1887.
+Fact	The principal, if not the only, question for his decision was whether <NAME> was the nearest heir of <NAME>, this depending upon a pure question of fact, namely, whether <NAME>'s mother was the sister of <NAME>'s <NAME>.
+Fact	This issue w as formally raised and determined by the Subordinate Judge in favour of the first respondent <NAME>, and on August 20, 1912, the Subordinate Judge ordered that letters of administration to <NAME>'s estate should issue to him.
+Fact	3.
+Fact	There was an appeal to <ORG> and the decision of the Subordinate Judge was affirmed, Letters of administration were granted to the first respondent and he obtained possession of the property.
+Fact	No appeal was made to His Majesty in Council, as it could hardly be doubted that upon the concurrent finding of fact of the two Indian Courts such an appeal would have been hopeless.
+Fact	The other claimants, <NAME> and <NAME>, apparently acquiesced in the finality of this adjudication and took no further steps in the matter.
+Fact	After their deaths their heirs seem to have sold their alleged shares in the property to the present appellants, who, in November, 1921, on the eve of limitation, instituted the somewhat speculative suit out of which this appeal has arisen They prayed for a declar ation that <NAME>, the first respondent, was not the sister's son of <NAME>'s <NAME>, and the establishment of their title through <ORG> and <ORG>, with possession and mesne profits.
+Fact	4.
+Fact	The first defence raised was that the suit was res judicata by reason of the previous decision, but the trial Judge, relying mainly upon a decision of <ORG> in <NAME> v. <NAME> (1911) 15 C.W.N.
+Fact	1021 held against this contention, and, proceeding to try the suit upon its merits, came to the conclusion that <NAME> was not in the relationship to <NAME> which had been found in the former proceedings, and consequently was not her heir, but that <ORG> and <ORG> were entitled to the property.
+Fact	<NAME> appealed, and <ORG> reversed the decision of the trial Judge upon both questions.
+Fact	They held that the appellant's suit was barred by the rule of res judicata, and they were also satisfied upon the evidence that the first respondent was the heir of <NAME>.
+Fact	5.
+Fact	The unsuccess ful plaintiffs have now appealed to His Majesty in Council, and the first matter for consideration is that of res judicata.
+Fact	6.
+Fact	The question as to what is to be considered to be res judicata is dealt with by Section 11 of the Code of Civil Procedure, 1908.
+RatioOfTheDecision	In that section are given many examples of circumstances in which the rule concerning res judicata applies; but it has often been explained by this <ORG> that the terms of Section 11 are not to be regarded as exhaustive.
+RulingByLowerCourt	In the case of <NAME> v. <NAME> (1883) L.R.
+RulingByLowerCourt	11 I.A.
+RulingByLowerCourt	37 : S.C. I.L.R.
+RulingByLowerCourt	6 All.
+RulingByLowerCourt	269, this is made clear, especially in these words of Sir <NAME> (at p. 41), " The binding force of such a judgment [in such a case as the present] depends not upon 3.
+RulingByLowerCourt	13, Act X of 1877" (now replaced by Section 11 of the Code of Civil Procedure, 1908), " but upon general principles of law.
+Precedent	If it were not binding there would be no end to litigation."
+Precedent	This decision, and the authority of the very words used by Sir <NAME>, are con firmed and enhanced by the language of Lord <NAME> in announcing the conclusion of this <ORG> in <CITATION_933844> (1921) L.R.
+Precedent	48 I.A.
+Precedent	187, 194 : S.C. 23 Bom.
+Precedent	L.R.
+Precedent	648, and further at page 138 :n the case of <CITATION_101212> (1922) L.R.
+Precedent	49 I.A.
+Precedent	129 : S.C. 24 Bom.
+Precedent	L.R.
+Precedent	963.
+Argument	7.
+Argument	Several cases decided in Indian Courts were cited in the course of this appeal, as some of them had been to <ORG> from whom this appeal is brought.
+Precedent	That Court pointed out the fallibility, in the matter of law, of many of those cases, as already demonstrated by decisions of this <ORG>.
+Precedent	It appears to their Lordships worth while to repeat what was said by Sir <NAME> in delivering the judgment of the <ORG> in <NAME> v. <NAME> (1916) L.R.
+Precedent	43 I.A.
+Precedent	91 : S.C. 18 Bom.
+Precedent	L.R.
+Precedent	397 (p. 98):-  ...in view of the arguments addressed to them their Lordships desire to emphasize that the rule of res judicata, while founded on ancient precedent, is dictated by a wisdom -which is for all time. '
+Precedent	It has been well sai d/declared Lord <NAME>, 'interest reipublicae ut sit finis litium, otherwise great oppression might be done under colour and pretence of law': 6 <NAME>, 9a.
+Precedent	Though the rule of the Code may be traced to an English source, it embodies a doctrine in no way opposed to the spirit of the law as expounded by the Hindu commentators.
+Precedent	<NAME> and <NAME> include the plea of a former judgment among those allowed by law, each citing for this purpose the text of <NAME>, who describes the plea thus : ' If a person though defeated at law sue again he should be answer-ad, ' You were defeated formerly'.
+Precedent	This is called the plea of former judgment, 'See the Mitakshara (Vyavahava), bk.
+Precedent	II, oh.
+Precedent	i, edited by <NAME>, p. 14, "nd the Mayuka, ch.
+RatioOfTheDecision	i, Section l, p. 11 of <NAME>'s edition.)
+RatioOfTheDecision	And so the ipplicafcion of the rule by the Courts in India should be influenced by no technical considerations of form, but by mutter of substance within the limits allowed by law.
+RatioOfTheDecision	8.
+RatioOfTheDecision	For these reasons their Lordships have no hesitati on in holding that the conclusion arrived at by <ORG> was right.
+RatioOfTheDecision	9.
+RatioOfTheDecision	It has been suggested, however, that even if the suit is barred against the appellants claiming through <NAME>, there is no similar bar against those who claim through <NAME>, inasmuch as (so it is said) he was not a party to the original title.
+RatioOfTheDecision	This allegation is based upon the fact that his name does not appear on the face of the order passed by the Subordinate Judge on August 20, 1912, but it is clear from the applications made by him in the course of the proceedings that he was a party thereto and that the omission of his name from the formal order was merely an oversight.
+RatioOfTheDecision	In the decree of <ORG> in appeal from the Subordinate Judge he is properly named as a party.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Their Lordships therefore agree with the judgment of <ORG> in the present case that this contention must fail.
+RatioOfTheDecision	11.
+RulingByPresentCourt	They will therefore humbly advise His Majesty that this appeal should be dismissed.
+RatioOfTheDecision	12.
+RulingByPresentCourt	As the respondents have not appeared, the re will be no order as to costs.

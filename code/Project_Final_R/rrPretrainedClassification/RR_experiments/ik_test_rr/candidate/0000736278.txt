@@ -1,0 +1,151 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The facts are set out in the judgment proposed by my brother <NAME>.
+Fact	2.
+Fact	The question is whether plain glass bangles and ornamented glass bangles are to be regarded as essentially the same commercial commodity or can they be considered as two distinct, commercial commodities.
+Fact	3.
+Fact	Glass bangles constitute a commodity which is well known.
+Fact	They may be plain or cut or ornamented.
+Fact	They are manufactured in their plain state.
+Fact	With some processing indentations are cut into plain bangles, and they lake the appearance of cut glass bangles.
+Fact	The indentations may be filled with liquid gold to give the bangles an ornamented appearance.
+Fact	In each case what is done is to put the glass bangles through a further process.
+Fact	The consequence of the processing is to give a slightly different appearance to the surface of the glass bangles.
+Fact	Essentially, the glass bangle continues to be the same article.
+Argument	The processing does not result in the emergence of a new commercial commodity and it cannot be said that i t amounts to manufacture.
+Argument	There is a distinction between mere processing and manufacture, and the distinction was brought out by <ORG> in <CITATION_923724> A.I.R.
+Argument	1963 S.C. 791 in the following words :  According to the learned counsel 'manufacture' is complete as soon as by the application of one or more processes, the raw material undergoes some change.
+Argument	To say this is to equate 'processing' to 'manufacture' and for this we can find no warrant in law.
+Argument	The word 'manufacture' used as a verb is generally understood to mean as 'bringing into existence a new substance' and does not mean merely 'to produce some change in a substance', however minor in consequence the change may be.
+Argument	This distinction is well brought about in a passage thus quoted in Permanent Edition of Words and Phrases, Volume 26, from an American judgment.
+Precedent	The passage runs thus :  Manufacture" implies a change, but every change is not manufacture and yet every change of an article is the result of treatment, labour and manipulation.
+Precedent	B ut something -more is necessary and there must be transformation; a new and different article must emerge having a distinctive name, character or use.'
+Argument	4.
+RatioOfTheDecision	The processing to which the glass bangles are subjected may conceivably result in different varieties of glass bangles, but I am unable to say that as between themselves each variety can be considered as a distinct commercial commodity.
+RatioOfTheDecision	Different names may perhaps be given for the purpose of distinguishing one variety from another, but whether they are plain glass bangles or ornamented glass bangles their character and use remains the same.
+RatioOfTheDecision	That character and use is not affected by the superficial change in appearance from plain bangles to ornamented glass bangles.
+RatioOfTheDecision	I might refer to the observations in <CITATION_534822>  22 S.T.C.
+RatioOfTheDecision	160, where it was said :  ...when a process is adopted for convenience of sale or making the article more acceptable to the customers, if the article in question retains its essential character, it has to be taxed as such article  only and the processing would make no difference.
+RatioOfTheDecision	The physical state or even the composition may change but so long as the essential character of the article continues to remain the same, it has to be taxed as that commodity alone.
+RatioOfTheDecision	5.
+RatioOfTheDecision	I need not refer to the other cases cited before us because, in my opinion, it is perhaps possible to say that the question in some of those cases arose in a somewhat different context.
+RatioOfTheDecision	6.
+RatioOfTheDecision	As regards the material on the record before us, I am unable to discover anything there which supports the case of the respondents that plain glass bangles and ornamented glass bangles are distinct commercial commodities.
+RatioOfTheDecision	7.
+Fact	In my judgment, glass bangles, being a single commercial commodity, cannot be taxed twice by a notification under Section 3-A of the U.P.
+Fact	Sales Tax Act.
+Fact	On that ground alone, I hold that Notification No.
+Fact	ST-471/X-900-(45)/1965, dated 1st February, 1966, is ultra vires.
+Fact	8.
+Fact	In the result, the petition is allowed.
+Fact	A writ in the nature of certiorari shall issue quashing th e assessment order dated 18th November, 1966, made against the petitioner for the assessment year 1965-66.
+Fact	There is no order as to costs.
+Fact	R.L.
+Fact	<NAME>, J.
+Fact	9.
+Fact	This petition under Article 226 of the Constitution is directed against an assessment order under the U. P. Sales Tax Act (hereinafter referred to as "the Act").
+Fact	10.
+Fact	The petitioner which is a partnership firm is a dealer in glass bangles at Firozabad.
+Fact	Amongst other varieties of bangles it deals in a variety called the ornamented glass bangles.
+Fact	It buys glass bangles in plain form from glass factories at Firozabad and sells them after subjecting them to a process of ornamentation.
+Fact	11.
+Fact	Prior to the assessment year 1965-66 glass bangles were a single point taxable commodity, the turnover whereof was taxable in the hands of the manufacturers or importers (We are not concerned in this case with importers).
+Fact	On 1st February, 1966, <ORG> issued a notification under Section 3-A of the Act being Notification No.
+Fact	471/X-900(45)-65 which contained tw o separate entries, one relating to plain glass bangles and the other to ornamented glass bangles.
+Fact	The turnover of both the varieties of glass bangles was made taxable at 7 paise per rupee.
+Fact	The point of sale in the former variety was the sale by the manufacturer while in the case of the latter variety it was the sale by the ornamentor.
+Fact	Under this notification sales tax was levied upon the petitioner in respect of the assessment year 1965-66 for the period 1st February, 1966, to 31st March, 1966, and similarly for subsequent assessment year 1966-67 the tax was levied on the petitioner's turnover of ornamented glass bangles, treating it to be the ornamentor.
+Fact	The petitioner has challenged the assessment order for the assessment year 1965-66 by means of this writ petition on the ground that the notification referred to above is ultra vires.
+Argument	12.
+Argument	It is contended that the ornamented and plain glass bangles are in reality one and the same commodity and their turnover cannot be subjected to tax twice-once in the hand s of the manufacturer and again in the hands of the ornamentor-as has been sought to be done under the impugned notification.
+Argument	It is further contended that the aggregate tax upon the turnover of glass bangles would come to 14% which would exceed the maximum rate prescribed under Section 3-A which at the material time was 10% only.
+Argument	13.
+Argument	Before examining this contention it is necessary to state that although the petitioner had filed an appeal against the impugned assessment, yet his contention relating to the vires of the notification was not adjudicated upon by the appellate authority in view of the decision of <ORG> in <CITATION_1087097> 60 I.T.R.
+Argument	260, where <ORG> held that the sales tax authorities had no jurisdiction to adjudicate upon the validity of any provision or notification of the Sales Tax Act .
+Argument	The alternative remedy provided in the Act not being efficacious, this is a fit case in which the petitioner should be allowed to invoke the writ jurisdiction of this court.
+Argument	14.
+Argument	Accor ding to the scheme of the Act, the turnover of every commodity is taxable at all points of sale at a uniform rate prescribed under the charging Section 3 which at the material time was three pies per rupee.
+Statute	<CITATION_191395690> is an exception to the charging section inasmuch as it authorises <ORG> to levy tax at a rate different from the one prescribed in Section 3 and to restrict the levy to one sale in the series of sales.
+Statute	<CITATION_191395690> provides :  3-A.
+Statute	(1) Notwithstanding anything contained in Section 3 , <ORG> may, by notification in the official Gazette, declare that the turnover in respect of any goods or class of goods shall not be liable: to tax except at such single point in the series of sales by successive dealers as <ORG> may specify.
+Statute	(2) If <ORG> makes a declaration under Sub-section (1), it may further declare that the turnover in respect of such goods shall be liable to tax at such rate not exceeding ten naye paise per rupee a s may be specified...  15.
+RatioOfTheDecision	Obviously the power of <ORG> under <CITATION_191395690> is-restricted to certain goods or class of goods.
+RatioOfTheDecision	The turnover of same goods or goods belonging to the same class cannot be subjected to tax under <CITATION_191395690> more than once by introducing an artificial classification.
+RatioOfTheDecision	If the plain bangles and ornamented glass bangles are not different goods or do not belong to different classes of goods, they cannot be made the subject of a charge separately.
+RatioOfTheDecision	The short question which, therefore, arises is whether plain glass bangles and ornamented glass bangles are two different kinds of goods or belong to the same class of goods.
+RatioOfTheDecision	16.
+Fact	It may be mentioned here that it was on the 8th of June, 1948, that glass bangles were included for the first time in <CITATION_191395690> by means of Notification No.
+Fact	S.T.
+Fact	117/X-923-1948.
+Fact	Entry No.
+Fact	15 of the Schedule attached to that notification was "glass bangles".
+Fact	The point of tax was the sale by the manufacturer or the importer depen ding upon as to whether bangles were manufactured inside Uttar Pradesh or were imported from outside Uttar Pradesh and the rate of tax was six pies per rupee.
+Fact	There was no separate entry relating to ornamented glass bangles so that all varieties of glass bangles were comprehended within entry No.
+Fact	15.
+Fact	On the 30th March, 1949, the entry "glass bangles" was deleted from the abovementioned notification of 8th June, 1948.
+Fact	But later on glass bangles were once again brought into the ambit of <CITATION_191395690> and by various notifications issued from time to time the rate of tax on the turnover of glass bangles was progressively increased until it was fixed at 7 Np.
+Fact	per rupee under a notification dated 1st December, 1962.
+Fact	In all these notifications glass bangles continued to appear under a single entry representing one class of goods.
+Fact	It is only on 1st February, 1966, that the impugned notification was issued which, as mentioned earlier, split the entry relating to glass bangles into two separate entries, viz., pl ain glass bangles and ornamented glass bangles.
+Fact	The rate of tax on the turnover of each variety was fixed at 7 paise per rupee.
+Fact	17.
+Fact	Admittedly the petitioner is not a manufacturer of glass bangles.
+Fact	He purchases plain bangles at Firozabad and carries out the process of ornamentation.
+RatioOfTheDecision	The onus lay upon the sales tax authorities to show that glass bangles after ornamentation become a different commercial commodity or a different class of goods.
+RatioOfTheDecision	On the record before us I do not find any such material.
+RatioOfTheDecision	It has not been shown that glass bangles after undergoing the process of ornamentation cease to remain glass bangles or become a different commercial commodity.
+RatioOfTheDecision	On the other hand, the petitioner has appended with its rejoinder-affidavit the samples of plain, cut and ornamented glass bangles.
+Fact	It has not been asserted on behalf of the <ORG> that the samples of ornamented glass bangles appended to the affidavit of the petitioner are not the type of bangles that are dealt in by the petition.
+Precedent	I find that the ornamentati on is nothing but slight painting in liquid gold on the outer surface of the glass bangles.
+Precedent	The ornamented glass bangles do not look materially different from plain or cut glass bangles.
+Precedent	18.
+Precedent	It is also not the contention of the opposite parties that the process of ornamentation is a process of manufacture and I am of the firm opinion that the application of liquid gold on the outer surface of bangles cannot be called a process of manufacture.
+Precedent	The ornamentation may at best be called processing and there is a well-recognised distinction between the two.
+Precedent	19.
+Precedent	<CITATION_923724> A.I.R.
+Precedent	1963 S.C. 791, <ORG> brought out the distinction between "manufacture" and "processing" in the following words :  According to the learned counsel 'manufacture' is complete as soon as by the application of one or more processes, the raw material undergoes some change.
+Precedent	To say this is to equate 'processing' to 'manufacture' and for this we can find no warrant in law.
+Precedent	The word 'manufacture' used as a verb is generally unde rstood to mean as 'bringing into existence a new substance' and does not mean merely 'to produce some change in a substance', however minor in consequence the change may be.
+Precedent	This distinction is well brought about in a passage thus quoted in Permanent Edition of Words and Phrases, Volume 26, from an American judgment.
+Precedent	The passage runs thus :  Manufacture" implies a change, but every change is not manufacture and yet every change of an article is the result of treatment, labour and manipulation.
+Precedent	But something more is necessary and there must be transformation; a new and different article must emerge having a distinctive name, character or use.
+Precedent	20.
+Precedent	The same distinction has recently been brought but by <ORG> in <CITATION_534822>  22 S.T.C.
+Precedent	160, where it was held:  ...when a process is adopted for convenience of sale or making the article more acceptable to the customers, if the article in question retains its essential character, it has to be taxed as such article only and the processing would m ake no difference.
+Precedent	The physical state or even the composition may change but so long as the essential character of the article continues to remain the same, it has to be taxed as that commodity alone.
+Precedent	21.
+Precedent	Reference in this connection may also be made to another case of <ORG> in <CITATION_1931406>  17 S.T.C.
+Precedent	313, where the dealer concerned converted scrap iron-purchased locally and imported-into bars, flats and plates which he sold in the market.
+Precedent	The dealer claimed that what he sold was nothing else but iron and steel which was a commodity exempt from sales tax.
+Precedent	The revenue sought to impose tax on the ground that what the dealer sold fell within the description "goods prepared from any metal".
+Precedent	<ORG> held that what the dealer purchased was iron and what he sold was also iron and the conversion of the raw material (iron) into bars, flats and plates did not alter the character of the commodity.
+Precedent	22.
+Precedent	A similar view was expressed by <ORG> in <CITATION_903306>  11 S.T.C.
+Precedent	827, whe re the question was as to whether hydrogenated groundnut oil (popularly known as Vanaspati) was a commodity different from the groundnut oil.
+Precedent	Vanaspati is manufactured from groundnut oil by a chemical process known as hydrogenation.
+Precedent	This process brings about an intermolecular change which results in the hardening of the oil.
+Precedent	<ORG> held that notwithstanding the intermolecular change the commodity continued to be the same as it was before undergoing the process of hydogenation.
+Precedent	23.
+Precedent	<CITATION_1270021>  19 S.T.C.
+Precedent	24, <ORG> held that patasa, harda and alchidana were all included in the term "sugar" which included within its ambit all forms of sugar, that is to say, sugar of any shape, texture, colour or density and by whatever name called.
+Precedent	24.
+Precedent	Yet another test was laid down by <ORG> to determine a question like the one before us in the case of <ORG> [1960] 11 S.T.C.
+Precedent	827.
+Precedent	It was observed by their Lordships at page 835 :  There is no use to which the ground nut oil can be put for which the hydrogenated oil could not be used, nor is there any use to which the hydrogenated oil could be put for which the raw oil could not be used.
+Precedent	Similarly we consider that hydrogenated oil still continues to be 'groundnut oil' notwithstanding the processing which is merely for the purpose of rendering the oil more stable.
+Precedent	25.
+Precedent	On this authority of <ORG> it can safely be said in the instant case that ornamentation of glass bangles merely results in bringing into existence a different variety of glass bangles, but not a commercially different commodity.
+RatioOfTheDecision	The use to which glass bangles are put in this country is well known.
+RatioOfTheDecision	They are primarily worn by womenfolk as an article of personal decoration.
+RatioOfTheDecision	All varieties of glass bangles be they plain, coloured or ornamented serve the same purpose.
+RatioOfTheDecision	26.
+RatioOfTheDecision	As a result of the foregoing discussion I am of opinion that ornamented glass bangles cannot be regarded as a commodity distinct and apart from plain glass bangles for the purposes o f <CITATION_191395690> of the Act.
+RatioOfTheDecision	They are merely two varieties of glass bangles and the distinction sought to be made by the <ORG>, in the impugned notification is artificial and is, therefore, unauthorised.
+RatioOfTheDecision	In the circumstances I must hold that the impugned notification is ultra vires being beyond the ambit of <CITATION_191395690> of the Act.
+RulingByLowerCourt	27.
+RulingByLowerCourt	I, therefore, allow the writ petition, declare the impugned notification to be ultra vires and issue a writ of ceriiorari quashing the assessment order for the year 1965-66.
+RulingByLowerCourt	In the circumstances, however, I would make no order as to costs.
+RulingByLowerCourt	By the court  28.
+Fact	The petition is allowed.
+RulingByPresentCourt	A writ in the nature of ceriiorari shall issue quashing the assessment order dated 18th November, 1966, made against the petitioner for the assessment year 1965-66.
+RulingByPresentCourt	There is no order as to costs.

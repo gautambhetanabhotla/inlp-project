@@ -1,0 +1,68 @@
+Fact	JUDGMENT Deb, J.
+Fact	1.
+Fact	This income-tax reference relates to the assessment years 1960-61 and 1961-62.
+Fact	The assessee was the owner of 2,328 shares of <ORG>, Baroda.
+Fact	These shares formed part of the capital assets of the assessee and their cost of acquisition was Rs.
+Fact	28,906.
+Fact	The said company went into liquidation on November 21, 1958, and on March 6, 1970, the assessee received from the liquidator Rs.
+Fact	81,480 as dividend, which relates to the assessment year 1960-61 and Rs.
+Fact	46,560 as dividend on March 15, 1961, which relates to the assessment year 1961-62.
+Fact	These two sums were assessed as capital gains, under Section 12B of the Indian Income-tax Act, 1922, and under Section 46(2) of the Income-tax Act of 1961, respectively, in the hands of the assessee in these two assessment years by the Income-tax Officer.
+Fact	The appeal filed by the assessee was dismissed by the Appellate Assistant Commissioner.
+Fact	The <ORG> has, however, allowed the second appeal filed by the assessee and has referred the followi ng questions to this court :  "(1) Whether, on the facts and in the circumstances of the case, the sums of Rs.
+Fact	39,519 and Rs.
+Fact	46,560 were properly assessed as capital gains within the meaning of Section 12B of the Indian Income-tax Act, 1922 ?
+Fact	(2) Whether, on the facts and in the circumstances of the case, the <ORG> was right in holding that the provisions of Section 46(2) of the Income-tax Act, 1961, were not applicable for the assessment year 1961-62?"
+RulingByLowerCourt	2.
+RulingByLowerCourt	The submission of Mr. <NAME>, the learned counsel for the revenue, is that these receipts are capital gains in the hands of the assessee, for the liquidator has paid these sums out of the assets of the company, but there is no merit in this contention.
+RulingByLowerCourt	No capital gain can arise in this case inasmuch as these shares were not sold or transferred by the assessee to the liquidator not to speak of exchanging these shares or relinquishing his interests in them in lieu of any money.
+RulingByLowerCourt	The assessee was entitled to receive these sums as surplus available for di stribution from the liquidator as a shareholder of the company.
+RulingByLowerCourt	Hence, these receipts are not at all capital gains in his hands, in view of the decision of <ORG> in <CITATION_524939> .
+RulingByLowerCourt	and the judgment dated May 19 and 20, 1975, of this court in I.T.
+RulingByLowerCourt	Ref.
+RulingByLowerCourt	No.
+RulingByLowerCourt	227 of 1968 ( <CITATION_1899238> .
+Argument	Therefore, it must be held that these sums are not capital gains within the meaning of Section 12B of the Indian Income-tax Act, 1922.
+Argument	3.
+Argument	The next contention of Mr. <NAME> is that the Income-tax Officer is bound to assess Rs.
+RatioOfTheDecision	46,560 under Section 46(2) read with Section 297(2)(b) of the Income-tax Act, 1961.
+RatioOfTheDecision	To appreciate his contention it is necessary to state a few facts.
+Fact	The assessment year 1961-62 ended on March 31, 1962, and this sum was received by the assessee on March 15, 1961, that is to say, in assesssment year 19.61-62, as already stated.
+Fact	The Income-tax Act 'of 1961, which repealed the Indian Income-tax Act , 1922, came into operation on 1st April, 1962, and, thereafter, the assessee filed his  return of income for the assessment year 1961-62.
+Statute	Now, Section 46(2) of the Income-tax Act, 1961, reads as follows;  "Where a shareholder on the liquidation of a company receives any money or other assets from the company, he shall be chargeable to income-tax under the head "capital gains", in respect of the money so received or the market value of the other assets on the date of distribution, as reduced by the amount assessed as dividend within the meaning of Sub-clause (c) of Clause (22) of Section 2 , and the sum so arrived at shall be deemed to be the full value of the consideration for the purposes of Section 48 ."
+Statute	4.
+Statute	And Section 297(2)(b) of this Act provides as follows:  "Notwithstanding the repeal of the Indian Income-tax Act , 1922......  where a return of income is filed after the commencement of this Act otherwise than in pursuance of a notice under Section 34 of the repealed Act by any person for the assessment year ending on the 31st day of March, 1962, or any earlier year, the assessment of th at person for that year shall be made in accordance with the procedure specified in this Act. "
+Argument	5.
+Argument	The submission of Mr. <NAME> is that as the assessee has filed the return after the commencement of this Act, the Income-tax Officer must compute the total income in accordance with the procedure specified in this Act as enjoined by Section 297(2)(b) and while making the assessment under Section 143(3) of this Act he must treat this receipt as capital gains under Section 46(2) of the Act, though it is not a capital gain under Section 12B of the Indian Income-tax Act, 1922.
+Argument	6.
+RatioOfTheDecision	But there is no merit in the second limb of his contention.
+RatioOfTheDecision	The charge is on the income of the previous year and the substantive law of that year must be applied, vide <CITATION_375925> and <CITATION_421406>  13 ITR 221 (PC).
+RatioOfTheDecision	The substantive law of that year was Section 12B of the Indian Income-tax Act, 1922, and not Section 46(2) of the Income-tax Act, 1961.
+RatioOfTheDecision	7.
+RatioOfTheDecision	This receipt could not be brought to tax if the return was filed before 1 st April, 1962.
+RatioOfTheDecision	It was not even chargeable to tax and it cannot be brought to tax merely because the return was filed after 1st April, 1962.
+RatioOfTheDecision	8.
+RatioOfTheDecision	It has been rightly contended on behalf of the assessee that to accept the contention of Mr. <NAME> is to amend Section 12B of the Indian Income-tax Act, 1922, by Section 46(2) of the Income-tax Act, 1961, with retrospective effect and, therefore, we must reject the contention of Mr. <NAME>.
+RatioOfTheDecision	That apart, Section 297(2)(b) is not a charging section and it does not even say that "all the provisions of this Act will apply".
+RatioOfTheDecision	It is solely restricted to the procedural part of assessment.
+RatioOfTheDecision	The assessee was not liable to pay capital gains under Section 12B of the repealed Act, and, therefore, by its repeal, it cannot be said that a fresh liability has been imposed on the assessee either by Section 46(2) or by Section 297(2)(b) of the Income tax Act, 1961.
+RatioOfTheDecision	Moreover, the revenue had no right to tax this receipt and it cannot be said that by the repeal of the Income-tax Act  , 1922, a new right has been created in its favour by these two sections of the Income-tax Act , 1961.
+RatioOfTheDecision	9.
+RatioOfTheDecision	I will now discuss the cases cited by Mr. <NAME> and his learned junior, Mr. <NAME>.
+Fact	One of the questions involved in <CITATION_650068> was whether the assessment already made under the Indian Income-tax Act , 1922, could be rectified under the provisions of the Income-tax Act , 1961.
+Fact	The assessee was a partner of a firm and before the firm filed its return he was assessed under the Indian Income-tax Act , 1922.
+Fact	The firm filed its return after the Income-tax Act , 1961, came into operation.
+Fact	Thereafter, in view of the share allocation, the rectification proceeding was started against the assessee and it was upheld by the court on the ground that the power of rectification could be exercised in these circumstances.
+RatioOfTheDecision	We do not find anything in this case which can lend any assistance to the contention of Mr. <NAME>.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The case of <CITATION_1556567> relates to a penalty proceeding which can only b e initiated after the assessment is completed and the tax officer is satisfied that the defaults have been committed by the assessee.
+RatioOfTheDecision	Therefore, this case has no bearing on the question involved before us, for we are concerned with the substantive law of the year of assessment.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Hence, we return our answer to question No.
+RatioOfTheDecision	1 in the negative and in favour of the assessee and question No.
+RatioOfTheDecision	2 in the affirmative and in favour of the assessee.
+RatioOfTheDecision	12.
+RulingByPresentCourt	Having regard to the facts and circumstances of the case, we do not propose to make any order as to costs.
+Precedent	<NAME>, J.
+Precedent	13.
+RulingByPresentCourt	I agree.

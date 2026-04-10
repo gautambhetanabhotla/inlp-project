@@ -1,0 +1,92 @@
+Fact	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	This is a suit; to recover a temple office which is alleged to be hereditary in the plaintiff's family and which was purchased at a <ORG> auction by the defendant in execution of a decree against a previous holder of the office.
+Argument	The plaintiff obtained a decree in the lower Appellate <ORG> on the ground that the office was one of personal service and that the attachment and" sale were bad as opposed to Section 266 (t) of the Code of Civil Procedure.
+Argument	It is now contended that such a suit is barred by the operation of Section 244 of the Civil Procedure Code and should have been dismissed.
+Fact	It is well settled that as between the judgment-debtor and the decree-holder this is an objection which can only be taken in execution and it is also well settled that the provisions of Section 244 prohibit a suit by a party or his representatives against an auction purchaser to raise a question which as between the judgment-debtor and the decree-holder must have been determined under that section: Basti  <NAME> v. <NAME> (1886) I.L.R.
+Fact	8 All.
+Fact	146, <NAME> v. <NAME> (1900) I.L.R.
+Fact	22 All.
+Fact	108 and Mayan Pathuti v. Pakuran (1890) I.L.R.
+Fact	22 Mad.
+Fact	347.
+Fact	These decisions are not based on the ground that the auction purchaser is the representative of the decree-holder within the meaning of the section, but upon the general intention of the legislature as manifested in the section.
+Fact	The view that the auction purchaser may be treated as the representative of the decree-holder in oases arising between him and the judgment-debtor was no doubt taken in Manickka Odayan v. Rajagopala Pillai (1907) I.L.R.
+Fact	30 Mad.
+Fact	507, relying on <NAME> v. <NAME> (1905) I.L.R.
+Fact	28 Mad.
+Fact	87 in preference to the authorities cited for the other view.
+Fact	But as pointed out in Krishna Satapasti v. Sarasvatula Sambasiva Row (1908) I.L.R.
+Fact	31 Mad.
+Fact	177 <NAME> v. <NAME> (1905) I.L.R.
+Fact	28 Mad.
+Fact	87 does not support so general a proposition, as in that case the decree-holder was the auction purchaser and the parties in questi on were his representatives by virtue of their purchase from him.
+Fact	The decision in <NAME> v. <NAME> (1907) I.L.R.
+Fact	30 Mad.
+Fact	507 should, I think, have been supported on the ground that the application raised a question between the representatives of the judgment-debtor and the decree-holder himself; and that the auction purchaser had been properly added not as a representative of the decree-holder, but as a party interested.
+Fact	<NAME> v. <NAME> is <NAME> (1892) I.L.R.
+Fact	19 Calc.
+Fact	683 and <CITATION_592259> (1899) I.L.R.
+Fact	26 Calc.
+Fact	539.
+Fact	In the present case we must reverse the decree of the lower <ORG> and restore that of the District <NAME> with costs here and in the lower <ORG>.
+Fact	<NAME>, J.
+Fact	2.
+Fact	A decree was passed against the plaintiff's <NAME> in Original Suit No.
+Fact	90 of 1894 on the file of the Srirangatm <NAME> for maintenance making the emoluments of the Mirasi office of accountant in the Srirangam temple liable.
+Fact	The decree was executed against the plain tiff after the death of his <NAME> and it must be taken that due notice was issued to the plaintiff of the proceedings in execution.
+Fact	The office of accountant was itself attached, and assuming that the attachment was irregular, no exception having been taken to the attachment, the attached property was sold on the 16th July 1897, and the sale confirmed.
+Fact	The defendant, who purchased the office in execution, obtained possession of it in November 1903.
+Argument	The plaintiff institutes the present suit for the surrender by the defendant of the <ORG> office on the ground that the sale was null and void.
+Argument	The plaintiff having obtained a decree in <ORG>, the defendant has preferred this Second Appeal.
+Argument	It seems to ma that the suit is not maintainable.
+Argument	The plaintiff was a party to the execution proceedings and the only mode in which he can impeach the sale is by an application to the executing Court to set aside the sale, It is argued for the plaintiff that the sale is a nullity because the decree did not direct t he sale of the office and the office was inalienable.
+Argument	There was a personal decree against the plaintiff's <NAME>, and, even assuming that the office was not charged with the liability, it could be proceeded against in execution of the money decree.
+Argument	Supposing that the office was inalienable, on which 1 do not express an opinion, it was competent to the executing Court to deal with the question whether the office was saleable, No exception having been taken in execution to the sale,' we must take it that the sale was rightly held, The defendant cannot he ousted from possession until the sale is duly set aside, No attempt having been made by the plaintiff to impeach the sale in execution and the sale having been confirmed, it is not competent to the plaintiff to disturb the possession of the auction purchaser by suit, See Mayan Pathuti v. Pakuran (1899) I.L.R.
+Argument	22 Mad.
+Argument	347 and <NAME> v. <NAME> (1896) I.L.R.
+Argument	18 Calc.
+Argument	188, The auction purchaser derives' his rights from the sale which t he party to the execution proceeding should not be permitted to impeach except by application to the executing <ORG>.
+Precedent	The true principle has been sometimes overlooked and the bar to the suit of the judgment-debtor against the stranger purchaser or vice versa rested on Section 244 of the Code of Civil Procedure, the suit being supposed to raise a question between the parties to the suit or their representatives: see <NAME> v. <NAME> (1900 ) I.L.R.
+Precedent	22.
+Argument	All.
+Argument	86 and <NAME> v. <NAME> (1900) I.L.R.
+Argument	22 All.
+RatioOfTheDecision	108, But this latter view appears to me to be erroneous, This mistake arises from a confusion between two ideas.
+RatioOfTheDecision	One is that Section 244 being a bar to setting aside the sale except in a proceeding between the parties the suit against the purchaser is not maintainable until it is so set aside.
+RatioOfTheDecision	The other is that Section 244 bars the suit as the purchaser is the representative of the decree-holder, It seems to ma the former view is correct, Section 335 would be inconsistent with the latter.
+RatioOfTheDecision	We c annot treat this suit as an application under Section 244 to set aside the sale, as the decree-holder who would be affected by it is not a party.
+Fact	It is perhaps unnecessary to discuss the question whether Section 214 is a bar to the present suit though I have no hesitation in expressing my concurrence in the decision in <NAME> v. Sarasvalula Sambasiva Row (1908) I.L.R.
+Fact	31 Mad.
+Fact	177.
+Fact	It seems to me that the view upheld in <ORG> v. <NAME> (1907) I.L.R.
+Fact	30 Mad.
+Fact	507 that the auction purchaser is the representative of the decree-holder in execution of a money decree is not tenable.
+Fact	<NAME> v. <NAME> (1905) I.L.R.
+Fact	28 Mad.
+Fact	87 which was the case of a purchaser from the decree-holder who purchased in execution of his own decree is different from the ease of a stranger purchaser, It is difficult to see how a stranger purchasing in execution of a money decree can ever be treated as the representative of the decree-holder, He purchased the rights of the judgment-debtor in the  property attached and not those of the decree-holder between whom and himself there is no privity of estate, It may sometimes be that the purchase carries more than the interest of the judgment-debtor as for example when the judgment-debtor has done something with the property in fraud of the decree-holder.
+Fact	The stranger purchaser cannot be the representative of both the parties.
+Fact	The true rule is that where the decree is a mortgage decree the purchaser in execution will be the representative of the judgment-debtor where property is attached and sold under a money decree a stranger purchasing the property obtains the right of the judgment-debtor in the property but is not the representative even of the judgment-debtor; still less can he be the representative of the decree-holder.
+Fact	The authorities cited by the learned Judges in <NAME> v. <NAME> (1907) I.L.R.
+Fact	30 Mad.
+Fact	507 are against the view which they have enunciated: see <CITATION_1101039> (1897) I.L.R.
+Fact	19 All.
+Fact	40, <CITATION_1467204> (1897)  I.L.R.
+Fact	20 Mad.
+Fact	487, <CITATION_1968093> (1900) 10 M.L.J.
+Fact	223.
+Fact	It appears to me that <NAME> v. <NAME> (1905) I.L.R.
+Fact	28 Mad.
+Fact	87 was relied on under a misapprehension as pointed out in <NAME> v. Sarasvatula Sambasiva Row (1908) I.L.R.
+Fact	31 Mad.
+Fact	177 Nor do the other cases viz., <CITATION_179243> (1902) I.L.R.
+Fact	25 Mad.
+Fact	529, <NAME> v. <NAME> (1897) I.L.R.
+Fact	24 Calc.
+Fact	62, and <NAME> v. <NAME> (1892) I.L.R.
+Fact	19 Calc.
+Fact	683 support the judgment in Maniakka Odayan v. <NAME> (1907) I.L.R.
+Fact	30 Mad.
+Fact	507 Section 244 therefore does not bar the suit.
+Argument	3.
+RulingByPresentCourt	I would however in the view already expressed set aside the decree of the District Judge and dismiss the suit with costs throughout.

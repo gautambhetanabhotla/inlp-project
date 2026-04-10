@@ -1,0 +1,63 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is a suit for partition and separate possession of the plaintiff's 1/12th share in the suit properties.
+Fact	Defendant 1 is the <NAME> of the plaintiff, defendants 2 to 5 are the brothers of the plaintiff and also the sons of defendant 1.
+Fact	Defendant 6 is the brother of defendant 1, and defendant 7 is the son of defendant 6.
+Fact	The claim was resisted by defendants 6 and 7 mostly on the ground that there was a division in the family 18 years before the suit, and that the properties in Schedule 2 and some other plaint mentioned properties belonged to defendant 6 solely as his self acquisition.
+Fact	Both the lower Courts concurrently found against the case of defendant 6.
+Fact	They came to the conclusion that the parties constituted a joint family on the date of the institution of the suit.
+Fact	It was also found that the properties comprised in Schedule 2 were also joint family properties.
+Fact	They mainly consisted of outstandings which were advanced either out of the income from family lands or out  of the family trade which was carried on by defendant 6.
+Fact	It was further found that defendant 6 was living separately from defendant 1's branch.
+Fact	But the trade was carried on by defendant 6 assisted also sometimes by the elder son of defendant 1.
+Fact	Both the lower <ORG> accordingly decreed the claim of the plaintiff and directed division of the family properties and delivery of 1/l2th share to the plaintiff.
+Fact	In Second Appeal on behalf of defendant 6 the main question argued was in regard to the direction for accounts given by both the lower <ORG> in respect of the properties in Schedule 2 to the plaint.
+Fact	As aforesaid it mainly consisted of the outstandings of the business carried on by defendant 6 on behalf of the joint family.
+Argument	The contention of Mr. <NAME> is that the lower <ORG> have misdirected themselves in the application of the principles of Hindu law in the matter of accounting by the manager or members of the family who are in possession of the properties.
+Argument	In a suit for partition it is well settled th at an account will have to be taken of the properties that are available for division as on the date of the suit or as on the date of any severance in status effected by a member of the family in accordance with law.
+Argument	The principle on which the liability of a member to account is based is thus enunciated by <ORG> in <CITATION_63331> AIR 1922 PC 71 at p. 663:  In the absence of proof of direct misappropriation or fraudulent and improper conversion of the moneys to the personal use of the manager, he is liable to account for what he received and not for what he ought to or might have received if the moneys had been profitably dealt with.
+Argument	2.
+Argument	The relationship between a manager and the members of the family is not that of mere agent and principal.
+Argument	His position is analogous to that of a trustee, but his obligations are not the same as those of a trustee.
+Argument	He is not bound to keep accounts.
+Argument	He has absolute control over the income and, therefore, he is not called upon to defend the propriety of his past dea lings.
+RatioOfTheDecision	But he is bound to account for all the family properties, moveable or immoveable which have been traced to his possession and the members are entitled to look into the accounts to discover what the properties consisted of or what they consist of.
+RatioOfTheDecision	It is open to the other members to show that the manager had in his possession certain family properties and that he must account for their disappearance and that the items of expenditure said to have been incurred were not incurred or not incurred to the extent mentioned in the account or they were incurred for purposes other than the legitimate purpose of the family.
+RatioOfTheDecision	These pleas are, therefore, available to the members when the manager is or ought to be directed to file an account of the properties existing on the date of the plaint or on the date of the severance.
+RatioOfTheDecision	So far as the manager is concerned these principles are well settled.
+RatioOfTheDecision	But the question is when owing to differences in the family or for convenience of management, members of the family lived apar t without a severance in status but still as members of a joint family entitled to participate in all the income of the joint family properties, on what basis is the account to bo directed.
+RatioOfTheDecision	Of course every member brings into the hotchpot all the properties in possession.
+RatioOfTheDecision	In such a case, in my opinion, the principles applicable to a manager in regard to the liability for accounting will equally apply.
+RatioOfTheDecision	<NAME>, J. in <NAME> v. <NAME>, (1880) 5 Bom 589, at p. 595, thus explained the footing on which an account should be taken:  The ordinary rule, no doubt, is that the members of an undivided Hindu family, when making a partition are entitled, not to an account of past transactions, but to a division of the family property actually existing at the date of partition .
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	Where one member of the family has been entirely excluded from the enjoyment of the property, there might be good grounds for ordering an account; but in the ordinary case of joint enjoyment by the members of the whole property, or of enjoy ment by different members of different portions of the property, the taking of an account would be most difficult and unsatisfactory, and we are not aware of any case in which the <ORG> have ever ordered it.
+RatioOfTheDecision	There seems to us to be nothing in the circumstances of the present case which would induce us to depart from the ordinary rule.
+RatioOfTheDecision	3.
+RatioOfTheDecision	In this case the fact is established as aforesaid that defendant 1's branch and defendant 6's branch have been in management of different portions of the joint family properties at any rate 15 years before the suit.
+RatioOfTheDecision	Defendant 6 was carrying on a family trade or was in sole management of the properties in his possession with the knowledge and consent of defendant 1's branch.
+RatioOfTheDecision	In so far as the corpus of the properties is traced to his possession he is bound to account and explain for its disappearance.
+RatioOfTheDecision	Therefore in respect of the items of the properties in Schedule 2 he is bound to account.
+RulingByLowerCourt	4.
+Argument	Mr. <NAME> complains that the direction given by the lower <ORG> is wrong for  two reasons.
+Argument	Schedule 2 consists of 19 items and out of them items 2, 3, 8, 10, 12, 14 to 17 and 19 were collected by defendant 6 after making certain remissions.
+Argument	The lower <ORG> disallowed the said remissions and also directed him to account for interest on the said sums from the date of the collections.
+Argument	The ground alleged by the learned District <NAME> is that defendant 6 had no right to make the remissions without the knowledge or consent or acquiescence of the other members of the family and that he is liable for interest on the amounts he has received from the date of collection.
+RatioOfTheDecision	So far as the question of remission is concerned, in my opinion, the principle enunciated by the lower <ORG> is wrong.
+RatioOfTheDecision	The managing member of a joint family is entitled to settle accounts with the debtors and in the course of the settlement he will have the right to make a reasonable reduction either towards interest or principal if the circumstances of the case should allow it.
+RatioOfTheDecision	It is not necessary that he should obtain the cons ent of the other members of the family or to do so only with their knowledge.
+RatioOfTheDecision	Therefore, defendant 6 though a junior member of the family was left in sole management of the trade along with defendant 1's branch.
+RatioOfTheDecision	He will have the right and discretion to make the remissions and if they were done bona fide it ought not to be open to the other members to question them; but he will have to satisfy that the remissions were made by him in the interest of the family having regard to the particular circumstances of the case.
+RatioOfTheDecision	Prima facie the burden will be upon him and if he has given a satisfactory explanation of the same it is open to the other members to show that the remissions were not in the interest of the family and without consideration and not in the bona fide exercise of the discretion.
+Fact	<NAME>, C.J.
+Fact	in <NAME> v. <NAME> (1893) 17 Bom 271 at p. 283 in dealing with a similar question observed:  As to the remissions of tenants and compromises of suits, although they show a loss to the f amily firm of a considerable sum between 1920 and 1942 (<ORG>), the defendants have failed to give any proof that they were improper or uncalled for.
+RatioOfTheDecision	The circumstance that <ORG> was not made a party to the suits, may have afforded the defendants an opportunity of taking a technical objection, but cannot by itself and without any other evidence afford sufficient reason for concluding that they were compromised without adequate cause or contrary to the interests of the family.
+RatioOfTheDecision	As to the remissions to debtors, the Court below has considered they were satisfactorily explained by the plaintiff...  5.
+RatioOfTheDecision	In the matter of interest defendant 6 can only be called upon to account for such interest as he received on the debts.
+RatioOfTheDecision	He will also be accountable for interest if he has re-invested the amounts, but he cannot be made accountable for not investing the same and realizing the interest.
+RatioOfTheDecision	Therefore, the direction that he should be accountable with interest from the date of the collection is not correct.
+RatioOfTheDecision	I, therefore, di rect an account be taken of the said items 2, 3, 8, 10, 12, 14 to 17 and 19 in the light of the above observations and remit the case back to <ORG>.
+RatioOfTheDecision	In other respects the decrees of the lower <ORG> are confirmed.
+RulingByPresentCourt	As the appellants have substantially failed I direct them to pay the costs of the respondents.

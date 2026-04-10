@@ -1,0 +1,69 @@
+Fact	JUDGMENT  1.
+Fact	The petitioner had instituted a suit in the first Court of the Subordinate Judge of Faridpur on the 9th August 1924 for setting aside a revenue sale in respect of a certain taluk.
+Fact	The suit was dismissed for default, as the petitioner did not, or, as he says, was unable to, appear on the 5th August 1925.
+Fact	On the 4th September 1925 he applied under Order 9, Rule 9, Civil P.C., for restoration of the suit.
+Fact	The Subordinate Judge ordered this application to be registered and ordered the petitioner to file talabana and processes on or before the 10th September 1925.
+Fact	This order was not complied with.
+Fact	On the 10th September 1925 the case being put up, an application was made on the petitioner's behalf praying for a reasonable time to enable the petitioner's pleader to communicate with the petitioner who, it was said, was away at a distant place.
+Fact	The Subordinate Judge granted time by the following order : "On the prayer of the applicant time allowed till 12/9 next for filing talabana and processes."
+Fact	On the  12th September 1925 the application under Order 9, Rule 9, Civil P.C., was dismissed for default as talabana and processes were not filed.
+Fact	On the 20th October 1925 another application was filed by the petitioner under Order 9, Rule 9 for the setting aside of the aforesaid order of dismissal and for restoration of the aforesaid application under Order 9, Rule 9, Civil P.C.
+RulingByLowerCourt	This application was dismissed by the Subordinate Judge on the 15th December 1925, he having held that such an application did not lie.
+RulingByLowerCourt	The material portion of his order runs as follows:  He (meaning the petitioner) now applies for an order to act aside the order dismissing his application under Order 9, Rule 4 for default.
+Fact	In my opinion Order 9 does not apply in this case.
+Fact	The Miscellaneous proceedings to which Section 141 applies are matters such as applications foe probate, Certificate of guardianship etc., which, when contested, partake of the nature of suits, and not miscellaneous cases of this description.
+Fact	I, therefore, reject this app lication.
+RatioOfTheDecision	2.
+RatioOfTheDecision	It is the validity of this order which is in controvery in this Rule.
+RatioOfTheDecision	3.
+Fact	The contention of the petitioner is that by virtue of the provision contained in Section 141, Civil P.C.
+Fact	Order 9 is applicable to all miscellaneous proceedings including a proceeding under Order 9 and when his application under Order 9, Rule 9 far restoration of the suit was dismissed for default under Rule 4 of that order, an application lay under Order 9, Rule 9 for setting aside that order of dismissal and for restoration and re-hearing of the former application under Order 9, Rule 9.
+Fact	The authority which directly supports the petitioner's contention is the decision of this Court in the case of <CITATION_1279807>  44 Cal.
+Precedent	950, The learned Judges who decided that case relied upon the reason of the Rule in <NAME> v. <NAME>  19 C.W.N.
+Precedent	758, in which an application for setting aside a sale under Order 21, Rule 90, Civil P.C., had been dismissed for default and it was held that Order 9 was applicable for setti ng aside that order of dismissal.
+RatioOfTheDecision	They proceeded to observe as follows:  In this case also, in a similar way, the application for restoration of the case under Order 9, Rules 4 and 9 may be treated as an original application although no fresh parties are interested in the case.
+RatioOfTheDecision	The proceeding in initiated by an application which has to be numbered as a separate miscellaneous case and decided upon evidence.
+RatioOfTheDecision	4.
+RatioOfTheDecision	It was further suggested that this application under Order 9, Rule 9 might also be treated as an application for review as Order 47, Rule 1 which applies to all orders of the <ORG> that may be reviewed under certain circumstances : but with this matter we are not concerned for the moment.
+RatioOfTheDecision	5.
+Precedent	An elaborate research into the history of Section 141 and an exhaustive analysis of the case law bearing on it will be found in the recent judgment of <NAME>, J., in the case of <CITATION_1367804> A.I.R.
+Precedent	1926 Cal.
+Precedent	773.
+Precedent	Now amidst the hopelessly conflicting mass of judicial decisions which have clustered round Section  141 and Section 647 which stood in its place before, the solid bed-rock on which it is safe to take one's stand is the decision of <ORG> in the case of <NAME> v. <NAME>  17 All.
+Precedent	106.
+Precedent	Their Lordships' decision' makes it perfectly plain that the section does not apply to applications for execution, but only to original matters in the nature of suits, such as proceedings in probates, guardanships and so forth."
+Precedent	The expression "so forth" must in my opinion, be read as meaning proceedings ejusdem generis with the instances that precede it, and include such proceedings as in divorce, in insolvency, for succession certificate and the like, and the expression "original matters" in my opinion confirm that view as meaning matters which originate in themselves and not those which spring up from a suit or from some other proceeding or arise in connexion therewith.
+Precedent	The criterion of originality as indicated in <CITATION_1279807>  44 Cal.
+Precedent	950 in the passage quoted above is not what is meant.
+Precedent	Thi s passage has been construed by the learned Judges of <ORG> as meaning that the second application might be treated as an original application for restoration of the suit itself <CITATION_466202> A.I.R.
+RatioOfTheDecision	1924 All.
+RatioOfTheDecision	503; but with all respect I am unable to agree that that is what the passage means.
+RatioOfTheDecision	I think the true meaning of the passage is that, in the opinion of the learned Judges, a proceeding which originates in a new application which has to be numbered as a separate miscellaneous case and decided upon evidence satisfies the requirements laid down in the decision of <ORG>.
+RatioOfTheDecision	In this view I am unable to concur.
+Precedent	On the other hand, I entirely agree with the learned Judges of <ORG> in the view expressed in the case of <CITATION_466202> A.I.R.
+Precedent	1924 All.
+Precedent	503 that if the fresh application is treated as an application to restore the suit itself and not to restore the first application, and is within time, there can be no bar to its being dealt with as an applicat ion under Order 9, Civil P.C.
+Precedent	6.
+Precedent	The foundation of the decision in <CITATION_1279807>  44 Cal.
+Precedent	950, therefore is in my opinion, wrong, and after the shock it has received in numerous authoritative decisions of several <ORG> can no longer be relied upon.
+Precedent	I have already referred to the case of <CITATION_1367804> A.I.R.
+Precedent	1926 Cal.
+Precedent	773 in which the authorities are collected.
+Precedent	I may specially mention also the decisions of <ORG> in <NAME> v. <NAME>  4 P.L.J.
+Precedent	135 and <NAME> v. <NAME>  4 P.L.J.
+Precedent	287 and that of <ORG> in <CITATION_466202> A.I.R.
+Precedent	1924 All.
+Precedent	503 to which I have already referred.
+Precedent	The last two of the aforesaid cases directly dealt with an application which arose out of the dismissal of a suit as in the case now before us.
+Precedent	<ORG> also appears to have taken the same view as has been adopted in Patna and in Allahabad.
+Argument	7.
+Argument	I am accordingly of opinion that the learned Subordinate Judge is right ii the view he has t aken and that the petitioner's application in so far as it purport ed to be one under Order 9, Rule 9, Civil P.C.
+Argument	was not competent.
+RatioOfTheDecision	At the same time however, I am of opinion that the duty of the learned Judge did not end in disposing of the application on that ground alone as he appears to have done.
+RatioOfTheDecision	The Code has made no express provision for case like this, and it is natural to suppose that there should be some way open to the petitioner to get rid of the order which was passed on the 12th September 1925 if he can show that his default was not due to his laches.
+RatioOfTheDecision	The application which he presented on the 28th October 1925 cannot by reason of the bar of limitation be entertained as a second application for setting aside the ex parte decree.
+RatioOfTheDecision	To meet cases such as this Section 151 of the Code was enacted, and where there is no provision in the Code expressly providing for a remedy and none which prohibits a remedy being administered and such remedy is called for in order to do that real and substantial justice  for the administration of which it exists, the provision of Section 151 may and should be resorted to.
+RatioOfTheDecision	This substantially is the view that has been taken of the applicability of this section in a matter of this kind in the cases of <CITATION_306590> and <CITATION_1385454>  21 C.W.N.
+RatioOfTheDecision	769 and I am disposed to adopt in the present case the course that was followed in the last mentioned case.
+RulingByPresentCourt	I would accordingly direct that the application of the petitioner, dated the 20th October 1925, will be treated by the <ORG> below in the exercise of its inherent power ex debito justice to review the order of dismissal for default passed on the 12th September 1925.
+RulingByPresentCourt	The Rule therefore will be made absolute in these terms, but in view of the facts of the case no order will be made as to the costs in the Rule.

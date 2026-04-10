@@ -1,0 +1,251 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	In this case the main contention that has been urged on behalf of the two defendants, who are appellants before us, is that the monies payable under a Policy of Insurance, being Policy No.
+RatioOfTheDecision	4667, issued by <ORG>, did not form part of the assets of the estate of one <NAME> deceased and that his widow, <NAME>, had no rights therein.
+RatioOfTheDecision	In order to understand the precise significance of this contention, it is necessary to set out the facts giving rise to the litigation out of which the present appeal has arisen.
+Fact	It appears that one <NAME> insured his life on the 29th March, 1910, for a sum of Rs.
+Fact	500.
+Fact	The material words of the Policy with which we are concerned are as follows: "The <ORG> hereby guarantees to insure that if the insured pays to the <ORG> at their office in Calcutta on the fifth day of March, nineteen hundred and ten and each succeeding year up to and including the year of his dea th the sum of rupees twenty-one and annas eleven only or in lieu of any such annual premium the full number of instalments thereof as may be agreed upon (of which agreement the receipt granted by the <ORG> shall be full and sufficient evidence) then upon proof to the satisfaction of the Office Committee of the <ORG> of the death of the insured and the title to the Policy, the <ORG> will pay to <NAME>, wife of the insured (hereinafter called the nominee) at <ORG> of the <ORG> in Calcutta or at the permanent residence of the nominee whichever may be preferred the sum of rupees five hundred only together with such additional sum or sums by way of profits as, according to the <ORG>'s Regulations, may accrue and become payable in respect of the Policy, after deducting therefrom (1) the balance of the premium, if any, payable in respect of the year of the insured's death and (2) also other sum or sums, if any, due from him to the <ORG>."
+Fact	The assured paid all the premiums du e on the Policy till his death which took place some time in 1324 B.S.
+Fact	He died leaving him surviving the plaintiff, <NAME>, his widow and three sons.
+Fact	The sons were his heirs under the Hindu Law.
+Fact	On the death of the assured, the plaintiff claimed the amount of the said Policy and it appears that <ORG> were about to make payment to the plaintiff.
+Fact	The defendants Nos.
+Fact	1 and 2 who had obtained a decree against the sons of the deceased and the defendant No.
+Fact	3. who had also obtained another decree against them attached the amount payable under the Policy in execution of their two decrees.
+Fact	The plaintiff, thereupon, preferred a claim under the provisions of the Code of Civil Procedure, but her claim was disallowed and the money due under the Policy was rateably distributed among the three execution creditors.
+Fact	Thereafter the present suit was brought by the plaintiff for declaration of her title to the amount payable under the said Policy and for recovery of the money from the creditors.
+Fact	2.
+Fact	In the <ORG> of first instance the plaintiff's suit was contested only on behalf of defendants Nos.
+Fact	1 and 2 and it was held that the money due under the Policy became the property of the plaintiff, on the death of the deceased, and did not form part of the assets of the estate left by him.
+Fact	The decree of the first <ORG> ran as follows: "Plaintiff to get a decree for the sum of Rs.
+Fact	173-0-9 with proportionate costs for plaint and Pleader's fees, whole cost of the suit necessitated by the contest from defendants Nos.
+Fact	1 and 2; and Rs.
+Fact	326-15-3 with proportionate costs for the plaint and Pleader's fee from defendant No.
+RulingByLowerCourt	3".
+RulingByLowerCourt	The lower <ORG> affirmed the decree of the first <ORG>.
+RulingByLowerCourt	The defendant No.
+RulingByLowerCourt	3 does not challenge the decree of the lower <ORG> and, as stated above, the defendants Nos 1 and 2 are the appellants before us.
+Precedent	On their behalf it is contended that having regard to the authorities viz, the cases of <CITATION_295165> 96 Ind.
+Precedent	Cas.
+Precedent	846 : 53 C. 922 : 30 C.W.N.
+Precedent	812 : A.I.R.
+Precedent	1926 Cal.
+Precedent	1009 , <CITATION_1388134> 19 Ind.
+Precedent	Cas 733 : 37 B.
+Precedent	471 : 15 Bom.
+Precedent	L.R.
+Precedent	320 and <CITATION_293176> 25 Ind.
+Precedent	Cas.
+Precedent	236 : 20.
+Precedent	C.L.J.
+Fact	44 : 18 C.W.N.
+Fact	1335, it ought to be held that, having regard to the words used in the Policy, there was no trust created in favour of the plaintiff and that she was not entitled to realise the money in question from <ORG> and that the said money formed part of the assets of the estate of the deceased.
+Fact	On the other hand, it has been contended on behalf of the plaintiff-respondent that she was beneficially interested in the said Policy and that she atone was entitled to enforce the claim arising thereunder.
+Fact	It has further been argued that the Married Woman's Property Act of 1874 applies to this case and that, therefore, it cannot be questioned there was a trust in favour of the plaintiff and that the latter was entitled to realise the money in question from <ORG>.
+RulingByLowerCourt	It has also been contended that under the Code of Civil Procedure the execution creditors were not  entitled to attach the amount of the Policy in execution of their decree.
+RulingByLowerCourt	3.
+Fact	The question depends on whether the plaintiff was entitled to enforce her claim against <ORG>.
+RatioOfTheDecision	If she was, then there could be no question that the money due under the Policy belonged to her and did not form part of the assets of the estate of the deceased.
+RatioOfTheDecision	The plaintiff was, no doubt, the nominee of the deceased; but she was no party to the contract between the deceased and <ORG>.
+RatioOfTheDecision	Under the English Law, if A contracts with B for a benefit to be given to C, although that was the object and purpose of the contract, C may not sue on that contrast unless in certain excepted cases.
+Precedent	The excepted cases are these: Where you can read on the whole of the deed or contract that the contracting party really was a trustee for a third person, then the third person may sue.
+Precedent	An illustrative case of this description is the case of <NAME> v. <NAME> (1844) 4 Hare 67 : 14 L.J.
+Precedent	Ch.
+Precedent	66 : 8 Jur.
+Precedent	1040 : 67 E.R.
+Precedent	564 : 67  R.R.
+Precedent	6.
+Precedent	In that case a man covenanted with the trustee or a person whose name was introduced as trustee that after his death, £80,000 of his property should be handed to that trustee in trust for the natural children of the covenanting party.
+Precedent	It was held by <NAME>, V.C., that, looking at the whole scope and purpose of the deed, it amounted to a declaration of trust by the covenanting party for his natural children and that the latter had a perfect right to sue to enforce the trust, although it wa3 a voluntary trust.
+Precedent	The second exception is the case of children under a marriage settlement, where persons in contemplation of marriage make a settlement by way of contract only for the benefit of, amongst others, the children of the marriage.
+Precedent	In English Law, the children of the marriage are said to be within the marriage consideration; everybody who is considered to be within the immediate purpose and intent of a marriage settlement is treated as a person from whom consideration moves to the contracting party and,  therefore, the children of the marriage are treated as if they themselves, although, of course, they are not then in existence, had given valuable consideration for the contract in the marriage settlement.
+Precedent	This last second exception is referred to by <NAME>, L.J., in the case of <NAME> v. <NAME> (1880) 15 <NAME>h.
+Precedent	D. 228 : 49 L.J.
+Precedent	<NAME>h.
+Precedent	756 : 43 L.T.
+Precedent	135 : 28 W.R. 930 where His Lordship observed as follows: "As a rule, the <ORG> will not enforce a contract as distinguished from a trust at the instance of persons not parties to the contract: <NAME> v. <NAME>ountess of Mulgrave (1836) 2 Keen 81 : 5 L.J.
+Precedent	<NAME>h 335 : 48 E.R.
+Precedent	559 : 44 R.R.
+Precedent	191.
+Precedent	The <ORG> would probably enforce a contract in a marriage settlement at the instance of the children of the marriage, but this is an exception from the general rule in favour of those who are specially the objects of the settlement".
+Precedent	In the case of <NAME> v. <ORG> (1852) 1 Macq.
+Precedent	513 : 2 <NAME>.L.R.
+Precedent	1566 it was held that the mere payment of money by A to B, who is not <NAME>'s agent  with a direction to pay it to C, is revocable and confers no right of action upon C [see <NAME> v. <NAME> (1857) 27 L.J.
+Precedent	Ex.
+Precedent	3 : 114 R.R.
+Precedent	984]; and for the application of the same doctrine in equity: see <NAME> v. <NAME> (1869) 8 Eq.
+Precedent	290 : 38 L.J.
+Precedent	Ch.
+Precedent	538 : 20 L.T.
+Precedent	812.
+Precedent	It is unnecessary for me to multiply cases but the law on the subject will be found in Halsbury's Laws of England, Vol.
+Precedent	7, page 342, and the illustrative cases collected in <ORG>, Vol.
+Precedent	12, page 44 et seq.
+Precedent	4.
+Precedent	It is said, however, that in India the law is somewhat different and in support of this contention the case of <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 is referred to.
+Precedent	That case was decided after the decision of <ORG> in the case of <CITATION_1020411> 7 Ind.
+Precedent	Cas.
+Precedent	237 : 32 A.
+Precedent	410 : 37 I.A.
+Precedent	152 : 14 C.W.N.
+Precedent	865 : 7 A.L.J.
+Precedent	871 : (1910) M.W.N.
+Precedent	313 : 8 M.L.T.
+Precedent	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	614 (P.C).
+Precedent	As I read this last case, it was a case  of a contract between A and B, whereby it was intended to secure a benefit to <NAME>, as a cestui que trust and the question arose whether <NAME> was entitled to sue in his own right to enforce the trust.
+Precedent	Their Lordships of the Judicial <NAME>ommittee held that under the agreement executed by A certain immoveable property was specifically charged for the payment of allowance, which A bound himself to pay to the plaintiff and that the plaintiff was the only person beneficially entitled under it.
+Precedent	The plaintiff was <NAME>.
+Precedent	Their Lordships observed as follows: "First, it is contended, on the authority of <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.Q.B.
+Precedent	265 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 124 R.R.
+Precedent	610, that as the plaintiff was no party to the agreement, she cannot take advantage of its provisions.
+Precedent	With reference to this it is enough to say that the case relied upon was an action of assumpsit, and that the rule of common law on the basis of which it was dismissed is not, in their Lordships' opinio n, applicable to the facts and circumstances of the present case.
+Precedent	Here the agreement executed by the defendant specifically charges immoveable property for the allowance which he binds himself to pay to the plaintiff; she is the only person beneficially entitled under it.
+Precedent	In their Lordships' judgment, although no party to the document, she is clearly entitled to proceed in equity to enforce her claim."
+Precedent	5.
+Precedent	In the case of <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 the transferee of a debtor's liability had acknowledged his obligation to the creditor for the debt to be paid by him under the provisions of a registered instrument, conveying to him all the moveable and immoveable properties of the original debtor and the acknowledgment had been communicated to the creditor and accepted by him.
+Precedent	In these circumstances it was held that the obligation undertaken by the transferee was for and intended to be for the benefit of the creditor and the creditor was entitle d to sue the transferee on the registered instrument.
+Precedent	The facts in <NAME> case 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 were somewhat peculiar and, at first sight, it may seem that the decision proceeded on the difference between 'consideration' as defined in English Law and as defined in the Indian Contract Act .
+Precedent	But a closer examination of the case justifies, in my opinion, the criticism passed on it by <NAME>, J., in the case of <CITATION_295165> 96 Ind.
+Precedent	Cas.
+Precedent	846 : 53 C. 922 : 30 C.W.N.
+Precedent	812 : A.I.R.
+Precedent	1926 Cal.
+Precedent	1009 and the judgment, when properly analysed, does not really go beyond the terms of the actual decision of their Lordships of <ORG> in the case of <CITATION_1020411> 7 Ind.
+Precedent	Cas.
+Precedent	237 : 32 A.
+Precedent	410 : 37 I.A.
+Precedent	152 : 14 C.W.N.
+Precedent	865 : 7 A.L.J.
+Precedent	871 : (1910) M.W.N.
+Precedent	313 : 8 M.L.T.
+Precedent	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	614 (P.C).
+Precedent	The same remarks apply to the case of <CITATION_1916066> 36 Ind.
+Precedent	Cas.
+Precedent	792 : 22 C.W.N.
+Precedent	279 : 27 C.L.J.
+Precedent	483.
+Fact	In this connexion  reference may be made to an English case where the facts were as follows: A tradesman made a Will, bequeathing an interest to <NA<NA<NAME>E>E>, his wife's sister.
+Fact	<NA<NA<NAME>E>E> married.
+Fact	Her <NAME> and the testator entered into partnership articles with a proviso that if the testator should die during the partnership, his widow should be entitled to his interest.
+Precedent	It was held by <ORG>, [Page v. <NA<NAME>E> (1852) 10 Hare 163 : 68 E.R.
+Precedent	882 : 90 R.R.
+Precedent	314] that the effect of the agreement between <NA<NA<NAME>E>E>'s <NAME> and the testator was to create an obligation in equity upon the surviving partner and in that respect it did not differ from a trust, i.e., that the partnership articles created a trust in favour of the widow.
+Precedent	He further held that a trust could not be the less capable of being enforced because it was founded on contract.
+Precedent	5.
+Precedent	The point now before us for determination is, in my opinion, covered by authority, see <NAME> v. <NA<NA<NAME>E>E>utual Reserve Fund Life Association (1892) 1 Q.B.
+Precedent	147 : 61 L.J.Q.B.
+Precedent	128 : 66 L.T.
+Precedent	220 : 40 W.R. 230 : 56 J.P. 180.
+Argument	T here the money due under a Life Assurance Policy was payable to a wife, if living, otherwise to the legal personal representatives of the assured.
+RatioOfTheDecision	Lord <NAME>, M.R., observed as follows: "The contract is with the <NAME>, and with no body else.
+RatioOfTheDecision	The wife is no party to it.
+RatioOfTheDecision	Apart from the Statute, the right to sue on such a contract would clearly pass to the legal personal representatives of the <NAME>.
+RatioOfTheDecision	The promise is one which could only take effect upon his death and, therefore, it must be meant to be enforced by them.
+RatioOfTheDecision	It does not seem to me that, apart from the Statute, such a Policy would create any trust in favour of the wife.
+RatioOfTheDecision	<NAME> might have altered the destination of the money at any time, and might have dealt with it by Will or settlement...I think that, apart from the Statute, no interest would have passed to the wife by reason merely of her being named in the Policy".
+Precedent	This case has been followed in Bombay in the case of <CITATION_1388134> 19 Ind.
+Precedent	Cas.
+Precedent	736 37 B.
+Precedent	471 : 15 Bom.
+Precedent	L.R.
+Precedent	320 and in  Calcutta in the case of <CITATION_293176> 25 Ind.
+Precedent	Cas.
+Precedent	236 : 20 C.L.J.
+Precedent	44 : 18 C.W.N.
+Precedent	1335.
+RatioOfTheDecision	In my opinion I can see nothing in the present case which would justify me to distinguish it from the cases referred to above.
+RatioOfTheDecision	The result is that the first contention on behalf of the respondent must be negatived.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The second contention is that the Married Woman's Property Act of 1874 is applicable to this case and that, by virtue of Section 6 of the Act, a trust has been created in favour of the plaintiff.
+RatioOfTheDecision	Of course, if this contention is well-founded, the plaintiff is entitled to succeed.
+Precedent	In my opinion, the correct rule has been laid down by <NAME> and <NAME>, JJ., in the case of <CITATION_293176> 25 Ind.
+Precedent	Cas.
+Precedent	236 : 20 C.L.J.
+Precedent	44 : 18 C.W.N.
+Precedent	1335 and for the reasons given by them, I am of opinion that the Married Woman's Property Act does not apply to this case and that the plaintiff cannot invoke in aid the provision of Section 6 thereof.
+Precedent	In other words, we ought not to follow the decision in <CITATION_2787 5> 20 Ind.
+Precedent	Cas.
+Precedent	934 : 37 M. 483 : 25 M.L.J.
+Precedent	65 : (1913) M.W.N.
+Precedent	697 : 14 M.L.T.
+RatioOfTheDecision	The second contention urged on behalf of the respondent must also be negatived.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The third contention is absolutely devoid of substance and there is nothing in Section 60 , Civil Procedure Code, which could prevent the creditors of the sons of the deceased from attaching the money payable under the Policy.
+RatioOfTheDecision	8.
+RulingByPresentCourt	In my opinion, this appeal succeeds and must be allowed with costs.
+RatioOfTheDecision	The defendants Nos.
+RatioOfTheDecision	1 and 2 will also be entitled to the costs in the Courts below.
+Precedent	<NAME>, C.J.
+Precedent	9.
+Precedent	I agree.
+Precedent	Clause (d) of Section 2 of the Contract Act widens the definition of "consideration" so as to enable a party to a contract to enforce the same in India in certain cases in which the English Law would regard that party as the recipient of a purely voluntary promise and would refuse to him a right of action on the ground of nudum pactum.
+Precedent	Not only, however, is there nothing in Section 2 to encourage the idea that contracts can be enforced by a person  who is not a party to the contract, but this notion is rigidly excluded by the definition of 'promisor' and 'promisee'.
+Precedent	The decision of <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.Q.B.
+Precedent	265 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 124 R.R.
+Precedent	610 was a decision at law and was unaffected by the rules of equity.
+Precedent	For this reason <ORG> in <CITATION_1020411> 7 Ind.
+Precedent	Cas.
+Precedent	237 : 32 A.
+Precedent	410 : 37 I.A.
+Precedent	152 : 14 C.W.N.
+Precedent	865 : 7 A.L.J.
+Precedent	871 : (1910) M.W.N.
+Precedent	313 : 8 M.L.T.
+Precedent	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	614 (P.C) regarded it as inapplicable to the facts of the case before them where the agreement included a specific charge on immoveable property.
+Precedent	In my judgment it is erroneous on the basis of that case or on the observations of <NAME>, C.J., in <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 to suppose that in India persons who are not parties to a contract can be admitted to sue thereon, except where there is an obl igation in equity amounting to a trust arising out of the contract.
+Precedent	I say nothing as to whether special rules of law may be applicable to communities among whom marriages are contracted for minors by parents and guardians, but putting aside such cases, I see no reason to think that the law in India contains a series of exceptions to the principle that a contract can only be sued upon as such by a party thereto.
+Precedent	A trust may be founded on a contract and is capable of being enforced by a party to the trust in appropriate proceedings as was pointed out in <NAME> v. <NAME> (1852) 10 Hare 163 : 68 E.R.
+Precedent	882 : 90 R.R.
+Precedent	314.
+Precedent	It is another matter altogether to say that a person not a party to a contract may bring a suit upon the contract by reason of near relationship to the promisee.
+Precedent	Nearness of relationship is a fact which, like many other facts, cannot be disregarded in determining the question whether or not a trust arises out of or is founded on a contract, but it has no other importance.
+Precedent	Cases such as the present can b e decided, and ought to be decided, on the settled principles of equity.
+Precedent	In <NAME>'s case (1892) 1 Q.B.
+Precedent	147 : 61 L.J.Q.B.
+Precedent	128 : 66 L.T.
+Precedent	220 : 40 W.R. 230 : 56 J.P. 180 the <ORG> considered whether the Policy amounted to a trust for the widow and, having found that it did not, determined the matter by the ordinary law of contract.
+RatioOfTheDecision	This, in my judgment, is the only method which can be justified in principle.
+Precedent	To hark back to such cases as <NAME> v. <NAME> (1688) 2 Lew.
+Precedent	210 : 83 E.R.
+Precedent	523 and <NAME> v. <NAME> (1680) 1 Ven.
+Precedent	6 : 86 E.R.
+Precedent	5 is, in my judgment, a clear mistake and the mistake is not cured by the circumstance that under the Contract Act , the definition of "consideration" is wider than in English Law.

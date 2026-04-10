@@ -1,0 +1,378 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <NAME> & ANR.
+Precedent	DATE OF JUDGMENT08/12/1971 BENCH: <NAME>, A.N.
+Precedent	BENCH: <NAME>, A.N.
+Precedent	<NAME>, D.G.
+Precedent	CITATION: 1972 AIR 1767 1972 SCR (2) 799 1972 SCC (1) 409 CITATOR INFO : R 1979 SC1676 (5) RF 1980 SC2086 (7) F 1984 SC 885 (27) ACT: Civil Service--state Rules providing for 'methods' of recruitment by selection, or competitive examination--Appointment of Class III Officer to Class I post, in the absence of 'rules' of recruitment--Validiry--If could be treated as appointment of 'local candidate'.
+Precedent	Constitution of India, 1950, Arts.
+Precedent	14, 16, 162 and 309--Appointment if violative of Arts.
+Precedent	14 and 16--Scope of Arts.
+Precedent	162 and 309.
+RulingByLowerCourt	HEADNOTE: In 1957, the respondent, who was working as an Assistant Geologist in Class III Service, was sent on deputation as Vice-Principal of <ORG>, in the State From 15th February, 1958, he was also doing the duties of the Principal.
+RulingByLowerCourt	In September, 1958, <ORG> appointed him as officiating Principal but on 3rd April 1959 mo dified the order and appointed him as temporary Officiating Principal with effect from the 15th February, 1958.
+RulingByLowerCourt	On 9th January, 1967, the Mysore Education Department Service Rules were published by which appointment of the respondent, with effect from 15th February, 1958 was regu- larised.
+RulingByLowerCourt	The appellant, who was the Principal of a Government <ORG>, and was in Class 11 Service, contended that the respondent's appointment was in breach of the Mysore State Civil Services (General Recruitment) Rules, 1957, and the Mysore Education Department Services (Technical Education Department Recruitment) Rules, 1964, and offended Arts, 14 and 16 of the Constitution.
+RulingByLowerCourt	<ORG> held that the respondent was a local candidate within the meaning of the Mysore Government Seniority Rules, 1957, and therefore his appointment could be regularised with effect from any date.
+Fact	Allowing the appeal to this <ORG>, HELD : (1) Rule 3 of the Mysore State Civil Services (General Recruitment) Rules, 1957, which were in force from Fe bruary 1, 1958, speaks of the method of recruitment to <ORG> by competitive examination, or by selection, or by promotion.
+Fact	The respondent's appointment was not by competitive examination nor was it a case of direct recruitment either in the year 1958 or at any time.
+Fact	If it were a case of direct recruitment there would have been advertisements for the post, and candidate would have been selected on merit.
+RulingByLowerCourt	[808 E-H] (2)The appointment of the respondent could not be said to be by promotion because, under r. 4 of the 1957 Rules, it should be on the basis of merit and suitability or on the basis of seniority-cum-merit from among persons eligible for promotion.
+RulingByLowerCourt	Moreover, the <ORG> contended that it was not a case of promotion, but was a case of selection on the basis that the respondent was the only person fit for the post.
+Fact	[806 E-G; 811 C-D] (3)It is true that the rules of recruitment were not made until 1964.
+RatioOfTheDecision	Even sothe three'-methods of recruitment are specific.
+RatioOfTheDecision	If it is a case of electionit sho uld have been after consulting <ORG> orthe <ORG>, or' the ;appointing authority, and should have been made after inviting applications.
+RatioOfTheDecision	'To say that the 800 appellant was the only eligible candidate, is to deny the rights of others to apply.
+RatioOfTheDecision	[805 F; 808 E-H] (4)Rule 16 of the 1957 rules provides for relaxation of rules relating to appointment and qualifications, and one of the instances of relaxation is when the <ORG>, for reasons to be recorded in writing, appoints an officer holding a post of equivalent grade by transfer from any other service of the <ORG>.
+RatioOfTheDecision	But, in the present case, the respondent did not belong to a grade which Could be said to be equivalent, within the meaning of r. 8(1) of the Rules, to that of the Principal of <ORG>.
+RatioOfTheDecision	Therefore, it could not be a case of transfer.
+RatioOfTheDecision	In fact, the rule was neither available, nor acted on the present case.
+RatioOfTheDecision	[806 G-H; 807 A-C] (5)The <ORG> <ORG> has no power to make a rule for regular rising  an appointment under Art.
+RatioOfTheDecision	309 of the Constitution, since the Article speaks of rules for appointment and general conditions of service, Regu- larisation of appointment by stating that "notwithstanding any rules the appointment is regularised" strikes at the root of existing rules prescribing promotion, selection or competitive examination as methods of recruitment.
+RatioOfTheDecision	Therefore the regularisation was in violation of the Article.
+RatioOfTheDecision	[808 <CITATION_1237844> ,  5 S.C.R.
+Fact	190 and <CITATION_125847> ,  1 S.C.R.
+Fact	994, referred to.
+RulingByLowerCourt	(6)(a) The contention that a rule under Art.
+RatioOfTheDecision	309 for regularisation would itself be a form of recruitment read with reference to the power under Art.
+RatioOfTheDecision	162 is unsound, because regularisation is not a form of appointment.
+Statute	[809 G] (b)In the present case, the regularisation with effect from February 15, 1958, notwithstanding any rules cannot be said to be in exercise of the power under Art.
+Fact	162.
+RatioOfTheDecision	Articles 162 and 309 operate in different areas, and when the Government acted under Art.
+RatioOfTheDecision	309 they cannot be  said to have acted also Linder Art.
+RatioOfTheDecision	162 [809 G-H; 810 A-B] (c)If the appointment itself was in infraction of the Rules or in violation of the provisions of the Constitution, the illegality cannot be regularised..
+RatioOfTheDecision	Ratification or regularisation is possible of an act which is within the power and province of the authority and there has been some noncompliance with procedure which does not go to the root of the appointment.
+RatioOfTheDecision	Article 162 does not confer either the power of regularisation nor the power to make rules for the recruitment or conditions of service.
+RatioOfTheDecision	There may be a rule for person or one post, but rules are meant for recruitment and conditions of service, and not for the purpose of validating illegal appointments or promotions or transfer.
+Precedent	[810 B-D; 814 <CITATION_1476635> .
+Precedent	3 S.C.R.
+RatioOfTheDecision	682, followed.
+RatioOfTheDecision	(7)(a) <ORG> erred in holding that the respondent was a local candidate within the meaning of the 1957 rules.
+RatioOfTheDecision	A local candidate is a temporary government servant not appointed regularly as per rules  of recruitment to that service.
+RatioOfTheDecision	But two government servants cannot be appointed substantively to the same permanent post at the same time except as a temporary measure.
+RatioOfTheDecision	The respondent, in the present case, was a permanent government servant and was on deputation having a lien on his post as Assistant Lecturer Geology when he was appointed to officiate as Principal.
+RatioOfTheDecision	Therefore, it cannot be said that he was substantively appointed to the post of Principal.
+RatioOfTheDecision	If the respondent was appointed as 801 a temporary measure to the post of Principal, it would not therefore be as a local candidate, but as a Government servant appointed to another post as a temporary measure.
+RatioOfTheDecision	[810 D-E; 813 A-C] (i)Moreover the orders of appointment as officiating Principal in September 1958 and the modified order in April 1959, state that proposals to fill the post by advertisement through <ORG> should be forwarded.
+RatioOfTheDecision	They show that the respondent was not treated as a local candidate, but was appointed as a tempo rary measure till proper appointment is made through <ORG> from persons possessing the necessary qualifications.
+RatioOfTheDecision	[811 G-H] (8)When <ORG> agreed for regularisament ofthe respondent, but only to regularise the appointment to the post of Principal.
+Precedent	[813 F-G] (9)The <ORG> was wrong in holding that the appointment of the respondent did not offend Arts.
+Precedent	14 and 16.
+Precedent	Under the 1964-rules the recruitment for the post was by promotion from the cadre of Heads of sections or by direct 'recruitment and Principals of Polytechnics and Heads of sections belonged to a common cadre and should have been considered for the appointment.
+Precedent	As the appellant and others were not given equal opportunity and treatment in regard to the appointment, there was discrimination.
+Precedent	[814 F-H; 815 A- F] JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Precedent	2357 of 1968.
+Precedent	Appeal by special leave from the judgment and order dated September 12, 1968 of the Mysore <ORG> in Writ P etition No.
+Precedent	473 of 1967.
+Precedent	<NAME>, <NAME> and <NAME>, for the appellant.
+Precedent	<NAME>, <NAME>, <NAME> and <NAME>, for respondent No.
+Precedent	1.
+Precedent	<NAME> and <NAME>, for respondent No.
+Precedent	2.
+Precedent	The Judgment of the Court was delivered by <ORG> This is an appeal by special leave from the judgement dated 12 September, 1968 of <ORG> dismissing by a common judgment a group of petitions.
+Fact	The appellant challenged the Mysore Education Department Service Rules dated 9 February 1967 published in the notification No.
+Fact	ED.
+Fact	91DGO 58, on 9 February, 1967.
+Fact	The Rules impeached by the appellant are as follows "In exercise of the powers conferred by the proviso to Article 309 of the Constitution of India, and all other powers enabling him in this behalf, the Governor of Mysore hereby makes the following rules, namely :-  1.Title : These rules may be called the Mysore Education Department Services (Technical Education Department (Special Recruitment) Rules, 1967.
+Fact	2.Provisions relating to regularisation of appointment of Principal, <ORG>, Ooragaum, Kolar Gold Fields.
+Fact	Notwithstanding any rule made under the proviso to article 309 of the Constitution of India, or any other rules or Order in force at any time, Dr. <NAME>, B.Sc.
+Fact	(Hons.)
+Fact	Ph.D.
+Fact	(Lond.)
+Fact	F.G.S.
+Fact	shall be deemed to have been regularly appointed as Principal, <ORG>, Ooragaum, Kolar Gold Fields, with effect from 15-2-1958.
+Fact	By order and in the name of the Governor of Mysore Sd/- <NAME> Under Secretary to <ORG>".
+Fact	The appellant was posted as 'additional in-charge' of <ORG>, Bangalore.
+Fact	There were other petitions before <ORG> similarly challenging the aforesaid Service Rule.
+Fact	The petitioners in those cases were the Principal of the <ORG> at Mysore; Head of the Mechanical Engineering Section, <ORG>, Mysore; Principal of the <ORG>, <NAME>; and Principal of <ORG>, Devangere.
+Fact	The appe llant joined as lecturer in Physics at <ORG> in 1941.
+Fact	In 1946 the appellant took a post graduate degree in Chemical Engineering at <ORG>.
+Fact	The appellant was then posted as Lecturer in Chemical Engineering, <ORG>, Bangalore.
+Fact	In 1949 the appellant was promoted and posted as Superintendent (Principal), <ORG>, Devangere in the grade of Rs.
+Fact	200-20-300.
+Fact	In 1954 the appellant was posted as Principal, <ORG> at Hassan in the grade of Rs.
+Fact	200-20-300.
+Fact	The appellant was confirmed in the year 1957 in the grade of Rs.
+Fact	200-20-300 in Class II with effect from 12 December, 1949.
+Fact	On 1 January, 1957 the pay scale of the appellant was revised at Rs.
+Fact	250-600.
+Fact	The respondent <NAME> graduated and was appointed through <ORG> in the year 1951 as an Assistant Geologist in <ORG> in <ORG> in the grade of Rs.
+Fact	125-10-175.
+Fact	803  The respondent went to <ORG> ngdom and returned in 1957 with a Ph.D. in Geology.
+Fact	In the month of July, 1957 the establishment of <ORG> at Kolar Gold Fields was sanctioned in <ORG>.
+Fact	The respondent who was in 1957 a Lecturer in <ORG> was deputed for appointment is Vice Principal of <ORG> at Kolar Gold Fields.
+Fact	On 15 February, 1958 the respondent was asked to perform the duties of the Principal.
+Fact	On 22 July, 1958 <NAME> son who was the Principal of <ORG> at Kolar Gold Fields left.
+Fact	On 25 September, 1958 the respondent was appointed officiating Principal of <ORG> on a temporary basis with effect from 22 July, 1958.
+Fact	On 3 July, 1959 the respondent was appointed Principal with effect from 15 February, 1958.
+Fact	<ORG> in the year 1959 wrote to <ORG> that the respondent did not possess qualifications and proposed prescribed qualifications for the- Principal of <ORG>.
+Fact	Qualifications were proposed by the Dir <ORG> in the month of August, 1959.
+Fact	In the month of August, 1960 the respondent was promoted in his parent <ORG> as Geologist.
+Fact	In the year 1962 the appellant made an application under Article 226 challenging the officiating appointment of the respondent.
+Fact	<ORG> on 17 November, 1963 dismissed the appellant's application as premature, because the <ORG> was going to frame rules for recruitment for the <ORG>.
+Fact	In the month of May, 1964 rules of recruitment were framed by the <ORG> for the <ORG> of Technical Education.
+Fact	In the year 1967 Rules were made under Article 309 of the Constitution regularising the appointment of the respondent as Principal, <ORG> with effect from 15 February, 1958.
+Fact	The Kolar Gold Fields, <ORG> was set up in the month of July, 1957.
+Fact	The respondent was sent in the month of August, 1957 on deputation for two years as Vice Principal of the <ORG>.
+Fact	The respondent was then working as an As sistant Geologist.
+Fact	The then Principal of <ORG> was <NAME>.
+Fact	He was employed on a part time basis on an allowance of Rs.
+Fact	200 p.m. On 22 July, 1958 when <NAME> left the respondent who was the Vice Principal had been doing the duties of the Principal since 15 February, 1958.
+Fact	<ORG> on 25 September, 1958 appointed the respondent <NAME> as officiating Principal with effect from 22 July, 1958 in the grade of Rs.
+Fact	500-30-  800.
+Fact	On 3 April, 1958 <ORG> in modification of the notification of 25 September, 1958 appointed the respondent as temporary officiating Principal with effect from 15 February, 1958.
+Fact	The impugned rules regularising the Appointment of the respondent with effect from 15 February, 1958 came into existence on 9 February, 1967.
+Fact	The appellant contended that the respondent was governed by the Mysore Service Regulations, 1943, the Mysore State Civil Services (General Recruitment) Rules, 1957 as well as the Mysore Education Department Services (Technical Educat <ORG>, 19 4.
+RulingByLowerCourt	The appellant also contended that the respondent was in Class III service, and, therefore, the impeached regularisation of the respondent's appointment was in breach of the aforesaid Rules and Regulations and offended Articles 14 and 16 of the Constitution.
+RulingByLowerCourt	The contention of the respondent before <ORG> was that the appointment to a civil post could be made in three ways : one by promotion; second by direct recruitment; and the third by regularisation of an appointment which had been initially made irregularly.
+RulingByLowerCourt	It Was also contended in <ORG>, though there was no suggestion in the affidavit or in the return in answer to the petition, that the respondent was a local candidate in service, and, therefore, under rule 8 (27A) of the Mysore Civil Services Rules, 1957 the rules would not apply to the respondent and the regularisation ",as valid.
+RulingByLowerCourt	An additional argument was advanced in this Court that under Article 162 of the Constitution regularisation would  in itself be a mode of exercise of power of appointment of <ORG>.
+RulingByLowerCourt	Regularisation was said to have the consequence of impressing upon the appointment the quality of permanence and the elimination of precariousness.
+RulingByLowerCourt	According to the <ORG> such an appointment even if made in the shape of rules under Article 309 could not be attacked on the ground of being made for one person just as a piece of legislation could not be attacked on the ground of being made for a particular person or entity.
+RulingByLowerCourt	<ORG> held that the respondent was a local candi- date within the meaning of Rule 1-A of the Mysore Government Seniority Rules, 1957 and therefore the appointment of the respondent could be regularised with effect from any date.
+RulingByLowerCourt	<ORG> expressed no opinion on the question of seniority among the several petitioners inter se.
+RulingByLowerCourt	On that basis <ORG> held that there could be a temporary employment and recognition of a temporary servant as quasi permanent employee without violating Articles  14 and 16.
+RulingByLowerCourt	<ORG> held that the appointment of a local candidate could not be said to be discriminatory or a denial of equal opportunity.
+RulingByLowerCourt	<ORG> also held that when the respondent was appointed temporarily in 1958 there were no qualifications prescribed for the post and there were no cadre and recruitment rules.
+RulingByLowerCourt	805  On 17 August, 1957 when the respondent was sent on depu- tation as Vice Principal his post was counted as that of a lecturer.
+RulingByLowerCourt	When <NAME> left <ORG> and when the respondent was asked to be in charge as Principal and thereafter when the respondent was in the month of September, 1958 appointed to officiate as Principal which was Class I service with effect from 15 February, 1958 the respondent had been on deputation from foreign service and in the affidavit it was stated that it was Class III service to which the respondent belonged and the appointment of the respondent to the post of Principal of <ORG> was challenged by the appellant to amount to pro motion from Class III to Class I.
+RulingByLowerCourt	Under rule 57 of the Mysore Civil Service Regulations, 1943 an officer could be sent on deputation on such temporary duty for the performance of which there is no permanently or temporarily sanctioned appointment.
+Fact	Deputation however was not permissible under Rule 57 without the sanction of the <ORG>.
+Fact	The question here is whether an officer like the respondent who was sent on deputation could be said not to be governed by any rule and be a local candidate as contended for by the <ORG>.
+Fact	At the relevant time in the month of February, 1958 the Mysore <ORG> Civil Service (General Recruitment) Rules, 1957 were in existence inasmuch as those rules came into force on 1 February, 1958.
+Fact	The Mysore <ORG> Civil Services Rules, 1957 defined 'direct recruitment', 'promotion' and 'selection'.
+Fact	Direct recruitment would be appointment otherwise than by promotion or transfer.
+Fact	Promotion would be appointment of a <ORG> servant from a post, grade of service or class of service, to a hi gher post or higher grade of service or higher class of service.
+Fact	Selection would be after consulting the <ORG> or the <ORG> or <ORG>, or the appointing <ORG>.
+Precedent	Rule 3 of the Mysore State Civil Services Rules, 1957 speaks of method of recruitment to <ORG> to be by competitive examination or by selection or by promotion.
+Precedent	Judged by these rules the appointment in the present case could be said to be only by promotion.
+Precedent	Indisputably there was neither any competitive examination not any selection nor it was a case of direct recruitment.
+Precedent	Sub-clauses (a) and (b) of Rule 4(3) of the Mysore State Civil Services Rules, 1957 lay down the restrictions as to recruitment by promotion.
+Fact	The restrictions are two-fold in sub-clauses (a) and (b).
+Fact	First, if it :is to a selection post or to a post to be filled by promotion or by selection of a person on the basis of merit and suitability in all respects to discharge the duties of the post it is with due regard to seniority from among p ersons eligible for promotion.
+Fact	The second is recruitment by promotion to a post other than that referred to in sub- clause (1) by selection of a person on the basis of seniority-cum-merit, that is seniority subject to the fitness of the candidate to discharge the duties of the post from among persons eligible for promotion.
+Fact	In 1958 the post of the Principal of <ORG> was a penurious post.
+Fact	The pay of the Principal was Rs.
+Fact	500-800 at that time.
+Fact	The respondent was getting a salary of Rs.
+Fact	165 plus Rs.
+Fact	75, in the month of February 1958 and his grade of scale was from Rs.
+Fact	125-175.
+Fact	The respondent had been substantively appointed to the post of a lecturer in Geology from which he was sent on deputation.
+RulingByLowerCourt	The respondent under Rule 17 of the General Rules regarding lien on appointment and admissibility of allowances could not be appointed substantively to two or more permanent posts at the same time except as a temporary measure.
+RulingByLowerCourt	Then again under Rule 20(1) of the General Rules regarding lien on appointment  the <ORG> shall suspend the lien of a <ORG> servant on a permanent post which he holds substantively if he is appointed in a substantive capacity.
+Fact	In the month of February, 1958 the respondent was on deputation and having a lien on post as Assistant Lecturer of Geology when he was appointed to officiate as Principal, <ORG>, and, therefore, it could not be said that he was substantively appointed to the post of a Principal.
+Fact	The appointment of the respondent as officiating Principal in the month of February, 1958 could be only by promotion.
+Fact	The two impediments to the case of recruitment by promotion have already been noticed in rule 4(3) sub-clauses (a) and  (b) of the Mysore State Civil Services (General Recruitment) Rules, 1957.
+RulingByPresentCourt	Under sub-clause (a) it is to be on the basis of merit and suitability with due regard to seniority from among persons eligible for promotion.
+RulingByPresentCourt	Under sub-clause (b) it is to be on the basis of seniority-cum-merit from among persons eligible for promotion.
+RatioOfTheDecision	It is no t the case of the <ORG> that it was a case of promotion because there is no material to show that merit and suitability in all respects with due regard to seniority from among persons eligible for promotion were considered.
+Statute	The Mysore <ORG> Civil Services Rules, 1957 in Rule 16 speaks of relaxation of rules relating to appointment and qualifications and one of the instances of relaxation is that the <ORG> may for reasons to be recorded in writing (a) (i) appoint to a post an officer of <ORG>, <ORG> or <ORG> or <ORG> of any other <ORG> and (ii) an officer holding a post of an equivalent grade, by transfer, from any other service of the <ORG>.
+Statute	Equivalent grade  -fined in the more Civil Services Rules 1957 which came into effect on 10 February, 1958.
+Statute	Rule 8(1) of the Mysore Civil Services Rules, 1958 speaks of class and grade.
+Statute	Appointments are said to be in the same 'Class' when they are in the same department, and bear the same designat ion, or have, been declared by <ORG> to be in the same, class.
+Statute	Appointments in the same class are sometimes divided into 'grades' according to pay.
+Argument	The post of <ORG> was said to be Class 1.
+Argument	It was said that in the month of February, 1958 there were no classes.
+Argument	But the respondent did not belong to a grade which could be said to be equivalent grade to that of the <ORG>.
+RatioOfTheDecision	Therefore it could not be a case of transfer within the meaning of the aforesaid Rule 16.
+RatioOfTheDecision	The Mysore Technical Education Rules which came into existence on 5 May, 1964 referred to two classes and the Principal, <ORG> was in Class I and the Heads or Principal of Polytechnics were in Class I.
+Fact	In 1964 the post of Assistant Geologist was in Class III and not identical in rank.
+Argument	The respondent alleged that he was appointed temporarily to the post of Principal, <ORG> in February, 1958 and thereafter he was appointed under Article 162 of the Constitution because of his qualifications.
+Argument	It  will appear from the affidavit evidence that the appellant in 1957 was Principal of <ORG> and was in the grade, of Rs.
+Fact	200-20-300.
+Fact	The respondent was in 1956 an Assistant Geologist at a salary of Rs.
+Fact	165/- in the scale of Rs.
+Fact	125-10-175.
+Fact	In 1964 the appellant was in Class III under the 1964 Rules as Principal of Polytechnic whereas the respondent was in the substantive post of Assistant Geologist which under the 1964 Rules was in Class 111.
+RatioOfTheDecision	Therefore when the appointment of the respondent was attempted to be regularised with effect from 1958 the respondent was being placed at a position of advantage.
+RatioOfTheDecision	The appointment of the respondent by promotion or transfer is inherently indefensible.
+Fact	The respondent was in Class III service.
+Fact	He was being appointed to Class 1.
+Fact	If it were a case of promotion persons in the same grade and seniority and merit were to be considered.
+Fact	The appellant was senior to the respondent.
+Fact	There were other petitioners before <ORG> who were senior to  the respondent.
+Fact	When the appellant made an application to <ORG> in the year 1962 the application was dismissed because it was found to be premature as the <ORG> was preparing the cadre and recruitment rules.
+RulingByLowerCourt	<ORG> left it open and said if and when the appointment was regularised it would be open to the appellant to take such steps as law permits.
+RulingByLowerCourt	808  It was contended on behalf of the <ORG> that under Article 309 of the Constitution the <ORG> has power to make a rule regularising the appointment.
+Fact	Shelter was taken behind Article 162 of the Constitution andthe power of the <ORG> to appoint.
+Fact	No one can deny thepower of the <ORG> to appoint.
+RatioOfTheDecision	If it were a case of direct appointment or if it were a case of appointment of a candidateby competitive examination or if it were a case of appointment by selection recourse to rule under Article 309 for regularisation would not be necessary.
+RatioOfTheDecision	Assume that Rules under Article 309 could be made in respect of appoint- ment of one man but  there are two limitations.
+RatioOfTheDecision	Article 309 speaks of rules for appointment and general conditions of service.
+RatioOfTheDecision	Regularisation of appointment by stating that notwithstanding any rules the appointment is regularised strikes at the root of the rules and if the effect of the regularisation is to nullify the operation and effectiveness of the rules, the rule itself is open to criticism on the ground that it is in violation of current rules.
+RulingByPresentCourt	Therefore the relevant rules at the material time as to promotion and appointment are infringed and the impeached rule cannot be permitted to stand to operate as a regularisation of appointment of one person in utter defiance of rules requiring consideration of seniority and merit in the case of promotion and consideration of appointment by selection or by competitive examination.
+Fact	It was contended on behalf of the <ORG> that Rule 3 of the Mysore <ORG> Civil Services Rules, 1957 spoke of method of recruitment to be by competitive examination, or by selection, or by promotion.
+Fact	The m ethod of recruitment and qualifications for each <ORG> Civil Service were to be set forth in the rules of recruitment but there were no rules until the year 1964.
+Fact	In 1964 the rule spoke of the Principal of <ORG> to be Class I and the method of recruitment for the Principal of <ORG> was to fill up the post by promotion from the cadre of Heads of Sections or by direct recruitment.
+Fact	It was said on behalf of the respondent that he was the only eligible candidate in 1964, and, therefore, his appointment was valid.
+Fact	This is opposed to facts.
+Fact	It is not a case of direct recruitment in the year 1958 or at any time.
+Fact	The <ORG> made rules in the year 1967 to regularise the appointment from the month of February, 1958.
+Fact	Again, if it were a case of direct recruitment one Would expect proper materials for the direct recruitment.
+Fact	There should be advertisements for the post.
+Fact	Candidates have to be selected.
+RatioOfTheDecision	Their respective merits would have to be considered.
+RatioOfTheDecision	To say that the appellant was the only eligible can didate is to deny the rights of others to apply for such eligibility tests.
+Precedent	Counsel on behalf of the <ORG> relied on the decision of this <ORG> in <CITATION_1237844> (1) (1)  5 S.C.R.
+Precedent	190.
+Precedent	809  and the observations at page 201 of the report : "That the <ORG> have to employ temporary servants to satisfy the needs of a particular contingency and such employment would be perfectly legitimate."
+RulingByLowerCourt	No exception could ordinarily be taken to such appointment.
+RulingByLowerCourt	The appointment in the present case does not fall under that category.
+RulingByLowerCourt	The appointment was in breach of rules as a case of promotion.
+RulingByLowerCourt	It was not a case of direct recruitment.
+RulingByLowerCourt	It was not a case of temporary appointment.
+RulingByLowerCourt	It was not a case of appointment of a local candidate.
+RulingByLowerCourt	This <ORG> in the case of <CITATION_125847> etc.
+RulingByLowerCourt	(1) dealt with a rule under Article 309 to the effect that the respondents in that case having been invalidly retired should have been validly retired from service on superannuation.
+RulingByLowerCourt	The notification of the <ORG> under Article 309 was i ssued on 25 March, 1959 there validating the action taken in retiring the respondent and others upon their attaining the age of 55 years.
+RulingByLowerCourt	The respondents contended before <ORG> that they were entitled to continue in service upto the age of 58 years and not to be retired at the age of 55 years in view of an exception carved out by note 4 to rule 294(1) of the Mysore Civil Services Regulations.
+RulingByLowerCourt	This Court did not express any opinion as to the power of the <ORG> to make a retrospective provision under Article 309 but the notification retiring certain persons on superannuation was struck down by this Court in these words : "We are, of opinion that this notification cannot be said to be a rule, regulating the recruitment and conditions of service of persons appointed to the services and posts in connection with the affairs of the <ORG>.
+RulingByLowerCourt	All that the rule does is to say in so many words that certain persons who had been, in view of our decision on this point, invalidly retired should be deemed to hav e been validly retired from service on superannuation.
+RulingByLowerCourt	It would if given effect contravene Article 311 of the Constitution.
+RulingByLowerCourt	Such a rule in our opinion is not a rule contemplated under the proviso to Article 309".
+RatioOfTheDecision	The contention on behalf of the <ORG> that a rule under Article 309 for regularisation of the appointment of a person would be a form of recruitment read with reference to power under Article 162 is unsound and unacceptable.
+RatioOfTheDecision	The executive has the power to appoint.
+RatioOfTheDecision	That power may have its source in Article 162.
+RatioOfTheDecision	In the present case the rule which regularised the appointment of the respondent with effect from 15 February, 1958 notwithstanding any rules cannot be said to be in exercise of power under Article 162.
+RatioOfTheDecision	First, Article 162 does not speak of rules whereas Article 309 speaks of rules.
+RatioOfTheDecision	Therefore, the present case touches the power of the <ORG>, to make rules under Article 309 of the nature impeached here.
+Fact	Secondly, when the Government acted (1)  1 S.C.R.
+Fact	994.
+Argument	810  under Article 309 the Government  cannot be said to have acted also under Article 162 in the same breath.
+Argument	The two Articles operate in different areas.
+Argument	Regularisation cannot be said to be a form of appointment.
+Argument	Counsel on behalf of the respondent contended that regularisation would mean conferring the quality of permanence on the appointment whereas counsel on behalf of the <ORG> contended that regularisation did not mean permanence but that it was a case of regularisation of the rules under Article 309.
+RatioOfTheDecision	Both the contentions are fallacious.
+Precedent	If the appointment itself is in infraction of the rules or if it is in violation of the provisions of the Constitution illegality cannot be regularised.
+Precedent	Ratification or regularisation is possible of an act which is within the power and province of the authority but there has been some non-compliance with procedure or manner which does not go to the root of the appointment.
+Precedent	Regularisation cannot be said to be a mode of recruitment.
+Precedent	To accede to such a proposition would be to introduce a new head of appointme nt in defiance of rules or it may have the effect of setting at naught the rules.
+Precedent	In the present case, it was said that the respondent was a local candidate within the meaning of rule 8(27A) of the Mysore Civil Services Rules, 1957 which came into effect on 1 March, 1958.
+Precedent	A local candidate is defined there as a local candidate in service meaning a temporary Government servant not appointed regularly as per rules of recruitment to that service.
+Precedent	When the appointment of a local candidate would be regularised it would be in consonance with the rules.
+Precedent	A contention was advanced on behalf of the respondents that Rules 3, 4 and 14 in the Mysore State Civil Service Rules, 1957 which came into effect on 10 February, 1958 would not apply until rules of recruitment as con- templated in Rule 3 were brought into existence.
+Precedent	In support of that contention reliance was placed on the decision of this Court in <CITATION_1476635> .
+Precedent	(1).
+Precedent	In that case a question arose as to the validity of appointments of 88 Assistant Enginers who w ere appointed in October, 1961.
+Precedent	It was contended that the appointments there were to have been in consonance with the <ORG> which came into existence in December, 1960.
+Precedent	It was held that the December 1960 <ORG> were not intended to cover appointments of persons who had been interviewed and recommended for appointment by <ORG> in the month of November, 1960 prior to the making of the rules.
+Precedent	It was also held in that case that the absence of rules would not take away the power of the executive Government to make appointments under Article 162 of the Constitution.
+Precedent	In the present case, the contention on behalf of the respondents that the regularisation was itself a mode of appointment (1)  3 S.C.R.
+Precedent	682.
+Precedent	811  under Article 162 of the Constitution is unsound.
+Fact	The <ORG> came into existence in the present case in 1964.
+Fact	The regularisation was made in the year 1967.
+Fact	The regularisation was made with effect from 1958.
+Fact	Therefore, the <ORG> became applicable.
+RatioOfTheDecision	The regularisation in the present case wa s also bad because even without specific methods of recruitment appointments could be made only by selection or promotion or transfer from equivalent grade.
+RatioOfTheDecision	The method of recruitment and qualification for <ORG> was to be setforth in the rules of recruitment of such service specialty made in that behalf.
+RatioOfTheDecision	It follows that in the present case in the face of rules which spoke of recruitment to be by competitive examination or by selection or by promotion, these are the three modes of appointment.
+RatioOfTheDecision	Even if the method of recruitment and qualifications are not laid down the three modes are specific.
+Argument	Counsel on behalf of the <ORG> stated that the respondent was not promoted but that it was a case of selection because the respondent was the only person fit for that post.
+Argument	A selection would have to be made by inviting applicants and then selecting them.
+Argument	The <ORG> relied on the affidavit of the Deputy Secretary to the Government that the respondent was a highly qualified person and there were no other qu alified persons available to fill up the post of Principal of the School.
+Argument	It was therefore said that the Government found that the respondent was the only candidate found suitable and he was therefore selected.
+Argument	The affidavit does not say that he was selected on the basis that other candidates were interviewed and that claim of other candidates were considered.
+Precedent	In <NAME>'s case (supra') this Court said that if rules were made the <ORG> would have to follow the Rules and the <ORG> could not under Article 162 of the Constitution ignore the Rule.
+RatioOfTheDecision	Therefore, in the present case the <ORG> acted illegally in regularising the appointment of the respondent <NAME>.
+Fact	In the present case, the respondent was appointed tempora- rily as officiating Principal on 25 September 1958 until further orders.
+Fact	In foot note I to the letter dated 25 September, 1958 communicating the order it was stated that the Director of Technical Education was requested to forward proposals to fill the post by advertisement through M <ORG>.
+Fact	Again on 3 April, 1958 when the respondent was appointed temporarily as officiating Principal with effect from 15 February, 1958 until further orders a similar foot note was given in that letter communicating the order to the effect that <ORG> would forward proposals to fill up the post by advertisement through M<ORG>.
+Fact	These letters totally repel the suggestion of the respondent being a local candidate.
+Fact	'These letters contain intrinsic evidence that the appointment was to be made, 'by advertisement through M<ORG> so that persons who would possess the necessary qualifications would be able to apply for the same for consideration.
+RatioOfTheDecision	The case of promotion is totally impermeable in the present case.
+Fact	There were three classes of services under the Mysore Civil Services (Classification, Control and Appeal) Rules, 1957.
+Fact	Rule 5 classified the services under four classes.
+Fact	Class I consisted of gazetted posts  with the minimum pay of not less than Rs.
+Fact	350 p.m. Class 11 was to consist of gazetted posts other than those referred to in Class 1.
+Fact	Class III was to consist of non-gazetted posts of Primary School teacher, Assistant Inspector of Shops and Establishments, Compounders, Village Accountants, Bill Collectors and other posts the pay or maximum pay of which if on a time scale is more than Rs.
+Fact	90.
+Fact	Class IV was to consist of non-gazetted posts classified in the Schedule.
+Fact	There, were three Schedules.
+Fact	Promotion would have to be under rule 4 of the Mysore Civil Services (General Recruitment) Rules, 1957 on the basis of merit and suitability or on the basis of seniority-cum-merit.
+Fact	Rule 16 of the 1957 General Recruitment Rules speaks of relaxation of rules relating to appointment and qualifications.
+Fact	The Government has power to relax any rule and may appoint persons for reasons to be recorded in writing inter alia to a post of an equivalent grade by transfer.
+Fact	In the present case, it was not an appointment by transfer fro m one post to a post of an equivalent grade under the rules.
+Fact	The relaxation under Rule 16 of the Mysore Civil Service (General Recruitment) Rules, 1957 for a specified period of the qualifications prescribed for purposes of direct recruitment of candidates possessing the prescribed qualifications was neither available nor done in fact in the present case.
+Fact	Therefore it could not be said here that the appointment was by promotion because the respondent did not hold the post of an equivalent grade.
+Fact	It is said on behalf of the State that the appointment of the respondent was justified on the following grounds.
+Fact	In the year 1958 the respondent was appointed on, a temporary basis.
+Fact	The Government has power to make a temporary appointment.
+Fact	The respondent was, according to the rules, a local candidate.
+Fact	A local candidate could be appointed irrespective of rules.
+Fact	Up to the year 1964 there were no rules fixed with regard to cadre or appointment.
+Fact	In 1964 when the cadre and recruitment rules were made the respondent was th e only qualified person.
+Fact	There were no specific rules for regularisation.
+Fact	The Government has power under Article 162 to regularise appointments.
+Fact	Rules under Article 309 can be made for one Person.
+Fact	Therefore, the respondent was validly appointed.
+Fact	813  The contentions on behalf of the <ORG> and the respondent are unacceptable.
+Fact	A local candidate means a temporary Government servant not appointed regularly.
+Fact	The respondent was a permanent Government servant at the material time.
+Fact	He was already in service.
+Fact	Under the rules in force in the year 1958 two Government servants cannot be appointed substantively to the same permanent post at the same time.
+Fact	A Government servant cannot be appointed substantively except as a temporary measure to two or more permanent posts at the same time.
+Fact	Therefore, if the respondent were appointed as a temporary measure to the post of Principal it would be not as a local candidate but as a Government servant appointed to another post as a temporary measure.
+Fact	This happened in 1958.
+Fact	When the  appellant impeached the appointment of the respondent before <ORG> in 1962 <ORG> stated that the rules had been framed and forwarded to <ORG> and the post of the Principal had to be filled up by promotion from the cadre of Heads of Sections or by direct recruitment.
+Fact	The qualifications for direct recruitments were also given.
+Fact	It was also stated before <ORG> that the matter of regularisation of the respondent in the post was under consideration and <ORG> had agreed to the regularisation and the matter was to be considered by the Government and the decision was to be given in that behalf.
+Fact	In that context, <ORG> said that no useful purpose would be served in pronouncing on the questions raised in the writ petitioN and if and when the appellant felt aggrieved by such regularisation it would be open to him to take such steps.
+Fact	It is in this background that when regularisation was made in the year 1967 that  the appellant came up before <ORG> challenging the regularisation.
+Fact	When it was said before <ORG> in 1962 that <ORG> agreed to regularisation it did not mean that <ORG> agreed to regularise the appointment of the respondent.
+Fact	All that <ORG> did was to regularise the appointment to the post of the Principal.
+Fact	The regularisation by the <ORG> of the appointment is with effect from 1958.
+Fact	This reguularisation is bad for the following reasons.
+RatioOfTheDecision	First, regularisation is not itself a mode of appointment.
+RatioOfTheDecision	Secondly, the modes of appointments are direct recruitment or selection or pro- motion or appointing for reasons to be recorded in writing an officer holding a post of an equivalent grade, by transfer, from any other service of the, <ORG>.
+RatioOfTheDecision	The Government did not contend-, it to be a case of promotion.
+RatioOfTheDecision	If it were a case of promotion it would not be valid because it would be a promotion not on the basis of seniority-cum- merit  but a promotion of some one who was in Class III to Class I.
+RatioOfTheDecision	Even with regard to appointment under rule 16 by transfer of a person holding an equivalent grade the appointment would be offending the rules because it would not be transfer from an equivalent grade.
+Fact	Again, merit and seniority could not be disregarded because the respondent was not in the same class as the Principal of <ORG>.
+Fact	The pay of the Principal was Rs.
+Fact	500-800 whereas the respondent was getting a salary of Rs.
+Fact	165 in the grade of Rs.
+Fact	125-165 plus an allowance of Rs.
+Precedent	75.
+RatioOfTheDecision	The contention of the <ORG> that there were no rules and that the <ORG> was free to appoint the respondent is wrong.
+RatioOfTheDecision	There were 1957 rules which spoke of appointment by competitive examination or by selection or by promotion.
+RatioOfTheDecision	Even if specific rules of recruitment for such services were not made the rule as to-appointment by competitive examination or selection or by promotion was there.
+RatioOfTheDecision	Article 162 does not confer power of regularisation.
+RatioOfTheDecision	Article 162 does  not confer power on the Government to make rules for the recruitment or conditions of service.
+RatioOfTheDecision	There can be rule for one person or one post but rules are meant for recruitment and conditions of service.
+RatioOfTheDecision	Rules are not for the purpose of validating an illegal appointment or for making appointments or promotions or transfer.
+RatioOfTheDecision	Rules under Article 309 are for the purpose of laying down the conditions of service and recruitment.
+RatioOfTheDecision	Therefore, the regularisation by way of rules under Article 309 in the present case by stating that notwithstanding anything in the rules the appointment of the respondent was being regularised was in itself violation of the rules as to appointment and as to cadre and also as to the proper selection.
+RatioOfTheDecision	if the respondent were to be appointed by direct recruitment, there should have been advertisements.
+RatioOfTheDecision	Then others would have the opportunity of applying.
+RatioOfTheDecision	That would be proper selection.
+RatioOfTheDecision	Counsel on behalf of the appellant contended that Articles 14 and 16 of the Constitution were infringed by th e impugned regularisation by rules under Article 309 of the Constitution inasmuch as the appellant and the other petitioners in <ORG> were not given equal opportunity and treatment in regard to the appointment and there was also discrimination.
+RatioOfTheDecision	It was said on, behalf of the respondent that the appellant did not possess qualifications prescribed by the 1964 Rules.
+RatioOfTheDecision	The appellant disputed that contention.
+RatioOfTheDecision	'Me appellant and the respondent belonged to the same class of service.
+Fact	The Mysore Education Department Services Technical Education Department) (Recruitment) Rules, 1964 provided that the method of recruitment for the post of Principal, <ORG> was by, promotion from the cadre of Heads of Sections or by direct recruitment.
+Fact	The minimum qualifications for direct recruitment were age limit of 40 years and M.Sc.
+Fact	Degree in applied Geology with five years experience in Mining.
+Fact	The appointment of the respondent was not by direct recruitment at any stage.
+Fact	The appointment of the respondent was sought  to be justified by the <ORG> and the respondent first on the ground of promotion and second on the ground of the respondent possessing the qualification.
+Fact	The appellant contended that the appellant was the Principal of the <ORG> since the year 1949.
+Argument	The appellant also contended that the appellant was senior to the respondent.
+Argument	The Principals of <ORG> and the Heads of sections, according to the contention of the appellant, belonged to the common cadre.
+Argument	Therefore, the appellant alleged that the appellant was eligible for promotion under the 1964 Rules.
+RatioOfTheDecision	The case of promotion could not be considered by considering only the respondent.
+RatioOfTheDecision	Again, the impeached rules do not show that it was a case of promotion but that it was a case of regularisation of an appointment with effect from the year 1958.
+RatioOfTheDecision	If it was the case of selection the appellant and the respondent and others should have been considered.
+RatioOfTheDecision	The 1964 Rules prescribed qualifications for the first time.
+RatioOfTheDecision	The 1964 Rules provided appointment by promo tion or by direct recruitment.
+Fact	The appellant alleged eligibility.
+Fact	The appellant was Head of a Section.
+Fact	The respondent was also a Head of a Section.
+Fact	They both belonged to the same cadre.
+Fact	Therefore, the impugned rule affects the appellant not only in regard to his eligibility but also his seniority.
+Fact	<ORG> was wrong in holding that the appointment of the respondents was defensible as a local candidate and therefore the appointment did not offend Article 14 and 16 of the Constitution.
+RulingByPresentCourt	For these reasons, the judgment of <ORG> is set aside.
+RulingByPresentCourt	The appeal is allowed.
+RulingByPresentCourt	The impeded Rules dated 9 February, 1967 published in the notification No.
+RulingByPresentCourt	ED.91DGO58 are declared to be void.
+RulingByPresentCourt	There will be no order as to costs.
+RulingByPresentCourt	V.P.S.
+RulingByPresentCourt	Appeal allowed.

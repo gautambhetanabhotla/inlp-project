@@ -1,0 +1,98 @@
+Fact	<CITATION_45588902> .
+Fact	1.
+Fact	A brief back-drop leads to the short point in issue.
+Fact	Chronic scarcity of accommodation in almost every part of the country has made 'eviction' litigation explosively considerable, and the strict protection against ejectment, save upon restricted grounds, has become the policy of the <ORG>.
+Fact	Rent Control Legislation to give effect to this policy exists everywhere, and we are concerned with one such in the <ORG> of U.P.
+Fact	(U.P.
+Fact	Act 13 of 1972).
+Fact	The legislature found that rent control law had a chilling effect on new building construction, and so, to encourage more building operations, amended the statute to release, from the shackles of legislative restriction, 'new constructions' for a period of ten years.
+Fact	So much so, a landlord who had let out his new building could recover possession without impediment if he instituted such proceeding within ten years of completion.
+Fact	The respondent is a landlady who claims to fill the bill in this setting and seeks to evict the appellant-tenant untramme led by the provisions of the Act.
+Argument	She has succeeded in both the courts below and the appellant challenges the order as illegal and vitiated by a basic error of approach.
+Argument	2.
+Argument	We should have made short work of it had there not been the need for this Court to set the sights right in the class of litigation where exemption from the operation of the Act is claimed on the ground that the construction is new and the case is filed within the ten-year moratorium.
+RatioOfTheDecision	If the exemption is erroneously liberalised to frustrate the principal measure by failure to stick to basic legal principles, the jurisprudence of rent control may become too jejune to be socially effective.
+RatioOfTheDecision	That is why we examine a few fundamentals here in the decisional process of this class of cases.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The area of controversy, factual and legal, is small.
+Fact	The respondent purchased shop No.
+Fact	66 in the city of Jhansi in 1969 from one <NAME> (DW2), occupied the first floor and allowed the appellant, as tenant, to occupy the ground floor in 1970 on a lease  deed which recited that the building was erected in 1965.
+Fact	In 1975 the present eviction action was instituted on the basis that the building was new, that the Act did not debar eviction of new constructions put up within ten years of the suit and so a decree was inevitable.
+Fact	The tenant resisted the claim on the plea that the building was constructed 50 years ago.
+Fact	The trial court negatived the defence and decreed eviction and this was upheld by <ORG>.
+RatioOfTheDecision	4.
+RatioOfTheDecision	If it were a bare finding of fact we should not have reopened it, but <NAME> argues that fundamental flaws in the understanding of the law have vitiated the decision which, if left uncorrected, will spell a new class of litigation for eviction by easy resort to the 'new construction expedient.
+RatioOfTheDecision	Such possible public mischief persuades us to have a closer look at the Act to the extent relevant.
+RatioOfTheDecision	5.
+RatioOfTheDecision	<NAME> rightly reminds us that in the normal course the appeal must be dismissed as concluded by findings of fact.
+RatioOfTheDecision	But we will probe the matter  further to explore whether there is any substance in <NAME> argument of fundamental failure bearing on the legality of the conclusions.
+RatioOfTheDecision	The anatomy of the Act is substantially the same as that of other similar legislations.
+RatioOfTheDecision	The most important feature we have to notice is the exemption from application of the provisions of the Act for the period of ten years in respect of new constructions.
+Statute	Section 2(2) is relevant in this context and runs as follows :  Except as provided in Sub-section (5) of Section 12 Sub-section (1A) of Section 21 , Sub-section (2) of Section 24 , Sections 24A , 24B , 24C or Sub-section (3) of Section 29 , nothing in this Act shall apply to a building during a period of ten years from the date on which its construction is completed.
+Statute	xxx xxx xxx Explanation I.-For the purposes of this Sub-section,  (a) The construction of a building shall be deemed to have been completed on the date on which the completion thereof is reported to or otherwise recorded by the local authority having  jurisdiction, and in the case of a building subject to assessment, the date on which the first assessment thereof comes into effect, and where the said dates are different, the earliest of the said dates, and in the absence of any such report, record or assessment, the date on which it is actually occupied (not including occupation merely for the purposes of supervising the construction or guarding the building under construction) for the first time :  Provided that there may be different dates of completion of construction in respect of different parts of a building which are either designed as separate units or are occupied separately by the landlord and one or more tenants or by different tenants.
+RatioOfTheDecision	(b) 'construction' includes any new constructions in place of an existing building which has been wholly or substantially demolished;  (c) Where such substantial addition is made to an existing building, that the existing building becomes only a minor part thereof, the whole of the building including the existi ng building shall be deemed to be constructed on the date of completion of the said addition.
+RatioOfTheDecision	This Sub-section and its construction is decisive of the fate of the appeal.
+RatioOfTheDecision	Nothing in the rent control legislation shall apply to a building "during a period of ten years from the date on which its construction is completed."
+RatioOfTheDecision	The first thing that falls to be emphasised is that in regard to all buildings the Act applies save where this exemption operates.
+RatioOfTheDecision	Therefore, the landlord who seeks exemption must prove that exception.
+RatioOfTheDecision	The burden is on him to make out that notwithstanding the rent control legislation, his building is out of its ambit.
+RatioOfTheDecision	It is not for the tenant to prove that the building has been constructed beyond a period of ten years.
+RatioOfTheDecision	But it is for the landlady to make out that the construction has been completed within ten years of the suit.
+RatioOfTheDecision	This is sensible not merely because the statute expressly states so and the setting necessarily implies so, but also because it is the landlady who knows best when the  building was completed, and not the tenant.
+RatioOfTheDecision	As between the two, the owner of the building must tell the court when the building was constructed, and not the tenant thereof.
+RatioOfTheDecision	Speaking generally, it is fair that the onus of establishing the date of construction of the building is squarely laid on the landlord, although in a small category of cases where the landlord is a purchaser from another, he will have to depend on his assignor to prove the fact.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Firstly, therefore, we must examine whether the respondent has made out her case for exemption from the operation of the Act based on the vital fact that the building has been completed only within ten years of the suit.
+RatioOfTheDecision	The second thing we have to remember is Explanation 1 quoted above.
+RatioOfTheDecision	When is a building deemed to have been completed?
+RatioOfTheDecision	An analysis of Explanation 1 to Section 2(2) of the U.P.
+Statute	Act indicates :  (1) Where a building has not been assessed, it is the date on which the completion was reported to, or other wise recorded by, the local authority having  jurisdiction.
+Statute	(2) Where a building has been assessed, it is the date on which the first assessment comes into effect.
+RatioOfTheDecision	Provided that if the date on which the completion was reported to, or otherwise recorded by, the local authority is earlier than the date of the first assessment, the date of completion will be such earlier date.
+RatioOfTheDecision	(3) Where there is no report, record or assessment, it is the date of actual occupation for the first time (not being an occupation for the purpose of supervising the construction or guarding the building under construction).
+RatioOfTheDecision	7.
+RatioOfTheDecision	It is common case that Shop Nos.
+RatioOfTheDecision	65 and 66 were owned by a common owner, <NAME>, DW2.
+RatioOfTheDecision	He sold only Shop No.
+RatioOfTheDecision	66 to the respondent.
+RatioOfTheDecision	So, there is no doubt, that there was an existing building, Shop No.
+RatioOfTheDecision	66, long prior to the ten-year period mentioned in the statute.
+RatioOfTheDecision	According to the testimony of <NAME>, DW2, the old construction continued, but certain additions and remodelling were done.
+RatioOfTheDecision	He had submitted a plan to the local authority indicati ng the original construction and the proposed additions, and that is marked as Exhibit in the case.
+RatioOfTheDecision	This shows the existence of a prior building, the proposal being for addition or partial reconstruction and not for total demolition.
+RatioOfTheDecision	If We go by the plan, it is not possible to conclude automatically that there is a new construction.
+RatioOfTheDecision	If we go by <NAME> evidence, the owner of the building at the relevant time, we cannot necessarily hold that the existing building has been substantially demolished and reconstructed.
+RatioOfTheDecision	Indeed, his evidence is to the effect that the construction such as was made was beyond the 10 year period.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Unfortunately, it is not possible for the purchaser-respondent or the tenant-appellant to give direct testimony about the time of the construction or the nature of the construction vis-a-vis Explanation (b) Order (c).
+RatioOfTheDecision	The best testimony is the municipal records about the completion of the building and the verification by the municipal authorities as to whether a new construction has c ome into being or an old construction has been remodeled and, if so, when exactly the completion took effect.
+Precedent	The municipal assessment record produced in the court merely state "increased assessment".
+Precedent	It may suggest the existence of an assessment which has been increased or it may perhaps be argued that when the building was reconstructed a new assessment was made which was more than the previous assessment and, therefore, was described as increased assessment.
+RatioOfTheDecision	The oral evidence in the case, apart from what we have set out, is inconsequential, being second hand testimony.
+RatioOfTheDecision	Even the recital in the rent deed that there was a new construction is 1965-66 is by the appellant and the respondent, neither of whom has any direct knowledge about the construction.
+RatioOfTheDecision	Of course, an admission by the appellant is evidence against him but an admission is not always conclusive especially in the light of the municipal records such as are available and the burden such as has been laid by the statute.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Viewed in this perspective , the failure of the trial court specifically to record when the building was completed and what was the extent of re-building, whether it was a case of total demolition and reconstruction or such extensive additions as to push the existing building into a minor part, becomes fatal.
+RatioOfTheDecision	These basic issues have failed to receive any attention from the courts below.
+RatioOfTheDecision	A finding recorded on speculative basis is no finding and that is the fate of the holding in the present case.
+RatioOfTheDecision	10.
+RatioOfTheDecision	We do not want to dwell or the evidence in greater detail because we propose to remit the case to the trial court (<ORG>, Jhansi).
+RatioOfTheDecision	It is quite conceivable that the municipal records bearing on the completion of the construction may throw conclusive light, whatever might have been the original proposal in the plan submitted.
+RatioOfTheDecision	It is perfectly possible that on a view of the earlier construction, vis-a-vis the completed new building, the former may form but a small part.
+RatioOfTheDecision	It may also be that the implication  of the expression "increased assessment" may be explained with reference to earlier assessment records in the municipality.
+RatioOfTheDecision	Moreover, whenever a new building is completed, a report has statutorily to be made and only on a completion survey and certificate, occupation is ordinarily permitted.
+RatioOfTheDecision	These records must also be available in the office of the local authority.
+RatioOfTheDecision	The statute makes it clear that reliance upon the municipal records, rather than on the lips of witnesses, is indicated to determine the date of completion and the nature of the construction.
+RatioOfTheDecision	This statutory guideline has been wholly overlooked and the burden lying on the landlord has not been appreciated.
+RatioOfTheDecision	The result is that the eviction order has to be demolished.
+RatioOfTheDecision	11.
+RatioOfTheDecision	It may still be open to the landlady-respondent to make out his case by producing better municipal evidence in the light of what we have indicated.
+RatioOfTheDecision	We do not wish to deny the landlady this opportunity because the trial court has not approached the problem from the correct legal angl e. We set aside the judgment of the courts below and remit the case for hearing to the trial court.
+RatioOfTheDecision	The trial court will give an opportunity to both sides to adduce fresh evidence, documentary and oral, to make out the ground of exemption from the application of the Act.
+RatioOfTheDecision	Of course, when the entire evidence is before the court, the onus of proof will play a lesser role.
+RatioOfTheDecision	12.
+RatioOfTheDecision	Before parting with the case, we wish to notice a submission made by <NAME> that the landlady's son was an unemployed engineer who needed the premises for personal requirement.
+RatioOfTheDecision	Even if the Act applies, it is open to the landlady to make out any of the grounds under the Act for eviction.
+RatioOfTheDecision	To avoid prolixity and delay of the proceedings, we permit the trial court to allow the landlady, if she applies in that behalf, to plead on an alternative basis, for eviction on any of the specified grounds under the Act.
+RatioOfTheDecision	13.
+RulingByPresentCourt	The appeal is allowed and the case remitted to <ORG>, Jhansi for fresh disposal in the light of  the observations made above.

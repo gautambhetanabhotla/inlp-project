@@ -1,0 +1,136 @@
+Fact	PETITIONER: <NAME> & <NAME>.
+Fact	Vs. RESPONDENT: <NAME> & <NAME>.
+Fact	DATE OF JUDGMENT31/10/1972 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME>, C.A.
+Fact	CITATION: 1973 AIR 291 1973 SCR (2) 835 1973 SCC (2) 35 CITATOR INFO : F 1975 SC1069 (38) F 1987 SC1986 (26) R 1987 SC1996 (13) RF 1991 SC1654 (33) ACT: U.P.
+Fact	Tenancy Act (17 of 1939) ss.
+Fact	33, 44, 45, 82 and 180- Scope of Stare Decisis-Application by <ORG> with respect to decisions of <ORG> interpreting local Statutes.
+Fact	In interpreting ss.
+Fact	33, 44, 45, 82 and 180 of the U.P.
+Fact	Tenancy Act, 1939, the <ORG>, in two <ORG> decisions, namely <NAME> v. <NAME> [A.I.R.
+Fact	(31) 1944, Allahabad 25] <CITATION_1157755> (A.I.R.
+Fact	(37) 1950 Allahabad 604), held : HEADNOTE: (1) That the usufructuary mortgage of an occupancy holding by a tenant is void and not voidable; (2) that a mortgagor after giving possession to the mortgagee cannot recover possession of the-holding without paying the money which he had taken from the  mortgagee; (3) that a mortgagee of an occupancy holding by remaining in possession for over 12 year does not extinguish the rights of the mortgagor to redeem him and by such possession the mortgagee only prescribes for mortgagee rights; (4) that it is open to the mortgagor to seek possession of the holding by tendering the consideration which.
+Fact	he had received and he may do so by a redemption suit; (5) that the relationship which comes into existence as a result of the mortgage of an occupancy holding and its possession being transferred to the mortgagee, is analogous to that of a mortgagor and mortgagee and the action to recover possession is analogous to redemption and (6) such a suit is maintainable suit in a civil court.
+Fact	In the present case, the occupancy tenant of the land in dispute executed a mortgage deed in respect of the land in favour of the appellants and put them in possession.
+Fact	Respondents 1 to 6 were subsequently accepted as the occupancy tenants by the landlords in place of the previous occupan cy tenant and have also been declared to be the Bhumidars of the land.
+Fact	Respondents 1 to 6 filed a suit for possession of the land, after depositing the mortgage money in court.
+Fact	The suit was decreed in appeal, by <ORG>, following the earlier <ORG> decisions.
+Fact	Dismissing the appeal to this <ORG>, HELD : (1) in the matter of the interpretation of a local statute, the view taken by <ORG> over a number of years should normally be adhered to and not disturbed.
+Fact	A different view would not only introduce an element of uncertainty and confusion, it would also have the effect of unsettling transactions which might have been entered into on the faith of those decisions.
+Fact	The doctrine of stare decisis can be aptly invoked in such a situation by a superior court riot strictly bound by the decision.
+Fact	[840 B- E] <ORG> v. <ORG>.
+Fact	Ch.
+Fact	574 (C.A.)
+Fact	referred to.
+Fact	(2) The status of the appellants was analogous to that of the mortgagees and the successor of the original mortgagor would be  entitled to 836 recover possession of the land on payment of the mortgage money.
+Fact	As respondents 1 to 6 were the occupancy tenants of the land and as they were declared to be the Bhumidars, they had sufficient interest in the land, to institute the suit under s.91 (a) of the Transfer of Property Act , 1882.
+Fact	[841 A-E] JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Fact	1308 of 1967.
+Fact	Appeal by special leave from the judgment and decree dated December 7, 1966 of <ORG> in Appeal No.
+Fact	5252 of 1960.
+Fact	<NAME> and <NAME>, for the appellant.
+Fact	<NAME> and <NAME>, for the respondents.
+Fact	The Judgment of the Court was delivered by <NAME>, J.
+Fact	This appeal by special leave is directed against the judgment of <ORG> whereby that Court re- versed the decisions of the trial Court and the first appellate court and awarded a decree for the possession of the land in dispute in favour of the plaintiff-respondents against the defendant-appellants.
+Fact	The appellants were furth er held to be entitled to withdraw the mortgage amount which had been deposited by the respondents.
+Fact	On January 16, 1923 <NAME>, <NAME> of <NAME> plaintiff-respondent No.
+Fact	7, executed a mortgage deed in respect of land in dispute for Rs.
+Fact	600 in favour of <NAME> and put him in possession thereof as a mortgagee.
+Fact	<NAME>, who was impleaded as defendant No.
+Fact	1 in the suit, is now dead and the appellants, who too were impleaded as defendants, are his legal representatives.
+Fact	<NAME> at the time of the mortgage was the occupancy tenant of the land in dispute.
+Fact	On January 6, 1955 plaintiff-respondents No.
+Fact	1 to 6 along with <NAME> plaintiff No.
+Fact	7 filed the present suit for possession of the land in dispute against <NAME> and others on the allegation that <NAME> had transferred all his rights in the land with the consent and permission of the Zamindar (the land-lord) in favour of plaintiffs to .
+Fact	It was stated that, as a result of the said transfer, pla intiffs 1 to 6 had become the occupancy tenants of the land in dispute.
+Fact	The plaintiffs 1 to 6 also claimed to have acquired Bhumidari rights of the land by depositing ten times the- amount of the land revenue.
+Fact	According to the plaintiffs, they had a right to redeem the land from the mortgagee, but as the mortgagee was not prepared to give back the land on receipt of the mortgage money, the plain- tiffs were depositing the amount in court.
+Fact	It was also added that plaintiff No.
+Fact	7 had been joined as a co-plaintiff with plaintiffs 1 to 6 to avoid any dispute.
+Fact	<NAME>, son of <NAME>, as well as two minor sons of <NAME> were impleaded as defendants on the ground that the four defendants were members of the joint Hindu family and, as such, were in possession of the land in suit.
+Fact	The suit was contested by <NAME> Pandey.
+Fact	<NAME> Pandey admitted the mortgage alleged by the plaintiffs.
+Fact	It was, however, averred that plaintiffs 1 to 6 had no right to redeem the land.
+Fact	The plaintiffs suit was f urther stated to be barred by limitation as, according to the written statement, the defendants were in adverse possession of the land for more than 12 years.
+Fact	The trial court found that the plaintiffs suit was not barred by time.
+Fact	The plaintiffs were, however, held to have no right to sue.
+Fact	In the result, the suit was dismissed.
+Fact	On appeal, learned Additional Civil Judge <NAME> held that plaintiffs 1 to 6 were not the successors of plaintiff No.
+Fact	7.
+Argument	It was further observed that the defendants, after the mortgage, had become trespassers in the land and the suit against them was barred by time.
+Argument	When the matter was taken up in second appeal before <ORG>, the learned Judge held that in 1946 plaintiffs 1 to 6 had acquired, as a result of agreement with the Zamindar, the same rights which had vested in plaintiff No.
+Argument	7 before he surrendered those rights.
+Precedent	The learned Judge further referred to two <ORG> decisions of <ORG>, namely, <CITATION_1946083> and Anr.
+Precedent	(1) and <CITATION_1157755> .
+Precedent	(2) a nd in the light of those decisions, held that mortgagee of an occupancy holding by remaining in possession for over 12 years did not extinguish the right of the mortgagor to redeem him and by such possession the mortgagee only prescribed for mortgagee rights.
+Fact	It was fur- ther held that the plaintiffs were entitled to redeem the mortgage and recover possession of the land and that the suit of the plaintiffs was not barred by time.
+Fact	In the result, the plantiffs appeal was accepted, the decisions of the courts below were set aside, and a decree for possession of the land in dispute was awarded in the plaintiffs favour.
+Fact	The defendants were held entitled to withdraw the mortgage amount already deposited by the plaintiffs.
+Argument	Mr. <NAME> in appeal before us has submitted on behalf of the defendant-appellants that plantiff-respondents 1 to 6 were not entitled to sue for possession of land on payment of the mortgage' money and that their suit was barred by limitation.
+Argument	The above submissions have been controverted by Mr. <NAME> ikshit on behalf of the plaintiff-respondents, and he has canvassed for the correctness of the view taken by <ORG>.
+RatioOfTheDecision	Before dealing further with the matter, we may refer to some of the statutory provisions which have been referred to by Mr. <NAME>.
+RatioOfTheDecision	Sub-section (1) of section 33 of the U.P.
+Precedent	Tenancy Act, (1) A.I.R.
+Precedent	(31) 1944 Allahabad 25.
+Precedent	(2) A.I.R.
+Precedent	(37) 1950 Allahabad 604.
+Statute	838  1939 (U.P.
+Statute	Act No.
+Statute	17 of 1939) (hereinafter-referred to as the Act of 1939) provides, inter alia, that the interest of an occupancy tenant is not transferable, otherwise than in accordance with the provisions of the Act.
+Statute	According to sub-section (1) of section 44 of that Act, every transfer, other than a sub-lease, made by a tenant in contravention of the provisions of this Act, shall be void.
+Statute	Section 45 of the above mentioned Act deals with the extinction of tenancy, and according to clause (c) of the section, the interest of a tenant shall be extinguished subject to the provisions of sections 82 to 88 by surrender.
+Statute	Surrend er by a tenant is dealt with in section 62 of the Act.
+Statute	It is provided in the section that a tenant not bound by lease or other agreement for a fixed term to continue to occupy the land,- may at the end of any agricultural year surrender his holding, by sending a registered notice to his landholder intimating his intention to do so and by giving up possession thereof whether such holding is or is not sub-let or mortgaged.
+Statute	Further conditions are also prescribed in that section, but we are not concerned with them.
+Statute	Section 180 of the above mentioned Act provides for ejectment of person occupying land without consent.
+Statute	According to this section, a person taking or retaining possession of a plot of land without the consent of the person en titled to admit him to occupy such plot and otherwise than in accordance with the provisions of the law for the time being in force, shall be liable to ejectment under this section on the suit of the person so entitled and also to pay damages which may extend to four times the ann ual rental value calculated in accordance with the sanctioned rates applicable to hereditary tenants.
+Statute	The Fourth Schedule to the Act deals with suits triable by <ORG> and prescribes the period of limitation for such suits.
+RatioOfTheDecision	Subclause (b) of clause 2 of item No.
+RatioOfTheDecision	18 of Group B of the said Schedule prescribes a period of two years for filing the suit under section 180 of the Act "from the 1st July following the date of the commencement of this Act, whichever is later".
+RatioOfTheDecision	Reference has also been made by Mr. <NAME> to the following passage in the judgment of <ORG>:  "At the same time, it is equally clear that as a result of the contract of tenancy entered into by the Zamindar in their favour in 1946 were the same rights which vested in the 7th plaintiff before surrender and which had passed on to the Zamindar by act of surrender by the 7th plaintiff.
+RatioOfTheDecision	At the time of the settlement in 1946 the defendants were in possession under a void usufructuary mortgage.
+RatioOfTheDecision	The surrender by the 7th plaintiff precedi ng the aforesaid settlement could only be a surrender of such Tights as the 7th plaintiff still had at that time and, similarly, the settlement in favour of plaintiffs Nos.
+RatioOfTheDecision	1 to 6 by the Zamindar could only be settlement of those very rights.
+Fact	What, therefore, has to be considered is what was the nature of the rights which the 7th plaintiff <NAME> retained after executing the void mortgage in 1923 and putting the first defendant in pos- session."
+Fact	It is urged by Mr. <NAME> that though plaintiff No.
+Fact	7 surrendered his occupancy rights in favour of the landlord, the effect of that was not only the extinction of the occupancy rights but also the extinction of the mortgage in favour of the defendant-appellants.
+Fact	The possession of the land in dispute by the defendant-appellants thereafter was as trespassers.
+Fact	A suit against them, according to Mr. <NAME>, should have been brought in <ORG> by the plaintiff-respondents, in whose favour fresh occupancy rights had been created by the land-lord, within  two years under section 180 read with item 18 of Fourth Schedule of Act of 1939.
+RatioOfTheDecision	As no suit was brought within the prescribed time against defendant appellants and as they remained in adverse possession of the land for a period of more than 12 years, the present suit brought by the plaintiff- respondents, it is submitted, was barred by time.
+RatioOfTheDecision	We are unable to accede to the, above contention, because we find that the matter is covered by two Full Bench decisions of <ORG>.
+Precedent	In a five-judge decision of <ORG> in the case of <CITATION_1157755> .
+Precedent	(supra), the court referred to the decision of a three-judge bench of that court in the case of <CITATION_1946083> .
+Precedent	(supra) and found that the following five propositions had been laid down in the earlier case :  "(1) That the usufructuary mortgage of an occupancy holding by a tenant is void and not voidable.
+RatioOfTheDecision	(2) That a mortgagor after giving possession to the mortgagee cannot recover possession of the holding without paying the money  which he had taken from the mortgagee.
+RatioOfTheDecision	(3) That a mortgagee of an occupancy holding by remaining in possession for over 12 years does not extinguish the rights of the mortgagor to redeem him and by such possession the mortgagee only prescribes for mortgagee rights.
+RatioOfTheDecision	(4) That it is open to the mortgagor to seek possession of the holding by tendering the consideration which he had received and he may do so by a redemption suit.
+RatioOfTheDecision	840  (5) The relationship which comes into existence as a result of the mortgage of an occupancy holding and its possession being transferred to the mortgagee, though not strictly speaking that of a mortgagor and a mortgagee, is analogous to that relationship, and the action which is raised by the mortgagor to recover possession of the holding on payment of the money due to the mortgagee, though not strictly in the nature of a redemption, is analogous to a redemption suit."
+RatioOfTheDecision	It was also observed that to take a contrary view from the law laid down in those five propositions would have  the effect of unsettling the law established for a number of years.
+RatioOfTheDecision	Mr. <NAME> has not questioned the correctness of the above mentioned five propositions and, in our opinion, rightly so.
+RatioOfTheDecision	In the matter of the interpretation of a local statute, the view taken by <ORG> over a number of years should normally be adhered to and not disturb-Id.
+RatioOfTheDecision	A different view would not only introduce an element of uncertainty and confusion, it would also have the effect of unsettling transactions which might have been entered into on the faith of those decisions.
+RatioOfTheDecision	The doctrine of stare decisis can be aptly invoked in such a situation.
+RatioOfTheDecision	As observed by Lord <NAME> in the case of <ORG> v. <ORG>), there is well-established authority for the view that a decision of long standing on the basis of which many persons will in the course of time have arranged their affairs should not lightly be disturbed by a superior court not strictly bound itself by the decision.
+RatioOfTheDecision	In the light of the above ment ioned <ORG> decisions, it cannot, be disputed that the status of the defendant- appellants was analogous to that of mortgagees.
+RatioOfTheDecision	It also cannot be disputed that the successor of the original mortgagor would be entitled to recover possession of the mortgaged land from the defendant-appellants on payment of the mortgage money.
+RatioOfTheDecision	Mr. <NAME>, however, submits that plaintiff-respondents 1 to 6 are not the successors of <ORG> plaintiff No.
+RatioOfTheDecision	7.
+RatioOfTheDecision	It is urged that after the surrender of the occupancy rights by <NAME>, the plaintiff-respondents cannot ask for redemption of the mortgage created by <NAME>.
+RatioOfTheDecision	This contention, in our opinion, is not well founded.
+RatioOfTheDecision	The copy of the compromise decree dated January 4, 1946/February 2, 1945 has been placed on record, and it would appear therefrom that in a suit brought: by the plaintiff-respondents 1 to 6 against the landlords and <NAME> (who was described in that suit as <NAME>), the plaintiffs 1 to 6 were accepted to be occupancy tenants  of the land in dispute.
+Precedent	The (1) [1958] Ch.
+Precedent	574 (C.A.)
+RatioOfTheDecision	effect of that decree was that while the occupancy, rights of <NAME> came to an end, those of plaintiff- respondents 1 to 6 came into existence at the same time.
+RatioOfTheDecision	As plaintiff-respondents 1 to 6 became the occupancy tenants of the land in dispute, they were, in our opinion, entitled to redeem the land from the mortgagees.
+RatioOfTheDecision	The material on record also indicates that plaintiff-respondents 1 to 6 have been declared to be the Bhumidars of the land in dispute.
+Fact	<ORG> dated October 5, 1949 declaring them to be Bhumidars of the land was issued on October 5, 1949.
+RatioOfTheDecision	As plaintiff respondents 1 to 6 were the occupancy tenants of the land in dispute and as they were declared to be Bhumidars, they had, in our opinion, sufficient interest in the land as clothed them with the right to redeem it from the mortgagees.
+RatioOfTheDecision	Clause (a) of section 91 of the Transfer of Property Act provides, inter alia, that any person (other than the mortgagee of the interest sought to be rede emed) who has any interest in, or charge upon the property mortgaged or in or upon the right to redeem the same, may institute a suit for redemption of the mortgaged property.
+RatioOfTheDecision	The case of the plaintiffs, who were the occupancy tenants and Bhumidars of the land in dispute, is clearly covered by clause (a) of section 91 of the Transfer of Property Act.
+RatioOfTheDecision	The fact that the present suit has been filed not by the occupancy tenant who mortgaged the property but by others in whom the occupancy rights were subsequently vested would, in our opinion, make no difference and would be no bar to the maintainability of the suit.
+RatioOfTheDecision	It is significant in this context to observe that plaintiffs 1 to 6 became the occupancy tenants of the same land of which <NAME> <NAME> was the occupancy tenant at the time of the mortgage.
+RatioOfTheDecision	It has also been argued by Mr. <NAME> that the suit for possession brought by the plaintiff-respondents was not maintainable in a civil court and could only be tried by a revenue court.
+RatioOfTheDecision	Apart from the f act that no such plea was taken in the written statement or in the trial court or the first appellate court, we find that the five-judge bench of <ORG> in the case of <NAME> and Anr.
+RatioOfTheDecision	(supra) has held that such a suit is maintainable in a civil court.
+RatioOfTheDecision	We see no cogent ground to disturb that view.
+RulingByPresentCourt	The appeal fails and is dismissed with costs.
+RulingByPresentCourt	<ORG> dismissed.
