@@ -1,0 +1,93 @@
+Fact	PETITIONER: <ORG> & <ORG>.
+Fact	Vs. RESPONDENT: COMMISSIONER OF INCOME TAX, BOMBAY DATE OF JUDGMENT12/03/1986 BENCH: <NAME>, SABYASACHI (J) BENCH: <NAME>, SABYASACHI (J) SINGH, K.N.
+Fact	(J) CITATION: 1986 AIR 1857 1986 SCR (1) 627 1986 SCC Supl.
+Fact	279 JT 1986 642 1986 SCALE (1)555 ACT: Jurisdiction to reopen assessment by the Income Tax Officer, when arises - Reopening assessment on the ground that the assessee had obtained depreciation at 6 per cent on the assets as masonry works, but the assets consisted of earth work wholly or substantially - Whether escaped assessment Duty of the assessee to disclose primary facts and truly Income Tax Act , 1961, section 147 (a).
+Fact	HEADNOTE: A partnership firm business carried on by <ORG> was taken over by the appellant-assessee by an agreement dated 24.8.1949.
+Fact	During the assessment year 1950-51, the said Agreement as well as the Valuation Report of the assets had been filed before the assessing authority.
+Fact	The Income Tax Officer  did not discuss the point whether the assets were constructed of masonry or made of earth but on the assessee's letter conveying its agreement that for the purpose of depreciation the value should be taken as Rs.20,31,000 in the aggregate, in the assessment order allowed 6 per cent depreciation.
+Fact	Later it was found that 93% of the construction works were made of earth and only 7% of masonry and that 59% of piers were made of masonry and 41% of them were made of earth were allowed 12% depreciation which rate is available only if constructed entirely or mainly of wood.
+Fact	The Income Tax Officer, on these facts proposed to reopen the assessment on escaped income for the years 1955-56 to 1962-63.
+Fact	The jurisdiction of the Income Tax Officer to reopen the assessment under section 147(a) of the Income Tax Act, 1961 and <ORG> declining to call for a statement of case on a question of law by rejecting the application under section 256(2) of the Act are under challenge in the appeals on certificate granted by th e <ORG>.
+Fact	Dismissing the appeals, the Court, 628 ^ HELD: 1.1 If there are some primary facts from which reasonable belief could be formed that there was some non- disclosure or failure to disclose fully and truly all material facts, the Income Tax Officer has jurisdiction to reopen the assessment.
+Fact	Assessee knows all the material and relevant facts - the assessing authority might not.
+Fact	In respect of the failure to disclose, the omission to disclose may be deliberate or inadvertent.
+RatioOfTheDecision	That was immaterial.
+RatioOfTheDecision	But if there is omission to disclose material facts, then, subject to the other conditions, jurisdiction to reopen is attracted.
+Fact	[632 D-F] 1.2 The obligation of the assessee is to disclose only primary facts and not inferential facts.
+RulingByLowerCourt	What facts are material facts would depend upon the facts and circumstances of each case.
+RulingByLowerCourt	Further, whether there has been such non- disclosure of primary facts which has caused escapement of income in the assessment was basically a question of fact.
+RulingByLowerCourt	In this case, what por tion of the asset consisted of earth and what portion or proportion consisted of masonry work was indubitably a material fact for the purpose of calculating the depreciation.
+RulingByLowerCourt	If over depreciation has been allowed on the basis that the entire work consisted of masonry work, income might have been under-assessed.
+RulingByLowerCourt	The Income Tax Officer can reasonably be said to have material to form that belief.
+RulingByLowerCourt	[631 E-F] 1.3 Mere production of evidence before the Income Tax Officer and leaving him to find out the position by further probing is not enough.
+RulingByLowerCourt	The assessee must make full disclosure truly.
+RatioOfTheDecision	There may be omission or failure to make a true and full disclosure, but if some material for the assessment lay embedded in the evidence which the revenue could have uncovered but did not, then, it is the duty of the assessee to bring it to the notice of the assessing authority.
+Fact	[632 <CITATION_1300646> , 41 I.T.R.
+Fact	191; <CITATION_86256> , 110 I.T.R.
+Fact	630; <CITATION_380958> , 103 I.T.R.
+Fact	437; and <CITATION_1104260> , 78 I.T.R.
+Fact	466 ap plied.
+Fact	629 JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal Nos.
+Fact	800- 807 (NT) of 1974.
+Fact	From the Judgment and Order dated 21st June, 1973 of <ORG> in Income Tax Application No.6 of 1972.
+Fact	<NAME>, <NAME> and <NAME> for the Appellant.
+Fact	<NAME>, <NAME> and <NAME> for the Respondent.
+Fact	The Judgment of the Court was delivered by <NAME> These appeals are by certificate from the decision of <ORG> dated 21st June, 1973 whereby <ORG> had declined the application made under section 256 (2) of the Income Tax Act , 1961 (hereinafter called 'the Act') wherein the assessee sought two questions to be referred to <ORG>.
+Fact	The questions were:  (1) Whether, on the facts and in the circumstances of the case, the re-assessment proceedings under section 147 (a) of the Income-tax Act , 1961, initiated by the Income-tax Officer for the assessment years 1955-56 to 1962-63 against the assessee were valid in law ?
+Fact	(2) Whether,  on the facts and in the circumstances of the case, the <ORG> was justified in up- holding the action under section 147(a) of the Income Tax Act, 1961 for the assessment years 1955-56 to 1962-63 ?
+Fact	The real question, therefore, is whether there were facts from which it could be believed that there was failure or omission to disclose fully and truly all material facts necessary for the assessment as a result of which income has escaped assessment.
+Fact	The assessment was sought to be re-opened for the years 1955-56 to 1962-63 (for failure to disclose fully and truly all material facts).
+Fact	It is well- settled that the obligation of the assessee is to disclose only primary facts and not inferential facts - <CITATION_1300646> , 41 I.T.R.
+Fact	191.
+RulingByLowerCourt	There must be, therefore, (a) full disclosure, and (b) true disclosure of all material facts.
+RulingByLowerCourt	What facts are material for a particular case would depend upon the facts and circumstances of each case, (c) there must be escapement of tax or under assessment due to such failure or o mission.
+RulingByLowerCourt	In this case the reason for the belief of the Income Tax Officer was that the assessee had obtained depreciation at 6 per cent on the assets which were masonry works but the assets really consisted of earth work wholly or substantially.
+RulingByLowerCourt	If that was the position then the assessee was not entitled to depreciation as was granted.
+Fact	The question, is, whether the assessee had disclosed the nature of the masonry work and whether the nature of the asset had been fully and truly disclosed.
+Fact	The assessee's case was that a partnership business carried on by <ORG> was taken over by the assessee by an agreement dated 24th August, 1949 and during the assessment year 1950-51 the said agreement dated 24th August, 1949 as well as the Valuation Report had been filed before the assessing authority.
+RulingByLowerCourt	It is, further, the case of assessee that there was discussion on this Valuation Report.
+RulingByLowerCourt	It further appears from the assessment Order and the affidavit that the Valuation Report was discussed and the  amount of depreciation was more or less agreed to between the parties.
+RulingByLowerCourt	The revenue's case, on the other hand, is that which portion of the assets consisting of masonry work and which of earth work was not discussed or disclosed.
+RulingByLowerCourt	The assessee's contention before the revenue authorities was that the primary facts were discussed fully and it was open to the revenue to examine into this aspect greater and it was not possible after the lapse of such a long time to say actually whether what portion of asset consisted of earth work has been disclosed or not.
+RulingByLowerCourt	It appears, however, from the order of the <ORG> that by its last letter addressed to the Income Tax Officer the assessee had conveyed its agreement that for the purpose of depreciation the value should be taken as Rs.20,31,000 in the aggregate, in the assessment.
+RulingByLowerCourt	The <ORG> has, further, found that in granting the depreciation the I.T.O.
+RulingByLowerCourt	did not discuss the point whether the assets were constructed of masonry or made of earth and the I.T.O.
+RulingByLowerCourt	did not exclude  for depreciation the value of reservoirs, salt pans and piers and condensers and channels made of earth but allowed the depreciation claim of the assessee on the entire value of the reservoirs, salt pans and piers and condensers and channels at 6% even though these were only partly constructed of masonry and partly made of earth.
+RulingByLowerCourt	The <ORG> has noticed that 93% of the construction works were made of earth and only 7% of masonry, and the facts that 41% of the piers were made of earth and only 59% of masonry was not challenged before the <ORG> and were not in dispute before the <ORG>.
+RulingByLowerCourt	There is also no dispute that depreciation at 6% is available only in respect of such assets constructed of masonry and not if made of earth.
+RulingByLowerCourt	It was also not in dispute that depreciation on piers is available at 12% only if constructed entirely or mainly of wood.
+RulingByLowerCourt	The fact that for the assessment years 1955-56 to 1962-63 excessive depreciation allowance had been allowed in the original assessments and income chargeable to ta x had escaped assessment and/or was under-assessed for these years was also not in dispute.
+Fact	The only question, therefore, is, whether there was failure on the part of the assessee to disclose fully and truly all material facts necessary for assessment and future whether such income escaped assessment and whether such escapement or under-assessment has been caused as a result of the failure or omission on the part of the assessee to disclose fully and truly all material facts.
+RatioOfTheDecision	What facts are material facts would depend upon the facts and circumstances of a particulate case.
+RatioOfTheDecision	This follows from the scheme of the section and is well-settled by the authorities of this Court.
+RatioOfTheDecision	It is the admitted position that the assessee had not disclosed either by valuation report or by statement before the I.T.O.
+RatioOfTheDecision	as to what portion consisted of earth work and what portion or proportion consisted of masonry work.
+RatioOfTheDecision	For the purpose of calculating depreciation that indubitably was a material fact.
+RatioOfTheDecision	If over depreciation has been allowe d on that basis i.e.
+RatioOfTheDecision	that the entirety of the work consisted of masonry work, income might have been under-assessed.
+RatioOfTheDecision	The Income tax Officer can reasonably be said to have material to form that belief.
+RatioOfTheDecision	That position is also well-settled by the scheme of the section, and concluded by the authorities of this Court.
+RatioOfTheDecision	The assessee's contention is that the I.T.O.
+RatioOfTheDecision	could have found out the position by further probing.
+RatioOfTheDecision	That, however, does not exonerate the assessee to make full disclosure truly.
+RatioOfTheDecision	The explanation 2 to section 147 of the Act makes the position abundantly clear.
+Precedent	The principles have also been well-settled and reiterated in numerous decisions of this Court.
+Precedent	See <NAME>.
+Precedent	<CITATION_1567881> , 110 I.T.R.
+Precedent	630 and Income-Tax Officer I Ward, Distt.
+Precedent	<CITATION_380958> , 103 I.T.R.
+Precedent	437.
+Argument	<NAME>, J. as the learned Chief Justice then was, observed in <ORG> case (supra) that mere production of evidence before the Income- tax Officer was not enough, that there may be omission or failure to make  a true and full disclosure, if some material for the assessment lay embedded in the evidence which the revenue could have uncovered but did not, then, it is the duty of the assessee to bring it to the notice of the assessing authority.
+RatioOfTheDecision	Assessee knows all the material and relevant facts - the assessing authority might not.
+RatioOfTheDecision	In respect of the failure to disclose, the omission to disclose may be deliberate or inadvertent.
+RatioOfTheDecision	That was immaterial.
+RatioOfTheDecision	But if there is omission to disclose material facts, then, subject to the other conditions, jurisdiction to re-open is attracted.
+RatioOfTheDecision	It is sufficient to refer to the decision of this <ORG> in <ORG> case (supra) where it had been held that if there are some primary facts from which reasonable belief could be formed that there was some non- disclosure or failure to disclose fully and truly all material facts, the I.T.O.
+RatioOfTheDecision	has jurisdiction to reopen the assessment.
+Precedent	This position was again reiterated by this <ORG> in <CITATION_1104260> , 78 I.T.R.
+Precedent	466.
+Precedent	Further more bea ring these principles in mind in this particular case whether there has been such non-disclosure of primary facts which has caused escapement of income in the assessment was basically a question of fact.
+RulingByPresentCourt	<ORG> was right in declining to call for a statement of case on a question of law.
+RulingByPresentCourt	The appeals, therefore, fail.
+RulingByPresentCourt	However, there will be no order as to costs.
+RulingByPresentCourt	<ORG> dismissed.

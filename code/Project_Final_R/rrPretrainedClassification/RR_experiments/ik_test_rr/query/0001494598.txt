@@ -1,0 +1,249 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an application by the Sholapur Municipality against the order of the learned District Judge of Sholapur purporting to act under Section 198 of the Bombay City Municipalities Act, XVIII of 1925, and directing the Sholapur Municipality to pay compensation for 2997 square feet at the rate of Rs.
+Fact	1-12-0 per square foot to opponent No.
+Fact	1 <NAME> alone, and holding that opponent No.
+Fact	2 <NAME>'s mortgage was vitiated by the doctrine of lis pendens, inasmuch as he took the mortgage with notice of a prior agreement by the owner with <NAME> during the pendency of a suit by the latter.
+Fact	2.
+Fact	Opponent No.
+Fact	1 <NAME> was the owner of the land in suit, and demanded compensation from the Municipality for the land encroached upon by the Municipality at the rate of Rs.
+Fact	2-8-0 per square foot.
+Fact	The Chief Officer with the consent of the Managing Committee referred the matter to arbitration under Section 198, Sub-section (1), of the Bombay City Municipalities Act, 1925.
+Fact	The arbi trators gave an award allowing Rs.
+Fact	1-12-0 per square foot.
+Fact	The award did not specify the number of square feet but the area mentioned in the proceedings related to 2997 square feet.
+Fact	<NAME> then made the present application to <ORG> demanding the amount as determined by the panchas, and prayed for an order compelling the Municipality to pay the amount due to the applicant at Rs.
+Fact	1-12-0 per square foot as determined by the panchas with regard to the area of 2997 square feet.
+Fact	The general body subsequently resolved that 860 square feet covered by the drain were to be acquired, and deposited in Court the amount due in respect of the 860 square feet resolved to be acquired.
+Fact	Opponent No.
+Fact	2 <NAME> claimed the money as the mortgagee of the property from the predecessor-in-title of the applicant <NAME>.
+Fact	3.
+Fact	The learned District Judge held that at the time when the negotiations were going on and when the panchayat was constituted, the intention of the Municipality was to acquire an area of 2997 square  feet in order to open up and widen the roads in the locality, that it was impossible to say that the applicant's acceptance of the rate fixed by the panchas was not induced by the consideration of the resulting improvements to his remaining property, and that it was not open to the Municipality to withdraw from the acquisition of 2997 square feet, and that the award was binding on both the parties not only in respect of the rate but also in respect of the area.
+Fact	With regard to opponent No.
+RulingByLowerCourt	2 the learned District Judge held that Gangappa had both actual and constructive notice of the agreement in favour of Tuljaram and that the mortgage of Gangappa was affected by the doctrine of lia pendena, and ordered interest at the rate of six per cent for the remaining portion of the compensation until payment or deposit in the Court and ordered the Municipality to bear the coats of Tuljaram.
+RulingByLowerCourt	4.
+Argument	It is urged on behalf of the Municipality that the application made by Tuljaram for compelling the Municipality to pay compens ation for the whole of the land is not warranted by any of the provisions of Section 198 of the Bombay City Municipalities Act, 1925, and, therefore, <ORG> had no jurisdiction to entertain the application and the order passed by <ORG> is a nullity and should be set aside.
+Argument	It is urged, on the other hand, that the order passed by <ORG> is not appealable according to the decision in <CITATION_1604944> (1911) I.L.R.
+Precedent	36 Bom.
+Precedent	47, s.c. 13 Bom.
+Precedent	L.R.
+Precedent	958, and that an application for revision is also incompetent according to the decision in <CITATION_971297> (1916) I.L R. 40 Bom.
+Precedent	509, s.c. 18 Bom.
+Precedent	L.R.
+Precedent	340.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Under Section 198, Sub-section (1), of the Bombay City Municipalities Act, 1925, if an agreement is not arrived at with respect to any compensation directed to be paid by the Act, the amount and the apportionment of the same, if necessary, shall be determined by a panchayat of five persons, of whom two shall be appointed by the Municipality, two by the party, and one, who s hall be sirpanch, shall be selected by the members appointed.
+RatioOfTheDecision	Under Sub-section (2), if both parties fail to appoint the panchas or if the members fail to select the sirpanch, the members can be appointed by the District Judge at the instance of either party.
+RatioOfTheDecision	Under Sub-section (8), in the event of the panchayat not giving a decision within one month the matter shall be determined by <ORG> according to the procedure provided by the Land Acquisition Act , 1894.
+RatioOfTheDecision	Under Sub-section (4), either party, if dissatisfied with the decision of the panchayat, may apply to <ORG> which shall determine the matter in accordance with Sub-section (3), i.e.
+Argument	according to the procedure prescribed by the Land Acquisition Act , In the present case the panchayat gave the decision in favour of <NAME>, and it cannot be said that he was dissatisfied with the decision of the panch.
+Argument	The application, therefore, of <NAME> to <ORG> to compel the defendant to pay compensation for the whole area of 29 97 square feet does not fall under Sub-section (4) of Section 198 .
+Argument	Under Sub-section (5), the Municipality has power, after the award has been made by the panchayat or <ORG>, to take possession of the land after paying the amount of compensation to the party to whom such compensation may be payable, and if the party refuses to accept such compensation, or it there is no person competent to alienate the land, or if there is any dispute as to the title to the compensation or as to the apportionment, the Municipality may deposit the amount of the compensation in <ORG>, It is clear from the provisions of Section 198 that the application made by Tuljaram to <ORG> to compel the Municipality to pay compensation for the whole land is not maintainable under any of the provisions of the section.
+Argument	The decision of the panchayat was in favour of Tuljaram, and if the Municipality was dissatisfied with the decision, it could have applied to <ORG> under Sub-section (4) of S ection 198 .
+Argument	It appears that the section has failed to make provision for compelling the <ORG> to pay the amount determined by the panchayat, though provision has been made in favour of the <ORG> to take possession of the property after paying compensation to the party entitled to it or depositing it in Court.
+Argument	6.
+Argument	It is, therefore, clear that <ORG> had no jurisdiction in this case to entertain the application made by <NAME>, It had also no jurisdiction to determine the right of opponent No.
+Argument	2 <NAME> who was a mortgagee from the predecessor-in-title of <NAME>.
+Argument	The question of apportionment of the compensation had not been referred to the panchayat under Sub-section (1) of Section 198 , and the determination by <ORG> of the right of <NAME> to the compensation was illegal and without jurisdiction, Mr. <NAME>, appearing on behalf of the opponent <NAME>, was constrained to admit that the application made by his client to the lower Court was not justified by the pr ovisions of Section 193 .
+RulingByLowerCourt	<ORG>, therefore, clearly had no jurisdiction to decide the question submitted for its consideration and the decision is null and aoid.
+RulingByLowerCourt	7.
+RulingByLowerCourt	The next question is whether <ORG> has power to interfere with the order of <ORG>.
+RulingByLowerCourt	<CITATION_1604944> it was held that no appeal lay from the decision of <ORG> under Clause (3) of Section 160 of the Bombay District Municipal Act (Bom.
+RulingByLowerCourt	Act III of 1901), which corresponds to Section 198 of the Bombay City Municipalities Act, 1925, that though a right of appeal is given by Section 54 of the Land Acquisition Act, no appeal is provided by Section 160 of the Bombay District Municipal Act corresponding to Section 198 of the Bombay City Municipalities Act, and that the order of <ORG> is not a decree because it is made not under the ordinary civil jurisdiction but under the special jurisdiction created by the special Act.
+RulingByLowerCourt	8.
+RulingByLowerCourt	<CITATION_971297> , it was held that no application can be made under  the revisional jurisdiction of <ORG> from the decision of <ORG> under Clause (3) of Section 160 of the Bombay District Municipal Act, III of 1901.
+RulingByLowerCourt	In that case it was held that as no appeal lay from the decision of the.
+Precedent	<ORG> under that section, it would be anomalous to hold that an application for revision lay, and further it was held, following the decision in the case of <NAME> v. <NAME> (1895) I.L.R.
+Precedent	21 Bom.
+Precedent	279, that though the words occurring in Section 160 are "<ORG>", the distinction was not sufficient to support an application for revision to <ORG>.
+Precedent	Section 198 of the Bombay City Municipalities Act of 1925 refers to "District Judge" in Sub-section (2) and refers to "<ORG>" in Sub-sections (3), (4) and (6), just as in Sub-section (2) and Sub-section (3) of Section 160 of the Bombay District Municipal Act of 1901.
+Fact	It is difficult to under-stand why "District Judge" is mentioned in Sub-section (2) of Section 198 and "District Cou rt" in Sub-sections, (8), (4) and (5).
+Fact	The differentiation in the phraseology may be explained if the District Judge is considered a persona designata so far as Sub-section (2) is concerned, and <ORG> as distinguished from the District Judge is to determine the rights of the parties under Sub-sections.
+Fact	(3), (4) and (5).
+Fact	9.
+Precedent	In <NAME> v. <NAME> it was held that a District Judge acting under Section 23 of the Bombay District Municipal Act was not a Court within the meaning of the word in Section 622 of the Civil Procedure Code, 1882, corresponding to a, 115 of the present Code, and <ORG> had no jurisdiction to revise his order, and it was held that a District Judge as distinguished from <ORG> is a persona designata.
+Precedent	The decision in <NAME>'s case was followed in <CITATION_637056> (1925) I.L.R.
+Precedent	50 Bom.
+Precedent	357, s.c. 28 Bom.
+Precedent	L.R.
+Precedent	519.
+Precedent	10.
+Precedent	<CITATION_1117322> (1913) I.L.R.
+Precedent	38 Mad.
+Precedent	594 it was held by <ORG> that an order made by <ORG> under Se ction 10 of the Religious Endowments Act was an order revisable by <ORG> under Section 115 of the Civil Procedure Code, Reference was made to the decision in the case of <NAME> v. <NAME> and the decision that the District Judge was a persona designata under Section 23 of the Bombay District Municipal Act was held to be correct on the ground that the District Judge was a persona designata for a specific purpose and not an officer exercising judicial functions under the Act, but it was held that under the Religious Endowments Act <ORG> was not a persona designata but a civil <ORG> exercising jurisdiction under the Act.
+Precedent	The case went on appeal to <ORG> in Balakrishna Udayar v. <NAME> (1917) L.R.
+Precedent	44 I.A.
+Precedent	261, s.c. 19 Bom.
+Precedent	L.R.
+Precedent	715, where it was observed by their Lordships of <ORG>:" Moreover it is to the Civil <ORG> and not to the individual Judge who may preside in or constitute the Civil <ORG> that jurisdiction is given."
+Precedent	The decision in t he case of <NAME> was referred to in the Madras case which went up to <ORG>, and the remark of their Lordships appears to have been made in reference to the designation of the person who had to decide an election under Section 23 of the Municipal Act as a District Judge as distinguished from <ORG>, Their Lordships of <ORG> confirmed the view of <ORG> that <ORG>, under Section 10 of the Religious Endowments Act, XX of 1863, empowering a civil <ORG> to fill up the vacancy in <ORG>, was acting in a judicial capacity as a <ORG> and not merely in an administrative capacity, and that though no appeal lay under the Civil Procedure Code from such an order, the matter in which the order of <ORG> was made was a "case" within the meaning of Section 115 of the Civil Procedure Code.
+RatioOfTheDecision	11.
+RatioOfTheDecision	It appears, therefore, that where a Judge or the presiding officer of a <ORG> as distinguished from the <ORG> itself is directed to pe rform any function of an authority created by a statute, such a Judge may be considered as a persona designata and not a <ORG>, but where a civil <ORG> subordinate to the High <ORG> is constituted an authority to decide the rights between the parties and is directed to perform judicial functions, it is difficult to hold that such a <ORG> is a persona designata and not a <ORG> subordinate to the High <ORG>.
+RatioOfTheDecision	12.
+Precedent	In <ORG>, v. <ORG> [1913] A.C. 5446 it was held that <ORG>, which as regards England consisted of one ex officio and two appointed <ORG>ers, was established as a <ORG> of Record and an appeal lay from the <ORG> to the <ORG> of Appeal except upon questions of fact and locus standi.
+Precedent	Lord <NAME> of Waddington observed as follows (p. 562):  Where by statute matters are referred to the determination of a <ORG> of record with no further provision, the necessary implication is, I think, that the <ORG> will determine the matters, as  a <ORG>.
+Precedent	Its jurisdiction is enlarged, but all the incidents of such jurisdiction, including the right of appeal from its decision, remain the same.
+Precedent	13.
+Precedent	The question was fully discussed by the full bench of <ORG> in <ORG> v. M.A.
+Precedent	Shakur (1925) I.L.R.
+Precedent	3 Ram.
+Precedent	560, F.B., where a distinction is made between the entrustment of the determination of any question concerning rights to a Judge or the presiding officer of a <ORG> as distinguished from the <ORG> itself.
+Precedent	The same reasoning was adopted in <CITATION_373129> (1923) I.L.R.
+Precedent	50 Mad.
+Precedent	121, 128.
+Precedent	14.
+Precedent	The decision in <CITATION_971297> proceeds on two grounds, first, that it would be anomalous to hold that an application for revision would lie when no appeal would lie, When the determination of the rights of parties is entrusted by statute to a civil <ORG> which has to act judicially, the decision of that <ORG> will be subject to appeal if the right is given by the statute, but the fact that no appeal is provided by t he statute is not a sufficient basis for concluding that the <ORG> is not subordinate to the High <ORG> and that an application for revision would not lie.
+RatioOfTheDecision	Ordinarily an application for revision would lie only when no appeal is provided.
+RatioOfTheDecision	The question, therefore, is whether the <ORG> which decides the rights between the parties according to the provisions of any statute is a subordinate <ORG>.
+RatioOfTheDecision	Though in Sub-section (2) of Section 198 reference is made to the District Judge, whereas in Sub-sections.
+RatioOfTheDecision	(3)(4) and (5) reference is made to the District <ORG>, the District <ORG> under Sub-sections (3) and (4) has to act according to the procedure provided by the Land Acquisition Act of 1894.
+RatioOfTheDecision	Though the District Judge may be a persona designata so far as Sub-section (8) is concerned as being empowered to appoint the members of the panchayat, it does not necessarily follow that the District <ORG> mentioned in Sub-section (3) and (4) is not a <ORG> but a persona designati under the Act.
+RatioOfTheDecision	I feel some difficulty in agreein g with the view taken in the case of <CITATION_971297> .
+RatioOfTheDecision	The case of <CITATION_971297> can be distinguished on the ground that the order of <ORG> in that case was passed under clause 0) of Section 160 of Bombay Act III of 1901, whereas in the present case the application made by Tuljaram does not fall under any of the provisions of Section 198 of Bombay Act XVIII of 1925, and the conditions necessary to invest <ORG> with jurisdiction to decide the matter in controversy do not exist.
+Precedent	Even the Collector performing judicial functions under the Mamlatdars' Courts Act is a subordinate Court within the meaning of Section 115 according to the decision in <CITATION_1396941> (1912) I.L.R.
+Precedent	37 Bom.
+Precedent	114. s.c. 14 Bom.
+Precedent	L.R.
+Precedent	947, though the Collector is not ordinarily a Court subject to the jurisdiction of <ORG>.
+Precedent	It is difficult to hold that <ORG> when exercising judicial functions is not subject to the superintendence and control of <ORG> though ordinarily subject to  the superintendence and control of <ORG>.
+Precedent	In my opinion, <ORG> exercising judicial functions in accordance with the procedure laid down in the Land Acquisition Act according to Sub-section (3) and (4) of Section 198 of the Bombay City Municipalities Act of 1925 is a subordinate Court under Section 107 of the Government of India Act if not under Section 115 of the Civil Procedure Code.
+Precedent	15.
+Precedent	In the present case, the application made to <ORG> to compel the Municipality to pay the compensation for the whole area was not maintainable under any of the provisions of a 198 of the Bombay City Municipalities Act.
+Precedent	The decision, therefore, of <ORG> in such an application is ultra vires.
+Precedent	The question as to the area was not referred to the panchayat, though it was assumed, and not disputed that the area to be acquired consisted of 2997 square feet.
+Precedent	The determination of the apportionment of the compensation between opponent No.
+Precedent	1 and opponent No.
+Precedent	2 by <ORG> in th e absence of any reference to arbitration of the panchayat under Sub-section (i) of Section 198 is also without jurisdiction, I think, therefore, that the decision of <ORG> though purporting to be made under Section 198 of the Bombay City Municipalities Act, 1925, does not fall within the ambit of that section and is ultra vires, and cannot be allowed to stand.
+Precedent	16.
+Precedent	<CITATION_1652166> where there was no right of appeal to <NAME> and where it appeared that the order of <ORG> was passed without jurisdiction, as the matter could not come in appeal to <ORG>, under Section 47 of the Civil Procedure Code, the orders made by <ORG> were vacated by their Lordships of <ORG>.
+Precedent	<CITATION_1696297> (1925) 28 Bom.
+Precedent	L.R.
+Precedent	64 it was held that no appeal lay to <ORG> from the order passed by the District Judge as persona designata under a scheme for management of a charitable institution, but at page 67 it was observed as follows:-  We are not concerned w ith hypothetical oases which have been suggested be us, such as, the District Judge declining to exercise the functions imposed upon him by the scheme, or in the exercise of those functions entirely failing to exercise any discretion in the matter, When such oases arise, we have no doubt that <ORG> will be competent to deal with them.
+Argument	17.
+Argument	I think, on the whole, that <ORG> was not competent to deal with the application made by Tuljaram and its order is illegal and must be vacated.
+RatioOfTheDecision	I would, therefore, set aside the order of the lower <ORG>.
+Precedent	18.
+Precedent	As this point was not raised by the Municipality before the lower <ORG> and the action of the Municipality is not free from blame in the present case, we think that the Municipality ought to bear their own costs and pay separate sets of costs of the opponents in this <ORG> and in the lower <ORG>.
+Precedent	<NAME>, J.
+Precedent	19.
+Precedent	The short facts necessary for deciding this revisional application are these:The present applicant, the Sholapur Municipality, desir ed to acquire some land belonging to <NAME>, opponent No.
+Precedent	1.
+Precedent	It was agreed between the parties that 2997 square feet should be acquired, and as the Municipality considered that the compensation demanded by Tuljaram was exorbitant, the matter was referred to arbitration as provided by Section 198 of Act XVIII of 1925.
+Precedent	The panchas decided that compensation should be paid at the rate of Rs.
+Fact	1-12-0 per square foot.
+Fact	The area to be acquired was not settled by the panchas, because at the time there was no dispute on that point, But afterwards the Municipality changed its mind and proposed to acquire 860 square feet only at the same rate per square foot.
+Fact	Tuljaram having failed to obtain payment made an application to <ORG>, Miscellaneous Application No.
+Fact	87 of 1928, described as an application under Section 198 of the Act, in which he prayed that the Municipality should be compelled to pay compensation at Rs.
+Fact	1-12-0 per square foot for 2997 square feet.
+Fact	At the hearing of this application the D istrict Judge considered two principal issues: (1) whether the Municipality was bound to acquire the whole area originally agreed upon, (2) whether the compensation should be paid to Tuljaram or to one <NAME>, who claimed an interest in the property as mortgagee.
+Fact	This <NAME> is opponent No.
+Argument	2.
+Argument	He was not a party to the arbitration proceedings but was made a party to the proceedings before <ORG> at the instance of the Municipality.
+Argument	The District Judge decided (1) that the Municipality was bound to pay compensation at Rs.
+Argument	1-12-0 per square foot for the whole area, and (2) that the compensation should be paid to Tuljaram Krishnasa, and payment was ordered accordingly.
+Fact	The Municipality has applied to this Court for revision of this order.
+RatioOfTheDecision	20.
+RatioOfTheDecision	A preliminary question arises as to whether the application is competent, that is to say, whether <ORG> has any power to revise the order of <ORG> purporting to have been made under Section 198 of Act XVIII of 1925.
+RatioOfTheDecision	Prima facie  it would appear that <ORG> must possess this power.
+RatioOfTheDecision	Section 115 of the Civil Procedure Coda gives power to <ORG> to revise the proceedings of any <ORG> subordinate to <ORG> in a case in which no appeal lies.
+RatioOfTheDecision	Section 4 , Clause.
+Statute	(1), of the Code provides as follows:  In the absence of any specific provision to the contrary, nothing in this Code shall be deemed to limit or otherwise affect any special or local law now in force or any special jurisdiction or power conferred, or any special form of procedure prescribed, by or under any other law for the time being in force.
+Statute	21.
+RatioOfTheDecision	This has been interpreted to mean that the provisions of the Code apply to proceedings under special Acts unless there is some provision in the special Act which shows a contrary intention.
+Precedent	<CITATION_278608> (1886) I.L.R.
+Precedent	13 Cal.
+Precedent	221.
+Precedent	Velli Peviya Mira v. <NAME> (1886) I.L.R.
+Precedent	9 Mad.
+Precedent	332 was a case under the Madras Rent Recovery Act which contained an express provision that orders passed under it should no t be liable to revision except by <ORG>.
+RatioOfTheDecision	It was held, therefore, that <ORG> had no power of revision, the implication being that but for this provision <ORG> would have had that power.
+RatioOfTheDecision	There is no provision in Act XVIII of 1925 such as there was in the Act dealt with in <ORG> v. <NAME>, which excludes the revisional jurisdiction of <ORG>.
+RatioOfTheDecision	It would appear, therefore, that Section 115 must apply and give this <ORG> power to revise the order of the District Judge, if it can be regarded as an order of a <ORG> subordinate to <ORG>.
+RatioOfTheDecision	22.
+RatioOfTheDecision	Then there is Section 107 of the Government of India Act which gives <ORG> powers of superintendence over all <ORG>s subject to its appellate jurisdiction.
+Fact	The power of superintendence here referred to includes the power of revision: Nilmoni Singh Deo v. <NAME> (1882) I.L.R.
+Fact	9 Cal.
+Fact	295, P.C.
+Fact	and K.A.M.
+Fact	Mohideen v. <NAME> (1925) I.L.R.
+Fact	3 Ran.
+Precedent	410, 429, 430, F.B.
+Precedent	The words "subject to its appellat e jurisdiction" do not mean, of course, subject to the appellate jurisdiction in that particular matter, for revision would not be necessary if an appeal lay, but subject to its appellate jurisdiction normally, or even in certain specific cases only: <NAME> v. King-Emperor (1918) 3 P.L.J.
+Precedent	581, F.B.
+Precedent	<ORG>.
+Precedent	therefore, has power to revise the order in question under Section 107 of the Government of India Act if it is an order of a <ORG> normally subject to the appellate jurisdiction of the High <ORG>.
+Precedent	23.
+RatioOfTheDecision	That in the present case we are concerned with an order of a <ORG> is clear from the language of Section 198 .
+RatioOfTheDecision	Under Clause (2) the District Judge is given power to appoint arbitrators in certain circumstances, but when it is a question of the determination of any dispute between the parties, whether on failure of the panchayat to give a decision, Clause (3), or in case either party is dissatisfied with the decision of the panchayat, Clause (4), it is the District <ORG> which is empow ered to deal with the matter, and the procedure to be followed is that laid down in the Land Acquisition Act for proceedings referred for the determination of the <ORG>.
+Precedent	That being so, the ratio decidendi of such cases as <ORG> v. <NAME> (1907) I.L.R.
+Precedent	30 Mad.
+Precedent	326, <NAME> v. <NAME> (1925) I.L.R.
+Precedent	3 Ran.
+Precedent	410, 429, 430, F.B., <NAME>, In re (1917) I.L.R.
+Precedent	42 Bom.
+Precedent	119, s.c. 19 Bom.
+Precedent	L.R.
+Precedent	926, and <NAME> v. King-Emperor (1918) 3 P.L.J.
+Precedent	581, F.B., where it was held, respectively, that the High <ORG> has no power to revise the orders of a District Registrar, a Rent Collector under the Rangoon Rent Act, a District Judge acting departmentally as the head of an office, and a Commissioner appointed under the Defence of India Act, has little or no application in the present case.
+Precedent	Lastly, Section 3 of the Code provides in terms that the District <ORG> is subordinate to the High <ORG> for the purposes of the Code.
+Precedent	So that for the purposes of Section 107 of the Government of Ind ia Act <ORG> must be regarded as generally subject to the appellate jurisdiction of <ORG>.
+Precedent	24.
+RatioOfTheDecision	If the matter were res integra, there could be no question, in my opinion, that this application for revision is competent.
+RatioOfTheDecision	The difficulty arises owing to the decision in <ORG> v. Budrappa, where it was held that no application for revision lies against the decision of <ORG> under Clause (3) of Section 160 of the Bombay District Municipal Act III of 1901, which corresponds to Clause (3) of Section 198 of the present Act, The first point to be noted in connection with this case is that the application had been properly made to <ORG> under Clause (3) of Section 160 .
+RatioOfTheDecision	In that case the <ORG> had failed to deliver their award and <ORG> was, therefore, empowered to determine the dispute as to the amount of compensation.
+RatioOfTheDecision	It is true that the Judge in that casehe happened to be an Assistant Judgedid not decide the dispute, because he was of opinion  that he had no jurisdiction to do so until certain other matters had first been submitted to arbitration.
+RatioOfTheDecision	Nevertheless it was possible for this <ORG> to hold in the circumstances that the order was one which was intended to be final and should not, therefore, be revised.
+RatioOfTheDecision	It was not a case like the present where <ORG> was applied to for an order which it was not empowered to makethere is nothing in Section.
+Precedent	198 which gives <ORG> power to enforce an award on the application of a party who relies upon itand where moreover the <ORG> has determined a dispute, viz., that between Tuljaram and Gangappa, which had not been submitted to arbitration and was not within the jurisdiction of the <ORG> at all.
+Precedent	25.
+Precedent	The judgment of <NAME> in <CITATION_971297> (1916) I.L.R.
+Precedent	40 Bom.
+Precedent	539, s.c. 18 Bom.
+Precedent	L.R.
+Precedent	340 is a short one and I quote the material part of it (p. 511):-  In the case of <CITATION_1604944> it has been decided by a Bench of this <ORG> that no appeal lies from the decision of <ORG> rict <ORG> under Clause (3) of Section 160 of the Bombay District Municipalities Act.
+RatioOfTheDecision	The object of this application is to obtain from the <ORG> a decision that although no appeal would lie, yet an application in revision does lie.
+RatioOfTheDecision	Such a decision would, in our opinion, be seriously anomalous, and we do not think that the words of the Statute require us to make such a pronouncement, The only decision which seems to us fairly consistent with that already recorded in <NAME> case, is the decision that no application for revision is competent.
+Precedent	In <NAME> v. <NAME> this <ORG> has held that it has no jurisdiction to revise the order of a District Judge acting under Section 23 of the Bombay District Municipalities Act of 1884.
+Precedent	And although the words occurring in that section are 'District Judge,' whereas the words occurring in Section 160 , last clause, are 'District <ORG>,' we do not think that the distinction is sufficient to support the argument that an application for revision is c ompetent, although admittedly no appeal would lie.
+Precedent	26.
+Precedent	In <NAME> case it was decided that no appeal lies from the decision of <ORG> under Clause (3) of Section 160 of the Bombay District Municipal Act.
+RatioOfTheDecision	The fact that there is no appeal does not ordinarily imply that there is no remedy by revision either.
+RatioOfTheDecision	In fact revision only lies under Section 115 of the Code in cases where there is no appeal, So that evidently what <NAME> meant when he said that any other decision would be seriously anomalous was this, viz., that the particular grounds on which it had been decided that there was no appeal would apply equally in the case of a revision application.
+RatioOfTheDecision	This appears to be the main ground of decision.
+Precedent	A subsidiary ground was that in <NAME> v. <NAME> it was decided that <ORG> had no jurisdiction to revise the order of a District Judge under Section 23 of the Bombay District Municipal Act of 1884, on the ground that the District Judge was not a Court but a per sona designata.
+Precedent	<NAME> apparently considered that it made no material difference whether the powers under a special Act were assigned to the District Judge or to <ORG>.
+Precedent	27.
+Precedent	It is, therefore, necessary to refer to <CITATION_1604944> and <NAME> v. <NAME>, and see exactly what was decided in those cases and what the basis for the decisions was.
+Precedent	The facts in <NAME> case were that an application had been properly made to <ORG> under Section 160 , Clause (3), for the determination of the compensation due to the applicant after failure of the panchayat to determine the amount.
+Precedent	<ORG> made an order determining the amount and the applicant appealed, <NAME> view was that <ORG> only came in as a substitute for the panchayat where adjudication by the latter had failed, and, therefore, <ORG>'s order could not be questioned any more than the award of the panchayat could be questioned by way of an appeal.
+Precedent	The le arned Judge also referred to the provisos to Section 160 , Clause (3), which are the same as the provisos to Section 193 , Clause (3), of the present Act, namely, "(a) no application to the Collector for a reference shall be necessary", and "(b) the <ORG> shall have full power to give and apportion the costs of all proceedings in any manner it thinks fit".
+Precedent	These provisos were relied upon as indicating that the decision of the District <ORG> was intended to be final.
+Precedent	This, so far as I can see, is the only reason in the judgment which can in any way be said to negative the power of the High <ORG> to revise the District <ORG>'s order The additional reason given for holding that there was no appeal, namely, that the order could not be regarded as a decree, would not affect the question of revision at all.
+Precedent	28.
+Precedent	Now, if the decision in this case is to be considered not with reference to the question which was decided in the case itself, namely, the question whether there was an appeal, but with reference to the que stion whether a revision application lies, there are two important points of difference which, I think, must affect the decision.
+Precedent	In the first place, though the award of a panchayat is no doubt final in the sense that it is not open to appeal, it is not final in the sense that it can be executed as it stands.
+Precedent	It can only be made executable apparently by being filed as a decree as provided by the Civil Procedure Code or by means of a suit to enforce it.
+Precedent	On the other hand, the order of <ORG> is itself enforceable in execution as held in <CITATION_781420> (1923) I.L.R.
+Precedent	47 Bom.
+Precedent	654, s.c. 25 Bom.
+Precedent	L.R.
+Precedent	305.
+RatioOfTheDecision	In that very important respect, therefore, the award of a panchayat and the order of <ORG> do not stand on the same footing, and the argument that the <ORG> intended that there should be no interference with <ORG>'s order is, in my opinion, very materially weakened.
+RatioOfTheDecision	The second argument baaed on the intention of the <ORG> to give finality to orders passed under Sec tion 198 can only apply with any force to orders contemplated by the provisions of that section, As I have mentioned, in <CITATION_971297> , it was possible to hold that <ORG> order came within the purview of the section.
+RatioOfTheDecision	But what the <ORG> has decided and ordered in the present case is outside the purview of the section altogether.
+RatioOfTheDecision	It would be impossible to hold that the <ORG> was functioning simply as a substitute for the panchayat when it dealt with matters not referred to the panchayat at all.
+RatioOfTheDecision	The main line of reasoning in <NAME> case appears, therefore, to have no application.
+Precedent	29.
+Precedent	As regards <NAME> v. <NAME>, that was a case under the Bombay District Municipal Act, 1884, Section 23 of which Act empowered the District Judge to pass an order for confirming or amending the declared result of an election or for setting the election aside.
+Precedent	The section also provided that the District Judge might exercise any of the powers of a civil <ORG> and that his decision sh ould be conclusive.
+Precedent	In the particular case the District Judge had refused to set aside an election and had ordered the applicant to pay the costs of the other party.
+Precedent	It was this order for payment of costs which <ORG> was asked to revise, and it was held that the District Judge acting under Section 23 was not a <ORG> and that <ORG> could not interfere.
+Precedent	30.
+Precedent	Two points are to be noted in connection with this case.
+Precedent	In the first place, the powers under Section 23 of the Act of 1884 were given to the District Judge and not to <ORG>.
+Precedent	<NAME> in <CITATION_971297> no doubt expressed the view that that made no difference.
+Precedent	But that view, it would appear, is no longer tenable having regard to the judgment of <ORG> in <ORG> v. <NAME> (1917) I.L.R.
+Precedent	40 Mad.
+Precedent	793, s.c. 19 Bom.
+Precedent	L.R.
+Precedent	715, P.C., The reasoning of Lord <NAME> in that case was that in determining whether an order is that of a <ORG>.

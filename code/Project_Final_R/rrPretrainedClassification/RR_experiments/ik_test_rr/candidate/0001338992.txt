@@ -1,0 +1,61 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	Only a few facts require to be stated in order to explain how the question referred in this case arises.
+Fact	2.
+Fact	The assessee, Messrs. <ORG> is a limited company and on 6-4-1938, it acquired from one of its creditors some cinematographic machinery at the price, as was claimed, of Rs.
+Fact	3,94,000/-.
+Fact	That figure of the cost of the machinery was accepted in successive assessments of the assessee, but was doubted for the first time in the course of the assessment for the year 1946-47.
+Fact	That year, the Income-tax Officer seems to have made an enquiry into the circumstances in which the machinery had been acquired and he came to the conclusion that its real cost to the assessee had been not Rs.
+Fact	3,94,000/-, as claimed and as also allowed in previous assessments, but only Rs.
+Fact	2,80,000/-.
+Argument	Since he found that depreciation allowance of the amount of Rs.
+Argument	2,84,000/- had already been allowed to the assessed, he came to the conclusion that the written down value had been reduced to a  minus figure and, therefore, there was no further depreciation allowance to be allowed.
+Argument	Necessarily, in the next assessment also, that for the year 1947-48, he made a similar order.
+Argument	3.
+Argument	The assessee's contention is that the Income-tax Officer was not entitled to determine afresh, as it were the original costs of the machinery to the assessee, but had merely to take the written down value of the previous year and to work out there-bom the written down value for the assessment year and then allow the statutory percentage of deduction.
+Fact	The authorities below did not agree and decided against it.
+Fact	Thereupon, the <ORG> was required to refer the matter to this Court which has been done in the form of the I following question:  Whether the Income-tax Officer, dealing with the assessments for the years 1946-47 and 1947-48, was entitled in law to go behind the original cost which was accepted by his predecessor ever since the assessment year 1939-40?
+Fact	4.
+Fact	As framed, the question seems to raise a point of estoppel or ' res judicata.'
+Fact	It refers to what had been done by successive Income-tax Officers since the assessment year 1939-40 and asks whether the Income-tax Officer, dealing with the assessments for the two years in question, could take a view different from theirs with regard to the original costs of the machinery.
+Argument	Mr. <NAME>, however, appearing for the assessee, expressly disclaimed any intention to put his argument on the ground of anything like res judicata or estoppel.
+Argument	He said that the terms of Section 10 (2) (vi) sufficed for him and he would only draw attention to what the section enjoined.
+Argument	According to Mr. <NAME>, the language of Section 10 (2) (vi) limited the Income-tax Officer to working down to the written down value for the year for which he was making the assessment from the written down value accepted for the previous year.
+Argument	Further behind he could not, under The terms of the section, go.
+Argument	5.
+Statute	Section 10 (2) (vi) is expressed in the follow ing terms:  10 (2) "Such profits or gains shall be computed after mak ing the following allowances, namely:  .....  (vi) in respect of depreciation of such buildings, machinery, plant or furniture being the property of the assessee, a sum equivalent, where the assets are ships other than ships ordinarily plying on inland waters, to such percentage on the original cost thereof to the assessee as may in any case or class of cases be prescribed and in any other case, to such percentage on the written down value thereof as may in any case or class of cases be prescribed .....".
+Statute	We are really concerned with the last clause of the section.
+Statute	This is not a case of ocean-going ships, but one of "other" cases and, therefore, under the language of the section, the depreciation is the prescribed percentage on the written down value of the machinery or plant concerned in the case.
+RatioOfTheDecision	6.
+Argument	Mr. <NAME>'s contention was that the written down value had a well understood meaning in commerce and so far as the Income-tax Act was concerned, both the method of determining it and the quantum at which it wa s to be determined were regulated by the rules framed.
+Argument	He pointed out that whereas the written down value, entered by the owner of a business in his own books, might be what he considered to be proper in view of the principles of commercial accounting and the exigencies of the case, the Income-tax Act laid down a fixed percentage which had to be applied.
+RatioOfTheDecision	All that had to be done in the first year was to fix the original cost and thereafter the Income-tax Officer had merely to write the value down from the figure of the original cost to a figure to which the figure of the original cost would be reduced if the statutory percentage was deducted, and then allow the statutory percentage of the written down value so determined, as an allowance.
+Fact	Similarly, in the next year, he had to write the written down value further down by deducting once again the same statutory percentage and grant the assessee an allowance of the statutory percentage of the value written further down in the manner stated above.
+Fact	As this was th e process contemplated and directed by the Act, Mr. <NAME> contended that when in a particular year the Income-tax Officer had to decide what depreciation allowance he would grant the assessee, he had merely to see what the written down value of the previous year was and then apply the statutory percentage in the two ways I have already indicated.
+RatioOfTheDecision	The section, Mr. <NAME> reminded us, spoke of "such percentage on the written down value thereof as may in any case or class of cases be prescribed."
+RatioOfTheDecision	In those words there was no room, according to Mr. <NAME>, for looking further behind than at the written down value immediately preceding and if that was so, any revision of the basic figure of the original cost which had been gradually scaled down to the written, down value of the previous year, was wholly excluded by the section and entirely unwarranted.
+RatioOfTheDecision	7.
+RatioOfTheDecision	As Mr. <NAME> said that he would not rely upon the principle of 'res judicata' or anything like the rule of estoppel, but would be content to rely upon the statute  itself, Mr. <NAME> sought to meet section by section.
+RatioOfTheDecision	He referred us to the definition of 'written down value', as contained in Section 10 (5) of the Act.
+RatioOfTheDecision	According to that section, 'written down value' means we are not concerned with Clause (a)--  "(b) in the case of assets acquired before the previous year the actual cost to the assessee, less all depreciation actually allowed to him under this Act, or any Act repealed thereby, or under executive orders issued - when the Indian Income-tax Act , 1886  was in force."
+Argument	Mr. <NAME> contended that Clause (b), although it was a definition section, clearly indicated what the task of the Income-tax Officer was when he had to determine the depreciation allowance for any year other than the year following the year of the purchase.
+Argument	He had to see what the actual cost to the assessee had been and then see how much depreciation allowance had been granted to him in all up to the time and then take the difference between the two sums as the written down value for the year con cerned.
+Argument	Since the two component parts of the definition were, (a) actual cost to the assessee, and (b) depreciation so far allowed, Mr. <NAME> contended that there was nothing to prevent the Income-tax Officer from determining for himself what the actual cost had been and, in fact, the section required him to do so.
+Argument	He might certainly accept the cost as originally determined and in most cases would probably do so, but if he thought that the original determination was erroneous, the section left him free and indeed made it his duty to find the actual cost for himself.
+Argument	It was pointed out that even the method suggested by Mr. <NAME> implied some reference to the original cost, because the written down value of the previous year on which, according to Mr. <NAME>, the Income-tax Officer would have always to rely, was only the resultant figure that had been reached by working down from the figure of the original cost.
+Argument	As regards Mr. <NAME>'s actual argument, Mr. <NAME>'s answer was that if the intention of the <NAME> ture was to limit the Income-tax Officer in the way contended for by Mr. <NAME>, then Clause (b) of Section 10 (5) might well have said that in the case of assets acquired before the previous year, the written down value would be the value determined by deducting from the written down value of the previous year the amount of the statutory percentage.
+Argument	Instead of doing so, the section specifically referred the Income-tax Officer back to the original cost and back to the amounts of allowance granted in the past and thus committed to him a task of not merely performing a mathematical operation on the basis of the written down value of the previous year, but one of determining the written down value himself.
+RatioOfTheDecision	8.
+RatioOfTheDecision	In my view, the contention of Mr. <NAME> is right.
+RatioOfTheDecision	The definition, it appears to me, completely excludes the view suggested by Mr. <NAME> as to the nature of the operation to be performed under the latter part of Section 10 (2) (vi).
+RatioOfTheDecision	Clearly, the limit to which the income-tax Officer can go back does not stop  at the written down value of the previous year, but extends up to the figure of the original cost, and the method enjoined by Section 10 (5) (b) is not that the Income-tax Officer should merely scale the written down value of the previous year down, but that he should take into consideration the actual cost, determining it for himself, if necessary, take also into consideration the allowance granted in the past and then make his own computation as to the written down value for the assessment year with which he is concerned.
+RatioOfTheDecision	It appears to me that neither is there any principle of 'res judicata' or estoppel standing in the way of the Income-tax Officer proceeding in the manner I have mentioned above, nor do the terms of Section 10 (2) (vi) themselves limit him in the way suggested by Mr. <NAME>.
+RatioOfTheDecision	9.
+RatioOfTheDecision	For the reasons given above, the answer to the question referred must, in my opinion, be in the affirmative.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The Commissioner of Income-tax will have his costs of this Reference.
+Precedent	11.
+Precedent	Certified for two Counsel.
+Precedent	Lahiri J.
+Precedent	12.
+RulingByPresentCourt	I agree.

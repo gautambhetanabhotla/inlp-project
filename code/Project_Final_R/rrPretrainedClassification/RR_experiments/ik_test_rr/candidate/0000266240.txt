@@ -1,0 +1,94 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal by the plaintiff against the preliminary decree in a suit for partition of joint properties.
+Fact	The subject matter of the litigation originally belonged to one <NAME>, who left a widow, <NAME>, and four song, <NAME>, <NAME>, <NAME> and <NAME>.
+Fact	On the 10th August 1917 the plaintiff purchased from <NAME> his right, title and interest in the ancestral properties.
+Fact	On the 8th April 1919 the plaintiff instituted the present suit for partition of the properties in which he had become a joint owner by purchase, and claimed to be planed in separate possession of a one fourth share after partition by metes and bounds.
+Fact	The widow of the original owner who was joined as a defendant, contended that she was entitled to a share in the event of partition, and that the plaintiff was consequently not entitled to more than a one-fifth share.
+Fact	The Subordinate Judge has given effect to this contention and has made a decree accordi ngly, The substantial point whish has been argued on the present appeal is, that the widow is not entitled to a share, inasmuch as partition is claimed, not by one of her sons, but by the purchaser from one of them.
+RatioOfTheDecision	We are of opinion that there is no foundation for this contention.
+RulingByLowerCourt	2.
+RulingByLowerCourt	It was ruled by Mr. Justice <NAME> in the case of <CITATION_218763> 27 C. 551 : 4 C. W. N. 764 : 14 Ind.
+Fact	Dec. (n. s.) 362, that, as a Hindu mother is entitled under the law to be maintained out of the joint family property, if anything is done affiliating that right, as, for instance, by the sale of any particular share by any of her sons, her right comes into existence.
+RatioOfTheDecision	The position of a purchaser from a son is exactly that of a son himself; he has the same rights and takes it subject to the name liabilities as those of the person from whom he purchased.
+RatioOfTheDecision	This decision is precisely in point and was given twenty one years ago.
+RatioOfTheDecision	We have not been able to trace any judicial pronouncement where it has been doubted or dissented fro m or where an inconsistent rule has been formulated.
+RatioOfTheDecision	Apart from this, it is plain that the view adopted by Mr. <NAME> was not a new departure but purported to follow the opinion expressed by <NAME>, <NAME>, and <NAME>, J., in 1899 in the case of <ORG> 27 C. 77 : 4 C.W.N.
+RatioOfTheDecision	254 : 14 Ind.
+Argument	Dec. (n. s.) 51.
+Argument	<NAME>, <NAME>, observed, no doubt with reference to an entirely different set of circumstance, that as the widow's maintenance specially as against the sons is a charge on the estate, a right in rem in the fullest sense, adhering to the property into whatever hands it may pass, a right convertible in the event of a partition into a right to a share equal to that of eons, it is difficult to see upon what principle a son can so deal with his share as to defeat that right of his mother.
+Argument	Mr. Justice <NAME> emphasised the view that, as a general rule, no owner of property can convey to any person a higher right than what he himself possesses, and that, consequently, the p urchaser of joint family property from a member of a joint Hindu family must take it subject to the right of his vendor's co-sharers to demand partition and subject also to such rights of other persons (who were not, strictly speaking, so sharers with the vendor at the date of the alienation) as nay arise under the Hindu Law upon partition.
+Precedent	A similar view had been adopted in 1680 by a Full Bench of the Allahabad <ORG> in Bilaco v. <NAME> 3 A, 88 : 5 Ind.
+Precedent	Jur.
+Precedent	489 : 2 Ind.
+Precedent	Dec. (n. s.) 61 (F.
+Precedent	B.)
+Precedent	where it was ruled that a Hindu widow, entitled under the Mitakshara Law to a proportionate share with sons upon partition of the family estate, can claim such share, not only against the sons, but as against on auction-purchaser, at the Bale in the execution of a decree of the right, title and interest of one of the sons in such estate, before voluntary partition.
+Precedent	It was explained that the right the mother has is aright to participate in the property left by her <NAME>, a latent and inchoate right of partici pation which becomes effective when separation takes place; in other words, she has, as <NAME>, C. J., put it in the case already mentioned, a quasi contingent right which may ripen or crystallise, if and when the partition takes place.
+Precedent	(Sir <NAME> on Considerations on Hindu Law, page 57).
+Precedent	It would be contrary to elementary principles to hold that a right of this nature is liable to be defeated by recourse to the devise of an alienation, by one of the sons, of his share in the ancestral estate.
+Precedent	The same doctrine was substantially recognised by <ORG>, in 1855 in the case of <ORG> v. <NAME> <NAME> (1885) 1 Boul 223 at p 233: 3 Ind.
+Precedent	Dec. (o. s.) 163; Reversed on Appeal 6 M. I.
+Precedent	A.
+Precedent	52 at p 539 : 1 Ind.
+Precedent	ur (n. s.) 37; W. R. P. C. 11(sic) Suth.
+Precedent	P. C. J.
+Precedent	291 : 1 Sar P. C. J.
+Precedent	583, 19 E. R. 188, when he said that the rights of a co-parcener in an undivided family may, in his life time, pass to strangers, either by alienation, or, as in the case of creditors, by operatio n of law, but in all cases those who come in, in the place of the original co-sharer, by inheritance, assignment or operation of law, tan take only his rights as they stand, including of course the right to call for a partition.
+Precedent	The view we take is not affected by the decision in <ORG> v. <ORG> 20 C. 682; C. Ind.
+Precedent	Dec. (n. s.) 460 which is an authority for the proposition that as the share allotted to a mother on a partition between her sons is given to her in lieu of or by way of provision for her maintenance, [ <CITATION_1179648> 15 C 29 : 17 Ind.
+Precedent	Dec (n. s.) 779, <CITATION_817942> 16 I.
+Precedent	A 15 : 6 C. 758 : 3 Ind.
+Precedent	Jur.
+Precedent	210, 5 Sar, P. C. J.
+Precedent	874 : 8 Ind.
+Argument	Dec. (n. s), 502, she is not entitled to a share, if a portion only of the joint property is divided and the bulk of the property, ample for her maintenance, remains undivided.
+Argument	3.
+Precedent	It has been contended, however, that the decision in <CITATION_218763> (1) is opposed to the test of the <ORG>, which provides as follows, in Chapter III, section 2 , paragraph 29: "When partition is made by brothers of the whole blood after the demise of the <NAME>, an equal share must be given to the mother; for the text (of <NAME>) expressed, the mother should be made an equal sharer".
+Precedent	This passage has been treated as authority for what must now he deemed nettled his, namely, that the mother's right to claim a share arises only when her sons some to a partition, in other words, that she cannot enforce her claim to share so long as her sons remain joint and do not ask for partition; <CITATION_1054829> 31 I.
+Precedent	A.
+Precedent	10 at p. 15 : 31 C. 262 : 14 M. L. T. 8 : 8 C. W. N. 146 : 8 Sar.
+Precedent	P. C. J.
+Precedent	575 : 6 Bom.
+Argument	L. R. 1 (P. C.).
+Argument	Now it has been argued by the appellant that under this text of the Dayabhaga, strictly construed, the mother is entitled to a share, only when her sons make a partition, and that, consegnently, if a partition takes place at tie instance of the purchaser of the share of a son, the mother cannot obtain a share.
+RatioOfTheDecision	This mode of interpretation is manifestly fall acious and proves too much; for it may as well be maintained that the purchaser of a share of a son cannot at all maintain a suit for partition, inasmuch as such a suit is not explicitly authorised by the text of the <NAME>.
+RatioOfTheDecision	The truth is, that the author of the <NAME> bad before him the problem of the partition of the family estate at the instance of a member thereof; be did not deal with the Question of partition enforced by a stranger, who, by his purchase, becomes a joint owner of the family property but not a member of the joint family itself; a partition at his instance cannot, by any stretch of language, be Ballad <NAME> or partition of heritage, and must consequently be regarded as foreign to the proper scope of the treatise of <NAME>, When partition of the family properties is claimed in such circumstances by a stranger to the family, the question which arise must accordingly be determined by reference to general principles not inconsistent with those formulated for the case of partitio n enforced by a so parcener in the joint family, One of such general principles, as we have already explained, is that a member of the family cannot, by alienation of his interest, prejudice the position of another member, because no owner of property is competent, as a general rule, to convey to any person a higher right than what he himself possesses The substance of the matter thus is, that although the text of the Dayabhaga Chapter III, Section 2, paragraph 23, speaks only of a partition made by sons and the allotment thereupon of a share to the mother, there is nothing said in the passage or in any other authoritative text of Hindu Law which we have been able to discover, as to the mother's right to a share on partition being so absolutely nonexistent before partition, that it may be defeated by any of her sons alienating his share before a partition.
+RatioOfTheDecision	Apart from this, it is plain that the literal and restrictive construction of the passage of the Dayabhaga, as interpreted by the appellant, would lead to  the obviously unreasonable conclusion that if the suit were instituted by one of the tons, the mother would be entitled to a share, even though one of the defendants happened to be the purchaser of the share of another son, while the mother would not be entitled to a share if the suit happened to be instituted by such purchaser himself; surely the rights of the mother could not, on any rational ground, be made dependent upon a purely accidental circumstance, namely, whether the purchaser of the share of one of her sons is plaintiff or defendant.
+RatioOfTheDecision	We hold accordingly that though a mother cannot compel a partition so long as the sons remain united, if a partition does take place between the Sons, she is entitled a share equal to that of a son to the co-parcenary property, and she is entitled to a similar share on a partition between the sons and the purchaser of the interest of one or more of them.
+RatioOfTheDecision	The share of the plaintiff has consequently been correctly determined to be one-fifth.
+RatioOfTheDecision	4.
+RatioOfTheDecision	A subordinate point whic h has been argued before us requires consideration.
+Argument	The plaintiff alleged in the plaint that the lady had been given by her <NAME> Government Promissory Notes of the value of Rs.
+Argument	8,00), and that she was consequently not entitled to put forward a claim for maintenance.
+Argument	In his deposition the plaintiff asserted that the lady had got from her <NAME> Government Promissory Notes worth Rs.
+Argument	5,000, The lady admitted that her <NAME> gave her G. P. Notes of the value of Rs.
+Argument	1,500 and that her <NAME> gave her G. P. Notes of the value of Bs.
+Argument	3,500 The Sub-ordinate Judge, has believed her statement and has directed that at the time of partition the value of her allotment weald be the value of one fifth share of the estate minus the value of the G. P. Notes the received from her <NAME> of which the nominal value is Rs.
+Argument	1,500.
+Argument	The appellant has contended before this Court that this direction is erroneous, that no distinction should have been made between the G. P. Notes received from her <NAME> and those received from h er <NAME>, and that the value of her allotment should be the value of one fifth share of the estate Minim the actual value of the G. P. Notes for Rs.
+Fact	5,000.
+RatioOfTheDecision	We are of opinion that this contention should not prevail.
+RatioOfTheDecision	It is well-settled that if the mother has received stridhan from her <NAME> or <NAME> in law, its value should be deducted from her share.
+RatioOfTheDecision	Mr. Justice <NAME> held in Jodoo both <NAME> v. <ORG> 12 B. L. R 885 that on partition of the family property by the sons after their <NAME>'s death, their mother is entitled to a share equal to that of a son, but if she has, before the partition, received property from their <NAME> either, by gift or Will, amounting to more than a son's share, she is entitled to nothing more on partition; if, on the other hand, she has received less, she is entitled on partition to as mush as will make what she has received equal to a son's share.
+RatioOfTheDecision	<NAME> was made to a text of Yajnavalkya where a share is allotted, in the case of a partition in the <NAME>'s  lifetime, to such wives as have had no separate properly given to thorn by their <NAME> or <NAME>-in-law.
+RatioOfTheDecision	Reliance was also placed upon the <ORG>, Chapter III, Section 2, paragraph 31; and <ORG>, tr.
+RatioOfTheDecision	by <NAME>, Book V. Section 2, Pl, 87.
+Precedent	This view was approved in <CITATION_318948> 12 C. 165 : 6 Ind.
+Precedent	Dec. (n. s.) 112 and also receives support from the decision in <CITATION_836394> 1 Ind.
+Precedent	Cas.
+Precedent	523 : 36 C. 75 : 12 C. W. N. 1002. which followed <CITATION_1779660> 3 C. 149; I Ind.
+Precedent	Dec. (n. s.) 684.
+Precedent	The rule is stated in similar terms in paragraph 587 of the latest edition of the Vyavastha Darpana of Syamacharan Sarkar (3rd Ed.
+Argument	1883, Pt.
+Argument	I, P. 517): "the equal participation, however, of the mother with her song takes effect, if no separate property have been given her by her <NAME> or any of his kinsmen; bat, if any have been so given, she is to have ardha or a portion which, together with the stridhan, will be equal to a son's share."
+RatioOfTheDecision	The statement is amply supported by the authorities set o ut in paragraph 55200 (p. 199) and paragraph 552 (p. 42c).
+RatioOfTheDecision	It is thus indisputable that the approved opinion is that the deduction to be allowed is in respect of <NAME> received from the <NAME>, from the <NAME>-in law, and possibly also from any of the kinsmen of the <NAME>; it does not include <NAME> received from the family of the <NAME> of the lady.
+RatioOfTheDecision	This position is eminently reasonable; the primary responsibility for maintenance rests upon the <NAME> and the <NAME> in law, and gifts made by them may well be set off against the share of the family estate receivable in lieu of maintenance, on the occasion of a partition amongst her son*; the same theory cannot be predicated in respect of gifts received from her <NAME> and members of his family who are not primarily responsible for her maintenance.
+RulingByPresentCourt	We accordingly hold that the plaintiff is not entitled to impose on the lady a further reduction in respect of the G. P, Notes received by her from her <NAME>.
+RatioOfTheDecision	5.
+RulingByPresentCourt	The result is, that the decree of the Subo rdinate Judge is affirmed and this appeal dismissed with costs.
+RulingByPresentCourt	We assess the hearing fee at ten gold mohurs.
+RulingByPresentCourt	<NAME>, J.
+RulingByPresentCourt	6.
+RulingByPresentCourt	I agree.

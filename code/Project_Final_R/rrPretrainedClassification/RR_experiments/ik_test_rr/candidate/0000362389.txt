@@ -1,0 +1,181 @@
+Fact	ORDER P.C.
+Precedent	Mallick, J.
+Precedent	1.
+Precedent	This is an application for amendment of plaint in a suit for partition.
+Fact	The plaintiff instituted this suit impleading the <NAME>'s other co-sharers as parties.
+Fact	Two other defendants--<NAME> and <NAME> have been impleaded.
+Fact	By a deed of adoption executed by the plaintiff the defendant <NAME> appears to be adopted as a son of the plaintiff's <NAME>.
+Fact	<NAME> is the natural <NAME> of <NAME>.
+Argument	The deed is challenged and it is alleged that it is tainted with fraud.
+Argument	Leave under Clause 12 of the Letters Patent was obtained inasmuch as some of the properties were situate outside the jurisdiction of this court.
+Argument	2.
+Fact	The plaintiff's case as made in the original plaint is that she as the widow of <NAME> an admitted co-owner was entitled to one-sixth share in the joint properties.
+Fact	On that title the instant suit was instituted.
+Fact	Allegations have been made in the plaint of fraud having been committed by the defendant <NAME> by reason of which, it is contended that the d eed of adoption has become void.
+Fact	Reference bas also been made of a suit instituted by the co-sharers against herself and the defendants <NAME> and <NAME> in <ORG> wherein adoption and the deed was challenged.
+Fact	This Ajmere suit ultimately terminated by the judgment and decree of <ORG> which upheld the adoption.
+Argument	It is to be conceded that no reference to this adoption was made in the plaint, except as it came up in connection with the plea of fraud with reference to the deed of adoption.
+Argument	It is alleged that the deed of adoption was brought about by fraud perpetrated on the plaintiff by the defendant <NAME>, <NAME> of <NAME>, along with others.
+Argument	While pleading this case of fraud, it has been stated in the plaint that as a condition of adoption the plaintiff was to be in control of the property of her <NAME> and to enjoy the usufruct during her natural life.
+Argument	The deed, which she was made to execute, was different and therefore the deed was alleged not to be binding on  her.
+Argument	3 In the written statement filed by the <NAME>, the other co-sharers, the plaintiff's claim to one-sixth share has been admitted and the right of <NAME>, the adopted son, has been disputed.
+Precedent	<NAME> and <NAME> contested the suit inter alia on the plea of res judicata and maintainability by reason of the decision in the <NAME> suit, being Suit No.
+Precedent	5 of 1924.
+RatioOfTheDecision	Facts alleged in support of the case of fraud have been, denied.
+RatioOfTheDecision	4.
+Fact	With the consent of the parties, I heard two preliminary issues, namely, whether the instant suit is barred by res judicata by reason of the decision in the <NAME> suit and whether the suit was not maintainable in its present form.
+Fact	At the time when the two preliminary issues were being argued before me, Mr. <NAME>, learned counsel appearing for the plaintiff, submitted that apart from the case made out in the plaint that the plaintiff was the owner of one-sixth share of her <NAME>'s property, the plaintiff is, in any event, entitled to be in possession of the proper ty during her life time, inasmuch as it was one of the conditions of adoption.
+Fact	Though these facts are to be found in the plaint, nevertheless, this alternate case has not been properly pleaded.
+Fact	At the time Mr. <NAME> strenuously urged that having regard to the circumstances of this case, I ought not to be very strict in the matter of pleading and I ought to allow the plaintiff to make out this case as an alternate case, I indicated to Mr. <NAME> that on the present pleading it was difficult for me to allow the plaintiff to make that alternate case.
+Fact	After the argument was concluded, I took some time to give my decision and in the meantime before I delivered judgment the present summons has been taken out by the plaintiff for amendment.
+Fact	In the petition in support of the summons it is stated in paragraph 5 that the petitioner felt, in the course of discussions in court, that certain facts have not been fully stated and that the alternate case has not been properly pleaded.
+Argument	In that view of the matter, the plainti ff is contending now that should this court hold that she is no longer entitled to challenge adoption on the ground of fraud, she should, nevertheless, be allowed to make out a case that as a condition of adoption she would be entitled to possession of the property during her life time, and as such she is quite competent to maintain this suit for partition.
+Argument	5.
+Argument	This petition for amendment has been strenuously resisted by <NAME>, the adopted son, and <NAME>, the natural <NAME> of the adopted son.
+Argument	Mr. <NAME> on behalf of <NAME> contended that I have already held in my judgment on the preliminary issues that the suit is not maintainable in its present form and that after having recorded this decision, I have got no Other alternative than to dismiss the present application, and that for the purpose of amendment I am functus officio.
+RatioOfTheDecision	I do not accept this contention of Mr. <NAME> and I hold that I am still competent to deal with the matter including the present summons for amendment.
+RatioOfTheDecision	The fact tha t I have held that because of the absence of a prayer for setting aside adoption, this suit is not maintainable in its present form does not debar me from considering whether in the circumstances of this case I should allow the plaintiff to make an alternate case.
+RatioOfTheDecision	6.
+Fact	Mr. <NAME> next contended that by the amendment the plaintiff is seeking to make a new case.
+Fact	The alternate case is certainly new.
+Fact	Whereas the case made in the original plaint is that the plaintiff is the owner of one-sixth share as <NAME>'s widow on the footing that there was no adoption, the alternate case is that as a condition of adoption she is entitled to possession during her natural life even though <NAME> is the owner of <NAME>'s one-sixth share.
+RatioOfTheDecision	In other words whereas in the original plaint she claimed partition as owner of one-sixth share, the alternate case is that she has possessory title which entitles her to claim partition.
+RatioOfTheDecision	This is undoubtedly true.
+RatioOfTheDecision	An alternate case is necessarily a different case.
+RatioOfTheDecision	Mr. <NAME> however c ontends that an amendment is not necessarily to be rejected because the case is new and based on a different cause of action.
+Precedent	He relies on a decision of <ORG> in case of <CITATION_908527> ., .
+Precedent	In that case, <ORG> allowed an amendment so as to enable the plaintiff to make a new case based on an entirely different cause of action.
+Precedent	In the case cited, the plaintiff's claim was for damages for conversion.
+Precedent	Having failed in trial court, <ORG> and finally in <ORG>, the plaintiff applied to <ORG> for amendment of the plaint so as to claim damages on the basis of breach of contract.
+Precedent	The new case was based on a different cause of action.
+Precedent	<ORG> allowed the amendment even though the claim for damages was barred on the date of the amendment.
+Precedent	By allowing this amendment, the defendant was deprived of a very valuable defence, viz., the plea of limitation.
+Precedent	In the instant case, the fact that the adoption was conditional has been stated in the j plaint, even  though I agree with the learned counsel appearing for the defendants that these facts have been referred to with reference to the deed of adoption.
+Precedent	One of the grounds on which the deed is challenged is that though the plaintiff only agreed to take <NAME> in adoption on condition that she would be in control of the estate during her life time, this condition has not been recorded in the deed.
+RatioOfTheDecision	The case that adoption was conditional is therefore to be found in the plaint To make out an alternate case, the facts are there, though not pleaded in proper language.
+RatioOfTheDecision	This is, what the plaintiff seeks to do now.
+RatioOfTheDecision	The lady is a pardanashin Hindu lady and she had to depend for conducting the litigation on others.
+RatioOfTheDecision	She has pleaded that she has been let down by people whom she trusted.
+RatioOfTheDecision	She made out a case or fraud.
+RatioOfTheDecision	She was not allowed to make that case of fraud in the Ajmere Suit.
+RatioOfTheDecision	Unfortunately, she is debarred from making out that case of fraud in the instant suit as well.
+RatioOfTheDecision	But I find, on the allegations made in the pla int itself, that she may have an alternate case on the footing that she is entitled to possession during her life time and as such she is competent to institute this suit.
+RatioOfTheDecision	I am not inclined to debar her from agitating that case.
+RatioOfTheDecision	7.
+Fact	The fact of adoption is no longer in controversy.
+Fact	The controversy sought to be raised in the plaint is whether the plaintiff's own act of adoption is binding on her having regard to the fraud of <NAME> and others as alleged in the plaint.
+Fact	There is another point of controversy between the parties, viz., whether the adoption was conditional.
+RatioOfTheDecision	This point though indicated has not been clearly made out in the plaint.
+RatioOfTheDecision	This point of controversy is sought to be agitated in this suit bv the present amendment.
+RatioOfTheDecision	The plaint is admittedly inadequate to raise this controversy.
+RatioOfTheDecision	But one paragraph in the plaint would have entitled the plaintiff to make this alternate claim she seeks now--the facts being already there.
+RatioOfTheDecision	That one paragraph is to this effect that the plaintiff claims title as <ORG> <NAME>'s widow to the one-sixth share in the properties in suit; alternately and in any event she is entitled to be in possession of the one-sixth share, during her natural life even if the adoption is held to be binding on her.
+RatioOfTheDecision	In my judgment the plaintiff should not be debarred from making this alternate case.
+Precedent	In the circumstances of the case I will stretch a point in favour of the plaintiff and I would not be stiff and unbending.
+Precedent	I am inclined to exercise my discretion in her favour so as to enable her to submit this alternate case to the adjudication of the Court.
+Precedent	8.
+Argument	It is next contended that by allowing the plaintiff to amend her plaint the defendants are being deprived of a legal right which has accrued to the defendants by lapse of time.
+RatioOfTheDecision	In other words the plea of limitation which the defendant could have availed of would be lost if the amendment is allowed.
+RatioOfTheDecision	The suit no doubt has been instituted in 1936 and the amendment is being asked in 1959.
+RatioOfTheDecision	But it does not necessarily follow that the new case is time  barred.
+RatioOfTheDecision	This argument is tenable if it is shown that a fresh suit on the amended claim would be barred by limitation on the date of the application.
+RatioOfTheDecision	If however the claim on the amended plaint is within time at the date of amendment, this argument loses its force.
+RatioOfTheDecision	The claim on the amended plaint is for partition -- the same as in the original plaint though right to claim partition is on the basis that the plaintiff has possessory title.
+RatioOfTheDecision	There are two sets of defendants (1) the other co-sharers (2) <NAME>.
+RatioOfTheDecision	The other co-sharers, viz., the <ORG> defendants do not dispute the plaintiff's right as co-sharer.
+Precedent	None of them set up adverse title by ouster.
+Precedent	It is clear as against the <ORG> defendants there is no question of limitation.
+Precedent	Is it time barred as against <NAME>?
+Precedent	The plaintiff has not been dispossessed by <NAME>.
+Precedent	In the <ORG> suit only plaintiff's title as the adopted son of <NAME> has been declared.
+Precedent	The Court was not called upon to decide whether the adoption was conditional.
+Precedent	The decision  in the Ajmere suit cannot therefore be considered to declare <NAME>'s right to possession.
+Precedent	Nor in fact he is in possession.
+Precedent	How then can it be said that the claim made in the amended plaint is time barred having regard to the fact that the plaintiff still continues to be in possession and has not been dispossessed?
+Precedent	This is a simple suit for partition by one co-sharer against another involving the determination of another question as to title and right to possession vis-a-vis her adopted son.
+Precedent	She claims possessory title and she has never been dispossessed.
+Precedent	How then the question of limitation arise?
+Precedent	In any event adoption took place in 1924 and this suit was instituted in 1936.
+Precedent	If as is contended by the defendants Article 120 applies in the instant case, the suit was barred at the original date of the institution of the suit.
+Precedent	The defendants would not be worse off by reason of this amendment.
+Precedent	There is a substantial point of limitation to be gone into in any event a question I was not invited to decide as a  preliminary issue.
+Precedent	The issue has yet to be decided.
+RatioOfTheDecision	In the circumstances it can hardly be contended that the defendants are being deprived of a legal right which has accrued to the defendants by lapse of time.
+RatioOfTheDecision	Mr. <NAME> submits that even if the amended claim is time barred, that does not affect the power of the court to allow amendment if that is required in the interest of justice.
+RatioOfTheDecision	The <ORG> case referred to before is an authority for that proposition.
+RatioOfTheDecision	I hold that in the instant case if the plaint is amended the defendant would not be deprived of any legal right which has accrued to them by reason of the lapse of time.
+RatioOfTheDecision	Amendment cannot be refused on that ground.
+Argument	9.
+Argument	Next it is argued that by reason of this delay many of the witnesses have died and if the plaint is allowed to be amended the defendants would suffer serious difficulty in disproving the plaintiff's new case.
+RatioOfTheDecision	In the affidavit in opposition the names of these witnesses who are competent to depose on the point & are now dead have not been  given.
+RatioOfTheDecision	Mr. <NAME> points out that the case being already there in the original pleading, there is already evidence on this point taken on commission from witnesses who are competent to depose on the point, viz., on what condition the adoption was agreed to be taken.
+RatioOfTheDecision	Further apart from Sir.
+RatioOfTheDecision	<NAME> all the relevant witnesses on the point are alive.
+RatioOfTheDecision	Sir <NAME>'s evidence on the point has already been taken on commission.
+RatioOfTheDecision	There is therefore no substance in this grievance.
+RatioOfTheDecision	This argument of Mr. <NAME> has force.
+RatioOfTheDecision	I am unable to accept the defendants' argument in the absence of any indication in their affidavit of the names of the witnesses competent to depose on the point who are no longer alive.
+RatioOfTheDecision	Even if one or two witnesses are no longer alive and the court holds that they were material witnesses on the point that is not sufficient ground to reject this application if the amendment is otherwise considered to be necessary in the interest of justice.
+RatioOfTheDecision	10.
+Argument	It is next argued that this suit was instituted aft er obtaining leave under Clause 12 of the Letters Patent.
+Argument	In such a suit no amendment can be ordered if it requires a fresh leave under Clause 12 of the Letters Patent.
+Argument	In the instant case the plaintiff has in the summons prayed for a fresh leave.
+Precedent	This leave cannot be given and the court has no power to grant amendment in such cases.
+Precedent	In support of this proposition two recent decisions of this court have been cited.
+Precedent	In the case of <NAME> v. State of Bibar, Sinha, J. laid down the following proposition at page 286 : (of Cal LJ) : (at p. 641 of <ORG>) :  "Where by amendment of the plaint, a cause of action is altered or a new cause of action added, it is not a new suit but the old suit in new form.
+Precedent	In such a case no amendment can be ordered if it requires leave to be granted under Clause 12 of the Letters Patent at the time of amendment."
+Precedent	It follows that leave under Clause 12 of the Letters Patent cannot be granted in such a case at any stage after the institution of the original suit.
+Precedent	In this cited case  the jurisdiction was invoked on the ground that part of the cause of action arose within and part outside the jurisdiction of this court.
+Precedent	It was not a suit for land.
+Precedent	11.
+Precedent	The next decision cited is the decision of <NAME> in the case of <NAME> v. <NAME>, 94 Cal LJ 160.
+Precedent	The subject matter of litigation was the cancellation of licence in respect to stalls in a <ORG> market situate outside the jurisdiction of this court.
+Precedent	The jurisdiction of the court was invoked on the ground that part of the cause of action arose within jurisdiction.
+Precedent	It was held by the learned Judge that the suit was a suit for land and the land being outside jurisdiction this court has no jurisdiction to entertain it.
+Precedent	Nevertheless the learned Judge discussed the question of the jurisdiction of the court on the footing that it was not a suit for land and followed the decision of <NAME>, J. in the case of <NAME>.
+Precedent	<CITATION_574042> of the 24 Pargunnahs, AIR 1946 Cal 23 and of <NAME>, J. in the case  .
+Precedent	Having regard to the decision of the learned Judge that the suit was a suit for land and that the land was situate wholly outside jurisdiction and the suit was dismissed on that ground, the observation of the learned Judge on the point is nothing more than an obiter.
+Precedent	11A.
+Precedent	Mr. <NAME> has also cited two decisions, one from Bombay and another, from Madras.
+Precedent	The Bombay decision was that of <NAME>, J. in the case of <CITATION_976179> , AIR 1939 Bom.
+Precedent	345.
+Precedent	This was also not a suit for land and the whole of the cause of action not having arisen within jurisdiction leave under Clause 12 was obtained to vest jurisdiction of the court.
+Precedent	Subsequently the plaint was amended so as to substitute a new cause of action.
+Precedent	No leave for amendment was either prayed for or obtained.
+Precedent	At the trial the point was taken that there being no leave for the amendment the suit must fail.
+Precedent	The learned Judge held that if an amendment, which would alter the cause of action, is made, it necessarily follows that fresh leave should be obtained in  respect of the altered cause of action.
+Precedent	In the cited case there not being such a leave, the suit was held to be bad and dismissed.
+Precedent	This Bombay decision was considered in the two Calcutta cases noted above and it was pointed out that the learned Judge was not called upon to consider in that case directly whether in such cases the court had power to grant leave when the application for amendment was moved.
+Precedent	12.
+Precedent	In the case of <CITATION_1064060> .
+Precedent	held that where the court considers that the plaint has to be amended so as to include a cause of action which was not originally in the plaint on the ground that such an amendment is necessary, it is not precluded from granting such an amendment merely for the reason that it was a suit instituted after obtaining previous leave under Clause 12 of the Letters Patent.
+Precedent	13.
+Precedent	It is therefore clear that there is a substantial divergence of judicial opinion on this point.
+Precedent	There is no compelling decision of our <ORG> on the point.
+Precedent	Again it is to be noticed that in all t he cases the jurisdiction of the court was invoked on the basis of the cause of action having arisen in part within the jurisdiction of the court.
+Precedent	In the instant case the suit is a suit for land situate partly within and partly outside jurisdiction.
+Precedent	The title in the amended plaint is different from the title in the original but it is with reference to the same land which is situate partly within and partly outside the jurisdiction of this court.
+Precedent	Would the same reasoning apply to a case where the jurisdiction of the court is invoked on the ground that land is situate in part within jurisdiction?
+Precedent	In a suit for the purpose of jurisdiction, where the cause of action arose has absolutely no relevance.
+Precedent	In the absence of a binding decision, I am not prepared to apply the same rule in the case of suits for land even if the rule is correct.
+Precedent	Neither originally nor by the amendment jurisdiction of the court is invoked on the ground that part of the cause of action arose within the jurisdiction of this court.
+Precedent	Cause of ac tion has nothing to do and has no relevance in determining the jurisdiction of this court.
+Precedent	I am therefore apt to think that the Calcutta authorities noted above are not direct decisions on the point of jurisdiction in the instant case.
+Precedent	<NAME>, J., in the case noted that the rules are very artificial and he was compelled to negative jurisdiction having regard to what he considered to be the uniform decisions of this court.
+Precedent	I am not inclined to extend the rule so as to cover cases in which the jurisdiction of the court is invoked not because the cause of action in part has arisen within the jurisdiction of this court but because of the situs of the land.
+Precedent	I am apt to think that in such a case no leave is necessary when plaint is sought to be amended.
+Precedent	But it seems mat there is another view) which cannot be ignored.
+Precedent	According to that view the leave is not merely necessary but imperative and failure to obtain leave at the time of obtaining amendment would lead to the dismissal of the suit.
+Precedent	Such being the serious con sequence, I would grant the plaintiff leave under Clause 12 of the Letters Patent, so that she may not be confronted with this technical difficulty at the trial supposing she succeeds in establishing that she has a good case that should be upheld.
+Precedent	For reasons given above I make on order in terms of paragraphs (a) (b) and (c) of the Summons.
+Precedent	14.
+Precedent	There is a prayer for leave to reverify certain allegations in the plaint as being true to knowledge and not as of submission.
+Precedent	It is submitted that by allowing this, I would be curing a defect which according to Mr. <NAME>, is vital.
+Precedent	A suit cannot and ought not to fail because of imperfect verification and the court should give leave to rectify it at any time.
+Precedent	I therefore allow the plaintiff to reverify the plaint in the manner she chooses.
+Precedent	15.
+RatioOfTheDecision	The plaintiff is getting an indulgence and must pay the costs of this application as also costs of any additional Written Statement the defendants may file for which leave is given.
+RatioOfTheDecision	The cost of this application of <ORG>  is assessed at Rs.
+Fact	500/- and costs of <ORG> assessed at Rs.
+Fact	200/- other defendants will pay their own costs.
+Fact	Certified for counsel.

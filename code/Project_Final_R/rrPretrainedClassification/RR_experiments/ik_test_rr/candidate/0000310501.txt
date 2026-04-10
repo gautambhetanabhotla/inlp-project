@@ -1,0 +1,285 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <NAME>.
+Fact	DATE OF JUDGMENT09/04/1975 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME>, A.C. CITATION: 1976 AIR 255 1975 SCR 93 1976 SCC (1) 17 CITATOR INFO : F 1983 SC 420 (12) ACT: Indian Income Tax Act .
+Fact	1922, s. 23 A-Scope of.
+Statute	HEADNOTE: Under Section 23A of the Indian income Tax Act , 1922, if in respect of any previous year the profits and gains distributed as dividends within the 12 months immediately following the expiry of that previous year are less than the statutory percentage of the total income of that previous year as reduced by the amounts mentioned in cls.
+Statute	(a), (b) and (c) and sub-s. (1), the Income Tax Officer shall make an order that the company shall be liable to pay super-tax at the prescribed rate on the undistributed balance of the total income of the previous year.
+Fact	According to Explanation 2, statutory percentage means 45 per cent of the industrial profits and 60 per cent of nonindustrial profits .The explanation further says that the said percentages should be applied separately with reference to the amounts of profits and gains attributable to the two parts of the company's business as if the said amounts were respectively the total income of the company in relation to each of its parts, the amount of dividends and taxes also being similarly apportioned for purpose of sub-s. (1).
+Fact	In the present case 45 per cent of the industrial profits comes to Rs.
+Fact	1.51 lakhs, while 60 per cent of non-industrial profits comes to Rs.
+Fact	8.43 lakhs.
+Fact	The company, instead of distributing a sum of Rs.
+Fact	9.94 lakhs by way of dividends distributed Rs.
+Fact	4.20 lakhs, equally as profits of the industrial and non-industrial activities leaving aside the profit of Rs.
+Fact	13.21 lakhs.
+Fact	The income Tax Officer allocated the dividends declared by the company to the industrial and non-industrial segments in the same proportion as the profits of the two segments bore to the total profits of the company and levied additional super-tax under s. 2 3A on the entire undistributed balance of the total profits available for distribution, namely Rs.
+Fact	13.21 lakhs.
+Fact	The Order was confirmed by the Appellate Assistant Commissioner.
+RulingByLowerCourt	On appeal, <ORG> held that in so far as the profits of the industrial activity were concerned, the company must be deemed to have distributed by way of dividends out of those profits just so much,as would be equal to 45 per cent of such profits and accordingly it allocated the dividend out of industrial and non-industrial profits.
+RulingByLowerCourt	On this allocation it came to the conclusion that the company having declared the statutory dividend on its industrial profits, was not liable to pay additional super- tax in so far as these profits were concerned.
+RulingByLowerCourt	It, however, upheld the levy of additional super-tax on non-industrial profits.
+RulingByLowerCourt	<ORG> confirmed the <ORG>'s view.
+RulingByLowerCourt	Allowing the appeal, HELD : (1) <ORG> was in error in holding that the profits of the two parts of the company's business should be treated as if t hey were the total income of the company for all purposes.
+RulingByLowerCourt	In taking this view <ORG> overlooked the concluding words of Explanation 2 by reason of which the legal fiction has to be limited to its duly appointed purpose.
+RulingByLowerCourt	[106 D-E].
+Argument	(2) <ORG> and the <ORG> were wrong in holding in favour of the assessee.
+Argument	Where a company has a composite business, the first step is to ascertain the distributable profits of the two parts separately.
+Argument	For the purpose of finding out the minimum dividend that the company ought to have distributed, the proper statutory percentage as prescribed by Explanation 2 has to be applied separately to the distributable profits of the two parts, as if the respective profits are the total income of the company in relation to each part of its business.
+Argument	The composite dividend distributed by the company has then to be 94 apportioned between the two parts in the same ratio as the respective profits of the two parts bear to the toal profits of the company.
+Statute	[103H-104B].
+Statute	(3)(a) Expla nation 2 by its express terms requires that for the purpose of sub-s. (1) the amount of dividends must be "similarly apportioned".
+Statute	[101 E] (b) The word "similar" may generally be said to be a word of ambiguous import in the sense that the mere stipulation in a statute that something should be done similarly is insufficient by itself to signify the degree of similarity with which that thing must be done.
+Statute	The words "similarly apportioned" mean apportioned with reference to the amounts of profits and gain attributable to the two parts of the company's business.
+Statute	The Explanation first refers to an apportionment or splitting up and then provides that the dividends and taxes shalt be similarly apportioned, that is to say, similarly split up.
+Statute	Accordingly, the words "similarly apportioned" have a definite meaning and are not ambiguous.
+Statute	[101G-102 C].
+Statute	(c) The word "apportion" is used in Explanation 2 in the sense of "split up" so that "similarly apportioned" means "similarly split up ".
+Argument	The dividends have, therefore, to  be split up similarly, i.e.
+Argument	in the same ratio as the industrial and non-industrial profits bear to each other after the total profit is split up in two parts, industrial and non- industrial.
+Argument	[102D-E] ((1) An assignment as a proper portion of the dividends would mean an assignment in the same or similar ratio as the respective profits of the- two segments bear to the total profits of the company.
+Argument	It is not open to the company to split up and apportion the dividends to the Profits of the two segments in such a manner as it finds convenient or thinks fit.
+Argument	The company's freedom to apportion the dividends is conditioned by the ratio which the profits of the two segments bear to the total profits.
+Argument	[102 F-G] The sum of Rs.
+Fact	4.20 lakhs has to be split up in the same proportion which the respective profits of the two segments bore to the total profits of the company.
+Fact	There is a short- fall in respect of both the segments and accordingly the company would be liable to pay additional super-tax at the rate of 37 per cent  on the entire undistributed balance of the distributable profits.
+Fact	[102 H-103 B].
+RatioOfTheDecision	(4)(a) The language of s. 23A(1) as also of Explanation 2 is clear and distinct and does not yield to more than one reasonable interpretation.
+RatioOfTheDecision	The fiction created by the Explanation is expressly limited to the purposes of sub-s. (1) and there is no justification for pursuing the fiction to its logical conclusion so as to permit it to operate beyond the limited purpose of sub-s. (1).
+RatioOfTheDecision	Under the scheme contained in s. 23A where a company has a composite business it is necessary at the outset to find out the profits attributable to the two parts of its business.
+RatioOfTheDecision	The statutory percentages as prescribed by Explanation 2 have then to be applied separately to the profits of the two parts.
+RatioOfTheDecision	By reason of the fiction created by Explanation 2, the profits of each part have, for this purpose, and for this purpose alone, to be treated as if they were the total income of that part of the Company's business.
+Statute	By sub-%.
+Statute	(1) the company becomes lia ble to pay additional super-tax if the dividends distributed by it are "less than the statutory percentage of the total income".
+RatioOfTheDecision	Explanation 2 creates the fiction that for the purpose of sub-s. (1) the income of the respective parts is to be regarded as the total income of each part so that the statutory percentages can be applied separately to the income of each part.
+RatioOfTheDecision	The fiction operates in this limited field and is in terms created for this limited purpose.
+Statute	[105D-106 B].
+Statute	(b) The levy of additional super-tax under s.23A(1) is a single levy.
+Statute	The super-tax has to be levied "on the undistributed balance of the total income of the previous year".
+Statute	Sub-section (1) itself clarifies that by these words is meant "total income as reduced by the amounts, if any, referred to in cls.
+Argument	(a), (b) or (c) and the dividends actually distributed, if any."
+Argument	Even if the Income Tax Officer finds that the apportioned dividend in any part of the company's business is less than the dividend that ought to have been 95 declared by appli cation of the statutory percentage, that additional super-tax has to be levied on the whole of the undistributed profits of the company.
+Statute	[106 B-D].
+Argument	ARGUMENTS For the appellant : 1.On a true interpretation of Section 23A(1) and Explanation 2 thereto where the company's profits liable to be distributed as dividend are composite consisting of industrial and non-industrial profits, the Income-tax Officer has first to find out profits attributable to industrial activity and profits attributable to non- industrial activity and ascertain the ratios between the industrial and non industrial profits to the total distributable profit.
+Argument	By the fiction created by explanation 2 he has to treat the profits in each section as if they were the total income of that section and apply the statutory percentage to find out the minimum dividend that must be declared by the company.
+Argument	He has then to dissect the composite dividend declared by the company and apportion the same between the dividend relating to industrial profits and div idend relating to non-industrial profits in the same ratios as the industrial profits bear to the total distributable profits and non-industrial profits bear to the total distributable profits.
+Argument	Thereafter, he has to find out whether the dividends so apportioned between the two parts is below the minimum distributable on the application of the statutory percentage.
+Argument	If he finds that the declared dividend apportioned to any part of the business is below the taxable minimum arrived at by applying the statutory percentage then the Income-tax Officer has to levy additional super tax on the entire undistributed profits, that is to say, on the distributable profits minus the total composite dividend declared by the company.
+Argument	2.The levy of additional super-tax u/s.
+Argument	23A(1) is a single levy and is on the undistributed profits on their entirety and, therefore, where on apportionment of the composite dividend declared by the company the industrial and non- industrial profits, the Income-tax Officer finds that the apportion ed dividend in any part of the company's business is less than the dividend that ought to have been declared by application of the statutory percentage the Income-tax Officer has to levy additional super-tax on the entire undistributed profits even though in the other section of the business the declared dividend as apportioned may not be below the minimum that ought to have been distributed by the application of the statutory percentage.
+Argument	3.
+Argument	The fiction created in clause of explanation 2 of Section 23A(1) prescribing that the amounts of profits or gains attributable to two parts of company's business should be- treated as if they were the total income of the company in relation to each of the parts is only for the purpose of applying the statutory percentage which hag to be applied to the total income to find out the dividend liable to be distributed.
+Argument	This fiction cannot be extended for the purpose of deeming the profits of each part as total income for the purpose and levy of additional super-tax as if there  were as man total income as there were parts of business profits.
+Argument	4.
+Argument	Even on the interpretation put 'by <ORG> and the opinion given by it on the question referred to u/s.
+Fact	66(2) of the Income-tax Act , 1922, the Income-tax Officer would be justified in levying additional super-tax on the entire distributed profit of Rs.
+Fact	13,21,174 or atleast on Rs.
+RulingByLowerCourt	12,36,196 which is the amount of non-industrial profits minus the balance of the declared dividend attributable to non industrial profits i.e.
+RulingByLowerCourt	Rs.
+Precedent	14,05,310 minus Rs.
+Precedent	2,69,114.
+Statute	For the respondent Section 23A of the Income-tax Act was recast by the Finance Act II of 1957 with effect from 1-4-1957.
+Statute	It is this amended section that is applicable to the case under consideration as it relates to the assessment year 1957-58.
+Statute	96 The scope of Explanation 2 would appear to require the following step& to be taken in order to find out whether s. 23A(1) is applicable in the case of a company whose profits consist partly of industrial activity and partly of non- industri al activity.
+Statute	(i) Ascertain the profits relating to each part separately when the company's business consists of partly in manufacture and partly of other activities.
+Statute	(ii) Treat the profit of each part as the total income of the company (in order to find out whether the dividend distributed is less than the statutory percentage).
+Statute	(iii) Apportion the taxes relating to each part and deduct such tax from the profits of that of the company's business.
+RatioOfTheDecision	Arrive at the balance of income by deducting the amount covered by item (3) from the amount covered by item (2).
+RatioOfTheDecision	(iv) Apply the statutory percentage of either 45 per cent or 60 per cent on the balance of income arrived at.
+RatioOfTheDecision	(v) Find out whether the dividend distributed and apportioned to each part is less than the statutory percentage.
+RatioOfTheDecision	(vi) If the dividend distributed is less than the statutory percentage, then on the undistributed balance of income of each part less the taxes specified in sub-section (1) and dividend apportioned to this part, additional super-tax to  be levied at 37 per cent.
+RatioOfTheDecision	The expression 'similar' is an ambiguous word.
+RatioOfTheDecision	The word apportionment split up.
+RatioOfTheDecision	So long as the apportionment is made with the desire to, act as fairly and justly as possible by all parties no uniform mode of apportionment is necessary.
+RatioOfTheDecision	In the light of this the assessee company has apportioned the dividend in accordance with the law.
+RatioOfTheDecision	There is no other method.
+RatioOfTheDecision	of apportionment indicated in the explanation.
+RatioOfTheDecision	Section 23A(1) is not applicable to that party of the company's profits relating to manufacture.
+RatioOfTheDecision	If he follows the provisions of explanation 2 the Income-tax Officer cannot be said to be satisfied that the dividend distributed relating to this part of the company's business is less than the statutory percentage.
+RatioOfTheDecision	The contention of the <ORG> on the other hand is that the dividend should be apportioned in the same proportion in which the industrial profits and non-industrial profits bear to the total income of the company less the taxes specified in cls.
+RatioOfTheDecision	(a), (b) and (c) of s. 23A(1)  .
+RatioOfTheDecision	It is undeniable that the words used in the latter part of the explanation are ambiguous.
+RatioOfTheDecision	They are capable of more meaning than one.
+RatioOfTheDecision	The interpretation contended for by the revenue leads to anamolous results.
+RatioOfTheDecision	In the circumstances, the construction which favors the assessee and saves it from the penal consequences deserved to be adopted.
+RatioOfTheDecision	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeals Nos.
+RulingByLowerCourt	1392-93 of 1970.
+Fact	From the judgment and order dated the 23rd January, 1969 of <ORG> in Tax Cases No.
+Fact	116 of 1965 and 190 of 1967, Reference No.
+Fact	48 of 1965 and 72 of 1967.
+RatioOfTheDecision	<NAME> and <NAME>, for the appellant.
+RatioOfTheDecision	<NAME> and <NAME>, for respondent.
+Fact	97  The Judgment of the Court was delivered by <NAME>, J.-These appeals by certificate granted by <ORG> under section 66A(2) of the Income-tax Act, 1922 arise out of a common judgment dated January 23, 1969 delivered by <ORG> in Tax Cases Nos.
+Fact	116 of 1965 and 190 of 1967.
+Fact	Tax Case No.
+Fact	116 of 1 965 arose out of the reference made by <ORG> under section 66(1) of the Act while Tax Case No.
+Fact	190 of 1967 arose out a reference made by the <ORG> in pursuance of an order made by <ORG> under section 66(2) of the, Act.
+Fact	The question which arises for consideration in these appeals is whether under section 23A of the Act, the assessee-company is liable to pay additional super-tax in respect of any portion of its profits.
+Statute	Section 23A of the Act of 1922, in so far as material read thus at the relevant time :  "23A.
+Statute	(1) Where the Income-tax Officer is satisfied that in respect of any previous year the profits and gains distributed as dividends by any company within the twelve months immediately following the expiry of that previous year are less than the statutory percentage of the total income of the company of that previous year as reduced by-  (a) the amount of income-tax and super-tax payable by the company in respect of its total income, but excluding the amount of any.
+Statute	super-tax payable under this section ;  (b) the amount of any other tax levied under any law for the time being in force on the company by the Government or by a local authority in excess of the amount, if any, which has been allowed in computing the total income ; and  (c) in the case of a banking company, the amount actually transferred to a reserve fund under section 17 of the Banking Companies Act, 1949 ;  the Income-tax Officer shall, unless be is satisfied that, having regard to the losses incurred by the company in earlier years or to the smallness of the profits made in the previous year, the payment of a dividend or a larger dividend than that declared would be unreasonable, make an order in writing that the company shall, apart from the sum determined as payable by it on the basis of the assessment under section 23 , be liable to pay super-tax at the rate of fifty per cent in the case of a company whose business consists wbolly or mainly in the dealing in or holding of investments, and at the rate  of thirty seven per cent in the case of any other company on the undistributed balance of the total income, of the previous year, that is to say, on the total income as reduced by the amounts, if any, referred to in clause (a), clause (b) or clause (c) and the dividends actually distributed, if any.
+Statute	x x x x x x x x x x x x x x x x x x x x x Explanation 2.-For the purposes of this section'.
+Statute	statutory percentage means,-  (i) In the case of a company whose business consists wholly or mainly in the deali ng in or holding of investments .. .. .. 100%  (ii) In the case of an Indian company whose business consists wholly in the manufacture or processing of goods or in mining or in the generation or distribution of electricity or any other from of power 45%  (iii) In the case of an Indian company a part only of whose business consists in any of the activities specified in clause (ii)-  (a)in relation to the said part of the company's business 45%  (b) in relation to the remaining part of the company 's business--  ( 1) if it is a company which satisfies the conditions specified in sub-  clause (a) of clause (iv) 90% (2) in any other case 60% the said percentages being applied  separately with reference to the amounts of profits and gains attributable to the two parts of the company's business aforesaid as if the said amounts were respectively the total income of the company in relation to each of its parts, the amount of dividends and taxes also being similarly apportioned for the purposes of subsection x x x x For the assessment year 1957-59 relevant to the previous year ended December 31, 1956 the company was assessed to additional super-tax under the aforesaid provision.
+RatioOfTheDecision	The business of the company consists partly in, the manufacture or processing of goods and partly of an activity of a non-industrial nature.
+Fact	Out of a total income A of Rs.
+Fact	37,98,774 the profits of the company available for distribution came to Rs.
+Fact	17,41,814 out of which Rs.
+Fact	3,36,504'represented industrial profits and Rs.
+Fact	14,05,310 represented non-ind ustrial profits.
+Fact	The company distributed by way of dividends a sum of Rs.
+Fact	4,20,640 only, claiming that the dividend was declared equally out of the profits of the industrial and non-industrial activities.
+Fact	Thus, the profits which were available for distribution but which were not distributed came to Rs.
+Fact	13,21,174.
+Fact	The Income-tax Officer, while making the assessment, allocated the dividends declared by the company to the industrial and nonindustrial segments in the same proportion as the profits of the two segments bore to the total profits of the company.
+Fact	By this method, out of the total dividend of Rs.
+Fact	4,20 640 declared by the company, a sum of Rs.
+Fact	81,264 was treated as dividends declared out of industrial profits while a sum of Rs., 3,39,376 was treated as dividends declared out of non-industrial profits.
+Fact	Holding that under section 23A , the company was liable to distribute by way of dividends a sum of Rs.
+Fact	1,51,426 out of industrial profits and a sum of Rs.
+Fact	8,43,186 out of non-industrial profits, the Income -tax Officer levied additional super-tax on the entirety of the undistributed balance of the total income, that is to say, on Rs.
+Fact	13,21,174.
+Argument	The Appellate Assistant Commissioner having rejected the appeal, the company carried the matter in a further appeal to <ORG>, Madras Bench, contending that it had declared dividends utilising the industrial and non-industrial profits equally and since the dividends thus declared out of industrial profits exceeded the statutory percentage of the minimum distributable dividend as provided in section 23A , the levy of additional super-tax on the industrial profits was unjustified.
+Argument	On the other hand, it was submitted on behalf of <ORG> of section 23A , to be apportioned in the same for the purposes of section 23A , to be apportioned in the same ratio in which the profits themselves were apportioned between industrial and non-industrial activities.
+Argument	The <ORG> rejected the method canvassed by the <ORG> as "a Rule of thumb" but then  it also rejected the method adopted by the company of allocating the declared dividend half and half to the profits of the two segments.
+Argument	Having rejected both the methods, <ORG> <ORG> held that in so far as profits of the industrial activity were concerned, the company must be deemed to have distributed by way of dividends out of those profits just so much, neither more nor less-, as would be equal to 45 per cent of such profits.
+Argument	Accordingly, the <ORG> allocated a sum of Rs.
+Argument	1,51,426 as dividends out of industrial profits and the balance, namely, Rs.
+Argument	2,69,214 as dividends out of non-industrial profits.
+Argument	On this allocation the <ORG> came to the conclusion that the company, having declared the statutory dividend on its industrial profits, was not liable to pay additional super-tax in so far as those profits were concerned.
+RulingByLowerCourt	It, however , upheld the levy of additional super-tax on nonindustrial profits.
+RulingByLowerCourt	100  Under section 66(1) of the Act, the <ORG> referred the following question for the opinion of the  <ORG> (1) "Whether on the facts and in the circumstances of the case, <ORG> was right in holding that the assessee company was not liable to.
+RulingByLowerCourt	the additional super-tax under sec.
+RulingByLowerCourt	23A in respect of the assessee's industrial profits for the assessment year 1957,58".
+Fact	Under section 66(2) of the Act the <ORG> referred to <ORG> the following question (2) "Whether on the facts and in the circumstances of the case, the <ORG> is right in holding that additional supertax is not leviable under sec- 23 A of the Act , in respect of any portion of the profits of the assessee company for the assessment year 1957-  58."
+Fact	The second question on which the <ORG> called for a reference may seem to suggest that under the judgment of the <ORG> the <ORG> as heldi not liable to pay additional super-tax in respect of an portion of its profits.
+Fact	That is not so.
+RulingByLowerCourt	The <ORG> held that the <ORG> was not liable to pay additional super-tax on its in-dustrial profits but was liable to pay it on non-indus trial profits.
+RulingByLowerCourt	<ORG> confirmed the <ORG>'s view.
+RulingByLowerCourt	It held that there was no justification in Explanation 2 for the apportionment of dividends in the ratio which the industrial profits bear to nonindustrial profits, that it was open to the asssee to apportion the dividends in such a way as to conform to the requirements of section 23A in respect of one of the two segments of its business and that the profits of the other segment only would attract the incidence of additional super-tax.
+Fact	<ORG> demonstrated the absurdity of the contrary view with the help of a hypothetical illustration.
+RatioOfTheDecision	We are concerned in this appeal with the true construction of section 23A as recast by Finance Act 2 of 1957.
+RatioOfTheDecision	The section, in so far, as relevant, is extracted above.
+RatioOfTheDecision	It has no application to companies in which the public are substantially interested.
+Statute	The section provides for levy of additional super-tax at 50 per cent in the case of a company whose business consists wholly or mainly in the dealing in or holdi ng of investments and at 37 per cent in the case of any other company.
+Statute	The additional super-tax is leviable if in respect of any previous year the profits and gains distributed as dividends within the 12 months immediately following the expiry of that previous year are less than the statutory percentage of the total income of the previous year as reduced by the amounts mentioned in clauses (a), (b) and (c) of sub-section (1).
+Statute	The additional super-tax, which in the instant case would be 37 per cent, is payable on the undistributed balance of the total income of the previous year.By 'undistributed balance of the total income' is meant the total income as reduced by the amounts, if any, referred to in clauses (a), (b) and (c) of sub-section (1) and the dividends actually distributed if any.
+Statute	101  By Explanation 2, 'statutory percentage' means for the present purpose, 45 per cent of industrial profits and 60 per cent of nonindustrial profits.
+Statute	These percentages have to be applied separately to the profits of the t wo segments as if those profits were respectively the total income of the company in relation to each segment of its business.
+Statute	The dividends and taxes have also to be 'similarly apportioned', for the purposes of sub-section (1).
+Argument	Two questions arise for decision : (1) Whether the dividends distributed by the <ORG> have to be apportioned as between the profits of the industrial and non-industrial segments of its business in the same proportion as the respective profits bear to the total profits of the <ORG> ; and (2) Whether, if on apportionment, the dividend apportionment to one of the two segments is found to be less than the statutory percentage in respect of that segment, the additional super-tax is leviable on the entire balance of the <ORG>'s undistributed profits or whether it is leviable on the balance of undistributed profits of that segment only in respect of which the short-fall has occurred.
+Argument	The second question may not strictly arise if on the first question it is found that the dividend appor tionable to the two segments is less than the statutory percentage in respect of both the segments.
+Argument	All the same, it would be necessary to examine that question also as <ORG> has held that the liability to pay the additional  -super-tax must be restricted to the undistributed profits of that segment only, in respect of which the default has occurred.
+Argument	On the first question, the language of Explanation 2 is clear and admits of no doubt or difficulty.
+Argument	It requires by its express terms that for the purposes of sub-section (1), the amount of dividends must be "similarly apportioned".
+Argument	But, counsel for the respondent urged that since the Explanation does not refer to any apportionment at all, the words "similarly apportioned" cannot be ascribed any rational meaning and it would therefore be open to the company to apportion the dividends 50 : 50 to the profits of the two segments.
+Argument	Relying on "Words and Phrases Legally Defined" by <NAME>, Vol, V, p. 79 where it is stated that the word 'similar' is an ambigu ous word, it was submitted that the benefit of an ambiguity in a taxing statute must go to the assessee and accordingly, the company would be free to make a convenient apportionment of dividends so as to attract the least incidence of the additional super-tax.
+Precedent	Counsel also relied on <NAME>'s "Words and Phrases", Vol.
+RatioOfTheDecision	1, p. 217, where it is said that so long as the apportionment is made with the desire to act as fairly and justly as possible by all parties, no uniform mode of apportionment is necessary.
+RatioOfTheDecision	The word 'similar' may be said to be a word of ambiguous import in the sense that the mere stipulation in a statute that something should be done similarly is insufficient by itself to signify the degree of similarity with which that thing must be done.
+RatioOfTheDecision	A thing can be done similarly without its being a slavish copy of the model.
+RatioOfTheDecision	But Explanation 2 indicates with meticulous particularity, how similarly dividends and taxes must be apportioned, When it says that they must be "similarly apportioned", the reference  obviously is to the apportionment which is spoken of earlier in the Explanation.
+Statute	After specifying what particular percentages shall constitute the statutory percentage for the purposes of section 23A , Explanation 2 provides that the said percentages, shall be applied separately "with reference to the amounts of profits and gains attributable to the two parts of the company's business."
+Statute	The words "similarly apportioned" which thereafter occur in the Explanation mean apportioned "with reference to the amounts of profits and gains attributable to the two parts of the company's business".
+Statute	Thus, the Explanation first refers to an apportionment or splitting up and then provides that the dividends and taxes shall be similarly apportioned, that is to say, similarly split up.
+RatioOfTheDecision	Accordingly, the words "similarly apportioned" convey a definite meaning and are not ambiguous.
+RatioOfTheDecision	It is urged that the division of total profits of a company into industrial and non-industrial profits cannot be the result of any apportionment pro perly so-called but must conform to the company's books of account and therefore, Explanation 2 cannot be said to refer to any apportionment before speaking of the dividends and taxes being "similarly apportioned".
+RatioOfTheDecision	This argument reads too much in the word 'apportioned'.
+RatioOfTheDecision	That word is used in Explanation 2 in the sense of 'split up', so that 'similarly apportioned' means simply " similarly split-up.
+RatioOfTheDecision	The dividends have therefore to be split up similarly, that is, in the same ratio as to industrial and non-industrial profits bear to each other after the total profit is split up in two parts, industrial and nonindustrial.
+Precedent	According to Burrow's Words and Phrases, Vol.
+Precedent	1. p. 217, to 'apportion' means 'to split up'.
+Argument	It is therefore impossible to accept the respondent's contention that though Explanation 2 requires that dividends should be similarly apportioned, it would be open to the company to make any convenient division of the dividends distributed by it.
+Precedent	According to the Shorter Oxford English Dictionary, 3rd Ed ., Vol.
+Precedent	1, p. 87, to 'apportion' is 'to assign as a proper portion'.
+Argument	An assignment as a proper portion of the dividends would mean an assignment in the same or similar ratio as the respective profits of the two segments bear to the total profits of the company.
+RatioOfTheDecision	It is thus not open to the company to split up and apportion the dividends to the profits of the two segments in such manner as it finds convenient or thinks fit.
+RatioOfTheDecision	The company's freedom to apportion the dividends is conditioned by the ratio which the profits of the two segments bear to the total profits.
+Fact	The total distributable profits of the company came to Rs.
+Fact	17,41,814 out of which the industrial profits are Rs.
+Fact	3,36,504 and the non-industrial profits are Rs.
+Fact	14,05,310.
+Fact	Forty-five per cent of the industrial profits comes to Rs.
+Fact	1,51,426 while 60 per cent of the non-industrial profits comes to Rs.
+Fact	8,43,186.
+Argument	The company therefore ought to have distributed a sum of Rs.
+Argument	9,94,612 by way of dividends whereas it distributed a sum of Rs.
+Argument	4,20,640 only.
+Argument	This  sum of Rs.
+Argument	4,20,640 has to be split up in the same proportion which the respective profits of the two segments bear to the total profits of the company.
+Argument	That is to say, a sum of Rs.
+Argument	81,264 from out of the total dividends distributed is apportionable to the industrial profits while a sum of Rs.
+Argument	3,39,376 is apportionable to the non-industrial profits.
+Argument	There is thus a short-fall in respect of both the segments and accordingly the company would be liable to pay the additional supertax at the rate of 37 per cent on the entire undistributed balance of distributable profits.
+RatioOfTheDecision	The hypothetical illustration which was cited before the Income-tax Officer and which is relied upon by <ORG> may at the highest, if its fundamental premise is true, show that the interpretation canvassed by the <ORG> may conceivably work out injustice.But if the language of the statute is clear and unambiguous, and if two interpretations are not reasonably possible, it would be wrong to discard the plain meaning of the words used i n order to meet a possible injustice.
+RatioOfTheDecision	Besides, the illustration only assumes an injustice and therefore its fundamental premise is wrong.
+Precedent	The distributable profits of the hypothetical company are said to be Rs.
+Precedent	1,00,000 out of which Rs.
+Precedent	30,000 are industrial and Rs.
+Precedent	70,000 non- industrial profits.
+Precedent	Applying the statutory percentage of 45 and 60 per cent respectively, the company must distribute by way of dividends Rs.
+Precedent	13,500 plus Rs.
+Precedent	42,000, that is, Rs.
+Precedent	55,500.
+Precedent	<ORG> says that even if the company distributes Rs.
+Fact	55,500 by way of dividends, apportioning Rs.
+Fact	13,500 to industrial profits and Rs.
+Fact	42,000 to nonindustrial profits, it would violate section 23A because, if the sum of Rs.
+Fact	55,500 is to be apportioned in the same ratio which the profits of the two segments bear, a sum of Rs.
+Fact	16,650 will be apportionable to industrial profits and Rs.
+Fact	38,850 to non-industrial profits.
+Argument	The fallacy of this illustration consists in its overlooking that if the company is liable to distribute Rs.
+Argument	55,500 by way of divi dends and it does distribute that, sum, there is no violation of section 23A .
+Argument	That section applies only if "profits and gains distributed as dividends .... are less than the statutory percentage of the total income .... as reduced.
+RatioOfTheDecision	.
+RatioOfTheDecision	.
+RatioOfTheDecision	. "
+RatioOfTheDecision	If the dividends have to be apportioned in the ratio of profits of the two segments, the taxes have also to be similarly apportioned for Explanation 2 speaks of "the amount of dividends and taxes also being similarly apportioned".
+RatioOfTheDecision	A "similar" apportionment of taxes, it is urged by the respondent, may in practice lead to impossible and unreal situations since the taxes on the profits of the two segments may be unequal as in the case of a newly established industrial undertaking which, in respect of its industrial income, may enjoy a tax concession.
+RatioOfTheDecision	There is no merit in this contention.
+RatioOfTheDecision	The method specified in section 23A has to be worked out according to its scheme and it is no answer to the obligation to apportion the dividends and taxes, that taxes levied on the profits  of the two segments are unequal or are leviable on a different basis.
+RatioOfTheDecision	Thus, <ORG> and the <ORG> were wrong in holding in favour of the assessee on the first of the two questions which we have framed for consideration.
+RatioOfTheDecision	Where a company has a composite business, as for example industrial and non-industrial business, the first step is to ascertain the distributable profits of the two parts separately.
+RatioOfTheDecision	For the purpose of finding out the minimum divided that the company ought to- have distributed, the proper statutory percentage as prescribed by Explanation 2 has to be applied separately to the distributable profits of the two parts, as if the respective profits are the total income of the company in relation to each part of its business.
+RatioOfTheDecision	The composite dividend distributed by the company has then to be apportioned between the two parts in the same ratio as the respective profits of the two parts bear to the total profits of the company.
+RatioOfTheDecision	We have shown that in the instant case the dividend apportionable  between the two parts of the company's business is less than the statutory percentage in respect of both the parts.
+RatioOfTheDecision	<ORG>, like the <ORG>, gave to the company the choice to allocate the dividend suitably to the two parts and held on such allocation that since the default had occurred in respect of the profits of the non- industrial part only, the company would be liable to pay the additional super-tax on the undistributed balance of the non-industrial profits only.
+RatioOfTheDecision	The second question which we propose to consider, though it does not arise on our findings, is whether the company is liable to pay additional super-tax on the undistributed balance of non-industrial profits only or whether it is liable to pay the additional super-tax on the entire undistributed balance of its distributable profits.
+RatioOfTheDecision	We have heard a full argument on this question and if we did not decide it the view of <ORG> is likely to cause misunderstanding.
+RatioOfTheDecision	As observed by <NAME> in <CITATION_572587> ,(1) section 23A wa s enacted in terrorem against private companies.
+RatioOfTheDecision	The object of the section is to prevent evasion of super-tax by the shareholders of a company in which the public are not substantially interested.
+RatioOfTheDecision	The shareholders of a private company could avoid the high incidence of super-tax by allowing the profits of the company to accumulate in its hands so that the accumulated profits could be distributed eventually in the form of bonus shares which are not assessable as income in their hands.
+RatioOfTheDecision	In considering whether the company is liable to pay additional super-tax on the entire balance of distributable profits, it has to be borne in mind that section 23A is clearly penal in nature ; for, in circumstances mentioned therein, if a private company fails to distribute by way of dividends the statutory percentage of its distributable profits, it becomes liable to pay, apart from the sum deter- mined as payable by it on the basis of the assessment under section 23 , super-tax at 50 per cent or 37 per cent as the case may be,  on the undistributed balance of its distributable profits.
+RatioOfTheDecision	In the first place, this provision being penal, the burden would lie on the revenue to prove that the conditions laid down by the section are satisfied.
+Precedent	(2) (1) 17 I. T. R. 493, of 495 and 496.
+Precedent	(2) <CITATION_97946> .
+Precedent	(p) Ltd., 57 I.T.R.
+Precedent	176, 184.
+Precedent	105  Secondly, penal statutes have to be construed strictly in the sense that if there is a reasonable interpretation which will avoid the penalty, that interpretation ought to be adopted : "When the legislature imposes a penalty, the words imposing it must be clear and distinct".
+RatioOfTheDecision	(1) It is contended on behalf of the respondent that the language of section 23A (1) read with Explanation 2 is ambiguous and therefore the court ought to adopt the interpretation which favorites the assessee, more particularly because the relevant provisions provide for the imposition of a penalty.
+RatioOfTheDecision	In this behalf, learned counsel for the respondent relied strongly on the provision contained in Explanation 2 by which the statutory p ercentages are required to be applied separately with reference to the amounts of profits and gains attributable to the two parts of the company's business, "as if the said amounts were respectively the total income of the company in relation to each of its parts".
+RatioOfTheDecision	It is urged that the fiction created by Explanation 2 must be given its full effect and that it must be carried to its logical con- clusion.
+RatioOfTheDecision	As the distributable profits of the two parts are to be deemed to be the total income of the company in relation to each ,of those parts, the penalty, according to the respondent, can be imposed on that part of the income only in respect of which the default has occurred.
+RatioOfTheDecision	It is impossible to accept this contention.
+RatioOfTheDecision	If two interpretations of the relevant provisions were reasonably possible, we would have readily accepted that interpretation which favours the assessee.
+RatioOfTheDecision	But the language of sub-section (1) of section 23A as also of Explanation 2 is clear and distinct and does not yield to more than one reasonable  interpretation.
+Statute	Sub-section (1) provides that if the dividends distributed by a company are less than the statutory percentage of the "total income" of the company as reduced by the amounts mentioned in clauses (a), (b) and  (c), the Income-tax Officer shall make an order that the company shall be liable to pay additional super-tax at the prescribed rates "on the undistributed balance of the total income of the previous year", that is to say on the total income as reduced by the amounts referred to in clauses (a),  (b) and (e) and the dividends actually distributed.
+Statute	Explanation 2 clarifies what is meant by "statutory percentage" and provides that the prescribed percentages should be applied separately with reference to the amounts of profits and gains attributable to the two parts of the company's business, "as if the said amounts were respectively the total income of the company in relation to each of its parts....... for the purposes of sub-section (1)".
+RatioOfTheDecision	The fiction created by the Explanation is thus expres sly limited to the purposes of sub-section (1) and there is no justification for pursuing the fiction to its logical conclusion so As to permit it to operate beyond the limited purpose of sub-section (1).
+Precedent	Under the scheme contained in section 23A , where a company has a composite business it is necessary at the outset to find out the profits attributable to the two parts of its busi- (1) <NAME> v. <NAME> (1875) L.R.
+Precedent	10 Q.B.
+Precedent	383, 386, gee also Craies in Statute Law, Sixth Ed., p, 529-530.
+Argument	106  ness.
+Argument	The statutory percentages a prescribed by Explanation 2 have then to be applied separately to the profits of the two parts.
+RatioOfTheDecision	By reason of the fiction created by Explanation 2 the profits of each part have for this purpose, and this purpose alone, to be treated as if they were the total income of that part of the company's business.
+RatioOfTheDecision	By sub- section 1 , the company becomes liable to pay additional super-tax if the dividends distributed by it are "less than the statutory percentage of the total income".
+RatioOfTheDecision	Explanation 2 c reates the fiction that for the purposes of sub- section 1 , the income of the respective parts is to be regarded as the total income of each part so that the statutory percentages can be applied separately to the income of each part.
+RatioOfTheDecision	The fiction operates in this limited field and is in terms created for this limited purpose.
+RatioOfTheDecision	The levy of additional super-tax under section 23A (1) is a single levy.
+RatioOfTheDecision	The super-tax has to be levied "on the undistributed balance of the total income of the previous year".
+Statute	Sub-section (1) itself clarifies that by these words is meant "total income as reduced by the amounts, if any, referred to in clause (a), clause (b) or clause (c) and the dividends actually distributed, if any".
+RatioOfTheDecision	The additional super-tax has therefore to be levied on the entire undistributed balance of the net income of the company.
+RatioOfTheDecision	In other words, even if the Income-tax Officer finds that the apportioned dividend in any part of the company's business is less than the dividend that ought to have been declared by a pplication of the statutory percentage, the additional supertax has to be levied on the whole of the undistributed profits of the company.
+RatioOfTheDecision	<ORG> was therefore in error in holding that the profits of the two parts of the company's business should be treated as if they were the total income of the company for all purposes.
+RatioOfTheDecision	In taking this view, <ORG> overlooked the concluding words of Explanation 2 by reason of which the legal fiction has to be limited to its duly appointed purpose.
+RulingByPresentCourt	In the result we set aside the order of <ORG> and allow the appeal with costs.
+RulingByPresentCourt	Appeal allowed.
+RulingByPresentCourt	P.B.R.
+RulingByPresentCourt	107

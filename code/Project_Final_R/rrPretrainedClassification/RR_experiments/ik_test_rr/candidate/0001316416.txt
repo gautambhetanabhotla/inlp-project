@@ -1,0 +1,22 @@
+RulingByLowerCourt	JUDGMENT (Judgment of the Court was delivered by the Honble the Chief Justice.)
+Fact	The question which arises in this reference is really answered by our judgment delivered on the 16th February, 1945, in <CITATION_1359396> .
+Fact	38 of 1944.
+Fact	The assessee is a partner in two firms.
+Fact	He has a son who is a minor and the minor has been admitted to the benefits of these partnerships.
+Fact	The share of the profits falling to the minor should have been included in the fathers assessment for the year 1938-39; but the Income-tax Officer, under a wrong conception of the law, did not include the minors share in calculating the income of the <NAME>, and the matter was left there.
+Fact	In the following year, the minors share was included.
+Fact	The assessee took objection to this course and carried the matter to this Court which on the 15th September, 1941, held that the minors share was properly included in the assessment for the year 1939-40.
+Fact	On the 14th March, 1940, that is eighteen months before this Court had given its decision in the respect  of the assessment for 1939-40, the Income-tax Officer served a notice on the assessee under Section 34 in respect of the sons share of the profits which had escaped assessment in the year 1938-39.
+Fact	<ORG> held that the Income-tax Officer was not entitled to reopen the assessment for the year 1938-39 on this ground because he had already applied his mind to the question and had adjudicated upon it.
+Fact	At the instance of the Commissioner of Income-tax, the <ORG> has referred to this Court for decision under Section 66 (1) of the Act the following question :-  "Whether in the circumstances of this case, the notice by the Income-tax Officer under Section 34 dated 14th March, 1940, was incompetent by reason of the fact that an earlier notice dated 30th November, 1938, under Section 34 in respect of the identical item of escaped income, had been issued, considered, adjudicated upon and ultimately dropped by the Income-tax Officer."
+RatioOfTheDecision	<CITATION_1359396> , we had occasion to consider what wa s meant by the expression "definite information" which appears in Section 34 as amended in 1939.
+RatioOfTheDecision	We said that the application of the section must depend on the particular circumstances of the case, but definite information with regard to the state of the law would bring the section into operation.
+RatioOfTheDecision	The Income-tax Officer must be in receipt of some information.
+RulingByLowerCourt	If the notice served on the assessee under Section 34 had been the result of this <ORG> decision on the 15th September, 1941, in respect of the order of assessment of 1939-40, we consider that it could be said that the Income-tax Officer had been in receipt of definite information as to the state of the law, but that was not the position on the 14th March, 1940.
+RulingByLowerCourt	The question of law had not then been decided and therefore the Income-tax Officer could not say that definite information had come into his possession with regard to this matter.
+RulingByLowerCourt	In these circumstances we hold that <ORG> was right in holding that the assessment coul d not be reopened under Section 34.
+RulingByLowerCourt	We do not base our decision on the reasoning of the <ORG>.
+RulingByLowerCourt	Our decision is based on the fact that there was no "definite information" in the possession of the Income-tax Officer when he served the notice under Section 34 and the question referred will be answered in this sense.
+RulingByLowerCourt	The assessee is entitled to his costs Rs.
+RulingByLowerCourt	250.
+Argument	Reference answered accordingly.

@@ -1,0 +1,60 @@
+Argument	JUDGMENT Mitter, J.
+Argument	1.
+RatioOfTheDecision	This is really an unfortunate case for although the merits of the case are in favour of the appellant we are constrained to arrive at a decision adverse to him on the ground of limitation.
+Fact	It appears that one <NAME> obtained a decree for rent against <NAME> and his cosharers in Rent Suit No.
+Fact	876 of 1916.
+Fact	One <NAME> had the decree assigned to him and he applied for execution of the decree in the year 1920 by sale of the rent property.
+Fact	In that execution the holding in question was sold and it was purchased by a lady of the name of <NAME> for a price of Rs.
+Fact	1,255 on 27th July 1920.
+Fact	The sale was confirmed in August.
+Fact	Two of the judgment-debtors, one of whom was an infant, applied on 27th July 1923 under Order 21, Rule 90, Civil P. C, for setting aside the sale.
+Fact	At all subsequent stages this application under Order 21, Rule 90 was prosecuted by <NAME> alone.
+Fact	The application to set aside the sale was allowed in the first instance  by an order of the <ORG> dated 12th March 1924.
+Fact	When the sale was set aside by this order the <ORG> gave a direction for refund of the purchase-money with interest to the auction-purchaser.
+Fact	The sale proceeds were in excess of the amount due under the decree and therefore the portion of the surplus sale proceeds remained in deposit for payment to the judgment-debtors, the decree-holder having already taken the sum which was found due to him.
+Fact	In accordance with this order, of refund the auction-purchaser withdrew from the <ORG> a sum of Rs.
+Fact	442.11-9 which really was to be credited to the judgment-debtors as a part of the surplus proceeds which the judgment-debtors would be entitled to in the event of the sale being confirmed.
+Fact	A direction was given to the decree-holder to refund the amount withdrawn by him.
+Fact	2.
+Fact	The decree-holder however preferred an appeal to the District Judge against the order setting aside the sale.
+Fact	After several intermediate proceedings to which it is not necessary to refer, the sale was ult imately confirmed by an order of the appellate Court dated 17th August 1925.
+Fact	An appeal was however taken to <ORG> against the order confirming the sale by one of the judgment-debtors and not by the present appellant <NAME>.
+Fact	<NAME> however was made a respondent to the said appeal.
+Fact	That appeal was dismissed on 24th March 1927 and on 22nd March 1930 <NAME> put in an application for an order on the auction-purchaser to re-deposit the amount which had been withdrawn by him from the Court out of the surplus sale proceeds.
+RulingByLowerCourt	3.
+RulingByLowerCourt	The <NAME> who dealt with the matter in the first instance was of opinion that the auction-purchaser should be compelled to re-deposit the money which he had withdrawn.
+RulingByLowerCourt	On appeal however by the auction-purchaser the District Judge was of opinion that she would not be entitled to retain the surplus sale processes but for the plea of limitation which had been taken by her.
+RulingByLowerCourt	The District Judge was of opinion that the right of the judgment-debtor for restitution really accrue d on 17th August 1925 when the order setting aside the order setting aside the sale, or in other words the order confirming the sale was made by the District Judge on 17th August 1925 under Article 181 of the Schedule to the Limitation Act .
+RulingByLowerCourt	As this application for restitution was not made within three years from the time when the right to apply accrued the application was barred by the said article.
+RulingByLowerCourt	He accordingly dismissed the application of the judgment-debtor for restitution on the ground of limitation.
+Argument	4.
+Argument	Against this decision the present appeal has been preferred and it has been contended on behalf of the appellant that the application could not be treated as one under Section 144 , Civil P. C, namely, as an application for restitution.
+Argument	It was really an application for asking the <ORG> to exercise its inherent powers under the provisions of Section 151 , Civil P. C, and in support of this contention reliance has been placed on the recent decision of this <ORG> in the case of <NAME>, <NAME> v. <NAME> <NAME> in which my learned brother <NAME>, J., held that in the circumstances similar to the present the <ORG> could act under its inherent powers under Section 151 , Civil P.C.
+Argument	The learned Judges did not decide in that case that even if the application be treated as one under Section 151 , Civil P. C, the article of limitation applicable is not Article 181.
+Precedent	Of course there is a decision of the Patna High <ORG> which has been referred to by the learned advocate for the respondent in the case of <NAME> v. <ORG> AIR 1925 Pat 1, 'where it was held that an application in such cases comes both under the provisions of Sections 144 and 151 , Civil P.C.
+RatioOfTheDecision	The real question therefore in controversy is as to when the right did accrue in the appellant for asking for the refund of the money withdrawn by the auction-purchaser seeing that the sale has now been confirmed and the money being in excess of the decretal amount really belongs to the judgment-debtor.
+RatioOfTheDecision	It has been held in a series of ca ses that the right to apply accrues really on the date when for the first time a decision is given which entitled the parties asking for restitution to have restitution and that was undoubtedly in this case on 17th August 1925.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It is argued however that as an appeal was pending against that decision the appellant before us could not consistently ask for restitution, for that position would have been inconsistent with the conduct of the appeal.
+RatioOfTheDecision	We were at the first blush inclined to agree with the view, for it was argued on the basis that the appellant was one of the appellants before the District Judge.
+RatioOfTheDecision	That however does not appear to be so for the present appellant was merely a respondent in the said appeal and there was in our opinion nothing to prevent appellant from asking for restitution.
+RatioOfTheDecision	It is said on behalf of the appellant that he could not have possibly taken that course as that would have affected any right which he might have acquired if the appeal against the order confirming the sale had been  allowed.
+RatioOfTheDecision	We do not see much force in that contention.
+RatioOfTheDecision	It was not he who had appealed; he was rather content with the order confirming the sale.
+RatioOfTheDecision	In such circumstances as this the right to ask for refund of the money withdrawn by the auction-purchaser arose on 17th August 1925 and he ought to have applied within three years from that date.
+RatioOfTheDecision	We are of opinion therefore that the learned District Judge was right in the view which he has taken.
+Fact	Stress has been laid on a recent decision of their Lordships of <ORG> in the case of <CITATION_1909215> .
+RatioOfTheDecision	Mr. <NAME> has drawn our attention to a passage in that judgment which runs as follows:  It is at least an intelligible rule that so long as there is any question sub judice between any of the parties those affected shall not be compelled to pursue the so often thorny path of execution which, if the final result is against them, may lead to no advantage.
+RatioOfTheDecision	6.
+Precedent	These words were said with reference to the provisions of Article 182 , Lim.
+Precedent	Ac t, and the question which was for consideration before their Lordships of <ORG> was as to whether the word "appeal" in Section 182(2) , Lim.
+Precedent	Act, meant any appeal of any kind and their Lordships were of opinion that there was no warrant for reading into the words any qualification that the appeal must be regular or competent and that the parties to such subsequent execution proceedings must be parties thereto or that the whole decree must be imperilled.
+RatioOfTheDecision	On the other hand, there are observations of <ORG> in that very case which would go to show that in construing the provisions of the Limitation Act equitable considerations are out of place and the strict grammatical meaning of the words is the only safe guide.
+RatioOfTheDecision	In this view we are of opinion that the right to apply accrued as soon as the order of the District Judge was made in August 1925 confirming the sale and as the present application was not made within three years from that date it has been rightly held that the applicat ion was barred by limitation.
+RatioOfTheDecision	It might be a misfortune to the appellant but we have to administer the law as we find it.
+RulingByPresentCourt	The appeal is dismissed.
+RulingByPresentCourt	There will be no order as to costs.
+Precedent	M.C.
+Precedent	<NAME>, J.
+Precedent	7.
+RulingByPresentCourt	I agree.

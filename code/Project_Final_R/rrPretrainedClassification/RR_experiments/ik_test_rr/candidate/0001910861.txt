@@ -1,0 +1,80 @@
+Fact	PETITIONE<NAME>: COMMISSIONE<NAME> OF INCOME-TAX, <NAME> Vs. <NAME>ESPONDENT: SI<NAME> <NAME>UKUMC<NAME>AND MANNALAL & CO.
+Fact	DATE OF JUDGMENT: 20/07/1970 BENC<NAME>: <NAME>, J.C. BENC<NAME>: <NAME>, <NAME>, K.S.
+Fact	CITATION: 1971 AI<NAME> 383 1971 SC<NAME> (2) 846 1970 SCC (2) 352 CITATO<NAME> INFO : <NAME>F 1992 SC 66 (17) <NAME> 1992 SC 197 (17) ACT: Income-tax Act , 1922, S. 26-A --Partnership including two partners representing interest of same <O<NAME>G>--If can be registered--Whether members of <O<NAME>G> suffer from any disability from entering into contract inter-se.
+Fact	<NAME>EADNOTE: <NAME> and his son <NAME> were two out of the five partners of the respondent firm and represented the interest of a <NAME>indu undivided family.
+Fact	The Income-tax Officer granted registration of the firm under s. 26A of the Income-tax Act, 1922.
+Fact	In 1954-55, he declined to grant such registration.
+Fact	The Appellate Assistant Commissioner confirmed his order on the ground that two coparceners could not represent the interest of the <O<NAME>G> in a partnership.
+Fact	The <ORG> reversed this order and the <NAME>igh Court, upon a refe rence of the question whether the respondent firm could be granted' registration, answered it in the affirmative.
+Fact	On appeal to this Court, HELD : Dismissing the appeal, That a partnership in which two members of a coparcenary represent same beneficial interest of an H.U.F., may be validly registered under the Income Tax.
+Fact	[648 C-D] Ram Lax an <CITATION_1769355> .
+Fact	66 I.T.R.
+Fact	613, P. K, P. S. Pichappa Chittiar & Ors.
+Fact	v. <NAME> & Ors.
+Fact	A.I.R.
+Fact	(1934) P.C.
+Fact	192 and <CITATION_1095533> .
+Fact	39 I.T.R.
+Fact	202, referred to.
+Fact	The Indian Contract Act imposes no disability upon members of a Hindu undivided family in the matter of entering into a contract inter se or with a stranger.
+Fact	A member of a Hindu undivided family has the same liberty of contract as any other individual : it is restricted only ill the manner and to the extent provided by the Indian Contract Act .
+Fact	[648 H] It is now settled law that in considering an application for registration of a firm, the Income-tax Officer is not concerned to determine in whom th e beneficial interest in the share in the partnership vests.
+Fact	[649 <CITATION_86991> .
+Fact	55 I.T.R.
+Fact	651 and Commissioner of income- <CITATION_1059717> .
+Fact	55 I.T.R.
+Fact	660, referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Fact	1774 of 1969.
+Fact	Appeal from the judgment and order dated February 12, 1965 of <ORG> in Misc.
+Fact	Civil Case No.
+Fact	112 of 1963.
+Fact	647  <NAME>, <NAME> and <NAME>, for the appellant.
+Fact	<NAME>, <NAME>, <NAME> and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <NAME>, J.
+Fact	A firm styled Sir <ORG> was formed under a deed dated July 16, 1948 to carry on the business of "managing and selling agents" of <ORG> Sir <NAME> and his son <NAME> were two of the five partners of the firm.
+Fact	They represented the interest of the Hindu undivided family of Sir <NAME> and his sons.
+Fact	On March 31, 1950 the property of the Hindu undivided family was partitioned and the intere st of the family in the partnership was taken over by a private limited company styled <ORG> For the assessment years 1950-51, 1951-52, 1952-53 and 1953- 54 the Income-tax Officer granted registration of the firm under s. 26A of the Indian Income-tax Act, 1922.
+Fact	In 1954-55 the Income-tax Officer declined to grant registration.
+Fact	In appeal the Appellate Assistant Commissioner confirmed the order on the ground that two coparceners could not represent the interest of the Hindu undivided family in a partnership.
+Fact	The <ORG> reversed the order.
+Fact	They held that Sir <NAME> and his son <NAME> were partners in the firm on behalf of the Hindu undivided family and there was nothing in law which prevented two or more coparceners of a Hindu undivided family representing the family from entering into a partnership with a stranger or strangers.
+Fact	At the instance of the Commissioner of Income-tax the following question was referred by the <ORG> :  "Whether in the facts and circumstances of  the case the firm <ORG> could be granted registration under s. 26A of the Act ?"
+Fact	<ORG> answered the question in the affirmative.
+Fact	The Commissioner of Income-tax has appealed to this Court with certificate granted by <ORG>.
+Precedent	<CITATION_1769355> .
+Precedent	(1) this Court observed :  "A Hindu undivided family is x x x x a "person" within the meaning of the Indian Income-tax Act : it is however not a juristic person for all purposes, and cannot enter into an agreement of partnership with either (1) 66 I.T.R.
+Precedent	613.
+Precedent	648  another undivided family or individual.
+Precedent	It is open to the manager of a joint Hindu family as representing the family to agree to, become a partner with another person.
+Precedent	The partnership agreement in that case is between the manager and the other person, and by the partnership agreement no member of the family except the manager acquires a right or interest in the partnership.
+Precedent	The junior members of the family may make a claim against the manager for treating the income  or profits received from the partnership as a joint family asset, but they cannot claim to exercise the rights of partners nor be liable as partners."
+Precedent	This position in law was not disputed on behalf of the Commissioner.
+Precedent	But it was urged that since two members of a coparcenary represented in the firm the same beneficial interest of a Hindu undivided family, and since they were incompetent to enter into a contract inter se, the partnership agreement could not be registered.
+RatioOfTheDecision	There is no substance in that contention.
+Precedent	In P. K. P. S. Pichappa Chattiar & Ors.
+Precedent	v. <ORG>) <ORG> obsered, approving the observations made in <NAME>'s Hindu Law (9th Edn.)
+Precedent	at p. 398 to the following effect "Where a managing member of a joint family enters into a partnership with a stranger the other members of the family do not ipso facto become partners in the business so as to clothe them with all the rights and obligations of a partner as defined by the Indian contract Act, in such a case the family  as a unit does not become a partner, but only such of its members as in fact enter into a contractual relation with the stranger the partnership will be governed by the Act."
+Precedent	It is clearly enunciated that one or more members of a Hindu undivided family may enter into a contractual relation in the nature of a partnership with a stranger and they qua the stranger become partners.
+Precedent	The view expressed by <ORG> was approved by this <ORG> in <NAME> & Anr.
+Precedent	v. commissioner of Income-tax, Bombay North, Kutch and Saurashtra, Ahmedabad & Anr.
+Precedent	(2).
+Precedent	The Indian Contract Act imposes no disability upon members of a Hindu undivided family in the matter of entering into a ,contract inter se or with a stranger.
+Precedent	A member of a Hindu undivided family has the same liberty of contract as any other individual : it is restricted only in the manner and to the extent provided by the Indian Contract Act .
+Precedent	Partnership is under s. 4 (1) A.I.R.
+Precedent	(1934) P.C.
+Precedent	192.
+Precedent	(2) 39 I.T.R.
+Precedent	202.
+Precedent	649  of the Partnership Act the  relation between persons who have agreed to share the profits of a business carried on by all or any of them acting for all : if such a relation exists, it will not be invalid merely because two or more of the persons who have so agreed are members of a, Hindu undivided family.
+Precedent	It is now settled law that in considering an application for registration of a firm, the Income-tax Officer is not concerned to determine in whom the beneficial interest in the share in the partnership vests: <CITATION_86991> .
+Precedent	('); <CITATION_1059717> .
+Precedent	(').
+Precedent	In our judgment, <ORG> was right in answering the question in the affirmative.
+Precedent	The appeal fails and is dismissed with costs.
+Precedent	R.K.P.S.
+Precedent	Appeal dismissed.
+Precedent	(1) 55 I.T.R.
+Precedent	651.
+Precedent	(2) 55 I.T.R.
+Precedent	660.

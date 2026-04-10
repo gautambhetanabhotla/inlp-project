@@ -1,0 +1,233 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+RulingByLowerCourt	In this reference made at the instance of the assessee <ORG> (hereinafter called "the Tribunal") has referred the following questions of law for the opinion of this Court under section 69 of the Gujarat Sales Tax Act, 1969 (hereinafter referred to as "the Act").
+Fact	"(1) Whether, on the facts and in the circumstances of the case, Vitablend AD 3 and Vitablend AD 3 Forte are covered by entry 21 of Schedule I to the Gujarat Sales Tax Act, 1969, for the year 1969 ?
+Fact	(2) Whether, on the facts and in the circumstances of the case, Vitablend AB 2 D 3 and <ORG> are covered by entry 25 of Schedule I to the Gujarat Sales Tax Act, 1969, for the year 1969 ?"
+Fact	2.
+Fact	In order to appreciate the points in controversy, a few facts may be set out.
+Fact	3.
+Fact	The assessee is a public limited company.
+Fact	It is carrying on the business of manufacturing pharmaceutical and nutritional products and antibiotic and other products.
+Fact	Those products are meant not only for human beings but also  for cattle and poultry.
+Fact	With a view to supplementing the deficiency of vitamins in the normal diet given to cattle and poultry, the assessee manufactures and markets different products.
+Fact	We are concerned herein with four of such products.
+Fact	They are : (1) <ORG> AD 3, (2) <ORG> AD 3 Forte, (3) <ORG> AB 2 D 3, and (4) <ORG> WM Forte.
+Fact	The products at serial Nos.
+Fact	(1) and (2) are meant for cattle and the products at serial Nos.
+Fact	(3) and (4) are meant for poultry.
+Fact	The assessee was desirous of ascertaining whether the sales of the above-mentioned products were exigible to tax under the Act.
+Fact	An application was, therefore, made by the assessee under section 62 of the Act to the Commissioner of Sales Tax for the determination of the question whether on the sales of those products it was liable to pay any tax and, if so, the rate of tax.
+Fact	The application was heard by the Deputy Commissioner of Sales Tax.
+Fact	The contention of the assessee before the said authority was that the products at serial Nos.
+Fact	(1) and (2)  were cattle-feed within the meaning of entry 21 of Schedule I and that the products at serial Nos.
+Fact	(3) and (4) were poultry-feed within the meaning of entry 25 of Schedule I and that, therefore, they were goods the sale or purchase of which was free from all taxes.
+Fact	The alternative contention of the assessee was that all the aforesaid products were drugs and medicines meant for cattle or poultry, as the case may be, and that, therefore, they were covered by entry 26(1) of Schedule II, Part A.
+RulingByLowerCourt	The Deputy Commissioner of Sales Tax held that none of the entries on which the assessee relied was attracted in relation to the products in question and that those products were covered by the residuary entry, that is to say, entry 13 of Schedule III and their sales were taxable at the rate mentioned in the said entry.
+RulingByLowerCourt	The assessee, feeling aggrieved by the said determination, preferred an appeal before the <ORG>.
+RulingByLowerCourt	At the hearing of the said appeal, the assessee confined its case only to entry 21 and entry 25 of Schedu le I and no argument based on entry 26(1) of Schedule II, Part A, was advanced.
+RulingByLowerCourt	The <ORG>, following its earlier decision in the case of <ORG> v. State of Gujarat (Appeal No.
+RulingByLowerCourt	21 of 1972 decided on 9th February, 1973), held that the products in question were neither cattle-feed nor poultry-feed and that, therefore, they were not covered by entry 21 or entry 25, as the case may be, of Schedule I.
+RulingByLowerCourt	The <ORG>, therefore, confirmed the determination of the Deputy Commissioner of Sales Tax.
+RatioOfTheDecision	It is under these circumstances that the questions set out above have come to be referred to this Court.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Let us first read the entries which are the subject-matter of the reference.
+RatioOfTheDecision	Entry 21 of Schedule I reads as follows :  "21.
+Fact	Cattle-feed (other than mechanically produced cattle-feed) including fodder and concentrates but excluding cotton-seeds, oilcakse and de-oiled cakes."
+Fact	5.
+Fact	Entry 25 of Schedule I reads as under :  "Poultry-feed."
+Argument	6.
+Statute	Entry 13 of Schedule III reads as under :  "All goods  other than those specified from Six paise Three paise time to time in section 18 and in in the in the Schedules I and II and in the preceding rupee.
+Statute	rupee.
+Fact	entries.
+Fact	7.
+RatioOfTheDecision	It is apparent that if entries 21 and 25 of Schedule I apply, then the sales of the products in question would be free from all taxes in view of the exemption granted under section 5.
+RatioOfTheDecision	If those entries are not attracted, however, the question as to in which entry in the appropriate schedule the products in question are included would arise.
+RatioOfTheDecision	However, the subsequent question, though it is decided by the <ORG>, has not been specifically referred to this Court and we are, therefore, not immediately and directly concerned with the same.
+RatioOfTheDecision	8.
+RatioOfTheDecision	To be covered by entry 21, the products in question, in the first place, must be cattle-feed.
+RatioOfTheDecision	Cattle-feed, which is mechanically produced is, however, specifically excluded from the coverage of the said entry by the words of exclusion contained in the bracketed portion.
+RatioOfTheDecision	The other important aspect, which requir es to be borne in mind, is that whereas fodder and concentrates are specifically included, cotton-seeds, oilcakes and de-oiled cakes are in terms excluded.
+RatioOfTheDecision	On an integral reading of the said entry, it would appear, therefore, that cattle-feed, including fodder and concentrates, which is not mechanically produced, but excluding cotton-seeds oilcakes and de-oiled cakes, is covered by the entry.
+RatioOfTheDecision	The legislative intention, which is made manifest accordingly, is that (i) mechanically produced cattle-feed and (ii) cotton-seeds, oilcakes and de-oiled cakes are not to be exempted from the levy of tax.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Entry 25 is simpler when compared with entry 21.
+RatioOfTheDecision	Anything which can be properly called poultry-feed is covered by the said entry.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Having read and analysed the entries, we must ascertain the true meaning of the principal words in the two entries, namely, cattle-feed and poultry-feed.
+RatioOfTheDecision	Let us first ascertain the primary meaning of the common word appearing in both the entries, namely, "feed".
+RatioOfTheDecision	11.
+RatioOfTheDecision	According to <NAME> pus Juris Secundum, Volume 36, page 631, the said word "as a noun is used as referring to articles to be fed to animals, particularly domestic animals".
+RatioOfTheDecision	In Webster's New Twentieth Century Dictionary (Unabridged) at page 671, several meanings of the word "feed", when used as a noun, are given.
+RatioOfTheDecision	The appropriate meanings, as applicable in the context of the use of the said noun in the entries in question, however, are as follows : "(1) food given to animals; fodder; pasture; (2) the customary amount of fodder given at one time; as, to carry on a journey two feeds of oats; and (6) a meal."
+RatioOfTheDecision	In the Oxford English Dictionary, Volume IV, at page 130, various meanings of the word "feed" are given and out of them only the following meanings appear to be relevant : "(3) Food (for cattle); fodder, provender; (4) A meal; a sumptuous meal; a feast."
+RatioOfTheDecision	It would thus appear that etymologically the word "feed" means animal food or fodder.
+RatioOfTheDecision	12.
+RatioOfTheDecision	In the two entries in question, the word "feed" is used in conjunction with another wo rd, namely, "cattle" in entry 21 and "poultry" in entry 25.
+RatioOfTheDecision	Besides, in entry 21 there are words of inclusion as well as of exclusion following upon the word "cattle-feed".
+RatioOfTheDecision	Under these circumstances, it appears to us that the correct way of approaching the matter would be to read the expressions "cattle-feed" and "poultry-feed" as a whole and to read the former expression in the context of the words which follow.
+RatioOfTheDecision	When so read, one thing at least is clear that the goods which are intended to be covered by both these expressions are those which are meant for consumption by animals or birds, as the case may be, which are more often than not reared for commercial purposes.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The word "cattle-feed" has acquired a precise meaning in the field of live-stock farming and so also has the word "concentrates".
+RatioOfTheDecision	In the book entitled "Nutritive Values of Indian Cattle Feeds and the Feeding of Animals" by <NAME>, which has been published by <ORG>, New Delhi, Chapter I, entitle d "Nutrition of Animals", deals with the feeding stuffs of animals.
+RatioOfTheDecision	It is there pointed out that food is essential for the maintenance of life.
+RatioOfTheDecision	The nutrients in a feeding stuff enable the animal body to maintain energy, to perform the vital processes of life and provide the material to replace the essential tissues breakdown which occurs in the body continuously.
+Fact	Food also provides the constituents and the energy required for body growth.
+RatioOfTheDecision	All feeding stuffs are composed of water, and organic and mineral matter.
+RatioOfTheDecision	Organic matter is composed of proteins, fats, crude fibre and soluble carbohydrates.
+RatioOfTheDecision	Besides the above, there are certain substances known as vitamins, which are considered to be essential for the proper nutrition of farm stock.
+RatioOfTheDecision	Of these, the more important ones, from the point of view of cattle nutrition, are vitamins A and D, because these have to be supplied to the animals through their feed; but vitamins B and C can be synthesized in the ruminant body.
+RatioOfTheDecision	The learned author proceeds to point out that  the ration of an animal may be divided for convenience into two parts, one for maintenance ration is that portion of the diet which just enable the animal at rest to carry on the essential processes of life, such as breathing and circulation of blood, without either gain or loss of weight.
+RatioOfTheDecision	As however, no animal is kept in a farm in a state of non-production, the requirements for maintenance form only a convenient basis for the calculation of rations for productive purposes.
+RatioOfTheDecision	Whatever is supplied to the animal over and above its maintenance requirement is available for production, such as for growth or fattening, for production of calf, for production of milk of for output of work.
+RatioOfTheDecision	There observations contained in a standard book published by <ORG> establish two things : first, that in the context of live-stock, which is not intended to be kept in a state of non-production, food consists not only of that constituent which is essential for the maintenance of life but also of  the other constituents which provide the energy required for production, be it the production of calf, or milk or output of work and, secondly, that vitamins are considered essential for the proper nutrition of farm stock and some of the vitamins like vitamins A and D have to be supplied to the animals through their feed.
+RatioOfTheDecision	If this concept of cattle-feed is borne in mind, it would become immediately clear that the said expression is not understood by the people conversant with the rearing of live-stock as merely consisting of ration for maintenance but also as comprehending ration for production purposes.
+RatioOfTheDecision	14.
+RatioOfTheDecision	Reference may also be made in this connection to <ORG>, Volume 9, page 144, where the subject "Feeds Animal" has been dealt with.
+RatioOfTheDecision	It has been observed there that the materials on which animals are fed differ widely in chemical composition and nutritive value.
+RatioOfTheDecision	For convenience they are divided into two general classes; concentrates and roughages.
+RatioOfTheDecision	Concentrates include a large variety of fe eds that have a high value because they are rich in easily digested nutrients, such as starch, fat and protein, and are low in fibre, or woody material, which is not well-digested.
+RatioOfTheDecision	Roughages have a much lower value because they are relatively high in fibre and contain less of the more digestible nutrients.
+RatioOfTheDecision	Good nutrition is necessary if animals are to be able to maintain health and produce satisfactory amounts of milk, eggs, meat, wool or work.
+RatioOfTheDecision	Animals require each day food furnishing sufficient amounts of protein; energy, chiefly supplied by the carbohydrates and fat; essential minerals; and vitamins.
+RatioOfTheDecision	Plenty of water and air are also needed.
+RatioOfTheDecision	Dealing in detail with the role of vitamins in animal feed, the learned authors have pointed out that the numerous scientific discoveries concerning vitamins had a profound effect upon live-stock farming by increasing the efficiency of animal production and preventing serious nutritional diseases.
+Fact	Vitamin A, which is required for growth, reproduction, milk production and  even for the maintenance of mature animals, is most apt to be lacking in live-stock feeds.
+Fact	A serious deficiency of this vitamin makes animal especially subject to diseases of the respiratory tract and they often die of pneumonia.
+Fact	Next to vitamin A, attention is given to vitamin D in live-stock feeding.
+Fact	This vitamin is needed to enable animals to assimilate and use the minerals, calcium and phosphorus.
+Fact	A deficiency of this vitamin causes serious bone diseases such as rickets in young growing animals.
+Fact	Because poultry have especially high vitamin D requirements, special vitamin D supplements are included in their rations, particularly under winter conditions, or when they are confined away from the direct sunlight.
+Fact	This analysis of animal feeds also establishes two things; first, that amongst the materials on which animals are fed are included concentrates which include a wide variety of feeds that have a high value and, secondly, that in order that animals are able to maintain health and produce satisfactory a mounts of milk, eggs, meat, wool or work, they require sufficient amounts inter alia of vitamins including vitamins A and D, some of which are lacking in the traditional live-stock feed.
+Precedent	15.
+Precedent	Reference may be made next to <ORG>, Volume 1, page 457.
+Fact	Under the heading "Animal-feed Composition", it has been there pointed out that the chemical composition of animal feeds can be considered as falling into three categories; water content (moisture), certain groups of natural organic compounds and inorganic or mineral elements.
+Fact	A group of essential but unrelated organic compounds, occurring in smaller concentration, consists of vitamins.
+Fact	At page 458, under the heading "Feed Supplements" it has been observed that the manufacture of commercial mixed feeds has become a very important industry in the United States.
+Fact	Prior to 1949, the principal feed additives used in these mixed feed were minerals and protein concentrates.
+Fact	Since that date, there has been enormous expansion in  large scale manufacture of vitamins, antibiotics, hormones and essential amino acids.
+Fact	These substances have been added to mixed feeds as supplements having either direct action on metabolism and growth or indirect action through control of bacterial growth and infection.
+Fact	Although an ample supply of all vitamin requirements of live-stock usually can be made up through the use of common feeds, vitamins are becoming move general as feed additives in commercial feeds.
+Fact	Various kinds of vitamins are added to commercially mixed feeds for poultry, swine, and to a limited extent, for calves.
+Fact	Increasing amounts of fat-soluble vitamin A are being produced for all types of live-stock.
+Fact	This vitamin, which formerly was supplied as a fish liver oil to be fed separately because of the rapid destruction of the vitamin on oxidation, is available in a stabilized form with small particles of the covering of a synthetic wax, gelatin, or other material.
+Fact	The antirachitic vitamin (vitamin D) in the form of irradiated ergosterol is a lso included as an additive in some mixed feeds for poultry, swine and young calves.
+Fact	This study of animal feed composition and feed supplements brings into clear limelight the fact that in the manufacture of commercially mixed feeds, several feed additives are used and that amongst them are included vitamins A and D. These two vitamins are added as supplements in mixed feed for cattle, poultry, swine and young calves.
+Fact	16.
+Fact	At this stage, it would be convenient to deal with poultry-feed as well.
+Fact	The word "poultry" has many meanings.
+Fact	The one which is relevant for us is to be found at item No.
+Fact	3 under the heading "poultry" at page 1199 of the Oxford English Dictionary, Volume VII.
+Precedent	Accordingly, "poultry" means "domestic fowls collectively; those tame birds which are commonly reared for their flesh, eggs or feathers, and kept in a yard or similar enclosure, as barn-door fowls, ducks, geese, turkeys, guinea-fowls (excluding pigeons, pheasants, etc.
+Precedent	); sometimes restricted to the barn-door fowl with it varieties; als o applied to the birds as dressed for the market or prepared for food".
+Precedent	In Webster's New Twentieth Century Dictionary (Unabridged), the following meaning is given to the word "poultry" at page 1411 : "Domestic fowls which are propagated and fattened for the table, and for their eggs, feathers, etc., such as chickens, turkeys, ducks, guinea-fowls and geese."
+Precedent	These meanings assigned to the word "poultry" in the ordinary English usage make it clear that poultry refers to the rearing of birds for specific purposes, namely, for their meat, eggs, feathers, etc.
+Precedent	When we construe the words "poultry feed", therefore, we cannot overlook that the ration to be supplied to the birds must consist of two constituents, namely, that for maintenance and that for production, that is to say, for growth or fattening and for production of eggs, meat or feathers.
+Precedent	17.
+Precedent	In this context, reference may be made on <ORG>, Volume 18, where the subject "Poultry and Poultry Farming" is dealt with at page 396.
+RatioOfTheDecision	It has been  there pointed out that within each country, egg and chicken production is by far the most important aspect of the poultry farming industry, which has as its object the production of meat and eggs for table use.
+RatioOfTheDecision	In some areas each farmer raises a few chicken that live on table scraps and what food they can find about the house and in the neighbourhood; such eggs and live birds are usually consumed by the farmer and his family or sold on the local market.
+RatioOfTheDecision	At the other extreme are large commercial operations, raising thousands of birds and employing the most modern of food marketing and distribution systems.
+RatioOfTheDecision	These observations clearly indicate that poultry farming has assumed the proportion of an important industry and that apart from the chicken, which are raised domestically to meet one's own requirements, there are large scale commercial operations of poultry raising in which the most modern of food marketing and distribution systems are involved.
+RatioOfTheDecision	Obviously, in the context of such large scale raising of birds  in poultry farms, poultry-feed is something more than food essential for survival.
+RatioOfTheDecision	It would consist of feed which is scientifically prepared and which aims at procuring the best yield of meat, eggs and feathers.
+RatioOfTheDecision	18.
+RatioOfTheDecision	The foregoing discussion would show that on a true and correct inter-pretation of the words "cattle-feed" and "poultry-feed", those terms must included not only that food which is supplied to domestic animals or birds as an essential ration for the maintenance of life but also that feed which is supplied over and above the maintenance requirements for growth or fattening and for production purposes, such as for reproduction, for production of milk, eggs, meat, wool or feathers and, in the case of animals, also for efficient output of work.
+RatioOfTheDecision	In modern times, "cattle-feed" and "poultry-feed" include a large variety of concentrates, in addition to roughages, that have a high value because they are rich in easily digested nutrients and feed supplement.
+RatioOfTheDecision	Amongst the feeds which are considered essential  for the proper nutrition of animals and birds, which are to be kept in a state of efficient production, are included vitamins and, more particularly, vitamins A and D, which have been found to have a profound effect upon live-stock farming by increasing the efficiency of animal production and preventing serious nutritional diseases.
+RatioOfTheDecision	Vitamin A, which is required for growth, reproduction, production and even for maintenance and vitamin D, which is needed to enable the animal to assimilate and use other important elements of its feed, are most apt to be lacking in natural live-stock feeds and that they are included as additives in mixed feeds so as to make good the deficiency.
+RatioOfTheDecision	19.
+RatioOfTheDecision	Whichever way one looks at the matter, therefore, whether one looks at it from the angle of the etymological meaning of the word in the context in which it is used here along with fodder and concentrates, or whether one looks as it from the angle of a person conversant with the industry or trade of live-stock farming or poultry raisi ng, the words "cattle-feed" and "poultry-feed" cannot any longer be considered as meaning only that conventional food which is necessary for the bare maintenance of cattle or birds, as the case may be.
+RatioOfTheDecision	Such feed must consist of both the elements, namely, ration for maintenance and ration for production purpose.
+RatioOfTheDecision	20.
+RatioOfTheDecision	Against this background, let us now turn to the products in question and ascertain what their properties are.
+RatioOfTheDecision	At serial Nos.
+RatioOfTheDecision	(1) and (2) are items of cattle-feed.
+RatioOfTheDecision	According to the literature pertaining to those products, which is on record, <ORG> AD 3 [serial No.
+RatioOfTheDecision	(1)] consists of vitamins A and D3 enveloped in a protective gelatin-glucose matrix as uniform beadlets.
+RatioOfTheDecision	It is used in cattle-breeding programme for cows and buffaloes.
+RatioOfTheDecision	It is also used to preserve the reproductibe efficacy of the bulls and as essential feed for calves.
+RatioOfTheDecision	<ORG> AD 3 Forte [serial No.
+Fact	(1)] is the same thing as <ORG> AD 3, but in more concentrated form.
+Fact	Products Nos.
+Fact	(3) and (4) are items of poultry-feed.
+Fact	According  to the literature pertaining to these products, which is on record, Vitablend AB 2 D 3 consists of vitamins A, B2 and D3 enveloped in a gelatin-glucose matrix in the form of minute beadlets and it is used as a carefully blended and properly balanced feed for growth of healthy profitable birds.
+Fact	It has to be mixed in the feeds, either mechanically or manually and thereupon the granules will disperse easily and evenly.
+Fact	Vitablend WM Forte is the liquid feed supplement of vitamin A.
+Fact	It is mixed with drinking water for increasing resistance through better nutrition, improved health, increased production and to avoid production slumps and blood spots in the eggs.
+Fact	It consists of vitamin A only in a concentrated form.
+RatioOfTheDecision	In our opinion, having regard to the meaning which we have assigned to the words "cattle-feed" and "poultry-feed", these products would necessarily fall within the coverage of the concerned appropriate terms.
+RatioOfTheDecision	21.
+RatioOfTheDecision	Before the <ORG>, it appears to have been stated on behalf of the assessee that these v arious products have to be mixed in small proportions with the other feed given to cattle or poultry, as the case may be, and that the products can also be given in the same form without being mixed with any other feed.
+RatioOfTheDecision	It also appears to have been stated that the products do not constitute food in the conventional sense of ration for maintenance and that they constitute ration for production in the sense that they supply nutrients for nourishing the body.
+Fact	The <ORG>, upon taking these submissions into account and relying upon its earlier decision in the case of <ORG> (Appeal No.
+Fact	21 of 1972 decided on 9th February, 1973), held that the products cannot be classified as cattle-feed or poultry-feed, as the case may be.
+Fact	It requires to be noted at this stage that the Deputy Commissioner of Sales Tax has observed that on studying the literature in respect of all the four items, it clearly appeared that the products in question were not such as could be given to cattle or poultry without a ny addition.
+Fact	In terms, the Deputy Commissioner of Sales Tax found that the products in question have to be added to the feed given to the animals or birds and that, therefore, those products are not "original food but they are supplements".
+Fact	We have ourselves also looked at the literature and we find that the products at items Nos.
+Fact	(2) and (3) are required to be added to the feed and that the product at item No.
+Fact	(4) is required to be added to drinking water to ensure uniform dispersion.
+Fact	It would thus appear that the products in question cannot possibly be administered directly to cattle or poultry without being mixed with any other feed.
+Fact	That, however, is not a circumstance which can make any difference, for, as explained earlier, ration for production is usually supplement or additive to normal feed and it can still be treated as cattle-feed or poultry-feed, as the case may be, in the true sense of the word.
+Fact	22.
+Fact	As regards the <ORG>'s reliance upon its decision in the case of <ORG>, it may be pointed ou t that two products, namely, <ORG> Mineral Mixture for cattle and <ORG> Mineral Mixture for poultry, were involved in that matter.
+Fact	The <ORG> had there taken the view that those two products supplied mineral deficiencies in the normal feed for animals and poultry and that they promoted growth, production, health and breeding.
+Fact	Those products, therefore, were meant to serve as tonics for the animal or poultry.
+Fact	According to the view of the <ORG> in that case, the word "feed" meant "the food especially for live-stock or a mixture or preparation used for feeding live-stock".
+Fact	Having regard to the said meaning of the word "feed", according to the <ORG>, the two products in question could not be said to be cattle-feed or poultry-feed, as the case may be.
+RatioOfTheDecision	This view of the <ORG> was based on the narrow meaning which it assigned to the word "feed" which, according to it, meant, in substance, ration for maintenance.
+RatioOfTheDecision	This view, as earlier pointed out, is not correct.
+RatioOfTheDecision	23.
+RatioOfTheDecision	It should be mentioned that, in ass igning to the word "feed" the restricted meaning that it did, the <ORG> relied upon the decision of this <ORG> in <CITATION_324909> ( 27 S.T.C.
+Fact	170).
+Fact	In that case, this <ORG> has held that "Limical", a product manufactured and sold in the form of biscuits and powder with different flavours and used for a limited period for the purpose of reducing obesity and sustaining proper health, was not an article of foodstuff or food provision within the meaning of entry 6 of Schedule E to the Bombay Sales Tax Act, 1959.
+Fact	In reaching this conclusion, this <ORG> relied upon the decisions of the Supreme <ORG> in <CITATION_1272035> ( 12 S.T.C.
+Fact	286 ( <CITATION_547717> ( 19 S.T.C.
+Fact	469 (S.C.)).
+Fact	In both these decisions, the Supreme <ORG> had applied what has come to be known as "the meaning according to common parlance" principle.
+Fact	That principle, which is borrowed from the decision in <NAME> (1951 C.L.R.
+Fact	(Ex.)
+Fact	122), is to the effect that for the purposes of statutes  intended to raise revenue, the substance concerned must be classified "according to the general usage and known denominations of trade".
+Fact	<ORG> observed that the principle deducible was that goods which were the subject-matter of taxation "must be construed not in any technical sense nor from the botanical point of view but as understood in common parlance".
+Precedent	It was in terms observed as under :  "It (the word) has not been defined in the Act and being a word of everyday use it must be construed in its popular sense meaning that sense which people conversant with the subject-matter with which the statute is dealing would attribute to it".
+Precedent	24.
+RatioOfTheDecision	Applying this test in the interpretation of the words "foodstuff" or "food provision", this <ORG> took the view in those terms because when one demands foodstuff or food provision, what one really demands is the satisfaction which one gets from eating a particular food article.
+RatioOfTheDecision	A person demanding food does not generally demand a particular quantity of vitamins , proteins, fat and carbohydrates.
+RatioOfTheDecision	Limical could not be offered as "food" to a normal person who is found to be hungry or to a guest who is required to be entertained.
+RatioOfTheDecision	It was, therefore, found that Limical was not "foodstuff" or "food provision" within the meaning of the relevant entry.
+RatioOfTheDecision	25.
+RatioOfTheDecision	It is true that the common parlance test was applied in the said decision and that to that extent the decision is in point.
+RatioOfTheDecision	However, beyond that no assistance can be derived from this decision for determining the meaning of the word "cattle-feed" or "poultry-feed".
+RatioOfTheDecision	Foodstuff or food provision for human beings has a definite meaning in common parlance and it cannot possibly include articles like Limical which have special use and properties.
+RatioOfTheDecision	One cannot possibly serve as foodstuff or food provision Limical to a guest at dinner or lunch.
+RatioOfTheDecision	"Cattle-feed" and "poultry-feed", however, are words which are used in the context of the mixed feed of live-stock and poultry, both of which are reared for production purposes not only dome stically but also commercially.
+RatioOfTheDecision	From what has been stated above, it becomes clear that even in its popular sense, that is to say, the sense in which people conversant with live-stock farming and poultry raising and those dealing in cattle-feed or poultry-feed would attribute to those words, ration for production, such as feed additives or supplements like proteins, minerals, vitamins, etc., would truly constitute "cattle-feed" or "poultry-feed", as the case may be.
+RatioOfTheDecision	In such a context and in view of the setting of the word "cattle-feed" in the company of the word "concentrates", it would be difficult to reach the conclusion at which the <ORG> arrived.
+RatioOfTheDecision	The <ORG>'s decision as to the true scope of the entries in question in the instant case, relying upon its earlier decision, therefore, is obviously not correct in law.
+RatioOfTheDecision	26.
+RatioOfTheDecision	We must now turn to the questions which have been referred to us.
+RatioOfTheDecision	Ordinarily, on the basis of the aforesaid reasoning, both the questions would have been answered in favour of the assess ee.
+RatioOfTheDecision	We find, however, that that course cannot be adopted so far as the first question is concerned.
+RatioOfTheDecision	We have pointed out earlier that cattle-feed, which is mechanically produced, is specifically excluded from the coverage of entry 21 of Schedule I.
+RatioOfTheDecision	The essential question, which will require to be determined in each case concerning the said entry, therefore, is whether the goods in question, even if they be cattle-feed, are mechanically produced.
+RatioOfTheDecision	We find, in the instant case, that the <ORG> has not at all applied its mind to this aspect of the case presumably because it was of the view that the products in question are not "cattle-feed".
+RatioOfTheDecision	In the view which we have taken however, the determination of the subsidiary question is not only relevant but also necessary.
+RatioOfTheDecision	Under these circumstances, we would have ordinarily declined to answer the first question and left it to the <ORG> to adjust its decision under section 69(4), after having considered the aforesaid aspect.
+RatioOfTheDecision	That exercise, however, is not necessary i n the present case because, on behalf of the assessee, it has been specifically stated to us that the products at serial Nos.
+RatioOfTheDecision	(1) and (2) are mechanically produced.
+RatioOfTheDecision	Having regard to this concession made on behalf of the assessee, no useful purpose will be served by declining to answer the question and leaving it to the <ORG> to adjust its decision after determining the said question.
+RatioOfTheDecision	We must hold accordingly that the products at serial Nos.
+RatioOfTheDecision	(1) and (2) are not covered by entry 21 of Schedule I, though for reasons different from those which appealed to the <ORG>.
+RatioOfTheDecision	27.
+RatioOfTheDecision	As regards the second question, entry 25 of Schedule I has no words of limitation.
+RatioOfTheDecision	It covers poultry-feed without any qualification.
+RatioOfTheDecision	In the light of the foregoing discussion, we must hold that the products at serial Nos.
+RatioOfTheDecision	(3) and (4) are covered by the said entry.
+RatioOfTheDecision	28.
+RatioOfTheDecision	In the result, the questions referred to us are answered as follows :  Question No.
+RatioOfTheDecision	(1) : In the negative, that is to say, against the assessee and in favour of the revenue.
+RatioOfTheDecision	Question No.
+Precedent	(2) : In the affirmative, that is to say, in favour of the assessee and against the revenue.
+Precedent	29.
+Precedent	In the circumstances of the case, there shall be no order as to costs of this reference.
+Precedent	30.
+RulingByPresentCourt	Reference answered accordingly.

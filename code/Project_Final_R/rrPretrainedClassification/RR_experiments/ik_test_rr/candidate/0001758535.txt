@@ -1,0 +1,95 @@
+Fact	JUDGMENT  1.
+Fact	In this case the plaintiff's suit is for the recovery of certain lands in the possession of the defendants.
+Fact	Both the Lower Courts have found the plaintiff's title and possession within twelve years prior to the suit proved.
+Fact	2.
+Fact	The only question in second appeal is, whether the plaintiff's claim is unsustainable in consequence of a compromise entered into between the parties in a prior suit--Original Suit No.
+Fact	363 of 1904.
+Fact	That suit was instituted by the plaintiff against the present defendants and others for the recovery of another plot of land.
+Fact	The parties entered into a compromise in that suit.
+Fact	By the terms of that compromise it was settled inter alia that both the land sued for then and the lands which form the subject-matter of this suit should be divided into two moieties and that the plaintiff should take one moiety and the defendants the other moiety.
+Fact	The agreement of compromise was not registered under Act III of 1877.
+Fact	The plaintiff being then a minor, the compromise was submitted to the  court under the provisions of Section 462 of the then Civil Procedure Code, and the court gave leave to the plaintiff's next friend to enter into the compromise, holding it to be beneficial to the minor.
+Fact	A decree was afterwards passed in terms of the compromise in so far as it related to the property which was then sued for.
+Fact	The court, of course, could not pass a decree then in respect of the properties now in suit, as they were not included in the claim then made.
+Fact	The plaintiff, it may be noted, attempted to get a share of the properties now sued for in execution of the decree in that suit.
+Fact	His attempt naturally failed as the decree did not cover these properties.
+Argument	Both the <ORG> have held that the defendants could not rely on the compromise as a defence to this suit as it was compulsorily registrable under the provisions of Section 17 of the Registration Act.
+Argument	3.
+Argument	It is contended before us on behalf of the appellants that this J. view is wrong and reliance is placed on the decisions of the Privy Counci l in <NAME> v. <NAME> (1898) I.L.R., 20 All.171.,(P.C.)
+Argument	and <CITATION_17687> (1899) I.L.R., 22 Mad., 508 (P.C.)
+Fact	and on the case of <CITATION_446956> (1910) I.L.R., 33 Mad., 102.
+Fact	Several other cases were cited at the argument on both sides.
+Fact	As there is some conflict of judicial opinion on the point, it is desirable to refer at some length to the rulings of <ORG> mentioned above.
+Fact	In <NAME> v. <NAME> (1898) I.L.R., 20 All.171.,(P.C.)
+Fact	the suit was to enforce the payment of money due on a mortgage bond by sale of the mortgaged property.
+Fact	The dispute between the parties was whether the plaintiff was entitled to recover as against the property the interest due to him on the mortgage-amount after the date fixed for payment--originally in the instrument of mortgage.
+Fact	<ORG> held, on the construction of the mortgage document, that he was so entitled.
+Fact	The plaintiff had based his claim to post diem interest, also on joint petitions presented by him and by his de btors the defendants in the suit in the course of certain proceedings instituted by the plaintiff for foreclosure.
+Fact	In these petitions the parties stated the total amount of principal and interest which was then due on mortgage.
+Fact	The sums thus stated included post diem interest up to the date of the petitions.
+RulingByLowerCourt	The court was asked to sanction the arrangement between the parties under Section 257-A , Civil Procedure Code, and to grant an extension of time in accordance therewith for the payment of the mortgage debt.
+RulingByLowerCourt	The required sanction was granted by the court.
+Argument	The defendants contended that the consent petitions could not be relied on by the plaintiff as they were not registered in accordance with the provisions of the Registration Act .
+Argument	<ORG> observed: "Although, in the view) which their Lordships take the question, whether those proceedings can be founded on, without their having been registered in terms of the Act of 1877, does not necessarily arise in this appeal, they think it right to add that , having heard counsel fully upon the point, they are satisfied that the provisions of Section 17 of the Act do not apply to proper judicial proceedings, whether consisting of pleadings filed by the parties or of orders made by the court."
+Fact	<CITATION_17687> (1899) I.L.R., 22 Mad., 508 at p. 513 (P.C.
+Fact	), a suit which had been instituted for possession of certain lands was amicably settled by a compromise between the parties, which related both to those lands and to other lands which were the subject-matter of the case before <ORG>, The razinama which was presented to the court in the first suit stated that the parties had agreed to take each a certain share of the land sued for.
+Fact	One of the four schedules incorporated with it, namely, Schedule D, related to and described the lands which were the subject of the second suit, but the body of the compromise contained no reference to it.
+Fact	It set forth as "remarks" that the lands in Schedule D were also to be taken in equal shares by the parties.
+Fact	The decree  of the court awarded to the plaintiff, in terms of the <ORG>, a share of the lands then actually sued for.
+Fact	The question in the second suit was whether the <ORG> in the previous suit which was not registered could nevertheless be relied upon by the defendants in bar of the [plaintiff's right to recover the whole of the lands.
+Argument	<ORG> held that it could not.
+Argument	Their Lordships observed, "the objection founded upon its non-registration does not, in their Lordships' opinion, apply to its stipulations and provisions in so far as they were incorporated with, and given effect to by, the order made upon it by the Subordinate Judge in the suit of 1885.
+Argument	The <ORG>, in so far as it was submitted to and was acted upon judicially by the learned Judge, was in itself a step of judicial procedure not requiring registration; and any order pronounced in terms of it constituted res judicata, binding upon both the parties to this appeal who gave their consent to it.
+Argument	If the parties, after agreeing to settle the sui t of 1885 on the footing that they were each to take a half share of the lands involved in that suit, and also a half share of the lands now in dispute, had informed the learned Judge that these were the terms of the compromise, and had invited him, by reason of such compromise, to dispose of the conclusions of the suit of 1885, their Lordships see no reason to doubt that the order of the learned Judge, if it had referred to or narrated these terms of compromise, would have been judicial evidence, available to the appellant, that the respondents had agreed to transfer to her the moiety of land now in dispute.
+Argument	But their Lordships are unable to find that any such course was taken either in the <ORG> or in the judicial order which gave effect to it.
+Argument	The <ORG> merely referred, by way of remark, to the lands now in dispute; and the Judge was only asked to give effect to a compromise which related to the lands then in dispute before him.
+Argument	This order, accordingly, merely concerns the latter, and has no referenc e whatever to the lands described in Schedule D of the razinama.
+Argument	So far as regarded these lands, the compromise was not submitted to the learned Judge, but was deliberately left by the parties to stand upon their unregistered agreement of union."
+Argument	4.
+Argument	The contention for the appellants is that in these two cases their Lordships of <ORG> have laid down that an unregistered document requiring registration under Section 17 of Act III of 1877, if referred to or narrated in a decree or order of a court or set out in pleadings filed by parties to the instrument in a court, would have the same effect as if it had been registered although it forms no part of the decree or order of the court.
+RatioOfTheDecision	Now Section 17 enacts that documents coming within the classes referred to in Clauses (a) to (d) thereof shall be registered.
+RatioOfTheDecision	Clause (i) exempts from the rule of compulsory registration "decrees and orders" of courts as an exception to Clauses (b) and (c).
+Fact	There is no provision in the section that pleadings before a cou rt which are mere statements of parties should be registered.
+Statute	Section 49 of the Act lays down "No document required by Section 17 to be registered, shall affect any immoveable property comprised therein, or confer any power to adopt, or be received as evidence of any transaction affecting such property or conferring such power, unless it has been registered in accordance with the provisions of this Act."
+RatioOfTheDecision	It will be observed that non-registration of a compulsorily registrable document leads to two consequences: one is that it cannot be received as evidence of any transaction affecting immoveable property and the other that it shall not affect any immoveable property comprised therein.
+RatioOfTheDecision	If a razinama has been passed into a decree or order by a court then under Clause (i) of Section 17 it is exempted from compulsory registration; and the decree or order would constitute the matters comprised therein res judicata between the parties to the litigation.
+RatioOfTheDecision	But if any portion of the razinama has not passed into a decree  or order of court, it is prima facie difficult to see how a recital of it in the proceedings of the court or its inclusion in pleadings put before the court will coma within the terms of Clause (i).
+RatioOfTheDecision	And it is difficult to suppose that their Lordships of <ORG> could have intended to extend the provisions of Clause (i) in the manner urged by the appellants.
+RatioOfTheDecision	On examination of the language employed by their Lordships, it is clear that they did not do so intend.
+RatioOfTheDecision	The observation in the earlier case is that the provisions of Section 17 do not apply to pleadings.
+RatioOfTheDecision	This is no doubt obvious.
+RatioOfTheDecision	In the latter case, the dictum is that the order of the Judge if it had referred to or narrated the terms of the compromise not embodied in the decree of the court, would have been judicial evidence available to the appellant that the respondents had agreed to transfer the moiety of the lands to which the reference or narration might relate.
+RatioOfTheDecision	All that their Lordships meant, apparently, was that the entry of an agreement  in a decree or order of court would be relevant to prove the agreement, This is laid down in Section 35 of the Evidence Act.
+Precedent	It has been held that such an entry would be primary and not secondary evidence of the facts contained in it.
+Precedent	<CITATION_1126711> (1892) I.L.R.
+Precedent	15 Mad., 19 at p. 23, <CITATION_1267031> (1892), I.L.R., 15 Mad., 378, <CITATION_697122> (1883) I.L.R., 9 Calc., 586.
+RatioOfTheDecision	But taking it that an agreement could be proved by means of the entry of it in an order of court this circumstance would only get rid of one of the two consequences of non-registration laid down in Section 49 of the Registration Act, viz., the inadmissibility of the document in evidence.
+RatioOfTheDecision	It does not, however, remove the other consequence, namely, that the document cannot affect the immoveable property comprised therein.
+RatioOfTheDecision	The observations of <ORG> do not lend any countenance to the suggestion that the reference or narration in a decree or order could have any such effect.
+RatioOfTheDecision	The immoveable property comprised in a compromise  can be affected only in so far as it has passed into a decree or order of the court.
+RatioOfTheDecision	If a particular transaction is not required by law to be effected by a registered instrument and if the consequence of non-registration were declared to be merely its inadmissibility in evidence then it might be possible to hold that such consequence might be avoided when the contents of the instrument are entered in judicial proceedings.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It has to be remembered that, in one sense, the whole of a compromise by which a suit is terminated is put before the court for being recorded though the court will pass a decree in terms thereof only in so far as it relates to the subject-matter of the suit.
+RatioOfTheDecision	When it is placed before the court with a request to record it, it becomes part of the pleadings and when the court records it, it by implication refers to the whole of the compromise.
+RatioOfTheDecision	How much of the compromise would be evidence under Section 35 of the Evidence Act would depend upon how much thereof could be regarded as having bee n entered in the record of the court.
+RatioOfTheDecision	But, as already pointed out, an entry in the court's record will not enable anything not actually part of the decree or order of the court, to affect the immoveable property compromised in that order.
+RatioOfTheDecision	6.
+RatioOfTheDecision	For these reasons, it appears to be clear that the appellants' claim to the properties now in question on account of its inclusion in the compromise is unsustainable.
+RatioOfTheDecision	As for <CITATION_446956> (1910) I.L.R., 33 Mad., 102 at p. 108 there is a dictum there in appellants' favour.
+Precedent	The learned judges who decided the case--<NAME> and <NAME>, JJ.--observe referring to the passage in <CITATION_17687> (1899) I.L.R., 22 Mad., 508 (P.C.)
+Precedent	already set out in these records: "In our opinion this passage clearly means that the compromise could have been enforced, although not registered, even about the lands not included in the suit.
+Precedent	The learned judges who decided <CITATION_15271> (1906) I.L.R., 28 All., 78, understood their Lordships' judgment in the same way."
+Precedent	With all deference  to the learned judges this dictum cannot be accepted as correct.
+Precedent	It is opposed to the decisions of the court in <CITATION_811632> (1902) I.L.R., 25 Mad., 553 and <CITATION_114549> (1906) I.L.R., 29 Mad., 365, The decision of <ORG> in <CITATION_15271> (1906) I.L.R., 28 All., 78 relied on by the learned judges, has not been followed in that court itself in the later cases of <CITATION_1286841> (1910) I.L.R., 32 All., 206 and <CITATION_1627110> (1909) I.L.R., 31 All., 13.
+Precedent	Our view is in accordance with the decisions of <ORG>; in <ORG> v. <NAME> (1905) 1 C.L.J., 338, <NAME> v. <NAME> (1903) I.L.R., 30 Cal., 788, and <CITATION_274576> (1909) I.L.R., 36 Calc., 193 and <CITATION_1914295> (1907) I.L.R., 34 Calc., 456 was relied on in favour of the appellants.
+Precedent	But that case is distinguishable.
+Fact	There, a decree was passed against the defendant for the amount agreed upon as the proper rent by an unregistered compromise.
+Fact	The defendant was boun d to execute a solenama according to the terms of the compromise, agreeing to pay that rent.
+Fact	He remained in occupation of the plaintiffs' land, but failed to execute the solenama.
+Fact	It was held that the plaintiff was entitled to the rent fixed by the compromise.
+RatioOfTheDecision	The plaintiff would be entitled to recover the amount from the defendant as for use and occupation though that 'was not the exact ground on which the decision was based.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The defendants in their written statement did not put forward any title to the land except under the compromise referred to above.
+RatioOfTheDecision	That is therefore the only root of their title and as it is unregistered they cannot rely on it as affecting the immoveable property comprised therein.
+RatioOfTheDecision	8.
+RulingByPresentCourt	The Second Appeal must be dismissed with costs.

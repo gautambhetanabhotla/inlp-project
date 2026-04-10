@@ -1,0 +1,66 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	This is an appeal by the defendants from the decision of the Officiating District Judge of Muzaffarpur, dated the 24th September 1917, reversing a decision of the Additional Subordinate Judge, dated the 24th February 1917.
+Fact	2.
+Fact	The suit was instituted by the plaintiff on the 10th June 1915 claiming a declaration of title to a 4 annas 13 gandas 1-cowrie 1-krant share of <NAME> bearing <NAME> No.
+Fact	10005 recorded in the name of the defendants as proprietors, and confirmation of his possession.
+Fact	He further claimed a declaration that he was entitled to get his name registered in the mutation department in respect of the disputed share and the removal of the names of the defendants and an injunction restraining them from proceeding with a partition suit before the Collector in respect to the share in dispute.
+Fact	The plaintiff is admittedly the proprietor of the remaining II annas odd comprising 16 annas of the <NAME> number in question.
+Fact	The entire property was originally an 8 -annas pucca share of the said village and belonged to one Sheikh <NAME>, the ancestor of both the plaintiff and the defendants.
+Fact	<NAME> left three sons and one daughter, who upon his death succeeded to his 8-annas share of the property, each of the sons taking 2 annas 6 gandas 2 cowries 2 krauts and the daughter 1 anna.
+Fact	One of the sons, <NAME>, is the grandfather of the present plaintiff.
+Fact	Another of the sons, <NAME>, is the grandfather of the defendant No.
+Fact	1.
+Fact	The third son <NAME> transferred his share to his widow <NAME> by a baimokasa deed in the year 1312.
+Fact	The plaintiff's case is that <NAME> acquired in addition to the share of her <NAME> the 1-anna share of <NAME>, the daughter of <NAME> as well as the 2.annas 6-gandas odd share of <NAME> by transfer from his son <NAME>, the <NAME> of the defendant No.
+Fact	1, that <NAME>'s share passed to <NAME> and <NAME>, his two sons, the <NAME> and uncle of the plaintiff, and the latter having died hi s share as well as that of <NAME> devolved upon him, the plaintiff, that <NAME> transferred the whole share which she had acquired from her <NAME>, her sister-in-law <NAME> and <NAME>, amounting to 5 annas 13 gandas odd, to <NAME> and <NAME>, the <NAME> and uncle of the plaintiff, in the year 1855.
+Fact	The uncle died childless and consequently in due course the whole 8-annas share originally held by Sheikh <NAME> thus cams into the possession of the plaintiff on the death of his <NAME> <NAME>.
+Fact	This 8-annas share, which was part of Touzi No.
+Fact	1162 of the village in question was in the year 1863 formed into a separate patti bearing Touzi No.
+Fact	10005.
+Fact	This partition was made at the instance of the plaintiff's <NAME> <NAME>, and the plaintiff's case is that his <NAME> and uncle remained in undisturbed possession of the whole property down to the year 1876.
+Fact	In that year the entire patti was brought to sale in execution of a decree obtained by one <NAME> agains t the plaintiff's <NAME> and uncle and was purchased by one <NAME>.
+Fact	Before the sale objections were taken to the attachment of the property in the name of <NAME>, claiming as proprietor of the 2-annas 6 gandas odd share which be had inherited from his <NAME>, and by two sisters of the plaintiff's <NAME> under Section 278 of the old Code of Civil Procedure.
+Fact	These objections were disallowed and two regular suits ware, instituted on behalf of the respective objector setting up a claim to portions of the property.
+Fact	Notwithstanding these suits, however, the sale proceedings were continued and the property was sold and purchased by <NAME>.
+Fact	The decree-holder <NAME> was originally the principal defendant in these suits, but after the sale the auction-purchaser <NAME> was made the principal defendant.
+Fact	The judgment-debtors, the plaintiff's <NAME> and uncle, were also defendants in the suit.
+Fact	The suit brought in the name of <NAME> was subsequently settled by the auction-purchaser confessing judgment  in favour of the plaintiff <NAME> and it was ordered that according to the confession of judgment by <NAME>, a decree for declaration of title in favour of <NAME> should be passed.
+Fact	The plaintiff's case with regard to this suit and the circumstances attending it is that it was in the first instance an attempt instigated by his <NAME> and uncle to endeavour to save their property from attachment by setting up <NAME> as a claimant to the 2 annas 6 gandas odd share which still remained recorded in his name, that the auction-purchaser <NAME> was under an obligation to the plaintiff's <NAME> who was a hakim and in the habit of attending <NAME> in that capacity, and that in order to discharge his obligation he consented to transfer the purchased property back to the plaintiff's <NAME> but that instead of executing a kobala in favour of the plaintiff's <NAME> for that purpose, he confessed judgment in the suits brought both by <NAME> and the two sisters of the plaintiff's <NAME> in respect of  the shares claimed by them and with regard to the remaining shares he executed a kobala in favour of one <NAME>, a friend of his, as benamidar for the plaintiff's <NAME>.
+Fact	The object of this was according to the plaintiff's case, that <NAME> the plaintiff's <NAME> was desirous of keeping this particular property out of the hands of his creditors.
+Fact	The evidence shows, however, that there was in fact no fraud perpetrated on any of the creditors of <NAME> as they were all paid off, and subsequently <NAME> transferred his share by a ladavi deed to the plaintiff in 1897 and about the same time the shares of the two aunts of the plaintiff were also recorded in the name of the plaintiff's wife.
+Fact	The share of <NAME>, however, remained recorded in his own name, although it is the plaintiff's case that both he and his <NAME>, before him were in sole possession and control of the property and that <NAME> was merely their benamidar, and it Was not until the year 1914 when ill-feeling arose between  the plaintiff and the defendants that the latter endeavoured to get possession of the share recorded in their name by filing a petition for partition before the Collector.
+Fact	Hence the present suit claiming a declaration of the plaintiff's title.
+Fact	3.
+Fact	Before the Subordinate Judge the main issues were, first, whether the 5-annas 18-gandas odd share transferred by <NAME> to the plaintiff's <NAME> and uncle in 1855 included the 2-annas 6'-gatndus odd share of <NAME> and, secondly, whether the compromise in the suit of 1873 made between <NAME> and <NAME> was really part and parcel of a benami transaction wherein <NAME> was acting merely as the benamidar of the plaintiff's <NAME>.
+RulingByLowerCourt	With regard to the first point there was no direst documentary evidence showing a transfer of <NAME>'s share to <NAME> before 1855, and the only documentary evidence in support of this was a petition in 1861 whereby the plaintiff's <NAME> applied for registration of his name in respect of the 5-annas 13-gandas od d share purchased from <NAME>, in which he recites that this covered, in addition to the 2 annas 6 gandas odd which she received from her <NAME>, the 2 annas 6 gandas transferred by <NAME> as well as the P-anna shara transferred to her by <NAME>.
+RulingByLowerCourt	As the whole share of the family was an 8-annas share and as <NAME> admittedly acquired 3 annas 6 gandas odd from her <NAME> and <NAME>, there was no other source from which she could have acquired the other 2 annas 6 gandas, odd making up the 5 annas 13 gandas, except from <NAME> unless she acquired <NAME> share, and there was no evidence to show that <NAME> ever parted with his interest.
+RulingByLowerCourt	On the other hand, the oral evidence went to show that <NAME> share descended by inheritance to the plaintiff's <NAME> and uncle and ultimately to the plaintiff, The Subordinate Judge found all issues in favour of the defendants and dismissed the suit.
+Argument	4.
+Argument	The District Judge took a different view of the facts and came to the conclusion t hat the plaintiff had made out his title to the whole 8 annas share including that Originally -held by, <NAME>, and that the transaction which took place at the date of the suit brought by <NAME> in 1876 was a benami transaction in which <NAME> merely represented the plaintiff's <NAME>.
+Argument	5.
+Argument	It has been urged before us on behalf of the appellants that there is no real evidence to support these findings.
+Argument	It is contended that the recitals in the petition of 1861, when the plaintiff's <NAME> applied for registration of his name, are not admissible in evidence against <NAME> and as no deed of transfer by <NAME> to <NAME> has been produced, there is nothing from which it can be inferred that <NAME> ever did in fact part with his share.
+Argument	The plaintiff's case was that the deed of transfer had been lost but that nevertheless from all the circumstances of the case a legitimate inference might be drawn that his <NAME> had in fact acquired from <NAME> the shara which originally belonged to  <NAME> and as the transfer of a 5-annas 13 gandas odd share from <NAME> had undoubtedly been proved and as he acquired by inheritance the 2-annas 6-gandas odd share of his grandfather <NAME>, this accounted for the whole 8-annas share.
+Argument	The further fact that <NAME> in 1853 without any intervention on the part of <NAME> had applied for and obtained a bitwara rubakar whereby the whole 8-annaa share was divided into a separate patti supported this view.
+RatioOfTheDecision	The learned District Judge did not come to any definite finding on this part of the case but based his decision upon the fact that when <NAME> obtained his decree against the plaintiff's <NAME> and uncle in 1876 and got an attachment of the whole 8 annas share which was purchased by <NAME>, the arrangement then come to where by <NAME> confessed judgment in the suits brought against him was an arrangement whereby it was intended to transfer the property to the plaintiff's <NAME> in the benami name of <NAME> and others.
+RatioOfTheDecision	6.
+RatioOfTheDecision	It i s unnecessary to deal in detail with the evidence relied upon in support of this conclusion.
+RatioOfTheDecision	These was undoubtedly evidence to support it to which the learned Judge refers.
+RatioOfTheDecision	The only real attack made by the appellants against this part of the judgment was first that it was net competent to the plaintiff to contend that <NAME> was acting as his benamidar, as the plaintiff's <NAME> admittedly lent himself to this transaction with a view to defeating his creditors, and secondly, that the decree in the suit brought by <NAME> against <NAME> and the plaintiff's <NAME> and uncvle in 1876 was res judicata and binding on all parties to that suit including the plaintiffs predecessors-in-title.
+Precedent	In support of the first contention the appellants rely upon the case of <CITATION_639151> 20 M. 326 7 Ind.
+Precedent	Dec.
+Precedent	(n.s.)
+Precedent	231, where it was held under circumstances somewhat similar to the present that a plaintiff who had transferred his land to another in order to defeat an attaching creditor, the creditor subsequently con senting to a decree upholding the title of the transferee, was not entitled to a declaration that his name should be retained on the register as owner when the transferee had applied to be registered in his place.
+Precedent	The authority of this case has been questioned and dissented from in the later case of <CITATION_1335120> 33 C. 967 : 4 C.L.J.
+Precedent	22 : 10 C.W.N.
+Precedent	650, where <NAME> and <NAME>, JJ., held that where the mere intention to commit a fraud has not been carried into effect, a beneficial owner is entitled to sue for a declaration that a deed of transfer executed by him was, merely a benami transaction.
+RatioOfTheDecision	Although there has been some diversity of opinion upon the question, I think the decision in the later case expressed the true view A, transfer which is merely colourable and made with the intention of defrauding creditors can always be sat aside by the transferor at any time before the fraud has actually taken place.
+RatioOfTheDecision	Bat if the fraudulent intention has succeeded, the <ORG> will not assist either party claim ing under such a transaction.
+RatioOfTheDecision	In the present case it is shown that nobody in fact was defrauded and that the creditors of the plaintiff's <NAME> were all paid off.
+RatioOfTheDecision	In my opinion the principle relied upon by the appellants on this part of the case has no application to the present circumstances.
+RatioOfTheDecision	7.
+RatioOfTheDecision	With regard to the second paint the question whether <NAME> was acting as benamidar for the plaintiff's <NAME> was not raised or decided in that suit.
+RatioOfTheDecision	The decree was merely passed in favour of the plaintiff upon the confession of judgment by <NAME>, the principal defendant.
+RatioOfTheDecision	There seems to be no reason why the present plaintiff should be estopped from contending that <NAME> was merely his benamidar.
+RulingByPresentCourt	In my opinion this appeal fails and, must be dismissed with costs.

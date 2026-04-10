@@ -1,0 +1,110 @@
+Fact	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	In 1903, the plaintiff applied to the Collector for a grant of the occupancy of Survey Nos.
+Argument	46 and 47 in the village of Ajanti.
+Argument	The occupancy was accordingly granted to him on payment of Rs.
+Argument	99, being three times the annual assessment.
+Argument	The grant was made on what is popularly known as "the restricted tenure ", certain conditions being annexed prohibiting, alienation as permitted by Section 68 of the Bombay Land Revenne Code.
+Argument	The relevant words of the Kabulayat are as follows Neither I, nor my heirs nor any agent acting on my behalf will create any encumbrance on the land or any portion of it by way of lease, mortgage or sale or in any other manner.
+Argument	2.
+Argument	On August 9th, 1915, the plaintiff made an application to the District Deputy Collector in which he stated that the two lands were taken up jointly by himself and defendant No.
+Argument	2, and prayed that Survey No.
+Argument	46 might be transferred to the came of defendant No.
+Argument	2.
+Argument	On August 21, 1915, the statement of defendant No.
+Argument	2 was recorded by the <ORG> dar.
+Fact	He said that he had paid the price of Survey No.
+Fact	43, and prayed that it should be transferred to his name.
+Fact	On November 3rd, 1915, the District Deputy Collector held that there was a private arrangement between plaintiff and defendant No.
+Fact	2 which constituted a breach of the conditions set out above and directed that the lands should be forfeited.
+Fact	In pursuance of this order plaintiff was evicted on January 18th, 1916 and on February 7th, 1916 the Collector rejected the appeal made to him.
+Fact	The suit was filed on February 6th, 1917.
+RulingByLowerCourt	3.
+RulingByLowerCourt	There is no dispute as to the above facts.
+RulingByLowerCourt	It may be remarked that if there was in fact a breach of the conditions of the <ORG> plaintiff would cease to be entitled to the occupation of the land as provided for by Section 68 of the Bombay Land Revenue Code and would, therefore, be liable to be summarily evicted by the Collector in exercise of the powers conferred by Section 79A.
+RulingByLowerCourt	It is also clear that by virtue of Section 10 the District Deputy Collector was empowered in th is behalf.
+RulingByLowerCourt	It may further be remarked that the use of the word "forfeiture " in the District Deputy Collector's order is erroneous, but this is a matter of form only.
+Fact	What was in effect done was to evict the plaintiff summarily.
+Fact	4.
+Fact	The only question of fact which is obscure is what was the exact nature of the arrangement between plaintiff and defendant No.
+RatioOfTheDecision	2.
+RatioOfTheDecision	The lower Court holds that there was no agreement prior in date to the <ORG> and that is probably correct.
+RatioOfTheDecision	The lapse of eleven years renders this unlikely and the evidence of defendant No.
+RatioOfTheDecision	2 on the point is vague and unsatisfactory.
+Precedent	He says: " I do not remember if I and <NAME> paid half and half the amount that was first paid to Government....
+Precedent	I asked <NAME> after he got the lands to give me S. No.
+Precedent	46 and he consented ".
+RatioOfTheDecision	The truth of the matter appears to be that defendant No.
+Fact	2 from time to time advanced money to plaintiff for expenses of cultivation (the lands were originally waste) and that latterly they arranged for the transfer of one of the land s. It may be noted that this was apparently the case for defendant No.
+Fact	1 in the lower Court.
+Argument	In Exhibit 17-the pursis of the Government Pleader-it is said plaintiff has broken the conditions inasmuch as he has alienated S. No.
+Argument	46 to defendant 2 ".
+RatioOfTheDecision	There is no evidence that any money was paid as purchase money and admittedly no document was executed.
+RatioOfTheDecision	In these circumstances it is difficult of <ORG> to understand in what way there has been a breach of the Condition of the Kabulayat.
+RatioOfTheDecision	There was at most a contract for sale which of itself creates no interest in or charge on the property.
+RatioOfTheDecision	Plaintiff and defendant No.
+RatioOfTheDecision	2 appear to have made false representations to <ORG> in the hope of inducing them to sanction the transfer but this can furnish no valid ground for the order of eviction.
+Precedent	Beyond this there was nothing more than an attempt or intention to transfer which was never carried into effect.
+Precedent	It may, however, be remarked that if there was indeed an antecedent arrangement such as was suggested by  plaintiff and defendant No.
+Precedent	2 the case for applying b.
+RulingByLowerCourt	79A would be no stronger.
+RulingByLowerCourt	The action taken was (in my opinion) premature, and not warranted by the terms of that section.
+RulingByLowerCourt	The eviction was therefore wrongful.
+RulingByLowerCourt	5.
+Argument	But it has been urged in appeal that the suit is barred by limitation.
+Argument	The point was not taken in the lower Court, and it is urged that Order VIII, Rule 2, of the Code of Civil Procedure & precludes us from considering the point.
+RatioOfTheDecision	That order cannot, I think, be read as overriding the established practice.
+RatioOfTheDecision	This is a first appeal and the general rule is that effect should be given to a plea of limitation raised for the first time.
+RatioOfTheDecision	It may further be noted that the facts necessary for the consideration of this plea are in substance set out in the plaint itself, which shows that the suit was filed more than a year after the date of the actual eviction.
+RatioOfTheDecision	Thus it may be doubted whether, on a strict construction of Order VIII, Rull 2 it was necessary for defendant No.
+RatioOfTheDecision	1 to plead limitation (see the words  "or would raise issues of fact not arising out of the plaint ").
+RatioOfTheDecision	6.
+Precedent	It is argued for defendant No.
+Precedent	1 that the suit is barred by Article 14 of Schedule I of the Indian Limitation Act.
+Precedent	The act of eviction, it is urged, was the act of an officer of Government in his official capacity, and as the suit was admittedly brought more than a year after the date of that act it must be held to be barred.
+Precedent	The exact scope of Article 14 is a question not freo from A difficulty but I am unable to find any ground on which this case can be distinguished from <NAME> v. Secretary of <ORG> for India (1900) I.L.R.
+Precedent	24 Bom.
+Precedent	435.
+Precedent	In that case it was held that if a Collector disposed of land, the property of a private individual, purporting to act under Section 37 of the Bombay Land Revenue Code, the disposition is a nullity because Section 37 does not give power to deal with the lands of private individuals.
+RatioOfTheDecision	The order is in fact not one made by a public officer in his official capacity.
+RatioOfTheDecision	It would appear to follow that the act of  dispossession is equally a nullity-not in the sense that it is a negligible quantity but in the sense that it is not an act done by an officer in his official capacity.
+RatioOfTheDecision	It, therefore, stands on no other footing than an act of dispossession by a private individual.
+RatioOfTheDecision	The basic defect is that what is done is not within the statutory powers which the officer purports to exercise inasmuch as the land does not fall within that category to which alone Section 37 is applicable.
+RatioOfTheDecision	In the present case as the conditions necessary for the exercise of the power of summary eviction conferred by Section 79A did not in fact exist the District Deputy Collector cannot be held to have acted in his official capacity.
+Precedent	<CITATION_1982235> for India (1911) I.L.R.
+Precedent	36 Bom.
+Precedent	325 : 14 Bom.
+Precedent	L.R.
+Precedent	332 the same line of reasoning is adopted.
+Precedent	That also was a case under Section 37.
+Fact	The District Deputy Collector held erroneously that the plaintiff was not entitled to the possession of certain land, and the suit was filed more than a year after the  order.
+RatioOfTheDecision	It was held that the order gave the plaintiff a cause of action, but that as it was based on an erroneous view of the facts it was ultra vires.
+RatioOfTheDecision	The District Deputy Collector did not, therefore, act in his official capacity and Article 14 had no application.
+RatioOfTheDecision	It seems to me impossible to escape the conclusion that here too by parity of reasoning the act was not done by the District Deputy Collector in his official capacity.
+Precedent	The same principle is laid down in Maharaja of Vizianagaram v. <NAME> (1906) I.L.R.
+Precedent	Mad.
+Precedent	280.
+Precedent	Where an officer of Government purports to act under a statutory authority but in fact acts in excess of that authority his act should be treated as a nullity.
+RatioOfTheDecision	It is perhaps simpler to say that the act is not an official act for that view brings out more clearly the reason why Article 14 is no bar.
+RatioOfTheDecision	This appears to be the view hitherto taken by this <ORG>, and no valid ground is shown for questioning it.
+RatioOfTheDecision	It would appear to follow that Article 14 has no application here.
+RatioOfTheDecision	It  is not disputed that the suit is otherwise in time.
+RatioOfTheDecision	7.
+RatioOfTheDecision	I would, therefore, reverse the decree of the lower Court and make a decree for possession and mesne profits under Order XX, Rule 12, of the Civil Procedure Code.
+Precedent	Possession to be given three months after the receipt of the record in the lower Court.
+Precedent	Plaintiff to recover his costs throughout.
+Precedent	<NAME>, J.
+Precedent	8.
+Precedent	I concur.
+Precedent	I desire to add a word with reference to the point of limitation raised on behalf of defendant No.
+Precedent	1 for the first time in the appeal before us.
+Precedent	In view of the allegation in the plaint, according to the provisions of Order VIII, Rule 2, limitation ought to have been pleaded.
+Precedent	No such point was made in the written statement which was practically confined to the point as to the breach of the conditions of the grant.
+Precedent	It is a point, which, if not raised, is likely to take the opposite party by surprise.
+Precedent	The effect of the omission to raise this point is, as stated by <NAME> in In re <NAME>'s Settlement Gant v. <NAME>, (1912) 1 Ch.
+Precedent	717, 728  with reference to the corresponding English rule, not to exclude from the consideration of the <ORG> the relevant subject-matter for decision simply on the ground that it is not pleaded, but to leave the party in mercy and the <ORG> will deal with him as is just.
+RatioOfTheDecision	Having regard to the nature of the point, as also to the circumstance that it involves no investigation into any fresh facts, we have considered the point of limitation.
+RatioOfTheDecision	It seems to me that the real question in the case is whether any breach of the conditions of the grant is established; for if that is not established under the circumstances of this case the defendant No.
+RatioOfTheDecision	1 must fail on the merits as well as on the point of limitation.
+RatioOfTheDecision	That was probably the reason why the point of limitation was not separately raised in the lower <ORG>.
+RulingByPresentCourt	Both on the question of fact as to the alleged breach of the conditions of the grant, and on the question of law as to the effect of that finding on the point of limitation I entirely agree with my learned brother.

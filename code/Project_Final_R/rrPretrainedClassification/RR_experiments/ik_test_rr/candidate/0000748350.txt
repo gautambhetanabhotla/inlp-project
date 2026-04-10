@@ -1,0 +1,105 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal by special leave from a judgment of <ORG> at Bombay, dated January 25, 1944, which affirmed an order of Mr. <NAME>, Magistrate of the 1st Class, Jalgaon City, dated June 22, 1943, acquitting the respondent who had been charged under Rule 38(5) of the Defence of India Rules for having, on January 26, 1943, made, published and distributed copies of a leaflet which contained prejudicial reports within the meaning of Rule 34(7) read with Rule 34(6)(e) and (g) of the Defence of India Rules, and having thus contravened Rule 38(1)(c).
+Fact	2.
+Fact	The Defence of India Rules, which were made by <ORG> under Section 2 of the Defence of India Act, 1939 (Act XXXV of 1939)-so far as material-provide as follows:  34.
+Fact	(6) 'prejudicial act' means any act which is intended or is likely-  (e) to bring into hatred or contempt, or to excite disaffection towards, His Majesty or the Crown Representative or the Government established by law in British I ndia or in any other part of His Majesty's dominions;  (g) to cause fear or alarm to the public or to any section of the public;  34.
+Fact	(7) 'prejudicial report' means any report, statement or visible representation, whether true or false, which, or the publishing of which, is, or is an incitement to the commission of, a prejudicial act as defined in this rule;  88.
+Fact	(1) No parson shall, without lawful authority or excuse,  (c) make, print, publish or distribute any document containing, or spread by any other means whatsoever, any prejudicial report;  (5) If any person contravenes any of the provisions of this rule, he shall be punishable with imprisonment for a term which may extend to live years or with fine or with both.
+Fact	3.
+Fact	The document which formed the subject-matter of the charge was admittedly made and published by the respondent at Jalgaon City on January 26, 1943, and he admittedly distributed printed copies thereof.
+Fact	It consisted of a leaflet addressed "To all the patriots," and it will be sufficient to qu ote some of the statements in the leaflet:  Unprecedented calamity has befallen our nation and the whole of our country has been undergoing sufferings.
+Fact	The Imperialists have by their barbarous policy turned the entire country into a cremation ground.
+Fact	When we were in great need of the national leaders for the purpose of the national defence, the bureaucracy has declared the <ORG> unlawful and have detained all the leaders in jail.
+Fact	By reason of firings and arrests several villages in Khandesh have been made desolate and on account of this great calamity the people are losing their moral courage (day by day) and the whole of the country is putting on moribund appearance.
+Fact	The people in Khandesh have been harassed by the inequitable collective fines.
+Fact	As the Government is unable to solve the food problem, the cry of hunger is heard everywhere; and a situation has arisen everywhere in which serious food riots are expected.
+Fact	By depriving the mills of the coal 50 thousand families of the workers have been  thrown into the ditch of hunger.
+Fact	But the Imperialists do not stop even at this.
+Fact	They are making ceaseless efforts to create a split between the people and the patriots.
+Fact	They have been trying to strengthen their hold by creating disputes and differences among the people by various ways such as creating a split between the owner and the worker on the question of clearness allowance and coal, between the merchants and consumers on the question of food grains and between the Muslims and the non-Muslims on the question of collective fines.
+Fact	The disunion among the people is their last resort.
+RatioOfTheDecision	If we blindly carry on sabotage activities simply because the Imperialists are not transferring power to us the Japanese Imperialism may dominate over us.
+RatioOfTheDecision	Therefore in order to face both these calamities we must achieve this great task of bringing about unity on the burning questions before the public such as national defence and self-determination and must take over the control of national defence.
+RatioOfTheDecision	4.
+RatioOfTheDecision	After a trial, the lea rned Magistrate acquitted the respondent.
+RatioOfTheDecision	He pointed out that it was nowhere suggested in the leaflet that the work of national defence should be snatched away from Government forcibly, that the national leaders should be freed by using force or that national government should be formed by resorting to unconstitutional methods, but that, on the contrary, the public was exhorted to achieve national unity for all the above purposes, not to resort to sabotage, and to take part in the campaign of achieving worldwide freedom.
+Fact	In the absence of any incitement to public disorder, he held himself bound to acquit, in view of the decision of <ORG> in <NAME> v. The King-Emperor [1942] F.C.R.
+Fact	38 to which their Lordships will refer later.
+Fact	5.
+RulingByLowerCourt	On appeal by the Crown, the decision of the Magistrate was affirmed by <ORG> and the appeal was dismissed; the learned Judges held themselves bound by the decision of <ORG> in <NAME>'s case.
+RulingByLowerCourt	The charge of having committed a prejudi cial act within the meaning of Rule 34(6)(g) was not pressed and may be disregarded.
+RulingByLowerCourt	The learned Judges, at the request of the <ORG>, certified for the purpose of Section 205 of the Government of India Act, 1935, that the case does not involve a substantial question of law as to the interpretation of the Government of India Act or any Order in Council made thereunder.
+Fact	Thereafter the <ORG> obtained special leave to appeal against the decision of <ORG> on an undertaking "that no further proceedings in connection with the said charges would be taken against the respondent in any event so long as that undertaking does not prejudice the reality of the appeal."
+Fact	The respondent has not appeared in the appeal, which has been heard ex parte.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The purpose of this appeal is to challenge the soundness of the decision in <NAME>'s case, which their Lordships will therefore consider in some detail.
+Fact	In consequence of a speech made at Calcutta, <NAME> was convicted by the Additional Chief Presidency Magistrat e of offences under Rule 34(6), sub-paras.
+Fact	(e) and (k), of the Defence of India Rules.
+Fact	The conviction was upheld by <ORG>, from which <NAME> appealed to <ORG>, which allowed the appeal and acquitted the appellant on the ground that the speech of the appellant did not constitute a prejudicial act within the meaning of Rule 34(6)(e).
+Fact	<ORG> did not deal with sub-para.
+Fact	(k) of Rule 34(6).
+Fact	The judgment of the <ORG> was delivered by Sir <NAME>, who said, in reference to sub-para.
+Fact	(c), that the prejudicial act was Described in precisely the same language as is used to describe the offence of sedition in Section 124A of the Indian Penal Code.
+Fact	We were invited to say that an offence described merely us a 'prejudicial act' in the Defence of India Rules ought to be regarded differently from an offence described as 'sedition' in the Code , even though the language describing the two things is the same.
+RatioOfTheDecision	We cannot accept this argument.
+RatioOfTheDecision	Sedition is none the less sedition because  it is described by a less offensive name; and in our opinion the law relating to the offence of sedition as defined in the Code is equally applicable to the prejudicial act denied in the Defence of India Rules.
+RatioOfTheDecision	We do not think that the omission in the Rules of the three 'Explanations' appended to the section of the Code affects the matter.
+RatioOfTheDecision	These are added to remove any doubt as to the true meaning of the <ORG>; they do not add to or subtract from the section itself; and the words used in the Rules ought to be interpteted as if they had been explained in the same way.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The learned Chief Justice then proceeds to consider the meaning of sedition in English law, as defined and explained by decision of the <ORG>, and states the principle to be derived therefrom as follows:  Public disorder or the reasonable anticipation or likelihood of public disorder, is thus the gist of the offence.
+RatioOfTheDecision	The acts or words complained of must either incite to disorder or must be such as to satisfy reasonable men that that i s their intention or tendency.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The learned Chief Justice then applied that test to the appellant's speech, and found that it contained no incitement, or, intention or tendency to incite, to public disorder, and the conviction was set aside.
+RatioOfTheDecision	9.
+RatioOfTheDecision	Their Lordships are unable to accept the test laid down by the learned Chief Justice, as applicable in India.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Their Lordships agree, for the purposes of the present appeal, that there is no material distinction between Rule 34(6), sub-para.
+RatioOfTheDecision	(e) and Section 124A of the Indian Penal Code, though it might be suggested that the words "an act which is intended or likely to bring" in the rule are wider than the words "brings or attempts to bring" in the Code .
+RatioOfTheDecision	They further agree with the learned Chief Justice that the omission in the rule of the three explanations in the Code should not lead to any difference in construction.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The word "sedition" does not occur either in Section 124A or in the rule; it is only found as a marginal note to Section 124A , and is no t an operative part of the section, but merely provides the name by which the crime defined in the section will be known.
+RatioOfTheDecision	There can be no justification for restricting the contents of the section by the marginal note.
+RatioOfTheDecision	In England there is no statutory definition of sedition; its meaning and content have been laid down in many decisions, some of which are referred to by the Chief Justice, but these decisions are not relevant when you have a statutory definition of that which is termed sedition, as we have in the present case.
+RatioOfTheDecision	12.
+RatioOfTheDecision	Their Lordships are unable to find anything in the language of either Section 124A .
+RatioOfTheDecision	or the rule which could suggest that "the acts or words complained of must either incite to disorder or must be such as to satisfy reasonable men that that is their intention or tendency."
+RatioOfTheDecision	The first explanation to Section 124A provides, "The expression 'disaffection' includes disloyalty and all feelings of enmity."
+RatioOfTheDecision	This is quite inconsistent with any suggestion that "excites or attempts to excite disa ffection" involves not only excitation of feelings of disaffection, but also exciting disorder.
+RatioOfTheDecision	Their Lordships are therefore of opinion that the decision of <ORG> in <NAME>'s case proceeded on a wrong construction of Section 124A of the Indian Penal Code and of sub-para.
+Precedent	(e) of Rule 34(6) of the Defence of India Rules.
+Precedent	13.
+Precedent	In that view, their Lordships are of opinion that there should have been a conviction in the present case, for they have no difficulty in agreeing with the learned Judges, of <ORG> in this case, who have both stated that, if disorder were not an essential element, there are undoubtedly passages in the' leaflet which hold the Government up to hatred or contempt, and which would have led them to convict.
+Precedent	14.
+Precedent	In <ORG> three decisions of this Board were referred to, but the learned' Judges preferred the decision of <ORG> in <NAME>'s case, as the same sub-paragraph of Rule 34(6) was the subject of decision and it was the latest case; it is unnec essary to consider whether the learned Judges had sufficient ground for distinguishing these decisions such as would avoid the binding nature of decisions of this <ORG>.
+Precedent	In the opinion of their Lordships, the principle of decision in these three cases is inconsistent with the decision of <ORG> in <NAME>'s case, and it is regrettable that <ORG> did not pay attention to these cases, two of which are Indian.
+Precedent	15.
+Precedent	In Queen-Empress v. <NAME> (1892) I.L.R.
+Precedent	22 Bom.
+Precedent	112, 528 the charge was under Section 124A as it then stood, confined to disaffection, without any reference to hatred or contempt, <NAME>, in an admirable charge to the jury, which was subsequently approved, by this <ORG>, said (p. 135):  The offence consists in exciting or attempting to excite in others certain bad feelings towards the Government.
+Precedent	It is not the exciting or attempting to excite mutiny or rebellion, or any sort of actual disturbance, great or small.
+RatioOfTheDecision	Whether any disturbance, or outbreak was caus ed by these articles, is absolutely immaterial.
+RatioOfTheDecision	If the accused intended by the articles to excite rebellion or disturbance, his act would doubtless fall within Section 124A and would probably fall within other sections of the Penal Code .
+RatioOfTheDecision	But even if he neither excited nor intended to excite any rebellion or outbreak Or forcible resistance, to the authority of the Government, still if he-tried to excite feelings of enmity to the Government, that is sufficient to make him guilty under the section.
+RatioOfTheDecision	I am aware that some distinguished persons have thought that there can be no offence against the section unless the accused either counsels or suggests rebellion or forcible resistance to the Government.
+RatioOfTheDecision	In my opinion, that view is absolutely opposed to the express words of the section itself, which as plainly as possible makes the exciting or attempting to excite certain feelings, and not the inducing or attempting to induce to any course of action such as rebellion or forcible resistance, the test of guilt.
+Precedent	I can o nly account for such a view by attributing it to a complete misreading of the explanation attached to the section and to a misapplication of the explanation beyond its true scope.
+Precedent	16.
+Precedent	In refusing leave to appeal, inter alia, on the ground of misdirection as to the proper construction of Section 124A , the <ORG> expressly approved of the charge.
+Precedent	It is sufficient for their Lordships to adopt the language of <ORG> as exactly expressing their view in the present case.
+Precedent	17.
+Precedent	<CITATION_1373432> it was pointed out by the <ORG> that Section 4 of the Indian Press Act of 1910, which was under consideration in that case, was closely similar in language to Section 124A of the Penal Code, which had been the subject of careful consideration in <NAME>'s case above referred to.
+Precedent	18.
+Precedent	In Wallace-Johnson v. The King (1919) I.L.R.
+Precedent	43 Mad.
+Precedent	146, s.c. 21 Bom.
+Precedent	L.R.
+Precedent	867, P.C., under Sub-section (8) of Section 326 of the Criminal Code of the Gold Coast, "seditious intention" was defined as an intention "to bring into hatred or con tempt or to excite disaffection against...the Government of the Gold Coast as by law established."
+Precedent	It was held by this Board that the words were clear and unambiguous, and that incitement to violence was not a necessary ingredient of the crime of sedition as thereby defined.
+Precedent	19.
+Precedent	In conclusion, their Lordships will only add that the amendments of Section 124A in 1898, the year after <NAME>'s case, by the inclusion" of hatred or contempt and the addition of the second and third explanations, did not affect or alter the construction of the section laid down in <NAME>'s case, and, in their opinion, if <ORG>, in <NAME>'s case, had given their attention to <NAME>'s case, they should have recognised it as an authority on the construction of Section 124A by which they were bound.
+Precedent	20.
+Precedent	Their Lordships are accordingly of opinion that the appeal should be allowed and that the judgments and orders of the Courts below should be set aside, and that it should be declared that it is not an essential ingredient o f a prejudicial act as defined in sub-para.
+Precedent	(e) of Rule 34(6) of the Defence of India Rules that it should be an act which is intended or is likely to incite to public disorder.
+RulingByPresentCourt	Their Lordships will humbly advise His Majesty accordingly.
+RulingByPresentCourt	There will be no order as to costs.

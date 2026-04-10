@@ -1,0 +1,138 @@
+Fact	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	This rule was issued to show cause (1) why the proceedings now pending against the petitioner <NAME> before the Magistrate should not be quashed, upon the ground that on the facts disclosed in the opposite party's complaint the case does not fall within Section 499 of the Indian Penal Code, or (2) why the proceedings should not be stayed, until the decision of the suit now pending between the two parties in <ORG>.
+Argument	2.
+Argument	The first of these grounds clearly fails, The complaint of the opposite party <NAME> undoubtedly charges the petitioner with conduct, which prima facie amounts to the offence of defamation.
+Argument	It charges the petitioner with having defamed the opposite party (1) by means of oral statements made to other persons; and (2) by having presented a petition to the District Registrar of Assurances, representing that a deed of release purporting to have been executed by her in favour of <NAME> was a forgery; and that <NAME> had at the time of its regi stration falsely caused some one to personate her, <NAME>, and to register the deed in her name.
+Fact	Whether these imputations are true or not; and whether or not they are protected by any of the exceptions to Section 499 of the Penal Code, are questions which are, of course, to be decided by the Magistrate, when he comes to try the case.
+Fact	3.
+Fact	As to the second ground on which this, rule was granted, it is to be observed that the case against the petitioner was instituted before the Magistrate on the 8th July 1895.
+Fact	The civil suit, which the petitioner instituted against the opposite party, was brought on the 12th December 1895.
+Fact	It may have been brought at the suggestion of the Magistrate, but it would appear as if it were now being used by the petitioner as an answer to, and as a shield against, the criminal charge brought against her before the Magistrate.
+RatioOfTheDecision	However this may be, the petitioner being the plaintiff, has the command of that civil suit.
+RatioOfTheDecision	She can prolong the proceedings in it at her pleasure, and if t he prosecution of the criminal proceedings against her are made dependent on the prosecution by her of the civil suit, it is scarcely to be expected, I think, that she will be expeditious in bringing the civil suit to an end.
+RatioOfTheDecision	In these circumstances I do not think, it would be right to postpone the criminal proceedings till after the termination of the civil suit.
+RatioOfTheDecision	Secondly, it has been held in a <ORG> decision of this <ORG> that this <ORG> has no power to direct that criminal proceedings should be stayed until the disposal of a civil appeal in which the question at issue in these criminal proceedings shall have been decided, [In the matter of <NAME> B.L.R.
+Precedent	F.B.
+Argument	426].
+Argument	The Bombay High <ORG> in the case of Shri Nana Maharaj I.L.R.
+Argument	16 Bom.
+Argument	729 has laid down that criminal proceedings arising out of a civil litigation should not, as a rule, go on during the pendency of the litigation; but, on the other hand, in the case of <NAME> I.L.R.
+Argument	18 Bom.
+Argument	581 they have apparently recanted and have s aid that it is not an invariable rule that criminal proceedings should in such circumstances be stayed.
+Argument	But whatever the rule pi <ORG> may be, there is no decision of this Court in any way weakening the force of the decision of <ORG> of this Court referred to above.
+Argument	4.
+RatioOfTheDecision	Thirdly, it is a well known rule of evidence that a judgment in a criminal case cannot be received in a civil action to establish the truth of the facts upon which it is rendered, and that a judgment in a civil action cannot be given in evidence for such a purpose in a criminal prosecution.
+RatioOfTheDecision	(Field's Evidence, 5th edition, p. 338, and the cases there cited; also <ORG>, 8th edition, 1693).
+RatioOfTheDecision	Hence, even if the proceedings against the petitioner before the Magistrate were stayed until after the decision of the civil suit, the decision of the civil suit could not properly affect the action of the Magistrate.
+RatioOfTheDecision	Whatever the nature of the decision of <ORG> the Magistrate ought to decade the question of the  petitioner's criminality for himself, and would not be bound blindly to follow the decision of the civil suit.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Fourthly, the case against the petitioner has been pending since the 8th July last.
+RatioOfTheDecision	It seems manifestly inexpedient to allow any further delay in it.
+RatioOfTheDecision	It ought, I think, to be taken up and decided one way or the other at once.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Finally, I would observe that it seems very doubtful if we have any power to pass the order we are invited to pass, viz., to quash the proceedings before the Magistrate.
+RatioOfTheDecision	No section of the Criminal Procedure Code expressly authorises us to quash pending proceedings.
+RatioOfTheDecision	Section 439 read with Section 423 authorises us to interfere in the case (1) of an acquittal; (2) of a conviction; and (3) of an appeal from any other order.
+RatioOfTheDecision	The learned Counsel has failed to point out to us any order of the Magistrate, the alteration or reversal of which would have the effect of quashing the proceedings.
+RatioOfTheDecision	He invites us to quash the Magistrate's implied order, as he says "to go on with the pro ceedings."
+RatioOfTheDecision	I do not, however, see how we can reverse or alter an implied order not to be found on the record.
+RatioOfTheDecision	The provisions of Section 15 of this <ORG>'s Charter of 1861 would also not seem to give us power to interfere in this case.
+RatioOfTheDecision	Section 28 of the Letters Patent of 1865 gives us power to revise all such criminal cases tried by any officer or <ORG> possessing criminal jurisdiction, as were formerly subject to revision by the High <ORG>.
+RatioOfTheDecision	But here, it appears to me, there is no case tried by any officer or <ORG> possessing criminal jurisdiction for us to revise.
+RatioOfTheDecision	7.
+RatioOfTheDecision	For all these reasons I would discharge the rule.
+Precedent	<NAME>, J.
+Argument	8.
+Argument	I agree with my learned colleague in holding that this rule should be discharged; but I am bound to say at the same time that I am not prepared to accept some of the views that have been expressed by him so far as they bear upon the second branch of the rule.
+Argument	9.
+Argument	My learned colleague seems to be of opinion that in a matter like this we have no authority to interfere with the procee dings of the Magistrate, so as to stay the proceedings till the decision of the civil suit, which has been instituted by the petitioner.
+Argument	10.
+Argument	In the <ORG> decision of this <ORG> in the matter of the petition of <ORG> which is said to support that view, the question arose whether, when a Civil <ORG> directs that criminal proceedings should be taken against a party to a suit before it for perjury or forgery, the High <ORG> has power, on an appeal being preferred against the decision of that <ORG>, to direct the proceedings in the Criminal <ORG> to be stayed until the appeal shall have been heard and determined.
+Argument	The case was governed by the Criminal Procedure Code of 1861, and it was held that, as no appeal was given either by the Code of Criminal or Civil Procedure against orders which were left to the discretion of the Civil <ORG>, either £615] granting, or revoking, sanction to criminal prosecution under Section 169 or Section 170 , or against an order sending a case for invest igation before a Magistrate under Section 171 of the Code of Criminal Procedure; and that, inasmuch as no special provision had been made by that Code for cases of sanction under Section 169 or Section 170 , or in respect of orders for investigation under Section 171 , this <ORG> had no authority, either in the exercise of civil or criminal jurisdiction, to entertain an appeal against any such sanction or order; and Sir <NAME> further observed that" it cannot, as a <ORG> of Revision, reverse such sanction or order upon the ground that it was not warranted by the facts, for as a <ORG> of Revision it cannot reverse an order except for error in law;" and, further, "if the <ORG>, as a <ORG> of Appeal or as a <ORG> of Revision, cannot reverse or alter such an order, I cannot see any inherent authority which it has to stay proceedings."
+Argument	11.
+RatioOfTheDecision	So far as the law, as it then stood, is concerned, it may be taken that an order for sanction for prosecution, or an order by a civil <ORG> sending a case for investiga tion by a Magistrate cannot be interfered with, either by way of an appeal or by way of motion to this <ORG>: and I might here point out that under Section 405 of the Code of 1861 this <ORG> could only interfere in revision, if the sentence or order complained against was contrary to law.
+RatioOfTheDecision	The powers given to this <ORG> by the Code of 1872 were very nearly the same.
+RatioOfTheDecision	It could only interfere under the revisional section, if there had been a material error in a judicial proceeding; see Section 297 .
+RatioOfTheDecision	The Code of 1882, however, has made a substantial change in the law in this respect.
+Statute	Section 195 of that Code, which authorizes a <ORG>, civil or criminal, to give sanction for the prosecution of a person, provides that any sanction given, or refused, may be revoked or granted, by any authority to which the authority giving or refusing it is subordinate.
+Statute	Section 476 authorizes a <ORG>, when it is of opinion that there is ground for enquiring into any offence referred to in Section 195 , to send the case for enquiry or  trial to a Magistrate, and under Section 439 this <ORG> may, in its discretion, exercise any of the powers conferred on a <ORG> of Appeal by Sections 195 , 423 , 426 , 427 and 428 .
+RatioOfTheDecision	So that it appears to be quite clear that in matters falling either under Section 195 or under Section 476 , this <ORG> has the power to interfere with a sanction given under Section 195 , or an order for prosecution made under Section 476 .
+Precedent	And I might here refer to the case of Jankee Bullubh Sen B.L.R.
+Precedent	F.B.
+RatioOfTheDecision	716 also decided by <ORG> of this <ORG>, where, although this <ORG> declined to interfere with the order of the Civil <ORG> for the prosecution of a witness in a Criminal <ORG>, they did not doubt their power to interfere under their general powers of superintendence over the lower <ORG>s.
+Precedent	That this <ORG> has often interfered with the orders made under Sections 195 and 476 will be seen from the case of In the matter of <NAME> I.L.R.
+Precedent	16 Cal.
+Precedent	730; and in the case of <NAME> I.L.R.
+Precedent	20 Cal .
+Precedent	349 it was held that under Section 439 of the Code this <ORG> has the power to interfere with the order of a Subordinate <ORG>, whether made under Section 195 or Section 476 of the Criminal Procedure Code, and to determine whether the discretion conferred by those sections has, or has not, been properly exercised.
+Precedent	In the first mentioned case of <NAME> I.L.R.
+Precedent	16 Cal.
+Precedent	730 it was also held that if this <ORG> had the power to interfere with an order under Section 476 , it had equally the power to deal with the order that resulted from it, namely, the issue of warrants under that section.
+Argument	12.
+Argument	I might here add that Section 15 of the Charter Act gives the High <ORG> powers of general superintendence over all <ORG>s subject to their appellate jurisdiction, and Section 28 of the Letters Patent declares that the High <ORG> of Judicature at Fort William in Bengal shall be a <ORG> of Reference and Revision from the Criminal <ORG>s, subject to its appellate jurisdiction; and that it is empowered to revise a ll cases tried by any Officer or <ORG> possessing criminal jurisdiction, subordinate to the High <ORG>.
+Argument	Section 29 lays down that the High <ORG> shall have power to direct the transfer of any criminal case or appeal from any <ORG> to any other <ORG> of equal or superior jurisdiction, and also to direct the preliminary investigation or trial of any criminal case by any Officer or <ORG> otherwise competent to investigate or try it, though such case belongs in ordinary coarse to the jurisdiction of some other Officer or <ORG>.
+RatioOfTheDecision	And I do not see why, if this <ORG> is possessed of all these large powers, it has not the power to order a Magistrate to stay proceedings, if a sufficient cause in that behalf is made out.
+RatioOfTheDecision	At the same time I feel bound to say that when the <ORG> has given to a Magistrate the power to regulate the proceedings in his own <ORG>, the discretion should ordinarily be left to the Magistrate either to stay proceedings or not, as he, in the circumstances of the case, may think it right and p roper.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Turning now to the facts of the present case, so far as they may be gathered from the record now before us, it appears that the complainant, <NAME>, insists that a deed of release, bearing date the 24th April 1895, was duly executed by the petitioner, <NAME>, and was duly registered by the Registrar of Deeds, but that in a petition subsequently presented by her to the Registrar, and in oral statements made by her to various individuals, <NAME> impugned without any justifiable cause the said document as a forgery concocted by <NAME>, the complainant.
+Fact	Upon this, a charge of defamation was laid by <NAME> against <NAME> on the 8th August 1895.
+Fact	But apparently nothing was done in the matter of the complaint by the complainant up to the 21st November last, when the case was adjourned for a fortnight, with a view to consult the lady defendant as to the propriety of filing a civil suit for having the document, namely, the release, declared null and void, on the  ground of forgery or otherwise.
+Fact	The suggestion seems to have emanated from the Honorary Magistrate himself; and on the 8th December last a suit was brought to have it declared that the document in question was untrue and null and void.
+Fact	On the 6th January last, a copy of the plaint seems to have been produced before the Honorary Magistrate with a petition on behalf of the defendant, praying at the same time that proceedings in <ORG> might be stayed, until the decision of the civil suit then pending.
+Fact	The Magistrate does not seem to have made any order on this petition; but he passed certain orders upon subsequent dates-, the effect whereof was to continue the proceedings.
+Fact	I might here say that, in my view of the matter, if this Court is entitled to interfere with the proceedings of the Magistrate, it is also empowered to set aside, or interfere with any one or all of the orders made subsequent to the 6th January last, when the defendant applied for the stay of proceedings.
+Fact	14.
+Fact	It will be observed  that the main issue which would have to be determined by the Magistrate, as also by <ORG>, would be whether the document in question is true or untrue.
+RatioOfTheDecision	If it is untrue, as the defendant's case seems to be, the prosecution, as I understand the matter, must fail.
+RatioOfTheDecision	15.
+RatioOfTheDecision	No doubt, even if the civil suit be decided in favour of <NAME>, that would not be conclusive so far as the prosecution in <ORG> is concerned.
+RatioOfTheDecision	But it would appear that, though theoretically, the prosecution is on behalf of the Crown, it is in form and in substance (see the summons issued, and the proceedings) a prosecution by <NAME>, who is the defendant in the civil suit; and I am not prepared to say that the decision in the civil suit would, not be admissible in evidence in the criminal case, if, as I understand it to be, the main issue, in both the cases is identically the same.
+RatioOfTheDecision	16.
+Precedent	In two of the cases referred to by Mr. <NAME> in his book on the Law of Evidence, 5th edition, at p. 338, as authorities for the  proposition that the decision in a civil suit is not evidence in a criminal case, and that a judgment in a criminal case cannot be received in evidence in a civil action to establish the truth of the facts upon which it is rendered, namely, the case of <NAME> v. <NAME>, and the case of <NAME> v. <NAME> 5 W.R. 26 : 5 W.R. 27, where a decision of <ORG> was sought to be used as evidence in the civil suit, what this Court held was that the decision in <ORG> was not conclusive; so also in the case of <NAME> v. Tula Ram I.L.R.
+Precedent	4 All.
+Precedent	97.
+Precedent	In the case of <NAME> v. The Empress I.L.R.
+Precedent	6 Cal.
+Precedent	247, where a Sessions Judge in charging the jury referred to the judgment of <ORG> as evidence against the prisoner, and where an appeal was made to this Court, it was contended that that judgment was improperly admitted in evidence.
+RatioOfTheDecision	<NAME>, J., observed as follows:  There can be no doubt that the judgment was improperly received.
+RatioOfTheDecision	Technically it was inadmissible,  because it was not between the same parties; the present parties technically being the Queen-Empress on, the one hand and the prisoner on the other, and the respective parties in the civil suit being the prisoner and the three defendants.
+RatioOfTheDecision	Furthermore, it was not admissible on the substantial ground that, the issues in the civil and criminal suit were not identical, and that the burden of proof rested in each case on different shoulders.
+RatioOfTheDecision	17.
+RatioOfTheDecision	No doubt, in a case where the issues in <ORG> are not identically the same, and the prosecution in <ORG> is really the prosecution of the Crown, the judgment of the Civil Court would not to admissible in evidence.
+Precedent	I observe, however, that in the case of <ORG>, Vol.
+Precedent	VI., 1031, (which is a converse case) where the grantee of an estate brought an action for trespass on the adjacent seashore between high and low water mark, and for trover and conversion of ungathered drifted se a-weed thereon, he was allowed to prove at the trial convictions at petty <ORG> for trespass on the locus in quo, and an award in his favour in a former action by him against an alleged trespasser; and it was held that the general words of the patent explained by user and enjoyment, passed the seashore adjoining the lands granted down to low water mark, [See also in this connection <NAME> v. <ORG> and <NAME> v. <NAME> 12 C.B.
+Precedent	39.
+Precedent	18.
+Precedent	In the present case, the prosecution in <ORG> is for defamation, which is altogether a private prosecution, and as Mr. <NAME> observes in his Commentary on the Indian Penal Code , p. 410 (Ed.
+Precedent	of 1884):  Such an offence (the offence of defamation) depends upon the injury to the individual affected by the calumny, and not, as in the English law, upon any supposed tendency of the act to bring about a breach of the peace.
+Precedent	19.
+Precedent	No Court can take cognizance of an offence like this, except upon a complaint made by the person aggrieved thereby.
+RatioOfTheDecision	(See Se ction 198 of the Criminal Procedure Code); and such an offence is compoundable ( Section 345 ).
+RatioOfTheDecision	In such a case, it seems to me rather undesirable that both the civil and criminal cases should go on simultaneously at; one and the same time.
+RatioOfTheDecision	20.
+Precedent	In the case of Shri Nana Makaraj I.L.R.
+Precedent	16 Bom.
+Precedent	729 where a question, some what similar to that which has arisen before us, arose, <NAME>, J., observed as follows:  It appears now that the civil litigation in which the Subordinate Judge's proceedings arose is not yet ended; an appeal in the case is pending here.
+Precedent	This Court has often acted on the principle that criminal proceedings should not go on during the pendency of civil litigation, following The <NAME> v. <NAME> 14 Q.B.
+Precedent	396 and <NAME> v. <NAME> and <NAME> v. <NAME> 8 C. and P. 50.
+Precedent	In the first of these cases the Justices refused to hear an information for perjury on the ground that the suit was still pending.
+Precedent	The Court of <NAME>'s Bench refused to compel them.
+Precedent	Mr. Justice <NAME> said: 'The real object of such an examin ation before Justices is that the party accused may be put upon such terms as will make it certain that he will be forthcoming for trial.
+RatioOfTheDecision	Bat the Magistrates, when applied to, may see no danger that he will not then be forthcoming, and they may think that justice would be prejudiced by hearing the information.
+RatioOfTheDecision	These principles ought, we think, to guide the further action of the Subordinate Judge under Section 476 , and of any Magistrate to whom he may send the accused.
+RatioOfTheDecision	Whether the accused will be forthcoming or not is a question this Court cannot deal with.
+RatioOfTheDecision	We think it will be sufficient to communicate these remarks to the Subordinate Judge, and we decline to make any order interfering with his discretion.
+Precedent	21.
+Precedent	In a subsequent case In re Devji Valad Bhavani I.L.R.
+Precedent	18 Bom.
+Precedent	581, however, before the same <ORG>, the learned Judges thus expressed themselves:  No doubt this Court has often acted on the principle that criminal proceedings should not go on during the pendency of civil litigation regarding the s ame subject-matter.
+RatioOfTheDecision	But we do not think that this is an invariable rule.
+RatioOfTheDecision	Under the circumstances of the present case, as recited by the Subordinate Judge, there was no coarse open to him, but to make inquiries under Chapter XXXV of the Criminal Procedure Code , regarding the genuineness of the transaction put forward by the party, who applied to raise the attachment.
+RatioOfTheDecision	The fact that a regular suit has now been filed to establish the genuineness of that transaction is not sufficient to enable this Court to quash the commitment regularly made by the Subordinate Judge to <ORG>, or to direct the trial to be adjourned pending the hearing of the civil suit, and possibly of an appeal and second appeal.
+Precedent	22.
+Precedent	This no doubt is a modification of the principle upon which <ORG> had been acting in previous cases, and I am not myself prepared to say that as a general rule a proceeding in <ORG> should be stayed pending the decision of a civil suit in regard to the same subject-matter; bu t what I think I might properly say is that ordinarily it is not desirable, if the parties to the two proceedings are substantially the same and the prosecution before the Magistrate is but a private prosecution, and the issues in the two <ORG> are substantially identical, that both the cases should go on at one and the same time; and that it is quite open to the Magistrate, having regard to the facts of the case before him, to consider whether it is not desirable that the proceedings in his Court should be stayed till the decision of the civil suit, or for a limited period of time; and it is also quite open to him to put the defendant on terms as to appearance or otherwise if he does stay proceedings.
+Precedent	23.
+Precedent	In the present case, as I have already said, the parties in the two <ORG> are substantially the same, and the main issue to be determined by both the <ORG> is substantially identical; and it would appear that the Honorary Magistrate himself threw out the suggestion that a civil suit should be brought, a nd the defendant has evidently acted upon that suggestion.
+Precedent	24.
+RulingByPresentCourt	With these remarks I would discharge the rule.

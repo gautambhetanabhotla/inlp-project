@@ -1,0 +1,148 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <NAME> WADHERE DATE OF JUDGMENT05/01/1984 BENCH: <NAME>, R.B.
+Fact	(J) BENCH: <NAME>, R.B.
+Fact	(J) SEN, A.P.
+Fact	(J) CITATION: 1985 AIR 817 1984 SCR (2) 333 1984 SCC (3) 352 1984 SCALE (1)31 CITATOR INFO : E&D 1987 SC 294 (43) RF 1987 SC2284 (4,5,7) R 1988 SC2031 (6) R 1988 SC2164 (8) 1990 SC 897 (9,10) RF 1992 SC1106 (12) ACT: Uttar Pradesh Urban Buildings (Regulation of letting, Rent and Eviction) Act , 1972 Section 2-Interpretation of Whether the premises which was not ten years old on the date of the suit and was exempted from the operation of the new Rent Act can be governed by it, if ten years expired during the pendency of the litigation so as to attract the benefit of S.39 to the tenant-Cause of action "subsequent events" and "amendment" explained.
+Statute	HEADNOTE: Section 2 of the Uttar Pradesh Urban Buildings (Regulation of Letting, Rent and Eviction) Act , 1972 exempts from operation of the Act various kinds of buildings specified in sub section (1).
+Statute	Sub section (2) of Secti on 2 contemplates that the new Rent Act will not apply to a building during a period of ten years, from the date on which its construction is completed.
+Statute	Explanation I to sub clause (2) enumerates the dates on which the building shall be deemed to have been completed viz., the date of which the completion thereof is reported to or otherwise recorded by the local authority having jurisdiction;(ii) in the case of building subject to assessment that date on which the first assessment thereof comes into effect.
+Fact	(iii) where the said dates are different, the earliest of the said dates and (iv) in the absence of any report record or assessment, the date on which it is actually occupied for the first time.
+Fact	The respondent landlord filed a suit for eviction and for arrears of rent and damages for use and occupation pendent lite and future on the allegation that the appellant was inducted as a tenant of the premises in suit on a monthly rent of Rs.
+Fact	250 on 7th February 1972, that the building in suit was constructed in 19 71 under the Cooperative Housing Scheme of <ORG> for which the bank advanced loan, that the building was assessed to house, and water tax on 1st of October 1971 and as such the building was not covered by the U.P.
+Argument	Urban Buildings (Regulation of Letting, Rent and Eviction) Act , 1972 and that the appellant defaulted in the payment of rent despite notice dated 24th March 1977.
+Argument	The appellant resisted the suit and contended that the new Act applied as the building in question was constructed in 1968, that he had cleared rent upto 6th April 77 and that as a matter of fact a sum of Rs.
+Argument	1000 spent by him towards repairs etc was due from the Respondent landlord.
+Fact	The Third Additional District Judge negatived the defence and decreed the suit for eviction as also for recovery of arrears of rent and damages for use and occupation.
+Fact	The trial court found that not only both the conditions stated in Section 2(2) but also the 15 years' exemption applied to the instant case.
+Fact	<ORG> in revision accepte d the finding of the trial judge that the 334 building in question will be deemed to have been completed on 1st October 1971, the date of assessment of house tax and water tax and calculating from that date the building was not ten years old on the date of the suit and therefore, the new rent Act had no application to the building in suit and the appellant cannot get any protection of the Rent Control Act.
+Fact	<ORG> confirmed the findings of the trial court on all other points except the finding of the trial court on all other points except the finding about the amounts of rent and the allowed the appeal in part.
+Fact	Allowing the appeal partially, the <ORG> ^ HELD: 1:1.
+Fact	The provision of the Uttar Pradesh Urban Building (Regulation of Letting, Rent and Eviction) Act 1972 will be attracted, if the building completes ten years during the course of litigation.
+Fact	[340 G-H] 1:2.
+RulingByLowerCourt	In the instant case, the building will be deemed to have been completed on the date of assessment which was Ist October, 1971.
+RulingByLowerCourt	Reckoning fro m this date of completion, the new Rent Act would become applicable.
+RulingByLowerCourt	Admittedly the building was not ten years old on the date of suit.
+RulingByLowerCourt	But during the pendency of the litigation it completed ten years by 23rd February 1982 when the Additional District Judge decided the case, entitling the appellant to claim the benefit of Section 39 of the Act.
+Fact	[340 <CITATION_806710>  2 S.C.C.
+Fact	61; distinguished and held in applicable.
+Fact	1:3.
+Fact	In the present case, the benefit of the new Rent Act should be given to the appellant who only seeks the protection of the new Rent Act which became applicable to the premises in question during the pendency of the litigation.
+Fact	[340 C-D] Section 20 of the New Rent Act provides a bar to a suit for eviction of a tenant except on the specified grounds as provided in the section.
+Fact	(4) of s.20 stipulates that in any suit for eviction on the grounds mentioned in cl.
+Fact	(a) to sub- s.(2), viz.
+Fact	the arrears of rent, if at the first hearing of the suit the tenant in default pays all arrears of rent to <ORG> ndlord or deposits in court the entire amount of rent and damages for use and occupation of the building due from him, such damages for use and occupation being calculated at the same rate as rent together with interest thereon at the rate of nine per cent per annum and the landlord's cost of the suit in respect thereof after deducting therefrom any amount already deposited by the tenant under sub-s.(1) of s.30, the court may, in lieu of passing a decree for eviction on that ground, pass on order relieving the tenant against his liability for eviction on that ground.
+Fact	Sections 39 and 40 of the new Rent Act also indicate that the benefit of the new Act will be given to the tenant if the conditions contemplated in those sections are satisfied.
+Fact	Section 39 also indicates that the parties are entitled to make necessary amendment in their pleadings and to adduce additional evidence where necessary.
+Fact	[342 D-G] 2:1.
+Fact	Normally the Court has to decide the case on the basis of cause of action that accrued prior to the date  of filing the suit and not on a new cause of action.
+Precedent	But it can and in many cases must take into account events and developments subsequent to the institution of the proceeding provided the rules of fairness to both sides are scrupulously obeyed".
+Precedent	[341 A;F] 335 <CITATION_1465665> , 1 S.C.C.
+Precedent	770; applied.
+Precedent	2:2.
+Precedent	Normally amendment is not allowed, if it changes the cause of action.
+Precedent	But it is well recognised that where the amendment does not constitute an addition of a new cause of action or raise a new case, but amounts to no more than adding to the facts already on record, the amendment would be allowed even after the statutory period of limitation.
+Fact	[341 G] <NAME> & sons v <ORG>, 1.S.C.R.
+Fact	796;; referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	10144 of 1983.
+Fact	Appeal by Special leave from the Judgment and Order dated the 20th July, 1983 of <ORG> in Civil Revision No.
+Fact	237 of 1983.
+Fact	<NAME>, <NAME>, <NAME> and <NAME> for the Appellant.
+Fact	<NAME>, Mrs <NAME> and <NAME> for the Respondent.
+Fact	The Judgment of the Court was delivered by <NAME>, J.
+Fact	The present appeal by special leave is directed against the judgment of <ORG> dated 20th July, 1983 disposing of a revision under s.25.
+Argument	of the Small Causes Court Act arising out of suit for eviction of the appellant from the premises in suit.
+Fact	The respondent filed a suit for eviction and for arrears of rent and damages for use and occupation pendent lite and future on the allegation that the appellant was inducted as a tenant of the premises in suit on a monthly rent of Rs.
+Fact	250 on 7th February, 1972, that the building in suit was constructed in 1971 under the co-operative housing scheme of <ORG> for which the <ORG> advanced loan.
+Fact	The building in suit was assessed to house and water tax on 1st October.
+Fact	1971 and as such the building was not covered by the U.P.
+Fact	Urban Buildings (Regulation of letting, Rent and Eviction) Act , 1972 (hereinafter referred to a s the new Rent Act for short), and that the defendant defaulted in the payment of rent despite notice dated 24th March, 1977.
+Fact	The Respondent therefore terminated the tenancy of the appellant.
+Fact	336  The claim was resisted by the appellant on the ground that the building in question was constructed in 1968 and that it was covered by the new Rent Act .
+Fact	His further stand was that rent had been cleared upto 6th April, 1977 and there was no default in the payment of rent.
+Fact	He also challenged the service and the validity of the notice terminating his tenancy.
+Fact	The appellant also claimed the adjustment of Rs.
+Fact	1000 spent by him towards the repairs of the premises.
+Fact	By a later amendment it was further pleaded that the plaint having not been amended so as to bring the suit under the provisions of the new Rent Act the suit was barred by s.20 of the Act.
+Fact	The Third Additional District Judge negatived the defence and decreed the suit for eviction as also for recovery of arrears of rent and damages for use and occupation.
+Fact	The  learned Judge held that the building was exempt from the operation of the new Rent Act on two grounds.
+Fact	The first grounds.
+Fact	was based upon sub-s.(2) of s.2 which provides that nothing in this Act shall apply to a building during the period of ten years from the date on which its construction is completed.
+Fact	The second ground was based upon the proviso to sub-s.(2) of s.2, which contemplates that where a building has been constructed substantially out of funds by way of loan or advance from <ORG>, or <ORG> or a bank or a Co-operative society, and the period of repayment of such loan or advance exceeds the aforesaid period of ten years, then reference in this sub-section to a period of ten years shall be deemed to be a reference to a period of fifteen years or the period ending with the date of actual repayment of each loan or the period ending with the date of actual repayment of each loan of advance, including interest, whichever is shorter.
+Fact	As the last instalment of t he loan was paid in March 1981, instead of ten years the building should be fifteen years old to attract the provisions of the new Rent Act .
+Fact	He also held that the appellant had failed to prove that the spent Rs.
+Fact	1000 towards repairs of the premises.
+Fact	The learned Judge overruled the other pleas of the appellant and decreed the suit as prayed for.
+Argument	The appellant feeling aggrieved preferred a revision in <ORG>.
+Argument	It was contended for the appellant that the building in question had been constructed by a co-operative society and the landlord had purchased it from the society and, therefore, the view taken by the learned Judge that the building was constructed substantially out of funds obtained from the sources mentioned in the proviso to s.2(2) of the new Rent Act was manifestly erroneous.
+Argument	<ORG>, however, did not express any concluded opinion and rest contended by observing that it was not necessary to examine the submission in any detail or to express any concluded opinion about it for disposal o f the present revision.
+Argument	<ORG>, however, accepting the finding of the learned Additional District Judge that the building in question will be deemed to have been completed on 1st October, 1971, the date of assessment of house tax and water tax held that the building was not ten years old on the date of the suit and, therefore, the new Rent Act had no application to the building in suit and the appellant cannot get any protection of the new Rent Act .
+RulingByLowerCourt	<ORG> confirmed the findings of the trial Court on all other points except the finding about the arrears of rent.
+RulingByLowerCourt	In the opinion of <ORG> admittedly a sum of Rs.
+Fact	1000-had been paid by the appellant to the landlord through a crossed cheque dated 16th August, 1976 which was received by the landlord on 15th September, 1976.
+RatioOfTheDecision	But when the plaintiff was in the witness box payment by cheque was not specifically put to him and it has not been established as to for which period the payment by cheque was made.
+RatioOfTheDecision	The counter-foil of the cheque book  also did not specify the period for which this payment by cheque was made.
+RatioOfTheDecision	<ORG>, however, did not endorse the finding of the Additional District Judge that the payment through the cheque may have been made by the appellant towards rent for some period prior to April 7, 1976 and held it to be manifestly erroneous and without any basis.
+RulingByLowerCourt	In the result <ORG> allowed the appeal in part and set aside the decree of the trial court relating to the recovery of Rs.3158-30 as arrears of rent for the period between April 7, 1976 and April 25, 1977 and remanded the case to the trial court for redetermination of the amount of rent in arrears payable by the appellant after affording opportunity to the plaintiff to explain the payment of the amount of Rs.
+RulingByLowerCourt	1000-through cheque dated August 16, 1976.
+RulingByLowerCourt	The trial court was further directed to afford opportunity to the parties to adduce further evidence in regard to this aspect.
+Fact	The appellant has now approached this Court with an application for special leave to ap peal.
+Fact	On the date of summary hearing of the application under Art.
+Fact	136 of the Constitution we granted special leave and with the consent of the counsel for the parties we finally heard the appeal to obviate further delay.
+Fact	338  The only point argued before this Court is whether the premises which was not ten years' old on the date of the suit and was exempted from the operation of the new Rent Act , can be governed by it if ten years expired during the pendency of the litigation.
+RatioOfTheDecision	In order to appreciate the contention of the parties it will be relevant at this stage to refer to s 2 of the new rent Act.
+RatioOfTheDecision	It pertinently reads:  "2.
+Statute	Exemption from operation of Act.-(I) nothing in this Act shall apply to-  (a).............  (b).............  (c).............  (d).............  (e).............  (f) any building built and held by a society registered under the Societies registration Act, 1860 (Act No.
+Statute	LVIII of 1860) or by a Co-operative society, company or firm and intended solely for its own occupation or for the  occupation of any of its officers or servants, whether on rent or free of rent, or as a guest house, by whatever name called, for the occupation of persons having dealings with it in the ordinary course of business.
+Statute	(2) Except as provided in sub-section (5) of Section 12 , sub-section (IA-) of section 21 , sub-section(2) of Section 24 , Section 24-A  24-B , 24-C or sub-section (3) of Section 29 nothing in this Act shall apply to a building during a period of ten years from the date on which its construction is completed: Provided that where any building is constructed substantially out of funds obtained by way of loan or advance from <ORG> or <ORG> or a bank or a co-operative society or <ORG>, and the period of repayment of such loan or advance exceeds the aforesaid period or ten years then the reference in this sub-section to the period of ten years shall be deemed to be a reference to the period of ten years or the period  ending with the date of actual repayment of each loan or advance (including interest), whichever is shorter.
+Statute	339  Explanation I.
+Statute	For the purposes of this sub-section-  (a) the construction of a building shall be deemed to have been completed on the date on which the completion thereof is reported to or otherwise recorded by the local authority having jurisdiction and in the case of a building subject to assessment the date on which the first assessment thereof comes into effect and where the said dates are different, the earliest of the said dates, and in the absence of any such report, record or assessment, the date, on which it is actually occupied (not including occupation merely for the purposes of supervising the construction or guarding, the building under construction) for the first time.
+Statute	Provided that there may be different dates of completion of construction in respect of different parts of a building which are either designed as separate units or are occupied separately by the landlord and one or  more tenants or by different tenants:  Explanation II-.......................................
+Statute	Explanation III-A building shall be deemed to be constructed substantially out of funds obtained from sources mentioned in the proviso, if the funds obtained from one or more of such sources account for more than one-half of the cost of construction."
+Statute	Section 2 of the Act provides various kinds of buildings to which the new Rent Act has no application.
+Statute	Sub-section (2) of s.2 contemplates that the new Rent Act will not apply to a building during a period of ten years from the date on which its construction is completed.
+Statute	Explanation I to sub-s.(2) enumerates the dates on which the building shall be deemed to have been completed :-  (i) The date on which the completion thereof is reported to or otherwise is recorded by the local authority having jurisdiction.
+Statute	(ii) In case of building subject to assessment, that date on which the first assessment thereof comes into effect.
+Statute	(iii) where the said dates are different, t he earliest of the said dates.
+Statute	340  (iv) In the absence of any such report, record or assessment the date on which it is actually occupied for the first time.
+RatioOfTheDecision	In the case in hand the building was subject to assessment therefore it will be deemed to have been completed on the date of assessment which was 1st October, 1971.
+RatioOfTheDecision	The Additional District Judge has found that the building will be deemed to have been completed on the date of assessment of the house which has been accepted by <ORG>.
+RatioOfTheDecision	The moment a building becomes ten years old to be reckoned from the date of completion, the new Rent Act would become applicable.
+RatioOfTheDecision	Admittedly the building was not ten years old on the date of suit.
+RatioOfTheDecision	But during the pendency of the litigation it completed ten years.
+Fact	Then the question arises whether the new Rent Act will be attracted if the building completes ten years during the course of litigation.
+Fact	The Additional District Judge decided the case on 23rd February 1982.
+Fact	By that time the building in question had complet ed ten years.
+Fact	The trial court, however, relying on a recent decision of this Court in <CITATION_806710> ) refused to apply the new Rent Act to the building in question.
+Fact	In that case a contention was raised that the building will be deemed to have been constructed on the date of occupation on 16th June, 1967 and not on the date of the first assessment and if that be so, the appellant would be entitled to the benefit of s.39 of the Act on the date when the revision came to be decided by <ORG>.
+Fact	On 23rd March, 1978.
+Fact	This Court, however, held that it is the date of the first assessment which will be deemed to be the date of completion of the construction in the circumstances of the case and in that view of the matter the building had not become more than ten years old on the date when the revision came to be decided by <ORG> and, therefore, there was no question of giving the benefit of s.39 of the Act to the appellant.
+RatioOfTheDecision	It was not at all necessary in that case to deal with the question whether t he appellant would be entitled to the benefit of s.39 as the building had not become ten years old on the date their the revision petition was heard.
+RatioOfTheDecision	In the instant case, however, the building had become more than ten years old during the pendency of the litigation and, therefore, the question assumes importance in the present case.
+RatioOfTheDecision	341  It may be argued that the <ORG> had to decide the case on the basis of cause of action that accrued prior to the date of filing the suit and not on a new cause of action, but this question need not detain us as it is covered by decision of this <ORG> in <NAME> v. <ORG>) Dealing with a similar question this <ORG> observed:  "It is basic to our processual jurisprudence that the right to relief must be judged to exist as on the date a suitor institutes the legal proceeding.
+RatioOfTheDecision	Equally clear is the principle that procedure is the handmaid and not the mistress of the judicial process.
+RatioOfTheDecision	If a fact, arising after the <ORG> has come to court and has a  fundamental impact on the right to relief or the manner of moulding it, if brought diligently to the notice of the tribunal, it cannot blink at it or be blind to events which stultify or render inept the decretal remedy.
+RatioOfTheDecision	Equity justifies bending the rules of procedure, where no specific provision or fair play is not violated, with a view to promote substantial justice-subject, of course to the absence of other disentitling factors or just circumstances.
+RatioOfTheDecision	Nor can we contemplate any limitation on this power to take note of updated fact to confine it to the trial <ORG>.
+RatioOfTheDecision	If the litigation pends, the power exists, absent other special circumstances repelling resort to that course in law or justice.
+RatioOfTheDecision	Rulings on this point are legion, even as situations for applications of this equitable ruled are myriad.
+RatioOfTheDecision	We affirm the proposition that for making the right or remedy claimed by the party just and meaningful as also legally and factually in legally and factually in accord with the current realities, the <ORG> can, and i n many cases must, take cautious cognizance of events and developments subsequent to the institution of the proceeding provided the rules of fairness to both sides are scrupulously obeyed."
+RatioOfTheDecision	Normally amendment is not allowed if it changes the cause of action.
+Precedent	But it is well recognised that where the amendment does not constitute an addition of a new cause of action, or raise a new case, but amounts to no more than adding to the facts already on the record the amendments would be allowed even after the statutory period of limitation.
+Precedent	The question in the present case is whether by seeking the benefit of s.39 of the new Act there is a change in the cause of action.
+Precedent	In <ORG> v. <ORG> this Court dealing with the cause of action observed as follows:  "The expression "cause of action" in the present context does not mean every fact which it is material to be proved to entitle the plaintiff to succeed" as was said in <NAME> v. Gill(2) in a different context, for if it were so, no mate rial fact could ever be amended or added and, of course, no one would want to change or add an immaterial allegation by amendment.
+Precedent	That expression for the present purpose only means, a new claim made on a new basis constituted by new facts.
+RatioOfTheDecision	Such a view was taken in <NAME> v. <ORG>) and it seems to us to be the only possible view to take.
+RatioOfTheDecision	Any other view would make the rule futile."
+RatioOfTheDecision	The appellant in the present case only seeks the protection of the new Rent Act which became applicable to the premises in question during the pendency of the litigation.
+RatioOfTheDecision	We see no reason why the benefit of the new Rent Act be not given to the appellant.
+RatioOfTheDecision	Section 20 of the new Rent Act provides a bar to a suit for eviction of a tenant except on the specified grounds as provided in the section.
+RatioOfTheDecision	Subsection (4) of s.20 stipulates that in any suit for eviction on the grounds mentioned in cl.
+RatioOfTheDecision	(a) to sub-s. (2), viz.
+RatioOfTheDecision	the arrears of rent, if at the first hearing of the suit the tenant in default pays all arre ars of rent to the landlord or deposit in court the entire amount of rent and damages for use and occupation of the building due from him, such damages for use and occupation being calculated at the same rate as rent together with interest thereon at the rate of nine per cent per annum and the landlord's cost of the suit in respect thereof after deducting there from any amount already deposited by the tenant under sub-s. (1) of s.30, the court may, in lieu of passing a decree for eviction on that ground, pass an order relieving the tenant against his liability for eviction on that ground.
+RatioOfTheDecision	Sections 39 and 40 of the new rent Act also indicate that the benefit of the new Act will be given to the tenant if the conditions comtemplated in those sections are satisfied.
+RulingByPresentCourt	Section 39 also indicates that the parties are entitled to make necessary amendment in their pleadings and to adduce additional evidence where necessary.
+RulingByPresentCourt	For the reasons given above the appeal must succeed.
+RulingByPresentCourt	It is accordingly allowed in part and the j udgment and decree of <ORG> is set aside in so far as it relates to eviction but the judgment of <ORG> setting aside the decree for arrears of rent and remanding the case to the trial court remains intact, and the case is sent back to the III Additional District Judge who will apply the new Rent Act and give the protection of the new Act to the appellant and will give him an opportunity to deposit the dues contemplated by s.39 of the new rent Act after first determining whether any amount is due from the appellant towards rent as directed by <ORG>.
+RulingByPresentCourt	The costs here will abide the result.
+Precedent	S.R.
+RulingByPresentCourt	Appeal allowed in part.

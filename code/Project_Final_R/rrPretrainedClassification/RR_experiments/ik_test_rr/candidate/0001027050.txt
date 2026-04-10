@@ -1,0 +1,68 @@
+Fact	JUDGMENT <NAME>, J.
+Argument	1.
+Argument	At the instance of the <ORG>, the <ORG> referred the following two questions, for the opinion of this <ORG>, under s. 256(1) of the IT Act, 1961, hereinafter referred to as the 'Act'.
+RulingByLowerCourt	"1.
+Fact	Whether, on the facts and in the circumstances of the case, the <ORG> was justified in setting aside the order under s. 263 of the IT Act, 1961, passed by the <ORG> in relation to asst.
+Fact	yr. 1974-75 in the assessee's case ?
+Fact	2.
+Fact	Whether the satisfaction of the <ORG> as to the erroneous and prejudicial nature of the order passed by the <ORG> as contemplated in s. 263 of the IT Act, 1961, is confined only to the issue of notice to the assessee under that section, or should it be a must for purpose of passing an order under the said section, as has been held by the <ORG> ?
+Fact	2.
+Fact	The assessee is carrying on moneylending business.
+Fact	For the asst.
+Fact	yr. 1974-75, the <ORG> determined the assessee's total income at Rs.
+Fact	59,050 by his order, dt.
+Fact	30th September, 1976.
+Fact	Later the <ORG> (<ORG>.)
+Fact	called for the  records and scrutinised the order along with the connected records in the case of <ORG>.
+Fact	On such scrutiny, he noticed that the said <ORG> owed a sum of rupees one lakh to the assessee as disclosed in the details given by it, but whereas the assessee herein had not disclosed this amount in her balance sheet.
+Argument	The <ORG> held that the order passed by the <ORG>, without verifying this investment, was erroneous insofar as it was prejudicial to the interests of the Revenue.
+Argument	The <ORG> issued a notice under s. 263 of the Act to the assessee requiring her to show cause as to why this sum of Rupees one lakh should not be treated as her undisclosed income.
+Argument	3.
+Fact	Before the <ORG>, the assessee submitted that the sum of Rupees one lakh was advanced to <ORG>, Coimbatore, on 7th January, 1974, for the purpose of purchasing the lease right of the film "Vellikizhamai Viradham" that before the production of the film, the assessee sold her lease rights to <ORG>, M adras-34, for a sum of Rs.
+Fact	1.30 lakhs, that the said <ORG> paid a sum of Rs.
+Fact	25,000 and the remaining unpaid amount of Rs.
+Fact	1.05 lakhs appeared in the assessee's balance sheet, as on 31st January, 1974, and that, therefore, there was nothing due from the said <ORG>.
+Fact	On considering the explanation offered by the assessee, the <ORG> felt that as the sum of Rupees one lakh has been shown as a debt owned by the said M/s.
+Fact	<ORG>, the <ORG> should be directed to make fresh assessment after obtaining necessary clarification from the assessee in this regard.
+Fact	Accordingly the <ORG> set aside the assessment and gave a direction to the <ORG> in this matter.
+Argument	4.
+Argument	Aggrieved, the assessee filed an appeal before the <ORG>, contending that in the absence of any definite conclusion arrived at by the <ORG> as to the erroneous or prejudicial nature of the assessment order passed by the <ORG>, he should not have set aside the assessment, thereby giving a direction to the <ORG> to make fresh assessment, a nd that, therefore, the order passed by the <ORG> under s. 263 of the Act was without jurisdiction.
+Argument	The <ORG> held that the <ORG> has merely stated that it would be fair and reasonable to have the assessment set aside and give direction to the <ORG> to make fresh assessment, after getting necessary clarification and he has not found that the order passed by the <ORG> was prejudicial to the interest of the <ORG>.
+Argument	Therefore, the <ORG> held that the order passed by the <ORG> under s. 263 of the Act, was without jurisdiction.
+Argument	5.
+Argument	The learned standing counsel appearing for the <ORG> submitted that on a scrutiny of the order passed by the <ORG> along with the connected records, the <ORG> found that in the balance sheet belonging to the assessee, a sum of Rupees one lakh due from <ORG> was not shown.
+RulingByLowerCourt	Therefore, the <ORG> came to the conclusion that there is undisclosed income of Rupees one lakh in the case of the assessee.
+RulingByLowerCourt	The fact remains that the <ORG> has not conducted enquiry with regard to the o mission of Rupees one lakh due from M/s.
+RulingByLowerCourt	<ORG>.
+RulingByLowerCourt	Therefore, in order to verify the account and pass appropriate order, the <ORG> thought it fit to set aside the order made by the <ORG> and directed him to re-do the assessment on this aspect, after getting clarification from the assessee.
+RulingByLowerCourt	Hence, it cannot be said that the order passed by the <ORG> was without any finding as to whether the order passed by the <ORG> is erroneous and prejudicial to the interest of the Revenue.
+RulingByLowerCourt	Therefore, according to the learned standing counsel, there is no infirmity in the order passed by the <ORG> under s. 263 of the Act.
+RulingByLowerCourt	6.
+RulingByLowerCourt	We have heard the learned standing counsel appearing for the <ORG> and perused the records carefully.
+Argument	7.
+Argument	A scrutiny of the income-tax records of the assessee as well as the other connected file of <ORG> disclosed the fact that the latter owed a sum of Rupees one lakh to the assessee as disclosed in the details filed by it.
+Argument	This investment as advance of Rupees one lakh did n ot find a place in the balance sheet and other details filed by the assessee.
+Argument	This sum of Rupees one lakh advanced on 7th January, 1974 appears to have been escaped from the notice of the <ORG>, according to the <ORG>.
+Argument	Therefore, completion of the assessment for 1974-75, without verifying this investment, which has been omitted to be shown by the assessee was considered as erroneous insofar as it is prejudicial to the interest of the <ORG>.
+Argument	Hence the jurisdiction under s. 263 of the Act was invoked.
+Argument	8.
+Argument	The assessee submitted before the <ORG> that a sum of Rupees one lakh was, in fact, advanced to <ORG>, Coimbatore, on 7th January, 1974, for the purpose of purchasing the lease rights of the Film "<ORG>", which was then under production.
+Fact	However, before the production was completed, the assessee instructed the producer <ORG> to sell the lease rights to <ORG>, Madras-34, for a sum of Rs.
+Fact	1.30 lakhs.
+Fact	The producer <ORG> accordingl y sold the lease rights to <ORG> as per the assessee's instruction.
+Fact	A sum of Rs.
+Fact	25,000 was paid by <ORG> to the assessee and the balance remaining unpaid, viz., Rs.
+Fact	1,05,000 has been admitted by the assessee in her balance sheet, as on 31st March, 1974.
+Argument	Hence, it is clear that there is no escapement of income, inasmuch as the investment of Rupees one lakh has been admitted by the assessee not in the name of <ORG>, but in the name of <ORG>.
+Argument	<ORG>, Coimbatore, being a producer is in the practice of making adjustments in respect of advances received from distributors after the picture is released.
+Fact	As "Vellikizhamai Viradham" was released only in the accounting period, relevant for 1975-76 assessment in the case of <ORG>, this adjustments has been made only in the accounting period 1st April, 1974 to 31st March, 1975.
+Fact	This is the reason for the omission on the part of the assessee to admit this investment and on the pa rt of the producer to show this amount under distributor's advance outstanding as on 31st March, 1974.
+Fact	This explanation offered by the assessee was accepted by the <ORG>.
+Fact	When the explanation offered by the assessee was accepted by the <ORG> with regard to the alleged undisclosed income of Rupees one lakh, then there is no error in the order passed by the <ORG> in the case of the assessee in the asst.
+Fact	yr. 1974-75.
+RulingByLowerCourt	Therefore, in the present case, after the enquiry, the <ORG> has not given any categorical finding that the order passed by the <ORG> on this aspect was erroneous and prejudicial to the interest of the <ORG>.
+RulingByLowerCourt	On the other hand, the <ORG> set aside the order passed by the <ORG> on the ground that verification of account is needed, with a clarification of the assessee.
+RulingByLowerCourt	This cannot be a ground for invoking jurisdiction under s. 263 of the Act.
+RulingByLowerCourt	Therefore, on the factual finding, we consider that the order passed by the <ORG> in holding that the <ORG> has no jurisdiction to invoke the provisions of s. 263 of the Ac t is in order.
+Fact	Accordingly, we answer the question referred to us in the affirmative and against the <ORG>.
+RulingByPresentCourt	No costs.

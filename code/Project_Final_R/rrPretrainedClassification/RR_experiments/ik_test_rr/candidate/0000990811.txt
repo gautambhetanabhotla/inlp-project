@@ -1,0 +1,87 @@
+Fact	JUDGMENT <NAME>, C.J.
+RatioOfTheDecision	1.
+RatioOfTheDecision	This appeal is preferred by <ORG>, against the judgment of <NAME> in A.
+Fact	A. O.
+Fact	369 of 1966, dismissing the appellant's application to register his trade mark.
+Fact	2.
+Fact	The appellant made an application for registration of a trade mark consisting of the word 'Asthmix' in Part A of the Register in Class 5 in respect of a designation of goods, which, after amendment, read 'Pharmaceutical preparation for the treatment of Asthma'.
+Fact	A notice of opposition was lodged by the first respondent under S. 21 of the Trade and Merchandise Marks Act , 1958.
+Argument	The main grounds of opposition were that the opponents are the proprietors in India of the trade mark 'Asmac' registered under Cl.
+Argument	5 in repect of pharmaceutical preparation for the treatment of asthma, that by long and extensive user the said trade mark had become exclusively associated by the trade and the public in India with them and had acquired a great reputation, that the appellant's trade mark is deceptively  similar to theirs, that the appellant's mark did no qualify for registration under Section 9 of the Act and that in view of the deceptive similarity, the appellant's application should be rejected.
+Argument	3.
+Argument	The Assistant Registrar of Trade Marks found that there was a real tangible danger of confusion in the minds of the public.
+Argument	He also found that this is not a case where registration under S. 12(3) of the Act should be given.
+RulingByLowerCourt	In the result, he dismissed the application with costs of the opponents.
+RulingByLowerCourt	4.
+RulingByLowerCourt	On appeal by the appellant, <NAME> while finding that the marks are admittedly not identical, held that there was no visual similarity between the two competing marks and the phonetical test alone has to be applied to this case.
+RulingByLowerCourt	In applying the phonetical test the learned Judge found that the persons who may be deputed for buying these medicines are mostly Indians and that their pronunciations of the English words are not likely to be perfect and proper and that these words are likely to be pronounced in various  manner differing from State to State and from locality to locality depending upon the language used by the customers and their state of literacy.
+RulingByLowerCourt	According to the learned Judge, the chances of confusion will be very little, but customers are not likely to hail only from the group of literate persons well versed in English language.
+RulingByLowerCourt	The learned Judge upheld the conclusion arrived at by the Assistant Registrar that the confusion among the public as regards the trade origin of these competing goods cannot be ruled out.
+RulingByLowerCourt	He also held that the appellant is not entitled to registration under Sec.
+RulingByLowerCourt	12(3) of the Act.
+RulingByLowerCourt	Agreeing with the Registrar, the learned Judge dismissed the appeal.
+Fact	5.
+Fact	The appellant asked for registration of the mark consisting of the word 'Asthmix' in Part A of the Register in class 5 in respect of Pharmaceutical preparation for the treatment of asthma.
+Fact	The appellant's medicine is packed in folders and bottles covered by a carton.
+Fact	The respondent's mark is registered with the word 'Asmac' in class  5 in respect of Pharmaceutical preparation for the treatment of asthma.
+Fact	The packing is in a small carton consisting of 20 tablets whereas that of the appellant is in folders consisting of ten tablets and in bottles for the liquid form.
+RatioOfTheDecision	There is absolutely no similarity and no purchaser, whether intelligent or unwary could mistake one medicine for the other.
+RatioOfTheDecision	This is the finding of the Assistant Registrar, though not in such specific words.
+Fact	After discussing the question of similarity, the Assistant Registrar observed-  "At first blush, I thought that such an objection would not be available to the opponents."
+Fact	The learned Judge also found that the marks are admittedly not identical and there is no visual similarity between the two competing marks.
+RatioOfTheDecision	We have no hesitation in accepting these findings and holding that there is no similarity whatsoever between the two products.
+RatioOfTheDecision	It is also the admitted case of the parties.
+RatioOfTheDecision	6.
+RatioOfTheDecision	It was urged that the words are deceptively similar, Section 11 of the Act states that a mar k, the use of which would be likely to deceive or cause confusion, shall not be registered as a trade mark, Section 12(1) provides that save as provided in sub-section (3), no trade mark shall be registered in respect of any goods or description of gods which is identical with or deceptively similar to a trade mark which is already registered in the name of a different proprietor in respect of the same goods or description of goods.
+RatioOfTheDecision	The words 'deceptively similar' are defined in Section 2(1)(d) as 'a mark shall be deemed to be deceptively similar to another mark if it so nearly resembles that other mark as to be likely to deceive or cause confusion'.
+RatioOfTheDecision	The effect of Sections 11 and 12 is that the mark shall not be registered, if the use o it would be likely to deceive or cause confusion and the goods are deceptively similar.
+RatioOfTheDecision	The finding which we have already recorded would rule out any deceptive similarity or use of which would likely deceive or cause confusion.
+RatioOfTheDecision	In spite of this finding, which in fact is not di sputed, we would proceed to consider whether the8 order refusing registration by the Assistant Registrar and the learned Judge should be set aside.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The main ground on which the Assistant Registrar, whose opinion was accepted by the learned Judge, refused to register the trade mark is that there is phonetical similarity.
+RatioOfTheDecision	The drugs are 'Asthmix' and 'Asmac'.
+RatioOfTheDecision	At the first blush or on the first impression there could be no difficulty in coming to the conclusion that there is no similarity.
+RatioOfTheDecision	But we have been taken through a number of decisions by both sides, each supporting its own stand.
+RatioOfTheDecision	It may be frankly stated that it is difficult to deduce any principle of law from these decisions.
+RatioOfTheDecision	The decisions have been rendered on the facts of the case and sometimes appear to be8 irreconcilable.
+RatioOfTheDecision	In the circumstances, we would follow the principles laid down in Halsbury's Laws of England, Vol.
+Precedent	38, <ORG> and by Lord <NAME> in <ORG>, application 1906-23 RPC 774.
+Precedent	In Halsbury's Laws of England, Vol.
+Precedent	38 at  page 586, it is stated-  "Thus, in the case of applications for registration of trade marks and in oppositions thereto, the onus is on the applicant to satisfy the Registrar that the trade mark applied for is not likely to deceive or8 cause confusion."
+RatioOfTheDecision	As regards resemblance, it is stated that it is a question of fact.
+RatioOfTheDecision	The author observes-  "Whether or not any degree of resemblance likely to deceive or cause confusion exists, is a question of fact for the tribunal or court to decide upon the evidence in each case and is not a matter for witnesses.
+RatioOfTheDecision	What degree of resemblance is likely to deceive or cause confusion in any instance is incapable of definition a priori and the observations of Judges upon other and quite different facts are usually of little help."
+RatioOfTheDecision	We resist from getting confused y referring to various decisions which deal with the particular trade mark under contest and would confine ourselves mainly to the facts of the case.
+Precedent	In the oftquoted decision in <ORG> application, 1906-23  RPC 774, Lord <NAME> has laid down the tests as follows-  "You must take the two words, you must judge of them, both by their look and by their sound.
+RatioOfTheDecision	You must consider the goods to which they are to be applied.
+RatioOfTheDecision	You must consider the nature and kind of customers who would be likely to buy those goods.
+RatioOfTheDecision	In fact, you must consider all the surrounding circumstances and you must further consider what is likely to happen if each of those trade marks is used in a normal way as a trade mark for the goods of the respective owners of the marks.
+RatioOfTheDecision	If, considering all those circumstances, you come to the conclusion that there will be a confusion that is to say, not necessarily that one man will be injured and the other will gain illicit benefit, but that there will be a confusion in the mind of the public which will lead to confusion in the goods then you may refuse the registration, or rather you must refuse the registration in that case."
+RatioOfTheDecision	8.
+RatioOfTheDecision	The primary tests are that the words should be judged by their look and by the ir sound.
+RatioOfTheDecision	There is no similarity in the goods by their look in the present case.
+RatioOfTheDecision	'Asthmix' and 'Asmac' in our view are not similar in sound and are not likely to confuse any person.
+RatioOfTheDecision	The reason given by the learned Judge is that the person who may buy the medicine such as nurses, compounders and other laymen in charge of the hospital and similar institutions are mostly Indians and that their pronunciation of the English words are not likely to be perfect and proper.
+RatioOfTheDecision	It may be stated here that this medicine can be dispensed only on the prescription of the doctors.
+RatioOfTheDecision	According to the learned Judge, the customers are not likely to hail only from the group of literate persons well versed in English language.
+Argument	The learned Judge expressed the view that orders for the preparation of the drug 'asmac' are placed over the telephone and are indistinctly heard over and that written prescriptions are mis-spelt or badly written.
+Argument	He felt that nurses, compounders and lay people in charge of the hospital and similar institutions  may place orders orally or across the counter or over he phone, which may lead to some confusion.
+RatioOfTheDecision	With respect, we do not accept these as proper tests.
+RatioOfTheDecision	These medicines are schedule H drugs and can only be dispensed on the prescription of the medical practitioner.
+RatioOfTheDecision	Before the Assistant Registrar and the learned Judge, the appellant stated that he would be satisfied if the registration of the word 'asthmix' is confined to the drug which contained any of the drugs mentioned in schedule H. The question of an innocent and unwary purchaser walking to the shop and purchasing the medicine without a prescription does not arise.
+RatioOfTheDecision	The medicine has to be dispensed on the counter on the prescription of the doctor.
+RatioOfTheDecision	One can expect a compounder to dispense the medicine properly unless he is grossly negligent, for which contingency the trade mark law cannot give any protection.
+RatioOfTheDecision	When a person authorised under the Act, namely, doctor, nurse or a compounder deputed by the hospital or similar institutions, goes to a pharmacy for b uying the medicines, it is presumed that he is sufficiently informed as not to mistake one medicine for the other, when there is no similarity between the two drugs.
+RatioOfTheDecision	It is farfetched to say that these persons are defective in the pronunciation of the English words making it possible that they would mix up between 'Asthmix' and 'asmac'.
+RatioOfTheDecision	We are aware of the fact that in the case of pharmaceutical drugs, the court should be careful not to permit any room for confusion.
+RatioOfTheDecision	The possibility of confusion is for a normal buyer or even an unwary purchaser and not for fools and idiots.
+RatioOfTheDecision	On a consideration of the entire facts of the case, we are satisfied that there is no deceptive similarity between the two marks.
+RatioOfTheDecision	We are also satisfied that the Assistant Registrar was in error in refusing to register.
+RatioOfTheDecision	It was contended that the decision of the Assistant Registrar should not be lightly interfered with by this court.
+RatioOfTheDecision	If two views are possible and the Assistant Registrar has taken one view, the court would be reluctant to int erfere with his discretion.
+RatioOfTheDecision	But in a case where the court is convinced that the Assistant Registrar is in error in refusing to register the trade mark on the ground that there is deceptive similarity between the two marks, it is the duty of the court to interfere.
+RatioOfTheDecision	It is not necessary to go into the question whether the mark should be registered under Section 12(3) of the Act, as we are satisfied that it should be registered under Section 12(1) .
+RulingByPresentCourt	In the result, the appeal is allowed and the Assistant Registrar is directed to register the trade mark under Part A of the Register in Class 5 as prayed for.
+RulingByPresentCourt	There will be no order as to costs.
+RatioOfTheDecision	9.
+RulingByPresentCourt	Appeal allowed.

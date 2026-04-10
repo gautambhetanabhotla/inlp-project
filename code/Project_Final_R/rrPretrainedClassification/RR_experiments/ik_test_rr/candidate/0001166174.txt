@@ -1,0 +1,139 @@
+Fact	PETITIONER: <NAME> AND CO.
+Fact	Vs. RESPONDENT: SALES TAX OFFICER, HYDERABAD DATE OF JUDGMENT: 21/02/1964 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> CITATION: 1964 AIR 922 1964 SCR (6) 867 CITATOR INFO : R 1968 SC 445 (7) R 1971 SC 946 (5,6,7,9) F 1973 SC1333 (1,4) RF 1975 SC 198 (10) F 1975 SC1991 (9) RF 1977 SC2279 (57) D 1985 SC 218 (16,19) RF 1986 SC 178 (2) O 1987 SC 27 (3) ACT: Sales Tax-Tax Collected otherwise than In accordance with the Act-Provision enabling the Government to recover such tax collected-Not within the competence of State Legislature--Constitution of India, Schedule VII, Entry 26 and 54 of List II-Hyderabad General Sales Tax Act, 1950 (XIV of 1950), s. 11.
+Fact	868 HEADNOTE: The appellant collected sales tax from the purchasers of betel leaves in connection with the sales made by it.
+Fact	But it did not pay the amount collected to the Government.
+Fact	The Government directed the appellant to pay the amount to the Government an d it thereupon filed a writ petition in <ORG> questioning the validity of s. 11(2) of the Hyderabad General Sales Tax Act 1950.
+Argument	The main contention of the appellant before <ORG> was that s. 11(2) of the Act which authorises the Government to recover a tax collected without the authority of law was beyond the competence of <ORG> because a tax collected without the authority of law would not be a tax levied under the law and it would therefore not be open to the <ORG> to collect under the authority of a law enacted under the Entry 54 of List II of the VII Schedule to the Constitution any such amount as it was not a tax on sale or purchase of goods.
+Argument	<ORG> held that a.
+RulingByLowerCourt	11(2) was good-as an ancillary provision with regard to the collection of sales or purchase tax and therefore incidental to the power under Entry 54, List II.
+RulingByLowerCourt	<ORG> also held that even if s. 11(2) cannot be justified under that entry it could be justified under Entry 26, List II and in the result  the writ petition was dismissed.
+RulingByLowerCourt	The present appeal is by way of special leave granted by this <ORG>.
+RulingByLowerCourt	Held: (i) It cannot be said that <ORG> was directly legislating for the imposition of sales or purchase tax under Entry 54, list II when it made the provisions of a.
+RulingByLowerCourt	11(2) for on the face of the provisions the amount, though collected by way of tax was not exigible as tax under the law.
+RatioOfTheDecision	(ii) It is true that the heads of legislation in the various lists in the Seventh Schedule should be interpreted widely so as to take in all matters which are of a character incidental to the topic mentioned therein.
+RatioOfTheDecision	Even so there is a limit to such incidental or ancillary powers These have to be exercised in aid of the than topic of legislation, which in the present case is a tax on sale or purchase of goods.
+RatioOfTheDecision	The ambit of ancillary or incidental powers does not so to the extent of permitting the legislature to provide that though the amount collected, may be wrongly, by way of tax is not exigible under the law  as made under the relevant taxing entry, it shall still be paid over to <ORG> as if it were a tax.
+RulingByLowerCourt	Therefore the provision contained in a.
+RulingByLowerCourt	11(2) cannot be made under Entry 54, List II and cannot be justified as incidental or ancillary provisions permitted under that Entry.
+RulingByLowerCourt	(iii) Section 11(2) cannot be justified as providing for a for the breach of any provision of the Act.
+RulingByLowerCourt	(iv) Entry 26, List II deals with trade and commerce and has nothing to do with taxing or recovering amount realised wrongly as tax.
+RulingByLowerCourt	There is no element of regulation of trade and commerce in a provision like s. 11(2) and therefore that section cannot be justified under Entry 26.
+RulingByLowerCourt	List II.
+RulingByLowerCourt	869 (v) The provision in s. 20(c) is also invalid as it is merely consequential to s. 11(2).
+RulingByLowerCourt	<CITATION_1218527> ,  1 S.C.R.
+RulingByLowerCourt	549, distinguished.
+Fact	<CITATION_424874> .,  S.C.R.
+Fact	1069, referred to.
+Fact	<CITATION_1222961> , (1962) XIII Sales Tax Cases 967. held to be wrongly decided.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	760 of 1962.
+Fact	Appeal by special leave from the judgment and order dated July 16, 1959 of <ORG> in Writ Petition No.
+Fact	1123 of 1956.
+Fact	<NAME>, for the appellant.
+Fact	<NAME> and <NAME>, for the respondent.
+Fact	February 21, 1964.
+Argument	The Judgment of the Court was delivered by <NAME> an appeal by special leave against the order of <ORG>.
+Argument	The appellant filed a writ petition in <ORG> questioning the validity of s. 11 (2) of the Hyderabad General Sales Tax Act, No.
+RatioOfTheDecision	XIV of 1950, (hereinafter referred to as the Act).
+RatioOfTheDecision	The material facts on which the petition was based were these.
+Fact	The appellant acted as agent in the then State of Hyderabad to both resident and non-resident principals in regard to sale of betel leaves.
+Fact	Under the Act betel leaves were taxable at the purchase point from May 1, 1953, by virtue of a notification in that behalf.
+Fact	We are here concerned with the assessment period from May 1, 1953 to March 31, 1954, covered by the assess ment year 1953-54.
+Fact	The appellant collected sales tax from the purchasers in connection with the sales made by it on the basis that the incident of the tax lay on the sellers and assured the purchasers that after paying the tax to the appellant, there would be no further liability on them.
+Fact	After realising the tax, however, the appellant did not pay the amount realised to the <ORG> but kept it in the suspense account of its principals, namely, the purchasers.
+Fact	When the accounts were scrutinized by <ORG>, this was discovered and thereupon the appellant was called upon to pay the amounts realised to the <ORG>.
+Fact	The appellant however objected to the payment on the ground that it was the seller and the relevant notification for the relevant period imposed tax at the purchase point, i.e.
+Fact	on the purchaser.
+Fact	This objection was over-ruled and the appellant was directed to pay the amount to <ORG>.
+Argument	The main contention raised on behalf of the appellant in <ORG> was that s. 11 (2) o f the Act, which authorised the Government to recover from any person, who had collected or collects, after May 1, 1950, any amount by way of tax otherwise than in accordance with *.he provisions of the Act, as arrears of land revenue, was beyond the legislative competance of the State legislature.
+Argument	The argument was that the Act was passed under Entry 54 of List 11 of the Seventh Schedule to the Constitution, which enables the State legislature to enact a law taxing transactions of sale or purchase of goods.
+Argument	The entry therefore vests power in the State legislature to make a law for taxing sales and pur- chases of goods and for making all necessary incidental provisions in that behalf for the levy and collection of sales or purchase tax.
+Argument	But it was urged that that entry did not empower the State legislature to enact a law by which a dealer who may have collected a tax without authority is required to hand over the amount to Government, as any collection without the authority of law would not be a tax levied und er the law and it would therefore not be open to the <ORG> to collect under the authority of a law enacted under Entry 54 of List II any such amount as it was not a tax on sale or purchase of goods.
+Argument	<ORG> held s. 11 (2) good as an ancillary provision with regard to the collection of sales or purchase tax and therefore incidental to the taxing power under Entry 54 of List 11.
+Argument	Further <ORG> took the view that assuming that Entry 54 of List II could not sustain s. 11 (2), it could be sustained under Entry 26 of List H. Consequently the writ petition was dismissed.
+Argument	<ORG> having refused a certificate to appeal to this Court, the appellant obtained special leave and that is how the matter has come up be-fore us.
+Argument	871  It is necessary to read s. II of the Act in order to appre- ciate the point urged on behalf of the appellant.
+Statute	Section 11 is in these terms:-  1 1 (1) No person who is not registered as a dealer &hall collect any amount by way of tax under this Act nor shall a registered deal er make any such collection before the 1st day of May, 1950, except in accordance with such conditions and restrictions, if any, as may be prescribed Provided that Government may exempt persons who are not registered dealers from the provisions of this sub-section until such date, not being later than the 1st day of June, 1950, as Government may direct.
+Statute	(2) Notwithstanding to the contrary contained in any order of an officer or tribunal or judgment, decree or order of a <ORG>, every person who has collected or collects on or before 1st May, 1950, any amount by way of tax otherwise than in accordance with the provisions of this Act shall pay over to the Government within such time and in such manner as may be prescribed the amount so collected by him.
+Statute	and in default of such payment the said amount shall be recovered from him as if it were arrears of land revenue."
+Statute	It will be seen that s. 11 (1) forbids an unregistered dealer from collecting any amount by way of tax under the Act.
+RatioOfTheDecision	That provision however does n ot apply in the present case, for the appellant is admittedly a registered dealer.
+RatioOfTheDecision	Further s. II (1) lays down that a registered dealer shall not make any such collection before May 1, 1950, except in accordance with such conditions and restrictions, if any, as may be prescribed.
+RatioOfTheDecision	This provision again does not apply, for we are not concerned here with any collection made by the appellant before May 1, 1950.
+RatioOfTheDecision	The prohibition therefore of s. 11 (1) did not apply to the appellant.
+Statute	Then comes s. 11 (2).
+Statute	It applies to collections made after May 1, 1950 by any person whether a registered dealer or otherwise and lays down that any amount collected by way of tax otherwise than in accordance with the provisions of the Act shall be paid over to the Government and in default of such payment, the said amount shall be recovered from such person as if it were arrears of land revenue.
+Statute	It is clear from the words "other- wise than in accordance with the provisions of this Act" that though the amount may have been collected by w ay of tax it was not exigible as tax under the Act.
+Statute	Section 11 (2) thus provides that amounts collected by way of tax though not exigible as tax under the Act shall be paid over to <ORG>, and if not paid over they shall be recovered from such person as if they were arrears of land revenue.
+Statute	Clearly therefore s, 11 (2) as it stands provides for recovery of an amount collected by way of tax as arrears of land revenue though the amount was not due as tax under the Act.
+Fact	The first question therefore that falls for consideration is whether it was open to the State legislature under its powers under Entry 54 of List II to make a provision to the effect that money collected by way of tax, even though it is not due as a tax under the Act, shall be made over to <ORG>.
+RatioOfTheDecision	Now it is clear that the sums so collected by way of tax are not in fact tax exigible under the Act.
+RatioOfTheDecision	So it cannot be said that the State legislature was directly legislating for the imposition of sales or purchase tax under Entry 54 of List II w hen it made such a provision, for on the face of the provision, the amount, though collected by way of tax.
+RatioOfTheDecision	was not exigible as tax under the law.
+RatioOfTheDecision	The provision however is attempted to be justified on the ground that though it may not be open to a State legislature to make provision for the recovery of an amount which is not a tax under Entry 54 of List 11 in a law made for that purpose, it would still be open to the legislature to provide for paying over all the amounts collected by way of tax by persons, even though they really are not exigible as tax, as part of the incidental and ancillary power to make provision for the levy and collection of such tax.
+RatioOfTheDecision	Now there is no dispute that the heads of legislation in the various Lists in the Seventh Schedule should be interpreted widely so as to take in all matters which are of a character incidental to the topics mentioned therein.
+RatioOfTheDecision	Even so, there is a limit to such incidental or ancillary power flowing from the legislative entries in the various Lists in the Sev enth Schedule.
+RatioOfTheDecision	These incidental and ancillary powers have to be exercised in aid of the main topic of legislation, which in the present case, is a tax on sale or purchase of goods.
+RatioOfTheDecision	All powers necessary for the levy and collection of the tax concerned and for seeing that the tax is not evaded are comprised within the ambit of the legislative entry as ancillary or incidental.
+RatioOfTheDecision	But where the legislation under the relevant entry proceeds on the basis that the amount concerned is not a tax exigible under the law made under that entry, but even so lays down that though it is not exigible under the law, it shall be paid over to <ORG>, merely because some dealers by mistake or otherwise have collected it as tax, it is difficult to see how such provision can be ancillary or incidental to the collection of tax legitimately due under a law made under the relevant taxing entry.
+RatioOfTheDecision	We do not think that the ambit of ancillary or incidental power goes to the extent of permitting the legislature to provide that though the a mount collectedmay be wrongly-by way of tax is not exigible under the law as made under the relevant taxing entry, it shall still be  -)aid over to <ORG>, as if it were a tax.
+RatioOfTheDecision	The legisla- turd cannot under Entry 54 of List II make a provision to the effect that even though a certain amount collected is not a tax on the sale or purchase of goods as laid down by the law, it will still be collected as if it was such a tax.
+RatioOfTheDecision	This is what s. 11 (2) has provided.
+RatioOfTheDecision	Such a provision cannot in our opinion be treated as coming within incidental or ancillary powers which the legislature has got under the relevant taxing entry to ensure that the tax is levied and collected and that its evasion becomes impossible.
+RatioOfTheDecision	We are therefore of opinion that the provision contained in s. 1 1 (2) cannot be made under Entry 54 of List 11 and cannot be justified even as an incidental or ancillary provision permitted under that entry.
+RatioOfTheDecision	An attempt was made to justify the provision as providing for a penalty.
+RatioOfTheDecision	But as we read s. 11 (2) w e cannot find anything in it to justify that it is a penalty for breach of any prohibition in the Act.
+RatioOfTheDecision	Penalties imposed under taxing statutes are generally with respect to attempts at evasion of taxes or to default in the payment of taxes properly levied (see ss.
+RatioOfTheDecision	28 and 46 of the Indian Income Tax Act.
+RatioOfTheDecision	1922).
+RatioOfTheDecision	The Act also provides for penalties, for example s. 19 and s. 20 .
+RatioOfTheDecision	The latter section makes certain acts or omissions of an assessee offences punishable by a magistrate subject to com position under s. 21 .
+RatioOfTheDecision	Section 11 (2) in our opinion has nothing to do with penalties and cannot be justified as a penalty on the dealer.
+RulingByLowerCourt	Actually s. 20 makes provision in cl.
+RulingByLowerCourt	(b) for penalty in case of breach of s. II (1) and makes the person committing a breach of that provision liable, on conviction by a Magistrate of the first class, to a fine.
+RulingByLowerCourt	We are therefore of opinion that s. 11 (2) cannot be justified under Entry 54 of List II either as a provision for levying the tax or as an incidental or ancillary provision rel ating to the collection of tax.
+RatioOfTheDecision	In this connection we may refer to cl.
+RatioOfTheDecision	(c) of s. 20 , which provides that any person who fails "to pay the amounts specified in sub-section (2) of section 11 within the prescribed time" shall on a conviction by a Magistrate be liable to fine.
+RatioOfTheDecision	It is remarkable that this provision makes the person punish- able for his failure to pay the amount which is not authorised as a tax at all under the law, to Government.
+RatioOfTheDecision	It does not provide for a penalty collecting the amount wrongly by way of tax from purchasers which may have been justified as a penalty for the purpose of carrying out the objects of the taxing legislation.
+RatioOfTheDecision	If a dealer has collected anything from a purchaser which is not authorised by the taxing law, that is a matter between him and the purchaser, and the purchaser may be entitled to recover the amount from the dealer.
+RatioOfTheDecision	But unless the money so collected is due as a tax, the <ORG> cannot by law make it recoverable simply because it has been wrongly collected by the dealer.
+RatioOfTheDecision	This cannot be done directly for it is not a tax at all within the meaning of Entry 54 of ,List II, nor can the State legislature under the guise of incidental or ancillary power do indirectly what it cannot do directly.
+RatioOfTheDecision	We are therefore of opinion that s.11 (2) is not within the competence of the State legislature under Entry 54 of List II.
+RatioOfTheDecision	The respondent in this connection relies on the decision of this <ORG> in <CITATION_1218527> (").
+RatioOfTheDecision	That case in our opinion has no application to the facts of the present case.
+RatioOfTheDecision	In that case the dealer had been assessed to tax and had paid the tax.
+RatioOfTheDecision	Later in view of the judgment of this <ORG> in <CITATION_424874> (2) the amounts paid in (1)  1 S. C. R. 549.
+Fact	(2)  S. C. R. 1069.
+Fact	875  respect of goods despatched for consumption outside the State were held -to be not taxable.
+Fact	The dealer then applied for refund of tax, which was held to be not exigible.
+Fact	The refund was refused and and the dealer went to the High <ORG> by a writ petition claiming that it was entitled to refund u nder s. 14 of the Orissa Sales Tax Act (which was the law under consideration in that case).
+Fact	<ORG> allowed the petition in part and there were appeals to this Court both by the dealer and the <ORG>.
+Fact	In the meantime, the Orissa legislature amended the law, by introducing s. 14A , in the principal Act, which provided that refund could be claimed only by a person from whom the dealer had actually realised the amount as tax.
+Fact	That provision was challenged in this Court but was upheld on the ground that it came within the incidental power arising out of Entry 54 of List  11.
+RatioOfTheDecision	That matter dealt with a question of refund and it cannot be doubted that refund of the tax collected is always a matter covered by incidental and ancillary powers relating to the levy and collection of tax.
+RatioOfTheDecision	We are not dealing with a case of refund in the present case.
+RatioOfTheDecision	What s. II (2) provides is that something collected by way of tax, though it is not really due as a tax under the law enacted under Entry 54 of List II must be paid to t he Government.
+RatioOfTheDecision	This situation in our opinion is entirely different from the situation in <ORG> case(").
+RatioOfTheDecision	The respondent further relies on a decision of <ORG> in <CITATION_1222961> (2).
+RatioOfTheDecision	That decision was with respect to s. 8-B of the Madras General Sales Tax Act of 1939 as amended by Madras Act 1 of 1957.
+RatioOfTheDecision	Though the words in s. 8-B (2) were not exactly the same as the words in s. 11 (2), with which we are concerned here, the provision in substance was to the same effect as s. 11 (2).
+RatioOfTheDecision	In view of what we have said above, that decision must be held to be incorrect.
+RatioOfTheDecision	Lastly, we come to the contention of the respondent that s. 11 (2) is within the legislative competence of the <ORG> legislature in view of Entry 26 of List 11.
+RatioOfTheDecision	That entry deals with "trade and commerce within the <ORG> subject to the provisions of entry 33 of List III".
+Precedent	It is well settled that (1)  1 S.C.R.
+Precedent	549.
+Precedent	(2) [1962] XIII S.T.C.
+Precedent	967.
+Precedent	876  taxing entries in the legislative Lists I and II of the Seventh  Schedule are entirely separate from other entries.
+Statute	Entry 26 of List 11 deals with trade and commerce and has nothing to do with taxing or recovering amounts realised wrongly as tax.
+Statute	It is said that s. 11 (2) regulates trade and commerce and the State legislature therefore was competent under Entry 26 of List II to enact it.
+RulingByLowerCourt	We have not been able to understand what such a provision has to do with the regulation of trade and commerce; it can only be justified as a provision ancillary to a taxing statute.
+RulingByLowerCourt	If it cannot be so justified-as we hold that it cannot-we are unable to uphold it as regulating trade and commerce under Entry 26 of List II, There is in our opinion no element of regulation of trade and commerce in a provision like s, 11 (2).
+RulingByLowerCourt	We are therefore of opinion that the State legislature was Incompetent to enact a provision like s. 11 (2).
+RulingByLowerCourt	We may also add that the provision contained in s. 20(c) , being consequential to s. 11 (2) will fall along with it.
+Argument	In consequence it was not open to <ORG> x Officer to ask the appellant to make over what he had collected from the purchasers ,wrongly as sales tax.
+Argument	It is not disputed, as appears from the final assessment order of the Sales Tax Officer, that the appellant was not liable to pay the amount as sales tax for the relevant period.
+RulingByPresentCourt	We therefore allow the appeal and quash the assessment order dated September 27, 1956 insofar as it is based on s. II (2).
+RulingByPresentCourt	The appellant will get his costs in this <ORG> as well as in the High <ORG>.
+RulingByPresentCourt	Appeal allowed.

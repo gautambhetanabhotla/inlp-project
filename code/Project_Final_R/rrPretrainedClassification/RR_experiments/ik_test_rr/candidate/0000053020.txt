@@ -1,0 +1,129 @@
+Fact	PETITIONER: <ORG>, <NAME> Vs. RESPONDENT: COMMISSIONER OF INCOME-TAX, MADRAS DATE OF JUDGMENT: 19/09/1966 BENCH: <NAME>, J.C.
+Fact	BENCH: <NAME>, <NAME>, VISHISHTHA CITATION: 1967 AIR 444 1967 SCR (1) 392 CITATOR INFO : RF 1971 SC2129 (7) R 1972 SC 19 (6) ACT: Income-tax Act , 1922 , s. 10(2)(xv) -Expenditure in curred for proceedings to prevent enforcement of order interfering with business-It admissible deduction.
+Fact	HEADNOTE: The assessee-mill claimed deduction under s. 10(2) (xv) of the Indian Income-tax Act of the expenses incurred by it and the costs awarded to <ORG> in respect of unsuccessful writ petition and appeals therefrom.
+Fact	The deduction was disallowed by the departmental authorities, and the question was answered against the assessee by <ORG>.
+Fact	In appeals to this Court.
+Fact	HELD: The appeal must be allowed.
+Fact	The proceeding started by the assessee was in relation to the business of the assessee.
+Fact	Expenditure incurred to resist in a civil proceeding the enforcement of a meas ure-legislative or executive, which imposes restrictions on the carrying on of a business or to obtain a declaration that the measure is invalid would.. if other conditions are satisfied, be admissible under s. 10(2) (xv) as a permissible deduction in the computation of taxable income, even though the expenditure does not directly relate to the earning of income.
+RulingByLowerCourt	Expenditure may not be denied admission as a permissible deduction in computing the taxable income merely because the proceeding has failed.
+RulingByLowerCourt	Persistence of the assessee in launching the proceeding and carrying it from Court to Court and incurring expenditure for that purpose again cannot be a ground for disallowing the claim.
+RulingByLowerCourt	(396 B-C; 399 <CITATION_993822> 23 I.T.R- 427, <ORG>) v. <ORG> 26 I.T.R.
+Fact	195 : 35 T.C.
+Fact	367 and <CITATION_823444> ., (196 HI 7 S.C.R.
+Fact	693, referred to.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeals Nos.
+Fact	557 & 558 of 1965, Appeal by special leave from the judgment and order dated September  19, 1962 of <ORG> (in Tax Case No.
+Fact	87 of 1960).
+Fact	<NAME>, for the appellant.
+Fact	<NAME> and <NAME>, for the respondent.
+Fact	The Judgment of the Court was delivered by <ORG> company incorporated under the Indian Companies Act with its registered office at Madurai carries on business of cotton spinning and weaving.
+Fact	In the premises "of the factory of the <ORG> there are installed 80 handloorns These handlooms were found inadequate to weave the yarn pro- duced by the factory and a part of the yarn produced was distributed to weavers outside the factory who were engaged by the <ORG> to weave the yarn into cloth.
+Fact	Under cl.
+Fact	18-B of the Cotton Cloth and Yarn (Control), Order, 1945, issued by <ORG>, the Textile Commissioner was authorized to direct ally manufacturer or dealer or any class of manufacturers or dealers, inter alia, not to sell or deliver any yarn or cloth of specified description except to such pers on or persons and subject to such conditions as the Textile Commissioner may specify.
+Fact	On February 7, 1946, the Textile Commissioner issued an order directing the <ORG> not to sell or deliver any yarn manufactured by the <ORG> except to such person or persons as the Textile Commissioner may specify.
+Fact	It was recited in the order that "nothing in this Order shall apply to a sale or delivery made, in pursuance of clause 18-A of the said order, to any dealer in yarn not engaged in the production of cloth on handlooms or powerless".
+Fact	The <ORG> addressed a letter on February 13, 1946 to the Textile Commissioner submitting that the prohibition in general terms was ultra wires the authority conferred by the Cotton Cloth and Yarn (Control) Order.
+Fact	The <ORG> continued notwithstanding the prohibition to deliver yarn to weavers and did so till February 20, 1946.
+Fact	This yarn was seized under the orders of the Textile Commissioner.
+Fact	On February 20,1946, the Provincial Textile Commissioner, purporting to act in exercise of  authority conferred upon him by a notification issued by <ORG>, issued an order addressed to the <ORG> that:  "You should accordingly confine your delivery to the categories of persons notified below:-  (a) Licensed yarn dealers (in accordance with the said 18-A of the Control Order).
+Fact	(b) to consumers who purchased yarn directly from you during the basic period 1940-42 (in accordance with my circular letter dated 4th January 1946 referred to above).
+Fact	(c) your handloom factory situated in the premises of your Mill at Madurai (just the quantity of yam required).
+Fact	"Note:-Any other delivery of yarn by you which is not covered by a special order or permission of <ORG> will accordingly be a contravention of the Textile Commissioner's order under clause 18-B referred to above."
+Fact	After this order was issued, the <ORG> did not deliver any yarn to weavers.
+Fact	On March 4, 1946 the <ORG> filed a petition for a writ of nandamus in <ORG> under s. 45 of th e Specific Relief Act praying for an order directing the Provincial Textile Commissioner, Madras to desist from seizing the yarn supplied to the weavers at or around Madurai and Rajapalayam for the purpose of converting the yarn belonging to the <ORG> into cloth; to restore to the <ORG> or to direct the Provincial Textile Commissioner and his subordinates to restore the yam already seized; and to forbear from seizing or to direct the subordinates of the Provincial Textile Commissioner to forbear from seizing the yarn that may be entrusted to the weavers by the <ORG> in the -usual course of business according to the practice already obtaining for conversion into cloth.
+Fact	This petition was dismissed by <NAME>, and the order of dismissal was confirmed in appeal by <ORG>.
+Fact	The matter was then carried in appeal to <ORG>.
+Fact	<ORG> dismissed the appeal filed by the <ORG>.
+Fact	They held, agreeing with <ORG>, that the expression "deliver" in cl.
+Fact	18-B sub- cl.
+Fact	1(b) o f the Cotton Cloth and Yarn (Control) Order, 1945, is used in its ordinary broad sense of handing over possession, as distinct from passing of property, and would include delivery of possession to a bailer.
+Fact	Accordingly, delivery of part of its yarn by the <ORG> to owners of handlooms outside the mill premises for conversion of the yarn into cloth for the <ORG> was in contravention of the order made under cl.
+Fact	18-B sub.
+Fact	cl.
+Fact	(1) (b).
+Fact	<ORG> also held that a petition under S. 45 of the Specific Relief Act, 1877, directing the Provincial Textile Commissioner to desist from seizing the yam supplied to the weavers and to restore to the <ORG> the yarn already seized was incompetent as the acts in respect of which relief was asked for took place outside the limits of the ordinary original civil jurisdiction of <ORG>.
+Fact	The <ORG> spent Rs.
+Fact	20,035/- in prosecuting the proceed- ings under s. 45 of the Specific Relief Act and had also to pay Rs.
+Fact	5,912/- as costs to the Government of the unsu ccessful appeal to <ORG>.
+Fact	In its returns of income the Company claimed deduction of the amounts of Rs.
+Fact	20,035/- and Rs., 5,9121/for the assessment years 1949-50 and 1950-51 respectively as being expenditure wholly and exclusively laid out for the purpose of its business.
+Fact	The claims were rejected by the departmental authorities, and by <ORG>.
+Fact	The <ORG> then referred the following question to <ORG> at Madras :  "Whether the expenses of Rs.
+Fact	20,035/- incurred in the assessment year 1949-50 and Rs.
+Fact	5,912/- (relating to the assessment year 1950-5 1) being the cost paid to <ORG> as directed by <ORG> were expenses incurred in the ordinary course of business and allowable as deductions?"
+Fact	395  The question as framed is somewhat vague.
+Fact	But it is common ground that the Company claimed deduction under s. 10(2)   (xv) of the Indian Income-tax.Act, 1.922 on the footing that the two amounts represented expenditure laid out wholly and, ex clusively by the <ORG> for the purpose of its business.
+Fact	<ORG> answered the question in the negative.
+Fact	'With special leave, the <ORG> has appealed to this Court.
+Fact	The <ORG> has found that after the order dated February 20, 1946 was issued, the <ORG> did not deliver yarn to any weaver.
+Fact	it is recited in the judgment of the <ORG> that a "correct order by the proper authorities was passed" on February 20, 1946 and, thereafter the <ORG> did not distribute any yarn to weavers.
+Fact	The averments made by the <ORG> in the petition under s. 45 of the Specific Relief Act, are somewhat involved, but in substance the claim of the <ORG> was that <ORG> was incompetent to pass the order dated February 20, 1946 which placed restrictions on the business of the <ORG> and the order was "likely to cause irreparable and irretrievable injury", and it was prayed that an order do issue under s. 45 of the Specific Relief Act restraining <ORG> from enforc ing the order and the Textile Commissioner be prohibited by an order from seizing the yarn delivered to the weavers outside the factory and be further ordered to restore the yarn already seized.
+Fact	No clear averment was made in the petition about the date on which the yarn seized had been delivered by the <ORG> to the weavers.
+Fact	This petition failed, because <ORG> had no jurisdiction to entertain the petition, and also because the expression "deliver" used in cl.
+Fact	18-B of the Control Order included handing over of yarn to the weavers outside the premises of the factory for conversion into cloth.
+Fact	But expenditure incurred in prosecuting a civil proceeding relating to the business of an assessee is admissible as expenditure laid out wholly and exclusively for the purpose of the business even if the proceeding is decided against the assessee.
+Fact	It was held by this <ORG> in <CITATION_993822> (1) that the deductibility of expenditure under s. 10(2) (xv) must depend on the nature and purpose of the legal proceed ing in relation to the business whose profits are under computation and cannot be affected by the final outcome of that.
+Fact	proceeding.
+Fact	The proceeding started by the <ORG> was in relation to the business of the <ORG>.
+Fact	The <ORG> was thereby seeking relief against interference by the executive authorities in the conduct of its business in the manner in which it was being carried on previously.
+Fact	It was also seeking to obtain an order for restoration of its goods which were seized.
+Fact	It may be (1)  S.C.R.
+Fact	714 : 23 I.T.R.
+Precedent	427.
+Argument	M15Sup CI/66 12 granted that the <ORG> was, in starting the proceeding, ill-advised.
+Argument	However wrongheaded, ill-advised, unduly optimistic, or overconfident in his conviction the assessee may appear in the light of the ultimate decision, expenditure in starting and prosecuting the proceeding may not be denied admission as a permissible deduction in computing the taxable income, merely because the proceeding has failed, if otherwise the expenditure is laid out for the purpose of the business  wholly and exclusively, i.e.
+Argument	reasonably and honestly incurred to promote the interest of the business.
+RatioOfTheDecision	Persistence of the assessee in launching the proceeding and carrying it from Court to Court and incurring expenditure for that purpose again cannot be a ground for disallowing the claim.
+Statute	Under s. 10(2)(xv) of the Indian Income-tax Act as amended by Act 7 of 1939 expenditure even though not directly related to the earning of income may still be admissible as a deduction.
+RatioOfTheDecision	Expenditure on civil litigation commenced or carried on by an assessee for protecting the business is admissible as expenditure under s. 10(2) ((xv) provided other conditions are fulfilled, even though the expenditure does not directly relate to the earning of income.
+RatioOfTheDecision	Expendi- ture incurred not with a view to direct and immediate benefit for -purposes of commercial expediency and in order indirectly to facilitate the carrying on of the business is therefore expenditure laid out wholly and exclusively for the purposes of the trade.
+RulingByLowerCourt	In <ORG>  (Inspector of Taxes) v. <ORG>) <ORG> held that expenditure incurred by a <ORG> engaged in :sugar refining, in a propaganda campaign to oppose the threatened nationalization of the industry was a sum wholly and exclusively laid out for the purpose of the <ORG>'s trade and was an admissible deduction from its profits for income- tax purposes.
+RulingByLowerCourt	A'.
+RulingByLowerCourt	majority of the <ORG> held that the object of the expenditure being to preserve the assets of the <ORG> from seizure and -so to enable it to carry on and earn profits, the expenditure was a permissible deduction under r. 3(a) of the Rules applicable to cases (1) & (2) of Sch.
+Fact	D of the Income-tax Act, 1918.
+Fact	The object of the petition filed by the <ORG> was to secure a declaration that the order dated February 20, 1946 insofar as it sought to put restrictions upon the right of the <ORG> to carry on its business in the manner in which it was accustomed to do was unauthorized and to prevent enforcement of that order: thereby the Compan y was seeking to obtain an order from the <ORG> ,enabling the business to be carried on without interference.
+Fact	Expenditure incurred in that behalf would without doubt be expenditure laid out wholly and exclusively for the purpose of the business of the <ORG>.
+Fact	(1) 26 I.T.R.
+Fact	195 : 35 T.C.
+Precedent	367.
+Argument	397  It was argued however that the any delivered by the <ORG> to the weavers contrary to the prohibitory order dated February 20, 1946 was attached under the order of the Provincial Textile Commissioner, and since the <ORG> violated the prohibitory order, the primary object of the petition for mandamus instituted by the <ORG> was to secure protection against prosecution of the <ORG> and an order for return of the goods in respect of which an offence was committed.
+Argument	Expenditure incurred,in prosecuting that claim was, it was said, not laid out wholly and exclusively for the purpose of the business.
+Argument	Reliance was placed upon the judgment of this <ORG> in <NAME> case(1) in which it was held that a person who wa s prosecuted for an offence under s. 13 of the Hoarding and Profiteering Ordinance, 1943, on a charge, of selling goods at prices higher than were reasonable, in contravention of the provisions of s. 6 thereof, and a part of his stock was seized and taken away, was not entitled to claim deduction under S. 10(2)(xv) of the Income-tax Act for the sums spent in defending the criminal proceedings against him because the expenditure could not be said to have been laid out and expended wholly and exclusively for the purpose of the business.
+RatioOfTheDecision	But the assumption underlying the argument is not true.
+RulingByLowerCourt	The <ORG> has in the statement of the case observed in paragraph-2 :  "Subsequently, on 20th February 1946, a proper order by the appropriate authority was passed and it is common ground that after that date, at any rate no further distribution of yarn was made by the assessee.
+RulingByLowerCourt	In the interim (period) between 7th February 1946 and 20th February 1946, the yarn which was distributed to the handloom weavers was the subject  of seizure by the provincial Textile Commissioner and this the assesse sought to resist by filing an application under section 45 of the Specific Relief Act 1, of 1877 In the view of the <ORG> the <ORG> did -not act in violation of the terms of the order dated February 20, 1946;  it cannot there fore be said that the <ORG> was seeking to protect itself against a criminal prosecution and the consequences arising from infringement of the order dated February 20, 1946.
+Precedent	It is true that in the judgment in appeal from the order refusing mandamus, <NAME>, C.J.
+Precedent	speaking for the <ORG> observed: (see <CITATION_391668> (2):  "In spite of the fact that this order in effect prohibited the appellant delivering yarn to owners of handlooms situate outside the mill premises, the appellant continued to deliver yarn to such weavers.
+Precedent	", and (1) [1953] S.C.R.
+Precedent	714 23 I.T.R.
+Precedent	427.
+Precedent	(2) A.I.R.
+Precedent	1947 Mad.
+Precedent	82, <ORG> observed: "Despite.
+Precedent	the prohibition the appellant continued to deliver yarn to such owners in order  (as already mentioned) that they might turn the yarn into.
+Precedent	cloth and bring the article back to the mills."
+Precedent	( <CITATION_391668> ; Madras(1).
+RulingByLowerCourt	But the <ORG> has observed in its order dismissing the appeal filed by the <ORG> that it was "not disputed before" them that, after February 20, 1946 the <ORG> did not distribute any yam.
+RulingByLowerCourt	The question referred in this case must be decided not on what was found or observed by <ORG> in appeal from order, in the proceedings under s. 45 of the Specific Relief Act or by <ORG>, but upon findings of fact recorded by.
+RulingByLowerCourt	the <ORG>.
+Fact	It is unfortunate that <ORG> took the facts, not from the statement of the case, but apparently from the judgment.
+Fact	of <ORG>.
+RatioOfTheDecision	<ORG> assumed that the <ORG> had contravened the law because it delivered yarn to weavers in contravention of the order dated February 20, 1946.
+RatioOfTheDecision	But the assumption on which the discussion is founded is erroneous.
+RatioOfTheDecision	<ORG> also thought that expenditure  to fall within the terms of s. 10(2)(xv) must be one for the purpose of earning income, and there was no material on the record to show that the expenditure was so incurred.
+RatioOfTheDecision	If it is intended thereby to imply that the primary motive in incurring the expenditure admissible to deduction under s. 10(2)(xv) must be directly to earn income thereby, we are with respect unable to agree with that view.
+Precedent	This Court in <ORG>, Kerala v. <ORG>) observed:  "The expression "for the purpose of the business" is wider in scope than the expression "for the purpose of earning profits".
+Precedent	It's range is wide: it may take in not only the day to day running of a business, but also the rationalizationof administration and modernization of its machinery: it may include measures for the preservation of the business or for the protection of its assets and property from expropriation coercive process or assertion of hostile title: it may also comprehend payment of statutory dues and taxes impo sed as a precondition to commence or for carrying (1)L.R.
+Precedent	76, I.A.
+Precedent	191, 195.
+Precedent	(2)[1964] 7 S.C.R.
+Precedent	693,705:53 I.T.R.
+Precedent	140, 150.
+Precedent	399  on of a business; it may comprehend many other acts incidental to the carrying on of a business."
+Precedent	Expenditure incurred to resist in a civil proceeding the enforcement of a measure-legislative or executive, which imposes restrictions on the carrying on of a business, or to obtain a declaration that the measure is invalid would, if other conditions are satisfied, be admissible, in our judgment, under s. 10(2)(xv) as a permissible deduction in the computation of taxable income.
+RulingByPresentCourt	The appeals are therefore allowed.
+RulingByPresentCourt	The question referred is answered in the affirmative.- The appellant-Company will be entitled to its costs in this <ORG> and the High <ORG>.
+RulingByPresentCourt	One hearing fee.
+Precedent	y. P.  Appeals allowed.
+Precedent	400

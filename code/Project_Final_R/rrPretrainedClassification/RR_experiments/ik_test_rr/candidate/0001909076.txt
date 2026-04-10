@@ -1,0 +1,98 @@
+Fact	<NAME>, J.
+Fact	1.
+Fact	This appeal is from an order of <ORG> in Bengal, exercising appellate jurisdiction and in effect affirming an order made by Mr. Justice <NAME>, sitting in the exercise of the ordinary original jurisdiction of the <ORG>.
+Fact	Both were orders propounded in a suit for the dissolution of a partnership, and their result was to set aside an award of arbitrators so far as that award affected to deal with matters in question in the suit.
+RulingByLowerCourt	The appellant upholds the award and asks that the orders setting it aside be discharged.
+RulingByLowerCourt	2.
+RulingByLowerCourt	The circumstances are somewhat involved and, in detail, elaborate.
+RulingByLowerCourt	It will be possible, however, as their Lordships hope, to state the facts in a summary form without endangering such accuracy as is requisite for the purposes of their judgment.
+RulingByLowerCourt	3.
+Fact	The disputants are descendants of one <NAME>, and their disputes are to a large extent, although not altogether traceable to questions concering the division of the estate of  one of his sons-<NAME>-whose position in the family with his relationship to the parties before the Board appears in the following pedigree, taken from the judgment of Mr. Justice <NAME> in <ORG>.
+Fact	<NAME> |  -----------------------------------------  | | <NAME> M. Annardeyi | | ------------ ---------------------------- | | | | | <NAME> <NAME> Motilal (Plaintiff) M. Surji | (adopts <NAME>) <NAME> 4.
+Fact	The suit No.
+Fact	120 of 1922, related to a business of brokers and bankars carried on under style of <NAME> and Company.
+Fact	The business originally had been started by <NAME> alone.
+Fact	Some years later he took into it, first as an assistant, then as a partner, his nephew, the plaintiff and present  appeallant, <NAME>.
+Fact	The appellant's share as a partner was, in its origin, two annas; subsequently, it became one of five annas.
+Fact	Later still, the appellant's brother, <NAME>, was admitted a partner with a two  <NAME>' share.
+Fact	He died, however, in 1911, and after his death the business was carried on by <NAME> and the appellant together.
+Fact	<NAME> being treated as possessed of an eleven <NAME>' share and the appellant of the remaining share of five <NAME>.
+Fact	By an indenture dated October 1, 1916, and made between <NAME> and the appellant, it was agreed that this partnership should continue for twenty years There is no furtker reference in the appellant's plaint to the two <NAME>' share which belonged to <ORG> at the time of his death.
+RatioOfTheDecision	The appellant appears to treat it as merged in the shares of himself and <NAME>.
+RatioOfTheDecision	This position, however, is not accepted by the representative of <ORG>'s estate, as will later appear.
+Argument	5.
+Argument	<ORG> left no issue but he was survived by his wife, the respondent, <NAME>, and on her expressing a desire to adopt as a son to her deceased <NAME> <NAME>'s youngest son <NAME>, <NAME>, so it was alleged by the appellant, agreed with the appellant's consent, to admit  <ORG> to the firm setting aside for his benefit a two annas' share out of his own share of eleven annas.
+Argument	This arrangement, however, if it became effective at all, was almost immediately superseded by an agreement in writing dated November 16,1916, to which <NAME>, his three sons, the appellant and <NAME> were privy or parties and under which in effect <NAME> retired from the firm and it was agreed that the business should, as from January 1, 1917, belong in stated shares to the appellant, to the son to be taken in adoption by <NAME>, and to the three sons of <NAME>, viz, <NAME>, <NAME> and <ORG>-with a variation in interest as between these three, if <ORG> proved to be the son to be taken in adoption to <NAME> as contemplated.
+Argument	6.
+Argument	By an agreement of even date entered into by <NAME>, <NAME>'s wife, and his three sons, but to which the appellant was not a party, an arrangement was embodied with reference to the division of his property on the death  of <ORG>, an event then apparently regarded as imminent.
+Fact	The property, dealt with by this agreement in terms extends to <ORG>'s interest in the partnership, although that interest appears to have been disposed of, and differently, by the agreement already set forth, It is stated in this second agreement that it had become necessary in order to settle the disputes which had arisen regarding the rights of <NAME> who, unlike each of his younger brothers, was an adopted son and not a natural son of <ORG>.
+Fact	7.
+Fact	In the following month <ORG> died.
+Argument	The appellants's case, as set forth in his plaint, than was that the business, since the date when the first agreement of November 16, 1916, became operative, had been, carried on upon the basis of that agreement but that <NAME> had not adopted <NAME>, On the contrary, she had put forward.<NAME>, a son of <NAME>, as the son whom she had adopted to her late <NAME>, The appellant disputed both the factum and the validity of such adopti on, further alleging that <NAME> had drawn out of the firm about twenty-one lacs without the knowledge of any of the parties, that he had taken forcible possession and refused inspection of the partnership books, that he was making unauthorised entries therein to suit his own purposes and that he had been guilty of gross misconduct in the affairs of the partnership and towards the partners.
+Argument	Accordingly, the appellant claimed dissolution of the partnership accounts and a receiver.
+Fact	He cited as defendants to the suit, <NAME>, <NAME> and <NAME>, <NAME> and <NAME>.
+Fact	It will be noted that <NAME>, <NAME>'s widow, is not a party to the proceedings.
+Fact	8.
+Fact	The plaint was filed on January 12, 1922.
+Fact	No written statements have ever b9en put in, but it may, their lordships think, be fairly gathered from his plaint that the only question which the appellant, at all events, desired to raise in the suit were, first: whether the adoption of the infant defendant <NAME> had ever taken place; wh ether it was valid if it had; and who, on either view, were the persons interested and in what shares in the partnership, which was treated as one constituted by the agreement of November 16, 1916; and secondly: whether the allegations made by the appellant against <NAME> were, if established, sufficient to entitle the appellant to the decree of dissolution which he sought,  9.
+Fact	But these did not comprise all the matters of difference then existent in the family of <NAME>.
+Fact	First of all, in the appellant's own immediate branch of it, there was apparently a serious dispute between him and <NAME> upon the question whether the appellant and <ORG> were joint or separate in estate; there was another as to the rights of each brother in the ancestral or self-acquired property of their <NAME> <NAME>: there was a third as to the claim of <NAME> to certain company shares standing in the name of the appellant.
+Fact	Next there was a question with <ORG>'s representatives in which not o nly the appellant but the.
+Fact	estate of <NAME> was concerned : namely, whether <NAME> estate was entitled to his two annas or some other share in the partnership as carried on prior to January 1, 1917, and at whose expense.
+Fact	In <NAME>'s branch of the family again there were further serious questions, as to the validity of the second, agreement of November 16, 1916, as to the extent of his widow <NAME>'s property, and as to the rights and interests in the property of <NAME>, both of his widow and his three sons respectively  10.
+RatioOfTheDecision	The most striking feature of this second and third sets of disputes in relation to the question now before the <ORG> is the interest in them of <NAME> who, as has been pointed out, was not a party to the suit at all.
+RatioOfTheDecision	Nor can it fairly be gathered from its terms, as their lordships think, that any of these questions are either raised or foreshadowed in the appellant's plaint.
+RatioOfTheDecision	It may well be that some of them would have been mooted in one or other of the written stateme nts of the defendants when put in, But this must still remain in the region of conjecture.
+RatioOfTheDecision	It suffices to say that none of them have so far become matters in question in the suit.
+Argument	11.
+Argument	After the plaint was filed the adult members of the family appear to have come to the conclusion that all The questions in difference amongst them should be referred to arbitration, and on May 11, 1922, <NAME>, <NAME>, <NAME>, <NAME>, <NAME> together with <NAME>, by <NAME> on his behalf, executed a document addressed to <NAME>, <NAME>, <NAME>, <NAME> and <NAME>, appointing them arbitrators "for the settlement of all matters in dispute amongst ourselves " agreeing to accept whatever the arbitrators might decide with reference to the said disputes and "in respect of the proceedings taken in Court with regard to this matter before this day " agreeing that the proper parties would make in accordance with th e directions of the arbitrators such applications as the arbitrators might think necessary.
+Argument	12.
+Argument	The terms in which this document is couched suggest very cogently to their lordships' minds that it was so far, at all events, the intention of all the parties to it that the proceedings in the suit should become merely ancillary to the arbitration, if indeed they were not thereby to be entirely superseded.
+RatioOfTheDecision	And if the application made to the <ORG> had been that all proceedings in the suit should be stayed and an order in these terms had been made thereon, that doubtless would have been the result.
+RatioOfTheDecision	But the application actually made to the <ORG> was not of that nature.
+RatioOfTheDecision	It took the form of a petition presented in the suit by the appellant purporting to act with the approval of all parties and referring to the agreement of May 11, 1922 as "an agreement to refer all matters in dispute between them:" and it prayed, in effect, that the matters alluded to in the agreement should all be remitted to arbitration in accordanc e with its terms.
+RatioOfTheDecision	13.
+RatioOfTheDecision	But whatever may have then been the desire of the parties, including it may well be even <NAME>, and whatever may have been the belief of the arbitrators as to the terms of the order actually made, the <ORG> had on that application no power to refer to arbitration any questions between the parties to the suit other than those in question in the suit or any questions in which was concerned anyone not a party to the suit.
+RatioOfTheDecision	Nor did.
+RatioOfTheDecision	it exceed its power in this matter for by its order made on May 23, 1922, although not actually drawn up until the following month, what the <ORG> did was to refer all matter in difference in the suit between the parties to the suit to the final decision of the arbitrators named in the agreement of May 11, 1922, in terms of that agreement, with Consequential directions applicable to such a reference, the minor defendant, <NAME>, being given liberty to appear in the proceedings through his attorney.
+RatioOfTheDecision	14.
+RatioOfTheDecision	In their lordships judgment the decision of this appe al really turns upon the effect of that order properly interpreted.
+RatioOfTheDecision	It was an order made in pursuance of paras.
+RatioOfTheDecision	1 and 2 of the second schedule to the Code of Civil Procedure, and in the exercise of power thereby given to the <ORG> to refer to arbitration matters in difference in a suit defined by itself in the order of reference.
+RatioOfTheDecision	It is incumbent upon arbitrators acting under such an order strictly to comply with its terms, The <ORG> does not thereby part with its duty to supervise the proceedings of the arbitrators acting under the order.
+RatioOfTheDecision	An award made otherwise than in accordance with the authority by the order conferred upon them is, their lordships cannot doubt, an award which is "otherwise invalid" and which may accordingly be set aside by the <ORG> under para 15 of the same schedule.
+RatioOfTheDecision	15.
+RatioOfTheDecision	The difficulties in this case have all arisen from the fact that the arbitrators (misled it may well be by the attitude of the parties at the time of their appointment) have not fully appreciated the importance of the f act that some of the questions consensually submitted to them were already the subject matter of a pending suit to which one of the persons appointing them was not even a party.
+RatioOfTheDecision	16.
+RatioOfTheDecision	The arbitrators did not wait for the <ORG>'s formal order on the application of May 23, They proceeded at once with the arbitration, and on May 27, 1922, they published their award.
+RatioOfTheDecision	That award not only dealt with all the disputes above detailed but it is clear on its face that the arbitrators in no way discriminated between those disputes which were at issue in the suit and those which were not.
+RatioOfTheDecision	The order of May 23 is recited as one;-  By which all matters in dispute between the parties were referred to our arbitration provided that the arbitration is to be in terms of the said agreement dated May 11, 1922, and that the attorney for the guardian ad!
+RatioOfTheDecision	littm of the infant defendant be allowed to represent him.
+RatioOfTheDecision	17.
+RatioOfTheDecision	And it is clear to their lordships from the terms of the award itself-and there is extrinsic evidence to the same effec t that in reaching their conclusions the arbitrators took a comprehensive view of the family situation and made an award which doubtless they regarded as just on the whole and as a whole, but which probably they would not, in any of its parts, have themselves made precisely in the same terms, if the dispute thereby dealt with had alone or separately been submitted to them for adjudication.
+RatioOfTheDecision	18.
+RatioOfTheDecision	To illustrate by a striking example what their lordships mean, they would point to the shares to be taken in the new partnership provided for by the award.
+RatioOfTheDecision	These precise shares have apparently no counterpart in the shares taken in the dissolved partnership according to either of the agreements with reference thereto which the arbitrators themselves find to be binding on the parties.
+RatioOfTheDecision	19.
+RatioOfTheDecision	The award, an elaborate document, has been carefully analysed by the learned Judges in the Courts in India.
+RatioOfTheDecision	It is not necessary that their lordships should again go through it in detail.
+RulingByPresentCourt	It finds both of the agreements of November 16,  1916, to be binding: it declares that the appellant and <ORG> were not joint but separate in estate and-a finding which vitally concerns the estate of <NAME>-that they are respectively entitled to a five annas and a two annas' share in .
+RulingByPresentCourt	the partnership business up to December 31, 1916 : that the adoption of <ORG> was valid : while, with special reference to the partnership business, the award declares that the partnership is to be dissolved with effect from June 30, 1922 : it prescribes the shares in which the old partners are to be interested therein, and with reference to that partnership declares that in case any of the partners do not agree to the prescribed conditions he shall inform the firm in writing, whereupon his capital will be returned to him and his connection with the firm shall cease and his share be taken up equally by the remaining partners.
+RulingByPresentCourt	This last is the only provision in the award for the satisfaction of the claims against the property and assets of the dissolved partnership  of any partner who does not choose to come into the new partnership.
+RulingByPresentCourt	The award contains elaborate further provisions for the adjustment of the other disputes above referred to.
+RatioOfTheDecision	20.
+RatioOfTheDecision	In their lordships' judgment such an award is in no true sense one made in obedience to the order of May 23, 1922.
+RatioOfTheDecision	While it would not be easy to segregate the findings with reference to the matters in question in the suit from those not so in question-the findings in which <NAME> was interested from those in which she was not-it is, their lordships think, impossible to uphold an award in relation to a suit the conclusions of which were plainly coloured, if not dictated, by the view taken by the arbitrators of other questions between the parties or some of them to which the suit had no reference.
+Precedent	21.
+Precedent	Taking even a narrower view of the matter the award so far as it purported to constitute a new partnership, giving to a party who refused to come into it only rights which were far below those to which as a member of a dissolved p artnership he was entitled was not in their lordships' judgment an award in any way contemplated or authorised by the order of reference.
+Precedent	22.
+Fact	To the award when published <NAME>, as guardian ad litem of <NAME>, took strong exception, and on July 5, 1922, gave notice to the other parties to the suit of an application by her for an order that the award should be set aside or modified or corrected by expunging therefrom all passages relating to matters that were not in question in the suit.
+RulingByLowerCourt	On that application Mr. Justice <NAME> by order dated July 24, 1922, set aside the award in so far as it purported to deal with matters referred to in the suit.
+RulingByLowerCourt	His order, as above stated, was affirmed by the appellate Court by an order dated July 19,1923.
+Precedent	Mr. Justice <NAME> based his decision primarily upon the view that the provisions of the award relating to the new partnership were quite unauthorised and invalid, The appellate Court based their decision upon the ground that it was really impossible according  to the statute law of India that one and the same arbitration should be held, as <NAME> expresses it:-  As to matters within the jurisdiction of the <ORG> and matters without the jurisdiction the <ORG>; between the parties to the suit and between them and other persona; under the code provided by the Indian Arbitration Act and under the cade provided by the Second Schedule under the superintendence and control of the Judge who has seizin of the suit and of the Judge disposing of business under the Indian Arbitration Act ; partly upon an order of reference and partly under an agreementi.
+Precedent	23.
+Precedent	Their lordships desire to reserve their opinion upon the question whether there may not be exceptions to that comprehensive statement.
+Precedent	24.
+Precedent	They are satisfied, however, for the reasons they have given, that the order actually made by one <ORG> and affirmed by the other was, in this case, the proper order to be made.
+Precedent	25.
+RulingByPresentCourt	They will accordingly humbly advise his Majesty that this appeal therefrom should be dismissed and  with costs.

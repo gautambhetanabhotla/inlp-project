@@ -1,0 +1,784 @@
+Fact	JUDGMENT <NAME>, J.
+RulingByLowerCourt	1.
+Fact	The question which arises in these writ petitions is whether while dealing with a written request made by a secured creditor under Section 14 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act (for short, "the NPA Act "), the Chief Judicial Magistrate or the District Magistrate as the case may be is required to give notice to the borrower or any person who may be in possession of secured asset and give him a hearing.
+RulingByLowerCourt	2.
+RulingByLowerCourt	For the sake of convenience we propose to deal with Criminal Writ Petition No.
+RulingByLowerCourt	2767 of 2006.
+RulingByLowerCourt	Our judgment in this petition on the main issue will be applicable to all petitions.
+Argument	We have heard the learned Counsel appearing for the petitioners in Criminal Writ Petition Nos.
+Argument	2767 of 2006, 27 of 2007 and 124 of 2007.
+Argument	We have also heard Mr. <NAME>, the learned Counsel appearing for the petitioners in Criminal Writ Petition No.
+Fact	343 of 2007.
+Fact	Senior counsel Mr. <NAME> and Mr. <NAME> and the learned Counsel Mr.  <NAME> have also made submissions.
+RulingByLowerCourt	We have heard them on their request, though the petitions in which they are appearing have been disposed of by separate orders.
+RulingByLowerCourt	3.
+RulingByLowerCourt	We have also heard Mr. <NAME>, the learned Public Prosecutor who appears for the respondent-State.
+RulingByLowerCourt	Mr. <NAME>, Ms. <NAME> and Mr. <NAME>, who appear for the respondent-banks or financial institutions in these writ petitions have also made submissions.
+RulingByLowerCourt	We have also heard Mr. <NAME>.
+RulingByLowerCourt	4.
+Fact	We may briefly refer to the facts averred in Criminal Writ Petition No.
+RulingByLowerCourt	2767 of 2006.
+Argument	Petitioner 1 is a proprietary concern of petitioner 2.
+Argument	Petitioner 3 is a guarantor for the debt of petitioners 1 and 2.
+Argument	5.
+Argument	According to the petitioners, they were banking with respondent 1, <ORG>.
+Argument	Respondent 1 vide their sanction letter dated 24/1/2002 sanctioned open cash credit facility (stock and book debts) to the petitioners.
+Precedent	Thereafter, the said facility was increased to Rs.
+Fact	50 lakhs on the terms and conditions set out in the sanction letter  dated 27/8/2002.
+Fact	The petitioners mortgaged Flat No.
+Argument	1, Ground floor, <ORG>-op.
+Argument	<ORG>, Plot No.
+Argument	95, Sion (West), Mumbai - 400 022, (for convenience, "the said flat").
+Argument	The said flat is thus the secured asset of respondent 1.
+Argument	6.
+Argument	According to the petitioners, respondent 1 filed Original Application No.
+Argument	127 of 2005 before <ORG> (for short, "the <ORG>") against the petitioners.
+Argument	On 10/11/2006, the <ORG> passed a decree against the petitioners.
+Argument	7.
+Argument	It appears that since the petitioners failed to repay the debt, respondent 1 issued a notice dated 27/8/2003 under Section 13(2) of the NPA Act and called upon the petitioners to pay sum of Rs.
+Fact	62,47,919/-within sixty days from the date of the notice.
+Fact	8.
+Fact	According to the petitioners, vide their letter dated 24/11/2005, they sent a reply to the said notice.
+Fact	It is the case of the petitioners that respondent 1 did not communicate to them the reasons for not accepting the said reply.
+Fact	According to the petitioners, therefore, in the light  of the judgment of this Court to which we shall soon advert, the notice dated 27/8/2003 must be quashed.
+Fact	9.
+Fact	The case of the petitioners further is that respondent 1 filed an application in the Court of the Chief Metropolitan Magistrate, Esplanade, Mumbai, under Section 14 of the NPA Act, praying for assistance to take possession of the said flat.
+Fact	By order dated 27/9/2006, the learned Chief Metropolitan Magistrate allowed the said application.
+Fact	The petitioners have challenged the said order in this writ petition.
+Fact	10.
+Fact	Before we deal with the attack on the impugned order, we must note that affidavit has been filed by petitioner 2 reiterating that the notice sent by respondent 1 under Section 13(2) of the NPA Act has been duly replied by the petitioners on 24/11/2005.
+Fact	However, respondent 1 has failed to comply with Section 13(3A) of the NPA Act i.e.
+Fact	the reasons for not accepting the petitioners' reply have not been communicated to the petitioners.
+Fact	Affidavit in reply has been filed on behalf of respondent 1 by Mr .
+Precedent	<NAME>, Asstt.
+Argument	Manager, Dadar (West) Branch.
+Argument	It is asserted in this affidavit that respondent 1 has not received any letter from the petitioners and, in any event, the said letter is sent after expiry of 60 days from the date of receipt of the notice under Section 13(2) .
+Argument	11.
+Argument	Mr. <NAME>, the learned Counsel for the petitioners first took us to Section 14 of the NPA Act.
+Argument	Mr. <NAME> submitted that this section which speaks of the power of the Chief Metropolitan Magistrate / District Magistrate (for convenience, "the CMM/DM") to assist the secured creditor in taking possession of secured asset begins with the words "where the possession of secured assets is required to be taken by the secured creditor...".
+Argument	Mr. <NAME> contended that it is implicit in this sentence that the CMM/DM has to apply his mind as to whether possession is required to be taken or not.
+Argument	12.
+Argument	He then took us to Rule 8(3) of the Security Interest (Enforcement) Rules, 2002 (for short, "the said Rules") and contended that this Rule speaks about  what the authorised officer is supposed to do if possession of immoveable property is actually taken.
+Argument	He submitted that therefore this provision contemplates a situation where the CMM/DM need not order taking possession.
+Argument	There could be cases where after due application of mind, it may appear to the CMM/DM that it is not necessary to take possession.
+Argument	13.
+Argument	Mr. <NAME> submitted that while exercising jurisdiction under Section 14 , the CMM/DM must see whether there is compliance of Section 13(3A) .
+Argument	In fact, argues Mr. <NAME>, compliance of Section 13 with all its sub-clauses is mandatory before power under Section 14 can be invoked.
+Argument	Mr. <NAME> contended that Section 13(3A) requires that if on receipt of the notice under Sub-section (2), the borrower makes any representation or raises any objection, the secured creditor shall consider such representation or objection and if the secured creditor comes to the conclusion that such representation or objection is not acceptable or tenable, he shall communicate within one wee k of receipt of such representation or objection, the reasons for nonacceptance of the representation or objection to the borrower.
+Argument	14.
+Argument	In this connection, Mr. <NAME> took us to the judgment of <ORG> in <CITATION_1059476> .
+Argument	He pointed out that <ORG> has observed that the secured creditor must bear in mind the say of the borrower before process of recovery is initiated and so as to demonstrate that the reply of the borrower to the notice under Section 13(2) of the NPA Act has been considered applying mind to it, the reasons however brief that may be for not accepting the objections if raised in the reply must be communicated to the borrower.
+Argument	Mr. <NAME> pointed out that <ORG> has also expressed that while resorting to such legislation it would be necessary to see that the persons aggrieved get a fair deal at the hands of those who have been vested with the powers to enforce drastic steps to make recovery.
+Argument	Mr. <NAME> submitted that therefore it is obligatory for the CMM/DM to find  out whether the reply of the borrower has been considered by the secured creditor.
+Precedent	15.
+Precedent	To emphasise this point, Mr. <NAME> took us to the judgment of the Nagpur Bench of this Court in <CITATION_483603> .
+Precedent	(2005) 1 BCR 276.
+Argument	In that case, it was argued that though the petitioner therein had filed objection to the notice under Section 13(2) of the NPA Act, that objection was not considered by the secured creditor.
+Argument	No reasoned reply was given to the secured creditor.
+Argument	Mr. <NAME> pointed out that relying on the judgment of <ORG> inMardia Chemicals'scase (supra), the action under Sub-section (4) of Section 13 was quashed and the secured creditor was directed to consider the objections afresh and if the objections are rejected, communicate the rejection to the petitioner therein.
+Argument	Mr. <NAME> contended that therefore the importance of the reply or objections can hardly be underestimated.
+Argument	That is a minimum safeguard afforded to the debtor under this stringent statute.
+Argument	It's importance is emphasised by <ORG> ourt in <ORG>supra).
+Argument	Therefore, the CMM/DM must find out whether objection of the debtor is considered or not.
+Argument	16.
+Argument	Mr. <NAME> then contended that Section 14(3) states that no act of the CMM/DM in pursuance of this section shall be called in question in any court or before any authority.
+Argument	Therefore, it is all the more necessary for the CMM/DM before exercising power under Section 14 to apply his mind as to whether possession is required to be taken.
+Argument	He must find out whether the property is in fact mortgaged or not, if there is a tenant whether tenancy is lawful or not.
+Argument	His attention must be focussed on such and other related aspects.
+Argument	Such a drastic power cannot be exercised without application of mind.
+Argument	The borrower or the person in possession must be heard.
+Argument	Mr. <NAME> contended that Section 14 is not in aid of Section 13(4) .
+Argument	It is a separate provision.
+Argument	Remedy of appeal is provided in Section 17 against measures in Section 13(4) .
+Argument	It is not an appeal against power exercised under Section 14 .
+Argument	1 7.
+Argument	Mr. <NAME> contended that it is true that the NPA Act is enacted keeping in view mounting levels of non-performing assets of banks and financial institutions and for reducing non-performing assets by adopting measures for recovery and reconstruction.
+Argument	Mr. <NAME> contended that nature of mischief sought to be prevented can never be the reason for putting a harsh interpretation on the provisions of the NPA Act .
+Argument	He submitted that because Section 14 does not expressly provide for hearing, it cannot be said that the borrower or person in possession is not to be given hearing while taking possession.
+Argument	18.
+Argument	He submitted that while acting under Section 14 , <ORG> is exercising judicial powers.
+RatioOfTheDecision	At any rate, he is exercising quasi-judicial powers.
+RatioOfTheDecision	Therefore, notice has to be read in Section 14 .
+RatioOfTheDecision	Principles of natural justice cannot be ignored.
+Argument	He submitted that even while exercising administrative powers, principles of natural justice have to be followed.
+Precedent	More so, while exercising judicial or quasi judicial power.
+Precedent	I n this connection, he relied on the judgments of <ORG> in <CITATION_975140> and <CITATION_1542849> 11 (2001) CCR8 SC, <NAME> and <NAME>.
+Precedent	v. D.C.I.T.
+Precedent	and <CITATION_1766147> .
+Precedent	and the judgment of this <ORG> in <CITATION_280184> 1994 (2) BCR 518.
+Precedent	19.
+Argument	Mr. <NAME> contended that proceedings contemplated under Section 14 are original proceedings.
+Argument	Hence, hearing provided under Section 17 , assuming objections can be raised to order passed under Section 14 therein, is not sufficient.
+Argument	Hearing must be given while ordering possession being taken under Section 14 .
+Argument	Mr. <NAME> contended that assuming that the remedy of appeal is available to the petitioner, it is not sufficient.
+Argument	Mr. <NAME> further submitted that even if it is said that Section 14 is in the nature of execution proceedings even in execution proceedings hearing is contemplated.
+Argument	20.
+Argument	Mr. <NAME> then contended that by resorting to the NPA Act what is not permissible in law cannot be done.
+RulingByLowerCourt	The NPA Act does not override the Transfer of Property Act .
+RulingByLowerCourt	In t his connection, Mr. <NAME> took us to the judgment of the Full Bench of this Court in <CITATION_457025> .
+RulingByLowerCourt	.
+Argument	Mr. <NAME> contended that in most of the cases the borrower creates a simple mortgage.
+Argument	A simple mortgage consists of a personal obligation express or implied, to pay and the transfer of a right to cause the property to be sold.
+RatioOfTheDecision	The right transferred to the mortgagee is not ownership right.
+Fact	The ownership and possession of the property continues with the mortgagor.
+Argument	Mr. <NAME> submitted that therefore, in case of simple mortgage, the mortgagor can even transfer possession.
+Argument	All that the mortgagee is entitled to is an obligation to pay.
+Argument	He can cause the property to be sold and recover his money.
+Argument	But he cannot take possession because the ownership rights are not transferred.
+Argument	Mr. <NAME> submitted that if in case of simple mortgage, this is allowed to be done, it will mean changing or improving the contract.
+Precedent	It will be against the provisions of the Transfer of Property Act .
+Precedent	21.
+Argument	Mr. <NAME> also relied on the judgment of  <ORG> in <CITATION_870157> .
+Argument	.
+Argument	Referring to Rule 95 and 96 of Order XXI of the Code of Civil Procedure, (for short, "the C.P.C.
+Argument	"), he submitted that if tenants are in occupation of the mortgaged property, auction purchaser is not entitled to recover physical possession from the tenants.
+Argument	The auction purchaser is entitled to symbolic possession in terms of the provisions contained in Order XXI Rule 96 of the C.P.C.
+RatioOfTheDecision	The question of validity or otherwise of the tenancy may have to be considered and determined in appropriate proceedings.
+RatioOfTheDecision	It is clear therefore that if the tenants are in occupation of the property, without hearing them, <ORG> cannot order their dispossession.
+RatioOfTheDecision	That will be contrary to law.
+RatioOfTheDecision	22.
+Argument	Mr. <NAME> submitted that <ORG> while acting under Section 14 is exercising a judicial power.
+RatioOfTheDecision	If it is held to be not a judicial power, it is at least a quasi judicial power and, therefore, application of mind to the material questions such as as to whether the asset is secured or not, whe ther there is a simple mortgage or not, whether the tenant is lawful or not, etc.
+RatioOfTheDecision	is a must and for that, consistent with the principles of natural justice, a notice to the person in occupation is a must.
+RatioOfTheDecision	23.
+RatioOfTheDecision	Mr. <NAME> also placed reliance on the judgment of <ORG> in <CITATION_81387536> .
+RatioOfTheDecision	.
+RatioOfTheDecision	In that case, <ORG> was considering the nature of power exercised by the Chief Justices of <ORG> or the Chief Justice of India under Section 11(6) of the Arbitration and Conciliation Act , 1996 (for short, "the Arbitration Act ").
+RatioOfTheDecision	Mr. <NAME> pointed out that <ORG> has observed in this judgment that normally any tribunal or authority conferred with a power to act under a statute, has the jurisdiction to satisfy itself that the conditions for the exercise of that power existed and that the case calls for the exercise of that power.
+RatioOfTheDecision	<ORG> observed that such an adjudication relating to its own jurisdiction, which could be called as decision on jurisdictional facts, is not  generally final, unless it is made so by the Act constituting the tribunal.
+RatioOfTheDecision	<ORG> observed that Sub-section (7) of Section 11 has given a finality to the decisions taken by the Chief Justice or any person or institution designated by him in respect of matters falling under Sub-sections (4), (5) and (6) of Section 11 of the Arbitration Act.
+RatioOfTheDecision	<ORG> observed that once a statute creates an authority, confers on it power to adjudicate and makes its decision final on matters to be decided by it, normally, such a decision cannot be said to be a purely administrative decision.
+RatioOfTheDecision	It is really a decision on its own jurisdiction for the exercise of the power conferred by the statute or to perform the duties imposed by the statute.
+Argument	<ORG> further observed that unless the authority satisfies itself that the conditions for exercise of its power exist, it could not accede to a request made to it for the exercise of the conferred power.
+Argument	<ORG> then observed that while exercising th e power or performing the duty under Section 11(6) of the Arbitration Act, the Chief Justice has to consider as to whether the conditions laid down by the section for the exercise of that power or for the performance of that duty exist and, therefore, while functioning under Section 11(6) of the Arbitration Act, the Chief Justice or the person or institution designated by him, is bound to decide whether he has jurisdiction, whether there is an arbitration agreement, whether the applicant before him is a party, whether the conditions for exercise of the power have been fulfilled, and if an arbitrator is to be appointed, who is the fit person, in terms of the provision.
+Argument	<ORG> noted that Section 11(7) of the Arbitration Act makes his decision on the matters entrusted to him, final.
+Argument	Mr. <NAME> contended that in this case also the CMM/DM has to decide whether the preliminary facts enabling him to exercise jurisdiction under Section 14 of the NPA Act exist.
+Argument	This is more so, because Sub-section (3) of Sect ion 14 of the NPA Act makes the order of the <ORG> final.
+Argument	He submitted that the present case is clearly covered by the judgment of <ORG> in <ORG> case (supra).
+Argument	Mr. <NAME> submitted that in the circumstances, this Court should hold that the <ORG> acting under Section 14 of the NPA Act must give notice to the borrower or a third person who is in possession, as the case may be.
+Argument	24.
+Argument	Learned Counsel Mr. <NAME> has adopted all arguments of Mr. <NAME>.
+Argument	He submitted that the <ORG> acting under Section 14 cannot do something which a secured creditor cannot do.
+Argument	Under the NPA Act , a secured creditor is not given power to dispossess anybody.
+Argument	Possession can never be taken by dispossessing anybody.
+Argument	He referred to Order XXI, Rules 95 and 96 of the <ORG> and contended that sale of the immoveable property in occupation of the judgment debtor takes place before taking possession.
+Argument	Thereafter auction purchaser applies to the court for taking possession.
+Argument	If there is a tenant, the auction purchaser takes symboli c possession.
+Argument	Then he may have to file a suit for possession.
+Argument	Mr. <NAME> submitted that on similar analogy, borrower or third party cannot be dispossessed physically by a secured creditor via Section 14 even before the lawfulness or otherwise of their possession is considered.
+Argument	25.
+Argument	Mr. <NAME> also referred to Section 13(4)(d) which states that the secured creditor may require by notice in writing, from any person who has acquired any of the secured assets from the borrower and from whom any money may become due to the borrower, to pay him as much of the money as is sufficient to pay the secured debt.
+Argument	This according to Mr. <NAME> is reflection of the principle that the secured creditor has a right only in sale proceeds.
+Precedent	It is saleable interest which is mortgaged.
+Precedent	26.
+Precedent	Mr. <NAME> took us to Rules 8(3)(6) and (6-a), Rules 9(7), (8), (9) and (10) of the said Rules.
+Argument	He submitted that these Rules lay down the procedure for sale of secured asset.
+Argument	He submitted that Rule 8(3) begins with the words "in the event of possess ion of immoveable property is actually taken by the authorised officer".
+Argument	He submitted that the words physical possession are absent in the NPA Act or the said <ORG> and Rule 8(3) contemplates a situation where possession of immoveable property may not be taken.
+Argument	He pointed out that under Rule 8(6)(a), the notice which the authorised officer has to serve on the borrower must include the description of the immoveable property to be sold, including the details of the encumbrances known to the secured creditor.
+RatioOfTheDecision	Rule 9(7) speaks of a case where the immoveable property is sold subject to any encumbrances.
+RatioOfTheDecision	In such cases, the authorised officer may if he thinks fit allow the purchaser to deposit with him the money required to discharge the encumbrances.
+RatioOfTheDecision	Under Sub-Rule 8 on such deposit for discharge of encumbrances, the authorised officer may issue notice to the person entitled to the money deposited and take steps to make the payment accordingly and under Sub-Rule 9, the authorised officer shall deliver the property  to the purchaser free from encumbrances.
+RatioOfTheDecision	Therefore, the person in occupation of secured asset as a tenant who has caused the encumbrance cannot be physically ousted.
+Argument	He submitted that the legislature has used the word "shall" in Rule 8(1).
+Argument	Therefore, that is the mandatory procedure.
+Argument	No other procedure can be followed for sale of immoveable secured asset.
+Argument	Mr. <NAME> contended that if there is obstruction the secured creditor can approach the CMM/DM and the CMM/DM can only order that constructive possession of the property be taken.
+Argument	27.
+Argument	Mr. <NAME> contended that the secured creditor is bound by the contract and the NPA Act does not override the Transfer of Property Act .
+Argument	He referred to paragraph 71 of the judgment of <ORG> in <ORG> case (supra) where <ORG> has held that the borrowers cannot be left remedy-less in case they have been wronged against or subjected to unfair treatment violating the terms and conditions of the contract.
+Argument	They can always plead in defence deficiencies  on the part of the banks and financial institutions.
+Argument	Mr. <NAME> contended that therefore, while exercising power under Section 14 , the CMM/DM must give hearing to the person in occupation of the property.
+Argument	He must, inter alia, find out whether there is a valid and subsisting mortgage which is not simple or equitable mortgage, whether the secured creditor requires the possession or not, etc.
+Argument	Mr. <NAME> submitted that remedy of appeal under Section 17 is only for curing an infringement of the person's right on account of the CMM/DM's order.
+Argument	It is not for prevention of infringement of the right.
+Argument	Remedy under Section 17 is not an adequate remedy.
+Argument	Mr. <NAME> submitted that in the circumstances, this Court should direct the CMM/DM to give hearing to the persons who will be affected by his order and dispossessed.
+Precedent	That will be in tune with the principles of natural justice.
+Precedent	28.
+Argument	Mr. <NAME>, the learned senior counsel pointed out that under Section 14(3) of the NPA Act, no act of the CMM/DM done in pursuance of Secti on 14 can be called in question in any court or before any authority.
+Argument	Under Section 14(2) , the word "may" is used twice.
+Argument	It is stated that <ORG> may take such steps or use such force as may in his opinion be necessary.
+Argument	Therefore, <ORG> has to apply his mind as to whether the possession is required to be taken and to all related questions.
+Argument	Mr. <NAME> pointed out that under Section 17(3) of the NPA Act, the <ORG> has to only consider whether the possession is required to be delivered or restored to the borrower.
+Argument	It does not speak about restoration of possession to a third party and therefore Section 17 does not provide an alternative or efficacious remedy for a third party.
+Argument	29.
+Argument	Mr. <NAME> submitted that that remedy under Section 17 is not available to persons other than borrowers is clear from Section 19 .
+Argument	Section 19 states that if <ORG> on application made under Section 17 or <ORG> on an appeal preferred under Section 18 holds that the possession of secured assets by the secured  creditor is not in accordance with the provisions of the NPA Act , it can direct the secured creditor to return such secured assets to the concerned borrower and the concerned borrower shall be entitled to payment of compensation.
+Argument	Therefore, there is no relief provided to a third party.
+Argument	30.
+Argument	Mr. <NAME> contended that in <ORG>'s case (supra), <ORG> has in paragraph 54 clearly stated that Section 13(4) of the NPA Act proceeds on the basis that the borrower, who is under disability, has failed to discharge his liability within the period prescribed under Section 13(2) , which enables the secured creditor to take recourse to one or more of the measures namely, taking possession of the secured assets including the right to transfer by way of lease, assignment or sale for realising the secured assets.
+Argument	The NPA Act thus contemplates action against the borrower.
+Argument	In <ORG>'s case (supra), <ORG> has discussed the provisions of the NPA Act in the context of the borrower.
+Argument	The NPA Act does  not deal with third parties.
+Argument	Possession of third parties cannot be taken by adopting measures under Section 13(4) .
+Argument	Third party is not given notice under Section 13(2) .
+Argument	Taking possession from a third party in such a manner is not contemplated in the NPA Act nor has <ORG> said so in <ORG>'s case (supra).
+Argument	Mr. <NAME> contended that there is no privity of contract between a third party and the secured creditor.
+RatioOfTheDecision	In such a situation, the third party cannot be dispossessed in this manner and in such cases writ petition is the remedy available to the third party.
+RatioOfTheDecision	31.
+Argument	Mr. <NAME> submitted that under Section 17 , any person including a borrower aggrieved by any of the measures referred to in Sub-section (4) of Section 13 taken by the secured creditor may make an application to the DRT.
+Argument	Assuming such a right of appeal is available, it is against the measures referred to in Sub-section 4 of Section 13.
+Argument	He submitted that objection can be raised only as regards the procedure adopted.
+Precedent	Under Section 17 (3) , third party rights cannot be decided.
+Precedent	Order of restoration of possession to third party cannot be passed.
+Precedent	Mr. <NAME> submitted that the appeal provided in Section 17(3) is an illusory appeal.
+Precedent	In this connection he relied on the judgment of this Court in <CITATION_1740102> .
+Precedent	2006(5) All MR 676.
+Precedent	He also relied on Full Bench judgment of <ORG> in <CITATION_1331931> .
+Precedent	.
+Precedent	32.
+Argument	Mr. <NAME> submitted that if third parties are not given a hearing, great injustice may be caused.
+Argument	He submitted that if a third party has a prior registered agreement of sale in his favour and pursuant to that, he is in possession of the flat, in law, no subsequent documents can affect his rights to the said flat.
+Argument	Prior registered documents of title would override subsequent documents.
+Argument	Mr. <NAME> submitted that Section 48 of the Transfer of Property Act and Section 47 of the Registration Act come to the aid of such a person.
+Argument	Mr. <NAME> submitted that in such cases, writ petition is the only available and efficacious  remedy and this Court should not hesitate to give relief to such a person.
+Argument	33.
+Argument	Mr. <NAME>, the learned Counsel appearing for the petitioners in Criminal Writ Petition No.
+Argument	343 of 2007 adopted the arguments of Mr. <NAME>.
+Argument	He reiterated that though Section 14 of the NPA Act does not provide for a notice to borrower or third parties, notice to them must be read into that section to secure ends of justice.
+Argument	He relied on the judgment of <ORG> in <CITATION_157880> .
+Argument	In that case, <ORG> was, inter alia, considering whether while fixing the quantum of compensation, the accused should be heard.
+Argument	It was argued before <ORG> that Section 357 of the Criminal Procedure Code (for short, "the Code") nowhere postulates grant of an opportunity to be heard.
+Argument	<ORG> observed that even if a statute is silent and there are no positive words in the Act or the Rules made thereunder, there could be nothing wrong in spelling out the need to hear the parties, whose rights and interests are likely  to be affected by the orders that may be passed, and making it a requirement to follow a fair procedure before taking a decision, unless the statutes provides otherwise.
+Argument	Mr. <NAME> then relied on the judgment of <ORG> in <CITATION_1367686> .
+Argument	where while considering the doctrine of natural justice, <ORG> observed that it is a fundamental principle of fair hearing incorporated in the doctrine of natural justice and as a rule of universal obligation that all administrative acts or decisions affecting rights of individuals must comply with the principles of natural justice and the person or persons sought to be affected adversely must be afforded not only an opportunity of hearing but a fair opportunity of hearing.
+Argument	Mr. <NAME> contended that this observation would apply with equal or more force to the judicial powers exercised by <ORG> under Section 14 of the NPA Act.
+Argument	He, therefore, submitted that this Court should hold that a CMM/DM exercising powers under Section 14 of the NPA Act should  give notice of hearing to the borrowers or third parties, as the case may be.
+Argument	34.
+Argument	Mr. <NAME>, the learned Public Prosecutor, who represents the <ORG>, submitted that Section 14 of the NPA Act is in aid of Section 13(4) .
+Argument	Power under Section 14 is purely a ministerial power.
+Precedent	It is neither a judicial nor a quasi judicial power.
+Precedent	Discretion which vests in the CMM/DM is only with regard to use of force or strength of force and not as regards adjudication of title.
+Precedent	Since, Section 14 does not contemplate adjudication, principles of natural justice need not be read into it.
+Precedent	In this connection, he relied on <CITATION_1516805> .
+Precedent	where termination of the membership of members from the council was challenged on the ground that they were not given notice and they were not heard and, therefore, there was a violation of principles of natural justice.
+Precedent	<ORG> reaffirmed its earlier view that if the statute, expressly or by necessary implication, omits the application of the rules of natural justice, the statute  will not be invalidated for this omission on the ground of arbitrariness.
+Precedent	Mr. <NAME> also relied on the judgment of <ORG> in <CITATION_309285> .
+Precedent	(.
+Argument	There <ORG> was considering dismissal of an employee of <ORG> without notice or inquiry.
+Argument	Mr. <NAME> pointed out that <ORG> has held in this case that the principles of natural justice are not rigid or immutable and, hence, they cannot be imprisoned in a strait jacket.
+Argument	Mr. <NAME> relying on this judgment contended that the object and the scheme of the NPA Act will have to be taken into consideration while deciding whether principles of natural justice are impliedly excluded.
+Argument	In this case, the exclusion is in consonance with the object of the NPA Act , submitted Mr. <NAME>.
+Argument	35.
+Argument	Mr. <NAME> then contended that considering the proximity of the high officers mentioned in Section 14 to authorities which provide force, the legislature has asked them to exercise this ministerial power.
+Argument	Mr. <NAME>, submit ted that Section 14(3) grants immunity to the actions of the CMM/DM.
+Argument	His action of making available police force to take possession cannot be questioned in court.
+Argument	This provision, according to Mr. <NAME> is akin to such provisions found in the Bombay Police Act, the Customs Act and such other statutes.
+Argument	It does not give finality to the actions but grants only immunity.
+Argument	36.
+Argument	Mr. <NAME> submitted that in order to constitute a court in the strict sense of the term, it should have trappings of a judicial tribunal.
+Precedent	It should have power to give a definite judgment which has finality.
+Precedent	In this case, this attribute is absent and, therefore, it cannot be said that the CMM/DM is exercising judicial power.
+Precedent	In this connection, Mr. <NAME> relied on <CITATION_181623893> .
+Precedent	37.
+Argument	For the purposes of distinction between a `judicial' and `ministerial act' Mr. <NAME> relied on <CITATION_1224953> .
+Argument	.
+Argument	In that case, <ORG> has held that receiving an election petition presented under Section 81 of the Representation  of People Act on behalf of or for <ORG> is a ministerial function.
+Argument	<ORG> held that a ministerial act is one which a person performs in a prescribed manner, in obedience to the mandate of a legal authority without regard to, or the exercise of, his own judgment upon the propriety of the act done.
+Argument	Mr. <NAME> contended that this observation is attracted to the present case.
+Argument	While acting under Section 14 , the CMM/DM has no discretion, he merely does a duty.
+Argument	38.
+Argument	Mr. <NAME> also referred to the judgment of <ORG> in <ORG> (supra) for highlighting the object of the NPA Act .
+Argument	Mr. <NAME> submitted that the legislature has on purpose excluded hearing to the borrower or third parties and this <ORG> should interpret Section 14 in a manner which will further the object of the NPA Act rather than frustrate it.
+Argument	39.
+Argument	Mr. <NAME>, however, accepted that in a given case of gross injustice, this <ORG> can entertain a writ petition and give relief to the affected  party.
+Argument	But according to him, such a case would be an exceptional case.
+Argument	Every case cannot be entertained by this Court.
+Argument	As regards the scope of writ jurisdiction, Mr. <NAME> relied on the judgment of <ORG> in <CITATION_1152518> .
+Argument	.
+Argument	40.
+Argument	Mr. <NAME> further submitted that the judgment in <ORG> (supra) has no application to the facts of the present case.
+Argument	He submitted that the purpose and object of the NPA Act and the Arbitration Act are distinct and different.
+Argument	According to Mr. <NAME>, reliance placed on this judgment is misplaced.
+Argument	41.
+Argument	Mr. <NAME>, the learned Counsel for the respondent-bank in Criminal Writ Petition No.
+Argument	124 of 2007 contended that the NPA Act aims at protecting the secured creditor.
+Argument	The Recovery of Debts Due to Banks and Financial Institutions Act, 1993 (for short, "the DRT Act ") did not provide any protection against languishing of securities of secured creditors.
+Argument	Therefore, under the NPA Act , the moment loan is granted, interest of the bank is created in the asset.
+Argument	Th e asset vests in the bank the moment loan is granted.
+Argument	Interest of the bank becomes absolute once there is a default committed by the borrower.
+Argument	Thereafter, opportunity is sought to be given to the borrower by issuing notice under Section 13(2) to repay the loan.
+Argument	If the borrower does not repay, the secured creditor can take any of the measures set out in Section 13(4) .
+Argument	The learned Counsel contended that there is no adjudication provided in the NPA Act upto Section 17 .
+Argument	Adjudication starts only when appeal under Section 17 is filed.
+Argument	In that, the <ORG> considers whether interest was created, whether it became absolute or not, whether it became non-performing as per guidelines of <ORG>, whether reply was given to the borrower, etc.
+Argument	42.
+Argument	Mr. <NAME> submitted that <ORG>, who deals with these appeals has wide powers under Section 22 of the <ORG> Act and, therefore, all questions can be considered in the appeal.
+Argument	43.
+Argument	Mr. <NAME> further contended that under Section 14(3) , the action taken by <ORG> is neith er revisable nor appealable.
+Argument	This is a sure indication that it is ministerial.
+Argument	44.
+Argument	He submitted that Section 14 pertains only to compliance as regards possession.
+Argument	He pointed out that in Section 17 , the legislature has employed the words "from the date on which such measures had been taken".
+Argument	Therefore, Section 17 presupposes that measures under Section 13(4) have already been taken.
+Argument	An appeal cannot be filed at all if these measures are not taken.
+Argument	Those measures, as Section 13(4) says, are one or more of the measures stipulated in Sub- sections 4(a) to (d).
+Argument	The choice of taking particular measures is with the secured creditor.
+Argument	The learned Counsel submitted that Section 14 is a facilitating section.
+Argument	It is in aid of Section 13 .
+Argument	The bank will follow the property in the hands of the person who is in possession.
+Argument	45.
+Argument	Mr. <NAME> submitted that Sections 31 , 34 and 38 make it clear that while acting under Section 14 , the CMM/DM exercises ministerial power.
+Argument	He submitted that Section 14(3) merely gives immunity to th e CMM/DM.
+Argument	In this connection, he took us to the definition of the term "judicial act" found in Jowitts Dictionary of English Law, Second Edition, Vol.1, where after defining judicial act, it is stated that all persons concerned in the exercise of judicial functions are protected from the consequences of acts for which they would be liable if they arose out of proceedings which were simply administrative or ministerial.
+Argument	46.
+Argument	Mr. <NAME> submitted that under Section 34 , no civil court shall have jurisdiction to entertain any proceedings in respect of any matter which <ORG> or <ORG> is empowered to determine under the NPA Act and no injunction shall be granted by any court in respect of any action taken under the NPA Act and the <ORG> Act .
+Argument	He submitted that therefore assuming that under Section 14 , the CMM/DM exercises judicial power, it must be held that he cannot adjudicate upon issues which the <ORG> or <ORG> is empowered to determine.
+Argument	47.
+Argument	Mr. <NAME> further submitted that Section 35 of  the NPA Act gives overriding effect to its provisions.
+Argument	Therefore, this Act overrides the provisions of the Transfer of Property Act or any other laws.
+Argument	48.
+Argument	Mr. <NAME> pointed out that Section 38 gives power to <ORG> to make Rules.
+Argument	There is no provision enabling <ORG> to make Rules in respect of Section 14 that is because the CMM/DM exercises ministerial power.
+Argument	49.
+Argument	Mr. <NAME> then submitted that in <ORG>supra), <ORG> has upheld the validity of the NPA Act .
+Argument	Section 14 is upheld after examining the NPA Act on the touchstone of Article 14.
+Argument	Principles of natural justice are part and parcel of Article 14.
+Argument	Hence, there can be no question of giving notice under Section 14 .
+Precedent	That aspect cannot be examined now.
+Precedent	50.
+Argument	Mr. <NAME> contended that the provisions of the NPA Act have to be interpreted keeping in mind its background and when there is conflict between law and equity, it is the law which has to prevail.
+Argument	He further submitted that when a provision is una mbiguous like Section 14 , literal construction must prevail.
+Argument	In this connection he relied on <CITATION_603123> .
+Argument	.
+Argument	51.
+Argument	Mr. <NAME> submitted that when alternative and efficacious remedy is provided under Section 17 , the petitioner cannot invoke writ jurisdiction of this <ORG>.
+Argument	In this connection, he relied on <CITATION_113543581> .
+Argument	, where in the context of appeal provided under Section 20 of the <ORG> Act, <ORG> has held that when remedy of appeal was available, <ORG> should not have entertained the petition under Article 227 of the Constitution of India.
+Argument	52.
+Argument	Mr. <NAME> then relied on the judgment of <ORG> in <CITATION_1833094> .
+Argument	to highlight the scope and powers of <ORG>.
+Argument	He submitted that the <ORG>'s powers are plenary.
+Precedent	In this judgment, <ORG> has held that the <ORG> can even go beyond the <ORG> and only fetter that is put on its power is to observe principles of natural justice.
+Precedent	53.
+Precedent	Mr. <NAME> also referred to the judgment of the learned single judge of this <ORG> (Mohite,  J.)
+Precedent	in <CITATION_1094612> .
+Fact	2006(2) BCR (Cri.)
+Fact	2 where the learned single judge has observed that the requirement of natural justice has been expressly provided under Section 13 of the NPA Act and once the rule of natural justice is followed by the procedure under Section 13 of the NPA Act, no further notice is required to be given under Section 14 of the NPA Act.
+Fact	54.
+Argument	Mr. <NAME> also placed heavy reliance on the judgment of <ORG> in Transcore (supra).
+Argument	Mr. <NAME> submitted that the inescapable conclusion which follows in view of the above is that no notice is required to be given either to the borrower or to the third party by <ORG> while acting under Section 14 of the NPA Act.
+Argument	55.
+Argument	Learned Counsel Mr. <NAME> contended that in Section 14 , the legislature has used "may" as well as "shall".
+Argument	It must necessarily have two distinct imports.
+Argument	In this connection, he relied on the judgment of <ORG> in <CITATION_704405> .
+Argument	.
+Argument	In that case, construction of Sub-clause (3) of Section 17(iii)(b ) of the U.P.
+Precedent	Krishi Utpadan Mandi Abhiniyam  was involved.
+Precedent	It reads as under:  (3) if the produce is purchased by the trader from another trader, the trader selling the produce may realise it from the purchaser and shall be liable to pay the market fee to the <ORG>.
+Precedent	56.
+Argument	<ORG> noted that the word used for the seller to realise market fee from his purchaser is "may" while the word used for the seller to pay the market fee to the <ORG> is "shall".
+Argument	<ORG> observed that the employment of the said two monosyllables is of great jurisprudential import in the same clause dealing with two rights regarding the same burden must have two different imports.
+Argument	<ORG> observed that the legislative intendment can easily be discerned from the frame of the subclause that what is conferred on the seller is only an option to collect market fee from his purchaser but the seller has no such option and it is imperative for him to remit the fee to the <ORG>.
+Argument	In other words, <ORG> mittee is entitled to collect market fee from the seller irrespective of whether the seller has realised it from the purchaser or not.
+Argument	Mr. <NAME> contended that applying this principle to Sub-section (i) of Section 14 , while the secured creditor has an option to make a request to <ORG>, <ORG> shall on such request being made to him, take possession of the asset and for securing compliance he may cause force to be used.
+Argument	It is imperative for <ORG> to secure compliance.
+Argument	He has no discretion.
+Argument	57.
+Argument	Mr. <NAME> further contended that the submission that appeal provided under Section 17 is illusory has been dealt with by <ORG> in <ORG>supra).
+Argument	He pointed out that in paragraph 55, contention of the petitioner that appeal under Section 17 is illusory was noted.
+Argument	That submission was rejected by <ORG>.
+Argument	He pointed out that in paragraph 59, <ORG> has held that proceedings under Section 17 are in fact not appellate proceedings.
+Argument	They are initial pr oceedings like filing of a suit.
+Argument	Therefore, all grievances can be voiced in that appeal and all documents can be produced there.
+Argument	58.
+Argument	Mr. <NAME> contended that there is enough indication in Section 13(3A) and Explanation to Section 17 that a third party has no right at the stage of Section 13(3A) that is at the stage of communication of reasons to the borrower to make an application to the <ORG> under Sub-section (1) of Section 17 .
+Argument	While Section 13(3A) gives a right only to the borrower to raise an objection and states that the secured creditor has to consider the objection within one week and communicate the non-acceptance if any to the borrower, the proviso to Sub- section 3(A) says that the communication of reason shall not confer on the borrower, a right to prefer an application to <ORG> under Section 17 at the stage of communication of reasons.
+Argument	Section 17 gives a right of appeal to any person (including borrower).
+Argument	Explanation states that at the stage of communication of reasons, the person including th e borrower shall not be entitled to make an application to DRT under Sub-section 1 of Section 17.
+Argument	Therefore, the legislature has ruled out even third persons' intervention upto Section 17 .
+Argument	Mr. <NAME> submitted that while dealing with a request made by the bank or financial institution under Section 14 , the CMM/DM has only to consider whether secured asset is within his jurisdiction or not and whether notice under Section 13(2) is given or not.
+Argument	Beyond that, he does not have to make any inquiry because he is merely doing a ministerial function.
+Argument	59.
+Argument	Ms. <NAME>, the learned Counsel appearing for the respondent bank in Criminal Writ Petition No.
+Argument	2767 of 2006 adopted the submissions advanced on behalf of the petitioners.
+Argument	She submitted that remedy of appeal under Section 17 is available to the borrower as well as to the third parties.
+Argument	According to her, a full fledged hearing is available under Section 19 of the NPA Act.
+Argument	The learned Counsel urged that when efficacious and alternative remedy is ava ilable, a writ petition should not be entertained.
+Argument	The learned Counsel relied on the judgment of <ORG> in <CITATION_1959866> .
+Precedent	1955 SCC 250.
+Argument	She submitted that it is wrong to say that appeals filed by third parties are not entertained or that third parties do not get any relief under Section 17 of the NPA Act.
+Precedent	The learned Counsel drew our attention to judgments of the DRT where such appeals are entertained and in some cases relief is also given.
+Precedent	60.
+Precedent	Mr. <NAME>, the learned Counsel appearing for respondent 2 in Writ Petition No.
+Precedent	343 of 2007 adopted the arguments of the learned Counsel appearing for the petitioners.
+Precedent	He submitted that the writ jurisdiction of this Court should be used sparingly and should not be exercised in matters arising out of the NPA Act .
+Precedent	He relied on the judgment of <ORG> in <CITATION_682291> .
+Precedent	2006(2) Bankers'Journal 896 and the judgment of <ORG> in <CITATION_274409> .
+Precedent	(2006) 131 Comp.
+Precedent	Cases 495 (All).
+Precedent	61.
+Fact	Mr. <NAME> and Mr.  <ORG>, who appear for respondent 1 in Criminal Writ Petition No.
+Fact	27 of 2007 have submitted written submissions.
+Precedent	We have carefully perused them.
+Precedent	62.
+Precedent	Though in <ORG>'s case (supra), <ORG> was considering whether withdrawal of O.A.
+Precedent	in terms of the first proviso to Section 19(1) of the DRT Act is a condition precedent to taking recourse to the NPA Act , while dealing with this question, <ORG> observed that three points arise for determination.
+Precedent	Out of the those three points, the point which is relevant for the present case is as follows:  Whether recourse to take possession of the secured assets of the borrower in terms of Section 13(4) of the NPA Act comprehends the power to take actual possession of the immoveable property?
+Precedent	63.
+Fact	While dealing with the question raised before it and points formulated by it, <ORG> discussed the reasons for enactment of the NPA Act .
+Fact	It analysed the DRT Act , 1993 and the NPA Act .
+Fact	We shall briefly summarise what <ORG> has said in  this judgment for in our opinion most of the arguments advanced before us are answered by <ORG> in this judgment.
+RatioOfTheDecision	We may reproduce the reasons for enactment of the NPA Act as quoted by <ORG>.
+RatioOfTheDecision	They read as under:   The NPA Act , 2002 is enacted to regulate securitisation and reconstruction of financial assets and enforcement of security interest and for matters connected therewith.
+RatioOfTheDecision	The NPA Act enables the banks and financial institutions to realise long-term assets, manage problems of liquidity, asset liability mis-match and to improve recovery of debts by exercising powers to take possession of securities, sell them and thereby reduce non-performing assets by adopting measures for recovery and reconstruction.
+RatioOfTheDecision	The NPA Act further provides for setting up of asset reconstruction companies which are empowered to take possession of secured assets of the borrower including the right to transfer by way of lease, assignment or sale.
+RatioOfTheDecision	The said Act also empowers the said asset reconstruction com panies to take over the management of the business of the borrower.
+RatioOfTheDecision	64.
+RatioOfTheDecision	Following is the gist of the relevant portion of the <ORG> judgment.
+RatioOfTheDecision	(a) The DRT Act did not provide for assignment of debts to securitisation companies.
+RatioOfTheDecision	The secured assets could not be liquidated in time.
+RatioOfTheDecision	The NPA Act was enacted to reduce mounting non-performing assets by empowering banks to liquidate the assets and secured interest.
+RatioOfTheDecision	(b) The NPA Act deals with crystallized liabilities.
+RatioOfTheDecision	(c) The NPA Act proceeds on the basis that the asset is created in favour of bank which could be assigned to the assets management company which steps into the shoes of the secured creditors.
+Statute	(d) Section 13(2) proceeds on the basis that the borrower is under a liability and his account in the books of account of the bank is classified as sub-standard or doubtful or loss.
+RatioOfTheDecision	The NPA Act comes into force only if these two conditions are satisfied.
+RatioOfTheDecision	(e) Since Section 13(2) deals with liquidation of liability on the basis that the account of the borr ower has become non-performing, there is no scope of any dispute regarding liability.
+RatioOfTheDecision	(f) The NPA Act does not deal with disputes between the secured creditors and the borrowers but it deals with the rights of the secured creditors interse.
+Statute	(g) Section 13(1) and Section 13(2) of the NPA Act proceed on the basis that the security interest in the bank and financial institution needs to be enforced expeditiously without the intervention of the <ORG> and that enforcement could take place by non- adjudicatory process.
+Statute	The NPA Act provides for recovery of possession by non-adjudicatory process.
+Statute	(h) The NPA Act removes all fetters on the right of the secured creditor.
+Statute	(i) Under Section 17(2) , the <ORG> is required to consider whether any of the measures referred to in Section 13(4) are in accordance with the provisions of the NPA Act and the Rules made thereunder.
+Statute	(j) If while examining the application under Section 17 , the <ORG> comes to the conclusion that any of the measures taken under Section 13(4) are not i n accordance with NPA Act , it shall direct the secured creditor to restore the possession to the borrower or restore management to the borrower.
+Statute	(k) If the <ORG> declares that the recourse taken under Section 13(4) is in accordance with the provisions of the NPA Act then notwithstanding anything contained in any other law for the time being in force, the secured creditor shall be entitled to take recourse to anyone or more of the measures as specified under Section 13(4) to recover his secured debt.
+RatioOfTheDecision	(l) Section 17(4) shows that the secured creditor is free to take recourse to any one of the measures under Section 13(4) notwithstanding anything contained in any other law for the time being in force, e.g.
+RatioOfTheDecision	for the sake of argument if in a given case, the measures undertaken by the secured creditor under Section 13(4) come in conflict with the <ORG> land revenue law, then notwithstanding such conflict, the provision of Section 13(4) shall override the local law.
+RatioOfTheDecision	(m) This position stands clarified by Section 35  of the NPA Act which states that the provisions of the NPA Act shall override all other laws which are inconsistent with the NPA Act .
+RatioOfTheDecision	Section 35 gives an overriding effect to the NPA Act over all other laws, if they are in consistent with it.
+RatioOfTheDecision	(n) The dichotomy between symbolic and physical possession does not find place in the NPA Act .
+RatioOfTheDecision	(o) Rule 8 of the said Rules deals with the sale of immoveable secured assets.
+RatioOfTheDecision	Rule 8 deals with the stage anterior to the issuance of sale certificate and delivery of possession under Rule 9.
+RatioOfTheDecision	Rule 9 relates to time of sale, issue of sale certificate and delivery of possession.
+RatioOfTheDecision	Till the time of issuance of sale certificate, the authorised officer is like a court receiver under Order XL, Rule 1 of the <ORG>.
+RatioOfTheDecision	The court receiver can take symbolic possession and in appropriate cases, he can take actual possession even prior to the decree.
+RatioOfTheDecision	The authorised officer's powers are greater as security interest is already created in the bank.
+RatioOfTheDecision	Hence, under Rule 8, he can take steps to pres erve the secured asset till issuance of the sale certificate under Rule 9.
+RatioOfTheDecision	Rule 9(6) states that on confirmation of sale, if the terms of payment are complied with, the authorised officer shall issue a sale certificate in favour of the purchaser.
+RatioOfTheDecision	Rule 9(9) states that the authorised officer shall deliver the property to the buyer free from all encumbrances known to the secured creditor or not known to the secured creditor.
+RatioOfTheDecision	This scheme of the NPA Act therefore does not disclose any dichotomy between symbolic possession and physical possession.
+RatioOfTheDecision	(p) Since scheme of Section 13(4) read with Section 17(3) shows that if the borrower is dispossessed not in accordance with the provisions of the NPA Act , the DRT is entitled to restore status quo ante, it cannot be said that if possession is taken before confirmation of sale, the rights of the borrower to get the dispute adjudicated upon is defeated by the authorised officer taking possession.
+RatioOfTheDecision	(q) The disputes which are sought to be avoided by Rule 8 read with Rule 9  of the said Rules are those where third party interests are created overnight and in very many cases those third parties take up the defence of being a bonafide purchaser for value without notice.
+RatioOfTheDecision	65.
+RatioOfTheDecision	In view of the above authoritative pronouncement of <ORG>, there can be no doubt that the moment loan is granted by a bank interest of the bank is created in the asset.
+RatioOfTheDecision	It vests in the bank.
+RatioOfTheDecision	In case of default, notice under Section 13(2) is required to be given.
+RatioOfTheDecision	If any reply is submitted by the borrower, the bank has to consider it and if it does not accept it, it has to communicate the reasons to the borrower.
+RatioOfTheDecision	The communication of reasons does not give the borrower or any third person any right to appeal under Section 17 at the stage of communication.
+RatioOfTheDecision	The banks or the secured creditors' liability is crystallized.
+RatioOfTheDecision	It is not open to debate.
+RatioOfTheDecision	There is no scope for any dispute regarding liability.
+RatioOfTheDecision	Section 13(1) and 13(2) proceed on the basis that the security interest in the bank and financial institut ion needs to be enforced expeditiously without intervention of the court by non- adjudicatory process.
+RatioOfTheDecision	Till application under Section 17 is made, there is no adjudication of any kind.
+RatioOfTheDecision	66.
+RatioOfTheDecision	If possession is given without resistance, there is no need of approaching the CMM/DM under Section 14 .
+RatioOfTheDecision	If actual possession cannot be taken because there is resistance, it can be taken by delivering a possession notice and by affixing the possession notice on the outer door of the property as stated in Rule 8 of the said Rules.
+RatioOfTheDecision	This is a step towards taking actual possession and is often referred to as symbolic possession.
+RatioOfTheDecision	Even in cases where a notice is affixed on the outer door, the possession vests in the secured creditor because security interest is already created in the secured asset.
+RatioOfTheDecision	The argument that taking physical possession of secured asset is not contemplated under the NPA Act must be rejected in view of the clear observation of <ORG> in <ORG>'s case that the dichotomy between symbolic and phys ical possession does not find place in the NPA Act .
+RatioOfTheDecision	The contention based on Order XXI Rules 95 and 96 of the <ORG> that if tenants are in occupation of the mortgaged property, auction purchaser is not entitled to recover physical possession from the tenants; that auction purchaser is entitled to symbolic possession and that possession can be taken only after sale after applying to the court and therefore taking over such possession is illegal, must also fail in view of the gist of the observations of <ORG> quoted by us in Sub-clauses (n), (o) and (p) of paragraph  67.
+RatioOfTheDecision	When the bank takes any measures under Section 13(4) , on account of failure of the borrower to repay the liability is already crystallized.
+RatioOfTheDecision	Similarly when the secured creditor approaches <ORG> for assistance to take possession of the secured asset, the liability having been crystallized, there can be no adjudication about it at that stage.
+RatioOfTheDecision	Possession has to be taken by non-adjudicatory process.
+RatioOfTheDecision	There is no question of pointing o ut to the CMM/DM at that stage that the person who is to be dispossessed is a tenant, or that he has a prior registered sale deed or that in case of simple mortgage, ownership rights are not transferred; that the mortgagee is only entitled to an obligation to pay and, hence, possession cannot be taken or that such a course will improve or change the contract etc.
+RatioOfTheDecision	Grievance that reasons for not accepting the objections were not communicated can also not be raised at that stage because consideration of reply is in the realm of adjudication which cannot be done under Section 14 .
+RatioOfTheDecision	Besides as per proviso to Section 13 (3-A) and explanation to Section 17 , non-communication of reasons to the borrower does not confer on the borrower or any person right to prefer an application under Section 17 at the stage of communication.
+RatioOfTheDecision	This is the scheme of the NPA Act .
+RatioOfTheDecision	It is so framed to achieve its object.
+RatioOfTheDecision	At first blush this may appear harsh.
+RatioOfTheDecision	But it is not so.
+RatioOfTheDecision	The borrower and the third party is not remedy-less.
+RatioOfTheDecision	Remedy is p rovided in Section 17 where appropriate relief can be given to them.
+RatioOfTheDecision	It is after measures under Section 13(4) are taken that an application under Section 17 can be filed by a borrower or any person and in that application, all grievances including the grievance that reasons were not communicated can be voiced.
+RatioOfTheDecision	Prior to that, at no point of time any grievances can be raised.
+RatioOfTheDecision	Section 17 offers an adequate remedy.
+RatioOfTheDecision	We shall advert to Section 17 a little later.
+RatioOfTheDecision	68.
+RatioOfTheDecision	In any case, it is also held by <ORG> in <ORG>'s case (supra), that if the measures undertaken by the secured creditor come in conflict with any other law the provisions of Section 13(4) override these provisions and that Section 35 gives an overriding effect to the NPA Act .
+RatioOfTheDecision	69.
+RatioOfTheDecision	We also find no substance in the submission that remedy of appeal/application provided under Section 17 of the NPA Act is illusory.
+RatioOfTheDecision	In this connection, we may usefully refer to the judgment of <ORG> in <ORG>supra).
+RatioOfTheDecision	In that case, t he constitutional validity of the NPA Act was under challenge.
+RatioOfTheDecision	It was argued that remedy before the <ORG>, under Section 17 is illusory.
+RatioOfTheDecision	<ORG> rejected this submission.
+RatioOfTheDecision	<ORG> observed that proceedings under Section 17 of the NPA Act are not appellate proceedings.
+RatioOfTheDecision	They are, in fact, the initial action which is brought before a <ORG> as prescribed under the NPA Act raising grievance against the action or measures taken by one of the parties to the contract.
+RatioOfTheDecision	It was further observed that it is the stage of initial proceedings like filing a suit in the civil court.
+RatioOfTheDecision	<ORG> concluded that as a matter of fact proceedings under Section 17 are in lieu of a civil suit which remedy is ordinarily available but for the bar under Section 34 of the NPA Act.
+RatioOfTheDecision	The argument that it will not be possible to produce any documents there; that there objection can be taken only to procedural irregularities about measures taken under Section 13(4) must also be rejected.
+RatioOfTheDecision	In this connection, we may also r efer to the judgment of <ORG> in <ORG> case (supra).
+RatioOfTheDecision	In that case, <ORG> has after referring to its earlier judgment reiterated that the <ORG> can travel beyond the <ORG> and the only fetter that is put on its powers is to observe the principles of natural justice.
+RatioOfTheDecision	<ORG> has further observed that the <ORG> can pass orders to secure the ends of justice.
+RatioOfTheDecision	In view of these observations, it is not possible for us to restrict the width and amplitude of the <ORG>'s powers.
+RatioOfTheDecision	70.
+RatioOfTheDecision	It is also not possible for us to hold that remedy provided under Section 17 is not available to a third party.
+RatioOfTheDecision	This section begins with the words `Any person (including borrower) aggrieved by any of the measures referred to in Sub-section (4) of Section 13 '.
+RatioOfTheDecision	In our opinion the words `Any person (including borrower)' cover third parties also.
+RatioOfTheDecision	Under Section 13(3A) , the secured creditor is required to communicate to the borrower reasons for not accepting his objection to the notice under Section 13(2) bu t the reasons so communicated does not confer any right on the borrower to make an application before the <ORG> under Section 17 .
+RatioOfTheDecision	Explanation to Section 17 states that communication of reasons to the borrower does not entitle the person (including borrower) to make an application to <ORG> under Section 17(1) at the stage of communication.
+RatioOfTheDecision	This supports our conclusion that even a third party can make an application under Section 17 .
+RatioOfTheDecision	In fact Ms. <NAME>, the learned Counsel appearing for the respondent-bank has drawn our attention to the judgments of the <ORG> where rights of third parties are dealt with and relief is granted to them.
+RatioOfTheDecision	71.
+Argument	There is also no substance in the submission that no relief can be given to a third party because Section 17(3) speaks only of restoration of possession of the secured asset to the borrower.
+Argument	Section 17(3) states that if the <ORG> comes to the conclusion that any of the measures stated in Section 13(4) , taken by the secured creditor are not in accordance with the NPA Act and the  Rules made thereunder, it can restore possession of the secured assets to the borrower or restore the management of the secured asset to the borrower.
+RatioOfTheDecision	Section 17(3) further goes on to say that <ORG> can pass such order as it may consider appropriate and necessary in relation to any of the recourse taken by the secured creditor under Sub-section (4) of Section 13 .
+RatioOfTheDecision	Therefore, there is no reason to conclude that no orders can be passed in respect of third parties by <ORG> under Section 17 .
+Precedent	Section 18 which provides for appeal to <ORG> also states that any person aggrieved, by any order made by <ORG> under Section 17 , may prefer an appeal to an <ORG>.
+Precedent	72.
+RatioOfTheDecision	It is true that Section 19 speaks only of right of borrower to receive compensation and costs.
+RatioOfTheDecision	But from this, it cannot be inferred that third party cannot get appropriate relief.
+RatioOfTheDecision	There is no provision under the NPA Act putting fetters on the <ORG>s powers particularly when in <ORG> case (supra), <ORG> has held that  it can travel beyond the <ORG> and it can pass orders to secure ends of justice.
+RatioOfTheDecision	73.
+RatioOfTheDecision	There is no doubt that a party who is likely to be adversely affected by any action must be given a hearing before the action is taken.
+Argument	It is submitted that while acting under Section 14 , the CMM/DM is exercising judicial power.
+Argument	It is submitted that while exercising judicial or quasi judicial powers, principles of natural justice must be followed.
+Argument	It is argued that even while exercising administrative powers, principles of natural justice must be followed and where a statute is silent in the interest of justice notice must be read into it.
+RatioOfTheDecision	Several judgments of <ORG> have been cited before us in support of these submissions.
+RatioOfTheDecision	Heavy reliance is placed on the judgment of <ORG> in <NAME>supra).
+RatioOfTheDecision	None can dispute these well settled principles.
+RatioOfTheDecision	74.
+RatioOfTheDecision	However, we cannot ignore the object of the NPA Act .
+RatioOfTheDecision	We have already quoted the reasons for the enactment of the NPA Act .
+RatioOfTheDecision	It is a stringent statut e. It proceeds on the basis that liability of the borrower is crystallized.
+RatioOfTheDecision	It seeks to take care of menace of mounting non-performing assets which if not checked would cripple the national economy by blocking public money.
+RatioOfTheDecision	It seeks to set up assets reconstruction companies and empower them to take possession of secured assets.
+RatioOfTheDecision	It provides for assignment of debts to securitisation companies which the DRT Act did not provide.
+RatioOfTheDecision	The secured assets are sought to be liquidated in time.
+RatioOfTheDecision	The basis of the NPA Act is crystallised liability and enforcement of security interest without the intervention of the court.
+RatioOfTheDecision	It only deals with disputes of secured creditors inter se and not between secured creditor and borrower.
+Precedent	75.
+Precedent	Observations of <ORG> in <NAME> (supra) though in the context of service law are very material.
+Precedent	<ORG> observed that the principles of natural justice are not rigid or immutable and hence they cannot be imprisoned in a strait jacket.
+Precedent	They must yield to and change w ith exigencies of situations and they must be confined within their limits and cannot be allowed to run wild.
+Precedent	<ORG> quoted its observations in <CITATION_299215> that `To do a great right after all, it is permissible sometimes to do a little wrong'.
+Precedent	<ORG> clarified that in its opinion the approach of the <ORG> in dealing with such cases should be pragmatic rather than pedantic, realistic rather than doctrinaire, functional rather than formal and practical rather than "precedential".
+Precedent	76.
+Precedent	In this case, the Supreme <ORG> also referred to its judgment in <CITATION_49726748> where the Supreme <ORG> was considering the validity of order dismissing civil servants in the context of second proviso to Article 311(2) of the Constitution of India.
+Precedent	<ORG> observed in that case that in certain circumstances, application of principles of natural justice should be modified and even excluded.
+Precedent	<ORG> further observed that both in England and in India, it is well established that wh ere a right to a prior notice and an opportunity to be heard before an order is passed would obstruct in the taking of prompt action, such a right could be excluded.
+Precedent	<ORG> clarified that it could also be excluded where the nature of the action to be taken, its object and purpose and the scheme of the relevant statutory provisions warrant its exclusion.
+Precedent	<ORG> further observed that if legislation and the necessities of a situation can exclude the principles of natural justice including the audi alteram partem rule, a fortiori, so can a provision of the Constitution.
+Precedent	We feel that the above observations of <ORG> are attracted to the present case.
+Precedent	77.
+RatioOfTheDecision	In our opinion, to secure its object the NPA Act has by necessary implication ruled out giving hearing either to the borrower or third parties till the application is filed under Section 17 .
+Statute	As observed by <ORG> in Transcore'scase (supra) Section 6 of the NPA Act inter alia states that the bank or financial institutio n may, if it considers appropriate give a notice of acquisition of financial assets by any securitisation company or reconstruction company to the borrower and to any other concerned person but they may or may not give notice to the borrower regarding acquisition of financial assets the reason being that assets are transferable overnight.
+Statute	Section 13(2) contemplates a notice to the borrower calling upon him to discharge his liabilities.
+RatioOfTheDecision	Section 13(3A) requires the secured creditor to communicate to the borrower reasons for not accepting his representation or objection and proviso thereto states that such communication shall not confer right on the borrower to make an application under Section 17 at that stage.
+RatioOfTheDecision	Section 14 with which we are concerned here does not contemplate any notice to the borrower or a third party.
+RatioOfTheDecision	It is only Section 17 which states that any person including borrower can make an application to DRT being aggrieved by any measure taken under Section 13(4) .
+RatioOfTheDecision	Explanation to Section 17 clarifies  that reasons communicated to a borrower at the stage of communication will not confer on the person including borrower any right to make an application to <ORG> under Section 17(1) .
+RatioOfTheDecision	Section 18 again confers right on any person aggrieved by an order of <ORG> under Section 17 to file an appeal before <ORG> against the said order.
+RatioOfTheDecision	Therefore, third party was in the mind of the legislature when it enacted the NPA Act .
+RatioOfTheDecision	Wherever necessary reference is made to third party.
+RatioOfTheDecision	Nothing prevented the legislature from specifically making a provision in Section 14 for notice to the borrower or third party.
+RatioOfTheDecision	It purposely did not make provision for notice or hearing being given to the borrower or third party at the stage of Section 14 .
+RatioOfTheDecision	Looking to the scheme of the NPA Act , we are of the opinion that notice or hearing to the borrower or third party is excluded at the stage of Section 14 by necessary implication.
+RatioOfTheDecision	78.
+RatioOfTheDecision	Though the validity fo the NPA Act is upheld and that cannot be in issue before us, we may refe r to the observation of <ORG> in Pu Myllai'scase (supra).
+Precedent	After referring to its judgment in <CITATION_639803> , <ORG> observed that if the statute, expressly or by necessary implication, omits the application of the rule of natural justice, the statute will not be invalidated for this omission on the ground of arbitrariness.
+Precedent	79.
+Argument	On behalf of the respondents, it was urged that the CMM/DM acting under Section 14 is performing a ministerial function and hence it is not necessary to give a hearing to the affected parties as he cannot determine the rights of the parties.
+Argument	The petitioners countered this submission by stating that it is a judicial or quasi judicial act and hence hearing is a must.
+RatioOfTheDecision	It is not necessary for us to go into all these arguments in view of our conclusion that Section 14 of the NPA Act by necessary implication rules out notice or hearing to the borrower or third party and looking to the object of the NPA Act , such a conclusion is inevitable and justified.
+Precedent	80.
+Precedent	It wa s also argued that Section 14(3) gives finality to order passed by the CMM/DM under Section 14 and, therefore, it is necessary to hear parties who are likely to be adversely affected by it.
+Precedent	81.
+RatioOfTheDecision	We find no substance in this submission.
+RatioOfTheDecision	In this connection, it is necessary to have a look at Section 14(2) and (3).
+RatioOfTheDecision	It reads thus:  14.
+Statute	Chief Metropolitan Magistrate or District Magistrate to assist secured creditor in taking possession of secured asset.
+Statute	1) x x x x x x x x x (2) For the purpose of securing compliance with the provisions of Sub-section (1), the Chief Metropolitan Magistrate of the District Magistrate may take or cause to be taken such steps and use, or cause to be used, such force, as may, in his opinion, be necessary.
+Statute	(3) No act of the Chief Metropolitan Magistrate or the District Magistrate done in pursuance of this section shall be called in question in any court or before any authority.
+Precedent	82.
+Precedent	Sub-section (3) is preceded by Sub-section (2) under which for securing compliance of Sub-section (1), t hat is for taking possession, the CMM/DM can take such steps and use or cause to be used, such force, as may in his opinion, be necessary.
+Precedent	Sub- section 3 grants immunity to the CMM/DM as regards steps taken by him or force allowed to be used by him for providing assistance for taking possession.
+Precedent	Since as stated by us adjudication of rival claims is absent at that stage, there is no question of his dealing with rival claims and giving a reasoned judgment as regards the merits of the case and obviously there is no question of such a reasoning assuming finality.
+Precedent	In any event, if a party has any grievance as regards contents of that order, his remedy would be to voice them in the application under Section 17 before the DRT after measures under Section 13(4) are taken.
+Precedent	83.
+Precedent	We must also refer to the judgment of <ORG> in <ORG> (supra) on which reliance is placed by Mr. <NAME>.
+Precedent	In that case, while considering the nature of the power exercised by the Chief Justices of the High Courts or Chief Just ice of India under Section 11(6) of the Arbitration Act, <ORG> held that any tribunal conferred with a power to act under a statute has a jurisdiction to satisfy itself whether the conditions for exercise of power existed.
+Precedent	<ORG> further observed that once a statute creates an authority, confers power on it to adjudicate and makes its decision final, such a decision cannot be said to be purely administrative decision.
+Precedent	The Chief Justice or the person designated by him is bound to decide whether he has jurisdiction, whether there is arbitration agreement, whether the conditions for the exercise of powers have been fulfilled, and if an arbitrator is appointed, whether he is a fit person.
+RatioOfTheDecision	It was urged that even in this case, the CMM/DM's decision is final as per Section 14(3) of the NPA Act.
+RatioOfTheDecision	<ORG> must find out whether conditions for exercise of power exist or not and for that purpose, notice to borrower and third party is a must.
+RatioOfTheDecision	84.
+RatioOfTheDecision	In our opinion, the petitioners cannot draw any su pport from SBP & Co.'scase (supra).
+RatioOfTheDecision	The scheme, purpose and object of the NPA Act and the Arbitration Act are different.
+RatioOfTheDecision	Under Section 11(6) of the Arbitration Act, the conditions for the exercise of the power are clearly laid down.
+RatioOfTheDecision	Adjudication is apparent from Section 11(6) of the Arbitration Act.
+RatioOfTheDecision	In fact, in SBP & Co.'scase (supra), <ORG> has clearly stated that while exercising the power under Section 11(6) of the Arbitration Act, the Chief Justice has to consider whether the conditions laid down by the section exist or not.
+RatioOfTheDecision	Whereas, in Section 11(6) of the Arbitration Act, the legislature has laid down conditions for exercise of the powers, no such conditions are found in Section 14 of the NPA Act.
+RatioOfTheDecision	In SBP & Co.'scase (supra), <ORG> has clearly stated that Section 11(6) of the Arbitration Act contemplates power to adjudicate.
+RatioOfTheDecision	<ORG> has clarified that adjudication is involved in the constitution of the arbitral tribunal and, therefore, the Chief Justice has to inquire wh ether the conditions for exercise of his power under Section 11(6) of the Arbitration Act exist and only on being satisfied in that behalf, could he appoint an arbitrator or an arbitral tribunal on the basis of the request.
+RatioOfTheDecision	So far as the NPA Act is concerned, adjudication is clearly excluded by <ORG> in <ORG>supra) and in <ORG> (supra).
+RatioOfTheDecision	In our opinion, therefore, the petitioners cannot draw any support from the judgment in <ORG> case (supra).
+RatioOfTheDecision	85.
+RatioOfTheDecision	In our opinion, at the time of passing order under Section 14 of the NPA Act, the CMM/DM will have to consider only two aspects.
+RatioOfTheDecision	He must find out whether the secured asset falls within his territorial jurisdiction and whether notice under Section 13(2) of NPA Act is given or not.
+RatioOfTheDecision	No adjudication of any kind is contemplated at that stage.
+RatioOfTheDecision	86.
+RatioOfTheDecision	It was argued that inasmuch as an alternative and efficacious remedy of an application under Section 17 of the NPA Act is provided, a writ petition pertaining to any grievances aris ing out of the NPA Act should not be entertained by <ORG> in its writ jurisdiction.
+RatioOfTheDecision	Judgment of <ORG> in <ORG>supra) has been relied upon.
+Precedent	On the other hand, the learned Counsel for the petitioners contended that there are no fetters on the powers of this Court conferred upon it by Articles 226 and 227 of the Constitution of India and though alternative remedy is available, if by the time the party avails of it, great hardship and injustice is likely to be caused, in a given case, this Court can pass appropriate orders to redress the grievance of such a party.
+Precedent	87.
+Precedent	In <ORG>supra), <ORG> had allowed the petition filed by the guarantor by holding that as the mortgaged property was situated in Chennai, the <ORG> had no territorial jurisdiction and, it could not have directed sale of mortgaged property.
+Precedent	It held that the bank would be at liberty to proceed against the guarantor in appropriate forum.
+Precedent	It is against the backdrop of the se facts that <ORG> held that fast track procedure of appeal provided under Section 20 cannot be allowed to be derailed by taking recourse to proceedings under Articles 226 and 227 of the Constitution.
+Precedent	<ORG> clarified that though no provision of the DRT Act expressly ousts the jurisdiction of <ORG> under Articles 226 and 227 of the Constitution, nevertheless when there is an alternative remedy available, judicial prudence demands that the court refrains from exercising its jurisdiction under the constitutional provisions.
+Precedent	<ORG> observed that <ORG> should not have entertained the petition under Article 227 of the Constitution and should have directed the guarantor to take recourse to appeal mechanism provided under the DRT Act .
+Precedent	88.
+RatioOfTheDecision	There can be no dispute about this proposition.
+RatioOfTheDecision	Generally, such writ petitions should not be entertained and parties must be relegated to alternative remedy available to them in law and, in fact, this course is being followed b y this Court.
+RatioOfTheDecision	However, <ORG> has not ruled in the above judgment that even in an exceptional case of gravest injustice remedy of writ is not available to a party.
+RatioOfTheDecision	For instance if without obtaining an order under Section 14 of the NPA Act, with the help of police, a person is dispossessed, <ORG> may have to entertain such a writ petition, protect the secured asset by appropriate conditions and relegate that person to DRT.
+RatioOfTheDecision	Similarly if <ORG> finds that the action taken by the bank or financial institution on the face of it cannot be sustained because it is hit by Section 31 of the NPA Act, <ORG> may entertain a writ petition.
+RatioOfTheDecision	As done by the Nagpur Bench of this Court in <ORG>supra), a writ petition may have to be entertained if reasons for not accepting objections of the borrower to notice under Section 13(2) are not communicated to the borrower.
+RatioOfTheDecision	It will depend on the facts and circumstances of each case.
+RatioOfTheDecision	Such cases would be exceptional and few and  far between.
+Precedent	89.
+Precedent	In this connection, we may refer to the judgment of <ORG> in <NAME>supra).
+Precedent	In that case, <ORG> has held that the power vested in <ORG> to exercise judicial superintendence over the decisions of all courts and tribunals within their respective jurisdiction is also part of the basic structure of the Constitution.
+Precedent	However, in our opinion, ordinarily such petitions should not be entertained.
+Precedent	Lot of care and circumspection must be exercised before deciding to entertain such a petition and if it is entertained parties must be relegated to appeal after passing appropriate order of protection primarily ensuring that the secured asset is not frittered away, leaving adjudication and final order to the DRT.
+Precedent	90.
+Precedent	Following conclusions emerge from the above discussion:  1.
+RatioOfTheDecision	The bank or financial institution shall, before making an application under Section 14 of the NPA Act, verify and confirm that notice under Section 13(2) of the NPA Act is given and th at the secured asset falls within the jurisdiction of <ORG> before whom application under Section 14 is made.
+RatioOfTheDecision	The bank and financial institution shall also consider before approaching <ORG> for an order under Section 14 of the NPA Act, whether Section 31 of the NPA Act excludes the application of Sections 13 and 14 thereof to the case on hand.
+RatioOfTheDecision	2.
+RatioOfTheDecision	<ORG> acting under Section 14 of the NPA Act is not required to give notice either to the borrower or to the 3rd party.
+RatioOfTheDecision	3.
+RatioOfTheDecision	He has to only verify from the bank or financial institution whether notice under Section 13(2) of the NPA Act is given or not and whether the secured assets fall within his jurisdiction.
+RatioOfTheDecision	There is no adjudication of  4.
+RatioOfTheDecision	It is only if the above conditions are not fulfilled that the <ORG> can refuse to pass an order under Section 14 of the NPA Act by recording that the above conditions are not fulfilled.
+RatioOfTheDecision	If these two conditions are fulfilled, he cannot refuse to pass an order under Section 14 .
+RatioOfTheDecision	5.
+RatioOfTheDecision	Remedy provided under Section 17 of the NPA  Act is available to the borrower as well as the third party.
+Precedent	6.
+Precedent	Remedy provided under Section 17 is an efficacious alternative remedy available to the third party as well as to the borrower where all grievances can be raised.
+Precedent	7.
+Precedent	In view of the fact that efficacious alternative remedy is available to the borrower as well as to the third party, ordinarily, writ petition under Articles 226 and 227 of the Constitution of India should not be entertained.
+Precedent	8.
+Precedent	In exceptional cases of gravest injustice, a writ petition could be entertained by this Court.
+Precedent	9.
+Precedent	Great care and caution must be exercised while entertaining a writ petition because in a given case it may result in frustrating the object of the NPA Act .
+Precedent	10.
+Precedent	Even if a writ petition is entertained, as far as possible, the parties should be relegated to the remedy provided under Section 17 of the NPA Act before the DRT by passing an interim order which will protect the secured assets.
+Precedent	Adjudication and final order should be left to the DRT as far as possible.
+Precedent	91.
+Precedent	Having dealt with the main issue, we will now deal with the individual writ petitions.
+Precedent	92.
+RulingByLowerCourt	We have already narrated facts of Criminal Writ Petition No.
+RulingByLowerCourt	2767 of 2006.
+RulingByLowerCourt	It was argued that since respondent 1 has not replied to the objections raised by the petitioners, in the light of the judgment of the Nagpur Bench in <ORG> (supra), this Court should set aside the action initiated by respondent 1.
+RulingByLowerCourt	Since this is not an admitted fact we are unable to do so.
+RulingByLowerCourt	We are unable to go into disputed questions of fact.
+Fact	Admittedly, symbolic possession is taken by respondent 1 - <ORG> on 16/11/2005.
+Fact	If the petitioners are so advised, they may file an application before the <ORG> within a period of four weeks from today where all questions including the question regarding reply can be raised.
+RatioOfTheDecision	We continue the interim relief granted by us for four weeks from today.
+RulingByPresentCourt	For further continuation of the interim relief, the petitioners will have to approach the <ORG>.
+RulingByPresentCourt	The <ORG> shall deal with the matter ind ependently and in accordance with law.
+Fact	Criminal Writ Petition No.
+Fact	2767 of 2006 is disposed of in the aforestated terms.
+Precedent	93.
+Precedent	We shall now turn to Criminal Writ Petition No.
+Precedent	27 of 2007.
+Precedent	Petitioner 1 therein is a partnership firm carrying on business at Singapur Building, Kalbadevi Road, Mumbai.
+Precedent	Petitioners 2 to 5 are the partners of petitioner 1.
+Precedent	94.
+Fact	The petitioners were banking with respondent 1 -the UCO Bank.
+Fact	Respondent 1 granted cash credit facility for the sum of Rs.
+Fact	48.60 lacs to the petitioners.
+Fact	Petitioners 2 to 6 mortgaged Flat No.
+Fact	23 admeasuring 350 sq.
+Fact	ft. on the 2nd floor and terrace on 3rd floor situated at Kamla Niwas, Bajaj Road, Vile Parle (West), Mumbai - 400 056, with respondent 1 for the said cash credit facility.
+Fact	The said flat is thus a secured asset.
+Fact	95.
+Argument	It appears to be the case of respondent 1 that the petitioners have failed to repay the loan.
+Argument	Hence, respondent 1 issued notice dated 27/10/2005 and 10/12/2005 under Section 13(2) of the NPA Act and thereby called upon the petitioners to p ay the sum of Rs.
+Fact	48,60,000/-within 60 days from the notice.
+Fact	96.
+Fact	According to the petitioners, respondent 1 issued possession notice dated 15/1/2006 under Section 13(4) of the NPA Act.
+Fact	Thereafter, respondent 1 made an application/request under Section 14 of the NPA Act before the <ORG>, <ORG>, Mumbai, requesting for assistance to take possession of the said flat.
+Fact	On 19/9/2006, the <ORG> allowed the said application.
+Fact	The petitioners applied for setting aside the said order.
+Fact	The <ORG> by his order dated 15/12/2006 rejected the said application.
+Fact	Hence, the petitioners have approached this Court for setting aside orders dated 19/9/2006 and 15/12/2006.
+Fact	97.
+Fact	Since symbolic possession is taken by respondent 1 - UCO Bank, if the petitioners desire to file an application under Section 17 of the NPA Act, they may do so.
+RulingByLowerCourt	The interim protection granted by this Court shall continue to operate only for a period of four weeks from today.
+RulingByLowerCourt	For further continuation of the interim relief, the parties will have to approach  the DRT.
+RulingByLowerCourt	The DRT shall deal with the matter independently and in accordance with law.
+Fact	Criminal Writ Petition No.
+Fact	27 of 2007 is disposed of in the aforestated terms.
+Fact	98.
+Fact	We shall now refer to the facts of Criminal Writ Petition No.
+Fact	124 of 2007.
+Fact	Petitioner 1 therein is a proprietary concern of petitioner 2.
+Fact	Petitioner 3 is a guarantor for the debt of petitioners 1 and 2.
+Fact	The petitioners were banking with respondent 1-bank.
+Fact	Respondent 1 had sanctioned cash credit facility of Rs.
+Fact	19 lakhs, STPL facility of Rs.
+Fact	35 lakhs, WCTL facility of Rs.
+Fact	15.50 and Rs.
+Fact	13 lakhs to the petitioners.
+Fact	Respondent 1 also sanctioned facility of bank guarantee of Rs.
+Fact	10 lakhs and STC facility of Rs.
+Fact	5 lakhs.
+Fact	99.
+Fact	It appears to be the case of respondent 1 that the petitioners have created an equitable mortgage in favour of respondent 1 and Bungalow No.
+Fact	17, <ORG>, Next to Atur Park, V.N.
+Fact	Purav Road, Chembur, Mumbai and Unit No.
+Fact	108, 1st floor, <ORG> <ORG>, Opp.
+Fact	Kanjurmarg Railway Station, Kanjur Marg, Mumbai ("for convenience, "the secured assets") have been mortgaged to respondent 1.
+Fact	Since the petitioners defaulted in repayment of the loan, respondent 1 issued notice dated 16/2/2005 under Section 13(2) of the NPA Act calling upon the petitioners to pay an amount of Rs.
+Fact	80,28,271.14 which according to respondent 1 is due from the petitioners.
+Fact	100.
+Fact	The petitioners sent a reply dated 24/2/2005 denying their liability.
+Fact	It appears that the objection raised therein were not accepted by respondent 1 <ORG>.
+Fact	According to the petitioners, respondent 1 has not communicated the reasons for not accepting the said reply within the period stipulated under the NPA Act .
+Fact	101.
+Fact	The petitioners' case is that they have offered to give symbolic possession but respondent 1 has refused to take it.
+Fact	This is not denied by respondent 1 by filing affidavit.
+Fact	Admittedly, respondent 1 filed an application under Section 14 of the NPA Act before the <ORG>,  Esplanade Mumbai, for assistance to take possession.
+Fact	The said application was granted on 14/9/2006.
+Fact	Being aggrieved by the said order, the petitioners have approached this Court.
+RatioOfTheDecision	102.
+RulingByPresentCourt	In the circumstances of the case and considering that as regards point pertaining to communication of reasons for not accepting the petitioners' reply, there is a dispute, we are of the opinion that the parties must be relegated to the <ORG> where all disputed questions can be agitated.
+RulingByPresentCourt	Mr. <NAME>, the learned Counsel for the petitioners on instructions from Ms. <NAME>, the legal officer of <ORG> states that the <ORG> shall take symbolic possession of the secured assets within a period of one week from today.
+RulingByPresentCourt	On such possession being taken, the petitioners shall file an application before the <ORG> if they so desire within four weeks from the date on which the bank takes symbolic possession.
+RulingByPresentCourt	The petitioners shall maintain status quo as regards the secured assets till appropriate interim orders ar e passed by the <ORG>.
+RulingByPresentCourt	The petitioners shall file usual undertakings in this Court within one week from today stating that they shall not alienate, encumber or create any third party interest in the secured assets or any part thereof till <ORG> passes appropriate orders regarding interim reliefs.
+RulingByPresentCourt	The <ORG> shall consider the application independently and in accordance with law.
+RulingByPresentCourt	We make it clear that this order shall not come in the way of settlement talks, if any, which may be going on between the parties.
+Fact	Criminal Writ Petition No.
+Fact	124 of 2007 is disposed of in the aforestated terms.
+Fact	103.
+Fact	We shall now turn to the facts of Criminal Writ Petition No.
+Fact	343 of 2007.
+Fact	The petitioners in this petition have obtained housing loan in respect of Flat No.
+Fact	1402, Divya Gunjan, Gaurav Garden, Kandivali (West), Mumbai, (for convenience, "the said flat").
+Fact	While petitioner 1 was granted loan of Rs.
+Fact	19,00,000/-, petitioner 2 was granted loan of Rs.
+Fact	5,00,000/-by respondent 2, <ORG>.
+Fact	Thus, in respect of the said  flat, total loan of Rs.
+Fact	24,00,000/-was granted to the petitioners by respondent 2.
+Fact	104.
+Argument	It appears that the petitioners have created equitable mortgage in favour of respondent 2 by depositing relevant documents of the said flat with respondent 2.
+Argument	The petitioners failed to repay the loan.
+Argument	Hence, respondent 2 issued a notice under Section 13(2) of the NPA Act calling upon the petitioners to pay a sum of Rs.
+Fact	19,55,544.78 together with further interest thereon from 31/8/2005.
+Fact	105.
+Fact	It appears that respondent 2 made an application/request to the <ORG>, Mumbai, under Section 14 of the NPA Act requesting for assistance to take possession of the said flat which is a secured asset.
+Fact	On 12/12/2006, the learned <ORG> granted the said application.
+Fact	The petitioners have challenged the said order in this petition.
+RatioOfTheDecision	Admittedly symbolic possession of the said flat has been taken by respondent 2.
+RulingByPresentCourt	In the circumstances, we direct that if the petitioners file any application under Section 17 of the NPA Act to the <ORG> challenging the a ction taken by respondent 2, the <ORG> shall dispose it off independently and in accordance with law.
+RulingByPresentCourt	If the petitioners decide to file an application they shall do so within four weeks from today.
+RulingByPresentCourt	Respondent 2 shall maintain status-quo as of today for a period of four weeks from today.
+Fact	Needless to say that further appropriate orders will be passed by the <ORG>.
+Fact	Criminal Writ Petition No.
+Fact	343 of 2007 is disposed of in the aforestated terms.
+RatioOfTheDecision	106.
+RatioOfTheDecision	We make it clear that while disposing of the petitions, we have not expressed any opinion on the merits of any of the petitions and the interim reliefs are granted or continued in the peculiar circumstances of the individual cases and because the petitions have been pending for a considerable period.
+RatioOfTheDecision	Prayers for continuation of interim relief if any, may also be considered independently and in accordance with law by the <ORG>.
+RatioOfTheDecision	We also make it clear that all contentions raised in the petitions except those which we have rejected are kept open.

@@ -1,0 +1,47 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This case raises an interesting point of Hindu law which does not seem to be covered by authority.
+Fact	The appellant, who was the original plaintiff, sued to recover certain property as a distant agnate of one <ORG> who died in 1929 without leaving a widow or any issue.
+Fact	His <NAME> <NAME> had a brother named <NAME> who died several years back leaving a widow <NAME> who is defendant No.
+Fact	1 in this case.
+Fact	The property was taken possession of by <NAME> as she was the widow of the paternal uncle, i.e.
+Fact	<NAME>, of <ORG>, and as such was entitled in our Presidency to inherit it as an heir in preference to a distant agnate under the ruling in <CITATION_1763347> (1876) I.L.R.
+Fact	2 Bom.
+Fact	388.
+Fact	The plaintiff contended that <NAME> was unchaste at the time when <ORG> died, and was, therefore, incapable of inheriting the suit property.
+Fact	The only question at issue was whether <NAME> was debarred from inheriting the property of <ORG> because of her unchastity.
+Fact	It was conceded by her that she was leading an unch aste life at the time of <NAME>'s death when the succession opened.
+Fact	2.
+Fact	Both the lower Courts held that under the Hindu law the bar of unchastity applied only to a widow inheriting her <NAME>'s property, that in the present case the widow <NAME> inherited not her <NAME>'s property but the property of her <NAME>'s nephew, and the bar therefore did not apply.
+Fact	The suit was, therefore, dismissed on that ground.
+Fact	3.
+Fact	It is contended here that for the purpose of the bar all widows inheriting property stand on the same footing, and that therefore the bar applied also to the case of a widow who inherits property as the widow of <NAME>.
+Fact	Now, it is important to note that under the Hindu law as such a widow of <NAME> does not inherit any property in her own right.
+Fact	It is only by virtue of "positive acceptance and usage," as held in <NAME> v. <NAME> (1880) L.R.
+Fact	7 I.A.
+Fact	212, that in our Presidency she has acquired the right to stand in the same place as her <NAME>, if living, would hav e occupied.
+Fact	Subsequent cases have made it clear that the widow of <NAME> takes the property in her own right as an heir and not only as representing her <NAME>.
+Fact	The latest decision on this point is in <CITATION_503206> .
+Fact	4.
+Fact	The suit property in the present case was of the absolute ownership of <ORG> after <NAME>'s death, presumably because <NAME> and <NAME> were joint.
+Fact	On <ORG>'s death, therefore, <NAME> would inherit it not as the property of her <NAME> <NAME> but as the property of her <NAME>'s nephew <ORG>, and the question is whether the bar which applies to the case of a widow inheriting her <NAME>'s property could also be extended to a case where the widow inherits the property not belonging to her <NAME> but belonging to her <NAME>'s nephew.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It has been contended by Mr. <NAME> on behalf of the plaintiff-appellant that the bar should be held as also applicable to the case of a widow inheriting property as the widow of <NAME>, because she inherits it from her <NAME>'s fam ily and that too only in our Presidency by reason of usage.
+RatioOfTheDecision	It is, therefore, necessary to examine the genesis of this bar.
+RatioOfTheDecision	So far as inheritance is concerned, the only text in the Mitakshara relating to this bar is mentioned in Chapter II, section II, placitum 2, which runs as follows:-  6.
+RatioOfTheDecision	Thus <NAME> says, "Let the widow succeed to her <NAME>'s wealth, provided she be chaste; and, in default of her, let the daughter inherit, if unmarried."
+RatioOfTheDecision	7.
+RatioOfTheDecision	This bar, therefore, according to the text, applies only to a widow succeeding to her <NAME>'s wealth, and the case-law has also limited it to such estate.
+Fact	It has been held for instance that neither a mother nor a daughter is debarred from inheriting property on the ground of unchastity because both of them inherit in their own right: see <CITATION_1399708> (1907) I.L.R.
+Fact	31 Mad.
+Fact	100, and <NAME> v. <NAME> (1879) I.L.R.
+Fact	4 Bom.
+RatioOfTheDecision	104.
+RatioOfTheDecision	No authority has been cited before me to show that the bar has been applied to any female except a widow inheriting her <NAME>'s pr operty.
+RatioOfTheDecision	But the matter does not rest here.
+Precedent	In the recent Hindu Women's Rights to Property Act (XVIII of 1937), the bar of unchastity seems to have been removed even with regard to the widow inheriting her <NAME>'s property, because it says that its provisions shall apply notwithstanding any rule of Hindu law or custom to the contrary, and as observed in <NAME>'s Hindu Law, 10th edn., at p. 722, "as the Act confers upon the widow a right of succession notwithstanding any rule of Hindu law, an unchaste widow will not be disqualified from inheritance."
+RatioOfTheDecision	The result is that the bar of unchastity has now been removed even in the case of a widow inheriting her <NAME>'s property, and it would indeed be incongruous to hold that it applies to the case of a widow inheriting the property of any person other than her <NAME> when she can now inherit her <NAME>'s property in spite of her unchastity.
+RatioOfTheDecision	The position, therefore, is that there is no authority for the proposition that any widow inheriting any kind of property mu st be chaste, that the bar was confined to only one particular case, namely, the widow inheriting her <NAME>'s property, and even that bar is now removed by legislation.
+RatioOfTheDecision	If the Hindu community desires that the bar of unchastity should be applicable to all widows inheriting property, it might invoke the aid of <ORG>, but on the law as it stands at present, it is clear that an unchaste widow of <NAME> is not incompetent to inherit property of her <NAME>'s kinsmen.
+RatioOfTheDecision	8.
+RulingByPresentCourt	The decision of the lower appellate Court is, therefore, correct and the appeal is dismissed with costs.

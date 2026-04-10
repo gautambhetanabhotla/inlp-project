@@ -1,0 +1,117 @@
+Fact	JUDGMENT G. <NAME>, J.
+Fact	1.
+Fact	This appeal has been filed by an Insurance Company against the order of <ORG> awarding a sum of Rs.
+Fact	20,000 as compensation to the first respondent herein in respect of an accident resulting in the death of the first respondent's <NAME>, one <NAME>, that took place on 13th June, 1971, when he was hit by a lorry owned by the second respondent and driven by one <NAME>.
+Fact	2.
+Fact	The first respondent, who is the wife of the deceased <NAME>, filed an application claiming a compensation of Rs.
+Fact	20,000 before <ORG> under Section 100-A of the Motor Vehicles Act in respect of the accident that took place at 6.00 A.M. on 13th June, 1971, on the ground that the lorry, belonging to the second respondent and driven by its driver in a careless and negligent manner, hit the deceased who was standing near the bus stop, resulting an the death of the deceased on the spot and that as a result of the death, the petitioner had lost her  <NAME> and also incurred monetary loss.
+Fact	It is her case that the deceased was earning a minimum of Rs.
+Fact	12 per day as an artificial diamond worker and that source of income has been entirely lost to her.
+Fact	The said application for compensation was resisted by the second respondent the owner of the lorry and the appellant, the insurer.
+Fact	The first respondent, owner of the lorry, raised the following contentions : The deceased used to get fits.
+Fact	The deceased while crossing the road got fits and fell down on the right rear wheel of the vehicle.
+Fact	The accident was not due to the rash and negligent driving by the driver of the lorry.
+Fact	The insurer raised the following contentions.
+Fact	The accident occurred solely due to the negligence of the deceased who darted across the road and fell on the right rear wheel of the vehicle.
+Fact	The accident was not due to the negligent driving of the lorry by the driver.
+Fact	It also denied the age, earning capacity, etc.
+Fact	of the deceased and said that the compensation claimed was excessive.
+Fact	3.
+Fact	After  analysing the evidence adduced by the parties, the <ORG> took the view that the accident was entirely due to the rash and negligent driving of the lorry by <NAME> that there is no evidence to show that the deceased used to get fits often that while crossing the road in a careless manner, he suddenly swooned and fell under the right rear wheel of the lorry, that the sketch Exhibit A-6 prepared by <NAME> the Inspector of Police within whose jurisdiction the place of occurrence is situate, showed that the dead-body was lying 85 feet north of the place where the lorry came to a halt after the impact, that it showed <NAME>, the lorry driver, should have driven the lorry on the wrong side of the road instead of keeping to the left, and that from this it was clear that he was driving the lorry in a rash and negligent manner when he hit and caused the death of the deceased.
+Fact	The <ORG> has also relied on the evidence of <NAME>, the eye-witness, who says that the deceased and one <NAME> were waiting for  the bus on the eastern side to go to Trichy and as there was no room in the bus, they crossed and came to the mud portion of the road with a view to take tea in his tea-shop, that while were they walking in the mud portion towards his tea-shop, the lorry came from north at a high speed in the wrong side and its front bumper hit <NAME> and threw him away, that <NAME> fell on the road facing down and the front right wheel run over his legs, that the lorry came to a stop after running a distance of 50 feet from the deceased and that the deceased died on the spot.
+Fact	P.W.
+Fact	2 has also been earlier examined by the criminal <ORG>.
+Argument	4.
+Argument	As regards the quantum of compensation, the <ORG> found that the petitioner is a young girl aged 19 years and the deceased was aged 23 years at the time of his death, that the deceased would have lived for another 40 years if he had not met with the accident, that the deceased was hale and healthy at the time of his death, that as per the evidence of P.W.
+Argument	3 in whose shop the d eceased was working he was getting a daily wage of Rs.
+Argument	7 to Rs.
+Argument	12 and that he was a permanent employee in <ORG> shop.
+Argument	On that basis, the <ORG> held that the deceased would have earned daily a sum of Rs.
+Argument	7 and would have worked for 20 days in a month.
+Argument	On that basis, a sum of Rs.
+Argument	140 was fixed as his earnings per month, and after giving allowances for his own expenses his contribution to the family was determined at Rs.
+Fact	70 per month and the annual dependency at Rs.
+Fact	840.
+Fact	Multiplying the sum by 40, as the deceased would have lived for a period of 40 years, the amount was arrived at Rs.
+Fact	33,600, but as the claimant had restricted her claim for Rs.
+Fact	20,000 the <ORG> granted a sum of Rs.
+Fact	20,000 as compensation.
+Fact	The owner of the lorry has not filed an appeal and the insurance company has alone filed this appeal challenging the said award of compensation.
+Argument	5.
+Argument	In this appeal, the findings of the <ORG> that the accident was due to rash and negligent driving of the lorry by its driver and that the claimant is  entitled to a sum of Rs.
+Argument	20,000 as compensation, have both been questioned.
+Argument	6.
+Argument	After going through the evidence of P.W.
+RulingByPresentCourt	2 the eye-witness and <NAME>, the driver of the lorry, we are satisfied that the <ORG> is justified in its conclusion that the accident was due to rash and negligent driving of the lorry.
+RulingByPresentCourt	Exhibit P-6, sketch prepared by <NAME> immediately after the accident, shows the position of the lorry when it came to a halt with reference to the place of impact.
+RulingByLowerCourt	Exhibit P-6 shows that the lorry came to a halt after running to a distance of 85 feet.
+RulingByLowerCourt	That shows that the lorry was coming at a fairly high speed.
+RulingByLowerCourt	Further, the sketch shows that the impact was on the mud portion on the right side of the road, which indicates that the lorry was driven on the wrong side and that the driver did not keep the vehicle to the left side of the road.
+RulingByLowerCourt	Therefore, there are enough materials to support the finding of the <ORG> that the accident was due to rash and negligent driving of the lorry by i ts driver and that it was not due to the deceased's fault in crossing the road carelessly and swooning and falling down on the right rear wheel of the vehicle as spoken to by the lorry driver.
+Argument	7.
+Argument	On the question of compensation, the learned Counsel for the appellant would, however, say that in any event the compensation awarded is excessive.
+Argument	The learned Counsel for the first respondent had raised a legal plea that <ORG> cannot question the quantum of compensation that the defences open to an insurance company in a claim for compensation under Section 110-A of the Motor Vehicles Act are very limited, and that its objection cannot extend to the quantum, of compensation.
+Argument	The learned Counsel for the appellant contends that all defences that are open to the insured are also open to the insurer, as the ultimate liability for compensation has to foe met only by the insurer under the terms of the insurance policy.
+Argument	8.
+RatioOfTheDecision	Before we proceed to consider the tenability of the relative contentions, we may no te the relevant statutory provisions.
+Statute	Section 96(1) of the Motor Vehicles Act says that if judgment in respect of any liability under a certificate of insurance under Section 95(4) is obtained against any person insured by the policy, the insurer shall, subject to the provisions of that section, pay to the person entitled to the benefit of the decree any sum not exceeding the sum assured payable thereunder, as if he were the judgment-debtor in respect of the liability.
+Statute	Sub-section (2) to Section 96 , however, says that no sum shall be payable under Sub-section (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice of the proceedings through the <ORG> and the insurer to whom notice of the proceedings is so given shall be entitled to be made a party thereto and to defend the action on any of the grounds set out in Clauses (a), (b) and (c) thereunder.
+RatioOfTheDecision	Section 96(2) , therefore, indicates that the defences that are normally o pen to an insurer as against the claim of a third party in respect of the policy issued by it can be only on certain stated grounds.
+RatioOfTheDecision	Section 110-C (2-A) dealing with the procedure and powers of the <ORG> says that where in the course of any enquiry, the <ORG> is satisfied that there is collusion between the person making the claim and the person against whom the claim is made or the person against whom the claim is made has failed to contest the claim, the <ORG> may direct the insurer to be impleaded as a party to the proceedings and the insurer so impleaded shall thereupon have the right to contest the claim on all or any of grounds that are available to the person against whom the claim has been made.
+RatioOfTheDecision	A conjoint reading of both the Sections 96(2) and 110-C (2-A) indicates that it is only when there is collusion between the person making the claim and the person against whom the claim is made, or the person against whom the claim is made has failed to contest the claim, the insurance company is enab led to contest the claim on all or any of the grounds that are available to the person against whom the claim has been made, and not in every case where the insurance company has been impleaded.
+RatioOfTheDecision	9.
+RatioOfTheDecision	The above provisions of the Motor Vehicles Act have come up for consideration in a series of decisions.
+RatioOfTheDecision	<CITATION_135147> , it has been held that the insurer can take only those defences which are open to him under Sub-section (2) of Section 96 of the Motor Vehicles Act, 1939, and that apart from the extent indicated by the statute, an insurer has no right to be made a party to the proceedings initiated by the injured against the insured causing the injury.
+RatioOfTheDecision	However, it has been held in that case that the insurer has the right to defend the action on all grounds that are open to the insured, provided he has reserved that right by the terms of the policy and defends the action in the Dame of the assured.
+Precedent	An Ayeska Begum v. <NAME> 1966 A.C.J.
+Precedent	101 (Mad.
+Precedent	), this <ORG> has observed that the insurance company could  not question the quantum of compensation in appeal on the principles laid down in <CITATION_135147> .
+Precedent	In Joginder Math v. Shanti Devi 1967 A.C.J.
+Precedent	150 (Punj.
+Argument	), it has been held that the insurance company was not entitled to appeal against the quantum of compensation in view of the clear terms of Section 96(2) , and that an appeal against the order of the <ORG> by the insurance company which he could not contest before the Motor Accidents <ORG>, was not competent.
+Argument	In <NAME> v. <NAME> ; a Division Bench held that Section 96 of the Motor Vehicles Act, makes it clear that in the application for damages under the Motor Vehicles Act an insurance company need not be made a party by the claimant, but under Sub-section (2), it is the duty of the Court to issue a notice of the proceedings to the insurance company and on such notice being issued, the insurer in entitled to be made a party and defend the action only on the ground that the policy stood cancelled on the grounds stated in the sub-section, and t hat it is only on those limited grounds that the insurer is entitled to contest the proceedings.
+Argument	<CITATION_473715> 1974 A.C.J.
+Argument	234, <ORG> of this Court had expressed the view that the defences that are open to the insurance company are only those which are specified under Section 96(2) of the Motor Vehicles Act and that however if the insurance policy provides for a reservation of the right to the insurance company to defend and raise all defences that are open to the insured, the insurance company can by itself raise those defences.
+Argument	<CITATION_1805239> (1972) A.C.J.
+Argument	420, a bench of <ORG> has held that the insurer can urge all the defences open to the insured in the name of the insured as per the terms of the policy, if there is reservation to that effect in the policy or if the conditions set out in Section 110-C (2-A) are satisfied.
+Argument	<CITATION_1005483> , an appeal had been filed by the insurer against the award of the claims Tribunal questioning only the quantum of compensation.
+Precedent	The  question that arose in that appeal was as to what are the defences that are open to the insurance company.
+Precedent	It was held that it is not open to the insurance company to assail the findings of the <ORG> on merits, and that the grounds that can be raised in the appeal by the insurance company can only be those set out in Clauses (a) to (c) of Sub-section (2) of Section 96 .
+Precedent	10.
+Precedent	The decisions referred to above seem to lay down the following two exceptions to the limitation contained in the provisions of Section 96(2) as to the nature of the defences that are open to the insurer in a claim under Section 110-A .
+Precedent	One exception is that contained in Section 110-C (2-A) where is a collusion between the claimant and the insured or where the insured has not chosen to defend the proceedings.
+RatioOfTheDecision	The second exception is where the insurance policy itself enables the insurer to defend the action in the name of the insured in respect of the claims arising under the policy.
+RatioOfTheDecision	11.
+RatioOfTheDecision	In this case, Section 110-C (2-A) cannot apply a s the insured resisted the claim before the <ORG>, but has not chosen to file the appeal.
+RatioOfTheDecision	The mere fact that the insured has not filed an appeal does not mean that there is collusion between him and the claimant.
+RatioOfTheDecision	The insured has not remained ex parte before the <ORG> and therefore, he cannot be said to have abandoned the defence.
+RatioOfTheDecision	Similarly, it is not shown that the insurance policy contains a clause enabling the insurer to raise all defences that are open to the insured in the proceedings under the policy.
+RatioOfTheDecision	Even assuming that there is such an enabling provision in the policy, still the insurer can himself raise all contentions that are open to the insured only if he defends the action in the name of the insured.
+RatioOfTheDecision	In this appeal, the insured is shown as one of the respondents and he is not shown as a co-appellant along with the insurance company which is the appellant.
+RatioOfTheDecision	Therefore, both the exceptions cannot come into play in this case.
+Argument	12.
+Argument	The learned Counsel for the appellans would, however, submit that t he limitation contained in Section 96(2) as to the defence that are open to the insurance company will apply only to the proceedings before the <ORG> and not before the appellate <ORG> and that once an appeal is filed under Section 110-D of the Motor Vehicles Act, the insurance company is entitled to question the award on all grounds that can be raised by the insured.
+RatioOfTheDecision	We are unable to accept this contention of the learned Counsel.
+RatioOfTheDecision	The fact that an appeal by the insurance company is maintainable under Section 110-D of the Act will not mean that the insurance company can raise all contentions that are open to the insured The statutory limitations contained in Section 96(2) will still apply and it cannot be said that those limitations will govern only the proceedings before the <ORG>, at the initial stages and not the <ORG> at the appellate stage.
+RatioOfTheDecision	In our view, the limitations contained in Section 96(2) will equally apply to the appeal filed by the insurance company.
+RatioOfTheDecision	Since the insurance company has not file d the appeal in the name of the insured and as there is no collusion proved between the insured and the claimant, the defences that are open to it under Section 96(2) can alone be canvassed in the appeal.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Though we have held that the appellant is not entitled to question the quantum of compensation, awarded by the <ORG> as it is not one of the grounds that could be urged by the insurance company under Section 96(2) , we however proceed to deal with the appellant's contention in the appeal regarding the quantum of compensation, as it was also argued.
+RatioOfTheDecision	In this case, the wife of the deceased was aged only 19 years at the time of the death of the deceased who was aged 23 years.
+RatioOfTheDecision	There is clear evidence that he was earning a minimum sum of Rs.
+Argument	7 per day.
+Argument	The employer, <ORG>, has given evidence that he is a permanent worker and he was earning anything between Rs.
+Argument	7 and Rs.
+Argument	12 per day.
+Argument	The <ORG> appears to be right in holding that out of his earnings, a sum of Rs.
+RatioOfTheDecision	70 be taken as the monthly dependency of t he claimant.
+RatioOfTheDecision	On that basis, the annual dependency works out to Rs.
+Precedent	840 and even taking thirty years as the remaining span of life of the deceased, the compensation will easily work out to more than Rs.
+Precedent	20,000.
+Precedent	We do not, therefore, see that the compensation fixed in this case by the <ORG> is in any way excessive.
+Precedent	14.
+Precedent	In any view of the matter the appeal has to be dismissed and it is dismissed accordingly with costs of the first respondent.
+Precedent	15.
+Precedent	For the reasons stated in the main judgment in C.M.A.
+Precedent	No.
+Precedent	534 of 1975, this petition, is dismissed.

@@ -1,0 +1,61 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	The question that arises in this reference is whether certain emoluments paid to one <NAME>, who is an employee of the assessee firm, was a permissible deduction.
+Fact	It appears that this employee was in the service of the assessee firm for the Samvat year 1900.
+Fact	<NAME> was acting as the manager and from 1990 to 1997 he was paid a salary and varying bonuses.
+Fact	Up to 1995 the bonuses paid to <NAME> were allowed by the taxing department, but from 1996 when the bonuses went up to Rs.
+Argument	22,751, the Income-tax Officer refused to allow the full bonus and allowed only a part of it.
+Argument	Then the case of the assessee firm is that in 1993 an agreement was arrived at under which <NAME> was to be paid a salary and a certain commission on profits, and in respect of Samvat years 1998.
+Argument	1999, 2000 and 2001 a claim was made by the assessee firm that as the emoluments were paid to <NAME> under an agreement, whatever was paid was a permissible deduction.
+Argument	This claim was rejected by the taxing authorities and ul timately the <ORG> also refused to allow the full amount of the emoluments to which <NAME> was entitled under the alleged agreement.
+Argument	The view taken by the <ORG> was that the agreement relied upon by the assessee firm was not a genuine agreement.
+RulingByLowerCourt	It also took the view that the emoluments were not reasonable under Section 10(2)(x).
+RulingByLowerCourt	It further took the view that even if the deduction claimed fell under Section 10(2) (xv), the basis for decision under Section 10(2) (xv) was the same as the basis for decision under Section 10(2)(x), and the <ORG> held that even under Section 10(2) (xv) the amount spent was not a reasonable amount.
+RatioOfTheDecision	On this decision of the <ORG> various questions have been submitted to us for our opinion.
+RatioOfTheDecision	In the view that we take, many of the questions have become unnecessary to decide.
+RatioOfTheDecision	2.
+RatioOfTheDecision	The first Question is whether it is possible to take the view that the case of the assessee firm falls under Section 10(2) (xv).
+Statute	Section 10(2) (x) deals with a special case where a sum is paid to an  employee over and above his salary as bonus or commission for services rendered.
+Statute	Section 10(2)(xv) deals with a case where an expenditure is laid out or expended wholly or exclusively for the purpose of business, and according to well established canons of construction when a statute deals with a special case, it is not permissible to contend that the special case would also fall under the general provision in the statute.
+Statute	Section 10(2) (xv) deals with all those cases of expenditure laid out or expended wholly or exclusively for the purpose of business which do not fall under any other Sub-section of Section 10(2).
+Precedent	When an expenditure falls under Section 10(2)(x) in the sense that it is an expenditure in the nature of bonus or commission paid to an employee for services rendered, then its validity can only be determined by the test laid down in Section 10(2)(x) and not the test laid down in Section 10(2)(xv).
+Precedent	Perhaps Mr. <NAME> is right that the question of reasonableness does not arise in the case of S ection 10(2) (xv).
+Precedent	If the Court is satisfied that an expenditure is laid out or expended wholly and exclusively for the purpose of the business, then the question of reasonableness would be a question of commercial expediency which must be determined by business men and not by taxing authorities.
+RatioOfTheDecision	But when we turn to Section 10 (2) (x), every bonus or commission is not a permissible deduction; it is only bonus or commission which is of a reasonable amount.
+Argument	3.
+Argument	It was attempted to be argued by Mr. <NAME> that Section 10(2) (x) only deals with cases where a payment is made to an employee 'ex gratia', but when there is a legal obligation to pay, then the case docs not fall under Section 10(2)(x), and he points out that in this case <NAME> was entitled to his emoluments not 'ex gratia' but under an agreement.
+RatioOfTheDecision	For the purpose of this argument we will assume that the agreement relied upon by the assessee firm was a genuine agreement and that under the agreement <NAME> was entitled in law to receive the remun eration and emoluments fixed under that agreement.
+RatioOfTheDecision	But even so it is difficult to understand why Section 10(2)(x) does not apply to a case where a bonus or commission is payable under an agreement.
+RatioOfTheDecision	The expression "bonus" is not used in the sense in which it was once understood, viz., an 'ex grstia' payment.
+RatioOfTheDecision	It is used in the sense in which it is now understood, viz., a certain remuneration or emolument to which an employee becomes entitled on the satisfaction of a certain condition precedent, and if an employer were to agree with his employee that he will be entitled to a certain amount provided the business made profit, it would be a bonus, and the employee would be legally entitled to recover that amount.
+RatioOfTheDecision	The same consideration applies to commission.
+RatioOfTheDecision	Instead of an employer paying to an employee a fiat bonus, he may agree to pay a certain commission on profits or on production or on sales or whatever the agreement may be.
+RatioOfTheDecision	But whether the payment of the bonus or commission is voluntary or contractual, if an  employee is remunerated in the manner laid down in Section 10(2)(x), then such an emolument is a permissible deduction only if the emolument is of a reasonable amount, and, therefore, what we have to consider in this case, and what the <ORG> had to consider, was whether the amount to which <NAME> was entitled under the alleged agreement was a bonus or commission of a reasonable amount.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Now, the <ORG> itself has laid down the tests to determine whether a bonus or commission is of a reasonable amount, and the tests laid down by the <ORG> are that while determining the question whether a bonus or commission is of a reasonable amount, the <ORG> determining it must pay attention to "(a) the pay of the employee and the conditions of his service, (b) the profits of the business for the year in question, and (c) the general practice in similar businesses."
+RatioOfTheDecision	All these three factors have to be taken into consideration.
+RatioOfTheDecision	It is not sufficient to take one or two of these factors into consideration.
+RatioOfTheDecision	T he <ORG> has made it clear that in determining the reasonableness of the bonus or commission, all the three factors should be at the same time taken into consideration, and it is after such a consideration that a determination must be arrived at as to the reasonableness of the bonus or commission.
+RatioOfTheDecision	We find from the statement of the case that at different places the <ORG> has considered the pay of the employee, it has considered the profits of the business for the year in question, and it has considered the general practice in similar businesses.
+RatioOfTheDecision	But unfortunately the <ORG> has taken the view, which is clearly stated in the order, that what is reasonable has to be determined not with reference to each one of the considerations mentioned in Clauses (a), (b) and (c) of Section 10(2)(x).
+RatioOfTheDecision	Therefore, according to the <ORG>, if according to a consideration specified in Clauses (a) itself the amount of bonus or commission was not reasonable, then it would be open to the <ORG> to hold that it is unre asonable, cut it down, and not take into consideration the factors mentioned in Clauses.
+RatioOfTheDecision	(b) and (c).
+RatioOfTheDecision	Now that, with respect to the <ORG>, is a totally erroneous view of the law.
+RatioOfTheDecision	It may be that considering the factor referred to in Clauses (a) the commission or bonus may be unreasonable, it may be that taking the factor mentioned in Clause (b) again the commission or bonus may be unreasonable; but if the <ORG> Were at the same time to consider the factor mentioned in Clause (c) and pay attention to all the factors at the same time under Clauses (a), (b) and (c), the <ORG> may come to the conclusion that the bonus or commission or any portion of it was a reasonable bonus or commission: and therefore it is not a proper legal approach to determine the reasonableness of the commission or bonus by considering one or two of the three factors mentioned by the <ORG> separately without considering all of them together.
+RatioOfTheDecision	5.
+RatioOfTheDecision	In view of this approach of the <ORG>, we must hold that the <ORG> has mis directed itself in law in disallowing a part of the remuneration paid to Sarabhai.
+RulingByPresentCourt	We would, therefore, ask them to decide what is the proper remuneration which should be allowed to Sarabhai, taking into consideration all the factors mentioned in Clauses (a), (b) and (c) of Section 10(2)(x).
+RulingByPresentCourt	They will consider the evidence in the light of the judgment delivered by us and they will decide the reasonable remuneration on such evidence and such materials as are before them, having considered the evidence and the materials in the light of the factors mentioned by the <ORG> in Clauses.
+RulingByPresentCourt	(a), (b) and (c) of Section 10(2) (x).
+RatioOfTheDecision	6.
+RatioOfTheDecision	Turning to the questions, the first is unnecessary.
+RatioOfTheDecision	The answer to the second question is : Clause (x) of Section 10(2) applies and not Clauses (xv).
+RatioOfTheDecision	With regard to question No.
+RatioOfTheDecision	3, we would answer the first part in the affirmative.
+RatioOfTheDecision	The second part does not arise because it would be for the <ORG> in the light of the judgment to direct ic-self properly in law and to consider the eviden ce in the manner indicated by us in the judgment.
+RulingByPresentCourt	Question No.
+RulingByPresentCourt	4 does not arise.
+RulingByPresentCourt	7.
+RulingByPresentCourt	No order as to costs.
+RatioOfTheDecision	8.
+RulingByPresentCourt	Reference answered.

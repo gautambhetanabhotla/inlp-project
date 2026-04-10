@@ -1,0 +1,19 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	In view of the finding as to the nature of the discharge set up by the 1st defendant, the only question is, whether there is any objection to a suit by the plaintiff for his share.
+Fact	In the circumstances of the case, I think, there is no objection.
+Fact	As the plaintiff's partners refused to join as plaintiffs, the plaintiff did all he could when he made them defendants, and in view of their collusion with the 1st defendant, who contended that nothing was due to the partnership, the plaintiff was justified in confining the suit to his own share of, what he contended was due to, the partnership.
+Fact	The petition is dismissed with costs.
+Fact	<NAME>, J.
+Fact	2.
+Fact	I think the case is concluded by the findings of fact.
+Fact	The 2nd and 3rd defendants, acting in collusion with the 1st defendant and fraudulently, gave the 1st defendant a full discharge for the amount due to the partnership of which the plaintiff, and the 2nd, 3rd and 4th defendants were members.
+Fact	It also appears upon the evidence that the 1st defe ndant knew that the plaintiff was, as partner, entitled to a one-quarter share of the debt.
+Fact	That being so, the only question is, whether the plaintiff's suit, for his share of the debt, can be sustained, he having made his co-partners defendants in the action?
+RatioOfTheDecision	No doubt the general rule is that one partner can give a valid discharge of a debt due to his partnership but that rule has no application, if the discharge so given is in fraud of the aggrieved partner and is the result of collusion between the partner giving a discharge and the debtor.
+RatioOfTheDecision	To hold otherwise would be acting in contravention of every principle of honesty as pointed out in Piercy v. Fynney L.R.
+RatioOfTheDecision	12 Eq.
+RatioOfTheDecision	69 at p. 74 in a case, of which the facts were some what similar.
+RatioOfTheDecision	Nor does Section 45 of the Contract Act lay down any thing to the contrary.
+RatioOfTheDecision	The cases relied on by the petitioner, viz., <NAME> v. <ORG>, and <CITATION_1515519> 17 M. 12, have no relevant bearing on the present question.
+RulingByPresentCourt	This petition must be dismissed with cost s.

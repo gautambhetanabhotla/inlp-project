@@ -1,0 +1,70 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal by the first defendant against the preliminary decree for partition passed by the learned Subordinate Judge in O.S.
+Fact	No.
+Fact	24 of 1943.
+Fact	It is unnecessary to set out the facts of the case elaborately and it will be sufficient to confine the facts in so far as they are relevant to the disposal of the contentions that have been raised in this appeal.
+Fact	The first defendant and one <NAME> were brothers being members of an undivided Hindu joint family.
+Fact	The family owned properties specified in the various schedules attached to the plaint.
+Fact	<NAME> died in June, 1942, leaving behind him the plaintiff, his widow and an unmarried daughter, the second defendant.
+Fact	The widow instituted the present suit for partition and separate possession of a half share in the family properties basing her claim on the rights conferred upon her by the Hindu Women's Rights to Property Act , 1937.
+Fact	It has now been finally decided by <ORG> that this Act as it  then stood does not operate to regulate succession to agricultural land in the Governors' Provinces and also that it does not operate to regulate devolution by survivorship of such agricultural land.
+Argument	This Act so far as this Presidency is concerned was amended by the Madras Hindu Women's Rights to Property (Extension to Agricultural Land) Act, 1947 (Madras; Act XXVI of 1947) The amending Act does not help the plaintiff in respect of the agricultural lands involved in this suit as the amending Act applies only to the property of a Hindu dying intestate after the 26th November, 1946.
+Argument	As <NAME> died in June, 1942, the rights in the agricultural lands are governed by the ordinary Hindu law and not by the Act of 1937.
+Argument	2.
+Argument	The learned Subordinate Judge decreed the claim of the plaintiff in respect of the non-agricultural property, but disallowed the claim with regard to the agricultural lands.
+Fact	In this appeal by the first defendant the main and the most important question that was raised on his behalf  by his learned advocate relates to the share decreed in favour of the plaintiff by the learned Subordinate Judge in items 1, 2, 17 and 18 of Schedule II to the plaint.
+Fact	These items represent the produce of the land cultivated and harvested after the death of <NAME>.
+Fact	That is the finding of the learned Subordinate Judge and has not been seriously challenged before lis.
+Fact	The learned Subordinate Judge decreed a share in these items on the ground that the rights to property should be determined as on the date on which the plaintiff claimed a share by instituting the present suit for partition of the items and not as on the date of the death of her <NAME>.
+Fact	Under the Act , as it would be seen from the language of Section 3(2) the right is created in favour of the widow of a deceased coparcener in the property governed by the Act, her interest being the same as that of her <NAME>.
+Fact	As it has now been finally settled by the Federal Court that the Act does not apply to agricultural land in the Governors' P rovinces, it must be taken that when <NAME> died in June, 1942, his interest in the agricultural land survived to the other coparcener, namely, the first defendant and that thereafter he became the sole and exclusive owner of the agricultural lands.
+Fact	The produce of the lands thereafter belongs exclusively to the first defendant.
+Fact	If on the date of the death of her <NAME> the plaintiff had acquired no interest in the agricultural lands by virtue of the provisions of the Act, it is difficult to see how she could claim a share in the produce of the lands which upon the death of her <NAME> became the sole and exclusive property of the first defendant.
+Fact	The right of succession or of survivorship must be determined as on the date of the death of the <NAME> of the plaintiff and not as on the date of the institution of this suit for partition.
+Fact	If no interest in the agricultural lands devolved on the widow, i.e., the plaintiff, on the death of <NAME> Naicker in the income that subsequently accrued from suc h property the plaintiff gets no share or interest.
+RatioOfTheDecision	The reasoning therefore of the learned Judge on the basis of which he granted the decree for partition of these items of the second schedule to the plaint seems to lis to be entirely wrong.
+RulingByLowerCourt	Some light is thrown on this question by the decision of <ORG> in Mst.
+RulingByLowerCourt	<CITATION_1263333> .
+Fact	<NAME> (1947) 1 M.L.J.
+Fact	127 : 1946 F.L.J.
+Fact	110 though the question was not specifically raised in the form in which it arises for consideration before lis.
+Fact	In that case one <NAME> obtained possession of certain "agricultural lands" as a mortgagee.
+Fact	The mortgage contained no covenant to pay.
+Fact	<NAME> died leaving behind him surviving a widow and a predeceased son's widow.
+Fact	The mortgage was redeemed after his death and the widow received the entire amount due under the mortgage.
+Fact	The son's widow thereafter claimed a half share in the mortgage money and instituted a suit to recover that share from the widow or in the alternative from the legal representatives of t he mortgagor.
+Fact	She based her claim on Section 3 of the Hindu Women's Rights to Property Act , 1937.
+Argument	The main question that was considered in that case by <ORG> was whether the expression " agricultural land" occurring in entry 21 of List II of the VII Schedule of the Government of India Act, 1935, included also rights in agricultural land and whether a mortgage of the description which was then in dispute before <ORG> could be deemed to be agricultural land within the meaning of that list.
+Argument	It was held by <ORG> that the expression " agricultural land " included also a limited right such as that of a mortgage particularly when there was no covenant to pay and the only means by which the debt could be discharged was by remaining in possession of the lands and to receive the rents and profits until the mortgage money was repaid to the mortgagee.
+Argument	The contention, however, that the money that was collected after the death of <NAME> by his widow became property in which the so <NAME>'s widow acquired a<NAME> i<NAME>terest u<NAME>der the provisio<NAME>s of Sectio<NAME> 3 of the Act was <NAME>ot raised a<NAME>d if the argume<NAME>t that the rights should be determi<NAME>ed as o<NAME> the date of partitio<NAME> was permissible--eve<NAME> if it was <NAME>ot raised--their Lordships of <ORG> would <NAME>ot have omitted to co<NAME>sider a<NAME>d give effect to it However, o<NAME> the plai<NAME> la<NAME>guage of Sectio<NAME> 3 of the Act we have <NAME>o hesitatio<NAME> i<NAME> holdi<NAME>g that the rights should be determi<NAME>ed whether claimed by successio<NAME> or survivorship as o<NAME> the date of the death of the husba<NAME>d of the plai<NAME>tiff a<NAME>d <NAME>ot o<NAME> the date of the partitio<NAME> suit.
+Argument	If as stated above by reaso<NAME> of the death of Krish<NAME>a-<NAME> Naicker <NAME>o i<NAME>terest devolved o<NAME> the widow, the plai<NAME>tiff, i<NAME> the agricultural la<NAME>ds, u<NAME>der the ordi<NAME>ary Hi<NAME>du law which co<NAME>ti<NAME>ues to operate the first defe<NAME>da<NAME>t acquired the e<NAME>tire rights i<NAME> the agricultural la<NAME>ds by survivorship a<NAME>d the i<NAME>come of such la<NAME>ds would also partake the same character.
+Argument	The Act merely modified the right of successio<NAME> a<NAME>d survivorship of Hi<NAME>du law t o the extent to which it is indicated in the Act.
+Argument	It does not abrogate and repeal the Hindu law relating to succession and survivorship.
+Argument	In this view we think that the learned Subordinate Judge was wrong in allowing a share to the plaintiff in those items.
+Argument	We think therefore that the decree of the learned Subordinate Judge should be modified by excluding those items from partition.
+Argument	3.
+Fact	The next question for consideration is whether the house, item No.
+Fact	2 of Schedule I is the exclusive property of the first defendant.
+Fact	The learned Subordinate Judge-on the evidence before him found that the first defendant failed to establish that the house which stands in his name and which was purchased in 1939 was acquired without the aid of the joint family funds.
+Fact	He was the manager of the family and was receiving rents and profits of the joint family property.
+RatioOfTheDecision	The burden is entirely upon him to show by clear and cogent evidence that the property was acquired by his separate funds.
+RatioOfTheDecision	The first defendant failed to discharge the  burden that lies on him and we think that the finding of "the learned Subordinate Judge on this question is correct and must be upheld.
+Fact	It was faintly argued that the provision of Rs.
+Fact	2,000 for the marriage expenses of the second defendant is too high.
+Fact	In view of the fact that at least Rs.
+Fact	1,000 would be required for jewels and another Rs.
+Fact	1,000 for other expenses, on the evidence in the case it is difficult to agree with this contention.
+RatioOfTheDecision	We think that the provision made by the learned Subordinate Judge for the marriage expenses of the second defendant is reasonable and does not call for interference by this Court.
+RatioOfTheDecision	4.
+RatioOfTheDecision	There is also another contention relating to the pledge of jewels and it is alleged that the pledge really belongs to the sixth defendant.
+RatioOfTheDecision	The sixth defendant himself has not appealed against the finding of the learned Subordinate Judge and the case of the first defendant rests entirely upon the oral testimony of himself and of the sixth defendant.
+RatioOfTheDecision	For reasons given by the learned Subordinate J udge in paragraph 26 of the judgment we see no reason to differ from his conclusion on the point.
+RulingByPresentCourt	We think therefore that this contention also must be disallowed.
+RulingByPresentCourt	5.
+RulingByPresentCourt	In the result the appeal is allowed to the extent of directing the exclusion of items 1, 2, 17 and 18 of Schedule II to the plaint from partition.
+RulingByPresentCourt	The rest of the appeal is dismissed.
+RulingByPresentCourt	The parties will pay and receive proportionate costs.
+Argument	6.
+Argument	The direction regarding payment of Rs.
+Argument	2,000 for the marriage expenses of the second defendant should, we think, be modified by directing the first defendant to pay the amount to the mother soon after the marriage of the second defendant is fixed.

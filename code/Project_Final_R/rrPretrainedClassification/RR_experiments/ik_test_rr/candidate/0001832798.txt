@@ -1,0 +1,231 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: <NAME> & ORS.
+Fact	DATE OF JUDGMENT16/08/1984 BENCH: <NAME>, D.A.
+Fact	BENCH: <NAME>, D.A.
+Fact	ERADI, V. BALAKRISHNA (J) KHALID, V. (J) CITATION: 1984 AIR 1579 1985 SCR (1) 511 1984 SCC (4) 657 1984 SCALE (2)289 ACT: The Companies Act , 1956 , Section 446 (2) (b)-Scope of.
+Fact	Words and phrases-Meaning of "Court which is winding up the company" - Section 446 (2)- Companies Act , 1956.
+Fact	HEADNOTE: The appellant, a limited company governed by the Companies Act , 1956 (for short, the Act) challenged before a Division Bench of <ORG> the order of the Company Judge, winding up the appellant-company and appointing Official Liquidator, on three petitions moved by the creditors under s. 439 of the Act on the ground that the appellant-company was unable to pay its debts.
+RulingByLowerCourt	The appellate Bench of <ORG> disposed of the appeals after approving the scheme of compromise and arrangement under s. 391 of the Act and directed that (i) the winding up order passed by the  Company Judge shall be held in abeyance on certain undertakings being filed by the appellant company within the prescribed time before <ORG> to abide by the conditions imposed in the judgment; (ii) the Official Liquidator will be considered as appointed to function as the provisional Liquidator on the first payment of Rs.
+RulingByLowerCourt	25 lacs being made within four weeks of the judgment; and (iii) in case of any default the winding up order will stand confirmed.
+RulingByLowerCourt	Since then the scheme of compromise and arrangement was being implemented meticulously.
+RulingByLowerCourt	In the course of implementation of the scheme the appellant company moved an application before the Appellate Bench praying that the provisional Liquidator be directed to file claim petitions under s. 446 (2) of the Act for realising the claims of the company which would further assist and facilitate the implementation of the scheme of compromise and arrangement as supervised by the Court.
+RulingByLowerCourt	Respondent No.
+RulingByLowerCourt	1 opposed this application.
+RulingByLowerCourt	<ORG> while rejecting the ap plication, held that as the winding up proceeding in respect of the appellant-company is no more pending and there is no court which could be said to be the court winding up the company, the claim petition on behalf of the company which is not being wound up could not be instituted as contemplated by s. 446 (2).
+RulingByLowerCourt	Hence this appeal by special leave.
+RulingByLowerCourt	Allowing the appeal, 512 ^ HELD : (1) It would be advantageous to notice the historical evolution of the provision as well as its present setting before considering the true scope and ambit of the jurisdiction conferred on the court winding up a company by sec.
+RulingByLowerCourt	446(2) (b) of the Act.
+RulingByLowerCourt	Section 171 of the Indian Companies Act 1913, which did not contain any provision similar or identical to that of sec.
+Fact	446(2), is re-enacted with little modification as Sec.
+Fact	446(1) of the Companies Act 1956 Since there was no specific provision in the repealed Companies Act 1913 conferring jurisdiction on the court winding up the company analogous to the one conferred by sec.
+Argument	446(2), th e official Liquidator in order to realise and recover the claims and subsisting debts owed to the company had the unenviable fate of filing suits.
+Argument	To save the company which is ordered to be wound up from this prolix and expensive litigation and to keep all incidental proceedings in winding up before the court which is winding up the company, its jurisdiction was enlarged by sec.
+Argument	446(2) to entertain petition amongst others for recovering the claims of the company.
+Argument	This was the object behind enacting s. 446(2) and therefore it must receive such construction at the hands of the court as would advance the object and at any rate not thwart it.
+RatioOfTheDecision	[516H, 517A, B, 518A, B] 2.
+RatioOfTheDecision	Section 446(1) provides that when a winding up order has been made or the official Liquidator has been appointed as provisional Liquidator, no suit or other legal proceeding shall be commenced, or if pending at the date of the winding up order, shall be proceeded with, against the company, except by leave of the Court and subject to such terms as  the <ORG> may impose.
+RatioOfTheDecision	It envisages two situations in which the court will have jurisdiction to make the order thereunder contemplated.
+RatioOfTheDecision	These two situations are: where a winding up order has been made or where the official Liquidator has been appointed as provisional Liquidator.
+RatioOfTheDecision	The first of the two situations envisages an order for winding up of the company having been made and which is subsisting.
+RulingByLowerCourt	The second situation is where without making a winding up order, the <ORG> has appointed official liquidator to be the provisional Liquidator as contemplated by Sec.
+RulingByLowerCourt	450(1).
+RulingByLowerCourt	[518D, 519E, F] Sub-Sec.
+RulingByLowerCourt	(2) of Sec.
+RatioOfTheDecision	446 confers jurisdiction on the <ORG> which is winding up the company to entertain and dispose of proceedings set out in clauses (a) to (d).
+RatioOfTheDecision	The expression 'court which is winding up the company' will comprehend the <ORG> before which a winding up petition is pending or which has made an order for winding up of the company and further winding up proceedings are continued under its directions.
+RatioOfTheDecision	Undoubtedly, lo oking to the language of Sec.
+RatioOfTheDecision	446(1) and (2) and its setting in Part VII which deals with winding up proceedings would clearly show that the jurisdiction of the <ORG> to entertain and dispose of proceedings set out 513 in sub-cls.
+RatioOfTheDecision	(a) to (d) of sub-sec.
+RatioOfTheDecision	(2) can be invoked in the court which is winding up the company.
+RatioOfTheDecision	[520B-C] (3) Where a winding up petition is pending meaning thereby that an official Liquidator is appointed as provisional Liquidator which is a stage in the process of winding up, the court before which such proceeding is pending can be styled as a court winding up of the company and ipso facto it would have jurisdiction to entertain the proceeding enumerated in clauses (a) to (d) of sub-sec.
+Fact	(2) of sec.
+RulingByLowerCourt	446.
+RulingByLowerCourt	If the winding up petition fails the proceedings pending in the court may have to be transferred to the court which can entertain the proceeding.
+RulingByLowerCourt	But if the petition praying for winding up the company ends in a winding up order the proceedings intimated under sub-sec.
+RulingByLowerCourt	(2) will have to be p roceeded with till they are finally disposed of because winding up order will relate back to the date of the presentation of the winding up petition.
+RatioOfTheDecision	In this view of the matter no anomalous situation can ever arise.
+RatioOfTheDecision	Therefore, the apprehension of <ORG> that if such jurisdiction is conferred on the court at a stage anterior to the winding up order being made but subsequent to the appointment of official Liquidator as provisional Liquidator an anomalous situation would arise is not well founded.
+RatioOfTheDecision	[513B, C] (4) It is now well settled that a winding up order once made can be revoked or recalled but till it is revoked or recalled it continues to subsist.
+RatioOfTheDecision	Now, it the winding up order is subsisting the court which made that order or the court which kept it in abeyance will have jurisdiction to give necessary directions to the provisional Liquidator to take recourse to s. 446(2) .
+RatioOfTheDecision	[522B-C] (5) In the instant case.
+RatioOfTheDecision	The winding up order made by the learned Company Judge in respect of the appellant- company has  neither been quashed set, aside, cancelled revoked nor recalled.
+RatioOfTheDecision	Therefore, the winding up order was effectively subsisting but inoperative for the time being, having all the potentiality of being rejuvenated or being brought back to life.
+Precedent	<ORG> was in error in rejecting the application, since its approach in giving a restricted meaning to the expression 'court which is winding up the company' under sub sec.
+Precedent	(2) by restricting it to the first situation under section 446(1) overlooks the objects and purpose sought to be achieved by introducing sub-section (2) in section 446 .
+Precedent	[521G, H, 522A, F] Official Liquidator v. <NAME> and Ors.
+Precedent	(1977) <ORG> 30 and <CITATION_717756> .
+Precedent	48 Company Cases; over-ruled.
+Precedent	514 JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Precedent	2528 of  184.
+Fact	From the Judgment and Order dated the 18th August, 1983 of <ORG> in CMP.
+Fact	No.
+Precedent	14913 of 1983 in MFA.
+Precedent	No.
+Precedent	518-20 of 1981.
+RatioOfTheDecision	<NAME> and <NAME> for the Appellant.
+RatioOfTheDecision	<NAME> for the Resp ondent.
+RatioOfTheDecision	<NAME> and <NAME> for Intervener.
+Fact	The Judgment of the Court was delivered by <ORG>, <ORG> herein, ('<ORG>' for short) is governed by the Companies Act , 1956.
+RulingByLowerCourt	Three petitions being <ORG> Petitions Nos.
+RulingByLowerCourt	9/81, 8/81 and 49/81 were moved by the creditors of the <ORG> under Sec.
+RulingByLowerCourt	439 of the Companies Act praying for winding up of the <ORG> on the ground that it was unable to pay its debts.
+RulingByLowerCourt	The learned <ORG> Judge passed an order winding-up the <ORG> and appointed official Liquidator to be the Liquidator of the <ORG>.
+RulingByLowerCourt	This order was challenged in MFA Nos.
+RulingByLowerCourt	578, 579 and 520 of 1981 which came up for hearing before <ORG> of <ORG>.
+RulingByLowerCourt	The judgment of <ORG> is reported in <CITATION_13266> .
+RulingByLowerCourt	(1) The appeals were disposed of after approving the scheme of compromise and arrangement under Sec.
+Argument	391 of the Companies Act directing that the winding-up order shall be held in abeyance on certain undertakings to be filed b y the Company before the court within the prescribed time to abide by the conditions imposed in the judgment and if there be any default in the matter of performing of the conditions so imposed, and/or undertaking is not filed as directed therein, the winding-up order made by the learned Judge will stand confirmed.
+Argument	A further direction in this behalf given by the court is material and may be extracted:  "On the first payment of Rs.
+RatioOfTheDecision	25,00,000 being made within four weeks from this date the winding up order will be held in abeyance and thereupon the official Liquidator will be considered as appointed to function as the Provisional Liquidator subject to such restrictions on his powers and privileges as we may indicate here."
+RatioOfTheDecision	Since then the scheme of compromise and arrangement as set out in the judgment of <ORG> is being implemented and we were informed that an amount of Rs.
+RatioOfTheDecision	2.40 crores has already been disbursed amongst the claimants/creditors of the company.
+RatioOfTheDecision	We were also informed that the scheme of  compromise and arrangement is being meticulously implemented under the supervision of the court as directed by <ORG>.
+RatioOfTheDecision	In the course of implementation of the scheme, it became necessary to recover certain debts and claims due in favour of the <ORG>.
+Precedent	For this purpose Civil Misc.
+Precedent	Application No.
+Argument	14913 of 1983 was moved before <ORG> praying for a direction that the provisional Liquidator be directed to file claim petitions under Sec.
+Argument	446 (2) of the Companies Act in the <ORG> Court for realising the claims of the <ORG>, which would further assist and facilitate the implementation of the scheme of compromise and arrangement as supervised by the court.
+Argument	<NAME> was impleaded as the first respondent and the provisional Liquidator was impleaded as the second respondent.
+RulingByLowerCourt	It appears to have been contended before the court that as there was no winding up proceeding pending before the <ORG> Judge or <ORG> and as the <ORG> is being managed under the sche me of compromise and arrangement, <ORG> will have no jurisdiction to entertain the claim petition under Sec.
+RulingByLowerCourt	446 (2) of the Companies Act .
+RulingByLowerCourt	This contention found favour with <ORG> and the Civil Misc.
+RulingByLowerCourt	Petition was rejected.
+RulingByLowerCourt	Relying upon the decision in <CITATION_1097004> aud Ors.
+RulingByLowerCourt	(1) and <CITATION_717756> .
+RulingByLowerCourt	(2) the court concluded that the right to avail of the remedy by filing a claim petition conferred by Cl.
+RulingByLowerCourt	(b) of Section 446 (2) can be availed of only in a court which is winding up the company.
+RulingByLowerCourt	Hence this appeal by special leave.
+RulingByLowerCourt	After the special leave was granted, a notice was served upon the provisional Liquidator informing him that the appeal will be listed for final hearing on August 1, 1984.
+Fact	Even after the intimation the provisional Liquidator did not choose to appear at the hearing.
+Fact	C. M. P. No.
+Fact	6062 of 1984 was moved on behalf of <ORG> through its Secretary Mr. <NAME> seeking intervention in the matter.
+Fact	Intervention was permitted.
+Fact	Upon its true construction, what is the scope and ambit of the jurisdiction conferred on the court winding up a company by Sec.
+Fact	446 (2) (b) is the only question of law that arises in this appeal and may be answered in the facts and circumstances of the case.
+Fact	Sec.
+Statute	446 (2) reads as under:  "446 (2) : The Court which is winding up the company shall, notwithstanding anything contained in any other law for the time being in force, have jurisdiction to entertain, or dispose of-  (a) any suit or proceeding by or against the company;  (b) any claim made by or against the company (including claims by or against any of its branches in India);  (c) any application made under Section 391 by or in respect of the company;  (d) any question of priorities or any other question whatsoever, whether of lay or fact, which may relate to or arise in course of the winding up of the company;  whether such suit or proceeding has been instituted or is instituted, or such claim or question had arisen or arises or such application has  been made or is made before or after the order for the winding up of the company, or before or after the commencement, of the Companies (Amendment) Act , 1960."
+RatioOfTheDecision	Before we advert to the question of construction of Sec.
+RatioOfTheDecision	446 (2) (b), it would be advantageous to notice the historical evolution of the provision as well as its present setting.
+RatioOfTheDecision	Sec.
+RatioOfTheDecision	171 of the Indian Companies Act , 1913, the predecessor of Sec.
+Fact	446 (1) did not contain any provision similar or identical to that of Sec.
+Fact	446 (2).
+Fact	Sec.
+RulingByLowerCourt	171 only provided for stay of suits and proceedings pending at the commencement of winding up proceeding, and embargo against the commencement of any suit or other legal proceedings against the company except by the leave of the court.
+RulingByLowerCourt	This provision with little modification is re-enacted in Sec.
+RulingByLowerCourt	446 (1).
+RulingByLowerCourt	There was no specific provision conferring jurisdiction on the court winding up the company analogous to the one, conferred by Sec.
+RulingByLowerCourt	446 (2).
+RulingByLowerCourt	Sub-sec.
+RulingByLowerCourt	(2) was introduced to enlarge the jurisdiction of the court winding  up the company so as to facilitate the disposal of winding up proceedings.
+RulingByLowerCourt	The provision so enacted probably did not meet with the requirement with the result that the <ORG> appointed for examining comprehensive amendment to the Companies Act in its report recommended that 'a suit' by or against a company in winding up should notwithstanding any provision in law for the time being be instituted in the court in which the winding up proceedings are pending.
+RulingByLowerCourt	(1) 'To give effect to these recommendations, sub-sec.
+Fact	(2) was suitably amended to bring it to its present from by Companies (Amendment) Act , 1960.
+Fact	The <ORG> noticed that on a winding up order being made and the Official Liquidator being appointed a Liquidator of the company, he has to take into his custody company property as required by Sec.
+Fact	456.
+Fact	Sec.
+Fact	457 confers power on him to institute or defend any suit, prosecution, or other legal proceeding, civil or criminal, in the name and on behalf of the company.
+Fact	Power is conferred upon him to sell the  properties both movable and removable of the company and to realise the assets of the company and this was to be done for the purpose of distributing the assets of the company amongst the claimants.
+Fact	Now at a stage when a winding up order is made the company may as well have subsisting claims and to realise these claims the Liquidator will have to file suits.
+Fact	To avoid this eventuality and to keep all incidental proceedings in winding up before the court which is winding up the company, its jurisdiction was enlarged to entertain petition amongst others for recovering the claims of the company.
+Fact	In the absence of a provision like Sec.
+Fact	446 (2) under the repealed Indian Companies Act , 1913, the official Liquidator in order to realise and recover the claims and subsisting debts owed to the company had the unenviable fate of filing suits.
+Fact	These suits as is not unknown, dragged on through the trial court and Courts of appeal resulting not only in multiplicity of proceedings but would hold up the progress of the windi ng up proceedings.
+Fact	To save the company which is ordered to be wound up from this prolix and expensive litigation and to accelerate the disposal of winding up proceedings, the parliament devised a cheap and summary remedy by conferring jurisdiction on the court winding up the company to entertain petitions in respect of claims for and against the company.
+Statute	This was the object behind enacting Sec.
+Statute	446 (2) and therefor, it must receive such construction at the hands of the court as would advance the object and at any rate not thwart it.
+Statute	The fasciculus of sections included in Part VII of the Companies Act bears the heading 'Winding up'.
+Statute	Sec.
+Statute	443 sets out the circumstances in which a company may be wound up by the court.
+Statute	Sec.
+Statute	444 provides that where the court makes an order for the winding up of a company, the <ORG> shall forthwith cause intimation thereof to be sent to the official Liquidator and the Registrar.
+Statute	Sec.
+Statute	446(1) provides that when a winding up order has been made or the official Liquidator has been app ointed as provisional liquidator, no suit or other legal proceeding shall be commenced, or if pending at the date of the winding up order, shall be proceeded with, against the company, except by leave of the <ORG> and subject to such terms as the court may impose.
+Precedent	Then comes sub-sec.
+Precedent	(2) of Sec.
+Precedent	446.
+Precedent	It specifies the contours of the jurisdiction of the court which is winding up the company.
+Precedent	It confers special jurisdiction on the <ORG> which is winding up the company to do things that are set out in the various sub-clauses notwithstanding anything contained in any other law for the time being in force.
+Precedent	Sec.
+Precedent	446 (2) thus conferred special jurisdiction on the court winding up the company which otherwise it may not have enjoyed.
+Precedent	The court in the Companies Act is defined in Sec.
+RatioOfTheDecision	2 (11) to mean with respect to any matter relating to a company (other then any offence against this Act), the <ORG> having jurisdiction under the Act with respect to that matter relating to that company, as provided in Section 10 .
+Statute	Sectio n 10 provides that the court having jurisdiction under the Act shall be <ORG> having jurisdiction in relation to the place at which the registered office of the company concerned is situate, except to the extent to which jurisdiction has been conferred on any <ORG> or <ORG>s subordinate to that High <ORG> in pursuance of sub-sec.
+RatioOfTheDecision	(2).
+RatioOfTheDecision	The winding up petition has thus to be presented in <ORG> before the Judge who is assigned the work under the Companies Act .
+RatioOfTheDecision	Therefore, the <ORG> which is winding up the <ORG> will be the court to whom the petition for winding up was presented and which passed the order for winding up the <ORG>.
+RatioOfTheDecision	In this case, the order was made by the learned <ORG> Judge in the Kerala High <ORG> directing winding up the company.
+RatioOfTheDecision	An appeal lies against the order for winding up the <ORG> under section 483 to the same court to which and in the same manner in which and subject to the same conditions under which, appeals lie from any order or decision of t he court in cases within its ordinary jurisdiction.
+RulingByLowerCourt	In exercise of this <ORG> jurisdiction, the <ORG> Bench entertained the appeals and directed that the winding up order shall be held in abeyance till the scheme is implemented and if any default is committed the winding up order made by the learned Company Judge would be revived.
+RulingByLowerCourt	The <ORG> Bench declined to direct the provisional Liquidator to file claim petition at the instance of the company under Sec.
+RatioOfTheDecision	446 (2) (b) on the sole ground that such a petition at the instance of the Liquidator would be maintainable in the course of winding up of proceedings which means that the winding up proceedings are pending.
+RatioOfTheDecision	Undoubtedly, Sec.
+RatioOfTheDecision	446 (1) manifests the legislative intention that the procedure thereunder prescribed could be availed off when the winding up order has been made or where the official Liquidator is appointed as the provisional Liquidator.
+RatioOfTheDecision	Sec.
+RatioOfTheDecision	446 (1) invisages two situations in which the court will have jurisdiction to make the order ther eunder contemplated.
+RatioOfTheDecision	These two situations are: where a winding up order has been made or where the official Liquidator has been appointed as provisional Liquidator.
+RatioOfTheDecision	The first of the two situations envisages an order for winding up of the Company having been made and which is subsisting.
+RatioOfTheDecision	The second situation is where without making a winding up order, the court has appointed official Liquidator to be the provisional Liquidator.
+RatioOfTheDecision	Sec.
+RatioOfTheDecision	450 (1) of the Companies Act confers power on <ORG> to appoint official Liquidator to be provisional Liquidator at any time after the presentation of the winding up petition and before making of the winding up order.
+RatioOfTheDecision	The Court before which a winding up petition is presented has power to appoint official Liquidator as provisional Liquidator of the Company even before making the winding up order.
+RatioOfTheDecision	If ultimately winding up order is made, the official Liquidator acts as such.
+RatioOfTheDecision	And let it be remembered that where a winding up order is made, it relates back to the date when pet ition for winding up is presented.
+RatioOfTheDecision	Referring to Sec.
+RulingByLowerCourt	446 (1) it becomes clear that the court will have jurisdiction to make the order therein contemplated, where a winding up order has been made or prior to the making up of the winding up order, official Liquidator has been appointed as provisional Liquidator as contemplated by Sec.
+RulingByLowerCourt	450 (1).
+RulingByLowerCourt	Sub-sec.
+RulingByLowerCourt	(2) of Sec.
+Statute	446 confers jurisdiction on the court which is winding up the company to entertain and dispose of proceedings set out in clauses (a) to (d).
+RatioOfTheDecision	The expression 'court which is winding up the company' will comprehend the court before which a winding up petition is pending or which has made an order for winding up of the company and further winding up proceedings are continued under its directions.
+RatioOfTheDecision	Undoubtedly, looking to the language of Sec.
+RatioOfTheDecision	446 (1) and (2) and its setting in Part VII which deals with winding up proceedings would clearly show that the jurisdiction of the court to entertain and dispose of proceedings set out in sub-cls.
+RatioOfTheDecision	(a) to (d) of sub-s ec.
+RatioOfTheDecision	(2) can be invoked in the court which is winding up the company.
+RatioOfTheDecision	Reverting to the facts of this case, <ORG> held that as the winding up proceeding in respect of the appellant company is no more pending, and there is no court which could be said to be the court winding up the company and therefore, the claim petition on behalf of the company which is not being wound up could not be instituted as contemplated by Sec 446 (2).
+Precedent	In reaching this conclusion, <ORG> gave a restricted meaning to the expression 'court which is winding up the company' in sub- sec.
+Argument	(2) by restricting it to the first situation in Sec 446 (1) namely, when an order of winding up has been made.
+Argument	<ORG> appeared to be of the view that where the official Liquidator has been appointed as the provisional Liquidator which implies that no winding up order has been made, jurisdiction under Sec.
+Argument	446 (2) cannot be invoked.
+Argument	The Court felt that an anomalous situation would arise if claim petitions are moved u nder Sec.
+Argument	446 (2) (b) at a stage when no winding up order has been made because if ultimately the winding up order is not made, the proceedings initiated under Sec.
+Argument	446 (2) (b) by the provisional Liquidator would be wholly without jurisdiction.
+RatioOfTheDecision	The approach of <ORG>, with respect, overlooks the object and purpose sought to be achieved by introducing sub-sec.
+RatioOfTheDecision	(2) in Sec.
+Precedent	446 by Amending Act 65 of 1960.
+Argument	As noted earlier, winding up proceedings dragged on far decades with no end in sight and with no benefit to the creditors and contributories of the <ORG>.
+Argument	To accelerate the process of winding up so as to bring them to an end, this sub-section was amended in its present form in 1960 conferring jurisdiction on the court winding up the company to entertain amongst others any suit or proceeding by or against the company or any claim made by or against the company.
+Argument	If therefore, a winding up petition is pending meaning thereby that an official Liquidator is appointed as provisional Liquidator which is a s tage in the process of winding up, the court before which such proceeding is pending can be styled as a court winding up of the company and ipso facto it would have jurisdiction to entertain the proceeding enumerated in clauses (a) to (d) of sub-sec.
+Fact	(2) of Sec.
+Fact	446.
+RatioOfTheDecision	The apprehension of <ORG> that if such jurisdiction is conferred on the court at a stage anterior to the winding up order being made but subsequent to the appointment of official Liquidator as provisional Liquidator an anomalous situation would arisen has left us unimpressed.
+RatioOfTheDecision	If the winding up petition fails the proceedings pending in the court may have to be transferred to the court which can entertain the proceeding.
+RulingByLowerCourt	But if the petition praying for winding up the company ends in a winding up order the proceedings initiated under sub- sec.
+RatioOfTheDecision	(2) will have to be proceeded with till they are finally disposed of because winding up order will relate back to the date of the presentation of the winding up petition.
+RatioOfTheDecision	In this view of the matter no  anomalous situation can ever arise.
+RatioOfTheDecision	However, the narrow question which is required to be considered in this appeal is: whether the winding up proceedings were pending or had come to an end when <ORG> froze the winding up order by keeping it in abeyance ?
+RatioOfTheDecision	Let it be made at once clear that the winding up order made by the learned <ORG> Judge in respect of the appellant <ORG> has neither been quashed, set aside, cancelled revoked nor recalled.
+RatioOfTheDecision	On the contrary after directing that the winding up order shall be held in abeyance, <ORG> directed that official Liquidator shall continue to act as provisional Liquidator as provided by Sec.
+RatioOfTheDecision	450 and that itself is a stage in the winding up proceedings.
+RatioOfTheDecision	When winding up order is kept in abeyance it is in a state of suspended animation.
+RatioOfTheDecision	The fact that <ORG> directed that pending the implementation of the scheme as sanctioned by <ORG>, the winding up order will be kept in abeyance itself without anything more shows that  the order was neither cancelled nor recalled nor revoked nor set aside.
+RatioOfTheDecision	It continued to exist but was inoperative.
+RatioOfTheDecision	Any default on the part of the <ORG> in carrying out its obligation under the scheme by itself without anything more would revive the winding up order.
+RatioOfTheDecision	Therefore, the winding up order was effectively sub-  522  sisting but inoperative for the time being, Having all the potentiality of being rejuvenated or being brought back to life.
+RatioOfTheDecision	Now if the winding up order was merely held in abeyance i.e.
+RatioOfTheDecision	it was not operative for the time being, but it had not ceased to exist, the winding up proceedings are in fact pending and the court which made the winding up order would be the court which is winding up the <ORG>.
+RatioOfTheDecision	It is now well-settled that a winding up order once made can be revoked or recalled but till it is revoked or recalled it continues to subsist.
+RatioOfTheDecision	That is the situation in this case.
+RatioOfTheDecision	If the winding up order is subsisting the court which made that order or the court which kept it in abeyance wi ll have jurisdiction to give necessary directions to the provisional Liquidator to take recourse to Sec.
+RatioOfTheDecision	446(2).
+RatioOfTheDecision	In passing it was stated that the Company sought the direction from the Appellate Bench and not from the Court which was winding up the Company i.e.
+RatioOfTheDecision	the court of the Learned Company Judge which made the winding up order.
+RatioOfTheDecision	That of course is true but even taking a very technical view of the matter, the appellant was perfectly justified in moving the petition before <ORG> because it was <ORG> which was supervising the implementation of the scheme of compromise and arrangement and it was <ORG> in the appeal before it against the order of winding up that had kept the winding up order in abeyance.
+RulingByPresentCourt	The direction was rightly therefore, sought from the Appellate Bench.
+RulingByPresentCourt	Having thus examined the matter from all angles, we are of the view that <ORG> was in error in rejecting the application made on behalf of the appellant-Company for directing the provisional Li quidator to prefer claims petitions on the materials and expenses to be furnished by the <ORG>.
+RulingByPresentCourt	The amounts realised by the provisional liquidator on filing claim petitions shall be handed over to the <ORG> and the appellant-<ORG> is under an obligation to use, spend, and appropriate them in the implementation of the scheme under the supervision of the court.
+RulingByPresentCourt	This appeal accordingly succeeds and is allowed and the order of <ORG> under appeals is set aside.
+RulingByPresentCourt	The application for the directions to the provisional Liquidator made by the appellant <ORG> is granted and directions in terms of the prayer are hereby made.
+RulingByPresentCourt	The appellant shall bear its own costs.
+Precedent	M.L.A.
+RulingByPresentCourt	Appeal allowed.

@@ -1,0 +1,25 @@
+Fact	JUDGMENT <NAME>, <NAME>.
+Fact	On 3-1-1984 at about 3-45 p. m. near Vomanjoor on Mangalore-Gurpur Road, there was a collision between Motor Lorry bearing No.
+Fact	MYK 4985 and <ORG> as a result of which he sustained injuries and died on 5-1-1964 in the hospital.
+Fact	His wife and three children filed an application under Section 110-A of the Motor Vehicles Act, claiming compensation of Rs.
+Fact	15,000/- before <ORG>, Mangalore.
+Fact	The vehicle in question had been insured, as required under the Motor Vehicles Act with <ORG>, Mangalore.
+Fact	The insured and the insurer were both made parties to the proceedings.
+Fact	After trial, the <ORG> came to the conclusion that due to the negligence on the part of the driver of the vehicle, the collision took place as a result of which <NAME> died.
+Fact	The <ORG> awarded compensation of Rs.
+Fact	8,850/- in all, to the claimants.
+Fact	Against this decision, the owner of the vehicle has not preferred any appeal, but the insur er namely, <ORG>, Mangalore has filed the present appeal.
+Argument	2.
+Argument	Mr. <NAME>, appearing for the claimants, urged that the appeal filed by the insurer is not maintainable on the grounds now taken in the appeal memo.
+Argument	The oaly grounds that the insurer has taken in this appeal are: (1) that there was no negligence on the part of the driver of the vehicle; and (2) that the amount awarded is excessive.
+RatioOfTheDecision	3.
+RatioOfTheDecision	It is undisputed that the insurer can only take objections as provided under Section 96 (2) of the Motor Vehicles Act , 1939.
+Statute	Section 96 (2) provides:  "No sum shall be payable by an insurer under Sub-section (1) in respect of any judgment unless before or after the commencement of the proceedings in which the judgment is given the insurer had notice through the court of the bringing of the proceedings, or in respect of any judgment so long as execution is stayed thereon pending an appeal; and an insurer to whom notice of the bringing of any such proceedings is so given shall  be entitled to be made a party thereto and to defend the action on any of the following grounds, namely:--  (a) that the policy was cancelled by mutual consent or by virtue of any provision contained therein before the accident giving rise to the liability, and that either the certificate of insurance was surrendered to the insurer or that the person to whom the certificate was issued has made an affidavit stating that the certificate has been lost or destroyed, or that either before or not later than fourteen days after the happening of the accident the insurer has commenced proceedings for cancellation of the certificate after compliance with the provision of Section 105 ; or  (b) that there has been a breach of a specified condition of the Policy, being one of the following conditions namely:--  "(i) a condition excluding the use of vehicle-  (a) for hire or reward, where the vehicle is on the date of the contract of insurance a vehicle not covered by a permit to ply for hire or reward, or  (b) for organis ed racing and speed testing, or  (c) for a purpose not allowed by the permit under which the vehicle is used, where the vehicle is a transport vehicle, or  (d) without side-car being attached, where the vehicle is a motor cycle; or  (ii) a condition excluding driving by a named person or persons or by any person who is not duly licenced, or by any person who has been disqualified for holding or obtaining a driving licence during the period of disqualification; or  (iii) a condition excluding liability for injury caused or contributed to by conditions of war, civil war, riot civil commotion; or  (c) that the policy is void on the ground that it was obtained by the non-disclosure of a material fact or by a representation of fact which was false in some material particular."
+RatioOfTheDecision	4.
+RatioOfTheDecision	It is, therefore, clear from the above mentioned provisions that the insurer is not permitted to raise any objections on grounds other than those specified under Sub-section (2) of Section 96 .
+RatioOfTheDecision	It is not open to the insurer to urge befor e the <ORG> that there was no negligence on the part of the person driving the vehicle and that the compensation claimed is excessive.
+RatioOfTheDecision	It follows therefore that it cannot prefer an appeal on these grounds which the insurer could not urge before the <ORG>.
+RatioOfTheDecision	This view of ours is fortified by the decision of <ORG> in <CITATION_135147> , .
+RatioOfTheDecision	5.
+RulingByPresentCourt	In view of the above, this appeal fails and is accordingly dismissed with costs.
+RulingByPresentCourt	Appeal dismissed.

@@ -1,0 +1,138 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is a tax case appeal by the erstwhile partners of <ORG>, against the order of <ORG>, revising the order of the Appellate Assistant Commissioner and also the order of assessment of the Joint Commercial Tax Officer, Tondiarpet, withdrawing the exemption granted with respect to certain turnover for the assessment year 1969-70.
+Fact	2.
+Fact	For the assessment year 1969-70, the appellants, manufacturers and dealers in M.S.
+Fact	rounds, were assessed on a total and taxable turnover of Rs.
+Fact	35,91,555.70 and Rs.
+Fact	5,26,237.20 respectively by the Joint Commercial Tax Officer, Tondiarpet, by his order dated 19th May, 1975 and he has exempted to the tune of Rs.
+Fact	30,65,318.59 relating to sale of M.S.
+Fact	rounds rerolled out of local purchases of scrap.
+Fact	The taxable turnover of Rs.
+Fact	5,26,237.20 related to sales of M.S.
+Fact	rounds amounting to Rs.
+Fact	5,23,375.20 and Rs.
+Fact	2,862 related to sales of machinery.
+Fact	The assessee filed an appeal before the Appellate Assistant Commissioner  disputing the assessment made on the above two items.
+Fact	The Appellate Assistant Commissioner by his order dated 29th August, 1975 confirmed the assessment made at Rs.
+Fact	2,862 towards the sales of machinery and out of the disputed turnover of Rs.
+Fact	5,23,375.20 he gave relief to a turnover of Rs.
+Fact	4,51,000.
+Fact	<ORG> by exercising its power under section 34 of the Tamil Nadu General Sales Tax Act, 1959, after notice to the erstwhile partners of the appellant since the partnership had since stood dissolved and after hearing the submissions made by the partners of the assessee, revised the orders of the assessing officer and the Appellate Assistant Commissioner and determined the taxable turnover at Rs.
+Fact	35,01,984.
+Fact	<ORG> have come to the conclusion that the sales of M.S.
+Fact	rounds, manufactured out of local purchases of iron scrap, are also liable to tax though the iron scrap suffered tax earlier in view of the decision of <ORG> reported in <NAME> case [1976] 37 STC 319.
+Fact	T he present appeal is against the order dated 30th June, 1978 of <ORG> by the erstwhile partners of the firm, the appellants.
+Argument	3.
+Argument	In the appeal it is contended that the decision reported in <NAME> case is not applicable to the case on hand and the case of the appellants falls under section 14(iv)(c) of the Central Sales Tax Act, 1956 read with corresponding item 4(c) of the Second Schedule to the Tamil Nadu General Sales Tax Act, 1959.
+Argument	But the said contention was given up in the course of the argument.
+Argument	However, the learned counsel submitted that the assessment was made, granting exemption with respect to certain portions of turnover, as per the then prevailing decision of <ORG> and the revision has been made by <ORG> just on the basis of the subsequent decision of <ORG>.
+Argument	The learned counsel submitted that (1) <ORG> has exceeded its jurisdiction in revising the assessment beyond the period of limitation prescribed under secti on 16 of the Act; (2) that <ORG>, under the guise of revision, cannot pass an original order of assessment; (3) that <ORG>, in exercise of power of revision, cannot determine the taxable turnover in excess of the figure arrived at by the assessing officer; and (4) that <ORG> cannot set aside simultaneously under section 34 of the Act the order of the Joint' Commercial Tax Officer as well as the order of the Appellate Assistant Commissioner.
+Fact	For the first two submissions, the learned counsel relied on <CITATION_905182>  26 STC 176 (Mad.).
+Fact	For the third submission he relied on <CITATION_1483067>  40 STC 228 (Mad.)
+Fact	and for the last submission he relied on <CITATION_1073776> .
+Argument	4.
+Argument	The learned Government Pleader submitted that the period of limitation under section 16 of the Tamil Nadu General Sales Tax Act will not apply to a revision under section 34 of the Act and both are independent sections governed by restrictions mentioned therein as held in <CITATION_363381>  4 4 STC 446 (Mad.)
+Argument	and <ORG> (P.) <CITATION_85571316>  57 STC 74 (Mad.).
+Argument	Further the learned Government Pleader submitted that the facts relating to <CITATION_905182>  26 STC 176 (Mad.)
+Argument	are distinguishable as held in the later decision reported in <CITATION_547228>  31 STC 330 (Mad.).
+Argument	Further it is submitted that it is not a case of original assessment by <ORG> but a case of bringing to tax certain turnover to which exemption was granted wrongly.
+Argument	Under the power of revision the <ORG> can reassess the previous turnover, for which the learned Government Pleader relied on <CITATION_1357853> .
+Argument	As regards the third submission, the learned Government Pleader submitted that it is not a case of actual revision of the Appellate Assistant Commissioner alone but the order of the assessing officer also and therefore, <CITATION_1483067>  40 STC 228 (Mad.)
+Argument	is not applicable to this case, which arose under the Pondicherry General Sales Tax Act.
+Argument	Further there is no substance in the  last ground and that the proposal was to revise the order of the assessing officer as well as the appellate authority, and therefore, it cannot be contended that only one of the orders alone can be revised.
+Argument	5.
+Argument	The learned counsel for the appellants mainly relied on <CITATION_905182>  26 STC 176 (Mad.)
+Argument	which in turn relied on a decision of <ORG> in <CITATION_740591>  16 STC 875.
+Argument	Section 16 of the Act gives power to the assessing officer to bring to tax the turnover which escaped original assessment and that power can be exercised by the assessing officer within a period of five years from the expiry of the year to which the tax relates.
+Argument	Under section 34 of the Act as it then stood, <ORG> can revise the order of any taxing authority subordinate to it like the assessing officer, Appellate Assistant Commissioner and Deputy Commissioner within a period of four years from the date of the order sought to be revised (now raised to five years).
+Argument	<CITATION_905182>  26 STC 176 (Mad.)
+Argument	the asses see was reassessed on the basis of discovery of materials subsequent to the original assessment and his taxable turnover was redetermind with an addition of Rs.
+Precedent	11,052.
+Precedent	On appeal the Appellate Assistant Commissioner, deleted the additional assessment of Rs.
+Precedent	11,052.
+Precedent	Subsequently, on a revision, the <ORG>, rejecting the claim of the assessee that the proceedings by the <ORG> were barred by the limitation of five years, passed an original order of assessment refixing the taxable turnover.
+Precedent	In that case, this Court held that :  "in passing an original order of assessment the <ORG> exceeded its powers under section 34 and that the order was also passed beyond time.
+Precedent	Therefore, the order was unenforceable in law."
+Precedent	In that case, subsequent to the appellant getting some partial relief in appeal, the <ORG> revised the original assessment by itself estimating the escaped turnover.
+Precedent	The court held that the power of revision by the <ORG> is subject to the provisions of the Act and section 16 provides a limitation that the  assessment should be revised within a period of five years subsequent to the order for which tax is levied, and therefore the revision of that assessment under section 34 of the Act is also subject to the restriction placed under section 16 of the Act.
+Precedent	Thus it was held that <ORG> cannot revise any order by revision after expiry of five years subsequent to the order by which tax was revised under section 16 of the Act and it cannot take the role of the assessing authority, by embarking upon a probing enquiry.
+Precedent	The <ORG> could consider only whether the order passed by the authority is illegal or improper or whether the proceedings are irregular, as laid down in <CITATION_740591> which considered the Kerala General Sales Tax Act and Rules.
+RatioOfTheDecision	Factually in this case, the original assessment was not revised under section 16 of the Act before the assessment was subject to revision by <ORG>.
+RatioOfTheDecision	Moreover, there is no estimate made by <ORG> in the instant case unlike the cases cit ed above.
+RatioOfTheDecision	This is a case of withdrawing the exemption by <ORG> with respect to a turnover which was wrongly given by the assessing officer.
+Fact	Here the turnover has been already determined by the assessing officer.
+RulingByLowerCourt	The question that was to be decided was whether the exemption granted by the assessing officer with respect to certain turnover was legally correct.
+RulingByLowerCourt	Therefore, the decision cited above will not apply to this case.
+RulingByLowerCourt	In the decision reported in <CITATION_547228>  31 STC 330 a Bench of this Court consisting of <NAME>, J., and <NAME>, J.
+RatioOfTheDecision	[as pointed out already, <NAME>, J., was a party to the earlier decision in  26 STC 176 ( <CITATION_905182> )], has held that the power of the original authority under section 16 and the power of the Deputy Commissioner under section 32 (which is analogous to section 34 ) of the Tamil Nadu General Sales Tax Act are independent powers and controlled by the respective sections.
+RatioOfTheDecision	Therefore the limitation provided under section 16 of the Act cannot be  applied in exercise of power by the Deputy Commissioner under section 32 of the Act.
+RatioOfTheDecision	It is further held that the power of revision by the Deputy Commissioner is a separate and independent power and can be exercised to revise an order of assessment within a period prescribed under that section and it can also be revised by the assessing authority by correcting the mistake or bringing into tax the escaped turnover.
+RatioOfTheDecision	The Bench also considered the decision reported in <CITATION_905182>  26 STC 176 (Mad.)
+RatioOfTheDecision	to which one of them was a party and pointed out that in that decision, the original assessment itself was revised under section 16 of the Act and that was again sought to be revised under section 34 and, therefore, the limitation applicable to section 16 was also made applicable to revision of that assessment under section 34 .
+RatioOfTheDecision	Thus the Bench distinguished the decision reported in <CITATION_905182>  26 STC 176 (Mad.).
+RatioOfTheDecision	6.
+RatioOfTheDecision	The revisional order passed by <ORG> is within a period prescribed by that s ection.
+RatioOfTheDecision	Therefore, the power of limitation prescribed under section 16 of the Act will not apply to the revision in the instant case.
+RatioOfTheDecision	Further in the decision reported in <CITATION_363381>  44 STC 446 (Mad.)
+RatioOfTheDecision	while considering the scope of section 16 and 32 (the revision by the Deputy Commissioner is analogous to section 34 ) it is held as follows :  "..... the two sections are mutually exclusive and give different powers to different authorities.
+RatioOfTheDecision	Therefore, if action could be taken under one section, it does not follow that action could not be taken under the other.
+RatioOfTheDecision	Where it is possible to act under two provisions, the department may resort to the one instead of the other and it cannot be compelled to proceed under only one of the two provisions.
+RatioOfTheDecision	Section 32 provides for the examination of the order passed by a subordinate authority under certain provisions set out therein.
+Precedent	So long as the jurisdiction is exercised with respect to an order contemplated by the section, there would be no error in the exercise of j urisdiction."
+Precedent	In the decision reported in <ORG> (P.) <CITATION_85571316>  57 STC 74 (Mad.)
+Argument	it is held that under section 32 of the Tamil Nadu General Sales Tax Act the Deputy Commissioner is not confined to the examination of the order proposed to be revised and he can take information from outside the order for the purpose of effectively exercising his powers of revision and he can further peruse the record extraneous to the assessment.
+Argument	With respect to similar provision under the Bengal Financial (Sales Tax) Act, 1941 <ORG> held in <CITATION_1357853> that the power of revision can easily be equated with the power exercisable by the appellate authority in an appeal, and therefore, in exercise of revisional power, the Commissioner can reassess the turnover by roping escaped items of turnover and thereby enhance the gross turnover.
+Argument	7.
+RatioOfTheDecision	On a consideration of the above decisions, we are of the view that sections 16 and 34 of the Tamil Nadu General Sales Tax Act are indep endent and the limitation prescribed under section 16 will not be applicable to a revision under section 34 of the Act and in any event, in this case, since the original assessment was not revised under section 16 the limitation prescribed under section 16 will not be applicable to a revision under section 34 .
+RatioOfTheDecision	Further we are of the view that section 34 gives wide power to reassess the turnover as in the case of the original assessing authority.
+RatioOfTheDecision	But the facts of the case will clearly establish that it is not a case of reassessment but a case of bringing to tax by withdrawing certain exemptions granted by the assessing authority in respect of certain turnover.
+RatioOfTheDecision	Therefore the first two submissions made by the learned counsel for the appellants have to fail and accordingly they are rejected.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The third submission is based on assumption that what was sought to be revised in only an order of the Appellate Assistant Commissioner.
+RatioOfTheDecision	But here we find from the records that notice was given to the assessee by the <ORG>  of Revenue proposing to revise both the orders of the assessing authority as well as that of the Appellate Assistant Commissioner.
+Argument	Therefore, the assessee cannot contend that the Board cannot take away the benefit granted by the assessing officer under the guise of revising the order the Appellate Assistant Commissioner.
+Precedent	<CITATION_1483067>  40 STC 228 (Mad.)
+Precedent	against an order of assessment passed by the Joint Commercial Tax Officer, Pondicherry, the assessee preferred an appeal to the Appellate Assistant Commissioner, Pondicherry, who reduced the taxable turnover.
+Precedent	The Government in exercise of power of revision, revised the order of the Appellate Assistant Commissioner and the assessing officer and thereby enhanced the turnover determined by the assessing officer.
+Precedent	On appeal a Bench of this Court consisting of <NAME>, J.
+Precedent	(as he then was), and <NAME>, J., while setting aside the order of the Appellate Assistant Commissioner, held that the Government cannot redetermine the turnover to be in excess of the tur nover determined by the assessing authority, because the appellate order was passed at the instance of the assessee and, therefore, the assessee cannot be placed in a worse position than what he would have been if he had not preferred the appeal, by modifying the order of the Appellate Assistant Commissioner to the prejudice of the assessee.
+Precedent	Therefore, the said decision cannot have any assistance to the present case which arises under the Tamil Nadu General Sales Tax Act.
+Precedent	Section 37 of the Pondicherry General Sales Tax Act cannot be equated to section 34 of the Tamil Nadu General Sales Tax Act.
+Precedent	Hence, we are of the view that the third submission made by the learned counsel for the appellants has to be rejected and is accordingly rejected.
+Argument	9.
+Argument	As regards the last contention, referring to section 34 of the Act the learned counsel for the appellants submitted that the word "or" used therein implies that <ORG> could revise either the order passed by the assessing officer or the order passed by the  Appellate Assistant Commissioner and <ORG> cannot interfere both the orders at the same time since admittedly it is not a case where there is a merger of the original order with the order passed by the Appellate Assistant Commissioner.
+Statute	Section 34 of the Act (before amendment) runs as follows :  "34.
+Statute	Special powers of <ORG>.
+Statute	- (1) The <ORG> may, of its own motion, call for and examine an order passed or proceeding recorded by the appropriate authority under section 4A , section 12 , section 14 , section 15 or sub-section (1) or (2) of section 16 or an order passed by the Appellate Assistant Commissioner under sub-section (3) of section 31 or by the Deputy Commissioner under sub-section (1) of section 32 and may make such inquiry or cause such inquiry to be made and subject to the provisions of this Act may pass such order thereon as it thinks fit."
+Precedent	In tax matters, there may be merger or may not be merger of the original order with the appellate order depending upon the fac ts of each case.
+Precedent	In this case, admittedly, there is no merger as such.
+Precedent	The decision relied on by the learned counsel for the appellants in <CITATION_1073776> related to a case arising under the U.P.
+Precedent	(Temporary) Control of Rent and Eviction Act .
+Precedent	In the case, the grounds of eviction provided in the Act, viz., material alteration of the building or alteration which was likely substantially to demolish the value of the accommodation came up for consideration.
+Precedent	In that, the contention raised was that the word "or" must be treated as "and" and therefore both conditions must be satisfied for an order of eviction and it was not sufficient that one or the other conditions alone should be satisfied.
+RatioOfTheDecision	Rejecting the above contention, <ORG> held :  "......... that a provision of a statute must be construed in accordance with the language used therein unless there are compelling reasons such as, where a literal construction would reduce the provision to absurdity or prevent the manifest intention of the legislat ure from being carried out."
+RatioOfTheDecision	The above decision will not be applicable to this case since to interpret section 34 of the Tamil Nadu General Sales Tax Act, wherein the power of revision is given to revise the orders of various authorities, as contended by the petitioner, will reduce the provision to absurdity and therefore, it cannot be construed that the word "or" introduced in between prohibits revision of both orders of the assessing officer and the Appellate Assistant Commissioner.
+RatioOfTheDecision	In fact, in the decision reported in <CITATION_1771401>  33 STC 170 (Mad.)
+RulingByLowerCourt	with respect to a turnover of six lakhs rupees, the assessing authority accepted the claim of the assessee for exemption for a turnover of five lakhs of rupees and rejected the assessee's claim for the balance of Rs.
+RulingByLowerCourt	70,000 and odd.
+RulingByLowerCourt	The assessee appealed against the rejection of the assessing authority to the appellate authority, viz., the Appellate Assistant Commissioner, with respect to Rs.
+RulingByLowerCourt	70,000 and odd for which exemption was denied by the assessing  officer.
+RulingByLowerCourt	The Appellate Assistant Commissioner allowed the appeal.
+RulingByLowerCourt	Thereafter, <ORG>, in exercise of power of revision under section 34 of the Act, set aside the exemption granted to the assessee on the entire turnover of six lakhs and this order was within a period of four years from the date of the order of the Appellate Assistant Commissioner, but beyond the period of four years from the date of the assessment order.
+RulingByLowerCourt	Since under section 34 of the Act, <ORG> can interfere with an order of assessment made by any authority within a period of four years from the date of the order, it was held that the <ORG> cannot revise the order of the assessing authority which was beyond the period of four years as prescribed under section 34 of the Act, in view of the fact that the theory of merger of the order of assessment with the appellate order is not applicable to this case.
+RulingByLowerCourt	Therefore, this Court held that revision of the assessment order beyond the period prescribed under section 34 of  the Act cannot be sustained, but it did not say that the <ORG> can interfere only with one order and therefore the order is not sustainable.
+RulingByLowerCourt	It implies that this Court took the view in the said decision that the <ORG> can interfere with either the order of the Appellate Assistant Commissioner or the assessing officer or of both provided each of the order sought to be revised is within a period of limitation provided in that section.
+RulingByLowerCourt	Though the said decision is not directly on the point raised that the <ORG> can interfere with only one order, i.e., either of the assessing authority or of the appellate authority, it indirectly implies that the <ORG> can interfere with both the orders.
+RulingByLowerCourt	Admittedly, both the order of the Appellate Assistant Commissioner and the assessing officer are within the period of four years from the date of the order passed by the <ORG> of Revenue.
+RulingByLowerCourt	We are, therefore, of opinion that the <ORG> can interfere with both the orders and that order cannot be challenged on the ground that the <ORG>  can interfere only with any one of the orders, viz., the assessing officer or the Appellate Assistant Commissioner.
+RulingByLowerCourt	Therefore, we reject the last contention also.
+RulingByLowerCourt	10.
+Argument	Lastly, the learned counsel for the appellants submitted that the revision was made by <ORG> because of the subsequent decision of <ORG> and the assessee having not collected tax, since no tax could be leviable as per the decision of our <ORG> then prevailing the assessee should not be burdened with it.
+RatioOfTheDecision	If the appellants have not collected the tax from the vendees it is for the appellants to move the Government for waiver of tax, if they are so advised although the Board has correctly revised the tax.
+RatioOfTheDecision	This Court cannot interfere on the question of equity.
+RulingByPresentCourt	11.
+RulingByPresentCourt	In the result, the tax case appeal is dismissed.
+RulingByPresentCourt	No costs.
+RulingByPresentCourt	12.
+RulingByPresentCourt	Appeal dismissed.

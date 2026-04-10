@@ -1,0 +1,35 @@
+RulingByLowerCourt	JUDGMENT  1.
+RulingByLowerCourt	The first question argued in this appeal relates to the payments pleaded by defendants Nos.
+RulingByLowerCourt	1 to 3.
+RulingByLowerCourt	They form the subject of the 1st issue.
+RatioOfTheDecision	We agree with the finding of the District Judge on it.
+RatioOfTheDecision	2.
+Fact	The only substantial question in the case relates to the liability of the 6th defendant's share in the mortgaged property.
+Fact	The suit mortgage is dated 6th December 1890.
+Fact	The 6th defendant did not join in the execution, although he had been given a share in it under Exhibit VIII which is dated 7th May 1886.
+Fact	It was not argued before us on behalf of the respondent that the mortgage bound the 6th defendant's interest also, even though he was no party to the document.
+Fact	The ground on which the plaintiff has been given a decree for a portion of the mortgage money against the 6th defendant's interest in the property, is that it was applied in discharge of an earlier mortgage, Exhibit B, dated the 15th of August 1884, which was binding on the whole mortgaged property as it was, anterior to the carving out of a s hare in favour of the 6th defendant.
+Fact	The question we have to consider is whether the plaintiff is entitled to claim subrogation and to stand in the shoes of the mortgagee under Exhibit B.
+RatioOfTheDecision	We may dismiss at once the argument of Mr. <NAME> that there is nothing to show that part of the mortgage money under Exhibit A was applied in discharge of Exhibit B.
+RatioOfTheDecision	It is not open to the appellant to raise this contention for there was no express denial IK the written statement of the allegation in the plaint that part of the mortgage money was so applied.
+RatioOfTheDecision	Exhibit A recites the purpose.
+RatioOfTheDecision	No question appears to have been raised before the District Judge as regards the actual application of the money.
+Fact	But the more important question remains as to the right to subrogation.
+Fact	We think this case is exactly covered by the decison of <ORG> in <NAME> v. <NAME> (1882) I.L.R.
+Fact	9 C. 961.
+Fact	The facts of that case are closely analogous to those of the present case.
+Fact	A second mortgagee from a certain person applied pa rt of the mortgage money in discharge of a prior mortgage which bound the interest of another person as well.
+Fact	There was no express statement of an intention to keep alive the discharged mortgage.
+RatioOfTheDecision	There was no intermediate incumbrance against which the prior mortgage might be presumed to be kept alive.
+RatioOfTheDecision	The rate of interest stipulated under the suit mortgage differed from that provided in the earlier encumbrance.
+RatioOfTheDecision	All these facts are present in the case before us.
+RatioOfTheDecision	The principle underlying that decision is unaffected by the later decision of <ORG> in <NAME> v. <NAME> (1883) I.L.R.
+Precedent	10 C. 1035.
+Precedent	We accept the law as expounded in <NAME> v. <NAME> (1905) I.L.R.
+Precedent	2 C.L.J.
+Precedent	288 by Mr. Justice <NAME> and followed in Bisseswar Prasad v. Lala Surman Singh (1907) 6 C.L.J.
+Precedent	134 and by this Court in <CITATION_990764> (1907) 6 C.L.J.
+Precedent	134.
+RulingByPresentCourt	We must modify the decree of the Court below by exonerating the 6th defendant's share under Exhibit VIII in the suit properties f rom all liability.
+RulingByPresentCourt	The 6th defendant is entitled to his costs in this and the lower Court against the respondent.
+RulingByPresentCourt	The appeal is otherwise dismissed with costs.

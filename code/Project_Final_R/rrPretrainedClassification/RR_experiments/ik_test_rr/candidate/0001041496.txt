@@ -1,0 +1,271 @@
+Fact	PETITIONER: BATA SHOE CO.
+Fact	Vs. RESPONDENT: CITY OF JABALPUR CORPORATION DATE OF JUDGMENT11/03/1977 BENCH: CHANDRACHUD, <NAME>: CHANDRACHUD, Y.V.
+Fact	SHINGAL, P.N.
+Fact	CITATION: 1977 AIR 955 1977 SCR (3) 182 1977 SCC (2) 472 ACT: Central Provinces & Berar Municipalities Act, 1922 s. 84(3)--Scope of--Act self-contained Code-"Objec- tions regarding assessment, levy etc.
+Fact	of octroi duty shall not be taken in any manner or by any other authority than is provided in the Act"--Suit in a Civil Court--If lies.
+Fact	HEADNOTE: The Central Provinces and Berar Municipalities .Act, 1922, empowers a municipality to assess and recover octroi duty on goods brought within the municipal limits for sale.
+Fact	consumption and use therein.
+Fact	Under the Act an appeal against assessment or levy or refusal to refund any tax lies to a designated official.
+Fact	A person aggrieved by the decision of the appellate authority has a right to apply to <ORG> for revision.
+Fact	The Act also provides for refer- ence to <ORG> on questions like liabil ity to as- sessment or principles of assessment and so on.
+RulingByLowerCourt	Section 84 (3) lays down that "no objection shall be taken to any valuation.
+Fact	assessment or levy nor shall the liability of any person to be taxed or assessed be questioned in any other manner or by any other authority than is provided in the Act."
+Fact	Rule 14(b) of the Rules framed under the Act provides that any person importing or bringing any dutiable articles within the octroi limits of a municipality without paying the duty or without giving a declaration to the octroi Moharrir, shall be liable to pay double the duty and shall in addition be liable to be prosecuted for evasion of duty.
+Fact	The plaintiffs imported within the municipal limits for sale in their retail shops articles manufactured by them in their factories situated at different places in the country.
+Fact	They paid the octroi levied by the municipality at a certain rate.
+Fact	But Sometime later the municipality reopened and revised the assessment and charged octroi at a different rate.
+Fact	It also levied  double the duty by way of penalty on the ground that the plaintiffs had intentionally evaded payment of duty on the goods.
+Fact	The appellate author- ity modified the decision of the municipality but upheld the assessment of double duty.
+Fact	The plaintiffs' revision appli- cation was rejected by <ORG>.
+Fact	The plaintiffs paid the duty and penalty under protest and filed a suit for recovery of the amount on the ground that the municipality was not entitled to recover the amount of octroi duty and penalty.
+Fact	Overruling the defendant munic- ipality's objection as regards the civil court's jurisdic- tion to entertain the suit the trial court decreed the suit.
+Fact	On appeal, <ORG> held that the defendants were entitled to revise and reopen the assessment and that the reassessment of duty fixed in appeal by the appellate au- thority could not be questioned by the plaintiffs in a civil court.
+Fact	In appeal it was contended in this Court by the plain- tiffs that s. 84(3) may bar a suit to challenge an act which was  within the purview of the Act, but it could not bar a suit to challenge an act which was outside the Act or the Rules and since in this case the defendant had no power to revise or reopen the assessment.
+RatioOfTheDecision	its action was wholly lacking in jurisdiction and so the suit was competent.
+RatioOfTheDecision	Dismissing the appeal, HELD: Since s. 84(3) expressly prohibits a challenge to valuation, assessment or levy "in any other manner ............ than is provided in this Act" and since the Act has devised its own special machinery for inquiring into and adjudicating upon such challenges, the common remedy .of a suit stands necessarily cxcluded and cannot be availed of by a person aggrieved by an order 183 assessment to octroi duty.
+RatioOfTheDecision	Similarly the sub-section excludes expressly the power of "any other authority than is provided in this Act" to entertain an objection to any valuation, assessment or levy of octroi.
+RatioOfTheDecision	This art of the provision-is in the nature of ouster of jurisdiction of civil courts, at least by necessary implication, to en ter- tain an objection to any valuation, assessment or levy..[187 A] 1.
+Statute	Two of the propositions bearing on the construction of statutes which expressly or by necessary implication bar the jurisdiction of civil courts stated in <CITATION_1996908>  3 SCR 662 and which are relevant for the purposes of this case are: (i) where the statute gives finality to the orders of special tribunals the civil court's jurisdiction must be held to be excluded if there is an adequate remedy to do what the civil courts would normally do in a suit.
+RatioOfTheDecision	Such provision, howev- er, does not exclude cases where the provisions of the particular Act have not been complied with or the statutory tribunal has not acted in conformity with the fundamental principles of judicial procedure, (ii) questions of the correctness of the assessment, apart from its constitution- ality, are for the decision of the authorities and a civil suit does not lie.
+RatioOfTheDecision	if the orders of the authorities are declared to be final or there is an express prohibition in the  particular Act, In either case the scheme of the par- ticular Act must be examined because it is a relevant en- quiry.
+RatioOfTheDecision	[189 D-F] (a) In the instant case, the various provisions of the Act show in the first place that the municipality possesses the right and the power to assess and recover octroi duty and double duty on goods brought within the municipal limits for sale, consumption or use therein.
+RatioOfTheDecision	The circumstance that the municility might have acted in excess of or irregularly in the exercise of that power could not support the conclusion that the assessment or recovery of the tax was without jurisdiction.
+RatioOfTheDecision	If the appropriate authority, while exercis- ing its jurisdiction and powers under the relevant provi- sions of the.
+RatioOfTheDecision	Act, holds erroneously that an assessment already made can be corrected or that an ,assessee is liable to, pay double duty, it cannot be said that the decision of the authority is without jurisdiction.
+RatioOfTheDecision	[192 E-F] (b) Both the Act and the Rules contain provisions ena- bling the aggrieved party  to challenge an illegal assessment or levy of double duty.
+RatioOfTheDecision	By reason of the existence and availability of those special remedies, the ordinary remedy by way of a suit would be excluded on a true interpretation of s. 84(3) of the Act.
+RatioOfTheDecision	[193 H] (c) Levy of double duty, though not justified by the terms of r. 14(b) goes to the correctness of the levy and not to the jurisdiction of the assessing authority.
+RatioOfTheDecision	Assuming that neither of the two eventualities mentioned in r. 14(b) occurred and, therefore, there was no justification for imposing double duty, the error could be corrected only in the manner provided in the Act and by the authority pre- scribed therein.
+RatioOfTheDecision	The remedy by way of a suit is barred.
+RatioOfTheDecision	[193 A-B] (d) The suit for refund of double duty or revised duty is not maintainable because in the first place the assess- ment was made by the authority duly empowered to do so and secondly the authority was acting under the Act while revis- ing the assessment and imposing double duty.
+RatioOfTheDecision	It had the power to assess and l evy double duty.
+RatioOfTheDecision	If it exceeded that power it acted wrongly, but not without jurisdiction.
+RatioOfTheDecision	[193 C-D] (e) It is not correct to say that the Act protects correct assessments only and that every incorrect or wrong order of assessment can be challenged by a suit though the statute gives it finality and provides full and effective remedies to challenge it.
+RatioOfTheDecision	Except in matters of constitu- tionality and the like a selfcontained Code must have priority over the common means of vindicating rights.
+Precedent	If the appropriate authority, while exercising its jurisdic- tion anti power under the relevant provisions of the Act.
+Precedent	comes to an erroneous conclusion it cannot be said that the decision is without jurisdiction.
+Precedent	[193 F.-G] <NAME> and Others v. The State of Madhya Pradesh  3 SCR 662 <CITATION_1536230>  1 SCR 64 applied.
+Precedent	13--240SCI/77 184 <ORG> v. <ORG>, Dha- mangaon,  3 SCR 499, B.M.
+Precedent	Lahani v. <NAME>, AIR 1970 S.C. 1002 and <CITATION_743342> [19541 2 SCR 273, 284 distinguis hed.
+Precedent	<ORG> v. <NAME>  6 C.B.
+Precedent	(N.S.)
+Precedent	336.
+Precedent	<CITATION_1411268> , 67 I.R.
+Precedent	222, <ORG> v. <ORG>,  A.C. 368, <CITATION_608874> .
+Argument	2 SCR 603 and Firm and <ORG> v. The State of Andhra Pradesh,  1 SCR 752 referred to.
+Argument	(f) The instant case does not fall within the proposi- tions in <NAME>'s case because s. 84(3) not merely gives finality to the orders passed by the special tribunal but expressly provides that such orders shall not be questioned in any other manner or by any other authority than is pro- vided in the Act.
+Fact	[194 B] (g) In the instant case, the plaintiffs availed them- selves of the remedies provided under the Act and.
+Fact	succeeded to art extent.
+Fact	Having exhausted their remedies under the Act and having been benefited by the appellate decision, they turned to the civil court to claim refund.
+Fact	This is impermissible under s. 84(3).
+Fact	[194 F-G] JUDGMENT:  CIVIL APPELLATE JURISDICTION:CIVIL Appeal Nos.
+Fact	1923-1924 of 1972.
+Fact	(From  the Judgment and Decree dated 25-10-1957 of <ORG> in First Appeal No.
+Fact	138/52) <NAME>, <NAME> and <NAME>, for the appellant in C.A.
+Fact	No.
+Fact	1923/72 and respondent in CA No.
+Fact	1924/72.
+Fact	<NAME>, for the respondent in CA No.
+Fact	1923/72 and for appellant in CA 1924/72.
+Fact	<NAME>, J.--These are cross appeals arising out of a judgment rendered by <ORG> in First Appeal No.
+Fact	138 of 1952 modifying the decree passed by the First Additional District Judge, Jabalpur in Civil Suit No.
+Fact	6-B of 1949.
+Fact	It would be convenient to refer to the parties as plaintiffs and defendants, plaintiffs being <ORG> and the defendants being <ORG>.
+Fact	Plaintiffs are a limited company having their registered office at Calcutta.
+Fact	At the relevant time they had their factories at Batanagar in West Bengal, Batapur in West Punjab, <ORG> in Bihar and Faridabad near Delhi.
+Fact	The sale's organisation of the plaintiffs is situated at Ca l- cutta, and that organisation sells manufactured articles through the <ORG>'s retail shops situated in different parts of India and Pakistan.
+Fact	Three such retail shops were situated at Jabalpur.
+Fact	In respect of the articles which were imported by the retail shops at Jabalpur within the limits of the then <ORG> between April 1, 1943 and March 31, 1945 the plaintiffs had paid to <ORG> a sum of Rs.
+Fact	16,528 odd as control duty.
+Fact	This duty was assessed by <ORG> on an amount which was 40% less than the retail price of the goods which were brought within the municipal limits.
+Fact	In the year 194.6-47 <ORG> decided to reopen and revise.
+Fact	the assessment by charging the octroi duty on an amount which was only 6-1/4% less than the retail price of the goods.
+Fact	<ORG> further decided to levy double the duty by way of penalty for the aforesaid period on the ground that the plaintiffs bad intentionally evaded the payment of the duty payable  on the goods.
+Fact	Plaintiffs preferred an appeal against the decision of <ORG> to the Sub- Divisional Officer, Jabalpur who by an order dated July 14, 1948 modified the decision of <ORG> by permitting them to charge the octroi duty on an amount which was less by 12-1\2 % than the retail price of the goods.
+Fact	The Sub-Divisional Officer however upheld the assessment of double duty.
+Fact	The revision application preferred by the plaintiffs to <ORG> was rejected on October 4, 1948 on the ground that it was not maintainable.
+Fact	In conformity with the appellate order, but under protest, plaintiffs paid to <ORG> a sum of Rs.
+Fact	21,071-1-3 on August 6, 1948.
+Fact	Defendants demanded a further sum of Rs, 10,604-2-6 alleging that they had over- looked asking for it through mistake.
+Fact	Plaintiffs paid that amount too on September 22, 1948 under protest.
+Fact	On June 20, 1949 they filed a suit against <ORG> for recovery of the total amount of Rs.
+Fact	31,675-3-9 with i nterest at 6% per annum on the ground that the defendants were not entitled to recover the amount by way of octroi duty and penalty.
+Fact	During the pendency of the suit <ORG> was succeeded by <ORG> who were substituted as defendants to the suit.
+Fact	<ORG> decreed the suit to the extent of Rs.
+Fact	32,629-7-0 calculating the interest at 4%, holding that the defendants could not charge octroi duty on an amount arrived at by anything less than 40% from the retail sale price, that the recovery of octroi duty by deducting a sum of 12-1/2% only from the retail price was illegal and that the defendants were not justified in recovering double duty by way of penalty since the plaintiffs had not intentional- ly evaded the payment of proper duty.
+Fact	Defendants had raised contentions both as regards the jurisdiction of <ORG> to entertain the suit and as regards limitation but <ORG> rejected those contentions and held that it had jurisdiction to entertain  the Suit and that it was not barred by limitation.
+Fact	In appeal <ORG> held that the defendants were entitled to revise and reopen the assessment and that the re-assessment.
+Fact	of octroi duty which was ultimately fixed in appeal by the Sub-Divisional Officer could not be ques- tioned by the plaintiffs in <ORG>.
+Fact	On the ques- tion of limitation <ORG> held that applying the special period of limitation provided in s. 48 of the Cen- tral Provinces and Berar Municipalities Act, 1922 the suit was within limitation as regards the payment made by the plaintiffs on September 22, 1948 but that it was barred by limitation as regards the payment made on August 6, 1948.
+Fact	The suit in regard to the amount paid to <ORG> in September 1948 was held to be within limitation on account of the intervening summer vacation during which the <ORG> were closed.
+Fact	According to <ORG> the exaction of the double duty being beyond the' powers of the defendants, the special period of limitation  was not attracted and the plaintiffs were therefore entitled to recover the sum paid by way of double duty.
+RulingByLowerCourt	In the result <ORG> passed a decree in the sum of Rs.
+RulingByLowerCourt	24,103-13-3 which, according to it, represented the double duty wrongly recovered by the defendants from the plaintiffs.
+RulingByLowerCourt	<ORG> has granted to both the parties a certificate to file an appeal to this Court under art.
+Fact	133(1 ) of the Constitution and both par- ties being partly aggrieved by the decree of <ORG> have filed cross appeals.
+Fact	The first question for consideration is whether the civil court has jurisdiction to entertain the suit brought by the plaintiffs.
+Fact	It is undisputed that <ORG> had the power under s. 65(1)(e) of the Act of 1922 to impose octroi tax on the goods brought within the Munici- pal limits for sale, consumption or use therein.
+Fact	Under rule 6(b) framed by <ORG> in exercise of the powers conferred by ss.
+Fact	71, 76 and 85 of that Act, octroi duty was payable on the "current  price of articles" which is equivalent to the cost price of the articles to the importer plus the cost of carriage and not the price prevailing in the local market.
+Fact	Prior to 1940, plaintiffs used to submit to the defendants an invoice relating to the imported goods wherein the cost price used to be shown by deducting from the retail price the aggregate amount of expenses amounting to 40%.
+Fact	Defendants later disputed the deduction claimed by the plaintiffs and informed the latter by a letter of May 7, 1940 that octroi duty was leviable on the cost price of the goods as shown in the invoice plus the freight charges.
+Fact	Plaintiffs accepted that view and started showing in the invoices the cost price of the articles and the freight charges.
+Fact	Defendants used to assess octroi duty on those invoices until the dispute giving rise to the present suit arose during the year 1946-47, when the basis for charging the duty was fixed at 61/4% less than the retail price of the goods and the assessments already made were reopened wi th a view to revising them.
+Statute	Section 83(1) of the Act of 1922 provides for appeal against the assessment or levy of any tax under the Act to the Deputy Commissioner or to such other officer as may be empowered by <ORG> in that behalf.
+Statute	Section 84(3) of the Act which bears directly on the question of jurisdiction reads thus:  "84(3) No objection shall be taken to any valuation, assessment or levy nor shah the liability of any person to.
+Statute	be assessed or taxed be questioned, in any other manner or by any other authority than is provided in this Act."
+Statute	It is plain from this sub-section that any valuation, as- sessment or levy and the liablity of any person to be as- sessed or taxed can be questioned only in the manner pre- scribed by the-Act and by the authority mentioned in the Act and in no other manner or by any other authority.
+Statute	Since the sub-section expressly prohibits a challenge to a valuation, assessment or levy "in any other manner .... than is provided in this Act" and since the Act has  devised its own special machin- ery for inquiring into and adjudicating upon such chal- lenges, the common remedy of a suit stands necessarily excluded and cannot be availed of by a person aggrieved by an order of assessment to octroi duty.
+Statute	Similarly, the sub-section excludes expressly the power of "any other authority than is provided in this Act" to entertain an objection to any valuation, assessment or levy of octroi.- This part of the provision is in the nature of ouster of the jurisdiction of <ORG>, at least by necessary impli- cation, to entertain an objection to any valuation,,assess- ment or levy.
+RatioOfTheDecision	This is the evident intendment, meaning and implication of the provision.
+Argument	In <ORG> v. Hawkesford(1) <NAME> referred to various classes of cases in which the jurisdiction of ordinary courts is excluded; the third class of such cases being "where a liability not existing at common law is created by a statute which at the same time gives a special and particular remedy  for enforcing it."
+Argument	The view of <NAME>, that with respect to that class of cases the party must adopt the form of remedy given by the statute and no other, was accepted by <ORG> in <CITATION_1411268> (2) and by <ORG> in <NAME> v. <ORG>).
+Argument	In <ORG> <ORG> was dealing with the provisions of the Sea <ORG> Act, 1876 section 186 whereof gave a right of appeal to the person aggrieved by any decision or order passed by the <ORG> Officers under that Act.
+Argument	Section 191 further gave the aggrieved person a right to make an application to <ORG> for revision of the appellate decision or order.
+Statute	The last paragraph of section 188 provided: "Every order passed in appeal under this section shall, subject to the power of revision conferred by section .191, be.
+RatioOfTheDecision	final".
+RatioOfTheDecision	The.re was no express exclusion of the civil courts' Juris- diction to entertain a suit challenging an order passed by a <ORG> Officer but <ORG> mmittee, while recognis- ing that the exclusion of the jurisdiction of civil courts was not to be readily inferred and that such exclusion must either be explicitly expressed or clearly implied, observed that looking at the last paragraph of section 188 of the Sea Customs Act it was difficult to conceive what further chal- lenge of the order was intended to be excluded other than a challenge in <ORG>.
+RatioOfTheDecision	If a provision merely giving finality to an order could be construed as ousting the civil <ORG>'s jurisdiction, s. 84(3) of the Act, which is far more expressive, can legitimately be construed to have the same effect.
+RatioOfTheDecision	It excludes in terms a challenge to the various things therein mentioned, in any other manner or by any other authority than is provided in the Act.
+RatioOfTheDecision	But counsel for the plaintiffs contends that s. 84(3) cannot oust the civil <ORG>'s jurisdiction to entertain the present suit because the defendant have no power at all either under the Act or under the (1)  6 C.B.
+Precedent	(N.S.)
+Precedent	336.
+Precedent	(2) 67 I.A.
+Precedent	222.
+Precedent	(3) [1919] A.C. 368.
+RatioOfTheDecision	88  <ORG> framed thereunder to reopen or revise an assessment to octroi duty.
+RatioOfTheDecision	An assessment once made is final subject to the remedies which the Act provides to the aggrieved party and since, according to the counsel, the reopening of assessment is wholly without jurisdiction the suit to chal- lenge it is competent.
+RatioOfTheDecision	The argument, in other words, is that s. 84(3) may bar a suit to challenge an act which is within the purview of the Act or the <ORG> but it cannot bar a suit to challenge an act which is outside the Act or the <ORG> and is therefore wholly lacking in jurisdiction.
+RatioOfTheDecision	In support of the contention that the civil Court has jurisdiction to entertain the suit plaintiffs'rely princi- pally on the decisions of this Court in <CITATION_1428646> , Dhamangaon(1), <ORG> v. Malkapur Municipality() and <CITATION_1996908> (3).
+Fact	The appellants in <ORG> filed a suit for recovery of excise tax paid by them under s. 66(1)(b) of the Central Provinces Municipalit ies Act, 1922 on the ground that after the coming into force of s. 142A of the Government of India Act, 1935 till January 25, 1950 a tax in excess of Rs.
+Fact	50/--per annum could not be imposed by the Municipal Commit- tee and that after the coming into force of the, Constitu- tion, imposition of tax in excess of Rs.
+RatioOfTheDecision	250/- per annum was tinconstitutional.
+Argument	<ORG> decreed the suit but on appeal <ORG> held that the suit was bad for non- compliance with s. 48 of the C.P.
+Argument	Act according to which a suit for anything done or purported to be done under the Act had to be instituted within six months from the date of the accrual of the cause of action.
+Argument	In answer <ORG> contended that apart from the provisions of s. 48, the suit was barred by s. 84(3) under which no objection could be taken to any assessment in any other manner than is provided in the Act.
+Argument	That section is the very same provi- sion under which the present suit, according to the defend- ants, is said to be barred from the cog nisance of the civil <ORG>.
+RulingByLowerCourt	It was held by this Court by majority that since <ORG> had no authority to levy a tax beyond what was permitted by s. 142A of the Government of India Act or art.
+RulingByLowerCourt	276 of the Constitution, the assessment proceedings were totally void insolaf as they purported to levy a tax in excess of the constitutionally permissible limits and therefore the suit was maintainable.
+RulingByLowerCourt	The question involved in <NAME> v. Malkapur Munic- ipality (supra) was similar, the contention being that the recoveries which were made in contravention of s. 142-A of the Government of India Act, 1935 and art.
+Argument	276(2) of the Constitution were wholly without jurisdiction and therefore a suit for refund of tax recovered by the Municipality in violation of the constitutional provisions was maintainable.
+Precedent	That contention was accepted by this Court which treated the matter as concluded by the decision in <ORG> (supra) case.
+Precedent	(1) [1965] 3 S.C.R, 499.
+Precedent	(2) A.I.R.
+Precedent	1970 S.C. 1002.
+Precedent	(3) [1968 ] 3 S.C.R.
+Precedent	662.
+Precedent	189   <CITATION_1996908> (supra) the position was similar to that in the two cases noticed above.
+Precedent	Section 17 of the Madhya Bharat Sales Tax Act provided that no assessment made and no order passed under the Act or the Rules made thereunder shall be called in question in any Court.
+RulingByLowerCourt	It was conceded by <ORG> that the sales tax levied on the appellants was unconstitutional in view of art.
+RulingByLowerCourt	301 of the Constitution but it was contended that the civil Court had no jurisdiction to entertain the appellants' suit for refund of the tax in view of s. 17 of the Act.
+RatioOfTheDecision	After an examination of various decisions including those to which we have referred in this judgment <NAME>, J., who spoke for <ORG> formulated seven propositions bearing on the construction of statutes which, expressly or by necessary implication, bar the jurisdiction of civil Courts.
+RatioOfTheDecision	It is unnecessary to examine each One of those propositions for the short reason that as in the case of <ORG>  dar and <NAME>, (supra) so in the case of <NAME> (supra) the recovery of sales tax was unconstitutional and the suit, for that reason, was held maintainable.
+RatioOfTheDecision	Attention must, however, be drawn to propositions (1), (4) and (6).
+RatioOfTheDecision	The 1st proposition states that where the statute gives-a finality to the orders of the special tribunals <ORG> jurisdiction must be held to be excluded if there is adequate remedy to do what <ORG> would normally do in a suit.
+RatioOfTheDecision	Such provision, however, does not exclude those cases where the provisions of the particular Act have not been complied with or the statutory tribunal has not acted in conformity with the fundamental principles of judicial procedure.
+RatioOfTheDecision	The 4th proposition is that when a provision is already declared unconstitutional or the con- stitutionality of any provision is to be challenged, a suit is open.
+RatioOfTheDecision	The 6th proposition which bears more appropriately on the instant case says that questions of the correctness of the assessment, apart from i ts constitutionality, are for the decision of the authorities and a civil suit does not lie if the orders of the authorities are declared to be final or there is an express prohibition in the particular Act.
+RatioOfTheDecision	In either case the scheme of the particular Act must be examined because it is a relevant enquiry.
+RatioOfTheDecision	The plaintiffs' contention that the suit is not barred from the cognizance of the civil Court is effectively an- swered by these propositions but even so, a discussion of the jurisdictional issue will not be complete without reference to a decision rendered by a seven-Judge Bench of this Court in <CITATION_1536230> (1).
+RatioOfTheDecision	The appellants therein were assessed to sales tax on sales which were treated by the Sales Tax authorities as 'inside sales' but which according to the decision in <CITATION_608874> (2) were 'outside sales' and therefore non-taxable under the Bombay Sales Tax Act, 1946.
+RatioOfTheDecision	After the decision in Bengal Immunity(2) case which came on September 6, 1955 the appellants discovered that they were illeg ally subjected to sales tax and since the period prescribed by the Act for adopting the remedies thereunder had expired, the appellants flied a suit for recovery of the sales tax illegally collected from them in respect (1)  S.C.R.
+Fact	(2) [1955] 2 S.C.R.
+Precedent	603.
+Precedent	190  of the outside sales.
+Argument	The State of Bombay contended that the suit was.
+Argument	barred by s. 20 of the Act which provided, to the extent material, that no assessment made and no order passed under the Act or the Rules.
+Argument	shall be called into question in any civil Court.
+Argument	It was held by this.
+Argument	Court that s. 20 protected all assessments made under the Act or the Rules made thereunder and that the protection was wide enough to cover assessments made by the appropriate author- ities under the Act whether the assessments were made cor- rectly or not.
+Argument	Observing that if the appropriate authority while exercising its jurisdiction and powers under the relevant provisions of the Act comes erroneously to the conclusion that a transaction which is an outside sale is not an , outside sale and proceeds to levy sales tax on it its decision cannot be said to be without jurisdiction, the <ORG> held that the suit was barred from the cognizance of the civil <ORG>.
+Argument	In coming to this conclusion,the <ORG> relied upon the decision in <ORG> and <NAME> sons v. The state of Andhra Pradesh(1) which had taken the view, while interpreting a similar provision in s. 18A of the Madras General Sales Tax.
+Argument	Act, that the expression "any assessment made under this Act" was wide enough to cover all assessments made by the appropriate authorities under the Act, whether the said assessments were made correctly or not.
+Argument	The decision in <ORG> (supra) was brought to the notice of the <ORG> in <ORG> (supra) case but that decision was distinguished on the ground that the provision which fell for construction therein was worded differently and as observed in <ORG> (supra)' "deci- sions on other statutory provisions are not of materrial assistance, except in so far as genera l principles of con- struction are laid down".
+Argument	With great respect, the decision in Bharat Kala Bhandar (supra) is distinguishable for the weightier reason that the tax recovered in that case was unconstitutional and no provision of a statute could' be construed as laying down that no <ORG> shall have jurisdic- tion to order a refund of a tax collected in violation of a constitutional provision.
+Argument	If there were a provision which so provided or which could be so construed, that provision would itself be unconstitutional.
+Argument	In <ORG> (supra) case it was observed that if a statute creates a special right or liability, pro- vides for the determination of that right or liability by tribunals specially constituted in that behalf and lays down that all questions in regard to that right or liability shall exclusively determined by the tribunals so constitut- ed, it becomes pertinent to enquire whether remedies nor- mally associated with actions a civil <ORG> are prescribed by the said statute or not.
+Argument	If the <ORG> is  satisfied that the Act provides no remedy for making a claim for the recov- ery of an illegally collected tax the <ORG> might hesitate to construe a provision giving finality to the orders passed by the tribunals specially created by the Act as creating an absolute bar to the suit and if such a construction was not reasonably possible, the <ORG> would be called upon to examine the constitutionality of the provision excluding the civil <ORG>'s jurisdiction in the light of arts.
+Precedent	19 and 31 of the Constitution.
+Precedent	According to the 1st proposition in <NAME>'s (supra) case, if the statute gives finality to the orders passed by the special (1) [1964] 1 S.C.R.
+Precedent	752.
+Argument	191  tribunals created by it, the civil <ORG>s jurisdiction would be excluded if the statute provides adequate remedies to do what the civil <ORG>s are normally empowered to do in a suit.
+Argument	The 6th proposition in that case states that ques- tions of the correctness of the assessment apart from its constitutionality are for the decision of the authorities a nd a civil suit does not lie if the orders of the authori- ties are declared to be final or there is an express prohi- bition in the particular Act.
+Argument	Further, that in either case the scheme of the particular Act must be examined because it is a relevant enquiry.
+Argument	These considerations make it neces- sary to examine the relevant provisions of the Act of 1922 and the Rules framed thereunder with a view to seeing whether they provide adequate remedies to the aggrieved party to challenge a wrong or illegal exaction of octroi duty and whether correspondingly, the authorities specially created by the Act have the power to do what civil Courts are generally empowered to do.
+Argument	This inquiry is relevant even though s. 84(3) of the Act does not merely say that orders passed by the special tribunals shall be final but provides that no objection shall be taken to any assessment, levy etc., in any other manner or by any other authority than is provided in the Act.
+Statute	Section 66(1)(b) of the C.P.
+Statute	and Berar Municipali- ties Act, 19 22 empowers <ORG> to impose an octroi on animals or goods brought within the limits of the municipality for sale, consumption or use within those limits.
+Statute	Section 83(1) provides that an appeal against the assessment or levy of, or refusal to refund, any tax under the Act shall lie to the Deputy Commissioner or to such other officer as may be empowered by <ORG> in that behalf Sub-section 1-A of s. 83 gives to the person aggrieved by the decision the appellate authority the right to apply to <ORG> for revision of the decision on the ground (a) that the decision is contrary to law or is repugnant to any principle of assessment of a tax, or (b) that the appellate authority has exercised a jurisdiction not vested in it by law or has failed to exercise the jurisdiction vested in it by law.
+Statute	Section 83(2) empowers the appellate or revision authority to draw up a statement of the case and make a reference to <ORG> for its decision if any.
+RatioOfTheDecision	question as to th e liability to assessment or as to the principle of assessment arises in the matter on which the <ORG> entertains a reasonable doubt.
+RatioOfTheDecision	Then comes s. 84 which by sub-s. (1 ) provides for a limitation of 30 days for appeal and by sub-s. (3) lays down the injunction which is the bone of contentions in the instant case that no objection shall be taken to any valua- tion, assessment or levy nor shall the liability of any person to be taxed or assessed be questioned in any other manner or by any other <ORG> than to is provided in the Act.
+Statute	Section 71 of the Act empowers <ORG> make rules regulating the assessment of taxes and for preventing evasion of assessment.
+Statute	Section 76 which appears under the heading "Collection of taxes" empowers the government to make rules regulating the collection of taxes including the prevention of evasion of payment and payment of lump sums in composition.
+Statute	Section 85 confers similar empowerment to make rules regulating the refund of taxes.
+Statute	192  In exercise of  the powers conferred by s. 71, 76 and 85 and in supersession of the earlier rules, <ORG> made rules "for the assessment, collection and refund of the octroi tax" which were gazetted on April 9, 1929 and were amended from time to time.
+Statute	Rule provides that articles subject to octroi duty are liable to duty as soon as they enter the octroi limits.
+Statute	Rule 6(b) which prescribes the mode of calculating octroi duty provides that the cur- rent prices of articles liable to ad valorem duty shall be the cost price to the importer plus the cost of carriage and not the price prevailing in the local market.
+Statute	Rule 8 pre- scribes the details of the procedure for assessing the octroi duty.
+Statute	The note to that rule says that the duty shall be assessed on invoice and not on <ORG> covers, <ORG> re- ceipts, letters and hundies.
+Statute	Rules 9(a) (b) (c), 10(b), 12, 13(a) and 13(b) provide for various matters relating to assessment and levy of octroi duty.
+Statute	Rule l4(b) 'provides that any person importing or bringing any dutiable  articles within the octroi limits of the municipality "without paying the duty" or without giving declaration to the Octroi Mohar- rir shall be liable to pay double the duty and shall in addition be liable to be prosecuted to evasion of duty.
+Statute	Rules 29 onwards deal with "Refund of Octroi".
+Statute	Rule 31 out of that collocation of rules prescribes how and when applications for.
+Statute	refunds may be made.
+RatioOfTheDecision	These provisions show in the first place that the de- fendants indubitably possess the right and the power to assess and recover octroi duty and double duty on goods which are brought within the municipal limits for sale, consumption or use therein.
+RatioOfTheDecision	The circumstance that the defendants might have acted in excess of or irregularly in the exercise of that power cannot support the conclusion that the assessment or recovery of the tax is without jurisdiction.
+RatioOfTheDecision	Applying the test in Kamla Mills (supra), if the appropriate authority while exercising its Jurisdic- tion and powers under the relevant provisions of the Act, holds er roneously that an assessment already made can be corrected or that an assessee is liable to pay double duty when rule 14(b), in fact, does not justify such an imposi- tion, it cannot be said that the decision of the authority is without jurisdiction.
+RatioOfTheDecision	Questions of the correctness of the assessment apart from its constitutionality are, as held in <NAME> (supra), for the decision of the author- ities set up by the Act and a civil suit cannot lie if the orders of those authorities are given finality.
+RatioOfTheDecision	There is no constitutional prohibition to the assessment which is im- peached in the instant case as there was in Bharat Kala Bhandar (supra), B.M.
+RatioOfTheDecision	Lakhani (supra), and <NAME> (supra).
+RatioOfTheDecision	The tax imposed in those cases being unconstitu- tional, its levy, as said by <NAME> who spoke for the majority in Bharat Kala Bhandar (supra), was "without a vestige or semblance of authority or even a shadow of right."
+RatioOfTheDecision	That is in regard to the power of the authority concerned to reassess and to levy double duty.
+RatioOfTheDecision	Secondly , both the Act and the Rules contain provisions which we have noticed above, enabling the aggrieved party effectively to challenge an illegal assessment or levy of double duty.
+RatioOfTheDecision	By reason of the existence and availability of those special remedies, the ordinary remedy by way of a suit would be excluded on a true interpretation of s. 84(3) of the Act.
+RatioOfTheDecision	193  The argument that double duty was levied on the plaintiffs though justified by the terms of rule 14(b) goes to the correctness of the levy, not to the jurisdiction of the assessing authority.
+RatioOfTheDecision	That rule ;authorizes the imposition of double duty if dutiable articles are imported (a) without paying the duty or (b) without giving declaration to <NAME>.
+RatioOfTheDecision	It may be that neither of these two eventualities occurred and therefore there was no justifica- tion for imposing double duty.
+RatioOfTheDecision	But the error could be corrected only in the manner provided in the Act and by the authority prescribed therein.
+RatioOfTheDecision	The remedy by way of a suit is barred.
+RatioOfTheDecision	Plaintiffs sought sup port to their contention as regards the maintainability of the suit for refund of double duty and revised duty, from certain observations contained in Firm <NAME> v. <ORG>, Ludhiana(1) to the effect that "a suit in a civil Court will always lie to question the order of a tribunal created by a statute, even if its order is, expressly or by neces- sary implication, made final, if the said tribunal abuses its power or does not act under the Act but in violation of its provisions."
+RatioOfTheDecision	In the first place, the assessment in the instant case was made by the authority duly empowered to do so and secondly the authority was acting under the Act while revising the assessment and imposing double duty.
+RatioOfTheDecision	It had the power to assess and levy double duty.
+Precedent	If it exceeded that power it acted wrongly, .not without jurisdiction.
+Precedent	In Firm <NAME> (supra), <ORG> being entitled to impose a certain rate of tax on common salt and higher rate in respect of salt of other k inds, imposed tax at the higher rate on "sambhar salt" which was a variety of common salt.
+Precedent	Section 86 of the Punjab Municipal Act, 1911, provided that the liability of any person to be taxed cannot be questioned in any manner or by any authority other than that provided in the Act.
+RatioOfTheDecision	That provision is identical with s. 84(3) of the C.P.
+RatioOfTheDecision	Municipalities Act, 1922, with which we are concerned in the instant case.
+RatioOfTheDecision	Section 86(2) of the Punjab Act provided that no refund of any tax shall be claimed by any person otherwise than in accordance with the provisions of the Act and the Rules thereunder.
+Precedent	It was held by this Court that the liability to pay terminal tax was created by the Act and since a remedy was given to the party aggrieved in the enforcement of that liability, the suit for refund was not maintainable by reason of s. 86 .
+Precedent	The observations on which plaintiffs rely 'cannot, in the context, be taken to mean that the Act protects correct assessments only and that every incorrect or wrong order of assessment can  be challenged by a suit though the statute gives it finality and provides full and effective remedies to challenge it.
+Precedent	Except in matters of constitutionality and the like, a self-contained Code must have priority over the common means of vindicating rights.
+Precedent	We would like to add that if the observations on which plaintiffs rely are to be understood literally, they are contrary to the decision in <ORG> (supra) ,case where, speaking for a seven-Judge Bench, <ORG> that if the appropriate authority while exercising its jurisdiction and powers under the relevant provisions of the Act comes to an erroneous conclusion, it cannot be said that the decision is without jurisdiction (p. 78).
+Precedent	(1) [19641 2 S.C.R.
+Precedent	273, 284.
+Argument	194  Plaintiff's reliance on the 1st proposition in <NAME> s (supra) case is equally misconceived.
+RatioOfTheDecision	The first two propo- sitions formulated in that case contain a dichotomy.
+RatioOfTheDecision	The l st proposition refers to cases where the statute merely gives finality to orders .of special  tribunals.
+RatioOfTheDecision	In such cases, according to that proposition, <ORG> jurisdiction would not be excluded if "the provisions of the particular Act arc not complied with".
+RatioOfTheDecision	The instant case does not fall under the 1st.
+RatioOfTheDecision	proposition because s. 84(3) of the Act does not merely give finality to the orders passed by the, special tribunals.
+RatioOfTheDecision	It provides, expressly, that such orders shall not be questioned in any other manner or by any other authority than is provided in the Act.
+RatioOfTheDecision	The 2nd proposition deals in its first paragraph with cases where there is an express bar to <ORG> jurisdic- tion.
+RatioOfTheDecision	The second paragraph of that proposition deals with cases where there is no express exclusion.
+RatioOfTheDecision	The instant case falls under either one or the other paragraph of this proposition, which rendered it necessary to examine whether the Act creates special rights and liabilities, provides for their determination by laying down that such rights and liabilities shall be determined by the special tribunals constituted under  it and whether remedies normally associat- ed with actions in civil Courts are prescribed by the Act.
+RatioOfTheDecision	Upon that examination we concluded that the suit is barred from the cognizance of <ORG>.
+RatioOfTheDecision	Not only that the Act of 1922 provides an effective remedy to an aggrieved party to challenge the assessment of octroi duty and to claim refund of duty illegally paid or recovered, but the plaintiffs in fact availed themselves of these remedies.
+Fact	In 1946-47 when <ORG> reopened and revised the past assessments by charging octroi duty on an amount which was only 61/4% less than the retail price of the goods and when it levied double duty by way of penalty plaintiffs preferred an appeal against the decision of <ORG> to the Sub-Divisional Officer, Jabalpur, who by an order dated' July 14, 1946 modified the decision of the <ORG> by asking them to charge octroi duty on an amount which was less by 121/2%instead of 61/4% than the retail price of the goods.
+Fact	Plaintiffs succeeded to  an extent though the Sub-Divisional Officer upheld the assessment of double duty.
+Fact	Having exhausted their remedies under the Act and having been benefited by the appellate decision, though partly, plaintiffs turned to the civil Court to claim the refund.
+Precedent	That is impermissible in view of the provision contained in s. 84(3) of the Act.
+Precedent	In the result, Civil Appeal No.
+Precedent	1923 of 1972 filed by the plaintiffs fails and is dismissed.
+Precedent	Civil Appeal No.
+RatioOfTheDecision	1924 of 1972 filed by the defendants succeeds and is allowed with the result that the plaintiffs' suit will stand dis- missed.
+RatioOfTheDecision	Considering that the defendants revised the assess- ment after a lapse of time parties will bear their costs throughout.
+Precedent	P.B.R.
+Precedent	C.A.
+Precedent	1923/72 dismissed.
+Precedent	C.A.
+Precedent	1924/72 allowed.
+Fact	?195

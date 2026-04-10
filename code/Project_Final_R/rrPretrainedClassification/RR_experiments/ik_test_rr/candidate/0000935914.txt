@@ -1,0 +1,55 @@
+Argument	JUDGMENT Subramania Ayyar, J.
+Argument	1.
+Fact	The plaintiff in this case seeks to set aside the decree passed in Original Suit No.
+Fact	129 of 1887 in favour of the defendant, his wife, awarding to her a maintenance of ten rupees per mensem.
+Fact	The suit is founded on the allegation that in 1893 the defendant committed adultery with one <NAME>.
+Fact	The defence is a simple denial of the case set up in the plaint.
+RulingByLowerCourt	2.
+Fact	The only issues to be determined are--has the plaintiff made out the case set up by him, and, if so, to what relief is he entitled?
+Fact	3.
+RulingByLowerCourt	His Lordship recorded an admission that the parties had separated in 1886 and had never since resided together, and, after discussing the evidence, stated, as his finding thereon, that the defendant had in 1893 become pregnant by <NAME> and had given birth to a child by him.
+Fact	The judgment continued as follows:  4.
+Fact	I have no hesitation in finding that the plaintiff has made out his case.
+RulingByLowerCourt	5.
+RulingByLowerCourt	As to the relief prayed, it has been contended on behalf of the defendant, that she  is entitled under any circumstances to at least bare maintenance.
+RulingByLowerCourt	<CITATION_765097> .
+Precedent	1 Bom.
+Precedent	559 relied upon in support of this contention has been dissented from in <NAME> v. Ganga I.L.R.
+Precedent	7 Bom.
+Precedent	84.
+Precedent	In Roma Nath v. Rajonimoni Dasi I.L.R.
+Precedent	17 Cal.
+Precedent	674 679 <NAME>, C.J., and <NAME>, however, seem inclined to hold that the view taken in the earlier Bombay case is warranted by the texts of Hindu law, and further that it has the support of reason, inasmuch as the allowance of mere food and raiment to an unchaste woman is prescribed: in order that she may have a locus poenitentioe, and that she may not be compelled by sheer necessity to continue to lead a life of shame and misery.
+Precedent	However, in <CITATION_909738> .
+Precedent	17 Mad.
+Precedent	392 recently decided by this <ORG>, the learned Chief Justice and Shephard, J. observe: "We must follow the decision in <NAME> v. Ganga I.L.R.
+Precedent	7 Bom.
+Precedent	84 and Vishnu Shambhog v. Manjamma I.L.R.
+Precedent	9 Bom.
+Precedent	108 and hold that unchastity of a widow deprives her wholly of her right to maintenance.
+Precedent	No text ha s been cited in favour of the theory that a bare maintenance can be allowed."
+Precedent	In the above cases it will be seen that the question related to the provision to be made for widows, whilst here it is as to the maintenance of a wife.
+Precedent	Referring to the existence of a distinction between the two classes of cases, <NAME>, C.J.
+Precedent	in <NAME> v. Ganga I.L.R.
+Precedent	7 Bom.
+Precedent	84 already cited, observes thus: "The only analogous cases in which such a distinction is to be found, are those of an adulterous wife and mother for which special texts are provided.
+Precedent	The close and tender relations which exist between <NAME> and wife and mother and son may well account for the ancient law-givers laying down, as a rule of conduct, for a <NAME> and son, that even the wife or mother who has been guilty of unchastity should not be left in a state of perfect destitution; but it has still to be determined how far these texts will be regarded as mandatory and not merely perceptive; and if the former, in what cases and to what extent the <ORG> will enf orce them."
+RatioOfTheDecision	It must be admitted that the point is one of some difficulty.
+RatioOfTheDecision	For although the doctrine of the ancient law-givers enunciated in the texts in question is grounded on the sound considerations adverted to by <NAME>, C.J., and <NAME>, J., yet it is not easy to formulate precisely the cases in and the extent to which that doctrine is to be applied.
+RatioOfTheDecision	But assuming that the texts are not mere moral precepts but mandatory, I think--following the view adopted by <ORG> in <NAME> v. <ORG> in the case of the widow--it can be safely laid down that maintenance, however small, ought not to be awarded by <ORG>, even to a wife, when it appears that she, about the time of the litigation, persists in a vicious course of life.
+RatioOfTheDecision	To hold otherwise would be contrary to all morality and principle; and I have little doubt that before a decree for maintenance is given to a wife who has once been guilty of infidelity, she must show, not only that at the time of the plaint a nd the trial she was leading a chaste life, but also that she had done so for a sufficient period previously so as clearly to lead to the conclusion that she has completely renounced her immoral course, and that, in fact, she is a reformed woman.
+RatioOfTheDecision	In the present case, however, there is not a particle of evidence to prove such is the case with the defendant.
+RatioOfTheDecision	On the contrary, the defendant appears to be so strongly addicted to vice, and her misconduct has been so recent, open and continuous, that I am unable to say that I am satisfied that even the idea of definitely changing her present mode of life has occurred to her.
+RatioOfTheDecision	Her case seems, moreover, to be complicated by the fact that she is the mother of an illegitimate child ; since a text of <NAME> treats conception by unlawful commerce to be such an aggravation of a disloyal wufe's offence as to justify complete desertion by the <NAME>, though it should be added that <NAME> appears to restrict the text to the case of the three regenerate classes--Col <NAME>'s Digest, book IV, chapter I, verse LXXVII; and therefore, by implication, to hold it to be inapplicable to Sudras, to which caste the parties in the present case belong.
+RatioOfTheDecision	But whether even among Sudras the existence of an illegitimate issue born to the wife before she changed her life would not, under certain circumstances, be an obstacle in the way of her claiming even bare maintenance is rather a delicate question, However this may be, and although no doubt a mere false defence by itself would not deprive the party setting it up of her legal right, the attempt which the defendant has made in this case to fasten upon the plaintiff as his legitimate issue the fruit of adultery is clear proof that she is far from a penitent wife who may be allowed to seek the benefit of the humane provision mentioned in the texts referred to in <NAME> v. Ganga I.L.R.
+Precedent	7 Bom.
+Precedent	84 and <ORG> v. Rajonimoni Dasi I.L.R.
+Precedent	17 Cal.
+Precedent	674 679.
+Argument	6.
+Argument	The plaintiff is, therefore, entitled to the relief claimed.
+Fact	I set aside the decree in  Original Suit No.
+RulingByLowerCourt	129 of 1889 and the execution proceedings taken therein subsequent to this suit.
+Fact	The defendant must pay the costs of the plaintiff.
+Fact	7.
+Fact	<NAME>, Attorney for Plaintiff.

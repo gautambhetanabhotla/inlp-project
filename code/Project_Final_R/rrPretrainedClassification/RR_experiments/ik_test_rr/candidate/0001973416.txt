@@ -1,0 +1,139 @@
+Fact	PETITIONER: <ORG> COMMISSION AND ORS.
+Fact	Vs. RESPONDENT: DR. <NAME> ALI DATE OF JUDGMENT14/04/1980 BENCH: <NAME>, <NAME> BENCH: <NAME>, <NAME> GUPTA, <NAME>, P.S.
+RulingByLowerCourt	CITATION: 1980 AIR 1242 1980 SCR (3) 603 1980 SCC (3) 428 CITATOR INFO : R 1981 SC 957 (5,9) R 1981 SC 965 (8) D 1989 SC1431 (6) D 1992 SC1020 (20) ACT: Termination of Services-Termination Simpliciter- Services of a probationer terminated without further proceedings against the departmental enquiry-Whether offends Art.
+RulingByLowerCourt	311(2) of the Constitution and attaches any stigma.
+RulingByLowerCourt	HEADNOTE: The respondent was appointed on a purely temporary basis to the post of a medical Officer in <ORG>.
+RulingByLowerCourt	Under the terms and conditions of service, he was to remain on probation for a period of one year which could be extended that the discretion of the appointing authority He was appointed on October 15, 1965.
+RulingByLowerCourt	During the period of his probation, on a report against him for negligence and dereliction of du ty, a departmental enquiry was held against him but that was not proceeded with, nor was any punishment imposed on him.
+RulingByLowerCourt	His period of probation was extended for six months from 15-10-1966 and before his services were terminated, there was no express order either confirming him or extending the period of probation.
+RulingByLowerCourt	His services were terminated with effect from 28th July 1967.
+RulingByLowerCourt	The respondent filed a writ petition in the High court on the ground that the order terminating his services was malafide and was in fact passed by way of penalty entailing evil consequences The plea taken by the respondent found favour with <ORG> which allowed the petition and quashed the order of the appellant terminating the services of the respondent.
+RulingByLowerCourt	Hence the appeal by special leave by the <ORG>.
+RulingByLowerCourt	Allowing the appeal the <ORG> ^ HELD: l. A temporary employee is appointed on probation for a particular period only in order to test whether his conduct is good and satisfactory so that he may be retained.
+RulingByLowerCourt	The remarks, the assessm ent roll merely indicate the nature of the performance put in by the officer for the limited purpose of determining whether or not his probation should be extended.
+RulingByLowerCourt	These remarks were not intended to cast any stigma.
+Fact	[607G-H. 608A] <CITATION_1076507>  2 S.C.R.
+Fact	55. followed 2.
+Argument	The contention that the real motive behind the termination of the service of the respondent was to inflict a punishment on him and as the appellants did not comply with the requirements of Article 311 of the Constitution, the order impugned was illegal is not correct.
+Argument	In the first place, it was clearly pleaded by the <ORG> in its counter-affidavit that although an enquiry was held it was not continued and no punishment was imposed on the respondent.
+RatioOfTheDecision	As the respondent was merely a probationer the appointing, authority did not consider it necessary to continue the enquiry but decided to terminate the services of the respondent as he was not found suitable for the job.
+RatioOfTheDecision	In the case of n probationer or a temporary employee.
+RatioOfTheDecision	who has no ri ght to the post, such a termina- 604 tion of his service is valid and does not attract the provisions of Article 311 of the Constitution [608C-E, G-H, 609A] Even if misconduct, negligence, inefficiency may be the motive or the inducing factor which influences the employer to terminate the services of the employee, a power which the appellants undoubtedly possessed, even so as under the terms of appointment of the respondent such power flowed from the R contract of service it could not be termed as penalty or Punishment.
+Fact	[611C- <CITATION_1382698>  1 SCR 814; <CITATION_1270113>  SCR 828; <CITATION_1343955>  1 SCR 462; <CITATION_443992> .
+Fact	1 SCR 551, followed.
+Argument	3.
+Argument	The order impugned is prima facie an order of termination simpliciter without involving any stigma.
+Argument	The order does not in any way involve any evil consequences and is an order of discharge simpliciter of the respondent who was a probationer and had no right to the service.
+RulingByLowerCourt	The respondent has not been able to make out any strong case for this Court to de lve into the documents, materials in order to determine a case of victimisation or one of punishment The short history of the service of the respondent clearly showed that his work had never been satisfactory and he was not found suitable for being retained in service and that is why even though some sort of an enquiry was started, it was not proceeded with and no punishment was inflicted on him.
+RulingByLowerCourt	In these circumstances therefore, if the appointing authority considered it expedient to terminate the services of the respondent-a probationer-it cannot be said that the order of termination attracted the provisions of Art.
+RulingByLowerCourt	311 of the Constitution.
+RatioOfTheDecision	Thus, if the appellant found that the respondent was not suitable for being retained in service that will not vitiate the order impugned.
+Precedent	[611G-H, 612B-D] State of Bihar v. <NAME> A.I.R.
+Precedent	1960, 689; distinguished.
+Precedent	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Precedent	1385 of 1979.
+Precedent	Appeal by Special Leave from the judgment and Order dated 10-7-1969 of the  <ORG> in Civil Rule No.
+Precedent	249 of 1967.
+Fact	<NAME> for the Appellant.
+RatioOfTheDecision	<NAME>, <NAME> and <NAME> for the Respondent.
+RatioOfTheDecision	The Judgment of the Court was delivered by <NAME> This appeal by special leave is directed against a judgment and order dated 10th JULY 1969 of <ORG>.
+RatioOfTheDecision	The facts giving rise to the appeal lie within a very narrow compass.
+Fact	The respondent, Dr. <NAME>, was appointed on a purely temporary basis to the post of a medical officer in <ORG>.
+RulingByLowerCourt	Under the terms and conditions of his service, he was to remain on probation for a period of One year which could be extended at the discretion of the appointing authority.
+RulingByLowerCourt	The respondent was appointed on October 15, 1965 and the order of his appointment may be extracted thus:  "No.
+Fact	52/35/65-ENT Dated the 15th October 1965 MEMORANDUM With reference to his interview on the 18th August 1965 held at Sibsagar, Shri Dr. <NAME> is hereby info rmed that he/she has been selected for a temporary post of Medical officer in <ORG> on an initial pay of Rs.
+Fact	325/- p.m. in the scale of pay of Rs.
+Fact	325-25-500-31-EB-30-800 (plus non practising allowance @ 25% of basic pay subject to minimum of Rs.
+Fact	150/-).
+Argument	He will be entitled to draw dearness and other allowances at such rates and subject to such conditions as may be laid down in the rules and orders governing the grant of such allowances from time to time."
+Argument	The order of appointment was accompanied by conditions regulating his appointment and two of them may be extracted below, as they appear to be very relevant for the purpose of deciding the question at issue :-  "(ii) The appointment may be terminated at any time by one month's notice to be given by either side, viz., the appointee or the appointing authority, without assigning any reasons.
+Argument	The appointing authority, however, reserves the right of terminating the services or the appointee without notice or before expiration of the  stipulated period of notice by making payment to him of a sum equivalent to the pay and allowances for the period of notice or the unexpired portion thereof;  (iii) He will be on probation for a period of one year from the date of appointment.
+RulingByLowerCourt	This period may be extended at the discretion of the appointing authority, if necessary.
+RulingByLowerCourt	During the period of probation, the services are liable to be terminated at any time without notice, and/or assigning any reasons whatsoever."
+RulingByLowerCourt	It appears that during the period of his probation there were some reports against the respondent as a result of which a departmental enquiry was held against him but which does not appear to have been proceeded with nor was any punishment imposed on him.
+RulingByLowerCourt	After he had completed the period of one year on 15-10-1966 his probation was extended for another six months and before his services were terminated, there was no express order either confirming him or extending the period of probation.
+RulingByLowerCourt	Ultimately, by an order dated 28th July 1967 the serv ices of the respondent were terminated with effect from 28th July 1967.
+RulingByLowerCourt	The order of termination runs thus:-  "No.
+Fact	57/191/67-ENT Dated July 28, 1967 OFFICE ORDER  Under para 2(iii) of offer of appointment No.
+Fact	52/35/65-ENT dated October 16, 1965 the service of Dr. Md.
+Fact	<NAME>, Medical officer (still on probation), is hereby terminated with effect from the date of the service of this order on him."
+Argument	The respondent felt aggrieved by the termination of his services and filed a writ petition in <ORG> on the ground that the order terminating his services was <NAME> fide and was in fact passed by way of penalty entailing evil consequences.
+Argument	The plea taken by the respondent found favour with <ORG> which allowed the petition and quashed the order of the appellant terminating the services of the respondent.
+Argument	The appellant obtained special leave to appeal from this Court: hence the appeal has now been posted before us for hearing.
+Argument	The only point raised before us by the appellants was that as the resp ondent was a mere Probationer and the order terminating his services was all order of termination simpliciter without involving any stigma or penalty, <ORG> was in error in quashing the order or termination and directing the reinstatement of the respondent.
+Argument	The counsel for the appellants submitted that reading the order per se there is nothing to indicate that it was passed by way of punishment.
+RatioOfTheDecision	As the respondent was a temporary employee on probation, it was open to the employer to terminate his services at any time before he was confirmed.
+RatioOfTheDecision	If the employer was satisfied that he was not suitable for being retained in service.
+RatioOfTheDecision	The counsel for the respondent.
+RatioOfTheDecision	On the other hand, submitted that the order, though per se innocuous?
+RatioOfTheDecision	was really a cloak to conceal the real mischief which the order purported to perpetuate as the order of termination was preceded by a full-fledged departmental inquiry and a regular charge-sheet was submitted against the respondent, it was because the respondent was found guilty  that he was punished by way of dismissal from service.
+RulingByLowerCourt	In other words, the argument of the respondent was that the order of termination of the services passed by the appellant was an order which amounted to A. dismissal from service involving a clear stigma and would, therefore, attract the provisions of Art.
+RulingByLowerCourt	311 of the Constitution and was rightly quashed by <ORG> Before examining the respective contentions of the parties it may be necessary to mention a few admitted facts (1) It is not disputed that the respondent was appointed in a temporary post of Medical Officer and on probation of one year.
+RulingByLowerCourt	(2) Being a probationer, the respondent had no right to the service.
+RulingByLowerCourt	(3) Under the terms of his appointment particularly clauses (ii) and (iii), extracted above, the appointing authority could terminate the services without assigning any reasons.
+RulingByLowerCourt	(4) Under clause (iii) of the conditions of appointment, the appointing authority had a discretion to extend the period of probation and to terminate the servic es of the respondent without any notice and without giving any reasons whatsoever.
+RulingByLowerCourt	(5) After the respondent had put in one year's probation, his period of probation was extended for a further period of six months which is a clear pointer to the fact that the appointing authority was not convinced that the respondent had satisfactorily completed the period of his probation.
+RulingByLowerCourt	The confidential roll reflecting the assessment of the work of the respondent during the period 31-12-1965 to 30- 12-1966 clearly shows that the officer was careless and lacking in sense of responsibility.
+RulingByLowerCourt	The report also shows that the reporting officer recommended that the period of probation should be extended.
+RulingByLowerCourt	In accordance with the recommendation, the period of probation was further extended by six months.
+Argument	The learned counsel for the respondent submitted that the remarks made in the assessment roll went to show that the intention of the appointing authority was to proceed against the respondent by way of punishment.
+RatioOfTheDecision	We are, However,  unable to agree with this submission.
+RatioOfTheDecision	It is obvious that a temporary employee is appointed on probation for a particular period only in order to test whether his conduct is good and satisfactory so that he may be retained.
+RatioOfTheDecision	The remarks, in the assessment roll, merely indicate the nature of the performance put in by the officer for the limited purpose of determining whether or not his probation should be extended.
+RatioOfTheDecision	These remarks were not intended to cast any stigma.
+RulingByLowerCourt	In the case of <CITATION_1076507> this Court while indicating the nature of assessment made by the reporting officer observed as follows:-  "These rules abundantly show that a confidential report is intended to be a general assessment of work performed by a Government servant subordinate to the reporting authority, that such reports are maintained for the purpose of serving as data of comperative merit when questions of promotion, confirmation, etc., arise."
+RulingByLowerCourt	It was then vehemently contended by the respondent that as the appointing authority chose to  institute a departmental inquiry against the respondent for dereliction of duty and negligence in not attending to a <NAME> who died due to his carelessness, the enquiry should have been carried to its logical end and charge-sheet having been framed, the provisions of Art.
+RatioOfTheDecision	311 of the Constitution were clearly attracted and therefore it was not open to the appellants to have terminated the services by giving the order a cover of termination simpliciter.
+RatioOfTheDecision	In other words, the contention was that the real motive behind the termination of the service of the respondent was to inflict a punishment on him and as the appellants did not comply with the requirements of Art.
+RatioOfTheDecision	311 of the Constitution, the order impugned was illegal.
+RatioOfTheDecision	We are, however, unable to agree with this argument.
+RatioOfTheDecision	In the first place, it has been clearly pleaded by the Government in its counter-affidavit that although an enquiry was held yet it was not continued and no punishment was imposed on the respondent.
+RatioOfTheDecision	In this connection, relevant portion of parag raph 11 of the counter- affidavit before <ORG> may be extracted:-  "A preliminary enquiry was made before the charge was framed and on the enquiry report a prima facie case having been found against the petitioner due charge was framed against him.
+RatioOfTheDecision	No punishment under Regulation 28 of oil and Natural Gas Commission (Conduct, Discipline and Appeal) Regulation was inflicted on the petitioner."
+RatioOfTheDecision	In these circumstances, therefore, it is obvious that as the respondent was merely a probationer, the appointing authority did not consider it necessary to continue the enquiry but decided to terminate the services of the respondent as he was not found suitable for the job.
+RatioOfTheDecision	It is well settled by a long course of decisions of this Court that in the case of a probationer or a temporary employee, who has no right to the post, such a termination of his services is valid and does not attract the provisions of Art.
+RatioOfTheDecision	311 of the Constitution.
+Statute	In the case of <CITATION_1382698> , the matter was considered in all its aspect s by <ORG> comprising seven Judges of this <ORG> and the <ORG> adumbrated the following pro- positions:-  "Before a probationer is confirmed the authority concerned is under an obligation to consider whether the work of the probationer is satisfactory or whether he is suitable for the post.
+RatioOfTheDecision	In the absence of any Rules governing a probationer in this respect the authority may come to the conclusion that on account of inadequacy for the job or for any temperamental or other object not involving moral turpitude the probationer is unsuitable for the job and hence must be discharged.
+RatioOfTheDecision	No punishment is involved in this.
+RatioOfTheDecision	The fact of holding an inquiry is not always conclusive.
+RatioOfTheDecision	What is decisive is whether the order is really by way of punishment.
+RatioOfTheDecision	A probationer whose terms of service provided that it could be terminated without any notice and without any cause being assigned could hot claim the protection of Article 311 (2) ....   An order terminating the services of a temporary servant or probationer un der the Rules of Employment and without anything more will not attract Article 311.
+RatioOfTheDecision	Where a departmental enquiry is contemplated and if an enquiry is not in Act proceeded with Article 311 will not be attracted unless it can he shown that the order though unexceptionable in form is made following a report based on misconduct."
+RatioOfTheDecision	Similarly, the matter was previously considered in <CITATION_1270113> where the following observations were "Shortly put, the principle is that when a servant has right to a post or to a rank either under the terms of the contract of employment, express or implied, or under the rules governing the conditions of his service, the termination of the service of such a servant or his reduction to a lower post is by itself and prima facie a punishment, for it operates as a forfeiture of his right to hold that post or that rank and to get the emoluments and other benefits attached thereto.
+RatioOfTheDecision	But if the servant has no right to the post, as where he is appointed to a post, permanent or temporary e ither on probation or on an officiating basis and whose temporary service has not ripened into a quasi permanent service as defined in the Temporary Service Rules, the termination of his employment does not deprive him of any right and can not, therefore, by itself be a punishment.
+RatioOfTheDecision	One test for deter mining whether the termination of the service of a <ORG> men servant is by way of punishment is to ascertain whether the servant, but for such termination, had the right to hold the post.
+RatioOfTheDecision	If he had a right to the post as in the three cases hereinbefore mentioned, the termination of his service will by itself be a punishment and he will be entitled to the protection of Article 311.
+RatioOfTheDecision	In other words and broadly speaking Art.
+RatioOfTheDecision	311(2) will apply to those cases where the <ORG>ment servant, had he been employed by a private employer, will be entitled to maintain an action for wrongful dismissal, removal or reduction in rank.
+RatioOfTheDecision	To put it in another way, if the <ORG>ment has, by contract, express or implied, or, under the  rules, the right to terminate the employment at any time, then such termination in the manner provided by the contract or the rules, is, prima facie and per se, not a punishment and does not attract the provisions of Art.
+Argument	311."
+Argument	All these decisions were reviewed in the case of <CITATION_1343955> where this Court observed as follows:-  "Keeping in view the principles extracted above, the respondent's suit could not be decreed in his favour.
+Argument	He was a temporary hand and had no right to post.
+RatioOfTheDecision	It is also not denied that both under the contract of service and the service rules governing the respondent, the <ORG> had a right to terminate his services by giving him one month's notice.
+RatioOfTheDecision	The order to which exception is taken is ex facie an order of termination of service simpliciter.
+RatioOfTheDecision	It does not cast any stigma on the respondent nor does it visit him with evil consequences, nor is it founded on misconduct.
+RatioOfTheDecision	In the circumstances, the respondent could not invite the Court to go into the motive behind the order and claim th e protection of Article 311(2) of the Constitution.
+RatioOfTheDecision	We, therefore, agree with the submission made on be half of the appellant that <ORG> was in error in arriv-  611  ing at the finding that the impugned order was passed by way of punishment by probing into the departmental correspondence that passed between the superiors of the respondent overlooking the observations made by this <ORG> in <CITATION_1104465> [1967 (2) S.C.R.
+RatioOfTheDecision	496] that when there are no express words in the impugned order itself which throw a stigma on the Government servant, the <ORG> would not delve into <ORG> files to discover whether some kind of stigma could be inferred on such research."
+RatioOfTheDecision	The facts of the present case appear to be on all fours with those of the aforesaid decision.
+RatioOfTheDecision	From the undisputed facts detailed by us in an earlier part of the judgment, it is manifest that even if misconduct, negligence, inefficiency may be the motive or the inducing factor which influences the employer to terminate the services of the e mployee, a power which the appellants undoubtedly possessed, even so as under the terms of appointment of the respondent such a power flowed from the contract of service it could not be termed as penalty or punishment.
+RatioOfTheDecision	The matter was again considered at great length by a recent decision of this <ORG> in the case of <CITATION_443992> ., where <ORG> observed thus:  "Ordinarily and generally the rule laid down in most of the cases by this <ORG> is that you have to look to the order on the face of it and find whether it casts any stigma on the Government servant.
+RatioOfTheDecision	In such a case there is no presumption that the order is arbitrary or <NAME> fide unless a very strong case is made out and proved by the Government servant who challenges such an order."
+RatioOfTheDecision	Applying the principles enunciated by this <ORG> in various cases to the facts of the present case, the position is that the order impugned is prima facie an order of termination simpliciter without involving any stigma.
+RatioOfTheDecision	The order does not in any way involve any  evil consequences and is an order of discharge simpliciter of the respondent who was a probationer and had no right to the service.
+RatioOfTheDecision	The respondent has not been able to make out any strong case for this Court to delve into the documents, materials in order to determine a case of victimisation or one of punishment.
+RatioOfTheDecision	612  Reliance was, however, placed by the respondent on a decision of this Court in the case of <CITATION_32468> , where it was held that although termination of the service of a person holding the post on probation cannot be said to deprive him of any right to the post and is no punishment but where instead of terminating a person's service the employer choose to hold an enquiry into his alleged misconduct and proceeds by way of a punishment, such a course involves a stigma and an order of termination is bad.
+RatioOfTheDecision	Such, however, is not the case here.
+RatioOfTheDecision	The short history of the service of the respondent clearly shows that his work had never been satisfactory and he was not found suitable for being retaine d in service and that is why even e though some sort of an enquiry was started, it was not proceeded with and no punishment was inflicted on him.
+RatioOfTheDecision	In these circumstances, therefore, if the appointing authority considered it expedient to terminate the services of the respondent-a probationer-it cannot be said that the order of termination attracted the provisions of Art.
+RatioOfTheDecision	311 of the Constitution.
+RatioOfTheDecision	Thus, if the appellant found that the respondent was not suitable for being retained in service that will not vitiate the order impugned as held and observed by this <ORG> in the cases cited above.
+RatioOfTheDecision	For these reasons, therefore, we are satisfied that the order terminating the services of the respondent was valid and did not involve any stigma and was fully justified in the facts and circumstances of the present case.
+RulingByPresentCourt	The High <ORG>, therefore, erred in law in quashing the.
+RulingByPresentCourt	impugned order.
+RulingByPresentCourt	For these reasons, we allow this appeal, set aside the.
+RulingByPresentCourt	judgment and decree of the High <ORG> and hold that the order terminating the  services of the respondent was valid in law.
+RulingByPresentCourt	In the circumstances of the case, there will be no order as to costs.
+Precedent	S.R.
+RulingByPresentCourt	Appeal allowed.

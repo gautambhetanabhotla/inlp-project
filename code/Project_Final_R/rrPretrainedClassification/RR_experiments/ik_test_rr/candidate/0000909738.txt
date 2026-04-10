@@ -1,0 +1,10 @@
+Fact	JUDGMENT  1.
+Fact	We must follow the decision in <NAME> v. Ganga I.L.R.
+Fact	7 Bom.
+Fact	34 and Vishnu Shambhog v. Manjamma I.L.R.
+Fact	9 Bom.
+Argument	108 and hold that unchastity of a widow deprives her wholly of her right to maintenance.
+Argument	No text has been cited in favour of the theory that a bare maintenance can be allowed.
+RatioOfTheDecision	The fact that there has been an agreement in our opinion makes no difference.
+RatioOfTheDecision	It merely fixes the amount and the security.
+RulingByPresentCourt	We must dismiss the appeal with costs.

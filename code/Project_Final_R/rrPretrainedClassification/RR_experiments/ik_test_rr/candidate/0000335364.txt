@@ -1,0 +1,98 @@
+Fact	JUDGMENT <NAME>, C.J.
+RatioOfTheDecision	1.
+RatioOfTheDecision	The question referred to <ORG> for decision is "whether under Section 539 of the Civil Procedure Code a suit to remove a trustee will lie."
+RatioOfTheDecision	2.
+RatioOfTheDecision	There has been a great diversity of opinion amongst the Judges of <ORG> on this point.
+RatioOfTheDecision	In <NAME> v. <ORG> Mad.
+Precedent	157 Mr. Justice <NAME> and MR. Justice <NAME> expressed doubts whether Section 539 empowered a <ORG> to remove a trustee, whilst in <NAME> v. Krishna I.L.R.
+Precedent	14 Mad.
+Precedent	186 Mr. Justice <NAME> in a most exhaustive judgment reviewed the statutes and cases both English and Indian relating to the subject in question, and came to the conclusion that Section 539 did not authorize the removal of a trustee.
+Precedent	<ORG> took the opposite view and held that a trustee could be removed in a suit brought under this section.
+Precedent	It appears to me that Section 539 of the Civil Procedure Code was drafted on the lines of 52 George III.
+Precedent	cap.
+Precedent	101, commonly called Romilly's Act, and t he draftsman must have been well aware that it had been held that the Act did not apply when the question arose as to whether a trustee should be adversely dismissed for misconduct.
+RatioOfTheDecision	Is it probable, therefore, that if the <ORG> intended the section to apply to a case where the removal of a trustee was in question that specific relief would not have been mentioned.
+RatioOfTheDecision	The section enumerates the specific reliefs that are given and the first is appointment of newtrustees under the trust.
+RatioOfTheDecision	We are, however, asked to add words to the section and to say that the <ORG> intended to give the power to remove adversely a trustee although the <ORG> refrained from saying so.
+RatioOfTheDecision	The words "granting such further or other relief as the nature of the case may require" cannot, under the recognized rules of construction, be said to give a <ORG> the power to remove a trustee.
+RatioOfTheDecision	3.
+RatioOfTheDecision	The words of a statute cannot be construed contrary to their meaning as embracing or excluding cases merely, because no good reason appears wh y they should be excluded or embraced: see <NAME> v. <NAME> (Eden.
+RatioOfTheDecision	184) per Lord <NAME>, per curiam in <NAME> v. <NAME> 524.
+RatioOfTheDecision	The duty of the <ORG> is not to make the law reasonable, but to expound it as it stands according to the real sense of the words: see per <NAME>, J. in <NAME> v. <NAME> 6 <NAME>'s N.R.
+Precedent	234 S.C. 5 M. and Gr.
+Precedent	428.
+RatioOfTheDecision	It is far better, says Lord <NAME> in <NAME> v. <NAME> 1 E. and B.
+RatioOfTheDecision	516 that we should abide by the words of a statute than seek to reform it according to the supposed intention.
+RatioOfTheDecision	4.
+RatioOfTheDecision	I agree with the dictum expressed by the Judges in Narasimha v. Ayyan Chetti I.L.R.
+RatioOfTheDecision	12 Mad.
+Precedent	157 and in the judgment of Mr. Justice <NAME> in <NAME> v. Krishna I.L.R.
+Precedent	14 Mad.
+Precedent	186 and answer the question referred to the Full Bench in the negative.
+Precedent	<NAME>, J.
+Precedent	5.
+Precedent	I adhere to the opinion expressed by me in the previous decision.
+Precedent	<NAME>, J  6.
+Precedent	The question is whether under the provision of Section 539 of the Civil Procedure Code, two or more persons can, with the consent of t he Advocate-General, institute a suit for the removal of a trustee on the ground of fraudulent and improper conduct.
+Precedent	7.
+Precedent	The terms of the section with reference to the relief which may be obtained are not merely general.
+Precedent	The section particularizes the points to which the decree may be directed:  (a) appointing new trustees under the trust;  (b) vesting any property in the trustees under the trust;  (c) declaring the proportions in which its objects are entitled ;  (d) authorizing the whole or any part of its property to be let, sold, mortgaged or exchanged ;  (e) settling a scheme for its management, or granting such further or other relief as the nature of the case may require.
+Precedent	8.
+Precedent	The section is significantly silent with regard to that most important head of relief in connection with trusts, viz., the removal of fraudulent trustees.
+Precedent	The contention, therefore, that the section was intended to comprehend suits having that end in view can only be rested on the ground that by necessary implication jurisdiction  to entertain such suits was conferred by the section.
+Precedent	Apart from this section there is no doubt that in the Presidency Town it was competent to the Advocate-General to initiate proceedings either for the purpose of removing a trustee or for the purposes mentioned in the section, including that of having a scheme of management settled by the <ORG>, as was done in the <NAME> case.
+Precedent	The powers of the Advocate-General in this respect to take action for the protection of charitable trusts are the same as those which the Attorney-General in England possesses; Attorney-General v. <NAME> 4 M.I.A.
+Precedent	194.
+RatioOfTheDecision	In the <NAME> it was different.
+RatioOfTheDecision	There was no public official who could take action in the <ORG>s with reference to trusts and it was probably doubtful whether the <NAME> <ORG>s had jurisdiction with regard to trusts such as is undoubtedly given by the present section.
+RatioOfTheDecision	At any rate no ca3e can be found in which a <NAME> <ORG> has exercised such jurisdiction.
+RatioOfTheDecision	9.
+RatioOfTheDecision	This being the state of things, while no alteration  of the law was required for the Presidency Town, for <ORG> with regard to charities in the mufussil, there was need that jurisdiction should be given to enable those <ORG> to deal more effectually with trust property.
+RatioOfTheDecision	Whether the <ORG> had any further purpose in view and intended that District <ORG> should grant relief generally with regard to such trusts in suits instituted by a public official or by interested persons with his consent is the question we have to determine.
+RatioOfTheDecision	In favour of the construction of the section giving the <ORG> this larger jurisdiction it may fairly be said that the case such as the present, in which the removal of the trustee is alleged to be required in the interests of the trust, is eminently one in which it might be thought that a power to invoke the aid of the <ORG> should be given either to a public official or to persons interested in the trust.
+Precedent	Legislation to that effect with reference to charities not of a religious character would be hi harmony with t he enactment already in force with regard to trusts of a religious character; for under the Act of 1863 it is competent to persons interested in a religious establishment, on leave of <ORG> being first obtained but without joining as plaintiff any of the other persons interested, to bring a suit against the trustee who has been guilty of breach of trust and to obtain his removal from office or other relief.
+Precedent	10.
+Precedent	It is incorrect to say that charitable trusts which are not within the Act of 1863 are left wholly unprovided for unless a general jurisdiction with regard to them is given by the section: see <CITATION_1682387> .
+Precedent	20 Cal.
+Precedent	816.
+Precedent	As has been pointed out by two of the learned Judges in Subbayya v. Krishna I.L.R.
+RatioOfTheDecision	14 Mad.
+RatioOfTheDecision	199 220 a jurisdiction to remove trustees has always been exercised by <ORG>.
+RatioOfTheDecision	The remedy is not wanting altogether; but except in this section of the Code there is no provision of law empowering any public official to take action.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The course of the argument  stress was laid on the difficulties which would arise if the jurisdiction claimed is taken to be conferred by the section.
+RatioOfTheDecision	It appears to me that no construction of the section is altogether free from difficulties.
+RatioOfTheDecision	On the one hand if the section is to be restricted to proceedings not involving the removal of a trustee, it may be said that although the suit is launched upon an allegation of breach of trust and a breach of trust of a serious nature requiring the removal of the trustee may be proved, <ORG> or <ORG>, as the case may be, will have to stay its hand and remit the parties to an inferior <ORG> to obtain the proper relief.
+RatioOfTheDecision	Again, it would seem strange that the <ORG> should think it necessary to restrict to <ORG> and District <ORG> the jurisdiction in such simple matters as appointing new trustees, for although there may be a prayer for the settlement of a scheme the jurisdiction is complete notwithstanding that there is no such prayer.
+RatioOfTheDecision	Again, seeing that for the Pres idency Towns no amendment of the law was required, it is difficult to understand why the Advocate-General was mentioned and why an alternative jurisdiction was given to <ORG>.
+RatioOfTheDecision	On the other hand it may be objected that there being already a jurisdiction in <ORG> to remove trustees an enactment giving jurisdiction to certain <ORG> only in the same matter would be anomalous.
+RatioOfTheDecision	It might lead to the most inconvenient results if a suit could be instituted under the section in <ORG> and at the same time another suit under the old procedure in <ORG>.
+RatioOfTheDecision	Passing from these considerations from which in my opinion no conclusion can safely be drawn, I come to consider the other enactments with regard to the same subject-matter which the <ORG> had before them in 1877.
+Precedent	In this country there was the Act of 1863 relating to religious endowments and containing the section already mentioned which gives a general jurisdiction to <ORG> in the case of any breach of tr ust.
+Precedent	In specifying the relief which may be granted, Section 14 expressly mentions the removal of the trustee or other person incriminated.
+Precedent	If in 1877 it was intended to give <ORG> a similar jurisdiction in suits launched by persons interested in non-religious trusts, and in the section as originally framed the words 'or religious' do not appear, it is difficult to understand why all mention of this important head of relief, the removal of trustees, was not mentioned.
+RatioOfTheDecision	12.
+RatioOfTheDecision	It is clear, however, that the language of the section was not borrowed from the Act.of 1863 and that it was in part borrowed from the statute of <NAME> known as Sir Samuel <NAME>'s Act.
+RatioOfTheDecision	That being so, we are bound to have regard to the interpretation which has been put upon the latter Act--and the more so inasmuch as it appears that the decisions upon the statute are in a measure reproduced in the section of the Code.
+RatioOfTheDecision	It is true that the circumstances under which legislation was required in England and in India were widely  different.
+RatioOfTheDecision	In England the ordinary mode of obtaining redress with regard to charities being by way of information exhibited by the Attorney-General, what was required was not a forttm or a new jurisdiction but a new mode of invoking the aid of the Court.
+RatioOfTheDecision	The statute is entitled "An Act to provide a summary remedy in cases of abuses of trusts created for charitable purposes" and it enables two or more persons to proceed by petition praying such relief as the nature of the case might require.
+RatioOfTheDecision	13.
+RatioOfTheDecision	In this country what was required at least for the mufussil was the creation of a new jurisdiction.
+RatioOfTheDecision	The chapter does not state that the jurisdiction is to be summary (compare title of chapter XXXIX) and I cannot agree that it was intended that the proceeding being by suit should have that character.
+Precedent	See per <NAME>, J. in <NAME> v. Krishna I.L.R.
+Precedent	14 Mad.
+Precedent	216).
+Precedent	Notwithstanding these distinctions which may be drawn between the two enactments, I think we are bound to construe the language of chapter XL in the light of th e decisions on the statute, so far as they are applicable to that language.
+Precedent	The statute was from the outset held not to be applicable to cases in which the hostile removal of a trustee is required (see cases collected in Lewin on Trusts and <NAME>, Ch.
+Precedent	P., cap.
+Precedent	XXXVIII) and a further Act had to be passed in 1853 (16 and 17 Vic, cap.
+Precedent	137), empowering the <ORG> under certain circumstances on application made to order the removal or appointment of any trustee.
+RatioOfTheDecision	When it is found that the <ORG> with those statutes and the decisions on them and also with the Act of 1863 before them omitted all reference to removal of trustees, the inference seems to me irresistable that that matter was not intended to be brought within the scope of the chapter.
+RatioOfTheDecision	General words, it is true, are used similar to those used in the statute, but those words must be read with the words that go before and cannot be taken to include a distinct and substantive head of relief.
+RatioOfTheDecision	In my opinion a jurisdiction to remove trustees as it is not g iven expressly by the chapter is not given by necessary implication, and therefore the question referred to us must be answered in the negative.
+RatioOfTheDecision	JUDGMENT  14.
+RulingByPresentCourt	In accordance with the opinion of <ORG>, we must hold that the suit is not maintainable in <ORG>.
+RulingByPresentCourt	The plaint ought to have been returned.
+RulingByPresentCourt	We must modify the decree accordingly.
+RulingByPresentCourt	The appellant must pay the costs of appeal.

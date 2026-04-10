@@ -1,0 +1,397 @@
+Fact	JUDGMENT <NAME>, Kt., <NAME>1.
+Fact	The plaintiffs died this suit against the defendants claiming Rs.
+Fact	2,925 as damages for breach of a contract dated the 10th duly 1917.
+Fact	By an agreement of reference, dated the 25th September 1919, the matters in dispute were referred to the sole arbitration of one <NAME> without the intervention of the <ORG>.
+Fact	The first meeting before the arbitrator was held on the 17th October: the next on the 29th November when only the defendants were present.
+Fact	The arbitrator made his award on the 30th November allowing Rs.
+Fact	1750 for damages and Rs.
+Fact	50 for costs to the plaintiffs.
+Argument	Meanwhile the plaintiffs had written, on the 25th' November, to the arbitrator that they revoked his authority as arbitrator and cancelled the submission.
+Argument	The plaintiffs then moved for an ex, parte decree on the ground that the defendants had not filed their written statement, but the defendants were given time to enable them to file the award.
+Argument	On the 21st January 1920 the defendants gave notice that  they would move that the award should be recorded as an adjustment or compromise of the suit, and for a decree being passed in terms thereof.
+Argument	The motion was heard before <NAME> who dismissed it on the ground that the award could not be recorded as an adjustment under Order XXIII, Rule 3, while as the agreement to refer had been made without the intervention of the <ORG>, the application could not be made under the Second Schedule of the Civil Procedure Code.
+Precedent	2.
+Precedent	This brings before us a question which has caused much difference of judicial opinion.
+RatioOfTheDecision	We are dealing with an agreement to refer made by the parties to a suit without the intertion of the <ORG>, followed by an award.
+RatioOfTheDecision	We are not concerned with what may be the rights of the parties when an agreement to refer has been made and nothing further has been done.
+RatioOfTheDecision	Clearly that cannot be recorded as an adjustment.
+RulingByLowerCourt	If the parties wish to make it an order of <ORG> they can do so under Part 1 of the Second Schedule.
+RulingByLowerCourt	Here there has been an award, the validity of  which is disputed by one of the parties.
+RulingByLowerCourt	It was held in <NAME> v. <NAME> (1901) I.L.R.
+Precedent	20 Bom.
+Precedent	76, 78 : 3 Bom.
+Precedent	L.R.
+Fact	431 that such an award could be recorded as an adjustment under Section 375 of the Code of 1882, corresponding to Order XXIII, Rule 3, of the present Code.
+Fact	There was a conflict of decisions between the Calcutta, Madras and Bombay High <ORG>s on the one side and <ORG> on the other on the question whether the <ORG> could pass a decree on an adjustment except with consent of the parties, and the addition of the words "where it is proved to the satisfaction of the <ORG>" have been added to set at rest that conflict.
+Fact	If, then, an award is disputed, can a party ask the <ORG> to try the question whether or not the award is valid, and if proved to be valid, to pass a decree in accordance therewith?
+Precedent	This was doubted by <NAME> in <CITATION_653056> (1908) I.L.R.
+Precedent	33 Bom.
+Precedent	69 : 10 Bom.
+Precedent	L.R.
+Precedent	336 as the learned Judge thought that an application could only be made under Order XXIII, R ule 3 where the parties had accepted the award.
+Precedent	<CITATION_1917615> (1916) I.L.R.
+Precedent	40 Bom.
+Precedent	836 : 18 Bom L.R.
+Precedent	559.
+Precedent	I held that Section 89 excluded any such applications being made under Order XXIII, Rule 3 as that section directed that all references to arbitration whether by an order in a suit or otherwise, and all proceedings thereunder should be governed by the provisions contained in the Second Schedule save so far as it was otherwise provided by the Indian Arbitration Act , 1899, or by any other law for the time being in force.
+Precedent	<CITATION_1673369> (1912) I.L.R.
+Precedent	37 Bom.
+Precedent	639 : 15 Bom.
+Precedent	L.R.
+Precedent	340 it was held by <NAME> that Order XXIII, Rule 3, came within the definition of "any other law for the time being in force" but with all due respect for that learned Judge I cannot agree.
+RatioOfTheDecision	In the first place Order XXIII, Rule 3 makes no mention whatever of references to arbitration and I do not think it was ever intended by the <ORG> that it should apply to arbitration proceedings as such.
+RatioOfTheDecision	It is only by treating an  agreement to refer combined with the award as an adjustment by lawful agreement or compromise that arbitration proceedings can possibly be brought within the scope of that rule.
+RatioOfTheDecision	But beyond that it would be contrary to all canons, of construction of statutes that, where an Act lays down that certain proceedings should be governed by the provisions contained therein relating thereto, save where provision was made by some other law in force, the provisions of the Act itself should be considered as laying down "some other law for the time being in force".
+RatioOfTheDecision	The words "except as provided for in this Act" would have to be used.
+RatioOfTheDecision	If, then, references to arbitration made otherwise than by an order in a suit, as the reference in this case was and all proceedings thereunder, are to be governed by the provisions of the Second Schedule, unless the Indian Arbitration Act or some other Act applies, and no such Act applies to this case, we must look to the Second Schedule to see whether any of its provisions lays down the proc edure to be followed by the parties to this reference.
+RatioOfTheDecision	It has been contended that none of the provisions covers the case of an agreement to refer made by the parties to a suit without the intervention of the <ORG>.
+Precedent	In Harivallabhdas Kalliandas v. <NAME> (1879) I.L.R.
+Precedent	4 Bom.
+Precedent	1 : 15 Bom.
+Precedent	L.R.
+Precedent	340 it was held that an agreement to refer by parties to a suit could be filed under Section 523 of the Code of 1882.
+Precedent	The <ORG> was of opinion that Section 525 also contemplated arbitration without the intervention of the <ORG> by 'any person' and with respect to "any matter" and contained no express exception as to parties to a suit or to matters in litigation in a suit actually pending.
+Precedent	It was remarked that the procedure in such cases, as provided by Sections 523 and 525 , viz.
+Precedent	that the application should be numbered and registered as a suit was not the best adapted to a case where the matter was already before the <ORG>, and would necessitate an application for stay of proceedings in that suit.
+Precedent	<CITATION_1 692309> (1914) I.L.R.
+Precedent	38 Bom.
+Precedent	687 : 16 Bom.
+Precedent	L.R.
+Precedent	653, where the application was also to stay the suit after an agreement to refer without the intervention of the <ORG> had been entered into, <NAME> considered that that decision must be looked upon as a doubtful authority since the decision of <ORG> in <CITATION_1398204> (1901) I.L.R.
+Precedent	29 Cal.
+Precedent	167, 182, 183, P.C.
+Fact	The facts in that case were that after a suit had been tiled the matters in dispute were referred to arbitration.
+RulingByLowerCourt	When the award was made both parties objected to it.
+RulingByLowerCourt	The Subordinate Judge before whom the application to set aside the award was heard overruled all objection and passed a decree in terms of the award.
+RulingByLowerCourt	From this decree the defendants tiled an application for leave to appeal to the Chief <ORG> of the Punjab.
+RulingByLowerCourt	The Judge who admitted the appeal being of opinion that no appeal lay allowed the application to be amended so as to make it an application for revision in case the <ORG> that heard the appeal should decide that no appea l lay The question whether or not an appeal lay or was prohibited by the last clause of Section 522 of the Civil Procedure Code of 1882 was referred to <ORG> which decided that no appeal lay Thereafter an application for revision was entertained and the decree of the Subordinate Judge was modified.
+Fact	From this decision of <ORG> and the judgment of <ORG> on revision the defendants appealed to <ORG> The whole argument turned on the proper construction of Section 522 , now represented by para 16 of the Second Schedule.
+Fact	Their Lordships said at p. 182 ;  The Chapter in the Code of Civil Procedure on reference to Arbitration (Chapter XXX VII) deals with arbitrations under throe heads: -  1.
+RatioOfTheDecision	Where the parties to a litigation desire to refer to arbitration any matter in difference between them in the suit, in that case all proceedings from first to last are under the supervision of the <ORG>.
+RatioOfTheDecision	2 Where parties without having recourse to litigation agree to refer their differences  to arbitration and it is desired that the agreement of referent should have the sanction of the <ORG>.
+RatioOfTheDecision	In that case all further proceedings are under the supervision of the <ORG>.
+RatioOfTheDecision	3.
+RatioOfTheDecision	Where the agreement of reference is made and the arbitration itself fakes place without the intervention of the <ORG> and the assistance of the <ORG> is only sought in order to give effect to the award.
+RatioOfTheDecision	3.
+RatioOfTheDecision	Then at p. 183 occurs the following passage :  In cases falling under Heads II and III the provisions relating to cases under Head I are to be observed so far as applicable.
+RatioOfTheDecision	But there is this difference which does not seem to have been always kept in view in the <ORG>s in India, In cases falling under Head I the agreement to refer and the application to the <ORG> founded upon it must have the concurrence of all parties concerned and the actual reference is the order of the <ORG>.
+RatioOfTheDecision	So that no question can arise as to the regularity of the proceedings up to that point.
+RatioOfTheDecision	In cases falling under Heads II and III proceedings describ ed an a suit and registered as such must be taken in order to bring the matter the agreement to refer or the award as the case may be-under the cognizance of the <ORG>.
+RatioOfTheDecision	That, is or may be a litigious proceeding-cause may be shown against the application-and it would seem that the order made thereon is a decree within the meaning of that expression, as defined in the Civil Procedure Code.
+RulingByLowerCourt	4.
+RulingByLowerCourt	Eventually it was held that there was no appeal from the-decree and that the application for revision was incompetent.
+Precedent	5.
+Precedent	<CITATION_1909215> (1902) I.L.R.
+Precedent	30 Cal.
+Precedent	218 the parties to a suit agreed to refer the matters in dispute to arbitration.
+Precedent	An application was made under Section 375 to record the agreement as an adjustment and the learned Chief Justice in dealing with the question remarked incidentally that the decision in <CITATION_1398204> seemed to import that Section 523 did not apply where there was a pending suit, and doubted that the decision in <NAME> v. <NAME> could stand.
+Precedent	In V enkatachala v. Rangiah (1911) I.L.R.
+Precedent	36 Mad.
+Precedent	353 it was held that an order of a <ORG> filing an agreement to arbitrate presented by the parties to a suit is a decree and in appealable.
+Precedent	<CITATION_1398204> was referred to and the <ORG> considered that the three Heads under which arbitrations were classified in that case corresponded to arbitrations initiated by applications under Sections 506 , 523 and 525 of the old Code.
+RatioOfTheDecision	That is perfectly correct, but the learned Judges were only concerned with the question whether the application be them, an agreement to refer by parties in a suit, was cover by para 17 of the Second Schedule.
+RatioOfTheDecision	Clearly it was not, but the question whether para 20 covered applications such as the before us was not and could not have been considered.
+RatioOfTheDecision	6.
+RatioOfTheDecision	Nor, as I have pointed out, was that the question before the <ORG>: in <CITATION_1692309> .
+RatioOfTheDecision	Still it is clear that the second Head in the judgment of <ORG> in <NAME> case covers only arbitrations by parties who have not had re course to litigation, and that therefore an agreement to refer by parties to a suit cannot be tiled under para 17 of the Second Schedule.
+RatioOfTheDecision	But it is contended that it is by no means so certain that the third Head covers only arbitrations by parties who have not had recourse to litigation.
+RatioOfTheDecision	In my opinion, however, the description of the first Head of arbitrations makes it clear that the parties to a litigation, who desire to refer their disputes to arbitration, must go to the Court for an order of reference if they wish the arbitration proceedings to continue under the provisions of the Second Schedule.
+RatioOfTheDecision	And there is no reason why they should proceed under para 17 when paras 1 to 16 prescribe the procedure to be followed in a most exhaustive manner.
+RatioOfTheDecision	7.
+Precedent	The decision, therefore, in <NAME> v. <NAME> (1879) I.L.R.
+Precedent	4 Bom.
+Precedent	1 must be considered as overruled.
+Precedent	8.
+Precedent	I also have come to the conclusion that my decision in <CITATION_1917615> (1916) I.L.R.
+Precedent	Bom 386 : 18 Bom.
+Precedent	L.R.
+Precedent	559 allowing th e application under Order XXIII, Rule 3, to be altered to one under para 20 of the Second Schedule was wrong.
+RatioOfTheDecision	But I cannot agree with <NAME> when he says that an award in a reference by parties to a suit without the intervention of the <ORG> cannot be a valid award.
+RatioOfTheDecision	Nor can I agree with the dictum in <CITATION_1692309> which, with due respect, appears to be obiter, that the action of parties to a suit in withdrawing and obtaining a decision by private arrangement can be treated as a nullity, as it can form the foundation for another suit.
+RatioOfTheDecision	9.
+RatioOfTheDecision	It is quite true that the <ORG> will not take cognizance of any proceedings by the parties which in effect oust its jurisdiction.
+RatioOfTheDecision	It will not stay its own proceedings merely because one party brings to its notice that there has been an agreement to refer the suit to arbitration.
+RatioOfTheDecision	Nor, if there is an award, will it proceed in the manner provided by any of the provisions of the Second Schedule.
+RatioOfTheDecision	10.
+RatioOfTheDecision	But there is no reason why, when the award is brought to its notice, it  should not try the issue whether the award is not binding on the parties under the general principles of the law of contract by proceeding under Order XXIII, Rule 3.
+RatioOfTheDecision	11.
+RatioOfTheDecision	It is not usual when the parties to a suit are agreed upon terms to formally record the agreement under Order XXIII, Rule 3 and then pass a decree in terms thereof.
+RatioOfTheDecision	12.
+RatioOfTheDecision	But when parties have been negotiating for a settlement, and one party considers a settlement has been arrived at, which the other party denies, or where there has been a settlement which one party seeks to avoid on any of the grounds on which an agreement can be avoided, recourse is had to Order XXIII, Rule 3, so that the <ORG> may determine whether an adjustment has actually been made or whether an adjustment made is one which can be recorded.
+RatioOfTheDecision	13.
+RatioOfTheDecision	When the terms of the adjustment have been settled by an arbitration and award out of <ORG>, the same considerations apply by analogy.
+RatioOfTheDecision	The parties may agree to ask for a consent decree.
+RatioOfTheDecision	In such a case the true position appears t o be that the <ORG>t will not look at the arbitration proceedings, but only at the consent terms, as it makes no difference whether those terms have been arrived at by agreement between the parties acting by themselves or have been settled by a third party chosen by them.
+RatioOfTheDecision	There is no particular reason in either case for having recourse to Order XXIII, Rule 3.
+Precedent	14.
+Precedent	But if the plaintiff ignoring the award proceeds with the suit the defendant may plead that there has been an adjustment.
+Precedent	This is in effect what has happened in this case.
+Precedent	15.
+Precedent	In <NAME> v. <NAME> (1818) 8 Taunt.
+RulingByLowerCourt	146, 147 the facts were somewhat similar.
+RulingByLowerCourt	The defendant obtained a rule to stay proceedings on the ground that after issue joined and notice of trial given, the parties had agreed to refer the cause to arbitration and that an award had been made.
+RulingByLowerCourt	The plaintiff said he had revoked the submission before award made.
+RulingByLowerCourt	The <ORG>t said :  What we should do in ease of an undisputed award, is another question.
+RulingByLowerCourt	Here, the award is disputed; and the <ORG> t will not, upon motion, decide the controverted matter.
+Precedent	The award must be pleaded, when the plaintiff may either reply or demur; but the question will most properly be disposed of by a jury.
+Precedent	16.
+Precedent	So in <NAME> v. <NAME> (1796) 2 Eap.
+Precedent	504 at the hearing the defendant proposed to give in evidence an award made in his favour on an agreement to refer the cause after issue had been joined and Lord <NAME> held that it could not be given in evidence but must be pleaded as a plea puts darreign Continuance.
+Precedent	17.
+Precedent	If the procedure prescribed by those decisions should be followed in this Court, when the plaintiff moved for an ex parte decree for want of a written statement, the defendant should have been told to file his written statement pleading the award instead of being given time to apply that the award should be tiled.
+Precedent	18.
+Precedent	Then the question could be tried in the suit and not by motion, whether the award was binding on the parties.
+Precedent	19.
+Precedent	Since the decision in <NAME> v. <NAME> <ORG> Rule 242 has been passed , which provides that no decree in a suit save as provided in Rule 348 (decree in terms of an award filed under para 10 of the Second Schedule) shall be passed unless the suit appears on the daily trial board.
+Precedent	As Order XXIII, Rule 3, contemplates the passing of a decree if the adjustment is recorded, the proper procedure is not by motion, but by putting Down the suit for hearing, and it is desirable that the party relying on an adjustment should plead it beforehand so that the issue can be properly tried.
+Precedent	Leave can always be obtained for a supplementary pleading.
+Precedent	20.
+Precedent	<CITATION_1673369> (1912) I.L.R.
+Precedent	37 Bom.
+Precedent	639, 643 : 15 Bom.
+Precedent	L.R.
+Precedent	340 the order made was :  The suit will be set down for hearing...when the first defendant will, in the first instance, proceed to satisfy the.
+Precedent	Court that the adjustment has been properly and justly obtained and the plaintiff will then be entitled to urge any ground that may be open to her to show that the award which is sought to be enforced against her as an adjustment ought not  to be recorded and a decree passed in terms thereof.
+Precedent	21.
+Precedent	Whether the suit is set down for hearing an application to record an adjustment, or is set down for trial, an order must be passed recording or refusing to record the adjustment, as an appeal lies against such an order though not against the decree passed in terms of an adjustment.
+RatioOfTheDecision	This somewhat paradoxical procedure is necessitated by the fact that the term 'consent decree' is applied to a decree passed against a party who stoutly denies he has given his consent, when as a matter of fact it is found that he has consented.
+RatioOfTheDecision	The result is that if a defendant pleads an award and the <ORG> finds that the award is binding the <ORG> passes a consent decree, but must first make an order which is appealable that the award is binding.
+Precedent	22.
+Precedent	In <NAME> v. <NAME> (1901) I.L.R.
+Precedent	26 Bom.
+Precedent	76 : 3 Bom.
+Precedent	L.R.
+Precedent	431 the appellant contended inter alia that the award was falsely and fraudulently made by the arbitrators, purporting to make the same without holding any meeti ngs or examining any books of account and without giving the defendant any opportunity of appearing before them in support of his case.
+Precedent	23.
+Precedent	These questions do not appear even to have been considered by the trial Court or <ORG> which confirmed the decree passed in the terms of the award.
+Precedent	24.
+Precedent	<NAME> said:  Several objections have been taken to the decree under appeal.
+Precedent	First it is said that Chapter XXXVII of the Civil Procedure Code, 1882, is an exhaustive exposition of the power to refer to arbitration pending a suit.
+Precedent	I can find nothing, however, in Chapter XXX VII which invalidates a proceeding not in accordance with its provisions beyond the result that non-compliance deprives a party of a right to claim the consequences the Chapter prescribes, and I therefore hink the objection cannot succeed.
+Precedent	25.
+Precedent	It was contended from this judgment by <NAME> in <CITATION_653056> (1908) I.L.R.
+Precedent	33 Bom.
+Precedent	69 : 10 Bom.
+Precedent	L.R.
+Precedent	366 that a party objecting to an award had to submit to a decree in terms of the aw ard without his objections being heard, and there are grounds for such a conclusion from the bare record of the case as reported If that had really been decided I should be inclined to say it was wrong, but it does not appear whether the defendant actually persisted that his objection should be heard or merely objected to the procedure.
+Precedent	26.
+RatioOfTheDecision	It certainly cannot be that a party to a suit submitting to arbitration would be under an implied promise to accept the award whatever its nature might be and however it had been arrived at.
+RatioOfTheDecision	And this was the view taken by <NAME> in <CITATION_1673369> .
+RatioOfTheDecision	It all comes to this, that a party to a suit setting up an award by arbitration out of <ORG> must satisfy the <ORG> that there has been an adjustment by lawful agreement which entitles him to ask that the suit should be stopped and a decree passed in terms thereof.
+RatioOfTheDecision	The <ORG> must then decide on the general principles of the law of contract whether or not there has been such an adjustment.
+RatioOfTheDecision	In the case of an arbitration and  award Order XXIII, Rule 3, requires a certain amount of amplification.
+RatioOfTheDecision	The suit is not adjusted by the agreement to refer, but by what is implied in that agreement, namely, that the parties agree to be bound by the terms of an award which has been properly made in accordance with the agreement.
+RatioOfTheDecision	If the award is proved to have not been so made then there can be no adjustment.
+Precedent	27.
+Precedent	It may be as well to summarise the procedure to be adopted by parties in a suit who enter into an agreement to refer the matter in dispute in the suit or part of it to arbitration.
+Precedent	28.
+Precedent	They may make the agreement an order of <ORG> and then paras 1 to 16 of the Second Schedule apply.
+Precedent	29.
+Precedent	If they do not make the agreement an order of <ORG>,  (a) they cannot ask for the agreement to be filed under para 17;  (b) they cannot ask.
+Precedent	for the award if made to be filed under paras 20 and 21;  (c) if an award is made and both parties accept it they can apply for a consent decree in terms thereof, and there will be no need to apply for an order  recording the terms of the adjustment;  (d) if the plaintiff disputes the award for any reason and proceeds with the suit the defendant can plead the award and have the ease set down for hearing on the issue whether the award is binding as an adjustment;  (e) if the defendant disputes the award, the plaintiff can set the case down for trial on the issue whether the adjustment should be recorded;  (f) either party can file a suit to enforce the award and apply for a stay of the original suit.
+Precedent	30.
+Precedent	The provisions of the Code of 1882 relating to arbitration were transferred with certain modifications to a separate Schedule in the hope that at no distant date they might be transferred into a comprehensive Arbitration Act .
+Precedent	Unfortunately that hope has not been realised with the result that the law relating to arbitration still remains in a most undesirable condition.
+Precedent	31.
+Precedent	The appeal must be allowed, but, 1 think, the order giving time to the defendant to file the award was also wrong.
+Precedent	He should have been told to  file his written statement pleading the award.
+Precedent	I am told that he has now filed his written statement so that he can apply to have the suit set down for trial on the issue whether the award is binding.
+Precedent	<NAME>, J.
+Precedent	32.
+Precedent	The questions for determination may be stated as follows:-  (1) Do paragraphs 20 and 21 of Schedule II of the Civil Procedure Code apply to cases where the matters referred to arbitration are already the subject-matter of a suit between the parties to the reference?
+Precedent	(2) If they do apply, what effect does a decree under paragraph 21 have upon the suit?
+Precedent	(3) If the parties to a suit agree to refer the matters in dispute to arbitration without the intervention of the <ORG>, and an award is made on such submission, prior to the decision of the suit, can the submission and award be recorded under Order XXIII, Rule 3, Civil Procedure Code, as an agreement adjusting or compromising the suit, and a decree be passed in terms of the award?
+Precedent	(4) If questions (1) and (3) are answered in the negative, what  remedy is open to a person interested in the award to enforce it ?
+Precedent	33.
+Precedent	I agree with the learned Chief Justice that the first question should be answered in the negative.
+Precedent	The words "any matter" and "any person" used in paragraph 20 are no doubt very wide, and it contains no express exception as to parties to a suit or to matters in litigation in a suit actually pending.
+Precedent	But the same applies to paragraph 17, with the substitution of "difference" for "matter"; and the ruling in <NAME> v. <NAME> (1879) I.L.R.
+Precedent	4 Bom.
+Precedent	1 that Section 523 of the Code of 1877 (corresponding to this paragraph 17) applied to parties between whom a suit is pending about the matters referred to arbitration, is virtually overruled by <CITATION_1398204> .
+Precedent	<NAME> (1901) I.L.R.
+Precedent	29 Cal.
+Precedent	167, P.C.
+Precedent	as pointed out by <NAME> in <CITATION_1692309> (1914) I.L.R 38 Bom.
+Precedent	687, 696 : 16 Bom.
+Precedent	L.R.
+Precedent	653.
+RatioOfTheDecision	I also concur with his view in the same case that paragraphs 1 to 1G are intended to prescribe the only provisions  in the Schedule by which the <ORG>' jurisdiction to determine the matter in dispute after a regular hearing can be ousted by a submission to arbitration and an award thereon.
+RatioOfTheDecision	This is supported by the general nature of the heading to paragraphs 1-16, viz., "Arbitration in suits", and the fact that paragraphs 17 and 20 both require that an application under them "shall be numbered and registered as a suit"-a procedure which is inappropriate, where a suit between the parties is already pending.
+Precedent	These considerations apply as much to paragraph 20 as to paragraph 17; and in <NAME> case it seems to me their Lordships of <ORG> intended Head III of those specified in the judgment (at p. 182) to exclude (just, as much as Head II) the case dealt with in Head I, viz;: "Where the parties to a litigation desire to refer to arbitration any matter in difference between them in the suit."
+Precedent	The words "the agreement of reference" in Head III were, I think, intended to refer to an agreement of the kind specifi ed in Head II, viz.
+Precedent	"where parties without having recourse to litigation agree to refer their differences to arbitration".
+Precedent	If so, the obiter dictum in <NAME> v. <NAME> in regard to Section 525 (now Schedule II, para.
+Precedent	20) is also dissented from by <ORG>.
+Precedent	34.
+Precedent	In view of the above answer to the first question (which agrees with the view taken in <CITATION_1692309> ), the second does not arise.
+Precedent	But even supposing the first question is answered in the affirmative, 1 think that a decree obtained under para.
+Precedent	21 (2) cannot operate of itself as a decree in the suit.
+Precedent	The proceedings under paras.
+Precedent	20 and 21 would not be proceedings in the suit, but entirely separate proceedings like those for filing an award under as.
+Precedent	11 to 15 of the Indian Arbitration Act , 1899.
+Precedent	This has already been ruled in <CITATION_671199> (1906) 8 Bom.
+Precedent	L.R.
+Precedent	577.
+Precedent	The decree could, it seems to me, at most, operate as rets judicata under Section 11 , Civil Procedure Code, as being a decision in a "former  suit" (cf.
+Precedent	Explanation I to Section 11 ; para.
+Precedent	20 (2) of Schedule II; <NAME> v. <NAME> (1881) I.L.R.
+Precedent	7 Cal.
+Precedent	727; <NAME> v. <NAME> (1896) I.L.R.
+Precedent	21 Bom.
+Precedent	465; <NAME> v. <NAME> (1891) I.L.R.
+Precedent	18 Cal.
+Precedent	414, 419 P.C.
+Precedent	; and <CITATION_1032846> (1903) I.L.R.
+Precedent	27 Mad.
+Precedent	255, 257.
+Precedent	Otherwise, the <ORG> would still have to decide the issues after a regular hearing, according to the procedure laid down by the Code, unless the suit is withdrawn in consequence of the decree obtained under para.
+Precedent	21, or a consent decree is passed.
+Precedent	35.
+Precedent	On both these grounds 1 concur with the learned Chief Justice in thinking that the decision in <CITATION_1917615> (1916) I.L.R.
+Precedent	40 Bom.
+Precedent	386 : 18 Bom.
+Precedent	L.R.
+Precedent	559 should be overruled.
+Precedent	36.
+Precedent	The third question is one on which, in my opinion, a good deal can be said on either aide.
+Precedent	But 1 have come to the conclusion that there is no sufficient ground for our differing from the view taken in <NAME> v. <NAME> (1901) I.L.R.
+Precedent	26 Bom.
+Precedent	76 : 3 Bom.
+Precedent	L.R.
+Precedent	431, and tha t the question should accordingly be answered in the affirmative, at any rate until <NAME> v. <NAME> is overruled by <ORG> or <ORG>.
+Precedent	37.
+Precedent	There is certainly a very considerable weight of authority in favour of the view that an agreement to refer the matter in suit to arbitration and the award made thereon may amount to an adjustment of the suit by lawful agreement, within the meaning of Order XXIII, Rule 3, Civil Procedure Code, and the corresponding Section 375 of the Code of 1882. in the arguments reported (at p. 689) in <CITATION_1692309> (1914) I.L.R.
+Precedent	38 Bom.
+Precedent	687 : 16 Bom.
+Precedent	L.R.
+Precedent	653, it was stated that all the <ORG> were in agreement on this point.
+Precedent	1 am not sure if this is correct; but at any rate there are the following reported opinions to that effect: Samibai v. Premji Pragji (1895) I.L.R.
+Precedent	20 Bom.
+Precedent	304 per <ORG>; <NAME> v. <NAME> (1896) I.L.R.
+Precedent	21 Bom.
+Precedent	335, 341 per Fairan C.J.
+Precedent	; <NAME> v. <NAME> (1901) I.L.R.
+Precedent	26 Bom.
+Precedent	76 : 3 Bom.
+Precedent	L.R.
+Precedent	431, per <ORG> and  <NAME>; <CITATION_1673369> (1912) I.L.R.
+Precedent	37 Bom.
+Precedent	639 : 15 Bom.
+Precedent	L R. 340, per <NAME>; <NAME> v. <NAME> and <CITATION_858358> (1919) I.L.R.
+Precedent	42 Mad.
+Precedent	625 per <NAME> and <NAME> This view seems also supported by the remarks of <NAME> and <NAME> in <CITATION_372465>  3 K.B.
+Precedent	257.
+Precedent	The former says (at pp.
+Precedent	263-4), referring to a case like the present and the 11th section of the Common Law Procedure Act, 1854, allowing a stay of an action ponding arbitration proceedings:  The only effect of failing to obtain the order to stay the action was to leave the parties in the same position in which they were before the passing" of the 11th section of the Common Law Procedure Act, 1854, i.e., in the position that the jurisdiction of the <ORG> was not ousted, and that the <ORG> ignored the pendency of the arbitration, and therefore held a plea.
+Precedent	of pendency of an arbitration in the same matter to be bad, but allowed the plea of an executed award to be good, and I think allowed it  to be good even if the award was executed after action brought.
+Precedent	It was allowed, in fact, as accord and satisfaction completed after action...It is true that, generally speaking, the obstacles in the way of the arbitrator, if one of the parties refuses to attend, are so great that it is difficult, and sometimes practically impossible, for the arbitrator to go on with the arbitration; but if the arbitrator gets over these difficulties, and goes on and makes his award, I think- his award constitutes accord and satisfaction.
+Precedent	38.
+Precedent	<ORG> in the same case says (at pp.
+Precedent	272, 278):-  It is also clear that any binding agreement between the parties settling all the disputes raised in the action made after writ is a good defence as a plea puts darreign continuance (now pleaded under Order XXIV, whether such agreement is a direct settlement between the parties themselves, or made by Means of: a third person to whom they have referred the dispute after writ, or by means of an award made after writ in an arbitration e xisting before writ, if both parties subsequent to writ carry on the arbitration, and agree to an award being made notwithstanding the action.
+Precedent	But this is because it is always open to litigants to settle their differences after writ as they please.
+Precedent	39.
+Precedent	<ORG> no doubt holds (p. 269) that-  There cannot be two tribunals each with the jurisdiction to insist on deciding the rights of the parties and to compel them to accept its decision....  40.
+Precedent	But he expressly except the case where "the parties agree de now that the dispute shall be tried by arbitration, as in the case where they agree that the action itself shall be referred".
+Precedent	His objection that the <ORG>' jurisdiction cannot be ousted applies to a case (like the one there under consideration) where there was a reference to arbitration, subsequent to the commencement of the action, without the consent of one of the parties.'
+Precedent	41.
+Precedent	Order XXIII, Rule 3, Civil Procedure Code, contains provisions corresponding to the plea of "accord and satisfacti on after writ'; referred to in the case just cited.
+RatioOfTheDecision	The principle of treating an agreement to refer to arbitration after suit, together with the award thereon, as on the same footing as a direct settlement between the parties themselves, for the purposes of such a plea, appears to me to be one which has very high authority in its favour.
+RatioOfTheDecision	After all it is only an application of the maxim certain est quod certum <NAME> potest.
+Precedent	There is an agreement to settle the matters in dispute in the way decided on by the arbitrator, and as soon as he decides, the result is an ascertained settlement, as much as if the parties had settled the dispute themselves.
+Precedent	42.
+Precedent	I would, however, qualify the above by predicating that the award to be effective for such a plea must be a valid one, according to the general rules of law governing the validity of awards in arbitration proceedings.
+Precedent	This in effect would mean the English Common Law on the subject, which in turn is substantially expressed in paragraph 15 (1) ((a) and (b) of Schedu le II of the Code (cf.
+Precedent	Ganga Sahai v. Lekhraj Singh (1886) I.L.R.
+Precedent	9 All.
+Precedent	253, 264).
+Precedent	43.
+Precedent	<CITATION_653056> (1908) I.L.R.
+Precedent	33 Bom.
+Precedent	69, 74 : 10 Bom.
+Precedent	L.R.
+Precedent	366, per <ORG> objects that--  Under the principle) of <NAME> v. <NAME>, no sooner has a party made an irregular submission, on which an award, no matter how full of defects, has been passed than the other party can bring it in under Section 375 and, without having any objections investigated, get a final decree upon it.
+Precedent	44.
+RatioOfTheDecision	With due respect, I submit that in <NAME> v. <NAME> the <ORG> went on the assumption that the award was a valid one.
+Fact	No doubt one of the grounds of appeal (No.
+Fact	5) was that the award was improperly passed, but no reference is made to this in the reported arguments of the appellant s counsel (pp.
+Fact	77, 78).
+RatioOfTheDecision	The probability is, therefore, that this objection was not pressed.
+RatioOfTheDecision	Also 1 can see no sufficient ground for saying that the <ORG> cannot go into objections to the validity of an award under Order XXIII, Rule 3.
+RatioOfTheDecision	The C ourt under that rule has to be satisfied that the suit has been adjusted by a lawful agreement or compromise; and even though there may have been a lawful agreement to refer the matters in dispute to arbitration, still there will have been no real, "adjustment", if the reference has merely resulted in an invalid award.
+RatioOfTheDecision	Under general principles of justice, equity and good conscience the <ORG> is surely just lied in holding that an award improperly procured or vitiated by corruption or misconduct on the part of the arbitrator does not constitute an "adjustment1' under Order XXIII, Rule 3.
+RatioOfTheDecision	Or it may be put in another way.
+Precedent	There can of course be an express agreement in the submission that the parties will raise no objection to the award on the ground of misconduct, etc., of Halsbury's Laws of England, Vol.
+Precedent	I, Article 990 , at p. 481; but otherwise I take it that the implied objection to perform the award of the arbitrator will not be extended beyond an obligation to perform an award which (to use the language of  <ORG> in <NAME> v. <NAME> (1891) I.L.R.
+Precedent	18 Cal.
+Precedent	414, 418, P.C.)
+Precedent	has "ordinary legal validity," i. e., an award which is not a legal nullity or liable to be set aside for misconduct, & c. In the latter view there is no "agreement' to accept an award of the kind just mentioned, so as to bring the ease under Order XXIII, Rule 3.
+Precedent	As an instance of a <ORG> going into such questions under Order X.XIII, Rule 3,I may cite <CITATION_1398139> (1917) I.L.R.
+Precedent	39 All.
+Precedent	401, 408.
+Precedent	45.
+Precedent	With due deference, it seems to me that to make a distinction between a case where both parties accept the award (which <NAME> in <NAME> case at p. 74 says will constitute an adjustment under the rule) and a case where one of the parties dishonestly repudiates his submission (as in <NAME> case) or raises unsustainable objections to the validity of the award, is giving the latter an advantage, which is contrary to the terms of Order XXIII, Rule 3 of, <NAME> v. <NAME> (1915) 23 C.L.J.
+Precedent	482.
+RatioOfTheDecision	It is in principle  a reversion to the view that a disputed compromise did not fall under Section 375 of the Code of .1882.
+RatioOfTheDecision	The <ORG> has shown its approval of the decisions that such a dispute did not prevent the application of the provisions in question by the insertion of the words "where it is proved to the satisfaction of the <ORG> that" at the commencement of the rule.
+RatioOfTheDecision	46.
+RatioOfTheDecision	Another objection taken in <NAME>'" case at p. 73 is, that Chapter XXXVII of the then Civil Procedure Code (corresponding to Schedule II of the present Code) provides a special procedure for extraordinary extra-judicial methods of settling disputed claims, and it must have been the intention of the <ORG> that that procedure and no other was to be followed.
+RatioOfTheDecision	But this seems to me to be opposed to the same learned Judge's opinion in <CITATION_1692309> (at p. 698) that : "Doubtless any parties litigating in <ORG> have perfect liberty to compose their differences among themselves by entering into any lawful agreement, compromise or satisfactio n".
+RatioOfTheDecision	The passages I have cited from <CITATION_372465>  3 K.B.
+RatioOfTheDecision	257 show that there is the highest authority for treating a submission to arbitration made after suit, plus the award thereon, as an adjustment of the suit by lawful agreement; and it seems to me very improbable that the <ORG> intended to prevent such an adjustment being made.
+RatioOfTheDecision	The view taken on this point in <NAME> v. <NAME> is, I submit, correct.
+Precedent	47.
+Precedent	Then does Section 89 of the Code prevent Order XXIII, Rule 3, Civil Procedure Code, operating in such a case ?
+Precedent	On this point I concur with the view taken by <NAME> in <CITATION_1673369> (1912) I.L.R.
+Precedent	37 Bom.
+Precedent	639 : 15 Bom.
+Precedent	L.R.
+Precedent	340, which is also taken by <ORG> in <CITATION_858358> (1919) I.L.R.
+Precedent	42 Mad.
+Precedent	625.
+Precedent	No doubt the words "other law for the time being in force" are inappropriate for covering a provision of the Code itself, such as Order XXIII, Rule 3.
+RatioOfTheDecision	But the <ORG> in enacting Section 89 probably had not that particular rule at all in their mind, and had no inten tion of affecting it one way or the other.
+RatioOfTheDecision	The main object of s 49 clearly is to give effect to the provisions of Schedule II as if they had been enacted in the body of the Code.
+RatioOfTheDecision	Section 89 was needed only because of the relegation of Chapter XXXVII of the Code of 1882 to a Schedule and no change of procedure was, in my opinion, intended.
+RatioOfTheDecision	This is in accordance with the general rule that "the Legislature must not be taken to intend any alteration in the law beyond what it explicitly declares in express terms or by unmistakeable implication."
+Precedent	(<ORG>, 3rd Edn., p. 113; In the matter of <NAME> Narrondas (1886) I.L.R.
+Precedent	11 Bom.
+Precedent	138, 143 and <NAME> v. <NAME> (1900) I.L.R.
+Precedent	25 Bom.
+Precedent	202, 209 : 2 Bom.
+Precedent	L.R.
+Precedent	986.
+Precedent	It seems to me to be a case where the rule of construction laid down by <NAME> in <NAME> v. <NAME> (1859) 26 Beav.
+Precedent	606, 610 should be applied.
+Precedent	He says:- -  The general rules which are applicable to particular and general enactments in statutes (if they were repugnant) are ve ry clear, the only difficulty is in their application.
+Precedent	The rule is, that wherever there is a particular enactment and a general enactment in the same statute, and the latter, taken in its most comprehensive sense, would overrule the former, the particular enactment must be operative, and the general enactment must be taken to affect only the other parts of the statute to which it may properly apply".
+Precedent	48.
+Precedent	Here Order XXIIL, Rule 3, constitutes a particular enactment (read with Section 121 ) regarding the compromise of a suit, while Section 89 is a general enactment regarding arbitration, for the words "all references to arbitration whether by an order in a suit or otherwise, and all proceedings thereunder" are of a general nature: they could scarcely be made any wider than they are.
+Precedent	I think, therefore, that in accordance with the rule of construction I have mentioned, Section 89 should not be read as affecting the particular enactment contained in Order XXIII, Rule 3, so far as that covers the case of an award  on a reference to arbitration.
+Precedent	In these circumstances I do not see why the words "save in so far as is otherwise provided... by any other law for the time being in force'' should not be construed as covering a law enacted by the Code itself.
+Precedent	Taken in their literal and ordinary meaning the words are wide enough to permit of this interpretation; and the mere fact that particular provisions of the Code are not specifically excepted does not, in my opinion, suffice to exclude them from the benefit of the saving clause, if they otherwise appropriately fall under it.
+Precedent	49.
+Precedent	There is no clear evidence of any intention of the <ORG> to exclude Order XXIII, Rule 3, from this benefit; and (as I have already said) there is a presumption against any alteration of the law regarding Section 375 of the Code of 1882, as laid down in <NAME> v. <NAME>.
+Precedent	50.
+Precedent	I do not think that the words "other law," as used in the Code, must necessarily mean some law other than that contained in the Code.
+Precedent	Thus in Section 96 (1) of the  Code, a general right of appeal (not restricted to certain grounds as a second appeal is by Section 100 ) is given from "every decree passed by any <ORG> exercising original jurisdiction".
+RatioOfTheDecision	The only saving is "where otherwise expressly provided in the body of this Code or by any other law for the time being in force."
+RatioOfTheDecision	This "other law" must, I think, be read to cover the provisions in Schedule II, paras 16 (2) and 21 (2), which restrict the right of appeal from a decree under those paras to one upon the specific ground that " the decree is in excess of, or not in accordance with, the award."
+RatioOfTheDecision	Otherwise there is a repugnancy between the general right conferred by Section 96 , and this specific enactment.
+RatioOfTheDecision	It may be noted that the provisions of the Second Schedule are not given legislative effect "as if enacted in the body of this Code", like the provisions of the First Schedule under s 121 : so that they can only come under the saving clause in Section 96 by treating them as any "other law for the time being in f orce."
+RatioOfTheDecision	The case is stronger with regard to Order XXIII, Rule 3, which under a 121 has effect as if enacted in the body of the Code, and is therefore on an equal footing in this respect to Section 89 .
+Precedent	Also "other law" in a 89 is clearly a law other than the Indian Arbitration Act , 1899 whereas in Section 96 it might be argued that "other law" must mean a law other than the Code.
+Precedent	51.
+Precedent	As to the fourth question, I agree with the learned Chief Justice that, if Order XXIII, Rule 3, cannot be availed of, either party, who wishes to enforce the award, can file a suit to enforce it, and apply for a stay of the original suit.
+Precedent	Also a defendant can, under Order VIII, Rules 8 and 9, Civil Procedure Code, with the leave of the <ORG>, plead the award in bar of the action on the original demand" of.
+Precedent	<NAME> v. <NAME>'.
+Precedent	52.
+Precedent	But in view of my answer to the third question, I concur in allowing the appeal with costs throughout.
+Precedent	53.
+Precedent	As to the question of the proper procedure for having the award cons idered by the <ORG> in the suit, it seems to me that Original Side Rule 242 only debars the <ORG> from passing a decree, unless the suit appears on the trial board.
+RatioOfTheDecision	There is no.
+RatioOfTheDecision	thing in it, therefore, to prevent the <ORG> from proceeding at any rate up to the stage of ordering the agreement (comprised in the agreement to refer and "the award thereon) to be recorded under Order XXIII, Rule ?>, and it can then direct the suit to be set down on the trial board for passing a decree in accordance with this order.
+RatioOfTheDecision	But I understand that the procedure preferred by the learned Chief Justice will put the <ORG> in a better position to decide any questions in issue by taking evidence in the ordinary way.
+Precedent	Also there is the precedent of the rule in England that, if an action is compromised out of <ORG>, and the compromise is not made an order of <ORG>, it cannot be enforced by motion in the action (Halsbury's Laws of England, Vol.
+RulingByPresentCourt	XXIII, p. 167, foot-note (h)).
+RulingByPresentCourt	I defer, therefore, to his opinion in the matter.
+RulingByPresentCourt	At the same  time, to prevent possible misapprehension, I may say that we are both agreed that, so far as the mofussil is concerned, the requisite proceedings can be taken on a mere application to have the alleged agreement recorded under Order XXIII, Rule 3, and that a formal pleading of the award under Order VIII, Rule 9, in unnecessary.

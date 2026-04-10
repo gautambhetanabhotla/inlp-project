@@ -1,0 +1,65 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This Appeal by Special Leave is against the order of <ORG> in Civil Misc.
+Fact	Writ Petition No.
+Fact	10373 of 19«1 and lies within a narrow compass.
+Fact	2.
+Fact	In the year 1976 the appellant invited applications from qualified candidates for recruitment to the posts of "<ORG>".
+Fact	A general test was held and the successful candidates were then interviewed and a list of 59 approved candidates eligible for appointment was prepared.
+Fact	However, only candidates upto Serial No.
+Fact	23 could be appointed against the vacancies which had arisen.
+Fact	The respondents were six of the candidates included in the list of eligible candidates but they could not be appointed because of their lower ranking in the list as Serial Nos.
+Fact	48, 28, 51, 46, 58 and 56 respectively.
+Fact	By way of concession the respondents and the other candidates who could not be appointed were offered the post of "Apprentice Clerks" for a period of one year for having the benefit of training subject to the condition that thei r acceptance of the offer would result in their names being deleted from the list.
+Fact	The respondents accepted the offer and had the benefit of being apprentice clerks for a period of one year.
+Fact	3.
+Fact	In 1978 the appellant again called for applications for appointment to the posts of Clerk-Grade II and held a test for the applicants in the month of September 1978 and prepared a fresh list of eligible candidates.
+Fact	4.
+Fact	The respondents objected to the preparation of a fresh list of candidates without first providing employment for the remaining candidates included in the list of the year 1976.
+Fact	The respondents I moved the UP.
+Fact	<ORG> for enforcement of their claim to appointment in preference to the candidates included in the list prepared in the year 1978.
+Fact	5.
+Fact	The <ORG> rejected the claim of the respondents and held that the list of eligible candidates prepared in the year 1976 had validity and operative force only for a period of one year and as such the respondents had no right to claim appointmen t in the year 1978.
+Fact	6.
+Fact	The respondents preferred Civil Misc.
+Fact	Writ Petition No.
+RulingByLowerCourt	1037, 3 of 1981 under Article 226 of the Constitution in <ORG>of 2 Allahabad to assail the judgment of the <ORG>.
+RulingByLowerCourt	A learned Single Judge of <ORG> has allowed the Writ Petition in the view that by a Circular dated 29.5.1979 <ORG> has relaxed the time limit of one year for lists of selected candidates and hence the respondents were entitled to seek appointment in terms of 3 the list prepared in 1976.
+Fact	It is against the Rule in the Writ Petition this appeal has been filed.
+Argument	7.
+Argument	Learned counsel for the appellant submitted that the order of the learned Judge is unsustainable for more than one reason.
+Argument	The learned Counsel stated that in the first place the preparation of a list containing 59 names in the year 1976 was itself contrary to the instructions issued by the <ORG> in their Circular dated 8 4.75.
+RulingByLowerCourt	In the said Circular the <ORG> has directed all the Heads of Departments to en sure that waiting list of candidates be prepared only in accordance with the number of posts which are vacant or arc likely to fall vacant during a year besides providing for 25 per cent more candidates so that the list may not become unwieldy.
+RulingByLowerCourt	The counsel stated that the preparation of a list containing 59 names as against only 23 vacancies which had occurred during the year was in clear violation of the instructions of <ORG>.
+RulingByLowerCourt	The second ground urged was that a waiting 4; list of candidates would be effective and have relevance only for a period of one year from the date of preparation and not for an indefinite period of time till all the persons included in the list are provided appointments.
+RulingByLowerCourt	The reason underlying the limitation of the period of a list for one year is obviously to ensure that other qualified persons 5(are not deprived their chances of applying for the posts in the succeeding years and being selected for appointment.
+RulingByLowerCourt	The last ground urged was that the Circular of the <ORG> issued i n 1979, has not only been misconstrued by the learned Judge but has also been wrongly given retrospective effect.
+RulingByLowerCourt	To understand this contention we must extract the Circular dated May 29, 1979 issued by <ORG>.
+RulingByLowerCourt	The English translation of the Circular which is in Hindi (Vide Annexure 'B' in Page 27 of the Paper Book) is in the following terms:  Sir, Some such references and complaints have been received by the Government from which it, has been known that some District Selection Committees have prepared such a long list of selected candidates that it has not been used for the last one or one and a half years till now.
+RulingByLowerCourt	This situation is very unsatisfactory because the sole object of getting selection made by selection committees is that the selection lists are made only in proportion to the vacancies not that they should be so big which may (give) rise to avoidable criticism and there may be discontent amongst the selected candidates.
+RulingByLowerCourt	2.
+RulingByLowerCourt	In regard to the solution of the aforesaid proble m and in accordance with the relevant Government orders, please ensure action as per the following procedure:  (1) Of the selected candidates in the list which had been prepared already which is pending till now, the list be kept effective till they are employed.
+RulingByLowerCourt	This action has to be taken only in the case of old lists.
+RulingByLowerCourt	(2) Alongwith the above, it is also made clear that from now and in future, in every event, in the list of clerks selected in accordance with Rule 16(8) and Rule 19 (3) of the Class IV Service Rules, 1975, the number of vacancies shall be limited, to 25%.
+RulingByLowerCourt	And from the date of preparation of the selection list, the list will be effective only for one year.
+RulingByLowerCourt	3.
+RulingByLowerCourt	Please continue to ensure compliance of the aforesaid arrangement and if an instance of violation of this arrangement comes to light in future, then in such an event, strict action be taken and the Government be also apprised according to need of such a matter.
+Fact	Yours faithfully, <NAME>, Deputy Secretary.
+Fact	8.Para 2(1.)
+RulingByLowerCourt	of the  Circular has been construed by the learned Single Judge to mean that all lists which had been prepared earlier will constitute pending lists and have to be kept effective till all the selected candidates in the lists are provided appointments.
+RulingByLowerCourt	In accordance with that view the learned Judge has held that the 1976 list, notwithstanding its supersession by the 1978 list will have operative force and hence the respondents included in the 1976 list should necessarily be provided appointments.
+RulingByLowerCourt	9.
+RatioOfTheDecision	As the learned Judge has allowed the Writ Petition only on the ground that, the <ORG>'s Circular dated May 29, 1979 overrides the earlier circulars, we need examine only the scope and effect of this circular.
+RatioOfTheDecision	On such scrutiny, we find the view taken by <ORG> is not correct and cannot, therefore, be sustained.
+Precedent	The crucial words in the Circular are the following:  List...which is pending till now.
+Precedent	The earlier instructions issued by the <ORG> imposed two conditions viz.
+Precedent	(1) a waiting list would be effecti ve only for a period of one year and (2) the list should not contain more than 25 per cent surplus candidates against vacancies existing and anticipated.
+Precedent	Therefore, the words "list which is pending" can only mean a list which had current force but which contained more names than 25 per cent surplus number of candidates against vacancies which existed or were likely to occur.
+Precedent	It could never have been the intention of the <ORG> that lists prepared in the earlier years, irrespective of the interval of time, would be treated as pending lists and all the candidates included in those lists should be given employment before fresh lists of eligible candidates are prepared.
+Precedent	Another significant feature to be noticed in this case is that after the list of the year 1976 was prepared, a fresh list of candidates had been prepared in the year 1978, and the selected candidates have been given appointments.
+Precedent	In the face of this later list there is no scope for treating the 1976 list as a pending list.
+Precedent	10.
+RulingByPresentCourt	We, therefore,  sustain the contentions of the appellant and allow the appeal and set aside the order of the learned Judge in Civil Misc.
+RulingByPresentCourt	No.
+RulingByPresentCourt	10373 of 1981.
+RulingByPresentCourt	There will, however, be no order as to costs.

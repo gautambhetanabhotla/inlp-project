@@ -1,0 +1,106 @@
+Fact	JUDGMENT O. Chinnappa Reddy, J.
+Fact	1.
+Fact	For the assessment year 1962-63, the Income-tax Officer assessed the assessee on April 21, 1964, on a total income of Rs.
+Fact	11,510.
+Fact	In the balance-sheet of the assessee, there appeared cash credits in the names of <ORG>, <ORG> and five others.
+Fact	The assessee produced evidence before the Income-tax Officer about the genuineness of the cash credits.
+Fact	The Income-tax Officer enquired into the genuineness of the cash credits and accepted them as true.
+Fact	It was^bnly thereafter that he completed the assessment.
+Fact	Later, a huge hundi racket operating on an all-India basis was unearthed and broken.
+Fact	Income-tax Officers all over the country got busy and started further probes irtto the affairs of various assessees.
+Fact	Some of the creditors shown in the balance-sheet of the assessee made confessional statements to the effect that they were lending names and not money.
+Fact	Thereupon, the Income-tax Officer issued a notice to the assessee under Section 148 of the Income-t ax Act, 1961, reopened the assessment and added a sum of Rs.
+Fact	1,60,000 to the income of the assessee.
+Fact	The appeals filed by the assessee to the Appellate Assistant Commissioner and <ORG> were dismissed.
+Argument	Before <ORG>, it was contended that the assessee had made a true and full disclosure of all primary facts even at the time of the original assessment and, therefore, the Income-tax Officer was not justified in reopening the assessment under Section 147(a) .
+Argument	<ORG> disagreed with the submission of the assessee and held that the Income-tax Officer was justified in reopening the assessment.
+Argument	At the instance of the assessee, the <ORG> has referred to us the following question for our opinion :  "Whether, on the facts and in the circumstances, <ORG>, Chandigarh, has rightly upheld the reopening of the assessment under Section 147(a) of the Income-tax Act, 1961 ? "
+Argument	2.
+Argument	<NAME>, learned counsel f or the assessee, argued that the assessee had disclosed all the primary facts at the time of the original assessment and the Income-tax Officer, after enquiry, had accepted the genuineness of the cash credits.
+Argument	The Income-tax Officer had later changed his opinion merely because some " hundi racket " unconnected with the assessee had baen unearthed.
+Argument	The Income-tax Officer was not entitled to do so.
+Argument	<NAME> relied upon the well-known cases of <CITATION_1300646>  41 ITR 191 ( <CITATION_1961426>  79 ITR 582 (SC) and the decision of a learned single judge of this court in <CITATION_842483>  93 ITR 198 (Punj).
+Argument	On the other hand, <NAME>, learned counsel for the department, argued that the obligation on the assessee was to disclose the facts both fully and truly and if the Income-tax Officer had reason to believe that material facts had not been truly disclosed he was competent to reopen the assessment.
+Argument	It would be a case of truth coming to light and not a mere change of opinion.
+Argument	<NAME> relied  upon the decisions of <ORG> in <CITATION_532752>  79 ITR 603 ( <CITATION_380958>  103 ITR 437 (SC) and of a learned single judge of this court in <CITATION_1463978>  93 ITR 204 (Punj).
+Argument	3.
+Statute	Section 147 of the Income-tax Act, 1961, in so far as it is relevant for the purposes of <NAME> present case, is as follows :  "147.
+Statute	Income escaping assessment.--If--  (a) the Income-tax Officer has reason to believe that, by reason of the ommission or failure on the part of an assessee...to disclose fully and truly all material facts necessary for his assessment for that year, income chargeable to tax has escaped assessment for that year...  he may......assess or reassess such income......for the assessment year concerned....."  4.
+Statute	The expression " material facts necessary for assessment " occurred in Section 34 of the 1922 Act, which corresponded to Section 147 of the 1961 Act.
+RatioOfTheDecision	The expression was interpreted by <ORG> to mean " primary facts " as distinguished from inferences, factual or legal, which  may properly be drawn from the primary facts.
+RatioOfTheDecision	If an assessee disclosed primary facts fully and truly and if the Income-tax Officer drew one inference from those facts yesterday and made an assessment, he cannot tomorrow change his mind and propose to reopen the assessment on the basis of a different possible inference from the same facts.
+RatioOfTheDecision	The Income-tax Officer cannot be heard to say that it was the duty of the assessee to disclose the primary facts as well as the several different inferences possible from the primary facts.
+RatioOfTheDecision	On the other hand, if the Income-tax Officer has reason to believe that primary facts were not fully disclosed or that they were not truly disclosed, he may reopen the assessment.
+RatioOfTheDecision	This he may do either because fresh facts come to light which were not previously disclosed or because new light thrown on facts previously disclosed tends to expose the untruthfulness of such facts.
+Argument	5.
+Argument	<CITATION_1300646>  41 ITR 191 (SC) <ORG> held that while the assessee was bound to disclose trul y and fully all primary facts, the assessee was under no obligation to point out the factual inferences which might be drawn from those facts.
+Argument	They said (pages 200, 201):  " There can be no doubt that the duty of disclosing all the primary facts relevant to the decision of the question before the assessing authority lies on the assessee......
+RatioOfTheDecision	Does the duty, however, extend beyond the full and truthful disclosure of all primary facts ?
+RatioOfTheDecision	In our opinion, the answer to this question must be in the negative.
+RatioOfTheDecision	Once all the primary facts are before the assessing authority, he requires no further assistance by way of disclosure.
+Argument	It is for him to decide what inferences of facts can be reasonably drawn and what legal inferences have ultimately to be drawn.
+Argument	It is not for somebody else--far less the assessee--to tell the assessing authority what inferences, whether of facts or law, should be drawn......  We have, therefore, come to the conclusion that while the duty of the assessee is to disclose fully and truly all prima ry relevant facts, it does not extend beyond this."
+Argument	6.
+Precedent	Again they said (page 202):  " It is the duty of the assessee to disclose all the facts which have a bearing on the question......The law does not require the assessee to state the conclusion that could reasonably be drawn from the primary facts.
+Precedent	The question of the assessee's intention is an inferential fact and so the assessee's omission to state his ' true intentions behind the sale of shares ' cannot by itself be considered to be a failure or omission' to disclose any material fact within the meaning of Section 34 . "
+Precedent	7.
+Precedent	Thus, <ORG> drew a distinction between primary facts and inferential facts and held that the duty of the assessee extended only to disclosing primary facts fully and truly.
+RatioOfTheDecision	It should be noticed here that <ORG> could not and did not absolve the assessee from the obligation of disclosing facts truly.
+RatioOfTheDecision	We are mentioning this because the decision is sometimes misunderstood and it is argued that if an assessee disc loses certain facts which are accepted as true by the Income-tax Officer after enquiry and an assessment is made on that basis, the Income-tax Officer is thereafter precluded from reopening the assessment even if subsequent information exposes the facts disclosed to be false.
+Precedent	For example, in <CITATION_842483>  93 ITR 198, 202 (Punj), a learned single judge of this court, after referring to the observations of <ORG> in <ORG> case  41 ITR 191 (SC), said:  " From this observation it follows that the ' material facts ' which the assessee is required to disclose at the time of assessment are the primary facts material and necessary for the purpose of his assessment.
+RatioOfTheDecision	The assessee is under no obligation of further informing the Income-tax Officer that some of the entries in his account books or in the balance-sheet are false.
+RatioOfTheDecision	It is for the Income-tax Officer to scrutnise the accounts of the assessee and after being satisfied as to their correctness to make the assessment.
+RatioOfTheDecision	It is true tha t as stated in Explanation 2 to Section 147 of the Act the mere production before the Income-tax Officer of the account books or other evidence from which material evidence could, with due diligence, have been discovered by the Income-tax Officer, will not necessarily amount to disclosure within the meaning of that section.
+RatioOfTheDecision	But, in the present case, the Income-tax Officer, at the time of the original assessment, specifically required the assessee to prove the cash credits standing in the names of all the firms including the five firms mentioned in the earlier part of this judgment and the petitioner-firm satisfied the Income-tax Officer about the genuineness of those accounts......
+RatioOfTheDecision	It is thus apparent that the Income-tax Officer has changed his opinion on account of subsequent information which has come into his possession.
+RatioOfTheDecision	It was the duty of the Income-tax Officer making the assessment order in 1964 to hold the enquiry and find the genuineness or otherwise of the cash credits.
+Precedent	He, in fact, held the enquiry  by asking the petitioner-firm to prove the genuineness of those cash credits.
+Precedent	It is not open to him to commence proceedings for reassessment under Section 148 of the Act on a change of opinion in such circumstances. "
+Precedent	8.
+RatioOfTheDecision	The assessee may not be under any obligation to inform the Income-tax Officer that the entries in his accounts are false.
+RatioOfTheDecision	But he is under an obligation to maintain true accounts and where subsequent information comes into the possession of the Income-tax Officer exposing the accounts as false, the Income-tax Officer is not precluded from reopening the assessment.
+RatioOfTheDecision	It would not be a case of mere change of opinion as a result of drawing a different inference from the same facts.
+RatioOfTheDecision	It would be a case where the Income-tax Officer has reason to believe, on the basis of subsequent information, that the assessee had failed to disclose material facts truly.
+RatioOfTheDecision	The observations of the learned single judge are clearly erroneous though, as we shall presently point out, the actual decision appears to be corre ct.  9.
+RatioOfTheDecision	<CITATION_380958>  103 ITR 437 (SC), decided by <ORG>, is an instructive case.
+RatioOfTheDecision	<NAME> first explained the legal position thus (pages 445, 446):  "The duty of the assessee in any case does not extend beyond making a true and full disclosure of primary facts.
+RatioOfTheDecision	Once he has done that his duty ends.
+RatioOfTheDecision	It is for the Income-tax Officer to draw the correct inference from the primary facts.
+RatioOfTheDecision	It is no responsibility of the assessee to advise the Income-tax Officer with regard to the inference which he should draw from the primary facts.
+RatioOfTheDecision	If an Income-tax Officer draws an inference which appears subsequently to be erroneous, mere change of opinion with regard to that inference would not justify initiation of action for reopening assessment.
+RatioOfTheDecision	The grounds or reasons which lead to the formation of the belief con templated by Section 147(a) of the Act must have a material bearing on the question of escapement of income of the assessee from assessment because of his failure or omission to disclose fully and  truly all material facts.
+RatioOfTheDecision	Once there exist reasonable grounds for the Income-tax officer to form the above belief, that would be sufficient to clothe him with jurisdiction to issue notice.
+RatioOfTheDecision	Whether the grounds are adequate or not is not a matter for the court to investigate.
+RatioOfTheDecision	The sufficiency of the grounds which induce the Income-tax Officer to act is, therefore, not a justiciable issue.
+RatioOfTheDecision	It is, of course, open to the assessee to contend that the Income-tax Officer did not hold the belief that there had been such non-disclosure.
+RatioOfTheDecision	The exist ence of the belief can be challenged by the assessee but not the sufficiency of the reasons for the belief.
+RatioOfTheDecision	The expression ' reason to believe ' does not mean a purely subjective satisfaction on the part of the Income-tax Officer.
+RatioOfTheDecision	The reason must be held in good faith.
+RatioOfTheDecision	It cannot be merely a pretence.
+RatioOfTheDecision	It is open to the court to examine whether the reasons for the formation of the belief have a rational connection with or a relevant bearing on the for mation of the belief and a re not extraneous or irrelevant for the purpose of the section.
+Precedent	To this limited extent, the action of the Income-tax Officer in starting proceedings in respect of income escaping assessment is open to challenge in a court of law."
+Precedent	10.
+Precedent	After stating the legal position, <NAME> proceeded to apply it to the facts before him which were as follows: The Income-tax Officer mentioned two grounds for reopening the assessment.
+Precedent	One was that <NAME>, <NAME>, <NAME>, etc., whose names were mentioned in the list of the creditors of the assessee, were known name-lenders.
+Precedent	The other was that <NAME> who was shown to be one of the creditors of the assessee had confessed that he was doing only name-lending.
+Precedent	In regard to the first ground the Income-tax Officer did not explain how the circumstance that some of the creditors were known name-lenders could lead to a reasonable belief that the assessee had failed to disclose facts fully and truly.
+RatioOfTheDecision	<ORG>, therefore, eschewed the  first ground from consideration.
+RatioOfTheDecision	We may mention here that it was on such a ground that the Income-tax Officer had reopened the assessment in <CITATION_842483>  93 ITR 198 (Punj).
+RatioOfTheDecision	That is why, though we disagreed with the observations of the learned single judge, we said that the decision was correct on facts.
+RatioOfTheDecision	In regard to the second ground, <ORG> noticed that there was nothing to show that the confession related to the loan to the assessees, nor was there any indication whether the assessment related to the relevant period.
+RatioOfTheDecision	In other words, there was no indication that the confession related directly or indirectly to the loan to the assessee.
+RatioOfTheDecision	It was, therefore, held that there was no rational connection between the confession and the formation of the reasonable belief necessary for reopening an assessment under Section 147 .
+RatioOfTheDecision	The discussion by <ORG> clearly indicates that had it been shown that the confession related to the loan to the assessee directly or indirectly, the reopening of a ssessment would have been upheld.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Coming now to the facts of the case before us, <NAME> argued that the Income-tax Officer had before him the confessional statements of creditors when he issued the notice under Section 148 .
+RatioOfTheDecision	If there were before the Income-tax Officer at the time of issuance of notice under Section 148 but not at the time of regular assessment, confessional statements indicating that the loans to the assessee were bogus loans, it has to be held that the Income-tax Officer was justified in reopening the assessment.
+Precedent	<NAME> invited our attention to the order of <ORG> where it has been stated :  "When the racket of hundis was exploded on all-India basis and the hundi racket became a notorious fact, the Income-tax Officer found that the credits shown in the names of the parties were merely--name-lending credits based on hawala business and as there were confessional statements of the creditors or the creditors had been proved to be merely lending their  names without lending the money, were indulging in hawala business, he reopened the case under Section 147(a) .
+Precedent	We have seen his reasons to believe and we are satisfied that the Income-tax Officer was within his right to reopen the case under Section 147(a) because his reasons to believe were covered by Section 147(a) ."
+Precedent	12.
+Precedent	Of course, the breaking of a hundi racket on an all-India basis cannot have any rational connection with the loans to the assessee but the confessional statements of the creditors may have.
+RatioOfTheDecision	That depends on whether the confessional statements are related in any manner to the loans to the assessee.
+RatioOfTheDecision	That information is not available in the order of the <ORG> out of which the reference arises or in the statement of the case submitted to us by the <ORG>.
+RatioOfTheDecision	Therefore, the only answer which we can give to the question referred to us is to say that the Appellate <ORG> was justified in upholding the reopening of the assessment under Section 147(a) if the confessional statements referred to  in paragraph 5 of its order were in any manner related to the loans to the assessee; otherwise, not.
+RulingByPresentCourt	The reference is , answered accordingly.
+RulingByPresentCourt	<ORG> will now deal with the matter in the light of our answer.
+RulingByPresentCourt	No costs.

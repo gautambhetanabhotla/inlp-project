@@ -1,0 +1,11 @@
+RulingByLowerCourt	JUDGMENT  1.
+RulingByLowerCourt	Having regard to the terms of the order made in the claim proceedings and to the fact that it was not proved that the plaintiff actually received notice of the claim proceedings, we are of opinion that the plaintiff is not a party against whom an order has been made within the meaning of Section 283, Code of Civil Procedure, and that the order is not conclusive as against him.
+RulingByLowerCourt	We do not think the decision of <ORG> <ORG> v. <ORG> 4 M.H.C.R.
+RulingByLowerCourt	472 precludes us from adopting this view, Moreover it seems doubtful whether, having regard to the observations made in the judgment of <ORG> in <NAME> v. Ambika Pershad 15 I.A.
+RulingByLowerCourt	123, this decision is good law.
+RulingByLowerCourt	The Bombay and Calcutta <ORG> have adopted a different view from that taken by <ORG> in the case referred to <NAME> v. <ORG> and <NAME> v. <ORG>.
+Fact	See, however, Surnamoyi Dasi v. <NAME>  I.L.R.
+Fact	27 Calc.
+Fact	714.
+Argument	2.
+RulingByPresentCourt	The second appeal is dismissed with costs.

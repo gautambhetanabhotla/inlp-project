@@ -1,0 +1,868 @@
+Fact	JUDGMENT <NAME>, <NAME> And <NAME>, JJ.
+Fact	1.
+Fact	This case has been referred to this <ORG> for a decision of the question whether in a Letters Patent appeal the time requisite for obtaining copies of the judgment and decree should be excluded in computing the period of limitation fixed by the Rules of this Court for preferring a Letters Patent Appeal.
+Fact	A Full <ORG> of four Judges of <ORG> in ' <CITATION_1030355> ', 2 All 192 (A) has to be considered and, if found to lay down incorrect law, has to be overruled.
+Fact	We think in these circumstances it would be advisable that <ORG> five Judgea be constituted in order to decide the case.
+Fact	2.
+Fact	We, therefore, direct that the papers of this case be laid before the Hon'ble the Chief Justice for constituting a larger <ORG>.
+Fact	<NAME>, C.J.
+Argument	3.
+Fact	The question which has been referred to this <ORG> is whether the time required for obtaining copies of the judgment and.
+Fact	decree appealed from should be excluded in computing the period .of limitation for prefer ring an appeal fixed by the Rules of this <ORG> under the Letters Patent.
+Fact	The relevant facts are that judgment in two connected second appeals was delivered by <NAME> on 3-10-1950, the learned Judge granting leave to the present appellants to file a further appeal under the Letters Patent.
+Fact	The Letters Patent ceased to have effect from the date upon which the U.P.
+Fact	<ORG>s (Amalgamation) Order, 1948 came into force, but by virtue of Clause 9 of that Order and Article 225 of the Constitution rules with respect to the practice and procedure of the former <ORG> are applicable to the present <ORG>, and, although not strictly accurate, it is convenient to refer to the Rules which we have to consider as made under the Letters Patent.
+Fact	On 11-10-1950, an application was made for a certified copy of the judgment and decree.
+Fact	The copy of the judgment was ready on 22-1-1951, and delivery was taken on the following day.
+Fact	The copy of the decree was not, however, ready until the 5th March and delivery was t aken on the 7th March.
+Fact	In the meantime on 21-2-1951, the appeal was presented but was not accompanied by a copy of the Judgment.
+Fact	Paras 2 and 3 of Rule 7 of Chap III of the Rules of Court as then in force, read as follows:  "In all appeals under the Letters Patent, a duly stamped memorandum of appeal shall be presented to the Registrar within 60 days and not more from the date of the judgment, unless a Judge in his discretion, on good cause shown, shall grant further time for its presentation.
+Argument	The memorandum of appeal need not be accompanied by a copy of the Judgment or decree appealed from".
+Argument	4.
+Argument	In 2 All 192 (A) <ORG> presided over by Sir <NAME>, <NAME>, held without stating its reasons, that under the Rules of Practice adopted in 1873 (which provided that the appellant need not file a copy of the judgment appealed from) an appeal under Clause 10, Letters Patent which had been preferred two days after the period of limitation had expired could not be ad-initted.
+Argument	That decision is directly in point  and the question is whether it is still good law.
+Argument	5.
+Argument	<NAME> for the appellant has advanced two arguments on behalf of the appellant.
+Argument	His first contention is that the rules made by this Court under the Letters Patent constitute a special or local law within the meaning of Section 29(2), Limitation Act , 1908, and that accordingly the provisions of Section 12 of that Act will apply for the purpose of determining the period of limitation.
+Argument	In the alternative, he contends that the provisions of Section 12 , Limitation Act apply to appeals under the Letters Patent 'proprio vigore'.
+Argument	6.
+Statute	Section 29(2) as it now stands provides that "Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule, and for the purpose of determining any period of limitation prescribed for any suit, appeal or application b y any special or local law --  (a) the provisions contained in & 4, Sections 9 to 18 , and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law; and  (b) the remaining provisions of this Act shall not apply".
+RatioOfTheDecision	It is not in dispute that the first schedule to the Limitation Act does not provide a period of limitation for an appeal under the Letters Patent, and (assuming that the Rules made by this Court are a special or local law, the first question is whether the provisions of Section 29(2) have any application when a special or local law prescribes a period of limitation for an appeal for which BO period is prescribed in the first srhedulc.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The answer to this question depends upon the construction to be placed upon Section 29(2) , a matter which is by no means free from difficulty.
+RatioOfTheDecision	8.
+RatioOfTheDecision	This sub-section in my opinion falls Into two parts and makes provision for two different but connected matters.
+Statute	The first part provides that "Wh ere any special or local law prescribes for any suit, appeal or application a period off limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule....."  The purpose of this part of the sub-section is, I think, sufficiently clear; it is, to resolve the difficulty which would otherwise arise where there is a difference between the period of limitation prescribed for a particular suit, appeal or application by the first schedule to the Limitation Act and the period prescribed by the special or local law.
+Statute	The sub-section then provides that "...... and for the purpose of determining any period of limitation prescribed for any suite appeal or application by any special or local law--  (a) the provisions contained in Section 4 , Sections 0 to 18 , and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly ex-cluded by such special or local law; and  (b) the  remaining provisions of this Act shall not apply"  and tne important question is whether these provisions apply only to those suits, appeals and applications to which the first part of the sub-section refers -- that is, to those suits, appeals and applications for which the special or local law prescribes a period of limitation different from that prescribed therefor by the first schedule -- or whether they are of general application and apply to all suits, appeals and applications for which a period of limitation is prescribed by a special or local law.
+RatioOfTheDecision	9.
+RatioOfTheDecision	In my opinion the latter Is the correct view.
+Statute	This part of the sub-section lays down how the period of limitation for certain suits, appeals and applications is to be determined.
+Statute	The words used are "for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law"; these are words of the widest amplitude, and standing by themselves include every suit, appeal and application for which a per iod of limitation is prescribed by a special or local law.
+Statute	Had it been the intention of the <ORG> to limit the ambit of the provisions of this part of the sub-section to those suits, appeals and applications to which reference is made in the earlier part, the appropriate words would have been "and for the purpose of determining such period" - the phrase "such period" having already appeared at the end of the first part.
+Statute	In the circumstances the deliberate use (as I conceive) by the <ORG> of the words "'any' period of limitation prescribed, for 'any' suit, appeal or application" appears to me to indicate chat the provisions of the second part of the sub-section lay down a rule of general application in the case of all suits, appeals and applications for which a period of limitation is prescribed by the special or local law.
+Statute	10.
+Statute	I am further of opinion that the second part of the sub-section has not been made a separate sub-section but has been connected to the first part of the existing sub-sectio n by the word "and" -- I venture to think that possibly the more appropriate word would have been "but" in order to make it clear that the provisions of the second part apply also to the suits, appeals and applications to which the first part refers, and so to remove the anomaly which would otherwise arise when applying Section 3 which is itself made subject to the provisions of Sections 4 to 25 of the Act.
+Argument	11.
+RatioOfTheDecision	The conclusion which I have reached on the interpretation of this sub-section is I think supported by the course of legislation culminating in the present Section 29(2) .
+RatioOfTheDecision	12.
+Statute	Prior to its amendment in 1922 by the Indian Limitation (Amendment) Act of that year, Sub-section (1) (b) of Section 29 of the present Act provided that "Nothing in this Act shall --  (b) affect or alter any period of limitation specially prescribed for in a suit, appeal or application by any special or local law now or hereinafter in force in British India".
+Statute	This provision was substantially a reproduction of Section 6 of the e arlier Act of 1877.
+Statute	13.
+RatioOfTheDecision	The meaning of the words "affect or alter" in both sections was judicially considered in number of cases, and the view at first generally taken was that the words "affect or alter" referred only to the period of limitation prescribed by the Act and not to the method of calculating that period; and that in consequence the general provisions of the Act were applicable to suits, appeals and applications under other Acts which prescribed special periods of limitation.
+RatioOfTheDecision	This was so held by this <ORG> in 'Beni Prasad Kuari v. Dharaka Ral', 23 All 277 (B), and see ' <CITATION_587343> ', 5 Cal 110 (C), 'Him-matlal v. Shivajirav', 8 Bom 593 (D) and 'Sesha-ma v. Sankara', 12 Mad 1 (E).
+RatioOfTheDecision	There developed later a divergence of opinion in the different High <ORG>s as to the meaning of the words "affect or alter" -- the other view being that the provisions relating to the computation of the period of limitation affected, if they did not alter, the period of limitation and, therefore, did not apply to  special or local laws.
+RatioOfTheDecision	A further question which also gave rise to considerable difference of opinion was whether the provisions of the Limitation Act applied to local or special laws which were held considered in themselves to be complete codes.
+RatioOfTheDecision	14.
+RatioOfTheDecision	It was in these circumstances that in 1922 Section 29 was amended by the substitution therefor of the section now in force; and it is, I think clear, that one of the purposes of the amendment was to put an end to the controversy which had developed over the interpretation of the words "affect or alter" and to enunciate a rule which should be of general application to all suits, appeals and applications for which a period of limitation is prescribed by any special or local law.
+RatioOfTheDecision	15.
+RatioOfTheDecision	Although in construing an Act the argument as to the result is entitled to no great weight "yet, in order to determine the intention of the framers, we may consider the results of suggested constructions of the language employed by them, in order that we may give effect to their intent ions if we can do so without putting a forced interpretation on their language". '
+Statute	<CITATION_1583931> ', 2 NWP HCR 117 (FB) (F).
+Statute	If the second part of the sub-section refers only to suits, appeals and applications to which the first part applies -- that is to those suits, appeals and applications for which a period of limitation is prescribed which differs from that provided therefor in the first schedule -- the consequences will be highly inconvenient; for in that case the sub-section will make no provision for what is to occur when either the special or local law prescribes for a suit, appeal or application- a period which is the same as the period prescribed for such suit, appeal or application in the first schedule, or when the schedule omits -- as in the case before us -- to provide a period of limitation.
+RatioOfTheDecision	Moreover a very anomalous position arises if the special or local law prescribes, as in the case of certain suits under the Uttar Pradesh Tenancy Act, three periods of limitation one of which is the s ame as the period prescribed in the first schedule and the two others are different.
+RatioOfTheDecision	Such, in my opinion, cannot have been the intention of the <ORG>.
+RatioOfTheDecision	16.
+Precedent	The meaning and effect of Section 29(2) appears to have been considered only in two reported cases; 'Mst.
+Precedent	Lalit Kuari v. <NAME>', <ORG> 1947 Pat 329 ( <CITATION_1855680> .
+Precedent	', <ORG>, 1953 Bom 35 (H).
+Precedent	In the former of these cases a special Bench of <ORG> held, in circumstances similar to those before us, that the provisions of Section 12 , Limitation Act applied 'proprio vigore' to an appeal 'under the Letters Patent of that Court.
+Precedent	<NAME> and <NAME> appear to have assumed that the provi-sions of Section 29(2) applied only where a special or local law prescribed a rule of limitation different from the period prescribed therefor by Schedule 1; <NAME> expressly held that to be so, "for no question", said the learned Judge, "can arise unless two different periods of limitation are prescribed and a choice has t o be made between them".
+Precedent	With this view I am, with respect, unable to agree.
+Precedent	17.
+Precedent	In the 'Canara Bank' case (H) <ORG> had to consider whether the pro-visions of Section 5 , Limitation Act applied to an appeal under the Bombay Land Requisition Act, 1948.
+Precedent	Schedule 1, Limitation Act prescribed no period of limitation for an appeal but the Court held that Section 29(2) was applicable on the ground that "If Schedule 1, Limitation Act omits laying down any period of limitation for a particular appeal and the special law provides a period of limitation, then to that extent the special law is different from the Limitation Act ".
+RatioOfTheDecision	The Court considered that if a contrary view was taken Section 3 of the Act would have no application and the appeal, although, barred by limitation, could not be dismissed, and this result could not have been intended by the <ORG>.
+RatioOfTheDecision	With great respect I am not able to accept this view.
+RatioOfTheDecision	The special law may no doubt be different from the Limitation Act , but that in my opi nion is not enough.
+RatioOfTheDecision	What Section 29(2) requires is that the period of limitation prescribed by the special or local law for a suit, appeal or application shall be different from the period prescribed 'therefor' by Schedule 1.
+RatioOfTheDecision	The words "prescribed therefor", in my opinion mean prescribed for that particular suit, appeal or application.
+RatioOfTheDecision	Nor, with respect, dees it appear that the startling result which the <ORG> envisaged as a consequence of the rejection of the view Which it felt obliged to take would follow, for if an appeal is barred by limitation when the memorandum of appeal is preferred the right of appeal itself no longer exists, and the <ORG> would in my opinion be bound to dismiss it on that ground.
+RatioOfTheDecision	18.
+RatioOfTheDecision	In my opinion the first part of Section 29(2) only comes into operation when two different periods of limitation are prescribed by Schedule 1 and the special or local law respectively, but, for the reasons I have endeavoured to state, the provisions of the second part of the sub-section are of general  application for the purpose of determining the period of limitation prescribed by a special or local law for any suit, appeal or application.
+RatioOfTheDecision	19.
+RatioOfTheDecision	I do not entertain any doubt that the rules made by the former <ORG> at Allahabad under its Letters Patent and continued in force by the virtue of Clause 7, U.P.
+RatioOfTheDecision	<ORG> (Amalgamation) Order, 1948, are special or local laws within the meaning of the Limitation Act .
+RatioOfTheDecision	It has not been contended that they are not law; but they are a law of restricted local application as they concern only the jurisdiction of this Court the territorial extent of which is confined to the limits of the State of Uttar Pradesh.
+RatioOfTheDecision	Whether they constitute a local law or special law or partake of the nature of both is not necessary to determine in the present case.
+RatioOfTheDecision	20.
+RatioOfTheDecision	Rule 7 enacts that the memorandum of appeal shall be presented "within 60 days and not more from the date of the judgment", & it has been suggested that the effect of the words "& not more" is to exclude the operation of  those provisions of the Limitation Act referred to in Clause (a) of Section 29(2) .
+RatioOfTheDecision	The inclusion of these words is no doubt indicative of the intention of the <ORG> that the presentation must be made within the time allowed save only (as the rule then provides) if the Judge thinks fit to grant further time.
+RatioOfTheDecision	The provisions of the Limitation Act mentioned in Clause (a) of Section 29(2) have, however effect in so far as and to the extent to which they are not expressly excluded by the special or local law; ,and in my judgment the use of the phrase "expressly excludes" negatives the exclusion of these provisions by implication.
+RatioOfTheDecision	I do not, therefore, think that the words "and not more" have any effect other than that of emphasis.
+Precedent	21.
+Precedent	I am, therefore, of the opinion that the provisions of Section 12(2) apply in computing the period of limitation for an appeal under the Letters Patent.
+Precedent	This sub-section so far as is relevant provides that "In computing the period of limitation prescribed for an appeal..... the day o n which the judgment complained of was pronounced, and the time requisite for obtaining a copy of the decree ....appealed from...... shall be excluded", and in view of the decision of <ORG> in <CITATION_394780> ', AIR 1928 PC 103 (I) it is not in dispute that if this sub-section applies the appellant was entitled to exclude the time requisite for obtaining a copy of the decree appealed from and that this appeal was preferred within time.
+Precedent	22.
+Precedent	'<NAME> case (A)' was decided in the year 1879 but it appears that the provisions of S. 6 , Limitation 'Act, 1877, were not brought to the Court's attention -- certainly there is no mention of this Act in the Report -- and as <ORG> said in ' <CITATION_394780> ), the case is not a decision on the Limitation Act .
+Precedent	In my opinion it can no longer be regarded as correctly laying down the law.
+Precedent	23.
+Precedent	In view of the opinion I have formed on the first submission of learned counsel for the appellant it is unnecessary for me to consider the second a rgument which he has advanced and.
+Precedent	on that argument I express no opinion.
+Precedent	24.
+Precedent	In my judgment the appellant is entitled to exclude the time requisite for obtaining a copy of the decree appealed from, and I would answer the reference accordingly.
+Precedent	<NAME>, J.
+Precedent	25.
+Argument	The question referred to this Bench is as to whether in computing the period of limitation fixed by the rules of this <ORG> for preferring a Letters Patent Appeal the time requisite for obtaining copies of the judgment and the decree should be excluded.
+Argument	I have had the advantage of reading the judgments of my Lord the Chief Justice, and my brothers <NAME>, <NAME> and <NAME>, JJ.
+Argument	The arguments advanced by Mr. <NAME>, learned counsel for the appellant, are that the rules framed by this <ORG> under the Letters Patent are 'special' or 'Local' law within the meaning of Section 29(2) , Limitation Act , 1908, and, therefore, the provisions of Section 12 of the Act would apply for the purpose of determining the period of limitation.
+Argument	The second argu ment advanced is that the provisions of Section 12 , Limitation Act are of general application and would apply to appeals under the Letters Patent 'proprio vigore'.
+Precedent	26.
+Precedent	Under the common law in England there is no limit of time provided for the enforcing of rights and it is the various statutes of limitation that prescribed the periods within which actions may be brought or within which certain rights may be enforced.
+Precedent	These statutes are founded on cubiic policy and aim at securing 'quiet to the community'.
+Precedent	As said by <NAME> 'controversies are limited to a fixed period of time lest they should be immortal while men are mortal'.
+Precedent	The Indian Limitation Act aims at consolidating the law relating to limitation of suits, appeals etc., and to provide rules for acquiring possession of ownership of easement ,and other rights and properties.
+Precedent	By its very nature this statute is, as it ought to be, of general application, and a perusal of the articles shows that an attempt has been made to envisage all possible claims t hat might be put forward in Courts.
+Precedent	These remedies may be based on general law applicable to all the citizens of the country or may be founded on personal law, statutory, customary or otherwise.
+Precedent	The remedies may also have foundation in any special law or any law having local application only.
+Precedent	The provisions of the Act would be applicable so far as they are not inconsistent with such special or local law.
+Precedent	The legislature appears to nave been alive to the fact that the periods prescribed for action under any special or local law might be different from the periods prescribed under the Indian Limitation Act , and to provide for such cases Section 29(2) was introduced specifically laying down that in cases of such difference between the periods of limitation prescribed by any special or local law and that prescribed in the first schedule of the Indian Limitation Act , the provisions.
+Precedent	of the special or local law would prevail, and that in such circumstance Section 3 would be applicable and the periods prescribed u nder the special or local law would be deemed to be the period prescribed by the first schedule.
+Precedent	A period of limitation prescribed under a special or local law may be either (1) the same as that prescribed in the first schedule of the Indian Limitation Act or (2) different from the period so prescribed, or (3) a period which the first schedule to the Indian Limitation Act has omitted to prescribe.
+Precedent	In the first case, Section 3 , Limitation Act will apply 'per se'.
+Precedent	In the second case, Section 29(2) , Limitation Act lays down that the period prescribed under the special or local law would be read as if it were prescribed in the first schedule of the Limitation Act for purposes of applying Section 3 of the Act.
+Precedent	In the third class of cases, where a special or local law prescribes a period which Schedule I, of the Indian Limitation Act has omitted entirely to prescribe, the provisions contained in Section 4 , Sections 9 to 18 and Section 22 shall be applicable by virtue of the second part of Section 29(2) as observ ed by my Lord the Chief Justice.
+Precedent	I respectfully adopt the reasons given by him for the view that 'the provisions of the second part of the sub-section' laid down a rule ot general application jn the case of all suits, appeals and applications for which a period of limitation is prescribed by the special or local law.
+Precedent	27.
+Precedent	<NAME> in AIR 1953 Bom 35 (H) considered Section 29(2) , Limitation Act to be applicable even when a particular special law prescribes a period whcih is not provided for in the first schedule of the Limitation Act at all.
+Precedent	At p. 36 he observed:  "The period of limitation may be different under two different circumstances.
+Precedent	It may be different if it modifies or alters a period of limitation filed by the first schedule to the Limitation Act .
+RatioOfTheDecision	It may also be different, in the sense that it departs from the period of limitation fixed for various appeals under the Limitation Act .
+RatioOfTheDecision	If the first schedule of the Limitation Act omits laying down any period of limitation for a particular appeal an d the special law provides a period of limitation then to that extent the special law is different from the Limitation Act ".
+RatioOfTheDecision	The learned Chief Justice felt that the language used by the <ORG> was not happy but he considered that the construction placed by him was necessary to reconcile the various difficulties caused by the other sections of the Limitation Act .
+RatioOfTheDecision	He thoughts that if this meaning were not adopted an appeal would not be liable to be dismissed under Section 3 even if it was barred by limitation.
+RatioOfTheDecision	To avoid this 'startling result' the learned Chief Justice felt constrained to put the construction that Section 29(2) would be applicable when a period of limitation is prescribed under a special) law while the first schedule of the Limitation Act has omitted to prescribe any such period.
+RatioOfTheDecision	With great respect I find myself unable to accept the view taken.
+Precedent	A right of appeal is a right depending on an express statutory provision and a special law might confer on a litigant a right of appeal and presc ribe the period during which the appeal must be filed.
+Precedent	The right of appeal cannot be considered to be an absolute right vested in him for all time.
+Precedent	It is necessarily a right to prefer the appeal within the period prescribed by that law, and if the litigant fails to avail of that right within the time prescribed he cannot claim to possess or to exercise such right after the period has run out.
+Precedent	When the period ends his right expires, and if he prefers an appeal after the period has ended and his right to prefer an appeal has expired, the appeal would be rejected in limine as incompetent.
+Precedent	28.
+Statute	Apart from the question of applicability of Section 3 , Limitation Act to matters arising under special or local law, Section 29(2) also provides that for the purpose of determining any period of limitation prescribed for in suits, appeals or applications by any special or local law the provisions contained in, Section 4 ; Sections 9 to 18 and S, 22, Limitation Act shall apply only in so far as and to the extent to which t hey are not expressly excluded by any such special or local law and the other provisions of the Act shall not apply.
+Statute	This further provision in Section 29(2) as to how the period of limitation prescribed by any -special or local law is to be determined, is independent of the earlier part of Section 29(2) which deals with the applicability of Section 3 , Limitation Act only.
+Statute	The provision ia consistent with the object of the Limitation Act to be a statute consolidating the law relating to limitation.
+Statute	As mentioned before, all possible remedies were thought of and provided for in the Articles, and this provision further provides that if any special or local law lays down some period of limitation which may or may not have been prescribed in the first schedule of the Act, the general rules which govern the determination of the period of limitation and are applicable to the periods prescribed in the first schedule have been made to govern those periods also which are so prescribed under the special or local law.
+RatioOfTheDecision	2 9.
+RatioOfTheDecision	To my mind, it is not essential to decide in the present case as to whether the Rules of the Court under the Letters Patent providing for special appeals are 'special law' or 'local law' or not.
+RatioOfTheDecision	If they constitute special or local law, the provisions of Section 29(2) would make Section 12(2) of the Act applicable.
+RatioOfTheDecision	If the above mentioned rules do not constitute special or local law and are only a part of the general law Section 12C2 ) would still be applicable.
+RatioOfTheDecision	There seems to me hardly any justification for the view that while the general principles relating to the law of limitation as incorporated in the sections named in Section 29(2) would be applicable to 'special' or 'local' law they would not be so applicable to general law.
+RatioOfTheDecision	It is suggested that the rules are special law within the meaning of Section 29 .
+RatioOfTheDecision	An opinion has also been expressed that it is 'local law' or may be partly 'special' and partly 'local' law.
+Precedent	<NAME>, J., in 'Abdul Ganni v. Mrs. <NAME>', AIR 1930 Rang 228 (FB) (J) in a Pull  Bench case, however, held that the rules made by <ORG> under its Letters Patent and by virtue of the Civil Procedure Code do not amount to a special or local law.
+Precedent	The charter cf <ORG> itself does not constitute, according to the learned Judge, a special or local law and the rules made thereunder, cannot be said to constitute a special or local law.
+Precedent	This view was followed by a Division Bench of the Patn<ORG> in ' <CITATION_1758820> ', AIR 1934 Pat 353 (K) and by a Pull Bench of <ORG> in --'Jog Dhian v. <NAME>', AIR 1935 Lah 328 (L).
+RatioOfTheDecision	The question is not free from difficulty.
+RatioOfTheDecision	As in my opinion the provisions of Section 12(2) , Limitation Act are applicable by themselves to determine the period prescribed by the rules of this Court without bringing into aid Section 29(2) , Limitation Act , I do not consider it necessary to decide the question as to whether the rules do or do not constitute special law.
+Precedent	30.
+Precedent	The Indian Limitation Act , 1908, as already stated above, is an Act  intended 'to consolidate and amend the law relating to the limitation of suits, appeals and certain applications to courts' and the Act amply illustrates this intention.
+Precedent	The Limitation Act is divided into two portions -- the sections and the schedules.
+RatioOfTheDecision	While the schedules set out the description of suits, appeals or applications, the period of limitation prescribed therefor and the time from which such period begins to run, the sections embody the principles, which have been recognized as forming part of the law of limitation, and subject to which courts and authorities have to decide as to whether a suit, appeal or application is or is not within limitation.
+RatioOfTheDecision	A perusal of the sections makes this clear.
+Statute	Section 4 lays down that where the period of limitation prescribed for any suit, appeal or application expires on a day when the Court is closed, the suit, appeal or application may be instituted, preferred or made on the day that the court reopens.
+Statute	The provisions of this section are very general.
+Statute	When a perio d is prescribed for instituting a suit or preferring an appeal, the suitor concerned is required to file a suit or appeal within that period.
+RatioOfTheDecision	If the <ORG> itself is closed and the suitor concerned is unable to file the suit or appeal within the specified period he cannot justly be said to be at fault, and this section only provides that he will have an opportunity of filing the suit or appeal on the date that the <ORG> reopens, after the expiry of the period during which he had to act.
+RatioOfTheDecision	There can be no doubt that all courts and authorities called upon to adjudicate on the question of limitation should take this reasonable rule into consideration when adjudicating a suit or appeal or application to be barred by time.
+RatioOfTheDecision	When the <ORG> attempted to codify the law of limitation, it hardly seems proper to hold that in all cases which were not dealt with in the schedules this elementary rule should be held to have been left to be enacted again and again in every statute where a period of limitation different fr om that mentioned in the schedule or not set out in the schedule at all was laid down.
+RatioOfTheDecision	Nor is it possible to find any justification for assuming that while in cases which the <ORG> could contemplate at the time and incorporate in the schedules the general principles embodied in the sections should apply, but in cases which were left out at the time and were prescribed by special or local enactments, the general principles should not be applicable unless specifically provided for.
+RatioOfTheDecision	31.
+RatioOfTheDecision	Similarly, Section 11 of the Act which deals with suits on foreign contracts lays down that they are subject to 'the rules of limitation contained in this Act'.
+RatioOfTheDecision	With great respect for the other view, I feel that the rules of limitation contained in this Act cannot be construed as meaning cnly the schedules which form part of the Act.
+RatioOfTheDecision	The rules of limitation obviously include the sections as well, and I would hesitate to assume that all possible suits on foreign contracts have been contemplated and provided for in the sched ules.
+Statute	The second part of Section 11 further lays down that no foreign rule of limitation shall be a defence in a suit instituted in India on a contract entered into in a foreign country except under certain circumstances.
+Statute	This also is a rule of general application and cannot be said to be applicable only to the periods of limitation prescribed in the schedule.
+Statute	It may be noticed that Section 5 , by its very provisions, is applicable only to those cases where this section is made applicable by or under any enactment for the time being in force.
+RatioOfTheDecision	This indicates that the <ORG> was alive to the fact that but for this restrictive clause in the section it would have been of general application.
+RatioOfTheDecision	No mention is made of the schedule.
+RatioOfTheDecision	The rules which should be applied in computing the period of limitation have been set out in part 3 of the Act and nowhere has it been stated in the sections contained in this part that the rules of computation should be applied only to the periods of limitation prescribed in the sch edules.
+Statute	The sections say that in computing the period of limitation prescribed certain periods shall.
+Statute	be excluded or that a fresh period of limitation may be computed from a particular date and that ail Instruments shall be deemed to be made with reference to the Gregorian Calendar for the purposes of the Act.
+RatioOfTheDecision	These rules are general in nature and having regard to the fact thai the Limitation Ace is a Code dealing with the law of Limitation, it does not appear correct to hold that these general rules are intended to be made applicable only to the periods prescribed in the schedule and not to the periods prescribed under other enactments.
+RatioOfTheDecision	A different view has, however, been taken by <NAME>, C. J., in the 'Kanara Ban's case (A)' referred to above.
+RatioOfTheDecision	At p. 37 he observes' "When a statute speaks of period of limitation prescribed it can only mean prescribed by that statute itself."
+RatioOfTheDecision	Two reasons appear to have been stated as justifying this view.
+RatioOfTheDecision	The first is, in the words of the learned Chief Justice--  "If the in tention of the <ORG> was to refer to the period of limitation prescribed by other laws, the <ORG> would have expressly so mentioned; and the other reason is that when we turn to Section 4 , it also speaks of 'limitation prescribed' and not 'limitation prescribed by the schedule' and yet under Section 29 the <ORG> had expressly to make Section 4 applicable when the period of limitation was prescribed by a special or local law".
+RatioOfTheDecision	It appears to me that where in the same statute in Section 3 the <ORG> has used the expression 'the period of limitation prescribed therefor, by the first schedule' and in Section 4 and Sections 12 , 16 and other sections the words are 'the period of limitation prescribed', a difference in the meaning was intended and it would be right to say that there is some distinction between the two phrases.
+RatioOfTheDecision	It is possible that haying regard to the context in which the expression 'the period of limitation prescribed' is used in a statute it might mean the period of limita tion prescribed in that statute itself as laid down by the learned Chief Justice, but we cannot ignore the fact that the Indian Limitation Act purports to be a.
+RatioOfTheDecision	Code relating to the law of limitation and prescription and besides prescribing the periods for various suits, appeals etc., it also attempts to lay down the principles on which limitation has to be determined.
+RatioOfTheDecision	v Though there are provisions of a substantive nature the Limitation Act mainly forms part of adjective law.
+RatioOfTheDecision	The other reason which influenced the view of <NAME>, appears, if I may say BO with great respect, very plausible.
+RatioOfTheDecision	A close examination of the second half of Section 29 (2) would, however, reveal that a situation was contemplated where the provisions contained in Section 4 and Sections 9 to 18 and Section 22 may be expressly excluded by any special or local law.
+RatioOfTheDecision	The underlying idea appears to be that taut for such exclusion the said provisions would apply.
+RatioOfTheDecision	It is further clearly recqgnised in Section 29 (2) (a) that if the exclusion  is partial, the provisions of those sections shall be applicable to the extent not covered expressly by the exclusion.
+RatioOfTheDecision	The fact that Clause (b) of Section 29 (2) enacts that the remaining provisions of this Act shall not apply, appears to speak that but for this statutory bar the provisions would have been applicable.
+Precedent	I regret that in spite of anxious consideration due to a pronouncement coming from such an eminent Judge, I am unable to subscribe to the view taken by Chief Justice <NAME>.
+Precedent	32.
+Precedent	The difference is also attributed to convenience of expression and made with a view to avoid repetition.
+RatioOfTheDecision	A perusal of the relevant sections does not, to my mind, justify such a view.
+RatioOfTheDecision	The object for which the Act was framed, the scheme which is apparent from the provisions made in the various sections, and the arrangement, do not appear to support this construction.
+RatioOfTheDecision	The <ORG> wanted to codify the law of limitation and a glance at the schedules indicates the comprehensiveness of the attempt made.
+RatioOfTheDecision	Yet the Legislatu re must have been alive and Sections 5 and 29 do indicate that it was so alive, that periods of limitation not provided for in the schedules may be prescribed by other enactments and that periods of limitation different from those prescribed in the schedules might be prescribed by certain other enactments.
+RatioOfTheDecision	It hardly seems fair to assume that while attempting to codify the law of limitation the <ORG> left the general principles to be enacted every time a period of limitation not provided for in the schedules or different therefrom was prescribed though these principles appear to be of a general nature which may be of universal application without sacrificing the peculiar requirements of those enactments.
+RatioOfTheDecision	Usually the <ORG> does not sacrifice clarity and preciseness of expression to brevity or convenience.
+RatioOfTheDecision	The two expressions have different meanings & with great respect for the view taken I am unable to agree that in its anxiety to avoid repetition the <ORG> ignored the obvious difference in  the meanings of the two expressions.
+RatioOfTheDecision	33.
+RatioOfTheDecision	A view has been expressed that the words within sixty days and not more in Rule 7 of Chap.
+RatioOfTheDecision	III of the Rules of the <ORG> exclude the applica-bility of Section 12 of the Limitation Act.
+RatioOfTheDecision	I am unable to agree.
+Precedent	V. <NAME> has dealt with the question at some length and has stated the reasons why the above view is not acceptable.
+Precedent	I respectfully adopt the.
+Precedent	reasons given by him.
+Precedent	34.
+Precedent	As observed by my Lord the Chief Justice, the relevant provision of the Indian Limitation Act was evidently not placed before the <ORG> when it decided '<NAME> case (A)'; and for the reasons given above, I am of opinion that the time .
+Precedent	requisite for obtaining copies of the judgment and decree appealed from should be excluded in computing the period of limitation fixed by the Rules of the <ORG> for preferring a Letters Patent Appeal Bhargava, J.
+Precedent	35.
+Fact	The question, which has been referred to this Bench, is whether the time required for obtaining copies of the judgment and decree appea led from should be excluded in computing the -period of limitation fixed by the rules of this Court for preferring an appeal under the Letters Patent.
+Fact	The two connected second appeals were decided by Mr. Justice <NAME> on 3-10-1950.
+RatioOfTheDecision	When delivering the judgment, the learned Judge granted leave to the present appellant to file a further appeal to <ORG>.
+RatioOfTheDecision	Under the present rules the appeal should correctly be described as a special appeal and not a Letters Patent appeal.
+RatioOfTheDecision	Until the amalgamation of <ORG> at Allahabad with <ORG>, an appeal from a Judgment of a learned Single Judge to <ORG> lay under Clause 10 of the Letters Patent of the <ORG> in Allahabad.
+RatioOfTheDecision	On the passing Of the U. P. <ORG>s (Amalgamation) Order, 1948 (hereinafter referred to as the Amalgamation Order), the same Jurisdiction was continued in the amalgamated <ORG> designated as <ORG> at Allahabad by Clause 7 of the Order which laid down th at the new <ORG> was to have all such original, appellate and other jurisdiction as, under the law in force immediately before 26-7-1948, was exercisable in respect of any part of U. P. by either of the existing <ORG>s (which term included the erstwhile Allahabad <ORG> and <ORG> in Avadh).
+Fact	Reference has to be made to the Letters Patent of the <ORG> in Allahabad in order to interpret the jurisdiction conferred by Clause 7 of the Amalgamation, Order and, in this case, the appeal to <ORG> lies from the judgment of a learned Single Judge in the two connected second appeals as to result of the continuance of the power to entertain such appeals which: was granted by Clause 10 of the Letters Patent.
+Fact	The rules of <ORG> applicable to these special appeals were the rules in force in the years 1950-and 1951.
+RatioOfTheDecision	The judgment of the learned Single Judge was delivered on 3-10-1950, and, at the same time, leave was granted to the appellant to file the special appeal.
+RatioOfTheDecision	On 11-10-1950,  applications were made for certified copies of the judgment and decree.
+RatioOfTheDecision	The copy of the judgment was ready on 22-1-1951 and was delivered the next day.
+RatioOfTheDecision	The copy of the decree was not ready until 5-3-1951, and was delivered on 7-3-1951.
+RatioOfTheDecision	This appeal was presented on 21-2-1951, unaccompanied by the certified copies of the judgment and the decree.
+Argument	The appellant, however, contended that, under Section 12 (2) of the Indian Limitation Act , be was entitled to exclude the period requisite for obtaining the copies of the judgment and decree, The limitation for filing the special appeal was governed by Rule 7 of Chapter III of the Rules of Court which was then as follows:  "In all appeals under the Letters Patent, a duly stamped memorandum of appeal shall be presented to the Registrar within 60 days and not more from the date of the judgment, unless a Judge in his discretion, on good cause shown, shall grant further time for its presentation.
+Argument	The memorandum of appeal need not be accompanied by a copy of the judgment o r decree appealed from."
+Fact	The question that falls for consideration is whether, in determining the "period of 60 days & not more fixed by this rule for the presentation of the memorandum of- appeal, the period of limitation is to be determined after applying the provisions of Section 12 (2) of the Limitation Act or, whether those provisions are inapplicable to such an appeal.
+RatioOfTheDecision	36.
+RatioOfTheDecision	I have had the benefit of reading the judgments proposed to be delivered by my Lord the Chief Justice and my brothers <NAME> and <NAME>.
+RatioOfTheDecision	I may state at the outset that I entirely agree with my brother <NAME> J., that Section 12 of the Indian Limitation Act cannot be held to apply to appeals under the Letters Patent for which limitation has been prescribed by the rules of Court independently of Section 29 of the Limitation Act.
+RatioOfTheDecision	<NAME> J., has already discussed in detail the reasons for his conclusion that, independently of Section 29 of the Limitation Act, it is not justifiable to hold that Section 12 of the Limitation Act would b e applicable to appeals, the limitation for which is prescribed by a special or local law and is not prescribed in the Limitation Act itself.
+RatioOfTheDecision	The question whether the general provisions of the Indian Limitation Act relating to the computation of the period of limitation are applicable in cases where the period of limitation is prescribed by a general law does not, in my opinion, fall to be considered in this case, as the rules of Court, which prescribe the period of limitation for a special appeal, cannot be held to be a general law.
+RatioOfTheDecision	I do not, therefore, consider it necessary t'o express any opinion on the question whether Section 12 of the Limitation Act and other sections of that Act which regulate the computation of the period of limitation are applicable to cases where the period of limitation to be computed has been prescribed by a general law which may be in 'pari materia' with the Limitation Act such as the Code of Civil Procedure.
+Precedent	<CITATION_1747962> ', AIR 1952 Mad 186 (PB) (M), <NAME>, hel d:  "It is well established that the Limitation Act and the Code are to be read together, because both are statutes relating to procedure and they are in 'pari materia' and therefore to be taken and construed together as one system as explanatory of each other."
+Precedent	He went on to add:  "It followed that if there was a general provision in the Limitation Act , it would govern also provisions as to limitation contained in the Civil Procedure Code.
+Precedent	This was authoritatively laid down by their Lordships of <ORG> in -- Thoolbas Koonwur v. Lalla Jogesn-ur', 3 Ind App 7 (PC) (N)."
+RatioOfTheDecision	While reserving my opinion on this question, I have, however, no hesitation in holding, in agreement with my brother <NAME>, that where the period of limitation is prescribed by a special or local law which is not in 'pari materia' with the Limitation Act , Section 12 of the Indian Limitation Act or other sections laying down general principles for computation of the period of limitation prescribed are not applicable indepe ndently of Section 29 of the Act.
+RatioOfTheDecision	It appears to me to be unnecessary to deal with this question in detail as I agree with the reasoning of my brother <NAME>, and adopt it for the purpose of arriving at this conclusion.
+RatioOfTheDecision	I would, however, like to add a further argument in support of this view; but, before doing so, I consider it necessary to examine the question whether the rules of Court, which prescribe the period of limitation for a special appeal, are a special or local law or not.
+Precedent	37.
+Precedent	The Letters Patent of <ORG> were issued on 17-3-1866, by Her Majesty <NAME> in exercise of the powers conferred by Section 16 of an Act of Parliament designated as "an Act for establishing <ORG> in India" (24 & 25 Vict.
+Precedent	Cap.
+Precedent	104) which came into force on 6-8-1861.
+Precedent	Under that Act Her Majesty was empowered to establish <ORG> in the Presidency of Port William in Bengal and in the Presidencies of Bombay and Madras.
+Precedent	Section 13 of the Act was as follows:  "13.
+Precedent	Subject to any L aws or Regulations which may be made by .the Governor General in Council <ORG> established in any Presidency under this Act may by its own Rules pro-vide for the exercise, by one or more Judges, or by Division <ORG>s constituted by two or more Judges of the said <ORG>, of the original and appellate Jurisdiction vested in such <ORG>, In such manner as may appear to such <ORG> to be convenient for the due Administration of Justice."
+Precedent	The power conferred under Section 13 of making rules to regulate the manner for the exercise of the original and appellate jurisdiction by the Presidency <ORG>s was also conferred on other <ORG> constituted under Section 16 of the Act by the latter section.
+Precedent	The Letters Patent of the Allahabad <ORG> issued in 1866 laid down in Clause 10 the provision that "an appeal shall lie to the said <ORG> from the judgment of one Judge of the said <ORG> or one Judge of any Division <ORG> made in the exercise of appellate jurisdiction in respect of a decree or  order made in the exercise of appellate jurisdiction by a court subordinate to the superintendence of <ORG> where the Judge of the said <ORG> certifies that the case is a fit one for appeal."
+Precedent	This right of appeal from a judgment of a Single Judge granted to the Allahabad <ORG> under Clause 10 of the Letters Patent was continued by Clause 7 of the Amalgamation Order referred to above when the new <ORG> of Judicature at Allahabad was constituted by amalgamating the Allahabad <ORG> and <ORG> in Avadh.
+Precedent	The power of making rules to regulate the manner for the exercise of such jurisdiction granted by Section 13 of the Act of 1861 (24 & 25 Vict.
+Precedent	Cap.
+Precedent	104) was also continued by Section 106 of the Gov-ernment of India Act, 1919, which repealed the Act of 1861.
+Precedent	In fact, Section 106 of the Government of India Act, 1919, was more explicit and clearly laid down that the several <ORG>s were to be Courts of record and were to have such Jurisdiction as was vested in them by the L etters.
+Precedent	Patent including the power to make rules for regulating the practice of the <ORG>.
+Precedent	The same power to make rules was subsequently continued in the High <ORG>s by Section 223 of the Government of India Act, 1935, and by Article 225 of the Constitution which clearly mentioned that the powers of the High <ORG>s include the power to make rules of <ORG>.
+Precedent	It is clear in these circumstances that the rules of <ORG>, when first made by the High <ORG> in Allahabad, were made in the exercise of the powers conferred on the High <ORG> to make such rules under Sections 13 and 16 of the Act of 1861 (24 & 25 Vict.
+Precedent	Cap.
+Precedent	104).
+Precedent	These rules continued in force and were amended from time to time by the High <ORG> in exercise of the same powers or the powers which vested in the High <ORG> under Section 106 of the Government of India Act, 1919, Section 223 of the Government of India Act, 1935, and Article 225 of the Constitution of India.
+Precedent	The rules having been framed under the powers granted by the Act of 1861 (24 & 25 Vic t. Cap.
+Precedent	104) the Government of India Acts of 1919 and 1935 or by the Constitution, have the force of law and are enforcible as such.
+RatioOfTheDecision	The law incorporating the rules of <ORG> is clearly an example of subordinate legislation by <ORG> on matters of detail, relating to the procedure in <ORG>, which <ORG> or <ORG> did not find it practicable to lay down themselves and which were left to be regulated by delegated legislation by <ORG>.
+RatioOfTheDecision	These rules have limited application.
+RatioOfTheDecision	They apply to the procedure in <ORG> which exercises jurisdiction in the State of Uttar Pradesh only.
+RatioOfTheDecision	It cannot, therefore, be held that the rules of the <ORG> are a general law.
+RatioOfTheDecision	They clearly fall within the scope of a special or local law.
+Precedent	In this connection I may take notice of the remarks of a Special Bench of the Patna High <ORG> in 'AIR 1947 Pat 329 (G) which is the only case brought to our notice in which the question directly arose whether the provis ions of Section 12 of the Limitation Act were applicable to a Letters Patent Appeal under Cl: 10 of the Letters Patent of the Patn<ORG>.
+Argument	<NAME> held:  "I think the learned Advocate is right that the Letters Patent of this <ORG> is neither a special nor a local law and this is supported by the observations of <NAME> in 'AIR 1930 Rang 228 (J)'".
+Argument	<NAME> considered it unnecessary to decide whether a rule made by <ORG> under the Letters Patent was a special or local law and expressed no opinion on that point.
+Argument	<NAME>, the third Judge constituting the <ORG>, also did not express any definite opinion on the question whether the rules of <ORG> have the force of a special or local law.
+Argument	In giving his decision, he was of the view that "Even if it is held that the High <ORG> Rules have the force of special law although, strictly speaking, they cannot be classed as such, the provisions of Section 29 (2), Limitation Act , cannot be said to apply to an appeal under Clause 10 of the L etters Patent of the Patn<ORG>."
+RatioOfTheDecision	With all respect, I have to differ from <NAME>, inasmuch as I consider that the question whether the Letters Patent of <ORG> are a special or local law does not arise at all where the point for decision is whether Section 12 of the Limitation Act is applicable to the determination of the period of limitation prescribed by the rules of <ORG> for presentation of a memorandum of appeal under Clause 10 of the Letters Patent.
+RatioOfTheDecision	The question that has to be considered is whether the rules of <ORG>, which prescribe the period of limitation for presentation of such a memorandum of appeal, are a special or local law.
+RatioOfTheDecision	Considering the body by which the rules are framed, the nature and purpose of the rules, the authority under which those rules are made and the limited scope of applicability of the rules, I am convinced that the rules of <ORG> are certainly a local or special law and cannot be held to be a general law.
+RatioOfTheDecision	38.
+RatioOfTheDecision	In this view, I have next to examine the qu estion whether Section 12 (2) of the Indian Limitation Act can be applied for determining the period of limitation prescribed by Rule 7, Chapter III of the rules of this Court by virtue of Section 29 , Sub-section (2) of the Limitation Act .
+Statute	Sub-s. (2) of Section 29 Is as follows:  "29 (2)-- Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule, and for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law--  (a) the provisions contained in Section 4 , Sections 9 to 18 and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law; and  (b) the remaining provisions of this Act shall not apply."
+Statute	This section was put in the present form by Sub-section (1)  of Section 3 of the Indian Limitation (Amendment) Act, 1922 (Act 10 of 1922).
+Statute	It appears to me that the amendment of Section 29 in the year 1922 was made by <ORG>, principally, on account of the different interpretations which had been put on that section, as it stood prior to the amendment, and on the corresponding provisions Jn the earlier Limitation Act s and the difficulties that arose as a result of those interpretations.
+Statute	The case law before the amendment of 1922 was not clear as to whether and under what circumstances Sections 12 , 15 or other general provisions of the Limitation Act relating to the computation of the period of limitation prescribed were applicable to the determination of the period of limitation prescribed by any special or local law.
+Statute	In the Limitation Act of 1908 before its amendment and jn the Limitation Act 15 of 1877 the corresponding provision was as follows:  "When, by any special or local law now or hereafter in force in British India, a period of limitation i s specially prescribed for any suit, appeal or application, nothing herein contained shall affect or alter the period so prescribed."
+Statute	In view of this language, it became necessary to interpret the scope of the words 'affect or alter' and views differed whether the rules of computation contained in other sections of the Limitation Act did or did not "affect or alter" the period of Limitation prescribed by the special or local law.
+RatioOfTheDecision	As has been pointed out by my brother <NAME>, some of the <ORG> took the view that a special Act was not controlled by the general provisions of the Indian Limitation Act only when it was of a very special 'kind, complete in itself, and when it did not admit of the several provisions of the Indian Limitation Act being imported into it without incongruity and without defeating the intention of the <ORG>.
+RatioOfTheDecision	Put briefly, the view was that if a special Act was not a complete code in itself, the general provisions of the Indian Limitation Act were applicable in computing the peri od of limitation prescribed by that Act.
+RatioOfTheDecision	In my opinion, Sub-section (2) of Section 29 was specifically designed to do away with this conflict of opinion and uncertainty about the law.
+RatioOfTheDecision	This sub-section itself is divisible into two parts: The first part of this sub-section is to the effect that "Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule"  This part was designed to resolve the conflict which could occur if a special or local law prescribed for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule of the Indian Limitation Act .
+RatioOfTheDecision	If two different periods happened to be prescribed for the same suit, appeal or application by the special law as well as by the Indian Limitation Act , the <ORG> would have had to fall back on t he rule of interpretation of statutes 'generalia specialibus non derogant'.
+RatioOfTheDecision	To obviate the necessity of relying on such a principle of interpretation of statutes the <ORG> thought it fit to resolve the conflict by specifically laying down the provision which is contained in the first part of Sub-section (2) of Section 29 under which the period of limitation prescribed by the special or local law was deemed to be substituted for the period prescribed by the first schedule to the Indian Limitation Act .
+RatioOfTheDecision	I entirely agree with my Lord the Chief Justice that so far as this part of Section 29 (2) is concerned, it is applicable only in those limited cases where the.
+RatioOfTheDecision	period prescribed for a suit appeal or application by the first schedule to the Limitation Act is different from that prescribed therefor by any special or local law and it does mot come into operation until two such periods of limitation are prescribed.
+RatioOfTheDecision	This conflict between the period prescribed by the special or local law and the period prescr ibed by the first schedule to the Limitation Act having been resolved, the <ORG> considered it further necessary to lay down in clear terms the rules for applying the other general provisions of the Limitation Act when computing the period of limi-tation prescribed by a special or local law.
+Statute	It was for this reason that the second part of Sub-section (2) of Section 29 was worded as follows:  "For the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law--  (a) the provisions contained in Section 4 , Sections 9 to 18 and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law; and  (b) the remaining provisions of this Act shall not apply."
+Statute	This part ot Sub-section (2) of Section 29 appears to me to lay down a complete rule for determining the question of applicability of the general provisions of the Limitation Act for the purpose of determining the period of lim itation prescribed toy any special or local law.
+Statute	A view has been expressed that this second part of Sub-section (2) of Section 29 only comes into operation in those limited cases which are also covered by the first part of ,Sub-section (2) of Section 29 , viz., cases where the special or local law prescribes for a suit, appeal or application a period of limitation different from a period prescribed therefor by the first schedule to the Indian Limitation Act .
+RatioOfTheDecision	I cannot see any justification for this view on the interpretation of the language used in Sub-section (2) of Section 29 .
+RatioOfTheDecision	In the second part of Sub-section (2) of Section 29 , the <ORG> has used the word 'any' three times.
+RatioOfTheDecision	This word 'any' has been introduced before the words 'period of limitation', "suit, appeal or application' and 'special or local law'.
+RatioOfTheDecision	The.
+Statute	purpose of using the word 'any' before all these expressions can only be that the "<ORG> wanted to indicate very clearly its intention that this part of Sub-section (2) of Section 29  would be applicable for the purpose of determining the period of limitation prescribed for a suit, appeal or application by a special or local law whatever may be that period of limitation, whatever may be the nature of the suit, appeal or application and whatever may be the special or local law in question.
+RatioOfTheDecision	The use of the word 'any' before all these expressions thus leads to the inference that this part of Sub-section (2) of Section 29 was not intended to be limited in its scope to the few cases covered by the first part of Sub-section (2) of Section 29 .
+RatioOfTheDecision	To limit the scope of this second part to the cases covered by the first part would amount to limiting the signi-"ficance of the word 'any' repeated three times in this part.
+RatioOfTheDecision	If the intention of the <ORG> had.
+RatioOfTheDecision	been that this second part should come into play only in those cases which are covered by the first part, the use of the word 'any' so many times would be out of place.
+RatioOfTheDecision	That meaning could have.
+RatioOfTheDecision	been conveyed more precisely and clearly by using  the word "such" before the expression 'period of limitation' and omitting altogether the expession 'prescribed for any suit appeal or application by any special or local law', which would have become unnecessary after substitution of the word 'such' for the word 'any' before the expression 'period of limitation'.
+RatioOfTheDecision	It seems that the only basis for holding that this second part applies to cases which are covered 'by the first part is the use by the <ORG> of the conjunction 'and' in order to connect the first and the second parts.
+RatioOfTheDecision	So far as I am aware, there is no rule of grammatical construction requiring an interpretation that if sentences, complete by themselves, are connected by the conjunction 'and', the second sentence must be interpreted as being limited to and referring to the first sentence.
+RatioOfTheDecision	Of course, the language would have been much happier and would have admitted of no doubt if the two parts of Section 29 (2) had not been linked together by the use of the conjunction 'and' and the second part  had been enacted as a separate sub-section.
+RatioOfTheDecision	This unhappy drafting of the sub-section by linking the two parts with the conjunction 'and' will not, however, 'justify an interpretation which would take away all effect of the words used in the second part of this sub-section.
+RatioOfTheDecision	If this second part is limited to the cases which are covered by the first part, it would not apply for the purpose of determining 'any' period of limitation prescribed for 'any' suit, appeal or application by 'any' special or local law but only for the purpose of determining those periods .of limitation prescribed for any suit, appeal or application by any special or local law which happen to be different from the period of limitation prescribed therefor by the first schedule to the Limitation Act .
+RatioOfTheDecision	Such restriction on the meaning of the word 'any' used before the expression 'period of limitation prescribed' in this second part cannot be justified merely on the ground that this second part has been linked with the first part by the conj unction 'and'.
+RatioOfTheDecision	On the language of Sub-section (2) of Section 29 , therefore, it appears to me that the correct interpretation would be to hold that this second part of this sub-section is applicable for the purpose of determining "any period of limitation prescribed for any suit, appeal or application by any special or local law" irrespective of the fact whether the period of limitation happens to be different from the period prescribed therefor by the first schedule to the Indian Limitation Act or is identical.
+RatioOfTheDecision	39.
+RatioOfTheDecision	Apart from this question of interpretation of the language, it will also be justified in such a case to examine the intention of the <ORG> for the purpose of interpreting this provision of law.
+RatioOfTheDecision	There is no doubt that if the language conveys a plain meaning, Courts are not justified in examining the intention of the <ORG> while interpreting a provision of law and must interpret it according to the plain meaning of the language used.
+RatioOfTheDecision	Assistance can, however, be taken for purpose of in terpretation from the intention of the <ORG> where there may be ambiguity in the language.
+RatioOfTheDecision	If it be held that the use of the con-junction 'and' in order to link the first and second parts of Sub-section (2) of Section 29 creates an ambiguity and enables courts to place the interpretation that the applicability of the second part is restricted only to those cases which are covered by the first part and to ignore the effect of the word 'any' used before the expression 'period of limitation prescribed' in the second part, Courts would be'justified in finding out what the real intention of the <ORG> was by considering the effect of the two different interpretations in its actual application to particular cases that are likely to arise.
+RatioOfTheDecision	40.
+RatioOfTheDecision	The interpretation, which appears to me to be correct on the language of Sub-section (2) of Section 29 , is that the second part of that sub-section will apply in all cases for the purpose of determining the period of limitation prescribed for any suit, appeal or a pplication under any special or local law and, as a consequence, whenever the period of limitation prescribed for any suit, appeal or application by any special or local law has to be determined, the provisions contained in Section 4 , Sections 9 to 18 and Section 22 shall apply, except in so far as and to the extent to which they may be expressly excluded by such special or local law and the remaining provisions of the Limitation Act would not apply.
+RatioOfTheDecision	The effect of the other interpretation, by which the scope of the second part is limited to cases covered by the first part, can be consider-ed in two different aspects: One aspect arises on the view that, even apart from Section 29 (2), all the general provisions of the Limitation Act would apply to the determination of the period of limitation prescribed by any special or local law, when the period so prescribed is not different from the period prescribed therefor by the first schedule.
+RatioOfTheDecision	The other aspect arises on the view that those general provisions of the  Limitation Act do not apply at all, if the period prescribed by the special or local law is not different from the period prescribed by the first schedule.
+RatioOfTheDecision	If the effect of these views is considered in some specific case under a special or local law, the anomaly, that arises as a result of these views becomes clear.
+RatioOfTheDecision	An example may be taken of a suit under Section 180 of the U. P. Tenancy Act which is clearly a special law.
+Fact	For purposes of convenience I would refer to the provisions of the u._ P. Tenancy Act, 1939, as they were originally enacted in that Act and before that Act was at all amended.
+Fact	Section 180 of the U. P. Tenancy Act provided for a suit for ejectment of a person occupying agricultural land without title.
+RatioOfTheDecision	In effect, It was a suit for possession of immovable property.
+Fact	The period of limitation for a suit under Section 180 of the U. P. Tenancy Act was prescribed at serial No.
+Fact	18 of Group B of the Fourth Schedule to the U. P. Tenancy Act.
+Fact	The corresponding period of limitation for suits for posse ssion of immovable property in the Indian Limitation Act is prescribed by Articles 142, 143 or 144 of the First Schedule to the Indian Limitation Act .
+Fact	The period of limitation prescribed for a suit under Section 180 of the U. P. Tenancy Act was different in different circumstances.
+Fact	Under certain circumstances the period prescribed was 12 years, under some other circumstances six years and under a third set of circumstances three years.
+Fact	The period prescribed for a suit governed by Articles 142, 143 or 144 of the First Schedule to the Indian Limitation Act was 12 years.
+Fact	The result is that some of the suits falling under Section 180 of the U. P. Tenancy Act would be governed by the same period of limitation as was prescribed for the corresponding suit for possession of immovable property under Articles 142, 143 or 144 of the First Schedule to the Limitation Act , whereas, under some other circumstances, the period would be different.
+Fact	According to the view taken by me about the interpretation to be placed on  Sub-section (2) of Section 29 , in all suits under Section 180 of the U. P. Tenancy Act, for purposes of determining the period of limitation prescribed by the Fourth Schedule to the U. P. Tenancy Act, the provisions contained in Section 4 , Sections 9 to 18 and Section 22 of the Limitation Act will apply inasmuch as they have not been expressly excluded by any provision of the U. P. Tenancy Act.
+Fact	Section 254 of the 0.
+Fact	P. Tenancy Act merely laid down that the suits and other proceedings specified in the Fourth Schedule had to be instituted witnin the time prescribed in that schedule for them respectively.
+Fact	The effect of the view that the second part of Section 29 (2) is only applicable where the first part of that sub-section also applies would be that, when determining the period of limitation for suits under Section 180 of the U. P. Tenancy Act, in cases where the circumstances are such that the period of limitation would be only six years or three years, the provisions of Section 4 , Sections 9 to 18 and Se ction 22 of the Indian Limitation Act would apply.
+Fact	In other cases where the period of limitation prescribed for the suit under Section 180 of the U. P. Tenancy Act is 12 years and is, therefore, not different from the period prescribed for the corresponding suit under the Limitation Act , two different positions would arise.
+Fact	According to one view not only would Sections 4 , 9 , to 18 and 22 apply for the determination of the period of limitation in such cases but even other sections, such as Sections 6 and 19 , would also apply.
+Fact	The anomaly, that arises, is that, in determining the period of limitation for suits, under Section 180 of the U. P. Tenancy Act, the general sections of the Limitation Act applicable would differ depending on whether the particular suit, in respect of which the period of limitation has to be determined, is governed by the 12 year, the 6 year or the three year period prescribed in the Fourth Schedule to the U. P. Tenancy Act.
+Fact	There may be a case in which a suit is instituted under  Section 180 of the U. P. Tenancy Act beyond the period of limitation prescribed therefor in the Fourth Schedule but within that period computed from the date of an acknowledgment of his liability to ejectment by the person occupying the land, which acknowledgment was made before the expiry of the period of limitation computed from the date of the cause of action.
+RatioOfTheDecision	In such circumstances, according to the former view which is to the effect - that all the general provisions of the Limitation Act apply 'proprio vigore' irrespective of Section 29 of that Act when the period prescribed is not different, the suit would be within time if the suit is governed by the twelve year period prescribed in the Fourth Schedule as Section 19 of the Limitation Act would apply while it would be time-barred if it is governed by the six year or the three year period as, the period being different, Section 19 of the Limitation Act would be inapplicable as laid down in Section 29 (2) of the Limitation Act .
+RatioOfTheDecision	The other view which is t o the effect that the general provisions of the Limitation Act do not apply at all unless the period prescribed is different, would result, in such cases, in the anomalous position that, in res-pect of suits under Section 180 of the U. P. Tenancy Act for which the period prescribed is 3 or 0 years, the period would have to be determined under Section 29 (2) of the Limitation Act by applying the provisions of Sections 4 , 9 to 18 and 22 of the Limitation Act; but, for other suits under the same provision of law, viz., Section 180 of the U. P. Tenancy Act, for which the period prescribed is 12 years none of these sections would apply in computing the period.
+RatioOfTheDecision	It appears to me that the <ORG>, in enacting Section 29 (2) of the Limitation Act , could not possibly have intended to bring about such a result and create such anomalies.
+RatioOfTheDecision	Another example, that may be taken into consideration, is that of an application for execution of a decree.
+RatioOfTheDecision	Under serial NOS.
+RatioOfTheDecision	5, 6 and 7 of Group F of the Fourth Schedule to the U .
+RatioOfTheDecision	P. Tenancy Act, provision has been made prescribing the period of limitation for execution of money decrees.
+RatioOfTheDecision	At serial Nos.
+RatioOfTheDecision	5 and 6, the period is the same as the period prescribed for execution of money decrees in the First Schedule of the Indian Limitation Act, whereas, under serial No.
+RatioOfTheDecision	7, the period is different, being only one year from the date of the decree.
+RatioOfTheDecision	If the second part of Section 29 (2) is held to be independent of the first part and applicable to the determination of all periods of limitation prescribed by a special or local law for any application, Section 4 , Sections 9 to 18 and Section 22 of the Limitation Act would be applicable in all these three cases.
+RatioOfTheDecision	On the other hand, if the second part is made dependent on the first part, then Sections 4 , 9 to 18 and 22 would apply to applications for execution of a money decree mentioned at serial No.
+RatioOfTheDecision	7 and, on the two different views mentioned above, in one case even Section 19 would apply and in the other case not even Sections 4 , 9 to 18 an d 22 would apply in determining the period of limitation for execution of decrees falling under serial Nos.
+RatioOfTheDecision	5 and 6.
+RatioOfTheDecision	These anomalies have to be kept in view when interpreting Sub-section (2) of Section 29 of the Limitation Act and, in this case, must be given due weight because, as I have indicated above the language of Sub-section (2) of Section 29 is not so clear as to compel the <ORG> to hold that the second part of that sub-section is dependent upon and is applicable only when the first part of that sub-section becomes applicable.
+RatioOfTheDecision	This conclusion is sought to be drawn because of the use of the conjunction 'and' linking the two parts and ignores the plain meaning of the language used in the second part and the use of the word 'any' before the expression 'period of limitation prescribed' in the second part.
+RatioOfTheDecision	I, therefore, held that the second part of Sub-section (2) of Section 29 , Limitation Act , should be read independently of the first part and must be held to be applicable for the purpose of determin ing any period of limitation prescribed for any suit, appeal or application by any special or local law irrespective of the fact whether the determination is being made in respect of the period of limitation which is different or identical with the period of limitation prescribed for the same suit, appeal or application by the First Schedule to the Limitation Act .
+RatioOfTheDecision	On this view it is clear that Section 12(2) , Limitation Act , must be applied when the period of limitation under Rule 7 of the Chapter III of the Rules of Court is to be determined as I have already expressed my view that the rules of Court must be held to be a special or local law and it is these rules that prescribe the period of limitation for presentation of the special appeal.
+RatioOfTheDecision	41.
+RatioOfTheDecision	There only remains to be considered the question whether the use of the expression 'within 60 days and not more' in rule 7 of Chapter III of the rules of Court can be held to expressly exclude the applicability of Section 12 , Limitation Act .
+RatioOfTheDecision	I agree that the us e of the words 'no more' in that rule is clearly intended to exclude the applicability of any provision of law or rule which "extends" the time prescribed for the presentation of the appeal beyond 60 days but the question is whether Section 12(2) , Limitation Act , is a provision which extends the period prescribed.
+RatioOfTheDecision	In my opinion, when the law says that a certain period 'shall be excluded', it cannot be held that the period, for the determination of which the exclusion is to take plaee, is being extended.
+RatioOfTheDecision	It is only a mode of determining a period that is laid down; when determined, the period would still be the period prescribed which, in this case.
+RatioOfTheDecision	would be 60 days.
+RatioOfTheDecision	What Section 12(2) , when applied to Rule 7 of the Rules of Court, thus brings about is not the extension of the period of 60 days but even after applying this provision, the period of limitation, that has to be computed, is the period of 60 days and no more with the difference that the time requisite for obtaining a copy of the judgment is no t taken into account and is exclu ded.
+RatioOfTheDecision	Exclusion of time in computing a period of limitation has been placed in a different class and distinguished from an extension of the period in the Indian Limitation Act itself.
+RatioOfTheDecision	The provi sion for extension of time is made in S, 5, Limita tion Act.
+RatioOfTheDecision	Sections 19 and 20 , Limitation Act , may also possibly be held to be examples of cases where the period of limitation prescribed is ex tended inasmuch as they lay down that fresh periods of limitation shall be computed under special circumstances.
+Statute	Sections 12 , 13 , 14 and 15 , which deal with exclusion of time only, cannot be held to be provisions extending the period of limitation prescribed, Sub-section (1) of Section 12 , Limitation Act , lays down:  "12(1) -- In computing the period of limita tion prescribed for any suit, appeal or application, the day from which such period is to be reckon ed shall tye excluded".
+Statute	Under Rule 7 of Chapter III of the Rules of Court, the period of 60 days has to be reckoned from the date  of the judgment of the learned Single Judge.
+Statute	If Section 12(1) , which lays down the exclusion of the date from which the period is to be reckoned, is held to be a provision for extending time and thus excluded from application to the determination of the period of limitation under Rule 7 of the Rules of <ORG>, the question would arise whether the day, on which the judgment by the learned Single Judge was pronounced, is to foe taken into account in computing the period of 60 days or not and this question would have to be decided by the <ORG> without any guidance under any other provision or law.
+RatioOfTheDecision	Section 12(1) being inapplicable, both views would be possible, viz., that the date of the judgment should be counted within the period of 60-days as also that it should not be so counted.
+RatioOfTheDecision	The use of the words 'no more' in tire rule could not have been intended to bring about such a position of uncertainty.
+RatioOfTheDecision	These words were used only for the purpose-of excluding the application of such provisions, of law as extend th e time of limitation prescribed and not of other provisions which merely require exclusion of certain periods in computing the period of limitation prescribed.
+RatioOfTheDecision	My brother <NAME>, J., has made some distinction between determination of the period of limitation and computation of the period of limitation.
+RatioOfTheDecision	It seems to.
+RatioOfTheDecision	me that the word 'determination' is wider than the word 'computation'.
+RatioOfTheDecision	If the <ORG> has to determine the period of of limitation, it will have to go through the pro cess of computing it whereafter it can give its decision determining that period.
+RatioOfTheDecision	The provisions relating to the computation of the period of limi tation were, therefore, made applicable by Section 29 (2), Limitation Act , for the purpose of determin ing the period of limitation prescribed.
+RatioOfTheDecision	The dif ference between the word 'determining' used in Section 29(2) and the word 'computing' used in Sections 12 , 13 , 14 and 15 does not, in my opinion, bring about any conflict as the language of Section 29(2) is clear that, in determining the pe riod of limitation prescribed, the provisions of the Limitation Act relating to computation of the period of limitation contained in Sections 12 to 18 must apply.
+RatioOfTheDecision	42.
+RatioOfTheDecision	It does not appear to be necessary for me to deal at any length with the effect of the provision in Rule 7 of the Rules of Court that the memorandum of appeal need not be accompanied by a copy of the judgment or decree appealed from.
+Precedent	The principle laid down by their Lordships of the Privy Council in AIR 1928 PC 103 (I) makes it clear that Section 12(2) , Limitation Act , will apply even when by a rule made by <ORG>, a memorandum of appeal need not be accompanied by a copy of the judgment or decree.
+Precedent	43.
+Precedent	For the reason's given by me above, I agree with answer to the reference proposed by <NAME> the Chief Justice.
+Precedent	<NAME>, J.
+Precedent	44.
+Fact	The question to be decided is whether in a Letters Patent appeal the time requisite for obtaining copies of the judgment.
+RatioOfTheDecision	and decree should be excluded in computing the period of limitation fixed by t he Rules of the Court for preferring a Letters Patent appeal.
+RatioOfTheDecision	45.
+Statute	The relevant rule is Rule 7, Chapter III, Rules of Court in force in 1951 :  "An application for leave to appeal under Section 10 of the Letters Patent against an appellate judgment of a single Judge of this Court shall be made in writing or orally to the Judge deciding the appeal immediately after the judgment is delivered.
+Statute	No other application for such leave to appeal shall be entertained.
+Statute	"In all appeals under the Letters Patent, a duly stamped memorandum of appeal shall be presented to the Registrar within 60 days and not more from the date of the Judgment, unless a Judge in his discretion, on good cause shown, shall grant further time for its presentation.
+Statute	"The memorandum of appeal need not be accompanied by a copy of the judgment or decree appealed from.
+Precedent	"The appeal, subject to the payment of proper court fees and presentation within time, shall be entered in the list of appeals to be heard by a Bench of two Judges after notice issued  to the opposite party under the orders of the Registrar".
+Precedent	46.
+Precedent	In view of the expressions "within 60 says and not more" and "unless a Judge.....shall grant further time for its presentation", I am of opinion that the rule itself contemplates that the period of sixty days is the full period during which the memorandum of appeal under the Letters Patent must be presented.
+Precedent	In para 2 of the rule the expression "and not more" defines the outer limit for the presentation of such an appeal.
+RatioOfTheDecision	The discretion given to the Judge is not with respect to condoning the delay in the presentation of the appeal but is with respect to granting further time which means that limitation for filing the appeal has come to an end on the expiry of 60 days and unless that period is extended by a grant of further time the appeal could not be presented and consequently could not be entertained by the <ORG>.
+RatioOfTheDecision	The presentation of the appeal within time is further emphasized in the fourth paragraph of this rule.
+RatioOfTheDecision	All this makes it clear tha t the period of 60 days was given great significance and really formed the essence of the rule.
+Precedent	47.
+Precedent	The corresponding rule existing in 1878 provided that such appeals must be preferred within 90 days unless the <ORG> in its discretion on good cause shown granted further time.
+Precedent	It was held by <ORG> four Judges in 2 All 192 (A) that the time requisite for obtaining a copy of the judgment appealed from could pot be deducted in computing the period of limitation prescribed for an appeal under Clause 10 of the Letters Patent.
+Precedent	The judgment just expressed the opinion and did not state the reasons possibly for the simple reason that the very language of the rule itself, as interpreted by me above, indicated that the period laid down in the rule was the final period and that, therefore, in computing that period there could not be any deduction of any period for any reason.
+Precedent	Of course, the Judge had the discretion to grant further time for good cause shown.
+Precedent	48.
+Precedent	It is now contended that this case is no long er good law in view of the case reported in AIR 1928 PC 103 (I) and of the present Section 29 , Limitation Act of 1908.
+Precedent	At the time when this appeal was filed and decided by the Court the Limitation Act of 1877 was in force.
+Precedent	Paragraph 2 of Section 12 of that Act is:  "In computing the period of limitation prescribed for an appeal, an application for leave to appeal as a pauper, and an application for review of judgment, the day on which the judgment complained of was pronounced, and the time requisite for obtaining a copy of the decree, sentence or order appealed against or sought to be reviewed, shall be excluded".
+Precedent	Section 6 of the Act of 1877 is:  "When, by any special or local law now or hereafter in force in British India, a period of limitation is specially prescribed for any suit, appeal or application, nothing herein contained shall affect or alter the period so prescribed".
+Precedent	49.
+Precedent	In AIR 1928 PC 103 (I) <ORG> had to consider the question whether the provisions of Section 12 , Sub-section ( 2), Limitation Act , 1908, applied to the case of such appeals for which the period of limitation was prescribed in the Limitation Act and for whose presentation the memorandum of appeal need not be accompanied by a copy of the decree or judgment appealed from.
+Precedent	Their Lordships of <ORG> held that the language of Sub-section (2) of Section 12 was general and would apply to all cases of appeal irrespective of the fact whether copies of judgment and decree were to accompany the memorandum of appeal or not.
+Precedent	In considering the question their Lordships referred to the Indian cases having a bearing on the point.
+Precedent	They were referred to the case reported in 2 All 192 (A).
+Precedent	It appears from the notes of the submissions made at the <ORG> that the submission of Mr. <NAME>, counsel for the appellant, was:  "No question as to the effect of Section 12 , Limitation Act , 1877, arose in 2 All 192 (A).
+Precedent	The appeal was under the Letters Patent, and by a rule of <ORG> the period prescribed for appeal ing was ninety days with a discretion in the <ORG> to extend the time.
+Precedent	As appears from Section 4 of the Act of 1877, Section 12 operated only where the Act itself prescribed a period for limitation, and the Act prescribed no period in the case of a Letters Patent appeal' in Allahabad".
+Precedent	On such a submission Sir <NAME>, counsel for the respondent, conceded that the Allahabad decision did not apply to that case.
+Precedent	50.
+Precedent	Their Lordships of <ORG> observed thus at page 168 in connection with the Allahabad case:  "It appeared at one time during the course of the argument that an earlier decision ol <ORG> of the High <ORG> of Allahabad when Sir <NAME> was Chief Justice ( <CITATION_1030355> ) ) was to the contrary effect; but after closer examination it was discovered by their Lordships that the case was not a decision on the Limitation Act , but upon what is known as a Letters Patent Appeal, that is an appeal under the clause in the charter constituting the <ORG>; a rule fixed th e period for appeal and there was no provision like that in the Limitation Act for excluding the period of time required for getting copies of the judgment and decree".
+Precedent	51.
+RatioOfTheDecision	These observations of their Lordships make it clear that the provisions of Section 12 , Limita tion Act, could not have been relevant to the point which was for decision in the Allahabad case and which point had to be decided on the provisions of the rule framed by the <ORG> for the presenta'tion of Letters Patent appeal, an ap peal under the clause in the charter constitu ting the <ORG>.
+RatioOfTheDecision	If it had been otherwise, I would have expected that the Allahabad case would not have been completely ignored from the discussion: and if it had laid down wrong law even though without considering the question of the applicability of the provisions of Section 12 , Limitation Act , their Lordships would have pointed it out.
+RatioOfTheDecision	It seems that the submission of Mr. <NAME>, which had been conceded by Sir <NAME>, was considered to be the corr ect way of looking at the question, that is to say, it was considered that the provisions of Section 12 , Limitation Act of 1877, operated only where the Act itself prescribed a period of limitation and as that Act did not prescribe any period of limitation in the case of a Letters Patent appeal in Allahabad the provisions of that section could not be applied to the presentation of an appeal under the Letters Patent.
+RatioOfTheDecision	In fact, their Lordships themselves used the significant expression:  "a rule fixed the period for appeal and there was no provision like that in the Limitation Act for excluding the period of time required for getting copies of the judgment and decree".
+RatioOfTheDecision	Nothing could be clearer than this for indicating that, in the absence of a corresponding provision in the rule framed by <ORG>, the appellant could not have obtained the advantage of the provisions of Section 12 , Limitation Act of 1877.
+RatioOfTheDecision	52.
+RatioOfTheDecision	It can also be inferred from this decision of <ORG> that, even if their Lordships  had thought that the provisions of Section 12 Limitation Act of 1877, had applied to other special or local laws on account of the expression "prescribed" being not restricted to the period of limitation prescribed in the Schedule of the Act, they must have considered that its application to the rule for the presentation of the Letters Patent appeal would be barred in view of Section 6 of the Act as that would have affected the period of limitation prescribed by the special law.
+RatioOfTheDecision	It would, therefore, follow that the view of some Courts in India that the provisions of Section 6 of the Act were no bar to the applying of the provisions of the, Limitation Act to the computation of period of Limitation was not correct.
+RatioOfTheDecision	53.
+RatioOfTheDecision	I shall deal later with the effect of Section 29 (2), Limitation Act , on the question under determination and would first discuss the contended general applicability of the provisions of Section 12(2) , Limitation Act , to periods of limitation prescribed by any law.
+RatioOfTheDecision	54.
+Argument	The contention for th e appellant is that, the provisions with respect to computation of period of limitation in Part III of the Limitation Act of 1908 would apply to the computation of " the period of limitation prescribed by, any law unless there be any specific provision that they would not apply and that, therefore, the provisions of Section 12 of the Act apply to the rule of the Court prescribing limitation for the presentation of a Letters Patent appeal.
+Precedent	The contention is based on the fact that Sub-section (2) of Section 12 does not expressly state how the period .of limitation to be computed was prescribed the expression used being simply:  "in computing the period of limitation prescribed lor an appeal, an application for leave to appeal.... .the time requisite for obtaining a copy of the decree... .shall be excluded".
+Precedent	55.
+Precedent	In support of his contention reliance is placed on the <ORG> decision reported in --'Duragpal Singh v. Panchamsingh1, AIR 1939 All 403 (FB) (O) and the decisions of other <ORG> which had sub sequently agreed with that view.
+Precedent	These other cases are ' <CITATION_1741880> ', AIR 1943 Bom 164; (P); 'Sitaram v. Chunnilalsa Bhagchandsa', AIR 1944 Nag 155 (Q); AIR 1952 Mad 186 (M); and ' <CITATION_375929> ) AIR 1955 Cal.
+RatioOfTheDecision	269 (R).
+RatioOfTheDecision	These cases held that the provisions of Section 48 C.P.C.
+RatioOfTheDecision	were controlled by those of Section 15 , Limitation Act .
+RatioOfTheDecision	I do not agree with tne views expressed in these cases regarding the applicability of the general provisions of the Limitation Act to periods of limitation prescribed by any other law.
+RatioOfTheDecision	I am not prepared to extend the application of other general provisions of the Limitation Act to periods, of limitation prescribed by special or local laws or other rules of procedure having the force of law without examining the reasons for the view that Section 15 , Limitation Act , controls Section 48 , C.P.C.
+Precedent	I may refer to the observations of Lord <NAME> in ' Carmarthenshire County Council v. Lewis', 1955 AC 549 at p. 560 (S) in this connection:  "Now, once a doctrine has becom e a rule of law it is the duty of the courts to apply and follow it without regard to its origin, taut if to follow it would be to extend it, in my opinion it is not only legitimate but essential to examine the-origin and reason for it if it be known".
+Precedent	56.
+Precedent	Before dealing with these cases I would discuss the various provisions of the Limitation Act of 1877 and of 1908 in order to determine the interpretation of the expression "in computing the period of limitation prescribed" in Section 12(2) , Limitation Act of 1908.
+Precedent	57.
+Precedent	The Act of 1877 laid down the limitation of suits, appeals and applications in Section 4 which is:  "Subject to the provisions contained in sections five to twenty-five (inclusive) every suit instituted, appeal presented, and application made after the period of limitation prescribed therefor by the second schedule hereto annexed, shall be dismissed, although limitation has not been set up as a defence.
+Precedent	"Explanation.
+Precedent	-- .....Illustrations, (a) A suit is instituted after the prescribed peri od of limitation.
+RatioOfTheDecision	Limitation is not set up as a defence, and judgment is given for the plaintiff.
+RulingByPresentCourt	The defendant appeals.
+RulingByPresentCourt	The appellate Court must dismiss the suit.
+RulingByPresentCourt	(b) An appeal presented after the prescribed period is admitted and registered.
+RulingByPresentCourt	The appeal shall, nevertheless, be dismissed".
+Statute	Thereafter are Sections 5 to 11 in the same Part II which deals with the limitation of suits, appeals and applications.
+Statute	Sections 5 and 5A use the expression "period of limitation prescribed" without stating as to where prescribed.
+Statute	Then comes Part III dealing with computation of period of limitation and containing Sections 12 to 25 .
+RatioOfTheDecision	Of these sections, Sections 12 , 13 , 14 , 15 and 16 use .the expression "in computing the period of limitation prescribed".
+RatioOfTheDecision	Sections 19 and 20 use the expression "before the expiration of the period prescribed".
+RatioOfTheDecision	The other sections i.e., Sections 6 to 11 in Part II and Sections 17 , 18 and 21 to 25 in Part III do hot use any such expression which would make it necessary to inquire which perio d prescribed is referred to in the sections where such an expression is used.
+RatioOfTheDecision	58.
+RatioOfTheDecision	Ordinarily the expression "period of limitation prescribed" in the Indian Limitation Act should refer to the period of limitation prescribed by that Act.
+Precedent	<NAME>, C. J., observed in AIR 1953 Bom 35 at p. 37 (H).
+RatioOfTheDecision	"In the first place, this argument runs counter to the ordinary canon.
+RatioOfTheDecision	of construction which one must apply in construing a statute.
+RatioOfTheDecision	When a statute speaks of a period of limitation prescribed, it can only mean prescribed by that statute itself".
+RatioOfTheDecision	It should be unnecessary, therefore, to repeat the expression "by the second Schedule hereto annexed" after the word "prescribed" in every such section where the expression "period of limitation prescribed" has been used.
+RatioOfTheDecision	The fact that the omission of such an expression in the section subsequent to Section 4 was not with a view to make the provisions of those sections applicable to the computation of limitation prescribed by any law but was due to avoid unnecessary repetition i s also clear from the language of the two Illustrations to Section 4 .
+RatioOfTheDecision	In these "illustrations the expression used is "after the prescribed period" without any reference to the period being prescribed by the second schedule annexed to the Act or without using any such expression which would have clearly pointed out that the prescribed period of limitation was meant to be the period of limitation prescribed by the second schedule of the Limitation Act .
+RatioOfTheDecision	Section 4 did refer to "the period of limitation prescribed therefor by the second schedule hereto annexed" and, therefore, the illustrations to make the meaning of the main section clear must refer to "the period of limitation prescribed by the second schedule hereto annexed" and not to period of limitation prescribed by any law.
+RatioOfTheDecision	59.
+Statute	The provisions of the Limitation Act of 1908 follow very closely the provisions of the Limitation Act of 1877.
+Statute	Section 3 of this Act corresponds to Section 4 of the earlier Act and is :  "Subject to the provisions contained in S ections 4 to 25 (inclusive) every suit instituted, appeal preferred, and application made, after the period of limitation prescribed therefor by the first schedule shall be dismissed although limitation has not been set up as a defence".
+Statute	The two illustrations which existed in Section 4 , Limitation Act of 1877, are not in Section 3 Limitation Act of 1908, They were probably omitted as unnecessary when the correct interpretation of Section 4 of the Act of 1877 had been well understood.
+Statute	60.
+Statute	Section 4 deals with a case where the period of limitation prescribed expires on a day when the Court is closed.
+Statute	61.
+Statute	Section 5 uses the expression "after the period of limitation prescribed therefor".
+Statute	62.
+Statute	Section 6 , Sub-section (1) is:  "Where a person entitled to institute a suit or make an application for the execution of a decree is at the time from which the period of limitation is to be reckoned, a minor, or insane, or an idiot, he may institute the suit or make the application within the same period after the disa bility has ceased, as would otherwise have been allowed from the time prescribed therefor in the third column of the first schedule".
+Statute	In Sub-sections (2) and (3) the expression corresponding to "from the time prescribed therefor in the third column of the first schedule" is "from the time so prescribed".
+Statute	Reference to the third column had to be given in the first sub-section as there had been nothing in the earlier sections, referring to the contents of the third column of the first schedule.
+Statute	The expression "prescribed therefor in the third column of the first, schedule" was not repeated in Sub-sections (2) and (3), but a more convenient expression "so prescribed" was used after the expression "from the time".
+RatioOfTheDecision	This indicates that the framers of the Act did not like to repeat unnecessary expressions.
+RatioOfTheDecision	The use of the word "so" in Sub-sections (2) and (3) before the word "prescribed" was necessary because otherwise from the expression "from the time prescribed", it would not have been clear as to which prescribed  time was contemplated.
+RatioOfTheDecision	The omission of the word "so" before the word "prescribed" in the expression "in computing the period of limitation prescribed" in Sections 12 , 13 , 14 , 15 and 16 of the Act and in other expressions using the mere word "prescribed" cannot, therefore, point to the inference that the period of limitation prescribed was meant to be the period: of limitation prescribed by any law and not only that period of limitation which was prescribed by the first schedule of the Limitation Act .
+RatioOfTheDecision	63.
+RatioOfTheDecision	Sections 7 , 8 , 10 , 21 , 22 and 23 do not use the word "prescribed" in any connection.
+RatioOfTheDecision	64.
+Statute	The proviso to Section 9 refers to the running of the time prescribed for a suit to recover the debt.
+Statute	65.
+Statute	Sub-s. (2) of Section 11 is:  "No foreign rule of limitation shall be a defence to a suit instituted in the Provinces on a contract entered into in a foreign country, unless the rule has extinguished the contract and the parties were domiciled in such country during the period prescribed by such rule".
+Statute	I t was necessary here to qualify the word "prescribed" by using the expression "by such rule" referring to the foreign rule of limitation.
+RatioOfTheDecision	66.
+RatioOfTheDecision	Sections 12 , 13 , 14 , 15 and 16 use the expression "in computing the period of limitation prescribed" and provide for the exclusion of certain periods.
+RatioOfTheDecision	The result of such exclusion naturally is that the outer limit for the institution of the suit, appeal or application is extended to the extent of the period excluded.
+Statute	It is in view of this effect that Sections 28 and 29 " of the Act use the expressions "at the determination of the period hereby limited" and "for the" purpose of determining any period of limitation prescribed".
+Statute	67.
+Statute	Sections 17 and 18 do not use the word prescribed" but provide for the computing of the period of limitation in certain contingencies from certain times  68.
+Statute	Section 19 uses the expression "before, the expiration of the period prescribed for a suit or apolicatlon".
+RatioOfTheDecision	It will be noticed that the words "of limitation" are not used between the  word "period" and the word "prescribed".
+RatioOfTheDecision	69.
+RatioOfTheDecision	The expression "before the expiration of the prescribed period" is used in Section 20 .
+Statute	This sec-tion and Section 19 provide for the computation --of a fresh period of limitation from the time of certain payment or acknowledgment.
+Statute	70.
+Statute	Section 24 provides for the computation of the period of limitation for a suit for compensation for an act which does not give rise to a cause of action unless some specific injury actually results.
+Statute	It does not use the word "prescribed".
+Precedent	71.
+Precedent	Section 28 does not use the expression "period of limitation prescribed", but provides that "at the determination of the period hereby limited to any person for instituting a suit for possession of any property, his right to such property shall be extinguished".
+Precedent	Such a language appears to have been used because the period contemplated in the section would not only be equivalent to the period of limitation prescribed for instituting a suit for possession of property but would' be equal to such  period plus the period extended by the application of the various rules for computing the period of limitation or for the non-commencement of the period of limitation till the happening of a certain contingency.
+Precedent	Its provisions, therefore, imply that the Act did contemplate that the period of exclusion provided under the various provisions for the computation of the period of limitation prescribed did really amount to enlarging the period of limitation prescribed for the institution of a suit.
+Precedent	72.
+Statute	Lastly comes Section 29 , which, after the amendment of 1922, is;  "29.
+Statute	Savings.
+Statute	-- (1) Nothing in this Act shall affect Section 25 Contract Act, 1872 .
+Statute	"(2) Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule, and for the purpose of determining any period of limitation prescribed for any suit, app eal or application by any special or local law --  "(a) the provisions contained in Section 4 , Sections 9 to 18 , and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law; and "(b) the remaining provisions of this Act shall not apply.
+Statute	"(3) Nothing in this Act shall apply to suits under the Divorce Act .
+Statute	(4) Sections 26 and 27 and the definition of 'easement' in Section 2 shall not apply to cases arising in territories to which the Easements Act , 1882, , may for the time being extend".
+Statute	73.
+Statute	Sub-section (2) (a) does contemplate that a special or local law may provide for the non-application of all or any of the sections mentioned therein for the purpose of determining the period of limitation prescribed by any special or local law.
+Precedent	This is reasonable because special or local laws deal with special subjects and special local conditions and there may be reasons for making the period of limitation prescribed more inelastic than they  are in view of the general provisions of the Limitation Act .
+Precedent	74.
+Precedent	If the general provisions of the Limitation Act for the computation of limitation prescribed for any suit, appeal or application were applicable generally to all cases of limitation prescribed by any law and not only to such periods of limitation prescribed by the first schedule of the Indian Limitation Act , there was no necessity to express the second part of Section 29 in such elaborate form.
+Precedent	The purpose could have been achieved by enacting the first part of the sub-section alone.
+Precedent	75.
+Precedent	It is also significant to note that Sections 4 to 9 , 10 and 11 do not figure in part III which provides for the computation of the period of limitation but appear in Part II which deals with limitation of suits, appeals and applications,  76.
+Precedent	I am, therefore, of opinion that the general expression "in computing the period of limitation" prescribed in Section 12 , Limitation Act , and in other sections of the Act refers to the period of limitation prescribed  by the first schedule of the Indian Limitation Act and not to periods of limitation prescribed by any law.
+Precedent	77.
+Precedent	The question before the Full Bench in AIR 1939 All 403 (O) was whether the general provisions of Section 15 , Limitation Act , applied to, periods of limitation prescribed in the Civil Procedure Code.
+Precedent	Reliance was placed by the learned Judges on the observations in the <ORG> case reported in 3 Ind App 7 (PC) (N).
+Precedent	The question which arose for decision in that case was whether Sections 11 and 12 ,.
+Precedent	Limitation Act (Act 14 of 1859) applied to Section 246 , Civil P. C. (Act 8 of 1859) which provided that the order which might be passed by the <ORG> under that section would not be subject to appeal; but the party against whom the order be given was at liberty to bring a suit to establish his right at any time within one year from the date of the order.
+Precedent	78.
+Statute	Sections 11 and 12 , Limitation Act  were :  "11.
+Statute	If, at the time when the right to bring an action first accrues, the person to "whom the ri ght accrues is under a legal disability, the action may be brought by such person or his representative within the same time after the disability shall have ceased as would otherwise have been allowed from the time when the cause of action accrued, unless such time shall exceed the period of three years, in which case the suit shall be commenced within three years from the time when the disability ceased; but, if, at the time when the cause of action accrues to any person, he is not under a legal disability, no time shall be allowed on account of any subsequent disability of such person or of the legal disability of any person claiming through him."
+Statute	"12.
+Statute	The following persons shall be Adeemed to be under legal disability within the meaning of the last preceding section -- married women in cases to be decided by English law, minors, idiots, and lunatics."
+RatioOfTheDecision	79.
+RatioOfTheDecision	It will be noticed that neither Section 11 nor Section 12 uses the expression "in computing the period of limitation prescribed", which is the expressi on for us to interpret and which was the expression in Section 15 , Limitation Act of 1908, that was for interpretation in the aforesaid Allahabad case.
+RatioOfTheDecision	80.
+Statute	Further, I may quote Section 1 , Sub-section (5) and Section 3 , Limitation Act (Act No.
+Statute	14 of 1859).
+Statute	Sub-section (5) of Section 1 is :  "To suits to alter or set aside summary decisions and orders of any of <ORG> not established by Royal Charter, when such suit to maintainable -- the period of one year from the date of the final decision, award, or order in the case."
+Statute	Section 3 is :  "When, by any law now or hereafter to be in force, a shorter period of limitation than that prescribed by this Act is specially prescribed for the institution of a particular suit, such shorter limitation shall be applied notwithstanding this.
+RatioOfTheDecision	Act."
+RatioOfTheDecision	What their Lordships of <ORG> (c)bserved at page 24 on the first question which arose in that case is : , "Upon the first they also agree with the learned <ORG> that Sections 11 and 12 of Act 14 of  1859 do apply to the 246th section of the Act 8 of 1859.
+Statute	"The two Statutes were passed in the same year, the assent of the Governor-General being :given to Act 8 on the 22nd of March, to Act 14 "n the 4th of May, 1859.
+Statute	The object of the first was to enact a general code of procedure for <ORG> not established by Royal Charter.
+Statute	The object of the second was to establish a general Law of Limitation in supersession both of the regulations which had governed those <ORG> and of the English Statutes which had regulated the practice of the <ORG> established toy Royal Charter.
+Precedent	Looking to the 5th sub-section of the 1st section, and the 3rd and 11th sections of Act 14 of 1859, their Lordships have no doubt that the intention of the <ORG> was that the period of limitation resulting from the 246th section of Act 8 should in the case of a minor be modified by the operation of the llth section of Act 14; and that this construction has obtained in the <ORG> of India appears from the case ci ted from the 3rd <ORG>.
+Precedent	(C. B. p. 8)".
+Precedent	81.
+Precedent	The reason why Section 11 of the Act was held to apply to Section 246 , Civil P. C. of 1859 was that the period of limitation prescribed under Section 246 of Act 8 of 1859 was not shorter than the period of limitation prescribed under Sub-section (1) of Section 5 , Limitation Act of 1859, for suits to alter or set aside summary decisions and orders of any of the civil Courts and therefore such period of limitation was not to be preferred to the period of limitation laid down in the Indian Limitation Act in view of the provisions of Section 1 which was :  "No suit shall be maintained in any Court of Judicature within any part of the British territories in India in which this Act shall be in force, unless the same is instituted within the period of limitation hereinafter made applicable to a suit of that nature, any Law or Regulation to the contrary notwithstanding; and the periods of limitation, and the suits to which the same respectively shall be applicab le, shall be the following, that is to say:"  Further, Section 11 had no such expression which would have restricted the applicability of its provisions to those cases alone for which limitation was prescribed under the Limitation Act .
+Precedent	This was the basis for the view expressed in -- ' <CITATION_1717198> ', 3 Suth WR 8 (T).
+Precedent	It was observed at page 9, col. 1 :  "It is contended, indeed, by the other side, that Section 246 of Act 8 cannot be referred to Act a 4 of 1859, Section 11 ; but this appears to us a mistake.
+Precedent	There is nothing prohibitory in the wording of the law itself;"  I have already mentioned that Section 11 does not use the words "period of limitation prescribed."
+Precedent	It simply provides that the period of limitation in case of legal disability of a person will commence from the time when that legal disability ceases.
+Precedent	The period of limitation may have been prescribed by any law.
+Precedent	I am, therefore, of opinion that it cannot be said, merely on the basis of these observations of their Lordships of the Judic ial Committee, that the expression "in computing the period of limitation prescribed" in Section 15 , Limitation Act of 1908 or in other sections of Chapter III of that ACT should refer to the computation of the period of limitation prescribed by any law.
+Precedent	82.
+Precedent	<NAME> broke up the question In the case of '<NAME> v. <NAME>O)', into two questions framing the first question in general form.
+Precedent	The two questions he framed were ;  "1.
+Precedent	Is Section 15 , Limitation Act , confined in its operation to periods of limitation prescribed by the Act or by the first schedule thereof?
+Precedent	and  2.
+Precedent	Does Section 48 , Civil P. C. 'prescribe' a period of limitation?"
+Precedent	At first he observed at page 404:  "In view of the unqualified terms of Section 10 of the Act and of the fact that periods of limitation are prescribed in a number of statutory enactments it does not appear that there is any justification, judicial authority apart, for restricting the operation of the section to the periods of limitation prescri bed by the Act or by the First Schedule."
+Precedent	Adverting to the sharp divergence of Judicial opinion on the point, he observed at page 404:  "I do not consider it necessary to discuss In detail the decisions to which reference Was made; firstly because the controversy, so far as this Court is concerned, is in my judgment, concluded by the <ORG> decision in -- ' <CITATION_935053> ', 34 All 496 (U); and secondly because the <ORG> by its amendment of Section 29 , Limitation Act of 1908 in 1922 placed the matter beyond doubt."
+RatioOfTheDecision	I shall deal with the case of ' <CITATION_935053> )' later.
+RatioOfTheDecision	The amendment to Section 29 in 1923 does not, to my mind, indicate that the decision in ' <CITATION_1068210> )' correctly interpreted the intention of the <ORG>.
+RatioOfTheDecision	Nor did it clearly indicate that Section 15 , Limitation Act , applied to periods of.
+RatioOfTheDecision	limitation prescribed by all laws.
+RatioOfTheDecision	It is true that certain general provisions of the Limitation Act had been made applicable in certain circumstances for determining the per iod of limitation prescribed by the special or local law, but their application can be excluded by an express provision in the special laws.
+RatioOfTheDecision	In fact, as I have mentioned already, if the general provisions of the Limitation Act were applicable to the periods of limitation prescribed by all Acts, there was no necessity to enacfc the latter part of Sub-section (2) of Section 29 .
+RatioOfTheDecision	There does not appear any particular reason why Section 5 , Limitation Act , was not made applicable by Section 29 to the limitation prescribed by the Special Act s. That section too lays down an equitable principle for condoning delays.
+Precedent	The learned Chief Justice then observed at page 405 :  "Whether these general provisions apply to Acts which are Codes complete in themselves and which contain no express exclusion thereof is a matter upon which I dp not consider it necessary, in answering the question referred, to pronounce.
+Precedent	The only question with which we are concerned in the present reference is as to whether these general provision s and in particular Section 15 of the Act govern Section 48 , Civil P. C."  This indicates that the scope of the first question formulated by him was narrowed down to the simple question whether Section 15 , Limitation Act , governed Section 48 , Civil P. C. Limiting the question thus the learned Chief Justice observed :  "Now the Code of Civil Procedure is not a special or local Act but there is high authority for the proposition that the provisions of the Code are subject to the provisions of the Limitation Act ."
+Precedent	He then referred to the case of 3 Ind App 7 (PC) (N).
+Precedent	I have already referred to this case.
+Precedent	It does' not lay down such a wide proposition that the provisions of the Limitation Act control the periods of limitation prescribed by the Code of Civil Procedure.
+Precedent	83.
+RatioOfTheDecision	<NAME> went into the question In greater detail and laid emphasis on the facts that the -expression "prescribed therefor by the first schedule" has not been -used in the general provisions for computation of limitation and the wor d used there is simply "prescribed" and that if the word "prescribed" whenever used in the Limitation Act was meant to connote "prescribed by the first schedule" the <ORG> would have expressed this in the interpretation Section 2 of the Act.
+RatioOfTheDecision	I have already expressed my view about the effect of not repeating the expression "by the first schedule" after the word "prescribed" in the Various sections providing for the computation of limitation.
+RatioOfTheDecision	I have also indicated that the word "prescribed" is used in different connections in the Act and at some of those places it would not mean "prescribed by the first schedule".
+RatioOfTheDecision	In fact, I may mention that this expression "in computing the period of limitation prescribed" has direct reference to the period of limitation mentioned in Section 3 of the Act while the other expressions where the word "prescribed" is used need not have direct reference to that, period.
+RatioOfTheDecision	There are sections in the Act where the expression "period of limitation" is used and the word "pre-scribe d" is not used at all.
+RatioOfTheDecision	Such provisions may be of general application.
+RatioOfTheDecision	84.
+RatioOfTheDecision	<NAME>, J., then referred to the provisions of Sections 6 and 29 .
+RatioOfTheDecision	I have already mentioned the necessity of mentioning the provisions of the third column of the first schedule and of the use of the word "so" in Sub-sections (2) and (3) of Section 6 .
+Precedent	<NAME> J. observed at page 410:  "The enactment of Section 29 of the present Act In its present form was rendered necessary not because the word 'prescribed'- in Part III of the Act did not mean prescribed by any law for the time being in force but because certain <ORG> had held that the application of the general provisions of the Limitation Act laid down in Part III to special and local Act did 'affect or alter' the periods of limitation prescribed by those Acts, and the <ORG> disapproved of those decisions."
+RatioOfTheDecision	The latter part of Section 29 does not use the expression "in computing the period of limitation prescribed" but uses the expression "for the purpose of determini ng any period of limitation prescribed", and the change of language indicates that the <ORG> considered that the exclusion of certain periods in the computation of limitation really enlarged the period of limitation leading to a later date for determining the period of limitation for the institution of any suit, appeal or application.
+RatioOfTheDecision	Such a consideration implies that the provisions for the exclusion of those periods did affect or alter the period of limitation as it tended to extend it.
+RatioOfTheDecision	85.
+Precedent	<NAME>, J. observed at page 408:  "In Section 11 (Limitation Act, 14 of 1859) there was nothing to limit the application of that section to suits with respect to which periods of limitation were provided for by the various clauses of Section 1 of the Act and accordingly Section 11 was of general application and applied even to suits not dealt with by "the Act."
+Precedent	He then compared its provisions with those of Section 7 , Limitation Act s of 1871 and 1877 and observed that by the use of the expression "prescribed  therefor in the third column of the first schedule hereto annexed" in Section 7 of the later <ORG>, the <ORG> confined the operation of that section only to suits with respect to which limitation was provided for by the second schedule of the two <ORG> and thus "for reasons better known to itself the <ORG> curtailed the scope of Section 11 of the Act of 1859".
+RatioOfTheDecision	This does not appear to me to -be a correct appreciation of Section 11 of the Act of 1859.
+Statute	Section 11 contemplated the point of time from which the limitation was to run when the cause of action accrued and therefore used that expression at a place corresponding to the place of the expression "prescribed therefor in the third column of the second schedule hereto annexed" in Section 7 , Limitation Act s of 1871 and 1877.
+Statute	It would appear from the various sub-sections of Section 1 , which lays down the period of limitation, that the limitation was to run from certain dates or from the time when the cause of action accrued.
+Statute	The expression "caus e of action" is used in Sections 5 to 10 , which deal with the computation of period of limitation.
+Precedent	It follows that for applying the provisions of Section 11 the Court will have to go to the other provisions of the same Limitation Act , and I may again repeat that under the Limitation Act of 1859 limitation for suits was governed by the provisions of that Act and not by those of any other Act except in the case coming under Section 3 , Limitation Act of 1859.
+Precedent	86.
+Precedent	<NAME>, J. did consider the question to be not free from difficulty and based his decision on the cases reported in 3 Ind App 7 (PC) (N) and 34 All 496 (U) and on there being no limiting words used with reference to the word "prescribed" in the general provisions of the Limitation Act for the computation of limitation.
+Precedent	I have indicated my views on these questions.
+Precedent	87.
+Precedent	The decision in Am 1943 Bom.
+Precedent	164 (P): is largely influenced by the case reported in AIR 1939 All 403 (FB) (O).
+Precedent	88.
+Precedent	The decision In AIR 1944 Nag 155 (Q) mainly rested on the provisio ns of Section 15 , Limitation Act , being perfectly general, it being considered that where any restrictions were intended to the applicability of certain provisions of the Limitation Act it had been so specifically states* as had been done In Sections 3 and 6 , Limitation Act .
+Precedent	It was also observed that that view was in accordance with the <ORG> decision In 3 Ind App 7 (PC) (N).
+Precedent	I have already commented on these considerations and have nothing more to add.
+Precedent	89.
+Precedent	In the case reported in AIR 1952 Mad 186 (M), <NAME>, C. J., who delivered the judgment, observed at page 190 after having referred to various decisions:  "It is well established that the Limitation Act and the Code are to be read together, because both are statutes relating to procedure and they are in 'pari materia' and therefore to be taken and construed together as one system as explanatory of each other."
+Precedent	On the same page he observed later in para 15:  "It followed that if there was a general provision in the Limitation Act , it wou ld govern also provisions as to limitation contained in the Civil Procedure Code.
+Precedent	This was authoritatively laid down by their Lordships of <ORG> in 3 Ind App 7 (PC) (N)."
+Precedent	Again, he observed in para 20 at page 191:  "It appears to me from the course of legislation to which I have adverted above that the provisions of the Limitation Act must be read with those provisions of the Civil Procedure Code which are intimately connected therewith."
+Precedent	He observes in para 22 at page 192:  "On a careful consideration of the decided cases on the point and the course of legislation I have arrived at the following conclusions: The expression "prescribed" in Section 15 (1), Limitation Act , does not mean "prescribed by the first schedule" to the Act.
+Precedent	It would include a case where a period of limitation is prescribed by any general statute like the Civil Procedure Code.
+Precedent	I venture to think further that even if it be understood in the strictest sense, the period fixed by Section 48 of the Code must be deemed to  have become a part of the Limitation Act by a process of incorporation in Articles 181 and 182."
+Precedent	I do not find anything in this judgment which would indicate that the expression "in computing the period of limitation prescribed" in S,.
+Precedent	15, Limitation Act , would apply to all cases of computing limitation prescribed by other Acts.
+Precedent	The decision was very carefully limited to' the only question that was before the <ORG>, that is, whether Section 48 , Civil P. C. was controlled by Section 15 , Limitation Act .
+Precedent	90.
+Precedent	There does not appear to be any additional consideration mentioned in (S) AIR 1955 Cal 269 (R) for adopting the same view that Section 48 , Civil P. C. was controlled by Section 15 , Limitation Act .
+Precedent	91.
+Precedent	The case reported in AIR 1947 Patna, 329 (G) raised a question whether the appellant filing a Letters Patent appeal against the decision of a learned single Judge in the exercise of his original civil jurisdiction could take advantage of Section 12 , Limitation Act .
+Precedent	It was answered in favour of the  appellant in view of the decision of <ORG> in AIR 1928 PC 103 (I).1 The case reported in 2 All 192 (A) was distinguished.
+Precedent	It was also held in this case that the Letters Patent of the <ORG> did not amount to special or local law.
+Precedent	92.
+Precedent	I have already discussed the <ORG> case reported in AIR 1928 PC 103 (I), and expressed the view that it does not lead to the conclusion that the provisions of Section 12 Limitation Act are of general application.
+Precedent	93.
+Precedent	I now discuss the <ORG> case in 34 All 496 (U).
+Argument	The question before the Bench was whether the appellant was entitled under Section 12 , Limitation Act to deduct the time spent by him in obtaining a copy of the order of the <ORG> of first instance in proceedings under the Provincial Insolvency Act .
+Argument	It may be mentioned at this stage that at the time of the decision of the <ORG> in 1912, Section 29 , Limitation Act for which the present Sub-sections (1) and (2) were substituted in 1922, was differently worded and was:  "29 (1) Nothin g in this Act shall --  (a) affect the Indian Contract Act , 1872, Section 25 ;  (b) affect or alter any period of limitation specially prescribed for any suit, appeal or application by any special or local law now or hereafter in force in British India".
+Argument	It was held by <ORG> that he could get such a benefit.
+Precedent	The learned Judges first referred to the various cases having a bearing on the question and observed at p. 502:  "There is therefore authority for the proposition that the general provisions of the Limitation Act , 1877, are applicable to suits and other proceedings under other Acts which prescribe special periods of limitation, but which are not intended to be complete Codes in themselves, and that the words 'affect or alter' in Section 6 , Limitation Act of 1877 relate only to the period prescribed and not to the way in which that period is to be computed.
+Precedent	The same words appear in Section 29 of the present Limitation Act ".
+Precedent	It appears to me inconsistent and not based on any good reason that t he general provisions of the Indian Limitation Act 'should be interpreted to apply to all periods of limitation prescribed by any law and then be not applied to periods of limitation provided by any law which is held to be a complete Code in itself.
+RatioOfTheDecision	The general provisions of the Indian Limitation Act nowhere refer to any such restriction.
+RatioOfTheDecision	Either they apply to the periods of limitation pre-cribed by all laws or they apply to the periods pf limitation prescribed by the first schedule of the Indian Limitation Act .
+RatioOfTheDecision	The completeness or incompleteness of the other laws can be no criterion for interpreting what the general provisions" OS the Indian Limitation Act mean & provide for.
+RatioOfTheDecision	The basis for the view might have been that the special law contains such provisions which make the application of the general provisions of the Indian Limitation Act inconsistent with those provisions and therefore enacts Implledly that the general provisions of the Indian Limitation Act were not to apply to the periods of limitation  prescribed by that Act.
+RatioOfTheDecision	But even such a reason would not be compatible with the uncontrolled language of the general provisions of the Indian Limitation Act .
+RatioOfTheDecision	Those general provisions are not subject to the provisions of special laws.
+RatioOfTheDecision	I am, therefore, of opinion that such a distinction of the special law being a complete <ORG> or an incomplete <ORG> cannot justify the application or otherwise of the general provisions of the Ind.
+RatioOfTheDecision	Limitation Act to the periods of limitation prescribed by special or local laws.
+RatioOfTheDecision	94.
+RatioOfTheDecision	The learned Judges further observed at p. 503;  "The question is one of considerable difficulty, and it must be admitted that at first sight It is straining the words to hold that the application of the general provisions of the Limitation Act to periods of limitation prescribed by other Acts does not 'affect or alter' those periods.
+RatioOfTheDecision	In one sense it certainly does.
+RatioOfTheDecision	But the construction accepted by <NAME> <NAME> and <NAME> seems to us to be correct".
+Precedent	It appears from the furth er observations in continuation of those quoted above that the learned Judges considered that' the general provisions of the Limitation Act were founded mainly upon equitable considerations and found it difficult to believe that the <ORG> intended as a general rule that the special provisions giving a right of appeal and prescribing the periods within which the right may be exercised in other <ORG> should be applied without reference to the general provisions contained in the general Limitation Act .
+Precedent	95.
+Precedent	The learned Judges further held in that case that the Provincial Insolvency Act was not a complete Code in itself.
+Precedent	I have already expressed my views about the consideration of a special Act to be a complete Code in itself having no bearing on the question whether the general provisions for the computation of the period of limitation in the Indian Limitation Act apply for computing the period of limitation prescribed by other <ORG>.
+Precedent	96.
+Precedent	<NAME> and <NAME> had to consider in 23 All 277 (B) the  question whether Section 5 , Limitation Act of 1877 applied to a suit under Section 93(a) , North-Western Provinces Rent Act, 1881.
+Precedent	Section 5 , Limitation Act of 1877 corresponds to present Sections 4 and 5 , Limitation Act of 1908.
+Precedent	It was observed at p. 279:  " Section 5 does not extend any period of limitation.
+Precedent	It assumes that the period prescribed for a suit has expired, .and provides that nevertheless the suit may be instituted if the period expired on a day when the Court was closed.
+Precedent	This construction of Section 6 is in accordance with the cases which are collected in the note to Section 6 in Mr. <NAME>'s edition of the Limitation Act .
+Precedent	The general effect of those cases is, that the provisions of the Limitation Act are applicable to proceedings under special or local laws, except so far as they affect or alter the periods prescribed by those special or local laws, unless the special or local law is a complete Code by itself to which the general provisions of the Limitation Act cannot be applied withou t incongruity.
+Precedent	This is very clearly explained by the judgment of <NAME> in -- ' <CITATION_640975> ', 18 Mad 99 (FB) (V).
+Precedent	That, subject to these exceptions, the Limitation Act is applicable to suits and other proceedings under special laws, such as the Rent Act of 1881, clearly appears, we think, from the Act itself, which is a general law of limitation, and in particular from .
+Precedent	1, which expressly provides that certain portions of the Act are not applicable to suits under two special Acts named, the Indian Divorce Act and Madras Regulation VI of 1831.
+Precedent	That, we think, greatly strengthens the inference that in regard to suits under other special Or local Acts the provisions of the Limitation Act apply, subject, of course, to the Qualifications already pointed out".
+RatioOfTheDecision	It is not disputed that the provisions of the Indian Limitation Act , 1877, could have applied where possible to the proceedings under special Or local Acts.
+RatioOfTheDecision	But it is a different question whether any particular provision of the Indian  Limitation Act whose application by its language would ordinarily be limited to the periods of limitation prescribed under the Indian Limitation Act could be considered in connection with the periods of limitation prescribed by special or local Acts.
+RatioOfTheDecision	The view expressed by <NAME>, in 18 Mad 99 (FB) (V) was not acceptable to the majority of the Judges constituting the Full Bench.
+RatioOfTheDecision	He referred to the <ORG> cases reported in ' <CITATION_617091> ,' 1 Ind App 167 (PC) (W) and 3 Ind App 7 (PC) (N) and observed at p. 105:  'These cases were decided with reference to Act 14 of 1859, Section 3 of which is substantially the same as Section 6 of the present Limitation Act (Act 15 of 1877), and they are authorities for the proposition that, when the Act to be modified by Section 6 is of a very special kind, complete in itself, and it does not admit of the several provisions of the Limitation Act being imported into it without incongruity and without defeating the intention of the <ORG>, it is not  controlled by the general provisions of the Limitation Act ".
+RatioOfTheDecision	Such conclusions do not emerge from these two <ORG> cases and there is substantial difference between Section 6 , Limitation Act of 1877 and Section 3 , Limitation Act of 1859.
+Precedent	In the former case, their Lordships of <ORG> observed at p. 176:  "Another contention, which seems to have been the only one urged in <ORG>, as far as it appears from the judgment, is that a saving with respect to parties under disabilities must be taken to be by equitable construction implied in this clause*.
+RatioOfTheDecision	Their Lordships, however think it impossible that any <ORG> can add to the statute that which the <ORG> has not done.
+RatioOfTheDecision	The limitation is enacted in plain and absolute terms.
+RatioOfTheDecision	The <ORG> has not thought fit to extend the period which it has prescribed to persons under disability.
+RatioOfTheDecision	Where such enlargements have been intended, they are found in the Acts containing the limitation, as In the general Act.
+RatioOfTheDecision	This Act contains no such  saving and their Lordships would be legislating and not interpreting the statute if they were to introduce it.
+RatioOfTheDecision	It was said that the clauses in the general statute, Act 14 of 1859 (The Indian Limitation Act ) relating to disabilities might be imported into this Act, but this cannot properly be done.
+Statute	Act 14 is a Code of limitation of general application.
+Precedent	This Act is of a special kind and does not admit of those enactments being annexed to it".
+Precedent	97.
+Precedent	Their Lordships did not say that importing the provisions of Section 6 , Limitation Act of 1859 would bring about any incongruity with the provisions of Section 20 of Act 9 of 1859. .
+RatioOfTheDecision	They simply meant that those provisions could not be applied to the special Act as they were not to be found in that Act.
+RatioOfTheDecision	This case, to my mind, makes it absolutely clear that where periods of limitation are extended by <ORG> due to certain circumstances, necessary provisions about it are provided in the Act creating the limitations, and thus supports the view that the period of  limitation prescribed by Rule 7 of the High Court Rules, 1951, could not be enlarged with reference to the provisions of the general Limitation Act as no such beneficial previsions exist in the rule itself which lays down the period of limitation.
+RatioOfTheDecision	98.
+RatioOfTheDecision	I have already referred to the case reported in '3 Ind App 7 (PC) (N), and do not find anything to support the inference that a special Act is not controlled by the general provisions of the Indian Limitation Act only when it is of a very special kind, complete in itself, and when it does not admit of the several provisions of the Indian Limitation Act being imported into it without incongruity and without defeating the intention of the <ORG>.
+RatioOfTheDecision	99.
+RatioOfTheDecision	I do not agree with the other reasoning and have already referred to the inference against it from the observations of their Lordships of <ORG> in '3 Ind App 7 (PC) (N), the reasoning being that while Section 6 , Limitation Act of 1871 prohibited the application of the provisions of that Act t o laws laying down periods of limitation different from those prescribed by the Limitation Act , Section 6 Limitation Act of 1877 merely barred the affecting or altering of the different periods of limitation prescribed by the special Act and did not bar the application of the general provisions relating to the computation of the period of limitation prescribed by the special Acts.
+Statute	The relevant portion of Section 6 , Limitation Act of 1871 is:  "When, by any law not mentioned in the schedule hereto annexed, and now or hereafter to be in force in any part of British India, a period of limitation differing from that prescribed by this Act is specially prescribed for any suits, appeals or applications, nothing herein contained shall affect such law".
+Statute	Section 6 , Limitation Act of 1877 may again be quoted for easy reference.
+Statute	It is;  "When, by any special or local law now or hereafter in force in British India, a period of limitation is specially prescribed for any suit, appeal or application, nothing herein cont ained shall affect or alter the period so prescribed".
+RatioOfTheDecision	What is not to be affected by the provisions of the Indian Limitation Act of 1871 was the law laying down the period of limitation differing from that prescribed by the Indian Limitation Act .
+RatioOfTheDecision	The law which laid down different periods of limitation and which had been considered in various cases did not lay down any particular rules for computation of the period of limitation.
+RatioOfTheDecision	If such rules had been laid down, there might have been much to say in support of the view that the change in language made real difference and that such special rules of computation could be affected or altered by the general provisions of the Indian Limitation Act of 1877, though such could not have been affected or altered by the general provisions of the Indian Limitation Act of 1871 in view of its Section 6 .
+RatioOfTheDecision	100.
+RatioOfTheDecision	I am, therefore, with respect, not in agreement with the view expressed in 34 All 496 (U).
+RatioOfTheDecision	101.
+RatioOfTheDecision	Lastly I am of opinion that if the general provisions of the Indian  Limitation Act with respect to the computation of limitation apply to all enactments, which are not complete Codes, Rule 7 of Chap III of the Rules of the Court, in force in 1951, if considered a special law, should be taken to be a complete Code in the sense that it lays down in clear terms that a Letters Patent appeal is not to be presented after 60 days and that it can be so presented only if the Judge in his discretion on good cause shown grants further time for its presentation.
+RatioOfTheDecision	When this special provision enacts a special procedure the general provisions of the Limitation Act cannot be applied in interpreting this provision.
+RatioOfTheDecision	102.
+Statute	I now consider the effect of Sub-section (2) of Section 29 , Limitation Act of 1908.
+Statute	This sub-section is:  29(2) "Where any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that sc hedule, and for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law --  (a) the provisions contained In Section 4 , Sections 9 to 18 , and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law; and  (b) the remaining provisions of this Act shall not apply".
+Statute	The first part of Sub-section (2) relating to the applicability of the provisions of Section 3 comes into play when any special or local law prescribes for any suit, appeal or application a period of limitation different from the period prescribed therefor by the first schedule.
+Statute	The provisions of Section 3 of the Act will not apply if the period prescribed by the special or local law is not in conflict with the period prescribed for such suit, appeal or application by the first schedule.
+Statute	Such will necessarily be the case when the first schedule does not provide for that suit, appeal or application.
+RatioOfTheDecision	The om ission to provide a certain period of limitation for a certain suit, appeal or application is not equivalent to providing either a zero period for such institution or to providing an infinite period for such institution.
+RatioOfTheDecision	Obviously it cannot be a zero period as in that case no such suit, appeal or application could be filed.
+RatioOfTheDecision	If it be infinite period, that really means no fixed period of limitation and obviously Section 3 contemplated definite periods of limitation.
+RatioOfTheDecision	Non-prescribing a period of limitation cannot amount to prescribing such a period.
+Statute	I, therefore, do not agree with the observations of <NAME>, C. J., in AIR 1953 Bom 35 at p. 36 (H).
+Statute	"It may also be different in the sense that it departs from the period of limitation fixed for various appeals under the Limitation Act .
+Statute	If the first schedule to the Limitation Act omits laying down any period of limitation for a particular appeal and the special law provides a period of limitation, then to that 'extent the special law is different from the Limitatio n Act ".
+RatioOfTheDecision	102A.
+RatioOfTheDecision	If the period prescribed for such suit, appeal or application by the special or local law be the same as provided by the first schedule of the Indian Limitation Act , naturally the provisions of Section 3 , Limitation Act will apply as such ft proceeding would be covered by'the provisions of the Indian Limitation Act and the party concerned should get the advantage of more beneficial provisions which happen to exist in the Indian Limitation Act .
+RatioOfTheDecision	103.
+RatioOfTheDecision	The latter part of Sub-section (2) of Section 29 does not use the expression "in computing the period of limitation prescribed for any suit, appeal or application by any special or local law" taut uses the expression "for the purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law".
+RatioOfTheDecision	To determine the period of limitation means to find out the outer limit by which such suit, appeal or application could be filed, and it is for finding this out that the provisions of Section 4 , Sec tions 9 to 18 and Section 22 , Limitation Act could be applied unless their application was expressly excluded by the special or local law.
+RatioOfTheDecision	The other provisions of the Indian Limitation Act do not apply for determining such period of limitation.
+RatioOfTheDecision	104.
+RatioOfTheDecision	"To determine" means according to <ORG> "to put bounds to, to put limits, to put an end to" and the word "to compute" merely means "to calculate".
+RatioOfTheDecision	<NAME> also observes at p. 36 in the '<ORG>, case (H)':  "In our opinion, the expression "for the purpose of determining any period of limitation" does not mean 'computing the period of limitation".
+RatioOfTheDecision	In our opinion, every provision in the Limitation Act is Intended for the purpose of determining the period of limitation".
+RatioOfTheDecision	105.
+RatioOfTheDecision	It is contended for the appellant that the latter part of Sub-section (2) would be applicable for determining the period of limitation by any special or local law in all cases and its application is not restricted to only those cases for which  the period of limitation prescribed in the Indian Limitation Act differed from the period of limitation prescribed by the special or local law.
+RatioOfTheDecision	I do not agree.
+RatioOfTheDecision	If such had been the intention of the <ORG>, the two parts of Sub-section (2) would not have been joined by the conjunctive "and" when the sub-section commenced with the word "where".
+RatioOfTheDecision	Further the applicability of the provisions of Section 3 , in view of the first part means the applicabili.
+RatioOfTheDecision	ty of the provisions of Sections 4 to 25 inclusive.
+RatioOfTheDecision	The <ORG>, it seems, did not intend that the provisions of Sections 4 to 25 inclusive should be applicable and, therefore, had to lay down what provisions would be applicable, if not excluded expressly by the special or local Act.
+RatioOfTheDecision	It must follow that the latter part is to control the full import of the earlier part of the subsection and not to lay down certain law of general application to suits, appeals or applications for which periods of limitation were fixed by special or local law.
+RatioOfTheDecision	If the latter  part of Sub-section (2) is to apply to the computation of the period of limitation, it creates difficulties in application.
+RatioOfTheDecision	In case of difference or identity of the periods of limitation .
+Precedent	prescribed by special or local law and the Indian' Limitation Act , provisions of Sections 4 to 25 , Indian Limitation Act , apply in view of the first part of Sub-section (2) & yet provisions of Sections 5 , 6 , 7 , 8 , 19 , 20 , 21 , 23 , 24 and 25 do not apply in view of its latter part.
+Precedent	Such inconsistency could not have been contemplated by the <ORG>.
+Precedent	106.
+Precedent	It has also been contended that if the latter part had application to those cases only which were covered by the first part, the word "such" would have been used for the word "any" before the expression "suit, appeal or application by any special or local law".
+Precedent	I do not think that even in such a contingency the word "such" would have been so used.
+Precedent	It could have been then used in place of the word "any" preceding the expression "period of limitation" as the fi rst part primarily dealt with the period of limitation.
+Precedent	It was not so used perhaps because the provisions of the latter part were not to find out the period of limitation prescribed but were meant to determine the period of limitation prescribed.
+Precedent	107.
+Precedent	I am, therefore, of opinion that the latter part of Sub-section (2) of Section 29 of the Act applies only to those cases which are covered by the first part of that sub-section, that is to cases where the special or local law provides a period of limitation for any suit, appeal or application different from the period prescribed by the first schedule of the Limitation Act and not to all cases for which limitation was prescribed by the special or local law.
+Precedent	108.
+Precedent	I am, therefore, of opinion that the benefit of Section 12 , Sub-section (2), Limitation Act cannot be given to an appellant presenting an appeal under the Letters Patent.
+Precedent	<NAME>, J.
+Precedent	109.
+RatioOfTheDecision	The above appeal was filed beyond 60 days from the date of the delivery of judgment.
+RatioOfTheDecision	It would, however, be within  time if the time re quired in obtaining the copies of the judgment were excluded as provided for in Section 12(2) , Limita tion Act.
+Precedent	At the time when the appeal was filed the relevant rule was Rule 7, Chap.
+Precedent	Ill of the Rules of the Court which were then in force.
+Precedent	This rule provided:  "In all appeals under the Letters Patent, a duly stamped memorandum of appeal shall be presented to the Registrar within 60 days and not more from the date of the judgment, unless a Judge in his discretion, on good cause shown, shall grant further time for its presentation".
+Precedent	110.
+Precedent	The question for decision is whether the provisions of Section 12(2) , Limitation Act applied to the period of limitation of 60 days fixed by that rule.
+Precedent	The answer rests very much on the interpretation of Section 29 , Limitation Act .
+Precedent	111.
+Precedent	In order to understand the true import of that section, it will be useful to bear in mind its history.
+Precedent	112.
+Precedent	The first Limitation Act was passed in the year 1859 (Act 14 of 1859).
+Precedent	By Section 3 of that Act shorter peri ods of limitation prescribed by any law other than that Act were saved.
+Precedent	The section provided:  "When, by any law now or hereafter to be in force, a shorter period of limitation than that prescribed by this Act is specially prescribed for the institution of a particular suit, such shorter period of limitation shall be applied notwithstanding this Act".
+Statute	The provisions of the Act of 1859 were repealed by the Limitation Act 9 of 1871.
+Statute	Section 6 of this Act dealt with special periods of limitation prescribed by particular laws.
+Statute	The section was in these terms:  "When, by any law not mentioned in the schedule hereto annexed, and now or hereafter to be in force in any part of British India; a period of limitation differing from that prescribed by this Act is especially prescribed for any suits, appeals or applications, nothing herein contained shall affect such law".
+Precedent	113.
+Precedent	The Limitation Act of 1871 was replaced by Act 15 of 1877.
+Precedent	Section 6 of this Act provided :  "When, by any special or local law now or hereafter  in force in British India, a period of limitation is specially prescribed for any suit, appeal or application, nothing herein contained shall affect or alter the period so prescribed".
+Precedent	This very same provision was contained in Section 29 of the present Limitation Act 9 of 1908 before it was amended in the year 1922.
+Precedent	114.
+Precedent	Thus in every Limitation Act from 1859 to 1908 an attempt was made to exclude the application of the provisions of the Limitation Act i to periods of limitation prescribed by special or local laws.
+Precedent	115.
+Precedent	Before the year 1922 in numerous cases the <ORG> had to consider whether the general provisions contained in the Sections of the Limitation Act applied to periods prescribed by special or local laws.
+Precedent	116.
+Precedent	Now the general provisions fell into three groups: (a) some provisions specifically, referred to the period prescribed by the 1st schedule of the Limitation Act .
+Precedent	These were Sections 3 and 6 only (apart from Section 29 itself).
+RatioOfTheDecision	Section 11 referred to rules of limitation contained in the  Act and Section 28 referred to the "period hereby limited".
+RatioOfTheDecision	(b) Some sections used the word "prescribed" alone without mentioning the first schedule of the Limitation Act .
+RatioOfTheDecision	These were sections 4 , 5 , 12 , 13 , 14 , 15 , 16 , 19 and 20 .
+RatioOfTheDecision	(c) Some sections did not refer to any period at all.
+RatioOfTheDecision	117.
+RatioOfTheDecision	.Sections in which reference was made to the period of limitation prescribed by the Limitation Act either by using the expression "prescribed in the first schedule" or "prescribed in the third column of the first schedule" or "prescribed hereby" or "contained in the Act" obviously applied 'proprio vigore' only to those periods of limitation which were prescribed by the Act and not to the periods prescribed by special or local laws unless they were made applicable by such laws.
+RatioOfTheDecision	118.
+RatioOfTheDecision	But there was a difference of opinion as to the applicability of those general provisions of the Limitation Act in which reference was not directly made to the periods of limitation prescribed by the Act and in which either the word "pres cribed" alone was used or even that word was not used.
+RatioOfTheDecision	The Act did not contain the definition of the word "prescribed".
+RatioOfTheDecision	In some cases it was held that the general provisions applied only to those periods of limitation which were prescribed by the Limitation Act and not to those prescribed by other laws.
+Precedent	In this class of cases the phrase "affect or alter" used in Section 6 of the Act of 1877 or in Section 29 of the present Limitation Act before its amendment in the year 1922 was held to forbid the application of the general principles laid down in the Limitation Act to periods of limitation prescribed by special or local laws on the ground that these general rules did "affect or alter" the periods prescribed by such laws.
+Precedent	On the other hand, in other cases it was held that those sections of the Limitation Act in which reference was not directly made to the periods of limitation prescribed by the Limitation Act were general in their character and were applicable to all other laws which prescribed their own per iods of limitation and that the application of those general provisions did not 'affect or alter" the period of limitation prescribed by such laws because these provisions were merely intended to lay down the manner in which the periods of limitation were to be computed and did not 'affect' or 'alter' the periods themselves unless the special or local law was a complete code for the purposes of limitation.
+Precedent	This was the view held by this <ORG> in 23 All 277 (B), 'Suraj Ball Prasad v. Thomas', 28 All 48 (X), 34 All 496 (U), The same view was taken by the Madras, Calcutta and Bombay <ORG>s in some earlier decisions, see 5 Cal 110 (C), 8 Bom 593 (D) and 12 Mad 1 (E).
+RatioOfTheDecision	119.
+RatioOfTheDecision	In this state of affairs the <ORG> intervened and amended Section 29 with the ostensible object of setting the conflict at rest.
+Statute	The section after amendment stands as follows:  "Where any special or local law prescribed for any suit, appeal or application a period of limitation different from the period prescribed therefor, by the first  schedule, the provisions of Section 3 shall apply, as if such period were prescribed therefor in that schedule, and for the "purpose of determining any period of limitation prescribed for any suit, appeal or application by any special or local law --  (a) the provisions contained in Section 4 , Sections 9 to 18 , and Section 22 shall apply only in so far as, and to the extent to which, they are not expressly excluded by such special or local law; and  (b) the remaining provisions of this Act shall not apply".
+RatioOfTheDecision	There are two parts of Sub-section (2).
+RatioOfTheDecision	The first part deals with the applicability of Section 3 , Limitation Act and the second part deals with the applicability of the other provisions of the Limitation Act .
+RatioOfTheDecision	The first part makes the provisions of Section 3 , Limitation Act applicable to the period prescribed by a special or local law if that period be "different from the period prescribed therefor by the first schedule".
+RatioOfTheDecision	The Limitation Act prescribes a period of limitation for all kinds of suits ( A rticle 120 ) and applications ( Article 181 ) but for appeals it prescribes a period of limitation for particular kinds of appeals only.
+RatioOfTheDecision	Hence the question becomes material whether the first part of Section 29(2) applies to a special or local law which prescribes a period of limitation for an appeal when no such period is prescribed in the first schedule.
+RatioOfTheDecision	The question is whether in such a case it can be said that the special or local law prescribes a period of limitation "different from the period prescribed therefor by the first schedule".
+RatioOfTheDecision	<ORG> has in the AIR 1953 Bom 35 (H) answered the question in the affirmative.
+RatioOfTheDecision	The reason given is that if the first schedule omits to lay down a period of limitation for a particular appeal and the special law provides a period of limitation "then to that extent the special law is different from the Limitation Act ".
+RatioOfTheDecision	I am inclined to agree with this view.
+RatioOfTheDecision	120.
+RatioOfTheDecision	However that may be, the second part) of Section 29(2) is wider in its scope.
+RatioOfTheDecision	It runs as follo ws;  "and for the purpose of determining 'any' period of limitation prescribed for 'any' suit, appeal or application by 'any' special or local law",.
+RatioOfTheDecision	etc.
+Statute	(The italics (here in' ') are mine.)
+Statute	This part applies to all special or local laws and not merely to those special or local laws which prescribe a period of limitation 'different' from that prescribed in the first schedule.
+Statute	If it was intended that the second part should apply to only those special or local laws which lay down a period different from that prescribed in the first schedule to the Limitation Act , and not to laws which prescribe a period of limitation when no period of limitation is prescribed in the Limitation Act , the word "such" would have been used in the place of "any" in the phrase "any period of limitation" or in the phrase "any special or local law".
+Statute	It follows therefore, that the provisions of Section 4 , Sections 9 to 18 and Section 22 apply to all periods of limitation prescribed for any suit, appeal or application by any special  or local law except when they are 'expressly excluded' by such special or local law.
+Statute	121.
+RatioOfTheDecision	The provisions of the Letters Patent or of the Rules of this <ORG> relating to Letters Patent appeals or special appeals as they are now called, must be treated as a special law inasmuch as they prescribe the rules for a particular kind of appeal in a particular <ORG>.
+RatioOfTheDecision	This view is in accord with the view expressed in '<ORG> Lahore v. <ORG>' AIR 1941 Lah 257 (Y), 'Harbanssingh v. Karamchand', AIR 1949 EP 299 (Z), 'Abdul Alim v. Sh.
+RatioOfTheDecision	Mahomed Saeed', AIR 1951 Punj 43 (Zl).
+RatioOfTheDecision	The view expressed in AIR 1947 Pat 329 (G) to the contrary does not, with respect, appeal to me.
+Precedent	Section 12(2) would apply to the period of limitation prescribed for instituting a special appeal unless the provisions are 'expressly excluded by such law.
+Precedent	122.
+Precedent	I am, however, of opinion that the provisions of the Limitation Act are expressly excluded by Rule 7 of Chap III of the Rules of the <ORG> which were  in force in the year 1951 when the present special appeal was filed.
+Precedent	123.
+RulingByPresentCourt	The rule as worded shows that the memorandum of appeal shall be presented within 60 days, unless a Judge in his discretion, on.
+RulingByPresentCourt	good cause shown, shall grant further time for its presentation.
+RatioOfTheDecision	The extension of the period of limitation under the rule can be made only on one ground, namely, on good cause shown, and thus there is an express exclusion of any other mode of extension of period.
+Precedent	The general rules prescribed in the Limitation Act for determining and computing the period of limitation prescribed for a suit, application or appeal to extend the period of limitation for various reasons -- under Section 5 for an appeal or application for good cause shown; under Section 6 for suits and applications on the ground of legal disability; under Section 12 on the ground of time requisite for obtaining a copy of the decree or judgment appealed from; under Section 13 on the ground of the absence of the defendant out of British India; under  Section 14 on the ground of bona fide proceedings in another Court which had no jurisdiction; under Section 15 on the ground of stay of institution of a suit or execution of a decree by injunction or order; under Section 16 on the ground of proceedings for setting aside the sale; under Section 18 on the ground of fraud of the opposite party; under Section 19 on the ground of acknowledgement and so forth.
+Precedent	The phrase "unless a Judge in his discretion, on good cause shown, shall grant further time for its presentation" is an exception to the previous clause and provides the circumstances in which the period of 60 days can be extended and the words "and not more" make it absolutely clear that the period cannot be extended except on the ground mentioned in the exception.
+Precedent	All other grounds for extension of period mentioned in the various sections of the Limitation Act are, therefore, excluded.
+Precedent	It may thus be said that the provisions of the Rules of the Court prescribing a period ot limitation for Letters Patent  appeal are a complete code by themselves and admit of no variation by the provisions of the Limitation Act .
+Precedent	124.
+Precedent	There is no set formula for "Express Exclusion".
+RatioOfTheDecision	One idea may be expressed in a hundred different ways.
+RatioOfTheDecision	The most obvious form is to say "such and such sections of the Limitation Act will not apply to the period of limitation prescribed hereby."
+RatioOfTheDecision	But where everything by which the period of limitation may be extended is to be excluded, it may be enough to say "the period of limitation prescribed hereby shall not be extended in any manner whatever."
+RatioOfTheDecision	Where everything else except the provisions of Section 5 , Limitation Act , is to be excluded, it might be said, "the period of limitation prescribed hereby shall not be extended in any manner except under Section 5 , Limitation Act ".
+RatioOfTheDecision	Even this may be differently expressed and I think the language employed in Rule 7 of Chap.
+RatioOfTheDecision	III as quoted above is tantamount to saying that.
+RatioOfTheDecision	I have no doubt in my mind that the framers of the rule intended that the perio d of limitation of 60 days shall not be altered or extended by any mode of computation or calculation except upon one condition, namely, when sufficient cause for the same was shown.
+Precedent	125.
+Precedent	In 'Raja Pande v. <NAME>', AIR 1942 All 429 (PB) (Z2), the majority of the Judges constituting <ORG> held that the provisions of the Limitation Act do not apply to a special law which is a self-contained Code by itself in the matter of limitation.
+Precedent	I think that the principle of this decision applies to the provisions of Rule 7 of Chap.
+Precedent	III.
+Precedent	126.
+Precedent	It was urged that the provisions of Section 12 (2), Limitation Act do not enlarge the period of limitation fixed for filing appeals but only lay down a method of computation or calculation of the period of limitation.
+Precedent	This argument assumes that a method of computation cannot enlarge the period of limitation.
+Precedent	But the assumption is obviously untrue.
+Precedent	How are the provisions of Section 12 (2) given effect to, if not by adding to the period of 60 days (in the case of Let ters Patent appeal, for example) the number of days spent in obtaining a certified copy of the judgment or decree?
+Precedent	If this is not addition to the period of 60 days, what else 'is it?
+Precedent	127.
+Precedent	It may be urged that in the view I am taking, even the provisions of Sections 4 and 12 (1), Limitation Act will not be applicable, and that this will lead to absurd results.
+Precedent	Section 4 lays down that--  "Where the period of limitation prescribes for any suit, appeal or application expires on a day when the <ORG> is closed, the suit, appeal or application may be instituted, preferred or made on the day that the <ORG> reopens."
+Precedent	The section recites a principle which is of universal application and which would have applied even if it were not so laid down in the Limitation Act .
+Precedent	The principle is that the act of <ORG> shall prejudice no party.
+Precedent	This is applicable without any express legislative sanction for the same.
+Precedent	See -- 'Muhammad Jan v. Shiam Lar, <ORG> 1924 All 218 (FB) (Z3); -- 'Raotmal v. Amarsingh', <ORG> 1926 Nag 331 (Z4); - - Arava-mudu Ayyangar v. <NAME>', 21 Mad 385 (Z5); -- 'Himmun v. <NAME>', AIR 1921 Lah 6 at pp.
+Precedent	8, 9 (Z6); -- 'Mahomed Akbar Jaman Khan v. <NAME>', 10 Ind Cas 51 (Cal) (Z7).
+Precedent	128.
+Precedent	The principle is laid down in Section 10 , General Clauses Act (Act No.
+Precedent	10 of 1897) also.
+Precedent	129.
+RatioOfTheDecision	Section 12 (1) lays down that in computing the period of limitation prescribed for any suit, appeal or application, the day from which such period is to be reckoned shall be excluded.
+RatioOfTheDecision	This section also embodies a principle of general application and is also embodied in Section 9 , General Clauses Act  and the same remarks apply as have been stated above with regard to Section 4 .
+Precedent	130.
+Precedent	In any case these considerations cannot affect the interpretation of Rule 7 of Chap.
+Precedent	III of the Rules of this Court read with Section 29 (2), Limitation Act .
+Precedent	131.
+Precedent	In my opinion the case in '2 All 192 (A)', which was decided when the rule prescribing the period of limitation for Letters Patent appeals was the same as mentioned in Rule 7 of  Chap.
+Precedent	III of the Rules of the <ORG> in force in 1951, was correctly decided and this also seems to be the view of <ORG> as expressed in 'AIR 1928 PC 103 (I)', where their Lordships observed:  "It appeared at one time during the course of the argument that an earlier decision of <ORG> of the High <ORG> of Allahabad when Sir <NAME> was Chief Justice -- 'Fazal Muhammad v. Phul Kuar', (A), was to the coa-trary effect; but after closer examination it was discovered by their Lordships that the case was not a decision on the Limitation Act , but upon what is known as a Letters Patent appeal, that) is an appeal under the clause in the charter constituting the <ORG>; a rule fixed the period of appeal and there was no provision like that in the Limitation Act for excluding the period of time required for getting copies of the judgment and decree."
+Precedent	There can be no doubt that <ORG> was of opinion that Section 12 (2) did not of its own force apply to the period of limitation prescri bed for Letters Patent appeals.
+Precedent	It has already been shown that Section 12 (2) cannot apply by virtue of Section 29 (2) of the present Limitation Act .
+Precedent	132.
+Precedent	I would, therefore, hold that the time required for obtaining copies of judgment and decree appealed from cannot be excluded in com puting the period of limitation fixed by the Rules of this Court for preferring an appeal under the Letters Patent unless the Court considers that the whole of such period or a part of it should be excluded on the ground that this constituted good cause for not preferring the appeal within 60 days from the date of the judgment.

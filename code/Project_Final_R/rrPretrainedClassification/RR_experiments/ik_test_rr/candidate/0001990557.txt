@@ -1,0 +1,111 @@
+Fact	PETITIONER: COMMISSIONER OF <ORG> LUCKNOW.
+Fact	Vs. RESPONDENT: <ORG>, KANPUR.
+Fact	DATE OF JUDGMENT03/02/1987 BENCH: <NAME>, <NAME> (J) BENCH: <NAME>, <NAME> (J) NATRAJAN, S. (J) CITATION: 1987 AIR 798 1987 SCR (2) 133 1987 SCC (2) 96 JT 1987 (1) 328 1987 SCALE (1)221 ACT: Income Tax Act , 1922--s.10(2)(XV)--Assessee Company- Entering into agreement with another company appointing its nominee as distributors of assessee's products--In lieu of benefit of technical knowledge assessee paid to the distrib- utors for meeting initial expenses of establishment of distributorship--Assessee claiming deduction-Payment whether capital expenditure or revenue expenditure.
+Fact	HEADNOTE: The assessee-company entered into an agreement with <ORG>, London which, inter alia, stipu- lated that the latter would permit the use by the assessee of a number of registered trade marks specified in the agreement and disclose to the approved officers of the assessee the technique, p ractices and application of specia- lised tanning processes.
+Fact	Paragraph 7 of the agreement pro- vided that the assessee would appoint <ORG>, nominee of <ORG>, as its distributors for the sale of industrial leather manufactured by it in India and the assessee would pay Rs.50,000 to the distribu- tors for meeting the initial expenses of establishing the distributorship.
+Fact	This agreement was to be in force for a period of seven years.
+Fact	Simultaneously, another agreement was entered into between the assessee and <ORG> for a period of seven years, but no reference was made therein to the obligation of the assessee to pay Rs.50,000 to the distributors.
+Fact	For the assessment year 1959-60 the assessee claimed the payment of Rs.50,000 to <ORG> as a deduction permissible under s. 10(2)(XV) of the Income Tax Act, 1922, which was rejected by the Income Tax Officer, Appellate Assistant Commissioner and the <ORG> on the ground that the said paymen t was in the nature of a capital expenditure.
+Fact	In the Reference, <ORG> allowed the claim of the assessee holding that the payment in question was a revenue expenditure.
+Fact	Dismissing the Appeal of the <ORG>, 134 HELD: 1.
+Fact	The real question is whether the payment that had been made by the assessee under the contract in question is a mere division of profits with another party or is it a payment to the other party, the amount of which is ascer- tained by reference to the profits.
+Fact	[138A-B] 2.
+Fact	No test of Universal application can be laid down.
+Fact	The aim and object of the expenditure was one of the guiding factors.
+Fact	The aim and object of incurring the expenditure in this case was the acquisition of the know-how.
+Fact	Rs.50,000 was really part of the price paid by the assessee to obtain the know-how.
+Fact	Pursuant to Paragraph 7 of the said agreement the assessee was bound to appoint <ORG>, nominee of <NAME>, as its distributor for the sale of leather manufactured by it in India.
+Fact	Paragraph 7  was an integral part of the agreement with <NAME> and was a part of the consideration for the receipt of the benefit.
+Fact	It was necessary condition of the agreement with <NAME> to appoint <ORG> and <ORG> as distributors of the assessee.
+Fact	It was perhaps done to protect the technical know-how which <NAME> was parting so that the dis- tributors would be a nominee of <NAME>.
+Fact	[138D; H; 139C-D] 3.
+Fact	Having regard to the nature of the agreement and having regard to the facts that the organisational set up under the distributorship agreement was to endure for seven years and upon the expiry of the period, the assessee had no relationship with the organisation and that the period of agreement between the assessee and the distributors was contemporaneous with the agreement between the assessee and <NAME> under which the assessee became entitled to use the registered trade marks, it must be considered to be a revenue expenditure, because it,was part of the price for the ac quisition of technical know-how and the condition of appointment was a stipulation mentioned by <NAME>.
+Fact	[139D- <CITATION_167539> ), 7 I.T.R.
+Fact	101; Countess Warwick Steampship Co. Ltd. v. <NAME>,  2 K.B.
+Fact	292 at 298; <CITATION_923991> , 27 I.T.R.
+Fact	34; Commissioner of Income-Tax, Bombay City <NAME> of India Ltd., (and vice versa), 69 I.T.R.
+Fact	692; <ORG> v. Commissioner of IncomeTax, Kerala, 62 I.T.R.
+Fact	566; <CITATION_1595234> ., 82 I.T.R.
+Fact	902; <CITATION_1671648> , 124 I.T.R.
+Fact	1; <CITATION_1598105> ., 125 I.T.R.
+Fact	293 and Commentry of Kanga and Palkhivala's Income Tax, Seventh Edition, Volume 1 page 484 to 488, referred to.
+Fact	135 JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	1163 (NT) of 1974.
+Fact	From the Judgment and Order dated 25.11.
+Fact	1971 of <ORG> in Income Tax Reference No.
+Fact	310 of 1968 <NAME>, <NAME> and Miss <NAME> for the Appellant.
+Fact	<NAME> and <NAME> for the Respondent.
+Fact	The Judgment of the Court was delivered by <NAME>  MUKHARJI, J.
+Fact	This is an appeal from the judgment and order of <ORG> of Allahabad dated 25th November, 1971.
+Fact	<ORG> had referred to <ORG> the following question for its opinion: "Whether, on the facts and in the circumstances of the case, the expenditure of Rs.50,000 was a capital expenditure which could not be allowed as a deduction under section 10(2)(xv) of the Income-tax Act, 1922?"
+Fact	The assessee carried on the business of manufacture and sale of woolen goods, cotton textiles and hides and leather products.
+Fact	The activity of tanning hides and manufacturing leather products was carried on under the name and style of <ORG> and <ORG> branches.
+Fact	For the as- sessment year 1959-60, under the Income-tax Act , the rele- vant accounting of which being the calender year ending on 31st December, 1958, the assessee had claimed a deduction of Rs.50,000 paid to Messrs <ORG> Bombay (hereinafter referred to as "<ORG> ral Supplies").
+Fact	The assessee's claim was made on the basis that the assessee was bound under an agreement with Messrs <NAME> & Co., London to pay that amount to <ORG> for meeting the initial expenditure for establishing it as distributor of the assessee's products.
+RulingByLowerCourt	The Income-tax Officer rejected the claim, and the Appellate Assistant Commissioner upheld that decision.
+Fact	The assessee went up in appeal before <ORG>.
+Fact	The <ORG> also rejected the claim of the assessee.
+Fact	At the instance of the assessee, the <ORG> made a reference on the aforesaid question to <ORG>.
+Fact	The question is whether the assessee was entitled to claim deduction in the computation of its profits and gains of business in respect of the expenditure in question, not being in the nature of capital expenditure, laid out or expended wholly or exclusively for the purpose of such business.
+Fact	In other words, on the background of the facts in controversy in this case whether it was revenu e expenditure or capital expenditure.
+Fact	This question has been discussed in the various deci- sions.
+RatioOfTheDecision	It is settled that the question must be viewed from the practical point of view.
+RatioOfTheDecision	There are deluge of cases and no principle can be laid out with substantial accuracy which will be applicable in all the cases.
+RatioOfTheDecision	The answer to the question must depend on the facts and circumstances of each case on the application of the principles of law as laid down by the courts.
+Fact	The agreement in question in this case between the assessee with <NAME> stipulated that <NAME> would permit the use by the assessee of a number of registered trade marks specified in the agreement and further disclose and make known to the approved officers of the assessee the technique, practices and application of specialised tanning processes.
+Fact	Besides providing for the provision of technical supervision by <NAME> and payment by way of salary, travelling expenses and mainte- nance to the personnel sent out by it to India, the ag ree- ment also provided that in the event of liberalisation of imports <ORG> would limit its export to India of certain products.
+Fact	The assessee undertook to pay to <ORG> technical fees calculated at 5% on the selling price of the products by the processes disclose to it.
+Fact	Paragraph 7 of the agreement was to the following offect:  "The Second participant (the assessee) agrees to appoint <ORG>, Army and Navy Buildings, Mahatma Gandhi Road, Bombay-1, India a nominee of the first participant (<NAME>) as distrib- utors of the second participant for the sate of industrial leather manufactured by the second participant in India for the period of this agreement at a discount of 15% (fifteen per cent) on the prices at which <ORG> covered by this agreement are sold to textile mills and other consumers.
+Fact	In addition the second participant will pay Rs.50,000 (Rs.
+Fact	Fifty thousand only) to the distributors for meeting the initial expenses of establish ing the distributoship of the second participant on the express understanding that the first participant will not part with his interest in <ORG> with- out the prior approval in writing of the second participant."
+Fact	Seven years was the period of the agreement as agreed.
+Fact	It is clear from paragraph 7 as aforesaid read in the background of the entire facts that the assessee was obliged to appoint <ORG>, nominee of <NAME>, as its distributors for the sale of industrial leather manufactured by it in India.
+Fact	The assessee was obliged by the aforesaid agreement to pay Rs.50,000 to the distributorship.
+Fact	An agreement was entered into by the assessee with <ORG> in which after referring to the agreement with <NAME> it was stipulated that the distributors would receive a discount of 15% of the sale price fixed by the assessee and that the agreement would extend for the period of seven years.
+Fact	Significantly, no reference was made to th e obligation of the assessee to pay Rs.50,000 to the distributors, a condition which was men- tioned in the agreement with <NAME> alone.
+RatioOfTheDecision	The obligation to pay Rs.50,000 to the distributors was one of the conditions subject to which the assessee became entitled to the use of the registered trade marks and to the disclo- sure of the technical practices and application of the specialised processes to be supplied by <NAME>.
+RatioOfTheDecision	This clause regarding appointment contained in paragraph 7 formed part and integral part of the agreement and was a considera- tion for the receipt of the benefit from <NAME> under the agreement.
+RatioOfTheDecision	It was a condition to get the technical knowledge of the know-how that their nominee should be appointed as distribu- tor and for the setting up of the distributor's business rupees fifty thousand was required to be paid.
+RatioOfTheDecision	This was in essence an integral part of the bargain for the acquisition of the technical knowledge to have this particular distribu- tor.
+RatioOfTheDecision	Numerous decisions  have dealt with this question.
+Precedent	<CITATION_167539> ), 7 I.T.R.
+Precedent	101 <ORG> in England dealt with this question and <NAME>, L.J.
+Precedent	at page 108 of the report observed in dealing with the question which was similar to the present one that the real question is, is the payment that has to be made by the trader under the contract in question a mere division of profits with another party or it is a payment to the other party, the amount of which is ascertained by reference to the profits?
+Precedent	The Lord Justice observed that it was a difficult question.
+Precedent	In that case the Lord Justice held that the payment was made to earn the profit.
+RatioOfTheDecision	It was condition precedent to the acquisition of the know how that the payment had to be made for installation of the set up of the distribution arrangement.
+Precedent	<NAME>, J. in the case of Countess <ORG> v. <NAME>, [1924] 2 K.B.
+Precedent	292 at 298 observed that it is very difficult to lay down any general rule which is both sufficiently accurate and sufficiently exhaustive to co ver all or even a great number of possible cases.
+RatioOfTheDecision	Only broad tests could be laid down.
+Precedent	Some of such tests were laid down by this <ORG> in <CITATION_923991> , 27 I.T.R.
+Precedent	34.
+RatioOfTheDecision	This <ORG> discussed the broad principles at page 45 of the report.
+RatioOfTheDecision	It is not neces- sary to reiterate all these principles but one of the tests was that the aim and object of the expenditure was one of the guiding factors.
+RatioOfTheDecision	The aim and object of incurring the expenditure in this case was the acquisition of the know- how.
+Precedent	This <ORG> again in the case of Commissioner of Income- Tax, Bombay City <NAME> of India Ltd. (and vice versa), 69 I.T.R.
+Precedent	692 discussed the principles application in determin- ing whether the expenditure in such circumstances was a capital or a revenue in nature.
+Precedent	See also <CITATION_1902179> , 62 I.T.R.
+Precedent	566; <CITATION_1595234> ., 82 I.T.R.
+Precedent	902; <CITATION_1671648> , 124 I.T.R.
+Precedent	1.
+Precedent	This <ORG> observed what was material to consider was the nature and the advantage in obtaining the asset in a commercial sense.
+Precedent	Also see <ORG> <ORG> v. Com- missioner of Income-Tax, U.P., 125 I.T.R.
+Precedent	293.
+Precedent	These principles have been summarised in the Commentary of <NAME> and Palkhivala's Income Tax, Seventh Edition, Volume 1 page 484 to 488.
+RatioOfTheDecision	But the cases referred emphasise that no test of universal application can be laid down.
+RatioOfTheDecision	The question posed in this appeal has to be decided bearing the aforesaid principles in mind.
+RatioOfTheDecision	It is clear that Rs.50,000 was really part of the price paid by the assessee to obtain the know-how.
+RatioOfTheDecision	It is clear that pursuant to para- graph 7, the assessee was bound to appoint <ORG>, nominee of <NAME>, as its distrib- utor for the sale of leather manufactured by it in India.
+RatioOfTheDecision	Contemporane- ously, an agreement was entered into by the assessee with <ORG> in which after referring to the agreement with <NAME> it was stipulated that the distributors would receive a discount of 15% of the sale price fixed by the assessee and that the agreement would ex tend for a period of seven years.
+RatioOfTheDecision	Significantly, no refer- ence was made to the obligation of the assessee to pay Rs.50,000 to the distributors, a condition which was in the agreement with <NAME> alone.
+RatioOfTheDecision	It is clear that paragraph 7 referred to hereinbefore was an integral part of the agreement with <NAME> and was a part of the consideration for the receipt of the benefit.
+RatioOfTheDecision	It is ,not possible to find out the reasons which persuaded <NAME> to insist upon the appointment of <ORG> as distributors of the assessee.
+RatioOfTheDecision	It was a necessary condition of the agreement with <NAME>.
+RatioOfTheDecision	It was perhaps done to protect the technical know- how which <NAME> was parting so that the distribu- tors would be a nominee of <NAME>.
+RatioOfTheDecision	Having regard to the nature of the agreement and having regard to the facts that the organisation set up under the distributorship agreement was to endure for seven years and upon the expiry of the period, the assessee had no relation- ship w ith the organisation and that the period of agreement between the assessee and distributors was contemporaneous with the agreement between the assessee and <NAME> under which the assessee became entitled to use the regis- tered trade marks, it must be considered to be a revenue expenditure.
+RatioOfTheDecision	Considerable emphasis has been laid by the revenue on the facts that in paragraph 7 of the agreement with <NAME>, it was mentioned that Rs.
+RatioOfTheDecision	50,000 would be paid to the distributors for meeting the initial ex- penses.
+RatioOfTheDecision	We are of the opinion that in the facts and circum- stances of the case, this was a revenue expenditure because it was part of the price for the acquisition of technical know-how and the condition of the appointment was a stipula- tion mentioned by <NAME>.
+RatioOfTheDecision	In the premises we are of the opinion that <ORG> was right in the view it took.
+RulingByPresentCourt	The appeal therefore fails and is accordingly dismissed with costs.
+RulingByPresentCourt	<ORG> dis- missed.

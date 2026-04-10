@@ -1,0 +1,46 @@
+Fact	JUDGMENT <NAME>, C.J.
+Fact	1.
+Fact	The question submitted for the opinion of this <ORG>, as stated by Mr. Justice <NAME>, is as follows:  In this case a Hindu widow inherited the property of her <NAME>, taking therein the estate of a Hindu widow.
+Fact	She afterwards married a second <NAME>, not a Hindu, in the form provided by Act III of 1872, having first made a declaration, as required by Section 10 of the Act, that she was not a Hindu.
+Fact	The question is whether, by that marriage, she forfeited her interest in her first <NAME>'s estate in favour of the next heir.
+Fact	2.
+Fact	I think that the decision in <NAME> v. <NAME> 3 W.R. 306 is wrong, and I agree with the learned Judges who referred the question that it must be answered in the affirmative.
+Fact	It is, I think, concluded by Section 2 of the Hindu Widow's Marriage Act , XV of 1856, and I do not think it necessary to express any opinion on the other points which have been mentioned in argument and which are discussed in the judgment of the Judges who constituted the ref erring Bench.
+Fact	3.
+RulingByLowerCourt	The first two sections of the Act are as follow:  1.
+RulingByLowerCourt	"No marriage contracted between Hindus shall be invalid, and the issue of no such marriage shall be illegitimate, by reason of the woman having been previously married or betrothed to another person who was dead at the time of such marriage, any custom and any interpretation of Hindu law to the contrary notwithstanding."
+RulingByLowerCourt	2.
+Fact	"All rights and interests which any widow may have in her deceased <NAME>'s property by way of maintenance or by inheritance to her <NAME> or to his lineal successors, or by virtue of any will or testamentary disposition conferring upon her, without express permission to re-marry, only a limited interest in such property, with no power of alienating the same, shall, upon her re-marriage, cease and determine as if she had then died; and the next heirs of her deceased <NAME> or other persons entitled to the property on her death shall thereupon succeed to the same."
+RatioOfTheDecision	4.
+RatioOfTheDecision	Section 1 no doubt relates to marriages between  Hindus, but Section 2 includes all widows who are within the scope of the Act, that is to say, all persons who being Hindus become widows, and it must follow from this that if any such widow marries, she is deprived by the section of the estate which she inherited from her Hindu <NAME>.
+RatioOfTheDecision	The words are clear--"All rights which any widow may have in her deceased <NAME>'s property by inheritance to her <NAME>;" the estate which a Hindu widow takes upon her <NAME>'s death in his property is an estate which she takes by inheritance to him, and such estate is expressly determined by the section.
+RatioOfTheDecision	5.
+Fact	My answer to the question is, that by marriage the widow forfeited her estate in her first <NAME>'s property in favour of the next heir.
+RulingByLowerCourt	6.
+RulingByLowerCourt	The result will be that the appeal must be allowed and the decree of <ORG> reinstated with costs of the three hearings in this <ORG> and the costs of the Lower Appellate <ORG>.
+RulingByLowerCourt	<NAME>, J.
+RulingByLowerCourt	7.
+RulingByLowerCourt	I agree.
+RulingByLowerCourt	I think it unnecessary to say more, as I expressed my views in mak ing the reference.
+RulingByLowerCourt	<NAME>, <NAME>8.
+RulingByLowerCourt	I agree.
+RulingByLowerCourt	<NAME>, <NAME>9.
+RulingByLowerCourt	I agree in the answer which the Chief Justice has given to the question referred.
+RulingByLowerCourt	<NAME>, <NAME>10.
+RatioOfTheDecision	The inclination of my own opinion has been always against the view expressed by my two learned colleagues who joined with me in referring this case to <ORG>, and I still have doubts which the further argument has failed entirely to remove.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Act XV of 1856 is entitled an Act to remove all legal obstacles to the marriage of Hindu widows, and it provides for such marriages according to the rites and ceremonies current amongst Hindus.
+RulingByPresentCourt	The widow in the case before us ceased to be a Hindu by a public declaration abjuring that religion, and her re-marriage was under Act III of 1872, entitled "an Act to provide a form of marriage in certain cases."
+RulingByLowerCourt	12.
+RulingByLowerCourt	That Act was passed by the <ORG> expressly for cases of this description.
+RulingByLowerCourt	If the widow had merely renounced the Hindu religion, admittedly she would not have ceased to hold her deceased <NAME>'s  estate.
+RulingByLowerCourt	She could not, after her conversion to another religion, confer on him what are known in Hindu Law as spiritual benefits, but it is said she would still be regarded as a part of her <NAME>'s body, and as such in possession of his wordly properties.
+RulingByLowerCourt	It has been contended that her title is only during her widowhood, durante viduitate, in consequence of the principle under which she is recognized as proprietress after her <NAME>'s death.
+RulingByLowerCourt	It is difficult to understand how that legal fiction can be maintained if after her <NAME>'s death the widow were to become a Muhammadan or Christian.
+RulingByLowerCourt	The Statute, however (Act XXI of 1850), has provided that a change of religion shall not operate as a forfeiture, and according to the opinions, in which I am unable to agree, a re-marriage not as a Hindu would have that effect.
+RulingByLowerCourt	We have also the anomaly that, although she may change her religion and cease to be a Hindu, so long as she remains a widow, she continues as a Hindu to hold her <NAME>'s estate that she does  not forfeit this by leading a notoriously unchaste life see <CITATION_1646305> .
+RulingByLowerCourt	5 Cal.
+RulingByLowerCourt	776 but that if she re-marries she forfeits, because she ceases to be a widow, and because the conditions under which she retained her <NAME>'s estate as part of his body no longer exist.
+RulingByLowerCourt	I have the misfortune of being unable to agree that Section 2 , Act XV of 1856, is of general application to all Hindu widows remarrying, for I read it as being limited only to the cases provided for by that Act, viz., Hindu widows re-marrying as Hindus under Hindu law as provided by that Act.
+RulingByLowerCourt	Having still these doubts regarding the views expressed by my learned colleagues, I regret to be unable to concur in the judgment delivered.
+Fact	A.A.C.

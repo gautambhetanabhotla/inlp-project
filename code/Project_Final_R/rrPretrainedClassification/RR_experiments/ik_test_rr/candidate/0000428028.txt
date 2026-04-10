@@ -1,0 +1,70 @@
+Argument	<NAME>, J.
+Argument	1.
+Argument	This is a reference under s. 256(1) of the I.T.
+Fact	Act, 1961 (hereinafter referred to as "the Act").
+Fact	2.
+Fact	The short question that falls for our consideration in this reference whether the bound and commission paid by the assessee to its employed during the accounting year ending on March 31, 1964, is covered by the expression "benefit or amenity or perquisite" used in s. 40(c)(iii) of the Act, and, therefore, can be disallowed as a revenue expense under the Act.
+Fact	3.
+Fact	The assessee is a private limited company carrying on business in dyes and chemicals.
+Fact	If paid to is employees salaries, dearness allowance and bonus.
+Fact	Some of the employees were also paid commission and bound There was no written agreement for the payment of the bonus or commission, and the percentage of commission paid to the employees varied from year to year and from employee to employee.
+Fact	In the course of the assessment proceedings for the assessment year 1964-65, the relevant previous year being the year ending on March 31,  1964, the <ORG> called for the details of the salary, dearness allowance, bound and commission paid to the employees who has been paid in all more than Rs.
+Fact	7,500 per annum.
+Argument	The <ORG> took the view that the provisions of s. 40(c)(iii) were applicable to the said payments, and proposed to disallow a portion in excess of one-fifth of the total emoluments.
+Argument	The assessee-company contended that the provisions of the section were not applicable to the said payments, since the same were in cash and were not covered by the expression "benefit or amenity or perquisite".
+Argument	The <ORG> rejected the said submission and calculated the excess in the case of the 22 employees to who, the payments were made.
+Fact	The total amount worked out by the <ORG> was Rs.
+Fact	18,914.
+Fact	He, however, took one-twelth of the said amount, viz., Rs.
+Fact	4,970( ?
+Fact	), the relevant provision being operative from February, 1964, and the assessee's accounting year being the year ending on March 31, 1964.
+Fact	4.
+Fact	The assessee appealed to the <ORG>.
+Fact	In the appeal, the <ORG> took the view  that the language of the said provision as applicable to the relevant assessment year 1963-64 had undergone a change, since by an amendment the word "remuneration" was dropped therefrom.
+Fact	This indicated, according to him, the intention of the <ORG> to exclude cash emoluments from the expression "benefit or amenity or perquisite".
+Fact	In this view of the matters, the <ORG> restricted the disallowance to Rs.
+Fact	781, being the benefit which was given by way of the use of the company, s car and the reimbursement of the medical expenses, and deleted the balance of Rs.
+Fact	18,133.
+Argument	5.
+Argument	Against the order of the <ORG> the department went in appeal before the <ORG> and urged before it that the expression "benefit or amenity or perquisite" used in the said s. 40(c)(iii) would include payment by way of bound and commission.
+RulingByLowerCourt	The <ORG>, accepting the reasoning of the <ORG>, affirmed the finding and dismissed the appeal.
+Fact	Thereafter, the department applied to the <ORG> for making a reference to this court, and by its order dat ed the November, 28 1970, the <ORG> referred the following question of law :  "Whether, on the facts and in the circumstances of the case and on a proper interpretation of section 40(c)(iii) of the Income-tax Act, 1961, the sum of Rs.
+Fact	18,133 was not deductible in computing the income under the head 'profits and gains of the business' ?"
+RatioOfTheDecision	6.
+RatioOfTheDecision	That is how the present reference has come up before use for final hearing.
+RatioOfTheDecision	Since the answer to the question depends upon the interpretation of the phrase "any benefit or amenity or perquisite" occurring in the said sub-cl.
+RatioOfTheDecision	(iii) of cl.
+RatioOfTheDecision	(c) of s. 40 of the Act, it will be helpful for a correct conclusion on the point to know the history of the said clause.
+Statute	When the Finance Act , 1963, for the first time added the said cl.
+Statute	(c)(iii) to s. 40 which came into effect from April 1, 1963, it ran as follows :  "(iii) any expenditure which results directly or indirectly in the provision of any remuneration or benefit or amenity to an employee who is a citizen of India, to the ex tent such expenditure exceeds the amount calculated at the rate of five thousand rupees per months for any period of his employment after the day of February 28, 1963 :  Provided that in computing the aforesaid expenditure, any payment by way of gratuity or any sums comprised in the transferred balance of an employee participating in a recognised provident fund referred to in clause (vii) of sub-section (1) of section' 17, or the amount of any compensation referred to in clause (i) or any payment referred to in clause (ii) of sub-section (3) of that section shall not be taken into account."
+Statute	7.
+Statute	The said sub-clause was substituted by the following sub-clause by the Finance Act , 1964, with effect from April 1, 1964 :  "(iii) any expenditure incurred after the day of February 2, 1964, which results directly or indirectly in the provision of any benefit or amenity or perquisite, whether convertible into money or not, to an employee (including any sum paid by the company in respect of any obligation which but for  such payment would have been payable by such employee), to the extent such expenditure exceeds one-fifth of the amount of salary payable to the employee for any period of his employment after the aforesaid date :  Provided that in computing the aforesaid expenditure any payment by way of gratuity of the value of any travel concession or assistance referred to in clause (5) of section 10 or passage moneys or the value of any free or concessional passage referred to in sub-clause (i) or any payment of tax referred to in sub-clause(vii) of clause (6) of that section or any sum referred to in clause (vii) of sub-section(1) of section 17 or in clause (v) of sub-section(2) of that section or the amount of any compensation referred to in clause (i) or any payment referred to in clause (ii) of sub-section(3) of that section or any payment referred to in clause(iv) or clause (v) or any expenditure referred to in clause (ix) of sub-section (1) of section 36 shall not be taken into account :  Provided further that noth ing in this sub-clause shall apply to any expenditure which results directly or indirectly in the provision of any benefit or amenity or perquisite to an employee whose income chargeable under the head 'Salaries' is seven thousand five hundred rupees or less."
+Statute	8.
+RatioOfTheDecision	What is relevant for our purpose is the language of the clause as it stood amended from April 1, 1964, since we are concerned in the present case with assessment year 1964-65, the relevant previous year of the assessee being the year ending on March 31, 1964.
+RatioOfTheDecision	It is thus apparent that by the amendment of the Finance Act , 1964, the word "remuneration" was dropped from the relevant phrase, giving an indication that the legislature did not intend to include cash emoluments in any of the words "benefit" or "amenity" or "perquisite".
+RatioOfTheDecision	This is also clear from the the fact that by the said amendment the <ORG> also added the words "whether convertible into money or not".
+RatioOfTheDecision	If the <ORG> has intended to include in any of the said words "benefit", "am enity" and "perquisite" cash to the employees, the question of the cash being convertible into money or not would not arise, that was yet another pointer that the <ORG> has no intention to include cash or money paid directly to the employees, in the said sub-clause, yet another indication of the said intention of the <ORG> was the fact that in sub-cl.
+RatioOfTheDecision	(i) of the said cl.
+RatioOfTheDecision	(c) of s. 40 , the word "remuneration" was retained along with the other words "benefit" and "amenity" even after the aforesaid amendment of sub cl.
+RatioOfTheDecision	(iii).
+RatioOfTheDecision	This also further showed that the <ORG> was conscious of the distinction between the relevant words and keeping in mind the said distinction the <ORG> has deliberately chosen to delete the expression" remuneration" from sub cl.
+RatioOfTheDecision	(iii).
+RatioOfTheDecision	All these factors show that the expression "any benefit or amenity or perquisite whether convertible into money or not" used in the said sub-cl.
+RatioOfTheDecision	(iii) was not intended to include cash or money paid directly to the employee.
+RatioOfTheDecision	This court  has taken this view of the said provisions consistently so far, and it also appears that <ORG> has upheld the said view.
+RatioOfTheDecision	9.
+RatioOfTheDecision	We may also point out that at least two other <ORG> have taken a similar view of the said provisions.
+RulingByLowerCourt	The Calcutta <ORG> in a decision in <CITATION_1769887> .
+RulingByLowerCourt	(1979) 119 ITR 431, for similar reasons, has held that the amounts paid as overseas allowance, managing allowance, devaluation allowance and transport allowance to the employees did not fall within the expressions "benefit", "amenity" or perquisite used in the said provisions and, therefore, were deductible in computing the business profit of the assessee-company.
+RulingByLowerCourt	Similarly, the Madras <ORG> in <CITATION_823444> .
+RulingByLowerCourt	(1980) 125 ITR 150, relying upon the aforesaid decision of the Calcutta <ORG> as well as the decision of <ORG> in a batch of petitions arising from the decisions of this court, has taken the same view.
+RulingByLowerCourt	Before the Madras <ORG> the question was whether the cash payment made  as leave allowance was salary or benefit or amenity or perquisite and whether their disallowance by the <ORG> was proper.
+RatioOfTheDecision	<ORG> took the view that in order to term a payment as a perquisite it has to be a payment other than a cash payment in pursuance of a contract of service.
+RatioOfTheDecision	As the payment in that case was cash payment, the same did not constitute perquisite and hence could not be disallowed under s. 40(c)(iii) or s. 40(a)(v) of the Act.
+RatioOfTheDecision	We are, therefore, of the view that the finding recorded by the <ORG> that the amount paid by way of bonus and commission to the employees was not covered by the provisions of sub-cl.
+RatioOfTheDecision	(iii) of cl.
+RatioOfTheDecision	(c) of s. 40 of the Act and, therefore, the same could not have been disallowed as a revenue expenditure by the <ORG> is correct and proper.
+RatioOfTheDecision	10.
+RatioOfTheDecision	In the circumstances we answer the question as follows :  That the said amount would be deductible since it is not covered by the provisions of s. 40(c)(iii) of the Act.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The assessee to get the costs from the revenue.

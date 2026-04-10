@@ -1,0 +1,56 @@
+RatioOfTheDecision	JUDGMENT <NAME>, J.
+RatioOfTheDecision	1.
+Fact	This appeal under Section 110-D of the Motor Vehicles Act.
+Fact	1939, (hereinafter referred to as the Act), is from a judgment of <ORG>, Shimoga, (hereinafter referred to as the <ORG>), awarding compensation to respondent 1 herein for the death of his son in an automobile accident.
+Fact	2.
+Fact	The appeal is by the insurer of the motor lorry which caused the death of respondent 1's son.
+Argument	Neither the owner nor the driver of that lorry, has presented any appeal from that judgment of the <ORG>.
+Argument	In the Memorandum of appeal, the appellant has urged grounds which relate to negligence of the driver of the lorry and the quantum of compensation awarded by the <ORG>  3.
+RatioOfTheDecision	Before going into the merits of those grounds, the appellant who was the insurer, should satisfy that it is open to him to urge those grounds.
+RatioOfTheDecision	<CITATION_1753520> .
+Fact	(1971 (1) Mys LJ 300) = (AIR 1971 Mys 207) this Court held that an insurer cannot urge in an appeal any ground which he could not urge  before the <ORG>.
+Fact	Sub-section (2) of Section 96 of the Act provides, inter alia, that an insurer to whom notice of bringing of any action for compensation in respect of third partv risks is given shall be entitled to be made a party to that action and to defend it on any of the grounds specified in Clauses (a) to (c) of that subsection.
+Fact	Those grounds do not include negligence of the driver of the vehicle insured or the quantum of compensation for death or injury caused by.
+Fact	or arising out of, the use of that vehicle.
+Argument	In <ORG> case, this Court referred to Sub-section (2) of Section 96 and held that it is not open to the Insurer to urge before the <ORG> that there was no negligence on the part of the person driving the vehicle that caused death or injury or that the amount of compensation claimed is excessive.
+Argument	4.
+Argument	However, Mr. <NAME> learned counsel for the appellant referred to the following observations of <ORG> in <CITATION_135147> , :  ".....  the insurer has the right, provided he has reserved it by the policy, to defend the action in the name of the assured and if he does so.
+Argument	all defences open to the assured can then be urged by him".
+Argument	5.
+Precedent	Following the above observations of <ORG>, this <ORG> observed in <CITATION_1916055> .
+Precedent	(AIR 1966 Mys 346) that Section 96 of the Act preserves for the insurer the right to defend the action in the name of the assured and to raise all defences open to the assured if that right has been preserved to him under the Insurance Policy.
+Fact	6.
+Fact	Reiving on the above observations, Mr. <NAME>.
+Fact	contended that it was open to the appellant to urge in this appeal all the contentions which the insured had unsuccessfully urged before the <ORG>,  7.
+RatioOfTheDecision	From the above decisions it is clear that the insurer can urge all the defences open to the insured, only when the insurer defends the action in the name of the insured.
+RatioOfTheDecision	But, in the present case it has not been shown that before the <ORG> the appellant defended the a ction in the name of the insured.
+Fact	On the other hand, the insured (the owner of the lorry) and the driver of the lorry who were respondents 1 and 2 before the <ORG> had filed their objections and the appellant had filed a separate statement of objections.
+Fact	Unless the appellant had defended before the <ORG>, the action in the name of the insured, the only defences which it (the appellant) could urge before the <ORG> and which it can urge in this appeal, are those specified in Clauses (a) to (c) of Sub-section (2) of Section 96 of the Act.
+RulingByLowerCourt	8.
+RulingByLowerCourt	However.
+RulingByLowerCourt	Mr. <NAME> contended that Sub-section (2-A) inserted in Section 110-C of the Act by the Motor Vehicles (Amendment) Act .
+RulingByLowerCourt	1969, enables the insurer to defend an action for compensation on all or any of the grounds available to the person against whom the claim has been made end that in on appeal under Section 110-D the insurer can urge all the grounds that could be urged by the person against whom the claim has been made, had he preferred an appeal.
+RulingByLowerCourt	Sub -section (2-A) of Section 110-C reads :--  "(2-A) Where in the course of any inquiry, <ORG> is satisfied that--  (i) there is collusion between the person making the claim and the person against whom the claim is made, or  (ii) the person against whom the claim is made has failed to contest the claim, it may, for reasons to be recorded by it in writing, direct that the insurer who may be liable to in respect of such claim, shall be impleaded as a party to the proceeding and the insurer so impleaded shall thereupon have the right to contest the claim on all, or any of the grounds that are available to the person against whom the claim has been made."
+Fact	The above sub-section empowers an insurer to contest the claim for compensation on all or any of the grounds that are available to the person against whom the claim has been made, if the following two conditions are satisfied :  "(i) Collusion between the person making the claim and the person against whom the claim is made; or the person against who m the claim is made, has failed to contest the claim; and  (ii) The <ORG> has, for reasons recorded in writing, directed that the insurer shall be impleaded as a party to the proceeding".
+RatioOfTheDecision	9.
+RatioOfTheDecision	Unless the above conditions are satisfied, the insurer cannot contest the claim on any ground other than those specified in Clauses (a) to (cl of Sub-section (2) of Section 96 of the Act.
+RatioOfTheDecision	10.
+Argument	Mr. <NAME> contended that the above conditions were satisfied in the present case.
+Argument	According to him, there was collusion between respondent 1 (who claimed compensation) on the one hand and respondents 2 and 3 (the owner and the driver of the lorry) on the other.
+Argument	11.
+RatioOfTheDecision	There is absolutely no material to infer such collusion.
+RatioOfTheDecision	The owner and the driver of the lorry who were respondents 1 and 2 before the <ORG>, had filed their objections to the petition and resisted the claim.
+RatioOfTheDecision	The driver of the lorry gave evidence to the effect that the accident was not due to his negligence .
+RatioOfTheDecision	12.
+RatioOfTheDecision	In the present case it cannot also be said t hat the person against whom the claim was made, failed to contest the claim.
+RatioOfTheDecision	As seen earlier, the owner and the driver of the lorry did contest the claim end also adduced evidence in support of their defence.
+RatioOfTheDecision	The appellant (the insurer) had been impleaded as a party along with the owner and the driver of the lorry when the petition was presented, and this is not a case in which the <ORG> directed that the insurer should be impleaded as a party.
+RatioOfTheDecision	There was no occasion for the <ORG> recording its reasons in writing for directing the insurer to be impleaded as a party.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Thus, none of the conditions specified in Sub-section (2-A) of Section 110-C has been fulfilled in this case.
+RatioOfTheDecision	Hence, the appellant cannot be permitted to urge in this appeal that there was no negligence on the part of the driver of the lorry or that the amount of compensation awarded by the <ORG>, was excessive.
+Fact	In the memorandum of appeal, the appellant has not urged any of the grounds specified in Clauses (a) to (c) of Sub-section ( 2) of Section 96 of the Act.
+RulingByLowerCourt	14.
+RulingByLowerCourt	As the appellant cannot be permitted to urge any of the grounds stated in the memorandum of Appeal, this appeal fails and is dismissed in limine and with costs.
+RulingByLowerCourt	Advocate's fee Rs.
+RulingByLowerCourt	100/-.

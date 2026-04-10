@@ -1,0 +1,33 @@
+Fact	<ORG>, Offg.
+Fact	C.J.
+Fact	1.
+Fact	It has been found as a fact by both the lower <ORG>, and the appellant's pleader admits it to have been so found, that the plaintiff took his mortgage of the 20th June 1883, with notice of the defendant's possessory mortgage of the 17th January 1881.
+Fact	Both these instruments were for sums of money below Rs.
+Fact	100, and both were optionally registrable, that of the 20th June 1883, being, in fact, registered, and that of the 17th January 1881, being unregistered.
+Fact	2.
+Fact	The question then arises, whether the plaintiff, having taken his document of the later date with knowledge of the prior title of the defendant and of his possession, in virtue of it, of the land to which the suit relates, is entitled to enforce the provisions of Section 50 of the Registration Act, 1877?
+Fact	In support of the contention that he is, his pleader referred to <CITATION_7556> .
+Fact	5 Mad.
+Fact	73; <CITATION_331914> .
+Fact	6 Mad.
+Fact	88 and Kota Muthanna Chetti v. <ORG> 6 Mad.
+Fact	174.
+Fact	On the other side our attention w as called to <NAME> v. <NAME> I.L.R.
+Fact	5 Cal.
+Fact	336; <CITATION_921516> .
+Fact	7 Cal.
+Fact	753; <NAME> v. <NAME> 8 Cal.
+Fact	597 and <NAME> v. <NAME> 10 Cal.
+Fact	1073 and <NAME> v. <NAME> 11 Cal.
+Fact	667.
+Fact	Putting aside any question of equitable estoppel, such; as is so forcibly described by Lord <NAME> in <ORG> v. Barry L.R.
+Fact	7 H.L.
+Fact	135 it seems to me that where one person takes a possessory mortgage of property with full knowledge and notice that another is already in possession of such property under an earlier instrument of a similar kind, he cannot be said to be acting in good faith (see Story's Equity by Grigsby, Section 397, and 2 White and Tudor, pp.
+Fact	45, 46), and that the principle enunciated in Section 53 of the Transfer of Property Act is applicable to such a transaction.
+RulingByLowerCourt	In other words, in such a condition of circumstances, the condition of things is that qua the prior title, though created by an unregistered instrument, the status of  the second mortgagee under his registered document is affected by his own <NAME> fides; and as, on the one hand, the first mortgagee might avoid it on the ground that it was executed in fraud of him, so, on the other, the second mortgagee cannot, on the strength of his own fraud, pray in aid the provisions of the Registration Law, to give preference to an instrument which records a transaction that in its inception, being fraudulent, was a nudum pactum.
+RulingByLowerCourt	In this respect of the matter such document would not be a " document "in the sense of Section 50 of the Registration Act, which term, as therein used, I understand to mean a document legally enforcible, and I am confirmed in this opinion by the remarks of Sir <NAME>, C.J., in <CITATION_1547594> 1 B.L.R.F.B.
+Precedent	82.
+Precedent	This being the view I take of the question raised by the second plea in appeal, the <ORG> below were, in my opinion, right in giving effect to the defendant's deed, and I dismiss this appeal with costs.
+Precedent	<NAME>, J.
+Precedent	3.
+RulingByPresentCourt	I concur.

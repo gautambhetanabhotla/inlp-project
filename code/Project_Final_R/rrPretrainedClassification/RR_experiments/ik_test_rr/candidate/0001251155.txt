@@ -1,0 +1,68 @@
+Fact	<NAME>, J.
+Fact	1.
+Fact	This is a judgment-debtor's appeal.
+Fact	The decree-holder respondent held a simple money decree in execution of which he attached the two houses in dispute.
+Fact	The judgment-debtor raised an objection to the attachment and sale of the houses in dispute upon the ground that he was an agriculturist and under Section 60(1)(c), Civil P.C., the houses were not liable to attachment and sale.
+Fact	It appears that this decree was put in execution for the first time in 1936 and during the pendency of the execution proceedings an application was made by the judgment-debtor under Section 5, U.P.
+Fact	Agriculturists' Relief Act, by which he prayed for instalments.
+Fact	He prayed, that the decree in question might be converted into a decree for payment by instalments.
+Fact	At that time, the houses in dispute now had been attached by the decree, holder.
+Fact	Counsel for the judgment-debtor made a statement in Court agreeing to the continuance of the attachment of the two houses along with other properties and stating that in defaul t of payment of the decretal amount the two houses and the other property mentioned therein might be sold.
+Fact	The decree-holder also made a statement to the effect that the judgment-debtor was an agriculturist.
+Fact	On the basis of the said two statements the <ORG> passed the following order:  Judgment-debtor is allowed to pay the money in four yearly instalments payable in <NAME> 1938, <NAME> 1939, <NAME> 1940 and <NAME> 1941; on failure to pay any two consecutive instalments the balance due shall become realisable.
+Fact	The two houses attached and plots 7/1 and 7/2 of <NAME> of village Hirapur, pargana Zafrabad shall remain attached and charged till realization....  2.
+Fact	This order was passed on 10th April 1937.
+RulingByLowerCourt	The executing <ORG> allowed the objection of the judgment-debtor and ordered that the property be released from attachment.
+RulingByLowerCourt	The decree-holder went in appeal and.
+RulingByLowerCourt	the learned Civil Judge reversed the order of the executing <ORG> and dismissed the objection of the judgment-debtor.
+RulingByLowerCourt	The ground upon which the judgme nt-debtor's objection has been dismissed by the lower appellate Court is that in consequence of the consent order mentioned above, the judgment-debtor was estopped from taking an objection as to the saleability of the houses.
+RulingByLowerCourt	I asked Mr. <NAME>, counsel for the appellant, to satisfy me upon the point whether on evidence on the record the judgment-debtor could be said to be an agriculturist within the meaning of Section 60, Civil P.C.
+RulingByLowerCourt	Mr. <NAME> has frankly conceded that there is not sufficient evidence in support of his case upon this point.
+Fact	He has cited <NAME> v. <NAME> ('27) 14 A.I.R.
+Fact	1927 Mad.
+Argument	342 and has urged that the chief means of livelihood of the judgment-debtor is the criterion for considering whether he is an agriculturist within the meaning of Section 60, Civil P.C.
+Argument	He has urged that the position, was not properly appreciated by the Courts below and, therefore, the case should be sent back for rehearing.
+RatioOfTheDecision	I am not disposed to accede to this request.
+RatioOfTheDecision	In the first  place, I am not satisfied that there was any misapprehension as regards the true meaning of the word "agriculturist" in the <ORG> below.
+RatioOfTheDecision	Secondly, it is not necessary to go into this matter as the judgment of the lower appellate Court proceeds upon the ground that the judgment-debtor was estopped from raising the question that he was an agriculturist within the meaning of Section 60, Civil P.C., by reason of the consent order, dated 10th April 1937 and as, in my opinion, the view taken by the lower appellate Court is correct.
+RatioOfTheDecision	3.
+Fact	The case in <NAME> v. <NAME> ('20) 7 A.I.R.
+Fact	1920 Cal.
+Fact	424 is directly in point.
+Fact	In that ease, the parties, entered into a compromise by which the judgment-debtor agreed that the amount claimed would be paid in certain instalments by him and that on default the creditor would be entitled to realise the same from movable and immovable properties of the judgment-debtor and from his person, and that the property attached would remain charged for the decretal amount.
+Fact	Among the p roperties in question, in that case were the dwelling houses of the judgment-debtor who was an agriculturist.
+RulingByLowerCourt	On the basis of the compromise a decree was passed by the <ORG> and it was put into execution by the decree-holder by attachment and sale of those properties.
+RulingByLowerCourt	Thereupon the judgment-debtor raised an objection that the properties could not be attached and sold.
+RulingByLowerCourt	Their Lordships of the Calcutta High <ORG> were of the opinion that the consent decree was binding upon the judgment-debtor and the properties which were objected to as being non-transferable were under the terms of the decree liable for satisfaction of the amount of the decree and, in the result, their Lordships upheld the contention of the decree-holder that the judgment-debtor was estopped from raising the objection that the properties were not saleable.
+Precedent	To the same effect is the case in Ganga Bishun Ram Gajadhar Ram v. <NAME> ('27) 14 A.I.R.
+Precedent	1927 Pat.
+Precedent	254.
+Precedent	In that case in the course of execution proceedings the judgment-debtor had ent ered into an agreement with the decree, holder that he should pay the amount of the decree by instalments and in security for the amount of the decree and costs he had declared that he had mortgaged his residential house.
+Precedent	Their Lordships held that the house of an agriculturist was not absolutely unsaleable and although Section 60(1), Clause (c), Civil P.C., provided that it shall not be liable to attachment or sale, yet the judgment-debtor could waive this privilege and sell the house of his own free will.
+Precedent	Their Lordships further held that the compromise made in the earlier execution proceedings in that case estopped the judgment-debtor from pleading that the house was not saleable.
+Precedent	The aforesaid decision of <ORG> in <NAME> v. <NAME> ('20) 7 A.I.R.
+Precedent	1920 Cal.
+Precedent	424 was approved.
+RatioOfTheDecision	With respect, I follow the view taken by the Calcutta and <ORG> in these two cases and, in my opinion, the judgment of the lower appellate Court upon this point is correct.
+RatioOfTheDecision	Reference was also ma de by learned Counsel for the respondent to the <ORG> decisions of this Court reported in <CITATION_1788036> ('12) 34 All.
+Fact	25 and <CITATION_1020994> ('24) 11 A.I.R.
+Fact	1924 All.
+Precedent	328.
+Precedent	In the former case, it was held that Section 60, Civil P.C., will not operate to bar the sale of a house belonging to an agriculturist in execution of a decree on a mortgage of the same if such house is not an appurtenance of the mortgagor's holding which he is prohibited by law from mortgaging or transfer.
+Precedent	In the latter case, their Lordships held the view that Proviso (c) to Section 60(1), Civil P.C., deals with sales held in execution of decrees in which a previous attachment is necessary, i.e., sales held in execution of simple money decrees and it does not apply to sales in pursuance of mortgaged decrees, decrees directing sale of the mortgaged property and that where an agriculturist mortgages his house and a decree for sale of the same is given, the house may be sold in execution of that decree.
+RatioOfTheDecision	In my opinion, the princip le of these decisions also supports the view taken by the lower <ORG>.
+RatioOfTheDecision	What is the chief source of the livelihood of a judgment-debtor is essentially a question of fact and upon the solution of this question depends the answer to the question whether he is an agriculturist within the meaning of Section 60(1), Clause (c), Civil P.C.
+RatioOfTheDecision	or not.
+RatioOfTheDecision	Therefore if a judgment-debtor enters into a compromise with the decree-holder upon the footing that the property in question is liable to be sold he is, in effect, making a representation that he is not an agriculturist and that the property is saleable and after the compromise it is not open to him to resile from that position and urge that the property in question is not saleable.
+RatioOfTheDecision	The same result would follow in a case where a statement is made solemnly before the <ORG> that the property might be sold in certain eventualities and acting upon that statement the <ORG> passes an order or a decree.
+RatioOfTheDecision	Learned Counsel for the appellant made reference to the <ORG> decisio n in <NAME> v. <NAME> ('44) 31 A.I.R.
+Fact	1944 P.C.
+Fact	35.
+Fact	That case arose under the Agriculturists' Relief Act and in my opinion, it has no bearing upon the present case, nor do the cases reported in <CITATION_1854410> ('42) 29 A.I.R.
+Fact	1942 All.
+Fact	19 and <NAME> v. <NAME> ('45) 32 A.I.R.
+Fact	1945 All.
+RulingByPresentCourt	281 which have been relied upon by learned Counsel for the appellant, afford any assistance in the present case.
+RulingByPresentCourt	In my opinion, there is no force in this appeal and I dismiss it with costs.
+RulingByPresentCourt	4.
+RulingByPresentCourt	Mr. <NAME> has prayed for leave to appeal under the Letters Patent and it is refused.

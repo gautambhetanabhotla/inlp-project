@@ -1,0 +1,486 @@
+Fact	ORDER <NAME>, Ag.
+Fact	C.J.
+Fact	and <NAME>, J.
+Fact	1.
+Fact	This is a Letters Patent Appeal arising out of an.
+Fact	execution proceeding.
+Fact	A simple money decree was passed on 10th February 1915.
+Fact	On 21st March 1923, an application which was in accordance with law had bean file 1 for execution praying for attachment an 1 sale an 1 in the alternative for the arrest of the judgment-debtor.
+Fact	In the course of the execution proceeding the parties appear to have come to terms, the judgment-debtor agreeing to pay the decretal amount in instalments extending over several years, the last date being 15th January 1928.
+Fact	All the instalments except the last one were paid.
+Fact	On 10th January 1928, the judgment-debtor sent Rs.
+Fact	57-3 0 by money order which was refused by the decree-holder who appears to have claimed Rs.
+Fact	222 in all.
+Fact	2.
+Fact	The decree-holder filed an application for execution on loth January 1928, for recovery of the balance claimed by attachment and sale of the property of the judgment-debtor He admitted that; the last application for execut ion was for the arrest of the judgment-debtor which had been struck off on 2nd August 1923 on a compromise having been entered into between the parties for the payment of the amount by instalments.
+Fact	3.
+Argument	An objection was taken that the application was barred by Section 48, Civil P.C.
+Argument	The <ORG> of first instance held that the conduct of the judgment debtor amounted to fraud which saved limitation.
+RulingByLowerCourt	The lower appellate <ORG> was inclined to the view that when the compromise was entered into the judgment-debtor honestly intended to pay an 1 has proved his bona fides by paying eight instalments.
+RulingByLowerCourt	It did not find that 1 here was fraud committed by him.
+RulingByLowerCourt	It however held that the original execution case was still pending and the <ORG> had the right to reopen it at any time and pass fresh orders.
+RulingByLowerCourt	4.
+RulingByLowerCourt	On appeal to this <ORG> a learned Judge of this <ORG> relying on the case of <CITATION_587295> A.I.R.
+RulingByLowerCourt	1922 All.
+Argument	145 thought that the action of the judgment-debtor in putting off the decree-holder from executing his decree at  once should be taken as fraud if the result thereof is to bar the execution of the decree under the 12 years' rule.
+Argument	He has also pointed out that the subsequent order referred to in Section 48, clause (l)(b) can only be passed within six months of the passing of the decree under Article 175 , Lim.
+Argument	Act.
+Argument	5.
+Argument	The first question that; arises in this case is whether a compromise can ha validly entered into in an execution proceeding and to be treated as a decree capable of execution.
+Argument	6.
+Argument	Another question is whether the conduct of the judgment-debtor who originally intended to abide by the compromise can be said to amount to fraud because the result of his default is to bar an execution.
+Precedent	The third question is whether when anew relief is claimed in an application it can be treated as one for revival.
+Precedent	7.
+Precedent	Another question may be whether the subsequent order referred to in Section 48, Sub-Section (l)(b) can apply to an order accepting such a compromise in an execution proceeding irrespective of any plea of limitation.
+Precedent	8.
+Precedent	As these are substantial questions of law of some importance, we direct that this appeal may be laid before the Chief Justice for the consultation of a higher Bench.
+Precedent	JUDGMENT <NAME>, J.
+Precedent	8.
+Precedent	This is a judgment-debtor's appeal arising out of an execution proceeding.
+Fact	A decree for money was passed on 10th February 1915.
+Fact	While an application for execution ; dated 21st March 1928 was pending and a warrant for the arrest of the judgment-debtor had been issued, the parties entered into a compromise and a written application was filed in <ORG> on 29th August 1923 signed both by the judgment-debtor and the decree holder.
+RulingByLowerCourt	9.
+RulingByLowerCourt	They agreed that the decretal amount should be paid in nine instalments spread over four years.
+RulingByLowerCourt	The eighth instalment was to be paid on 15th July 1927 and the whole of the balance duo under the decree was to be paid as the ninth instalment on 15th January 1928, The <ORG> ordered that the parties had come to a compromise and the warrant be concelled.
+Fact	The judgment debtor paid all the first ins talments in due time.
+Fact	On 10th January 1928 he sent a money order for Rs.
+Fact	57-3 0 which was refused by the decree-holder on 16th January 1928 with the endorsement that it was short.
+Fact	On the same date the decree-holder filed the present application for execution claiming Rs.
+Fact	222.
+Fact	The judgment-debtor objected that the application was not according to law and that it was time barred.
+RulingByLowerCourt	The first Court held that the conduct of the judgment-debtor amounted to a fraud and the limitation was saved by Section 48(2) Civil P.C.
+RulingByLowerCourt	The District Judge was inclined to the view that the judgment-debtor honestly intended to pay the money and had proved his bona fides by paying eight instalments.
+RulingByLowerCourt	He however held that the execution file had not been completed in 1923 and was still pending and must have been pending until the amount was paid off in full.
+RulingByLowerCourt	He accordingly overruled the objection.
+RulingByLowerCourt	On appeal to <ORG> a learned Judge of this Court hold that the present application could not be treated as a revival of the previous a pplication because the earlier application was based on the original decree and was for the arrest of the judgment-debtor while the latter one was based on the agreement of 1923 and was for execution by attachment.
+RulingByLowerCourt	Belying on the authority of <NAME> v. <NAME> [1918] 40 All.
+RulingByLowerCourt	198 he further held that a subsequent order within the meaning of Section 48 (l)(b) can be passed by the <ORG> only within six months of the passing of the decree under Article 175 , Lim.
+RulingByLowerCourt	Act and not after.
+RulingByLowerCourt	He however held that the decree holder was entitled to a cessation of the period of limitation on the ground of fraud.
+RulingByLowerCourt	<NAME> relied on <CITATION_587295> A.I.R.
+RulingByLowerCourt	1931 All.
+RulingByLowerCourt	31 for the view that fraud in Section 48 should not be interpreted in a narrow, sense, and held that any action of the judgment-debtor which puts off the decree-holder from executing his decree at once should be taken as fraud if the result thereof is to bar the execution of the decree under the 12 years rule.
+RulingByLowerCourt	On this finding he dismissed the appeal <CITATION_1434001> A .I.R.
+RulingByLowerCourt	1931 All.
+Fact	31 The Letters Patent appeal came up for disposal before a <ORG> of which I was a member.
+Fact	The case was referred to a larger <ORG> because it involved questions of law of some importance.
+Fact	One of the questions mentioned in the referring order was whether when a new relief is claimed in an application for execution it can be treated as one for the revival of a previous application.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The appeal as an appeal must fail on a ground which was neither brought to the notice of the learned single judge of this Court nor was it suggested before the <ORG> which referred the case to us nor has it been pressed before us on behalf of the respondent.
+RatioOfTheDecision	That ground is that no appeal lay to <ORG> at all and consequently we can not interfere with the decree of the District Judge in this Letters Patent Appeal.
+RatioOfTheDecision	As the point involves a question of jurisdiction it can be taken up in the Letters Patent Appeal even for the first time.
+Precedent	11.
+Precedent	The original decree was one for profits passed by <ORG>.
+Precedent	Un der Section 177 of the old Tenancy Act of 1901 appeals were allowed from decrees only and not from orders.
+Precedent	The controversy was set at rest by the pronouncement of <ORG> in <NAME> v. <NAME> [1906] 28 All.
+Precedent	753 where it was held that an order passed in execution by <ORG> was not a decree within the meaning of Section 2, Civil P. C. and that no appeal lay from it to the District Judge.
+Precedent	12.
+RatioOfTheDecision	Although the decree in this case was passed in 1915 the present application for execution and the order thereon were made after the coming into force of the new Tenancy Act.
+RatioOfTheDecision	A right of appeal from an order in execution has been conferred by Section 248(3) and the appeal lies to the Court which can hear an appeal from the decree in the suit.
+RatioOfTheDecision	But that section is under the heading "appeals from order" and its language also makes it clear that the order under Section 47, Civil P.C.
+RatioOfTheDecision	is merely an order and not a decree.
+RatioOfTheDecision	Whether it be treated as laying down a rule of procedure or conferring a substantive right of  appeal the new Act applied.
+RulingByPresentCourt	The appeal accordingly lay to the District Judge.
+RulingByPresentCourt	But Section 249 provides that no appeal shall lie from any order passed in appeal.
+RulingByPresentCourt	Accordingly no second appeal lay to <ORG> from the order passed by the District Judge in the execution appeal before him.
+RulingByPresentCourt	The single Judge of this Court could not but dismiss the appeal before him.
+RulingByPresentCourt	Accordingly we have no power to interfere with the order passed by the District Judge on appeal.
+RulingByPresentCourt	13.
+RulingByPresentCourt	It is however urged before us that the appeal should be treated as a revision.
+RulingByPresentCourt	There was room for argument under the old Tenancy Act that a civil revision could be entertained from an order passed by the District Judge even in a revenue appeal.
+RatioOfTheDecision	Such a view is not now possible under the new Tenancy Act.
+Precedent	It was pointed out by <ORG> which I was a member in <CITATION_983020> A.I.R.
+Precedent	1929 All.
+Precedent	735 that under Section 264, Tenancy Act only selected provisions of the Civil Procedure Code are made applicable to cases under this Act and list 1, Schedule  2, clearly excludes the provisions of Section 115, Civil P.C.
+Precedent	Both Section 264 and the heading in list 1, Schedule 2, show that Section 115' is not applicable to suits and other proceedings under this Act.
+Precedent	As provisions for appeals are to be found in the Act itself there can be no doubt that the appeal before the District Judge was a proceeding under the Act.
+RatioOfTheDecision	This conclusion is further strengthened by the language of Section 230 under which the exception is confined to "appeal or revision as provided in this Act."
+RatioOfTheDecision	It is therefore quite clear that Section 115, Civil P.C.
+RatioOfTheDecision	is wholly inapplicable to revenue cases, and has been entirely replaced by Section 253 of the Act.
+RatioOfTheDecision	<ORG> has no power of revision outside the scope of the latter section.
+RatioOfTheDecision	14.
+RatioOfTheDecision	As pointed out in <NAME> case A.I.R.1929 All.
+RatioOfTheDecision	735, <ORG> can call for the record of only a <ORG>, and revise the order of such <ORG>.
+RatioOfTheDecision	According to the definition of "<ORG> in Section 3 (12) of the  Act read with Section 4(6), Land revenue Act, the District Judge cannot be <ORG>.
+RatioOfTheDecision	It follows that <ORG> has no power to revise orders passed by a District Judge however ultra vires, irregular or illegal it may be.
+RatioOfTheDecision	This is an unfortunate result calling for the attention of the legislature.
+RatioOfTheDecision	There seems to be no good reason why the legislature, should not allow a revision from an order of the District Judge passed in a revenue appeal.
+Precedent	It was observed in <NAME> case A.I.R.1929 All.
+Precedent	735 that if the order passed by the trial Court is open to objection it can be revised.
+Argument	The learned advocate for the respondent contends that it would be anomalous to allow revision from the order of the original <ORG> which has been affirmed by the District Judge, when <ORG> has no power to interfere with the order of the District Judge.
+RatioOfTheDecision	But such an anomaly has not stood in the way of permitting revisions under Section 115, Civil P.C: <CITATION_1975620> 8 All.
+RatioOfTheDecision	111 and <CITATION_281737>  39  mad.
+RatioOfTheDecision	195 Section 253 allows a revision from an original <ORG> only where an appeal lies to the District Judge, and therefore contemplates a case where an appeal might have been actually filed.
+RatioOfTheDecision	Indeed, if the contrary view were upheld, the result for all practical purposes may be to nullify the provisions of the section, for <ORG> may very well decline to entertain a revision when a remedy by way of appeal to the District Judge is open and may feel helpless when such an appeal has been filed and disposed of.
+RatioOfTheDecision	In cases where the first Court acted with illegality or material irregularity and the District Judge in appeal rectified that mistake, <ORG> would in the exercise of its discretion refuse to interfere.
+RatioOfTheDecision	If the order of the District Judge proceeds on grounds which do not appeal to <ORG>, it may in spite of that order set aside the order of the first Court if it is open to any one of the three objections mentioned in the section.
+RatioOfTheDecision	It therefore seems to me that a revision from  the order of the Assistant Collector lies if there has been a want of jurisdiction, a failure to exercise jurisdiction or illegality or material irregularity irrespective of the question whether an appeal has been filed before the District Judge.
+RatioOfTheDecision	15.
+RatioOfTheDecision	This civil revision would have been ordinarily cognizable by a single Judge, but we also have jurisdiction to interfere in revision suo moto.
+RatioOfTheDecision	The attention of <NAME>, J., was not called to the fact that no appeal lay to him, and that he might interfere in revision.
+RatioOfTheDecision	This is therefore not a case where a single Judge has in his discretion declined to interfere, but one where he has not at all considered the matter.
+RatioOfTheDecision	There is accordingly nothing to prevent us from interfering.
+RatioOfTheDecision	16.
+RatioOfTheDecision	As will be pointed out later <ORG> failed to record any finding that there was any fraud of the judgment-debtor which prevented the execution of the decree at some time within 12 years immediately before the present application for execution and yet applied Section 43(2)(a) to  the case.
+Precedent	The failure to apply its mind to the provisions of that section and to record a finding required by that section was a material irregularity because the section prohibits the making of any order upon the application unless the conditions laid down in it are fulfilled.
+Precedent	The District Judge on the other hand made out a new case that the old execution proceeding was still pending.
+Precedent	17.
+Precedent	The decree-holder in his present application admitted that the previous application of 1923 was for the arrest of the judgment-debtor and had been struck off.
+Precedent	In the present application his prayer was for attachment and public sale of the property of the judgment-debtor and not for his arrest.
+RatioOfTheDecision	<ORG> did not suggest that the previous application also was for attachment and sale.
+RatioOfTheDecision	Nor was there any such suggestion in the judgment of the District Judge.
+RatioOfTheDecision	As a matter of fact the record of the execution proceedings of 1923 does not appear to have been sent for in <ORG>.
+RatioOfTheDecision	Similarly that previous recor d was not before the single Judge of this Court.
+RatioOfTheDecision	It was taken for granted before the learned Judge that the previous application of 1923 was only for the arrest of the judgment-debtor.
+Precedent	Indeed, he emphasized this fact and made it the basis of his decision.
+Precedent	Even before the <ORG> which heard this appeal first there was no suggestion that the prayers in the earlier and the later applications were substantially the same.
+Precedent	As mentioned above one of the questions which the <ORG> considered would arise in the case was:  whether when a new relief is claimed the present application can be treated as one for revival of the old one.
+Precedent	18.
+Precedent	After dictating the order, the <ORG>, by way of precaution, directed that the old execution record should be sent for.
+Argument	On its arrival it was discovered that the original application dated 29th August 1923 was for the attachment and public sale of the property of the judgment-debtor and in case the decretal amount could not be realized in that way for his arrest.
+Argument	But the record further dis closed that the decree-holder did not file any list pi the properties of the judgment-debtor which lie wanted to get attached, nor deposited the expenses for such attachment.
+Argument	He deposited only the expenses for the issue of a. warrant which the Court ordered to be issued.
+Argument	According to his own application the occasion for arrest would have arisen only when the decretal amount could not be realized in the other way.
+Argument	It is possible to argue that the record gives an indication of the prayer for attachment having been abandcned by the decree-holder and the relief confined to arrest, as admitted by the decree-holder in his present application.
+RatioOfTheDecision	In the present execution proceeding, a list of the properties of the judgment-debtor was filed which had not been mentioned in the proceedings of 1923.
+RatioOfTheDecision	It seems to have been conceded all along that (he previous application was for arrest only.
+RatioOfTheDecision	I am therefore of opinion that the decree-holder should not now be allowed to raise a new question of fact that there had been no aband onment of the relief for attachment which, question had not been raised before the single Judge of this Court.
+RatioOfTheDecision	19.
+RatioOfTheDecision	The present application for execution asks for attachment and tale of the judgment-debtor's property, and now properties have been specified which were never mentioned before.
+RatioOfTheDecision	The application is not now for the arrest of the judgment-debtor.
+RatioOfTheDecision	It does not purport to be an application for a revival of the previous application and there is no suggestion in it that the previous application is still pending.
+RatioOfTheDecision	On the other hand it is admitted that that application was struck off.
+RatioOfTheDecision	The present application is based on the fact of the compromise for the payment of instilment.
+RatioOfTheDecision	Although a decree-holder need not be tied down to the form of his application, the circumstances mentioned above make it quite clear that the present application, which asks for a new relief cannot be treated as an application for the revival or continuation of the pre vious execution proceeding.
+RatioOfTheDecision	When the character of the present appli cation it different from that of the previous one it can hardly be treated as a continuation.
+RatioOfTheDecision	I find it most difficult to hold that the conduct of the judgment-debtor amounted to fraud.
+RatioOfTheDecision	The proposition that any action of the judgment-debtor which puts off the decree-holder from executing his decree at once must be taken as fraud if the result thereof is to bar the execution of the decree under the 12 years' rule is much too broadly stated.
+RatioOfTheDecision	In the present case the terms of the compromise were known to both the parties and the decree-holder was in a position to find out their legal consequences.
+RatioOfTheDecision	There was no concealment of any fact, nor any misrepresentation on the part of the judgment-debtor.
+RatioOfTheDecision	Indeed, the fact that the judgment-debtor paid the eighth instalment even alter the expiry of 12 years and at tempts 1 to pay the ninth instalment also shows that he had no intention in 192 to stop payment as soon as 12 years expired.
+Precedent	I think the District Judge was right in not accepting the first <ORG>'s view that his co nduct amounted to fraud.
+Precedent	Section 48(2)(a) is therefore inapplicable.
+Precedent	20.
+Precedent	The learned Assistant Collector has remarked that the parties filed a compromise and on the strength of that compromise the decree-holder agreed to accept the moneys by instalments:  Now when the last date of payment Is over the judgment-debtor tikes up the plea of limitation which means a fraud on his part.
+Precedent	21.
+RatioOfTheDecision	But the plea of limitation was taken after the expiry of the period of limitation, and the mere taking of such a plea cannot be a fraud.
+RatioOfTheDecision	<ORG> did not record any definite finding that at the time of the compromise the judgment-debtor had the dishonest intention of pleading limitation after the 12 years had expired.
+RatioOfTheDecision	As pointed out above such an inference was impossible.
+RatioOfTheDecision	22.
+RatioOfTheDecision	The learned advocate for the decree-holder supports the decree of the learned Judge of this Court on the ground that there was a subsequent order for the payment of money at certain dates within the meaning of Section 48(1)(b) The learned single Ju dge of this <ORG> has naturally followed the <ORG> ruling in <NAME> v. <NAME> [1918] 40 All.
+RatioOfTheDecision	198 where it was laid down that a subsequent order directing payment of money in Section 48(l)(b) means a subsequent order made by the <ORG> which male the decree an l acting as that <ORG> and not an order of a <ORG> executing the decree.
+RatioOfTheDecision	The learned Judges added that in all probability the section contemplates orders made under Order 20, Rule 11.
+RatioOfTheDecision	They could not have intended to say that a subsequent order in Section 48 is confined to orders passed under the lastmentioned rule.
+RatioOfTheDecision	Section 48 contains the substantive provision of the Cole whereas Order 20 It.
+Precedent	11, can be altered by High <ORG>s and other similar provisions can also be added in.
+Precedent	the rules.
+Precedent	Furthermore the lastmentionel rule applies only to decree for payment of money, whereas Section 48(1)(b) covers decrees for tho delivery of properties also.
+Precedent	Section 48 is accordingly of a. wider scope and there is no reason to confine it to the particular 'ord ers passed under Order 20, Rule 11.
+Precedent	The view taken in <NAME> case [1918] 40 All.
+Precedent	198 that Section 48 contemplates a subsequent order passed by the original <ORG> and not the execution <ORG> has been followed by other <ORG>s as well.
+Precedent	23.
+Precedent	On the other hand in numerous cases a compromise between the decree holder and the judgment-debtor entered into in the course of execution proceedings which was duly recorded has been enforced and various efforts have been made to find a legal basis for upholding it.
+Precedent	23.
+Precedent	The Bombay High <ORG> in <NAME> v. <ORG> expressly dissented from the view taken in <NAME>'s case [1918] 40 All.
+Precedent	198 and held that the expression any subsequent order" cannot be limited to orders passed by the <ORG> which passed the decree but means any order made by a competent <ORG>.
+RatioOfTheDecision	In one sense this view is sound because the words "subsequent order" are general in their meaning.
+RatioOfTheDecision	As will be shown later, the fallacy lies in the supposition that; an execution <ORG> is compe tent to pass every kind of order provided it is based on a compromise between the decree-holder and the judgment-debtor.
+Precedent	24.
+Precedent	In some cases the <ORG> have gone so far as to hold that the original decree can be altogether supersede!
+Precedent	by a new arrangement entered into in the execution department enabling the decree-holder to execute the substituted decree; <NAME> v. <NAME>, A. I.
+Precedent	B.
+Precedent	1929 Gal.
+Precedent	687.
+RatioOfTheDecision	I would say with great respect that such a position is utterly untenable.
+RatioOfTheDecision	The original decree cannot be altered or varied by the parties even with the sanction of the <ORG>.
+RatioOfTheDecision	In the absence of interference in appeal, revision, review or under Section 152, Civil P.C.
+RatioOfTheDecision	the original decree becomes final and the <ORG> itself is functus office.
+RatioOfTheDecision	As provided in Order 20, Rule 3 the judgment cannot afterwards be altered or added to and as directed in Rule 6 thedecree must agree with the judgment.
+Precedent	In Debt liai v. Gohul Prasad [1881] 3 All.
+Precedent	585 <ORG> of this High <ORG> laid down that a decree altered by agree ment of parties cannot be executed as a new decree and the acquiescence of the judgment-debtor in such execution cannot stop him from objection to further execution of it.
+Precedent	The function of an execution Court is to execute the decree as it finds it and not to substitute a new decree there for even though the substitution may be with the consent of the parties.
+Precedent	Such an agreement may be a binding contract between the parties enforceable by a separate suit but it cannot take the place of the original decree and become itself capable of execution.
+Precedent	25.
+Precedent	In other cases it has been suggested that a compromise can be entertained in the course of execution proceedings much in the same manner as in a regular suit and authority for it has been sought for in <NAME> v. <NAME> [1889] 11 All.
+Precedent	228: vide <CITATION_680068> A.I.R.
+Precedent	1927 Nag.
+Precedent	31 and <NAME> v. <NAME>, A.I.R.
+Precedent	1929 Gal.
+Precedent	687.
+Precedent	But the Allahabad case was based on an interpretation of Sections 375 and 647 of the old Code, and reference was als o made to Section 257-A of the Code of 1882, for which there is no corresponding provision in the new Code, The general observations made by the learned Judge were in the nature of an obiter dictum.
+Precedent	In view of the opinion expressed by their Lordships of <ORG> in Thakur Prasad v. Faqir Ullah  17 All.106 the explanation added by Act 6 of 1892 to Section 647 of the old Code has been deleted from the present Section 141.
+Precedent	Now Order 23, Rule 4 makes Rule 3 of that order inapplicable to execution proceedings and there is therefore no obligation on an execution <ORG> to record a compromise as it would have to do in a pending suit.
+Precedent	It is not correct to say as was done in <CITATION_321077> A.I.R.1921 Pat.
+Precedent	107 that the word "suit" in Order 23 Rule 3 was used in a broad sense as including not only the stages of suit to its termination by the decree of the first <ORG> but as including its appellate stage and proceedings in execution of the decree made in the suit.
+Precedent	26.
+Precedent	In that case a compromise was entered int o in the proceedings relating to the setting aside of a sale.
+Precedent	Without holding that the word "suit" includes an execution proceeding Order 23, Rule 3 might well have been applied with the help of Section 141, Civil P.C.
+Precedent	In like manner Section 107(2) would apply to proceedings in appeal.
+Precedent	27.
+Precedent	The line of reasoning adopted in some cases is that a compromise in an execution Court; is in the nature of an adjustment within the meaning of Order 21,rule 2, and that, if certified, it can be enforced by the execution Court.
+Precedent	But an adjustment within the meaning of that rule should be a transaction which extinguishes the; decree as such in whole or in part and; results in its total or partial satisfaction.
+Precedent	A transaction by which parties agree to vary the mode by which the reliefs granted by the decree are to be realized in execution or vary the time when the decree becomes executable would really be a transaction attempting to vary the terms of the decree ; Mallamvia v. Ven-kappa [1885] 8 Mad.
+Precedent	277 and <CITATION_1930089>   28 I.C.
+Precedent	376 followed in <NAME> v. <NAME>, A.I.R.
+Precedent	1928 Cal.
+Precedent	527.
+Precedent	The adjustment referred to in Order 21, Rule 2, is one which completely or partially extinguishes the decree and cannot mean a compromise to give effect to the terms of which a new decree at variance with the original decree would have to be created, which will again have to be executed.
+RatioOfTheDecision	An execution <ORG> has no power to alter or vary the decree under: execution, and to substitute a new decree; for it.
+RatioOfTheDecision	A mere consent of the parties, cannot confer such a jurisdiction - on the; execution <ORG>.
+RatioOfTheDecision	28.
+RatioOfTheDecision	Another line of reasoning adopted in some other cases is that a compromise for the payment of the decretal amount by instalment or for delivery of property is not at all a variation of the decree for money, but merely fixes a mode of satisfaction.
+RatioOfTheDecision	It has therefore been assumed that where the parties agree, the execution <ORG> has an inherent power to accept such a compromise and pass a new decree in terms of it.
+RatioOfTheDecision	But the original dec ree which fixes no deferred date for payment or for delivery of property is.
+RatioOfTheDecision	executable immediately.
+RatioOfTheDecision	Where the compromise fixes new dates for payment or delivery it undoubtedly alters the time of satisfaction and therefore varies the-decree.
+RatioOfTheDecision	It is not a mere case of postponement of execution which the <ORG> under special circumstances recognized by the Code of Civil Procedure can order.
+RatioOfTheDecision	It is in effect the substitution of a new decree in place of the old decree which new decree will itself become capable of execution.
+Precedent	29.
+Precedent	It is quite obvious that the legislature does not contemplate the prolongation of execution proceedings by successive compromises of this type being entered into at long intervals.
+Precedent	<ORG> has conferred by.
+Precedent	Order 20, Rule 11, Civil P.C., for directing payment by instalments.
+Precedent	But unless passed at the time of the passing of the decree such, an order can be passed only on the application of the judgment-debtor with the consent of the decree-holder.
+Precedent	Article 175 , Lira.
+Precedent	Act, places a limitatio n on the period during which such an application can be made, which must be within six months of the decree.
+Precedent	It is the duty of the execution <ORG> not to entertain any such application for the payment of the amount of the decree by instalment, if made after the expiry of that period, even though the decree-holder is agreeable to it.
+Precedent	Had the legislature intended that the <ORG> has always an inherent power to accept a compromise of this kind entered into between the parties, the short period of limitation would not have been prescribed.
+Precedent	30.
+Precedent	In some cases the difficulty has been attempted to be got over by the supposition that where the decree directs that money be recoverable only on some failure, it is open to the plaintiff to ask the <ORG> for a declaration that the failure has taken place and for an order directing payment in consequence : <CITATION_1250609> A.I.R.1926 Mad.
+RatioOfTheDecision	20 But where the decree is self-contained, the mere fact that the contingency mentioned in it has occurred subsequently would not justi fy the making of a fresh executable order by the <ORG>, which had become functus officio, after the passing of the decree.
+RatioOfTheDecision	Without such a fresh declaratory order, the execution <ORG> is competent to execute the decree when such contingency has happened.
+RatioOfTheDecision	31.
+RatioOfTheDecision	In other cases the enforcement of a compromise between the parties has been based on the principle of estoppel.
+RatioOfTheDecision	No doubt a judgment debtor can in certain circumstances be estopped from going behind his own agreement.
+RatioOfTheDecision	But no one can contract himself out of the statute of limitation.
+RatioOfTheDecision	Estoppel cannot be pleaded against a statutory bar of limitation.
+RatioOfTheDecision	Similarly, as the Code by Section 48 prohibits the <ORG> from making any order upon an application presented.
+RatioOfTheDecision	after the expiration of 12 years, the statutory obligation of the <ORG> cannot be got rid of on account of any private contract to the contrary.
+RatioOfTheDecision	It will be the duty of the <ORG> to ignore the private agreement and to give effect to the statute.
+Precedent	As was pointed out by <ORG> in <CITATION_572135>  3  All.
+Precedent	585 the agreement may give rise to a separate suit, but cannot stop the judgment-debtor from objecting to the further execution of the decree.
+Precedent	In the words of Sir <NAME> in <NAME> v. <NAME> 13 W.L.R.
+Precedent	101 quoted in liaghunath <CITATION_443326>  13 I.C.
+Precedent	88:  a man may bind himself not to execute a decree within a certain period, but be cannot, by binding himself not to execute the decree for a certain period add to the time which the law allows him to execute it.
+Precedent	32.
+Precedent	On the contrary, in some cases it has been suggested that if an order purporting to have been passed under Section 210 corresponding to Order 20, Rule 11, has been passed on an application filed more than six months after the decree it cannot be treated as an order under that section:.
+Precedent	inasmuch as the <ORG> on that date had no jurisdiction to pass an order under that section more than six months having elapsed from the date of the decree : Banarsi Das v. <NAME> 1924 hah.
+Precedent	342.
+Precedent	33.
+Precedent	I am not sure whether the learn ed single Judge of this <ORG> has not taken the same view when remarking that "a subsequent order for payment by instalment can be passed by the <ORG> which gave the decree within six months and not after.
+Precedent	34.
+Argument	The correct position appears to be that although the <ORG> should not entertain an application for payment of the decretal money by instalment under Order 20, Rule 11, if made after the expiry of six months from the" date of the decree ( Art.
+RatioOfTheDecision	175 ), the order if actually passed on such a time barred application is not a nullity.
+RatioOfTheDecision	Just as a decree passed in a suit which was time barred is binding on the parties, and the question of limitation is by implication deemed to have been decided against the defendant, so an order for payment by instalment is binding on the judgment-debtor.
+RatioOfTheDecision	It must be assumed that the <ORG> by oversight decided the question of limitation wrongly.
+RatioOfTheDecision	But a wrong decision, whether express or implied on a question of limitation doe& not oust the jurisdiction.
+RatioOfTheDecision	Limitation on a question o f procedure and not one of jurisdiction : <NAME> v. <NAME> 26 All.
+RatioOfTheDecision	522 The <ORG>; was seised of the case and was competent to pass orders on the application.
+RatioOfTheDecision	35.The mere fact that it overlooked the bar of limitation or acted wrongly in not applying it, would not make the order without jurisdiction.
+RatioOfTheDecision	Po long as it has not been set aside, the order is binding on the judgment-debtor, and cannot be challenged by him on the ground that it was passed on a time-barred application.
+RatioOfTheDecision	When the <ORG> prevents the judgment-debtor from impugning such an order it is not giving effect to any contract to get out of the law of limitation, but is enforcing the principle of res judicata against him.
+RatioOfTheDecision	When the decree-holder takes advantage of such an order he is not trying to extend the period fixed in Section 48 by any contract between the parties, but he is merely urging that there is in existence a subsequent order binding on the parties, although it so happens that that order had been passed on a time barred application  without any objection.
+RatioOfTheDecision	A somewhat similar, though not exactly the same, view was expressed in <NAME> v. <NAME> [1904] 26 All.522 when reversing the judgment of the single Judge mentioned above.
+RatioOfTheDecision	It is no doubt the duty of the <ORG> to see that no such order is passed when the application is beyond time.
+RatioOfTheDecision	But when such an order ha^ been passed and remains unreversed, the judgment-debtor cannot be allowed to ignore it.
+RatioOfTheDecision	36 Although.the words in Section 48, Civil P.C., live more general, the order under Order 20, Rule 11, Civil P.C., can be passed by the original <ORG> only.
+RatioOfTheDecision	Where the execution <ORG> happens to be the same <ORG> which made the decree, one need not be too technical in insisting that the order must have been pissed by the original <ORG> acting as such and not acting in the execution department.
+RatioOfTheDecision	What is essential is that the intention must have boon to pass an order under Order 20, Rule 11 on the application of the judgment-debtor and with the consent of the decree-holder.
+RatioOfTheDecision	Where the <ORG>s are  not different, it would hardly matter how the <ORG> actually describes, itself, but the order must be intended to be an order under that rule.
+RatioOfTheDecision	On the other hand, if an execution <ORG> merely records a compromise entered into between the parties, it does not necessarily pass an order of its own.
+RatioOfTheDecision	"Order" is defined in Section 2 (14), as the formal expression of any decision by a civil <ORG> which is not a decree.
+RatioOfTheDecision	It must therefore be the formal expression of a decision i.e., an adjudication between the parties, and not merely a mechanical recording of something which the parties want to be noted.
+RatioOfTheDecision	The order must be intended to be one passed by the <ORG> imposing an obigation capable of enforcement by that <ORG>.
+RatioOfTheDecision	We have therefore to see whether the <ORG> intended to make any order under Order 20, It.
+RatioOfTheDecision	11 and made one.
+RatioOfTheDecision	37.
+RatioOfTheDecision	As pointed out above, when the compromise was filed in 1923, the <ORG> merely ordered that the warrant should be cancelled.
+RatioOfTheDecision	The record appears to have been consigned to the record room.
+RatioOfTheDecision	If the  decree-holder's relief had by that time been confined to one for arrest only, that prayer was obviously disallowed, at any rate for the time being.
+RatioOfTheDecision	There can also be no doubt that the <ORG> took cognizance of the original compromise which had been filed and allowed it to be placed on the record.
+RatioOfTheDecision	In that sense it tacitly accepted it and even acted upon it; but in my opinion such an order was not made under Order 20, Rule 11 and cannot be treated as a subsequent order made by the <ORG> itself directing the payment of the decretal amount by instalment within the meaning of Section 48(1)(b).
+RatioOfTheDecision	The decree-holder is therefore not entitled to count 12 years from this date.
+Precedent	38.
+Precedent	As the operative portion of the judgment of <NAME>, J., was correct, I would dismiss the appeal ; but in the exercise of my revisional jurisdiction, I would set aside the order of the Assistant Collector on the ground of material irregularity, and dismiss the application for execution for the reasons given above.
+Precedent	<NAME>, J.
+Precedent	39.
+Fact	The facts invo lved-in this case briefly are these : a suit for profits was decreed in favour of the respondent <NAME> and against the appellant <NAME> in 1915, by <ORG>.
+Fact	After, some applications for execution had been made from time to time, an application was made on 21sfc March 1923.
+RulingByLowerCourt	The prayer was that the property of the judgment debtor was to be attached and in case it was not found possible to realize the money in that way, he might be arrested.
+RulingByLowerCourt	No list of properties to be attached was filed with the application, nor was it stated that the moveable property in the possession of the judgment-debtor, as pointed out by the decree-holder on the spot, should be attached.
+RulingByLowerCourt	Instead of attachment of property warrants for arrest of the judgment-debtor were issued from time to time, and ultimately parties agreed, on 29th August 1923, that the whole of the decretal amount then due should be paid by the judgment-debtor in several six monthly instalments of certain fixed amounts and that on 15th January 1928  the judgment-debtor should pay up the balance of the decretal amount.
+RulingByLowerCourt	When this compromise was filed the Assistant Collector executing the decree passed the following order:  Parties have come to a compromise.
+RulingByLowerCourt	Warrant may be cancelled.
+RulingByLowerCourt	40.
+Fact	The instalments wore regularly paid, and on 10th January 1928 the judgment-debtor sent by money order a sum of Rs.
+Fact	57-3-0 to the decree-holder as the balance of the amount due to the latter.
+Fact	The decree-holder refused to accept this amount on the ground which was correct, that it was insufficient and the day after the expiry of the date fixed for payment he made an application for execution.
+Fact	This application was presented on 16th January 1928 and prayed that the amount due might be realized by attachment and sale of property.
+Precedent	41.
+Precedent	The judgment-debtor thereupon pleaded limitation as contained in Section 48, Civil P.C.
+Precedent	42.
+Argument	The learned Assistant Collector held that the judgment-debtor by raising the plea of limitation was guilty of fraud and that on that account the decree-ho <NAME>'s application was taken out of the purview of the 12 years' rule of limitation.
+Precedent	He accordingly dismissed the objection and allowed 1 the execution to proceed.
+Precedent	43.
+Fact	The judgment-debtor appealed to the District Judge.
+RulingByLowerCourt	The appellate Court did not agree with the Court of first instance as to its view of fraud but held that the application for execution made in 1928 might be treated as a continuation of the application of 1923 and that the latter must be deemed to have boon still pending.
+RulingByLowerCourt	The District Judge accordingly dismissed the appeal, and thereupon the judgment-debtor filed a second appeal, to this Court.
+Precedent	44.
+Argument	The appeal came before <NAME>, J., and that learned Judge dismissed the appeal holding that, although the District Judge was not right in treating the application of 1923 as still pending, the case falls within the exception created in the case of fraud on the part of the judgment debtor.
+Argument	The learned Judge on the case of Lalta Prasad v. <ORG> All.
+Argument	145 and said:  Any action of th ee judgment-debtor which puts off the decree-holder from executing his decree at once should be taken as head if the result thereof is to bar the execution of the decree under the 12 3 ears' rule By making an agreement he (judgment-debtor) derived an advantage and when he is not prepared to fulfil the agreement his conduct amounted to fraud.
+Argument	45.
+Argument	The second appeal was dismissed and the present Letters Patent appeal has been filed by the judgment-debtor.
+RatioOfTheDecision	At the outset, it seems to be clear to me that no second appeal lay to <ORG>, as the case arose out of a suit for profits heard by <ORG>.
+Precedent	The Agra Tenancy Act, 1926 by Section 249 disallows' an appeal from an appellate order.
+Precedent	By Section 248, Agra Tenancy Laws, an appeal to the District Judge is allowed in the case of an execution of a decree for profits, but by Section 249 no further appeal is allowed.
+RatioOfTheDecision	By Section 264, Tenancy Act, 1926, the Civil Procedure Code is to apply to <ORG> with certain exceptions, and one of the excepti ons is provisions inconsistent with anything in this Act, so far as the inconsistency extends.
+RatioOfTheDecision	To allow a second appeal from the order of the District Judge in this case, on the ground that the order passed by the District Judge was a decree within the meaning of Section 2, Civil P.C, would be inconsistent with the clear provision of Section 249.
+RatioOfTheDecision	I bold therefore that no second appeal lay to this <ORG>.
+RatioOfTheDecision	The learned Counsel for the appellant has asked us to take up the matter in revision.
+RatioOfTheDecision	46.
+RatioOfTheDecision	The revisional jurisdiction of this <ORG> over the Revenue <ORG>s is conferred by Section 253, Tenancy Act.
+Precedent	It says that in cases where an appeal lay to the District Judge, the High <ORG> may call for the record of any suit which has been decided by a subordinate Revenue <ORG> and in such cases may pass such orders as it thinks fit.
+Precedent	In this case an appeal did lie to the District Judge and therefore where a case falls within any of Clauses (a)(b) and (c), Section 253, a revision would be maintainable.
+Precedent	47.
+Argument	On behalf of th e respondent it was argued that the order of the Assistant Collector having been confirmed by the District Judge, unless we are able to set aside the order of the District Judge also, we are not competent to interfere with the order of the Assistant Collector.
+Argument	48.
+Argument	It does appear that <ORG> has no jurisdiction to interfere in revision with the order of a District Judge passed by him in a revenue matter, on appeal.
+RatioOfTheDecision	This is due no doubt to an oversight, but the fact is there.
+Precedent	Section 264, Tenancy Act, made Section 115, Civil P.C., inapplicable to "all suits and other proceedings" under the Tenancy Act and therefore an appellate order of the District Judge is exempted from the operation of Section 115, Civil P. C. This was held to be the case in <CITATION_460540> A.I.R.
+Precedent	1926 All.
+Precedent	398 and also in <CITATION_983020> A.I.R.1929 All.
+Precedent	735 The result is that where <ORG> passes a right order and on appeal the District Judge passes a wrong order, and the District Judge's Order is otherwise capable of b eing revised by this <ORG>, the District Judge's order cannot be touched.
+RatioOfTheDecision	49.
+RatioOfTheDecision	It however does not follow that because the District Judge's order cannot be touched in revision the order of the sub-ordinate Revenue <ORG> cannot be touched simply because it has been affirmed by the District Judge on appeal.
+RatioOfTheDecision	Section 253, Tenancy Act, does not say that to enable the High <ORG> to interfere, it is necessary that there should be no appeal from the order of the Revenue <ORG>.
+RatioOfTheDecision	All that is needed is that the matter before the Revenue <ORG> should be appealable to the District Judge.
+Precedent	50.
+Precedent	In numerous cases decided by this <ORG> it has been held that the High <ORG> could interfere with the order of the first <ORG>, although the same may have been affirmed by the lower appellate <ORG>, in the exercise of the High <ORG>'s revisional powers under Section 525 of the old Act and Section 115 of the new Act of 1908 (Civil Procedure Code ).
+Precedent	One of these cases is a <ORG> decision of this <ORG> and will be found reported in  <CITATION_1975620> liai  8 All.
+Precedent	111 .
+Precedent	Another case and a more recent one is <NAME> v. <NAME> A.I.R.1925 All.
+Precedent	182 I hold that a revision is maintainable.
+Precedent	51.
+RatioOfTheDecision	The next question is whether the matter before us is a fit one in which we should interfere; in other words, whether the case falls within any of Clauses (a),(b) and (c), Section 253 , Tenancy Act.
+RatioOfTheDecision	In my opinion the case falls under Clause (c).
+RatioOfTheDecision	The learned Assistant Collector has not found as a fact that at any time prior to the lapse of 12 years from the date of the decree the judgment-debtor by fraud prevented the execution of the decree.
+RatioOfTheDecision	If he had found on evidence however flimsy that such was the case, there would have-been no case for <ORG> for interference.
+RatioOfTheDecision	But what the Assistant Collector found was that the very act of, raising the plea of limitation was a fraud on the part of the judgment-debtor.
+RatioOfTheDecision	If it was, that act was committed more than 12 years after the date of the decree.
+RatioOfTheDecision	There can therefore be no doubt that the Assistant  Collector acted with material irregularity in the exercise of his jurisdiction and therefore his order is liable to revision.
+Precedent	52.
+Precedent	Now I come to the question whether the compromise which was entered into by the parties on 29th August 1923 was in the nature of a subsequent order" within the meaning of Clause (b), Section 48 , Civil P. C. By Section 48 no application for execution shall be entertainable by a <ORG> executing a decree, if it was made more than 12 years after the date of the decree or more than 12 years after the date fixed for payment by the decree or by any subsequent order.
+Precedent	53.
+Precedent	But before I take up this question I would like to say one word about an argument which prevailed before the learned District Judge and which was.
+Precedent	reiterated before us.
+Precedent	The question is whether the application of the decree-holder made on 16th January 1928 can in any way be treated as a continuation of the previous application of 29th August 1923.
+Precedent	I have already pointed out that the previous application, although it was  for attachment of property and arrest, did not contain any list of property to be attached and was continued and prosecuted as an application for arrest.
+Precedent	No less than four warrants for arrest were issued one after another and that on the filing of the compromise, the proceedings were allowed to be dropped.
+Precedent	In his present application, dated 16th January 1928 the decree-holder stated that his previous application of 29th August 1923 was one for the arrest of the judgment-debtor.
+Precedent	This was a correct statement of the circumstances, and it is not right on his part now to say that he made a misstatement of fact.
+Precedent	54.
+Precedent	Before going back to the question what is meant by a "subsequent order" as the expression is to be found in Section 48 , I might dispose of another small point, namely, whether we are to treat or not the order of 29th August 1923 as an order accepting the compromise and thereby directing payment of money on certain dates.
+Precedent	On this point I am of opinion that, although the learned Assistant Collector does  not in so many terms say that the judgment-debtor is to pay the decretal amount on the date fixed in the compromise, yet when he accepted the compromise and cancelled the warrant, he tacitly, at any rate, directed that the terms of the compromise should be carried out.
+Precedent	55.
+Precedent	Now I go back to the interpretation of <ORG>xpression "subsequent order."
+Precedent	56.
+RatioOfTheDecision	The principal question that arises is whether an order, passed by <ORG> as such, by which it accepts, as in the present case, a compromise and directs that the terms of the compromise should be carried out and orders the judgment-debtor to pay the decretal amount on the dates fixed, amounts to or not a subsequent order within the meaning of Section 48 .
+RatioOfTheDecision	On principle it is abundantly clear that <ORG> cannot go behind the decree and cannot alter it.
+RatioOfTheDecision	By the provisions of Order 20, Rule 3, a judgment, when once pronounced and signed, cannot be afterwards altered or added to except as provided by Section 152 or on review.
+RatioOfTheDecision	The action of <ORG> xecuting <ORG> cannot come within the provision of Order 20,Rule 3 and therefore it is not competent to alter the terms of a decree.
+RatioOfTheDecision	Where the decree says that a certain sum of money is to be paid at once, it will not be open to an executing <ORG> to say that the decretal amount shall be paid in a different way, i.e., by instalments and on dates convenient to the judgment-debtor.
+RatioOfTheDecision	Even whore the decree-holder and the judgment-debtor come to terms, neither of thorn has the power to so contract as to supersede the rule of limitation or to extend it.
+RatioOfTheDecision	The judgment-debtor, in the case of a contract otherwise valid, may be estopped.
+RatioOfTheDecision	I do not decide that he is estopped from pleading that he is not bound by the compromise.
+RatioOfTheDecision	But where the result of a compromise is that the limitation provided by the law is extended, it is open to the judgment-debtor to plead that the decree-holder's application is barred by limitation.
+Precedent	This was held in <CITATION_28653672> [1851-54]5 M.I.A.43 : see observations at p.70.
+Precedent	57.
+Precedent	On general p rinciples therefore an executing <ORG> as such cannot make an order which would operate as a "subsequent order directing payment of the decretal amount on a certain date."
+Precedent	58.
+Precedent	One illustration of a " subsequent order" mentioned in Section 48 will be found in the provision of Order 20, Rule 11, sub-Rule (2) by which, after the passing of a decree for payment of money, the <ORG>, on the application of the judgment-debtor and with the consent of the decree-holder, may direct the payment of the decretal amount by instalments.
+RatioOfTheDecision	But for the purpose of such an order, the parties must go to the <ORG> which passed the decree and within six months of the making of the decree, as provided by Article 175 , Schedule 1, Lim.
+RatioOfTheDecision	Act.
+RatioOfTheDecision	It may be that where the parties approach the <ORG> which passed the decree after six months and the delay is overlooked by the parties and the <ORG> and then an order as contemplated by Order 20, Rule 11, is passed and is not set aside on appeal the order will be binding on the parties on the gro und of res judicata; but that is not the case here.
+RatioOfTheDecision	In this case it cannot be pretended that the parties were approaching the <ORG> to exercise its powers under Order 20, Rule 11, Civil P.C., even if we assume that the Assistant Collector's <ORG> was the very <ORG> which had made the decree for profits in 1915.
+RatioOfTheDecision	59.
+RatioOfTheDecision	I am of opinion therefore that on principle the subsequent order must be an order made by the <ORG> which passed the decree and not an order made in the course of execution.
+RatioOfTheDecision	60.
+RatioOfTheDecision	The view taken by me is the view that has always been held in this <ORG> with some exceptions which were due to the existence in the Code of Civil 33rocedure of 1882, a section, namely, 257 (a), and to the fact that at one time execution applications were treated as miscellaneous applications to which rules as to trial of suits applied.
+RatioOfTheDecision	But Section 257 (a) is no longer the law, and Order 23, Rule 4 clearly states that the rule as to withdrawal and adjustment of suits does not apply to proceedings in execution of a decree  or order.
+RatioOfTheDecision	The decision of Mali mood, J. in <NAME> v. <NAME>  11 All.
+RatioOfTheDecision	228 is one of the few exceptions I have in mind.
+RatioOfTheDecision	On the other hand, the cases in <NAME> v. <NAME>  3 All.
+RatioOfTheDecision	585 and <CITATION_35719>  40 All.
+RatioOfTheDecision	198 show that the view taken by me was the view that prevailed in this Court.
+Precedent	61.
+Precedent	No useful purpose will be served by examining the cases decided by other <ORG>, but it will be enough to examine two oases which were decided after the pissing o£ the Civil Procedure Code, 1908.
+Precedent	62.
+Precedent	One of these cases is <CITATION_1517044> , A.I.R, 1929 Cal.
+Precedent	687.
+RatioOfTheDecision	With all respect I am unable to agree with the view laid down in the case.
+Precedent	It seems to have been held there that by a compromise entered into in the execution department a decree is substituted for the original decree, and the so called substituted decree may be executed as if it were the decree originally passed.
+Precedent	63.
+Precedent	The second case is <CITATION_1417351> a.i.r.
+Precedent	1925 Bom.
+Precedent	503 In this case the learned Judges do not give sufficiently conv incing reasons for holding that an order passed by an execution <ORG> may be a subsequent order within the moaning of Section 48 , Civil P.C.
+Precedent	64.
+RatioOfTheDecision	Before leaving the case, I might notice the last argument of the learned Counsel for the respondent, namely, in the case of a decree directing delivery of property what would be a subsequent order within the meaniug of Section 48 , if it be not an order made in the execution department.
+RatioOfTheDecision	For reasons already given, I am clear that an order made in the execution of a decree cannot be a subsequent order within the meaning of Section 48 .
+RatioOfTheDecision	Section 151 , Civil P.C., allows the <ORG> to make such orders as may be necessary in the ends of justice, and it is conceivable that there may be a case in which, in the exercise of its inherent jurisdiction as recognize: by the said Section 151 , a <ORG> may direct a certain property to be delivered at a date other than the date already fixed by the decree passed.
+RatioOfTheDecision	Then again the <ORG> is always entitled and authorized to correct cler ical and arithmetical mistakes in judgments and decrees, and a decree when properly corrected may fix a date for delivery of property other than the date originally contained in the decree.
+RatioOfTheDecision	These are possible cases that occur to me now and there may be other cases.
+RatioOfTheDecision	65.
+RulingByPresentCourt	In the result, I would set aside the judgment of <NAME>, J., on the ground that; he had no jurisdiction to hear the appeal, upholding his decree dismissing the appeal to <ORG>, take up the case in revision and setting aside the order of execution passed on the respondent's application of 16th January 1928, would direct the said application to stand dismissed.
+RulingByPresentCourt	In the circumstances of the case, I would direct that the parties should pay their own costs throughout.
+Fact	Boys, <NAME>.
+RatioOfTheDecision	I have had the advantage of seeing the judgment of my brother <NAME>, J., and as I am in practical agreement with him, it is not necessary for me to discuss every point.
+RatioOfTheDecision	The facts are very fully set out in the judgment of my brother, and there is only one furthe r fact to which I shall have to refer later.
+RatioOfTheDecision	67.
+RatioOfTheDecision	On the first point that no appeal lay to this Court I agree.
+RatioOfTheDecision	On the next point as to whether a power of revision is limited to Section 253 , Tenancy Act, or whether we can also act under Section 115 , Civil P.C., T agree that our powers are limited to Section 253 .
+RatioOfTheDecision	This is not a conclusion which can he regarded as satisfactory, but the difficulty arises from the wording of Section 253 , an oversight by the legislature.
+RatioOfTheDecision	To apply Section 253 literally and excluding Section 115 , Civil P.C., involves three undesirable results:  68.
+Precedent	Firstly, treating the section literally, it is applicable to all cases where an appeal lies to the District Judge, whether an.
+Precedent	appeal has actually been filed or not.
+Precedent	Where an appeal has in fact been filed, the section give us no power to revise the order of the District Judge, but does give <ORG> power to revise the order of the subordinate <ORG>, in this case the Court of the Assistant Collector.
+Precedent	If we exercise that p ower and find ground within Clauses (a), (b) or (c) to set aside the order of the subordinate <ORG>, we cannot set aside the order of the District Judge in appeal.
+Precedent	If has to be left in the air and assumed to be a nullity by implication.
+Precedent	While this is unsatisfactory, it cannot perhaps be said to do much harm.
+Precedent	69.
+Precedent	Secondly, where the trial <ORG> was wrong within the meaning of Clauses (a)(b) or (c), Section 253 , but the District Judge deciding the case on different grounds was right his reasoning being unassailable.
+Precedent	Here logically the subordinate <ORG>'s order being the only one which we could consiler, and being one which ought to be set aside, it cannot be set aside without also automatically rendering the order of the District Judge a nullify.
+Precedent	This difficulty might be avoided by refusing to exercise the revisional power, which is discretionary.
+Precedent	But this could hardly be regarded as a satisfactory solution.
+Precedent	70.
+Precedent	The third difficulty that arises is more serious.
+Precedent	A case can easily be imagined where the  <ORG> was absolutely right and its decision has been set aside in appeal-the District Judge being hopelessly wrong.
+Precedent	We can, on the hypothesis we are considering, set aside the order of the trial Court; but it is right and does not require to be set aside, while we cannot touch the order of the District Judge though it is very wrong, wrong actually within Clauses (a)(b) or (c), Section 258 .
+Precedent	71.
+Precedent	I have endeavoured to state these difficulties in their degrees of increasing gravity.
+Precedent	Taken as a whole, the result, in my view, should be to incline the <ORG> strongly, if there was room for the view, to hold that power with it to act under Section 115 , Civil P. C, but that power is excluded by Section 264 and Schedule 2, list 1, Tenancy Act, for it is impossible, without undue straining of language, to hold that an appeal" is not a "proceeding."
+Precedent	No other view therefore is possible than that our revisional power is restricted to Section 253 , Tenancy Act, and further it is clear that we have po wer to revise under Section 253 the order of the Assistant Collector, an if we did so revise it, the order of the District Judge in appeal can only be treated as a nullity.
+Precedent	72.
+RatioOfTheDecision	As to whether there are grounds for our interference, 1 agree with my brother that the Assistant Collector did not in fact find that any fraud was committed within the period of 12 years.
+RatioOfTheDecision	It is clear that the point did not occur to him.
+Precedent	He uses the phrase:  The decree-holder never knew that the judgment-debtor will in the end take such a plea.
+Precedent	73.
+Precedent	The words "never knew" clearly refer to the point of time at which the compromise was being entered into.
+Precedent	The words "will in the end take such a plea" clearly refer to a point of time after the lapse of the 12 years.
+Precedent	No other view, then, is possible but that he did not in fact find fraud to have been committed before the lapse of 12 years.
+Precedent	74.
+RatioOfTheDecision	As to the order of the Assistant Collector of 29th August 1923, which states that a compromise has been arrived at and the warrant may be cancelled,  I would hold that this did not amount to an order substituting the compromise for the rights which the decree-holder had under the decree standing by itself.
+RatioOfTheDecision	The order is itself ambiguous, and I think that as we shall be holding in this case that <ORG> has no power to vary the terms of the decree, we should not assume that the Assistant Collector was passing an order which he had no power to pass, unless his action is capable of no other interpretation.
+RatioOfTheDecision	In the present case the essential thing, so far as he was concerned, was that he was been asked to withdraw the warrant;.
+RatioOfTheDecision	It may well, have been his attitude, and the subordinate <ORG> have not too much time for debating refinements:  Very well, if you both say you have compromised I am prepared to withdraw the warrant.
+Precedent	75.
+RatioOfTheDecision	I do not think that the facts or the language of the order justify us in holding that lie considered himself to be substituting, or can be held to have substituted, the compromise for the decree.
+RatioOfTheDecision	I think therefore that he d id not pass any order, and the question whether he would have power to pass such an order so as to extend the period of limitation under Section 48 , Civil P.C., does not arise.
+RatioOfTheDecision	But I would add that if it be treated as an order, I agree that <ORG> has no power to pass such an order.
+RatioOfTheDecision	76.
+RatioOfTheDecision	There is only one further point to which 1 need briefly, refer, and that is the question whether the proceeding of 16th January 1928, was merely a continuation of the original application of March J923, or whether that application had finally terminated on 29th August 1923, and the application of 16th January 1928 was an entirely new proceeding.
+RatioOfTheDecision	I should be disposed to hold that the second was a continuation of the first application, and I would not hold the decree-holder too literally bound by the phraseology of the application of 16th January 1928.
+RatioOfTheDecision	But it is unnecessary for me to consider this point further because while it has been urged before us, it does not appear to have been ever hinted at by the decree- holder at any earlier stage of the proceedings.
+RatioOfTheDecision	I agree with the order proposed by <NAME>, J.
+Precedent	77.
+RulingByPresentCourt	We dismissthe appeal, but in the exercise of our revisional jurisdiction we set aside the order of the Assistant Collector dated 24thFebruary 1928, and dismiss the application for execution.
+RulingByPresentCourt	In the circumstances of this case we direct that the parties should bear their own costs throughout.

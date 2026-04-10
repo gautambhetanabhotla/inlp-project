@@ -1,0 +1,113 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The applicants are plaintiffs in a suit that was filed against the opponents in <ORG> of Bombay for a sum of Rs.
+Argument	1,725, being the alleged balance due at the foot of an account in regard to certain contracts for the sale and purchase of ground nut seeds.
+Argument	The opponents in their written statement, in addition to objecting to the plaintiffs' claim on its merits, took the point that the suit should be stayed, and the matters in dispute be referred to the arbitration of <ORG>, as the parties were members of that <ORG>, and the contracts in dispute contained a provision that they were executed according to the Rules of <ORG>, by which each party was bound.
+RulingByLowerCourt	Evidence was given to support this last contention, and the learned Judge decided that arbitration was compulsory under a certain rule passed by the Managing Committee of the <ORG>.
+RulingByLowerCourt	He, therefore, stayed the suit to enable the parties to comply with that rule.
+RulingByLowerCourt	The applicants contend that this decision is wrong in law and ask us to interfere in revision, <ORG>, it may be mentioned, decided that it had no jurisdiction to interfere.
+RulingByLowerCourt	2.
+Fact	The first question that has been discussed before us is whether, in any case, <ORG> had jurisdiction to stay the suit either under Section 19 of the Indian Arbitration Act, or under paragraph 18 of the Second Schedule of the Civil Procedure Code.
+Precedent	Mr. <NAME> for the applicants has cited the decision of <NAME> in <CITATION_565082> (1906) I.L.R.
+Precedent	31 Bom.
+Precedent	236, s.c. 8 Bom.
+Precedent	L.R.
+Precedent	955 where ha held that the word "<ORG>" in Section 19 of the Indian Arbitration Act meant in Bombay this High <ORG> in view of the definition of the words "the <ORG>" in Clause (a) of Section 4 of the Act, and he relies-upon this as establishing that a Judge of the Small Causes <ORG> has no power to stay the suit that was before him.
+Precedent	It is however, to be noted that <NAME> in In re <NAME> (1919) I.L.R.
+Precedent	45 Bom.
+Precedent	I, s.c. 22 Bom .
+Precedent	L.R.
+Precedent	842 differed from <NAME> construction of the word "<ORG>" in Section 19 .
+Precedent	He pointed out that the definition of "the <ORG>" in Section 4(a) is subject to a proviso of repugnancy in the subject or context, and he held that the provisions of Section 19 , and the decisions under the corresponding law in England, clearly showed that the Courb contemplated in this section is the <ORG> before which a suit is pending, provided that the suit is one to which the Act would apply under Section 2 , namely, that it is a suit which could, whether with leave or otherwise, be instituted in a Presidency town in respect of its subject-matter, In regard to the words ins.
+Precedent	19 "a submission to which this Act applies" he held that those words are intended to provide for the case of a suit filed in an up-country <ORG> in an area to which the Act has not been applied, though part of the cause of action has arisen in a Presidency town.
+Precedent	The same point has been considered by the Allahabad High <ORG> in <NAME> v. <NAME> <NAME> and Co. (1921) I.L.R.
+Precedent	43 All.
+Precedent	553.
+Precedent	It was there held that "the <ORG> mentioned in Section 19 of the Indian Arbitration Act is not necessarily the <ORG> as defined in Section 4(a) of the Act, but means the <ORG> before which the suit or other legal proceeding which it is sought to refer to arbitation is instituted.
+Precedent	The learned Judges in the judgment say (p. 554) :   Section 19 is a mere repetition of Section 4 of the English Arbitration Act, and it is in our view idle to contend, looking at the language of the section itself, a fortiori looking at the long course of decisions in the English <ORG>s under the corresponding section, that the <ORG> spoken of in that section is not the <ORG> before whom the legal proceedings or other attempt to bring a suit are in fact instituted.
+RatioOfTheDecision	The definition in Section 4(a) of the Act only applies where there 13 nothing repugnant to it in the context.
+RatioOfTheDecision	The contest of 3.
+RatioOfTheDecision	19 is repugnant to the interpretation of the word court ' therein being confined to the Distr ict Court.
+RatioOfTheDecision	3.
+RatioOfTheDecision	In that case <ORG> was the one referred to because that was a case not arising in a Presidency town.
+RatioOfTheDecision	We agree with the views of <NAME> and of <ORG> as just mentioned.
+RatioOfTheDecision	Therefore, if Section 19 of the Indian Arbitration Act is applicable to a suit in <ORG> at Bombay, in our opinion the Judge before whom that suit is pending has jurisdiction to stay the suit under that section.
+RatioOfTheDecision	4.
+RatioOfTheDecision	But a further point arises.
+RatioOfTheDecision	This is whether paragraph 18 of the Second Schedule of the Civil Procedure Code should not be the law applicable to such a suit rather than Section 19 of the Indian Arbitration Act.
+RatioOfTheDecision	This paragraph 18 is one of the provisions in the Second Schedule, which apply by virtue of Section 89 of the Code.
+Statute	Sub-section (1) of that section says:-  Save in so far as is otherwise provided by the Indian Arbitration Act , 1899, or by any other law for the time being in force, all references to arbitration whether by an order in a suit ox otherwise, and all p roceedings there under, shall be governed by the provisions contained in the Second Schedule.
+Argument	5.
+Argument	Both this Section 89 and the Second Schedule of the Code, with certain omissions which do not touch paragraph 18, have been prescribed as part of the procedure to be followed by <ORG> under the Rules that were framed by this Court in 1895 under the Presidency Small Cause Courts Act , 1882, is subsequently amended.
+Argument	This is under the power conferred by Section 9 of the Act just mentioned, as amended by Act I of 1895, and the second proviso to Section 8 of the Civil Procedure Code of 1808 enacts that:-  All rules heretofore made by any of the said High Courts under Section 9 of the Presidency Small Cause Courts Act, 1882, shall be deemed to have been validly made.
+Argument	6.
+RatioOfTheDecision	In view of that enactment the objection that has been taken by Mr. <NAME> that this extension of paragraph 18 to <ORG> is opposed to the saving of special or local laws in Section 4 of the Code, falls, in my  opinion, to the ground.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The question, however, remains, whether the words "save in so far as is otherwise provided by the Indian Arbitration Act , 1899", in Section 89 of the Code, operate to prevent paragraph 18 of the Second Schedule applying to <ORG> in preference to the provisions of Section 19 of the Indian Arbitration Act.
+RatioOfTheDecision	In my opinion the answer is in the negative.
+RatioOfTheDecision	There is, in the first place nothing contained in Section 19 which is in substantial opposition to the provisions in paragraph 18 of the Second Schedule.
+RatioOfTheDecision	There is a minor difference as to the stage when an application to stay the suit may be made, namely, that under Section 19 it may be made "at any time after appearance and before filing a written statement or taking any other steps in the proceedings", whereas under paragraph 18 it may be made "at the earliest possible opportunity and in all cases where issues are settled at or before such settlement."
+RatioOfTheDecision	The principle underlying both these phrases is practica lly the same, and, in my opinion, this difference is not important enough to make the provisions of Section 19 inconsistent with paragraph 18 of the Second Schedule.
+RatioOfTheDecision	This paragraph has been directly extended to <ORG> under powers conferred upon <ORG>, and, in ray opinion, its provisions should, therefore, be considered applicable in preference to the provisions of Section 19 of the Indian Arbitration Act.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Furthermore, it is to be noted that the first paragraph of Section 3 of the Indian Arbitration Act, which says that Sections 523 to 526 of the former Code of Civil Procedure, "shall not apply to any submission or arbitration to which the provisions of this Act for the time being apply", does not cover this particular paragraph 18 of the Second Schedule, because there was no corresponding provision in the Code of 1882, and the paragraph was newly enacted in the Code of 1908.
+RatioOfTheDecision	Therefore, in my opinion, paragraph 18 of the Second Schedule of the Code authorized the Judge to stay th e suit, provided the conditions conferring upon him the power to stay are satisfied in the present case.
+RatioOfTheDecision	9.
+RatioOfTheDecision	On this question there have been three points raised before us by Mr. <NAME>.
+RatioOfTheDecision	He first of all said that the application to stay the suit was made too late, and cited rulings that refer to oases under Section 19 of the Indian Arbitration Act.
+RatioOfTheDecision	Paragraph 18, however, merely says "at the earliest possible opportunity and in all cases where issues are settled at or before such settlement".
+RatioOfTheDecision	In the present case, the objection to the suit being proceeded with was raised in the opponent's written statement, which was put in on the first date on which the suit was fixed for hearing, namely, September 22, 1926.
+RatioOfTheDecision	In these circumstances I do not think that the provisions in paragraph 18 that I have mentioned have been contravened.
+RatioOfTheDecision	It was the earliest opportunity possible, unless the opponents were to go to the Judge on a date upon which the suit was not on the board, and I do not think that paragraph 18 contemplates  that this should be done.
+RatioOfTheDecision	10.
+Precedent	The next point is that the suit was in relation to cross-eon-tracts, and the decision in <ORG> v. <NAME> (1919) 14 Sind L.R.
+Precedent	18 was cited that, where cross-contracts have been made for the purpose of fixing the liability of the earlier contract, the rights and liabilities of the parties were determined, and there is no matter in dispute in regard to those contracts which could be referred to arbitration.
+Argument	The opponents in their written statement said that there were two additional contracts which were not cross-contracts, and the plaintiffs said that those were not included in the suit, because no loss had been incurred in regard to those contracts.
+RatioOfTheDecision	The point has not been specifically gone into the judgment of the lower <ORG>, and, as we can decide this application upon another ground, I think that it is one on which 1928 we had better abstain from expressing any opinion.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The third point is that in fact there is no submission to arbitration by the c ontrasts m suit, it la pointed out by Mr. <NAME> that the objects of the <ORG> are stated in the Rules of the Grain Merchants <ORG>.
+RatioOfTheDecision	Rule 1(ja) only specifies optional arbitration and not compulsory arbitration.
+RatioOfTheDecision	The actual words used (as translated) are "If and when any Member or Members refer their disputes to the arbitration of this <ORG>, and if they agree to accept the award, then they should decide."
+RatioOfTheDecision	That this merely gives an option to refer to arbitration is not disputed before us, and that has also been held in the judgment of the Court below.
+RatioOfTheDecision	This is supported by a Resolution of the Managing Committee dated October 15, 1911, which has been put in evidence.
+RatioOfTheDecision	This says :-"The <ORG> does not take in hand matters relating to difference, but if the parties wish to appoint arbitrators, that can be done."
+Argument	Reliance, however, is placed by Mr. <NAME> for the opponent on a Resolution of the Managing Committee dated July 5, 1924, which was communicated to members of the <ORG> by a cir cular.
+Argument	As translated, this Resolution runs as follows :  The paying and getting of difference (according) to the Vaidu delivery Rules and the Bazar Rules should be made within S days after the due date.
+Argument	If any one has an objection to the same a request should be made to the <ORG>, And a foe of Rs.
+Argument	2 should be charged for every such request.
+Argument	And the guilty party shall have to pay that fee.
+Argument	12.
+Argument	The learned Judge says :-  The powers of <ORG> to pass such a rule as the one relied upon by Mr. <NAME> are not shown to me but I am sure of this that the rule passed by them does not touch in any way on the powers of the <ORG>.
+RatioOfTheDecision	Because the <ORG> has got the powers to arbitrate and the Rule says to members that the powers being there you have now to go to the <ORG> and it will exercise the powers it possesses.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Against this view is the fact that the objects of the <ORG>, as I have already mentioned, do not contemplate compulsory arbitration but optional arbitration.
+RatioOfTheDecision	And  in those circumstances, there clearly is a legitimate doubt whether even the <ORG> itself could make a rule imposing compulsory arbitration upon all its members in regard to contracts to be made under the rules of the <ORG>.
+RatioOfTheDecision	Far more is there the gravest doubt as to the powers of <ORG> of the <ORG> to make arbitration compulsory, aa it is said it did, in 1924.
+RatioOfTheDecision	The learned Judge says that the powers of <ORG> to pass such a rule had not been shown to him, and the onus clearly lies upon the opponent to satisfy the <ORG> that it is a valid rule.
+RatioOfTheDecision	In oar opinion that has not been done.
+RatioOfTheDecision	Further-more, the Resolution in itself is very vague, and it is certainly open to question whether it really has the meaning that is put upon it by the opponent, If.
+RatioOfTheDecision	it was intended that in all cases a dispute about differences should be referred to arbitration by the <ORG>, then that should have been clearly stated in a way FawcM J. that would leave no doubt about that being  the meaning of the ~~~ rule or resolution.
+RatioOfTheDecision	Furthermore, there should in such a case obviously be some provision made as to the manner in which arbitrators should be appointed and so on, because as stated in paragraph 2 of the Second Schedule of the Code, the manner of appointment of arbitrators is a matter to be settled by agreement between the parties, and it is only when difficulties arise about appointment according to the agreement that a <ORG> exercises its power of appointment.
+RatioOfTheDecision	The view of the lower <ORG> that there was in fact a submission by the applicants to arbitration is, in our opinion, on the existing materials, entirely unjustified; and the case is one in which we think we should interfere under a 115, Civil Procedure Code, as in this view the <ORG> had no jurisdiction to pass the order it did.
+RatioOfTheDecision	14.
+RulingByPresentCourt	Accordingly, we set aside the order staying the suit and direct the <ORG> concerned to dispose of the suit according to law.
+RulingByPresentCourt	The applicants to have the costs of this application from the opponent.
+Precedent	M <NAME>, J.
+Precedent	15.
+Precedent	I agree, The context in which the words "the <ORG>" are used in Section 19 of the Indian Arbitration Act makes its clear that by those words the <ORG> before which the suit is pending is intended, The <ORG> of Small Causes would, therefore, have jurisdiction to stay the suit.
+RatioOfTheDecision	16.
+RatioOfTheDecision	With regard to the point of delay, it may be noted that this was a Small Causes <ORG> suit to which the rules and practice relating to suits on the Original Side of the High <ORG> would not necessarily apply.
+RatioOfTheDecision	It was not necessary in this suit to have filed a written statement or to have raised issues.
+RatioOfTheDecision	The suit reached a hearing for the first time on September 22, 1926, when, it is stated, in the notes of the learned Judge, that defences were filed, These defences were nine in number.
+RatioOfTheDecision	The very first defence related to the question of arbitration.
+RatioOfTheDecision	Up to this point, in my opinion, the objection with regard to delay would not hold good.
+RatioOfTheDecision	The case was argued on September 22 and adjourned to the 23rd without taking any eviden ce.
+RatioOfTheDecision	On September 23 the only evidence taken before the learned Judge related to the question of arbitration.
+RulingByLowerCourt	The case was again adjourned to September 24.
+Fact	On that day, the Court took some further evidence, upheld the defendant's preliminary objection and stayed the suit.
+Fact	Under these circumstances it must be held that the defendant applied for stay of the suit "at the earliest possible opportunity."
+RatioOfTheDecision	17.
+RatioOfTheDecision	On the interpretation, however, of the rules of <ORG>, in my judgment, the plaintiffs could not 1 be compelled to go to any arbitration.
+RatioOfTheDecision	The Resolution passed by <ORG> purporting to enact a rule making a reference to arbitration in such matters compulsory cannot, in my opinion, bind the plaintiffs in this case.
+RatioOfTheDecision	18.
+RulingByPresentCourt	I am of opinion, therefore, that the order of stay should be set aside and the Court should be directed to proceed with the hearing of the suit.

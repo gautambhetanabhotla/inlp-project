@@ -1,0 +1,290 @@
+Fact	PETITIONER: <NAME> (SMT.)
+Fact	Vs. RESPONDENT: <NAME> & ANR.
+Fact	DATE OF JUDGMENT24/06/1975 BENCH: <NAME>, V.R.
+Fact	BENCH: <NAME>, V.R.
+Fact	CITATION: 1975 AIR 1590 1975 SCC (2) 159 ACT: Representation of the People Act , 1951, S.116B(2)-Stay of election judgment and order-Judge-Power-Dimensions of Judge power to stay-Difference between executive discretion and judicial discretion, explained-Cognisability of non-legal arguments in such cases-Equity and ground of "unclean hands"-Courts cannot go into the merits of the case at the stage of granting stay-Balance of convenience, public justice etc.
+Fact	are relevant considerations--Precedents of pre- 1966 Election law are of no value to post-1966 cases of conditional stay--Nature of "type design' stay orders and their value-Legal effect of a stay order in general and in particular, in the instant case, as a Minister or Prime Minister-Power to ask for a review of provisional orders.
+Fact	HEADNOTE: In the General Parliamentary Elections of 1971, the appellant was de clared as a successful candidate from the Rae Bareli Constituency in Uttar Pradesh.
+Fact	She won the election by a margin of 1,11,810 votes over her nearest rival <NAME>.
+Fact	<NAME>, respondent No.
+Fact	1, who was sponsored by <ORG> filed an election petition u/s 80 r/w S.100 of the Representation of the People Act, 1951 to challenge the election of the successful candidate.
+Fact	A learned single judge of <ORG> upheld the challenge on two grounds rejecting the other grounds of challenge.
+Fact	The learned judge also granted an absolute 20 days' stay.
+Fact	The appellant moved this <ORG>, challenging the 'unseating' verdict against her by the High <ORG>.
+Fact	The appellant also sought "absolute stay" of the judgment and order under appeal.
+Fact	Respondent No.
+Fact	1 filed cross-appeals against the said judgment rejecting the grounds of challenge, except two.
+Fact	Allowing the petition and granting the stay in terms, the <ORG> HELD : 1.
+RatioOfTheDecision	While the right to appeal is statutory, the power to stay is discret ionary.
+RatioOfTheDecision	But judicial discretion-indeed, even executive discretion-cannot run riot.
+RatioOfTheDecision	The former though plenary, is governed in its exercise by sound guidelines and courts look for light, inter alia, from practice and precedent without however being hide-bound mechanically.
+RatioOfTheDecision	Judicial power is dynamic, forward looking and socially luscent and aware.
+RatioOfTheDecision	[407 H, 408 A] 2.
+RatioOfTheDecision	The court decides forensic questions without getting embroiled in nonlegal disputes working as it does in a sound-proof system of sorts.
+RatioOfTheDecision	The <ORG> is the quiet of the storm centre and views with an equal eye, the claims on each side, taking judicial note of the high issues and balance of convenience in the wider context.
+RatioOfTheDecision	The judicial approach is to stay away from political thickets and new problems with institutionalised blinkers on, so long as the court methodology remains the same.
+Precedent	Arguments about political sentiment, political propriety and moral compulsion though relevant at other levels, fall beyond the conventional judicial orbit and the courts  have to discriminately shift them while deciding.
+Precedent	on the grant of stay pending an appeal.
+Precedent	If national crises and democratic considerations, and not mere balance of convenience and interests of justice, were to be major inputs in the Judges exercise of discretion systematic changes and shifts in judicial attitude may perhaps be needed.
+Precedent	But sitting in time-honoured forensic surroundings <ORG> is constrained to judge the issues before it by canons sanctified by the usage of this <ORG>.
+Precedent	[408 C-H] 3.
+RatioOfTheDecision	The preliminary objection of "unclean bands" not entitling the petitioner/ ,appellant to seek the equitable relief of stay is not founded on facts.
+RatioOfTheDecision	The stay order does not state that it was to enable the election of a different leader that time was granted.
+RatioOfTheDecision	The petitioner could not be faulted as having played false to the <ORG> since <ORG> convoked subsequent to the judgment has full bloodedly plumped in favour of her remaining in office 406 as Prime Minister and guiding the Part y as its one and only leader.
+RatioOfTheDecision	In such matters one has go by prima facie materials and probabilities.
+RatioOfTheDecision	(408 H, 409 A-El 4.
+RatioOfTheDecision	At the stage when the <ORG> is considering whether a stay should be granted or not, it is premature and perhaps unwise to pronounce on the merits of the appeal itself except where the judgment contained grotesque errors absurd conclusions or grossly erroneous propositions of law.
+RatioOfTheDecision	The High <ORG>'& finding, until upset, holds good, however weak it may ultimately prove.
+RatioOfTheDecision	The offence of corrupt practice u/s 123 of the Representation of the People Act , 1951 may be light or grave, which is for the <ORG> which hears the appeal In extensor to hold, one way or the other.
+RatioOfTheDecision	When findings of contravention of the election law is before the <ORG>, this <ORG> cannot take the prima facie view that the justice of the case justifies indifference to those findings.
+RatioOfTheDecision	[410 C, 411A, F-G] 5.
+RatioOfTheDecision	Socio-legal considerations such, as prior practice of this <ORG>, special circumstances compelling departure, the balance of  convenience, dictates of public justice, the way in which public interest ties, are relevant to the grant or refusal of stay and the terms to be imposed on the petitioner in the event of grant.
+RatioOfTheDecision	[411 H, 412 A] 6.
+Statute	It was for the first time in 1966, by amending Act LXVII of 1966, that a statutory right of appeal to <ORG> was created by S.116A of the Representation of the People Act, 1951 and a plenary power to grant stay, conditional or otherwise was vested in this <ORG> u/s 116 B(2) of the Act, independently of constitutional remedies' The question of an absolute stay or a qualified stay of the unseating verdict did not and could not arise under the pre- 1966 law and to rely upon past precedents as tantamount to absolute stay of an order which took effect would be untenable.
+Statute	[413 G, 414 C-E] 7.
+Statute	The "type-design" of stay orders made by this <ORG> under the post1966 law has, with marginal variations, acquired a standardized form.
+Statute	This cursus curiae is more persuasive for adoption, unless exceptional l egal or other grounds for deviation are made out for grant of absolute stay.
+Statute	The orders are dichotomous in character.
+Statute	They are : (a) that "the operation of the judgment and order of <ORG> be and is hereby stayed" and (b) the petitioner shall abide by certain enumerated terms viz.
+Statute	(i) that he will be entitled to attend the Sessions of the <ORG> and sign the Register; (ii) he shall not take part in the proceedings of the <ORG> or vote or draw any remuneration as such member.
+Statute	[414 F-G, 415 A-B] 8.
+Fact	Section 8A being the necessary follow-up of the judgment u/s 100 of the Representation of the People Act , 1951 the legal effect of an order of this Court suspending the application of the judgment and order of <ORG>' is that by sheer force of the first limb of this court's stay order, the judgment and order of <ORG> is nullified for the once i.e.
+RulingByLowerCourt	till the appeal is disposed of.
+RulingByLowerCourt	Consequently the disqualification also ipso jure remains in abeyance.
+RatioOfTheDecision	There is a plenary eclipse of <ORG>  <ORG>'s judgment and order during the pendency of the appeal, subject to the few restraints clamped down on the applicant.
+RatioOfTheDecision	[415 C-D, H, 416 A] 9.
+RatioOfTheDecision	This appeal relates solely to the <ORG> Membership of the applicant and the subject matter of her office qua Prime Minister is not directly before this <ORG> in this litigation.
+RatioOfTheDecision	Indeed that office and its functions are regulated carefully by a separate fascinating of Articles in the Constitution.
+RatioOfTheDecision	There is some link between membership of one of the two <ORG> and Ministership ( Art.
+RatioOfTheDecision	75 ), but once the stay order is made, the disqualification regarding Membership is in suspended animation and does not operate.
+RatioOfTheDecision	Likewise the appellant's Membership of the <ORG> remains in force so long as the stay lasts.
+RatioOfTheDecision	However there will be a limitation regarding the appellants' participation in the proceedings of the <ORG> in her capacity as Member thereof, but, independently of the Membership, a Minister and a forty the Prime Minister, has the right to addre ss both <ORG> of <ORG> (without right to vote, though) and has other functions to fulfil (Arts.
+RatioOfTheDecision	74, 75, 78 and 88 are Illustrative.)
+RulingByLowerCourt	In short the restraints set out in the usual stay order cannot and will not detract from the appellant being entitled to exercise such 407 rights as she has, including addressing <ORG> and drawing salary, in her capacity as Prime Minister.
+RulingByLowerCourt	There will thus be no legal embargo on her holding the office of Prime Minister.
+RulingByLowerCourt	[416 D-G] [The court gave liberty to the parties to move <ORG> of this ,<ORG>, if justifying considerations appeared necessary later on, to move for variations of the conditions of the instant stay order] JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+RulingByLowerCourt	887 of 1975 and Civil Misc.
+Fact	Petition No.
+RatioOfTheDecision	3557 of 1975 (Application for absolute and unconditional stay with an exparte ad interim order).
+RatioOfTheDecision	<NAME> and <NAME> for the Appellant.
+RatioOfTheDecision	<NAME> for the Respondent.
+RatioOfTheDecision	ORDER  1.
+RatioOfTheDecision	Right at the beginning, I must record appreci ation of the valuable assistance given by counsel on both sides to the <ORG> in clarifying the twilight aspects and unraveling the latent facets of what, viewed in typically isolated legal perspective, unturned to the national wave-length and unclouded by the dust-storms of politics, is a humdrum case.
+RatioOfTheDecision	Having regard to the obstreperous environs and mounting tensions surrounding the events following upon the judgment of the Allahabad High <ORG>, it must be stated to the Credit of <NAME> and <NAME> that in their suave submissions they have shown how sound and fury only help thwart the thought-ways of law and extra-legal tumults can be walled off from the <ORG> hall.
+RatioOfTheDecision	The arguments have been largely legal and their merits have to be weighed in judicial scales.
+RatioOfTheDecision	What, perhaps in a certain view, are not strictly pertinent to the stay proceedings have, however, been adverted to at the bar, inevitably and understandably, but within marginal limits, if I may say so, because the proceedings in the  <NAME> ,of Justice must be informed, to some extent, by the great verity that the broad sweep of human history is guided by sociological forces beyond the ken of the noisy hour or the quirk of legal nicety.
+RatioOfTheDecision	Life is larger than Law.
+RatioOfTheDecision	Now I proceed to discuss the merits of the matter.
+RatioOfTheDecision	2.
+Fact	The appellant has moved this Court challenging the 'unseating' verdict against her by <ORG>.
+Fact	She, has also sought 'absolute stay' of the judgment and order under appeal.
+Fact	Entering a caveat, the respondent has also appeared through counsel and opposed the grant of stay.
+RatioOfTheDecision	3.
+RatioOfTheDecision	While the right to appeal is statutory, the power to stay is discretionary.
+RatioOfTheDecision	But judicial discretion-indeed, even executive discretion-cannot run riot.
+RatioOfTheDecision	The former, though plenary, is governed in *Already reported in (1976) 2 S.C.R.
+RatioOfTheDecision	P. 347.
+RatioOfTheDecision	408  its exercise by sound guidelines, and courts look for light, inter alia,.
+RatioOfTheDecision	from practice and precedent, without however, being hide-bound mechanically by the past alone.
+RatioOfTheDecision	After all, Judicial power is dynamic, forw ard-looking and socially luscent and aware.
+RatioOfTheDecision	I mention this dimension of 'judge- power' because, the industry and ingenuity of both lawyers have unearthed prior instances zigzagging now and then but substantially striking the same note.
+RatioOfTheDecision	A few orders from the debris of old records have been brought up which seem to suggest variations in the type of stay granted by the higher courts.
+RatioOfTheDecision	I shall have occasion to dilate on them a little later.
+RatioOfTheDecision	Suffice it to note that the power of the court must rise to the occasion, if justice, in its larger connotation, is the goal-and it is.
+RatioOfTheDecision	4.
+RatioOfTheDecision	Having regard to the historic power-stakes involved in this election appeal and stay proceeding, vigorous arguments, marked by strokes of heat and flashes of light, have been heard in this application for stay and the time consumed at the bar has been considerably more than when like matters have been routinely dealt with by this <ORG>.
+RatioOfTheDecision	Let it be plainly understood that the <ORG> decides forensic questions without getting embroiled in non-l egal disputes working as it does in a sound-proof system of sorts.
+RatioOfTheDecision	Moreover, notwithstanding the unusual, though natural, excitement and importance surrounding the case, the <ORG> is the quiet of the storm centre and views, with an equal eye, the claims on each side, taking judicial note of the high issues and balance of convenience in the wider context.
+RatioOfTheDecision	Arguments about public sentiment, political propriety and moral compulsion, though touched upon at the bar and relevant at other levels, fall beyond the conventional judicial orbit and have to be discriminately shifted.
+RatioOfTheDecision	Nevertheless, <NAME> has pressed before me the propriety and urgency of the <ORG> taking into consideration the national situation even while exercising its discretionary power.
+RatioOfTheDecision	As, a counterweight to this submission, <NAME> has claimed that no republic can surrender its democratic destiny to a single soul without being guilty of overpowering the parliamentary process by a personality cult.
+RatioOfTheDecision	This brings to the fore an acti vist interrogation about the cognisibility of such considerations by a court.
+RatioOfTheDecision	Do the judicial process and its traditional methodology sometimes make the Judicature look archaic, with eyes open on law and closed on society, forgetting the integral yoga of law and society ?
+RatioOfTheDecision	If national crises and democratic considerations, and not mere balance of convenience and interests of 'justice', were to be major inputs in the Judges exercise of discretion, systemic changes and shifts in judicial attitudes may perhaps be needed.
+RatioOfTheDecision	Sitting in time-honoured forensic surroundings I am constrained to judge the issues before me by the canons sanctified by the usage of this <ORG>.
+RatioOfTheDecision	5.
+RatioOfTheDecision	Now to the points urged before me.
+RatioOfTheDecision	More or less by way of preliminary objection, <NAME> asserted that the petitioner,, having come with unclean hands, was not entitled to seek the equitable relief of stay.
+RatioOfTheDecision	How were her hands unclean ?
+RatioOfTheDecision	Because, the argument runs, her advocate induced the High <ORG> into granting a stay by misrepresenting  that if the judgment came into immediate 4 09 effect, the national government would be paralyzed for want of a Prime Minister and so time was needed for the ruling <ORG> to elect a new leader to head the Government.
+RatioOfTheDecision	Taken in by this alleged critical need of the democratic process, the learned Judge granted 20 days' stay.
+RatioOfTheDecision	This spell, ingeniously secured, was perverted to consolidate her leadership, not to find a successor.
+RatioOfTheDecision	If this version of the respondent were veracious, the petitioner's conduct were dubious and this Court would not condone such 'solemn mockery'.
+RatioOfTheDecision	But <NAME> submission loses its sting if <NAME> were to be heeded.
+RatioOfTheDecision	For, according to the latter, all in a hurry a stay was moved by the Allahabad advocate praying for stay stating both the need to elect a leader (not, another leader) and to enable filing of an appeal.
+RatioOfTheDecision	The Congress Parliamentary <ORG> was since convoked but there was a thunderously unanimous vote reaffirming, faith in the petitioner as leader and Prime Ministe r. If her <ORG> so fullbloodedly plumped in favour of her remaining in office as Prime Minister and guiding the <ORG> as its one and only leader, the petitioner could not be faulted as having played false to the <ORG>.
+RatioOfTheDecision	She could only call a meeting of the <ORG> but not coerce the members to elect anyone other than the one they had set their hearts upon.
+RatioOfTheDecision	Whether that <ORG>'s leadership resources were too inadequate to secure an alternative chief may be an interesting question, but the <ORG> does not peep into that penumbral area.
+RatioOfTheDecision	Moreover, the stay order does not state that it was to enable the election of a different leader that time was granted.
+RatioOfTheDecision	I have no good reason to reject the petitioner's plea that the choice of an alternative leader was left to her <ORG>, that she did what she could in the spirit of the representation to <ORG> and did not what she could not viz., to force her partymen to push her aside for the nonce for the <ORG>'s satisfaction.
+RatioOfTheDecision	In these matters one has to go by prima facie materials a nd probabilities.
+RatioOfTheDecision	I overrule the 'unclean hands' objection.
+RatioOfTheDecision	6.
+RatioOfTheDecision	<NAME>, for the petitioner, contended that an unconditional stay was appropriate_and essential because (a) it was Sanctioned by some precedent; (b) there were momentous consequences disastrous to the country if anything less than the total suspension of the order under appeal were made; (c) the adverse holding of <ORG> on two counts hardly exceeded, even on its face, technical violations unworthy of being visited with an ad interim embargo on <ORG> Membership during the pendency of the appeal apart from being palpably perverse and (d) the nation was solidly behind the petitioner as Prime Minister.
+RatioOfTheDecision	Minimal justice, public interest and balance of convenience concurred in his favour.
+RatioOfTheDecision	<NAME>, on the contrary, joined issue on these pleas and asserted that (a) the appellant must be treated like any other party; (b) that an absolute stay was unprecedented; (c) that the democratic process would take care of itself even  if the petitioner stepped aside for a while; (d) the corrupt practices were corrupt in law and fact, fully proved and could not be glossed over by a court of law as technical and (e) the alleged solid support by party minions meant little since similar phenomena could be organized by any strategist in top office and the rule of law cannot be drowned by the drums and shouts of numbers.
+RatioOfTheDecision	In his submission, public interest and balance, of convenience as also justice to the <ORG> judgment demanded that an illegally elected Member did not continue longer as Prime Minister under the umbrella of a stay order from this Court, without jeopardizing the credibility of the country abroad.
+RatioOfTheDecision	7.
+RatioOfTheDecision	<NAME> assailed, in his opening submissions, the two findings recorded against the appellant holding her guilty of corrupt practice.
+RatioOfTheDecision	Indeed, he was at pains to convince me that his client had, a strong prima facie case on the merits, in the sense that the judgment, on its face, was perverse and legally untenable.
+RatioOfTheDecision	Altho ugh I listened at some length to these arguments and, to an extent, to the counter submissions made by <NAME> in his endeavour to establish that the holdings were sound, I made it fairly clear in the course of the hearing that at this stage when I was considering whether a stay should be granted or not, it was premature and perhaps unwise to pronounce on the merits of the appeal itself except where the judgment contained grotesque errors, absurd conclusions or grossly erroneous propositions of law.
+RatioOfTheDecision	Having considered the submissions on this basis, I do not think I should express any opinion way or the other on the merits of the findings.
+RatioOfTheDecision	Nor do regard it just for counsel for the respondent to say that every discrepancy in the petitioner's evidence or other incorrectness in testimony can be called false.
+RatioOfTheDecision	Not to accept a witness's evidence may be due to many grounds of probability not always because of univercity or unreliablity.
+RatioOfTheDecision	These aspects will surely be examined at the hearing of the appeal, no t now.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Counsel for the petitioner, after dealing with the 'ex- facie untenability of the judgment under appeal which I have just disposed of, moved on to what he called justice between the parties.
+RatioOfTheDecision	This is not an ordinary lis, where even after stepping down from office, the petitioner can, if and after she wins the appeal step back into office.
+RatioOfTheDecision	In politics, 'red in tooth and claw', power lost is not necessarily followed, after legal victory by power regained.
+RulingByPresentCourt	The <ORG> cannot in that sense, restore the parties to their original position as in ordinary cases.
+RulingByPresentCourt	However, the respondent suffers no prejudice by the continuance of the petitioner as <ORG> Member and Prime Minister.
+RatioOfTheDecision	To cap it all, there is hardly a run of a little over half-a-year for the full term of this <ORG> to expire.
+Precedent	So, he pressed for continuance of the status quo which had gone on for a few years now during the pendency of the Election Petition.
+Precedent	9.
+Precedent	The respondent's counsel retorted that the question of justice between two privat e persons was alien to election litigation and cited a ruling to emphasize what is obvious.
+Precedent	In an election case, the whole constituency is, in an invisible but real sense, before the court and justice to the electoral system which is the paramount consideration is ,best done by safeguarding the purity of the polls regardless of the little rights of individual combatants.
+Precedent	10.
+Precedent	At the first flush I was disposed to prolong the 'absolute stay' granted by <ORG>, moved not only by what <NAME> had urged but by another weighty time factor that the appeal itself, in the light of the directions I have already given yesterday, may well be decided in two or three months.
+Precedent	But on fuller reflection I have hesitated to take that course.
+Precedent	After all, <ORG>'s finding, until upset, holds good, however weak it may ultimately prove.
+Precedent	The nature of the invalidatory grounds upheld by <ORG>, I agree, does not involve the petitioner in any of the graver electoral vices set out in Section 123 of the Ac t. May be they are only venial deviations but the law.
+Precedent	as it stands, visits a returned candidate with the same consequence of invalidation.
+Precedent	Supposing a candidate has transported one voter contrary to the legal prohibition and even though he has won by a huge plurality of votes his election is set aside.
+Precedent	Draconian laws do not cease to be law in court but must alert a wakeful and quick-acting legislature.
+RatioOfTheDecision	So it follows that I cannot, at this preliminary stage, lightly dismiss the illegality of the election as held by <ORG>.
+RatioOfTheDecision	But more importantly, I am disinclined to set store by <NAME> 'Private justice' submission (to borrow his own phrase) because the ultimate order I propose to make, if I may even here anticipate, substantially preserves the position of the petitioner as Member of <ORG> and does not adversely affect her legal status as Prime Minister.
+RatioOfTheDecision	11.
+RatioOfTheDecision	In another facet of the same argument <NAME> urged that, after all, the petitioner had been held 'technically' guilty of `  corrupt practice' and that the grounds set out by the learned Judge were too flimsy to stand scrutiny at the appellate level.
+RatioOfTheDecision	Therefore, the 'justice' of the case demanded continuance of the 'absolute stay' granted by the trial Judge himself.
+RatioOfTheDecision	<NAME>, on the other side, refuted this submission as specious.
+RatioOfTheDecision	His argument is this.
+Precedent	'Corrupt practice' could not be dismissed as 'technical' if one bad any respect for the law of the land as laid down by <ORG>.
+Precedent	Once the law has defined 'corrupt practice', commission thereof cannot be condoned as 'technical.
+Precedent	'That is defiance of the law and challenge to the wisdom of <ORG>.It is one thing to amend the law, but it is another to disregard iton a ground unknown to law that is only a nominal deviance.I am afraid it is premature and presumptuous for me, at this stage,to pronounce upon the relative worth of the findings of <ORG>.The offence may be light or grave.
+Precedent	But that is for the Benchwhich hears the appeal in extenso to hold, one way or the  other.
+Precedent	Before me are findings of contravention of the election law and I cannot take the prima facie view that the justice of the case justifies indifference to those findings.
+Precedent	In short, I am not influenced by this aspect of <NAME> argument.
+Precedent	12.Leaving aside the injury to private rights as of lesser consequence in election disputes, let me look at the customary factors courts are prone to probe in stay matters where the discretion vests in court.
+Precedent	13.What has been the prior practice of this Court in such cases ?
+Precedent	What, if any, are the special circumstances compelling departure in favour of the petitioner ?
+RatioOfTheDecision	What is the balance of convenience ?
+RatioOfTheDecision	412  What does the public justice of the case dictate Which way does public interest lie ?
+RulingByPresentCourt	These are the socio-legal considerations which are relevant to the grant or refusal of stay and the terms to be imposed on the petitioner in the event of grant.
+RulingByPresentCourt	Stay pending appeal has been usually granted but hemmed in by conditions.
+RatioOfTheDecision	The respondent himself has filed a  sheaf of orders of conditional stay granted by this <ORG>, suggesting by implication that those conditions should be attached to any stay the <ORG> may be inclined to issue.
+RatioOfTheDecision	The terms in which such limited stay orders have been couched, the legal implications thereof, the right surviving under them and the impact thereof on the office of Prime Minister of the petitioner will be scanned more closely later in this order.
+RatioOfTheDecision	Suffice it to say for the present that for around two decades there has rarely been what <NAME> calls an 'absolute stay' issued by this <ORG> in election cases where a Member has been unseated by the High <ORG> for corrupt practice.
+RatioOfTheDecision	14.
+RatioOfTheDecision	There was reference at the, bar to political compulsions like the swell of the tidal wave in favour of the petitioner which, even if true (though controverted by the other side), cannot breach the legal dykes to force a stay where precedentially it has not been granted.
+RatioOfTheDecision	Nor can the national crisis, conjured up by counsel for the petitioner, in the even t of her exit from office, be a valid legal consideration, even if it may perhaps have weight in other spheres.
+Argument	Shri <NAME> urges that moreover one cannot readily accept that the nation will come to a grinding halt it one person is not available to fill the office of Prime Minister.
+Precedent	I make no comments on these rival presentations for it is difficult for the Judge to guage with his traditional court roon apparatus the reality and extent of the circumstances of national magnitude the parties have dwelt upon.
+Precedent	15.
+Precedent	So we come to the next criterion which is commonplace in this jurisdiction viz., the balance of convenience.
+RatioOfTheDecision	Here, counsel for the petitioner has addressed an attractive argument (repeating in some measure what, under a different head, he had urged) that if the appeal itself were disposed of early, the continuance of the status quo would go a long way to preserve and promote administrative stability and policy continuity, having regard to the fact that the petitioner in this case was more than  a Member of <ORG> but was the Prime Minister and leader of the ruling <ORG>.
+RatioOfTheDecision	In a democracy, the Prime Minister is the central figure who decides crucial internal and international policy, directs measures of great economic moment and is responsible and accountable to the <ORG> and the nation for the performance of the <ORG>.
+RatioOfTheDecision	Of course, collective <ORG> responsibility is of the essence of the democratic process, but <ORG> is virtually chosen by the President in accordance with the wishes of the Prime Minister.
+RatioOfTheDecision	The broad guidance of the <ORG> in power not- withstanding.
+RatioOfTheDecision	the personality of a Prime Minister has a telling effect on democratic government.
+RatioOfTheDecision	If, therefore, the appeal itself will be disposed of in some months, 'as it is likely to be, the balance of convenience will be in favour of continuance of the same team which is animated by the Presence of the key personality within <ORG>.
+RatioOfTheDecision	Again, the short spell of the pendency of the appeal-a case of th is climactic pitch deserves to be disposed of with quick dispatch and I have already given some directions to facilitate it-is a strong factor for non-disturbance of the petitioner's position, having regard to the traumatic effect on and grievous consequences to the petitioner.
+RatioOfTheDecision	Of course, these are components of a wider concept of balance of convenience and not altogether forbidden ground in dealing with discretionary exercise.
+RatioOfTheDecision	May be there is some force in the plea that there should be a stay of operation of the judgment and order in such manner that upsetting the Ministry in office should be obviated.
+RatioOfTheDecision	Ordinarily.
+Precedent	even with the same <ORG> ruling, when a Prime Minister resigns, the whole team is ushered out leaving it free for the new leader to choose his new set.
+Precedent	16.
+Precedent	<NAME> has countered this argument by reliance on the practice in the parliamentary system where within the ruling <ORG> a leader is changed or ceases to be available and a new leader is elected, so that the democratic process find s smooth expression.
+Precedent	This, he said, has happened in India, as elsewhere and no plea of balance of convenience can be built on what in fact is a desire to remain in office.
+Precedent	The Judicial approach, as already pointed out by me, is to shy away from political thickets and view problems with institutionalised blinkers on, so long as the court methodology remains what it is.
+Precedent	So no comments again.
+Precedent	But the balance of convenience, widely or limitedly connoted, is reasonably taken care of in the shape of the conditional stay granted at the conclusion of this judgment.
+Precedent	17.
+Precedent	<NAME> drew my attention to a few vintage instances of what he calls absolute stay having been granted in election matters by higher <ORG>.
+Precedent	These are cases of long ago and the argument based on them stems from an insufficient comprehension about the anatomy of the pre-1956 Representation of the People Act , 1951 (Act XLIII of 1951).
+Precedent	The <ORG> speaks for today, based on current practice and present law.
+Precedent	18.
+Precedent	In this context it is necessary to  remember that in the Act as it originally stood, Election <ORG>s tried election disputes and s. 107 provided  107.
+Precedent	Orders to take effect only on publication-An order of the <ORG> under section 98 or section 99 shall not take effect until it is published in <ORG> under section 106 ."
+RulingByLowerCourt	Indeed, there was no right of appeal provided in the Act and the aggrieved parties had to approach <ORG> or <ORG> under the provisions of the Constitution.
+RulingByLowerCourt	The higher Courts in such situations merely stayed the publication in the <ORG>, the consequence being that the order of the <ORG> did not come into effect atall.
+RulingByLowerCourt	The question, therefore, of an absolute stay or a qualified stay of the unseating verdict did not and could not arise.
+RulingByLowerCourt	To relyupon orders passed under the then law merely staying publication of theorder of the <ORG> in the <ORG> as tantamount to absolute stay ofan order which took effect would be untenable.
+RulingByLowerCourt	414  19.
+RulingByLowerCourt	In 1956 a major change in the law was made where bythe order of <ORG> appointed under S. 86 'shall take effect as soon as it is pronounced by the <ORG>' (vide S. 107 ,as amended by Act XXVII of 1956).
+Precedent	By the same amending Act, an appeal was provided from orders of Election <ORG>s to <ORG> State and s. 116A(4) clothed <ORG> with power to stay operation of the order appealed from-and if stay was granted 'the order shall be deemed never to have taken offect.
+Precedent	Of course, against appellate orders of <ORG> the disappointed party could come to this Court under the provisions of the Constitution (.Arts.
+Precedent	133 or 136).
+Precedent	20.Still later, by amending Act No.
+Precedent	LXVII of 1966, <ORG> was conferred original jurisdiction to try election petitions and it was provided in s. 107 that the order of <ORG> 'shall fake effect as soon as it is pronounced......
+Precedent	While a limited power to stay operation of the order of <ORG> was conferred by s. 116B(l) on <ORG> itself, the statutory right of appeal t o <ORG> was provided for by S. 116A .
+Precedent	However, by virtue of s. 116B(2) it was enacted :  "116B(2).
+Precedent	Where an appeal has been preferred against an order made under section 98 or section 99 , <ORG> may on sufficient cause being shown and on such terms and conditions as it may think fit, stay the operation of the order appealed from."
+RatioOfTheDecision	Thus, for the first time, it was in 1966 that a statutory right of appeal to this <ORG> was created and a plenary power to grant stay, conditional or otherwise, was vested in this <ORG>, independently of constitutional remedies.
+RatioOfTheDecision	21.This narration of the historical background regarding the pre-1966 statutory position is sufficient to distinguish old examples of the pattern of stay granted by this <ORG>.
+RatioOfTheDecision	Today there is no case of prohibition of publication in the <ORG>.
+RatioOfTheDecision	Above all, the type-design, if I may use such an expression, of stay orders made by this <ORG> under the present law has, with marginal variations, acquired a standardised form.
+RatioOfTheDecision	Naturally, t his cursus curiae is more persuasive for adoption, unless exceptional legal or other grounds for deviation are made out for grant of absolute stay.
+RatioOfTheDecision	22.Even on the basis of the post-1966 law, <NAME> has argued that taking legitimate cognizance of the peerless position of the appellant as Prime Minister of the country, judicial discretion must least disturb not merely her seat in <ORG> but her office in <ORG>.
+RatioOfTheDecision	23.I proceed to take a close-up of the 'sample orders' made by this <ORG> during the last many years, dissect them in the background of the judgments under appeal where such orders were passed and mould my order deriving support therefrom.
+RatioOfTheDecision	So I turn the focus on the implications and effect of the stay orders in the cases covered by Annexure A filed by the respondent which are in consonance with the usual orders passed by this <ORG> in election appeals.
+RatioOfTheDecision	24.It is evident on its face that the orders are dichotomous in character.
+RatioOfTheDecision	The two limbs stand out clearly and they are : (a) that 't he operation of the Judgment and Order of the High Court be and is hereby stayed' and (b) the petitioner shall abide by certain enumerated terms viz., (i) he will be entitled to attend the Sessions of the <ORG> and sign the Register; (ii) he shall not take part in the proceedings of the <ORG> or vote or draw any remuneration as such Member.
+RatioOfTheDecision	In the instances I have examined, the appeals are against orders 'unseating' the returned candidate on the ground of corrupt practice and, disqualifying him for the statutory six-year period prescribed in s. 8A.
+RatioOfTheDecision	If corrupt practice is found, disqualification follows, although sometimes <ORG> expressly writes it into the order itself, as in the present case.
+RulingByPresentCourt	If the finding of corrupt practice does not come into effect, the sequel of disqualification also does not come into effect.
+RulingByPresentCourt	If the biopsy of the stay order inevitably shows that the finding of corrupt practice is suspended and is not operative, the electoral disqualification automatically stands eclipse d. Section 8A being the necessary follow-up of the judgment under s. 100 , what is the legal effect of an order by this <ORG> suspending the operation of the judgment and order of <ORG> ?
+RulingByPresentCourt	By sheer force of the first limb of this <ORG>'s stay order, the judgment and order of <ORG> is nullified for the nonce i.e., till the appeal is disposed of.
+RulingByPresentCourt	Consequentially, the disqualification also ipso jure remains in abeyance.
+RulingByPresentCourt	25.What then is the import of the conditions imposed in the stay order ?
+RulingByPresentCourt	They inhibit the elected member, who otherwise by virtue of the stay of the judgment, will be entitled to exercise all his rights and privileges as Member, from doing certain things expressly tabooed, viz., (a ) participating in the proceedings; (b) voting or drawing remuneration.
+RulingByPresentCourt	For all other purposes, the voiding judgment being suspended, he continues as Member.
+RatioOfTheDecision	Indeed, the very direction that he attend the <ORG> and sign in the <ORG> as Member to avoid disqualification under Art.
+RatioOfTheDecision	101 of the Constitut ion postulates that he is a Member and is not disqualified under s. 8A of the Act.
+RatioOfTheDecision	For, if the disqualification under s. 8A operates and he ceases to be a Member, there is no need to veto his drawing remuneration, voting or participating in the proceedings.
+RatioOfTheDecision	It would be a curious contradiction to say that a person is disqualified to be chosen as or being a Member and yet be allowed to sign the Register as Member.
+RatioOfTheDecision	Can the <ORG>, without stultifying itself and usurping power, permit a non-Member to sit in the <ORG> instead of or even in the Visitor's gallery, unless it necessarily reads into the order of stay of judgment a suspension of the disqualification also ?
+RatioOfTheDecision	There are a number of other privileges for a Member of <ORG> which are left untouched by this <ORG>'s prior stay orders.
+RulingByPresentCourt	Moreover, the specific direction suspending the judgment and order under appeal, read in its plenitude, also suspends the finding of corrupt practice.
+RulingByPresentCourt	So much so, the disqualification also shares the fate.
+RatioOfTheDecision	I have no doubt that t he reasonable effect of a stay order is that there is a plenary eclipse of <ORG> judgment and order during the pendency of the appeal, subject to the' few restraints clamped down on an appellant.
+RatioOfTheDecision	Those restraints are the second limb of the stay order and are explicit enough.
+RatioOfTheDecision	26.The essential point to note is that by necessary implication the, disqualification imposed oil every appellant also stands suspended in all cases of conditional stay.
+RatioOfTheDecision	The stay is complete, but carved out of it are but three, limitations.
+RatioOfTheDecision	'For all other purposes, the appellant, in all such cases, continues a Member.
+RatioOfTheDecision	For instance, if he is prevented from entering the <ORG>, a breach of privilege arises.
+RatioOfTheDecision	I have gone at length into these ramifications to remove recondite doubts.
+RatioOfTheDecision	The typical stay restores to the appellant, during its operation, the full status of a Member of a <ORG> minus the right to participate in debates, including voting and drawing of remuneration as a legislator.
+RatioOfTheDecision	27.For these reasons I propose  to direct a stay, substantially on the same lines as have been made in, earlier similar cases, modified by the compulsive necessities of this case.
+RatioOfTheDecision	28.What would be the legal impact of an order of this type on the Prime Ministership of the petitioner ?
+RatioOfTheDecision	The question canvassed about the office of the Prime Minister and its involvement in the present case has exercised counsel on both sides and it is but proper to dissolve the mists of possible misunderstanding by an explicit statement.
+RatioOfTheDecision	This appeal, it is plain, relates solely to the <ORG> Membership of the appellant and the subject matter of her office qua Prime Minister is not directly before this Court in this litigation.
+RatioOfTheDecision	Indeed, that office and its functions are regulated carefully by a separate fasciculus of Articles in the Constitution.
+RatioOfTheDecision	There is some link between Membership of one of the two <ORG> and Ministership ( Art.
+RatioOfTheDecision	75 but once the stay order is made, as has been indicated above, the disqualification regarding Membership is in sus pended animation and does not operate.
+RatioOfTheDecision	Likewise, the appellant's Membership of <ORG> remains in force so long as the stay lasts.
+RatioOfTheDecision	However, there will be a limitation regarding the appellant's participation in the proceedings of <ORG> in her capacity as Member thereof, but, independently of the Membership, a Minister,, and, a fortiori, the Prime Minister, has the, right to address both <ORG> of <ORG> (without right to vote, though) and has other functions to fulfil (Arts.
+RatioOfTheDecision	74, 75, 78 and 88 are illustrative) In short, the restrictions set out in the usual stay order cannot and win not detract from the appellant being entitled to exercise such rights as she has, including addressing <ORG> and drawing salary, in her capacity as Prime Minister.
+RatioOfTheDecision	There will thus be no legal embargo on her holding the office of Prime Minister.
+RatioOfTheDecision	However, this legal sequitur of the situation arising from the stay' of the judgment and order of <ORG>, including the suspension of the disqualification unde r S. 8A , has nothing to do with extra-legal considerations.
+RatioOfTheDecision	Legality is within the <ORG>'s province to pronounce upon, but canons of political propriety and democratic dharma are polemical issues on which judicial silence is the golden rule.
+RatioOfTheDecision	29.It is true that between an absolute stay as sought and the stay as granted there is practically little difference when the petitioner is a Minister.
+RatioOfTheDecision	Moreover when the <ORG> is not in session, as now, even the restrictions set out in sub-para III of para 31 of this order hardly, have any operation.
+RatioOfTheDecision	In this view, the dispute between the parties one asking for an absolute stay (as if it were a magic formula) and the other citing heaps of orders of conditional stay for adoption (as if much difference would be made in practical effect) appears to be shadow-boxing, as pointed out by me even during the arguments.
+RatioOfTheDecision	30.Maybe, brevity which is usual in this <ORG> in orders of stay of this sort might well have sufficed here also but, the over all desirability to dispel possible  ambiguity warrants a hopefully longer speaking order.
+RatioOfTheDecision	31.Let me sum up the terms of the operative order I hereby pass I.
+RulingByPresentCourt	Subject to para III below, there will be a stay of the operation of the judgment and order of <ORG> under appeal.
+RulingByPresentCourt	II.Consequentially, the disqualification imposed upon the appellant as a statutory sequel under s. 8A of the Act and as forming part of the judgment and order impugned will also suspended.
+RulingByPresentCourt	That is to say, the petitioner will remain a Member of <ORG> for all purposes except to the extent restricted by para III so long as the stay order lasts.
+RulingByPresentCourt	III.
+RulingByPresentCourt	The appellant-petitioner, qua <ORG> Member, will be entitled to sign the Register kept in the <ORG> for that purpose and attend the Sessions of <ORG>, but she will neither participate in the proceedings in <ORG> nor vote nor draw remuneration in her capacity as Member of <ORG>.
+RulingByPresentCourt	IV.
+RatioOfTheDecision	Independently of the restrictions under para III on her Membership of <ORG>, her rights as Prime Mi nister or Minister, so long as she fills that office, to speak in and otherwise to take part in the proceedings of either <ORG> or a joint sitting of the <ORG> (without right to vote) and to discharge other functions such as are laid down in Articles 74, 75, 78, 88 etc., or under any other law, and to draw her salary as Prime Minister, shall not be affected or detracted from on account of the conditions contained in this stay order.
+RatioOfTheDecision	418  32.This order, by me sitting single as Vacation Judge,, is being delivered with a sense of hurry, although after careful consideration of arguments head till last evening.
+RatioOfTheDecision	Now the <ORG> in not in session and the veto on the right to vote is currently academic.
+RatioOfTheDecision	Situations may develop, circumstances may change and this order itself, like any interlocutory order, is provisional.
+RulingByPresentCourt	If new events like the convening of <ORG> take place or fresh considerations crop up warranting the review of the restrictions in this stay order, the petitioner-appellant will  be at liberty to move <ORG> of this Court again to modify the restrictions or pray for an unconditional stay.
+RatioOfTheDecision	Likewise, the respondent may also if justifying considerations appear anew move for variation of the conditions in this stay order.
+Precedent	S.R.
+Precedent	Petition allowed.
+Precedent	L1 114 SCI/77-2,500-23-6-78-GIPF.
+Precedent	419

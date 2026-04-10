@@ -1,0 +1,94 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The point taken before us in this Second Appeal for the defendant-appellant is, that the plaintiff's suit is barred by Section 47 Civil Procedure Code, his only remedy being an application under that section.
+RatioOfTheDecision	It was not taken in <ORG> but as it is a question of law arising on the facts found, we have allowed it to be raised.
+RatioOfTheDecision	2.
+RatioOfTheDecision	The facts relevant for the argument are these.
+Fact	One <NAME> obtained a mortgage decree against the plaintiff; the properties were sold in Court auction and one of the items was purchased by the present defendant who was a stranger to the mortgage suit and to the decree.
+Fact	A sale certificate was issued to him and he obtained a delivery order.
+Fact	In execution of that order he got possession of plots A, B and C. This was about Hi years ago.
+Argument	It is the plaintiff's case that plot C alone was included in the decree and in the sale certificate, and was delivered to the defendant, and that the defendant subsequently trespassed on the plots A and B which are  the subject matter of the present suit; he now sues to recover them.
+Argument	The defendant pleaded that all the plots were included in the <ORG> sale and in his certificate, and that he got possession of them all properly through court and that he was entitled to them.
+Argument	The Lower <ORG>s have found that the alleged trespass is untrue and that the plaint plots were delivered to the defendant by the <ORG> amin.
+Argument	They have however also found that plots A and B were not really included in the mortgage deed or in the decree or in the sale certificate or in the delivery order, which all contained the same description of the property as to boundaries and measurements.
+Argument	The amin's mistake in delivering them to the defendant arose from a mistake in the measurements in the documents and the plots really belonged to the plaintiff.
+Argument	Applying Article 144 of the Limitation Act , the lower <ORG>s held that the plaintiff was not barred by limitation and gave him a decree for the plots.
+Argument	3.
+Argument	Mr. <NAME> for the defendant-appellant contends  that on the finding, this is a claim by the judgment debtor under a mortgage decree for the recovery of property overdelivered in execution to the court auction-purchaser, and, as such, this is a case to which Section 47 Civil Procedure Code applies even though the purchaser was a stranger to the mortgage suit.
+Argument	He urges that the present suit is thus barred by the section and should have been dismissed.
+Argument	If the section applies there can be no doubt that the plaintiff's claim must fail whatever the merits may be, for the suit cannot be treated as an application under Section 47 Clause (2) with any advantage as it will then have to be' dismissed in limine as barred by limitation.
+Argument	4.
+Precedent	To make Section 47 applicable it is clear from its language that two conditions are necessary to be fulfilled.
+Precedent	The question raised must be one relating to the execution, discharge, or satisfactiSn of a decree, and it must also be one arising between the parties to the suit or their representatives.
+Precedent	On the authorities in this <ORG>, t he first condition must be held to be satisfied in this case.
+Precedent	See <NAME> v. <NAME> (1912) M.W.N.
+Precedent	44 and <CITATION_1913367> (1918) 45 Indian Cases 608.
+RatioOfTheDecision	In the latter case the second condition was also fulfilled as the parties to the application for redelivery were the judgment debtor on one side and the decree-holder purchaser on the other.
+RatioOfTheDecision	In the present case we have a stranger purchaser.
+Precedent	Mr. <NAME> contends that this will make no difference, that the stranger-purchaser should be looked upon as the representatives of the decree-holder in this matter, and that whether he be such representative or not the case falls under Section 47 Civil Procedure Code under the recent ruling of <ORG> in <NAME> v. <NAME> (1919) I.L.R.
+Precedent	43 Mad.
+Precedent	107.
+Precedent	In <ORG> case the question arose in three appeals two being between one <NAME>, a stranger purchaser in execution of a money decree on one side, and one <NAME> the decree-holder-purchaser of some of the items under th e mortgage decree on the other side, and the third appeal being one between the same <NAME> and one <NAME> a stranger purchaser of other items in execution of the same mortgage decree.
+Precedent	On the question of the representative character of these stranger-purchasers there was a difference of opinion between the members of the <ORG>.
+Precedent	The learned Officiating Chief Justice was of opinion that the question whether such a purchaser was the representative of the judgment-debtor or of the decree-holder depended on the nature of the question raised and on who the contesting party was.
+Precedent	See page 124.
+Precedent	He adopted the view stated in <CITATION_1993897> (1894) I.L.R.
+Precedent	18 Mad 13 at P. 18 that such a purchaser represented the judgment debtor to the extent of the property purchased, and the decree-holder so far as his right to bring "to sale such property in execution of the decree was concerned.
+RatioOfTheDecision	So that according to his view, the purchaser in asking for delivery of possession or in resisting re-delivery would  be a representative of the decree-holder.
+RatioOfTheDecision	His view on this point was, however, not adopted by the majority who held that such a purchaser was the representative of the judgment-debtor only, and never of the decree-holder.
+RatioOfTheDecision	I must follow the view of the majority on this point whatever my own view may be.
+RatioOfTheDecision	There was a considerable conflict of opinion on the point in <ORG> previously, and it was to settle the question that the reference was made, and we must take the <ORG> decision as settling it.
+RatioOfTheDecision	I am not therefore referring to the previous authorities.
+RatioOfTheDecision	5.
+RatioOfTheDecision	On the first part of his contention Mr. <NAME> cannot therefore succeed, as on the view above stated, his client will be a representative of the plaintiff-judgment-debtor and the question here will thus be one between a party and his own representative.
+Precedent	See <NAME> v. <NAME> (1897) I.L.R.
+Precedent	25 Cal.
+Precedent	49.
+RatioOfTheDecision	It is however suggested by him that the <ORG> did not consider the question of the representative character of the mortgage-decre e purchaser which is the point berfore us, but confined itself to that of the money decree purchaser, and that there is a difference between the two kinds of purchasers in the matter.
+RatioOfTheDecision	The last question referred to <ORG> specifically raised the question as to the mdrtgage decree-purchaser, See page 113, and though <NAME>, J. has not answered the question, the other Judges have dealt with it and have made no distinction between the two.
+RatioOfTheDecision	Taking the view of <ORG> regarding the money-decree purchaser, I think no proper " distinction can be made on the point between him and a mort gage-decree purcharser.
+RatioOfTheDecision	Section 89 of the Transfer of Property Act, under which the order absolute for sale was made in the present case, declares that, on such an order being made, the right to redeem and the security shall both be extinguished.
+Precedent	Thereafter there is only a right to sell the property, just as there is after attachment under a money decree, See Ret Hem v. <NAME>, (1918) I.L.R.
+Precedent	40 All.
+Precedent	407 and the rig hts flowing from the purchase are the same.
+Precedent	The fact that as a matter of equity the purchaser under a mortgage decree is allowed under certain circumstances to plead the mortgagee's right in the property purchased as a shield has no bearing on this question.
+Precedent	6.
+Precedent	<ORG> however went further and held on the authority of the <ORG> decision in <NAME> v. <NAME> I.L.R.
+Precedent	19 Cal.
+Precedent	683 that irrespective of any question of the representative character of the auction-purchaser-applicant, Section 47 Civil Procedure Code should be applied to his case where the question raised, is one relating to execution, and is one in which the decree-holder and the judgment-debtor are adversely interested.
+Precedent	<NAME>, J. put it thus: "What the courWhave to see is whether the issues arising for decision relate (a) to execution and (b) to deciding rival rights of the decree-holder and the judgment-debtor in the subject matter.
+Precedent	If those conditions are satisfied, the fact that others are interested in the  result of the decision should not affect the jurisdiction and competency of the executing court to deal with the matter."
+Precedent	On this point <ORG> were unanimous, and it was, I think, on the application of this view that the case between the <ORG> money-decree purchaser, <NAME> and the <ORG> mortgage-decree purchaser <NAME> was held to fall under Section 47 , C.P.C., the question of delivery of property purchased in court sale being evidently held to be one relating to execution and one in which the decree-holder and the judgment-debtor were adversely interested.
+Precedent	It is statedly on this view that <NAME>, J. thought it unnecessary to answer the last question referred to <ORG>.
+Precedent	This is made further clear by the subsequent judgment of the referring judges reported in <NAME> v. <NAME> (1920) I.L.R.
+Precedent	43 Mad.
+Precedent	696: 39 M.L.J.
+Precedent	456.
+Fact	They applied Section 47 to all the 3 cases.
+RatioOfTheDecision	Except on this view, Section 47 Civil Procedure Code could not well have been applie d in <NAME> case, as he would be the representative only of the judgment-debtor, <NAME> the other party to that application.
+RatioOfTheDecision	I am unable to accept the suggestion that Section 47 was applied to that case by oversight.
+RatioOfTheDecision	<ORG> as Iunderstand them hold that the condition in Section 47 C.P.C.
+RatioOfTheDecision	that the question should be one " arising between the parties is satisfied by the question being one of a nature in which the parties to the suit are adversely interested, though the person actually raising it in any particular case against one party may not be the representative of the other party.
+RatioOfTheDecision	In fact they gave an extended meaning to these words.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Applying this view to the present case we have to see whether the question raised here is one in which the rival rights of the decree-holder and the judgment-debtor have to be decided.
+RatioOfTheDecision	In the <ORG> case the application was for delivery of properties included in the decree and purchased in court sale.
+RatioOfTheDecision	That question was treated as falling  within Section 47 even where the purchaser was a stranger.
+RatioOfTheDecision	The present case no doubt refers to property claimed by one side to be included in the decree and denied by the other side to be so included and found by the court to be not so included.
+RatioOfTheDecision	Does that make a difference?
+RatioOfTheDecision	I was at first inclined to think that it did and that the decree-holder was not interested in the present controversy, as it refers to property over delivered to the purchaser.
+RatioOfTheDecision	But on further consideration I have come to the conclusion that it is not correct.
+RatioOfTheDecision	If the decree-holder can be held to be interested in the delivery of the property included in the decree to the purchaser as was done by <ORG> I think we must hold consistently with that view that he is also interested in the questions as to what properties that decree covered.
+RatioOfTheDecision	The mistake in the boundaries in the present case is not merely in the delivery order but also in the mortgage deed and in the decree and in the sale certificate, and if the decree or the sale certifi cate had been asked to be rectified on the point, the question would clearly have arisen between the parties to the suit.
+RatioOfTheDecision	The fact that it is now raised against the purchaser should not make any difference as to whether it is to be done in execution or not.
+RatioOfTheDecision	It is clearly appropriate that these mistakes in execution proceedings should be rectified by the executing court itself, and we should not put too narrow a construction on Section 47 and drive parties to suits for the purpose.
+RatioOfTheDecision	If plaintiff in the present suit loses his property on this view it is only due to his own laches in delaying for so many years.
+RatioOfTheDecision	8.
+Precedent	I would therefore hold Section 47 Civil Procedure Code applies to the present case, and as the result I will allow the Second Appeal and dismiss the suit, but, in the circumstances, without costs in any of the courts.
+Precedent	Ayling J.
+Precedent	9.
+Precedent	I am not prepared to dissent from my learned brother's view of the meaning of the <ORG> judgments in <NAME> v. <NAME> (1919) I.L.R.
+Precedent	43 Mad.
+Precedent	107 and  although they seem to me to extend the applicability of Section 47 Civil Procedure Code to a degree hardly suggested by the wording of the Section I feel bound to follow them.
+Precedent	10.
+RulingByPresentCourt	I concur in the order proposed.

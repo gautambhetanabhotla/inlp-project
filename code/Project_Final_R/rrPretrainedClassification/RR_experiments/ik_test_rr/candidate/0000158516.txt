@@ -1,0 +1,16 @@
+Fact	JUDGMENT <NAME>, C.J.,  1.
+Fact	A decree of the 14th June 1873 for Rs.
+Fact	123 was made payable by annual instalments of Rs.
+Fact	20-8-0, with a proviso that, on default of payment of any one instalment, the whole amount of the decree should become payable forthwith.
+Fact	The first instalment fell due, but was not paid until subsequently to the 14th June 1874.
+Fact	The second instalment was paid into <ORG> on the 2nd April 1875, and the third instalment on the 13th March 1876.
+Fact	The plaintiff on the 23rd June 1877, applied for execution for the whole of the residue of the amount decreed.
+Fact	The Judge of the <ORG> of Small Causes at Ahmedabad has referred to this <ORG> the question whether the right to such execution is barred by the law of limitation (Act IX of 1871), and has expressed his own opinion to be in the affirmative.
+RatioOfTheDecision	In that opinion we concur.
+Fact	We think that the whole amount decreed, became due on the first default in payment of the instalments, viz, on the 14th June 1874, so that three years and nine days had elapsed  when the plaintiff made his present application for execution.
+Fact	The <ORG> case, of <CITATION_1853341> ., 1 Bom., 125) was decided upon the Limitation Act XIV of 1859.
+Fact	The principles, however, on which that case was decided, apply in this case.
+RulingByLowerCourt	There is not in the last clause of Article 167* of Schedule II of Act IX of 1871, which clause relates to decrees payable by instalments, any provision similar to that in Article 75 of the same schedule with respect to promissory notes or bonds payable by instalments; where such notes or bonds provide that, if default be made in payment of one instalment, the whole shall be due, fixing that the period of limitation shall begin to run from the time of the first default, unless where the obligee waives the benefit of the provision, and then when fresh default is made.
+RulingByLowerCourt	Nor does there appear to be in the new Limitation Act XV of 1877, Schedule II, Article 179 , Clause 6, relating to decrees payable by instalments, any such provision.
+RulingByLowerCourt	2.
+RulingByLowerCourt	The first question of the learne d Judge--we whether a decree, payable by instalments with proviso as aforesaid, is 'barred, if application for execution of the same be not made within three years from the date on which any one instalment fell due and was not paid--must be answered in the affirmative and his second question, as to whether the payment of instalments subsequent to default in payment of the first instalment at the date specified, gives to the judgment-creditor a fresh starting point, must be answered in the negative.

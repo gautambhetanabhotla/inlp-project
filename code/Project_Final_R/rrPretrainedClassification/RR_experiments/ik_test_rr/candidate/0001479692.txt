@@ -1,0 +1,27 @@
+RulingByLowerCourt	<NAME>, J.
+RulingByLowerCourt	1.
+Fact	In my opinion the decision of Mr. Justice <NAME> is right.
+Fact	There is no <ORG> in this country which prevents one of several co-proprietors holding the status of a tenant under the other co-proprietors of land which appertains to the common estate.
+RatioOfTheDecision	In the reported cases many instances will be found in which lands have been so held and in which the possession of the co-proprietor as a tenant has been recognised.
+RatioOfTheDecision	Sub-section 2 of Section 22 of the present Tenancy Act does, however, provide that if an occupancy-right is transferred to a person jointly interested in the land as proprietor, the occupancy-right shall cease to exist.
+RatioOfTheDecision	It is not said, and the Sub-section cannot be understood to mean, that the holding shall cease to exist, but that the occupancy right, which is an incident to the holding, will cease to exist; and there is nothing in the Sub-section inconsistent with the continuance of the holding divested of this right of occupancy which attached to it.
+RatioOfTheDecision	The saving clause in th e Sub-section "that nothing in it shall prejudicially affect the right of any third person," indicates also that the holding would, for some purposes at all events, continue to exist.
+Precedent	This view of the construction of the Section was taken in an unreported case, appeal from Appellate Decree No.
+Precedent	37, decided by Mr. Justice <NAME> and Mr. Justice <NAME> on the 30th March 1894; and the same view was also taken in the case of <CITATION_185481> .
+Precedent	21 Cal.
+Precedent	869.
+Precedent	2.
+Precedent	Although the facts of those oases are not precisely similar to the facts of the present case, the view taken of the provisions of Sub-section 2, Section 22 of the Bengal Tenancy Act was the same as that which I have expressed.
+Precedent	I, therefore, think that the appeal must be dismissed with costs.
+Precedent	<NAME>, J.
+Precedent	3.
+Precedent	I entirely agree with Mr. Justice <NAME>.
+Precedent	<NAME>, J.
+Precedent	4.
+Precedent	I am of the same opinion.
+Precedent	<NAME>, J.
+Precedent	5.
+Precedent	I am also of the same opinion.
+Precedent	<NAME>, J.
+RatioOfTheDecision	1.
+RulingByPresentCourt	I also agree.

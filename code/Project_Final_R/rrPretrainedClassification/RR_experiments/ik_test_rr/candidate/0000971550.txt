@@ -1,0 +1,131 @@
+Fact	PETITIONER: <NAME> Vs. RESPONDENT: <ORG>.
+Fact	DATE OF JUDGMENT: 28/08/1964 BENCH: AYYANGAR, N. RAJAGOPALA BENCH: AYYANGAR, N. RAJAGOPALA <NAME>, P.B.
+Fact	(CJ) <NAME>, J.C. CITATION: 1965 AIR 621 1965 SCR (1) 186 CITATOR INFO : R 1991 SC2254 (5,7) ACT: Co-operative Societies-Moneys earned by alleged illegal transactions--Retention by members of management--Claim-If "a dispute touching the business of the society"--Whether claim could be made-Proceedings whether under s. 51 or s. 49-Madras Co-operative Societies Act, 1932, (Mad.
+Fact	6 of 1932) ss.
+Fact	49, 51.
+Fact	HEADNOTE: The appellant was the President of <ORG> constituted mainly for the purpose of enabling its members to obtain credit facilities and to arrange for the sale of agricultural products at reasonable prices.
+Fact	On complaints, an enquiry was instituted into the affairs of the society by the Registrar of Co-operative Societies and as a result, the committee, then in management of the society wa s, after due notice to show cause and a hearing, superseded by the Registrar.
+Fact	A special officer was appointed to take charge of the affairs of the society and this officer filed a, claim before the Registrar, inter alia, against the appellant.
+Fact	The main item of the claim was commission stated to have been actually earned by the society on the sales effected by it of jaggery belonging to its producer members but which was not credited to the society.
+Fact	It was alleged that while on paper the transactions entered into between the members of the society and the purchasers showed sales at the prices fixed by law, in reality, higher prices were charged.
+Fact	The society was entitled to charge commission on the sales effected through it.
+Fact	As regards this it was stated that commission was earned on the entire price at which <ORG> was sold, and while the amount of commission payable on the basis of controlled prices was credited to the society, the commission earned in respect of the extra price which its members obtained was, i t was stated, not brought to the credit of the society in its accounts but appropriated by members of the management.
+Fact	On receipt of the claim, the Registrar appointed, under S. 51(2) of the Madras Co-operative Societies Act, the Deputy Registrar of Co-operative Societies to act as an arbitrator to adjudicate the claim.
+RulingByLowerCourt	Thereupon, the appellant filed a petition in <ORG> for the issue of a writ of prohibition under Art.
+RulingByLowerCourt	226 of the Constitution, prohibiting the Deputy Registrar from dealing with the claim which he was directed to try.
+RulingByLowerCourt	The Single Judge allowed the petition.
+RulingByLowerCourt	On appeal by the respondent <ORG> allowed the appeal and dismissed the writ petition.
+RulingByLowerCourt	On appeal by special leave,it was contended by the appellant, that (1) the Registrar should have proceeded under s. 49 and not under s. 51 of the Act, (2) the dispute about the retention of money belonging to the <ORG> by the appellant was not "a dispute touching the business of the society", and (3)the transaction of sale which gave r ise to the commission alleged to be improperly retained was illegal and that therefore the society could not, in law, make a claim on the basis of such an illegal transaction.
+RulingByLowerCourt	HELD : (i) The case did not fall under s. 49 of the Act.
+RulingByLowerCourt	If s. 49 did not apply, subject to other arguments about the illegality of the order of the Registrar, proceedings under s. 51 was not open to objection.
+RulingByLowerCourt	[192D].
+RulingByLowerCourt	Besides the factors that the claim was one "against a person in management of the society" and "for the fraudulent retention of money or other 187 property of the society", there was also another condition which had to be satisfied before s. 49(1) could be attracted.
+RulingByLowerCourt	The facts giving rise to the charge had to be disclosed in the course of an audit under s. 37 or am enquiry under s. 38 or an inspection under a.
+Fact	39 or on the winding up of the society.
+Fact	[191 G-H] <NAME> v. The Deputy Registrar of Co-operative Societies, I.L.R.
+Fact	(1957) Mad.
+Fact	371, referred to.
+Fact	(ii) The claim made before the arbitrator was "a dispute touchi ng the business of society".
+Fact	It could not be disputed that the sale of the produce belonging to the members of the society was part of the business of the society, and then the charging of the commission would equally be the business of the society; and [192 G-H] (iii) No illegality attached to the contract between the appellant and the society; that was perfectly legal.
+Fact	It arose out of his, position as the President of the Society and he was in law, bound to account for the moneys he received on behalf of the society.
+Fact	[193 <CITATION_1409676> ,  1 S.C.R.
+Fact	861, followed.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.
+Fact	193 of 1962.
+Fact	Appeal by special leave from the judgment and order dated August 18, 1959, of <ORG> in Writ Appeal No.
+Fact	111 of 1957.
+Fact	<NAME> and <NAME>, for the appellant.
+Fact	<NAME>, for the respondent No.
+Argument	1.
+Argument	<NAME> and <NAME>, for respondent No.
+Argument	2.
+Argument	The Judgment of the Court was delivered by <NAME> The appellant was the President  of <ORG> A <ORG> constituted mainly for the purpose of enabling its members to obtain 'credit facilities and to arrange for the sale of agricultural products at reasonable prices.
+Fact	There were complaints regarding the working of the <ORG> and accordingly an enquiry was instituted into its affairs by the Registrar of Co-operative Societies, Madras at a time when Anakapalli, now in Andhra Pradesh, was in the State of Madras.
+Fact	As a result of the facts disclosed in the inquiry the <ORG> then in management of the <ORG> was, after due notice to show cause and a hearing, superseded by order of the Registrar dated February 15, 1952, such supersession being authorised by s. 43 of the Madras Co-operative Societies Act (Act 6 of 1932) hereinafter called die Act.
+Fact	A special officer was appointed to take charge of the affairs of the <ORG> and this officer filed a claim before the Registrar, inter alia, against the appellant.
+Fact	'The amount claimed was Rs.
+Fact	13,000 and odd a nd details were given as to how this sum was made up.
+Fact	The main item of the claim was commission stated to have been actually earned by the <ORG> on the sales effected by it of jaggery belonging to its producer-members but which was not credited to the <ORG>.
+Fact	On receipt of this claim the Registrar appointed, under S. 51(2) of the Act, the Deputy Registrar of Co-operative Societies, Visakhapatnam to act as an arbitrator to adjudicate the claim.
+Fact	Immediately this order was passed the appellant filed a petition in <ORG> for the issue of a writ ,of prohibition under Art.
+Fact	226 of the Constitution, prohibiting the Deputy Registrar from dealing with the claim which he was directed to try.
+Fact	The learned Single Judge who heard the petition allowed the petition and granted the appellant the relief he sought.
+Fact	'Me Co- operative <ORG> took the matter in appeal to <ORG> of <ORG> which allowed the appeal and dismissed the writ petition.
+Fact	Thereafter the appellant moved this C ourt for special leave (certificate of fitness having been refused by <ORG>) and has preferred the present appeal.
+RatioOfTheDecision	Before adverting to the arguments addressed to us by Mr. <NAME>, learned counsel for the appellant, it is necessary to state a few facts concerning the transactions which have given rise to these proceedings.
+Fact	<ORG> of which the appellant was the President till November, 1951, held a licence, under the Madras General Sales Tax Act for doing business as a Commission Agent and the Society was earning commission on the turnover of the sales effected of the agricultural produce of its members and others.
+Fact	In October, 1950 <ORG> promulgated the Gur Control Order fixing the maximum price at which gur could be sold in different States.
+Fact	The prices fixed varied from State to State.
+Fact	The prices fixed for sale at Anakapalli, then in the State of Madras, were somewhat lower than those  -which had been fixed in other States.
+Fact	This gave occasion for the members of  the <ORG> to sell their jaggery at higher prices than fixed because there was demand for jaggery from merchants at prices higher than the controlled price.
+Argument	It was alleged that while on paper the transactions entered into between the members of the <ORG> and the purchasers showed sales at the prices fixed by law, in reality, higher prices were charged.
+Argument	As stated already, the <ORG> was entitled to charge commission on the sales effected through it.
+Argument	As regards this it was stated that commission was earned on the entire price at which the gur was sold, and while the amount of commission payable on the basis of controlled prices was credited to the <ORG>, the commission earned in respect of the extra price which its members obtained, was, it was stated, not brought to the credit of the <ORG> in its accounts but appropriated by members of the management.
+Argument	These were, the allegations and it is on the basis of these allegations that the claim against the appellant and others had been made.
+Argument	Their correctness  have yet to be tested in the arbitration proceedings.
+Argument	When this claim was made, inter alia, against the appellant viz., of not bringing into the <ORG>'s accounts moneys due to the <ORG> and which had been earned through sales effected by the <ORG>, he filed, as narrated before, a writ petition and there raised three points challenging the legality of the reference to the Deputy Registrar to enquire into and determine the claim.
+Argument	The first was that the transaction on the basis of which the claim was said to have arisen was illegal being contrary to the Gur Control Order issued by <ORG> under the Essential Supplies Act and such an illegal transaction could not fall within the words "Dispute touching the business of the <ORG>" which alone could be referred to arbitration under s. 51 of the Act; the second was that the reference by the Registrar of the dispute to the arbitration of the Deputy Registrar was illegal as contrary to natural justice, because (a) the Deputy Registrar had conduct ed an enquiry which had resulted in the supersession of the management of the <ORG> under s. 43 of, the Act, and (b) the Deputy Registrar being a subordinate of the Registrar could not be expected to act fairly in this matter; and lastly, that the Registrar should, in this case, have proceeded under s. 49 of the Act and not under s. 51 , the former being more advantageous to him, in that he could challenge any final order against him by resort to the civil courts, where-as an award under s. 51 was subject to departmental appeals and could not be questioned in a civil court.
+Argument	The learned Single Judge rejected the second and the third points but upheld the first.
+Argument	His reasoning was that the transaction of sale above the controlled price was illegal, that illegality was a bar to a claim for accounting by the <ORG> against its officer or agent, notwithstanding that the contract of agency itself was not illegal.
+Argument	On appeal the learned Judges of <ORG> have, as stated earlier, rejected all the three points  urged on behalf of the appellant.
+Argument	Mr. <NAME>, learned counsel for the appellant raised before us three points.
+Argument	The first of them was that the Registrar should have proceeded under s. 49 and not under s. 51 of the Act.
+Statute	Section 49 , which learned counsel says, was attracted to the case runs, to quote only the material provision:  Sup/64----13 "49.
+Statute	(1) Where in the course of an audit under section 37 or an inquiry under section 38 or an inspection under section 3  9 or the winding up of a society, it appears that any person who has taken part in the organization or management of the society or any past or present officer of the society has misappropriated or fraudulently retained any money or other property or been guilty of breach of trust in relation to the society, the Registrar may, of his own motion or on the application of the committee or liquidator or of any creditor or contributory, examine, into the conduct of such person or officer and make an order requiring him to repay or restore the money or p roperty or any part thereof with interest at such rate as the Registrar thinks just or to contribute such sum to the assets of the society by way of compensation in respect of the misappropriation, fraudulent retention or breach of trust as the Registrar thinks just.
+Statute	(2)The order of the Registrar under sub- section (1) shall be final unless it is set aside by <ORG> having jurisdiction over the area in which the headquarters of the society are situated or if the headquarters of the society are situated in the City of Madras, by <ORG>, on application made by the party aggrieved within three months of the date of receipt of the order by him."
+Statute	and s. 5  1 -the other provision-runs "Arbitration :  Disputes:51.
+Statute	If any dispute touching the business of a registered society (other than a dispute regarding disciplinary action taken by the society or its committee against a paid servant of the society) arises-  (a)  (b)  (c) between the society or its committee and any past committee, any o fficer, agent or servant, or any past officer, past agent or past servant, or the nominee, heirs or legal representatives of any deceased officer, deceased agent or deceased servant, of the society, or  (d) Explanation.-A claim by a registered society for any debt or demand due to it from a member, past member or the nominee, heir or legal representative of a deceased member, whether such debt or demand be admitted or not, is a dispute touching the business of the society within the meaning of this sub-  section.
+Statute	(2) The Registrar may, on receipt of such reference,-  (a) decide the dispute himself, or  (b) transfer it for disposal to any person who has been invested by <ORG> with powers in that behalf, or  (c) subject to such rules as may be prescribed, refer it for disposal to an arbitrator or arbitrators."
+RatioOfTheDecision	In this connection learned Counsel relied on a decision of <ORG> in <CITATION_664032> .
+RatioOfTheDecision	(1) There it was held that it was only in case where the provisions of s. 49 were in applicable that recourse could be had to s. 5  1 .
+RatioOfTheDecision	In cases where a matter fell both within ss.
+RatioOfTheDecision	49 and 51 , the two provisions were not intended to operate on parallel lines.
+RatioOfTheDecision	As s. 51 excluded the jurisdiction of civil courts, it must be strictly construed and for that reason, in cases where s. 49 was applicable, s. 51 would be excluded.
+RatioOfTheDecision	Further, it was held s. 51 was of a general nature providing for a variety of matters and was almost exhaustive of the parties between whom as well as the disputes that could arise in cooperative societies.
+RatioOfTheDecision	Section 49 on the other hand dealt with special types of disputes which arise in exceptional circumstances, segregated out of the larger group dealt with under s. 51 .
+RatioOfTheDecision	When there was thus an overlapping of the terms of both the sections the provisions of S. 49 alone it was held would be applicable.
+RatioOfTheDecision	Based on this line of reasoning, the submission of learned counsel was that the claim in the present case was one "against a person in management of the <ORG>" and "for the fr audulent retention of money or other property of the <ORG>" and, therefore, it was completely covered by s. 49 and that in consequence the Registrar had no jurisdiction to direct an enquiry by the Deputy Registrar under s. 51 of the Act.
+RatioOfTheDecision	This argument, however, proceeds on ignoring one further essential requisite for the application of s. 49(1) .
+RatioOfTheDecision	Besides the two factors to which learned counsel referred and which we have just set out, there is also another condition which has to be satisfied before s' 49(1) could be attracted.
+RatioOfTheDecision	The facts giving rise to the charge have to be disclosed in the course of an audit under s. 37 or an enquiry under s. 38 or an inspection under s. 39 or on the winding up of the <ORG>.
+RatioOfTheDecision	Mr. <NAME>, while not disputing that unless this condition is also satisfied s. 49 would not be attrac-  (1) I.L.R.
+RatioOfTheDecision	[1957] Mad.
+RatioOfTheDecision	371.
+RatioOfTheDecision	192  ted, however submitted that there was an enquiry under S. 38 preceding the supersession and that in consequence the condition was fulfilled.
+RatioOfTheDecision	It is true that the re was an enquiry conducted the affairs of the <ORG> under s. 38 , but that by itself is not sufficient.
+RatioOfTheDecision	It has further to be proved that the facts alleged in the claim, and on which it is based, were disclosed at that enquiry.
+RatioOfTheDecision	This can be proved or established only if the enquiry report which was submitted to the Registrar was placed before the, <ORG> and the facts disclosed therein corresponded with the facts alleged in the statement of claim.
+RatioOfTheDecision	Mr. <NAME> admitted that the enquiry report was not before the <ORG> and is not in the record of these proceedings.
+RatioOfTheDecision	It is not, therefore, possible to say that there is correspondence between the facts disclosed in that report as a result of the enquiry under s. 38 and those found in the Statement of Claim which was referred by the Registrar to the Deputy Registrar for arbitration under s. 5  1 .
+RatioOfTheDecision	The case must, therefore, be held not to fall under s. 49 of the Act.
+RatioOfTheDecision	'Mere can be no doubt that if S. 49 does not apply, subject to the other argument about illegality t o which we shall advert, the order of the Registrar proceeding under s. 51 is not open to objection.
+RatioOfTheDecision	This first point,, therefore, has to be rejected.
+Argument	The next contention of learned Counsel was that the dispute about the retention of money belonging to the <ORG> by the appellant was not "a dispute touching the business of the <ORG>."
+Argument	The argument was that the expression "business of the society included only what was legally permissible as the legitimate business of the <ORG> and since the business activity out of which the claim against the appellant was alleged to arise involved a contravention of the Gur Control Order it was not "a dispute touching the business of the society.
+RatioOfTheDecision	We are unable to agree with this submission.
+RatioOfTheDecision	In so far as it impinges on the third point urged by learned counsel based on the maxim Ex turpi causa non oritur actio we shall deal with it in considering that submission.
+RatioOfTheDecision	But that apart, we do not see any basis for the argument that the claim made before the arbitrator was not a d ispute touching the business of the <ORG>.
+RatioOfTheDecision	It could not be disputed that the sale of the produce belonging to the members of the <ORG> was part of the business of the <ORG>, and then the charging of commission for those sales and the crediting of the <ORG>'s accounts with that commission would equally be the business of the <ORG>.
+RatioOfTheDecision	Apart, therefore, from the question of illegality raised by reason of the sale being it prices in excess of the controlled price.
+RatioOfTheDecision	it is not capable of Argument that the failure on the part of the appellant to credit to the <ORG> the full amount of commission due on the sales effected by him on behalf of the <ORG> and the resistance by him of that demand, would not be a dispute touching the business of the <ORG>.
+RatioOfTheDecision	This objection is clearly without substance and must be rejected.
+RatioOfTheDecision	The last of the points urged by learned counsel was that the transaction of sale which gave rise to the commission alleged to be improperly retained was illegal and that therefore the <ORG> c ould not, in law, make a claim on the basis of such an illegal transaction.
+RatioOfTheDecision	We see no substance in this point either.
+RatioOfTheDecision	No illegality attached to the contract between the appellant and the <ORG>; that was perfectly legal.
+RatioOfTheDecision	It arose out of his position as the President of the <ORG> and he was, in law, bound to account for the moneys he received on behalf of the <ORG>.
+RatioOfTheDecision	The fact that he entered into illegal transactions would have no bearing on the right of the <ORG> to make the claim for an account of the commission due to the <ORG> which he unjustly withheld.
+RatioOfTheDecision	We consider the reasoning of the learned Judges of <ORG> rejecting this argument to be correct.
+RatioOfTheDecision	Moreover this matter has been examined by this <ORG> in a decision reported as <CITATION_1409676> (1) and in view of this decision learned counsel for the appellant did not himself press this point very seriously.
+RatioOfTheDecision	Before parting with this case, however, there is one matter to which it is necessary to advert.
+RatioOfTheDecision	The learned Judges, after allowi ng the appeal.
+RatioOfTheDecision	of the <ORG>, stated in their judgment :  "Lastly, we must observe that this Court is averse to lend its helping hand to persons who want to defraud others.
+RatioOfTheDecision	Even assuming that any error of law was committed by <ORG>, that would not be a ground for invoking the extraordinary jurisdiction of this Court under Art.
+RatioOfTheDecision	226 of the Constitution, when it is not in furtherance of justice but tends to encourage dishonesty."
+RatioOfTheDecision	Mr. <NAME> pointed out to us that the correctness of the allegations made in the claim filed before the arbitrator have yet to be decided and there was, therefore, no justification for the learned Judges assuming that the facts stated therein were proved and that the appellant had been guilty of fraud or dishonesty in his conduct of the business of the <ORG>.
+RatioOfTheDecision	We see force in this complaint of learned counsel.
+RatioOfTheDecision	In the circumstances, we would add that, having regard to the stage at which the matter was before the Court, the learned Judges were in error in making (1) [1960]1 S.C. R. 861.
+RatioOfTheDecision	194  these observations.
+RatioOfTheDecision	It is clear that they did not intend to prejudice the appellant in his defence before the Deputy Registrar in the arbitration proceedings under s. 51 of the Act but it is possible that it might have such an effect.
+RatioOfTheDecision	What we have said earlier must suffice to dispel any such apprehension or effect.
+RulingByPresentCourt	The appeal fails and is dismissed with costs, one set.
+RulingByPresentCourt	Appeal dismissed

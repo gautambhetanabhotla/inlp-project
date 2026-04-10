@@ -1,0 +1,186 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The material facts on record and the proceedings leading up to this reference are, inter alia, that <ORG>, the assessee, is a trust founded in 1920.
+Fact	It is not in dispute that the income of the assessee is spent for charitable purposes.
+Fact	Between 1956 and 1963, the assessee received from time to time ordinary shares of <ORG> ("the company"), from various parties aggregating 96,490 shares.
+Fact	2.
+Fact	In the assessment year 1971-72, the relevant accounting year ending on March 31, 1971, the assessee received dividends on the said shares amounting to Rs.
+Fact	1,44,735.
+Fact	In its return of income as well as in its assessment, the assessee claimed that the said amount of Rs.
+Fact	1,44,735 was not exigible to income-tax under the provisions of Section 13(1)(c)(ii) of the Income-tax Act, 1961 ("the Act"), read with the second proviso to the said section.
+Fact	The Income-tax Officer rejected the contentions of the assessee and held that the funds of the assessee remained inv ested in a concern in which the persons referred to in Sub-section (3) of Section 13 of the Act, viz., the settlor of the trust, the persons who had made a substantial contribution to the trust and/or their relatives had substantial interest in the company and, therefore, the income of the assessee by way of dividends from the said shares was not entitled to exemption under Section 11 of the Act.
+Fact	3.
+Fact	Being aggrieved, the assessee preferred an appeal from the assessment to the Appellate Assistant Commissioner.
+RulingByLowerCourt	The Appellate Assistant Commissioner accepted the contentions of the assessee and held that the investment in the instant case had been made by the donors and the donations were received by the assessee by 1963.
+RulingByLowerCourt	It was held that as no funds of the assessee had been invested in the said shares and that as the assessee had received the shares themselves by way of donation, the provisions of Section 13(2)(h) read with Section 13(1)(c) had no application and that the dividend received by the assessee from th e said shares was exempt from income-tax.
+RulingByLowerCourt	4.
+Fact	Being aggrieved, the <ORG> preferred an appeal to the <ORG> against the order of the Appellate Assistant Commissioner.
+Fact	It was contended on behalf of the <ORG> before the <ORG> that as the assessee continued to hold the said shares even after April 1, 1971, the assessee ceased to be entitled to claim exemption from income-tax in respect of the dividends received from the said shares under Section 11 by reason of the provisions of Section 13(2)(h) .
+Fact	It was submitted that the expression "fund" referred to in Section 13(2)(h) would cover the said shares held by the assessee and, therefore, the Income-tax Officer was justified in holding that the said dividend was not exempt from income-tax under Section 11 .
+Fact	At best, the assessee would be entitled to claim a benefit of exemption under Section 11 in respect of such dividend from the said shares received during the period prior to June 1, 1970, and not thereafter.
+Fact	It was submitted further that the assessee oug ht to have reinvested the amount represented by the said shares in some other concern to which the provisions of Section 13(3) were not applicable.
+Fact	5.
+Fact	It was contended on behalf of the assessee before the Tribunal that the expressions "fund" and "invest" which were not defined in the Income-tax Act had to be construed with reference to their dictionary meaning.
+Fact	The meaning of the said words as given in the Chambers, Twentieth Century Dictionary, 1972 edition, the Concise Oxford Dictionary, 5th edn.
+Argument	and the Webster's New Collegiate Dictionary, 7th edition, were referred to and relied on.
+Argument	6.
+Argument	It was contended on behalf of the assessee that the assessee had received the said shares qua shares by way of donation.
+Fact	The shares were neither funds nor did they continue to remain invested in the company within the meaning of Section 13(2)(h) .
+Fact	It was submitted that no fund, property or income of the assessee had been utilised to purchase or for making any investment in the said shares.
+Fact	It was contended that only where  there was a positive action by an assessee to make an investment out of funds already in its possession, the provision of Section 13(2)(a) would be attracted.
+RatioOfTheDecision	The receipt of bounty could not be held to be an investment.
+RatioOfTheDecision	An investment implied and necessarily meant a conscious and positive act on the part of the assessee which was not present in the instant case.
+Fact	On the facts, the assessee was entitled to claim exemption from income-tax under Section 11 in respect of the dividend received from the said shares.
+RulingByLowerCourt	7.
+RulingByLowerCourt	It was submitted further that the provisions of the second proviso to Section 13(1)(c) were prospective and not retrospective and would entitle an assessee to claim full exemption.
+RulingByLowerCourt	Section 13(2)(h) , it was submitted, would become operative only in cases where the funds of the assessee were invested by it in any concern in which the persons referred to in Section 13(3) had a substantial interest and the investment was continued beyond June 1, 1970.
+RulingByLowerCourt	8.
+RulingByLowerCourt	The <ORG> accepted the contentions of the ass essee and held that under the provisions of the second proviso to Section 13(1)(c) , the assessee was entitled to claim exemption in respect of the dividend received from the said shares in the assessment year involved.
+RulingByLowerCourt	The <ORG> held further that in view of the meaning of the expressions "fund" and "invest" as found in the dictionaries, it was necessary for the <ORG> to establish that the investment had been made by the assessee out of its funds in a concern in which the persons referred to in Section 13(3) had a substantial interest and that such investments continued beyond June 1, 1970.
+RulingByLowerCourt	The <ORG> found that it was admitted that the shares involved in the instant case had been received by the assessee by way of donation and had not changed their character since the receipt thereof by the assessee.
+RulingByLowerCourt	The <ORG> held that on the facts, the provisions of Section 13(2)(h) had no application and the assessee was entitled to claim exemption from income-tax in respect of the dividend received from the sai d shares.
+RulingByLowerCourt	The <ORG> affirmed the order of the Appellate Assistant Commissioner and dismissed the appeal of the <ORG>.
+RulingByLowerCourt	9.
+RulingByLowerCourt	On an application of the <ORG> under Section 256(1) , the <ORG> has referred the following question as a question of law arising out of its order for the opinion of this court :  "Whether, on the facts and in the circumstances of the case and on a proper interpretation of Sections 11 and 13 of the Income-tax Act, 1961, the <ORG> was justified in holding that the assessee would be entitled to claim exemption in respect of dividend income of Rs.
+Fact	1,44,735 received in the accounting year relevant to the assessment year under reference ?"
+RatioOfTheDecision	10.
+RatioOfTheDecision	It is convenient to refer to the relevant provisions at this stage :  " Section 11 .
+Statute	Income from property held for charitable or religious purposes.--(1) Subject to the provisions of Sections 60 to 63 , the following income shall not be included in the total income of the previous year of the person in receipt of the income-  (a) income deriv ed from property held under trust wholly for charitable or religious purposes, to the extent to which such income is applied to such purposes in India ; and, where any such income is accumulated or set apart for application to such purposes in India, to the extent to which the income so accumulated or set apart is not in excess of twenty-five per cent.
+Fact	of the income from such property."
+Statute	" Section 13 .
+Statute	Section 11 not to apply in certain cases.--(1) Nothing contained in Section 11 or Section 12 shall operate so as to exclude from the total income of the previous year of the person in receipt thereof--...  (c) in the case of a trust for charitable or religious purposes or a charitable or religious institution, any income thereof--...  (ii) if any part of such income or any property of the trust or institution (whenever created or established) is during the previous year used or applied, directly or indirectly for the benefit of any person referred to in Subsection (3) : .....
+Statute	Provided further that in the case  of.....or a trust for charitable purposes or a charitable institution created or established before the commencement of this Act, the provisions of Sub-clause (ii) shall not apply to any use or application, whether directly or indirectly, of any part of such income or any property of the trust or institution for the benefit of any person referred to in Sub-section (3) in so far as such use or application relates to any period before the 1st day of June, 1970 ;  (d) subject to the provisions of Clause (bb), in the case of a trust for charitable or religious purposes or a charitable or religious institution, any income thereof assessable for any assessment year commencing on or after the 1st day of April, 1979, if any funds of the trust or institution are invested or deposited or continue to remain invested or deposited for any period during any previous year commencing on or after the 1st day of April, 1978, otherwise than in any of the forms or modes specified in Sub-section (5); .....  (2) Without prejudice  to the generality of the provisions of Clause (c) of Sub-section (1), the income or the property of the trust or institution or any part of such income or property shall, for the purposes of that clause, be deemed to have been used or applied for the benefit of a person referred to in Sub-section (3),--.....  (h) if any funds of the trust or institution are, or continue to remain, invested for any period during the previous year (not being a period before the 1st day of January, 1971) in any concern in which any person referred to in Sub-section (3) has a substantial interest.
+Statute	(3) The persons referred to in Clause (c) of Sub-section (1) and subsection (2) are the following, namely :--  (a) the author of the trust or the founder of the institution ;  (b) any person who has made a substantial contribution to the trust or institution, that is to say, any person whose total contribution up to the end of the relevant previous year exceeds five thousand rupees ;  (c) where such author, founder or person is a Hindu  undivided family, a member of the family ;  (cc) any trustee of the trust or manager (by whatever name called) of the institution ;  (d) any relative of any such author, founder, person, member, trustee or manager as aforesaid ;  (e) any concern in which any of the persons referred to in Clauses (a), (b), (c), (cc) and (d) has a substantial interest."
+Argument	8.
+Argument	At the hearing before us, the learned advocate for the <ORG> submitted that the meaning of the expressions "fund" and "invest" as occurring in Section 13(2)(h) should be construed not only with reference to dictionaries but also taking into account the meaning of the said expressions as understood commercially and by accountants.
+Argument	It was submitted that in the instant case, the said shares after being donated to the assessee constituted funds in the hands of the assessee.
+RatioOfTheDecision	As the assessee held on to the said shares, the funds of the assessee continued to remain invested in the company in which the persons specified in Section 13(3) had a substantial interest .
+RatioOfTheDecision	Therefore, the assessee was not entitled to claim exemption under Section 11 by itself or read with the second proviso to Section 13(1)(c) .
+RatioOfTheDecision	9.
+RatioOfTheDecision	In support of his contentions, the learned advocate for the <ORG> relied on and cited the following :  (a) Black's Law Dictionary, 5th edition : "Fund ".....An asset or group of assets set aside for a specific purpose.....  A generic term and all-embracing as compared with term "money", etc., which is specific.
+Statute	A sum of money or other liquid assets set apart for a specific purpose or available for the payment of debts or claims.
+Statute	In the plural, this word has a variety of slightly different meanings, as follows : "moneys and much more, such as notes, bills, cheques, drafts, stocks and bonds, and in broader meaning may include property of every kind...Money in hand, assets, cash, money available for the payment of a debt, legacy, etc.
+Statute	Corporate stocks or government securities ; in this sense usually spoken of as the 'funds'.
+Statute	Assets, securities, bonds or revenue of  a <ORG> or <ORG> appropriated for the discharge of its debts.
+Statute	Generally, working capital ; sometimes used to refer to cash or to cash and marketable securities."
+Statute	(p. 606)  (b) Dictionary for Accountants, 4th edn., by <NAME> :  "1.
+Statute	An asset or group of assets within any organization, separated physically or in the accounts or both from other assets and limited to specific uses.
+Statute	Examples : a petty cash or working fund ; a replacement and renewal fund ; an accident fund ; a contingent fund ; a pension fund.
+RatioOfTheDecision	2.
+RatioOfTheDecision	Cash, securities, or other assets placed in the hands of a trustee, principal or income or both being expended in accordance with the terms of a formal agreement.
+RatioOfTheDecision	Example : a trust fund created by a will ; an endowment fund ; a sinking fund.....  4. pl.
+RatioOfTheDecision	: Current assets less current liabilities (on an accrual basis) ; working capital ; a term used in cash flow statements.
+RatioOfTheDecision	5. pl.
+Argument	: cash."
+Argument	(pp.
+Argument	204-208)  10.
+Argument	The learned advocate for the <NAME> also cited a decision of <ORG> in Na wn Estates (P.) <CITATION_416340>  106 ITR 45, 50, where <ORG> quoted with approval an observation of <ORG> in IRC v. Tootal Broadhurst Lee Co. Ltd, [I949J 29 TC 352, 373 as follows :  "The meaning of ' investment' is not its meaning in the vernacular of the man in the street but in the vernacular of the businessman.
+Argument	It is a form of income-yielding property which the businessman looking at the total assets of the company would single out as an investment.....
+Argument	The businessman would not limit income from investments to income from the kinds of securities which are quoted on the stock exchange, and he.
+Argument	would, I think, regard as income from investment a profitable rent from a sublease of office premises, or the like... "  11.
+Argument	The learned advocate for the <ORG> also cited another English decision in <NAME> v. <ORG> [1942] 25 TC 445, where <ORG> also construed the meaning of the expression "fund" as follows (p. 456) :  "The word 'fund' may mea n actual cash resources of a particular kind (e.g., money in a drawer or at a bank) or it may be a mere accountancy expression used to describe a particular category which a person uses in making up his accounts.
+RatioOfTheDecision	The words 'payment out of' when used in connection with the word 'fund' in its first meaning connote actual payment, e.g., by taking the money out of the drawer or drawing a cheque on the bank.
+RatioOfTheDecision	When used in connection with the word 'fund' in its second meaning, they connote that, for the purposes of the account in which the fund finds a place, the payment is debited to that fund, an operation which, of course, has no relation to the actual method of payment or the particular cash resources out of which the payment is made... "  12.
+RatioOfTheDecision	A fund in the second sense is merely an accountancy category ; it has a real existence in that sense, but not in the sense that a real payment can be made out of it as distinct from being debited to it.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The learned advocate for the <ORG> also cited <CITATION_665039>  .
+Fact	In this case, four partners of a firm donated to the assessee, a trust, Rs.
+Fact	10,000 cash by debiting their respective accounts with the firm and crediting the same in the account of the asses-see by the end of March, 1971.
+Fact	The amounts so donated were hantled over to the trust in two equal instalments on April 10, 1971/April 15, 1971.
+Fact	In the assessment year involved, the accounting year ending on March 31, 1971, the question arose whether the assessee was entitled to exemption from income-tax in respect of the said amounts donated under Section 13(2)(h) .
+Fact	The claim of the assessee for exemption was rejected by the Income-tax Officer but was allowed by the Appellate Assistant Commissioner.
+RulingByLowerCourt	On further appeal, the <ORG> set aside the decision of the Appellate Assistant Commissioner and upheld the decision of the Income-tax Officer.
+RulingByLowerCourt	14.
+RulingByLowerCourt	On a further reference before <ORG>, it was held that as soon as credit entries were made in favour of the assessee, the latter would be deemed to  have been put in possession of the said amounts.
+RulingByLowerCourt	The firm would thereafter be holding the amounts as a debtor of or on behalf of and for the benefit of the assessee.
+RulingByLowerCourt	It was found that the assessee had shown the amounts as recoverable from the firm in its balance-sheet indicating that the amount was allowed to remain in the firm till the same was demanded and paid.
+RulingByLowerCourt	It was held that Section 13(2)(h) applied in the facts and the assessee was not entitled to exemption under Section 11 .
+RulingByLowerCourt	15.
+Argument	The learned advocate for the assessee reiterated the submissions made on behalf of the assessee before the <ORG>.
+Argument	He submitted that the expressions "fund" and "invest" should be construed according to their dictionary meanings.
+Argument	The expression "fund" in the context of Section 13(2)(h) was a noun and the meaning of the said expression in the standard dictionaries was as follows :  <ORG>, <ORG>, 1972 (p. 526) : "Fund n. a sum of money on which some enterprise is founded or expense supporte d : a supply or source of money :"  16.
+Statute	The Concise Oxford Dictionary, 5th edn., 1964 (p. 494) :  "Fund n. 1.
+Fact	Permanent stock of something ready to be drawn upon--stock of money--pecuniary resources."
+RatioOfTheDecision	17.
+RatioOfTheDecision	<NAME>'s Seventh New Collegiate Dictionary--based on <NAME>'s Third New International Dictionary (p. 538) :  "Fund.
+RatioOfTheDecision	1. an available quantity or material or intangible resources ; supply ; 2. a sum of money or other resources the principal or interest of which is set apart for a specific objective."
+RatioOfTheDecision	18.
+Precedent	The expression "invest" in the said Section 13(2)(h) was a verb and the meaning of the said expression as in the standard dictionaries was as follows :  <NAME>' Twentieth Century Dictionary, New edn., 1972 (p. 691) :  "...to lay out for profit as by buying property, shares, etc.
+Precedent	The Concise Oxford Dictionary, 5th edn., 1964 (p. 640) :  " ...lay out money on as--in a car."
+Precedent	19.
+Precedent	<NAME>'s Seventh New Collegiate Dictionary : "vb.
+Precedent	vt. 1 : to commit (money) in order to earn a financial return ; 2. to make use  of for future beenefits or advantages--vt. to make an investment."
+Precedent	20.
+Precedent	It was submitted that the assessee having received the said shares by way of donation, the same could not be deemed to be funds in his hands nor could it be held that the assessee had invested its funds in the said shares within the meaning of the said Section 13(2)(h) .
+RatioOfTheDecision	No fund, property or income belonging to the assessee and in its possession had been utilised to obtain or invest in the said shares.
+RatioOfTheDecision	The said shares had been received by the assessee as a gift or bounty and the same could not be held to be an investment which could only be made by a positive and conscious act of the assessee.
+RatioOfTheDecision	21.
+RulingByLowerCourt	The learned advocate for the assessee contended further that, in any event, the said shares had been received by the assessee by way of donations prior to June 1, 1970, and, therefore, the assessee was entitled to the benefit conferred by the second proviso to Section 13(1)(c)(ii) as the user or applicr tion of the property of the trust relate d to a period prior to June 1, 1970.
+RulingByLowerCourt	22.
+RulingByLowerCourt	In support of his contentions, the learned advocate for the assessee cited the following decisions :  (a) <ORG> & <CITATION_251775> .
+RulingByLowerCourt	In this case, <ORG> of this court considered and construed the meaning of the expression "fund" as appearing in Rule 1 of the Second Schedule to the Super Profits Tax Act, 1963, and Rule 2 of the Second Schedule to the Companies (Profits) Surtax Act , 1964.
+RulingByLowerCourt	In the judgment to which I was a party, the observations of Lord <NAME> in his judgment in <NAME>'s case  25 TC 445 (HL) were quoted.
+RulingByLowerCourt	(b) <ORG> & <CITATION_251775> : In this case, <ORG> of this court had to consider and construe the meaning of the expression "fund" in Rule 2 of the Second Schedule to the Companies (Profits) Surtax Act , 1964.
+Fact	In the judgment to which I was party, it was noted that in a circular issued by the <ORG>, being Circular No.
+Statute	I. P. (XV-5) of 1968 dated January 23, 1968, it was laid down thatas the expression "fund" had  not been defined in the Companies (Profits) Surtax Act , the same had to be given its ordinary meaning as understood in common parlance.
+Statute	It was further noted in the said circular that etymologically, "fund" meant a sum of money available for the payment or discharge of liabilities.
+Fact	The meaning of the expression "fund" in <ORG>, 2nd edn., Vol.
+Fact	1, was quoted as follows (p. 840) :  "Fund, a sum of money available for the payment or discharge of liabilities.
+Fact	Thus, the assets of a testator form a fund for the payment of his debts."
+Fact	(c) <CITATION_1391894> .
+Fact	In this case, the assessee was a private limited company incorporated for promoting charitable objects.
+Fact	Some time in 1958, the assessee settled the income from all its properties as also income derived from business carried on by it in trust for carrying out charitable objects as set out in the trust deed.
+Fact	The assessee was a partner in seven firms holding defined shares.
+Fact	The assessee retired from the said partnerships prior to Dece mber 31, 1970.
+Fact	On the date of the retirement of the assessee, the said firms did not have adequate resources to pay the amounts due to the assessee on account of capital or share of profits.
+Fact	The amounts due to the assessee were transferred to the current account of the firm as outstanding.
+Fact	In the assessment year involved, the assessee claimed exemption under Section 11 which was rejected by the Income-tax Officer.
+Precedent	The decision of the Income-tax Officer was set aside by the Appellate Assistant Commissioner and the <ORG> affirmed the order of the Appellate Assistant Commissioner.
+Precedent	23.
+Fact	On a reference before <ORG>, the question mooted was whether the amounts due from the said partnership firms to the assessee could be said to have been lent or invested within the meaning of Section 13(2)(a) .
+Fact	<ORG> construed Section 13(2)(h) and considered the interpretation of the expression "investment" in English and Indian decisions.
+Fact	It was held that in order to constitute an investment, money must  be laid out in such a manner as to acquire some species of property which would bring an income to the investor.
+Fact	On the facts, it was held that there was no investment of any moneys by the assessee with the firms which were bound to return the moneys due and owing to the assessee as and when demanded.
+Fact	It was held that there had been no investment by the assessee as understood in business parlance.
+RatioOfTheDecision	24.
+Argument	The learned advocate for the assessee also contended that mere holding of the shares donated to the assessee could not be deemed to be an investment of the funds of the assessee.
+RatioOfTheDecision	In this connection, he drew our attention to Section 13 , as amended by the Finance Act , 1983, with effect from April 1, 1983.
+Statute	The said amended section reads as follows :  "13.
+Statute	(1) Nothing contained in Section 11 or Section 12 shall operate so as to exclude from the total income of the previous year of the person in receipt thereof--.....  (d) in the case of a trust for charitable or religious purposes or a charitable or religious in stitution, any income thereof, if for any period during the previous year-  (i) any funds of the trust or institution are invested or deposited after the 28th day of February, 1983, otherwise than in any one or more of the forms or modes specified in Sub-section (5) of Section 11 ; or  (ii) any funds of the trust or institution invested or deposited before the 1st day of March, 1983, otherwise than in any one or more of the forms or modes specified in Sub-section (5) of Section 11 continue to remain so invested or deposited after the 30th day of November, 1983 ; or  (iii) any shares in a company (not being a Government company as defined in Section 617 of the Companies Act, 1956 , or a corporation established by or under a Central, State or Provincial Act ) are held by the trust or institution after the 30th day of November, 1983 ;"  25.
+Statute	It was submitted that in the aforesaid amended section, a distinction had been made between investment of funds of a trust and holding by the trust of any shares in a company .
+Statute	If Section 13(2)(h) as suggested on behalf of the <ORG> was accepted, it would not have been necessary to make a specific provision in the amended Clause (d) of Sub-section (1) of Section 13 for shares held by a trust in a company other than the <ORG> companies or statutory corporations.
+RatioOfTheDecision	26.
+RatioOfTheDecision	It appears to us that in construing Section 13(2)(h) , the meaning of the expression "fund" will have to be determined not only with reference to dictionaries or to commercial parlance or to the principles of accountancy but also in the context of the said section itself.
+RatioOfTheDecision	The expression in the said section is "funds" and not "fund".
+RatioOfTheDecision	One of the meanings of the said expression "funds" in the dictionaries is money in hand or cash.
+RatioOfTheDecision	In our view, in the context of the said section, this is the meaning which should be attributed to the expression "funds" in construing the said section.
+RatioOfTheDecision	The section contemplates that there will be investment of funds of a trust.
+RatioOfTheDecision	If any other meaning is given to the expression "funds", th e same will not be available for investment or capable of being invested.
+RatioOfTheDecision	If the funds of the trust are construed to include assets other than money in hand or cash or a credit balance in a bank account, the same are not capable of being invested as such.
+RatioOfTheDecision	Other assets of the trust apart from money in hand or cash will have to be converted into money or cash before the same can be in vested.
+RatioOfTheDecision	27.
+RatioOfTheDecision	The expression "invest" in Section 13(2)(h) , in our view, connotes a positive act on the part of the trust whereby the funds of the trust are laid out or committed in any particular property or business or transaction with the object of earning profit or financial advantage or return.
+RatioOfTheDecision	28.
+RatioOfTheDecision	It has to be established that a trust having assets in the form of money or cash or a credit balance in a bank account or in any other form capable of being invested was by a positive act and pursuant to a decision of the trust laid out or committed in a concern of a nature specified, before it can be held that such an investment c omes within the mischief of Section 13(2)(h) .
+RatioOfTheDecision	29.
+RatioOfTheDecision	It appears from the facts as found that the assessee in the instant case received the shares of the company by way of donation.
+RatioOfTheDecision	The assessee did not deal with or commit or lay out any part of its existing assets to acquire the said shares.
+RatioOfTheDecision	Apart from the acceptance by the assessee of the said shares, there was no decision or action on the part of the assessee.
+RatioOfTheDecision	All that the assessee has done is to hold on to the shares which it received by way of gifts.
+RatioOfTheDecision	30.
+RatioOfTheDecision	Some light is thrown on the point by the amendment incorporated in Section 13 by the Finance Act , 1983, noted hereinbefore.
+RatioOfTheDecision	Under the said amended section, the benefit conferred by Section 11 stands withdrawn not only where the funds of the trust are invested or remain invested in a manner other than that prescribed but also where the trust holds any shares in a company other than a Government company or a statutory corporation after a specified date.
+RatioOfTheDecision	A positive distinction has been made between a case w here the funds of the trust are, or remain, invested in a manner other than that prescribed and a case where the trust continues to hold shares in companies other than those excepted.
+RatioOfTheDecision	31.
+RatioOfTheDecision	We also note that the assessee is a trust which was founded in 1920 long before the commencement of the Act and that the assessee received the said shares of the company prior to June 1, 1970.
+RatioOfTheDecision	Therefore, the user or the application of any property of the assessee for the benefit of persons referred to in Section 13(3) , if any, occurred prior to June 1, 1970.
+RatioOfTheDecision	It can well be contended that the proviso to Section 13(1)(d)(iii) is applicable in the case of the assessee in the instant case and the assessee was entitled to claim exemption in respect of dividends received from the said shares.
+RatioOfTheDecision	This has been found by the <ORG>.
+RatioOfTheDecision	On this point, no submission was made before us on behalf of the <ORG>.
+RatioOfTheDecision	32.
+RatioOfTheDecision	For the reasons as stated above, we are unable to accept the contentions of the <ORG>.
+RulingByPresentCourt	We answer the question referred in  the affirmative and in favour of the assessee.
+RulingByPresentCourt	There will be no order as to costs.
+Precedent	<NAME>, J.
+Precedent	33.
+RulingByPresentCourt	I agree.

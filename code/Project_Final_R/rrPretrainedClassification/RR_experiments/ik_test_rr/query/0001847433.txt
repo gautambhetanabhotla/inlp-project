@@ -1,0 +1,32 @@
+Fact	ORDER  1.
+RulingByLowerCourt	The assesses, a banking company, had the assessment for the year ending on December 31, 1968, completed on October 4,1969.
+RulingByLowerCourt	Subsequently, however, the assessment was reopened under Section 147(a) of the Income-tax Act, 1961, to bring to tax a sum of Rs.
+Fact	54,485 in respect of interest suspense account.
+Argument	It is, however, according to the assessee, the sums representing interest on loans, recovery of which was considered doubtful.
+Argument	2.
+Argument	Incidentally be it noted that the assessee had disclosed this sum of Rs.
+Argument	54,485 in the balance-sheet as unrealised amount of interest along with the return filed by it and the Income-tax Officer had accepted the return and as a matter of fact had excluded that amount in the assessment order completed on October 4, 1969.
+Argument	3.
+Argument	The factual score depicts that in terms of a notice under Section 147(a) of the Act, the assessment was reopened and a sum of Rs.
+Argument	54,485 was subjected to tax on the ground that the interest accrued and due on the loans advanced by the bank was the income o f the bank for the relevant assessment year and the assessee has failed to disclose this income in the return filed earlier.
+Argument	4.
+Argument	In the appeal against the reassessment order, the Commissioner of Income-tax (Appeals) upheld the order of the Income-tax Officer and on further appeal, the <ORG>, however, reversed the view of the Commissioner and held that the instructions of <ORG> contained in circular dated October 6, 1952, would govern the case and the reopening was not justified and on a reference before <ORG> under Section 256(1) of the Income-tax Act, <ORG> answered the reference in favour of the assessee upon recording its approval on to the order of the <ORG>.
+Argument	5.
+RatioOfTheDecision	The records depict that two questions were raised before <ORG> (see [1986] 157 ITR 509) namely (page 510):  "1.
+RatioOfTheDecision	Whether, on the facts and in the circumstances of the case, the Income-tax Appellate <ORG> is right in law in holding that the provisions of Section 147(a) are not attracte d ?
+RatioOfTheDecision	2.
+RatioOfTheDecision	Whether, on the facts and in the circumstance of the case, <ORG> is right in law in holding that the interest of Rs.
+RatioOfTheDecision	54,485 taken directly to interest suspense account is not assessable to income-tax ?"
+RatioOfTheDecision	6.
+RatioOfTheDecision	So far as the second question is concerned, <ORG> recorded that the matter need not be gone into by reason of the circular dated October 6, 1952, issued by <ORG>.
+RatioOfTheDecision	Neither do we feel it necessary to go into the issue any further.
+RatioOfTheDecision	7.
+RatioOfTheDecision	Turning attention to the first question as regards the provisions under Section 147(a) be it noted and as the facts depict, there is no failure on the part of the assessee in furnishing the particulars pertaining to the above noted sum as not recoverable for the relevant accounting year and the statements filed along with the original return disclosed the full details of the aforesaid account.
+RatioOfTheDecision	There is, therefore, no failure on the part of the assessee to disclose fully and truly the material facts necessa ry for the assessment years for the respective years and as such Section 147(a) has no manner of application and is not attracted in the facts of the matter under consideration.
+RatioOfTheDecision	<ORG> on consideration of the facts came to the conclusion that the <ORG> was justified in coming to the said finding and we also record our concurrence therewith.
+RatioOfTheDecision	8.
+RatioOfTheDecision	Incidentally this issue came for consideration before this court in a batch of cases on more or less identical situations and this court while dealing with this matter finally, recorded that the question as regards reopening of the assessment under Section 147(a) of the Act would not arise further.
+Precedent	The question in the facts of the matter under consideration is thus covered by the judgment of this court in <CITATION_1862896>  158 ITR 102.
+RatioOfTheDecision	9.
+RulingByPresentCourt	In that view of the matter, these appeals fail and are dismissed.
+RulingByPresentCourt	No order as to costs.

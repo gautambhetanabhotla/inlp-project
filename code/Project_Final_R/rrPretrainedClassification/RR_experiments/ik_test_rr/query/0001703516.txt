@@ -1,0 +1,264 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an application in revision against the order of the Chief Judge of <ORG>, Bombay, dismissing the plaintiff's suit in pursuance of an award under by-law 38A of <ORG>.
+Fact	2.
+Fact	The applicant filed a suit in <ORG> at Bombay to recover a sum of Rs.
+Fact	1,023-8-0, consisting of Rs.
+Fact	1,000, the amount paid as deposit, together with Rs.
+Fact	11 as interest, and Rs.
+Fact	12 8-0 on account of profits in the transactions of sale and purchase of one hundred bales of cotton done by the defendants as the plaintiff's brokers, on December 10, 1926, and December 14, 1926.
+Fact	The defendants admitted the amount of the deposit and interest, and also the two contracts sued upon ; but contended that there were other contracts and several payments by them on account of the transactions which resulted in a loss to the plaintiff, and the amount of Rs.
+Fact	100-10-0 was payable by the plaintiff to the defendants, and that the whole matter had been referred by the def endants to the arbitrators of <ORG>, and, therefore, the Court had no jurisdiction to try the suit.
+Fact	3.
+Fact	The learned Chief Judge of <ORG> stayed the petitioner's suit pending the arbitration.
+Fact	On an application in revision, No.
+RulingByLowerCourt	148 of 1927, <ORG> refused to interfere with the order of stay, and directed that all the objections to the award might be taken before the learned Chief Judge.
+RulingByLowerCourt	The learned Chief Judge appreciated the force of the argument on behalf of the plaintiff that the award was null and void, as it embraced matters not recognised by law, and that the contracts on which the plaintiff sued were in sanctioned forms whereas the arbitrators in arriving at their conclusion considered other contracts which were made in contravention of the by-laws, but held that under by-law 38A, all unpaid claims, whether admitted or not, were required to be referred to the arbitration of two disinterested persons, and therefore the reference to arbitration was valid,  and that if the arbitrators in investigating the dispute referred to other contracts and took into consideration the liabilities under non-sanctioned contracts, it did not amount to any judicial misconduct, and the award was binding as an adjustment of the suit according to the ruling in <CITATION_1367964> (1920) I.L.R.
+Fact	45 Bom.
+Precedent	245, s. o.
+Precedent	22 Bom.
+Precedent	L.R.
+Fact	1048, and, therefore, dismissed the plaintiff's suit, as the arbitrators had held that instead of the amount of Rs.
+Fact	1,023-8-0 being due to the plaintiff, the amount of Rs.
+Fact	100-10-0 was due by the plaintiff to the defendants.
+Fact	4.
+Fact	The East India Cotton Association was incorporated under the Bombay Cotton Contracts Act, XIV of 1922.
+Fact	The order of <ORG> staying the suit was not interfered with by <ORG>.
+Fact	<ORG> of Bombay has power to stay the suit in order to enable the parties to it to refer to arbitration under para, 18 of Schedule II of the Civil Procedure Code, 1908, which has been made applicable to the Presiden <ORG> by the rules under Section 9 of the Presidency Small Cause Courts Acts, or under Section 19 of the Indian Arbitration Act, IX of 1899 according to the decision in <CITATION_1879039> .
+Fact	5.
+Fact	The next question is, whether <ORG> had jurisdiction to accept the award which was, as alleged by the applicant, illegal and void.
+Argument	It is urged on behalf of the applicant that, so far as the deposit of Rs.
+Argument	1,000 was concerned, the arbitrators had no power to decide the question relating thereto, and that the arbitrators could only give an award in respect of the two contracts which were in the sanctioned form, and the award was illegal so far as it proceeded to take into consideration all other contracts alleged by the defendants which were not in the sanctioned form.
+Argument	We are unable to accept the argument on behalf of the applicant that the deposit of Rs.
+Fact	1,000 was unconnected with the contracts on which the suit was based.
+Fact	The receipt for the deposit of Rs.
+Fact	1,000 recites that the depos it was taken from the plaintiff for doing business in cotton.
+RatioOfTheDecision	It represents the earnest or margin money required to be deposited for any loss that would have resulted from the contracts made by the plaintiff with the defendants brokers.
+RatioOfTheDecision	The sanctioned contract form at page 68 of the rules refers to a margin to be paid and maintained by the broker until the completion of the contract.
+RatioOfTheDecision	It would, therefore, follow that the amount of Rs.
+RatioOfTheDecision	1,000 deposited is closely connected with the contracts entered into by the plaintiff with the defendants which were in the sanctioned form.
+Statute	By-law 38 A framed under the Act provides as follows:-  All unpaid claims whether admitted or not and all disputes (other than those relating to quality) arising out of, or in relation to, (a) contracts (whether forward or 'ready' and whether between members or between a member and a non-member) made subject to these by-laws, or (b) the rights and/or responsibilities of commission agents, muccadums and brokers not parties to such contracts,  shall be referred to the arbitration of two disinterested persons one to be chosen by each disputant...  6.
+Statute	By-law 81 runs as follows:-  Contracts between agents and their constituents, e.g., between a member and a non-member or between a member acting as an agent and a member acting as his constituent shall be subject to the by-laws and shall be in writing in the form given in the Appendix (pages 67, 68, 69 and 70), provided that to such contracts by-laws 130 to 166 inclusive shall not apply.
+Precedent	A member whose constituent has agreed in writing to sign the prescribed form of contract and fails or refuses to do so after terms have been arranged shall be treated in all respects as if he had done so and both parties shall have the rights and remedies accorded by these by-laws.
+Precedent	7.
+Precedent	It is, therefore, necessary that the contracts must be in writing and signed in the sanctioned form, or in the absence of any contract in the sanctioned form there must be a written undertaking by the constituent to sign.
+Precedent	A mere oral und ertaking would be insufficient according to the decision in <NAME> v. <NAME> (1927) 30 Bom.
+Precedent	L.R.
+Precedent	122.
+Precedent	The contracts which are not in the sanctioned form are void under Section 5 of the Bombay Cotton Contracts Act, XIV of 1922.
+Precedent	It would, therefore, follow that the applicant could bring a suit in <ORG> on the two contracts which were in the sanctioned form to recover the deposit and also the profit accruing thereunder, and it would be open to the defendants to apply under the Indian Arbitration Act to stay the action, but it is not open to the defendants to say that the action would not lie.
+Precedent	<CITATION_700585> .
+Precedent	referred to by-law 38 of <ORG> and observed as follows (p. 1328):-  I can see nothing in that clause to make arbitration a condition precedent to the right to bring an action.
+Precedent	It seems to mo to be an ordinary provision for referring disputes to arbitration, and such a provision does not in any way oust the jurisdiction of the Court.
+Precedent	If an action is brought  in respect of a matter covered by the arbitration clause, the defendant can apply under the Indian Arbitration Act to stay the action, but it is not open to him to say that the action does not lie.
+Precedent	8.
+Precedent	With regard to by-law 81, it was held that a suit could not be maintained on a contract which was not in compliance with the statutory form, unless there was an agreement in writing to sign the prescribed form of contract.
+RatioOfTheDecision	9.
+RatioOfTheDecision	In the present case it is alleged on behalf of the applicant that there were only two contracts in writing in the sanctioned form on which the suit is based, and that the arbitrators took into consideration other contracts which were not in the sanctioned form, nor was there any agreement in writing to sign those contracts.
+RatioOfTheDecision	It is urged, on the other hand, that the award (SIC) not disclose the fact that the arbitrators took into consideration contracts which were not in the sanctioned form.
+RatioOfTheDecision	It is conceded on behalf of the opponents, and it is also clear from the authorities, that if a sui t had been brought by the defendants on any contracts which were not in the sanctioned form in the absence of any agreement in writing to sign those contracts, it would not have been maintainable.
+RatioOfTheDecision	It is, therefore, contended on behalf of the applicant that the arbitrators took into consideration contracts which were not in the sanctioned form, and that the whole award is illegal and void, as the award which is legal so far as it is based on the contracts in sanctioned forms cannot be separated from the other portion of the award which is based on contracts which were illegal and void.
+RatioOfTheDecision	The remarks in the judgment of the learned Chief Judge lend support to the contention on behalf of the applicant that the arbitrators took into consideration other contracts between the parties which were not in the sanctioned form, though there is no specific and clear finding on that point.
+Precedent	The award, if it has proceeded on contracts which were not in the sanctioned form, would be illegal and void, and if the portion of the aw ard which is illegal and void cannot be separated from the portion of the award which is valid, the whole award would be invalid.
+Precedent	<CITATION_1376906> .
+Precedent	(1920) 34 C.L.J.
+Precedent	253 it was held that if in the event of an award made by arbitrators on grounds some of which did, while the others did not, justify the exercise of their jurisdiction, the <ORG> cannot hold with certainty that the arbitrators acted exclusively on grounds within their jurisdiction, and the award is null and void on the principle that if the bad is not separable from the good, the whole is bad.
+Precedent	See also <CITATION_1035490> (1915) 22 C.L.J.
+Precedent	237, 240.
+Precedent	10.
+Precedent	The learned Chief Judge, however, held that the award not having been set aside, he was bound to dismiss the plaintiff's suit on the authority of <CITATION_1367964> (1920) I.L.R.
+Precedent	45 Bom.
+Precedent	245, s.c. 22 Bom.
+Precedent	L.R.
+Precedent	1048, on the ground that the award was an adjustment of the suit.
+RatioOfTheDecision	Where the parties to a suit refer their disputes to arbitration without the intervention of the <ORG> and an award is made,  an application to pass a decree in terms of the award is an application to record a compromise within the meaning of Order XXIII, Rule 3.
+Precedent	It was observed by <NAME> (p. 260):-  But when parties have been negotiating for a settlement, and one party con" aiders a settlement has been arrived at, which the other party denies, or where there has been a settlement which one party seeks to avoid on any of the grounds on which an agreement can be avoitied, recourse is had to Order XXIII, Rule 3, so that the Court may determine whether an adjustment has actually been ,made or whether an adjustment made is one which can be recorded.
+Precedent	11.
+Precedent	<NAME> J., however, at page 270, held that Order XXIII, Rule 3, of the Civil Procedure Code, contains provisions corresponding to the plea of "accord and satisfaction after writ," and that an agreement to refer to arbitration after suit together with the award thereon is on the same footing as a direct settlement between the parties, but the award to be effective for such a plea  must be a valid one according to the general rules of law governing the validity of awards in arbitration proceedings.
+RatioOfTheDecision	12.
+RatioOfTheDecision	It would, therefore, follow that if the award is invalid or illegal, it cannot be recorded as an adjustment of the suit.
+RatioOfTheDecision	If the defendants had proceeded under the Indian Arbitration Act and got a decree on the award in <ORG>, or if the plaintiff had got the award set aside under the Indian Arbitration Act , the matter would have been conclusive.
+RatioOfTheDecision	But where, as in the present case, the award is sought to be recorded as an adjustment of the suit, the <ORG> has jurisdiction to consider whether the award is legal and enforceable.
+Precedent	The view in <CITATION_1367964> has been confirmed by the full bench decision in <NAME> v. <NAME> (1927) I.L.R.
+Precedent	51 Bom.
+Precedent	908, s.c. 29 Bom.
+Precedent	L.R.
+Precedent	1254, F.B., where it was held that where in a suit parties have referred their differences to arbitration without an order of the <ORG> and an award is made, a decree in terms of the award cap be passed by  the <ORG> under Order XXIII, Rule 3, of the Civil Procedure Code, but not otherwise.
+Precedent	At page 948 <NAME> observed:-  I would only add that in my judgment the word 'lawful' in Order XXIII Rule 3, refers to the nature of the compromise arrived at, not to the procedure which the parties may have followed in bringing it about.
+RatioOfTheDecision	But it is of course the duty of the <ORG> to be satisfied that there has in fact been an adjustment by compromise.
+RatioOfTheDecision	13.
+RatioOfTheDecision	Under by-law 38 A. only disputes arising out of or in relation to contracts made subject to the by-laws shall be referred to arbitration.
+RatioOfTheDecision	Under by-law 81 such contracts must be in writing in the form given in the appendix.
+RatioOfTheDecision	It would, therefore, follow that the arbitrators had no jurisdiction to decide disputes arising out of contracts not in the sanctioned form.
+Precedent	In cases where an arbitrator enters upon a consideration of matters which are not referred to him or which he has no jurisdiction to try by arbitration clause or submission between the parties, the appearance o f the party after objection taken and protest made, does neither give the arbitrator authority to make an award nor estop him from urging that the arbitrator has exceeded his authority.
+Precedent	See <NAME> v. <NAME> (1864) 33 L.J.C.P.
+Precedent	337 and <CITATION_200713> (1927) 29 Born.
+Precedent	L.R.
+Precedent	1087, 1092.
+Precedent	The attendance of the applicant before the arbitrators after protest would not amount to a waiver of his right to object to the jurisdiction of the arbitrators.
+Argument	14.
+Argument	It is urged on behalf of the applicant that he was never prepared to refer the dispute between the parties on contracts which were not in the sanctioned form to arbitration, and the award on such contracts as were not in the sanctioned form would be illegal and void.
+RatioOfTheDecision	It would, therefore, appear that if the contention of the applicant, which the arbitrators entered upon a consideration of matters when they had no jurisdiction to do so, is correct, it cannot be said that the suit has been adjusted by a lawful compromise.
+Precedent	The view of <ORG> in <CITAT ION_1431069> (1921) I.L.R.
+Precedent	49 Cal.
+Precedent	608 that where in a pending suit the parties go to private arbitration without the consent of the <ORG>, the award cannot be enforced either under Order XXIII, Rule 3, or under the provisions of the Indian Arbitration Act , has not been accepted by the full bench decision in <NAME> v. <NAME> (1927) I.L.R.
+Precedent	51 Bom.
+Precedent	908, s.c. 29 Bom.
+Precedent	L.R.
+Precedent	1254, F.B.
+Precedent	15.
+Precedent	It would, therefore, be necessary to send the case back to the lower <ORG> to decide on taking fresh evidence, if necessary, whether the arbitrators took into consideration the contracts which were not in the sanctioned form, and which were illegal and void under Section of the Bombay Cotton Contracts Act, XIV of 1922.
+Precedent	If the <ORG> comes to the conclusion that the arbitrators took into consideration contracts which were not in the sanctioned form, the award would be illegal and void and the legal part of the award would not be capable of being separated from the illegal part.
+Precedent	The <ORG> would then be entitled to disre gard the award and decide the suit on the merits.
+Precedent	16.
+Precedent	The lower Court, in my opinion, failed to exercise the jurisdiction vested in it by law in omitting to consider the question whether the award was a lawful compromise under Order XXIII, Rule 3.
+Precedent	17.
+Precedent	We would, therefore, reverse the decree of the lower Court dismissing the suit, and send the case back for disposal of the suit in the light of the remarks made in this judgment.
+Precedent	18.
+Precedent	Costs of this application will be casts in the suit.
+Precedent	<NAME>, J.
+Precedent	19.
+Precedent	I agree.
+Precedent	20.
+Precedent	As this is a matter of importance and we are differing from the learned Chief Judge of <ORG> after the full Court has declined to issue a rule, I think it desirable to state my reasons.
+Precedent	21.
+Fact	The plaintiff filed his suit on February 12, 1927.
+Fact	The plaint was as follows:-  The plaintiff above named states the following:-  (1) That on December 6, 1926, the plaintiff engaged the defendants as his brokers to effect transactions in cotton on his behalf, and as required by the defendan ts deposited a sum of Rs.
+Fact	1,000 with them the same day.
+Fact	The defendants agreed to pay interest at six per cent, per annum on that amount.
+Fact	(2) That on December 10, 1926, on instructions from plaintiff the defendants effected a sale on behalf of plaintiff of one hundred bales of <ORG> of April-May 1927 delivery at Rs.
+Fact	242 per Candy.
+Fact	(3) That on December 14, 1926, on instructions from plaintiff, to cover the above sale, the defendants effected a purchase on behalf of plaintiff of one hundred bales of <ORG> cotton of April-May 1927 delivery at Rs.
+Fact	240-12-0 per Candy.
+Fact	(4) That in respect of these transactions a sum of Rs.
+Fact	12-80 became due by the defendants to the plaintiff after giving credit for brokerage to the defendants, as per memo of account hereto annexed and marked 'A.'
+Fact	(5) That the plaintiff several times verbally and finally by his <NAME>'s letter of February 3, 1927, called upon the defendants to pay up the said sum of Rs.
+Fact	1,000 and interest due thereon as mentioned in par a 1 of this plaint and the sum of Rs.
+Fact	12-8-0 as per para 4 hereof but the defendants have failed to pay the same or any part thereof.
+Fact	(6) That the total amount due by the defendants to the plaintiff comes to Rs.
+Fact	1,023-8-0 inclusive of interest up to date.
+Fact	(7) The plaintiff therefore prays for judgment for Rs.
+Fact	1,023-8-0 and interest thereon at six per cent till judgment and further interest on judgment at six per cent.
+Fact	per annum till realisation and such further and other relief as to the Court may seem fit.
+Fact	22.
+Fact	On March 14, 1927, the defendants filed the following written statement:-  1.
+Fact	Deny plaintiff's right to sue.
+Fact	2.
+Fact	Deny that plaintiff engaged the defendants as brokers.
+Argument	3.
+Argument	Say it was one <NAME> who was doing business in the name of <NAME> by whom all the transactions mentioned in the plaint were done and all orders for the transactions given to the defendants.
+Argument	4.
+Argument	Without prejudice say that plaintiff has not filed the suit on the whole account between the parties  and say that the real account between the parties is given in the annexed particulars marked 'A' and on the whole account a sum of Rs.
+Argument	100-10 will be found due by the said <NAME>.
+Argument	5.
+Fact	Without prejudice claim credit for Rs.
+Fact	300 paid as under: -  Rs, 50 on January 10, 1927.
+Fact	Rs.
+Fact	100 on January 18, 1927.
+Fact	Rs.
+Fact	150 on January 31, 1927.
+Fact	6.
+Fact	Say that disputes having arisen between the (SIC) all matters have been referred by the defendants to <ORG> for their arbitration and the said <ORG> have already appointed arbitrators and the matter is pending before the said arbitrators."7.
+Fact	Say that the suit should be stayed.
+Fact	23.
+Fact	The suit was stayed sine die pending the result of arbitration on the defendants' reference.
+Fact	24.
+Fact	On April 12, 1927, an award was made in the following terms:-  We were nominated arbitrators in a dispute between the above parties by the Deputy Chairman of the Bast India Cotton <ORG> Limited.
+Fact	We notified both the parties to be present at a meeting conv ened on March 28, 1927, when Mr. <NAME> representing the plaintiffs and Mr. <NAME> representing the defendant with his pleader wore present.
+Fact	The meeting was adjourned to April 2, 1927, when also both the parties were present.
+Fact	After hearing them fully and carefully looking into the accounts, correspondence and papers in respect of the above matter, we find that the plaintiffs' claim of Rs.
+Fact	100-10-0 is fully corroborated by their books of accounts, <ORG> etc., that were placed before us and by the oral evidence of independent witnesses.
+Fact	We therefore award the plaintiffs' claim of Rs.
+Fact	100-10-0 together with interest at six per cent till the date of payment, plus Rs, 70 for cost of this arbitration against the defendant.
+Fact	25.
+Fact	Against the order of stay Revision Application No.
+RulingByLowerCourt	148 of 1927 was made to this Court.
+RulingByLowerCourt	The Court refused to interfere on the ground that it was an interlocutory order, and directed that the objections to the award might be taken before the Chief Judge.
+RatioOfTheDecision	T he suit was then again taken up in <ORG> at the stage at which it was left, except that in the meantime the award had been made.
+RatioOfTheDecision	26.
+RatioOfTheDecision	The plaintiff objected that the award was null and void because the arbitrators had taken into consideration certain transactions which were not in the prescribed contract forms as required by by-law 81 of <ORG>.
+RatioOfTheDecision	The terms of bylaw 81 have been set out in the judgment of my learned brother.
+RatioOfTheDecision	Section 5 of Act XIV of 1922 provides that contracts in contravention of any by-law shall be void.
+Precedent	The learned Judge said that he appreciated the force of the argument, but he held that there was a valid reference to arbitration under by-law 38A and that the award was binding on the parties as an adjustment of the suit.
+Precedent	He cited and apparently professed to follow <CITATION_1367964> (1920) I.L.R.
+Precedent	45 Bom.
+Precedent	245, s.c. 22 Bom.
+Precedent	L.R.
+Precedent	1048.
+Fact	The plaintiff's suit was dismissed and he has come to this <ORG> in revision.
+Precedent	27.
+RatioOfTheDecision	At the outset it should be stated t hat the plaintiff has all along denied that he had any dealings with the defendants other than the transactions mentioned in the plaint, and, at any rate so far as the proceedings in <ORG> are con cerned, the other transactions alleged by the defendants have not been proved.
+RatioOfTheDecision	On the other hand, it has not been proved that the other transactions referred to were not in the standard forms, though the plaintiff has asserted that they were not and the defendants do not appear to have ever asserted that they were.
+RatioOfTheDecision	Again, it cannot be said to be apparent from the record that the arbitrators in making their award took account of any transactions not in the standard forms, although it is probable that they did so since they have awarded the defendants the exact sum claimed in their written statement.
+RatioOfTheDecision	These questions, in the view we take of the case, it will be necessary for the trial <ORG> to clear up.
+RatioOfTheDecision	28.
+RatioOfTheDecision	But it appears from the judgment of the learned Chief Judge that he dealt with the case on the basis that there  were some other transactions between the parties which contravened the provisions of by-law 81, and that the award covered these transactions also.
+RatioOfTheDecision	For the purposes of this application we must take it that the facts are so, and consider whether on that basis the suit has been rightly dismissed.
+Precedent	29.
+Precedent	As I have found some difficulty in analysing the learned Judge's reasoning, I quote the relevant passage from his judgment in full:-  The arbitration was, however, set up under by-law 38A, of the bylaws framed under the Act.
+Precedent	It runs as follows:-' All unpaid claims, whether admitted or not, and all disputes arising out of, or in relation to, (a) contracts made subject to these by-laws, or (b) the rights and responsibilities of brokers, shall be referred to the arbitration of two disinterested persons.'
+RatioOfTheDecision	The facts here are that the defendant did not admit the claim of the plaintiff.
+RatioOfTheDecision	The existence of that fact is enough to give jurisdiction to the arbitrators.
+Fact	Plaintiff contends that the claim to the margin money and  Rs.
+Fact	12-8-0, for profit, was an admitted claim.
+RatioOfTheDecision	Defendant disputes and denies it.
+RatioOfTheDecision	But; granting that it was so, still it was an unpaid claim, and all unpaid claims are referable to arbitration, whether admitted or not.
+Argument	The arbitrators had therefore to determine whether the claim to Rs.
+Argument	1,012-8-0 was an admitted claim or not, They had jurisdiction, even if it was admitted,-which it was not,-because it was unpaid.
+Argument	I think power is taken in oases of admitted but unpaid claims, deliberately by the <ORG>, in respect of brokers and others, so that where they find that there are unjustifiable instances of any broker admitting claims, but not paying them, action can be taken against him, In investigating the dispute, they had, therefore, to refer to the whole account and in doing so, if they took into consideration liabilities under non-sanctioned contracts, it would not vitiate or invalidiate their award, as it would not amount to any judicial misconduct on their part.
+Argument	Ab initio, I find, that the reference was  a valid one, as conditions calling for it under by-law 38 did exist in this case.
+Argument	Taking plaintiff's case at its best, there was an unpaid claim, arising under sanctioned contracts, and if there was an unpaid claim, a reference was called for, as a reference has to be made in case of ' all unpaid claims.'
+Argument	Really speeking, he should have referred the matter to arbitration, as defendant was not paying him his admitted claim.
+RatioOfTheDecision	Even if under the Limitation Act , the remedy of the parties to have the award enforced as an order of the Court or otherwise, is barred, it cannot be said that they have no other rights in respect of it.
+RatioOfTheDecision	I need not discuss what they are.
+RatioOfTheDecision	I find that there was a valid reference and that there is an award published under it.
+RatioOfTheDecision	It is therefore binding on parties as an adjustment of the suit, <CITATION_1367964> .
+RatioOfTheDecision	Whether the plaintiff appeared before the arbitrators under protest or not, does not affect the submission and the award, as under the by-law there was a valid reference.
+RatioOfTheDecision	30.
+RatioOfTheDecision	The fin dings appear to be: (1) There was a valid reference to arbitration under by-law 38A, and (2) as there was a valid reference and an award published under it, and as the award is not invalidated by judicial misconduct on the part of the arbitrators the fact that the arbitrators took into consideration liabilities under void contracts not being in the learned Judge's view judicial misconduct,-therefore, the award is binding as an adjustment of the suit.
+RatioOfTheDecision	31.
+RatioOfTheDecision	As regards the reference to arbitration it is to be noted, first of all, that there has been no submission to arbitration in the ordinary sense by both parties to the dispute.
+RatioOfTheDecision	I do not say that it would necessarily have made any difference if the plaintiff and the defendants had agreed that the whole series of transactions including the void contracts should be referred to the arbitrators, but it is important to bear in mind that there was no such agreement.
+RatioOfTheDecision	The defendants placed before the arbitrators what they considered to be the subject-matter of the arb itration.
+Precedent	The plaintiff appeared in the proceedings under protest, and he is only bound by them in so far as they can be held valid under by-law 38A: see <CITATION_200713> (1027) 29 Bom.
+Precedent	L.R.
+Precedent	1087.
+Argument	32.
+Argument	The learned Judge says that the plaintiff had an unpaid claim, namely, for Rs.
+Argument	1,023-8-0, arising out of, or relating to, the two contracts made subject to the by-laws, that really speaking he ought to have referred the matter to arbitration himself, and that as he did not, the arbitrators had jurisdiction to consider the claim on the defendants' reference.
+RatioOfTheDecision	So far I have DO difficulty in following him.
+RatioOfTheDecision	But the real question which it seems to me the learned Judge has hardly faced is this: When there is an unpaid claim or a dispute arising out of, or relating to, a series of transactions consisting partly of contracts made subject to the by-laws and partly of contracts not so made, does bylaw 38A empower one party to refer the whole matter to arbitration without the consent of the other, and if a reference is so  made, have the arbitrators authority to deal with the whole series of transactions?
+RatioOfTheDecision	Now, there was no agreement between the parties, as I have said, and the arbitration proceedings depend for their validity on the provisions of by-law 38A.
+RatioOfTheDecision	These have been set out in my learned brother's judgment.
+RatioOfTheDecision	So far as Clause (a) is concerned, it is clear that arbitration is not contemplated or made compulsory in the case of contracts not made subject to the by-laws.
+RatioOfTheDecision	In Clause (b) "such contracts" mean contracts made subject to the by-laws, and the meaning of the clause seems to be that when commission agents or brokers are concerned in such contracts, and there is a dispute as to their rights or liabilities, the dispute shall be referred to arbitration although they were not actually parties to the contracts.
+RatioOfTheDecision	It would be putting a very unnatural interpretation on the by-law as a whole, if we were to take the words "not parties to such contracts," i.e., not parties to contracts subject to the by-laws, as though they mean t " parties to contracts not subject to the bylaws," and I may say that no such construction appears to have been put upon the words either by the learned Judge or by the learned advocate for the opponents.
+RatioOfTheDecision	There is nothing in the by-law then which gives power to one of the two disputing parties to refer any matters to arbitration which do not arise out of valid contracts, and the learned Judge's finding that there was a valid reference in this case appears to me to be clearly wrong.
+RatioOfTheDecision	As to the award, it is not altogether clear to me whether the learned Judge held it to be valid or not.
+RatioOfTheDecision	What he says is:-  In investigating the dispute, they had, therefore, to refer to the whole account and in doing so, if they took into consideration liabilities under non-sanctioned contracts, it would not vitiate or invalidate their award, as it would not amount to any judicial misconduct on their part.
+RatioOfTheDecision	33.
+RatioOfTheDecision	It seems that this might mean either that the arbitrators were justified in looking at the whole account, or that they;  were not justified in doing so, but the Court could not interfere and must accept the award because there is nothing amounting to judicial misconduct.
+RatioOfTheDecision	If, as I hold, the submission to arbitration as regards the whole series of transactions is invalid, it follows that the award based on a consideration of the whole series of transactions must also be invalid.
+RatioOfTheDecision	The authority of the arbitrators is limited to the matters lawfully submitted to them.
+RulingByLowerCourt	Several authorities were cited on this point.
+RulingByLowerCourt	I need only refer to <CITATION_396793> (1884) I.L.R.
+Fact	9 Bom.
+RatioOfTheDecision	82, noting that the present is not a case in which the part of the award which is beyond the submission can be separated from that which is within it.
+RatioOfTheDecision	As I have suggested it is by no mears clear that the award would have been valid if it had been entirely within the terms of the submission, for if the arbitrators were at liberty to take account of the contracts not in the prescribed form, they would be giving effect to contracts which the law has declared to be void , and that would apparently be contrary to public policy.
+Precedent	In that connection I may refer to the cases cited in <NAME>'s Commentary on Order XXIII, Rule 3, under the heading "Lawful agreement or compromise", 9th Edition, page 822; but I need not go into the cases in detail, because, in the view I take, the point does not actually arise in this case.
+Precedent	34.
+RatioOfTheDecision	If, on the other hand, the learned Judge's view was that the award was not a lawful one, but that he had no jurisdiction to go into that question, then on that point also, I think, he was clearly wrong.
+RatioOfTheDecision	If the award had been made a decree of <ORG>, then, of course, no order could have been made in the plaintiff's suit inconsistent with such decree.
+RatioOfTheDecision	But that course has not been followed, and it is well settled that the mere making of an award even on a valid submission does not, ipso facto, oust the jurisdiction of the <ORG>: see <CITATION_372465>  3 K.B.
+Precedent	257, cited as an authority by <NAME> in <NAME> v. <NAME> (1929) 31 Bom.
+Precedent	L.R.
+Precedent	1403, and also <C ITATION_700585> (1930)32 Bom.
+Precedent	L.R.
+Precedent	1319, 1328.
+Precedent	In the case of <CITATION_1367964> (1920) I.L.R.
+Precedent	45 Bom.
+Precedent	245, s.c. 22 Bom.
+Precedent	L.R.
+Argument	1048, which the learned Judge himself appears to have made the basis of his decision, it was held that an award could be regarded as an adjustment of the suit under Order XXIII, Rule 3, and the terms of that rule make it clear that the Court must first be in a position to hold that the award amounted to a lawful agreement or compromise.
+Argument	35.
+RulingByPresentCourt	For these reasons I agree with the order proposed by my learned brother.

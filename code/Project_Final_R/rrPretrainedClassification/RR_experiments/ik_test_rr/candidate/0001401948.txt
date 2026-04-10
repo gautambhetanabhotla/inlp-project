@@ -1,0 +1,78 @@
+Argument	JUDGMENT Grover, J.
+Argument	1.
+Fact	This is an appeal by special leave from a judgment of <ORG> dated July 2, 1964, in Writ Appeal No.
+Fact	25 of 1963 whereby the judgment of the learned single judge allowing a petition tinder Article 226 of the Constitution was confirmed.
+Fact	2.
+Fact	The facts briefly are these.
+Fact	<NAME> of Hyderabad had, by a deed of trust dated August 6, 1950, created a trust known as " <NAME>'s Miscellaneous Trust" for the benefit of his family and dependants.
+Fact	One of the beneficiaries was <NAME>, a stepsister of the <NAME>, to whom an annuity of Rs.
+Fact	12,000 had to be given.
+Fact	She died on November 10, 1955.
+Fact	The property passing on her death became liable to estate duty under the Estate Duty Act , 1953 (XXXIV of 1953), hereinafter called "the Act".
+Fact	The trust fund consisted of three items one of which was a loan deposited with <ORG> bearing interest at 11/4%.
+Fact	The main dispute before the Assistant Controller of Estate Duty related  to the correct valuation of the aforesaid loan.
+Fact	He valued it at Rs.
+Fact	2,01,30,000 and, after making the other necessary calculations, the net market value of the estate of the deceased was assessed at Rs.
+Fact	6,61,347 on which demand was created at Rs.
+Fact	83,519.40.
+Fact	The trustees preferred an appeal before <ORG> disputing the correctness of the valuation of the estate of the deceased (<NAME>) made by the Assistant Controller.
+Argument	<ORG> in its order dated August 6, 1959, expressed the view that the securities in question had not been overvalued but had been undervalued.
+Argument	According to the Board the correct valuation should have been Rs.
+Argument	3,06,83,760; in other words, its opinion was that the face value of the securities being Rs.
+Argument	4.5 crores, the market value should have been at the rate of 78% whereas the basis adopted by the Assistant Controller came to 52%.
+Argument	He proceeded to say towards the concluding portion of his order : " However I find that there is some force in the argument advanced  by the appellant's representative against any enhancement being made by the <ORG> in appeal proceedings.
+Fact	I refrain therefore from making the proposed enhancement in the value of the securities and confirm the value adopted by the Assistant Controller. "
+Fact	3.
+Fact	The Act was amended by the Estate Duty (Amendment) Act , 1958, hereinafter called "the amendment Act."
+Fact	By Section 21 of the amendment Act, Sections 56 to 65 of the principal Act were substituted by the new sections.
+Fact	The new Section 59 for the first time gave power to <ORG> to assess or reassess property escaping assessment.
+Fact	It is common ground that the amendment Act came into force on July 1, 1960.
+Fact	The Assistant Controller issued a notice on August 12, 1960, to the trustees in exercise of the powers conferred by the new Section 59 of the Act.
+Fact	In that notice it was stated that he had reasons to believe that property chargeable under the Act to estate duty had escaped assessment by reason of under valuation and, therefore, a statement  of account was called for in respect of the market value of the securities of Rs.
+Fact	4.5 crores.
+Fact	On September 20, 1960, the present respondents filed a writ petition in <ORG> challenging the validity and legality of the notice issued under Section 59 of the Act and praying that it be quashed.
+Fact	In the writ petition two main points were raised : the first was that Section 59 had been introduced by the Amendment Act and it could not be made applicable to assessments which had become final before July 1, 1960, the date on which the amendment Act came into force.
+Argument	Secondly, the conditions laid down in Section 59 had not been fulfilled.
+Argument	It had not been stated what information had been received or was in the possession of the Assistant Controller in consequence of which he had reason to believe that property had been undervalued.
+Argument	It was contended that mere change of opinion would not justify the reopening of assessment.
+Argument	The present appellant in the return filed to the writ petition in <ORG> claimed th at, Section 5959 as introduced by the Amendment Act was applicable and that <ORG> had expressed the opinion that the correct value of the securities should be 78% of the face value as against 52% as adopted in the assessment order and the appellate order had been received on August 15, 1959, and therefore, the appellant was fully justified in issuing the notice as he had reason to believe by virtue of information which had come into his possession that the securities had been undervalued.
+Argument	The learned single judge held that the appellant had no jurisdiction under Section 59 , as newly introduced by the Amendment Act , to reopen a matter which had been completed and which had became final before July 1, 1960.
+Argument	On the second point he was of the view that the opinion of <ORG> did not amount to " information " within the meaning of Section 59(b) of the Act, The writ petition, consequently, was allowed.
+Fact	The appellant preferred an appeal under Clause 15 of the Letters Pat ent which was disposed of by <ORG> on July 2, 1964.
+Fact	The <ORG> did riot decide the first point, namely, whether Section 59 as newly introduced by the Amendment Act was applicable or not and rested its decision on the second point.
+Fact	It was held that a mere expression of opinion by <ORG> did not amount to "information " within the meaning of Section 59(b) of the Act.
+Argument	4.
+Argument	The learned Solicitor-General has argued on behalf of the appellant that the decision of <ORG> on the second point was erroneous.
+Argument	According to him any matter of fact or law which may come to the notice of the appellant after the making of assessment including a finding by a higher authority would be "information " for the purpose and within the meaning of Section 59 .
+Argument	It is urged that the appellant had not taken action on mere change of his opinion.
+Argument	The predecessor in office of the appellant had adopted a wrong mode of valuation and the opinion expressed by <ORG> about the correct  mode was " information " which led to the appellant entertaining a reasonable belief that the property assessed to estate duty had been undervalued.
+Argument	Reliance has been placed on a number of decisions in which the meaning of the word "information" in parallel provisions in the Income-tax Act , 1922, and other enactments came up for consideration <CITATION_1886356> ,  35 I.T.E.
+Argument	1, 6 (S.C.) it was held that the word " information " in Section 34(i)(b) included information as to the true and correct state of law, and so would cover information as to relevant judicial decisions.
+RatioOfTheDecision	The following observation may be reproduced with advantage : " If the word ' information ' used in any other provision of the Act denotes information as to facts or particulars, that would not necessarily determine the meaning of the said word in Section 34(1)(b) .
+RatioOfTheDecision	The denotation of the said word would naturally depend on the context of the particular provisions in which it is used.
+RatioOfTheDecision	It is then contended that Sections 33B and 35 confer ample  powers on the specified authorities to revise the.
+RatioOfTheDecision	Income-tax Officer's orders and to rectify mistakes respectively and so it would be legitimate to construe the word 'information' in Section 34(1)(b) strictly and to confine it to information in regard to facts or particulars.
+RatioOfTheDecision	This argument also is not valid.
+RatioOfTheDecision	If the word ' information' in its plain grammatical meaning includes information as to facts as well as information as to the state of the law, it would be unreasonable to limit to information as to the facts on the extraneous consideration that some cases of assessment which need to be revised or rectified on the ground of mistake of law may conceivably be covered by Sections 33B and 35 ."
+RatioOfTheDecision	5.
+Argument	<CITATION_839441> ., it was said that the expression " information " in the context of Section 147(b) of the Income-tax Act, 1961, must mean instruction or knowledge derived from extraneous sources concerning facts or particulars or as to law relating to a matter bearing on the assessment.
+Argument	<ORG>,  in a recent decision <CITATION_715570> ,  68 I.T.R.
+Argument	594 after a discussion of the relevant case law, came to the conclusion that "information" within the meaning of Section 34(1)(b) of the Income-tax Act, 1922, may consist of a different view taken of the facts on the record by a higher <ORG> on appeal from the Income-tax Officer's decision.
+Argument	In that case it was held that the decision of the Income-tax Appellate <ORG> constituted " information " to the Income-tax Officer as to which of the assessable parties was chargeable for a particular item of income.
+Fact	In the latest decision of this court in <CITATION_1136517> , when the first assessment of the assessee's income was made by the Income-tax Officer the latter's information was that the assessee was a partner in another concern known as <ORG> and that the interest had been received from that concern in the capacity of a partner.
+Fact	It was only after the <ORG> and <ORG> gave their decision in the proceedings for assessment to tax of Bises ar House that the Income-tax Officer came to know that the interest was not being received by the assessee-firm in the capacity of a partner but in its capacity of a financier advancing monies to <ORG> as a banker.
+Fact	It was held that the Income-tax Officer had not acted on his own initiative or on the change of his own opinion when he took proceedings under Section 34(1)(b) .
+RatioOfTheDecision	The correct position had been brought to his notice by the decision of the <ORG> and <ORG> and that must be held to be " information " as a consequence of which he came to believe that the provisions of Section 34(1)(b) were attracted.
+RatioOfTheDecision	6.
+RatioOfTheDecision	The learned counsel for the respondents in the presence of the above state of law, as settled by this court, sought to contend that the question of valuation of the securities was neither purely one of fact nor of law and was a mixed question of law and fact and, therefore, it could not fall within the rule laid down in the aforesaid decisions.
+RatioOfTheDecision	We are unable to agree.
+RatioOfTheDecision	When the express ion " information " is understood in the sense of instruction or knowledge derived from an external source concerning facts or particulars or as to law relating to a matter bearing on the assessment, it is difficult to see how determination of valuation for the purpose of assessment of estate duty would not squarely fall within the meaning of the expression " information " in the context in which it occurs in Section 59 of the Act.
+RatioOfTheDecision	It has not been disputed, and can indeed not be disputed, that the provisions of Section 59 are in pari materia with Section 34 of the Income-tax Act, 1922, and Section 147 of the Income-tax Act, 1961.
+RatioOfTheDecision	The opinion expressed by <ORG>, in the present case, as to valuation, was clearly " information " in the sense in which that expression has been held to have been used in these enactments.
+RatioOfTheDecision	The view of <ORG> on this point cannot be sustained for the aforesaid reasons.
+RatioOfTheDecision	7.
+RatioOfTheDecision	<ORG> did not decide the first point which related to the applicability of Se ction 59 to assessments completed before the amendment Act came into force.
+RatioOfTheDecision	This matter will have to go back for decision of that question.
+RulingByPresentCourt	The appeal is allowed and the order of <ORG> is set aside.
+RulingByPresentCourt	The case is remanded to <ORG> for disposal in accordance with law.
+RulingByPresentCourt	Costs shall be costs in <ORG>.

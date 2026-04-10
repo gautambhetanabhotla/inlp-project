@@ -1,0 +1,4 @@
+Fact	JUDGMENT  1.
+Fact	The respondent does not appear to contest the finding.
+RulingByLowerCourt	2.
+Fact	We accept the finding, set aside the decree of the lower <ORG> and dismiss the application for restitution, with costs here and in the Court below.

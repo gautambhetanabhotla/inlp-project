@@ -1,0 +1,287 @@
+Fact	PETITIONER: <ORG> AND ORS.
+Fact	ETC.
+Fact	ETC.
+Fact	Vs. RESPONDENT: <NAME> AND ORS.
+Fact	ETC.
+Fact	ETC.
+Fact	DATE OF JUDGMENT27/01/1993 BENCH: <NAME>, B.P.
+Fact	(J) BENCH: <NAME>, B.P.
+Fact	(J) KULDIP SINGH (J) CITATION: 1993 SCR (1) 269 1993 SCC (2) 84 JT 1993 (1) 298 1993 SCALE (1)183 ACT: Rajasthan Land Acquisition Act, 1953: Sections 5(A), 6, 17(1), 17(4)-Acquisition of land- Notification dispensing with the enquiry-Validity of notification-Large extent of land acquired-Existence of superstructures here and there-Whether prevents the Government from exercising its power to acquire the land.
+Fact	Land Acquisition Act , 1894: Section 48-De -acquisition of land-Communication of tentative decision-Effect of-Possession of land taken-Whether open to the <ORG>.
+Fact	to withdraw from the acquisition.
+Fact	HEADNOTE: Notification under Section 4(1) of the Rajasthan Land Acquisition Act 1953 was published in the <ORG> for the acquisition of certain lands for the benefit of <ORG>.
+Fact	Another notification was issued under  S. 17(4) dispensing with the provisions of <CITATION_66420479> of the Act.
+Fact	A declaration under S.6 of the Act was also issues in respect of that area.
+Fact	The validity of the aforesaid notifications was challenged before <ORG> by way of writ petitions.
+Fact	The challenge made was mainly on the grounds that since the land acquired was not waste or arable land inasmuch as there were houses, huts, cattle sheds etc.
+Fact	on the land, the inquiry contemplated under <CITATION_66420479> could not have been dispensed with; that there was no real urgency for dispensing with the Inquiry and that the houses and other structures on the land should not have been acquired.
+Fact	The Writ Petitions were dismissed by a Single Judge and Special Appeals were preferred to Division Bench.
+Fact	Since the two Judges In the Division Bench deferred in their opinions, the matter was referred to Third Judge.
+Fact	The Third Judge recorded his opinion on the questions, viz., whether it was necessary or obligatory for the Government to mention in the notific ation issued under S. 17(4) that the land proposed to be acquired was waste or arable and whether the non-mention thereof, vitiated the said notifica 270 tions; and if a small fraction of an arable land proposed to be acquired was occupied by buildings like buts kham houses and pucca houses for residential purposes and for keeping fodder, cattle farms, cattle sheds and for similar other purposes, was it still permissible to treat the entire land as arable land and Issue notification under s. 17(4) read with Section 17(1) of the Rajasthan Land Acquisition Act 1953, and the legal consequences thereof.
+Fact	Then the matter went back to <ORG> which observed that the opinion of the Third Judge was not categorical on the last question.
+Fact	Therefore, the last question was referred to <ORG>.
+Precedent	By a majority view <ORG> held that inasmuch as there were pucca and kutcha houses, cattle-sheds etc.
+RulingByLowerCourt	on a fraction of a land proposed to be acquired and since the notification was not severable the entire not ification under s. 17(4) failed.
+RulingByLowerCourt	Accordingly, <ORG> quashed the declaration under s. 6 of the Act.
+RulingByLowerCourt	Against this the respondent Board preferred the present appeal.
+RulingByLowerCourt	Contending that the matter stood concluded by the decision of this Court in <CITATION_469498> ,  4 SCC 251.
+RulingByLowerCourt	The Writ Petition flied before this Court claimed that since the Petitioner <ORG> also fulfilled the same public purpose served by <ORG> viz.
+RulingByLowerCourt	housing, the Urban Development Minister had recommended that the land allotted to the petitioner.
+RulingByLowerCourt	<ORG> be denotified and de-acquired and to regularise the scheme of the <ORG>, and that the Chief Minister has accepted the same.
+RulingByLowerCourt	The <ORG> thus contended that the proceedings were final and its lands could not be acquired.
+RulingByLowerCourt	Allowing the appeals by <ORG> and dismissing the Writ Petition flied by the Housing <ORG>, this Court, HELD : 1.
+RulingByLowerCourt	'Mere was material before the government in this case upon which it could have and did form the requisite opinion that it was a case  calling for exercise of power under Section 17(4) of the Rajasthan land Ceiling Act, 1953.
+RulingByLowerCourt	The material placed before the <ORG> disclosed that the government found, on due verification, that there was an acute scarcity of land and there was heavy pressure for construction of houses for weaker sections and middle income group people, that <ORG> had obtained a loan of Rs.16 crores under a time-bound programme to construct and utilise the said amount by 31.3.1983; that in the circumstances the Government was satisfied that unless possession was taken immediately, and <ORG> permitted to proceed with 271 the construction, the <ORG> will not be able to adhere to the time-bound programme.There were also certain other materials upon which the government had formed the said satisfaction viz, that In view of the time-bound programme stipulated by the lendor, <ORG>, the <ORG> and already appointed a large number of engineers and other subordinate staff for carrying out the said work and that hold ing an inquiry under Section 5-A would have resulted in uncalled for delay endangering the entire scheme and time-schedule of <ORG>.
+RulingByLowerCourt	The satisfaction under Section 17(4) of the Act Is a subjective one and that so long as there is material upon which the government could have formed the said satisfaction fairly, the court would not interfere nor would it examine the material as an appellate authority.
+RulingByLowerCourt	This is the principle affirmed by decision of this <ORG> not only under Section 17(4) but also generally with respect to subjective satisfaction.
+Fact	[279E-H, 280A- <CITATION_469498> ,  4 S.C.C.
+Fact	251, relied on.
+Fact	<CITATION_1325151> , A.I.R.
+Fact	1965 S.C. 1763 and <CITATION_1330923> ., 4  4 S.C.C.
+Fact	485, distinguished.
+Fact	2.1.
+Fact	The petitioner-cooperative society which claims to have purchased about 525 bighas of land from the khatedars represented to the Government to de-notify the land purchased by them.
+Fact	On the basis of the said representation, the then Minister in-charge of <ORG> took a decision to relea se the lands but he was over-ruled by the then Chief Minister.
+Fact	This issue lay dormant till 1990 till the general elections were announced.
+Fact	It is at this stage the petitioner-society made a representation to the Minister for Urban Development to de-notify the lands purchased by them.
+Fact	The Minister for Urban Development recommended de- notification which was approved by the Chief Minister.
+Fact	[281A-D] 2.2.
+Fact	'Mere was no final decision at any time to de-notify the said lands.
+Fact	A tentative decision was no doubt taken in February, 1990 but before it could be implemented the government thought it necessary to ascertain the view of <ORG> and to find out as to what the <ORG> had done upon the land, what structures it had raised and what amount it had spent so that the <ORG> could be compensated while delivering the possession back to the Housing society.
+Fact	Before this could be done there was a change In the Government and the said tentative decision 272 was reversed.
+RatioOfTheDecision	In this view of the matter, it is not necessar y to go into the question whether there was a communication of the 'decision' of the government to the petitioner.
+RatioOfTheDecision	The communication must be of a final decision and not of a provisional or tentative decision.
+RatioOfTheDecision	[285A-C] 2.3.
+RatioOfTheDecision	In any event the government could not have withdrawn from the acquisition under Section 48 of the Act inasmuch as the Government had taken possession of the land.
+RatioOfTheDecision	Once the possession of the land is taken it is not open to the government to withdraw from the acquisition.
+RatioOfTheDecision	Admittedly possession was taken over by <ORG>.
+RulingByLowerCourt	(285D] 2.4.
+RulingByLowerCourt	The notification under S.4 need not necessarily recite that the land proposed to be acquired is waste or arable.
+RulingByLowerCourt	The non-recital does not vitiate the notification.
+RulingByLowerCourt	[279C] 2.5.
+RulingByLowerCourt	Where a large extent of land is acquired, the existence of a few superstructures here and there does not prevent the <ORG>.
+RulingByLowerCourt	from exercising the power under S.17(4).
+RulingByLowerCourt	[277B] JUDGMENT:  CIVIL APPELLATE JURISDICTION : Civil Appeal No.1418 of 1986.
+RulingByLowerCourt	From the Judgment and Order dated 6.1.86  of <ORG> in D.B.
+Fact	Special Appeal No.
+Precedent	301 of 1982.
+Precedent	WITH C.A.
+Precedent	Nos.
+Precedent	1419/86, 1420/86, 1846-47/86, 1848-49/86, 1850- 51/86, 185153/86, 1854-55/86, 2722-2738/92 & W.P.
+Precedent	(C) No.
+Precedent	290/89, C.A.
+Precedent	No.
+Precedent	185657/86 & C.P.
+Precedent	No.
+Precedent	123 of 1991.
+Precedent	<NAME>, <NAME>, <NAME> and <NAME> for the Appellants in C.A.
+Precedent	No.
+Precedent	1418/86 etc.etc.
+Precedent	and Respondent in W.P.
+Precedent	No.
+Precedent	290/89.
+Precedent	<NAME>, <NAME>, Ms. <NAME>, <NAME> and <NAME> for the Petitioners in W.P.
+Precedent	No.
+Precedent	290/89.
+Precedent	<NAME>, <NAME>, <NAME> and <NAME> for the State of Rajasthan.
+Fact	<NAME>, <NAME> and Ms. <NAME> for the Respondents.
+Fact	273  The Judgment of the Court was delivered by <NAME> These appeals are preferred against the judgment of the Full Bench of <ORG> allowing a batch of 16 special appeals.
+Fact	The special appeals were preferred against the judgment of a learned Single Judge dismissing a batch of 24 writ petitions.
+Fact	The result of the judgment of the  Full Bench is that the notification issued by <ORG> under Section 4(1) of the Rajasthan Land Acquisition Act, 1953 proposing to acquire a large extent of land stands quashed.
+Fact	The notification under Section 4(1) of the Rajasthan Act, published in <ORG> dated 13.1.1982, proposed to acquire a total extent of 2,.517 bighas (approximately equal to 1,580 crores) for the benefit of <ORG>.
+Fact	On 9.2.1982, another notification was issued under Section 17(4) of the said Act dispensing with the provisions of Section 5(A) .
+Fact	On the same day, a declaration under Section 6 was also issued in respect of the said area.
+Fact	According to the Government, the possession of the land was also taken on 22nd and 24th of May, 1982.
+Fact	The validity of the said notifications was questioned in the batch of writ petitions (being S.B.
+Argument	Civil Writ Petition No.
+Argument	707 of 1982 etc.)
+Argument	on three grounds viz., (i) that the land acquired was not a waste or arable land inasmuch as there were pucca and k utchha houses, huts and cattle sheds etc.
+Precedent	On the said land.
+Precedent	If so, the power under sub-section (1) and sub-sec- tion (4) of Section 17 could not have been invoked to dispense with the enquiry under Section 5(A) ; (ii) that there was no real urgency warranting the invocation of urgency clause.
+Precedent	An inquiry under Section 5(A) ought to have been held, which is a valuable right given to the land- owners whose land is acquired under the Act; and (iii) that at any rate the houses and other structures on the land acquired should not have been acquired.
+Precedent	The learned Judge rejected all the three contentions and dismissed the writ petitions.
+Precedent	Special appeals were preferred against the same which were heard by <ORG> in the first instance.
+Precedent	The two learned Judges, <NAME> and <NAME>, JJ.
+Precedent	differed in their opinions.
+Precedent	Accordingly, the matter was referred to a third Judge by an order dated 12.12.1983.
+Precedent	Three questions were framed for the consideration of third Judge viz., (1) whether it was necessary for the  <ORG> to mention in the notification that the land is waste or arable and whether the non-men-  274  tion of the said fact vitiates the notification; (2) whether it was obligatory upon the <ORG> to mention in the notification issued under Section 17(4) that the land proposed to be acquired is waste or arable and whether the non-mention thereof vitiates the said notification; and (3) "if a small fraction of an arable land proposed to be acquired is occupied by buildings like huts, kham houses and pucca houses for residential purposes and for keeping fodder, cattle farms, cattle sheds and for similar other purposes, is it still permissible to treat the entire land as arable land and issue notification under Section 17(4) read with Section 17(1) of the Rajasthan Land Acquisition Act, 1953?
+Precedent	If not, what are the legal consequences which such buildings aforementioned entail in the context of the said notification?'
+Precedent	The third Judge recorded his opinion on the said questions but when the matter went back t o <ORG>, it was of the opinion that while the opinion of the learned third Judge on questions 1 and 2 was categorical, affirming the view of the learned Single Judge, his opinion on question No.3 was not clear or categorical.
+Precedent	Accordingly, the said question No.3 was referred to <ORG>.
+Precedent	<ORG> comprising <NAME>, <NAME> and <NAME>, JJ.
+Precedent	heard the parties and held by a majority (<NAME> and <NAME>, JJ.)
+Precedent	that inasmuch as there were pucca and kutchha houses, cattle sheds etc.
+RatioOfTheDecision	on a fraction of a land proposed to be acquired and also because the notification is not severable, the entire notification under Section 17(4) is liable to fail.
+RatioOfTheDecision	Accordingly, the declaration under Section 6 was also quashed.
+RatioOfTheDecision	The minority view was expressed by <NAME> He was of the opinion that merely because on a small portion of the land proposed to be acquired there were pucca and kutchha houses, the invocation of power under Section 17(4) read with Section 17(1) of the Act was not bad.
+RatioOfTheDecision	T he opinion of the majority Judges is questioned in these appeals before us.
+RatioOfTheDecision	<NAME>, learned counsel for the appellant (State of Rajasthan) submitted that the question considered by <ORG> of <ORG> is since concluded by a decision of this court in <CITATION_469498> ,  4 S.C.C.
+RatioOfTheDecision	251 and, therefore, the appeals must be allowed straightaway.
+RatioOfTheDecision	On the other hand, <NAME> and <NAME>, learned counsel for the respondent-writ petitioners submitted on the basis of the decision in <CITATION_1325151> , A.I.R.
+RatioOfTheDecision	1965 S.C. 1763 that once it is found that a portion of a land proposed to be acquired is not waste or arable, the entire notification should fail inasmuch as the notification is not severable.
+RatioOfTheDecision	They also submitted that the decision in <CITATION_1330923> .,  4 S.C.C.
+Argument	485 supports their contention that the notification under Section 17(4) read with Section 17(1) should itself expressly recite that the land in respect of which the said power is being invoked is a waste or arable land  and that non-recital of the said fact vitiates the notification.
+Argument	The learned counsel also sought to argue that there was no such urgency as to call for dispensing with the inquiry under Section 5(A) .
+Argument	They submitted that when a large chunk of land comprising four villages was being acquired it was but fair and just that an inquiry under Section 5(A) was held The construction of houses by <ORG>, it was submitted, was not so urgent as to brook no delay and, therefore, the invocation of urgency was not called for.
+RatioOfTheDecision	So far as the main question which was considered by <ORG> is concerned,it is necessary to refer to the factual finding in the first instance.
+RatioOfTheDecision	Although the writ petitioners contended that there were pucca houses, kham houses and huts used for residential purposes and also cattle sheds, cattle-ponds and other structures, no clear material was placed before the court.
+RatioOfTheDecision	With the result that <ORG> proceeded on the basis that these structures were stituated only upon a fraction of a  land sought to be acquired.
+Precedent	We may quote the following observation from the judgment of <NAME>, J.
+Precedent	(majority opinion):  "From the pleadings of the parties, it can also no longer be disputed that in the case of some of the appellants on fraction of this land kuchcha houses, kham houses and even some pucca constructions are situated which are being used by the appellants for tethering their cattle, storage of fodder and grain and also for residential purposes.
+Precedent	It cannot be said as to out of the large area of 2570.15 bighas on what portion such constructions have been made, but in case of the appellants in each case they could be only on a fraction of the entire land sought to be acquired.
+Precedent	(emphasis added) The question is, whether in such a situation the majority Judges of <ORG> were right in holding that the notification under Section 17(4) should fail.
+Precedent	276  <CITATION_469498> , a bench comprising <NAME> and <NAME>, JJ.
+Precedent	considered an identical question.
+Precedent	That case arose from Uttar Pradesh  where by way of a <ORG> amendment sub- section 1(A) was introduced in Section 17 .
+RulingByLowerCourt	Paragraph 7 of the judgment brings out the ratio of the judgment besides quoting the said <ORG> Amendment.
+RulingByLowerCourt	It reads:  "It was next contended that in the large extent of land Acquired which has about 412 acres there were some buildings here and there and so the acquisition of those parts of the land on which buildings were situated was unjustified since those portions were not either waste or arable lands which could be dealt with under Section 17(1) of the Act.
+RulingByLowerCourt	This contention has not been considered by <ORG>.
+RulingByLowerCourt	We do not, however, find any substance in it.
+RulingByLowerCourt	The government was not acquiring any property which was substantially covered by buildings.
+Precedent	It acquired about 412 acres of land in the outskirts of Meerut city which was described as arable land by the Collector.
+Precedent	It may be true that here and there were a few super-structures.
+Precedent	In a case of this nature where a large extent of land is being acquired for planned developme nt of the urban area it would not be proper to leave the small portions over which some super- structures have been constructed out of the development scheme.
+RatioOfTheDecision	In such a situation where there is real urgency it would be difficult to apply Section 5-A of the Act in the case of few bits of land on which some structures are standing and to exempt the rest of the property from its application.
+RatioOfTheDecision	Whether the land in question is waste or arable land has to be judged by looking at the general nature and condition of the land.
+RatioOfTheDecision	It is not necessary in this case to consider any further legality or the propriety of the application of Section 17(1) of the Act to such portions of land proposed to be acquired, on which super-structures were standing because of the special provision which is inserted as sub- section (1-A) of Section 17 of the Act by the Land Acquisition (U.P.
+RatioOfTheDecision	Amendment Act)  which reads thus:  (1-A) The power to take possession under sub- section (1) may also be exercised in the case of land other than waste or  arable land, where the land is acquired for or in connection with sanitary improvements of any kind or planned development."
+RatioOfTheDecision	We are of the opinion that the principle enunciated in the said paragraph is the correct one and that the said principle is not really based upon sub-section (1-A) of Section 17 introduced by U.P.
+RatioOfTheDecision	<ORG> Amendment.
+Precedent	Having expressed a definite opinion that existence of a few super- structures here and there, where a large extent of land is being acquired, does not prevent the government from exercising the power under Section 17(4) , the learned Judge evolved the following test: "whether the land in question is waste or arable has to be judged by looking at the general nature and condition of the land.'
+Precedent	Having so held, the learned Judges referred to the U.P.
+Precedent	<ORG> Amendment by way of an additional supporting ground.
+RatioOfTheDecision	We are of the opinion that even apart from the said <ORG> amendment, the principle enunciated in the said decision is the correct one and is fully applicable here.
+RatioOfTheDecision	Mr. <NAME> ji is, therefore, right in contending that the said decision concludes the said issue in these appeals.
+Precedent	The learned counsel for the respondents, however, submitted on the basis of the decision in <CITATION_1325151> ., A.I.R.
+Precedent	1965 S.C. 1763 that in such a situation the notification being not severable, the entire notification should fail.
+Precedent	We cannot agree.
+Precedent	That was a converse case in the sense that a major part of the land proposed to be acquired was covered by buildings and constructions whereas only smaller part was waste or arable.
+Precedent	It is in such a case that the court opined that the notification cannot be held to be partially good and partially bad.
+Precedent	Accordingly, it was held, dispensing with enquiry under Section 5(A) by invoking the urgency clause in Section 17(4) was bad.
+Precedent	Paragraph (9) relied upon by the learned counsel may now be set out.
+Precedent	It reads:  "One other point raised at the <ORG> may be briefly referred to.
+Precedent	It was contended by Mr. <NAME> appearing on behalf of <ORG>, Basti, that a pa rt of the land notified for acquisition was waste or arable and in support of his contention, counsel referred us to certain revenue record.
+Precedent	But if only a part of the land is waste or arable and the rest is not, a notification under S. 17(4) dispensing with compliance with the requirements of S. 5-A would be invalid.
+Precedent	It would not be open to the Court to regard the notification as partially good and partially bad, for if the <ORG> had no power to dispense with the inquiry in respect of any part of the land notified under S.4(1), an inquiry must be held under S.5-A giving an opportunity to persons interested in the land notified to raise their objections to the proposed acquisition and in that inquiry the persons interested cannot be restricted to raising objections in respect of land other than waste or arable land."
+RatioOfTheDecision	We don not think that in a case where only a fraction of a large extent of land sought to be acquired is not waste or arable, the observations made in the said judgment are applicable.
+Precedent	The couns el for the respondents then relied upon <CITATION_1330923> .,  4 S.C.C.
+Precedent	485 in support of their contention that the notification under Section 17(4) should necessarily recite that the land concerned is waste or arable land and that absence of such recital renders the.
+Precedent	notification invalid.
+Precedent	The observations relied upon in the judgment of <NAME> and <NAME>, JJ.
+Precedent	read thus:  "It is to be clearly understood that under sub-section (4), the appropriate Government may direct that the provisions of Section 5-A shall not apply where in the opinion of <ORG>, the provisions of sub- section (1) or sub-section (2) are applicable, otherwise not.
+Precedent	For making the provisions of sub-section (1) applicable, two things must be satisfied, firstly that the land in respect of which the urgency provision is being applied is waste or arable and secondly, that there is an urgency to proceed in the matter of taking immediate possession and so the right of the owner of the land for filing an objection under Section  5-A should not be made available to him.
+Precedent	In the portion of the notification which we have extracted above, it is neither mentioned that the land is waste or arable nor has it been stated that in the opinion of the <ORG>, there was any urgency to take recourse to the provisions of Section 17 of the Act.
+Precedent	A direction to the Collector has been given to take action under Section 17 on the ground of urgency but this is not a legal and complete fulfillment of the requirement of the law.
+Precedent	It is to be remembered that the right of a person having any interest in the property to file an objection under Section 5- A of the Act should not be interfered with in such a casual or cavalier manner as has been done in this case."
+Precedent	279  The learned Judges observed that the notification neither mentions that the land is waste or arable nor does it mention that in the opinion of the government there was urgency to take recourse to the provision of Section 17 .
+Precedent	The decision is not really based upon the ground that the notifica tion fails to recite that the land is waste or arable.
+Precedent	The paragraph read as a whole shows that the learned Judges were impressed more by the fact that the notification does not state that the government is of the opinion that it was a case where the inquiry under Section 5-A ought to be dispensed with under Section 17(4) .
+Precedent	It is in that context that they also pointed out that the notification does not recite that the land is waste or arable.
+Precedent	Section 17(4) does not require that notification itself should recite the fact that the land concerned is waste or arable.
+Precedent	In such a situation there is no basis for the respondent's contention that the notification should itself recite the said fact nor does the said decision support their contention.
+Precedent	<NAME> further argued that the construction of houses by <ORG> is not of such urgency as to call for the invocation of the said power.
+RatioOfTheDecision	We are not satisfied.
+RatioOfTheDecision	Firstly, on this question the decision of <ORG> is against the writ petitioners.
+RatioOfTheDecision	The  learned Single Judge negatived it as well as <ORG> following the opinion of the third Judge.
+RatioOfTheDecision	Secondly, we are satisfied that there was material before the government in this case upon which it could have and did form the requisite opinion that it was a case calling for exercise of power under Section 17(4) .
+RatioOfTheDecision	The learned Single Judge has referred to the material upon which the government had formed the said opinion.
+Argument	The material placed before the <ORG> disclosed that the government found, on due verification, that there was an acute scarcity of land and there was heavy pressure for construction of houses for weaker sections and middle income group people; that <ORG> had obtained a loan of Rs.
+Argument	16 crores under a time-bound programme to construct and utilise the said amount by 31.3.1983; that in the circumstances the Government was satisfied that unless possession was taken immediately, and <ORG> permitted to proceed with the construction, the Board will not be able to adhere to t he time-bound programme.
+Argument	In addition to the said fact, <ORG> referred to certain other material also upon which the government had formed the said satisfaction viz., that in view of the time- bound programme stipulated by the lender, <ORG>, the <ORG> had already appointed a large number of engineers and other subordinate staff for carrying out the said work and that holding an inquiry under Section 5-A would have resulted in uncalled for delay endangering the entire scheme and time-schedule of the Housing <ORG>.
+RatioOfTheDecision	It must be remembered that the satisfaction under Section 17(4) is a subjective one and that so long as there is material upon which the government could have formed the said satisfaction fairly, the court would not interfere nor would it examine the material as an appellate authority.
+RatioOfTheDecision	This is the principle affirmed by decisions of this court not only under Section 17(4) but also generally with respect to subjective satisfaction.
+RulingByPresentCourt	For the above reasons, the appeals are allowed and the judg ment of the Full Bench of <ORG> impugned herein as set aside.
+RulingByPresentCourt	Having regard to the facts and circumstances of the case, we direct the parties to bear their own costs.
+Fact	WITH PETITION (C) NO.
+RatioOfTheDecision	290 OF 1989 This writ petition is preferred by <ORG> questioning the very same notification which were questioned in the writ petitions filed in <ORG> and which have given rise to the aforementioned Civil Appeals.
+RatioOfTheDecision	It was admitted because of the pendency of the above appeals and was directed to be heard alongwith them.
+Fact	In the writ petition, several reliefs are asked for viz., quashing of the notification under Section 4(1) , quashing of the notification under Section 17(1) , quashing of the notification under section 17(4) as well as the declaration under Section 6 .
+Fact	It is prayed that the acquisition proceedings must be declared to have been withdrawn by virtue of the order of the Hon'ble Housing Minister of Rajasthan dated 20th July, 1984.
+Fact	Before us, howeve r, <NAME>, learned counsel for the petitioner urged only one contention viz., that by virtue of the decision of the Minister in-charge of Urban Development, <ORG> and the Chief Minister dated 8.2.1990 <ORG> must be held to have withdrawn from the said acquisition proceedings within the meaning of Section 48 of the Land Acquisition Act, 1894 in so far as the lands purchased by the petitioner-society are concerned.
+RatioOfTheDecision	For a proper appreciation of this contention, it is necessary to notice the relevant facts and circumstances in their sequence.
+Fact	The notification under section 4(1) was published on 12.1.1982.
+Fact	On 9.2.1982, the notification under section 17(4) and the declaration under section 6 were issued.
+Fact	According to the government, possession was also taken of the entire extent of land on 22nd and 24th of May, 1982.
+Fact	The petitioner-cooperative society which claims to have purchased about 525 bighas of land from the khatedars represented to the <ORG> to de-notify  the land purchased by them.
+Fact	On the basis of the said representation, the then Minister in-charge of Urban Development took a decision on 20.7.1984 to release the lands but he was over- ruled by the then Chief Minister <NAME> on 29.4.1985.
+Fact	The decision of the Chief Minister has also been placed before us.
+Fact	This issue lay dormant till 1990.
+Fact	On 27.1.1990, general elections were announced.
+Fact	Polling was to take place on 27.2.1990.
+Fact	It is at this stage that a sudden urgency appears to have developed in this matter again.
+Fact	The petitioner-society made a representation on 6.2.1990 to <NAME> to de-notify the lands purchased by them.
+Fact	The Minister for Urban Development recommended de-notification which was approved by the Chief Minister <NAME> on 8.2.1990.
+Fact	It was signed by the Minister concerned on 13.2.1990.
+Fact	The recommendation put up by the Urban Development Minister for the consideration of the Chief Minister stated the following facts: The petitioner-society had entered i nto agreements of sale in 1974-75 and 1975-76 for purchasing a substantial extent of land for developing <ORG> and had also allotted plots to its three thousand members during the years 1976 to 1981.
+Fact	The society had deposited Rs.
+Fact	50,000 as sub-division charges according to rules in the year 1981 with <ORG> and had initiated proceedings for technical approval of the scheme in the same year.
+Fact	The society had also deposited a sum of Rs.
+Fact	9 lakhs towards conversion of the land (from agricultural to urban land) in the office of the Additional Collector, Land Conversion in March, 1982 under the Land Conversion Rules, 1981.
+Fact	<ORG> had actually started the proceedings for acquisition and the acquisition notifications were issued in January, 1982 i.e., after the society had taken the above steps.
+Fact	The petitioner-society had obtained a stay order against the acquisition proceed- ings and that as in 1990, the stay granted by <ORG> was in force.
+Fact	On 1 8.1.1990, <ORG> had taken a policy decision to regularise and de-acquire the lands under acquisition covered by schemes of <ORG> on payment of prescribed amount.
+Fact	The said policy may be applied to the petitioner-society.
+Fact	As far as the question of exemption from urban land ceiling is concerned, all the plot holders of this society, like other societies, will hand over their plots to <ORG> and it shall be deemed to be the government land but will be re-allotted to the same plot holders after charging the fixed price and development charges on prescribed terms.
+Fact	This procedure is being followed by <ORG> in other matters as well.
+Fact	In this way, the problem of exemption from the urban land ceiling would also be solved.
+Fact	The final recommendation was: 'looking to the aforesaid facts it is desirable to direct to de-acquire that land of the scheme under the provisions of section 48 of the Land Acquisition Act, 1894 and regularise the sche me because this society is fulfilling the same public purpose of housing by starting proceedings for which <ORG> wants to acquire this land later on for this purpose."
+Fact	The above recommendation was accepted by the Chief Minister on 8.2.1990 as stated hereinbefore.
+Fact	It appears that the matter again came before the Hon'ble Chief Minister on 23.2.1990 when he approved a note, the latter half of which reads as follows: "Therefore, it will be in the interest of broad public interest that this land of the society be regularised according to the decision of <ORG> after releasing it from acquisition, as is the opinion of Honourable Minister Incharge Local Self Govt, and <ORG> Minister.
+Fact	As far as the question of Scheduled Caste/Tribes land is concerned, in this respect the Government has already taken a decision much before, according to which the proceedings are to be taken."
+Fact	Evidently, in pursuance of the aforesaid decision, the Deputy Secretary, Urban Development and <ORG> Department, <ORG>  Rajasthan, Jaipur ad- dressed the following letter to the secretary, <ORG>, Jaipur:  "<ORG> No.
+Fact	F. 5(3) UDH/92 DATED 24.4.90.
+Fact	Secretary, <ORG>, Jaipur.
+Fact	Sub:- In the matter of De-acquisition of land of <ORG> situated in village Devri, Sukhalpura, Jhalana Chaur, and Goliyabas.
+Fact	283  Sir, In respect of the above subject it has been directed by the State <ORG>.
+Fact	that a decision to release the aforesaid land of the Society from acquisition has been taken.
+Fact	It has been brought to the notice of <ORG> that some improvement has been done by you on the land covered by this scheme.
+Fact	Therefore, kindly intimate as to what development works have been performed by you on the land covered by the aforesaid scheme of the society and how much expenditure has been incurred by <ORG> in it.
+Fact	Please send the full particulars to the State <ORG>.
+Fact	immediately also inform as to at what stage t he matter is going in the courts without delay.
+Fact	Now so far as possible do not make any development works further on this land.
+Fact	Intimate as to whether possession of the land has been taken or not.
+Fact	Before restoring the possession to the society the amount of development charges will have to be returned back, therefore, send the valuation within three days.
+Fact	Conversion charges will be payable according to the rules.
+Fact	The copies of the orders of the court may also be sent.
+Fact	Yours faithfully, sd/ Dy.
+Fact	Secretary.'
+Fact	A copy of the said letter was also marked to the petitioner society as would be evident from the endorsement at the foot of the said letter which reads:  "No.
+Fact	F. 5(3) UDB/90 Dated: 29.2.90 Copy to the secretary, New Pink City Grah Nirman Sahkari Samiti Ltd., Bapu Bazar, Jaipur for information.
+Fact	He may kindly intimate as to within what period of time the amount of Development charges and cost of land etc.
+Fact	will be deposited.
+Fact	sd/ Dy.
+Fact	Secretary to the <ORG>.
+Fact	28.2.90"  284  The learned counsel for the writ petiti oners stops here and says that the above proceedings constitute a definite and final decision to de-notify and de-acquire the lands and that nothing more was required to be done to constitute withdrawal from acquisition within the meaning of section  48.
+Fact	<NAME>, the learned counsel appearing for the government of Rajasthan, however, filed an additional affidavit setting out the developments subsequent to the aforesaid letter dated 24.2.1990 which may now be noticed.
+Fact	The additional affidavit is sworn to by the Secretary, <ORG>, <NAME> It is stated that in response to the aforesaid letter dated 24.2.1990, the <ORG> represented to the <ORG> that the land should not be de-notified whereupon the Secretary, urban Development and Housing ordered the stopping of the issuance of notification for de-acquisition of the land of the petitioner society on 25.5.1990.
+Fact	(Meanwhile, a new <ORG> represented by a different political party had come into power).
+Fact	The o rder of the secretary dated 25.5.1990 is filed as Ann.
+Fact	X-1 to the additional affidavit.
+Argument	It is further submitted that at no time any notification was issued withdrawing from the acquisition.
+Argument	It is further stated that on 13.12.1990 the then Chief Minister referred the entire matter pertaining to de-acquisition of petitioner's land to <ORG> for report.
+Argument	The said commission was constituted to look into illegalities and irregularities committed by the functionaries and officials of the previous government.
+Argument	<ORG> reported that the decision to de-acquire the lands of the petitioner-society was in contravention of the earlier decision of the <ORG>, contrary to law and against public interest.
+Argument	The commission stated that the said decision was the result of the influence brought upon the concerned Minister by the petitioner- society and is not a fair decision.
+Argument	The Chief Minister also acted under the influence and pressure of the petitioner-society and, therefore, his decision too is not a pr oper one.
+Fact	Accepting the said report, the government intimated <ORG> that there is no question of de-acquiring the said land.
+Fact	The letter dated 24.4.1990 was also formally withdrawn on 31.10.1991.
+Fact	It is also stated in the said additional affidavit that the Khatedars from whom the society claimed to have purchased the said land under agreements of sale, have by separate letters intimated the Secretary, <ORG> and the Land Acquisition Collector as far back as 5th April, 1982 that they had no objection to the acquisition of their lands.
+Fact	They asked for compensation @ Rs.
+Fact	40,000/ per bigha.
+RatioOfTheDecision	285  From the above material it is clear that there was no final decision at any time to de-notify the said lands.
+RatioOfTheDecision	A tentative decision was no doubt taken in February, 1990 but before it could be implemented the government thought it necessary to ascertain the views of <ORG> and to find out as to what the <ORG> had done upon the land, what structures it had raised and what amoun t it had spent so that the Board could be compensated while delivering the possession back to the Housing society.
+RatioOfTheDecision	Before this could be done there was a change in the government and the said tentative decision was reversed.
+RatioOfTheDecision	In this view of the matter, it is not necessary for us to go into the question whether there was a communication of the 'decision' of the government to the petitioner.
+RatioOfTheDecision	The communication must be of a final decision and not of a provisional or tentative decision.
+RatioOfTheDecision	We are of the further opinion that in any event the government could not have withdrawn from the acquisition under section 48 of the Act inasmuch as the Government had taken possession of the land.
+RatioOfTheDecision	Once the possession of the land is taken it is not open to the government to withdraw from the acquisition.
+Fact	The very letter dated 24.2.1990 relied upon by the counsel for the petitioner recites that 'before restoring the possession to the society the amount of development charges will have to be returned back.............
+Fact	This shows clea rly that possession was taken over by <ORG>.
+Fact	Indeed the very tenor of the letter is, asking <ORG> as to what development work they had carried out on the land and how much expenditure they had incurred thereon, which could not have been done unless the <ORG> was in possession of the land.
+Fact	The Housing <ORG> was asked to send the full particulars of the expenditure and not to carry on any further development works on that land.
+Fact	Reading the letter as a whole, it cannot but be said that the possession of the land was taken by the government and was also delivered to <ORG>.
+RulingByLowerCourt	Since the possession of the land was taken, there could be no question of withdrawing from the acquisition under section 48 of the Land Acquisition Act, 1894.
+RulingByLowerCourt	For the above reasons, the writ petition fails and is dismissed with costs.
+Precedent	G.N.
+Precedent	Appeals allowed.
+RulingByPresentCourt	Petition dismissed.

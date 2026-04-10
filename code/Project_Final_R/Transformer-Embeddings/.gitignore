@@ -1,0 +1,17 @@
+# temporary folders and logs
+.vscode/
+__pycache__/
+logs/
+
+# model checkpoints
+model_checkpoints/
+
+# experiment results
+exp_results/*
+exp_results/**/fused_scores.json
+
+data/*
+
+!data/README.md
+!exp_results/Images/
+!exp_results/README.md

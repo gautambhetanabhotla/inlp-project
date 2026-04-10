@@ -1,0 +1,26 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	The assessee, in the course of its assessment for the assessment year 1961-62, claimed to deduct under Section 10(2)(vib) of the Income-tax Act, 1922, development rebate in respect of eight new trucks purchased in the relevant previous year, namely, Samvat Year 2015.
+Fact	The claim was disallowed by the Income-tax Officer and, on appeal, the disallowance was confirmed by the Appellate Assistant Commissioner and, on further appeal, by the <ORG>.
+Fact	The ground of disallowance was the proviso introduced in Section 10(2)(vib) of the Income-tax Act, 1922, by Section 4 of the Taxation Laws (Amendment) Act, 1960, with effect from 1st April, 1960.
+Fact	The proviso was in the following terms:  "Provided further that no allowance under this clause shall be made in respect of any machinery or plant which consists of office appliances or road transport vehicles."
+Fact	2.
+Fact	The assessee, being aggrieved by the disallowance of the claim, applied to the <ORG> for a reference and, on the application of the asses see, the <ORG> referred the following question for the determination of the court:  "Whether, on the facts and in the circumstances of the case, was the assessee entitled to the disallowance of development rebate on lorries purchased during the relevant previous year for the assessment year 1960-61?"
+Fact	3.
+Fact	It was indisputable that if the proviso applied, no allowance by way of development rebate could be claimed by the assessee in respect of the eight new trucks purchased by the assessee during the relevant previous year and an attempt was, therefore, made on behalf of the assessee to exclude the applicability of the proviso by contending that the proviso had no retrospective operation and could not be so construed as to affect the vested right of the assessee to claim development rebate in respect of the said trucks.
+Fact	The argument of the assessee was that the Taxation Laws (Amendment) Act , 1960, which introduced the proviso in Section 10(2)(vib) was enacted on 6th September, 1960, and was, therefore, ineffe ctive to affect the right which became vested in the assessee on 1st April, 1960, to claim development rebate under the then existing law.
+RulingByLowerCourt	This argument is plainly incorrect, for it overlooks Section 1 , Sub-section (2), of the Taxation Laws (Amendment) Act , I960, which says in terms that, subject to any special provision made in this behalf in that Act, it shall be deemed to have come into force on 1st April, 1960.
+RulingByLowerCourt	By reason of this sub-section the proviso is introduced in Section 10(2)(vib) of the Income-tax Act with retrospective effect from 1st April, 1960, and the effect of the amendment is as if the proviso were in Section 10(2)(vib) on and from 1st April, 1960.
+Fact	Now it is well settled that though the subject of charge is the income of the previous year, the law to be applied is that in force in the assessment year unless otherwise stated or implied and any amendment which is in force at the beginning of the assessment year must govern the case, though the amendment is made after the income under assess ment is earned : vide <CITATION_873220> ,  13 I.T.R.
+Fact	221 (P.C.).
+RulingByLowerCourt	and Commissioner of Income-tax v, <ORG>,  42 I.T.R, 589 (SC).
+RulingByLowerCourt	The law in force on 1st April, 1960, would, therefore, govern the assessment in the present case and that law was clearly Section 10(2)(vib) read with the proviso.
+RulingByLowerCourt	The proviso being in force on 1st April, 1960, was clearly and indubitably applicable and by reason of the proviso no allowance could be claimed by the assessee in respect of the eight new trucks purchased during the year of account.
+RulingByLowerCourt	This would appear to be clear on principle and no authority is necessary to support it.
+RulingByLowerCourt	But if any authorities were needed, they may be found in <CITATION_201013> .,  34 I.T.R.
+RulingByLowerCourt	143 (S.C.).
+Argument	and <CITATION_752334> ,  52 I.T.R.
+Argument	921.  .
+Argument	4.
+Argument	One answer to the question referred to us is, therefore, in the negative.
+Argument	The assessee will pay the costs of the reference to the Commissioner.

@@ -1,0 +1,312 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This is an appeal preferred by <ORG> against the acquittal of Sheikh <NAME> who was enforced by the Deputy Magistrate of Palamau to 6 months' rigorous imprisonment for an offence under Section 145, Indian Penal Code , but was acquitted on appeal by the Judisial Commissioner of Chota Nagpur.
+Fact	The learned Judge set aside the conviction under Section 145 , Indian Penal Code , but sentenced the accused to a fine of Rs.
+Fact	1 for an offence under Section 32 read with Section 30A of the Indian Police Act.
+RulingByLowerCourt	It is admitted that the haired Judicial Commissioner has misconceived the facts and that Section 30A has no application to this ease.
+RulingByLowerCourt	There is no question here of the disobedience of the conditions of any license issued by the Surer-inter dent of Police.
+RulingByLowerCourt	2.
+Fact	What appears to <NAME> happened is this.
+Fact	On the 3rd January 1922 the Officiating Superintendent of Police issued a notice in the following terms:  Notice under Section 30 of Act V of 1861.
+Fact	In pursuance of the powers  vested under Section 30 of Act V of 1861, I do hereby prohibit any processions, associations or assemblies started or formed by any Person or any class of persons within the Municipal and Union area of this District (Palamau) other than under license granted by me, for a period of three months, as I consider such prohibition to be necessary for the preservation of the public safety ".
+Fact	2.
+Fact	That notice was duly served, by proclamation and beat of drum, but en tie 21st of January some 250 persons formed a procession through one of the streets of Daltonganj, which is the head quarters of the Palamau District, carrying flags and singing songs in (sic)dienegard of the order of the Super, interment.
+Fact	A Sub-Inspector of Police directed the crowd to disperse and upon refusal to do so he arrested 24 persons of whom the accused was one.
+Fact	3.
+Fact	The Deputy Magistrate, who tried the case, framed a charge under Section 145 , Indian Penal Code , but did not set out the common object of the unlawful assembly of which the accused  was alleged to be a member.
+Fact	4.
+Argument	The learned Assistant Government Advocate who appears on bshalf of the Crown contends that, notwithstanding this omission, the accused had full notice at the trial of the common object upon which the charge was based and that the facts proved established a clear case under Section 145 , Indian Penal Code .
+Argument	He contends that the common object was to resist the execution of a law or legal process which is one of the common objects enumerated in Section 141 , Indian Penal Code .
+RatioOfTheDecision	Now, Section 30 of the Police Act, though not very happily worded, appears to mean this.
+RatioOfTheDecision	The Superintendent of Police has to be satisfied that an assembly or a procession is, in the judgment of the District Magistrate, likely to cause a breach of the Pease.
+RatioOfTheDecision	He may then issue a notice upon the person convening or collecting the assembly or directing or promoting the procession to apply for a license.
+RatioOfTheDecision	5.
+RatioOfTheDecision	It is contended that the Superintendent is not authorised to issue a general order but must call upon the  convenor or promoter of the assembly or procession to take out a license for each occasion.
+RatioOfTheDecision	In my opinion, the words are sufficiently general to enable the Superintendent to issue a general notification containing a prohibition against convening or collecting assemblies or directing or prmoting processions without a license, the terms of the section are also wide enough to cover a prohibition without any limit of time, If the person or persons against whom the notice is directed convenes or collects an assembly or promotes or directs a procession without license, be or they will be punishable under Section 32 of the Act.
+RatioOfTheDecision	There is nothing in the Act which renders a person liable to punishment for joining an assembly or procession which has already been convex ed or collected if he has no notice that the Convenor or promoter baa matted to take out a license; in if, after becoming an are that the person wise duty it was to take out a license has failed to do so, ho persists in remaining with the assembly or pro cession then it may, I think, <NAME> said that he shares the Common object of such person to resist the execution of the Superintendent's order.
+RatioOfTheDecision	6.
+RatioOfTheDecision	In the present case the evidence shows that the acoused <NAME> joined the profession after it had <NAME>en directed to disperse; there is no evidence that he was aware that any breath of the notification had <NAME>en committed; bat if it could have <NAME>en shown that <NAME> and four others of the assembly or procession were acting: together with the common object that the person who bad convened or collected the assembly, or directed or promoted the procession, should resist the execution of the Superintendent's order, then, I think, he would have come under the operation of Section 141 , Indian Penal Code .
+RatioOfTheDecision	In my opinion this sanest of the case was not presented to the Deputy Magistrate at the trial and we cannot, under the circumstances, convict upon the evidence on the record.
+RatioOfTheDecision	7.
+RatioOfTheDecision	But apart from this defect in the evidence three objections have <NAME>en taken to the application  of Section 141 , Indian Penal Code , which call for notice.
+RatioOfTheDecision	8.
+RatioOfTheDecision	The first objection is that resistance implies something more than disobedience and that a mere intention to disobey will not suffice.
+RatioOfTheDecision	I agree that reentrance connotes soma overt act and that mere words, when there is no intention of carrying them into effort will not be sufficient to prove an intention to resist; bat in the present case the o induct of the mob and their refusal to disperse at the command of the <ORG> clearly constitute overt acts and establish a common object to resist the orders within the meaning of Clause (2) of Section 141 , Indian Penal Code .
+RatioOfTheDecision	9.
+RatioOfTheDecision	The next objection is, that the order of the Superin andent of <ORG> cannot called a law or legal process.
+RatioOfTheDecision	The reply is that when a notification is issued by an executive authority in exercise of a power conferred by Statute, that notification is as much a part of the law as if it had be in incorporated within the body of the Statute at the time of its enactment.
+RatioOfTheDecision	The command is  in every respect a command by the appropriate legislative authority.
+RatioOfTheDecision	In the present case if the notification was in compliance with Section 30 of the Police Act, then, in my opinion, it was a law and certainly a legal process.
+RatioOfTheDecision	10.
+RatioOfTheDecision	This leads me to the third objection which is that the notification did not comply with Section 30 of the Police Act.
+RatioOfTheDecision	In my judgment, although the wording of the notification did not follow the exact language of Clause (1) of Section 30 , there was on the whole a substantial compliance and the public of Daltonganj were in no error or doubt as to its purport.
+RatioOfTheDecision	11.
+RatioOfTheDecision	In these circumstances I do not doubt that the accused might have been Convicted under Section 145 , Indian Penal Code , if sufficient evidence had been given to prove a Common object to resist the execution of the order; but there was no evidence on this point and the charge framed against him by <ORG> did not even set out the Common object of the unlawful assembly; and it is impossible to say that the accused  had notice of the precise case which the prosecution were making against him.
+RatioOfTheDecision	12.
+RatioOfTheDecision	Our attention has finally been drawn to Section 127 , Criminal Procedure Cods, and we have been asked to infer that the procession was likely to create a disturbance and to find that on refusal to disperse it became an unlawful assembly.
+RatioOfTheDecision	Here again Some formal evidence should have been given and the accused should have had an opportunity of meeting his case in <ORG>  13.
+RatioOfTheDecision	We asked the learned Counsel for the Crown whether there was any evidence upon which it Could be held that the Common object of the unlawful assembly was to disobey such a lawful order as is contemplated by Section 188 of the Indian Penal Code, but the learued Counsel's reply was in the negative.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The result is that owing to the irregular and defective manner in which the prosecution was conducted in <ORG>, I must (sic)declme to restore the conviction under Section 145 , Indian Penal Code , nor do I think that having regard to the circum stances I ought to order a re-trial.
+RulingByPresentCourt	The appeal will, therefore, de dismissed.
+Precedent	<NAME>, J.
+Precedent	14.
+Precedent	I agree with the judgment which has just been delivered by my learned brother.
+Precedent	<NAME>, J.
+Precedent	15.
+Precedent	The material facts are these.
+Precedent	On the 3rd January last, the Officiating Superintendent of <ORG> of Palamau issued the following notice under Section 30 of the <ORG> Act (Act V of 1861):  In pursuance of the powers vested under Section 30 of Act V of 1861, I do hereby prohibit any professions, associations or assemblies started or formed by any person or any lass of persons within the Municipal and Union area of this District (Palamau) other than under license granted by me, for a period of three months, as I consider such prohibition to be necessary for the preservation of the public peace and public safety.
+Precedent	16.
+Fact	On the 21st January a large number of persons, of whom the respondent was one, formed a procession without having taken out a license for the came, and refused to disperse though the <ORG> repeatedly ordered them  to disperse.
+Fact	The Polite thereupon arrested a large number of persons including the respondent, and the learned Magistrate in due Bourse convicted them under Section 145 , Indian Penal Cede, and sentenced them to various terms of imprisonment.
+Fact	He sentenced the respondent to undergo rigorous imprisonment for six months and to pay a fine of Rs.
+Argument	50 and further required him to execute a bond for Rs.
+Argument	100 with two sureties, and in default to undergo simple imprisonment for six months.
+Argument	The respondent appealed to the Court of the Judicial Commissioner of Chota Nagpur, and that learned Judge set aside the conviction under Section 145 , Indian Penal Code , and the order under Section 106 , Criminal Procedure Code , but convicted the respondent under Section 32 of the Police Act and sentenced him to pay a fine of Re.
+Argument	1.
+Argument	<ORG>, being dissatisfied with the order of the learned Judicial Commissioner, has appealed to this Court.
+Argument	17.
+Argument	The learned Judicial Commissioner, before whom the Crown was not represented , was obviously in difficulty in understanding how the respondent could be convicted under the Code for an offence committed under the <ORG> Act .
+Argument	He assumed that the position of the Crown was that the procession having neglected or refused to obey the order to disperse given by the <ORG>, hecame an unlawful assembly under Section 30A (2) of the Act and could be proceeded against under the Code for being, or continuing to be members of an unlawful assembly.
+RatioOfTheDecision	Assuming that to be the position of the Crown, the learned Judge came to the conclusion that though the procession might be "deemed" to be an unlawful assembly, the persons forming the procession could not be punished under the Code as members of an unlawful assembly.
+RatioOfTheDecision	The learned Judicial Commissioner had probably in his mind that class of cases which has decided that where a person or a thing in a Statute is "deemed" to be something else he or the thing can only be regarded as that something else by a statutory fiction, but that in truth and in reality  he is not that something else and consequently you can have recourse to the fiction for the purpose of the Statute which creates the fiction and for no other Statute.
+RatioOfTheDecision	I confess that there is much to be said for the view of the learned Judicial Commissioner, but, in truth the question does not arise.
+RatioOfTheDecision	Section 30A (1) of the Police Act only applies where there is a violation of the conditions of a license granted under Section 30 (3), not where the procession was formed without a license.
+RatioOfTheDecision	The learned Assistant Government-Advocate accepts the position that Section 30A (2) of the Police Act has no application whatever, and it is, therefore, unnecessary to discuss whether the view of the learned Judicial Commissioner is right.
+RatioOfTheDecision	18.
+RatioOfTheDecision	But it was insisted by the learned Assistant Government Advocate that the conviction under Section 145 of the Indian Penal Code was nevertheless right, and that the respondent was a member of an unlawful assembly of five or more persons whose common object was, first, to resist the execu tion of a law, and secondly, to commit an offence.
+RatioOfTheDecision	The form of the argument addressed to us by the learned Assistant Government Advocate raises a question of grave public importance; for no less a claim than this is put forward on behalf of the Crown, that a District Superintended of Police or an Assistant District Superintendent may, by purporting to act under Section 30 of the Police Act, prohibit an assembly or a procession, if the assembly declines to take out a license for such collection or procession and that the members of the procession by refusing to disperse, if ordered to disperse by the Police, make themselves liable not only under the Police Act for which the maximum sentence is a fine of Rs.
+RatioOfTheDecision	200, but also under Section 145 of the Indian Penal Code for which the maximum sentence is rigorous imprisonment for two years with a fine, So far as I know, the claim has never yet been put forward in any case that a person can be convicted under the Code for an offence under the Police Act ; and before I  accede to the argument which involves the personal liberty of the subject, I must be satisfied that the argument is well-founded and that it rests on principle or is covered by authorities.
+RatioOfTheDecision	19.
+RatioOfTheDecision	It was argued, in the first place, that the common object of the assembly was to resist the execution of the law.
+RatioOfTheDecision	In order to succeed, the prosecution must establish, first, that there was a law which could be executed, secondly, that there was execution of that law, and thirdly, that there was resistance to the execution of that law.
+RatioOfTheDecision	Now what was the law that was being executed?
+RatioOfTheDecision	By "law" I understand "a rule of civil conduct prescribed by the supreme power in a <ORG> commanding what is right, prohibiting what is wrong, and regulating matters in themselves indifferent" (<NAME>).
+RatioOfTheDecision	20.
+RatioOfTheDecision	Now, is there any law, that is to say, a rule of civil conduct prescribed by the supreme power in the <ORG>, prohibiting a profession on the public roads, or in the public streets or thoroughfares?
+RatioOfTheDecision	According to the learned Assistant G overnment Advocate there is, and he contends that it is to be found in Section 30 of the Police Act.
+Precedent	Section 30 of the Police Act, is in these terms:  (1).
+Precedent	The District Superintendent or Assistant District Superintendent of Police may, as occasion requires, direct the conduct of all assemblies and processions on the public roads, or in the public streets or thoroughfares, and prescribe the routes by.
+Precedent	which, and the times at which, such processions may pass.
+Precedent	(2).
+Precedent	He may also, on being satisfied that it is intended by any persons or class of persons to convene or collect an assembly in any such road, street, or thoroughfare, or to form a procession which would, in the judgment of the Magistrate of the District, or of the sub-division of a District, it uncontrolled, be likely to cause a breach Of the peace, require by general or special notice that the parsons convening or collecting such assembly or directing or promoting shall procession shall apply for a license.
+Precedent	21.
+Precedent	Now, I fail to see how Section 30 of the  Police Act can be read as constituting a prohibition of the common rights of the subjects to form a procession on the public roads or in the public streets or thoroughfare, No doubt it vests a discretion in the District Superintendent or the Assistant Superintendent to require the persons convening or collecting an assembly or directing or promoting a procession to apply for a license, though, at the same time, it imposes as a condition precedent for the use V of the discretion the exercise of the judgment of the Magistrate of the District or of the sub-division of the District that the procession, if uncontrolled, is likely to cause a breach of the peace.
+Precedent	Bat it is one thing to say that the Act itself constitutes a prohibition, it is another thing to say that the Act gives a limited and a conditional discretion to the Superintendent of Police, not to prohibit an assembly or a procession without a license--for that there is no authority in the Act, as I shall presently show--but to require the persons conven ing or collecting such assembly or directing or promoting such procession to apply for a license.
+Precedent	In my opinion, "law" is one thing and an act done or an order issued under the law is another thing.
+Precedent	One is the result of the discretion exercised by the <ORG>; the other is the result of the discretion exercised by the Superintendent of Police; and in construing the term "law " in the second Clause of Section 141 of the Indian Penal Code, I cannot substitute the discretion exercisable by the Superintendent of Police for the discretion exercisable by the <ORG>.
+Precedent	22.
+Precedent	It was then argued that there is nothing to prevent the <ORG> from reposing confidence in a particular person or a body of persons, and any order issued by such a person or body of parsons if authorised by the <ORG>, has the character off law and, is, in fact, law.
+RatioOfTheDecision	We were indeed invited to treat the order of the Superintendent of Police as a bye-law or a regulation sanctioned and authorised by the Police Act .
+RatioOfTheDecision	The argument is  a weighty one, and it is necessary to deal with the subject with some care.
+RatioOfTheDecision	23.
+RatioOfTheDecision	Now whether "law" means the expression of the exercise of the discretion by the <ORG> or whether it includes the expression of the exercise of the discretion by a person or body of parsons under the sanction and the authority of the <ORG>, this, at any rate, is clear that when we speak of law, we mean something which is enforceable and which is not capable of being rejected by the <ORG> as uncertain, as unreasonable, or as repugnant to the law of the land.
+RatioOfTheDecision	The <ORG> may construe any particular provision of law; but the <ORG> cannot quash any provision of law nor treat it as unenforceable.
+RatioOfTheDecision	24.
+RatioOfTheDecision	Now there are rules, regulations, and byelaws, enacted not by the <ORG>, bat by some authority by delegation, which, to appropriate an expression used by Lord He so ell, cannot be canvassed in the <ORG> of law on any of the grounds which I have mentioned.
+RatioOfTheDecision	In my opinion, these rules, regulations, and bye-laws have the c haracter of law and are, in fact, law.
+RatioOfTheDecision	But there are other rules.
+RatioOfTheDecision	regulations and bye laws which may be rejected by the Courts of law as unenforceable on various grounds.
+RatioOfTheDecision	They cannot, in my opinion, be called law, for the essence of the law is that it is enforceable, provided circumstances exist which would make it enforceable.
+RatioOfTheDecision	Bat, where the Court is not bound to enforce it, though circumstances may exist which would make it enforceable, it has not the character of law, and can net be called law.
+RatioOfTheDecision	25.
+RatioOfTheDecision	Now "delegated."
+RatioOfTheDecision	legislation falls under two main heads; first, rules, regulations, and bye laws under the Statute which provides that they shall have the same effect as if enacted therein: and secondly, rules, regulations and bye-laws made under the Statute which does not in terms provide that they shall have the same effect as if enacted therein.
+RatioOfTheDecision	The first usually consists of statutory rules, bye laws and regulations made by responsible authorities concerned with Local Government; the second usually consists  of bye-laws and regulations made by persons, societies or corporations who are conducting commercial or other' enterprises, whether of a public character or not.
+Precedent	Now the distinction between the two is this: that where the Statute, under the authority of which the rules, regulations or bye-laws are promulgated, itself declares that they shall bare the same effect as if enacted in the Statute, the validity of the rules, regulations or bye-laws cannot be questioned in any <ORG> of Law, nor can the <ORG> quash them or reject them on the ground that they are uncertain or unreasonable.
+Precedent	Bat where the Statute does not so provide, their validity can be canvassed in the <ORG> of law, and the <ORG> can reject them as unenforceable on the ground that they are uncertain or unreasonable.
+Precedent	26.
+Precedent	The distinction is pointed out in the case of <ORG> v. <NAME> (1894 A. C. 347 at p. 331 : 63 L. J. P. C. 74 : 21 Rule (Ct. of Sess.)
+Precedent	61 : 31 Sc.
+Precedent	L. R 912 : 2 Sc.
+Precedent	L. T. 103.
+Precedent	The first Section of the Patents D esigns and Trade Marks Act of 1888 provided that a person should not be entitled to describe himself as a Patent Agent unless registered as such in pursuance of the Act, and that <ORG> should from time to time make such rule' as were, in the opinion of <ORG>, required for giving effect to the section.
+Statute	The Act also provided that the rules to be framed by <ORG> were to be dealt in the same manner, and subject to the provision contained in the 10Ist Section of the previous Act, the Act of 1883, of which the Act of 1888, in many particulars, was an amandment.
+Statute	Now Section 101 of the previous Act provided that the rules were to belaid before <ORG> and remain before <ORG> for consideration for foray days, and, during these forty days, they might be annulled by a resolution of either <ORG>, and that "they shall be of the same effect as if they were contained in the Act and shall be judicially noticed."
+Statute	27.
+RatioOfTheDecision	The question arose whether many of the rules were not unreason able and invalid.
+RatioOfTheDecision	Lord <NAME>, in the course of his speech, drew attention to the terms of Section 101 of the previous Act, and then said as follows:  My Lords, I have asked in vain for any explanation of the meaning of those words or any suggestion as to the effect to be given to them if, not withstanding that provision, the rules are open to review and consideration by the <ORG>.
+RatioOfTheDecision	Toe effect of an enactment is that it binds all subjects who are affected by it.
+RatioOfTheDecision	They are bound to conform themselves to the provisions of the law so made The effect of a statutory rule if validly made is precisely the Same that every person must conform himself to its provisions, and, if in such casa a penalty be imposed, any parson woe does not comely with the provisions, whether of the enactment or the rule, becomesequally subject to the penalty.
+RatioOfTheDecision	Bat there is this difference between a rule and an enactment, that whereas, apart from some such provision as we are considering, you may canvass a rule and determine whether or not  it was within the power of those who made it, yon cannot canvass in that way the provisions of an Act of Parliament".
+RatioOfTheDecision	This is a clear authority for the view that, though there is no difference between a rule and an enactment where there is a provision in the enactment that the rules shall be of the same effect as if they ware contained in the Act, there is a wide difference between the two when there is no such provision; and the difference is this that though you may not canvass an Act of Parliament, you may canvass a rule.
+RatioOfTheDecision	28.
+RatioOfTheDecision	Bye-laws which are not made part of the Act by the express provision of the Act may be attacked in England on five different grounds; first, on the ground that they are not made, ransomed and oubl shed in the manner Prescribed by the Statute whack an thorises the making; secondly, on the ground that they are repugnant to the laws of England; thirdly, on the ground that they are repugnant to the Statute under which they are made; fourthly, on the ground that they are uncertain; and l astly, on the ground that they are unreasonable---(See Craies on Statue Law, page 290).
+RatioOfTheDecision	Can it be said for a moment that a bye-law which, unlike the law, may be attacked on various grounds which the <ORG> may refuse to enforce, stands on the cams footing as the law I think not; for the essence of the law is that it is enforceable as law, and that, though the <ORG>s may construe the law, the <ORG>s cannot reject it nor quash it.
+RatioOfTheDecision	29.
+RatioOfTheDecision	If I am right in my view as to the distinction that exists between the law, and a bye-law framed under a Statute but not made part of the Satiate by the express provision of the Statute, it must follow that an order issued by <NAME> under Section 30 of the Polios Act, cannot be claimed as the law.
+RatioOfTheDecision	That order may be a valid order or an invalid order; but, as there is no provision in the <ORG> Act giving to the orders mined by the <ORG> under Section 30 of the <ORG> Act the same effect as it they were contained in the Act, they cannot be regarded as the law  for any purpose whatsoever.
+RatioOfTheDecision	30.
+RatioOfTheDecision	<NAME> I am quite willing to assume that the order of the Superintendent of Police is "law" within the meaning of the first Clause of Section 141 of the Indian Penal Code; I have still to enquire whether it is enforceable as the law; that is to say, whether it is sanctioned and authorised by the Police Act or whether it dots not constitute an undue interference with the liberty of the Subject in the garb of an order under the Police Act , In order to determine this question, it is necessary to examine the provisions of Section 30 and 30A of the Police Act.
+RatioOfTheDecision	The first Clause of Section 30 gives to the District Superintendent or the Assistant District Superintendent the power to direct the conduct of all assemblies and processions on the public roads or in the public streets or thoroughfares, and prescribe the routes by which, and the times at Which, such processions may pass.
+RatioOfTheDecision	This is a power to (sic)regula'e public assemblies and processions, not a power to prohibit such assemblies  and processions.
+RatioOfTheDecision	The second Clause gives him power to require by general or special notice that the person convening or collecting such assembly or directing or promoting such profession shall apply for a license, provided he is satisfied that it is intended by any parson or class of persona to convene or collect an assembly in any such road, street or thoroughfare or to form a procession such as in the judgments of the Magistrate, if uncontrolled, be likely to cause a breach of the peace.
+RatioOfTheDecision	A power of licensing is a power to regulate, not a power to prohibit; and it is necessary to point out that there is nothing in Section 30 , either in the first or in the second clause, which gives the Polios an express power to prohibit an assembly or procession, if the parsons convening or collecting sash assembly or directing or promoting sash profession decline to apply for a Incense.
+RatioOfTheDecision	I shall presently disease the question whether a power to prohibit is incident to a power to regulate and license.
+RatioOfTheDecision	It is sufficient here  to point out that there is no express power to prohibit given in Section 30 of the Act.
+RatioOfTheDecision	Section 30 I. of the the Act, however, gives a power to the <ORG> to order an assembly or procession to disperse; but, section.
+RatioOfTheDecision	30A applies and applies only where there is a violation of the Condition of a license, Section 30A , therefore, has no application to this case; for it is admitted that the persons directing or promoting the procession did not apply for a license.
+RatioOfTheDecision	On an interpretation of Sections 30 and 30Aof the <ORG> Act, it would appear that there is no power in the <ORG> to prohibit a profession where the persons directing and promoting such profession decline to apply for a license, although there is sash power where such persons take out a license but violate the conditions of such license.
+RatioOfTheDecision	31.
+RatioOfTheDecision	It may be urged, however, that a power to prohibit is incident to a power to regulate, for without such power it may be difficult, if not impossible, for the <ORG> to regulate the public assemblies and processio ns.
+RatioOfTheDecision	The argument overlooks the provision of Section 32 of the Act which imposes a penalty upon every person for opposing or not obeying the order issued under Section 30 , Section 30A and Section 31 of the Act, It is at least significant that the Act, though it expressly vests in the Magistrate or in the Police the power to stop any procession which Violates the conditions of a license and to order it to disperse, gives no such Power to the Police, at least expressly, where the person convening or collecting an assembly or directing or promoting a procession declines to apply for a license.
+RatioOfTheDecision	The power is expressly given in Section 30A of the Act and is expressly withheld in Section 30 of the Act.
+RatioOfTheDecision	It must follow that there is no power by implication to prohibit an assembly or a procession in the event of the persons in charge of the same declining to apply for a license.
+RatioOfTheDecision	32.
+RatioOfTheDecision	But it may be urged that the power to regulate a public assembly or a procession would be a barren power, if the Police have not by impli cation a porwer to prohibit such assembly or procession, and that the true rule is that, if the <ORG> enables something to be done, it gives power at the same time, by necessary implication, to do everything which is absolutely indispensable for the purpose of carrying out the purpose in view.
+RatioOfTheDecision	I entirely accept the validity of the rule, but I wholly deny that it is indispensable for the purpose of carrying out the purpose in view to prohibit an assembly or procession.
+RatioOfTheDecision	Where the Act imposes a penalty upon every person for opposing or not obeying the orders issued under the Act, it seems to me that the purpose in view is carried out by enforcing the provision of the Act against such persons.
+RatioOfTheDecision	At any rate the question has been discussed in England whether a power to prohibit is incident to a power to regulate and license, and a clear and decisive answer has been given.
+Precedent	In <NAME> v. <ORG> (1905) A. C. 21 : 91.
+Precedent	L. T. 668. the question was whether the conditions of a license granted by the corpo ration were or were not ultra, vires By Section 30 of the Edinburgh Corporation Act, 1900, as amended by Edinburgh Corporation Order Confirmation Act, 1901, any person selling ice cream (except in a duly licensed hotel) without a license from the Magistrates who were, by that section, empowered to grant the same, for the house, building or premises, where such ice-cream was kept for sale, was liable to a penalty; provided, as the Statute declared, that such license shall run from the date of issue until the 15th day of May next ensuing and upon renewal from the date of expiry of the license so renewed to the 15th day of May succeeding such expiry, unless the same shall be sooner forfeited, revoked or suspended.
+Precedent	33.
+Fact	The Statute also provided that "every person licensed to fell ice-cream under the provisions of this Act who shall sell ice-cream, except during the hours between eight of the clock in the morning and eleven, of the clock at night on any lawful day...shall be liable to the penalties in the Act pro vided", No form of license was annexed to the Statute.
+Fact	In pursuance of the Statute, the Magistrates drew up a license on the following terms to be issued to the ice-cream vendors licensed by them, tamely.
+Fact	1.
+RatioOfTheDecision	That the said licensee shell not keep open the said premises or sell or permit; the sale of ice-cream therein on Sunday or on any other day set apart for public worship by lawful authority.
+RatioOfTheDecision	2.
+Fact	That the said licensee shall not keep open the said premises or sell or permit the sale of ice-cream therein before eight o'clock in the morning or after eleven o'clock at night.
+Fact	3.
+Fact	That the said Magistrates, or any of them, may at any time suspend or revoke this license.
+Precedent	35.
+Argument	It will be noticed that though the Act, while enabling the Magistrates to issue licenses for the purpose the purpose of regulating the sale of ice-cream and assuming that they had the power to forfeit, revoke or suspend the license, gave them no power either to forfeit, revoke or suspend the license or to prohibit the, carrying on of the tr ade, the Magistrates, purporting to act in pursuance of the Statute, prohibited the carrying on of the trade except on the terms of the license and reserved to themselves the liberty of suspending or revoking the license.
+Argument	<ORG> came to the conclusion that each of the conditions of the license was bad and that the license was wholly ultra vires.
+Argument	The Lord Chancellor, dealing with the argument that the Magistrate had the implied power to do everything for the purpose of carrying out the purpose of, the Act, made these pregnant observations.
+Argument	"But when it is argued that because they are given the power to restrict, within certain hours, the sale of ice-creams, therefore, they have implied power to do all that might be desirable or expedient with reference to the times and circumstances under which ice-creams shall be sold, it seems tome the argument entirely fails, What is sought to be done, whether directly by bye laws, or indirectly by the language of the license that is issued, is something that ca n only be done by the <ORG>.
+Precedent	It is a restraint of a common right which all His Majesty's subjects have---the right to open their shops and to sell what they please subject to legislative restriction---and, if there is no legislative restriction which is appropriate to the particular thing in dispute, it seems to me it would be a very serious inroad upon the liberty of the subject if it could be supposed that a mere single restriction which the <ORG> has imposed could be enlarged and applied to things and circumstances other than that which the <ORG> has contemplated."
+Precedent	36.
+Precedent	Lord <NAME>, in the course of his judgment, dealing with the power reserved by the Magistrates to suspend or revoke the license, observed as follows:---''Now I confess that I have not beard from the learned Counsel and I took the liberty of pressing the learned Counsel on this point, on any power in the Magistrates either to revoke or to suspend this license.
+RatioOfTheDecision	It is said that the words which I have read, unless the same be s ooner forfeited, revoked or suspended' give the power.
+RatioOfTheDecision	My Lords, that construction of the, Act of Parliament seems to me to be entirely contrary to principle.
+RatioOfTheDecision	The utmost that yon can say is that the words seem to assume that the corporation either have already, or may at some future time acquire a power to forfeit, revoke op suspend the license.
+RatioOfTheDecision	That it does not give the power seems to me plain from a consideration of the words, because the words are, as your Lordships will observe, 'forfeited revoked, or suspended'.
+RatioOfTheDecision	Now 'forfeited' has a clear and definite meaning when you are speaking of licenses of this description.
+RatioOfTheDecision	It means that if the licensee does or omits certain acts his license will be forfeited.
+RatioOfTheDecision	That is the plain meaning of it.
+Precedent	Well, my Lords, you will look in vain in this Statute or in this provisional order for anything that defines the conditions upon which the license is to besome forfeited, It is plain, then, that this clause does not make any provision for the licenses forfeiting his license a nd it is equally plain to my mind that it does not contain any power either to revoke or suspend the license."
+Precedent	37.
+Precedent	The point established in the other case to which I propose to refer ---the case of Toronto (Municipal Corporation of the City of) v. Virgo (1896) A. C. 83 : 65 L, J. P. C. 4 : 73 L, T, 449. is this; that a statutory power conferred upon <ORG> to make bye-laws for regulating and governing a trade does not, in the absence of an express power of prohibition, authorize the making it unlawful to carry on a lawful trade in a lawful manner.
+Precedent	The Statute gave power to the <ORG> to pass bye laws for licensing, regulating and governing hawkers or petty chapmen and other persons carrying on petty trades.
+RatioOfTheDecision	Stopping here for a moment, it will be noticed that Section 30 of the <ORG> Act gives power to the <ORG>, as the marginal note shows, to regulate public assemblies and precessions and license the same.
+Argument	There is no prohibition on the face of the <ORG> Act , just as there is no prohibition  on the face of the Statute which I am now considering, The bye laws framed by the <ORG> prohibited the hawkers from prosecuting their calling or trade in certain streets in the city of Toronto, The Privy <ORG> held that the bye law complained of was ultra vires.
+Precedent	Lord <NAME>, in delivering the judgment of the Board, conceded that the regulation and governance of a trade might involve the imposition of restrictions on its exercise both as to time and to a certain extent as to place, bat he pointed oat that there was a marked destination to be drawn between the prohibition of a thing and the regulation or governance of it, for, as His Lordship made clear, "a power to regulate and govern seems to imply the continued existence of that which is to be regulated or governed."
+Precedent	And the conclusion at which His Lordship arrived may be stated in his own words: "a municipal power of regulation or of making byelaws for good Government, without express words of prohibition, does not authorize the making it unlawful to car ry on a lawful trade in a lawful manner"  38.
+Precedent	The point is put very clearly and forcibly in Halsbury's Laws of England: "Generally speaking, the function of a bye-law is to regulate and not prohibit "---Volume 27, page 124, foot note (k).
+Precedent	40.
+RatioOfTheDecision	It will now be convenient to turn to the actual order issued by the S superintendent of Poles on toe 3rd of January 1922.
+RatioOfTheDecision	The order on the face of it is a prohibition, It prohibits all processions, associations, or as assemblies for a period of three months except under a license, and it prohibits such processions, associations or assemblies, not only in a public road, street or thorough far, but anywhere within the Municipal or Union Ares are of Palamau.
+RatioOfTheDecision	A more absolute prohibition it is difficult to imagine; and the reason for this extraordinary order constituriog, as it does, a very serious inroad upon the liberty of the subject is that, the Officiating (sic)Suoetin tendent of <ORG> considers such prohibition to be necessary for the preservation of the public peace  and public safety.
+RatioOfTheDecision	It is, in my opinion, only necessary to state the terms of the order to reject it as usterly beyond the power of the Offsetting (sic)Subecintandent of Police.
+RatioOfTheDecision	In the first place, the order is on the face of it a prohibition; and, if Lord <NAME> is right in his view, a power to prohibit is not incident to a power to to regulate and license.
+RatioOfTheDecision	In the second plane, there is no power to issue an order to have operation for three months.
+RatioOfTheDecision	41.
+RatioOfTheDecision	The language of the section makes it perfectly clear, to my mind, that the Police have to deal with each case as it arises, and that the District Magistrate has to exercise his judgment on each occasion.
+Fact	This was the view which was taken of Section 30 of the Police Act in this Court in the case of <NAME> v. <NAME> (Criminal (sic)Referrenre No.
+RatioOfTheDecision	32 of 1917 unreported).
+RatioOfTheDecision	That view seems to me to be the right view, and the only view which can be taken of the section.
+RatioOfTheDecision	In the third place, the Polios have no power whatever to prohibit association or assembly any where within the Municipal and Union area of Palamau, assuming that they have a power to prohibit at all.
+RatioOfTheDecision	Under the order as issued, a number of people could not meet together in a private house for a lawful purpose, and it has been held that you cannot retest that which on the face of it is ultra vires and support the order on the ground that any Court can construe it so as not to infringe the liberty of the subject.
+RatioOfTheDecision	In the last place, the order is bad in so far as the Officiating Superintendent of Police arrogates to himself a power not conferred by the Police Act on him.
+RatioOfTheDecision	The Act requires that the judgment shall be exercised by the Magistrate of the District or of the sob-division of a District, The order not only does not show that any judgment has been exercised by the Magistrate of the district but it shows that such judgment has been exercised by toe Officiating Superintendent of Police.
+RatioOfTheDecision	If the order is to be regarded as a bye-law then it is well established that the Courts of law will not give effect t o it, unless it is satisfied teat all the conditions precedent to the validity of the bye-law have been fulfilled.
+RatioOfTheDecision	If the <ORG> has given a power to <NAME> to legislate in the manner, it has for the safety of the public imposed as a condition precedent that the Magistrate snail be satisfied that there is necessity for the legislation.
+RatioOfTheDecision	It is a power conditional upon an event, and the exercise of the power will not be upheld unless it is established that the condition has been fulfilled.
+RatioOfTheDecision	I hold that the order of the Officiating Superintendent of Police cannot be regarded as the law within the meaning of the tram as used in Section 141 , of the Indian Penal Code .
+RatioOfTheDecision	I hold further that, if that basso regarded we are bound to deny it for the reasons whish I have already given.
+RatioOfTheDecision	42.
+RatioOfTheDecision	I now come to the next bransh of the argument, namely, whether there was any execution of the law.
+RatioOfTheDecision	Execution means enforcing, carrying into effect.
+RatioOfTheDecision	Now it is well established that execution, to be lawful, must  follow the procedure laid down in the Act.
+RatioOfTheDecision	The law in this case is the order of the Officiating Superintendent of <ORG> prohibiting all assemblies, associations and professions except under a license.
+RatioOfTheDecision	I will assume that the order was a lawful one and that it could be executed.
+RatioOfTheDecision	I will assume that there was a violation of that order by the persona who formed the procession.
+RatioOfTheDecision	<NAME> assuming all these, how could the law, that 13 to say, the order of the Offisiating Superintendent of Poise be executed ?
+RatioOfTheDecision	The learned Assistant Government Advocate contends that it could be executed only by ordering the procession to disperse.
+RatioOfTheDecision	In my opinion, on an interpretation of Section 30 , 30A and 3 the contention is an (sic)imposible one Section 30A which does not aooly to this case does give the <ORG> a right to stop a procession and to order it to disperse.
+RatioOfTheDecision	Section 30 which does apply to this casa gives no such power to the <ORG>.
+RatioOfTheDecision	Section 32 provides a penalty for opposing or not obeying the orders that may be issued either u nder Section 30 or Section 30A .
+RatioOfTheDecision	In my opinion, the orders under Section 30 could be executed only by proceeding against the persons opposing or not obeying such orders under Section 32 of the Act, whereas, where Section 30A applies the orders could be executed first by stopping the procession and ordering it to disperse, and secondly, by proceeding against the persona opposing or not obeying such orders under Section 32 of the Act.
+RatioOfTheDecision	It is not suggested that the assembly was in itself an unlawful assembly.
+RatioOfTheDecision	In my opinion, the <ORG> had no power either under the Criminal Procedure Code or under the <ORG>s Act to stop the procession or order it to disperse.
+RatioOfTheDecision	It follows, therefore, that 'they were not executing the order of the (sic)Officiation Superintendent of <ORG> in a lawful manner.
+RatioOfTheDecision	43.
+RatioOfTheDecision	The last point in connection with this argument is whether there was resistance on the part of the persons forming the procession.
+RatioOfTheDecision	Resistance, we were informed, is to withstand, or stand against, or make opposition to, and  it was argued that in so far as the persons forming the procession refused to disperse when they were ordered to disperse by the <ORG> there was clear resistance on their part.
+RatioOfTheDecision	Now it must be remembered that the resistance mast be not to the law, but to the execution of the law; in other words, the prosecution must establish that the persons forming the procession withstood or stood against or made opposition to the carrying into effect of the law, that is to say, the order issued by the Officiating District Superintendent of <ORG>.
+RatioOfTheDecision	Now, in the first place if there was no power in the <ORG> to stop the procession or to order it to disperse, there was clearly a right in the accuses persons to withstand or stand against or make opposition to the order of dispersal.
+RatioOfTheDecision	In the next place, resistance means something more than defiance or disobedience.
+RatioOfTheDecision	One does not, in my opinion, withstand or sand against or make opposition to an execution by merely not submitting to the order Resistance is something more than non -submission.
+RatioOfTheDecision	It consists of an overt act showing an intention to make opposition to the execution of the law.
+Precedent	44.
+Precedent	This undoubtedly has been the view of <ORG>.
+Precedent	In the case of Queen-Empress v. Alibhai Rat.
+Precedent	Un.
+Precedent	Cr.
+Precedent	Cas.
+Precedent	412. it was held that the mere refusal by the accused person to make over to a bailiff money alleged to be in his pocket is cot a resistance to the taking of that money within the meaning of Section 183 of the Indian Penal Code.
+Precedent	In that case the bailiff made a demand for the money and the accused replied that the bailiff was not legally entitled to take the money and that he would not give it to him It was held that there was nothing mare than a refusal to submit and that there was no resistance within the meaning of Section 183 , Indian Penal Code .
+Precedent	The same view was taken in the case of (sic)Q*em <CITATION_216016> 15 B: 564 : Ind.
+Precedent	Dec. (N. S.) 380.
+Precedent	In this case the bailiff went to attach two tonga tops belonging to the judgment debtor.
+Precedent	Thereupon the accused said that the tonga  tops were his and that he would not let the bailiff take them away unless he entered them as his property, it was held that a mere verbal direction to the bailiff not to remove the property could not be regarded as a resistance.
+RatioOfTheDecision	I cannot distinguish these cases from the present case.
+RatioOfTheDecision	The accused persona in the present case did nothing more than refuse to obey the order of dispersal given by the <ORG> When the <ORG> laid their hands on the accused parsons and arrested them they did not in any way make any attempt to resist the arrest.
+RatioOfTheDecision	They submitted to the arrest and in so doing submitted to the execution of the law, however, illegal the execution might have been.
+RatioOfTheDecision	I hold that there was no resistance on the part of the accused porsons to the alleged execution of the alleged law.
+RatioOfTheDecision	It follows therefore, that the casa does not fall within the second Clause of Section 141 of the Indian Penal Code.
+Precedent	45.
+Precedent	It was faintly argued by the learned Assistant Government Advocate that the common object of the procession might  have been to commit an offense under Section 151 of the Indian Penal Coda.
+Precedent	It is sufficient to say that there is no evidence that the a sensed persons were likely to cause a disturbance of the public peace.
+Precedent	Such evidence is essential for an offense under Section 151 of the Indian Penal Code.
+Precedent	The argument was not a serious one and I do not think it necessary to deal with it at greater length.
+Precedent	46.
+Precedent	I now turn to another aspect of the case and it is this: whether a person can be indicted under the general law for an offence commited under the Police Act ?
+Precedent	Now, in order to understand the point it is necessary to state that it is no offense under the general law for any parsons or class of persons to convene or collect an assembly in any road, street or thoroughfare or to form a procession in gush road, street or thoroughfare.
+Precedent	Under the general law it is not necessary to apply for a license in order to enable persons to convene or collect an assembly in a road, street or thoroughfare or to form a procession in su ch road, street or thoroughfare.
+Precedent	Nor is it an offense under the general law not to apply for a license if such persons are directed by an executive order to apply for such license.
+Precedent	The offense is created for the first time by the Police Act which imposes a penalty upon every person opposing or not obeying the orders issued under Section 30 , 30A and 31 of the Police Act.
+Precedent	It is a new offense, not an offence under the general law.
+Precedent	It has been held in numerous cases that where a Statute creates a new offense which was not an offense at Common Law and imposes a penalty in respect of such offense, a person committing such an offense can only be proceeded against under the Statute which creates the offence and cannot be indicted under the general law.
+Precedent	The principle is stated with clearness and precision in <NAME>' Pleas of the Crown, Book 11, Ch, 25, Section 4 and is as follow:---"Also where a Statute makes a new offence which was in no way prohibited by the Common Law, and appoints a peculiar manner of proceeding s against the offender as by commitment, or action of debt, or information, etc, without mentioning an indictment, it teems to be settled to this day that it would not maintain an indictment, because mentioning the other methods of proceeding seems impliedly to exclude that of indictment."
+Precedent	This passage was regarded in the case of <NAME> v. <NAME> (1891) 1 Q.
+Precedent	B.
+Precedent	747 : 60 L. J. M. C. 124 : 64 L. T. 394 : 17 Cox C. C. 278. as a full statement of the principle which should guide the <ORG> in regard to the decision of the eases.
+Precedent	That was a case where the defendant was charged in the seventeen counts of the indictment with crimes which might be classified into three divisions: first, he was charged with the wilful omission of the names of qualified persons from the electoral lists.
+Precedent	Secondly, he was charged with the wilful insertion of the names of unqualified persons in the electoral lists, Thirdly, he was charged with an attempt to prevent the course of justice by taking steps to plane false evidence before the Revisi ng Barrister, who was in a certain sense a judicial Tribunal.
+Precedent	He was also charged with tampering with the lists of voters and also with tampering with the register itself.
+Precedent	These charges were made against him as an Overseer of the Poor and the offenses were alleged to have been committed by him in the course of the duty which wan imposed upon him by the Parliamentary Registration Act of 1843.
+Precedent	It is necessary to point out that the Par liamentary Registration Act of 1843 provided a penalty for violation of the duties imposed upon him by that Act.
+Precedent	47.
+Precedent	It was contended on his behalf that there was no remedy by indictment as the Act which created the offence provided a penalty for each offences.
+Precedent	The Court gave effect to the argument advanced on behalf of the defendant and quashed the indictment This is the view which has been taken in numerous cases in England.
+Precedent	See In-stitute of Patent Agents v. <NAME> (1), <NAME> v. <ORG> (1895) 1 Q.
+Precedent	B.
+Precedent	64: 61 L. J. Q.
+Precedent	B.
+Precedent	101 : 15 Rule 25 : 71 L. T.  519: 43 W. Rule 26 : 59 J. P. 453. and <ORG> v. <ORG> (1896) 1 Q.
+Precedent	B.
+Precedent	592 : 65 L. J. Q.
+Precedent	B.
+Precedent	339 : 44 W. R.606.
+Precedent	I do not propose to discuss all these cases, but the observations of the Lord Chancellor in the first mentioned case are so appropriate to the present proceedings that I think it desirable to set them out, "you have here" said His Lordship; "For the first time, a new offence created, the offence of practising as a Patent Agent without being on the register.
+Precedent	Bat for the enactment creating that offence, the defender had done rothing of whish anybody would have a legal right to complain either civilly or Criminally.
+RatioOfTheDecision	The <ORG>, having created that new offence, has prescribed the punishment for it, namely, a penalty of £ 20.
+RatioOfTheDecision	Can it possibly under these circumstances be cone to bring the individual, not before the summary Court at small expense to determine the question of his liability to a £ 20 penalty, but to bring him before <ORG> with its attendant expens e and to ask <ORG> to make a declaration that he has been breaking the law in a manner which, the <ORG> has said, subjects him to a penalty and then, having proved that he has rendered himself liable to a penalty, to ask <ORG> to interdict him with this result, that if he were to offend again he would not be subject to the summary proof dure and the £20 penalty, but would be liable to imprisonment for breach of the interdict p My Lords, is seems to me, I confess, scarcely necessary to do more than state the contention to show that, it is impossible that it can be supported.
+RatioOfTheDecision	If that be the law, the number of cases must have been almost innumerable in Which such a proceeding would have been comoetent, and yet it is absolutely unheard of.
+RatioOfTheDecision	I will not dwell upon the grave inconveniences which would result from sanctioning a procedure of that description.
+Precedent	The mode of procedure and the amount of penalty are often crega Hel by the <ORG> as of the utmost Importance When they a re creating new offeneesi, and the law would, I believe, contrary to their intention be most seriously modified if it were held that the party committing a breach of that which for the first time is made an offence were to subject himself by so doing to proceedings of this description which might result in a committal to prison".
+Precedent	48.
+Precedent	As I have said, the passage cited is most appropriate to the question which has been debated in this Court.
+Precedent	Here also, for the first time, a new offence has been created.
+Precedent	Bat for the enactment creating that offence, the respondent has dine nothing of which any body would have a legal right to complain either civilly or criminally.
+Precedent	The <ORG> having created that new offence, has presser bed the punishment for it, namely, a penalty of Rs.
+Precedent	200.
+Precedent	If, as the Lord Chancellor pointed out, the mode of procedure and the amount of penalty are often regarded by the <ORG> as of the utmost importance when they are creating new offences, can it be doubted for a single moment that th e proper procedure was to proceed under the Act and not by an indistment under the general law ?
+Precedent	In my opinion, the respondent could not be convicted under the Indian Penal Code for an offence committed under the Police Act .
+Precedent	49.
+RatioOfTheDecision	I have thought it necessary to deal with the case at tome length for the reason that the issue raised by the <ORG> in this appeal goes far beyond the astual facts of the case and, indeed affects the liberty of the subject in relation to what he may lawfully do in a lawful manner.
+RatioOfTheDecision	I must not be understood, however, as sane tinning any breaches of law and order.
+RatioOfTheDecision	Where there are breaches of law and order, it is the duty of this <ORG> to relentlessly apply the law, and look neither to the position nor the motive of the persons committing or encouraging breaches of law and order.
+RatioOfTheDecision	<NAME> while this is so, it is equally our duty to assert from time to time and as often as it may be necessary that the subject has his rights as well as his duties, and to assert farther that this <ORG>, as the g uardian of the rights and the liberties of the subject, will sternly repress any attempt on the part of <ORG> to tamper with such rights and liberties; and that an order, in the garb of an order for the maintenance of law and order, will not be allowed to stand, if its object is not to maintain law and order but to make, to quote the memorable words of Lord <NAME>, a very serious inroad upon the liberty of the subject".
+RatioOfTheDecision	50.
+RulingByPresentCourt	I would dismiss this appeal.

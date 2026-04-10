@@ -1,0 +1,74 @@
+Argument	JUDGMENT <NAME>, J.
+Argument	1.
+Fact	This and the connected cases are references under Section 11(1) of the U.P.
+Fact	Sales Tax Act.
+Fact	They relate to the same assessee, but to different assessment years.
+Fact	A common question of law has arisen in these cases which has been referred by the revising authority for the opinion of this court.
+Fact	The question is :  Whether on the facts and circumstances of this case, the article ceased to be an agricultural produce and whether the tea produced by the assessee would be exigible to sales tax ?
+Fact	2.
+Fact	The assessee owns some tea gardens.
+Fact	The tea-leaves grown in the gardens are sold after being processed and packed.
+Argument	The assessee's contention is that the sale of such tea is exempt from sales tax.
+Argument	3.
+Argument	Under Section 3, which is the charging section, it is the turnover for a year which is taxed.
+Argument	The term "turnover" has been denned in Section 2(i) in the following words:  'Turnover' means the aggregate amount for which goods are supplied or distributed by way of sale or are sold, or the aggregate am ount for which goods are bought, whichever is greater, by a dealer; either directly or through another, on his account or on account of others, whether for cash or deferred payment or other valuable consideration :  Provided that the proceeds of the sale by a person of agricultural or horticultural produce, grown by himself or grown on any land in which he has an interest whether as owner, usufructuary mortgagee, tenant or otherwise, or poultry or dairy products from fowls or animals kept by him, shall be excluded from his turnover.
+Argument	4.
+Argument	The assessee relies on the proviso, its contention being that tea sold by it is agricultural produce grown by itself on land which belongs to it.
+Argument	Now, there is no dispute that tea-leaves are agricultural produce and are grown by the assessee in its own gardens.
+Argument	But the department's contention is that tea-leaves are subjected to a long and complicated process which converts the tea-leaves into a different commercial commodity so that the tea-leaves do.
+Argument	not remain agricultural p roduce.
+Argument	5.
+RatioOfTheDecision	Income arising from agriculture is exempt from tax under the Income-tax Act .
+RatioOfTheDecision	Under Section 2(1)(b)(ii) of the Income-tax Act, the performance by a cultivator of any process ordinarily employed by a cultivator to render the produce raised by him fit for being taken to the market does not make any change in the nature of the income which continues to be income from agriculture.
+RatioOfTheDecision	A provision like this is not to be found in the U.P.
+RatioOfTheDecision	Sales Tax Act.
+RatioOfTheDecision	But it is clear that the principle underlying this provision has to be kept in view while deciding as to whether or not a produce is agricultural produce for the purposes of the U.P.
+RatioOfTheDecision	Sales Tax Act.
+RatioOfTheDecision	Under the U.P.
+RatioOfTheDecision	Sales Tax Act what is exempt is the sale proceeds of an agricultural produce.
+RatioOfTheDecision	It follows, therefore, that the agricultural produce must be in a salable state and any process employed to make the produce salable would not alter its nature.
+RatioOfTheDecision	Now, it is a matter of common knowledge that a large number of agricultural products are subjected to some kind  of processing before they are fit for sale.
+RatioOfTheDecision	Tobacco leaves are ordinarily dried to make them salable.
+RatioOfTheDecision	Barley and paddy are dehusked before they are sold as barley and rice.
+RatioOfTheDecision	Sometimes agricultural products grown in the original form are not sold in the same form.
+RatioOfTheDecision	Tea-leaves when plucked from fields are green and perishable.
+RatioOfTheDecision	There is no finding that tea-leaves in that state are marketable.
+RatioOfTheDecision	In fact, in that state they are not tea at all.
+RatioOfTheDecision	In order to convert the leaves into tea, as it is understood commercially, the leaves are to be subjected to a process of drying, heating and roasting.
+RatioOfTheDecision	It follows, therefore, that tea-leaves have to be subjected to a process which is ordinarily employed by the growers of tea in order to render it fit for sale in the market.
+Argument	6.
+Argument	It is not disputed on behalf of the department that some process is necessary to convert tea-leaves into tea and such a process will not make any difference.
+Argument	But what is contended is that the process performed by the assessee in the instant case is a proc ess which is more than the minimum required.
+RulingByLowerCourt	The process to which tea-leaves are subjected by the assessee has been described by <ORG> in the following words :  That the assessee had subjected the tea-leaves to a long and complicated process before the goods could be ready for sale.
+Fact	Briefly recalling, the tea-leaves were first of all subjected to weathering in shadow in rooms on a wooden floor for about 14 hours and then they were crushed by hand or foot and were then roasted for about 15 minutes.
+Fact	Later, they were roasted on mats for about 15 minutes and then covered by wet sheets for generating fermentation.
+Fact	During this process the colour of leaves was changed from green to yellowish.
+Fact	The process did not stop there.
+Fact	The leaves were then subjected to grading with sieves of various sizes.
+Fact	Fanning machines are also used in completing the grading process.
+Fact	The produce was then finally roasted with charcoal for obtaining suitable flavour and colours.
+Fact	It is this final product which was eventually s old by the assessee.
+RatioOfTheDecision	7.
+RatioOfTheDecision	It is the contention of the department that after the tea-leaves are put through the process of drying and heating, tea-leaves are converted into loose tea.
+RatioOfTheDecision	If the processing had stopped at this stage, the loose tea would be an agricultural produce.
+RatioOfTheDecision	But the processing thereafter is commercial in nature and cannot be said to be an agricultural process.
+RatioOfTheDecision	The short question, therefore, is as to whether grading and roasting of loose tea is a process which can be said to have changed the nature of the commodity.
+RatioOfTheDecision	In our opinion, the process of grading and roasting is not materially different from the process through which tea-leaves have already undergone.
+RatioOfTheDecision	It is not a manufacturing process.
+RatioOfTheDecision	The loose tea even after grading and roasting still remains tea.
+RatioOfTheDecision	It is true that the process of grading and roasting is a more sophisticated process undertaken to fetch a better price and easy market for the tea.
+RatioOfTheDecision	The intention of the <ORG> being to exempt the sale of agricultural produce by the cult ivator, he should not be deprived of the benefit of the exemption merely because he subjects the tea-leaves to a refined and commercially better process in order to fetch better price.
+RatioOfTheDecision	So long as the nature of the produce remains unaltered, it does not make any difference, if the processing is long and complicated.
+RatioOfTheDecision	The same is true about packing.
+RatioOfTheDecision	Loose tea is packed in convenient packages to facilitate its sale and would be a legitimate process which an agriculturist is entitled to undertake to render the produce fit for sale in the market.
+RatioOfTheDecision	8.
+RatioOfTheDecision	It was contended that at an intermediary stage-when tea-leaves are subjected initially to the process of drying and heating-they are converted into loose tea which is salable in the market and the further process of roasting and grading would be commercial in nature.
+RatioOfTheDecision	Reliance was placed on the report of the Inspector of Sales Tax who had been deputed by the Sales Tax Officer to ascertain the process of the production of tea.
+RatioOfTheDecision	This report has been reproduced by the revis ing authority in its revisional order.
+RatioOfTheDecision	According to the report, loose tea can be sold as such after paying <ORG> excise duty at the rate of 25 paise per kilo.
+RatioOfTheDecision	However, there is no finding by the Sales Tax Officer or by the revising authority that there is a market for such loose tea in the State of Uttar Pradesh.
+RatioOfTheDecision	In the circumstances, the process of grading and roasting would be a part of the process necessary to render tea-leaves fit for being taken to the market.
+RatioOfTheDecision	9.
+RulingByPresentCourt	We, accordingly, answer the question in the negative in favour of the assessee and against the department.
+RulingByPresentCourt	The assessee would be entitled to the costs which we assess at Rs.
+RulingByPresentCourt	100.

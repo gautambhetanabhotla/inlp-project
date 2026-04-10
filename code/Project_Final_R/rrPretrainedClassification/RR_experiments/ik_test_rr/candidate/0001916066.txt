@@ -1,0 +1,52 @@
+Fact	JUDGMENT  1.
+Fact	The decision of this Rule turns upon an interesting point of law, involved in the question whether or rot the third defendant was liable for the debt due to the plaintiff from the first two defendants.
+Fact	It appears that the first two defendants borrowed a sum of money from the plaintiff on a promissory note executed on the 6th January 1913 They transferred their properties to the third defendant on the 31st January 1913 and on that very date the third defendant executed an agreement in favour of his vendors expressly undertaking to pay to the plaintiff his dues out of the consideration money retained in his hands.
+Fact	The plaintiff instituted this suit on the 4th January 1916 against his debtors as also the third defendant.
+Fact	The <ORG> Judge has degreed the suit against all the defendants.
+Fact	2.
+Fact	On behalf of the third defendant it is urged in this Court that there was an interpolation in the deed of agreement executed by him and that in fact the recital as to the debt due to the plaintiff from  the first two defendants was inserted.
+Fact	With out his knowledge after the execution but before the registration of the document.
+RatioOfTheDecision	This defence has not bean bilieved by the Court below and upon the findings of the <ORG> Judge it is impossible for us to examine this question of fact.
+RatioOfTheDecision	We most consequently proceed on the assumption that the third defendant did undertake to pay the plaintiff his dues out of the consideration money in his hands.
+RatioOfTheDecision	The question is, whether the plaintiff is entitled to enforce the agreement made between the third defendant and his vendors.
+RatioOfTheDecision	3.
+Precedent	On behalf of the plaintiff reliance is placed upon the decision in <ORG>.
+Precedent	OhuniLnl Ghose(Ram Sadhan Handed) 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603, which is an authority for the proposition that the rule enunciated in <NAME> v. <NAME>-son (1861)1 B.
+Precedent	& S. 393 : 30 L.J.Q.
+Precedent	B.
+Precedent	265 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 124 R.R.
+Precedent	610, is not applicable in this country and that an agreem ent may in certain circumstances be enforced by a stranger thereto that is in what may be briefly described as cases of trust, quasi-contract, or near relationship see <CITATION_444169> 5 Ind.
+Precedent	Cas.
+Precedent	565 : 11 C.L.J.
+Precedent	364 : at P. 368 : 14 C.W.N.
+Argument	470 : 37 C. 449, The third defendant however seeks to distinguish that case on the ground that there the arrangement between the debtor transferor and the transferee was communicated to the creditor whereas there is nothing to show that in the present case the arrangement between the first two defendants and the third defendant was ever brought to the notice of the plaintiffs by either of them.
+Precedent	In our opinion the distinction mentioned is not material and the principle which under-lies the decision in <NAME> v. <NAME> : Ram Sadhan Mandal 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603, applies equally to the present case.
+Precedent	In that case there was a contention that the plaintiff was entitled to succeed on the ground of novation of contract, and  from this point of view, stress was laid upon the fact that the arrangement between the transferor and transferee bad been communicated to the creditor.
+Precedent	This Court, however, held that notwithstanding such communication there was no novation of contract and that the suit must be deemed to have been instituted on the original debt.
+Precedent	That this is the true view of the situation is clear from the decision in <NAME> v. <NAME> (1817) 3 Mer.
+Precedent	582 : 17 R.R.
+Precedent	136 : <ORG>reface V : 36 E.R.
+Precedent	224, which was quoted with approval and followed in <NAME> v. <NAME> : Rim Saihnn Mandal 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Argument	603, The circumstances in that litigation were as nearly as possible, identical with those of the case by fore us There <ORG> transferred his properties To W who It May Concern:, who retained the consideration money in his hands and agreed to apply the sum in satisfaction of a debt due to G from <ORG> and to appropriate the balance only in satisfaction of his own dues.
+Argument	4.
+Argument	The arrangemen t was intended to be communicated to <NAME>, buy as a matter of fact was not brought to his notice.
+Argument	IF on the other hand, communicated to <NAME> an untrue version of what had happened and as the report says it was by a mere accident that <NAME> came to know of the arrangement between <OR<NAME>> and W.<NAME> along with instituted a suit to recover the debt from V. The claim was resisted on the ground that the consideration had not moved from <NAME>, who was a stranger to the agreement between <OR<NAME>> and W and was entitled to, no benefit the under.
+Argument	Sir William <NAME>rant, M.R., overruled this contention he conceded that the action might not have been maintainable in <OR<NAME>>, because the engagement was made to <OR<NAME>> and not directly to <NAME> and the consideration was furnished by <OR<NAME>>.
+Argument	Bat he proceeded to hold that although, no party to the contract had an equitable right through the mediation F the agreement to <OR<NAME>>, as shown by a decision of Lord <NAME> to the same effect.
+Argument	There had been no communication of the agreement bat wean <OR<NAME>> and W to <NAME>, and no sum co mmunication was necessary because the claim was not based on novation of contract on the allegation that by mutual arrangement of all the parties, a new agreement as between IV and had been substituted in supersession of the original agreement between <NAME> and <NAME>, The decision was based on the ground that W was in essence a trustee of the money in his hands for the benefit of <NAME>, who could clearly enforce it whether or not the arrangement had been communicated to him by <NAME> or W.  5.
+RulingByPresentCourt	We must hold, consequently, upon principle as also upon authority that the plaintiff is entitled to enforce his claim as against the third defendant The Rule is discharged with costs one gold mohur.

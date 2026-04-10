@@ -1,0 +1,30 @@
+Fact	JUDGMENT  1.
+RulingByLowerCourt	The petitioner who was the decree-holder purchased properties in execution of the decree and was obstructed by the respondents He obtained an order for delivery and an appeal against it was dismissed.
+RulingByLowerCourt	Being resisted by the respondents when attempting to take delivery he applies under Order XXI, Rule 98, of the Civil Procedure Code, The District Judge has dismissed the application holding that the said rule has no application.
+RulingByLowerCourt	As regards the seventh defendant against whom no decree was passed and who was therefore not the judgment-debtor the order is right.
+RulingByLowerCourt	But we are unable to uphold it as regards the first defendant and <NAME> who is alleged to have purchased the property subsequent to the attachment and while the save was pending, The purchaser of the attached property is the representative of the judgment-debtor "within the meaning of Section 47 of the new Code of Civil Procedure corresponding' to Section 244 of the old Code.
+Fact	<CITATION_1143451> (1897) I.L.R.
+Fact	20 Mad.
+Fact	378 <CITATION_44213 > (1897) I.L.R.
+Fact	19 All.
+Fact	332 <CITATION_525975> (1899) I.L.R.
+Fact	21 All.
+Fact	20 and <CITATION_943400> (1901) I.L.R.
+Fact	2b Calc.
+Argument	492, Under Rule 95 of Order XXI, the Court is authorized to order delivery to a purchaser against a person "claiming under a title created by the judgment debtor subsequenty to the attachment of the property.
+Argument	The first respondent is such a person and any question between him and the decree-holder purchaser would fall under Section 47.
+Argument	There is nothing in Rule 98 which militates against this view.
+RatioOfTheDecision	That rule has to be read along with Rule 95.
+RatioOfTheDecision	No inference can be drawn against the applicability of Section 47 from the omission in Rule 93 of a person claiming title by purchase from the judgment-debtor after attachment.
+RatioOfTheDecision	In fact Rule 102 which recognizes the transferee from the judgment-debtor as his representative in execution of decrees for possession of immoveable properties shows that a similar view must be taken of the purchaser of attached property, Rules 95 and 102 between them cover the cases o f representatives of the judgment-debtor in oases of transfers after attachment under a money decree and transfers of property whose possession is decreed to the plaintiff.
+RatioOfTheDecision	The decision in <NAME> v. <NAME> (1907) I.L.R 30 Mad.
+RatioOfTheDecision	72 has no application as the obstruction there was caused by a person who was not the judgment-debtor nor his representative.
+RatioOfTheDecision	Assuming that there is any doubt in the matter on the language of Rule 98 itself we should be quite prepared to hold that under Section 146 Judge was bound to deal with the application under Rule 98.
+RulingByLowerCourt	The District Judge was therefore wrong in holding that he could not entertain the application It follows that we must also overrule the objection that no appeal lies  2.
+RulingByLowerCourt	It is urged for the respondent that the case is concluded by a previous order of the District Judge in Appeal No.
+RatioOfTheDecision	147 of 1909 on the tile of his Court which we have already referred to.
+RatioOfTheDecision	There the Judge dismissed an appeal of the present first respondent against the Subordinate Jud <ORG>'s order for delivery and the ground of his dismissal was that the appellant was a person claiming in his own right and not on behalf of the first defendants.
+RatioOfTheDecision	This was erroneous and we cannot regard that error as concluding the present appeal.
+RatioOfTheDecision	A decision in one proceeding that no appeal lay has not the force of res judicata so as to preclude an appeal in another proceeding.
+RulingByPresentCourt	We set aside the order of the District Jud<ORG> except as regards the seventh defendant and remand the case for the disposal according to law.
+RulingByPresentCourt	Costs hitherto incurred will be provided for by the Court below.

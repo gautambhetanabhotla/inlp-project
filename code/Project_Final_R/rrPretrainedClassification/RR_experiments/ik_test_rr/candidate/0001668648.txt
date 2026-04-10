@@ -1,0 +1,102 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This case has been referred to <ORG> for a decision of the following point of law, namely:  Where a third mortgagee professes to keep in his hand a part of the mortgage money in order to pay off the first and second mortgages and pays of only the first mortgage, whether in a suit by the second mortgagee to enforce his mortgage it is open to the third mortgagee to insist on his being treated as a first mortgagee whose mortgage must be paid of before the plaintiff brings the mortgaged property to sale.
+Fact	2.
+Fact	The facts of the case are stated in the referring judgment and briefly are as follows:  One <NAME> was the owner of a certain property.
+Fact	He mortgaged the same for a sum of Rs.
+Fact	200 to one <NAME> on 19th October 1915.
+Fact	The next year on 16th October 1916, he made a simple mortgage of the same property in favour of one <NAME> and one <NAME>, son of <NAME>.
+Fact	The second mortgage was for a sum of Rs.
+Fact	400 and' <NAME> and <NAME> kept a portion of the mortgage money wi th themselves to pay off <NAME>.
+Fact	<NAME> and <NAME> however did not pay off <NAME> and their suit out of which the present appeal has arisen is for recovery of a sum of Rs.
+Fact	176 principal amount and interest.
+Fact	3.
+Fact	<NAME> sold the property on a date which is unknown to one <NAME>, son of <NAME> and this <NAME> made a simple mortgage of the property sold to the present appellants, (defendants 3 to 5), <NAME>, <NAME> and <NAME>, for Rs.
+Fact	2,000 on 29th July 1926.
+Fact	Out of the mortgage consideration of Rs.
+Fact	2,000 a sum of Rupees 676-3-0 was left with the mortgagees for payment to <NAME>, a sum of Rupees 730-8-0 was left with the mortgagees to pay the second mortgage held by the plaintiff-respondents, <NAME> and <NAME>, son of <NAME>, a sum of Rs, 557-13-6 was similarly left with the mortgagees to pay off a simple money decree held against the vendor and a sum of Rs.
+Fact	35-7-6 was paid in cash to the vendor.
+Fact	On 29th November 1926, the heirs of <NAME> were paid by the appellant s a sum of Rs.
+Fact	704-12-0 in full satisfaction of the first mortgage, dated 19th October 1915.
+Fact	The second mortgage not having been discharged, <NAME> and <NAME>, son of <NAME> have claimed their money.
+Fact	The appellants were impleaded as the third mort gagees and they pleaded inter alia that they had satisfied <NAME> mortgage and without paying that amount the plaintiffs were not entitled to get the property in question sold by auction.
+RatioOfTheDecision	We have to consider whether in the circumstances of the case the appellants were subrogated to the position of <NAME>.
+RatioOfTheDecision	The point raised in this appeal has given rise to conflicting decisions, although it must be said that in this.
+RatioOfTheDecision	Court the majority of cases has decided that a third mortgagee paying off the first mortgage in the circumstances of the present case is not entitled to be subrogated to the position of the first mortgagee.
+RatioOfTheDecision	The earliest important case-on this point is the <ORG> decision in <CITATION_956165>  33 All.
+Fact	101 It was a case of a purchaser fr om the mortgagor paying off the first mortgage, and it was held in the circumstances of the case that it was never the intention of the purchaser to keep the first mortgage alive.
+Fact	It was pointed out that at the date of the sale the intention of the purchaser was to pay off and extinguish the first mortgage and not to keep it alive.
+Fact	Then it was pointed out that if the date of payment be the crucial date on which the intention to keep alive or extinguish was to be entertained then the written statement showed that no idea of keeping alive the first mortgage was entertained at the date of payment because it was not even mentioned by way of defence and the point was raised subsequently as an "afterthought."
+Fact	4.
+Fact	This case and the <ORG> case of <NAME> v. <NAME> [1883] 9 Cal.
+Fact	961 were cases of purchasers whose interest it might be to extinguish the mortgage and to hold the property free from it for their own benefit.
+Fact	Both the cases-were decided on the peculiar facts of the case and their Lordsh <ORG> took care to point out the questions of fact which determined their decision.
+Fact	The principle-of merger which was contained in a codified form in Section 101, T.P.
+Fact	Act before its amendment and which is still to be found in the amended section of the same Act, does not lay down that there-may be a merger, where the person paying off the earlier charge was only a charge holder or mortgagee and not a full owner.
+RatioOfTheDecision	It is only in the case of a larger interest being acquired that a smaller interest disappears on the principle of merger.
+RatioOfTheDecision	This was entirely overlooked in some subsequent cases decided in this <ORG> and a doctrine of agency was evolved.
+RatioOfTheDecision	It was said that the money with which the third or any subsequent mortgagee pays the first mortgage is the property of the mortgagor and as no subrogation is allowed to a mortgagor, the third or subsequent mortgagee in making the payment is acting only as an agent of the mortgagor and he is not entitled to be subrogated to the position of the first mortgagee.
+Precedent	Such a case  was that of <NAME> v. Nathi A.I.R.
+Precedent	1923 All.
+Precedent	509.
+Precedent	There the learned Judge applied the case of <CITATION_956165>  33 All.
+Precedent	101 without distinguishing the feature of the earlier case that there the person making the payment was a purchaser from the mortgagor.
+Precedent	This case has been followed by other cases in this <ORG> but a contrary view has also been taken in this <ORG> : see for example <NAME> v. <NAME>  28 All.
+Precedent	778 and <CITATION_790026> A.I.R.
+Precedent	1926 All.
+Precedent	653.
+Precedent	In Madras the case of <NAME> v. <NAME>  29 Mad.
+Precedent	37 and in Calcutta the case of <CITATION_1043636>  33 Cal.
+Precedent	1133 take the same view as this <ORG> did in the two cases just mentioned.
+RatioOfTheDecision	5.
+RatioOfTheDecision	The doctrine of agency has much to be said against it.
+RatioOfTheDecision	To start with there does not appear to be any difference in principle between a case where a purchaser or a third mortgagee advances some money to the vendor or the mortgagor, as the case may be and then pays off the first mortgage and the case where a purchaser or a third mortgagee professes to tak e the transfer for a larger sum than in the earlier case and keeps with him the money needed for paying off the earliest mortgage and actually does not hand over the money to the vendor or the mortgagor, but uses the money to pay off the first mortgage.
+RatioOfTheDecision	It is conceded that in the first case a subrogation does arise, but it is denied that it arises in the second case.
+RatioOfTheDecision	The principle of subrogation has been brought into existence on the ground that the person who has discharged a burden should not lose, the money spent on discharging the burden and a subsequent mortgagee who has contributed nothing to discharge the burden should not have the benefit of the discharge for which he has not contributed.
+Precedent	The <ORG> cases of <NAME> v. <NAME> [1902] 29 Cal.
+Precedent	154 and <NAME> v. <NAME> [1912] 39 Cal.
+RatioOfTheDecision	527 are entirely in our opinion inconsistent with the theory of agency propounded in some cases by <ORG>.
+RatioOfTheDecision	The question however has become very much simplified and it may be said has entirely  disappeared from the arena of controversy owing to the amendment of the Transfer of Property Act .
+RatioOfTheDecision	6.
+RatioOfTheDecision	Before its amendment in 1929 the Transfer of Property Act did not even contain the word "subrogation" and the law of subrogation had to be deduced from English cases and from general principles of equity.
+RatioOfTheDecision	Section 74 , T.P.
+RatioOfTheDecision	Act , which has since been repealed contained only the rudiments of the law of subrogation and was not of much use.
+RatioOfTheDecision	Section 92 as it now stands after amendment of 1929 does not recognize any doctrine of agency.
+RatioOfTheDecision	It is couched in the simplest, widest and clearest language possible and the relevant portion runs as follows:  Any of the persons referred to in Section 91 (other than the mortgagor) and any co-mortgagor shall, on redeeming property subject to the mortgage, have so far as regards redemption, foreclosure or sale of such property, the same rights as the mortgagee whose mortgage ha redeems may have against the mortgagor or any other mortgagee.
+Argument	7.
+Argument	Mr. <NAME> who has argued the cas e for the respondents with his usual ability, has not denied that, if para.
+Argument	1, Section 92 , applied to the case, the appeal must succeed and the appellants must be treated as the first mortgagee.
+RatioOfTheDecision	This is also clear because the appellants as the third mortgagees are among the persons who are entitled under Section 91 , T.P.
+RatioOfTheDecision	Act , to redeem the property : they have redeemed the property subject to the first mortgage and they have thereby, according to the terms of the rule of law, the same rights as the first mortgagee whose mortgage they have redeemed, against the mortgagor and any other mortgagee, the last expression including the plaintiffs-respondents.
+RatioOfTheDecision	The fact that a part of the so called mortgage money was left with the third mortgagees, does not in any way destroy the facts that the appellants are the third mortgagees and it is they who have redeemed the first mortgage.
+RatioOfTheDecision	It is clear therefore that if Section 92 as amended by Act 20 of 1929 applies the appeal must succeed.
+RatioOfTheDecision	8.
+Argument	Mr. <NAME> however argued  that Section 92 had no application because of the provision contained in Section 63 , Act 20 of 1929.
+Statute	Section 63 deals with two portions of the Amendment Act .
+Statute	It first says that certain provisions of the Act  shall not be deemed in any way to affect the terms or incidence of any transfer of property made or effected before the 1st day of April 1930 or to affect the validity or invalidity or consequences of anything done or suffered before the aforesaid date and so on.
+RatioOfTheDecision	The provisions contained in Sections 92 and 101 , T.P.
+RatioOfTheDecision	Act , are dealt with by Sections 47 and 51 and these are not to be found in the first provision of Section 63 , Act 20 of 1929.
+RatioOfTheDecision	The second portion of Section 63 , Act 20 of 1929, runs as follows:  And nothing in any other provision of this Act shall render invalid or in any way affect anything already done before the 1st day of April 1930 in any proceeding pending in a Court on that date; and any such remedy and any such proceeding as is herein referred to may be enforced, instituted or con tinued, as the case may be, as if this Act had not been passed.
+RatioOfTheDecision	9.
+Statute	Section 47 , Act 20 of 1929 dealing with Section 92 , T.P.
+Statute	Act and Section 51 , Act 20 of 1929 dealing with Section 101 , T.P.
+Statute	Act , fall under this Clause 2, Section 63 , Act 20 of 1929.
+RatioOfTheDecision	In our opinion there is nothing in Clause 2 which affects the present case.
+RatioOfTheDecision	These sections are to have retrospective effect except in so far as they are not to have that effect according to the rule laid down.
+RatioOfTheDecision	Now is there anything in this case which has already been done before the 1st day of April 1930, in any proceeding pending in a Court on that date?
+RatioOfTheDecision	Then again is there any remedy and any such proceeding as is referred to in Act 20 of 1929 which is being affected by the new provisions of Sections 92 and 101 ?
+RatioOfTheDecision	We do not find that such is the case.
+RatioOfTheDecision	Indeed Mr. <NAME> has not been able to point out to us what has been done in this case before 1st April 1930 which is being undone by the new rule of law and what is the remedy or proceeding which is being a ffected by the new provisions of Sections 92 and 101 .
+RatioOfTheDecision	All that has been done is to lay down a rule of subrogation which was not contained in the unamended Act.
+RatioOfTheDecision	The rule was based on general ideas of equity, and it cannot be said that the new Act is going to affect any remedy or any proceeding which was lawful under the old Act.
+RatioOfTheDecision	In our opinion therefore Sections 92 and 101 , Amendment Act , have retrospective effect.
+RatioOfTheDecision	10.
+RatioOfTheDecision	Supposing however that the said sections have no retrospective effect, we have got this position.
+RatioOfTheDecision	This Court itself was divided as to the rule of subrogation in the circumstances of this case and there are conflicting decisions of other <ORG>.
+Precedent	Opinion is likely to differ as to how far the <ORG> case in <NAME> v. <NAME> [1902] 29 Cal.
+Precedent	154 and <NAME> v. <NAME> [1912] 39 Cal.
+Precedent	527 quoted above affect the decisions of the <ORG>.
+RatioOfTheDecision	In the circumstances the rule laid down by the legislature would be a safe guide to follow as laying down correctly the rule of jus tice, equity and good conscience for cases arising before the passing of Act 20 of 1929.
+RatioOfTheDecision	11.
+RulingByPresentCourt	The result is that in our opinion the question for our decision must be answered in favour of the appellants, and we must hold and do hold that the appellants are subrogated to the position of the first mortgagee.
+RulingByPresentCourt	We direct that the case be returned to the <ORG> making the reference with the answer given above.

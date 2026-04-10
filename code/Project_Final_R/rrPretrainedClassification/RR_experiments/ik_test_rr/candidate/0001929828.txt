@@ -1,0 +1,47 @@
+Fact	PETITIONER: MR. <NAME> & <NAME>.
+Fact	Vs. RESPONDENT: STATE OF U.P.
+Fact	& <NAME>.
+RulingByLowerCourt	DATE OF JUDGMENT: 13/01/1997 BENCH: <NAME>, <NAME> ACT: HEADNOTE: JUDGMENT:  <NAME> learned counsel on both sides.
+RulingByLowerCourt	Leave granted.
+RulingByLowerCourt	This appeal arises from the judgment of <ORG> of <ORG>, made on December 9, 1996 in CMWP No.
+RulingByLowerCourt	23997 of 1996.
+RulingByLowerCourt	The notification under Section 4(1) of the Land Acquisition Act, 1894 (for short, the 'Act') was published on July 27, 1995 and the Government had in exercise of the power under Section 17(1) of the Act dispensed with inquiry under Section 5-A of the Act.
+RulingByLowerCourt	<NAME>, learned counsel for the appellant, contended that since declaration was not published immediately, the exercise of power under Section 17 (1) dispensing with the inquiry under Section 5-A , is bad in law as it indicates that there was no real urgency.
+RulingByLowerCourt	The view of <ORG> that possession of land is deemed to have been taken under Section 17(4) is not correct on the facts of this cas e. The ratio of the judgment of this Court in <ORG> us.
+RulingByLowerCourt	<NAME> Samiti Sheopuri, Ghaziabad & Anr.
+RatioOfTheDecision	[] has no application to the facts of this case though we are in agreement with the learned counsel in this behalf, we do not find substance in the other contentions.
+RatioOfTheDecision	As regards the delay in issuing the said declaration we find that the authorities appear to have mis- construed the steps to be taken under the Act.
+RatioOfTheDecision	It is well- settled legal position that urgency can be said to exist when land proposed to be acquired is needed for planned development of the city/town etc.
+Precedent	In <NAME> & Ors.
+Precedent	etc.
+Precedent	v. <ORG>.
+Precedent	[JT 1996 (10) 311], this Court considered the scope of exercise of the power by the <ORG> under Section 17(1) of the Act and the procedure to be followed in that behalf.
+Argument	When the <ORG> forms an opinion that the lands are urgently needed for a public purpose, notification under Section 4(1) could be issued and published in the G azette while dispensing with inquiry under Section 5-A , Giving a gap of one day, the declaration under Section 6(1) of the Act could be published in the <ORG>.
+Argument	Notice under Section (1) should be given and on the expiry of 15 days thereafter, possession could be taken.
+Fact	The land stands vested in the <ORG> under Section 17 (2) read with Section 16 free from all encumbrances.
+Fact	Since inquiry under Section 5-A has been dispensed with, as provided under the Act, 80% of the compensation was required to be given to the claimants.
+Fact	In this case, instead of adopting the said procedure, after publication of the notification under Section 4(1) , they published the notification in the local newspapers in English as well as Hindi and also substance thereof in the locality and thereafter personal notices appear to have been issued to the owners of the lands.
+Fact	After completion of this process, proceedings were put up before the <ORG> for publication of the declaration under Section 6 which came to be made on April 18, 19 96.
+Fact	The appellant filed the writ petition on July 19, 1996 and consequently possession could not be taken.
+Fact	After the writ petition was disposed of, possession was taken on December 10, 1996.
+Fact	In this backdrop, the need of urgent possession was dissipated by beaurocrtic inadvertence and the urgency did not cease.
+Argument	Urgency continues as long as the scheme is not initiated, action taken and process completed, It is true that the petitioners would have raised, at an enquiry under Section 5-A , objection for the acquisition.
+Argument	One of the objections raised in the writ petition was that some of the khasra numbers notified under Section 4 (1) had been deleted from the acquisition proceedings due to interference by some persons and that showed that there was no bona fide in the acquisition proceedings.
+Argument	In that behalf, in the counter-affidavit filed in <ORG>, it was stated that the notification was withdrawn in respect thereof since those lands were required to be taken possession of under the Land Ceiling Act and,  therefore, there was no need to acquire those lands.
+Argument	Accordingly, the khasra numbers were deleted by a separate notification.
+Argument	Another objection raised was that the lands were sought to be given to the private company and, therefore, the procedure prescribed in Chapter VII was required to be adopted.
+Argument	The acquisition notification under Section 4(1) without compliance of the provisions under Chapter VII is bad in law.
+Argument	In the counter-affidavit filed in <ORG>, it was stated that the acquisition was only for the public purpose, viz., for the planned development as per the plans prepared and submitted to the <ORG> by <ORG> and, therefore, the objection raised was not tenable.
+RatioOfTheDecision	In view of this stand taken by the <ORG>, the direction to conduct an enquiry under Section 5A of the Act is of no material consequence of the facts of this case.
+RatioOfTheDecision	Under those circumstances, we think that there is no justification to quash the declaration under Section 6 and to give direction to  conduct an inquiry under Section 5A .
+Argument	Instead, it is contended by <NAME> that the standing crops and the structures are required to be removed and that the appellants are prepared to cut and carry away the standing crops after they are harvested.
+RulingByPresentCourt	<NAME> states that at least one month's time would be required.
+RulingByPresentCourt	<NAME> undertakes to give the Khasra numbers and the extent of the land in which there are standing crops.
+RulingByPresentCourt	The affidavit be filed within two days.
+RulingByPresentCourt	To that extent, the respondents are directed not to destroy the standing crops.
+RulingByPresentCourt	The appellants are directed to cut and harvest the standing crop and thereafter the respondents are at liberty to carry on the building operations.
+RulingByPresentCourt	For removal of the standing structures, the learned counsel states that four week's time is enough.
+RulingByPresentCourt	Accordingly, the appellants are directed to remove the structures within four weeks from today.
+RulingByPresentCourt	With regard to the standing crops, the Land Acquisition Officer is directed to depute one of his officers to assess the time required  for harvesting the crop and on the basis of the report submitted to the Land Acquisition Officer, he is directed to give them time to cut and harvest the crop and thereafter, the respondents are at liberty to proceed with the carrying out of the planned development activities.
+RulingByPresentCourt	Therefore, we do not find any justification warranting interference.
+RulingByPresentCourt	The appeal is accordingly disposed of, No costs.

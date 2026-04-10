@@ -1,0 +1,27 @@
+RulingByLowerCourt	ORDER  1.
+Fact	Leave granted.
+Fact	2.
+Fact	Respondent No.
+Fact	2 has been served by publication, but has not put in appearance.
+Fact	Service on Respondent No.
+Fact	1 has been dispensed with at the request of the appellant.
+RulingByLowerCourt	3.
+RulingByLowerCourt	Respondent No.
+Fact	1-<NAME> is the driver of truck No.
+Fact	HYL-765 owned by Respondent No.
+Fact	2 which was insured with the appellant.
+Fact	Respondent No.
+Fact	1 after having fallen down from the insured vehicle, approached <ORG> for damages on account of the injury sustained by him in his right leg and other injuries on the body.
+Fact	The Commissioner by his order dated 30.4.1996 allowed the claim and held the insurance company liable to pay the compensation.
+Fact	The Commissioner also held that the insurance company was liable to pay interest as also penalty over and above the principal amount of compensation.
+Fact	The appeal filed thereafter by the insurance company under Section 30 of the Workmen's Compensation Act in <ORG> was dismissed on 26.8.1997.
+Fact	It is in these circumstances , the present appeal has been filed.
+RatioOfTheDecision	4.
+RatioOfTheDecision	The only question raised before us by the learned Counsel for the appellant is that the Workmen's Compensation Commissioner could not have held the insurance company liable for payment of the amount of penalty under Section 4A(3) of the Workmen's Compensation Act .
+Fact	This question was considered by this Court in <CITATION_729146> .
+Fact	and it was held:  24.
+RatioOfTheDecision	As a result of the aforesaid discussion, it must be held that the question posed for our consideration must be answered party in the affirmative and partly in the negative.
+RatioOfTheDecision	In other words the insurance company will be liable to meet the claim for compensation along with interest as imposed on the insured employer by the Workmen's Commissioner under the Compensation Act on the conjoint operation of Section 3 and Section 4A Sub-section (3) (a) of the Compensation Act .
+RatioOfTheDecision	So far as additional amount of compensation by way of penalty imposed on the insured employer by the Workmen's Commissioner under Section 4A(3)(b) is concern ed, however, the insurance company would not remain liable to reimburse the said claim and it would be the liability of the insured employer alone.
+RatioOfTheDecision	5.
+RulingByPresentCourt	In view of the above, the appeal is allowed and it is held that the appellant-insurance company is not liable to pay the amount of penalty as determined by the Workmen's Compensation Commissioner.

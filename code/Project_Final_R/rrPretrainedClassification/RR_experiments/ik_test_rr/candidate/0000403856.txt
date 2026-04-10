@@ -1,0 +1,288 @@
+Fact	PETITIONER: <NAME> AND OTHERS Vs. RESPONDENT: <NAME> DATE OF JUDGMENT: 14/04/1958 BENCH: <NAME>, <NAME>: <NAME>, <NAME>, <NAME>, K. CITATION: 1958 AIR 706 1959 SCR 479 ACT: Agriculturist Protection of--Jurisdiction of Special Judge--Execution sale, if binds the legal representative not Party to it-Limitation-Mitakshara Law of Partition-Document, if and when must be registered-Admissibilitv-Sangli State Agriculturist Protection, Act (1 of 1936)-Indians Limitation Act (IX of 1908), Arts.
+Fact	12, 134 and 148-Indian Registration Act (Act XVI of 1908), ss.
+Fact	17 and 49.
+Fact	HEADNOTE: This was an appeal by the defendants in a suit for possession on redemption of certain mortgages instituted in the Court of the Special judge exercising jurisdiction under the Sangli State Agriculturists Protection Act (1 of 1936).
+Fact	Their case was that the mortgaged properties had been sold at auction and purchased by their <NAME> who had sold most of them to other persons more than 12 years before the  institution of the suit and as such the suit was barred by limitation.
+Fact	<ORG> dismissed the suit.
+Fact	On appeal <ORG> permitted the plaintiff to amend the plaint originally filed so as to include the relief for redemption and remanded the suit.
+Fact	The trial court, thereafter, decreed the suit in part, holding that the claim in respect of portions only of the mortgaged properties was barred by limitation.
+RulingByLowerCourt	Both the parties appealed to <ORG> and the appeals were heard together.
+RulingByLowerCourt	<ORG> dismissed the defendant's appeal and allowed the plaintiff's appeal holding that Art.
+Fact	148 and not Art.
+Fact	I34 Of the Limitation Act applied.
+Fact	In the result, the plaintiff's suit was decreed in its entirety.
+Fact	Held, that the preliminary objection that the Special judge had no jurisdiction under the Sangli State Agriculturists Protection Act to entertain the suit must be overruled.
+RulingByLowerCourt	The fixing of ,915 as the date-line by the Act had reference to such reliefs as could be had only by way of reop ening of closed transactions and could not, therefore, preclude the Special Judge from granting other reliefs in respect of transactions entered into prior to 1915.
+Fact	Nor could it be contended in bar that the plaintiff was bound in the first instance to set aside an auction sale of the mortgaged properties in execution of a money decree in which she was not substituted in place of her deceased <NAME> as his true heir and legal representative nor made a party and no controversy was raised by the parties nor decided by the <ORG> as to who was the true legal representative.
+Fact	The plaintiff was entitled to ignore the sale and the suit was not barred under Art.
+Fact	12 of the Limi- tation Act.
+Fact	480 Malkarjun Bin Shidramappa Pasare v. <NAME>, (1900) L.R.
+Fact	27 I.A.
+RatioOfTheDecision	216, doubted and distinguished.
+RatioOfTheDecision	In order that Art.
+RatioOfTheDecision	I34 of the Limitation Act might be attracted to a suit for possession on redemption, it was necessary for the defendant to prove affirmatively that the mortgagee or his succesor-in-interest had transfer red a larger interest than was justified by the mortgage.
+RatioOfTheDecision	Where, as in the present case, this was not done, Art.
+RulingByLowerCourt	134 could not apply and the only other article which could-apply was Art.
+RulingByLowerCourt	148  Of the Limitation Act .
+RatioOfTheDecision	Under <ORG> partition may be either (1) a severance of the joint status of the coparcenary by mere defining of shares but without specific allotments or (2) partition by allotment of specific properties by metes and bounds according to shares.
+RatioOfTheDecision	The latter, if reduced to writing becomes compulsorily registrable under s. I7(1)(b) of the Indian Registration Act but the former does not.
+RatioOfTheDecision	Consequently, in the present case such unregistered docu- ments as were adduced by the plaintiff for the limited purpose of proving partition in the former sense did not fall within the mischief Of s. 49 of the Indian Registration Act and were admissible in evidence.
+Fact	JUDGMENT:  CIVIL APPELLATE JURISDICTION: Civil Appeal No.
+Fact	177 of 1954.
+Fact	Appeal from the judgment and decree dated October 9, 19 50 of <ORG> in First Appeals Nos.
+Fact	361 & 363 of 1948 from Original Decree arising out of the judgment and decree dated July 31, 1946, of <ORG>, Mangalvedhe in Special Suit No.
+Fact	1322 of 1938.
+Fact	<NAME>, <NAME>, <NAME> and <NAME>, for the appellant.
+Fact	<NAME> and <NAME>, for the respondent.
+RatioOfTheDecision	1958.
+RatioOfTheDecision	April 14.
+Fact	The following Judgment of the <ORG> was delivered by <NAME> is a defendants' appeal by leave granted by <ORG> from the decision of that <ORG>, dated October 9, 1950, in two cross-appeals from the decision of the Special Judge of the Special Tribunal <ORG> at Mangalvedhe, dated July 31, 1946, in Special Suit No.
+Fact	1322 of 1938.
+Fact	Of the two cross-appeals, the First Appeal No.
+Fact	361 of 1948, by the appellants, was dismissed, and the First Appeal No.
+Fact	363 of 1948, by the plaintiff, was allowed.
+Fact	The plaintiff-respondent had instituted another suit, being suit No.
+Fact	1894 of 1937, which was also tried along wi th Special Suit No.
+Fact	1322 of 1938.
+Fact	The former suit stands dismissed as a result of the judgment of <ORG>, and no appeal has been brought against that judgment to this Court.
+Fact	The suit out of which this appeal arises (Special Suit No.
+Fact	1322 of 1938), was instituted under the provisions of the Sangli State Agriculturists Protection Act, granting certain reliefs from indebtedness to agriculturists of that State which was then outside what used to be called " British India ".
+Fact	The suit as originally framed, prayed for accounts in respect of two mortgages, though there were really three mortgages, to be described in detail hereinafter, and for possession of the, lands comprised in those mortgages.
+Fact	The first, defendant filed his written statement on January 6, 1940, contesting the suit mainly on the ground that the plaintiff had no title to the mortgaged properties in view of the events that had happened; that the mortgaged properties had been sold at auction and purchased by the defendant's <NAME> who, thus,  became the full owner thereof; and that he had sold most of the properties to other persons who were holding those properties as full owners.
+Fact	Defelidant No.
+Fact	3 who also represents the original mortgagee, filed a separate written statement supporting the first defendant.
+Fact	Of the defendants who are transferees from the original mortgagees or their heirs only defendant No.
+Fact	8 filed his written statement on March 26, 1940, substantially supporting the first defendants written statement and adding that he had purchased the bulk of the mortgaged properties after acquisition of full title by the mortgagees themselves more than 12 years before the institution of the suit, and that, therefore, it was barred by limitation.
+Fact	The trial court dismissed the suit by its judgment dated November 26, 1941, with costs.
+Fact	On appeal by the defeated plaintiff, <ORG>, by its judgment dated June 13, 1944, remanded the suit for a fresh trial after having permitted the plaintiff to amend the pla int so as to include the relief for redemption.
+Fact	It appears that during the pendency of the suit after remand, an application was made in February, 1945, for making substitution in place of defendant No.
+Fact	2 who had died meanwhile, but the application was refused by the <ORG> on the ground that the suit had abated as against that defendant.
+Fact	After reframing the issues and rehearing the ,lase, the trial court, by its judgment and decree dated July 31, 1946, dismissed the suit as against defendants 6 to 9 who were holding portions of the mortgaged properties by sale-deeds of the years 1919 and 1922, for more than 12 years, as barred by limitation under Art.
+Fact	134 of the Limitation Act .
+Fact	The <ORG> decreed the suit in respect of the mortgaged portion of R. S. No.
+Fact	1735, having an area of 16 acres and 21 gunthas, as against defendant No.
+Fact	3, and R. S. No.
+Fact	334 against defendant No.
+Fact	1's heirs.
+Fact	Each party was directed to bear its own costs throughout.
+Fact	From that decision, the defendants preferred a first appeal, being First A ppeal No.
+Fact	361 of 1948, and the plaintiff filed a crossings, being First Appeal No.
+Fact	363 of 1948, in <ORG> at Bombay.
+Fact	Both the appeals were heard together along with two other cross- appeals arising out of the other suit mentioned above.
+Fact	<ORG>, by its judgment and decree dated October 9, 1950, dismissed the defendants' appeal No.
+Fact	361 of 1948, and allowed the plaintiff's appeal No.
+Fact	363 of 1948, with costs, holding that Art.
+Fact	148 and not Art.
+Fact	134 of the Limitation Act , applied to the suit, and that, therefore, it was not barred by limitation.
+Fact	In the result, the plaintiff's suit was decreed in its entirety.Hence, this appeal by the defendants.
+Fact	A number of Questions of fact and law have been raised by the learned counsel for the appellants, but before we proceed to deal with them, it is convenient to dispose of the preliminary points in bar of the suit.
+Argument	At the fore- front of his submissions, the learned counsel for the appellants contended that the suit was outside the jurisdiction  of <ORG> created under the Sangli State Agriculturists Protection Act I of 1936.
+Argument	With reference to the provisions of that Act, it was contended that the Act authorized <ORG> to take accounts and to reopen closed transactions only up to the year 1915, and that as the transactions which were the subject-matter of the suit, were of the years 1898, 1900 and 1901, <ORG> was not competent to go into those transactions and grant any relief to the agriculturist- plaintiff.
+RatioOfTheDecision	In our opinion, there is no substance in this contention.
+RatioOfTheDecision	The Sangli Act referred to above, had chosen the year 1915 as the dateline beyond which the court was not competent to grant any relief to agriculturists, by way of reopening of closed transactions.
+RatioOfTheDecision	But that does not mean that the court itself was incompetent to grant any other relief in respect of transactions of a date prior to 1915.
+RatioOfTheDecision	If the legislature had intended to limit the jurisdiction of <ORG>, as contended on behalf of the appellants,  nothing would have been easier than to say in express terms that the court's jurisdiction to grant relief was limited to transactions of that year and after, but there are no such words of limitation in any part of the statute.
+RatioOfTheDecision	The operative portion of the statute does not contain any such provision.
+RatioOfTheDecision	In our opinion, therefore, <ORG> was competent to entertain the suit for redemption, though it would not be competent to reopen those transactions even if any such question of reopening closed transactions had been raised.
+RatioOfTheDecision	But it is manifest that no such question arose out of the pleadings in this case.
+RatioOfTheDecision	Hence, those words of limitation are wholly out of the way of the plaintiff.
+Fact	It may be mentioned that no such plea of want of jurisdiction of the trial court, had been raised in the pleadings or in the issues in the courts below.
+Fact	This ground was raised, for the first time, in the statement of case in this Court.
+RulingByLowerCourt	The preliminary objection to the jurisdiction of the trial court is, thus, overruled.
+RulingByLowerCourt	It w as next contended that the suit was barred by limitation of one year under Art.
+RulingByLowerCourt	12 of the Limitation Act .
+Fact	The point arose in this way.
+Fact	The properties sought to be redeemed were mortgaged, as will presently appear, successively under three bonds of the years 1898, 1900 and 1901, by the plaintiff's <NAME>, <NAME> (omitting all reference to his brothers).
+Fact	484  It appears that there was a decree for money of the year 1903, in favour of a third party who is not before us.
+Fact	<NAME> had been stied as the original defendant, but after his death, his place was taken by his brother <NAME> as his heir and legal representative.
+Fact	In execution of the decree, the mortgaged properties were auction-purchased by the mortgagee's <NAME>, son of the first defendant as it appears from the sale-certificate, Exh.
+Fact	D-56, dated October 31, 1907.
+Argument	On the basis of this auction-purchase, it, has been contended on behalf of the mortgagee that unless the sale were set aside, it would bind <NAME> and his successor- in-interest, the plaintiff.
+Argument	<ORG> has held that Art.
+Argument	12 is out of the way of the plaintiff because neither the plaintiff nor her <NAME> was a party to the sale.
+Argument	If <NAME> himself were a party to the execution proceedings, the sale as against him, would bind his estate and his successor-in-interest.
+Argument	But it appears that <NAME> was substituted by his brother <NAME> in the execution proceedings.
+Argument	If <NAME> could not be the representative-in-interest of <NAME>, as will presently appear, he could not have represented <NAME>'s estate, and, therefore, the gale as against him, would be of no effect as against the plaintiff.
+Argument	<NAME> it was argued in answer to this contention that the decision of <ORG> in the case of <NAME> v. <NAME> (1), is an authority for the proposition that even if the property was sold by substituting a wrong person as the legal representative of the judgment-debtor, the sale would bind the estate of the judgment-debtor as much as if the right legal representative had  been brought on the record of the execution proceedings.
+RatioOfTheDecision	Assuming that the decision of <ORG> in <NAME>'s case (supra) is correct, and that it is not subject to the infirmities of an ex parte judgment, asimay well be argued, that decision is clearly distinguishable so far as the present case is concerned.
+Fact	In <NAME>'s case, the executing court had been invited to decide the question as to who was the true legal representative of the judgment-debtor, and the court, after (1) (1900) L.B.
+Fact	27 1, A.
+Fact	216 judicially determining that controversy, had brought on record the person who was adjudged to be the true legal representative.
+Fact	The sale was held to be of the property of the judgment-debtor through his legal representative, after the adjudication by the court.
+Fact	<ORG> held that though the decision of the court on the question as to who was the true legal representative, was wrong, it was a decision given in that litigation which affected the judgment-debtor and his true legal representati ve, unless set aside in due course of law.
+Fact	In the present case, there was no such adjudication.
+Fact	From the scanty evidence that we have on this part of the case, it appears that <NAME>, the original defendant, had died and had been, without any controversy, substituted by his brother, <NAME>.
+Fact	The court had not been invited to determine any controversy as between <NAME> and the true legal representative of <NAME> deceased.
+Fact	In execution proceedings, the property was sold as that of <NAME> the substituted judgment-debtor.
+Fact	It was a moneysale and passed only the right title and interest of <NAME>, if it bad any effect at all.
+Fact	<NAME>'s case (supra), therefore, is of no assistance to the appellants.
+Fact	The plaintiff, <NAME>'s daughter, not being affected in any way by the sale aforesaid, it is not necessary for her to sue for setting aside the sale.
+RulingByLowerCourt	She was entitled, as she has done, to ignore those execution proceedings, and to proceed on the assumption, justified in law, that the sale had not affected her inher itance.
+RulingByLowerCourt	The suit is, therefore, not barred by Art.
+RulingByLowerCourt	12 of the Limitation Act .
+RulingByLowerCourt	It was next contended that even if Art.
+RulingByLowerCourt	12 was not available to the defendants by way of a bar to the suit, the suit was certainly barred under Art.
+RulingByLowerCourt	134 of the Limitation Act .
+RatioOfTheDecision	Under Art.
+RatioOfTheDecision	134 , the plaintiff has to sue to recover possession of immovable property mortgaged and, afterwards, transferred by the mortgagee for a valuable consideration, within 12 years from the date the " transfer becomes known to the plaintiff ".
+RatioOfTheDecision	On the other hand, it has been contended on behalf of the plaintiff that the usual rule of 60 years' limitation under, Art.
+RatioOfTheDecision	148 of the Limitation Act , governs the present case.
+RatioOfTheDecision	On this part of the case, the defendants suffer from the initial difficulty that the sale-deeds relied upon by them in aid of the plea of limitation under Art.
+RatioOfTheDecision	134 , have not been brought on the record of this case, and, therefore, the <ORG> is not in a position to know the exact terms of the sale-deeds.
+RatioOfTheDecision	This difficulty, the appellants s ought to overcome by inviting our attention to the statements made in paragraph 8 of the plaint.
+RatioOfTheDecision	But those are bald statements giving the reasons why the defendants other than the original mortgagee, were being impleaded as defendants.
+RatioOfTheDecision	There is no clear averment in that paragraph of the plaint about the extent of the interest sold by those sale-deeds and other transfers referred to therein.
+RatioOfTheDecision	The Court is, therefore, not in a position to find out the true position.
+RatioOfTheDecision	Those sale-deeds themselves were the primary evidence of the interest sold.
+RatioOfTheDecision	If those sale-deeds which are said to be registered documents, were not available for any reasons, certified copies thereof could be adduced as secondary evidence, but no foundation has been laid in the pleadings for the reception of other evidence which must always be of a very weak character in place of registered documents evidencing those transactions.
+RatioOfTheDecision	Article 134 of the Limitation Act contemplates a sale by the mortgagee in excess of his interest as such.
+RatioOfTheDecision	The legislature , naturally, treats the possession of such transferees as wrongful, and therefore, adverse to the mortgagor if he is aware of the transaction.
+RatioOfTheDecision	Hence, the longer period of 60 years for redemption of the mortgaged property in the hands of the mortgagee or his successor-in-interest, is cut down to the shorter period of 12 years' wrongful possession if the transfer by the mortgagee is in respect of a larger interest than that mortgaged to him.
+RatioOfTheDecision	In order, therefore, to attract the operation of Art,.
+RatioOfTheDecision	134, the defendant has got affirmatively to prove that the mortgagee or his successor-in-interest has transferred a larger interest than justified by the mortgage.
+RatioOfTheDecision	If there is no such proof, the shorter period under Art.
+RatioOfTheDecision	134 is not available to the defendant in a suit for possession after redemption.
+RatioOfTheDecision	A good deal of argument was addressed on the question as to upon whom lay the burden to prove the date of the starting point of limitation under that article.
+RatioOfTheDecision	It was argued on behalf of the defendants-appellants that as it  is a matter within the special knowledge of the plaintiff, the plaint should disclose the date on which the plaintiff became aware of the transfer.
+RatioOfTheDecision	On the other hand, it was contended on behalf of the plaintiff-respondent that it is for the defendants to plead and prove the facts including the date of the knowledge which would attract the bar of limitation under Art.
+RatioOfTheDecision	134.
+RatioOfTheDecision	As we are not satisfied, for the reasons given above, that Art.
+RatioOfTheDecision	134 is attracted to the present case, it is not necessary to pronounce upon that controversy.
+Precedent	It is, thus, clear that if Arts.
+Precedent	12 and 134 of the Limitation Act , do not stand in the way of the plaintiff's right to recover posses.-,ion, the only other Article which will apply to the suit, is Art.
+Precedent	148.
+RatioOfTheDecision	It is common ground that if that Article is applied, the suit is well within time.
+RatioOfTheDecision	Before dealing with the factual aspects of the case, it is necessary to deal with another plea in bar of the suit raised on behalf of the appellants.
+RatioOfTheDecision	It is contended that the suit is bad for defect o f parties in so far as the heirs of the second defendant are concerned.
+RatioOfTheDecision	It appears from the order dated March 27, 1946, passed by the trial court during the pendency of the suit after remand, that the second defendant died on April 26, 1943, that is to say, while the appeal before <ORG> was pending in that Court before remand.
+RatioOfTheDecision	The then appellant who was the plaintiff, did not take steps to bring on record the legal representatives of that defendant.
+RulingByLowerCourt	An attempt was made by the plaintiff later on to get his heirs substituted on the record, but the Court upheld the defendants objection and did not allow substitution to be made.
+RulingByLowerCourt	It was, therefore, noted that the appeal which was then pending in <ORG>, had abated as against defendant No.
+Argument	2, and that, the order of remand made after his death and in the absence of his legal representatives, would not affect them.
+Argument	Therefore, it was contended that the whole suit would abate, because, in the absence of the heirs of the deceased defendant No.
+Argument	2 , the suit was imperfectly constituted under 0.
+Argument	34, r. I of the Code of Civil Procedure.
+Fact	That rule requires that " all persons having an interest either in the mortgage-security or in the right of redemption shall be joined as parties............
+Fact	The original mortgagee.
+Fact	under the three mortgages, was <NAME>.
+Fact	The defendant No.
+Fact	1 has contested this suit by filing a separate written statement of his own as the successor-in-interest of the original mortgagee.
+Fact	It does not appear from the pleadings that the second defendant was a joint mortgagee with the first defen- dant or his ancestors.
+Fact	The only statement in the plaint in para.
+Fact	8, with reference to the second defendant, is that the " Lands R. S. No.
+Fact	1735 has gone to the share of defendant No.
+Argument	2.
+Argument	Defendant No.
+Argument	3 looks after all the transactions of defendant No.
+Argument	2 and the shop running under the name of ' <NAME> ' has gone to the share of defendant No.
+RatioOfTheDecision	3 ".
+RatioOfTheDecision	Thus, it is not a case of the first defendant being joint with the other defendants  including defendant No.
+RatioOfTheDecision	2 who is not now represented on the record.
+Precedent	If defendant No.
+Precedent	2 had any distinct interest, that, on the plaint, appears to be confined to R. S. No.
+RatioOfTheDecision	1735.
+RatioOfTheDecision	In the written statement filed on behalf of the third defendant, it is stated in para.
+Argument	9 that the mortgaged portion of R. S. No.
+Argument	1735 which, according to the plaint, was the property of the second defendant, was really in possession of the third defendant as owner.
+Argument	It would, thus, appear that even in respect of that plot, the second defendant had no subsisting interest.
+Argument	This claim of the third defendant is strengthened by the fact that the second defendant did not file any written statement challenging \the statement aforesaid of the third defendant or claiming any interest in that plot or any other part of the mortgaged property.
+RatioOfTheDecision	The second defendant had remained ex parte throughout, apparently because he had no interest in the property to be redeemed.
+RatioOfTheDecision	In any view of the matter, his heirs are not parties to this suit, and any determi nation in this suit will not bind them.
+RatioOfTheDecision	But it does appear that the second defendant had no subsisting interest, if he had any at any anterior period, in any portion of the mortgaged property.
+RatioOfTheDecision	It was also contended that the original defendant No.
+RatioOfTheDecision	8 died, and in his place defendants Nos.
+RatioOfTheDecision	8a to 8g were substituted.
+RatioOfTheDecision	It appears that of the seven persons substituted on the record as the legal representatives of the original defendant No.
+RatioOfTheDecision	8, only defendants 8e, 8f and 8g were served, and the others, namely, 8a, 8b, 8c and 8d were not served.
+RatioOfTheDecision	On those facts, it was contended that the suit for redemption was bad in the absence of all the necessary parties.
+RatioOfTheDecision	It was sought, at one stage of the arguments, to be argued that the suit had abated against defendant No.
+RatioOfTheDecision	8, and this argument, in <ORG>, was met by the observation that under O. XXII, r. 4, Code of Civil Procedure, it was enough to bring on record only some out of the several legal representatives of a deceased party, on the authority of the judgment of  <ORG> in <CITATION_1000899> (1).
+RatioOfTheDecision	But on the facts stated above, there was no room for the application of r. 4, O. XXII of the Code.
+RatioOfTheDecision	All the legal representatives, at any rate, all those persons who were said to be the legal representatives of the deceased defendant No.
+RatioOfTheDecision	8, had been substituted.
+RatioOfTheDecision	Thus, the requirements of O. XXTI had been fulfilled.
+RatioOfTheDecision	If, subsequently, some of the heirs, thus substituted, are not served, the question is not one of abatement of the suit or of the appeal, but as to whether the suit or the appeal was competent in the absence of those persons.
+RatioOfTheDecision	It does not appear that the absent parties were really necessary parties to the suit or the appeal in the sense that they were jointly interested with the others already on the record in any portion of the mortgaged property.
+RatioOfTheDecision	In what circumstances they were not served or ordered to be struck off from the record, does not clearly appear from the printed record before us.
+Fact	The defendant No.
+Fact	8e who happens to be the brother of the or iginal defendant No.
+Fact	8, has only filed a written statement claiming that he and his vendor, defendant No.
+Fact	7, had been in possession for more than 12 years, and that (1) (1934) 37- Bom.
+Fact	L, R. 288, the suit was, on that count, barred by limitation.
+Fact	None of the other defendants who had been brought on the record in place of the original defendant No.
+Argument	8, has appeared in the suit or in the appeal to contest the claim of defendant No.
+Argument	8e that he was in possession of that portion of the property, namely, 6 acres and 32 gunthas out of R. S. No.
+Fact	242 (old survey No.
+RatioOfTheDecision	233).
+RatioOfTheDecision	<NAME>, there was no question of abatement of the suit or the appeal.
+RatioOfTheDecision	The only question which may or may not be ultimately found to be material on a proper investigation, may be whether the decree to be passed in this case, would be binding on those who had not been served.
+RatioOfTheDecision	For ought we know it may be that they were not interested in the plot sought to be redeemed.
+RatioOfTheDecision	On these findings, it must be held that the preliminary objections raised on behalf of t he defendants in bar of the suit, must be overruled.
+RulingByLowerCourt	Hence, the whole suit cannot be held to be incompetent for the reason that the heirs of defendant No.
+RulingByLowerCourt	2 have not been brought on the record.
+Fact	Having, thus, disposed of the specific pleas in bar of the suit, we now turn to the contentions bearing on the factual aspects of the controversy.
+Fact	It was contended that the plaintiff who is admittedly the daughter of <NAME>, has not established her title to the mortgaged properties.
+Fact	In this connection, it is convenient to set out the essential facts in relation to the three mortgage.
+Fact	deeds in question.
+Fact	The first mortgage is dated June 4, 1898, in favour of <NAME>, executed by <NAME>, son of <NAME>, for the sum of Rs.
+Fact	700, the amount borrowed by him, mortgaging 7 survey numbers with an aggregate area of 43 acres and 38 gunthas.
+Fact	It was a mortgage with possession for a period of 4 years, with <NAME>'s two brothers-<NAME> and <NAME>-as sureties for the repayment of the amount borrowed which was the personal respon sibility of <NAME> under the terms of the document.
+Fact	But the property mortgaged is admittedly the ancestral land of the three brothers.
+Fact	The second mortgage between the same parties in respect of the same properties, bears the date May 25, 1900.
+Fact	It secures a further advance of Rs.
+Fact	300 to the mortgagor, the payment of which debt is again assured by his two brothers-<NAME> and <NAME>-as sureties.
+Fact	The third mortgage-bond is for a further advance of Rs.
+Fact	200 to the mortgagor <NAME>, with his brothers aforesaid again figuring as sureties.
+Fact	It would, thus, appear that all the three mortgages are between the same parties as mortgagor and mortgagee, and the two brothers of the mortgagor join in executing the mortgages as sureties, the property given in mortgage belonging to all the three brothers.
+Fact	The total advance of Rs.
+Fact	1,200 under those three mortgages, was made to the principal debtor, <NAME>.
+Fact	It appears that, of the three brothers, <NAME> died first, and then <NAME>, some time in 1903, survived by his two daughters-the pl aintiff and defendant No.
+Fact	13.
+Fact	The plaintiff's case is that the common ancestor, <NAME>, in his lifetime, had effected a partition amongst his three sons aforesaid, giving them each specific portions of his lands, reserving a portion for the maintenance of his wife.
+Fact	Those transactions are exhibits P-43, P-44, P-45 and P-46, all dated August 31 or September 1, 1892, and, apparently, forming parts of the same transaction.
+Fact	These are formal documents giving details of the lands allotted to each one of the three brothers and to their mother by way of maintenance.
+Fact	The common recital in these documents, is that the executant of the documents, <NAME>, had three sons-<NAME>, <NAME> and <NAME>, in order of seniority-" who cannot pull on together The document further recites: ".Hence, separation having been effected with your consent, (I have) divided in every way and given you the estate, the land, the assets etc., pertaining to the one-third share.
+Fact	The same are as under. "
+Fact	Then follow the details of the properties separatel y allotted to each of them.
+Fact	The plaintiff's case is that ever since 1892-the date of the documents aforesaid- the three branches of the family had become separate in estate, if not also divided in all respects, and that on the death of <NAME>, <NAME> and his brother <NAME> inherited his one third share in equal moieties, that is to say , on the death of their mother and their brother, the two brothers became owners of half and half of the ancestral property left by <NAME> who appears to have died soon after the alleged partition.
+Fact	The plaintiff's case further is that the principal mortgagor in all those three transactions aforesaid, was <NAME>, and his two brothers had joined only as sureties by way of additional security in favour of the mortgagee, It has been contended on the other hand on behalf of the defendants-appallants that, in the first instance, the documets of 1892, referred to above, do not evidence an actual partition by metes and bounds, but only represent an arrangement by way of convenience for m ore efficient and peaceful management of the family property, and that, alternatively, if those documents are claimed to have the efficacy of partition deeds, they are inadmissible in evidence for want of registration.
+Fact	The courts below have held that those documents are inadmissible in evidence as regular deeds of partition which they purport to be, in view of the provisions of the Registration Act .
+Fact	But those transactions have been used for the collateral purpose of showing that from that time, the three brothers became separate in estate, and evidencing the clear intention on the part of each one of them to live as separated members, each with one-third share in the paternal estate.
+Fact	In this connection, reliance was placed on behalf of the appellants' upon what was alleged to be the subsequent conduct of the three brothers after 1892, as evidenced by the three mortgage-bonds themselves and the saledeed-exhibit D-54- dated June 17, 1909.
+Fact	By the last named document, <ORG> purported to sell to <NAME> <NAME>, son of the original mortgagee, practically the whole of the mortgaged properties, for a sum of Rs.
+Fact	1,500.
+Fact	The recitals in the sale-deed would certainly make it out that the three brothers were joint in estate, and that the sale-deed was being executed to pay off the personal loans of <NAME> and <NAME> during the Years 1900 to 1903, plus the loans taken by the vendor himself.
+Fact	Finally, the deed proceeds to make the following very significant declaration as to the status of the members of the so-called joint family: "As I have sold to you my right, title and interest in the above said lands, neither I nor my heirs and executors of my will have any right whatsoever over the said property.
+Fact	As I am the male heir in the joint family by survivorship nobody except me has any interest in the aforesaid lands.
+Fact	I have sold to you whatever interest I had in the said, lands."
+Fact	It was further contended that even strangers to the family treated the brothers as joint in estate as shown by the execution proceedings and the  sale certificates of the years 1903 to 1907, whereby <NAME> was substituted as the sole heir and legal representative of the defendant <NAME>, in the suit for money which resulted in the, auction-sale referred to above, of the ear 1907.
+RatioOfTheDecision	If the transaction of the year 1892, is admissible in evidence, for the purpose for which the document was used in the courts below, namely, to prove separation in estate, there is no room for ambiguity, and the position is clear that the three brothers had become separate.
+RatioOfTheDecision	Further recitals in those documents that specific portions of the ancestral property had been allotted to the three brothers separately, being in the nature of a partition deed by the <NAME> in his life-time, and being unregistered, are inadmissible in evidence to prove such a partition.
+RatioOfTheDecision	But the plaintiff's case does not depend upon proof of actual partition by metes and bounds.
+RatioOfTheDecision	In the absence of any ambiguity, the later transactions would not be relevant except to show that there was a subsequent reunio n amongst the brothers, which is no party's case.
+RatioOfTheDecision	But it was argued on behalf of the appellants that those documents-exhibits P series aforesaid-are not admissible in evidence even for the limited purpose of showing separation in estate.
+RatioOfTheDecision	The question, therefore, is whether those documents " purport or operate to create, declare, assign, limit or extinguish, whether in present or in future, any right, title or interest, whether vested or contingent, of the value of one hundred rupees and upwards, to or in immovable property", within the meaning of s. 17(1) (b) of the Registration Act .
+RatioOfTheDecision	No authority has been cited before us in support of this contention.
+RatioOfTheDecision	Partition in the  Mitakshara sense may be only a severance of the joint status of the members of the coparcenary, that is to say, what was' once a joint title, has become a divided title though there has been no division of any properties by metes and bounds.
+RatioOfTheDecision	Partition may also mean what ordinarily is understood by partition amongst co-sharers who may not be m embers of a Hindu coparcenary.
+RatioOfTheDecision	For partition in the former sense, it is not necessary that all the members of the joint family should agree, because it is a matter of individual volition.
+RatioOfTheDecision	If a coparcener expresses his individual intention in unequivocal language to separate himself from the rest of the family, that effects a partition, so far as he is concerned, from the rest of the family.
+RatioOfTheDecision	By this process, what was a joint tenancy, has been converted into a tenancy in common.
+RatioOfTheDecision	For partition in the latter sense of allotting specific properties or parcels to individual coparceners, agreement amongst all the coparceners is absolutely necessary.
+RatioOfTheDecision	Such a partition may be effected orally, but if the parties reduce the transaction to a formal document which is intended to be the evidence of the partition, it has the effect of declaring the exclusive title of the coparcener to whom a particular property is allotted by partition, and is, thus, within the mischief of s. 17(1)   (b), the material portion of which has bee n quoted above.
+RatioOfTheDecision	But partition in the former sense of defining the shares only without specific allotments of property, has no reference to immovable property.
+RatioOfTheDecision	Such a transaction only affects the status of the member or the members who have separated themselves from the rest of the coparcenary.
+RatioOfTheDecision	The change of status from a joint member of a coparcenary to a separated member having a defined share in the ancestral property, may be effected orally or it may be brought about by a document.
+RatioOfTheDecision	If the document does not evidence any partition by metes and bounds, that is to say, the partition in the latter sense, it does not come within the purview of s. 17(1) (b), because so long as there has been no partition in that sense, the interest of the separated member continues to extend over the whole joint property as before.
+RatioOfTheDecision	Such a transaction does not purport or operate to do any of the things referred to in that section.
+RatioOfTheDecision	Hence, in so far as the documents referred to above are evidence of partition only in the former sens e, they are not compulsorily registrable under s. 17 , and would, therefore, not come within the mischief of s. 49 which prohibits the reception into evidence of any document " affecting immoveable property ".
+RatioOfTheDecision	It must, therefore, be held that those documents have rightly been received in evidence for that limited purpose.
+Argument	Lastly, it was contended that if those documents of the year 1892 are admissible to prove separation amongst the three brothers, then, oil the death of one of the three, namely, <NAME>, and of their mother, the entire ancestral properties including the mortgaged properties, vested in the two brothers in equal shares.
+Argument	Both by the auction-purchase of the year 1906 (D-57-D) and the sale deed (exhibit D-54 of the year 1909), Sadashiv's moiety share in the mortgaged property, was purchased by <NAME> aforesaid.
+Argument	The plaintiff, therefore, could only claim the other moiety share of her <NAME>, <NAME>.
+Argument	In our opinion, there is no answer to this contention because it is clear upon a proper construction  of the three mortgage-bonds and on the plaintiff's own case that the entire ancestral properties and not only <ORG>'s share, had been mortgaged.
+Argument	The appeal will, therefore, be allowed to the extent of the half share rightly belonging to <NAME>, and the decree for possession after redemption will be confined to the other half belonging to the plaintiff's <NAME>.
+RulingByPresentCourt	In the result, the appeal is allowed to the extent indicated above.
+RulingByPresentCourt	As success between the parties, has been divided, they are directed to bear their own costs throughout.
+RulingByPresentCourt	Appeal allowed in part.
+RulingByPresentCourt	496

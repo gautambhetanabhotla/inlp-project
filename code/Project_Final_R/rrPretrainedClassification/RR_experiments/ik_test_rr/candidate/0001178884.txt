@@ -1,0 +1,12 @@
+Fact	JUDGMENT  1.
+RatioOfTheDecision	The purchaser in execution of a money-decree passed in one suit (which might be called suit X) between decree-holder A and judgment-debtor B is not the representative of the judgment-debtor B in suit Y when he prefers a claim petition when the properties are or have been attached in execution of the money-decree passed in suit Y between decree-holder A and the judgment-debtor B, though the judgment-debtors are the same in both suits.
+RatioOfTheDecision	He (the purchaser) cannot, therefore, take advantage of the provisions of Section 47.
+RulingByLowerCourt	Civil Procedure Code , and claim a right to prefer an appeal and a second appeal against the decision in the claim petition in the Y suit.
+RulingByLowerCourt	[See observations in <NAME> v. <NAME> 8 Ind.
+RulingByLowerCourt	Cas.
+Fact	429 : 34 M. 417 : (1910) M.W.N.
+Fact	602 : 9 M.L.T.
+Argument	152 : 21 M.L.J.
+Argument	928 as to under what particular circumstances a <ORG> auction-purchaser can be treated as representative of the decree-holder or judgment-debtor and as to what proceedings can be considered as falling und er Section 47 , Civil Procedure Code, though a <ORG> auction purchaser who cannot be considered the representative of either the decree-holder or the judgment-debtor is interested in the result of and is, therefore, made a party to the proceedings.]
+Argument	2.
+Argument	The lower Appellate <ORG>'s view that no appeal lay to it is correct and we dismiss this second appeal with costs.

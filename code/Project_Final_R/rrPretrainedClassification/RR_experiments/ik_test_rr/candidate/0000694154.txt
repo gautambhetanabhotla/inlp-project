@@ -1,0 +1,30 @@
+Fact	PETITIONER: <ORG>.
+RulingByLowerCourt	Vs. RESPONDENT: <NAME> & ORS.
+RulingByLowerCourt	DATE OF JUDGMENT: 11/11/1997 BENCH: <NAME>, <NAME> ACT: HEADNOTE: JUDGMENT:  THE 11TH DAY OF NOVEMBER, 1997 Present:  Hon'ble Mr.Justice <NAME> Mr.Justice <NAME>, <NAME>, <NAME>, Ms. <NAME> and <NAME>, Advs.
+RulingByLowerCourt	for the appellant O R D E R The following order of the <ORG> was delivered: Learned counsel for the petitioner referred us to a decision of a Bench of two learned judges of this <ORG> in the case of <CITATION_732712> .
+RulingByLowerCourt	reported in  which has been later followed by Bench of three learned Judges in the case of <ORG> & <NAME> & Ors.
+Fact	reported in .
+Argument	In our view, these are the cases where the management held defective inquiry and before <ORG> or <ORG> the defect was sought to be removed by leading evidence and ultimately of the <ORG> seized of a reference under Section 10 of the Industri al Disputes Act agreed with the management on the new evidence led before it, the question of relation back of the order of the <ORG> or <ORG> to the original order of termination would assume importance.
+Argument	But in cases where no domestic inquiry is held at all, as in the present case, in our view the aforesaid decision not apply.
+Argument	Learned counsel is very sanguine when be contends that the decision of <ORG> in the case of <CITATION_794955> reported in (1964) 2 SCR 104 squarely applies to the facts of the present case also and for that purpose he submits that the observation in <ORG> judgment regarding <CITATION_544869> .
+Argument	reported in (1959) Supp.
+Argument	2 SCR 836 would not apply in connection with the termination orders passed without domestic inquiry and that ratio of <ORG> admittedly enquiry was held by the management before terminating the services of the employee.
+RatioOfTheDecision	In our view, these observations in <NAME>'s case were rendered in connection with  proceeding for approval of the management's action under Section 33(2) of the Industrial Disputes Act, 1947.
+RatioOfTheDecision	Even <ORG> case also pertains to a proceeding under Section 33(1) of the I.D.
+RatioOfTheDecision	Act for permission.
+RatioOfTheDecision	Therefore, the observations of <ORG> in <NAME>'s case in connection with <ORG> case which is under Section 33(1) of the Act will require a closer scrutiny in so far as they are to be applied to a proceeding arising out of a reference under Section 10 or 10- A of the Industrial Disputes Act which would stand on a different footing.
+RatioOfTheDecision	The moot question would arise whether the ratio of <ORG> judgment in <NAME>'s case would almost automatically apply to such cases apart from the cases arising under Section 33 of the I.D.
+RatioOfTheDecision	Act.
+RatioOfTheDecision	We may, in this connection, mention that the decision of the three Judge Bench of this Court in <CITATION_609478> .
+RatioOfTheDecision	reported in  wherein <NAME>, J., spoke for the majority, was an authority on the question of lead ing evidence before <ORG> in proceedings under Section 10-A of the act and on the question of relation back of ultimate penalty order passed by the arbitrator on the basis of evidence led by the management for justification of its action before such tribunal.
+RatioOfTheDecision	Therefore, the question would arise whether the ratio of this decision would still apply to a case where the proceedings relate to Section 10 or 10 A of the Act apart from Section 33 of the act.
+RatioOfTheDecision	The latter decisions of this Court have applied the ratio of the decision in <NAME>'s case to matters arising under Section 10 and 10-A of the Act.
+RatioOfTheDecision	In our view, therefore, the dispute in the present proceedings could be better resolved by <ORG> of this Court which can consider the scope and ambit of the decision of the earlier <ORG> judgment in <NAME>'s case which has been the sheet- anchor of the subsequent cases referred to earlier on which a strong reliance has been placed by learned counsel for the petitioner and w hich had nothing to do with proceedings under Section 33 of the Act.
+RulingByPresentCourt	The latter decision of this Court will also.
+RulingByPresentCourt	therefore, require a re-look.
+RulingByPresentCourt	Leave granted.
+RulingByPresentCourt	The appeals will now be placed for final disposal before <ORG> of this Court pursuant to the present order.
+RulingByPresentCourt	Printing dispensed with.
+RulingByPresentCourt	All the relevant documents are permitted to be filled by the parties concerned.
+RulingByPresentCourt	Notice to issue on the prayer for interim relief.
+RulingByPresentCourt	There will be ad interim stay of the order of <ORG> of <ORG> to the extent of 50% of the back wages.

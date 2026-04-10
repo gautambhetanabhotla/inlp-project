@@ -1,0 +1,73 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	(1) By this order I propose to dispose of I.
+Fact	A.
+Fact	No.
+Fact	177 of 1987 filed by the plaintiff under Order 12 rule 6 read with Section 151 Civil Procedure Code.
+Fact	with a request that in so far as the defendant has made an admission in a letter dated 25th August, 1985 that a sum of Rs.
+Fact	5,98,0001- was due to the plaintiff from the defendant a decree be (2) The contention of the plaintiff is that defendant No.
+Fact	1 firm has been maintaining its accounts and a letter dated 25th August, 1985 now Ex.
+Fact	P. 4 was written by defendant No.
+Argument	1 to the plaintiff requesting the plaintiff to transfer the then existing outstanding loan against the defendant along with interest to the defendants 'Working Capital Term Loan' Account.
+Argument	It is further submitted by the plaintiff that along therewith the defendant had submitted a balance sheet as on 31st March, 1985 and in the said balance sheet the defendant had admitted that a sum of Rs.
+Argument	5,98,0001- was due as on that date to the plaintiff from the defendant and as such  it is submitted that in view of the said admission a decree for this amount be passed in favor of the plaintiff and against the defendant without waiting for the determination of any other question between the parties.
+Argument	(3) The contention of the learned counsel for the defendants is that there are as many as five defendants and all of them are contesting the suit on various grounds both legal and factual and the defendants have raised as many as five preliminary objections as well in their written statement.
+Argument	It is also urged that the plaintiff was placing wrong construction on Ex.
+Argument	P. 4 which otherwise is admitted to have been written by defendant No.
+Argument	1 to the plaintiff.
+Argument	It has further been submitted by the defendants that the said letter has not been signed, or written by all the defendants and the balance sheet referred to therein is wrong, vague, ambiguous and denied and in these circumstances it has been submitted that the application should be dismissed.
+Argument	(4) A perusal of letter Ex.
+RatioOfTheDecision	P. 4 shows that this  letter as such does not contain any admission whatsoever.
+RatioOfTheDecision	There is nothing to suggest in this letter that any of the defendant has made any admission of the claim of the plaintiff.
+RatioOfTheDecision	However, when this letter is considered with reference to a balance sheet and profit & loss account referred to therein, then it can be said that the defendant has made the request referred to above to the plaintiff but would that by itself be enough to accept that the defendant has made admission of the claim of the plaintiff ?
+RatioOfTheDecision	In this behalf it would be necessary to refer to the copy of the balance sheet and profit and loss account which have been placed on record along with letter Ex.
+RatioOfTheDecision	P. 4.
+Fact	In the said "provisional balance sheet as on 31-3-1985" a sum of Rs.
+Fact	5,98,367.01 has been shown as secured loan in favor of <ORG> against the defendant.
+Fact	The question is whether this is sufficient admission within the meaning of Order 12 rule 6 Civil Procedure Code so as to entitle the plaintiff to get a decree straightaway.
+Fact	(5)  In this suit issues have already been framed and as many as seven issues have been framed and the said issues are as follows :-  "1.
+Fact	Whether the plaint has been signed and verified and the suit has been filed by a duly authorised person ?
+RulingByLowerCourt	2.
+Fact	Whether the suit is not maintainable against defendants 1, 3 and 5, as alleged in the preliminary objection No.
+Fact	1 ?
+Fact	3.
+Fact	Whether the plaintiff obtained the signatures of defendants 2 and 4 on blank forms and papers ?
+Fact	If so, to what effect ?
+RatioOfTheDecision	4.
+Fact	Whether the plaintiff is entitled to recover interest ?
+Fact	If so, at what rate ?
+Fact	5.
+Fact	Whether the defendant No.
+Fact	1 is a small scale industry ?
+Fact	If so, to what effect ?
+Fact	6.
+Fact	Whether the plaintiff is entitled to claim compound interest and at the rate claimed by it ?
+Argument	7.
+Argument	Relief."
+Argument	When we consider the defenses raised by the defendant it would be difficult to say that a case has been made out by the plaintiff for passing of a decree for the sum of Rs.
+Argument	5,98,000.00 against the defendants at this stage because it is yet to be decided as to whe ther the plaint has been signed and verified by a duly authorised person.
+RatioOfTheDecision	It is yet to be determined if the suit has been filed by a duly authorised person.
+RatioOfTheDecision	Likewise it is to be considered whether the suit is not maintainable against defendants 1, 3 and 5.
+RatioOfTheDecision	Last but not the least it is also to be decided that the plaintiff has obtained the signatures of defendants 2 and 4 on blank forms and papers.
+RatioOfTheDecision	It is in the light of these facts that this application has to be disposed of.
+RatioOfTheDecision	(6) Having noted these facts of this case it would be appropriate to refer to Order 12 rule 6 Civil Procedure Code.
+Statute	which lays down as under :-  "6(1) Where admissions of fact have been made either in the pleading or otherwise, whether orally or in writing, the court may at any stage of the suit, either on the application of any party or of its own motion and without waiting for the determination of any other question between the parties, make such order or give such judgment as it may think fit, having regard to such admissions.
+Statute	(2) Wh enever a judgment is pronounced under sub-rule (1), a decree shall be drawn up in accordance with the judgment and the decree shall bear the date on which the judgment was pronounced".
+RatioOfTheDecision	There is no doubt that Rule 6 of Order 12 has been couched in a very wide language.
+RatioOfTheDecision	However, before a court can act under Rule 6, admission must be clear, unambiguous, unconditional and unequivocal.
+RatioOfTheDecision	Furthermore a judgment on admission by the defendant under Order 12 rule 6 Civil Procedure Code is not a matter of right and rather is a matter of discretion of the court, no doubt such discretion has to be judicially exercised.
+RatioOfTheDecision	If a case involves questions which cannot be conveniently disposed of or a motion under this rule the court is free to refuse exercising discretion in favor of the party invoking it.
+RatioOfTheDecision	It is not in each case where Order 12 rule 6 Civil Procedure Code is invoked that the court 528 would be obliged to pass a decree which case would depend upon its own peculiar facts.
+RatioOfTheDecision	Where the defendants have raised objections  which go to the very root of the case, it would not be proper to exercise this discretion and pass a decree in favor of the plaintiff.
+RatioOfTheDecision	The purpose of Order 12 rule 6 Civil Procedure Code is to avoid waiting by the plaintiff for part of the decree when there is a clear, unequivocal, unambiguous and unconditional admission of the defendant in respect of the claim of the defendant.
+RatioOfTheDecision	The rule only secures that if there is no dispute between the parties, and if there is on the pleadings or otherwise such an admission as to make it plain that the plaintiff is entitled to a particular order or judgment he should be able to obtain it at once to the extent of admission.
+RatioOfTheDecision	But the rule is not intended to apply where there are serious questions of law to be asked and determined.
+RatioOfTheDecision	Likewise where specific issues have been raised in spite of admission on the part of the defendants the plaintiff would be bound to lead evidence on those issues and prove the same before he becomes entitled to decree and the plaintiff in that even t cannot have a decree by virtue of provision of Order 12 rule 6 Civil Procedure Code without proving those issues.
+Argument	(7) It was held by <ORG> of the Calcutta High <ORG> in <CITATION_1100738> bux, Air 1918 Calcutta 467 (1) that :-  "A judgment on admission by the defendant under Order 12 rule 6, is not a matter of right ; it is in the discretion of the <ORG> ; so that if a case involves question which cannot be conveniently disposed of on a motion under the rule, the <ORG> may, in the exercise of its discretion, refuse the motion.
+Argument	The discretion is judicial and an erroneous exercise thereof may be open to correction by a court of appeal which, however, on well established principles, will be slow to interfere, unless either of the parties has been manifestly and unfairly prejudiced."
+Argument	(8) It was similarly held by <ORG> of Jammu & Kashmir High <ORG> in Union of India vs. <ORG> and Co. Air 1962 J&K 66 (2) that :-  "A judgment on admission under Order 12 rule 6 is a matter of discretio n and not a matter of right and the court would not entertain an application for such judgment when the case involves questions which cannot be conveniently dealt with in a motion under the rule.
+RatioOfTheDecision	In order that a judgment may be obtained under Order 12 rule 6 the admission must be unconditional, clear and unequivocal".
+RatioOfTheDecision	(9) In the case in hand not only admission is not unequivocal but further also the defendants have raised certain preliminary pleas which must be decided before the plaintiff can be held to be entitled to a decree.
+RatioOfTheDecision	The preliminary objections raised by the defendants in this case go to the very root of the suit and are likely to non-suit the plaintiff if these were found against the plaintiff.
+RatioOfTheDecision	Keeping in view of all these facts, I do not think that a case has been made out under Order 12 rule 6 Civil Procedure Code .
+Argument	for passing a decree in favor of the plaintiff for the sum of Rs.
+Argument	5,98,000.00 and as such I find no merit in this application and this application is liable to be dismissed and is d ismissed.

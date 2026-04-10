@@ -1,0 +1,181 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This was a second appeal from a decision of the District Judge of Shahabad dated the 7th March, 1923 modifying a judgment of the Subordinate Judge of the same place dated the 18th February, 1922.
+Fact	The facts in this case were somewhat complicated; but it is unnecessary to refer to them in any great detail as there has been argued before us but one point at the hearing of this appeal.
+Fact	It is sufficient to state that the plaintiffs (who are here the appellants) were the mortgagees of certain property from defendants Nos.
+Fact	I and 4.
+Fact	These mortgages were effected by five deeds.
+Fact	In addition to these five mortgages there were also three other mortgages of which the plaintiffs were not the direct mortgagees but assignees from those who were the original mortgagees.
+Fact	It is only with the five transactions in which the plaintiffs, were the direct mortgagees that we are in this appeal at all concerned.
+Fact	The plaintiffs brought their suit to enforce the mortgages and in addition to joining the mort gagors they also joined certain persons, who were defendants Nos.
+Fact	8 to 13 who had bought from the mortgagors the equities of redemption of the properties hypothecated by virtue of the five mortgage-deeds referred to above.
+Fact	In the trial Court the plaintiffs succeeded in obtaining a personal decree not only against the mortgagors but also against the purchasers of the equities of redemption.
+Fact	But on appeal the learned District Judge came to the conclusion that the decree, so far as it related to relief against these purchasers of the equities of redemption, could not be in law upheld.
+RatioOfTheDecision	He, therefore, set aside that portion of the judgment of the Subordinate Judge and it is from that part of the decision of the District Judge that this appeal has now been brought before us.
+RatioOfTheDecision	2.
+RatioOfTheDecision	The simple point therefore, for consideration is whether the plaintiffs could obtain a money-decree against the purchasers of the equities of redemption.
+RatioOfTheDecision	It must first be pointed out that in the instruments under which the purchasers of the  equities of redemption so purchased, they (the purchasers), stipulated that they would pay off the debts due under the mortgages.
+RatioOfTheDecision	It is common ground that they did not do so.
+RatioOfTheDecision	It is also common ground that the plaintiffs had no notice of what had taken place between the mortgagors and the purchasers of the equities of redemption and were not privy to the contract.
+RatioOfTheDecision	It if important to observe that some support was lent to the argument which was put forward before us by the learned Advocate who has appeared for the plaintiffs by the rulings in the case of <CITATION_1916066> 36 Ind.
+Precedent	Cas.
+Precedent	792 : 22 C.W.N.
+Precedent	279 : 27 C.L.J.
+Precedent	483.
+Precedent	In that case the facts were certainly very similar to those which obtain in this appeal now before us.
+Argument	The defendants had borrowed a sum of money from the plaintiff for which they had given a promissory note; they subsequently transferred their property to another party who executed an agreement in their favour expressly undertaking to pay to the lender of the money under the promissory note h is dues thereunder.
+Argument	The lender of the money under the promissory note was no party to this contract and had no notice thereof; but, having ascertained the circumstances, he proceeded to sue the borrowers as well as the individual who had purchased the borrowers' property.
+Argument	He claimed that, in view of the agreement entered into between the borrowers and the purchasers of the borrowers' property, he (the lender) was entitled to take advantage of that agreement.
+Argument	<NAME> and <NAME>, JJ., of <ORG> held that the plaintiff was entitled to enforce his claim against the purchaser of the borrowers' property.
+Argument	3.
+RatioOfTheDecision	Had the matter rested there, one might have thought that this case would constitute an authority in favour of the proposition argued in the present instance.
+RatioOfTheDecision	There are also other cases which have been quoted by the learned Advocate for the appellant which, certainly at first sight appear to support to some extent the learned Advocate's argument.
+Precedent	In the case of <CITATION_1020411> 7 Ind Cas.
+Fact	23 7 : 32 A.
+Fact	410 : 14 C.W.N.
+Fact	865 : 7 A.L.J.
+Fact	871 : (1910) : M.W.N.
+Fact	313 : 8 M.L.T.
+Fact	147 : 12 C.L.J.
+Fact	205 : 12 Bom.
+Fact	L.R.
+Fact	638 : 20 M.L.J.
+Fact	914 : 37 I.A.
+Fact	152 (P.C.)
+Fact	their Lordships of <ORG> held that under certain circumstances (to which I shall refer presently) it was possible for a person who was no party to an agreement to take advantage of the provisions of such an agreement which were in fact beneficial to herself.
+Fact	Their Lordships' decision (which was given by the "Right Hon'ble Mr. <NAME> relates the facts at some length.
+Fact	Put very shortly, they were as follows.
+Fact	A minor Muhammadan lady, prior to and in consideration of her marriage with the son of the defend, ant in the suit, was promised by the defendant under an agreement executed between the defendant and the lady's <NAME> to be-paid by the defendant the sum of Rs.
+Fact	500 per mensem from the date of her reception in marriage; the defendant also charged certain specified properties for the purpose of producing the requisite funds.
+Fact	The lady, as I have  stated, was a minor; but, eventually, after the marriage, lived with her <NAME> for sometime; owing, however, to disagreement she, at the end of some 12 of 13 years ceased so to do.
+Fact	The defendant then refused to continue to pay the allowance and the lady accordingly brought the suit against him basing her claim upon the document of agreement which had been entered into between the defendant and her (the plaintiff's) <NAME>.
+Fact	It was maintained on behalf of the defence on the line of reasoning adopted in the well-known English case <NAME> v. <NAME> (1861) 1 B.
+Fact	& S. 393 : 30 L.J.Q.B.
+Fact	265 : 8 Jur.
+Fact	(N.S.)
+Fact	332 : 4 L.T.
+Fact	468 : 9 W.R. 781 : 121 E.R.
+Fact	762 : 124 R.R.
+Fact	610, that as the plaintiff was in no way an actual party to the agreement, made between her <NAME> and the defendant, she had no locus standi and was unable to sue thereunder.
+Fact	Mr. <NAME>, however, pointed out that the case of <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.Q.B.
+Precedent	265 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 124 R. R. 610, was one decided under the Common Law of England and was not in their Lordships' opinion applicable to the facts which were disclosed in the case before their Lordships.
+RatioOfTheDecision	Their Lordships were of opinion that although no party to the agreement (and it must be remembered that the lady was then a minor and the document was executed by her <NAME>) she was clearly in equity entitled to enforce her claim against the defendant.
+RatioOfTheDecision	The case, however, appears to me to be distinguishable from the present case in view of the fact that the benefit which was to accrue to the plaintiff was one for which the consideration was the marriage to take place between herself and the defendant's son.
+Precedent	Then there is another case which was cited on behalf of the plaintiffs: <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603.
+Precedent	In that case <NAME>, <NAME>, and <NAME>, J., held that where the transferee of a debtor's liability acknowledged in the provisions of the registered instrument wh ich conveyed to him all the original debtor's properties, his obligation Lo the creditor for the debt to be paid by him and where the acknowledgment was communicated to the creditor and accepted by him, the creditor could sue the transferee on the registered instrument.
+Precedent	Here again their Lordships based their decision upon the equitable principle which had operated upon the minds of their Lordships of <ORG> in the case which I have just quoted.
+Precedent	Here in this case of <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Fact	630 : 41 C. 137 : 17 C.W.N.
+Fact	1143 : 18 C.L.J.
+RatioOfTheDecision	603 it may indeed be said that the facts disclosed that the creditor was actually privy to and concerned in the transaction which took place between the transferee and the debtor.
+Argument	In fact in the judgment of <NAME>, C.J.
+Argument	it is expressly stated that there was an arrangement between the plaintiff and defendant No.
+Argument	5 by which the liability of defendant No.
+Argument	5 under the transfer was acknowledged and accepted and it may also be observed that (althoug h under the mistaken idea of their true legal effect) certain title deeds were actually handed over at that time by the purchaser to the plaintiff.
+Precedent	Although therefore, the last two cases quoted seem to be based upon considerations some what different from those which have to be regarded in the present appeal, there is no doubt, as I have said before, that the case reported as <CITATION_1916066> 36 Ind.
+Precedent	Cas.
+Precedent	792 : 22 C.W.N.
+Precedent	279 : 27 C.L.J.
+Precedent	483 does constitute some authority to support the argument which has been addressed to us by the learned Advocate who has appeared for the appellants.
+Precedent	There are, however, on the other hand two: cases which appear to be conclusive authority upon the point which has been argued, in this appeal.
+Precedent	The first of these, is <CITATION_1129356> 13 Ind.
+Precedent	Cas 304 : 34 A.
+Precedent	63 : 16 C.W.N.
+Precedent	97 : 11 M.L.T.
+Precedent	6 : 9 A.L.J.
+Precedent	37 : (1912) M.W.N.
+Precedent	32 : 15 C.L.J.
+Precedent	68 : 14 Bom.
+Precedent	L.R.
+Precedent	1 : 21 M. L.J.
+Precedent	1151 : 391.
+Precedent	A.
+Precedent	7 (P.C.).
+Precedent	It is a decision of their Lordships of <ORG> and although the facts are no t set out, at any great length in the report they can be found fully reported as <CITATION_1129356> 2 Ind.
+Precedent	Cas.
+Precedent	460 : 31 A.
+Precedent	352 : 6 A.L.J.
+Precedent	427.
+Precedent	It will be seen, from a perusal of the facts as given in that report, that the circumstances, were almost, the same as those which obtain in, the present appeal.
+Precedent	The judgment of their Lordships of the Privy Council delivered by Lord <NAME> is very short and very much in point here.
+Precedent	His Lordship observes: "This is a perfectly plain case.
+Precedent	The action is brought by a mortgagee to enforce against purchaser of the mortgaged property, an undertaking that he entered into with his vendor."
+RatioOfTheDecision	4.
+RatioOfTheDecision	I may pause here to observe that the undertaking referred to was to the effect that the purchaser would pay off the debt due to the mortgagee by the person from whom the purchaser had-purchased the property.
+RatioOfTheDecision	His Lordship continues: "The mortgagee has no right to avail himself of that.
+RatioOfTheDecision	He was no party to the sale.
+Precedent	The purchaser entered into no contract with him, and the purchaser is n ot personally bound to pay his mortgage debt."
+Precedent	5.
+Precedent	There is still a later case in which the same proposition has been similarly set forth in another decision of their Lordships of <ORG>.
+Precedent	In that case, <NAME> v. <NAME> 95 Ind.
+Precedent	Cas.
+Precedent	970 : 3 P.L.T.
+Precedent	637 : SS C.W.N.
+Fact	771 : A.I.R.
+Fact	1923 P.C.
+Fact	54 (P.C.)
+Fact	the facts again are in that report but very.
+Fact	shortly set out.
+Fact	We have had the advantage, however, of seeing what, the facts were from the record of this <ORG>, the case having been tried on appeal on the 7th June 1918 before <NAME> and <NAME>, JJ.
+Fact	The facts were substantially identical with those which exists in the present appeal; A mortgagor having executed a mortgage in favour of the plaintiff sold the property to a third party who, in the recitals of this sale-deed agreed to pay off the mortgage with a provision of the purchase-money which, was; for that purpose left in his hands.
+Fact	The mortgagee sued upon his mortgage, not only the mortgagor but also the purchaser; but this <ORG> refu sed to grant any personal decree against the purchaser, holding that he (the mortgagee) could not avail himself of the stipulation made in the contract between the purchaser and the mortgagor.
+RatioOfTheDecision	Their Lordships of <ORG> uphold the decision of this Court, Lord <NAME> in a very short judgment stating.
+RatioOfTheDecision	"Their Lordships have considered this case, and they think it is clear that no personal liability was incurred by the purchasers of the equity of redemption.
+Precedent	Their Lordships, therefore, think that the decree of <ORG> was right and that the point made by the appellant fails."
+Precedent	It may be observed that in the judgment given by this Court our the 7th June 1918, the cases to which I have-referred above were mentioned and quoted.
+Precedent	6.
+Precedent	It seems, therefore, that we are clearly bound by the authority of these two decisions of <ORG> which are so directly in point.
+Precedent	7.
+RulingByPresentCourt	The appeal, therefore, must be dismissed with costs.
+RatioOfTheDecision	I should mention that there was a cross-objection which, however, is not p ressed and has not been argued and that cross-objection also must be dismissed with costs.
+RatioOfTheDecision	8.
+Fact	It is said by the learned Advocate who has appeared for the appellants (and it may be mentioned that the question is referred to in ground No.
+Fact	7 of the appellants' grounds of appeal to this Court) that there has been some arithmetical or other mistake with regard to the amount of costs which have been awarded to the defendants Nos.
+Precedent	8 to 13.
+Precedent	It was suggested that, as this question had been made a ground of appeal it might be dealt with in this Court.
+Precedent	We have, however, no materials whatever before us which would enable us to discuss or consider this point.
+Precedent	If there has been any mistake in regard to the quantum of costs, that matter should be referred to and dealt with by the lower <ORG>.
+Precedent	<NAME>, J.
+Precedent	9.
+Precedent	I agree.
+Precedent	The difference between the case quoted in <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 and the last cases quoted by my learned brother from 34 Ali.
+Precedent	63 and 3 Pat.
+Precedent	L.T.
+Precedent	637 appears to me to be very important in connection with the facts of the present case.
+RatioOfTheDecision	It is to be borne in mind that in the present case there was no notice to the plaintiff at the time of the contract.
+RatioOfTheDecision	In the judgment of <ORG>, we see that the promisee that is to say, the plaintiff, had a proposal made to him by the promisor, that is to say, defendant No.
+RatioOfTheDecision	5, and he accepted it.
+RatioOfTheDecision	So in that case the promisee was in the position indicated in Section 2 of the Indian Contract Act.
+RatioOfTheDecision	He held the benefit of a contract for consideration.
+RatioOfTheDecision	In the present case the plaintiff, who claims to be the promisee, has never had a proposal made to him by the defendants against whom he is seeking a money-decree and he certainly never accepted any such proposal.
+RatioOfTheDecision	Therefore, Section 2 does not bring him into the position of a person who can sue a promisor upon a contract or for consideration.
+RatioOfTheDecision	That is the distinction between the two classes of cases, and I think the present case falls within the class indic ated in the <ORG> cases which have been quoted.
+RatioOfTheDecision	There may be a third class of cases in the judgments which, we have been studying, namely, the class in which minors or other third parties sue under family or marriage settlements.
+RatioOfTheDecision	In such cases as those, the plaintiff can hardly be regarded as a promisee who has accepted any proposal or promise, and such casesare probably decided on the traditional principles governing <ORG> rather than by any application of the terms of Section 2 of the Indian Contract, Act.
+RatioOfTheDecision	If I am correct, this third class would, I think, be exemplified by the case of <NAME> v. <NAME> 7 Ind Cas.
+Fact	237 : 32 A.
+Fact	410 : 14 C.W.N.
+Fact	865 : 7 A.L.J.
+Fact	871 : (1910) : M.W.N.
+Fact	313 : 8 M.L.T.
+Fact	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	914 : 37 I.A.
+Precedent	152 (P.C.
+Precedent	).

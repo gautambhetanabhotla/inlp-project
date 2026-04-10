@@ -1,0 +1,15 @@
+Fact	<NAME>, Member (T)  1.
+Fact	Heard both sides in these applications.
+Fact	By the impugned order, the Commissioner of Central Excise (Appeals) has rejected the appeals filed before him and confirmed anti dumping duty of Rs.
+Fact	30,23,361/-.
+Fact	Pursuant to a Notification 143/03-Cus levying anti dumping duty retrospectively which resulted in difference in duty demands now being confirmed.
+Fact	It appears that on Butanol imported from Singapore on which no anti dumping duty was levied and collected from the appellants as on the date of import, in each case, no anti dumping duty was in force as Notification 90/02-cus dated 4.3.2003 by which provisional anti dumping duty on import on normal Butanol into India/specific country including Singapore was imposed, this was not extended after 5.3.2003.
+RulingByLowerCourt	This notification no 143/03/Cus dtd 1/10/03 provided for retrospective application of the duty as imposed by notification 90/02-Cus 5.9.2002.
+RulingByLowerCourt	A clarification was issued on 8.9.04 by <ORG> that in the above circumstan ces, no anti dumping duty could be imposed.
+RulingByLowerCourt	The <ORG> has also been constantly holding that anti dumping duty are not leviable when imports were made after expiry of a notification by which levy was brought which was noted by the Commissioner of Central Excise (Appeals) in his stay order dated 29.7.2005.
+RulingByLowerCourt	On an identical issued, by this <ORG>'s Bangalore Bench on 28.7.2005 in the case of <ORG> v. <ORG> and <ORG> have held in favour of the assessee.
+RulingByLowerCourt	Nothing contrary has been shown.
+RulingByLowerCourt	Therefore, the applicants have made out a strong prima facie case and balance of convenience in their favour as the imports in this case are after 4.3.2003, when there was no valid notification provisional or otherwise in force which calls for levy of Anti dumping duty since Notification 90/02 had expired on 5/3/03.
+RulingByLowerCourt	In this view of the matter, we would find that waiver of pre deposit requirements in these applications made by this applicant and on other applications herein are to be allowed.
+RulingByLowerCourt	Therefore we order  full waiver of the pre deposit requirement under Section 129E of the Customs Act, 1962 and stay of recovery thereof pending these appeals.
+Fact	(Pronounced in Court on 27/1/2006)

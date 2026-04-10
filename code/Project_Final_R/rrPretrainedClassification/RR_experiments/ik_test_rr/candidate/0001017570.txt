@@ -1,0 +1,59 @@
+Fact	PETITIONER: <ORG>.
+Fact	Vs. RESPONDENT: COMMISSIONER OF INCOME-TAX, KERALA STATE DATE OF JUDGMENT: 10/02/2000 BENCH: <NAME> JUDGMENT:  <NAME>, J.
+Fact	The unsuccessful assessee is the appellant in this appeal, by special leave, which arises from the Judgment and Order of the Division Bench of <ORG> of Kerala in I.T.R.No.15 of 1990 passed on October 22, 1991.
+Fact	By the impugned order <ORG> answered the following two questions, referred to it at the instance of the appellant, in the affirmative that is against the appellant and in favour of the Revenue:- (1) Whether, on the facts and in the circumstances of the case, that <ORG> was justified in holding that there was evidence before the Commissioner of Income-tax that the assessment order was erroneous and prejudicial to revenue?
+Fact	(2) Whether, on the facts and in the circumstances of the case, the <ORG> was justified in holding that Rs.3,66,649 was a taxable receipt for the assessme nt year 1983-84?
+Fact	The facts giving rise to these questions may be noticed here.
+Fact	The case relates to the assessment year 1983-84 for which the accounting period of the appellant ended on February 28, 1983.
+Fact	The appellant is a public limited company.
+Fact	It entered into an agreement for sale of the estate of rubber plantation measuring acres 699 of land for consideration of Rs.210 lakhs with <ORG> (for short the purchaser) on July 18, 1982.
+Fact	The Agreement provided, inter alia, for payment of the consideration in instalments as scheduled therein.
+Fact	However, the purchaser could not adhere to the schedule and on his request the parties agreed to extension of time for payment of the instalments on condition of his paying compensation/damages for loss of agricultural income and other liabilities in a sum of Rs.3,66,649.
+Fact	Accordingly, the appellant passed a resolution also to that effect on September 25, 1983 and the purchaser paid the said amount.
+Fact	In the annexure to the return filed by it for the assessmen t in question the amount was noted as compensation and damages for loss of agricultural income.
+Fact	By Order dated October 31, 1985, the Income-tax Officer accepted the same and endorsed nil assessment for that year.
+Fact	The Commissioner of Income-tax having examined the records of the assessment found that the nil assessment order passed by the Income-tax Officer was erroneous and it was prejudicial to the interests of the revenue.
+Fact	He issued notice to the appellant, under Section 263 of the Income Tax Act (for short the Act), to show cause why the order of assessment should not be set aside and Rs.3,66,649 should not be assessed under the head income from other sources.
+Fact	After the appellant filed its reply the Commissioner, by order dated February 8/9, 1988, concluded that the said amount was unconnected with any agricultural operation activity and was liable to be taxed under the head income from other sources.
+Fact	Dissatisfied with the Order of the Commissioner, the appellant filed an appeal before <ORG> late Tribunal, which was dismissed on August 5, 1988.
+Fact	On the application of the appellant under Section 256(1) of the Act, the aforementioned questions were referred to <ORG> at Ernakulam.
+Argument	Mr. <NAME>, learned counsel for the appellant, urged the very same two contentions which were argued before <ORG>, namely,  (i) that the exercise of jurisdiction by the Commissioner under Section 263(1) of the Act was not only unwarranted but also illegal; he contended that mere loss of tax could not be treated as prejudicial to the interests of the revenue and that only when the order of the Assessing Officer would affect the administration of the revenue that it could be treated as prejudicial to the revenue; (ii) that the amount of Rs.3,66,649 was in reality agricultural income and, therefore, ought not to have been brought to tax.
+Argument	Mr. <NAME>, learned senior counsel for the respondent, asserted that the Income-tax Officer passed the order without application of mind and inasm uch as it resulted in loss of tax it was also prejudicial to the interests of the revenue, therefore, the exercise of jurisdiction under Section 263(1) of the Act by the Commissioner was justified and legal.
+Argument	He further submitted that the second contention was not open to the appellant as the basic facts found by <ORG> were not questioned before <ORG>.
+Argument	To consider the first contention, it will be apt to quote Section 263(1) which is relevant for our purpose:- 263.
+Statute	Revision of orders prejudicial to revenue - (1) The Commissioner may call for and examine the record of any proceeding under this Act, and if he considers that any order passed therein by the Assessing Officer is erroneous insofar as it is prejudicial to the interests of the revenue, he may, after giving the assessee an opportunity of being heard and after making or causing to be made such inquiry as he deems necessary, pass such order thereon as the circumstances of the case justify, including an order enhancing or modifyin g the assessment, or cancelling the assessment and directing a fresh assessment.
+RatioOfTheDecision	Explanation - x x x A bare reading of this provision makes it clear that the prerequisite to exercise of jurisdiction by the Commissioner suo moto under it, is that the order of the Income-tax Officer is erroneous insofar as it is prejudicial to the interests of the revenue.
+RatioOfTheDecision	The Commissioner has to be satisfied of twin conditions, namely, (i).
+RatioOfTheDecision	the order of the Assessing Officer sought to be revised is erroneous; and  (ii) it is prejudicial to the interests of the revenue.
+RatioOfTheDecision	If one of them is absent -- if the order of the Income-tax Officer is erroneous but is not prejudicial to the revenue or if it is not erroneous but is prejudicial to the revenue  -- recourse cannot be had to Section 263(1) of the Act.
+RatioOfTheDecision	There can be no doubt that the provision cannot be invoked to correct each and every type of mistake or error committed by the Assessing Officer; it is only when an order is erroneous that the section will be attracted.
+RatioOfTheDecision	An incorre ct assumption of facts or an incorrect application of law will satisfy the requirement of the order being erroneous.
+RatioOfTheDecision	In the same category fall orders passed without applying the principles of natural justice or without application of mind.
+RatioOfTheDecision	The phrase prejudicial to the interests of the revenue is not an expression of art and is not defined in the Act.
+RatioOfTheDecision	Understood in its ordinary meaning it is of wide import and is not confined to loss of tax.
+RatioOfTheDecision	<ORG> in <ORG> Vs. <NAME> and Another [31 ITR 872], <ORG> in Commissioner of Income- tax, Mysore Vs. <NAME> [98 ITR 422], <ORG> in Commissioner of Income-tax Vs. <ORG> [203 ITR 108] and <ORG> in Commissioner of Income-tax Vs. Smt.
+RatioOfTheDecision	<NAME> [215 ITR 81] treated loss of tax as prejudicial to the interests of the revenue.
+Argument	Mr. <NAME> relied on the judgment of the <ORG> of <ORG> in <ORG> Vs. Com missioner of Income-tax [163 ITR 129] interpreting prejudicial to the interests of the revenue.
+Argument	<ORG> held, In this context, it must be regarded as involving a conception of acts or orders which are subversive of the administration of revenue.
+Argument	There must be some grievous error in the Order passed by the Income-tax Officer, which might set a bad trend or pattern for similar assessments, which on a broad reckoning, the Commissioner might think to be prejudicial to the interests of <ORG>.
+RatioOfTheDecision	In our view this interpretation is too narrow to merit acceptance.
+RatioOfTheDecision	The scheme of the Act is to levy and collect tax in accordance with the provisions of the Act and this task is entrusted to the <ORG>.
+RatioOfTheDecision	If due to an erroneous order of the Income-tax Officer, the revenue is losing tax lawfully payable by a person, it will certainly be prejudicial to the interests of the revenue.
+RatioOfTheDecision	The phrase prejudicial to the interests of the revenue has to be read in conjunction with an erroneous order passed by the As sessing Officer.
+RatioOfTheDecision	Every loss of revenue as a consequence of an order of Assessing Officer cannot be treated as prejudicial to the interests of the revenue, for example, when an Income-tax Officer adopted one of the courses permissible in law and it has resulted in loss of revenue; or where two views are possible and the Income-tax Officer has taken one view with which the Commissioner does not agree, it cannot be treated as an erroneous order prejudicial to the interests of the revenue unless the view taken by the Income-tax Officer is unsustainable in law.
+RatioOfTheDecision	It has been held by this Court that where a sum not earned by a person is assessed as income in his hands on his so offering, the order passed by the Assessing Officer accepting the same as such will be erroneous and prejudicial to the interests of the revenue.
+Precedent	<NAME> Vs. Commissioner of Income-tax [67 ITR 84] and in Smt.
+Precedent	<NAME> Vs. Commissioner of Income-tax, West Bengal [88 ITR 323].
+Argument	In the instant case, the Commissioner noted t hat the Income-tax Officer passed the order of nil assessment without application of mind.
+Argument	Indeed, <ORG> recorded the finding that the Income-tax Officer failed to apply his mind to the case in all perspective and the order passed by him was erroneous.
+Argument	It appears that the resolution passed by the board of the appellant- company was not placed before the Assessing Officer.
+Argument	Thus, there was no material to support the claim of the appellant that the said amount represented compensation for loss of agricultural income.
+RatioOfTheDecision	He accepted the entry in the statement of the account filed by the appellant in the absence of any supporting material and without making any inquiry.
+RatioOfTheDecision	On these facts the conclusion that the order of the Income-tax Officer was erroneous is irresistible.
+RatioOfTheDecision	We are, therefore, of the opinion that <ORG> has rightly held that the exercise of the jurisdiction by the Commissioner under Section 263(1) was justified.
+RatioOfTheDecision	The second contention has to be rejected in view of the finding of fact recor ded by <ORG>.
+RatioOfTheDecision	It was not shown at any stage of the proceedings, the amount in question was fixed or quantified as loss of agricultural income and admittedly it is not so found by the <ORG>.
+RatioOfTheDecision	The further question whether it will be agricultural income within the meaning of Section 2(1A) of the Act as elucidated by this Court in <ORG>, West Bengal, Calcutta Vs. <NAME> [32 ITR 466] does not arise for consideration.
+RatioOfTheDecision	It is evident from the Order of <ORG> that findings recorded by the <ORG> that the appellant stopped agricultural operation in November 1982 and the receipt under consideration did not relate to any agricultural operation carried on by the appellant, were not questioned before it.
+RatioOfTheDecision	Though, we do not agree with <ORG> that the said amount was paid for breach of contract as indeed it was paid in modification/relaxation of the terms of the contract, we hold that <ORG> is justified in concluding that the said amount was a taxa ble receipt under the head income from other sources.
+RulingByPresentCourt	We find no merit in the appeal and dismiss the same with costs.

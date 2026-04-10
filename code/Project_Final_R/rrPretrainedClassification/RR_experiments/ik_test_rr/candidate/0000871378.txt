@@ -1,0 +1,60 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	This appeal raises a single question of fact, upon which the <ORG> in India have differed.
+Fact	The suit was brought on the 29th August 1896 and the object of the suit was to recover the share to which the plaintiff (the first respondent) claimed to be entitled in the estate of her <NAME> <NAME>, a Mahomedan of the Shiah sect.
+Fact	Her title was disputed upon many grounds not now in question.
+Fact	The only controversy left is as to whether the suit was barred by limitation.
+Fact	It was undoubtedly barred unless the plaintiff is entitled to the extension of time allowed by Section 7 of the Indian Limitation Act, 1877.
+Fact	The plaintiff during her minority was under the guardianship of her mother, whereby the period of minority was extended; to twenty-one years; and the section just referred to gave her three years from the date at which she attained her full age, within which to bring her suit.
+Fact	The question therefore is whether she has shown by sufficiently trustworthy evidence that she  came of age within three years before commencing her suit.
+Fact	And that is the question on which the Courts in India differed.
+Fact	2.
+Fact	There are a few facts and some dates, about which there is no doubt.
+Fact	The plaintiffs mother <NAME> lived for some years under <NAME> marriage with <NAME>, but on the 11th September 1874 he married her by <NAME>.
+Fact	Before the latter date she bore him a number of children, of whom some are said to have died in infancy, whilst three, a son and two daughters, survived, the plaintiff being the youngest of the three.
+Fact	<NAME> died on the 14th December 1876.
+Fact	3.
+Fact	On the 21st of June 1871 <NAME> executed a codicil to his will, by which he showed that he had already made provision in the will for the son of <NAME>, <NAME> by name and now made provision for <NAME>, the elder of the two daughters; and the will is framed in terms which have been rightly held to show that at that time the plaintiff was not yet born.
+Fact	4.
+Fact	On the 29th May 1875 <NAME> made another will, in which he made p rovision for the plaintiff as well as for her brother and sister.
+Fact	Thus it is clear that the birth of the plaintiff took place between the 21st June 1871 and the 29th May 1875.
+Fact	But, unfortunately, that is almost the only thing that is clear.
+Fact	The plaintiff's case, as stated in paragraph 7 of her plaint, was that she attained her age of twenty one years on the 1st January 1894, which would make the date of her birth to be the 1st January 1873 and that is the date of birth sworn to by all her witnesses.
+Fact	5.
+Fact	Her witnesses were three in number, her mother <NAME>, her brother of the whole blood <NAME> and her half brother <NAME>, a son of <NAME> by a previous <NAME>.
+Fact	The mother said that the plaintiff was in her twenty sixth year at the date when she gave her evidence.
+Fact	She said that the plaintiff was born on the first of the month Zikad ; she added " on the 1st Zikad of every year I tie a knot in a thread to celebrate her birthday....
+Fact	I have already tied 25 knots in that thread."
+Fact	6.
+Fact	In cross e xamination, she said that at the date of the <NAME> the plaintiff was in her second year, but almost immediately afterwards she said that at that date the plaintiff "was in the ourth year, a month less, it may be; three knots had already been tied."
+Fact	The examination of this witness was taken before a Commissioner and it appears that an interval of several hours occurred before her re-examination and then she sought to explain the contradiction in her previous evidence by saying When my <NAME> took place she was in her second year and she was about four at the time of <NAME> death."
+Fact	<NAME> declared that at the time he was speaking the plaintiff was aged twenty five years and five months.
+Fact	He followed his mother in saying that the last knot tied on the plaintiff's thread was the 25th and in saying that the plaintiff was about four years old at the death of their <NAME>.
+Fact	He further confirmed his mother in saying that a thread with knots was kept to show his own age, similar to that of his sister.
+Fact	<NAME> <NAME> repeated the story about the practice of tying knots and also said the plaintiff was about two years old at the time of the <NAME>.
+Fact	That is the whole of the plaintiff's evidence.
+Precedent	7.
+Precedent	Their Lordships fully recognise that in India it is difficult to prove such facts as the date of birth after a lapse of many years and that it would be reasonable to require such a class of evidence as would justly be demanded in this country.
+RatioOfTheDecision	But the evidence must be such as to carry reasonable conviction to the mind.
+RatioOfTheDecision	The evidence for the plaintiff is not only extremely scanty in amount but extremely unsatisfactory in character.
+RatioOfTheDecision	<NAME> directly contradicted herself as to the age of the plaintiff at the date of the <NAME>.
+RatioOfTheDecision	The story about the knots on the thread, indicating the plaintiff's age, broke down, because both mother and son said the knots tied were 25 in number, whereas if the birth took place at the time alleged, they ought to have been 26.
+Precedent	A like story was told about the knots on <NAME> thread indicatin g his present age.
+Precedent	That story is entirely inconsistent with the statement of his age in his petition for cancellation of the certificate of guardianship, dated the 1st and 2nd November 1887.
+Precedent	8.
+Fact	The case on the other side was, that the plaintiff was born in the latter end of 1871.
+Fact	In support of that case there were also three witnesses called, of whom it is enough to say that their evidence is as unsatisfactory as that of the plaintiffs witnesses.
+Fact	9.
+Fact	The Subordinate Judge, who tried the case, came to the conclusion that the plaintiff had failed to prove her story as to the date of her birth.
+Fact	He further thought that it was shown that the birth took place at the end of 1871 and he dismissed the suit.
+RatioOfTheDecision	<ORG> on appeal reversed that decision and thought that on the evidence the plaintiff's suit was shown to be in time.
+RatioOfTheDecision	But the <ORG> came to that conclusion by adopting a suggestion, apparently made for the first time in that <ORG>, that confusion had been made between the 1st Zikad i 1289, corresponding to the 1st January 1873 and the first Zikad of the next Mahomedan year, corresponding to a later date in the same English year 1873.
+RatioOfTheDecision	10.
+RatioOfTheDecision	This point is purely one of fact and there is no evidence to support it.
+RatioOfTheDecision	If it had been put forward by the witnesses, and they had said that they had been thus misled, it might have carried weight; on the other hand it might have been displaced by cross-examination.
+RatioOfTheDecision	It appears to their Lordships very dangerous to adopt such a conclusion in a Court of appeal, merely on the suggestion of the legal gentlemen representing one of the parties.
+RatioOfTheDecision	<ORG> further considered that some of the witnesses for the defence tended to support the plaintiff's case, but it appears to their Lordships that that evidence is too vague and unsatisfactory to lend material support to either case.
+RatioOfTheDecision	Their Lordships agree with the Subordinate Judge, to the extent of holding that the plaintiff has failed to prove that she attained her full age within thr ee years before the commencement of the suit.
+RatioOfTheDecision	11.
+RulingByPresentCourt	Their Lordships will humbly advise His Majesty that the decree of <ORG> should be discharged with costs.
+RulingByPresentCourt	The first respondent will pay the costs of the appeal.

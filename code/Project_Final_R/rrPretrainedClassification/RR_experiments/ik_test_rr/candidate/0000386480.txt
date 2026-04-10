@@ -1,0 +1,675 @@
+Fact	JUDGMENT  1.
+Fact	The facts leading to this reference are these': The 1st defendant executed a sale-deed, dated the 21st of December, 1922, in favour of the 3rd defendant for Rs.
+Fact	3,500 and he directed the vendee to pay the plaintiff Rs.
+Fact	1,201) which he, the 1st defendant, owed the plaintiff.
+Fact	The plaintiff sued to recover the sum of Rs.
+Fact	1,574-10-3 the balance which was due on a promissory note executed by the 1st and 2nd defendants, dated the 25th of June, 1921.
+Fact	He made the 3rd defendant a party on the ground that he was a vendee from the 1st defendant under an obligation to pay the debt due by the 1st defendant to the plaintiff.
+Fact	2.
+Fact	The sale-deed has been filed as Ex.
+Fact	D in the case, It purports to be for Rs.
+Fact	3,500.
+Fact	After reciting that the vendee had undertaken to pay Rs.
+Fact	1,500 due to one <NAME> arid another sum of Rs.
+Fact	500 due to the same creditor the material portion continues as follows:  Whereas you have consented to pay on my behalf to <ORG> firm carrying on money-lending busin ess at Thenkarai, Periyakulam Town, the amount due by me to him, and obtain a receipt, I am in receipt of Rs.
+Fact	1, 200.
+Fact	4.
+Fact	Then it proceeds to state the other creditors who were to be paid and the consideration is said to have been received in.
+Fact	that manner.
+Fact	5.
+Fact	The 3rd defendant pleaded that there was no privity between him and the plaintiff and that there was no cause of action.
+Fact	6.
+Fact	The District Munsif dismissed the suit against the 3rd defendant and passed a decree against the 1st and 2nd defendants.
+RulingByLowerCourt	On appeal the Subordinate Judge reversed the judgment of the District Munsif and remanded the case for trial.
+RulingByLowerCourt	7.
+RulingByLowerCourt	On appeal against this order of remand <ORG> set aside the order of remand and directed the Subordinate Judge to dispose of the case in the light of the observations made by <ORG>.
+Fact	One of the questions which <ORG> wanted the Sab-Judge to decide was whether the 3rd defendant undertook orally to pay the money to the plaintiff and pointed out that if the oral agreement was pro ved, the plaintiff would be entitled to a decree against the 3rd defendant, but if it was not proved, then the question whether the principle in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Fact	332 : 4 L.T.
+Fact	468 : 9 W.R. 781 : 121 E.R.
+Fact	762 : 134 R.R.
+Fact	610 would apply would have to be considered.
+Argument	8.
+Argument	The Subordinate Judge found on the evidence that the oral agreement was not proved and that the 3rd defendant did not apart from the obligation under Ex.
+Argument	A orally agree to pay the sum to the plaintiff.
+RulingByLowerCourt	He, however, held following the decisions in <CITATION_1028109> 43 C.W.N.
+Fact	625 : 41 M. 488 : 22 M.L.T.
+Precedent	543 : (1918) M.W.N.
+Precedent	98 : 34 M.L.J.
+Precedent	193 : 8 L.W.
+Precedent	118, <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 and <CITATION_756427> 64 Ind.
+Precedent	Cas.
+Precedent	962 : 20 L.W.
+Precedent	721 : 47 M.L.J 517 : (1924) M.W.N.
+Fact	838 : A.I.R.
+Fact	1924 Mad.
+Fact	861 : 35 M.L.T.
+Fact	103 that the principle in <NAME> v. <NAME> (1861) 1 B.
+Fact	& S. 393 : 30 L.J.
+Fact	Q.B.
+Fact	255 : 8 Jur.
+Fact	(N.S.)
+Fact	332 : 4 L.T.
+Fact	468 :  9 W.R. 781 : 121 E.R.
+Fact	762 : 134 R.R.
+Fact	610 did not apply and passed a decree against the 3rd defendant also.
+Argument	9.
+Argument	Against that judgment this second appeal was filed which came on before <NAME> and <NAME>, JJ., and they were of opinion that in view of the conflict of decisions on the point of law it was desirable to have the decision of <ORG> on the question.
+RatioOfTheDecision	10.
+RatioOfTheDecision	On the findings of facts of the <ORG> below the only question for decision is whether a contract between A and B to pay <NAME> who is a creditor of A would without more entitle <NAME> to sue B.
+RatioOfTheDecision	We have already set out the sale-deed and we think that on the terms of the sale-deed there is no trust express or implied created and that the sale deed merely constitutes the vendee the agent of the vendor to pay some of his creditors.
+RatioOfTheDecision	11.
+RatioOfTheDecision	The law in England is that the mere payment of money by A to B with a direction to pay it to <NAME> in cases where B is not <NAME>'s agent is revocable and confers no right of action.
+RatioOfTheDecision	A distinction has been drawn between cases  where the defendant has constituted himself the agent of plaintiff to pay him a particular sum of money received from a third person and cases where there is no such agency of trust express or implied.
+RatioOfTheDecision	12.
+Precedent	A similar view has been taken in India in <CITATION_1984999> 12 Ind.
+Precedent	Cas.
+Precedent	353 : M. 348 : (1911) 2 M.W.N.
+Fact	227 : 10 M.L.T.
+Fact	300 : 21 M.L.T.
+Precedent	983.
+Precedent	There it was held that where A transferred his property to <ORG> in consideration of <ORG> agreeing to pay certain sums to third persons, A was himself entitled to sue <ORG> for the recovery of those sums as if they were due to him in case of <ORG>'s failure to pay the creditors within a reasonable time The learned Judges have referred to all the cases bearing on the point.
+Precedent	We may also refer to <CITATION_1964760> 49 Ind.
+Precedent	Cas.
+Precedent	313 : 24 M.L.T.
+Precedent	260 : 35 M.L.J.
+Precedent	692.
+Precedent	13.
+Precedent	The question has, therefore, to be decided on the footing that no trust has been created, that the 3rd defendant was not plaintiff s agent and that there was no novation or obligation undertaken by the 3rd defendant to  the plaintiff.
+Precedent	14.
+Precedent	The rule of Common Law laid down in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 is that a stranger to the consideration cannot sustain an action on the promise made between two persons unless he has in some way intervened in the agreement.
+Precedent	15.
+Precedent	As regards relief given by <ORG>, <NAME> v. <NAME> (1882) 30 Ch.
+Precedent	D. 57 : 54 L.J.
+Precedent	Ch.
+Precedent	1154 : 53 L.T.
+Precedent	306 : 67 W.R. 803 gives a right of action to the third person only when the person with whom the contract is made is a trustee express or implied for the third person for whom the benefit is intended.
+Precedent	The conditions necessary to be fulfilled before a person not a party to a contract can enforce any claim under it in <ORG> are laid down in <NAME> v. <NAME> (1882) 30 Ch.
+Precedent	D. 57 : 54 L.J.
+Precedent	Ch.
+Precedent	1154 : 53 L.T.
+Precedent	306 : 67 W.R. 803, in In re <ORG> (1881) 16 Ch.
+Precedent	D. 125 : 43 L.T.
+Precedent	742 : 29 W.R. 342 and in In re <ORG> and Chemica l Co. (1884) 25 Ch.
+Precedent	D. 103 : 53 L.J.
+Precedent	Ch.
+Precedent	290 : 59 L.T.
+Precedent	219 : 31 W.R. 131.
+Precedent	The observations of Lord <NAME> in <NAME> v. <ORG> (1871) 6 Cr.
+Precedent	A.
+Precedent	671 have been dissented from as stating the rule too widely.
+Precedent	16.
+Precedent	Section 23 of the Specific Relief Act deals with the persons for whom contracts may be specifically enforced and Clause (c) of, that section enacts that specific performance may be obtained where the contract is a settlement on marriage, or a compromise of doubtful rights between members of the same family by any person beneficially entitled thereunder.
+Precedent	17.
+Precedent	There has been great divergence of opinion in Courts in India as to how far a stranger to a consideration can enforce the contract and how far the rule in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 is applicable in India.
+Precedent	There are decisions which decide that the rule of English Law as laid down in <NAME> v. <NAME> (1861) 1 B.
+Precedent	&  S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 and <NAME> v. <NAME> (1882) 30 Ch.
+Precedent	D. 57 : 54 L.J.
+Precedent	Ch.
+Precedent	1154 : 53 L.T.
+Precedent	306 : 67 W.R. 803 will apply to cases in India.
+Precedent	There are other decisions which are to the effect that the principle in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 founded as it is on English Law on the form of action known as assumpsit is not applicable to contracts in India, governed by the Indian Contract Act where all the parties are before the <ORG> and the <ORG> can do complete justice between; them.
+Precedent	There are other decisions which take a middle course and decide that the rule in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 is applicable subject to certain specified exceptions which we shall refer to later on.
+Precedent	18.
+Precedent	It is difficult to reconcile the various  views and we think the balance of authority is in favour of the view that a stranger to a contract cannot without more sue to enforce it.
+Precedent	19.
+Precedent	<<NAME>ITATION_1776493> 2 Ind.
+Precedent	<NAME>as.
+Fact	460 : 31 A.
+Fact	352 : 6 A.L.J.
+Fact	427 A mortgaged certain properties to B.
+RulingByLowerCourt	He sold the property to <NAME> and left with him sufficient money out of the consideration to redeem B, B obtained a decree on his mortgage and as the sale-proceeds were insufficient to meet his claim he applied for a personal decree against <NAME> on the ground that <NAME> was liable as he retained part of the consideration payable to A agreeing to pay it to B.
+RulingByLowerCourt	It was held by <NAME> and <NAME>, JJ., that <NAME> did not become liable to B, The learned Judges observed: "It is contended that by retaining in his hands part of the purchase-money and expressly or impliedly agreeing to pay the amount to <NAME> the respondent became personally liable.
+RulingByLowerCourt	In our opinion this contention is not sound.
+RulingByLowerCourt	<NAME> was no party to the contract between <NAME> and Pandit <NAME>.
+Precedent	N o Indian or English case has been cited to us in which it has been ever held or suggested that the transferee of the equity of redemption in mortgaged property becomes personally liable to the mortgagee" The case was carried in appeal to <ORG> and the decision of their Lordships of <ORG> is reported as <CITATION_1129356> 13 Ind.
+Precedent	Cas.
+Precedent	304 : 34 A.
+Precedent	63 : 16 C.W.N.
+Fact	97 : 11 M.L.T.
+Fact	6 : 9 A.L.J.
+Fact	37 : (1912) M.W.N.
+Fact	32 : 15 C.L.J.
+Precedent	68 : 14 Bom.
+Precedent	L.R.
+Fact	1 : 21 M.L.J.
+Fact	1158 : 39 I.A.
+Fact	7 (P.C.)
+Fact	and the decision of <ORG> was upheld.
+Fact	Lord <NAME> observed: "This is a perfectly plain case.
+RatioOfTheDecision	The action is brought by a mortgagee to enforce against a purchaser of the mortgaged property an undertaking that he entered into with his vendor.
+RatioOfTheDecision	The mortgagee has no right to avail himself of that.
+RatioOfTheDecision	He was no party to the sale.
+Precedent	The purchaser entered into no contract with him, and the purchaser is not personally bound to pay this mortgage-debt."
+Precedent	20.
+Precedent	<CITATION_1028109> 43 C.W.N.
+Precedent	625 : 41 M. 488 : 22  M.L.T.
+Precedent	543 : (1918) M.W.N.
+Argument	98 : 34 M.L.J.
+Argument	193 : 8 L.W.
+Argument	118 the question arose as to a third party's right to sue on a contract Sir <NAME>, C.J., and <NAME>, J., were of opinion that a jenmi was not entitled to sue on an assignment by a <ORG> to a <ORG> whereby as between them the <ORG> agreed to pay the rent due by the <ORG> to the jenmi.
+Argument	The case arose out of a difference of opinion between <NAME> and <NAME>, <NAME>, <NAME>, J, held that the jenmi can sue whereas <NAME>, J., differed.
+Argument	Sir <NAME>, C.J., observed: "One of the questions argued before US was whether the plaintiff is entitled to sue on this contract made between the 1st defendant and 2nd defendant.
+Precedent	As regards this I agree with <NAME>, J., that he cannot, and that the question is concluded by the recent decision of <ORG> in <CITATION_1129356> 13 Ind.
+Precedent	Cas.
+Precedent	304 : 34 A.
+Precedent	63 : 16 C.W.N.
+Fact	97 : 11 M.L.T.
+Fact	6 : 9 A.L.J.
+Fact	37 : (1912) M.W.N.
+Fact	32 : 15 C.L.J.
+Precedent	68 : 14 Bom.
+Precedent	L.R.
+Precedent	1 : 21 M.L.J.
+Precedent	1158 : 39 I.A.
+Precedent	7  (P.<ORG>.)
+Precedent	where Lord <NAME> in delivering; their Lordships' judgment held that a purr' chaser's contract with his vendor to pay off a mortgage on the property sold could not be enforced by the mortgagee."
+Precedent	Then the ; learned <ORG>hief Justice refers to <<ORG>ITATION_1020411> 7 Ind.
+Precedent	<ORG>as.
+Precedent	237 : 32 A.
+Precedent	410 : 14 <ORG>.W.N.
+Precedent	865 : 7 A.L.J.
+Precedent	871 : (1910) M.W.N.
+Precedent	313 : 8 M.L.T.
+Precedent	147 : 12 <ORG>.L.J.
+Precedent	205 : 12 <NAME>om.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	614 : 37 I.A.
+Precedent	152 (P.<ORG>.
+Precedent	): and distinguishes the case on the ground that it was a contract made by a guardian for the benefit of a minor in contemplation ' of her marriage.
+Precedent	21.
+Precedent	The question has been elaborately considered by <NAME> and <NAME>, JJ., in <<ORG>ITATION_445405> 23 Ind.
+Precedent	<ORG>as.
+Precedent	951 : 38 M. 753 at p. 763 : 26 M.L.J.
+Precedent	127 That was a case where A mortgaged his laudato <NAME> and part of the consideration was <NAME>'s promise; to discharge a debt of A to <ORG> sued <NAME> and it was held that <ORG> who was a stranger to the contract cannot sue <NAME> for the payment of his debt without joining A as a party.
+Precedent	The learned Judges deal e xhaustively with the cases and lay down the general rule of law to be that a party who is a stranger to a contract cannot sue on the contract.
+Precedent	The exceptions which the learned Judges enunciate are (a) the creation of a trust in favour of the plaintiff in respect of the amount sued for; (b) the creation, of a charge on immoveable property by the promisior or allocation by the promisor of the specific money in suit in favour of the plaintiff; (c) the creation of a settlement on marriage in which the plaintiff may be beneficially entitled as provided by Section 23 of the Specific Relief Act and (d) estoppel as against the promisor owing to transact tions between the plaintiff and the promisor.
+Precedent	22.
+Precedent	This question again arose in O.S.
+Precedent	No.
+Precedent	325 of 1926 on the Original Side of the High Court.
+RulingByLowerCourt	<NAME>, J, after an exhaustive review of the authorities came to the conclusion that a second mortgagee who retained in his hands sufficient portion of the consideration to discharge the first mortgage and who does not discharge  the first mortgage cannot be sued by the first mortgagee on the covenant between the mortgagor and the second mortgagee.
+RulingByLowerCourt	This case was carried in appeal (O.S.A.
+RulingByLowerCourt	No.
+Precedent	95 of 1927) where Sir <NAME>, C.J., and <NAME>, J., upheld the decision of <NAME>, <NAME> learned Judges observed: "The learned Judge held that as there was no privity between the plaintiff and 2nd defendant with regard to the mortgage, Ex.
+Precedent	A(1), the plaintiff could not claim any benefit under it....
+Precedent	The point of law has been fully discussed by the learned Judge and he has considered all the important authorities.
+Precedent	It is not disputed as a general rule of law that only those who are parties to a contract can sue on it.
+Precedent	The <ORG> decisions in <CITATION_1129356> 13 Ind.
+Precedent	Cas.
+Precedent	304 : 34 A.
+Precedent	63 : 16 C.W.N.
+Precedent	97 : 11 M.L.T.
+Precedent	6 : 9 A.L.J.
+Precedent	37 : (1912) M.W.N.
+Precedent	32 : 15 C.L.J.
+Precedent	68 : 14 Bom.
+Precedent	L.R.
+Precedent	1 : 21 M.L.J.
+Precedent	1158 : 39 I.A.
+Precedent	7 (P.C.)
+Precedent	and in <NAME> v. <NAME> 95 Ind.
+Precedent	Cas.
+Precedent	970 : 26 C.W.N.
+Precedent	771 : 3 P.L.T.
+Fact	637 : A.I.R .
+Fact	1923 P.C.
+Fact	54 (P.C.)
+Fact	are conclusive that the reservation of part of the purchase-money to pay a previous mortgagee does not of itself create a trust in favour of that previous mortgagee nor can the prior mortgagee make the purchaser personally liable.
+Fact	The case of such a reservation in a mortgage is indistinguishable from its reservation in a sale-deed.
+Fact	This decision was given on the 1st of May this year.
+Precedent	In view of this decision of Beasley, J., which was confirmed in appeal we think we may take it as settled law in Madras that a stranger to a contract cannot without more sue to enforce it.
+Precedent	It is unnecessary, therefore, to refer with details to cases in Madras which took the opposite view.
+Precedent	This view was based upon a decision of their Lordships of the Privy Council in <CITATION_1020411> 7 Ind.
+Precedent	Cas.
+Precedent	237 : 32 A.
+Precedent	410 : 14 C.W.N.
+Precedent	865 : 7 A.L.J.
+Precedent	871 : (1910) M.W.N.
+Precedent	313 : 8 M.L.T.
+Precedent	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	614 : 37 I.A.
+Precedent	152 (P.C.).
+Precedent	In that case there was an arrangement made between the defen dant and the <NAME> of the plaintiff who was then a minor on the occasion and in consideration of her marriage with the defendant's son who was also a minor that a certain sum should be paid to the plaintiff for her betel-nut expenses, etc, from the date of the marriage.
+Precedent	A suit was filed to recover the arrears of allowance and the contention was that the plaintiff being a stranger to the contract could not sue on it, and reliance was placed on <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610.
+Precedent	Their Lordships of <ORG> distinguished the case and said that the rule in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 had no application to the circumstances of the case which they were trying in which the agreement specifically charged immoveable property for the payment of the allowance and the plaintiff was the only person benefic ially entitled under it.
+Precedent	Their Lordships pointed out that in India where marriages were arranged during minority and contracts for the benefits of the minors were entered into by parents and guardians, it would cause serious injustice if the strict rule of English Law were applied.
+Precedent	Their Lordships in dealing with the contention based on the rule laid down in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 observed "First it is contended, on the authority of <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Argument	610, that as plaintiff was no party to the agreement, she cannot take advantage of its provisions, With reference to this, it is enough to say that the case relied upon was an action of assumpsit, and that the rule of Common Law on the basis of which it was dismissed is not, in their Lordships' opinion applicable to the facts and circumstan ces of the present case.
+Argument	Here the agreement executed by the defendant specifically charges immoveable property for the allowance which he binds himself to pay to the plaintiff.
+Argument	She is the only person beneficially entitled under it.
+Argument	In their Lordships' judgment, although no party to the document, she is clearly entitled to proceed in equity to enforce her claim.
+Precedent	Their Lordships desire to observe that in India and among communities circumstanced as the Muhammadans, among whom marriages are contracted for minors by parents and guardians it might occasion serious injustice if the Common Law doctrine was applied to agreements or arrangements entered into in connection with such contracts."
+Precedent	23.
+Precedent	This case has in some decisions of this <ORG> been taken as laying down the rule that Indian <ORG>s are not bound by the Common Law doctrine laid down in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610.
+Precedent	<CITATION_1028109> 43 C.W.N.
+Precedent	625 :  41 M. 488 : 22 M.L.T.
+Precedent	543 : (1918) M.W.N.
+Precedent	98 : 34 M.L.J.
+Precedent	193 : 8 L.W.
+Precedent	118, one of us (<NAME>, J.,) took this view while Sir <NAME>, <NAME> and <NAME>, J., took the opposite view.
+Precedent	He referred to the numerous cases on the subject.
+Precedent	The view he was inclined to take was that having regard to the definition of the word 'contract' in the Indian Contract Act and the observations of their Lordships of <ORG>, the ruling in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 has no application and it was open to us to follow the rule laid down in <NAME> v. <NAME> (1688) 2 Lev.
+Precedent	210 : 83 E.R.
+Precedent	523 and earlier cases.
+Precedent	We may also refer to <NAME> v, <NAME> 69 Ind.
+Precedent	Cas.
+Precedent	957 : 16 L.W.
+Precedent	283 : 43 M.L.J.
+Precedent	129 : (1922) M.W.N.
+Fact	42 : 31 M.L.Y.
+Fact	156 : A.I.R.
+Fact	1922 Mad.
+Precedent	397.
+Precedent	24.
+Precedent	In <NAME> v. <NAME> 64 Ind.
+Precedent	Cas.
+Precedent	962 : 20 L.W.
+Precedent	721 : 47 M.L.J 517 : (1924) M.W.N.
+Precedent	838 : A.I.R.
+Precedent	1924 Mad.
+Precedent	861 : 35 M.L.T.
+Precedent	103  and in <CITATION_97275> 99 Ind.
+Precedent	Cas.
+Precedent	676 : 25 L.W.
+Precedent	190 : 38 M.L.T.
+Precedent	124 : A.I.R.
+Precedent	1927 Mad.
+Precedent	421 the same view was taken by <NAME>, J., and <NAME>, J.
+Precedent	25.
+Precedent	A similar view was taken in <NAME> v. Chuni Lal Ghose 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 but it was not followed in <CITATION_295165> 96 Ind.
+Precedent	Cas.
+Precedent	846 : 53 C. 922 : 30 C.W.N.
+Precedent	812 : A.I.R.
+Precedent	1926 Cal.
+Precedent	1009 and <CITATION_862612> 114 Ind.
+Precedent	Cas.
+Precedent	685 : 55 C. 1315 : 32 C.W.N.
+Precedent	634 ; 47 C.L.J.
+Precedent	587 : A.I.R.
+Precedent	1928 Cal.
+Precedent	518 : Ind.
+Precedent	Rul.
+Precedent	(1929) Cal.
+Precedent	258.
+Precedent	26.
+Precedent	We do not think that in view of the current of authority in Madras which we have referred to and especially the last pronouncement by <NAME>, J,, confirmed on appeal by Sir <NAME>, C.J., and <NAME>, the view which some of our learned brothers took can be followed.
+Precedent	27.
+Precedent	Cases where on a partition a benefit is secured to the female members of the family who would be entitled in law to maintenance or cases of family settlement stand on a different footing.
+Precedent	28.
+Precedent	In <NAME> v. <NAME> 4 Ind.
+Precedent	Cas.
+Precedent	1083 : 33 M. 238 : 19 M.L.J.
+Precedent	739 : 8 M.L.T.
+Argument	249 there was a deed of partition whereby provision was made for the plaintiff's maintenance and it was held that although the plaintiff was no party to the document she was entitled to sue.
+Precedent	The learned Judges held that a person who was not a party to a document but in whose favour a charge was created by such document was entitled to maintain a suit to enforce its terms, either as the actual beneficiary or as the charge-holder, and referred to <NAME> v. <NAME> 6 Bom.
+Precedent	L.R.
+Precedent	421 and <CITATION_1377067> 29 A.
+Precedent	151 : A.L.J.
+Precedent	13 : A.W.N.
+Precedent	(1907) 3.
+Precedent	28.
+Precedent	<CITATION_1217440> 24 Ind.
+Precedent	Cas.
+Precedent	943 : 38 M. 788 Oldfield, J., held that a person though not a party to at contract could sue to enforce its terms if it was a settlement by which some provision was made for him as a member of the family, e.g., for maintenance or marriage though the same was not made a charge.
+Precedent	29.
+Precedent	We may also in this connection refer to <CITATION_1622523> 16  Ind.
+Precedent	Cas.
+Precedent	428 : (1912) M.W.N.
+Precedent	908 : 12 M.L.T.
+Precedent	288 : 23 M.L.J.
+Precedent	355, <CITATION_1135427> 12 Ind.
+Precedent	Cas.
+Precedent	185 : (1911) 2 M.W.N.
+Precedent	524 : 10 M.L.T.
+Precedent	214 : 21 M.L.J.
+Precedent	918 and <CITATION_1842400> 13 Ind.
+Precedent	Cas.
+Precedent	205 : (1912) M.W.N.
+Precedent	39 : 11 M.L.T.
+Precedent	14 : 22 M.L.J.
+Precedent	159.
+Precedent	Reference has been made by the respondent's Advocate to the observations of <NAME> in <CITATION_1500153> 101 Ind.
+Precedent	Cas.
+Precedent	386 : A.I.R.
+Precedent	1928 Mad.
+Precedent	23.
+Fact	All that was decided was that the case fell within the rule in <CITATION_1020411> 7 Ind.
+Fact	Cas.
+Fact	237 : 32 A.
+Fact	410 : 14 C.W.N.
+Fact	865 : 7 A.L.J.
+Fact	871 : (1910) M.W.N.
+Fact	313 : 8 M.L.T.
+Fact	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Precedent	638 : 20 M.L.J.
+Precedent	614 : 37 I.A.
+Precedent	152 (P.C.).
+Precedent	After referring to that case and to the provisions of Hindu Law he observes: "All I desire to say is that I think that in view of that the provisions of law in such matters should be applied with greater flexibility than they would be applied in England and that it is quite possible to argue that such a case as this if it occurred in England would be covered by th e general principle I have referred to."
+Precedent	30.
+Precedent	Cases of estoppel or of novation obviously stand on a different footing and have nothing to do with the principle laid down in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610.
+Precedent	31.
+Precedent	We may point out in this connection that the view taken in <NAME> v. <ORG> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 by <NAME>, <NAME>, and <NAME>, J., which lays down broadiy that the doctrine in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Fact	332 : 4 L.T.
+Fact	468 : 9 W.R. 781 : 121 E.R.
+Fact	762 : 134 R.R.
+Fact	610 is inapplicable to British Courts in India and that the aim of <ORG> in British India is to do complete justice in one suit according to the general principles of justice, equity and good conscience, has not been followed in later cases; We may refer to <CITATION_295165> 96 Ind.
+Fact	Cas.
+Fact	846 : 53 C. 922 : 30 C.W.N.
+Fact	812 : A.I.R.
+Fact	1926 Cal.
+Precedent	1009.
+Precedent	In that case a patnidar created a darpatni and the darpatnidar created a sepatni in favour of another person.
+Precedent	The sepatnidar was to pay certain sums due both to the patnidar and darpatnidar.
+Precedent	The patnidar sued the sepatnidar for the rent due.
+Precedent	It was held that he could not sue.
+Precedent	<NAME>, J., referred to and discussed the English cases and was of opinion that the rule laid down by <NAME>, <NAME>, was too wide, and the learned Judge was inclined to support the decision in <NAME> v. <ORG> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 on the ground that it came within the ruling of <ORG>, in <NAME> v. <NAME> (1882) 30 Ch.
+Precedent	D. 57 : 54 L.J.
+Precedent	Ch.
+Precedent	1154 : 53 L.T.
+Precedent	306 : 67 W.R. 803.
+Precedent	32.
+Precedent	<CITATION_862612> 114 Ind.
+Precedent	Cas.
+Precedent	685 : 55 C. 1315 : 32 C.W.N.
+Precedent	634 ; 47 C.L.J.
+Fact	587 : A.I.R.
+Fact	1928 Cal.
+Precedent	518 : Ind.
+Precedent	Rul.
+Precedent	(1929) Cal.
+Precedent	258 it was held that where a life policy was expressed to be for the benefit of the wife of the assured, she was not entitled to sue as no trust was cr eated in her favour and she was a third party to the contract.
+Precedent	So far as the decision that no trust was created in her favour was concerned, the learned Judges dissented from the view taken in <CITATION_27875> 20 Ind.
+Precedent	Cas.
+Precedent	934 : 37 M. 483 : 25 M.L.J.
+Precedent	65 : (1913) M.W.N.
+Precedent	697 : 14 M.L.T.
+Precedent	363 and to that extent this case may not be authority binding on us, but the view of <NAME>, <NAME>, and <NAME>, J., on the general question of the legal consequences following from that view supports the view taken in the Madras cases which we already referred to.
+Precedent	<NAME>, J., at page 1321 Page of 55 C--[Ed.]
+Precedent	refers to the rule of English Law that if A contracts with B for a benefit to be given to C although that was the object and purpose of the contract, C may not sue on that contract unless in certain excepted cases and then refers to the excepted sases.
+Precedent	After referring to <CITATION_1020411> 7 Ind.
+Precedent	Cas.
+Fact	237 : 32 A.
+Fact	410 : 14 C.W.N.
+Fact	865 : 7 A.L.J.
+Fact	871 : (1910) M.W.N.
+Fact	313 : 8 M.L.T.
+Fact	147 : 12 C.L.J.
+Fact	205 : 12 Bom.
+Fact	L.R.
+Fact	638 : 20 M.L.J.
+Fact	614 : 37 I.A.
+Fact	152 (P.C.)
+Fact	the learned Judge deals with <NAME> v. <NAME> 20 Ind.
+Fact	Cas.
+Fact	630 : 41 C. 137 : 17 C.W.N.
+Fact	1143 : 18 C.L.J.
+RulingByLowerCourt	603, and attempts to bring that case within the exceptions laid down in the English cases on the ground of the special facts of that case.
+RulingByLowerCourt	The learned Judge, however, agrees with the criticism passedon that case by <NAME>, J., in <CITATION_295165> 96 Ind.
+RulingByLowerCourt	Cas.
+Fact	846 : 53 C. 922 : 30 C.W.N.
+Fact	812 : A.I.R.
+Fact	1926 Cal.
+Precedent	1009, Rankin, C.J., took the view that it was wrong on the authority of either <CITATION_1020411> 7 Ind.
+Precedent	Cas.
+Fact	237 : 32 A.
+Fact	410 : 14 C.W.N.
+Fact	865 : 7 A.L.J.
+Fact	871 : (1910) M.W.N.
+Fact	313 : 8 M.L.T.
+Fact	147 : 12 C.L.J.
+Precedent	205 : 12 Bom.
+Precedent	L.R.
+Fact	638 : 20 M.L.J.
+Fact	614 : 37 I.A.
+Fact	152 (P.C.
+Fact	), or <NAME> v. Chuni Lal Ghose 7 Ind.
+Fact	Cas.
+Fact	237 : 32 A.
+Fact	410 : 14 C.W.N.
+Fact	865 : 7 A.L.J.
+Fact	871 : (1910) M.W.N.
+Fact	313 : 8 M.L.T.
+Fact	147 : 12 C.L.J.
+Fact	205 : 12 Bom.
+Fact	L.R.
+Fact	638 : 20 M.L.J.
+Fact	614 : 37 I.A.
+Fact	152 (P.C.
+Argument	), to suppose that in India persons who were not parties to a contract could be admitted to sue the reon except where there was an obligation in equity amounting to a trust arising out !of the contract or in case of communities where marriages were contracted for minors by parents and guardians.
+Precedent	The learned Chief Justice observed: "But putting aside such cases, I see no reason to think that the law in India contains a series of exceptions to the principle that a contract can only be sued upon as such by a party thereto.
+Precedent	A trust may be founded on the contract and is capable of being enforced by a party to the trust in appropriate proceedings as was pointed out in <NAME> v. <NAME> (1852) 10 Hare 163 : 68 E.R.
+Precedent	882 : 90 R.R.
+Precedent	314.
+Precedent	It is another matter altogether to say that a person not a party to a contract may bring a suit upon the contract by reason of near relationship to the promisee.
+Precedent	Nearness of relationship is a fact which, like many other facts, cannot be disregarded in determining the question whether or hot a trust arises out of is founded on contract but it has no other importance.
+Precedent	Cases such as the presen t can, be decided and ought to be decided on the settled principles of equity.
+Precedent	In <NAME> v. <ORG> (1892) 1 Q.B.
+Precedent	147 : 61 L.J.Q.B.
+Precedent	128 : 66 L.T.
+Precedent	220 : 40 W.R. 230 : 56 J.P. 180, the <ORG> considered whether the policy amounted to a trust for the widow and, having found that it did not, determined the matter by the ordinary law of contract.
+Precedent	This, in my judgment, is, the only method which can be justified in principle.
+Precedent	To hark back to such cases as <NAME> v. <NAME> (1688) 2 Lev.
+Precedent	210 : 83 E.R.
+Precedent	523 and <NAME> v. <NAME> (1680) 86 E.R.
+Precedent	5 : 1 Ven.
+Precedent	6, is, in my judgment, a clear mistake, and the mistake is not cured by the circumstance that, under the Contract Act , the definition of 'consideration' is wider than in English Law."
+Precedent	33.
+Precedent	A similar view was taken in <CITATION_1388134> 19 Ind.
+Precedent	Cas.
+Precedent	736 : 37 B.
+Precedent	471 : 15 Bom.
+Precedent	L.R.
+Precedent	320 where after holding that though the policy of insurance effected by the assured upon his own life was for the benefit of his wife, it did not create any trust in h er favour, the learned Judges dealt with the question whether she could sue on the contract apart from any trust and observed: "It was, however, argued that as under Section 2 , Clause (d) of the Contract Act the consideration might be provided by some other person, the plaintiff could sue oh a policy the consideration for which was provided by her <NAME>.
+RatioOfTheDecision	There is, however, nothing in the present case to show that the plaintiff was either the promisor of the promisee and, therefore, a party to the agreement.
+RatioOfTheDecision	There is nothing in the Act to show an intention that a person not a party to the contract can sue on it.
+RatioOfTheDecision	So far as it goes, Section 2(i) is an indication to the contrary".
+Precedent	The learned Judges distinguish <CITATION_1192863> 6 M. 351 and Chinnaya Rau v. Ramaya 4 M. 137 on the ground that there was a contract between the parties in those cases.
+Precedent	This decision was referred to with approval in <CITATION_1303142> 85 Ind.
+Precedent	Cas.
+Precedent	581 : 48 b.
+Precedent	673 : 26 Bom.
+Precedent	L.R.
+Precedent	1035 : A.I.R.
+Precedent	1925 Bom.
+Precedent	353.
+Precedent	34.
+RulingByLowerCourt	<CITATION_868851> no t a party or privy to a contract could not maintain an action to secure any benefit conferred on him by it.
+Fact	In that case A. executed a mortgage in favour of the plaintiff and subsequently sold the property to B.
+Fact	In the recital in the, sale-deed B agreed to pay off the mortgage and the plaintiff sued B.
+Fact	It was held that the plaintiff cannot avail himself of the stipulation in the sale-deed between the mortgagor and the vendee that the vendee was to redeem the mortgage.
+Precedent	<NAME>, J., in the course of the judgment refers to <NAME> v. <NAME> 95 Ind.
+Precedent	Cas.
+Precedent	970 : 26 C.W.N.
+Precedent	771 : 3 P.L.T.
+Fact	637 : A.I.R.
+Fact	1923 P.C.
+Fact	54 (P.C.
+Argument	), where their Lordships of <ORG> held that a recital in a sale by A to B that B is to pay of a mortgage would give no cause of action to the mortgagee to sue B.
+Argument	The learned Judge quotes the judgment of Lord <NAME> who dismissed the appeal with the following remark "Their Lordships have considered this case and they think it is clear that no personal liability was  incurred by the purchasers of the equity of redemption.
+Argument	Their Lordships, therefore, think that the decree of <ORG> was right and that the point made by the appellant failed."
+Precedent	35.
+Precedent	It is argued that where all the parties to a contract are before the <ORG> and complete justice can be done between them, there is nothing to prevent the <ORG> from giving a decree to a person although he is not a party to the contract and that this is one of the exceptions that should be grafted on the rule in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610, and reliance was placed on the observations of Tyabji, J., in <CITATION_445405> 23 Ind.
+Precedent	Cas.
+Precedent	951 : 38 M. 753 at p. 763 : 26 M.L.J.
+Precedent	127, where the learned Judge deals with the question as to how far the rule in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610, can be said to be a rule of procedure.
+Precedent	There is nor thing in the observations of <NAME>, J. to indicate, that the mere presence of parties would make the rule in <NAME> v. <NAME> (1861) 1 B.
+Precedent	& S. 393 : 30 L.J.
+Precedent	Q.B.
+Precedent	255 : 8 Jur.
+Precedent	(N.S.)
+Precedent	332 : 4 L.T.
+Precedent	468 : 9 W.R. 781 : 121 E.R.
+Precedent	762 : 134 R.R.
+Precedent	610 inapplicable.
+Precedent	36.
+Precedent	Reliance has also been placed on the judgment of <ORG>, in <CITATION_756427> 64 Ind.
+Precedent	Cas.
+Precedent	962 : 20 L.W.
+Precedent	721 : 47 M.L.J 517 : (1924) M.W.N.
+Precedent	838 : A.I.R.
+Precedent	1924 Mad.
+Precedent	861 : 35 M.L.T.
+Precedent	103, where the learned Judge after referring to <CITATION_445405> 23 Ind.
+Precedent	Cas.
+Precedent	951 : 38 M. 753 at p. 763 : 26 M.L.J.
+Precedent	127, and the observations of Sir <NAME>, C.J., in <NAME> v. <NAME> 20 Ind.
+Precedent	Cas.
+Precedent	630 : 41 C. 137 : 17 C.W.N.
+Precedent	1143 : 18 C.L.J.
+Precedent	603 observed: "But apart from that where a Court has before it all persons and is in a position to do complete Justice to the case, it would be straining the law to hold that the suit should fail on the ground that the defendant did not Contract with the plaintiff to pay the amount Which h e contracted to pay on his behalf.
+Precedent	The learned Judge also refers to the observations of <NAME>, J., in <CITATION_1293920> 75 Ind.
+Precedent	Cas.
+Precedent	1016 : 18 L.W.
+Precedent	530 : 45 M.L.J.
+Precedent	69 A.I.R.
+Precedent	1924 Mad.
+Precedent	103.
+Precedent	37.
+Precedent	With respect, it seems to us that if the law is that a person hot a party to a contract cannot sue on the contract though a benefit is secured to him and unless the case falls within the exceptions indicated in the cases above referred to the plaintiff has no cause of action, it is no answer to say that all the parties are before the Court.
+Precedent	38.
+Precedent	Order I, Rule 3, of the Civil Procedure Code is very clear.
+Precedent	There should be a right to relief in respect of the transaction set out is the plaint before a party can be added as defendant.
+Precedent	The addition of others would not so far as he is concerned alter his rights.
+Precedent	We do not think that there is any legal basis for holding that the mere joinder of the original parties to the contract would give the plaintiff a cause of action which does not exist before the suit.
+Precedent	39.
+RulingByPresentCourt	We are of opinion that where all that appears is that a person transfers property to another and stipulates for the payment of money to a third person, a suit to enforce that stipulation by the third party will not lie.

@@ -1,0 +1,39 @@
+Fact	JUDGMENT  1.
+Fact	The only question that has been argued is the question of limitation, the contention being that plaintiffs' cause of action arose on the ,date of the appellate decree declaring that defendants in that suit had no saleable interest in the land, i.e., 20th February 1911.
+RatioOfTheDecision	Whether, therefore.
+RatioOfTheDecision	Article 97 or Article 120 applies to the suit filed on 18th October 1917, it is out of time, if the starting point is 20th February 1911.
+RulingByLowerCourt	The Subordinate Judge has taken the date of the <ORG> decree affirming, the Sub-<ORG> decree as the date of the cause of action, but we think, he is wrong by reason of the principle laid down by <ORG> in <CITATION_682162> 50 Ind.
+RulingByLowerCourt	Cas.
+Fact	444 : 46 C. 670 : 10 L.W.
+Fact	416 : 17 A.L.J.
+Fact	514 : 36 M.L.J.
+Fact	557 : 23 C.W.N.
+Fact	721 : 21 Bom.
+Fact	L.R.
+Fact	632 : (1919) M.W.N.
+Fact	258 : 30 C.L.J.
+Fact	71 : M.L.T.
+Fact	131 : 46 I.A.
+Fact	52 (P.C.)
+Fact	where it was held that, the starting point for limitation is the date of the first <ORG>'s decree and not the date of the appellate decree confirming the same.
+Fact	That p rinciple has been applied by their lordships to a case under Article 97 , but the j principle is equally applicable to suits under Article 120.
+Precedent	<CITATION_1665633> 64 Ind.
+Fact	Cas.
+Fact	470 : 44 M. 714 : 14 L.W.
+Fact	180 : 41 M.L.J.
+Fact	117 an application for a final mortgage-decree under Article 181 was held not to come within the above principle on the ground that it was in its nature an application in execution and that, therefore, the specific provision of Article 182 should be applied.
+Fact	There is no such reason for not applying the principle of Hukum Chand Boid ; <CITATION_682162> 50 Ind.
+Fact	Cas.
+Fact	444 : 46 C. 670 : 10 L.W.
+Fact	416 : 17 A.L.J.
+Fact	514 : 36 M.L.J.
+Fact	557 : 23 C.W.N.
+Fact	721 : 21 Bom.
+Fact	L.R.
+Fact	632 : (1919) M.W.N.
+Fact	258 : 30 C.L.J.
+Fact	71 : M.L.T.
+Fact	131 : 46 I.A.
+Fact	52 (P.C.)
+Fact	to the present case, and if it is applied, the suit is clearly barred by limitation.
+Fact	We, therefore, accept the appellants' contention, allow the appeal and dismiss the plaintiffs' suit with costs throughout.

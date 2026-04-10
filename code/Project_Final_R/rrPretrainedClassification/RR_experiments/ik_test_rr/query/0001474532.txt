@@ -1,0 +1,40 @@
+Fact	<NAME>, J.
+Fact	1.
+Fact	The plaintiff and the defendant first party were so-sharers in an estate in which one <NAME> had an occupancy holding Sometime in 1899 or 1900 defendant No.
+Fact	1 brought a suit against <NAME> and purchased the occupancy holding and has continued to be in possession of the holding which has belonged to <NAME>.
+Fact	There has recently been a Collectorate partition between the plaintiff and defendant No.. 1 and on such partition the lands in question have been allotted to the share of the plaintiff.
+RulingByLowerCourt	The plaintiff, taking the view that upon the purchase of the occupancy holding by defendant No.
+Fact	1 that holding became the bakasht of the plaintiff and defendant No.
+Fact	1, claimed to be put in possession of the land in dispute.
+Fact	The Courts below, agreeing with the view of the plaintiff, have decreed his suit.
+RatioOfTheDecision	2.
+RatioOfTheDecision	It is necessary to remember that in dealing with the question we are governed by the Bengal Tenancy Act of 1885 and we have nothing whatever to do with the amendment of the Act in 1907.
+Precedent	N ow Section 22, Clause (2), of the Bengal Tenancy Act as it existed before the amendment in 1907 ran as follows:  If the occupancy right in land is transferred to a person jointly interested in the land as proprietor or the permanent tenure-holder, it shall cease to exist;but nothing in this sub-section shall prejudicially affect the rights of any third person.
+Precedent	3.
+Precedent	The question was debated so far back as the year 1896 as to the position of a co-sharer proprietor purchasing an occupancy holding.
+Precedent	It was ruled in the case of <CITATION_1479692> 24 C. 143 : 1 C.W.N.
+Precedent	166 : 12 Ind.
+Precedent	Dec.
+Precedent	(N.S.)
+Argument	761 that there is no law which prevents one of the several co-proprietors from holding the status of a tenant under the other co-proprietors of land which appertains to the common estate and that the effect of the purchase by one co-owner of land of the occupancy right is, not that the holding ceases to exist, but only the occupancy right which is an incident of the holding.
+Argument	4.
+Argument	According to decision of <ORG>, there wa s nothing in the sub-section inconsistent with the continuance of the holding divested of this right of occupancy which attached to it.
+Argument	5.
+Precedent	The point again came up for consideration before <ORG> in the case of <NAME> v. Sheikh <NAME> 33 C. 386 : 1 C.L.J.
+Precedent	l; 9 C.W.N.
+Precedent	249 (F.B.).
+Precedent	<ORG> in that case agreed with the decision of <CITATION_1479692> 24 C. 143 : 1 C.W.N.
+Precedent	166 : 12 Ind.
+Precedent	Dec.
+Precedent	(N.S.)
+Precedent	761.
+Argument	Mr. Justice <NAME> in the course of his judgment pointed out that since the Bengal Tenancy Act contemplated a class of raiyats different from raiyats with right of occupancy, namely, non-occupancy raiyats, and since Section 22 of the Bengal Tenancy Act deliberately stated that the occupancy right shall cease to exist, it followed that the holding did not cease by virtue of the purchase by the co-sharer landlord.
+Argument	In his view the holding still continued notwithstanding the purchase by the co-sharer landlord.
+Argument	6.
+RatioOfTheDecision	Now if this be correct, then something must happen subsequent to the acquisitio n of the holding by the co-sharer landlord to put an end to the holding.
+RatioOfTheDecision	It is suggested that the partition between the co-sharer landlord puts an end to the holding; but in my judgment there is no foundation for this argument in the Bengal Tenancy Act and we have not been referred to any cases which support the argument put before is by the learned <NAME> on behalf of the respondent.
+RatioOfTheDecision	I do not desire to express any opinion on the question as to what the position will be tinder the Amending Act of 1907.
+RulingByPresentCourt	In my judgment the view taken by the <ORG> below is incorrect, and I would allow the appeal, set aside the judgments and decrees of the <ORG> below and dismiss the plaintiff's action with costs throughout.
+Fact	<NAME>, J.
+Argument	7.
+RulingByPresentCourt	I agree.

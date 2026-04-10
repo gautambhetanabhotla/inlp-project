@@ -1,0 +1,226 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	In this cross-reference, the <ORG> has referred to this court the following questions of law under section 256(1) of the Income-tax Act, 1961 :  At the instance of the <ORG> : (Assessment years 1975-76, 1976-77, 1978-79, and 1979-80) "Whether, on the facts and in the circumstances of the case, the Appellate <ORG> was justified in holding that gratuity to the extent up to which it was exempt under section 10(10) of the Income-tax Act, 1961, should not be considered for the purpose of making the disallowance under section 40A(5) of the Income-tax Act, 1961 ?"
+Fact	At the instance of the assessee : (common question for all the assessment years : 1975-76, 1976-77, 1977-78, 1978-79 and 1979-80) "Whether, on the facts and in the circumstances of the case and on a proper interpretation of the provisions of section 43 of the Income-tax Act, 1961, the <ORG> was justified in holding that the unabsorbed depreciation of Rs.
+Fact	21,42,815, which was already deducted by <ORG>, in wo rking out the written down value of its assets taken over by the assessee-company on amalgamation, should not be added back for the purpose of working out the written down value of those very assets in the hands of the assessee-company for determining the depreciation admissible on those assets ?"
+Fact	At the instance of the assessee : (Assessment year 1978-79 only) "Whether, on the facts and in the circumstances of the case and on a proper interpretation of the provisions of section 40A(5) of the Income-tax Act, 1961, <ORG> was justified in holding that, in respect of salary paid to ex-employees, the allowance under that section should be restricted to the maximum of Rs.
+Fact	60,000 ?"
+Fact	At the instance of the assessee : (Assessment year 1979-80 only) "Whether, on the facts and in the circumstances of the case, <ORG> was justified in law in holding that the assessee-company was not entitled to value the stock taken over from <ORG>, on amalgamation in the same  manner as was decided onne by <ORG>, while the closing stock was valued by the assessee-company in a different manner according to its method of valuation of stock followed year after year and, on that account, upholding the addition of Rs.
+Fact	10,25,480, made by the Income-tax Officer ?"
+Fact	2.
+RatioOfTheDecision	For reasons given hereunder, we propose to reframe question No.
+Fact	3 as under :  "Whether, on the facts and in the circumstances of the case, the <ORG> was justified in holding that the limit to the allowance of expenditure under section 40A(5)(c)(i) in the case of former employees was Rs.
+Fact	60,000, and not Rs.
+Argument	75,000, even though the previous year was of 15 months ?"
+Argument	3.
+Fact	The question pertains to the assessment year 1978-79.
+Statute	The relevant previous year is of 15 months, i.e., from January 1, 1977, to March 31, 1978.
+Statute	Section 40A(5) provides that expenditure incurred by an assessee on its employees covered by that provision is not to be allowed beyond the limits prescribed by section 40A(5)(i) .
+Fact	The limit  in the case of employees (existing/continuing) is Rs.
+Fact	5,000 per month.
+Fact	In this year, it would be Rs.
+Fact	75,000 as the previous year is of 15 months.
+Fact	In the case of former employees, however, the limit is stated to be Rs.
+Fact	60,000.
+Fact	The assessee's claim is that former employees include such employees who ceased to be employees in the previous year or in any earlier year.
+Fact	In the case of the assessee, the former employees ceased to be the employees during the previous year.
+Fact	Some of them might well have worked, say, for 14 months.
+Fact	It will be inequitable if the limit of the expenditure on them is taken as Rs.
+Fact	60,000.
+Fact	The maximum limit of expenditure in the case of former employees should be Rs.
+Fact	75,000 for the previous year.
+Fact	This is the real controversy.
+RatioOfTheDecision	4.
+RatioOfTheDecision	We propose to first deal with the first question referred to us at the instance of the assessee.
+Fact	This question is involved in all the years under reference.
+Fact	A company known as <ORG>, was amalgamated with the assessee-company in July, 1974, i.e., during the  previous year relevant to the assessment year 1975-76.
+Fact	The depreciation allowance to the extent of Rs.
+Fact	21,42,815 had remained unabsorbed in the case of that company as at the end of the previous year relevant to the assessment year 1974-75.
+Fact	For the assessment year 1975-76, the assessee-company claimed depreciation, inter alia, on the assets it took over from <ORG> Depreciation was claimed on the written down value of the assets.
+Argument	In view of Explanation 2A, the written down value was claimed to be on the basis of actual cost of those assets to <ORG>, less depreciation actually allowed to it, the expression "actually allowed" meaning the depreciation factually allowed and not merely computed and not given effect to in the assessments.
+Fact	Thus, while computing the written down value, the assessee did not reduce the actual cost further by the aforesaid amount of Rs.
+Fact	21,42,815 which represented unabsorbed depreciation not given effect to.
+Fact	The Income-tax Officer, however, held that the "written down  value" was required to be determined under section 43(6)(b) read with Explanation 2A and Explanation 3.
+Fact	Explanation 3, it was stated, provided that, for the purpose of arriving at the written down value, depreciation not merely actually allowed but also deperciation carried forward was to be treated as depreciation "actually allowed" for the purpose of clause (b) of sub-section (6) of section 43 .
+Fact	Accordingly, he determined the written down value by reducing from the actual cost not only depreciation actually allowed but also depreciation carried forward and allowed depreciation on that basis.
+Argument	5.
+Argument	The Commissioner (Appeals) accepted the assessee's claim.
+Argument	The <ORG>, however, was of the view that, in view of the <ORG> decision in the case of <CITATION_821579>  60 ITR 392, the meaning and intention of a statute must be collected from the plain and unambiguous expression used in the provision rather than on the basis of any notions.
+Argument	Accordingly, the <ORG> held that the written down value of the ass ets taken over by the assessee-company from <ORG>, was the actual cost of the assets to <ORG>, as reduced not only by the depreciation actually allowed but also the depreciation determined but not given effect to.
+Argument	The <ORG>, therefore, set aside the order of the Commissioner of Income-tax (Appeals) and restored that of the Income-tax Officer in this behalf.
+Argument	6.
+Argument	Depreciation under section 32(1)(ii) of the Income-tax Act, 1961, is admittedly allowable and is allowed at a prescribed rate on the written down value of the assets.
+Statute	The expression "written down value" is defined in section 43(6) as the actual cost to the assessee if acquired during the previous year and the actual cost less all depreciation actually allowed if the assets are acquired in some earlier year, since the assets herein are taken over from <ORG>, it is common ground that Explanation 2A inserted in section 43(6) by the Finance (No.
+Statute	2) Act, 1967, is applicable.
+Statute	Explanation 2A, admittedly, provides that, in such  a sense, the written down value of the assets shall be taken to be the same as it would have been taken if <ORG>, had continued to hold the assets for its business.
+Statute	Explanation 3, it may be stated, provides that any allowance in respect of any depreciation carried forward under sub-section (2) of section 32 shall be deemed to be depreciation "actually allowed".
+RatioOfTheDecision	7.
+RatioOfTheDecision	In order to appreciate whether and to what extent Explanation 3 is applicable in a case in which written down value is to be computed on account of the application of Explanation 2A, it is desirable to refer to the factual position in brief once again.
+RatioOfTheDecision	<ORG>, which was amalgamated with the assessee-company in July, 1974, was assessed to income-tax up to and including the assessment year 1974-75.
+Precedent	Depreciation to the extent of Rs.
+Precedent	21,42,815 had not been absorbed in that case for paucity of profits as laid down in section 32(2) of the Income-tax Act, 1961.
+RatioOfTheDecision	The legal position about the unabsorbed depreciation is that it is not carr ied forward as such and is added to the depreciation for the following previous year and deemed to be part of that allowance.
+RatioOfTheDecision	However, it is implicit in the scheme of section 32(2) that such a thing would happen only if the assessee continues to carry on its business in the following year or years.
+RatioOfTheDecision	Thus, for the assessment year 1975-76, the aforesaid unabsorbed depreciation could not, under section 32(2) , be treated and /or allowed as the depreciation of the current year as <ORG>, became non-existent as a result of amalgamation.
+RatioOfTheDecision	That is why the depreciation on these assets is claimed by and is allowable in the hands of the assessee only.
+RatioOfTheDecision	8.
+RatioOfTheDecision	For this purpose, it is necessary to refer to the provisions of sections 32(1)(ii) , 32(2) and of section 43(6) which read as under :  "32.
+Statute	(1) In respect of depreciation of buildings, machinery, plant or furniture owned by the assessee and used for the purposes of the business or profession, the following deductions, shall, subject to the provisions of section s 34 , be allowed....  (ii) in the case of buildings, machinery, plant or furniture, other than ships covered by clause (i), such percentage on the written down value thereof as may in any case or class of cases be prescribed :....  (2) Where, in the assessment of the assessee (or, if the assessee is a registered firm or an unregistered firm assessed as a registered firm, in the assessment of its partners), full effect cannot be given to any allowance under clause (i) or clause (ii) or clause (iv) or clause (v) or clause (vi) of sub-section (1) or under clause (i) of sub-section (1A) in any previous year owing to there being no profits or gains chargeable for that previous year, or owing to the profits or gains chargeable being less that the allowance, then subject to the provisions of sub-section (2) of section 72 and sub-section (3) of section 73 , the allowance or part of the allowance to which effect has not been given, as the case may be, shall be added to the amount of the allowance for depreciation for  the following previous year and deemed to be part of that allowance, or if there is no such allowance for that previous year, be deemed to be the allowance for that previous year, and so on for the succeeding previous years."
+Statute	"43.
+Statute	In sections 28 to 41 and in this section unless the context otherwise requires - ....  (6) 'written down value' means -  (a) in the case of assets acquired in the previous year, the actual cost to the assessee;  (b) in the case of assets acquired before the previous year, the actual cost to the assessee less all depreciation actually allowed to him under this Act, or under the Indian Income-tax Act , 1922, or any Act repealed by that Act, or under any executive orders issued when the Indian Income-tax Act , 1886 , was in force :......
+Statute	Explanation 2A.
+Statute	- Where, in a scheme of amalgamation, any capital asset is transferred by the amalgamating company to the amalgamated company, and the amalgamated company is an Indian company, the written down value of the transferred capital asset  to the amalgamated company shall be taken to be the same as it would have been if the amalgamated company had continued to hold the capital asset for the purposes of its business.
+Statute	Explanation 3.
+Statute	- Any allowance in respect of any depreciation carried forward under sub-section (2) of section 32 shall be deemed to be depreciation 'actually allowed'."
+Statute	9.
+Statute	It is pertinent to mention that Explanation 2A was inserted in section 43(6) by the Finance (No.
+Statute	2) Act, 1967, whereas Explanations 1, 2 and 3 are there from the inception of the Income-tax Act , 1961.
+RatioOfTheDecision	The main purpose of Explanation 3 appears to us to be to avoid an anomaly which would have otherwise resulted.
+RatioOfTheDecision	Depreciation computed but not given effect to for paucity of funds is under section 32(2) allowable as deduction in the case of the same assessee as the depreciation of the following year or years, as the case may be, but for Explanation 3, written down value would have been the actual cost of the assets to the assessee less depreciation actually allowed .
+RatioOfTheDecision	This would have resulted in certain anomalies.
+RatioOfTheDecision	For instance, when depreciation is allowed not on the straight line method but on the basis of the written down value, depreciation of necessity becomes less and less in each successive year.
+RatioOfTheDecision	But, if unabsorbed depreciation carried forward under section 32(2) is not taken into account for the purpose of computing the written down value, depreciation in the years in which carried forward depreciation remains unabsorbed for paucity of profits is likely to be the same.
+RatioOfTheDecision	Secondly, when a depreciable asset is sold, discarded or destroyed, etc., in a previous year, the extent to which its scrap value falls short of the written down value is allowed under the Income-tax Act as deduction under section 32(1)(iii) .
+RatioOfTheDecision	But for Explanation 3, an assessee would be entitled to deduction under section 32(1)(iii) on the basis of the written down value without taking into account the unabsorbed depreciation carried forward under section 32(2) , even though the assessee will be ent itled to the set-off of the unabsorbed depreciation carried forward under section 32(2) .
+RatioOfTheDecision	Thus, the object of Explanation 3 was to remove such anomalies.
+RatioOfTheDecision	10.
+RatioOfTheDecision	However, this by itself does not justify the conclusion that Explanation 3 will not apply to a case of amalgamation covered by Explanation 2A.
+RatioOfTheDecision	For that purpose, it would be necessary to examine the provisions of Explanation 3 closely.
+RatioOfTheDecision	Explanation 3, no doubt.
+RatioOfTheDecision	Creates a fiction.
+RatioOfTheDecision	But the fiction is not created in vacuum.
+RatioOfTheDecision	The fiction operates in a particular situation.
+RatioOfTheDecision	That situation is a case in which any allowance in respect of any depreciation is carried forward under section 32(2) .
+RatioOfTheDecision	Depreciation allowance can be said to be carried forward under section 32(2) when that allowance can be added to the depreciation allowance of the assessee for the following previous year and deemed to be part of that allowance.... and so on for the following previous years.
+Argument	In the present case, <ORG>, being no longer in existence by reason of its amalgamation wit h the assessee-company, the unabsorbed depreciation allowance of Rs.
+Argument	21,42,815 is not carried forward under section 32(2) .
+Argument	Admittedly, this amount is not allowable as depreciation of the current year under section 32(2) in the hands of the assessee.
+Argument	Thus, the situation necessary for the application of the fiction in this case is not obtaining.
+Argument	11.
+Argument	July 17, 1990 : Independent of Explanation 3, the written down value under section 43(6)(b) is the actual cost of the asset to an assessee less depreciation actually allowed, the expression "actually allowed" meaning, in view of the <ORG> decision in the case of <CITATION_283202> .
+Argument	, not including notional allowance.
+Argument	Read with Explanation 3, it would mean the actual cost reduced both by depreciation actually allowed and depreciation nationally allowed, i.e., carried forward under section 32(2) .
+Argument	As stated earlier, Explanation 3 is not attracted as such in this case.
+Argument	12.
+Argument	The case is, of course, covered by Explanation 2A.
+RatioOfTheDecision	But for this Explanation.
+RatioOfTheDecision	The writt en down value of the assets taken over by <ORG> the assessee during the previous year from <ORG>, would have been their actual cost to the assessee.
+RatioOfTheDecision	In view of Explanation 2A, however, it will be the same as it would have been if <ORG>, had continued to hold the assets for its business.
+RatioOfTheDecision	Thus, Explanation 2A creates a fiction whereby though in fact at the end of the previous year the assets are not held by <ORG>, the company having been amalgamated and, thus, ceased to exist, the said company will be deemed to hold the assets for its business.
+RatioOfTheDecision	However, there is no further fiction created by Explanation 2A, that unabsorbed depreciation determined to the extent of Rs.
+RatioOfTheDecision	21,42,815 though actually not carried forward under section 32(2) , will be treated to be so for the purpose of Explanation 3.
+RatioOfTheDecision	Under the circumstances, application of Explanation 2A does not automatically mean application of Explanation 3, the applicability of which depends upon the existence of a particular situation in  which alone unabsorbed depreciation becomes depreciation "actuallowed"  13.
+Statute	In this context, it may not be out of place to mention that section 72A has been inserted in the Income-tax Act , 1961, by the Finance (No.
+Statute	2) Act, 1977, with effect from April 1, 1978.
+Statute	The section provides for carry forward and set off of accumulated loss and unabsorbed depreciation in certain cases of amalgamation.
+RatioOfTheDecision	The result is that in cases falling under section 72A , unabsorbed depreciation in the hands of the hands of the amalgamating company will hereafter be carried forward under section 32(2) in the hands of the amalgamated company.
+RatioOfTheDecision	In such a case Explanation 3 will undoubtedly apply as the precondition for the application of the fiction will then exist.
+RatioOfTheDecision	14.
+RatioOfTheDecision	Arguments were advanced by the parties in support of their rival claims as regards the scope of the legal fiction.
+RatioOfTheDecision	It was admitted the Explanations 2A and 3 created legal fictions.
+RatioOfTheDecision	In our view, the law in this regard is well-settled.
+RatioOfTheDecision	A legal fiction has to be carried to  its logical conclusion but only within the parameter of the purpose for which the fiction is created.
+RatioOfTheDecision	Moreover, as far as possible, the legal fiction should not be given a meaning so as to cause injustice.
+RatioOfTheDecision	It has been held by <ORG> in a number of cases that legal fictions are only for a definite purpose and they are limited to the purpose for which they are created and should not be extended beyond that purpose.
+RatioOfTheDecision	As stated by us elsewhere, Explanation 3 is there in the Income-tax Act since its inception.
+Statute	Explanation 2A was inserted with effect from April 1, 1967.
+RatioOfTheDecision	Thus, the object of Explanation 3 could not have been to cover cases falling within Explanation 2A.
+RatioOfTheDecision	The object was to avoid the anomaly pointed out by us in the judgment elsewhere.
+RatioOfTheDecision	In the circumstances, it will be in order if Explanation 3 is applied to a case covered by Explanation 2A only if the precondition for its application is found to exist and not otherwise.
+RatioOfTheDecision	Even otherwise, applying the provisions of Explanation 3 to a case like t he one before us in which allowance in respect of depreciation is not actually carried forward is likely to case injustice, accordingly, in our judgment, Explanation 3 is not attracted in the present case.
+RatioOfTheDecision	In this view of the matter, it has to be held that the written down value of the assets in this case will be the actual cost of the assets to <ORG>, less depreciation actually allowed to the company.
+RatioOfTheDecision	The unabsorbed depreciation which is not to be set off or carried forward should not be taken into account.
+Statute	That our construction of Explanation 3 is in consonance with the legislative intention is evident from clause 36(ii) of the Memo Explaining Provisions in the Finance (No.
+Statute	2) Bill of 1967 in (1967) 64 ITR (St.) 188.
+Statute	The object of Explanation 2A is stated to be (at page 201) :  "As a corollary to the provision at (i) above, the actual cost, as also the written down value of the building, machinery, plant or furniture transferred by the amalgamating company to the amalgamated company will be taken,  in the assessment of the amalgamated company, to be the same as in the case of the amalgamating company.
+RatioOfTheDecision	Further, for the purpose of the provision in the Income-tax Act that the aggregate amount of depreciation allowed from year to year in respect of any asset will be limited to its actual cost, the depreciation actually allowed to the amalgamating company in the assets transferred by it to the amalgamated company will also be taken into account.
+RatioOfTheDecision	In other words, when the aggregate of the depreciation allowed to the amalgamating company and the amalgamated company in respect of such assets is equal to the actual cost of the assets in the hands of the amalgamating company, the amalgamated company will not be entitled to any further depreciation on such assets."
+RatioOfTheDecision	15.
+RatioOfTheDecision	That apart, the definition of the expression "written down value" is subject to "unless the context otherwise requires".
+RatioOfTheDecision	Section 43 , it may be stated, while defining a number of expressions, makes it crystal clear that all definitions in that sect ion are subject to the context requiring otherwise, in the circumstances, assuming we had come to the conclusion that the written down value of the assets in terms of section 43(6)(b) read with Explanation 2A and Explanation 3 is the actual cost of the assets reduced both by depreciation actually allowed and unabsorbed depreciation computed but not allowed, we might still have considered whether the context required some other equitable meaning of written down value.
+RatioOfTheDecision	16.
+RatioOfTheDecision	In our judgment, the first question is also somewhat clumsily worded.
+RatioOfTheDecision	However, the controversy is clear.
+RatioOfTheDecision	Accordingly, we answer the first question in the 'assessee' reference in the negative and in favour of the assessee.
+RatioOfTheDecision	17.
+RatioOfTheDecision	This takes us to the second question in the assessee's reference.
+RatioOfTheDecision	The question has been reframed with a view to bring out the real controversy between the parties.
+Statute	The dispute is about the limit on the expenditure incurred by the assessee in relation to its former employee, the limit is prescribed under section 40A(5)( c)(i) which reads as under :  "(c) The limits referred to in clause (a) are the following namely :-  (i) in respect of the expenditure referred to in sub-clause (i) of clause (a), in the case of an employee, an amount calculated at the rate of five thousand rupees for each month or part thereof comprised in the period of his employment in India during the previous year, and in the case of a former employee, being an individual who cease or ceased to be the employee of the assessee during the previous year or any earlier previous year, sixty thousand rupees."
+RatioOfTheDecision	18.
+RatioOfTheDecision	The sub-clause has two parts.
+RatioOfTheDecision	The first part provides a limit on the expenditure in the case of existing or continuing employees.
+RatioOfTheDecision	That limit is an amount calculated at the rate of Rs.
+RatioOfTheDecision	5,000 for each month or part thereof.
+RatioOfTheDecision	The previous year being of 15 months, the limit of expenditure in the case of existing or continuing employees is thus Rs.
+Fact	75,000.
+Fact	The limit under the second part is Rs.
+Fact	60,000.
+RatioOfTheDecision	This limit is in the case of expenditure incurred by t he assessee on former employees irrespective of whether such former employees had or had not worked with the assessee as employees for any time during the previous year.
+RatioOfTheDecision	Former employees are persons who ceased to be employees of the assessee during the previous year or any earlier previous year.
+RatioOfTheDecision	Referring to the second part of the provisions of section 40A(5)(c)(i) , the <ORG> held that the <ORG> has fixed the ceiling over the allowable expenditure at Rs.
+RatioOfTheDecision	60,000 without reference to the period the former employees actually worked as employees with the assessee during the previous year.
+RatioOfTheDecision	Accordingly, the <ORG> confirmed the disallowance made by the Income-tax Officer in this behalf.
+RatioOfTheDecision	19.
+Fact	On analysing the provisions of section 40A(5)(c)(i) , it appears to us that the fixation of the limit of Rs.
+Fact	60,000 in the case of former employees without reference to the period during which the concerned persons were the assessee's employees during the previous year as against the limit at the rate of Rs.
+RatioOfTheDecision	5,000 p er month in the per month in the case of existing employees is not without purpose.
+RatioOfTheDecision	The purpose seems to be to take care of other payments that former employees were bound to receive by way of terminal benefits such as leave salary and gratuity.
+RatioOfTheDecision	These payments were naturally expected to be over and above the remuneration for the period such persons worked as employees.
+Argument	That is why a straight limit of Rs.
+Argument	60,000 was provided in their cases which was incidentally the limit in the case of continuing employees ordinarily.
+Argument	It was perhaps not in anybody's contemplation that a previous year could also be of 15 months.
+Fact	It may be that, for a period longer than 12 months, some of the former employees received remuneration as employees.
+Fact	To hold that in their cases also the limit will be Rs.
+Fact	60,000 and not at the rate of Rs.
+Fact	5,000 per month plus something is, to say the least, not equitable.
+Fact	It is not the case of the assessee in the present case that employees who became former employees during the previous year fell int o two independent categories so that for the period they worked as employees, limit will be at the rate of Rs.
+Fact	5,000 per month and for the amounts they received after they received after they ceased to be employees a separate limit of Rs.
+Fact	60,000 will apply.
+RatioOfTheDecision	It is, therefore, not necessary to examine that aspect in this case.
+RatioOfTheDecision	What we are called upon to consider is whether, in the peculiar circumstances of the case, viz., where a previous year is of 15 months and where, in the case of a continuing employee, the ceiling may go up to Rs.
+RatioOfTheDecision	75,000, there is any good reason for not holding that the limit in the case of former employees should also be Rs.
+RatioOfTheDecision	75,000.
+RatioOfTheDecision	In our judgment, in a case like the one before us the mere fact that the <ORG> fixed Rs.
+RatioOfTheDecision	60,000 as the limit in the case of former employees should not deter us from taking into account the act that the provision with regard to former employees as some of the former employees were likely to receive remuneration as employees at least for a part of the pr evious year and also terminal benefits.
+RatioOfTheDecision	If that was so, and in our judgment it was so, there is no reason why the limit available to the existing employees should not be a limit in the case of former employees.
+Precedent	Accordingly, we answer the second question at the instance of the assessee as reframed by us in the negative and in favour of the assessee.
+Precedent	20.
+Precedent	This takes us to the third and the last question in the assessee's reference.
+Precedent	This question relates to the assessment year 1979-80.
+Precedent	During the previous year, another company by name <ORG>, was amalgamated with the assessee-company.
+Precedent	As a result, almost all the assets of <ORG> company including the closing stock were taken over by the assessee-company, there is no dispute that the method of valuing the closing stock in the case of <ORG> company was different from the method of valuation of closing stock regularly followed by the assessee-company and that, if the method of valuation of closing stock followed by <ORG> company was also a dopted by the assessee-company from <ORG> was the assessee's opening stock, the <ORG> held that the assessee could not follow one method for valuing the opening stock and another method for valuing the closing stock, valuing the closing stock of the assessee out of the stock taken out from <ORG> on the same basis as the stock was valued by <ORG>.
+Precedent	The <ORG> confirmed the addition of Rs.
+Precedent	10,25,480 as undervaluation of the stock.
+Precedent	21.
+Precedent	We are told by <NAME>, learned counsel for the assessee, that the closing stock in dispute was not the assessee-company's opening stock as such.
+RatioOfTheDecision	It was the stock the assessee-company had taken over from <ORG> during the previous year at its book value.
+RatioOfTheDecision	This fact is not disputed by <NAME> for the <ORG>.
+RatioOfTheDecision	It was thus like a purchase of the stock by the assessee-company from <ORG> at a particular price.
+RatioOfTheDecision	In our view, the Income-tax Officer as well as the <ORG> fell into error in taking the said stock to be the opening  stock of the assessee-company.
+RatioOfTheDecision	In the circumstances, there is no question of applying the method of valuation applied to its stock by <ORG> as regards this stock so far as the assessee-company is concerned.
+RatioOfTheDecision	As regards the valuation of the closing stock, the assessee has admittedly valued it on the method which it is regularly following for valuing its closing stock.
+RatioOfTheDecision	That being so.
+RatioOfTheDecision	We do not think that the <ORG> was right in holding that there was undervaluation of stock and confirming the addition of Rs.
+Precedent	10,25,480.
+Precedent	Accordingly, we answer the third question also in the negative and in favour of the assessee.
+Precedent	22.
+Precedent	There is only one question of law involving assessment years 1976-76, 1976-77, 1978-79 and 1979-80 in the departmental reference.
+Precedent	The question is whether, for the purpose of considering disallowance under section 40A(5) , the amount of gratuity in entirely or the amount in excess of the amount of gratuity exempt under section 10(10) alone is to be taken into account.
+Precedent	For this purpose, it i s desirable to refer to the provisions of section 40A(5) which reads as under :  "40A(5)(a) Where the assessee -  (i) incurs any expenditure which results directly or indirectly in the payment of any salary to an employee or a former employee, or  (ii) incurs any expenditure which results directly or indirectly in the provision of any perquisite (whether convertible into money or not) to an employee or incurs directly or indirectly any expenditure or is entitled to any allowance in respect of any assets of the assessee used by an employee either wholly or partly for his own purposes or benefit, then, subject to the provisions of clause (b), so much of such expenditure or allowance as is in excess of the limit specified in respect thereof in clause (c) shall not be allowed as a deduction :"  23.
+Precedent	Gratuity is, admittedly, not an expenditure of the kind referred to in sub-clause (ii) and is an expenditure of the kind that may result in the payment of salary to the employee within sub-clause (i).
+RatioOfTheDecision	The sub-clause ev idently uses the expression "where an assessee incurs any expenditure resulting in the payment of any salary to an employee" This means that the amount of gratuity should result in the payment of salary to the employee.
+RatioOfTheDecision	For this purpose, it is necessary to refer to the definition of the word "salary" in Explanation 2 to section 40A(5) itself :  Explanation 2.
+Statute	- In this sub-section, -  (a) 'salary' has the meaning assigned to it in clause (1) read with clause (3) of section 17 subject to the following modifications, namely :-  (1) in the said clause (1)...."  24.
+Statute	Thus, the word "salary" for the purpose of clause (i) has the meaning assigned to it in clause (1) read with clause (3) of section 17 subject to certain other modifications with which we are not concerned herein.
+Statute	Clause (1) of section 17 defines salary, it is an inclusive definition.
+Statute	Item (iii) thereof is "any gratuity" while item (iv), inter alia, is "profits in lieu of salary".
+Statute	The expression "profits in lieu of" is defined in clause (3) of section  17 .
+Statute	Item (ii) thereunder clarifies that what is included in the expression "profits in lieu of" is the amount other than any payment covered by certain provisions including section 10(10) .
+Statute	Having regard to item (iii) in clause (1) of section 17 , it may be arguable that salary for the purpose of section 40A(5)(a)(i) includes the entire amount of gratuity.
+Statute	However, when one considers that item (iv) thereof includes "profits in lieu of salary" and clause (3) of section 17 to the contrary particularly when the meaning assigned to "salary" is as per clause (1) read with clause (3) of section 17 .
+RatioOfTheDecision	In our judgement, when there is a specific provision providing that payment other than a payment referred to in clause (10) of section 10 is "profits in lieu of" and thus a part of salary, it is not possible to accept that the entire amount of gratuity is to be treated as salary for the purpose of section 40A(5)(a)(i) .
+RatioOfTheDecision	Accordingly, we hold that gratuity in excess of the exemption under section 10(10) alone is required  to be considered for disallowance for the purpose of section 40A(5) .
+RatioOfTheDecision	25.
+RatioOfTheDecision	It may be clarified that the assessee's case was not that gratuity was not at all includible as salary for the purpose of considering disallowance under section 40A(5) and we have not considered that question in the present reference, therefore, we answer the question referred to us at the instance of the <ORG> in the affirmative and in favour of the assessee.
+RatioOfTheDecision	26.
+RulingByPresentCourt	No order as to costs.

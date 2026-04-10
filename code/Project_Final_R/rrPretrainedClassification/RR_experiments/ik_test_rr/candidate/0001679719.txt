@@ -1,0 +1,84 @@
+Fact	JUDGMENT Mrs. <NAME>, J.
+RulingByLowerCourt	1.
+Statute	This is a reference under section 256(1) of the Income-tax Act, 1961, at the instance of the assessee-company.
+Statute	The relevant assessment year is 1969-70, for which the previous year was from April 1, 1968, to March 31, 1969.
+Fact	During the relevant previous year, the assessee had valued its opening stock on the basis of costs plus overheads which was the method adopted by the assessee in the years prior thereto, so that the value of the closing stock for the year ending March 31, 1968, was carried forward as the value of the opening stock on April 1, 1968.
+Fact	The assessee, however, decided to change its method of valuation by valuing the stock at cost price only excluding the overheads.
+Fact	The assessee accordingly valued it closing stock for the assessment year in question, i.e., as on March 31, 1969, at cost price.
+Fact	The Income-tax Officer increased the gross profit rate in view of the difference in the method of valuation of opening stock and closing stock.
+Fact	2.
+Fact	The assessee took the m atter in appeal before the Appellate Assistant Commissioner.
+Fact	The Appellate Assistant Commissioner recalculated the valuation of the closing stock by adding over heads to cost and determined the profit accordingly.
+Fact	In appeal before the <ORG>, the <ORG> held that the correct profit can only be arrived at by valuing the opening stock and closing stock at cost price excluding overhead expenses.
+RulingByLowerCourt	It, however, directed the Income-tax Officer to redetermine the value of the opening stock at cost price after excluding all overheads.
+RulingByLowerCourt	3.
+Fact	From the decision of the <ORG>, the following question is referred to us :  "Whether the tribunal was right in directing the Income-tax Officer to revise and determine the value of the opening stock as on April 1, 1968, by excluding all overhead expenses ?"
+Fact	4.
+Fact	It is not in dispute that under section 145 of the Income-tax Act, 1961, the assessee can adopt a method of valuation which has to be followed by it regularly.
+Fact	It is an accepted principle of accountancy that the value o f the stock can be determined at cost price or market price, whichever is lower.
+Fact	In the present case, the assessee had adopted the cost price as a basis for valuing its stock.
+Fact	For the earlier previous years, however, the assessee determined the cost price by adding overheads to the cost of the stock, while in the relevant assessment year, it decided to change this methods by determining the cost price without taking into account overheads.
+Fact	5.
+RatioOfTheDecision	We are not here concerned with whether this is the correct method or an acceptable method for determining cost price.
+RatioOfTheDecision	At no stage of the proceedings was the question ever raised as to whether it was permissible for the assessee to revalue its stock by not including in the cost price overhead expenses.
+RatioOfTheDecision	The <ORG> has not dealt with this aspect, viz., the manner in which the closing stock has been valued in the present case.
+RatioOfTheDecision	Therefore, the decision of <ORG> in the case <CITATION_1483559> .
+RatioOfTheDecision	, is not attracted to the question before us for consideration.
+RatioOfTheDecision	The d ecision of the <ORG> is on the footing that since the closing stick was valued by adopting a certain method, the same method should be adopted in valuing the opening stock.
+RatioOfTheDecision	In other, words, the change in the method of valuation, according to the <ORG>, should commence with is to be adopted for valuing the opening stock of nay previous year by the new method which is to be adopted for valuing the closing stock as well.
+RatioOfTheDecision	The assumption so made by the <ORG> appears to be contrary to the normally accepted accounting principles.
+RatioOfTheDecision	Mr. <NAME> has drawn our attention to a booklet called "Valuation of stock and Work-in-Progress - Normally Accepted Accounting Principles" - brought out by <ORG> and written by <NAME>.
+RatioOfTheDecision	At page 4 of this booklet there is a discussion about change from one valid basis to another valid basis.
+RatioOfTheDecision	It states :  "2.
+RatioOfTheDecision	Where a change from one valid basis to another valid basis as accepted certain consequences normally fo llow.
+RatioOfTheDecision	The opening stock of the base year of valued on the same basis as the closing stock whether the change is to a higher level or to a lower level, the <ORG> normally does not seeks to revise to valuation of earlier years.
+RatioOfTheDecision	It neither seek to raise additional assessment, nor does it admit relief under the error or mistake provisions.
+RatioOfTheDecision	3.
+RatioOfTheDecision	It is not possible to define with precision what amounts to a change of basis.
+RatioOfTheDecision	It is a convenience, both to the taxpayer and to the <ORG>, not to regard every change in the method of valuation as a change of basis.
+RatioOfTheDecision	In particular, the <ORG> encourage the view that change which involves no more than a greater degree of accuracy, or a refinement, should not be treated as a change of basis, whether, the change results in a higher or a lower valuation.
+RatioOfTheDecision	In such cases the new valuation is applied at the end of the year without amendment of the opening valuation."
+RatioOfTheDecision	6.
+RatioOfTheDecision	The same principle has been adopted by <ORG> in <CITATION_1847433> .
+RatioOfTheDecision	.
+RatioOfTheDecision	It has said (headno te) :  "The two principles applicable with regard to the valuation of stock are that the assessee is entitled to value the closing stock either at cost price or market value, whichever is lower, and that the closing stock must be the value of the opening stock in the succeeding year.
+RatioOfTheDecision	It is thus, clear, that irrespective of the basis adopted for valuation in the earlier years, the assessee has the option to change the method of valuation of the closing stock at cost or market price, whichever is lower, provided the change is bona fide and followed regularly thereafter."
+RatioOfTheDecision	7.
+RatioOfTheDecision	Thus, the value of the closing stock of the preceding year must be the value of the opening stock of the next years.
+RatioOfTheDecision	The change, therefore, has to be effected by adopting the new method for valuing the closing stock which will, in its turn, become the value of the opening stock of the next year.
+RatioOfTheDecision	If, instead, a procedure is adopted for changing the value of the opening stock, it will lead to a chain reaction of changes in the sense that the  closing value of the stock of the year preceding will also have to change and correspondingly the value of the opening stock of that year and so on.
+RatioOfTheDecision	This was pointed out by <ORG> in the case of <CITATION_1929182> .
+RatioOfTheDecision	.
+RatioOfTheDecision	In the case before <ORG> also the valuation of opening stock had been done by the company on the basis of valuation for the closing stock to "direct cost", i.e., cost without overheads.
+Fact	This change in method was made bona fide and the assessee said that it would be adopting this method consistently in the future just as in the present case.
+Precedent	The court in that case held :  "The change was a bona fide one and was a permanent arrangement which was to be followed year after year, the change would have to be accepted notwithstanding the fact that during the assessment year in question, which was the first year when the change of method was brought about, a prejudice or detriment might be caused to the revenue, because the opening stock was valued at total cost while stoc k was valued at direct cost."
+Precedent	8.
+Precedent	It said (headnote) :  "If the assessee is called upon to apply the new method of valuation to the opening stock of the accounting year as well, the value of the closing stock of the year previous to the accounting year will also have to get altered which is result in a modification of the assessment of that previous year."
+RatioOfTheDecision	9.
+RatioOfTheDecision	The same reasoning has been adopted by <ORG> in the case of <CITATION_485657> .
+RatioOfTheDecision	.
+RatioOfTheDecision	Before <ORG> also, the assessee was valuing its closing stock, in the past years, by what is known as total cost method in which the proportionate over heads for administrative expenses, selling expenses and interest in stock valuation, were taken into account, for the assessment year in question, the assessee adopted the works cost system where the administrative overheads were not taken into account.
+RatioOfTheDecision	The court held :  "Change in the method had to be effected with change in the at valuation of the closing stock of the first  year and that the <ORG> was right in holing that opening stock should be revalued, was incorrect."
+RatioOfTheDecision	10.
+RatioOfTheDecision	Similar question was dealt with by <ORG> in the case of <CITATION_1522783> , in a similar manner.
+RatioOfTheDecision	11.
+RatioOfTheDecision	Reliance was placed by the <ORG> on a decision of <ORG> in the case of <CITATION_1732098> .
+RatioOfTheDecision	.
+RatioOfTheDecision	In the case before <ORG> both the opening and closing stock were undervalued.
+RatioOfTheDecision	The <ORG> council observed in this connection :  "Mistake cannot be rectified by raising valuation of closing stock only, the valuation of both the opening and closing stock had to be raised."
+RatioOfTheDecision	12.
+RatioOfTheDecision	This decision has no application to the question before us which deals with the change method of valuation and the manner in which such change has to be brought about.
+RatioOfTheDecision	Whenever, there is a change in the method of valuation.
+RatioOfTheDecision	There is bound to be some distortion in the calculation of profit in the year in which the change takes place.
+RatioOfTheDecision	But if the change is brought about bona fide and is no reason wh y such a change should not be permitted.
+RatioOfTheDecision	Undoubtedly, the proviso to section 145 of the Income-tax Act, 1961, lays down that :  "Provided that in any case where the accounts are correct and complete to the satisfaction of the assessing Officer but the method employed is such that, in the opinion of Assessing Officer, the income cannot properly be deduced therefrom, then the computation shall be made upon such basis and in such manner as the Assessing officer may determine."
+RatioOfTheDecision	13.
+RatioOfTheDecision	This is not such a case.
+RatioOfTheDecision	The only question is whether the opening stock is also required to be revalued by excluding all overhead expenses when the assessee has been permitted to revise the method of valuing the closing stock for that year, as the assessee has decided to adopt this new method of valuation henceforth.
+RatioOfTheDecision	14.
+RatioOfTheDecision	For the reason set out above, the direction given by the <ORG> to revise and determine the value of opening stock also by excluding all overhead expenses, is not justified.
+RatioOfTheDecision	We are not called upon to decide whether  the method adopted for valuing the closing stock is in accordance with law and/or accounting practice.
+RulingByPresentCourt	The question referred to us is, therefore, answered in the negative and in favour of the assessee.
+RulingByPresentCourt	No order as to cost.
+RulingByPresentCourt	15.
+RulingByPresentCourt	Certified copy be expedited.

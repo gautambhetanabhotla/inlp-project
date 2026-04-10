@@ -1,0 +1,83 @@
+Fact	CASE NO.
+Fact	: Appeal (crl.)
+Fact	155 of 2002 PETITIONER: <NAME> @ <NAME> RESPONDENT: STATE REP. BY INSPECTOR OF POLICE, <NAME> DATE OF JUDGMENT: 03/10/2002 BENCH: <NAME> & <NAME> JUDGMENT:  JUDGMENT 2002 Supp(3) SCR 113 The Judgment of the Court was delivered by <NAME>, J.
+Fact	The accused is in appeal before this Court against judgment of <ORG> upholding his conviction for offence punishable under Section 302 of the Indian Penal Code, 1860 (in short " IPC ") and consequential sentence of imprisonment for life.
+Fact	The factual scenario as described by the prosecution need to be noted in brief.
+Fact	On 19.8.1989, there was exchange of hot words over the release of a sheep.
+Fact	<NAME> (hereinafter referred to as "the deceased") impounded the sheep which, according to him, was destroying his crops.
+Fact	Accused and others went to the place where the sheep was tied and they untied it from the rope.
+Fact	This led to exchange of words between the deceased and the accused.
+Fact	When the deceased fell down aft er receiving injuries on his hand and left shoulder, the accused again inflicted another blow on his neck.
+Fact	The occurrence was witnessed by PW-1, PW-2 and PW-3.
+Fact	Information was lodged at the police Station and on completion of investigation, charge-sheet was placed and the accused faced trial.
+Fact	The accused took the plea of false implication and alternatively pleaded that the assaults were made in exercise of right of private defence.
+Fact	The trial court placing reliance on evidence of PW-1, PW-2 and PW-3 came to hold that the accused was responsible for the death of the deceased.
+Fact	Plea of the accused that the assaults were made in exercise of the right of private defence was not accepted, more particularly in view of the fact that even after the deceased had fallen down, the accused inflicted a further blow on the neck.
+Fact	In appeal, <ORG> did not find any merit in the submissions made to the effect that this was a case which was clearly covered by the accused's exercise of right of private defence.
+Fact	Having re jected this stand of the accused, <ORG> analysed the evidence to conclude that the conviction was justified.
+Argument	Learned counsel for the appellant submitted that the evidence of witnesses examined to substantiate the stand of right of private defence has been lightly brushed aside by the trial court and <ORG>.
+Argument	The accepted prosecution version being that the assaults were made in course of a sudden quarrel, Section 302  has no application.
+Argument	Learned counsel for the State of Tamil Nadu, on the other hand, submitted that after analysis of the factual position, the trial court as well as <ORG> have come to conclude that the accused was responsible for the death of the deceased and this is not a case where the right of private defence can be pressed into service by the accused.
+RatioOfTheDecision	In view of the categorical evidence of PW-1, PW-2 and PW-3 implicating the accused, we find no reason to accept the plea of the accused about his innocence.
+RatioOfTheDecision	In fact, the occurrence has been accepted but the plea was o ne of exercise of right of private defence.
+RatioOfTheDecision	The plea relating to exercise of right of private defence has been rightly rejected by the courts below.
+RatioOfTheDecision	It is in evidence that accused dealt a further blow on the neck, after the deceased had fallen down after receiving blows on other parts of the body.
+RatioOfTheDecision	Section 96 , IPC provides that nothing is an offence which is done in the exercise of the right of private defence.
+RatioOfTheDecision	The Section does not define the expression 'right of private defence'.
+RatioOfTheDecision	It merely indicates that nothing is an offence which is done in the exercise of such right.
+RatioOfTheDecision	Whether in a particular set of circumstances, a person acted in the exercise of the right of private defence, is a question of fact to be determined on the facts and circumstance of each case.
+RatioOfTheDecision	No test in the abstract for determining such a question can be laid down.
+RatioOfTheDecision	In determining this question of fact, the Court must consider all the surrounding circumstances.
+RatioOfTheDecision	It is not necessary for the accused to plead in so many words that he acted in se lf-defence.
+RatioOfTheDecision	If the circumstances show that the right of private defence was legitimately exercised, it is open to the Court to consider such a plea.
+Precedent	In a given case, the Court can consider it even if the accused has not taken it, if the same is available to be considered from the material on record.
+Precedent	Under Section 105 of the Indian Evidence Act, 1872 (in short the ' Evidence Act ') the burden of proof is on the accused, who takes the plea of self-defence, and, in the absence of proof, it is not possible for the Court to presume the truth of the plea of self-defence.
+Precedent	The Court shall presume the absence of such circumstances.
+Precedent	It is for the accused to place necessary material on record either by himself adducing positive evidence or by eliciting necessary facts from the witnesses examined for the prosecution.
+Precedent	An accused taking the plea of the right of private defence is not required to call evidence; he can establish his plea by reference to circumstances transpiring from the prosecution evidence itself.
+Precedent	The ques tion in such a case would be a question of assessing the true effect of the prosecution evidence, and not a question of the accused discharging any burden.
+Precedent	Where the right of private defence is pleaded, the defence must be a reasonable and probable version satisfying the <ORG> that the harm caused by the accused was necessary for either warding off the attack or for forestalling any further reasonable apprehension, from the attacker.
+Precedent	The burden of establishing the plea of self-defence is on the accused and the burden stand discharged by showing preponderance of probabilities in favour of that plea on the basis of the material on record.
+Precedent	<CITATION_1479705> , AIR (1968) SC 702; <CITATION_1660698> , AIR (1975) SC 1478; <CITATION_853570> , AIR (1977) SC 2226 and <CITATION_153251> , AIR (1979) SC 577.
+Precedent	Sections 100 and 101 define the extent of the right of private defence of body.
+Precedent	If a person has a right of private defence of body under Section 97 , that right extends under Section 100 to causing death if there is  reasonable apprehension that death or grievous hurt would be the consequence of the assault.
+Precedent	The oft- quoted observation of <ORG> in <CITATION_1344060> ., AIR (1979) SC 391; runs as follows:  "It is true that the burden on an accused person to establish the plea of self-defence is not as onerous as the one which lies on the prosecution and that, while the prosecution is required to prove its case beyond reasonable doubt, the accused need not establish the plea to the nilt and may discharge his onus by establishing a mere preponderance of probabilities either by laying basis for that plea in the cross-examination of the prosecution witnesses or by adducing defence evidence."
+RatioOfTheDecision	The accused need not prove the existence of the right of private defence beyond reasonable doubt.
+RatioOfTheDecision	It is enough for him to show as in a civil case that the preponderance of probabilities is in favour of his plea.
+RatioOfTheDecision	The number of injuries is not always a safe criterion for determining who the aggressor was.
+RatioOfTheDecision	It cannot be stated as  a universal rule that whenever the injuries are on the body of the accused persons, a presumption must necessarily be raised that the accused persons had caused injuries in exercise of the right of private defence.
+RatioOfTheDecision	The defence has to further establish that the injuries so caused on the accused probabilises the version of the right of private defence.
+RatioOfTheDecision	Non-explanation of the injuries sustained by the accused at about the time of occurrence or in the course of altercation, is a very important circumstance.
+RatioOfTheDecision	But mere non-explanation of the injuries by the prosecution may not affect the prosecution case in all cases.
+RatioOfTheDecision	This principle applies to cases where the injuries sustained by the accused are minor and superficial or where the evidence is so clear and cogent, so independent and disinterested, so probable, consistent and credit-worthy, that it far outweighs the effect of the omission on the part of the prosecution to explain the injuries.
+Precedent	( <CITATION_807023> , <ORG> (1976) SC 2263).
+Precedent	A plea of right of private defe nce cannot be based on surmises and speculation.
+Precedent	While considering whether the right of private defence is available to an accused, it is not relevant whether he may have a chance to inflict severe and mortal injury on the aggressor.
+Precedent	In order to find whether the right of private defence is available to an accused, the entire incident must be examined with care and viewed in its proper setting.
+Precedent	Section 97 deals with the subject matter of right of private defence.
+Precedent	The plea of right comprises the body or property (i) of the person exercising the right; or (ii) of any other person; and the right may be exercised in the case of any offence against the body, and in the case of offences of theft, robbery, mischief or criminal trespass, and attempts at such offences in relation to property.
+Precedent	Section 99 lays down the limits of the right of private defence.
+Precedent	Sections 96 and 98 give a right of private defence against certain offences and acts.
+Precedent	The right given under Sections 96 to 98 and 100 to 106 is controlled by Section  99 .
+Precedent	To claim a right of private defence extending to voluntary causing of death, the accused must show that there were circumstances giving rise to reasonable grounds for apprehending that either death or grievous hurt would be caused to him.
+Precedent	The burden is on the accused to show that he had right of private defence which extended to causing of death.
+Precedent	Sections 100 and 101 , IPC define the limit and extent of right of private defence.
+Precedent	Sections 102 and 105 , IPC deal with commencement and continuance of the right of private defence of body and property respectively.
+Precedent	The right commences, as soon as a reasonable apprehension of danger to the body arises from an attempt, or threat, or commit the offence, although the offence may not have been committed, but not until that there is that reasonable apprehension.
+Precedent	The right lasts so long as the reasonable apprehension of the danger to the body continues.
+Precedent	<CITATION_1046645> , AIR (1963) SC 612, it was observed that as soon as the cause for reasonable apprehension dis appears and the threat has either been destroyed or has been put to route, there can be no occasion to exercise the right of private defence.
+RatioOfTheDecision	In order to find whether right of private defence is available or not, the injuries received by the accused, the imminence of threat to his safety, the injuries caused by the accused and the circumstances whether the accused had time to have recourse to public authorities are all relevant factors to be considered.
+RatioOfTheDecision	We notice that there was an altercation between the accused and the deceased.
+RatioOfTheDecision	There was no pre-meditation and the assaults were given by the accused during the course of the sudden quarrel.
+RatioOfTheDecision	This, according to us, brings the case within the ambit of Exception IV to Section 300 .
+RatioOfTheDecision	Even otherwise, this appears to be a case of accused exceeding the right of private defence.
+RatioOfTheDecision	The appropriate conviction would, therefore, be under Section 304 Part I, IPC and custodial sentence of 10 years would meet the ends of justice.
+RatioOfTheDecision	While awarding the sentence, one factor which  has weighed with us is that two rustic villagers fought over a sheep which led to the death of one.
+RatioOfTheDecision	The social status of the accused and the deceased, which as the materials on record show is that of the lowest layer.
+RatioOfTheDecision	They belonged to the economically distressed class; were illiterate daily wage earners.
+RatioOfTheDecision	Their financial condition can be well gauzed from the fact that they fought over a sheep and the minimal damage done by it to the crops.
+RatioOfTheDecision	There was no previous enimity.
+RatioOfTheDecision	A spur of the moment loss of faculties led to the unfortunate occurrence.
+RatioOfTheDecision	This is certainly a relevant factor to be taken note of while awarding the sentence.
+RulingByPresentCourt	We, therefore, reduce the sentence to 10 years and if the accused has undergone the period of 10 years and is not required to be in custody in any other case, he shall be released forthwith.
+RulingByPresentCourt	The appeal is allowed to the extent indicated.

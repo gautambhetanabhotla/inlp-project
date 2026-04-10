@@ -1,0 +1,479 @@
+Fact	JUDGMENT <NAME>, J.
+Fact	1.
+Fact	<ORG>, Calcutta, is the assessee in this case.
+Fact	The relevant assessment year is 1974-75.
+Fact	The corresponding accounting period ended on 31st December, 1973.
+Fact	The accounts of the assessee-company were maintained on mercantile system.
+Fact	2.
+Fact	During the relevant previous year, the assessee-company was engaged in the manufacture of cigarette making and packing machineries.
+Fact	Net profit as per profit and loss account was Rs.
+Fact	58,77,411.
+Fact	Income disclosed by the assessee was Rs.
+Fact	62,98,280 but the <ORG> computed the total income at Rs.
+Fact	66,91,550.
+Fact	3.
+Fact	The assessee preferred an appeal against the assessment order.
+Argument	Before the <ORG>, the assessee filed an additional ground stating that the <ORG> should have allowed the surtax liability of the assessee-company as a deduction.
+Precedent	In support of its claim, the assessee relied upon a decision of the 'D' Bench of the Appellate Tribunal, Bombay Benches, in I.T.A.
+Precedent	Nos.
+Argument	3068 & 3097 (Bom) of 1972-73, dated 24th February, 1975.
+Argument	Being not satisfied wit h the delay in raising the additional ground, the <ORG> refused to admit the same.
+Argument	4.
+Argument	The assessee appealed to <ORG> which decided the issue with the following observation :  "We have heard both sides.
+RatioOfTheDecision	This is purely a legal contention and, in our opinion, the Appellate Assistant Commissioner should have admitted the appeal and disposed of the same.
+RatioOfTheDecision	However, with the approval of the parties before us and considering the nature of the issue, instead of asking the Appellate Assistant Commissioner to admit the point and to decide thereon, we prefer to dispose of the appeal on merits ourselves here in this order.
+Precedent	Before us, we have a copy of the order dated 1st December, 1977, in I.T.A.
+Precedent	No.
+Precedent	3643 (Born) of 1974-75, for the assessment year 1970-71 in the case of <CITATION_148957201> , passed by <ORG> of <ORG>, <ORG>B'.
+Argument	A similar point which was raised there, was decided by <ORG> against the assessee and the same was discussed in paragraphs 101 to 13 1 of the aforesaid order, The disallowance was obviously made under Section 40(a)(ii) of the Act.
+Argument	Respectfully following the said decision, we reject the assessee's contention that the surtax liability under the Companies (Profits) Surtax Act , 1964, for the relevant year should be deducted in arriving at the total income under the Income-tax Act , 1961."
+Argument	5.
+Argument	At the instance of the assessee-company, the <ORG> has referred the following question of law to this court under Section 256(1) of the I.T.
+Argument	Act, 1961, arising out of the <ORG>'s order dated 9th February, 1978, "Whether, on the facts and in the circumstances of the case, and on a correct interpretation of the provisions of the Income-tax Act , 1961, the <ORG> was right in holding that the surtax liability under the Companies (Profits) Surtax Act , 1964, for the relevant year should not be deducted in arriving at the total income under the Income-tax Act , 1961 ?"
+Argument	6.
+Argument	The first argument of the assessee before us is that the surtax liability under  the C. (P.) S.T.
+Argument	Act , 1964, is a statutory charge on the income of the company, Therefore, the income of the assessee has been statutorily diverted at source.
+RatioOfTheDecision	The real income of the assessee, therefore, must be taken to be reduced by the quantum of the surtax liability.
+RatioOfTheDecision	It has been argued that the I.T.
+RatioOfTheDecision	Act also imposes a liability on the income of the assessee and that liability would have been deductible from the total income of the assessee on the principle of real income.
+RatioOfTheDecision	Because of the provisions of Section 40(a)(ii) , income-tax is not allowable as a deduction for the purpose of computation of taxable profits.
+RatioOfTheDecision	It has further been argued that there are significant changes in the phraseology of Section 40(a)(ii) of the 1961 Act from the language used in Section 10(4) of the 1922 Act.
+RatioOfTheDecision	Because of these changes, it cannot be said that the surtax liability comes within the mischief of Section 40(a)(ii) .
+RatioOfTheDecision	Therefore, the <ORG> will not be able to rely on Section 40(a)(ii) and disallow the deduction that has  been claimed in this case.
+RatioOfTheDecision	7.
+RatioOfTheDecision	It has further been argued that, in any event, the surtax liability under the C. (P.) S, T. Act should be allowed as a deduction, as business expenditure under Section 37 of the I.T.
+RatioOfTheDecision	Act.
+RatioOfTheDecision	It has been argued that Section 40(a)(ii) has been incorporated only for the purpose of excluding the liability of income-tax and the liability for surtax should be allowed as expenditure wholly and exclusively laid out for the purpose of business.
+RatioOfTheDecision	8.
+Argument	The concept of real income was explained by <ORG> in the celebrated case of <CITATION_179373>  1 ITR 135, Lord <NAME> observed at p. 138 of the report:  " When the Act by Section 3 subjects to charge 'all income' of an individual, it is what reaches the individual as income which it is intended to charge.
+Argument	In the present case the decree of the court by charging the appellant's whole resources with a specific payment to his step-mother has to the extent diverted his income from him and as directed it to his step-mother; to that exten t what he receives for her is not his income.
+RatioOfTheDecision	It is not a case of the application by the appellant of part of his income in a particular way, it is rather the allocation of a sum out of his revenue before it becomes income in his hands."
+RatioOfTheDecision	9.
+RatioOfTheDecision	As its name denotes, the C. (P.) S.T.
+RatioOfTheDecision	Act is a tax on profits.
+RatioOfTheDecision	It is an additional tax levied on the total income of a company after making various adjustments and deductions in accordance with the provisions of the Act.
+RatioOfTheDecision	But the levy of the C. (P.) S.T.
+RatioOfTheDecision	Act is only attracted when the income, it intends to charge reaches the assessee.
+RatioOfTheDecision	Payment of surtax by an assessee cannot be described as an allocation of a sum out of his revenue before it becomes income in his hands.
+RatioOfTheDecision	10.
+RatioOfTheDecision	The test laid down by <ORG> in the case of <CITATION_179373>  1 ITR 135, has been applied by <ORG> in a number of cases.
+RatioOfTheDecision	11.
+Argument	In the case of <CITATION_621373> , <ORG> stated the principle of real income in the following terms (p. 374):  "In our opinion, the true test  is whether the amount sought to be deducted, in truth, never reached the assessee as his income.
+RatioOfTheDecision	Obligations, no doubt, there are in every case, but it is the nature of the obligation which is the decisive factor.
+RatioOfTheDecision	There is a difference between an amount which a person is obliged to apply out of his income and an amount, which by the nature of the obligation cannot be said to be a part of the income of the assessee.
+RatioOfTheDecision	Where by the obligation income is diverted before it reaches the assessee, it is deductible ; but where the income is required to be applied to discharge an obligation after such income reaches the assessee, the same consequence, in law, does not follow.
+RatioOfTheDecision	It is the first kind of payment which can truly be excused and not the second.
+RatioOfTheDecision	The second payment is merely an obligation to pay another a portion of one's own income, which has been received and is since applied.
+Precedent	The first is a case in which the income never reaches the assessee, who even if he were to collect it, does so, not as part of his incom e, but for and on behalf of the person to whom it is payable."
+Precedent	12.
+Precedent	When a tax is imposed on the income of the company the company will have to pay that tax but it cannot be said that a part of the income of the company was received for and on behalf of the <ORG>.
+Precedent	In the case of <CITATION_164267522> .
+Precedent	13 ITR (Suppl.)
+Precedent	23 (HL), varying a famous phrase of Lord <NAME>, Viscount Simon L.C., observed : "excess profits tax, if I may be pardoned for saying so, is a tax on profits".
+RatioOfTheDecision	The Companies (Profits) Surtax is also a tax on profits.
+RatioOfTheDecision	Until and unless the profits are earned, the liability to pay income-tax or surtax does not arise.
+RatioOfTheDecision	It is only because the income has reached the assessee that the tax is being imposed.
+RatioOfTheDecision	13.
+RatioOfTheDecision	The I.T.
+RatioOfTheDecision	Act imposes a charge on the total income of an assessee.
+RatioOfTheDecision	The C. (P.) S.T.
+RatioOfTheDecision	Act levies an additional tax on the total income of a company after certain adjustments in accordance with the principles laid down in that Act.
+RatioOfTheDecision	Income or profits on their coming into existence attract tax at  that point, but if no profit or income was earned or received by an assessee, there will not be any question of imposition of income-tax or surtax.
+RatioOfTheDecision	Charge of surtax presupposes existence of income; it does not prevent accrual of income or receipt of income by diverting a portion of the income to the <ORG> at source.
+RatioOfTheDecision	14.
+RatioOfTheDecision	The assessee's total income has been computed by the <ORG> under the provisions of the I.T.
+RatioOfTheDecision	Act to be Rs.
+Precedent	66,91,550.
+Argument	The <ORG> cannot claim any part of the company's total income of Rs.
+Argument	66,91,550 as its own even before it reached the assessee.
+Argument	It has not got any overriding title to this income or any portion of it.
+Argument	What the <ORG>, however, can do is to levy a tax on this total income under the I.T.
+Argument	Act .
+Argument	The <ORG> can also levy an additional tax on this income, after some adjustments and deductions under the C. (P.) S.T.
+Argument	Act .
+RatioOfTheDecision	But both under the I.T.
+RatioOfTheDecision	Act and the C. (P.) S.T.
+RatioOfTheDecision	Act , it is the income of the assessee that is brought to the charge of taxation.
+RatioOfTheDecision	What is taxed is the entirety  of the income.
+RatioOfTheDecision	The <ORG> cannot be heard to say that any portion of the amount of Rs.
+RatioOfTheDecision	66,91,550 was its own income and the company received it for and on behalf of the <ORG>.
+RatioOfTheDecision	The <ORG> is entitled to levy tax on the income only because the entire amount is the income of the assessee.
+RatioOfTheDecision	What comes within the net of assessment is the totality of the income of the assessee.
+RatioOfTheDecision	15.
+RatioOfTheDecision	The case of <CITATION_200923> , also does not support the contention of the assessee.
+RatioOfTheDecision	In that case under an Act the company's profit could not exceed a stated amount.
+RatioOfTheDecision	The excess realization had to be credited to a fund known as "Consumers Benefit Reserve Account".
+Argument	This amount had to be refunded to the subscribers by way of rebate.
+Argument	There <ORG> observed (p. 525):  "The real profit of a businessman under Section 10(1) of the Income-tax Act cannot obviously include the amounts returned by him by way of rebate to the consumers under statutory compulsion.
+Argument	It is as if he received only from the consumers the original amount minus  the amount he returned to them.......
+Argument	The amount returned is not a part of the profits at all."
+Argument	16.
+RatioOfTheDecision	In the case before us it cannot be said that the company's profits could not exceed a stated amount in view of the C. (P.) S.T.
+RatioOfTheDecision	Act .
+RatioOfTheDecision	The surtax is leviable only upon the profits of the company.
+RatioOfTheDecision	The question of payment of surtax arises only after the profits have been ascertained.
+Precedent	<ORG> quoted with approval the observation of <ORG> in the case of <ORG> v. <NAME>  3 TC 185, 188, 189(HL):  "The word 'profits' I think is to be understood in its natural and proper sense--in a sense which no commercial man would misunderstand.
+Precedent	But when once an individual or a company has in that proper sense ascertained what are the profits of his business or his trade, the destination of those profits, or the charge which has been made on those profits by previous agreement or otherwise is perfectly immaterial.
+Precedent	The taxis payable upon the profits realised, and the meaning to my mind is  rendered plain by the words 'payable out of profits'."
+Precedent	17.
+Precedent	In the case of <CITATION_400921> , the question was whether the interest of a sub-partnership in the profits received from the main partnership was of such a nature as to divert the income from the original partner to the sub-partnership.
+Precedent	18.
+Precedent	<ORG> held that in the case of a sub-partnership, the sub-partnership created a superior title and diverted the income from the main firm before it became the income of the partner.
+RatioOfTheDecision	In other words, the partner in the main firm received the income not only on his own behalf but on behalf of the partners of the sub-partnership.
+RatioOfTheDecision	This case, in our opinion, does not throw any light on the problem before us.
+RatioOfTheDecision	19.
+RatioOfTheDecision	In the case of <CITATION_34544076> .
+Argument	, the promoters of the assessee-company entered into an agreement with <ORG> whereby the assets of a sugar company and a distillery and a tincture factory run by the <ORG> were agreed to be sold to a company to be floated for that  purpose.
+Argument	Apart from cash consideration it was provided that the Government shall be further entitled to 20% of the annual net profit up to a maximum of Rs.
+Fact	40,000 after providing for depreciation and remuneration of the secretaries and treasurers.
+Precedent	<ORG> held that the amount paid was either a revenue expenditure or diverted by an overriding charge or an expenditure laid out wholly or exclusively for the purposes of trading.
+Precedent	20.
+Precedent	In the case of <CITATION_706300> , the principle was stated in the following language (headnote):  "The true test to determine, whether in a particular case, a payment is on account of an overriding charge or is a mere application of income, must be to find out in the background of the obligations imposed whether the amount in question reaches the assessee as his income."
+Precedent	21.
+RatioOfTheDecision	These are cases of diversion of income by an overriding title before it reaches the assessee.
+RatioOfTheDecision	But unless the income in question reaches the assessee as income, there cannot be any question of impositi on of income-tax or surtax.
+RatioOfTheDecision	Whatever income has reached the assessee has been brought under the pale of taxation under these two Acts.
+RatioOfTheDecision	22.
+RatioOfTheDecision	An argument similar to what has been contended in this case was repelled in the well-known case of <ORG> v. Attorney-General [1906] AC 10 (HL).
+RatioOfTheDecision	In that case it was statutorily provided that the profits of <ORG> to be divided among the shareholders in any year should not exceed the rate of 10% per annum on the ordinary share capital.
+Argument	The company distributed 10% as dividend tax-free.
+Argument	The argument on behalf of the company was that the income-tax was a charge on the profits before distribution to the shareholders ; it was one of the charges which had to be deducted before arriving at the profits and calculating the dividend.
+Argument	The tax was charged upon the company and the company was entitled to adopt the principle upon which it had acted.
+Argument	<NAME> (Attorney-General v. <ORG> [1904] 2 Ch 621, 624 (Ch D & CA)) observed as follows:  "The profits  are not arrived at after deducting income-tax.
+Argument	The income-tax is part of the profits--namely, such part as the <ORG> is entitled to take out of the profits.
+Argument	A sum which is an expense, which must be borne whether profits are earned or not, may no doubt be deducted before arriving at profit.
+Argument	But a proportionate part of the profits payable to the <ORG> is not a deduction before arriving at, but a part of, the profits themselves."
+Precedent	23.
+Precedent	On further appeal, <ORG> observed as follows ([1906] AC 10, 12(HL)):  "Profit is a plain English word ; that is what is charged with income tax......
+Precedent	The income tax is a charge upon the profits; the thing which is taxed is the profit that is made, and you must ascertain what is the profit that is made before you deduct the tax--you have no right to deduct the income tax before you ascertain what the profit is.
+Precedent	I cannot understand how you can make the income tax part of the expenditure.
+Precedent	I share <NAME> difficulty in understanding how so plain a matter has been dis cussed in all the courts at such extravagant length."
+Precedent	24.
+Precedent	In the case before us it is the total income of the company after some adjustment which is being charged with surtax.
+Precedent	The thing which is being taxed is the profit that the company has made.
+Precedent	25.
+Argument	On behalf of the assessee strong reliance was placed on the following passage from the Valuation of Company Shares and Business by A.V.
+Argument	Adamson, 5th Edn., p. 105 :  ''Taxes on company income :  An English legal interpretation of the nature of these taxes may be found in a decision of <ORG> in the case of <ORG> [1942] 2 All TCR 528 (CA), which dealt with the question as to whether excess profits tax should be deducted in arriving at net profit.
+Argument	<NAME> stated :  'It is indisputable that for the purpose of drawing up the profit and loss account of a trading company excess profits tax must be deducted if ordinary commercial practice is to be followed...it is not merely common knowledge but common-sense that the divisible profits of a  trading company cannot properly be ascertained without first making that deduction'."
+Argument	26.
+RatioOfTheDecision	That all statutory dues including taxes on income will have to be deducted from the income of a company for the purpose of computing its divisible profit for the purpose of distribution of dividend cannot be disputed.
+RatioOfTheDecision	In the case of <CITATION_164267522> .
+RatioOfTheDecision	2 AH ER 528, <ORG> was faced with the problem of construction of an agreement which provided for sale of property including the business of West African merchants formerly carried on by the vendor-company.
+Fact	The agreement provided that the purchasers should pay by instalments in eight years "of one-half the sum which the auditors of the purchasers... should certify to be the profits of such financial year" without deduction for income-tax.
+Fact	Lord <NAME> observed at p. 531 as follows:  "......the instruction to the auditors is that, in making their computation of the profits of the purchasers for the purposes of this agreement, they are to start with an d work upon the general principles of ordinary commercial practice in computing the profits of a trading company.
+Fact	That, however, does not quite answer the question, because it may still be asked : computing the profits of a trading company for what purpose ?
+Fact	Now there again it seems to me that the answer is a clear answer for the ordinary purpose for which profits of a trading company are computed, namely, the profit and loss account of the company on the basis of which the profits are to be distributed.
+Fact	I can think of no other ordinary commercial practice in computing the profits of a trading company save the practice of computing such profits for such a purpose."
+Fact	27.
+Fact	The dispute in the cape of <ORG>, was whether the profit that was to be computed and certified by the auditors were the ordinary profits of the company or the divisible profits.
+Fact	Lord <NAME> was of the view that calculation of profits in accordance with ordinary commercial practice under the agreement meant divisible profits.
+Fact	This view was also adopted in <ORG> by Lord <NAME>, Lord <NAME> of Killowen and Lord <NAME>.
+Fact	As Lord <NAME> put it "whether these profits are so divided or are used for developing the company's business or in other similar ways did not affect the position".
+RatioOfTheDecision	28.
+RatioOfTheDecision	There cannot be any two opinions about it that for the purpose of computation of distributable or divisible profits of a company, the surtax payable by the company will have to be deducted.
+RatioOfTheDecision	In fact, there is a specific provision under the C. (P.) S. T. Act , 1964, to that effect.
+Fact	It has been provided under Section 15 that in computing the distributable income of a company for the purposes of Chap.
+Fact	XI-D of the I.T.
+RatioOfTheDecision	Act, the surtax payable by the company for any assessment year shall be deductible from the total income of the company assessable for that assessment year.
+Precedent	29.
+Precedent	But in the case before us the problem is not of computation of divisible profits.
+Precedent	The question is what are the profits of the assessee-company ?
+Precedent	In that context th e views of Viscount <NAME> and Lord <NAME> will be more helpful for our present purpose.
+Precedent	Viscount <NAME> and Lord <NAME> were of the view that under the agreement profits did not mean divisible profits of the company.
+Precedent	30.
+Precedent	Viscount <NAME> observed at p. 26 of 13 ITR (Suppl.
+Precedent	): "The word 'divisible' or 'distributable' does not occur in the agreement from beginning to end, and, to my mind, the profits of a trading company when ascertained in accordance with ordinary commercial practice are the profits before, and not after, deducting the direct taxation which has to be paid in respect of them.
+Precedent	It is not to be disputed that this is the case with income tax, for income tax is not a deduction which has to be made in order to arrive at profits; it is the <ORG>'s share of the profits.
+Precedent	All this has been explained once and for all in the well-known case of <ORG> v. Attorney-General [1906] AC 10 (HL).
+Precedent	Counsel for the respondents admitted that this would be true whether the express provision e xcluding income tax was in the agreement or not.
+Precedent	31.
+Argument	Why is not the same thing true about excess profits tax ?
+Argument	Varying a famous phrase of Lord <NAME> in <ORG> v. Attorney-General (No.
+Argument	1) [1901] AC 26 (HL), I venture to observe that excess profits tax, if I may be pardoned for saying so, is a tax on profits.
+Argument	It is a tax (very elaborately calculated it is true) on profits, for it is a tax on excess profits--it skims the cream off profits so far as they are in excess of the standard profit."
+Argument	32.
+Argument	Lord <NAME> observed at p. 34 of the report:  "It is enough for my purpose to emphasise that, as its name denotes, the tax is a tax on profits, namely the profits earned in excess of a fixed standard and that for the purpose of computing it the profits are, subject to certain special provisions, to include all such income arising from the trade or business as is chargeable to income-tax under Case I of Schedule 'D': see the Finance (No.
+Argument	2) Act, 1939, Schedule VII, para.
+Argument	7.
+Argument	It is in short a super  income tax."
+Argument	33.
+Argument	Surtax like excess profits tax is basically an additional tax levied on the income of a company.
+Argument	It does not divert any portion of that income at source by an overriding title.
+Statute	It is a tax on so much of the chargeable profits of the previous year as exceed the statutory deduction at the rate specified in the Act.
+Statute	Chargeable profits has been defined to mean total income of an assessee as computed under the I.T.
+Statute	Act and adjusted in accordance with the provisions of the First Schedule.
+Statute	The <ORG> by this Act has imposed an additional levy on the total income of a company.
+RatioOfTheDecision	The subject-matter of the levy is the income of the company.
+RatioOfTheDecision	That income does not cease to be the income of the company merely because an additional tax is imposed upon it.
+RatioOfTheDecision	It is one thing to say that the <ORG> is entitled to levy surtax on this income but it is quite another thing to say that the <ORG> is entitled to get a portion of this income by an overriding title even before it reaches the company.
+RatioOfTheDecision	34.
+RatioOfTheDecision	We shall  now consider the argument that the liability for surtax must be allowed as business expenditure in computing the total income of the assessee under the I.T.
+RatioOfTheDecision	Act and the embargo contained in Section 40(a)(ii) of the I.T.
+RatioOfTheDecision	Act must be confined to income-tax only.
+RatioOfTheDecision	35.
+RatioOfTheDecision	In order to appreciate this argument it is necessary to set out Section 10(4) of the Indian I.T.
+RatioOfTheDecision	Act, 1922, and Section 40(a)(ii) and Section 2(43) of the I.T.
+RatioOfTheDecision	Act, 1961 :   Indian Income-tax Act , 1922.
+RatioOfTheDecision	"10.
+Statute	(4) Nothing in Clause (ix) or Clause (xv) of Sub-section (2) shall be deemed to authorise the allowance of any sum paid on account of any cess, rate or tax levied on the profits or gains of any business, profession or vocation or assessed at a proportion of or otherwise on the basis of any such profits or gains ;....."   Income-tax Act , 1961, "40.
+Statute	Amounts not deductible.--Notwithstanding anything to the contrary in Sections 30 to 39 , the following amounts shall not be deducted in computing the income chargeable under the head 'Profits and  gains of business or profession'-  (a) in the case of any assessee--......  (ii) any sum paid on account of any rate or tax levied on the profits or gains of any business or profession or assessed at a proportion of, or otherwise on the basis of, any such profits or gains;...... "  "2.
+Statute	(43) 'Tax' in relation to the assessment year commencing on the 1st day of April, 1965, and any subsequent assessment years means income-tax chargeable under the provisions of this Act, and in relation (o any other assessment year income-tax and super-tax chargeable under the provisions of this Act prior to the aforesaid date."
+Statute	36.
+Argument	It has been argued that under the Act of 1922, an assessee could not claim deduction on account of payment of any tax calculated on the basis of profits or gains of business and, therefore, an assessee could not have claimed any deduction on account of excess profits tax or business profits tax because these taxes were in the ultimate analysis levied on the profits of a company calculated in a certa in manner.
+Argument	It has been argued that because of the changed phraseology and also the definition of "tax" in the Act of 1961, the statutory disallowance is now limited only to income-tax.
+Argument	37.
+Argument	It has been argued that the <ORG> wanted in confine the disallowance only to income-tax and super-Lax chargeable under the provisions of the I.T.
+Argument	Act and after 1st April, 1965, only to income-tax.
+Argument	The phrase "chargeable under the provisions of this Act" clearly shows that the <ORG> intended the disallowance in Section 40(a)(ii) to be confined to a tax on income which was chargeable under the I.T.
+Argument	Act ; 1961, and nothing else.
+Argument	38.
+Argument	It has been argued that, in any event, the scope of Section 40(a)(ii) must be confined to a tax on the business income of the assessee which has been charged to tax under Section 28 under the head "Profits and gains of business or profession".
+RatioOfTheDecision	The chargeable profits under the C. (P.) S. T. Act is computed on the basis of the total income assessed under the I.T.
+RatioOfTheDecision	Act and cannot be confi ned to profits or gains of business or profession only.
+RatioOfTheDecision	Therefore, the levy of surtax does not come within the mischief of Section 40(a)(ii) .
+RatioOfTheDecision	39.
+RatioOfTheDecision	We are unable to accept the contention that "tax" in Section 40(a)(ii) must be understood to mean only income-tax.
+RatioOfTheDecision	The definition given in Section 2(43) only will apply "unless the context otherwise requires".
+Statute	The expression "any rate or tax" in Section 40(a)(ii) means any rate or any tax and not income-tax only.
+Statute	That the Section is not confined to income-tax only is made clear by the words "levied on the profits or gains of any business or profession or assessed at a proportion of or otherwise on the basis of any such profits or gains".
+Statute	40.
+Statute	The <ORG> has refrained from using the expression "profits and gains of business or profession" to indicate that the exclusion from deduction in Section 40(a)(ii) was not to be confined to a tax imposed on income computed under Section 28 of the I.T.
+RatioOfTheDecision	Act.
+RatioOfTheDecision	The expression "profits or gains" must be understood in its ordin ary sense.
+RatioOfTheDecision	"Profits" in common parlance means excess of income over expenditure.
+RatioOfTheDecision	"Gains" is also a word of very wide connotation.
+RatioOfTheDecision	A man working for gain is not necessarily engaged in a trade or business.
+Statute	The word "business" has been denned in Section 2(13) of the I.T.
+Statute	Act:  "'Business' includes any trade, commerce or manufacture or any adventure or concern in the nature of trade, commerce or manufacture."
+RatioOfTheDecision	41.
+RatioOfTheDecision	The profits made by a company including its income from dividend, interest and rent will have to be shown in the profit & loss account.
+RatioOfTheDecision	For the purpose of computation of total income under the I.T.
+RatioOfTheDecision	Act the profits made by a company will have to be split up under different heads of income as laid down in Section 14 of the I.T.
+RatioOfTheDecision	Act.
+RatioOfTheDecision	But the profit of a company does not change its character only because it is classified in a certain way under the I.T.
+RatioOfTheDecision	Act for the purpose of assessment.
+RatioOfTheDecision	<ORG> in the case of <CITATION_1467661> .
+Statute	, observed at p. 24 :  " Section 2(4) of the Indian Income-tax Act,  1922, defines 'business' as including any trade, commerce or manufacture, or any adventure or concern in the nature of trade, commerce or manufacture.
+Statute	Business is therefore an activity of a commercial nature....
+Statute	...The heads described in section 6 and further elaborated for the purpose of computation of income in Sections 7 to 10 and 12 , 12A , 12AA and 12B are intended merely to indicate the classes of income : the heads do not exhaustively delimit sources from which income arises.
+Precedent	This is made clear in the judgment of this court in <ORG>'s case , that business income is broken up under different heads only for the purpose of computation of the total income : by that break up the income does not cease to be the income of the business, the different heads of income being only the classification prescribed by the Indian Income-tax Act for computation of income."
+Precedent	42.
+RatioOfTheDecision	In the case before us the question is whether surtax payable by the assessee comes within the mischief of Section 40(a) (ii) .
+RatioOfTheDecision	It is stated in the preamble of the C.(P.) S.T.
+RatioOfTheDecision	Act that "it is an Act to impose a special tax on the profits of certain companies".
+RatioOfTheDecision	Although chargeable profits are computed on the basis of the total income of a company, assessed under the I.T.
+RatioOfTheDecision	Act , but none the less it is a profit made by the company that is taxed under the I.T.
+RatioOfTheDecision	Act .
+RatioOfTheDecision	In this connection it is to be borne in mind that the assessee under the Surtax Act is a company and not an individual.
+Precedent	The importance of this distinction was pointed out by <NAME> in the case of <NAME> v. <NAME>  15 Ch D 247, 260 (CA) :  "There are many things which in common colloquial English would not be called a business, even when carried on by a single person which would be so called when carried on by a number of persons.
+RatioOfTheDecision	That is a distinction not to be forgotten, even if we were trying the question by the ordinary use of the English language.
+RatioOfTheDecision	For instance, a man who is the owner of offices, that is, of a house divided into several floors and used for comm ercial purposes, would not be said to carry on a business because he let the offices as such ; but suppose a company was formed for the purpose of buying a building, or leasing a house, to be divided into offices, and to be let out, should not we say, if that was the object of the company, that the company was carrying on business for the purpose of letting offices or was an office-letting company, trying it by the use of ordinary colloquial language ?
+RatioOfTheDecision	The same observation may be made as regards a Single individual buying or selling land, with this addition, that he may make it a business, and then it is a question of continuity.
+RatioOfTheDecision	A man occasionally buys and sells land, as many land-owners do, and nobody would say he was a land-jobber or dealer in land, but if a man made it his particular business to buy and sell land to obtain profit, he would be designated as a land-jobber or dealer in land.
+RatioOfTheDecision	When you come to an association or company formed for a purpose, you say at once that it is a business, because there  you have that from which you would infer continuity......"  43.
+RatioOfTheDecision	Although the judgment of <NAME> in that case was ultimately overruled, the oft-quoted passage extracted above has never been doubted.
+RatioOfTheDecision	44.
+RatioOfTheDecision	In our opinion, it cannot be said that the tax sought to be imposed by the C.(P.) S.T.
+RatioOfTheDecision	Act will not come within the mischief of Section 40(a)(ii) of the Income-tax Act.
+RatioOfTheDecision	45.
+Precedent	Moreover, in the case before us the assessee filed a return disclosing an income of Rs.
+Precedent	62,98,220.
+Precedent	The <ORG> computed the assessee's income at Rs.
+Fact	66,91,550 out of which business income came to Rs.
+RatioOfTheDecision	63,99,391 after making various disallowances.
+RatioOfTheDecision	The surtax imposable in this case has to be calculated on the basis of the total income of the assessee-company after making statutory adjustments.
+RatioOfTheDecision	If the tax that is sought to be imposed is not on the profits or gains of the business of the assessee, it is certainly levied on the basis of the profits or gains made by the assessee-company in its business.
+RatioOfTheDecision	46.
+RatioOfTheDecision	Even apart from Section 40(a)(ii) th e amount of surtax payable by the assessee cannot be allowed as deduction in the computation of its total income.
+RatioOfTheDecision	We are unable to accept the argument that on principle the tax payable under the C.(P.) S.T.
+RatioOfTheDecision	Act should be deducted as business expenditure under Section 37 of the I.T.
+RatioOfTheDecision	Act.
+RatioOfTheDecision	47.
+RatioOfTheDecision	In this connection it will be useful to compare the provisions of the C.(P.) S.T.
+Statute	Act with the provisions of the Excess Profits Tax Act and the Business Profits Tax Act .
+Statute	The Excess Profits Tax Act imposed a tax "on the amount by which the profits during any chargeable accounting period exceeded the standard profits".
+Statute	Profits had to be calculated in accordance with the provisions of the First Schedule wherein it was provided that the profits of a business were to be computed "on the principles on which the profits of a business are computed for the purpose of income-tax under Section 10 of the Indian Income-tax Act, 1922".
+Statute	It was specifically provided under Section 12 that the amount of excess profits tax payable in respe ct of a business shall be allowed to be deducted as an expense for the purpose of income-tax or.
+Statute	super profits tax.
+Statute	It was provided in that Act that any repayment of excess profits tax would be chargeable to tax in computing the profits and gains of the business for the purpose of income-tax as if the amount were a profit of the business accruing in the year in which the amount was repaid.
+Statute	48.
+Statute	Under the provisions of the Business Profits Tax Act , a tax was imposed on the amount of the "taxable profits" of the business.
+Statute	"Deductible profit" was defined to mean the amount by which the profits during a chargeable accounting period exceeded the abatement in respect of that period.
+Statute	It was provided in the First Schedule that the profits of a business should be computed in accordance with the provisions of Section 10 of the Indian I.T.
+Statute	Act, 1922.
+Statute	Under Section 10 it was provided that the amount of business profits tax payable by any person for any chargeable accounting period shall, in computing the total income fo r the purpose of income-tax or super-tax, be allowed as deduction.
+Statute	It was also provided that if any amount of excess profits tax was refunded it would be taken into account in computing the profits and gains of a business for the purpose of income-tax as if the amounts were profits accruing in the relevant previous year.
+RatioOfTheDecision	49.
+RatioOfTheDecision	The provisions of the C.(P.) S.T.
+RatioOfTheDecision	Act are significantly different.
+RatioOfTheDecision	Section 2(5) defines chargeable profits.
+Statute	It means total income of an assessee computed under the I.T.
+Statute	Act , 1961, and adjusted in accordance with the provisions of the First Schedule.
+Statute	Section 4 imposes a charge of tax in respect of so much of chargeable profits as exceed the statutory deduction at the rate specified in the Third Schedule.
+Statute	Statutory deduction has been defined in Section 2(8) to mean an amount equal to 10% of the capital of the company computed in accordance with the provisions of the Second Schedule or an amount of two hundred thousand rupees, whichever is greater.
+Statute	50.
+Statute	The First Schedule which contains ru les for computing the chargeable profits has provided under r, 2 as under:  "2.
+Statute	The balance of the total income arrived after making the exclusions mentioned in Rule 1 shall be reduced by-  (i) the amount of income-tax payable by the company in respect of its total income under the provisions of the Income-tax Act after making allowance for any relief, rebate or deduction in respect of income-tax to which the company may be entitled under the provisions of the said Act or the annual Finance Act ......"  51.
+Statute	Section 14 of the C.(P.) S.T.
+Fact	Act empowers the <ORG> to recompute and determine the surtax payable or refundable when an order has been passed under Section 154 , 155 , 250 , 254 , 260 , 262 , 263 or 264 of the I.T.
+Fact	Act and the period of limitation for such recomputation shall be four years from the date of the relevant order passed under the I.T.
+RatioOfTheDecision	Act .
+RatioOfTheDecision	This goes to show that the total income must be computed first under the I.T.
+RatioOfTheDecision	Act and the surtax assessment will follow the income-tax assessment.
+RatioOfTheDecision	If there i s any reduction or enhancement of the amount of income-tax payable by an assessee as a result of any proceeding by way of rectification or revision or appeal or reference, then the surtax assessment will have to be modified accordingly.
+RatioOfTheDecision	The I.T.
+RatioOfTheDecision	Act , however, does not contain any similar provision for rectification of the assessed income pursuant, to any modification in the amount of surtax payable as a result of any appeal, revision, rectification or reference.
+RatioOfTheDecision	52.
+RatioOfTheDecision	The computation of income for the purpose of the I.T.
+RatioOfTheDecision	Act must precede an assessment under C.(P.) S.T.
+RatioOfTheDecision	Act .
+RatioOfTheDecision	The total income under the I.T.
+RatioOfTheDecision	Act must be calculated, the tax payable under the I.T.
+RatioOfTheDecision	Act has to be determined and then only the question of computation of chargeable profits of the company will arise.
+RatioOfTheDecision	In computing the chargeable profits the amount of income-tax has to be deducted.
+Statute	There is no provision similar to Section 12 of the Excess Profits Tax Act or Section 10 of the Business Profits Tax Act wherein it was specifically provided t hat these two taxes will be deductible from the total income for the purpose of computation of income-tax.
+Statute	53.
+Statute	The amount of surtax paid by a company has been specifically made deductible from the total income under Section 15 of the Surtax Act.
+Statute	"15.
+Statute	Surtax deductible in computing distributable income under Income-tax Act .--Notwithstanding anything contained in Clause (i) of Section 109 of the Income-tax Act, in computing the distributable income of a company for the purposes of Chapter XI-D of that Act, the surtax payable by the company for any assessment year shall be deductible from the total income of the company assessable for that assessment year."
+Statute	"Distributable income" has been defined in Section 109 of the I.T.
+Statute	Act; the material part of that Section is as under :  "109.
+Statute	For the purpose of Sections 104 , 105 and 107A and this Section ,---  (i) 'distributable income ' means the gross total income of a company as reduced by -  (a) the amount of income-tax payable by the company in respect of its tot al income, but excluding the amount of any income-tax payable under Section 104 ;......"  54.
+Argument	If we accept the contention made on behalf of the assessee and hold that the surtax payable by the assessee is eligible for deduction under Section 37 of the I.T.
+Argument	Act, for the purpose of computation of the total income of the assessee, then Section 15 of the Surtax Act becomes meaningless and otiose.
+RatioOfTheDecision	Section 15 makes it clear that the liability for payment of surtax is not a deductible expenditure for the purpose of computation of total income of the company, but the distributable income of a company must be computed after deducting the surtax payable by the company from its total income.
+RatioOfTheDecision	55.
+RulingByLowerCourt	The English courts have consistently held that but for the specific provision contained in the statute, excess profits tax would not have been deductible for the purpose of computation of profits under the I.T.
+RatioOfTheDecision	Act .
+RatioOfTheDecision	It has been held that there is no distinction in principle between payment of excess profits tax under the laws  of England and under the laws of a foreign country in this respect.
+RatioOfTheDecision	The amount of excess profits tax paid under a foreign statute is not allowable as deduction because there is no specific provision of law to that effect.
+RatioOfTheDecision	Therefore, on general principle an amount paid by way of excess profits tax under foreign law cannot be allowed as deduction in England.
+RatioOfTheDecision	56.
+RatioOfTheDecision	It has been argued that in order to decide the question that has arisen before us, reliance should not be, placed on the English cases because the phrase "wholly and exclusively for the purpose of business" has been construed by <ORG> in a very wide sense.
+RatioOfTheDecision	The English courts have construed that expression in the context of the English statute in a much narrower sense.
+RatioOfTheDecision	It has been argued that <ORG> in the case of <CITATION_254611> ] 84 ITR 735, has not accepted the test of capacity in this connection.
+RatioOfTheDecision	It has further been argued that in the case of <CITATION_384183> .
+RatioOfTheDecision	, <ORG> has differed from the majority judgment of  <ORG> in the case of <ORG>, v. <NAME>  30 TC 267 ;  17 ITR (Suppl.)
+RatioOfTheDecision	I (HL), and has allowed deduction of law charges incurred for conducting proceedings before <ORG> for the assessment years 1941-42 to 1947-48.
+RatioOfTheDecision	57.
+RatioOfTheDecision	In the case of <CITATION_254611> , <ORG> held that the wealth-tax paid by the assessee, a trading company, on assets held by it for the purpose of its business, was deductible as business expenditure in computing the assessee's income from business.
+RatioOfTheDecision	<ORG> in that case reversed its earlier decision in the case of <CITATION_152579> , in which it has held that the amount of wealth-tax paid by the assessee was not a permissible deduction as business expenditure because wealth-tax was imposed on the ownership of assets and not on any commercial activity.
+RatioOfTheDecision	In the case of <ORG> v. <NAME>  30 TC 298 ;  17 ITR (Suppl.)
+RatioOfTheDecision	19 (HL), Lord <NAME> held that an expense was not deductible if it fell on a trader in so me character other than that of a trader.
+RatioOfTheDecision	This test, however, was not applied by the other judges of <ORG> who agreed with Lord <NAME> in that case.
+Precedent	The unsoundness of the test of capacity or character in which the tax was paid was pointed out in the case of <ORG> v. <ORG>41 TC 450 (CA).
+Precedent	58.
+Precedent	In the case of <ORG> , <ORG> has relied on the ratio of the decision in the case of <ORG> v. <ORG> in holding that wealth-tax was an allowable deduction as business expenditure.
+Precedent	<ORG> has not differed from that judgment in any way.
+Precedent	59.
+Precedent	In the case of <ORG> v. <ORG>, it was held that a tax known as the substitute tax payable by the company in Argentina which was charged annually at the rate of one per cent.
+Precedent	of the company's capital and was payable whether or not there was profit liable to Argentina income tax, was deductible as a business expenditure.
+Precedent	It was held by <ORG> y J., at p. 461 :  "The tax is not, in my judgment, a tax which is of the same character as income tax or excess profits tax ; it is not a tax which can only be measured and the liability to which can only be ascertained after the profits position of the company has been finally determined in any year.
+RatioOfTheDecision	Payment of that tax is not, as it seems to me, an application of the company's profits, nor is it a payment which in its nature could be said to fall to be made out of the earned profits of the company, for it is not a tax the liability to which depends upon the company having earned any profits.
+RatioOfTheDecision	It is a liability which the company has exposed itself to, or undertaken, in order that it may be able to carry on its business in the Argentine.
+Precedent	And so it is, in my judgment, a liability which the company has undertaken for the purposes of its trade, and the payment of the tax is, in my judgment, a payment wholly and exclusively made for the purposes of the company's trade, just as in the <ORG> case [1910] 5 TC  568 (HL), the liability of the landlord to make compensation fund contributions was a liability which it subjected itself to by assuming the character of landlord for the purposes of its trade as brewer."
+Precedent	60.
+Precedent	The judgment of <ORG> was affirmed on appeal.
+Argument	<ORG> rejected the proposition that the answer to the question depended on the capacity in which the taxpayer paid the tax.
+Argument	<ORG>, however, distinguished the substitute tax payable in Argentina with the case of an English company which pays income-tax, corporation profits tax and excess profits tax in Ireland.
+Argument	It was held by <ORG> that the substitute tax was a disbursement wholly and exclusively laid out or expended for the purposes of the trade of the company.
+Argument	<ORG> who agreed with <ORG> also rejected the distinction between expenditure in the capacity of a trader and expenditure in some other capacity.
+Argument	<ORG> observed (p. 469 of 41 TC):  "Liability to the tax does not depend upon whether profits are made or no t. It is a payment which the company is compelled to make if it has a business establishment in the Argentine at all, and it must have a business establishment if it is to carry on its trade.
+Argument	I can see no relevant difference between this tax and rates upon its business premises ....."  61.
+RatioOfTheDecision	In the case before us the question of capacity or the character of the taxpayer really does not arise.
+RatioOfTheDecision	The real question is whether a tax which has been imposed on the total income of a company after some adjustments can be allowed as a deduction in computing total income of that company under the I.T.
+RatioOfTheDecision	Act .
+Argument	Is it a business expenditure of the company ?
+Argument	In his concurring judgment in the case of <CITATION_254611> the distinction between the two types of taxes were brought out by <NAME>, in the following words (p. 749):  "In other words, where profits, the net gains of business determined after making all permissible deductions, are taxed, the disbursements to meet such taxes cannot be deducted.
+Precedent	But, where the tax was levied,  as it was in <ORG>' case [1964] 41 TC 450 (CA), on capital or assets used for the purpose of earning these profits, it was a permissible deduction in calculating profits."
+Precedent	62.
+Precedent	The question of deducibility of excess profits tax paid by a company as business expenditure came up for consideration before <ORG> in the case of <ORG> [1952] 33 TC 259.
+Precedent	In that case <ORG> held unanimously that such payments were not deductible.
+Precedent	It was held that it could not be allowed as a deduction on the ground that excess profits tax was a tax on profits and it could not be allowed on the same principle that income-tax was not allowed as a deduction in making assessment of income.
+Precedent	This case is important for our purpose and the principle laid down in this case is equally applicable to surtax which is a tax, of the same character as income-tax or excess profits tax.
+Precedent	63.
+Precedent	Lord <NAME> observed, at p. 274 of the report, as follows :  "On the first question I am of opinion that  taxes such as those now in question, namely, income-tax, corporation profits tax and excess profits tax, are not, according to the authorities, wholly and exclusively laid out for the purposes of the company's trade in the United Kingdom.
+Precedent	Taxes such as these are not paid for the purpose of earning the profits of the trade they are the application of those profits when made and not the loss so that they are exacted by a dominion or foreign government.
+Precedent	No clear distinction in point of principle was suggested to your Lordships between such taxes imposed by the United Kingdom government and those imposed by dominion or foreign governments."
+Precedent	64.
+Precedent	Lord <NAME> observed at pp.
+Argument	282-283 ;  "It is true that the payments which the respondents seek to have allowed as deductions were payments of Eire taxes and not of United Kingdom taxes, but the parties have admitted that the relevant legislation in Eire corresponds to that in the United Kingdom, and I cannot see that there is any distinction in principle between them for p resent purposes.
+RatioOfTheDecision	Certainly no authority for any such distinction was cited.
+RatioOfTheDecision	It therefore appears to me to be established that there is not and never was any right under the principles applicable to Case I to deduct income tax or excess profits tax, British or foreign, in computing trading profits."
+RatioOfTheDecision	65.
+RatioOfTheDecision	Lord <NAME> mentioned another practical difficulty for allowing this claim at p. 284 as follows:  "Moreover the present case is an example of a puzzling situation which would arise if the respondents were right.
+RatioOfTheDecision	It is admitted that tax in Eire is assessable on the same principles as in the United Kingdom.
+RatioOfTheDecision	So, if the respondents are right here, they would have been entitled in Eire to a deduction of United Kingdom excess profits tax payable by them.
+RatioOfTheDecision	The amount of tax payable in the one country could not be determined until the amount of the deductions allowable there had been determined; but one deduction would be the amount of tax payable in the other country.
+RatioOfTheDecision	The amount of tax payable in the other country could  not be determined until the deductions allowable there had been determined : but one of those deductions would be the amount of tax payable in the first country.
+Precedent	I see no way in which this circle could be broken."
+Precedent	...  66.
+Precedent	Lord <NAME> observed at p. 285 as follows :  "It is true that both those decisions bore upon the question of deducting excess profits tax paid in this country in a computation of pro fits, and the question before us relates to a deduction of income and profit taxes paid in another country.
+Precedent	But once it is accepted that the criterion is the purpose for which the expenditure is made in relation to the trade of which the profits are being computed.
+Precedent	I have been unable to find any material distinction between a payment made to meet such taxes abroad and a payment made to meet a similar tax at home."
+Precedent	67.
+Precedent	On behalf of the assessee reliance was placed on the judgment of <ORG> in the case of <CITATION_76552> .
+RatioOfTheDecision	But that case, in our opinion, does not support the contention of the asse ssee in any way.
+RatioOfTheDecision	In that case <ORG> explained the meaning of "provision" and "reserve" under the S.P.T.
+RatioOfTheDecision	Act, and the C. (P.) S. T. Act .
+Fact	In that case the question was whether the provisions for taxation, for retirement gratuity and for dividends could be treated as reserves for computing the capital for the purpose of the S.P.T.
+Fact	Act, 1963, for the assessment year 1963-64.
+RatioOfTheDecision	68.
+RatioOfTheDecision	In the case of <CITATION_164267522> .
+Fact	13 ITR (Supp) 23 (HL), the dispute was about the construction of an agreement and the question that arose in <ORG> was whether the expression "profits" in that agreement meant divisible profits.
+Fact	There were illuminating passages in the judgments of Viscount <NAME> and Lord <NAME> about the true nature of excess profits tax which have already been set out.
+RatioOfTheDecision	69.
+Argument	Lord <NAME> was also of the view that the amount paid by way of excess profits tax was not actually an expenditure but was to be deducted as an expenditure from the profits of the company because of the specific , provision made in the Finance Act , 1939.
+Argument	Lord <NAME> observed at pp.
+Argument	37, 38 of the report as follows;  " The Finance Act , 1939, expressly provides that in computing the profits and gains for the purpose of income tax, the excess profits tax shall be allowed to be deducted as an expense incurred.
+Argument	I do not take that as meaning that it is actually an expense, because it is clearly not so; what is meant is that it is as much to be deducted from the earnings as if it were an expense in the strict sense."
+Precedent	70.
+RatioOfTheDecision	It has also been argued on behalf of the assessee that the earning of profit and payment of taxes are not isolated and independent activities.
+RatioOfTheDecision	Those activities are continuous and take place from year to year.
+RatioOfTheDecision	The liability to pay income-tax and surtax arises because a person is carrying on the business by which he earns profits.
+RatioOfTheDecision	Therefore, the liability to pay the tax is an incidence of carrying on of the business through which he earns profits.
+RatioOfTheDecision	Strong reliance has been placed on the decisions in <CITATIO N_975614> and <CITATION_1240166> .
+RatioOfTheDecision	But these two cases merely reiterate the principles laid down in the case of <CITATION_254611> , which we have noted earlier.
+Precedent	In the first of these two cases <ORG> allowed the tax levied by the U. P. Large Land Holdings Tax Act, 1957, on the ground that the tax was levied on the business assets by applying the ratio of the decision in the case of <ORG> This was done on the basis of the finding that the tax was levied on lands owned by the assessee-company as its business assets.
+Precedent	In the case of <CITATION_1240166> , the question was whether the property tax paid by the assessee in Japan on its vessels was allowable and <ORG> held that the expenditure was as owner-cum-trader and incidental to the carrying on of its business.
+Precedent	71.
+Precedent	The question in this case is whether a tax imposed on the profits of a company is allowable as deduction in computing the total income of the company.
+Precedent	The subject-matter of the tax is profits.
+Precedent	Whatever profit s the company has made are being brought to the charge of surtax.
+Precedent	The tax will be calculated according to the amount of profits that the assessee has earned.
+RatioOfTheDecision	It is very difficult to see how the tax proposed to be levied on the profits can be deducted from the profits on expenditure wholly and exclusively laid out for business.
+RatioOfTheDecision	Without an express provision to that effect there is no scope for deducting the estimated amount of surtax from the profits for the purpose of arriving at the taxable income.
+RatioOfTheDecision	72.
+RatioOfTheDecision	In the case of <CITATION_384183> .
+Argument	, the question before <ORG> was whether law charges incurred in connection with the proceedings before <ORG> were not allowable deduction in the computation of the profits of the business under Section 10(1) and under Section 10(2)(xv) of the Indian I.T.
+Argument	Act, 1922.
+Argument	<ORG> pointed out that the ultimate object of the investigation that was being conducted was collection of material showing evasion of tax so that the avoided i ncome could be subjected to taxation and penalties imposed for evasion.
+Argument	The assessee had engaged lawyers and had incurred expenses in conducting proceedings before the Commissioner and also in courts where the vires of the Investigation Commission Act was challenged.
+Precedent	<ORG> in that case relied on the views of Viscount <NAME> and Lord <NAME> in the case of <ORG>, v. <NAME>  30 TC 267 ;  17 ITR (Suppl.)
+Precedent	1 (HL), in preference to the majority decision.
+Precedent	The majority view in that case was that expenses incurred in filing an appeal against the decision of <ORG> was not an allowable deduction for income-tax and excess profits tax purposes.
+Precedent	<ORG> pointed out at p. 171 of 82 ITR as follows:  "The essential test which has to be applied is whether the expenses were incurred for the preservation and protection of the assessee's business from any such process or proceedings which might have resulted in the reduction of its income and profits and whet her the same were actually and honestly incurred.
+RatioOfTheDecision	It is not possible to understand how the expenditure on the proceedings in respect of <ORG> by the assessee will not fall within the above rule.
+RatioOfTheDecision	Even otherwise, the expenditure was incidental to the business and was necessitated or justified by commercial expediency.
+RatioOfTheDecision	It must be remembered that the earning of profits and the payment of taxes are not isolated and independent activities of a business.
+RatioOfTheDecision	These activities are continuous and take place from year to year during the whole period for which the business continues.
+Precedent	'If the assessee takes any steps for reducing its liability to tax which result in more funds being left for the purpose of carrying on the business there is always a possibility of higher profits... As was observed by Viscount <NAME> in <NAME>'s Potato Estates case [1948] 30 TC 267; [1949] 17 ITR (Suppl.)
+RatioOfTheDecision	1 (HL), if the trader considers that the revenue seeks to take too large a share and to leave him with too little the ex penditure which the trader incurred in endeavouring to correct this mistake is a disbursement laid out for the purposes of his trade.
+RatioOfTheDecision	If he succeeds he will have more money with which to earn profits next year."
+RatioOfTheDecision	73.
+RatioOfTheDecision	But the problem in this case is quite different.
+RatioOfTheDecision	Law charges incurred has been justified as business expenditure on the ground of protection and preservation of assets and also on the ground that a businessman will legitimately try to get a larger share of the profit by reducing his tax liability.
+RatioOfTheDecision	The assessee stands to gain by reduction of the burden of tax.
+RatioOfTheDecision	Costs, charges and expenses for the purpose of reducing or avoiding liability for payment of income-tax or surtax may well be expenditure wholly and exclusively incurred for the purpose of business.
+RatioOfTheDecision	But the tax imposed on the, total income of an assessee cannot be allowed on that ground as a business expenditure in the computation of total income.
+RatioOfTheDecision	How can the tax that is sought to be imposed on income be a deduction from the very income whic h is being subjected to tax ?
+RatioOfTheDecision	The tax imposed by the C. (P.) S. T. Act is essentially of the same character as income-tax or excess profits tax.
+RatioOfTheDecision	Liability to pay this tax depends upon whether profits are made or not.
+RatioOfTheDecision	It is a. tax which can only be measured and the liability to which can be ascertained only after the total income of the company has been finally determined and the income-tax payable thereon has been computed and deducted.
+RatioOfTheDecision	To use the language of Lord <NAME> it is a super income-tax.
+RatioOfTheDecision	In our opinion, having regard to the nature of the tax and the scheme of the Surtax Act , the liability to pay surtax cannot be allowed as a deduction from the total income of the assessee as expenditure wholly and exclusively laid out for the purpose of its business.
+Precedent	74.
+Precedent	We, therefore, answer the question that has been referred in the affirmative and against the assessee.
+Precedent	75.
+RulingByPresentCourt	The parties will pay and bear their own costs.
+RulingByPresentCourt	<NAME>, <NAME>I agree.

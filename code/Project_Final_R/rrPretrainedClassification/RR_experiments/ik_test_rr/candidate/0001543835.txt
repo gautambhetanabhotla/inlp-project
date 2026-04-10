@@ -1,0 +1,90 @@
+Fact	ORDER  1.
+Fact	This is a revision petition referred to us for disposal under Sub-section (1) of Section 8 of the Mysore High Court Act, 1961 by <NAME> It is necessary to state the relevant facts leading to the reference.
+Fact	The petitioners <NAME> and <NAME> are the parents of a child which died as a result of an accident caused by a motor vehicle at Davangere on 24-7-1963.
+Fact	They filed the suit O. S. 9/65 in the Court of the Civil Judge, Chitradurga, on 24-4-1965 against the owner of the vehicle, first defendant, and the Insurance Company which had insured the motor vehicle, defen-dant-2, for recovery of Rs.
+Fact	10,000/- being the loss of future pecuniary benefit and Rs.
+Fact	5,000/- towards the expectation of life, mental agony and loss of society.
+Fact	2.
+Fact	The State Government, in exercise of the powers conferred by Section 110 of the Motor Vehicles Act, under a Notification No.
+Argument	H. D. 228 MVA 57 dated 28th June, 1963 and published in <ORG> on the same day, constituted the District Judges of variou s districts mentioned therein as Motor Accidents Claims <ORG>s for the areas within their Jurisdiction with effect from 1st July 1963.
+Argument	Since there was no separate District Judge for Chitradurga District, the District Judge of Shimoga was constituted as the <ORG> for Chitradurga District in which Davangere is situated.
+Argument	3.
+Argument	Since on the date of the accident a <ORG> under Section 110 of the Motor Vehicles Act, hereinafter referred to as the Act, had been constituted for the area in question, the Civil Judge held that the jurisdiction of his <ORG> as a Civil <ORG> has been ousted by Section 110-F of the Act.
+Argument	He therefore ordered return of the plaint for presentation to proper <ORG>.
+Argument	Against the said order the petitioners appealed to the District Judge of Chitradurga in 1966 by which time a separate District Judge had been appointed for Chitradurga District The District Judge of Chitradurga was also the Claims <ORG> under Section 110 of the Act by the time he came to hear the appeal, under the Notifica tion No.
+RulingByLowerCourt	HD 565 TMA 65 dated 28th October, 1965.
+RulingByLowerCourt	The District Judge confirmed the order of the trial Court and dismissed the appeal.
+Fact	Against that order the petitioners filed the present Civil Revision Petition.
+Fact	4.
+Fact	If the claim for compensation made in the suit was a claim which is covered by Section 110 of the Act, and can be made to <ORG> which had exclusive jurisdiction to decide the claim, the jurisdiction of <ORG> is excluded by Section 110-F of the Act.
+Argument	5.
+Argument	The petitioners contend that at any rate, so far as the first petitioner, the <NAME> of the child is concerned, his right to compensation conferred by the Fatal Accidents Act (Central Act 13 of 1855) is not a right, the adjudication of which has been taken away from the jurisdiction of <ORG> and placed within the exclusive jurisdiction of <ORG>.
+Argument	The argument in support of this contention is that whereas Section 110-A of the Act enables only the legal representative of the deceased to make an application  for compensation to <ORG> the right conferred by Section 1-A of the Fatal Accidents Act is capable of being sued upon by a person who may not be the legal representative but nevertheless comes within the description of "representative of the person deceased" contained in the 2nd paragraph of Section 1-A of the Fatal Accidents Act.
+Argument	If is further contended that the word "representative" has a different meaning from the expression "legal representative" mentioned In Section 110-A of the Act.
+Argument	6.
+Argument	The first contention urged on behalf of the petitioners is that the suit filed by the petitioners is one for recovery of damages and not for compensation and therefore the suit claim is not barred under Section 110-F .
+Argument	The argument of the petitioner's learned counsel was that under Section 110(1) of the Motor Vehicles Act, the Jurisdiction of the Motor Accidents Claims Tribunal for the area is restricted to claims for compensation in respect of accidents involving death or bodily injury arising out of the  use of motor vehicles and that under Section 110-F , the jurisdiction of <ORG> is barred in respect of any claim for compensation which may be adjudicated upon by <ORG> for the area.
+Precedent	The first question, therefore, is whether a claim for compensation includes a claim for damages.
+Precedent	7.
+Precedent	In Md.
+Argument	<NAME> v. <NAME>, AIR 1923 Cal 507 it was observed that the term "compensation" as stated in <ORG>, signifies that which is given in recompense, an equivalent rendered, and that damages, on the other hand, constitute the sum of money claimed or adjudged to be paid in compensation for loss or injury sustained; the value estimated in money, of something lost or withheld.
+Argument	The term "compensation" etymologically suggests the image of balancing one tiling against an-, other; its primary signification is equivalence, and the secondary and more common meaning is something given or obtained as an equivalent.
+Argument	Thus, it is clear that the word "compensation" is a more comprehensive  term and the claim for compensation includes a claim for damages and hence, the petitioners could have put forward their suit claim before <ORG>.
+Argument	8.
+Statute	Under Section 110-A (1) (b) of the Act, an application for compensation arising out of an accident involving the death of a person arising out of the use of motor vehicles may be made by the legal representatives of the deceased.
+Statute	Under Clause (2) of Rule 342 of the Mysore Motor Vehicles Rules, 1963, it is provided that the term "legal representative shall have the meaning assigned to it under Clause (11) of Section 2 of the Code of Civil Procedure, 1908.
+Statute	In Section 2 Clause (11) of the Code of Civil Procedure the term "legal representative" as a person who in law represents the estate of a deceased person, and includes any person who intermeddles with the estate of the deceased and where a party sues or is sued in a representative character the person on whom the estate devolves on the death of the party so suing or sued.
+Argument	Hence it i s urged on behalf of the petitioners that so far as the claim put forward by the <NAME> is concerned, it could not be adjudicated upon by the Claims Tribunal constituted under the Act, and that therefore, the jurisdiction of <ORG> to entertain the claim is not barred.
+Statute	Under Section 1-A of the Indian Fatal Accidents Act (Central Act 13 of 1855) an action or a suit for damages in respect of the death of a person caused by wrongful act, neglect or default, of another person shall be for the benefit of the wife, <NAME>, parent and child if any, of the person whose death shall have been so caused, and "shall be brought by and in the name of the executor, administrator or representative of the person deceased".
+Statute	It is further provided that the <ORG> may give such damages as it may think proportioned to the loss resulting from such death to the parties respectively, for whom and for whose benefit such action shall be brought.
+Precedent	Section 2 of the same Act provides that not more than one suit or action shall b e brought for and in respect of the same subject matter of complaint, and the proviso to that section provides that in every such action or suit, the executor, administrator or representative of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum, when recovered, shall be deemed part of the assets of the estate of the deceased.
+Precedent	The Legal Representatives' Suits Act , 1855 (Act 12 of 1855) provides that an action may be maintained by the executors, administrators, or representatives of any person deceased, for any wrong committed in the lifetime of such person, which has occasioned pecuniary loss to his estate, for which wrong an action might have been maintained by such person.
+Precedent	Both Act 12 of 1855 and Act 13 of 1855 were passed on the same day.
+Precedent	The precise nature of the right conferred by Act 33 of 1855 was considered in <CITATION_45190> , (1905) ILR 28 Cal 479.
+Precedent	It was held that as the preamble of the A ct 13 of 1855 itself indicated the relations of another were not, prior to its enactment, entitled to claim compensation on account of the death, and that the right to claim compensation in respect of such a death was created by the said Act.
+Precedent	It was contended in that case that in the case of Europeans and Eurasians, the only 'representative' of a deceased man is his executor or administrator, and that in the said Act the word "representative" has no application to Europeans and Eurasians, but is used only with respect to Hindus and Mohammadans.
+Precedent	It was held that the word 'representative' is not equivalent to 'heirs' since by Act 12 of 1855 passed on the same day, the right is given to bring a suit against "heirs or representatives" of the deceased wrong-doer.
+Precedent	It was held that the word "representative' means and includes all or any one of the persons for whose benefit a suit under the Act can be maintained, and that these persons are the representatives of the deceased, in the sense, that they are the persons t aking the place of the deceased in obtaining reparation for the wrong done.
+Precedent	It was further held that where there is no executor or administrator or where there is one, and he fails or is unwilling to sue, then the suit may be instituted by, and in the name of, the representative of the person deceased, but one suit only is allowed to enforce the claims of all the persons beneficially entitled, -- it being provided that the rights of each and every one of them shall be adjudged and adjusted by the Court in such suit.
+Precedent	The right of each beneficiary is only to receive compensation in proportion to the loss occasioned to him by the death of his deceased relative.
+Precedent	The beneficiaries entitled to compensation under Act 13 of 1855 are not persons entitled to claim compensation jointly, but are parties entitled to relief severally, in respect of the same cause of action which is enforceable at the suit of all or any of them suing for himself and the rest.
+Precedent	8-A.
+Precedent	The Indian Fatal Accidents Act 13 of 1855 was enacted on th e same lines as the English Fatal Accidents Act , 1846.
+Precedent	Under Section 2 of the English Act, it is provided that the action shall be for the benefit of the wife, <NAME>, parent and child of the person whose death shall have been caused and shall be brought by and in the name of the executor or administrator of the person deceased.
+Precedent	Thus, it is only the executor or administrator of the deceased who could bring an action under the English Act .
+Precedent	The English Act was amended by Fatal Accidents Act , 1864, which provided that in case there is no executor or administrator of the deceased or where there is an executor or administrator, no action is brought by him within the time prescribed, then such an action may be brought by and in the name or names of any of the persons for whose benefit such action could have been brought by the executor or administrator, and that every action so brought shall bo for the benefit of the said person or persons.
+Precedent	Thus, it enables an action to be brought by the persons beneficially in terested under the Act.
+Precedent	9.
+Precedent	It has been observed in Palani Ammal v. The Safe Service Ltd., 1966 Acc CJ 19 (Mad), a decision of <ORG>, that Section 110 of the Motor Vehicles Act provides a speedier remedy, obviously conceived as a better one from the point of view of the injured person or his unfortunate dependants.
+Precedent	No new right or even a now remedy has been created by that provision; the forum alone is changed.
+Precedent	The right to claim damages by the legal representatives of a deceased in respect of an accident, where the latter met with his death, was actionable under the pre-existing law, in <ORG>.
+Precedent	The effect of the new provision is to create a new forum thus taking away the jurisdiction of the ordinary <ORG>.
+Precedent	The aggrieved person has, as before, a remedy for damages in respect of the injury.
+Precedent	The forum alone is changed.
+Precedent	The period of limitation has also been curtailed but those two are matters of procedure.
+Precedent	<CITATION_1860221> , AIR 1934 Cal 665 it was held that tho word 'representa tive" has a special meaning of its own.
+Precedent	It has not the same meaning as legal representative" in the Civil Procedure Code.
+Precedent	The intention was that in the absence of an executor or administrator any one or more of the persons for whose benefit the right of action is given shall be deemed to be a "representative" of the deceased for the purpose o£ maintaining a suit under the Act.
+Precedent	It could not have been intended that in such a case where there is no executor or administrator, the persons for whose benefit the right of action was given should be without a remedy.
+Precedent	Consequently, a widow of a deceased European or Eurasian was held entitled to maintain a suit under the Fatal Accidents Act .
+Precedent	The decisions in (1905) ILR 28 Mad 479 and AIR 1934 Cal 665 were followed in <NAME> v. <NAME>, AIR 1935 Bom 333 wherein it was held that the suit brought by the widow, sons and daughters of a deceased Parsee under the Fatal Accidents Act was maintainable.
+Precedent	<CITATION_310890> ., AIR 1947 Cal 195, it was held, following the view of  the Madras and Calcuta High Courts, that the word "representative" in the Fatal Accidents Act means not the legal representative of the deceased but the wife, <NAME>, parent and children of the deceased, and that any one of them can also bring the suit for the benefit of the others.
+Precedent	<CITATION_1937010> , it was held that the claim preferred by the married sister of the deceased who died a bachelor, is maintainable under Section 110 (1) of the Act on the ground that Section 110-F provided for the foundation of a claim by any legal representative of the victim of the accident.
+Precedent	The contention that such a claim be preferred only by the wife, child or parents who are the persons mentioned in the Fatal Accidents Act , was negatived.
+Precedent	It has been held in <CITATION_1596095> , (1966) 1 Mys LJ 576 = (AIR 1967 Mys 11) that a claim for compensation can be made under Section 110-A of the Act not only against the owner of the motor vehicle and the Insurer, but also against the driver whose negligence produces the claim for  compensation.
+Precedent	In Re: <NAME>'s Trust, (1854) 23 LJ Ch 625 it has been held that the word "legal" when added to "representative" only means the representatives reorganised by law and does not designate different persons from those who would be intended by the single word "representatives", any more than the term 'legal heirs" describes different persons from those who would be designated by the single word "heirs".
+RatioOfTheDecision	10.
+RatioOfTheDecision	After the Motor Vehicles Act was amended by incorporating Sections 110 to 110-F , it is only the forum which has been changed in order to provide for a speedier remedy.
+RatioOfTheDecision	In our Judgment, the term "legal representative" in Section 110-A includes the persons referred to as "representatives" in Section 1-A of the Fatal Accidents Act, namely, the wife, <NAME>, parent or child of the deceased.
+RatioOfTheDecision	Since both the petitioners come within the meaning of "parent" they could have made their claim before <ORG>.
+RatioOfTheDecision	In that view, <ORG> jurisdiction to entertain the suit is clearly barre d. The Courts below were right in returning the plaint for presentation before the proper forum.
+Precedent	11.
+Precedent	Since we have held that the term "legal representative" used in Section 110-A of the Act cannot have the same meaning as that attributed to it under Section 2(11) of the Code of Civil Procedure the right that could be exercised under Section 110-A of the Act cannot be confined to persons who come within the term "legal representative" as defined under Section 2(11) of the Civil Procedure Code only.
+Precedent	The right of representatives of the deceased who do not come under the definition of the term "legal representatives" as defined in the Code of Civil Procedure to put forward a claim under Section 110-A of the Act cannot be taken away by means of a rule framed under the Rule-making power conferred by Section 111-A of the Act.
+Precedent	The power to make rules under Section 111-A is given to <ORG> only for the purpose of carrying into effect the provisions of Section 110-A of the Act, and while acting for that  purpose, <ORG> cannot restrict the right given under Section 110-A of the Act to only some of the persons contemplated under that Section.
+Precedent	Hence, Clause (2) of Rule 342 is beyond the Rule-making power of <ORG> and is therefore invalid.
+Precedent	12.
+RulingByPresentCourt	The revision petition is therefore, dismissed.
+RulingByPresentCourt	But in the circumstances of the case there will be no order as to costs.
+RulingByPresentCourt	13.
+RulingByPresentCourt	Petition dismissed.

@@ -1,0 +1,25 @@
+Fact	JUDGMENT  1.
+Fact	This is a defendant's appeal arising out of a suit brought by rival pre-emptors for a division of property with the contesting defendant.
+Fact	On the 9th August 1923, certain vendors sold the property to certain vendees.
+Fact	<NAME>, the contesting defendant brought a suit for pre-emption against the vendees and obtained a decree on the 14th March 1924.
+Fact	He obtained possession under the said decree.
+Fact	The present plaintiffs, who are eight in number, brought the present suit on the 19th July 1924, for a share in the property so pre-empted.
+Fact	The defendant contested that, inasmuch as he was a co-sharer and had acquired the property prior to the present suit, Section 20 was a bar to the plaintiffs' claim.
+Fact	<ORG> instance acceded to this contention and dismissed the suit, but the lower appellate Court has come to a contrary conclusion.
+RulingByLowerCourt	2.
+RulingByLowerCourt	It cannot be doubted that before the passing of the Agra Pre-emption Act the mere fact that a rival pre-emptor had obtained a decree for pre-emption did not preve nt other rival pre-emptors from claiming a share in the property as against him, provided their suit was instituted within one year from the sale.
+RulingByLowerCourt	In the case of <CITATION_1299758>  32 All.
+Argument	340, it was pointed out that a right of pre-emption was not a right of repurchase but a right of substitution for the original vendee, and that under the decrees in favour of the rival pre-emptors there has not been any fresh transfer in their favour, but they have been put in the places of the original vendees.
+Argument	3.
+RatioOfTheDecision	In our opinion that law has in no way been altered by the new Act.
+RatioOfTheDecision	Section 4, Sub-clause (9) embodies the principle that the right of pre-emption is not a right of transfer but a right of substitution.
+RatioOfTheDecision	Under Section 13, when two or more persons claiming pre-emption are equally entitled, the property shall be equally divided between them, each paying an equal share of the consideration for the transfer.
+RatioOfTheDecision	It matters little who comes to Court first, provided that they all come within the period of limitation.
+RatioOfTheDecision	Secti on 20 of the Act cannot apply to the case where one rival pre-emptor has obtained a decree for pre-emption first.
+RatioOfTheDecision	The expression where the purchaser has transferred the property in dispute to a person having a right of pre-emption, etc.
+RatioOfTheDecision	cannot cover the case of a pre-emptor obtaining a decree for pre-emption for, as pointed out by us, that is not a case of a transfer by the vendee to the pre-emptor, In our opinion, therefore, the view taken by the learned District Judge was correct and the present plaintiffs are entitled to their proportionate share in the preempted property.
+RatioOfTheDecision	4.
+Fact	<NAME> was one of the claimants.
+Fact	The present plaintiffs, who are eight in number are also claimants.
+Fact	These latter are, therefore, entitled to eight-ninths of the property sold under the deed of 9th August 1923, on payment of eight-ninths of the sale consideration.
+Fact	The appeal is accordingly dismissed with costs including in this Court fees on the higher scale

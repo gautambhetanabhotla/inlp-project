@@ -1,0 +1,68 @@
+RulingByLowerCourt	ORDER  1.
+Fact	This appeal is directed against an order of the Subordinate Judge of Birbhum holding the decree sought to be executed by the Appellant incapable of execution and dismissing his application for execution.
+Fact	In 1910 Appellant obtained the mortgage decree which he is now seeking to execute in the Court of the Subordinate Judge of Birbhum in respect of properties, some of which were in the District of Birbhum and some in the Santhal Parganas.
+Fact	In this execution case the judgment-debtors have taken exception to the execution on the ground that when the decree was passed, some of the mortgaged properties situated in the Santhal Parganas were under settlement, and so under Section 2 of Act 37 of 1855 <ORG> had no jurisdiction to pass the decree; the decree having thus been passed without jurisdiction is void and incapable of execution.
+Fact	The Court below has found that one of the Santhal Parganas properties <NAME> was under settlement when the decree was passed and held, under the provisions  of the Act above referred to and on the authority of the decision of <ORG> in <CITATION_19590> A.I.R.
+Fact	1914 P.C.
+Argument	140, that <ORG> had no jurisdiction to try the suit and pass the decree which is accordingly void and incapable of execution.
+Argument	In this view the learned Subordinate Judge has dismissed the execution case.
+Argument	The finding of fact recorded by the <ORG> below has not been disputed before us by the Appellant but the order of the <ORG> below has been assailed on two grounds:-(1) that the <ORG> below as executing <ORG> could not go behind the decree and test its validity but was bound to execute it even though it was passed without jurisdiction; (2) that the <ORG> below is wrong in holding that the whole decree was bad and it should have executed so much of it as was valid in respect of the <NAME> properties.
+Argument	2.
+Argument	The second contention may be shortly disposed of as untenable in view of the decision of <ORG> in <CITATION_19590> A.I.R.
+Argument	1914 P.C.
+Argument	1 40.
+Argument	3.
+Argument	On the first point there is no unanimity of opinion and we find it difficult to reconcile some of the decisions of this Court In <NAME> v. <NAME> [1878] 3 C.L.R.
+Fact	192 and <NAME> v. <NAME> [1912] 17 C.L.J.
+Fact	634, the objection that the decree was void and incapable of execution was permitted to be raised and allowed in the execution of the decree.
+Fact	A contrary view was taken in Biswanath Prosad Mahata v. <NAME> Pandey [1911] 14 C.L.J.
+Fact	648 and in <NAME> v. <NAME> [1916] 44 Cal.
+Fact	627, where it has been laid down that an execution Court cannot question the validity of the decree and refuse execution though the decree was a nullity and passed without jurisdiction.
+Fact	<CITATION_1755633> A.I.R.
+Fact	1928 Cal.
+Fact	619, <NAME>, J., who was a party to the decisions in Biswanath v. <NAME>  14 C.L.J.
+Fact	648 and <CITATION_746780>  44 Cal.
+Argument	627, enunciates the proposition of law that when a decree is void and a nullity it is not only the duty of the Court which passed it to i gnore it but of every <ORG> to which it is presented.
+Argument	Though the case in which this observation was made did not arise in execution, it is wide enough to cover a case like the present and is in conflict with the view expressed by the same learned Judge in the two previous cases above cited.
+Argument	This question has been recently considered by <ORG> of <ORG> in <CITATION_1825049>  4 P.L.J.
+Argument	240, where as a review of the conflicting authorities it has been held that an execution <ORG> can only execute a valid decree, and a void decree ought to be disregarded without any formal proceedings to set it aside.
+Argument	The same view has been taken in other <ORG>.
+Precedent	<CITATION_929444>  17 All.
+Precedent	478, Hazi Musa v. Purmanand  15 Bom.
+Precedent	216 and M. Subramania v. <NAME>  38 Mad.
+Precedent	682.
+Precedent	4.
+Precedent	As it is a matter of general importance and the view taken by this <ORG> in the cases of <NAME> v. <NAME> [1911] 14 C.L.J.
+Precedent	648 and <CITATION_746780>  44 Cal.
+RatioOfTheDecision	627 is not only in conflict with that accepted by the other High  <ORG>s but also with the decisions in other cases of this <ORG> to which we have referred, we are of opinion that the present state of the authorities being embarrassing to the lower <ORG>s the law on the point should be settled by <ORG>.
+RatioOfTheDecision	5.
+RatioOfTheDecision	We accordingly submits the following question for the decision of <ORG>:  Where a decree having been passed by a <ORG> having no jurisdiction to pass it is void and a nullity, is the execution <ORG> competent to question its validity and refuse to execute it?
+RatioOfTheDecision	As the point has arisen in a second appeal the whole case is submitted to <ORG> for decision.
+Precedent	<NAME>, J.
+Argument	6.
+Argument	This Reference is made in a first appeal from an order.
+RatioOfTheDecision	The necessary facts are given in the Order of Reference and need not be repeated.
+RatioOfTheDecision	7.
+RatioOfTheDecision	The question propounded is in these words: "Where a decree, having been passed by a <ORG> having no jurisdiction to pass it, is void, and a nullity, is the execution <ORG> competent to question its validity and refuse to execute it?"
+RatioOfTheDecision	8.
+RatioOfTheDecision	The  learned Judges who made the Reference are satisfied that the decree under consideration was made by a <ORG> that had no jurisdiction to make it, and that in consequence it is void and a nullity.
+RatioOfTheDecision	It is not open to us therefore to consider any of the questions involved in those findings.
+RatioOfTheDecision	We have to start by accepting the proposition that the <ORG> that made the decree had no jurisdiction to make it, and by that expression is meant that the <ORG> had not such territorial jurisdiction as would authorize it to make the decree, and not that having jurisdiction it exercised it erroneously.
+RatioOfTheDecision	This distinction is of great importance, for with all respect I venture to think that the apparent conflict in reported cases is largely due to failure to keep this distinction clearly in view.
+RatioOfTheDecision	It would be tedious to examine the numerous decisions, in detail, and it would not lead to any useful result.
+RatioOfTheDecision	I think, it may be said that the correct view, and the view for which there is a strong cur-rent of authority, is that where the d ecree presented for execution was made by a <ORG> which apparently had not jurisdiction, whether pecuniary or territorial or in respect of the judgment-debtor's person to make the decree, the executing <ORG> is entitled to refuse to execute it on the ground that it was made without jurisdiction; within these narrow limits, I think that the executing <ORG> is authorised to question the validity of a decree.
+RatioOfTheDecision	9.
+RulingByPresentCourt	As the question arises in a first appeal, we must return the case for final adjudication by the <ORG> which referred it, with the statement that our answer to the question propounded is in the affirmative.
+RulingByPresentCourt	<NAME>, J.
+RatioOfTheDecision	10.
+RatioOfTheDecision	I agree.
+Precedent	<NAME>, J.
+Precedent	11.
+Precedent	I agree.
+Precedent	B.B.
+Precedent	<NAME>, J.
+Precedent	12.
+Precedent	I agree.
+Precedent	<NAME>, J.
+Precedent	13.
+RulingByPresentCourt	I agree.
